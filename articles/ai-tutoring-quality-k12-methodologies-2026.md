@@ -3,12 +3,13 @@ title: "Methodologies for Improving the Quality of AI Tutoring in K-12 Education
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-tutoring, intelligent-tutoring, k-12, llm, personalized-learning, efficacy-study, engagement-metrics, edtech-platform]
+tags: [intelligent-tutoring, intelligent-tutoring, k-12, llm, personalized-learning, efficacy-study, engagement-metrics, edtech-platform]
+
 sources: ['raw/papers/2608.11259.md']
 confidence: high
 ---
 
-> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[ai-tutoring]], [[intelligent-tutoring]], and [[research-methods-aied]] literatures.
+> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], and [[research-methods-aied]] literatures.
 
 ## Evaluation as the Engine of Improvement
 
@@ -20,11 +21,11 @@ The paper describes the metrics used to measure AI tutoring quality and student 
 
 ## Position
 
-This practitioner account from a major edtech platform grounds the [[ai-tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[research-methods-aied]] research.
+This practitioner account from a major edtech platform grounds the [[intelligent-tutoring|AI Tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[research-methods-aied]] research.
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[k-12]]
 - [[llm]]

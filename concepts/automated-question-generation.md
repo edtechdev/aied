@@ -50,7 +50,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[generative-ai]]
 - [[educational-nlp]]
 - [[automated-assessment]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[assessment]]
 - [[formative-assessment]]

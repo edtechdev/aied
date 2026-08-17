@@ -3,7 +3,8 @@ title: "From Answer Generators to Reasoning Facilitators: Designing AI Tutors fo
 created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, llm, scaffolding, formative-assessment, higher-ed, automated-grading, learning-analytics, ai-literacy, k-12]
+tags: [intelligent-tutoring, llm, scaffolding, formative-assessment, higher-ed, automated-assessment, learning-analytics, ai-literacy, k-12]
+
 sources: ['raw/papers/2607.01692.md']
 confidence: high
 ---
@@ -24,7 +25,7 @@ The study contributes a broader framework for educational AI called the **Reason
 
 ## Implications for AI in Education
 
-The findings push back on the assumption that withholding answers is always the right tutoring strategy: in time-pressured settings, the final answer can help students decide whether to invest effort in self-explanation, error search, or full solution reading. The design question is how to make answer access an entry point into reasoning rather than an endpoint — a principle that generalizes beyond high-stakes exam preparation to [[scaffolding]]-oriented [[ai-tutoring]] design more broadly.
+The findings push back on the assumption that withholding answers is always the right tutoring strategy: in time-pressured settings, the final answer can help students decide whether to invest effort in self-explanation, error search, or full solution reading. The design question is how to make answer access an entry point into reasoning rather than an endpoint — a principle that generalizes beyond high-stakes exam preparation to [[scaffolding]]-oriented [[intelligent-tutoring|AI Tutoring]] design more broadly.
 
 ## Connected Concepts
 
@@ -34,7 +35,7 @@ The findings push back on the assumption that withholding answers is always the 
 - [[student-experience]]
 - [[higher-ed]]
 - [[math-education]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[socratic-method]]
 - [[metacognition]]
 - [[k-12]]

@@ -3,7 +3,8 @@ title: "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Gen
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, generative-ai, automated-grading, assessment, writing-education, ai-literacy-assessment-misalignment, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]
+tags: [llm, generative-ai, automated-assessment, assessment, writing-education, ai-literacy-assessment-misalignment, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]
+
 sources: ['raw/papers/2606.18257.md']
 confidence: high
 ---
@@ -28,7 +29,6 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 - [[generative-ai]]
 - [[cognitive-diagnosis]]
 - [[critical-thinking]]
-- [[cognitive-load-theory]]
 - [[ai-literacy]]
 
 ## Connected Articles

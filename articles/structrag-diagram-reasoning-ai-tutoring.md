@@ -3,7 +3,8 @@ title: "Advancing diagram-based reasoning in AI tutoring systems: a structural a
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-grading, feedback-loop, scaffolding, ai-tutoring, rag]
+tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-assessment, feedback, scaffolding, intelligent-tutoring, rag]
+
 sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']
 confidence: high
 ---
@@ -35,13 +36,13 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 ## Connected Concepts
 
 - [[socratic-method]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[pedagogical-agent]]
 - [[open-source]]
 - [[stem-education]]
 - [[knowledge-graph]]
 - [[rag]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[scaffolding]]
 
 ## Connected Articles

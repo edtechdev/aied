@@ -20,13 +20,13 @@ Key findings from the wiki:
 
 ### Measuring what matters
 
-Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[over-reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses.
+Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses.
 
 ## Connected Concepts
 
 - [[rct]]
 - [[formative-assessment]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[math-education]]
 - [[human-in-the-loop-ai]]

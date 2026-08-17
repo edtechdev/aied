@@ -3,7 +3,8 @@ title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Pati
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, llm, higher-ed, active-learning, feedback-loop, adaptive-virtual-patient-psychotherapy-training, professional-training]
+tags: [generative-ai, llm, higher-ed, active-learning, feedback, adaptive-virtual-patient-psychotherapy-training, professional-training]
+
 sources: ['raw/papers/2606.17786.md']
 confidence: high
 ---
@@ -16,10 +17,10 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[simulation]]
 - [[professional-training]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[formative-assessment]]
 - [[affective-tutoring]]
 

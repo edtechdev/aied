@@ -37,7 +37,7 @@ For [[intelligent-tutoring]] and [[adaptive-learning]] systems, explainable pred
 - [[adaptive-learning]]
 - [[learning-analytics]]
 - [[formative-assessment]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]

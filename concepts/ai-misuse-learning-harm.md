@@ -3,7 +3,8 @@ title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
-tags: [over-reliance, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
+tags: [cognitive-offloading, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
+
 confidence: high
 ---
 
@@ -20,7 +21,7 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 - **Cognitive surrender** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading]]. It produces a measurable population-level decline in durable knowledge.
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When engagement analysis shows students mostly "ask for the answer," learning harm follows.
 - **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per [[self-determination-theory|self-determination theory]]. Because persistence is what produces deep learning, its erosion compounds the direct harm.
-- **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[over-reliance]].
+- **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[cognitive-offloading|Over-Reliance]].
 
 ### The evidence base
 
@@ -40,7 +41,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]

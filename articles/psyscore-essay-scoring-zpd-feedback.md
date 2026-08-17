@@ -3,7 +3,8 @@ title: "PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Sc
 created: "2026-06-19T04:33:04-04:00"
 updated: "2026-08-14"
 type: article
-tags: [automated-grading, formative-assessment, feedback-loop, writing-education, scaffolding, llm, confidence-aware-ai-assessment]
+tags: [automated-assessment, formative-assessment, feedback, writing-education, scaffolding, llm, automated-assessment]
+
 sources: ['raw/papers/2606.20287.md']
 confidence: high
 ---
@@ -20,7 +21,7 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 ## Connected Concepts
 - [[automated-assessment]]
 - [[assessment-validity]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[writing-education]]
 - [[scaffolding]]

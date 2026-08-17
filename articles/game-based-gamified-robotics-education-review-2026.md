@@ -3,7 +3,8 @@ title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Rev
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, game-based-learning, gamification, systematic-review, computational-thinking, k-12, higher-ed, programming-education]
+tags: [educational-robotics, game-based-learning, game-based-learning, systematic-review, computational-thinking, k-12, higher-ed, programming-education]
+
 sources: ['raw/papers/mubarrat-game-based-gamified-robotics-review-2026.md']
 confidence: high
 ---
@@ -24,7 +25,7 @@ This is a **PRISMA-aligned systematic literature review** with a comparative syn
 
 ## Implications for AI in Education
 
-The review provides evidence-based guidance for using [[game-based-learning]] and [[gamification]] in [[educational-robotics]]. It shows that GBL suits informal settings while gamification works well in formal classrooms and supports [[project-based-learning]], helping educators choose the right engagement strategy for their context. It connects to [[computational-thinking]], [[programming-education]], and both [[k-12]] and [[higher-ed]] robotics teaching, and highlights that robotics education emphasizes introductory programming and modular kits, with room for more advanced software adoption.
+The review provides evidence-based guidance for using [[game-based-learning]] and [[game-based-learning|Gamification]] in [[educational-robotics]]. It shows that GBL suits informal settings while gamification works well in formal classrooms and supports [[project-based-learning]], helping educators choose the right engagement strategy for their context. It connects to [[computational-thinking]], [[programming-education]], and both [[k-12]] and [[higher-ed]] robotics teaching, and highlights that robotics education emphasizes introductory programming and modular kits, with room for more advanced software adoption.
 
 ## Limitations
 
@@ -34,7 +35,7 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 
 - [[educational-robotics]]
 - [[game-based-learning]]
-- [[gamification]]
+- [[game-based-learning]]
 - [[project-based-learning]]
 - [[computational-thinking]]
 - [[programming-education]]

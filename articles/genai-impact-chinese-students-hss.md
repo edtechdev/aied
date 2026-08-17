@@ -20,7 +20,7 @@ This large-scale survey of humanities and social sciences (HSS) students in Chin
 
 **Academic performance:** A notably larger majority reported academic gains, though these may partly reflect assessment practices ill-equipped to distinguish AI-assisted from independent work — a challenge related to [[academic-integrity]].
 
-**Challenges:** Limited accuracy and [[over-reliance]] emerged as the most pressing concerns. While an overwhelming majority valued ethical considerations, only slightly more than half were satisfied with [[privacy]] protections. Students favored partial or optional GenAI integration into curricula.
+**Challenges:** Limited accuracy and [[cognitive-offloading|Over-Reliance]] emerged as the most pressing concerns. While an overwhelming majority valued ethical considerations, only slightly more than half were satisfied with [[privacy]] protections. Students favored partial or optional GenAI integration into curricula.
 
 ## Implications
 
@@ -32,7 +32,7 @@ The study highlights the need for [[higher-ed]] institutions to develop nuanced 
 - [[assessment]]
 - [[personalized-learning]]
 - [[academic-integrity]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[privacy]]
 - [[higher-ed]]
 - [[faculty-development]]

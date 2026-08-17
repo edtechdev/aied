@@ -20,7 +20,7 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 - [[professional-training]] — formative feedback on teaching practice
 - [[faculty-development]] — improving teaching via automated analytics
 - [[teacher-ai-competency]] — AI-supported reflection on teaching
-- [[feedback-loop]] — analytics feeding back to improve instruction
+- [[feedback]] — analytics feeding back to improve instruction
 - [[student-engagement]] — vocal modulation to foreground key information
 ## Connected Articles
 

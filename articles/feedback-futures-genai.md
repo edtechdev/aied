@@ -3,7 +3,8 @@ title: "Feedback futures: beyond the limits of human and GenAI capacities"
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, feedback-loop, higher-ed, ai-literacy, educational-theory, equity, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
+tags: [generative-ai, feedback, higher-ed, ai-literacy, educational-theory, equity, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
+
 sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']
 confidence: high
 ---
@@ -51,7 +52,7 @@ The editors distill five recurring tensions from the special issue:
 - [[human-in-the-loop-ai]]
 - [[ai-education]]
 - [[generative-ai]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[agency]]
 - [[governance]]
 - [[ai-feedback-quality]]

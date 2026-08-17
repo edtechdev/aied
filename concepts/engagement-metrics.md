@@ -15,7 +15,7 @@ Engagement is a multidimensional construct, and no single metric captures it. Be
 
 - **Motivation and engagement as outcomes:** [[genai-motivation-engagement-2026|GenAI and student motivation research]] models perceived autonomy, competence, relatedness, and value as drivers of [[motivation|student motivation]], which then emerges as the strongest predictor of engagement in generative-AI-supported learning — an [[self-determination-theory|SDT]]-based view where engagement follows need satisfaction.
 
-- **Critical engagement vs. passive use:** [[critical-engagement-code-completion|Measuring critical engagement in AI code completion]] and [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]] show that *how* students engage matters more than how much: critical, generative engagement with AI output predicts learning, whereas passive acceptance predicts the [[over-reliance]] and learning-displacement documented across the wiki.
+- **Critical engagement vs. passive use:** [[critical-engagement-code-completion|Measuring critical engagement in AI code completion]] and [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]] show that *how* students engage matters more than how much: critical, generative engagement with AI output predicts learning, whereas passive acceptance predicts the [[cognitive-offloading|Over-Reliance]] and learning-displacement documented across the wiki.
 
 - **Engagement as a fragile, situation-dependent signal:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find that engagement with AI tutoring varies by context, task, and learner — the same tool produces strong engagement for some students and shallow, output-chasing behavior for others.
 
@@ -29,7 +29,7 @@ The definitional problem is central to AI-education research. A study that measu
 
 ### Connections to related concepts
 
-Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by behavioral telemetry in [[edtech-platform]]s.
+Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by behavioral telemetry in [[edtech-platform]]s.
 
 ## Connected Concepts
 
@@ -39,7 +39,7 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[student-experience]]
 - [[educational-measurement]]
 - [[self-regulated-learning]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[student-modeling]]
 - [[adaptive-learning]]
 - [[research-methods-aied]]

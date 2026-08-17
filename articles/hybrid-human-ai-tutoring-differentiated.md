@@ -26,7 +26,7 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 
 - [[personalized-learning]]
 - [[equity-in-ai-education]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[human-in-the-loop-ai]]
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]

@@ -3,7 +3,8 @@ title: "Flowcode: An AI-Powered Programming Environment for Scaffolding Iteratio
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [scaffolding, generative-ai, feedback-loop, active-learning, programming-its, higher-ed, student-experience, llm, visualization]
+tags: [scaffolding, generative-ai, feedback, active-learning, programming-its, higher-ed, student-experience, llm, visualization]
+
 sources: ['raw/papers/2607.06721.md']
 confidence: high
 ---
@@ -12,13 +13,13 @@ Building upon found examples is a popular way people learn to code, especially i
 
 Flowcode pairs a code-structure flowchart with a learning-oriented (not vibe-coding) chat to help novice creative coders understand and extend found examples; two studies show visualization and productive friction can steer AI use toward learning rather than bypass.
 
-This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feedback-loop]] [[active-learning]] [[student-experience]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feedback|Feedback Loop]] [[active-learning]] [[student-experience]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 
 - [[scaffolding]]
 - [[generative-ai]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[active-learning]]
 - [[student-experience]]
 - [[programming-education]]

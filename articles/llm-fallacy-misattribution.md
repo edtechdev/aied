@@ -3,7 +3,8 @@ title: The LLM Fallacy and Misattribution of Competence
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [metacognition, over-reliance, llm, k-12, higher-ed, academic-integrity, self-regulated-learning, llm-cognitive-diagnosis-handwritten-math, rag, scaffolding]
+tags: [metacognition, cognitive-offloading, llm, k-12, higher-ed, academic-integrity, self-regulated-learning, llm-cognitive-diagnosis-handwritten-math, rag, scaffolding]
+
 sources: ['raw/papers/kim-llm-fallacy-misattribution-2026.md']
 confidence: high
 ---
@@ -75,7 +76,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[scaffolding]]
 - [[transfer-of-learning]] — AI Learning Transfer
 - [[authentic-assessment]] — Authentic Assessment
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 ## Connected Articles
 

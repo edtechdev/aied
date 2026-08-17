@@ -7,7 +7,7 @@ tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding
 confidence: medium
 ---
 
-> Integrating emotional awareness into [[ai-tutoring|AI tutoring]] systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^[[kar-mathbuddy-affective-math-tutoring-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
+> Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^[[kar-mathbuddy-affective-math-tutoring-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
 
 MathBuddy dynamically models student affect using two modalities:
 
@@ -56,7 +56,7 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 - [[student-modeling]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[collaborative-learning]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]

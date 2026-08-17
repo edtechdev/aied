@@ -3,7 +3,8 @@ title: "AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in V
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, over-reliance, ai-misuse-learning-harm, self-regulated-learning, higher-ed, motivation, cognitive-offloading, vocational-education]
+tags: [generative-ai, cognitive-offloading, ai-misuse-learning-harm, self-regulated-learning, higher-ed, motivation, cognitive-offloading, vocational-education]
+
 sources: ['raw/papers/10.3389_fpsyg.2026.1848291.md']
 confidence: high
 ---
@@ -24,7 +25,7 @@ The study collected survey data from 1,264 students at a vocational college in C
 
 ## Implications for AI in Education
 
-The findings caution that heavy reliance on [[generative-ai]] for autonomous learning may come at the cost of learners' psychological resources and their sense of [[ai-misuse-learning-harm|meaningful, self-generated accomplishment]]. For vocational and skills-based education, where competence is built through repeated practice and active problem solving, using AI as a substitute for learning may reduce hardiness and the experience of mastery. The study supports designing AI integration that preserves effortful engagement, independent problem solving, and opportunities to face and overcome challenge, while connecting these concerns to academic burnout and [[over-reliance]]. It positions responsible AI integration as a matter not just of policy and efficiency but of students' academic adaptation and self-evaluation.
+The findings caution that heavy reliance on [[generative-ai]] for autonomous learning may come at the cost of learners' psychological resources and their sense of [[ai-misuse-learning-harm|meaningful, self-generated accomplishment]]. For vocational and skills-based education, where competence is built through repeated practice and active problem solving, using AI as a substitute for learning may reduce hardiness and the experience of mastery. The study supports designing AI integration that preserves effortful engagement, independent problem solving, and opportunities to face and overcome challenge, while connecting these concerns to academic burnout and [[cognitive-offloading|Over-Reliance]]. It positions responsible AI integration as a matter not just of policy and efficiency but of students' academic adaptation and self-evaluation.
 
 ## Limitations
 
@@ -33,7 +34,7 @@ The cross-sectional design precludes causal inference; the negative associations
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]

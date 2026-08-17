@@ -54,7 +54,7 @@ Real-world students frequently **bypass a chatbot's [[scaffolding]]** — not ne
 
 ## Help-seeking and self-regulated learning
 
-Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this wiki supports the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive AI use, and highlights the risk of [[over-reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this wiki supports the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
 
 ## Implications for design and research
 
@@ -62,7 +62,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 2. **Scaffold the help-seeking itself.** Train learners in reasoning-focused requests (stepwise hints, verification) rather than assuming access equals good use.^[[guided-llm-scaffolding-independent-learning]]
 3. **Use transparency to calibrate trust.** Warning about AI fallibility can increase appropriate help-seeking and engagement.^[[ai-fallibility-warning-help-seeking]]
 4. **Measure uptake, not just scaffolding.** Evaluate whether students actually engage with pedagogical framing, not only whether the tutor provides it.^[[rethinking-scaffolding-llm-tutors]]
-5. **Support monitoring and agency.** Help-seeking scaffolds should strengthen [[metacognition]] and [[self-regulated-learning]], guarding against [[over-reliance]].
+5. **Support monitoring and agency.** Help-seeking scaffolds should strengthen [[metacognition]] and [[self-regulated-learning]], guarding against [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
@@ -70,9 +70,9 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[metacognition]]
 - [[scaffolding]]
 - [[intelligent-tutoring]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[student-experience]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[learning-analytics]]
 - [[k-12]]
@@ -82,7 +82,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[affective-tutoring]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[active-learning]]
 - [[agentic-ai]]
 

@@ -65,7 +65,7 @@ The review identifies a **critical need for stronger experimental design and dat
 - [[pedagogical-llm-training]]
 - [[affective-tutoring]]
 - [[human-in-the-loop-ai]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[benchmark]]

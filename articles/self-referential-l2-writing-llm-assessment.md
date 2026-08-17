@@ -3,7 +3,8 @@ title: "Towards Self-Referential Analytic Assessment: A Profile-Based Approach t
 created: "2026-05-05T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, ground-truth-reliability-aided, personalized-learning]
+tags: [automated-assessment, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, ground-truth-reliability-aided, personalized-learning]
+
 sources: ['raw/papers/2605.04298.md']
 confidence: medium
 ---
@@ -17,15 +18,15 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 - **Human raters remain stronger** at identifying relative strengths (positive feedback)
 - Traditional rank-based correlation metrics **mask diagnostic behavior** — high correlations can hide poor intra-learner discrimination
 ## Implications for AIED
-This connects to [[automated-grading]] but challenges its dominant evaluation paradigm. The finding that LLMs are strong at weakness detection but weaker at strength identification has practical implications for [[formative-assessment]] design — AI might best serve as a **complementary weakness detector** while teachers focus on strengths.
+This connects to [[automated-assessment|Automated Grading]] but challenges its dominant evaluation paradigm. The finding that LLMs are strong at weakness detection but weaker at strength identification has practical implications for [[formative-assessment]] design — AI might best serve as a **complementary weakness detector** while teachers focus on strengths.
 The self-referential approach aligns with [[personalized-learning]] goals and the [[ai-learning-companions-framework]] emphasis on prioritizing learning over performance. It extends [[writing-education]] research on AI in composition and connects to [[automated-question-generation]] work on AI-generated assessment. The use of Rasch modeling for calibration connects to [[ground-truth-reliability-aied]] calls for more rigorous measurement in AIED.
 ## Connections to Wiki
-- Paradigm shift from [[automated-grading]] ranking to profiling
+- Paradigm shift from [[automated-assessment|Automated Grading]] ranking to profiling
 - Aligns with [[sequenced-ai-feedback-learning]] emphasis on feedback quality over quantity
 - Extends [[llm-student-modeling-memory]] to assessment contexts — profiling over time
 - Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
 ## Connected Concepts
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[formative-assessment]]
 - [[personalized-learning]]

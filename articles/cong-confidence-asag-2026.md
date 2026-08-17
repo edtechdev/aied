@@ -3,7 +3,8 @@ title: Confidence-Aware Automatic Short Answer Grading
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [assessment, automated-grading, confidence, psychometrically-aware-ai, hybrid-e-assessment-semi-automated-grading, retrieval-augmented-generation, ai-ed-evaluation]
+tags: [assessment, automated-assessment, confidence, psychometrically-aware-ai, hybrid-e-assessment-semi-automated-grading, retrieval-augmented-generation, ai-ed-evaluation]
+
 sources: ['raw/papers/cong-confidence-asag-2026.md']
 confidence: medium
 ---
@@ -22,9 +23,9 @@ confidence: medium
 
 ## Implications
 
-This work addresses a critical gap in [[automatic-short-answer-grading]]: the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[confidence-aware-ai-assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
+This work addresses a critical gap in [[automatic-short-answer-grading]]: the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[automated-assessment|Confidence Aware AI Assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
 
-The explicit modeling of aleatoric uncertainty is particularly important for [[automated-grading]]. In ASAG, some student responses are genuinely ambiguous even to expert human raters — this is not a model failure but a property of the task. By modeling this inherent ambiguity through semantic clustering, the framework prevents the system from overconfidently misclassifying responses that are fundamentally uncertain.
+The explicit modeling of aleatoric uncertainty is particularly important for [[automated-assessment|Automated Grading]]. In ASAG, some student responses are genuinely ambiguous even to expert human raters — this is not a model failure but a property of the task. By modeling this inherent ambiguity through semantic clustering, the framework prevents the system from overconfidently misclassifying responses that are fundamentally uncertain.
 
 For [[human-in-the-loop-ai]] workflows in educational assessment, the selective prediction approach provides a principled mechanism for triage: rather than requiring educators to review everything (defeating the purpose of automation) or trusting the model blindly (risking harm), the confidence framework identifies exactly which responses need human attention. This has practical implications for [[short-answer-scoring-quality-degradation]] research and the design of [[hybrid-e-assessment-semi-automated-grading]] systems.
 
@@ -33,8 +34,8 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
-- [[automated-grading]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
+- [[automated-assessment]]
 - [[psychometrically-aware-ai]]
 - [[rag]]
 - [[human-in-the-loop-ai]]

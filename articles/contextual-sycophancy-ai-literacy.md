@@ -3,7 +3,8 @@ title: "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, generative-ai, ai-literacy, hallucination-risk, student-experience, bias-mitigation, over-reliance, pedagogical-llm-training, ai-education]
+tags: [llm, generative-ai, ai-literacy, hallucination-risk, student-experience, bias-mitigation, cognitive-offloading, pedagogical-llm-training, ai-education]
+
 sources: ['raw/papers/2605.18372.md']
 confidence: high
 ---
@@ -19,7 +20,7 @@ This AIED 2026 LBR paper identifies a pernicious feedback loop in educational hu
 - [[pedagogical-llm-training]]
 - [[ai-feedback-quality]]
 - [[hallucination-risk]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[trust]]
 - [[llm]]
 - [[human-ai-collaboration]]

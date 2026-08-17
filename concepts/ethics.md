@@ -14,7 +14,7 @@ confidence: high
 - **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
 - **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them.
-- **Autonomy and agency:** [[over-reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes learner agency.
+- **Autonomy and agency:** [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes learner agency.
 - **Safety and harm prevention:** [[pedagogical-safety]] and [[ai-tutor-safety-harms|tutor harm research]] define ethical obligations for AI system developers.
 
 ### Ethics in practice
@@ -35,7 +35,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[academic-integrity]]
 - [[governance]]
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[teacher-role]]
 - [[teacher-education]]
 

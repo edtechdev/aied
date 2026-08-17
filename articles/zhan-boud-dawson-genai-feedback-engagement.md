@@ -3,7 +3,8 @@ title: "Generative artificial intelligence as an enabler of student feedback eng
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, feedback-loop, self-regulated-learning, ai-literacy, higher-ed, teacher-role, over-reliance, prompt-engineering, formative-assessment, metacognition, academic-integrity, student-engagement]
+tags: [generative-ai, feedback, self-regulated-learning, ai-literacy, higher-ed, teacher-role, cognitive-offloading, prompt-engineering, formative-assessment, metacognition, academic-integrity, student-engagement]
+
 sources: ['raw/papers/zhan-boud-dawson-genai-feedback-engagement.md']
 confidence: high
 ---
@@ -42,14 +43,14 @@ Two contrasting illustrative cases (IELTS writing with ChatGPT 3.5) ground the a
 
 ## Connected Concepts
 
-- [[feedback-loop]]
+- [[feedback]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[ai-feedback-quality]]
 - [[formative-assessment]]
 - [[teacher-role]]
 - [[higher-ed]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[feedback-literacy]]
 

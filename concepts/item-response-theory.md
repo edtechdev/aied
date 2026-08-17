@@ -30,8 +30,8 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[student-modeling]]
 - [[psychometrically-aware-ai]]
 - [[adaptive-learning]]
-- [[confidence-aware-ai-assessment]]
-- [[ai-tutoring]]
+- [[automated-assessment]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams

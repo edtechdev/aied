@@ -52,7 +52,7 @@ The paper identifies four gaps in existing frameworks:
 
 - [[adaptive-learning]]
 - [[affective-tutoring]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[formative-assessment]]
 - [[hallucination-risk]]
 - [[human-in-the-loop-ai]]

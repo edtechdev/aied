@@ -26,11 +26,11 @@ The taxonomy runs from **transactional** interactions (discrete, affordance-poor
 
 ## Implications for AI in Education
 
-For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapter warns against inflating a precise construct into a slogan: calling all useful human-AI interaction "collaboration" obscures what would actually be required. Because most required functions are engineering choices, designers of [[ai-tutoring]] and [[collaborative-learning]] environments can treat the taxonomy as a specification of design targets — and researchers can measure collaboration in the trajectory of the human-AI unit rather than in user satisfaction alone, keeping the stronger meaning of the word worth preserving.
+For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapter warns against inflating a precise construct into a slogan: calling all useful human-AI interaction "collaboration" obscures what would actually be required. Because most required functions are engineering choices, designers of [[intelligent-tutoring|AI Tutoring]] and [[collaborative-learning]] environments can treat the taxonomy as a specification of design targets — and researchers can measure collaboration in the trajectory of the human-AI unit rather than in user satisfaction alone, keeping the stronger meaning of the word worth preserving.
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[collaborative-learning]]
 - [[affective-tutoring]]
 - [[teacher-ai-competency]]

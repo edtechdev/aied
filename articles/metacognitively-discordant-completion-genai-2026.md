@@ -3,7 +3,8 @@ title: "Metacognitively Discordant Completion and the Aware Pass-Through of Non-
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-12"
 type: article
-tags: [metacognition, self-regulated-learning, cognitive-offloading, over-reliance, academic-integrity, student-experience, generative-ai]
+tags: [metacognition, self-regulated-learning, cognitive-offloading, cognitive-offloading, academic-integrity, student-experience, generative-ai]
+
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']
 confidence: medium
 ---
@@ -20,7 +21,7 @@ confidence: medium
 
 ## Implications
 
-For [[metacognition]] and [[self-regulated-learning]] research, MDC sharpens the distinction between completion and understanding in AI-mediated work, and connects to [[cognitive-offloading]] and [[over-reliance]] concerns. The paper argues that existing integrity and assessment frames each miss one element of the state, suggesting why simple policy responses fail.
+For [[metacognition]] and [[self-regulated-learning]] research, MDC sharpens the distinction between completion and understanding in AI-mediated work, and connects to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] concerns. The paper argues that existing integrity and assessment frames each miss one element of the state, suggesting why simple policy responses fail.
 
 This is relevant to [[academic-integrity]] and [[student-experience]] discussions and to AI-literacy design: it reframes the risk of GenAI not primarily as cheating but as the routine, aware pass-through of non-understanding. As a conceptual contribution, the author assigns evidence questions to a planned interpretative phenomenological study with graphicacy as the anchoring domain.
 
@@ -29,7 +30,7 @@ This is relevant to [[academic-integrity]] and [[student-experience]] discussion
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[student-experience]]
 - [[generative-ai]]

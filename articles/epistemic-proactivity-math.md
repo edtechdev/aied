@@ -20,7 +20,7 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 - [[k-12]]
 - [[student-experience]]
 - [[scaffolding]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[help-seeking]]
 ## Connected Articles
 

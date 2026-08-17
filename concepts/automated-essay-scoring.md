@@ -3,7 +3,8 @@ title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
-tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12, automated-grading]
+tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12, automated-assessment]
+
 confidence: high
 ---
 
@@ -23,13 +24,13 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 ### Connections to related concepts
 
-AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback-loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
+AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
 
 ## Connected Concepts
 
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[language-learning]]
 - [[educational-measurement]]
 - [[k-12]]

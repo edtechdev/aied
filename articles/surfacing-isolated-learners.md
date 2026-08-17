@@ -3,7 +3,8 @@ title: Surfacing Isolated Learners with Outcome-Independent Mediation of Feedbac
 created: "2026-06-01T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [learning-analytics, teacher-role, higher-ed, student-experience, feedback-loop, ai-literacy, help-seeking]
+tags: [learning-analytics, teacher-role, higher-ed, student-experience, feedback, ai-literacy, help-seeking]
+
 sources: ['raw/papers/2605.29240.md']
 confidence: medium
 ---
@@ -52,11 +53,11 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - [[teacher-ai-competency]]
 - [[help-seeking]]
 - [[bias-mitigation]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[teacher-role]]
 - [[higher-ed]]
-- [[feedback-loop]]
+- [[feedback]]
 
 ## Connected Articles
 

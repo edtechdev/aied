@@ -3,7 +3,8 @@ title: "A multi-agent AI classroom based on dual-process reasoning hazards: a pi
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [multi-agent, physics-education, teacher-training, dual-process-theory, simulation, stem-education, higher-ed]
+tags: [multi-agent, physics-education, teacher-training, simulation, stem-education, higher-ed]
+
 sources: ['raw/papers/2608.05820.md']
 confidence: medium
 ---
@@ -23,7 +24,6 @@ Responding productively to authentic student reasoning is among the most difficu
 - [[physics-education]]
 - [[agentic-ai]]
 - [[professional-training]]
-- [[dual-process-theory]]
 - [[simulation]]
 - [[stem-education]]
 - [[higher-ed]]

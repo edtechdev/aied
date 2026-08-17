@@ -3,7 +3,8 @@ title: AI-based scoring systematically underestimates conceptual understanding o
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [assessment-validity, automated-grading, bias-mitigation, equity, multilingual-learning, physics-education, equity-in-ai-education, educational-measurement, algorithmic-bias, automated-assessment]
+tags: [assessment-validity, automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, equity-in-ai-education, educational-measurement, algorithmic-bias, automated-assessment]
+
 sources: ['raw/papers/2607.28210.md']
 confidence: high
 ---
@@ -20,7 +21,7 @@ The stakes fall hardest on **multilingual learners**, whose language proficiency
 ## Relevance to AI in Education
 This paper makes a critical contribution to the [[automated-assessment]] and [[automated-essay-scoring]] literature by demonstrating that the [[bias-mitigation]] problem in AI scoring is not merely a technical artifact of specific models but appears to be **fundamental to the task itself**. Key connections:
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
-- **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-grading]] scales.
+- **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-assessment|Automated Grading]] scales.
 - **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
 - **[[automatic-short-answer-grading]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
 - **[[ai-assessment-human-tutors]]**: The parallel between AI and human scoring bias suggests that the goal should not be to replace human assessment but to understand the limitations shared by both, as also explored in the [[ai-feedback-quality]] literature.
@@ -36,7 +37,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[language-learning]]
 - [[ai-feedback-quality]]
 - [[educational-measurement]]

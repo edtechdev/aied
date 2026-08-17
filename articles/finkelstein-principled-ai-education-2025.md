@@ -41,7 +41,6 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 - [[agency]]
 - [[ai-education]]
 - [[ai-literacy]]
-- [[cognitive-load-theory]]
 - [[collaborative-learning]]
 - [[curriculum-design]]
 - [[desirable-difficulties]]

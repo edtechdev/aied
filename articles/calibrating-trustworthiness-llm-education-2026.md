@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.04006.md']
 confidence: high
 ---
 
-> **Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[over-reliance]] [[human-in-the-loop-ai]] [[instructional-design]] [[edtech-platform]]
+> **Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[instructional-design]] [[edtech-platform]]
 
 Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM responses. Making trustworthiness explicit increased inter-rater reliability and helped learning engineers resolve conflicting objectives and produce more consistent judgments. Proposes design guidelines for future LLM evaluation tools that enable pedagogically-aligned learning tools.
 
@@ -20,7 +20,7 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 
 - [[llm]]
 - [[ai-ed-evaluation]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[human-in-the-loop-ai]]
 - [[instructional-design]]
 - [[edtech-platform]]

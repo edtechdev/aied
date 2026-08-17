@@ -3,7 +3,8 @@ title: "The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Ar
 created: "2026-08-16T18:05:58-04:00"
 updated: "2026-08-16"
 type: article
-tags: [llm, ai-tutoring, learning-analytics, dialogue, cs-education, student-experience, over-reliance, dataset, self-regulated-learning]
+tags: [llm, intelligent-tutoring, learning-analytics, dialogue, cs-education, student-experience, cognitive-offloading, dataset, self-regulated-learning]
+
 sources: ['raw/papers/studychat-student-dialogues-chatgpt-ai-course-2026.md']
 confidence: high
 ---
@@ -18,7 +19,7 @@ confidence: high
 
 **Conceptual and coding help predict success.** Regression analyses found that specific DA features (8 broad / 31 specific counts) added substantial explanatory power over a prior-outcome baseline (mean R² improving to 0.487 for specific DAs in Fall), and that *Conceptual Questions* and *Editing Requests* were significantly **positively** correlated with exam outcomes in the Spring semester. Students who asked conceptual, general-knowledge questions (e.g. Python library, programming language) tended to perform better — consistent with learning-focused usage.
 
-**Report-writing and circumvention predict worse outcomes.** Conversely, DA features corresponding to using the LLM to write reports and circumvent assignment learning objectives were **negatively** correlated with outcomes — behavior consistent with [[over-reliance]] on the model. *Contextual Questions* (course-specific, assignment-context questions) were negatively correlated with assignment outcomes across both semesters — a potential indicator of student confusion. Notably, *Conceptual Question – [[math-education]]* was a strong negative indicator on the n-gram assignment (a6), suggesting gpt-4o-mini gives poor or inconsistent mathematical explanations/derivations that students should verify.
+**Report-writing and circumvention predict worse outcomes.** Conversely, DA features corresponding to using the LLM to write reports and circumvent assignment learning objectives were **negatively** correlated with outcomes — behavior consistent with [[cognitive-offloading|Over-Reliance]] on the model. *Contextual Questions* (course-specific, assignment-context questions) were negatively correlated with assignment outcomes across both semesters — a potential indicator of student confusion. Notably, *Conceptual Question – [[math-education]]* was a strong negative indicator on the n-gram assignment (a6), suggesting gpt-4o-mini gives poor or inconsistent mathematical explanations/derivations that students should verify.
 
 **Usage level and variability.** Low (bottom 10%), medium, and high (top 10%) interaction users had similar average outcomes, but high users showed **reduced variance and higher minimum scores** (e.g. Spring e1: 77.8% / 81.0% / 88.1% for low/medium/high). The authors suggest consistent, meaningful LLM usage — especially conceptual questioning — may help stabilize performance, particularly for students needing extra guidance.
 
@@ -27,9 +28,9 @@ confidence: high
 ## Connected Concepts
 
 - [[llm]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[learning-analytics]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[help-seeking]]
 - [[cs-education]]

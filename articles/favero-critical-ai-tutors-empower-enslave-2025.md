@@ -3,7 +3,8 @@ title: "Critical AI Tutors: Empower or Enslave?"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, critical-thinking, over-reliance, ai-assistance-reduces-persistence, student-experience, regulation, cognitive-load-theory]
+tags: [intelligent-tutoring, critical-thinking, cognitive-offloading, ai-assistance-reduces-persistence, student-experience, regulation]
+
 sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']
 confidence: medium
 ---
@@ -14,9 +15,9 @@ confidence: medium
 
 This position paper occupies a critical counterpoint in the [[intelligent-tutoring]] literature. While much of the field focuses on optimizing AI tutor performance and learning gains, the authors argue that effectiveness metrics alone are dangerously insufficient — what matters equally are the cognitive and developmental *costs* that AI tutors may impose on learners.
 
-**Cognitive atrophy and the shortcut problem.** The central argument draws on [[cognitive-load-theory]] and the well-established finding that effortful cognitive processing is essential for durable learning. When [[intelligent-tutoring]] systems provide immediate, high-quality answers and solutions, they effectively short-circuit the very cognitive processes — struggling with problems, retrieving from memory, constructing explanations — that produce deep understanding. This phenomenon, which the authors term *cognitive atrophy*, mirrors concerns raised in the [[efficiency-gain-illusion-ai-overreliance]] and [[cognitive-offloading]] literatures: learners may feel more productive while learning less.
+**Cognitive atrophy and the shortcut problem.** The central argument draws on Cognitive Load Theory and the well-established finding that effortful cognitive processing is essential for durable learning. When [[intelligent-tutoring]] systems provide immediate, high-quality answers and solutions, they effectively short-circuit the very cognitive processes — struggling with problems, retrieving from memory, constructing explanations — that produce deep understanding. This phenomenon, which the authors term *cognitive atrophy*, mirrors concerns raised in the [[efficiency-gain-illusion-ai-overreliance]] and [[cognitive-offloading]] literatures: learners may feel more productive while learning less.
 
-**Loss of agency and dependency.** Beyond cognitive effects, the paper identifies a broader threat to learner agency. Prolonged reliance on AI tutors can produce [[over-reliance]] — a state where students lose confidence in their own reasoning abilities and become dependent on AI assistance even for tasks they could complete independently. This dependency dynamic connects to the [[correct-answer-trap-ai-tutor]] problem and the finding that [[over-reliance]] — students give up more quickly when AI help is available.
+**Loss of agency and dependency.** Beyond cognitive effects, the paper identifies a broader threat to learner agency. Prolonged reliance on AI tutors can produce [[cognitive-offloading|Over-Reliance]] — a state where students lose confidence in their own reasoning abilities and become dependent on AI assistance even for tasks they could complete independently. This dependency dynamic connects to the [[correct-answer-trap-ai-tutor]] problem and the finding that [[cognitive-offloading|Over-Reliance]] — students give up more quickly when AI help is available.
 
 **Emotional and well-being risks.** The authors highlight underexplored emotional dimensions: AI tutor interactions can erode self-efficacy when students compare themselves unfavorably to flawless AI outputs, contribute to [[ai-fatigue-academic-contexts]], and diminish the relational aspects of learning that [[teacher-role]] frameworks seek to preserve.
 
@@ -34,9 +35,8 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[governance]]
-- [[cognitive-load-theory]]
 - [[pedagogical-safety]]
 - [[regulation]]
 - [[student-experience]]

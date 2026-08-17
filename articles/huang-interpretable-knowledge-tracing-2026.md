@@ -3,7 +3,8 @@ title: Interpretable Knowledge Tracing
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [knowledge-tracing, interpretability, student-modeling, cold-start-knowledge-tracing-safeinsights, item-response-theory, ai-tutoring, rag]
+tags: [knowledge-tracing, interpretability, student-modeling, cold-start-knowledge-tracing-safeinsights, item-response-theory, intelligent-tutoring, rag]
+
 sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
 ---
@@ -28,7 +29,7 @@ The framework was evaluated on two datasets: **QATD2k** (real-world dialogues fr
 
 Results show that LLM-based methods substantially outperform deep learning models, and the proposed framework achieves state-of-the-art performance: **64.29% accuracy** and **65.25 AUC** on QATD2k, **68.82% accuracy** and **76.59 AUC** on MathDial — modestly but consistently outperforming LLMKT across both datasets and metrics.
 
-The key insight is that both student knowledge and task difficulty are explicitly represented as **meaningful cognitive quantities** rather than uninterpretable latent vectors. A human tutor can inspect θ and d at any dialogue turn to understand the model's assessment: "the student seems confused (low θ) and this question is particularly hard (high d)." This transparency is essential for building [[ai-tutoring]] systems that tutors can trust and act upon.
+The key insight is that both student knowledge and task difficulty are explicitly represented as **meaningful cognitive quantities** rather than uninterpretable latent vectors. A human tutor can inspect θ and d at any dialogue turn to understand the model's assessment: "the student seems confused (low θ) and this question is particularly hard (high d)." This transparency is essential for building [[intelligent-tutoring|AI Tutoring]] systems that tutors can trust and act upon.
 
 ## Implications for AI in Education
 
@@ -44,7 +45,7 @@ Future work should extend the framework to multi-skill settings (where students 
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[item-response-theory]]
 - [[knowledge-tracing]]
 - [[rag]]

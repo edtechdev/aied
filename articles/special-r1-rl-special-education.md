@@ -57,7 +57,7 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 - [[special-education]]
 - [[scaffolding]]
 - [[neurodiversity]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 

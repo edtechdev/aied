@@ -3,7 +3,8 @@ title: "Using AI-Generated Feedback to Improve Critical Thinking and Writing Pro
 created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-10"
 type: article
-tags: [ai-generated-content, critical-thinking, writing, feedback, k-12, automated-grading, scaffolding, ai-education]
+tags: [ai-generated-content, critical-thinking, writing, feedback, k-12, automated-assessment, scaffolding, ai-education]
+
 sources: ['raw/papers/2608.05177.md']
 confidence: high
 ---
@@ -14,11 +15,11 @@ confidence: high
 
 This study developed the Writing Improvement and Smart Evaluation Agent (WISE Agent), an AI feedback tool targeting textual logic and perspective biases in student essays. A three-month intervention with 260 Chinese sixth-grade students found structural optimizations in critical thinking dimensions rather than a uniform increase in total scores. Lower-performing students advanced in evidence selection while higher-performing students excelled in perspective diversification, suggesting WISE Agent serves as an effective cognitive scaffold for incremental critical thinking development through personalized feedback loops.
 
-The work contributes to understanding of [[critical-thinking]] in educational contexts, with implications for [[automated-grading]], [[scaffolding]].
+The work contributes to understanding of [[critical-thinking]] in educational contexts, with implications for [[automated-assessment|Automated Grading]], [[scaffolding]].
 
 ## Connected Concepts
 - [[critical-thinking]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[scaffolding]]
 - [[writing-education]]
 - [[ai-feedback-quality]]

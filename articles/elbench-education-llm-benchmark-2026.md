@@ -29,7 +29,7 @@ A usable education-facing model must be accurate, safe under sensitive prompts, 
 - [[pedagogical-safety]]
 - [[generative-ai]]
 - [[llm]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[research-methods-aied]]
 - [[educational-measurement]]
 

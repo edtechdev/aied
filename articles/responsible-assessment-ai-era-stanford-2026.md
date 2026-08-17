@@ -3,12 +3,13 @@ title: "Responsible Assessment in the AI Era: Key Insights from a Future-Focused
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop, automated-grading, ai-literacy]
+tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop, automated-assessment, ai-literacy]
+
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']
 confidence: high
 ---
 
-> **Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity-in-ai-education]], transparency, and trust.
+> **Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-assessment|Automated Grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity-in-ai-education]], transparency, and trust.
 
 The report synthesizes a future-focused convening (January 29, 2026) on how assessment should evolve as AI reshapes learning, work, and measurement. It defines **responsible assessment** as assessment that is grounded in individuals' sociocultural contexts and designed to produce valid, trustworthy, context-specific inferences from accumulated evidence — a shift toward continuous, context-rich, developmentally oriented practices that leverage AI responsibly (building on Johnson, 2025).
 
@@ -22,8 +23,8 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 
 ## Connections to the Wiki
 
-- **Assessment validity & AI scoring** — the report's catalog of validity threats (construct-irrelevant variance, underrepresentation, generalization, calibration) is a policy-level complement to the wiki's empirical evidence on [[automated-grading]] failures (e.g., [[llm-handwritten-math-grading]], [[ai-scoring-language-bias-physics]], [[machines-misread-pedagogical-quality]]).
-- **Formative assessment** — the call to extend [[formative-assessment]] with AI (peer feedback vs. AI feedback, culturally responsive tools) connects to [[ai-generated-feedback-higher-ed]] and [[feedback-loop]] research.
+- **Assessment validity & AI scoring** — the report's catalog of validity threats (construct-irrelevant variance, underrepresentation, generalization, calibration) is a policy-level complement to the wiki's empirical evidence on [[automated-assessment|Automated Grading]] failures (e.g., [[llm-handwritten-math-grading]], [[ai-scoring-language-bias-physics]], [[machines-misread-pedagogical-quality]]).
+- **Formative assessment** — the call to extend [[formative-assessment]] with AI (peer feedback vs. AI feedback, culturally responsive tools) connects to [[ai-generated-feedback-higher-ed]] and [[feedback|Feedback Loop]] research.
 - **Conversation-based assessment** — ECD-based AI-agent dialogue assessment aligns with [[socratic-tests-conversational-assessment]] and [[intelligent-tutoring]] design.
 - **Construct definitions** — the underdefined AI literacy / durable-skills problem echoes [[ai-literacy]] debates and educational-theory work on what AI-era competencies mean operationally.
 - **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity-in-ai-education]], [[human-in-the-loop-ai]], and [[ai-ed-evaluation]].
@@ -33,7 +34,7 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - [[ai-ed-evaluation]]
 - [[ai-literacy]]
 - [[assessment-validity]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[generative-ai]]
 - [[authentic-assessment]]

@@ -3,7 +3,8 @@ title: "Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot 
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-grading, student-experience, rag]
+tags: [ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-assessment, student-experience, rag]
+
 sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
 confidence: high
 ---
@@ -72,7 +73,7 @@ The study demonstrates that [[prompt-engineering]] can be taught effectively to 
 
 - [[ai-education]]
 - [[ai-literacy]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[k-12]]
 - [[llm]]
 - [[prompt-engineering]]

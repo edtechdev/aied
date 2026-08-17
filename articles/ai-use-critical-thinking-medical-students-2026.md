@@ -3,7 +3,8 @@ title: "From AI Use to Critical Thinking Among Medical Students: A Moderated Med
 created: "2026-08-13T05:14:23-04:00"
 updated: "2026-08-13"
 type: article
-tags: [critical-thinking, cognitive-load-theory, self-regulated-learning, generative-ai, higher-ed, ai-literacy, cognitive-offloading, medical-education]
+tags: [critical-thinking, self-regulated-learning, generative-ai, higher-ed, ai-literacy, cognitive-offloading, medical-education]
+
 sources: ['raw/papers/10.3389_fpsyg.2026.1883053.md']
 confidence: high
 ---
@@ -15,7 +16,7 @@ confidence: high
 - AI-based technology use was positively associated with both critical thinking and self-regulated learning among medical students, whereas perceived cognitive load was negatively associated with both outcomes.
 - Mediation analysis showed cognitive load partially mediated the relationship between AI use and critical thinking — part of AI's effect on thinking runs through the cognitive burden it imposes.
 - Moderated mediation revealed self-regulated learning significantly moderated the indirect effect: the negative impact of cognitive load on critical thinking was weakened at higher levels of self-regulation.
-- The study situates AI's educational impact within [[cognitive-load-theory]] and [[self-regulated-learning]], framing generative AI tools (ChatGPT, Claude, Gemini) as double-edged — capable of reducing extraneous load by organizing/summarizing, yet adding burden through large volumes of content that must be evaluated and validated.
+- The study situates AI's educational impact within Cognitive Load Theory and [[self-regulated-learning]], framing generative AI tools (ChatGPT, Claude, Gemini) as double-edged — capable of reducing extraneous load by organizing/summarizing, yet adding burden through large volumes of content that must be evaluated and validated.
 
 ## Study Design & Method
 
@@ -31,7 +32,6 @@ The cross-sectional, non-experimental design limits causal inference despite the
 
 ## Connected Concepts
 
-- [[cognitive-load-theory]]
 - [[self-regulated-learning]]
 - [[critical-thinking]]
 - [[generative-ai]]

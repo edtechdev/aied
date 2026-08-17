@@ -25,18 +25,18 @@ The chapter treats assessment as a key lever, reviewing frameworks such as the A
 
 ## Implications for AI in Education
 
-The "cruel optimism" argument has direct consequences for pedagogy: the efficiency gains of AI are only realized when learners already possess the [[critical-thinking]] and domain expertise needed to judge AI output — precisely the skills that education is supposed to build. This makes [[ai-literacy]] and verification capacity prerequisites rather than optional extras, and cautions against framing AI tools as substitutes for expertise. For engineering education specifically, the balancing act lies in leveraging LLM support for writing, coding, and brainstorming while designing assessments and curricula that keep the burden of verification and the development of judgment inside the learning process, guarding against [[over-reliance]].
+The "cruel optimism" argument has direct consequences for pedagogy: the efficiency gains of AI are only realized when learners already possess the [[critical-thinking]] and domain expertise needed to judge AI output — precisely the skills that education is supposed to build. This makes [[ai-literacy]] and verification capacity prerequisites rather than optional extras, and cautions against framing AI tools as substitutes for expertise. For engineering education specifically, the balancing act lies in leveraging LLM support for writing, coding, and brainstorming while designing assessments and curricula that keep the burden of verification and the development of judgment inside the learning process, guarding against [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[llm]]
 - [[higher-ed]]
 - [[critical-thinking]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]
 

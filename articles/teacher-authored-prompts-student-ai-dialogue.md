@@ -3,7 +3,8 @@ title: "Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Class
 created: "2026-06-04T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment, automated-grading, higher-ed]
+tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment, automated-assessment, higher-ed]
+
 sources: ['raw/papers/2604.16738.md']
 confidence: high
 ---
@@ -21,7 +22,7 @@ The work also extends [[teacher-role]] scholarship by showing that teachers can 
 - [[generative-ai]]
 - [[k-12]]
 - [[prompt-engineering]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 ## Connected Articles
 
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI

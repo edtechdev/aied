@@ -3,7 +3,8 @@ title: "AI tools in Arab University English classrooms: Looking back and forward
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [language-learning, higher-ed, writing-education, ai-literacy, over-reliance, teacher-role, generative-ai, scaffolding]
+tags: [language-learning, higher-ed, writing-education, ai-literacy, cognitive-offloading, teacher-role, generative-ai, scaffolding]
+
 sources: ['raw/papers/2607.05403.md']
 confidence: high
 ---
@@ -12,7 +13,7 @@ This paper aims to synthesize empirical research on AI tools used to support Eng
 
 PRISMA review of 11 EL2 studies (2023-2025) finds Arab university students react positively to AI for drafting/revision/practice; gains are clearest on surface-level writing, mixed for higher-order quality and speaking, and teacher mediation matters; recommends scaffolding, training, and reflective tasks to curb over-reliance.
 
-This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[writing-education]] [[ai-literacy]] [[over-reliance]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[writing-education]] [[ai-literacy]] [[cognitive-offloading|Over-Reliance]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 
@@ -20,7 +21,7 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 - [[higher-ed]]
 - [[writing-education]]
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[teacher-role]]
 - [[scaffolding]]
 - [[generative-ai]]

@@ -3,7 +3,8 @@ title: "Unravelling undergraduates' development of evaluative judgments through 
 created: "2026-08-11T06:10:03-04:00"
 updated: "2026-08-11"
 type: article
-tags: [generative-ai, feedback-loop, higher-ed, writing-instruction, self-regulated-learning, assessment-literacy, scaffolding, qualitative-study]
+tags: [generative-ai, feedback, higher-ed, writing-instruction, self-regulated-learning, assessment-literacy, scaffolding, qualitative-study]
+
 sources: ['raw/papers/tandf-ai-internal-feedback-evaluative-judgments.md']
 confidence: high
 ---
@@ -31,7 +32,7 @@ The study is grounded in the internal feedback paradigm: students generate feedb
 
 ## Implications for AI in Education
 
-The study demonstrates a practical strategy for turning GenAI into a **scaffold for assessment literacy** rather than a shortcut: comparing drafts against AI-generated exemplars of varied quality helps students appreciate a "quality continuum," while comparing drafts with AI feedback and personal goals makes the internal feedback explicit and auditable. Having students articulate their internal feedback on self-reflection forms both reduces cognitive load and lets teachers track progress. The three developmental pathways imply that **one-size-fits-all prompting fails** — teachers should customize self-reflection prompts to each student's evaluative orientation (e.g., pushing language-focused evaluators toward organisation and coherence, while reinforcing evidence-based reasoning for reconstructive evaluators). This connects to [[self-regulated-learning]] and [[feedback-loop]] research: students become agentic seekers of AI feedback who monitor goal attainment and judge the contextual appropriateness of AI suggestions, echoing concerns in [[assessment]] about students' critical evaluation of AI-generated feedback.
+The study demonstrates a practical strategy for turning GenAI into a **scaffold for assessment literacy** rather than a shortcut: comparing drafts against AI-generated exemplars of varied quality helps students appreciate a "quality continuum," while comparing drafts with AI feedback and personal goals makes the internal feedback explicit and auditable. Having students articulate their internal feedback on self-reflection forms both reduces cognitive load and lets teachers track progress. The three developmental pathways imply that **one-size-fits-all prompting fails** — teachers should customize self-reflection prompts to each student's evaluative orientation (e.g., pushing language-focused evaluators toward organisation and coherence, while reinforcing evidence-based reasoning for reconstructive evaluators). This connects to [[self-regulated-learning]] and [[feedback|Feedback Loop]] research: students become agentic seekers of AI feedback who monitor goal attainment and judge the contextual appropriateness of AI suggestions, echoing concerns in [[assessment]] about students' critical evaluation of AI-generated feedback.
 
 ## Limitations
 
@@ -43,9 +44,9 @@ The study demonstrates a practical strategy for turning GenAI into a **scaffold 
 
 - [[self-regulated-learning]]
 - [[assessment]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[metacognition]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[reducing-ai-misuse]]
 - [[math-education]]
 - [[prompt-engineering]]

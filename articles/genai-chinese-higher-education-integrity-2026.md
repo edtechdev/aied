@@ -14,7 +14,7 @@ confidence: high
 
 **Three themes.** Reflexive thematic analysis of 33 transcripts surfaces three themes: (1) concerns over independent, critical and creative thinking; (2) the impact of Gen-AI on educational and study practices (chiefly workload reduction); and (3) [[academic-integrity]] and ethical concerns.
 
-**Theme 1 — cognitive inertia and dependency.** Both staff and students worry that Gen-AI encourages cognitive inertia and reduces independent thinking, despite its efficiency. Participants described an "[[over-reliance]] on the technology" that "makes individuals think less actively; the ability to innovate decreases," and that "excessive reliance on Gen-AI will reduce our ability to analyse independently." There is an awareness that the convenience of Gen-AI can lead to superficial engagement with knowledge — echoing the wiki's [[over-reliance]] and [[cognitive-offloading]] concerns.
+**Theme 1 — cognitive inertia and dependency.** Both staff and students worry that Gen-AI encourages cognitive inertia and reduces independent thinking, despite its efficiency. Participants described an "[[cognitive-offloading|Over-Reliance]] on the technology" that "makes individuals think less actively; the ability to innovate decreases," and that "excessive reliance on Gen-AI will reduce our ability to analyse independently." There is an awareness that the convenience of Gen-AI can lead to superficial engagement with knowledge — echoing the wiki's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] concerns.
 
 **Theme 2 — practical benefits vs. workload.** Despite the dependency worries, participants acknowledge Gen-AI's practical value for performative, time-consuming tasks — creating test questions and test papers, guiding student thinking, analysing learning situations, and generating work materials, summaries and reports. A reported need to reduce workload sits at the centre of these uses, illustrating the ambivalent everyday negotiation of Gen-AI in [[higher-ed]].
 
@@ -33,7 +33,7 @@ confidence: high
 - [[agency]]
 - [[higher-ed]]
 - [[philosophy-of-ai-in-education]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 
 ## Connected Articles
 

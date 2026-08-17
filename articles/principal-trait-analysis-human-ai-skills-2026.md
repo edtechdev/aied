@@ -3,7 +3,8 @@ title: "Principal Trait Analysis: Towards Deriving 'Skills' in Human-AI Collabor
 created: "2026-08-16T17:49:40-04:00"
 updated: "2026-08-16"
 type: article
-tags: [human-ai-collaboration, llm, prompt-engineering, agentic-ai, ai-tutoring, self-regulated-learning, learning-analytics, ai-literacy]
+tags: [human-ai-collaboration, llm, prompt-engineering, agentic-ai, intelligent-tutoring, self-regulated-learning, learning-analytics, ai-literacy]
+
 sources: ['raw/papers/principal-trait-analysis-human-ai-skills-2026.md']
 confidence: high
 ---
@@ -28,7 +29,7 @@ confidence: high
 - [[llm]]
 - [[prompt-engineering]]
 - [[agentic-ai]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[self-regulated-learning]]
 - [[learning-analytics]]
 - [[ai-literacy]]

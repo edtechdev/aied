@@ -23,7 +23,7 @@ The wiki's research converges on several interconnected dimensions:
 
 ## The competency gap
 
-A key finding is the **gap between self-reported and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[confidence-aware-ai-assessment|calibrated self-assessment]].
+A key finding is the **gap between self-reported and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[automated-assessment|calibrated self-assessment]].
 
 ## Professional development that works
 
@@ -37,7 +37,7 @@ The wiki's PD literature identifies effective approaches:
 
 ## Teacher AI competency and the transforming teacher role
 
-As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[over-reliance|guarding against over-reliance]].
+As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[cognitive-offloading|guarding against over-reliance]].
 
 ## Implications for AI in education
 
@@ -61,7 +61,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[self-efficacy]]
 - [[human-in-the-loop-ai]]
 - [[agency]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[educational-policy-ai]]
 - [[ai-education]]
 

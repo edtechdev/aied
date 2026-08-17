@@ -10,7 +10,7 @@ confidence: high
 
 Investigates why AI-for-education shows inconsistent average effects, arguing that learning behavior explains background-related advantage: students from advantaged backgrounds engage with AI tools in ways that compound gains, while others do not. Prior ed-tech research shows average effects mask heterogeneity; this paper quantifies the behavioral mechanism.
 
-Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[student-experience]], with strong [[equity-in-ai-education]] implications: AI assistance may widen gaps unless designed to shift behavior. Connects to [[ai-assisted-learning-modes-eeg]] and the [[over-reliance]] literature on differential benefit.
+Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[student-experience]], with strong [[equity-in-ai-education]] implications: AI assistance may widen gaps unless designed to shift behavior. Connects to [[ai-assisted-learning-modes-eeg]] and the [[cognitive-offloading|Over-Reliance]] literature on differential benefit.
 
 ## Key Findings
 
@@ -21,7 +21,7 @@ Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[
 
 ## Implications
 
-These findings connect [[generative-ai]] use to [[digital-divide]] and [[equity-in-ai-education]] debates by showing that access alone is insufficient — behavioral engagement patterns drive divergent benefit. They argue for AI designs and [[self-regulated-learning]] supports that steer productive use, and align with [[over-reliance]] and [[ai-misuse-learning-harm]] concerns about unguided differential usage.
+These findings connect [[generative-ai]] use to [[digital-divide]] and [[equity-in-ai-education]] debates by showing that access alone is insufficient — behavioral engagement patterns drive divergent benefit. They argue for AI designs and [[self-regulated-learning]] supports that steer productive use, and align with [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]] concerns about unguided differential usage.
 
 ## Connected Concepts
 
@@ -29,7 +29,7 @@ These findings connect [[generative-ai]] use to [[digital-divide]] and [[equity-
 - [[personalized-learning]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[digital-divide]]
 - [[learning-gains]]
 - [[self-regulated-learning]]

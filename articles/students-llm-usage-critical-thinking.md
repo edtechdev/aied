@@ -35,7 +35,7 @@ This work complements [[genai-tutor-engagement-patterns]] by shifting focus from
 - [[critical-thinking]]
 - [[llm]]
 - [[generative-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]]

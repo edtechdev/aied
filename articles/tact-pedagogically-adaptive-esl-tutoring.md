@@ -3,7 +3,8 @@ title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English 
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-09"
 type: article
-tags: [tutoring, tutoring-systems, scaffolding, ai-tutoring, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]
+tags: [tutoring, tutoring-systems, scaffolding, intelligent-tutoring, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]
+
 sources: ['raw/papers/2608.03952v1.md']
 confidence: high
 ---
@@ -48,7 +49,7 @@ This approach ensures the model learns *when* and *why* to apply specific strate
 
 ## Implications for AI Tutoring
 
-TACT advances the state of [[ai-tutoring|AI tutoring]] by grounding LLM training in established pedagogical theory rather than treating tutoring as generic dialogue generation. The taxonomy-aligned training approach could be adapted to other domains (math, science, programming) and other languages, offering a principled path toward more effective and [[pedagogical-safety|pedagogically safe]] AI tutors.
+TACT advances the state of [[intelligent-tutoring|AI tutoring]] by grounding LLM training in established pedagogical theory rather than treating tutoring as generic dialogue generation. The taxonomy-aligned training approach could be adapted to other domains (math, science, programming) and other languages, offering a principled path toward more effective and [[pedagogical-safety|pedagogically safe]] AI tutors.
 
 ## Connected Concepts
 
@@ -56,7 +57,7 @@ TACT advances the state of [[ai-tutoring|AI tutoring]] by grounding LLM training
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[pedagogical-safety]]
 ## Connected Articles
 

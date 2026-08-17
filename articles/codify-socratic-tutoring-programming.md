@@ -3,7 +3,8 @@ title: "Codify: An Intelligent Socratic Tutoring System for Programming Educatio
 created: "2026-05-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, higher-ed, intelligent-tutoring, llm, programming-its, scaffolding, socratic-method, pedagogical-llm-training, automated-grading, agentic-ai-ecosystems-higher-education]
+tags: [generative-ai, higher-ed, intelligent-tutoring, llm, programming-its, scaffolding, socratic-method, pedagogical-llm-training, automated-assessment, agentic-ai-ecosystems-higher-education]
+
 sources: ['raw/papers/codify-socratic-tutoring-programming.md']
 confidence: medium
 ---
@@ -28,7 +29,7 @@ The system comprises five integrated components:
 
 ## Positioning in the ITS Landscape
 
-Codify represents a modern instantiation of the [[conversational-ai-tutors-framework]] paradigm, combining LLM-powered dialogue with structured competency tracking — bridging the gap between open-ended chatbot tutoring and traditional [[automated-grading]] systems. Unlike purely conversational approaches (e.g., [[learnmate2-llm-adaptive-learning]]), Codify integrates formal assessment, gamification, and adaptive difficulty scaling into a single platform.
+Codify represents a modern instantiation of the [[conversational-ai-tutors-framework]] paradigm, combining LLM-powered dialogue with structured competency tracking — bridging the gap between open-ended chatbot tutoring and traditional [[automated-assessment|Automated Grading]] systems. Unlike purely conversational approaches (e.g., [[learnmate2-llm-adaptive-learning]]), Codify integrates formal assessment, gamification, and adaptive difficulty scaling into a single platform.
 
 The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|KITE]], which also uses RAG for algorithmic tutoring, though Codify adopts a much broader scope covering all programming education domains. The Socratic methodology directly connects to the [[socratic-method]] approach and the [[pedagogical-llm-training]] literature on training LLMs for guided inquiry rather than answer provision.
 
@@ -40,8 +41,8 @@ Initial deployment in programming courses showed promising results for student e
 
 - [[adaptive-learning]]
 - [[agentic-ai]]
-- [[automated-grading]]
-- [[gamification]]
+- [[automated-assessment]]
+- [[game-based-learning]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[intelligent-tutoring]]

@@ -23,7 +23,7 @@ This is a **qualitative interview study**. The researchers conducted twelve semi
 
 ## Implications for AI in Education
 
-The study provides a design foundation for building [[social-robots|generative social robots]] as tutors in [[higher-ed]], addressing the risks of misinformation, overreliance, and privacy violations. It connects to [[generative-ai]], [[llm|large language models]], [[ai-tutoring|tutoring]], and [[ethics|responsible AI]] design. For designers and educators, it specifies the knowledge a tutoring robot must hold (about itself, the user, and the domain) to behave responsibly and effectively, informing the development of trustworthy AI tutoring agents.
+The study provides a design foundation for building [[social-robots|generative social robots]] as tutors in [[higher-ed]], addressing the risks of misinformation, overreliance, and privacy violations. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[ethics|responsible AI]] design. For designers and educators, it specifies the knowledge a tutoring robot must hold (about itself, the user, and the domain) to behave responsibly and effectively, informing the development of trustworthy AI tutoring agents.
 
 ## Limitations
 
@@ -35,7 +35,7 @@ The findings derive from twelve interviews in a specific higher-education contex
 - [[generative-ai]]
 - [[llm]]
 - [[higher-ed]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[ethics]]
 
 ## Connected Articles

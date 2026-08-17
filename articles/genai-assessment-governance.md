@@ -3,7 +3,8 @@ title: "Generative AI as a Design Variable: An Evidence-Centered Framework for P
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [stem-education, generative-ai, automated-grading, higher-ed, policy-maker, genai-minoritized-knowledges-disability, scaffolding, ai-literacy, llm]
+tags: [stem-education, generative-ai, automated-assessment, higher-ed, policy-maker, genai-minoritized-knowledges-disability, scaffolding, ai-literacy, llm]
+
 sources: ['raw/papers/2605.24837.md']
 confidence: high
 ---
@@ -23,7 +24,7 @@ The framework articulates three context-dependent governance stances based on ho
 3. **Require** — warranted when the target construct is disciplinary AI interaction competency itself. Tasks elicit process artifacts (prompts, critiques, revisions) that make student reasoning observable and scorable, distinguishing it from AI-generated output.
 
 ## Empirical Validation
-Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-grading]] and [[automatic-short-answer-grading]] research on making student reasoning visible and scorable.
+Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[automatic-short-answer-grading]] research on making student reasoning visible and scorable.
 
 ## Implications for Policy
 By situating GenAI governance within validity arguments, the framework offers actionable guidance for preserving learning integrity while preparing students for AI-enabled workplaces. This has direct relevance for [[educational-policy-ai]] decisions about assessment design and [[ai-literacy]] standards. The framework also complements emerging work on [[ai-tutor-safety-harms|AI tutor safety]] by providing structured decision-making about when AI interaction is educationally appropriate.
@@ -34,7 +35,7 @@ By situating GenAI governance within validity arguments, the framework offers ac
 - [[academic-integrity]]
 - [[scaffolding]]
 - [[intelligent-tutoring]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[educational-policy-ai]]
 - [[ai-literacy]]
 - [[assessment-validity]]

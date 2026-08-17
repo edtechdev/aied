@@ -36,7 +36,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[ai-ed-evaluation]]
 - [[multimodal]]
 - [[teacher-role]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[llm]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]

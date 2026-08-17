@@ -3,7 +3,8 @@ title: "AI-Guided Learning: Research on Knowledge and Skill Acquisition Support 
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-12"
 type: article
-tags: [personalized-learning, language-learning, feedback-loop, self-regulated-learning, multimodal, student-modeling, learning-analytics, lifelong-learning]
+tags: [personalized-learning, language-learning, feedback, self-regulated-learning, multimodal, student-modeling, learning-analytics, lifelong-learning]
+
 sources: ['raw/papers/2608.08990.md']
 confidence: high
 ---
@@ -20,7 +21,7 @@ confidence: high
 
 ## Implications
 
-The framework illustrates how [[personalized-learning]] can address the time cost of sequential audio/video content and the lack of scalable feedback for imitation-based skill acquisition, notably in [[language-learning]] pronunciation. The systems exemplify a [[feedback-loop]] design where model confidence and learner behavior jointly drive adaptation, and they connect to [[multimodal]] and [[student-modeling]] research.
+The framework illustrates how [[personalized-learning]] can address the time cost of sequential audio/video content and the lack of scalable feedback for imitation-based skill acquisition, notably in [[language-learning]] pronunciation. The systems exemplify a [[feedback|Feedback Loop]] design where model confidence and learner behavior jointly drive adaptation, and they connect to [[multimodal]] and [[student-modeling]] research.
 
 By preserving learner access to the original material while adding AI assistance, the work aligns with [[self-regulated-learning]] and [[lifelong-learning]] goals — supporting efficient consumption and repeated practice without removing learner agency. The three-stage Consume–Understand–Imitate framing offers a reusable model for AI-guided media learning.
 
@@ -28,7 +29,7 @@ By preserving learner access to the original material while adding AI assistance
 
 - [[personalized-learning]]
 - [[language-learning]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[self-regulated-learning]]
 - [[multimodal]]
 - [[student-modeling]]

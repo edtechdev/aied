@@ -3,7 +3,8 @@ title: "Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Intervent
 created: "2026-08-16T20:47:13-04:00"
 updated: "2026-08-16T20:47:13-04:00"
 type: article
-tags: [cognitive-offloading, metacognition, self-regulated-learning, over-reliance, ai-literacy, generative-ai, student-experience, higher-ed]
+tags: [cognitive-offloading, metacognition, self-regulated-learning, cognitive-offloading, ai-literacy, generative-ai, student-experience, higher-ed]
+
 sources: ['raw/papers/cognitive-offloading-metacognitive-review-2026.md']
 confidence: high
 ---
@@ -36,7 +37,7 @@ The review derives the principle of **timing-component matching**: in the prepar
 
 Offloading incurs potential costs. Individuals often offload impulsively rather than deliberately, preferring external reminders that exceed their optimal capacity — a bias independent of objective performance. **Reminder bias** quantifies deviation from optimal offloading (both overuse, e.g., writing down everything, and underuse, e.g., refusing to write anything down). This bias correlates with subjective confidence and metacognitive biases; incentives reduce but do not eliminate it.
 
-Overuse of cognitive offloading may impair intrinsic abilities. Externalization of information processing can disrupt internal cognitive processes, causing "dual damage" to both performance and abilities — the "Google Effect" whereby reliance on search engines undermines independent critical discovery. In aviation, overreliance on instruments has catastrophic consequences if systems fail. When students frequently opt for cognitive simplification, opportunities for deep understanding and deliberate reasoning diminish, ultimately impairing long-term academic achievement. The review specifically flags that technology-enhanced learning environments may foster **maladaptive [[over-reliance|offloading patterns]]** without metacognitive guidance (Skulmowski, 2023).
+Overuse of cognitive offloading may impair intrinsic abilities. Externalization of information processing can disrupt internal cognitive processes, causing "dual damage" to both performance and abilities — the "Google Effect" whereby reliance on search engines undermines independent critical discovery. In aviation, overreliance on instruments has catastrophic consequences if systems fail. When students frequently opt for cognitive simplification, opportunities for deep understanding and deliberate reasoning diminish, ultimately impairing long-term academic achievement. The review specifically flags that technology-enhanced learning environments may foster **maladaptive [[cognitive-offloading|offloading patterns]]** without metacognitive guidance (Skulmowski, 2023).
 
 ## Substitutive vs. Duplicative Offloading
 
@@ -48,13 +49,13 @@ Metacognitive interventions (mindfulness, feedback, the ARDESOS-DIAPROVE problem
 
 ## Connections to the Wiki
 
-This review strengthens the theoretical foundation of the wiki's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[over-reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around [[generative-ai|generative AI]] tools.
+This review strengthens the theoretical foundation of the wiki's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[cognitive-offloading|Over-Reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around [[generative-ai|generative AI]] tools.
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
 - [[metacognition]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[critical-thinking]]

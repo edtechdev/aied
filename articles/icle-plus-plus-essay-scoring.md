@@ -3,7 +3,8 @@ title: "ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring"
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-10"
 type: article
-tags: [automated-essay-scoring, automated-grading, benchmark, educational-measurement, formative-assessment, higher-ed, llm, writing-education]
+tags: [automated-essay-scoring, automated-assessment, benchmark, educational-measurement, formative-assessment, higher-ed, llm, writing-education]
+
 sources: ['raw/papers/2607.27671.md']
 confidence: high
 ---
@@ -18,7 +19,7 @@ ICLE++ strengthens the [[automated-essay-scoring]] research ecosystem by providi
 The work complements [[psyscore-essay-scoring-zpd-feedback]]'s psychometrically-aware trait scoring and [[choi-anchor-aes-prompting-2025]]'s finding that prompting-based AES with anchor papers approaches human reliability. While Choi et al. show what prompting can achieve holistically, ICLE++ provides the annotated data needed to evaluate whether trait-level scoring generalizes — a question also explored by [[self-referential-l2-writing-llm-assessment]] for L2 learners. The cross-corpus generalizability question likewise connects to [[ai-scoring-language-bias-physics]]'s finding that AI scoring systematically underestimates linguistically diverse students, and to [[aiawe-automated-writing-evaluation]]'s demonstration that open-source models can achieve strong AES performance on specific datasets.
 ## Connected Concepts
 - [[automated-essay-scoring]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[writing-education]]
 - [[benchmark]]
 - [[formative-assessment]]

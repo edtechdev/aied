@@ -13,9 +13,9 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Learning and instruction',
     blurb: 'How AI supports teaching and learning is the heart of the field — from core pedagogies to learning theories, AI agents, and subject areas.',
     groups: [
-      { label: 'Core pedagogies', items: ['active-learning', 'learning-by-teaching', 'collaborative-learning', 'project-based-learning', 'experiential-learning', 'game-based-learning', 'gamification', 'scaffolding', 'socratic-method', 'self-regulated-learning', 'self-determination-theory', 'zone-of-proximal-development', 'desirable-difficulties', 'transfer-of-learning', 'metacognition', 'cognitive-load-theory', 'dual-process-theory', 'constructivist', 'behaviorism', 'learning-theories', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'storytelling-in-education', 'instructional-design'] },
-      { label: 'Learning theories and processes', items: ['motivation', 'self-efficacy', 'help-seeking', 'student-engagement', 'engagement-metrics', 'feedback-loop', 'cognitive-diagnosis', 'student-modeling', 'knowledge-tracing', 'student-misconceptions-ai', 'simulating-students', 'icap-framework'] },
-      { label: 'AI agents and interactions', items: ['ai-tutoring', 'intelligent-tutoring', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'pedagogical-llm-training', 'social-robots', 'educational-robotics', 'human-robot-interaction'] },
+      { label: 'Core pedagogies', items: ['active-learning', 'learning-by-teaching', 'collaborative-learning', 'project-based-learning', 'experiential-learning', 'game-based-learning', 'scaffolding', 'socratic-method', 'self-regulated-learning', 'self-determination-theory', 'zone-of-proximal-development', 'desirable-difficulties', 'transfer-of-learning', 'metacognition', 'constructivist', 'behaviorism', 'learning-theories', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'storytelling-in-education', 'instructional-design'] },
+      { label: 'Learning theories and processes', items: ['motivation', 'self-efficacy', 'help-seeking', 'student-engagement', 'engagement-metrics', 'cognitive-diagnosis', 'student-modeling', 'knowledge-tracing', 'student-misconceptions-ai', 'simulating-students', 'icap-framework'] },
+      { label: 'AI agents and interactions', items: ['intelligent-tutoring', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'pedagogical-llm-training', 'social-robots', 'educational-robotics', 'human-robot-interaction'] },
       { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'language-learning', 'cs-education', 'programming-education', 'writing-education', 'stem-education', 'teacher-education', 'medical-education', 'humanities-education', 'special-education', 'adult-learning', 'higher-ed', 'block-programming'] },
     ],
   },
@@ -23,7 +23,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment, evaluation, and measurement',
     blurb: 'AI transforms both how we assess learners and how we evaluate AI systems themselves.',
     groups: [
-      { label: 'Assessment', items: ['assessment', 'feedback', 'feedback-literacy', 'formative-assessment', 'authentic-assessment', 'automated-assessment', 'automated-grading', 'automated-essay-scoring', 'automated-question-generation', 'assessment-validity', 'confidence-aware-ai-assessment', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'plagiarism-detection', 'academic-integrity', 'ai-feedback-quality', 'peer-review'] },
+      { label: 'Assessment', items: ['assessment', 'feedback', 'feedback-literacy', 'formative-assessment', 'authentic-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation', 'assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'plagiarism-detection', 'academic-integrity', 'ai-feedback-quality', 'peer-review'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'limitations-in-aied-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review'] },
     ],
   },
@@ -48,7 +48,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
       { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'accessible-learning', 'neurodiversity', 'universal-design-for-learning'] },
-      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'trust', 'trust-calibration', 'reducing-ai-misuse', 'over-reliance', 'cognitive-offloading', 'critical-thinking', 'critical-pedagogy'] },
+      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'trust', 'trust-calibration', 'reducing-ai-misuse', 'cognitive-offloading', 'critical-thinking', 'critical-pedagogy'] },
     ],
   },
   {

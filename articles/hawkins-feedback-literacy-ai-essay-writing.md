@@ -3,7 +3,8 @@ title: "Summarise, elaborate, try again: exploring the effect of feedback litera
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [feedback-loop, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, higher-ed]
+tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, higher-ed]
+
 sources: ['raw/papers/hawkins-feedback-literacy-ai-essay-writing.md']
 confidence: high
 ---
@@ -33,7 +34,7 @@ Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use
 
 ## Connected Concepts
 
-- [[feedback-loop]]
+- [[feedback]]
 - [[ai-feedback-quality]]
 - [[self-regulated-learning]]
 - [[formative-assessment]]
