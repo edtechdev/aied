@@ -1,6 +1,6 @@
 ---
 title: "Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education"
-created: 2026-07-09
+created: 2026-07-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [scaffolding, generative-ai, feedback-loop, active-learning, programming-its, higher-ed, student-experience, llm, visualization]

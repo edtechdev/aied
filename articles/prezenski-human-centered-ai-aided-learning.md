@@ -1,6 +1,6 @@
 ---
 title: "How Human-Centered Is AI-Aided Learning in Education?"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [human-centered-ai, adaptive-learning, intelligent-tutoring, cognitive-load-theory, ethics, equity, teacher-role, higher-ed]

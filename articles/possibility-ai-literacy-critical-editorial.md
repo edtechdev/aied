@@ -1,6 +1,6 @@
 ---
 title: "The (im)possibility of AI literacy"
-created: 2026-08-10
+created: 2026-08-10T17:33:14-04:00
 updated: 2026-08-13
 type: article
 tags: [ai-literacy, critical-thinking, ethics, ai-education, equity, higher-ed, digital-literacy, generative-ai]

@@ -1,6 +1,6 @@
 ---
 title: Understanding Student Effort Using Response-Time Propensities During Problem Solving
-created: 2026-05-12
+created: 2026-05-12T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [adaptive-learning, assessment, engagement-metrics, learning-analytics, student-experience, adaptive-learning-systems, computational-thinking]

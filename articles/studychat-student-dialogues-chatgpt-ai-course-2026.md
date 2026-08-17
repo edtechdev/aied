@@ -1,6 +1,6 @@
 ---
 title: "The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course"
-created: 2026-08-16
+created: 2026-08-16T18:05:58-04:00
 updated: 2026-08-16
 type: article
 tags: [llm, ai-tutoring, learning-analytics, dialogue, cs-education, student-experience, over-reliance, dataset, self-regulated-learning]

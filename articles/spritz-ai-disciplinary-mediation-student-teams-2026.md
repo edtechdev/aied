@@ -1,6 +1,6 @@
 ---
 title: "Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication"
-created: 2026-08-11
+created: 2026-08-11T13:10:53-04:00
 updated: 2026-08-11
 type: article
 tags: [collaborative-learning, project-based-learning, human-ai-collaboration, conversational-agents, llm, higher-ed, student-experience, qualitative-research]

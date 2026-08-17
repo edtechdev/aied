@@ -1,6 +1,6 @@
 ---
 title: "Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [ai-detection, llm, generative-ai, plagiarism-detection, academic-integrity, evaluation, ai-education, safety]

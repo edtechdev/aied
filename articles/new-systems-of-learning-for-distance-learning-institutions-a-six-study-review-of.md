@@ -1,6 +1,6 @@
 ---
 title: "New systems of learning for distance learning institutions? A six-study review of implementing AIDA"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-13
 type: article
 tags: [generative-ai, higher-ed, distance-learning, design-based-research, ai-chatbots, governance, technology-adoption, learning-analytics, privacy]

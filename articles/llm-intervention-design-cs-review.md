@@ -1,6 +1,6 @@
 ---
 title: A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-created: 2026-07-31
+created: 2026-07-31T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, efficacy-study, prompt-engineering, higher-ed, computational-thinking, llm-in-education]

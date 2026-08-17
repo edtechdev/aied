@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-16T03:36:31-04:00
 type: concept
 tags: [behaviorism, learning-theory, instructional-design, adaptive-learning, intelligent-tutoring, generative-ai, higher-ed]
 confidence: medium

@@ -1,6 +1,6 @@
 ---
 title: "Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications"
-created: 2026-07-14
+created: 2026-07-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, student-experience, stem-education, higher-ed, reshaping-cs-education-genai, ai-literacy, rag]

@@ -1,6 +1,6 @@
 ---
 title: Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
-created: 2026-05-26
+created: 2026-05-26T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, metacognition, student-experience, efficacy-study, over-reliance, self-regulated-learning, scaffolding]

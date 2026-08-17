@@ -1,6 +1,6 @@
 ---
 title: "ASE-26: A Curriculum for Agentic Software Engineering as a Discipline"
-created: 2026-06-02
+created: 2026-06-02T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-literacy, curriculum-design, higher-ed, software-engineering, prompt-engineering, scaffolding, agentic-workflows, metacognition]

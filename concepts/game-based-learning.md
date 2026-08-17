@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-15T10:24:06-04:00
 type: concept
 tags: [game-based-learning, gamification, engagement, educational-robotics, motivation, active-learning]
 confidence: high

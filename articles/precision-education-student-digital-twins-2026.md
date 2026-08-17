@@ -1,6 +1,6 @@
 ---
 title: "From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways"
-created: 2026-08-07
+created: 2026-08-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [adaptive-learning, student-modeling, personalized-learning, higher-ed, predictive-modeling, learning-analytics]

@@ -1,6 +1,6 @@
 ---
 title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"
-created: 2026-05-29
+created: 2026-05-29T19:01:35-04:00
 updated: 2026-08-13
 type: article
 tags: [ai-education, ai-literacy, design-thinking, dot-framework, higher-ed, human-in-the-loop, institutional-change, open-source, practitioner-beliefs, survey]

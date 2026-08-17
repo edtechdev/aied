@@ -1,6 +1,6 @@
 ---
 title: "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education"
-created: 2026-06-03
+created: 2026-06-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]

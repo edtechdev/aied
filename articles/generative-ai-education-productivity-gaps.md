@@ -1,6 +1,6 @@
 ---
 title: "Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [rct, productivity, equity, generative-ai, ai-education, higher-ed, workforce-development, upskilling, llm]

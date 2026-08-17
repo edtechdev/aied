@@ -1,6 +1,6 @@
 ---
 title: "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations"
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, assessment, automated-grading, assessment-validity, scaffolding, educational-theory, zone-of-proximal-development, ai-tutoring, automated-assessment]

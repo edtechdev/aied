@@ -1,6 +1,6 @@
 ---
 title: "Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking"
-created: 2026-07-23
+created: 2026-07-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, cs-education, higher-ed, generative-ai, engagement-metrics, bias-mitigation, rag, scaffolding]

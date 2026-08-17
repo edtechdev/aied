@@ -1,6 +1,6 @@
 ---
 title: Tutoring-Specific vs. General-Purpose AI in Education
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, zone-of-proximal-development, metacognition]

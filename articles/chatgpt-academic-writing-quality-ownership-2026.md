@@ -1,6 +1,6 @@
 ---
 title: "Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [writing-education, chatgpt, higher-ed, cognitive-offloading, agency, ownership]

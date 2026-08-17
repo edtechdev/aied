@@ -1,6 +1,6 @@
 ---
 title: "The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-13
 type: article
 tags: [ai-literacy, curriculum-design, digital-divide, scaffolding, ai-education, equity, framework, ai-tutoring]

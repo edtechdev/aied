@@ -1,7 +1,7 @@
 ---
 title: Over-Reliance
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T18:05:58-04:00
 type: concept
 tags: [over-reliance, cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai]
 confidence: high

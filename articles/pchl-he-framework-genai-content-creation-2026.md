@@ -1,6 +1,6 @@
 ---
 title: "From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education"
-created: 2026-08-11
+created: 2026-08-11T13:10:53-04:00
 updated: 2026-08-11
 type: article
 tags: [generative-ai, agentic-ai, prompt-engineering, higher-ed, instructional-design, verification, content-generation, ai-literacy, academic-integrity]

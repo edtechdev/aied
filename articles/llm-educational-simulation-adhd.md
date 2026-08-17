@@ -1,6 +1,6 @@
 ---
 title: "LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles"
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, student-experience, ai-education, generative-ai, benchmark, learning-analytics, adaptive-learning-systems, adaptive-learning, ai-tutoring]

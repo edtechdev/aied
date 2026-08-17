@@ -1,6 +1,6 @@
 ---
 title: Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
-created: 2026-07-23
+created: 2026-07-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, cs-education, policy-maker]

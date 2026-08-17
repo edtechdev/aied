@@ -1,6 +1,6 @@
 ---
 title: "Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?"
-created: 2026-05-28
+created: 2026-05-28T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, higher-ed, ai-literacy, stem-education, equity, teacher-ai-competency, automated-grading, llm, generative-ai]

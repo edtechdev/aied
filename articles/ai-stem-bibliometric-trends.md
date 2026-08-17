@@ -1,6 +1,6 @@
 ---
 title: Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
-created: 2026-07-09
+created: 2026-07-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [stem-education, generative-ai, intelligent-tutoring, scaffolding, adaptive-learning, learning-analytics, llm, computational-thinking]

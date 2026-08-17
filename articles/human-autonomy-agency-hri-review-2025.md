@@ -1,6 +1,6 @@
 ---
 title: "Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review"
-created: 2026-08-13
+created: 2026-08-13T18:49:42-04:00
 updated: 2026-08-13
 type: article
 tags: [human-robot-interaction, agency, autonomy, systematic-review, ethics, governance, well-being]

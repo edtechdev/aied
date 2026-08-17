@@ -1,6 +1,6 @@
 ---
 title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [tutoring, tutoring-systems, scaffolding, ai-tutoring, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]

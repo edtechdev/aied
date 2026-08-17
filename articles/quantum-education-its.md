@@ -1,6 +1,6 @@
 ---
 title: Quantum Education Intelligent Tutoring
-created: 2026-05-08
+created: 2026-05-08T04:33:04-04:00
 updated: 2026-08-14
 type: article
 tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, stem-education, knowledge-graph, agentic-ai, llm, ai-tutoring, scaffolding]

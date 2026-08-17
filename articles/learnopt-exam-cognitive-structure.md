@@ -1,6 +1,6 @@
 ---
 title: "LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization"
-created: 2026-06-16
+created: 2026-06-16T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [learning-analytics, llm, k-12, personalized-learning, assessment, student-experience, rag]

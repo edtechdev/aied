@@ -1,6 +1,6 @@
 ---
 title: Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-created: 2026-06-29
+created: 2026-06-29T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [assessment, llm, learning-analytics, higher-ed, student-modeling, benchmark, k-12, adaptive-learning, personalized-learning, knowledge-tracing]

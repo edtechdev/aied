@@ -1,6 +1,6 @@
 ---
 title: What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-created: 2026-05-20
+created: 2026-05-20T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [language-learning, llm, generative-ai, benchmark, scaffolding, formative-assessment, writing-education, rag, open-source, k-12]

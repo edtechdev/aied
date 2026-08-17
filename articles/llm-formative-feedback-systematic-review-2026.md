@@ -1,6 +1,6 @@
 ---
 title: "LLM-generated formative feedback in education: A qualitative systematic literature review"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [feedback, formative-assessment, llm, generative-ai, feedback-literacy, self-regulated-learning]

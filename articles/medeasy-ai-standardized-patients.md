@@ -1,6 +1,6 @@
 ---
 title: "MedEasy: Designing AI Standardized Patients for Clinical Consultation Training"
-created: 2026-06-18
+created: 2026-06-18T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, generative-ai, higher-ed, active-learning, feedback-loop, adaptive-virtual-patient-psychotherapy-training, professional-training]

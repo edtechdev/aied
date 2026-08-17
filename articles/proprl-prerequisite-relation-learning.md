@@ -1,6 +1,6 @@
 ---
 title: "ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [adaptive-learning, knowledge-tracing, student-modeling, ai-education, personalized-learning, llm, evidence]

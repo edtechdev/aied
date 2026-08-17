@@ -1,6 +1,6 @@
 ---
 title: Principled AI in Education
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]

@@ -1,6 +1,6 @@
 ---
 title: "Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [generative-ai, higher-ed, computational-thinking, ai-tutoring, systematic-review, design-guidelines, ai-education]

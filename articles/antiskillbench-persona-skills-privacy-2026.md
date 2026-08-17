@@ -1,6 +1,6 @@
 ---
 title: "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills"
-created: 2026-08-05
+created: 2026-08-05T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [privacy, agentic-ai, student-ai-interaction, bias-mitigation, personalized-learning, benchmark, rag]

@@ -1,6 +1,6 @@
 ---
 title: "Challenges for Musical Education in the Age of AI and Digital Transformation"
-created: 2026-08-10
+created: 2026-08-10T09:10:02-04:00
 updated: 2026-08-10
 type: article
 tags: [music-education, generative-ai, curriculum-design, ai-literacy, digital-transformation, ai-education]

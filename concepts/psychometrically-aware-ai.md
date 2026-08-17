@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: 2026-07-28
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, confidence-aware-ai-assessment, llm]
 confidence: medium

@@ -1,6 +1,6 @@
 ---
 title: "Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build"
-created: 2026-05-23
+created: 2026-05-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, over-reliance, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education]

@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making"
-created: 2026-08-11
+created: 2026-08-11T13:10:53-04:00
 updated: 2026-08-11
 type: article
 tags: [policy, higher-ed, governance, ethics, equity, systematic-review, institutional-change, administrator]

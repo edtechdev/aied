@@ -1,6 +1,6 @@
 ---
 title: "Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks"
-created: 2026-07-28
+created: 2026-07-28T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, health-education, equity, content-quality, equity-in-ai-education, adaptive-virtual-patient-psychotherapy-training, llm, ai-education]

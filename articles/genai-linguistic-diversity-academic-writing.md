@@ -1,6 +1,6 @@
 ---
 title: "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes"
-created: 2026-07-31
+created: 2026-07-31T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, writing-education, equity, higher-ed, language-learning]

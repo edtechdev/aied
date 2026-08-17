@@ -1,6 +1,6 @@
 ---
 title: "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents"
-created: 2026-08-04
+created: 2026-08-04T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, agentic-ai, multi-agent, mooc, online-education, personalized-learning, intelligent-tutoring, course-design, rag, generative-ai]

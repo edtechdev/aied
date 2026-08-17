@@ -1,6 +1,6 @@
 ---
 title: "Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension"
-created: 2026-08-14
+created: 2026-08-14T09:17:22-04:00
 updated: 2026-08-14
 type: article
 tags: [ai-education, higher-ed, collaborative-learning, project-based-learning, active-learning, student-experience, curriculum-design, computational-thinking, ai-literacy, community-of-inquiry]

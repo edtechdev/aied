@@ -1,6 +1,6 @@
 ---
 title: "Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency"
-created: 2026-08-10
+created: 2026-08-10T09:10:02-04:00
 updated: 2026-08-10
 type: article
 tags: [ai-generated-content, critical-thinking, writing, feedback, k-12, automated-grading, scaffolding, ai-education]

@@ -1,6 +1,6 @@
 ---
 title: "The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions"
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [formative-assessment, llm, automated-grading, k-12, student-modeling]

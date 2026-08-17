@@ -1,6 +1,6 @@
 ---
 title: "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior"
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, metacognition, scaffolding, active-learning, self-regulated-learning]

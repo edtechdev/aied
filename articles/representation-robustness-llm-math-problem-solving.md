@@ -1,6 +1,6 @@
 ---
 title: Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving
-created: 2026-07-24
+created: 2026-07-24T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, stem-education, benchmark, assessment-validity, reinforcement-learning, rag, math-education]

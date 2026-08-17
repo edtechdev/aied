@@ -1,6 +1,6 @@
 ---
 title: "Learning-to-learn in the age of generative AI: A scoping review and conceptual framework"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [generative-ai, higher-ed, self-regulated-learning, language-learning, systematic-review, epistemic-agency, ai-education, ai-tutoring]

@@ -1,6 +1,6 @@
 ---
 title: Principled AI Education Framework
-created: 2026-07-29
+created: 2026-07-29T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, curriculum-design, instructional-design, generative-ai, zone-of-proximal-development, scaffolding, metacognition]

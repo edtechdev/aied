@@ -1,6 +1,6 @@
 ---
 title: "From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments"
-created: 2026-07-03
+created: 2026-07-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, scaffolding, formative-assessment, higher-ed, automated-grading, learning-analytics, ai-literacy, k-12]

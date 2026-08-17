@@ -1,6 +1,6 @@
 ---
 title: "Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources"
-created: 2026-08-15
+created: 2026-08-15T09:23:09-04:00
 updated: 2026-08-15
 type: article
 tags: [cs-education, open-source, llm, rag, benchmark, privacy, ai-ed-evaluation, generative-ai, sustainability, edtech-platform]

@@ -1,6 +1,6 @@
 ---
 title: "Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams"
-created: 2026-05-28
+created: 2026-05-28T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, writing-education, faculty-development, automated-grading, llm, persistent-ai-agents-academic-research, ai-literacy]

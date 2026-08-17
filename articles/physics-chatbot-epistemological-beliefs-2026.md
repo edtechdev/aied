@@ -1,6 +1,6 @@
 ---
 title: "Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [physics-education, chatbot, socratic-method, ai-literacy, higher-ed, student-experience, generative-ai, stem-education]

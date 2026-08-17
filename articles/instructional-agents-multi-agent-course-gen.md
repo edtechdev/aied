@@ -1,6 +1,6 @@
 ---
 title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design"
-created: 2026-08-06
+created: 2026-08-06T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [multi-agent, llm, instructional-design, course-generation, addie, higher-ed, teacher-support, automated-courseware, faculty-development]

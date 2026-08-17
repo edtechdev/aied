@@ -1,6 +1,6 @@
 ---
 title: "ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time"
-created: 2026-06-17
+created: 2026-06-17T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, scaffolding, k-12, personalized-learning, llm]

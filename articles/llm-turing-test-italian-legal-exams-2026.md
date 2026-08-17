@@ -1,6 +1,6 @@
 ---
 title: What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
-created: 2026-08-07
+created: 2026-08-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, assessment, professional-training, ai-ed-evaluation, benchmark, automated-grading]

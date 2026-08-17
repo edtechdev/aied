@@ -1,6 +1,6 @@
 ---
 title: "From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [affective-computing, ai-education, ai-tutoring, educational-technology, edtech-platform, evaluation]

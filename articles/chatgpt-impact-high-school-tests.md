@@ -1,6 +1,6 @@
 ---
 title: Little Impact of ChatGPT Availability on High School Student Test Score Performance
-created: 2026-05-14
+created: 2026-05-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, k-12, over-reliance, academic-integrity, efficacy-study, k-12, student-experience, rag, ai-education]

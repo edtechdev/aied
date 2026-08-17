@@ -1,6 +1,6 @@
 ---
 title: "Benchmarking the Pedagogical Knowledge of Large Language Models"
-created: 2026-08-15
+created: 2026-08-15T15:31:07-04:00
 updated: 2026-08-15
 type: article
 tags: [benchmark, ai-ed-evaluation, educational-measurement, llm, teacher-role, teacher-ai-competency, professional-training, k-12, special-education]

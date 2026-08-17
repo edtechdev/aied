@@ -1,6 +1,6 @@
 ---
 title: Co-Creating Buildable and Open Social Robot Study Companions with University Students
-created: 2026-06-17
+created: 2026-06-17T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education, human-ai-collaboration]

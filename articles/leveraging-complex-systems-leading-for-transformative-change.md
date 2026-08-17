@@ -1,6 +1,6 @@
 ---
 title: "Leveraging complex systems: Leading for transformative change"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-13
 type: article
 tags: [generative-ai, higher-ed, leadership, institutional-change, learning-analytics, governance, educational-technology, policy]

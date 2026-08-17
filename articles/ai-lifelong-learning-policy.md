@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"
-created: 2026-05-21
+created: 2026-05-21T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [lifelong-learning, policy-maker, equity, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, dot-framework-survey, regulation, algorithmic-bias]

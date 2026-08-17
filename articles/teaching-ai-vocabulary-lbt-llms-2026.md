@@ -1,6 +1,6 @@
 ---
 title: "Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Student to Perform Learning by Teaching in Vocabulary Acquisition"
-created: 2026-08-14
+created: 2026-08-14T10:45:34-04:00
 updated: 2026-08-14
 type: article
 tags: [learning-by-teaching, teachable-agents, generative-ai, language-learning, vocabulary, llm, student-experience]

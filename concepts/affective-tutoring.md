@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: 2026-05-07
-updated: 2026-08-15
+updated: 2026-08-15T02:35:44-04:00
 type: concept
 tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed, llm, generative-ai, student-experience, ai-literacy]
 confidence: medium

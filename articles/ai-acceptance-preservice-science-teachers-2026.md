@@ -1,6 +1,6 @@
 ---
 title: "Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers"
-created: 2026-08-12
+created: 2026-08-12T12:37:38-04:00
 updated: 2026-08-12
 type: article
 tags: [teacher-ai-competency, teacher-role, ai-literacy, higher-ed, stem-education, survey, equity, global-south]

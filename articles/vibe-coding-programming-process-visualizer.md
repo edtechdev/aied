@@ -1,6 +1,6 @@
 ---
 title: 'From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs'
-created: 2026-07-30
+created: 2026-07-30T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform, adaptive-learning, student-experience, personalized-learning, ai-literacy]

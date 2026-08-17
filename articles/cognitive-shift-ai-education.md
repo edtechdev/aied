@@ -1,6 +1,6 @@
 ---
 title: "Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?"
-created: 2026-05-20
+created: 2026-05-20T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, student-experience, higher-ed, stem-education, over-reliance, efficacy-study, faculty-development, generative-ai, scaffolding]

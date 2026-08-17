@@ -1,6 +1,6 @@
 ---
 title: "AI writes, we collaborate—or vice versa? Group strategies for using generative AI in collaborative writing assignments"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [writing-education, collaborative-learning, generative-ai, higher-ed, group-work, agency]

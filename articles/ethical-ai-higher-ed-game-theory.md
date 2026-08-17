@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning"
-created: 2026-05-28
+created: 2026-05-28T04:33:04-04:00
 updated: 2026-08-14
 type: article
 tags: [higher-ed, academic-integrity, generative-ai, policy-maker, regulation, llm, ai-literacy, formative-assessment, motivation, educational-policy-ai, governance]

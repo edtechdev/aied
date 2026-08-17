@@ -1,6 +1,6 @@
 ---
 title: "Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [human-ai-collaboration, computing-education, stem-education, qualitative-research, llm, generative-ai, ai-education, higher-ed, programming-education]

@@ -1,6 +1,6 @@
 ---
 title: "Human-centered AI for teacher educators: Designing professional learning for critical AI literacy"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [teacher-education, ai-literacy, professional-development, ethics, teacher-role]

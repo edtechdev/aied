@@ -1,6 +1,6 @@
 ---
 title: "School network reorganization under educational and spatial constraints using classical and quantum optimization"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [ai-education, k-12, equity, simulation, systematic-review, policy, data-driven, optimization]

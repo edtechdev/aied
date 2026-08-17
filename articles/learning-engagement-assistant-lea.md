@@ -1,6 +1,6 @@
 ---
 title: "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System"
-created: 2026-07-16
+created: 2026-07-16T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, intelligent-tutoring, higher-ed, stem-education, formative-assessment, benchmark, knowledge-tracing, personalized-learning, rag]

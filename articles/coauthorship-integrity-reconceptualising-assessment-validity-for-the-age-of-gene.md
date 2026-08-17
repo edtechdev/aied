@@ -1,6 +1,6 @@
 ---
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [generative-ai, assessment, conversational-agents, assessment-validity, academic-integrity, ai-education, ai-tutoring]

@@ -1,6 +1,6 @@
 ---
 title: "Confident yet Concerned: Inconsistencies in Computing Students'' Attitudes on Cybersecurity"
-created: 2026-06-18
+created: 2026-06-18T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [higher-ed, student-experience, ai-literacy, academic-integrity, engagement-metrics]

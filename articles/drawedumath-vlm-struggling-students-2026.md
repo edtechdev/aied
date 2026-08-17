@@ -1,6 +1,6 @@
 ---
 title: "The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors"
-created: 2026-08-15
+created: 2026-08-15T15:53:50-04:00
 updated: 2026-08-15
 type: article
 tags: [math-education, multimodal, student-misconceptions-ai, ai-ed-evaluation, educational-measurement, assessment-validity, k-12, llm, equity-in-ai-education]

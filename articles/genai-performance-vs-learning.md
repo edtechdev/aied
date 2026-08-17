@@ -1,6 +1,6 @@
 ---
 title: Distinguishing performance gains from learning when using generative AI
-created: 2026-05-14
+created: 2026-05-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, metacognition, over-reliance, higher-ed, scaffolding, self-regulated-learning, ai-assistance-reduces-persistence, rag, llm]

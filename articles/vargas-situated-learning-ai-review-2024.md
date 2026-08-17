@@ -1,6 +1,6 @@
 ---
 title: "Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [situated-learning, experiential-learning, constructivist, adaptive-learning, teacher-role, ai-education, instructional-design, personalized-learning]

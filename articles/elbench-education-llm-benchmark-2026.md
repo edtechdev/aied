@@ -1,6 +1,6 @@
 ---
 title: "ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [benchmark, llm-evaluation, ai-ed-evaluation, pedagogical-safety, llm, safety, generative-ai]

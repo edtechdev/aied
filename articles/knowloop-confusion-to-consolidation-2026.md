@@ -1,6 +1,6 @@
 ---
 title: "From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review"
-created: 2026-08-06
+created: 2026-08-06T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [conversational-agents, personalized-learning, higher-ed, learning-by-teaching, dual-agent, scaffolding, confusion-detection, teach-back, lecture-review, student-experience]

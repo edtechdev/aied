@@ -1,6 +1,6 @@
 ---
 title: "\"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [embodied-learning, embodied-ai, cognitive-science, critical-thinking, situated-learning, human-ai-collaboration, higher-ed, philosophy-of-education]

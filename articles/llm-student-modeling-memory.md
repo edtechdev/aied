@@ -1,6 +1,6 @@
 ---
 title: LLM Student Modeling and Long-Term Memory Architecture
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, generative-ai, lifelong-learning, pedagogical-llm-training, self-regulated-learning, metacognition, rag]

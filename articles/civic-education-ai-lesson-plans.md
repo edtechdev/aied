@@ -1,6 +1,6 @@
 ---
 title: AI-Generated Lesson Plans in Civic Education
-created: 2026-05-09
+created: 2026-05-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity, pedagogical-llm-training, llm-cultural-relevance-k12, teacher-ai-competency, genai-policy-prompting-rct]

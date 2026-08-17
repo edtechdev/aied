@@ -1,6 +1,6 @@
 ---
 title: "LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop"
-created: 2026-08-15
+created: 2026-08-15T16:09:27-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-feedback-quality, feedback-loop, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]

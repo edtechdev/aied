@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: 2026-05-07
-updated: 2026-08-15
+updated: 2026-08-15T10:19:32-04:00
 type: concept
 tags: [transfer-of-learning, metacognition, cognitive-load-theory, desirable-difficulties, k-12, ai-tutoring, scaffolding, over-reliance]
 confidence: high

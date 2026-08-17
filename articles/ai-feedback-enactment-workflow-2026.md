@@ -1,6 +1,6 @@
 ---
 title: "Making AI-Generated Feedback Matter: From Provision to Student Enactment"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [feedback-loop, formative-assessment, learning-analytics, higher-ed, student-experience, self-regulated-learning, human-ai-collaboration, llm]

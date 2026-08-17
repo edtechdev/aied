@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T04:26:01-04:00
 type: concept
 tags: [zone-of-proximal-development, over-reliance, cognitive-load-theory, feedback-loop, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 confidence: high

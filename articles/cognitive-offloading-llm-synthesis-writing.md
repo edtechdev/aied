@@ -1,6 +1,6 @@
 ---
 title: "Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content"
-created: 2026-06-10
+created: 2026-06-10T12:17:35-04:00
 updated: 2026-08-15
 type: article
 tags: [writing-education, llm, student-experience, higher-ed, ai-literacy, generative-ai, intelligent-tutoring, scaffolding, k-12, stem-education]

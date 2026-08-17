@@ -1,6 +1,6 @@
 ---
 title: "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming"
-created: 2026-07-03
+created: 2026-07-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, cs-education, student-ai-interaction, scaffolding, higher-ed, automated-grading, llm, learning-analytics, formative-assessment]

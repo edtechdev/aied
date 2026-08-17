@@ -1,6 +1,6 @@
 ---
 title: "Navigating the skill diversity frontier: How skill complexity explains worker resilience"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [workforce-development, upskilling, professional-development, professional-training, ai-education, llm, productivity, data-driven]

@@ -1,6 +1,6 @@
 ---
 title: "Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision"
-created: 2026-07-22
+created: 2026-07-22T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [special-education, equity, professional-training, higher-ed]

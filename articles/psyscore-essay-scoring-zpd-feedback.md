@@ -1,6 +1,6 @@
 ---
 title: "PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback"
-created: 2026-06-19
+created: 2026-06-19T04:33:04-04:00
 updated: 2026-08-14
 type: article
 tags: [automated-grading, formative-assessment, feedback-loop, writing-education, scaffolding, llm, confidence-aware-ai-assessment]

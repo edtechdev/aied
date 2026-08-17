@@ -1,6 +1,6 @@
 ---
 title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-created: 2026-07-09
+created: 2026-07-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, teacher-role, ai-literacy, generative-ai, faculty-development, active-learning, llm]

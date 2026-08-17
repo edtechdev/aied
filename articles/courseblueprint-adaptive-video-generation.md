@@ -1,6 +1,6 @@
 ---
 title: "CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora"
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, personalized-learning, scaffolding, higher-ed]

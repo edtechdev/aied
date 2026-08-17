@@ -1,6 +1,6 @@
 ---
 title: "WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant"
-created: 2026-08-06
+created: 2026-08-06T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
