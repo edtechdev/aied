@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 710 articles and 137 concepts.
+> Complete text of 711 articles and 137 concepts.
 
 # Articles
 
@@ -24884,6 +24884,44 @@ Oreopoulos, P., & Low, N. (2026). *[One click away: AI tutoring with Khanmigo in
 
 ---
 
+## [Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning](https://edtechdev.github.io/aied/articles/ontology-layered-hybrid-knowledge-model-personalized-elearning-2026/)
+
+> **An ontology-based, layered hybrid knowledge model for personalized e-learning** — a conceptual architecture paper by Tatyana Ivanova (2026) that classifies the knowledge required for personalization and proposes a layered knowledge-base architecture grounded in description logic. Its central move is replacing the classic ITS four-model architecture (domain, student, tutoring, interface) with **systems of mapped ontologies**, while adding procedural knowledge (rules), probabilistic/fuzzy knowledge (via fuzzy/probabilistic description-logic extensions), and implicit knowledge extracted through [[learning-analytics|learning analytics]] and machine learning. Because ontologies alone are static and handle uncertainty poorly, the paper argues personalization requires combining them with teaching-strategy sequencing rules, analytics, and ML — and it contributes a metadata framework for describing, discovering, and **reusing** educational ontologies.
+
+## Key Findings
+
+- **Personalization needs more than ontologies.** Ontologies are mostly static or slowly evolving and have limited handling of uncertainty, so effective personalized learning must combine them with teaching-strategy sequencing rules, [[learning-analytics|learning analytics]] (to infer and predict learner needs), and machine learning for extracting implicit knowledge from educational data.
+- **Systems of mapped ontologies extend the ITS architecture.** The paper differs from most prior work by proposing a *system of mapped ontologies* in place of each single ontology across the four classic [[intelligent-tutoring|ITS]] knowledge-base models (domain, student/tutoring, pedagogical, interface), together with storage for procedural knowledge (as rules) and imprecise/probabilistic knowledge (fuzzy or probabilistic [[knowledge-graph|description-logic]] extensions).
+- **ITS vs. IES distinction.** An Intelligent Tutoring System is a specialized AI system focused on individual personalized tutoring; an Intelligent Educational System (IES) is a broader, multi-module ecosystem integrating tutoring, [[learning-analytics|analytics]], recommendation, and administrative decision-making. Ontologies in ITS enable cognitive tutoring; ontologies in IES mainly enable semantic integration.
+- **Ontology classification for reuse.** The paper proposes a purpose-based classification of educational ontologies driven by the ITS model (tutoring-domain, pedagogy, or learner-profile), and a metadata framework with **eight upper-level classes** — ontologies, rules, mappings, data-driven (ML/analytics), ontology management tools, core descriptors, technical descriptors, and usage contexts — to support semantic search, evaluation, recommendation, and mapping, thereby reducing the time, effort, and cost of ontology development and evolution.
+
+## Connected Concepts
+
+- [[knowledge-graph]]
+- [[intelligent-tutoring]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[student-modeling]]
+- [[instructional-design]]
+- [[edtech-platform]]
+- [[learning-analytics]]
+- [[llm]]
+
+## Connected Articles
+
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS course comparison
+- [[quantum-education-its]] — Quantum education intelligent tutoring (ITAS)
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized learning in elementary fractions
+- [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
+
+## Citation
+
+Ivanova, T. (2026). *[Ontology-based layered hybrid AI-driven knowledge model for personalized e-learning](https://doi.org/10.3390/math14050808)*. Mathematics, 14(5), 808.
+
+---
+
 ## [Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment](https://edtechdev.github.io/aied/articles/pairr-ai-peer-review-2025/)
 
 > **Synthesis:** Sperber et al. (2025) present the Peer and AI Review + Reflection (PAIRR) model, a human-centered approach to formative assessment that combines peer review best practices with AI review while emphasizing student agency and reflection. In the largest study of college students' use of AI feedback to date (N = 654 across 10 writing courses and three writing-intensive STEM courses at UC Davis), they found that AI feedback is most useful when combined with peer review: the majority of students preferred combined feedback, found the similarity between AI and peer feedback reassuring, valued their complementary perspectives, and developed AI literacy by critically assessing AI outputs.
@@ -33995,6 +34033,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[behaviorism]]
 
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -36459,6 +36498,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[stem-education]]
 
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -38139,6 +38179,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[learning-theories]]
 - [[behaviorism]]
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
@@ -38254,6 +38295,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[k-12]]
 
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -38432,6 +38474,7 @@ Knowledge graphs are a recurring structural mechanism across the wiki's AIED res
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns prerequisite relations among concepts, formalizing the edges that knowledge graphs encode.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
 - **Multimodal and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
+- **Ontology-based knowledge bases:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] proposes a layered, hybrid knowledge-base architecture grounded in description logic that replaces the classic ITS single-ontology models with **systems of mapped ontologies** — adding procedural (rule-based), probabilistic/fuzzy, and ML-extracted implicit knowledge — plus a metadata framework for describing, discovering, and reusing educational ontologies.
 - **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
 
 ## LLM-driven knowledge graph construction
@@ -38458,6 +38501,7 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
@@ -38607,6 +38651,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
@@ -39826,6 +39871,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[learning-analytics]]
 - [[teacher-role]]
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[ai-guided-learning-audiovideo-2026]]
 
@@ -41563,6 +41609,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[ai-education]]
 - [[intelligent-tutoring]]
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-guided-learning-audiovideo-2026]]

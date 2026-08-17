@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-17 | **Total pages:** 847
+**Last updated:** 2026-08-17 | **Total pages:** 848
 ---
 ## Quick Links
 
@@ -615,6 +615,7 @@
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning
 - [[open-source]] — Open Source
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment
 - [[panciroli-ai-literacy-episodes-situated-learning]] — Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning

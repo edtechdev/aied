@@ -61,6 +61,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[learning-theories]]
 - [[behaviorism]]
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods

@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-17T18:25:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 confidence: high
@@ -24,6 +24,7 @@ Knowledge graphs are a recurring structural mechanism across the wiki's AIED res
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns prerequisite relations among concepts, formalizing the edges that knowledge graphs encode.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
 - **Multimodal and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
+- **Ontology-based knowledge bases:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] proposes a layered, hybrid knowledge-base architecture grounded in description logic that replaces the classic ITS single-ontology models with **systems of mapped ontologies** — adding procedural (rule-based), probabilistic/fuzzy, and ML-extracted implicit knowledge — plus a metadata framework for describing, discovering, and reusing educational ontologies.
 - **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
 
 ## LLM-driven knowledge graph construction
@@ -50,6 +51,7 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
