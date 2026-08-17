@@ -2,6 +2,14 @@
 
 > Chronological record of all wiki actions. Append-only.
 
+## [2026-08-16] docs | Sync tooling/skills/AGENTS/SCHEMA/README to current conventions
+
+- AGENTS.md, SCHEMA.md, tooling/SCHEMA.md: frontmatter created/updated now documented as FULL QUOTED date+time timestamps (e.g. "2026-08-16T20:47:13-04:00"), never bare dates — because sidebar/RSS sort by string compare and unquoted ISO shifts to UTC.
+- AGENTS.md + tooling/SKILL.md + installed Hermes skill: added mandatory rules — (1) ingestion enrichment (integrate significant article insights into connected concept BODY narrative, not just Connected Articles lists); (2) significant body edit -> bump updated + rebuild so right sidebar refreshes; (3) created = ingestion date+time not pub date.
+- tooling/SKILL.md synced with installed ~/.hermes/skills/research-wiki/SKILL.md (umbrella-sources journal rule, subagent back-link pitfall, Astro whitespace pitfall, one-Concepts-section index note).
+- tooling/cron/daily-scan-prompt.md + weekly-rss-scan-prompt.md: created/updated templates updated to quoted full timestamps; 'Recent Articles' -> 'Recently Added Articles' header name.
+- README.md: page-structure frontmatter note updated.
+
 ## [2026-08-16] ingest | Cognitive offloading metacognitive review (Guo & Ye 2026, Nature HSSC)
 
 - Ingested Guo & Ye (2026), "Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications", Humanities and Social Sciences Communications 13:772 (open access, DOI 10.1057/s41599-026-06621-5). Full text PDF supplied by Doug; raw saved to raw/papers/cognitive-offloading-metacognitive-review-2026.md (+.pdf).

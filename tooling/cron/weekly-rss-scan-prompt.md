@@ -43,8 +43,8 @@ For each NEW, RELEVANT article:
 ```yaml
 ---
 title: "Full Paper Title"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article
 tags: [relevant, concept, tags]
 sources: []  # empty — no full text saved; maintainer will send PDF later

@@ -65,7 +65,7 @@ The built site lands in `dist/` and is deployed to GitHub Pages via the GitHub A
 
 ## Page Structure
 
-- **Article pages** — frontmatter (title, date, type, tags, **sources**, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title. Every article frontmatter must include a `sources:` field (required by the Astro 7 content schema) pointing to the raw source file.
+- **Article pages** — frontmatter (title, created/updated with full quoted date+time timestamps, type, tags, **sources**, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title. Every article frontmatter must include a `sources:` field (required by the Astro 7 content schema) pointing to the raw source file.
 - **Concept pages** — frontmatter → synthesis → research themes with wikilinks to related articles → Connected Concepts → Connected Articles
 - All inter-page links use `[[wikilink]]` syntax which the Astro templates render as hyperlinks
 - Tags are comma-delimited in frontmatter and rendered as plain tag chips in the page header (not clickable links)
