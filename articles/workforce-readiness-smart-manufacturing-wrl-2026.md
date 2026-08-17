@@ -1,22 +1,22 @@
 ---
 title: "A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era"
 created: "2026-08-17T09:40:00-04:00"
-updated: "2026-08-17T09:40:00-04:00"
+updated: "2026-08-17T10:00:00-04:00"
 type: article
 tags: [stem-education, professional-training, ai-literacy, human-ai-collaboration, higher-ed, curriculum-design, experiential-learning]
 sources: ['raw/papers/2608.11540.md']
 confidence: high
 ---
 
-> **Synthesis:** Smith and colleagues (2026) argue that AI, the Industrial Internet of Things, cyber-physical systems, and advanced robotics are reshaping manufacturing faster than [[curriculum-design|engineering curricula]] can adapt, widening the gap between shop-floor competencies and what universities teach. To close it, they propose a **Workforce Readiness Level (WRL)** framework that adapts the Technology Readiness Level scale into nine progressive competency stages scored across four pillars — digital and AI literacy, cyber-physical systems fluency, human-machine collaboration, and data-driven decision making — aggregated under a "no-thin-pillar" rule. Instantiated in a university smart-manufacturing teaching laboratory over 89 sponsored capstone projects, the framework surfaced hidden cyber-physical and data-driven gaps and showed that advancement to the highest stages was gated by industry-embedded experience rather than additional coursework, offering educators and accreditation bodies a common instrument for diagnosing workforce readiness.
+> **Synthesis:** Smith and colleagues (2026) argue that AI, the Industrial Internet of Things, cyber-physical systems, and advanced robotics are reshaping manufacturing faster than [[curriculum-design|engineering curricula]] can adapt, widening the gap between shop-floor competencies and what universities teach. To close it, they propose a **Workforce Readiness Level (WRL)** framework that adapts the Technology Readiness Level scale into nine progressive competency stages scored across four pillars — digital and [[ai-literacy|AI literacy]], cyber-physical systems fluency, [[human-ai-collaboration|human-machine collaboration]], and data-driven decision making — aggregated under a "no-thin-pillar" rule. Instantiated in a university smart-manufacturing teaching laboratory over 89 sponsored capstone projects, the framework surfaced hidden cyber-physical and data-driven gaps and showed that advancement to the highest stages was gated by industry-embedded experience rather than additional coursework, offering educators and accreditation bodies a common instrument for diagnosing workforce readiness.
 
 ## The framework: from technology readiness to workforce readiness
 
 The paper's central move is to transplant a familiar [[assessment-validity|assessment]] logic — the Technology Readiness Level (TRL) scale used across engineering — into the realm of human competency. The resulting **Workforce Readiness Level** framework defines nine progressive stages of workplace capability, each aggregating four pillars:
 
-1. **Digital and AI literacy** — the foundational ability to work with data, automation, and AI tools.
+1. **Digital and [[ai-literacy|AI literacy]]** — the foundational ability to work with data, automation, and AI tools.
 2. **Cyber-physical systems fluency** — understanding how physical processes connect to networked computation.
-3. **Human-machine collaboration** — working effectively alongside automation and AI agents.
+3. **[[human-ai-collaboration|Human-machine collaboration]]** — working effectively alongside automation and AI agents.
 4. **Data-driven decision making** — using evidence to make operational choices.
 
 These pillars jointly span the relevant **ABET student outcomes**, giving the framework traction within formal engineering education. A composite stage score and a cohort-level workforce-readiness index summarize progress, while the **"no-thin-pillar" rule** enforces that a learner cannot be certified ready if any single pillar is too weak — even when overall analytics look strong.
