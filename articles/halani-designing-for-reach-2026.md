@@ -1,7 +1,7 @@
 ---
 title: "Designing for Reach: Seven Levers and the Student Alone with AI"
 created: "2026-08-14T03:41:48-04:00"
-updated: "2026-08-14"
+updated: "2026-08-17T06:50:00-04:00"
 type: article
 tags: [generative-ai, course-design, assessment, formative-assessment, cognitive-offloading, help-seeking, self-regulated-learning, metacognition, mathematics-education, higher-ed, k-12, learning-environment]
 sources: ['raw/papers/halani-designing-for-reach-2026.md']
@@ -33,7 +33,7 @@ Three general observations: every classroom has a setting on all seven levers (d
 - To value process over product, one could tell students process matters (Frame), but a larger-reach move is making the product less valuable (Structure).
 - To keep students out of a pitfall, one could warn them (Frame), but a higher-reach move is a task the pitfall does not work on (Material).
 
-The gap between what a design produces under supervision and what it produces once the tool is gone has been measured directly (Rismanchian et al. 2026; Wong & Qiu 2026): in a "think first, ChatGPT later" study, the free-ChatGPT group produced the most [[creativity|creative]] work on the assisted task but fell back to baseline on a later no-ChatGPT task, while the think-first group produced more creative responses.
+The gap between what a design produces under supervision and what it produces once the tool is gone has been measured directly (Rismanchian et al. 2026; [[think-first-chatgpt-later-2026|Wong & Qiu 2026]]): in a "think first, ChatGPT later" study, the free-ChatGPT group produced the most [[creativity|creative]] work on the assisted task but fell back to baseline on a later no-ChatGPT task, while the think-first group produced more creative responses.
 
 ## Three illustrative configurations
 
@@ -82,6 +82,7 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 
 ## Connected Articles
 
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM-assisted writing
 - [[cognitive-offloading-speedup-illusion]] — The speedup illusion of cognitive offloading
 - [[generative-refusal-ai-tools-for-thought]] — Generative refusal: AI tools for thought
