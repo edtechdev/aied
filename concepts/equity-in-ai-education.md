@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-17T09:55:00-04:00"
 type: concept
 tags: [equity, accessible-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -30,6 +30,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable.
 - **Fairness-aware systems:** [[bias-mitigation]] and [[ground-truth-reliability-aied|ground-truth reliability]] research develop methods for detecting and correcting bias in AI tutors, scorers, and recommenders.
 - **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
+- **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making prompting skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
 
 ## Linguistic, cultural, and disability inclusion
 
@@ -70,6 +71,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[agency]]
 
 ## Connected Articles
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
 

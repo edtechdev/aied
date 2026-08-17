@@ -33,7 +33,7 @@ export async function GET() {
     items: pages.map(a => ({
       title: a.data.title,
       link: `/aied/articles/${a.id.replace('.md', '')}`,
-      pubDate: a.data.created,
+      pubDate: new Date(a.data.created),
       customData: `<pubDate>${toRfc822Local(a.data.created)}</pubDate>`,
       description: (a.body || '').split('\n').filter(l => l.startsWith('>')).join(' ').slice(0, 500)
         || (a.body || '').split('\n').slice(0, 5).join(' ').slice(0, 400),

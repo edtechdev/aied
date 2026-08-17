@@ -1,11 +1,13 @@
 # Journal
 
-**Last updated:** 2026-08-17 | **Total entries:** 843
+**Last updated:** 2026-08-17 | **Total entries:** 845
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 
 ## 2026-08-17
+- [[prompt-privilege-equitable-ai-access-2026]] — Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era
 
 ## 2026-08-16
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model
