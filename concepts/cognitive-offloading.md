@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-16T20:47:13-04:00"
 type: concept
 tags: [cognitive-offloading, cognitive-load-theory, over-reliance, ai-literacy, student-experience, generative-ai]
 confidence: high
@@ -33,6 +33,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 - **Fatigue and cognitive burden:** [[ai-fatigue-academic-contexts|AI fatigue research]] documents how constant AI interaction creates its own cognitive burden, a paradox where offloading one task increases cognitive load from managing AI outputs.
 
+- **The metacognitive beliefs-vs-experiences framework:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] apply Nelson and Naren's dynamic metacognitive model to reconcile the field's contradictory intervention findings. They distinguish metacognitive *beliefs* (stable, self-referential self-conceptions that anchor offloading choices pre-task) from metacognitive *experiences* (dynamic, task-specific feelings that drive belief updating during-task), yielding the principle of **timing-component matching**: belief-targeting feedback is most effective before a task, while experience-targeting feedback (immediate correctness indicators) is most effective during it. They also formalize **substitutive offloading** (replacing internal processing with external aids) vs. **duplicative offloading** (supplementing it) — when external stores vanish, substitutive offloaders decline sharply while duplicative offloaders retain accuracy — and use **reminder bias** to quantify deviation from optimal offloading. This converges with the "coach vs. crutch" boundary: offloading that scaffolds preserves skill; offloading that substitutes risks decay.
+
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer. This gives offloading research a falsifiable, level-contingent theory rather than a single harmful/helpful verdict.
 
 ### The CLT framework
@@ -61,6 +63,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[distributed-cognition]]
 - [[embodied-learning]]
 ## Connected Articles
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)

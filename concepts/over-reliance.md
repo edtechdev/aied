@@ -1,7 +1,7 @@
 ---
 title: Over-Reliance
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T18:05:58-04:00"
+updated: "2026-08-16T20:47:13-04:00"
 type: concept
 tags: [over-reliance, cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai]
 confidence: high
@@ -26,6 +26,8 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 - **Vibe Compiler and metacognitive preservation:** [[vibe-compiler-metacognition-genai-agency-2026|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
 
 - **The placement rule:** [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] reframes allow-vs-ban as a placement question — an unguarded AI helper left high-school students ~17% worse on an unaided exam, while the same model rebuilt to withhold answers erased the harm. Its six-move learning frame (Prime, Probe, Point, Attach, Strengthen, Test) and diagnostic — *"if letting AI in makes the task feel effortless, it is in the wrong place"* — secure the first hard attempt (Probe) and the final unaided check (Test) as the moments where over-reliance most readily hides as an "illusion of learning."
+
+- **The metacognitive mechanics of overuse:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] explain *why* students over-offload even when it hurts them. People offload impulsively, preferring external reminders that exceed their optimal capacity — a bias independent of objective ability. **Reminder bias** quantifies this deviation from optimal offloading, and incentives reduce but do not eliminate it, because pre-existing metacognitive *beliefs* (e.g., overestimating tool effectiveness) anchor behavior faster than task *experiences* can correct it. Externalization can cause "dual damage" to performance *and* abilities, and technology-enhanced environments may foster maladaptive offloading without metacognitive guidance — so the antidote to over-reliance is metacognitive, not merely restrictive.
 
 ### Relationship to cognitive offloading
 
@@ -52,6 +54,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[behaviorism]]
 
 ## Connected Articles
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: effort vs. learning environment, AI writing (Lira et al. 2025)
