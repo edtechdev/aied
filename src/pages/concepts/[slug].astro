@@ -1,13 +1,21 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { CONCEPT_REDIRECTS } from '../../data/conceptRedirects';
 
 export async function getStaticPaths() {
   const concepts = await getCollection('concepts');
-  return concepts.map(c => ({ params: { slug: c.id.replace('.md', '') } }));
+  const paths = concepts.map(c => ({ params: { slug: c.id.replace('.md', '') } }));
+  for (const from of Object.keys(CONCEPT_REDIRECTS)) {
+    paths.push({ params: { slug: from } });
+  }
+  return paths;
 }
 
 const { slug } = Astro.params;
+if (CONCEPT_REDIRECTS[slug]) {
+  return Astro.redirect(`/aied/concepts/${CONCEPT_REDIRECTS[slug]}/`, 301);
+}
 const allConcepts = await getCollection('concepts');
 const concept = allConcepts.find(c => c.id.replace('.md', '') === slug);
 if (!concept) return Astro.redirect('/aied/');
