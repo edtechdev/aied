@@ -6,7 +6,7 @@ written back to disk via `write_file` or `patch`, the prefixes become part of th
 file. YAML frontmatter parsing then fails silently (file doesn't start with ---).
 
 Usage:
-    python3 scripts/detect-readfile-corruption.py --concepts-dir /home/doug/wiki/concepts [--fix] [--dry-run]
+    python3 scripts/detect-readfile-corruption.py --concepts-dir <WIKI_PATH>/concepts [--fix] [--dry-run]
 """
 
 import os

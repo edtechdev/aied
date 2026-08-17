@@ -22,8 +22,8 @@ Check both concept pages and raw papers for each expected paper:
 
 ```python
 import os
-concepts_dir = '/home/doug/wiki/concepts'
-raw_dir = '/home/doug/wiki/raw/papers'
+concepts_dir = '<WIKI_PATH>/concepts'
+raw_dir = '<WIKI_PATH>/raw/papers'
 for slug, aid in expected_papers.items():
     cpath = os.path.join(concepts_dir, f'{slug}.md')
     rpath = os.path.join(raw_dir, f'{aid}.md')

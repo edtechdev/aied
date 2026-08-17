@@ -182,7 +182,7 @@ def extract_arxiv_listing(files, cat, since_date, today_date):
 In cron jobs where `execute_code` is blocked:
 1. Curl listing HTML to temp files (as above)
 2. Write a Python script to `/tmp/parse_listings.py` via `write_file`
-3. Run it with `terminal('python3 /tmp/parse_listings.py', workdir='/home/doug')`
+3. Run it with `terminal('python3 /tmp/parse_listings.py', workdir='~')`
 4. The script outputs a JSON with all candidate papers for further processing
 
 ## 6. Common Pitfalls

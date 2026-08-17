@@ -10,13 +10,13 @@ rows). This is the #1 silent failure in the daily-scan pipeline.
 
 **Fix:** build the separator from the codepoint, never a literal hyphen.
 
-## Verified regenerator (copy, set TODAY, run with workdir=/home/doug)
+## Verified regenerator (copy, set TODAY, run with workdir=~)
 
 ```python
 import os, re, yaml
 from collections import defaultdict
 
-WIKI = "/home/doug/wiki"
+WIKI = "<WIKI_PATH>"
 CONCEPTS = os.path.join(WIKI, "concepts")
 TODAY = "2026-07-15"
 EM = "\u2014"  # em dash — DO NOT replace with a hyphen
@@ -90,7 +90,7 @@ print("journal.md regenerated:", len(journ), "entries")
 
 ```python
 import os, re
-jh = open("/home/doug/wiki/static-site/journal.html").read()
+jh = open("<WIKI_PATH>/static-site/journal.html").read()
 m = re.search(r'<tbody>(.*?)</tbody>', jh, re.DOTALL)
 print("tbody populated:", len(m.group(1).strip()) > 0)
 for s in ["my-new-slug"]:

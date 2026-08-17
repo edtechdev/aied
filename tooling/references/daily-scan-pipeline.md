@@ -142,7 +142,7 @@ memory(action='add', target='memory', content='last_arxiv_scan_date: YYYY-MM-DD'
 **In cron (memory unavailable):** Find the last scan date from `log.md` using:
 ```bash
 # Read the last 50 lines of log.md and find the most recent scan checkpoint
-tail -50 /home/doug/wiki/log.md | grep -E "^## \[2026-...-..\]" | tail -1
+tail -50 <WIKI_PATH>/log.md | grep -E "^## \[2026-...-..\]" | tail -1
 # The log also stores scan checkpoints as:
 # ## [YYYY-MM-DD] scan checkpoint | last_arxiv_scan_date: YYYY-MM-DD
 ```
@@ -158,7 +158,7 @@ Alternatively, read the most recent `daily-digest-*.md` in `concepts/` — the f
 
 After rebuilding `index.md`, verify the count:
 - The index count should equal the number of concept files on disk (excluding digests and index.md itself)
-- If the counts differ, run `scripts/detect-readfile-corruption.py --concepts-dir /home/doug/wiki/concepts --fix` — read_file line-number corruption can silently drop pages from the index
+- If the counts differ, run `scripts/detect-readfile-corruption.py --concepts-dir <WIKI_PATH>/concepts --fix` — read_file line-number corruption can silently drop pages from the index
 
 ### Backlink Missing-Target Stub Creation
 
@@ -199,20 +199,20 @@ After a full index rebuild, the total entry count should slightly increase (by t
 After ingestion, regenerate with:
 ```bash
 python3 scripts/generate-static-site.py \
-  --wiki-path /home/doug/wiki \
+  --wiki-path <WIKI_PATH> \
   --output-path static-site \
   --wiki-title 'AI Ed Wiki'
 ```
-Run from `~/.hermes/skills/research-wiki/` (the skill directory). If you get `No such file or directory`, the workdir is wrong — search for the script with `search_files(pattern='generate-static-site.py', target='files', path='/home/doug/.hermes')` to resolve the correct path. Do NOT use `wiki-static-export` as the workdir — that directory does not exist.
+Run from `~/.hermes/skills/research-wiki/` (the skill directory). If you get `No such file or directory`, the workdir is wrong — search for the script with `search_files(pattern='generate-static-site.py', target='files', path='~/.hermes')` to resolve the correct path. Do NOT use `wiki-static-export` as the workdir — that directory does not exist.
 
 The static site is served at `http://localhost:8080` via Python http.server. In interactive sessions, start with:
 ```bash
-python3 -m http.server 8080 --directory /home/doug/wiki/static-site &
+python3 -m http.server 8080 --directory <WIKI_PATH>/static-site &
 ```
 
 In cron contexts, **do NOT use `&`** — the terminal tool rejects foreground commands with `&`. Instead use the background=True parameter:
 ```python
-terminal("python3 -m http.server 8080", background=True, workdir="/home/doug/wiki/static-site")
+terminal("python3 -m http.server 8080", background=True, workdir="<WIKI_PATH>/static-site")
 ```
 Verify the server is running before referencing it in the summary:
 ```bash
@@ -240,6 +240,6 @@ Save the summary as `concepts/daily-digest-YYYY-MM-DD.md` for archival reference
 
 - **Narrow date windows returning 0 on weekdays**: The `submittedDate` filter operates on actual submission date, not arXiv ID prefix month. A 1–3 day `submittedDate` window may legitimately return 0 papers even on weekdays if no AI-ED papers were submitted in that exact range. This is NOT a source failure — report `✓ 0 papers` (not `✗`). The web_search fallback catches papers from earlier in the month that have the current month's arXiv ID prefix. When the API returns 0 and web_search finds papers, note "API returned empty for date-filtered queries" in the source status rather than marking the source as failed.
 - **Catch-up paper handling**: When web_search surfaces papers older than the search window (e.g., May 6 paper found during May 16-17 scan), ingest them normally but flag as "catch-up" in both the log.md entry and the summary. The daily digest intro line should distinguish fresh papers from catch-up. Catch-up papers may have been missed due to category mismatches (paper in cs.CL not cs.CY), API rate-limiting on the day they were published, or the paper not yet being indexed when originally scanned.
-- **read_file corruption in wiki files**: The standalone `read_file` tool returns content with line-number prefixes (`     1|content`). If this annotated output is written back to disk, the prefixes become part of the file. Run `scripts/detect-readfile-corruption.py --concepts-dir /home/doug/wiki/concepts --fix` to detect and repair. This corruption causes files to fail YAML frontmatter parsing, silently excluding them from index regeneration. Verify by checking that `os.listdir(concepts_dir)` count matches `len(yaml_parseable_files)`. After fixing, the index count may increase as previously-hidden pages reappear.
+- **read_file corruption in wiki files**: The standalone `read_file` tool returns content with line-number prefixes (`     1|content`). If this annotated output is written back to disk, the prefixes become part of the file. Run `scripts/detect-readfile-corruption.py --concepts-dir <WIKI_PATH>/concepts --fix` to detect and repair. This corruption causes files to fail YAML frontmatter parsing, silently excluding them from index regeneration. Verify by checking that `os.listdir(concepts_dir)` count matches `len(yaml_parseable_files)`. After fixing, the index count may increase as previously-hidden pages reappear.
 - **Security scanner blocks `curl | python3` pipes**: The terminal security scanner rejects pipes from curl to an interpreter (`curl -sL ... | python3 -c "..."`) with a HIGH-severity alert. **Fix**: save to a temp file first (`curl -sL ... -o /tmp/data.json`), then process separately. Chain with `&&` for simple cases: `curl -o /tmp/data.json ... && python3 -c "import json; d=json.load(open('/tmp/data.json')); ..."`. For complex processing, use `write_file` to write a script to `/tmp` then `python3 /tmp/script.py`.
 - **Semantic Scholar query sparsity**: The S2 bulk search with the given query and fieldsOfStudy filter may return only 1 result. This is a query-sparsity issue, not a connection failure. Do not rely on S2 for comprehensive coverage; treat as a tertiary source. When it returns few results, report `✓ N results (sparse query)` in the source status.

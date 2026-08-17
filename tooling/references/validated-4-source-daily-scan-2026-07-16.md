@@ -1,6 +1,6 @@
 # Validated 4-Source Daily AIED Scan (2026-07-16)
 
-Concrete, copy-pasteable recipe for the daily cron scan that queries **arXiv (cs.CY + cs.HC)**, **Semantic Scholar bulk**, and **OpenAlex**, then ingests into `/home/doug/wiki`. Executed 2026-07-16 against window `2026-07-15 -> 2026-07-16`.
+Concrete, copy-pasteable recipe for the daily cron scan that queries **arXiv (cs.CY + cs.HC)**, **Semantic Scholar bulk**, and **OpenAlex**, then ingests into `<WIKI_PATH>`. Executed 2026-07-16 against window `2026-07-15 -> 2026-07-16`.
 
 **Yield this run:** 1 new arXiv paper (`2607.13370`, LEA agentic tutor) · S2 = 1 result but out-of-window (2026-05-06, no arXiv ID) · OpenAlex = 10 results ALL future-dated Dec-2026 placeholders (0 in-window). Final wiki: 459 pages, 323 journal entries, three-way counts reconciled.
 
@@ -25,10 +25,10 @@ Concrete, copy-pasteable recipe for the daily cron scan that queries **arXiv (cs
 - For 1–2 papers: load metadata from `/tmp/arxiv_results.json` and build concept pages with inline f-strings — no JSON-embedding needed. Reserve JSON-embedding for batches of 3+.
 
 ## 5. Export + verify
-- `generate-static-site.py --wiki-path /home/doug/wiki --output-path /home/doug/wiki/static-site --wiki-title 'AI Ed Wiki'` (workdir = skill dir `~/.hermes/skills/research-wiki`; output path ABSOLUTE — the cron prompt's `research-wiki-static-export` dir does NOT exist, trust the skill).
-- `regenerate-journal-html.py --wiki-path /home/doug/wiki`.
+- `generate-static-site.py --wiki-path <WIKI_PATH> --output-path <WIKI_PATH>/static-site --wiki-title 'AI Ed Wiki'` (workdir = skill dir `~/.hermes/skills/research-wiki`; output path ABSOLUTE — the cron prompt's `research-wiki-static-export` dir does NOT exist, trust the skill).
+- `regenerate-journal-html.py --wiki-path <WIKI_PATH>`.
 - **Three-way reconcile**: `len(concepts/*.md)` == `# of - [[ lines in index.md` == `# of static-site/pages/*.html`. (This run: 459/459/459.)
-- If `curl http://localhost:8080/` returns `000`, restart `python3 -m http.server 8080` in background (`terminal(background=True, workdir="/home/doug/wiki/static-site")`) and re-verify `200`.
+- If `curl http://localhost:8080/` returns `000`, restart `python3 -m http.server 8080` in background (`terminal(background=True, workdir="<WIKI_PATH>/static-site")`) and re-verify `200`.
 
 ## Confirmed pitfalls (re-validated this run)
 - **S2 bulk**: 1 result, `Codify`, pubDate 2026-05-06 — out-of-window vs a July scan, no arXiv ID → not ingested. `year=2026` ≠ rolling window.

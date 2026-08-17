@@ -36,21 +36,21 @@ safe — recomputing it on update surfaces the change.
          "version: vN (last revised <date>)\n"
          f"sha256: {sha}\n"
          "---\n\n")
-   open("/home/doug/wiki/raw/papers/<id>.md", "w").write(fm + body)
+   open("<WIKI_PATH>/raw/papers/<id>.md", "w").write(fm + body)
    ```
 3. Bump concept page: `updated: <today>` + a "updated to **vN**" note by the
    source link. Only touch the synthesis body if headline findings changed.
 4. Regenerate static site (absolute output path!):
    ```bash
-   cd /home/doug/.hermes/skills/research-wiki
-   python3 scripts/generate-static-site.py --wiki-path /home/doug/wiki \
-       --output-path /home/doug/wiki/static-site --wiki-title 'AI Ed Wiki'
+   cd ~/.hermes/skills/research-wiki
+   python3 scripts/generate-static-site.py --wiki-path <WIKI_PATH> \
+       --output-path <WIKI_PATH>/static-site --wiki-title 'AI Ed Wiki'
    ```
 5. Verify + restart server if down:
    ```bash
    curl -s -o /dev/null -w "%{http_code}" http://localhost:8080/pages/<slug>.html
    # HTTP 000 means server died; restart:
-   # (background) python3 -m http.server 8080  # workdir=/home/doug/wiki/static-site
+   # (background) python3 -m http.server 8080  # workdir=<WIKI_PATH>/static-site
    ```
 
 ## Caveat: /html/<id>vN extraction is noisy

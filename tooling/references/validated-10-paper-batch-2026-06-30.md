@@ -54,7 +54,7 @@ When execute_code IS available in cron:
 
 ## Phase Scripts
 
-All scripts written to `/tmp/` via `write_file`, executed via `terminal('python3 /tmp/phaseN-*.py', workdir='/home/doug')`:
+All scripts written to `/tmp/` via `write_file`, executed via `terminal('python3 /tmp/phaseN-*.py', workdir='~')`:
 
 1. **phase1-fetch-raw.py** — Downloads PDF (curl + pdftotext), computes SHA256, creates `raw/papers/ID.md`
 2. **phase2-concept-pages.py** — Creates 10 concept pages with synthesis, tags, backlink targets (uses JSON-embedding pattern)
