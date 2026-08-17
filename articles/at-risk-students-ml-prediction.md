@@ -1,6 +1,6 @@
 ---
 title: Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [learning-analytics, higher-ed, dropout-reduction, student-modeling, rct, llm]

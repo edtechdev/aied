@@ -1,6 +1,6 @@
 ---
 title: Interpretable Knowledge Tracing via IRT
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [adaptive-learning, intelligent-tutoring, personalized-learning, learning-analytics, k-12, llm, item-response-theory, affective-tutoring, adaptive-learning-systems, socratic-method]

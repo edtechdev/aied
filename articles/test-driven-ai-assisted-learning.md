@@ -1,6 +1,6 @@
 ---
 title: "Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests"
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [cs-education, llm, active-learning, assessment, higher-ed, automated-grading, scaffolding]

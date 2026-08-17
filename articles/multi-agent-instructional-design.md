@@ -1,6 +1,6 @@
 ---
 title: Multi-Agent Systems for Instructional Design
-created: 2026-05-08
+created: 2026-05-08T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety, agentic-ai-ecosystems-higher-education, human-in-the-loop-ai, faculty-development-genai, metacognition]

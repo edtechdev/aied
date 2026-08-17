@@ -1,6 +1,6 @@
 ---
 title: "Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [teacher-education, programming-education, educational-robotics, machine-learning, cs-education, computational-thinking]

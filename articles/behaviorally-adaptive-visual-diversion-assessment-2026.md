@@ -1,6 +1,6 @@
 ---
 title: Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
-created: 2026-08-05
+created: 2026-08-05T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [assessment, accessible-learning, privacy, academic-integrity, equity, adaptive-learning, higher-ed]

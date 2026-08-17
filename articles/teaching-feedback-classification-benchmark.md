@@ -1,6 +1,6 @@
 ---
 title: A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-created: 2026-07-14
+created: 2026-07-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [feedback-loop, automated-grading, teacher-role, formative-assessment, higher-ed, faculty-development-genai]

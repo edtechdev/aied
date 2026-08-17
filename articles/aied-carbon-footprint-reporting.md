@@ -1,6 +1,6 @@
 ---
 title: "The Environmental Cost of LLMs in AIED: Reporting and Practices"
-created: 2026-06-11
+created: 2026-06-11T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, efficacy-study, policy-maker, privacy, ethics, open-source, ai-education]

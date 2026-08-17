@@ -1,6 +1,6 @@
 ---
 title: Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
-created: 2026-07-08
+created: 2026-07-08T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, cs-education, generative-ai, llm, programming-its, prompt-engineering, student-experience]

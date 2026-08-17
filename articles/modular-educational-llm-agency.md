@@ -1,6 +1,6 @@
 ---
 title: Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
-created: 2026-05-29
+created: 2026-05-29T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, scaffolding, teacher-role, over-reliance, learning-analytics, student-experience, ai-literacy]

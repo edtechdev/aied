@@ -1,6 +1,6 @@
 ---
 title: "Stop Writing for Me: Generative Refusal in AI Tools for Thought"
-created: 2026-07-31
+created: 2026-07-31T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, writing-education, scaffolding, educational-theory, over-reliance]

@@ -1,6 +1,6 @@
 ---
 title: "Gen-AI-tecture: using generative AI to support architectural students in design tasks"
-created: 2026-05-21
+created: 2026-05-21T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, creative-thinking, ai-literacy, personalized-learning, equity, professional-training, educational-measurement, constructivist]

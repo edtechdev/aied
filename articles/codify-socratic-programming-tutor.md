@@ -1,6 +1,6 @@
 ---
 title: "Codify: An Intelligent Socratic Tutoring System for Programming Education"
-created: 2026-05-26
+created: 2026-05-26T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, stem-education, higher-ed, adaptive-learning, self-regulated-learning, scaffolding, metacognition, rag]

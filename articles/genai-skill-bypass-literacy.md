@@ -1,6 +1,6 @@
 ---
 title: "The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy"
-created: 2026-07-09
+created: 2026-07-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, over-reliance, faculty-development, rag, llm]

@@ -1,6 +1,6 @@
 ---
 title: "Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations"
-created: 2026-06-19
+created: 2026-06-19T04:33:04-04:00
 updated: 2026-08-14
 type: article
 tags: [cs-education, student-experience, scaffolding, active-learning, feedback-loop, multi-representational-tools, personalized-learning]

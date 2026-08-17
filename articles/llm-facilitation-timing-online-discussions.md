@@ -1,6 +1,6 @@
 ---
 title: "To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions"
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, collaborative-learning, student-ai-interaction, engagement-metrics, nlp-education, human-in-the-loop, higher-ed, ai-team-teaching-talk-analytics, learning-analytics, human-ai-collaboration]

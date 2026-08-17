@@ -1,6 +1,6 @@
 ---
 title: Building AI Companions that Prioritise Learning over Performance
-created: 2026-05-09
+created: 2026-05-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, personalized-learning, adaptive-learning, metacognition, student-experience, self-regulated-learning, scaffolding]

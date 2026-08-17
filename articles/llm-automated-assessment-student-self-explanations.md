@@ -1,6 +1,6 @@
 ---
 title: Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
-created: 2026-05-23
+created: 2026-05-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, automated-grading, feedback-loop, stem-education, higher-ed, scaffolding, self-regulated-learning, metacognition]

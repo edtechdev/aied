@@ -1,6 +1,6 @@
 ---
 title: "AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake"
-created: 2026-08-15
+created: 2026-08-15T19:02:13-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-feedback-quality, feedback-loop, ai-literacy, higher-ed, writing-education, formative-assessment, self-regulated-learning, assessment, motivation]

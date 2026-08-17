@@ -1,6 +1,6 @@
 ---
 title: "Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab"
-created: "2026-08-15"
+created: 2026-08-15T16:09:27-04:00
 updated: "2026-08-15"
 type: article
 tags:

@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-16T09:34:46-04:00
 type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, communities-of-practice, contextual-knowledge, instructional-design, ai-education]
 confidence: high

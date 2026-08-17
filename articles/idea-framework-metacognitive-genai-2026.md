@@ -1,6 +1,6 @@
 ---
 title: "The IDEA Framework for Metacognitively Regulated GenAI Use in Higher Education: Development and Exploratory Pilot Evidence"
-created: 2026-08-16
+created: 2026-08-16T10:19:32-04:00
 updated: 2026-08-16
 type: article
 tags: [metacognition, self-regulated-learning, prompt-engineering, generative-ai, higher-ed, agency, ai-literacy]

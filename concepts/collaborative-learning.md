@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T10:24:06-04:00
 type: concept
 tags: [collaborative-learning, cscl, ai-education, student-experience, scaffolding, equity, k-12, higher-ed]
 confidence: high

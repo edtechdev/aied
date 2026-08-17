@@ -1,6 +1,6 @@
 ---
 title: "AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques"
-created: 2026-08-12
+created: 2026-08-12T12:37:38-04:00
 updated: 2026-08-12
 type: article
 tags: [personalized-learning, language-learning, feedback-loop, self-regulated-learning, multimodal, student-modeling, learning-analytics, lifelong-learning]

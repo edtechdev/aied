@@ -1,6 +1,6 @@
 ---
 title: The LLM Fallacy and Misattribution of Competence
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [metacognition, over-reliance, llm, k-12, higher-ed, academic-integrity, self-regulated-learning, llm-cognitive-diagnosis-handwritten-math, rag, scaffolding]

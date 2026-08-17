@@ -1,3 +1,8 @@
+## [2026-08-16] frontmatter | add date+time to created/updated for all articles+concepts; fix sidebar/RSS ordering
+
+- Backfilled date+time into `created` (articles) and `updated`/`created` (concepts) frontmatter for all 696 articles and 144 concepts, using local git commit time-of-day appended to the existing date (date preserved so journal/index date-grouping unchanged).
+- This fixes the right sidebar "Recent Articles" and "Recently Updated Concepts" ordering (were date-only → alphabetical within a day; now true reverse-chronological by date+time) and the RSS feed pubDate ordering. Sidebar and RSS already sort by these fields, so no layout code change was needed.
+- From now on, always include date+time in created/updated frontmatter for new and edited pages.
 ## [2026-08-16] ingest | Assessing the Quality of AI-Generated Exams (arXiv:2508.08314)
 
 - Ingested Isley, Gilbert, Kassos, et al. (2025), arXiv:2508.08314 (cs.CY), CC BY — one of the largest field studies of AI-generated exam quality: an iterative-refinement (Self-Refine-style) automated-question-generation pipeline evaluated in 91 college classes (~1,686 students) across CS/math/chemistry, benchmarked against human-authored 2012 AP Statistics questions.

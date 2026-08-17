@@ -1,6 +1,6 @@
 ---
 title: "A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [programming-education, automated-grading, llm, cs-education, assessment]

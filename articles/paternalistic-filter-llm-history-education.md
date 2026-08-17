@@ -1,6 +1,6 @@
 ---
 title: "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students"
-created: 2026-07-14
+created: 2026-07-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, student-experience, equity, higher-ed, bias-mitigation]

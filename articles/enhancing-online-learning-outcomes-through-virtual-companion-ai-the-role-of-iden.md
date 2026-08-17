@@ -1,6 +1,6 @@
 ---
 title: "Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [affective-computing, agent, learning-analytics, multimodal, ai-education, ai-tutoring]

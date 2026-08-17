@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: 2026-06-23
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 confidence: medium

@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: 2026-05-07
-updated: 2026-08-15
+updated: 2026-08-15T09:22:41-04:00
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium

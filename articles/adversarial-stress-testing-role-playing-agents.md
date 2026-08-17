@@ -1,6 +1,6 @@
 ---
 title: "Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [agentic-ai, multi-agent, safety, evaluation, llm, generative-ai, human-ai-interaction, benchmark, ai-education]

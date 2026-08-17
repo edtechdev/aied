@@ -1,6 +1,6 @@
 ---
 title: Estimating Learners' Skill Acquisition Without Temporal Information
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [student-modeling, knowledge-tracing, adaptive-learning, learning-analytics, formative-assessment, personalized-learning]

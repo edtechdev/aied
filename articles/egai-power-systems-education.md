@@ -1,6 +1,6 @@
 ---
 title: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
-created: 2026-08-04
+created: 2026-08-04T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-education, stem-education, curriculum-design, open-source, professional-training, llm, rag]

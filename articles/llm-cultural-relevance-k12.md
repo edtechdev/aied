@@ -1,6 +1,6 @@
 ---
 title: LLMs for Culturally Relevant K-12 Pedagogy
-created: 2026-05-08
+created: 2026-05-08T07:38:00-04:00
 updated: 2026-08-15
 type: article
 tags: [culturally-sustaining-pedagogy, k-12, pedagogy, equity, faculty-development, curriculum-design, higher-ed, ai-literacy, generative-ai, llm]

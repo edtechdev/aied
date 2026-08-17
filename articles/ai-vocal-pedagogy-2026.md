@@ -1,6 +1,6 @@
 ---
 title: "Beyond Output Metrics: Reframing AI-Assisted Vocal Pedagogy Through Human Learning and Educational Value"
-created: 2026-08-13
+created: 2026-08-13T05:23:56-04:00
 updated: 2026-08-13
 type: article
 tags: [generative-ai, feedback-loop, self-regulated-learning, metacognition, music-education, human-ai-collaboration, teacher-role, human-in-the-loop-ai]

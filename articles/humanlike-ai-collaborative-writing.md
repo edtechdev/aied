@@ -1,6 +1,6 @@
 ---
 title: 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
-created: 2026-05-26
+created: 2026-05-26T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, writing-education, student-experience, llm, higher-ed]

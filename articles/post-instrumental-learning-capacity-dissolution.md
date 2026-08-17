@@ -1,6 +1,6 @@
 ---
 title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
-created: 2026-07-31
+created: 2026-07-31T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, educational-theory, over-reliance, student-experience, ai-literacy]

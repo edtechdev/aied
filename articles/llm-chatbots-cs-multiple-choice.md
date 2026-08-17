@@ -1,6 +1,6 @@
 ---
 title: Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?
-created: 2026-06-16
+created: 2026-06-16T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [higher-ed, llm, automated-grading, student-experience, stem-education, learning-analytics, k-12]

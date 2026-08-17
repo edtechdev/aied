@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T18:05:58-04:00
 type: concept
 tags: [computational-thinking, stem-education, automated-grading, prompt-engineering, higher-ed, k-12, llm, generative-ai]
 confidence: high

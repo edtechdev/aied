@@ -1,6 +1,6 @@
 ---
 title: "Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework"
-created: 2026-07-02
+created: 2026-07-02T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [equity, generative-ai, k-12, pedagogical-safety, privacy, llm-in-education, rag, llm]

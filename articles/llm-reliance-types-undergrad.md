@@ -1,6 +1,6 @@
 ---
 title: "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University"
-created: 2026-06-30
+created: 2026-06-30T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, over-reliance, student-experience, writing-education, llm]

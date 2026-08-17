@@ -1,6 +1,6 @@
 ---
 title: "Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development"
-created: 2026-07-08
+created: 2026-07-08T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [agentic-ai, cs-education, feedback-loop, formative-assessment, intelligent-tutoring, llm, professional-training, scaffolding, ai-literacy]

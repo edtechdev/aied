@@ -1,6 +1,6 @@
 ---
 title: "Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education"
-created: 2026-08-10
+created: 2026-08-10T09:10:02-04:00
 updated: 2026-08-10
 type: article
 tags: [instructional-design, stem-education, generative-ai, curriculum-design, higher-ed, project-based-learning, ai-education]

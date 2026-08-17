@@ -1,6 +1,6 @@
 ---
 title: "Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence"
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, language-learning, over-reliance, metacognition, scaffolding, regulation]

@@ -1,6 +1,6 @@
 ---
 title: "Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI"
-created: 2026-08-12
+created: 2026-08-12T22:10:30-04:00
 updated: 2026-08-12
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, agentic-ai, instructional-design, teacher-role, adaptive-learning]

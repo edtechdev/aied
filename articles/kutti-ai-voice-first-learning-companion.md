@@ -1,6 +1,6 @@
 ---
 title: "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children"
-created: 2026-07-27
+created: 2026-07-27T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [adaptive-learning, intelligent-tutoring, special-education, k-12, equity, personalized-learning]

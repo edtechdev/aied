@@ -1,6 +1,6 @@
 ---
 title: "Teacher education for artificial intelligence literacy through a self-determination theory perspective"
-created: 2026-08-10
+created: 2026-08-10T17:33:14-04:00
 updated: 2026-08-13
 type: article
 tags: [ai-literacy, teacher-ai-competency, faculty-development, professional-training, motivation, self-determination-theory, higher-ed, k-12]

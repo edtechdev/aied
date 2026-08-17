@@ -1,6 +1,6 @@
 ---
 title: "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study"
-created: 2026-05-27
+created: 2026-05-27T07:38:00-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]

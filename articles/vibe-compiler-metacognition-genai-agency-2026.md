@@ -1,6 +1,6 @@
 ---
 title: "Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-"
-created: 2026-08-07
+created: 2026-08-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [metacognition, generative-ai, critical-thinking, cognitive-offloading, human-in-the-loop, self-regulated-learning, rag, scaffolding]

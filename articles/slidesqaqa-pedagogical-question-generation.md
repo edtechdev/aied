@@ -1,6 +1,6 @@
 ---
 title: "Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation"
-created: 2026-05-27
+created: 2026-05-27T07:38:00-04:00
 updated: 2026-08-15
 type: article
 tags: [prompt-engineering, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal, student-experience, ai-literacy, intelligent-tutoring]

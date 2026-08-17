@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-15T02:35:44-04:00
 type: concept
 tags: [feedback, feedback-loop, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 confidence: high

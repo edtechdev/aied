@@ -1,6 +1,6 @@
 ---
 title: "AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study"
-created: 2026-06-03
+created: 2026-06-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [cs-education, llm, scaffolding, personalized-learning, ai-literacy, mastery-learning]

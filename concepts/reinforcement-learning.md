@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning
 created: 2026-07-28
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [llm, pedagogical-safety, intelligent-tutoring, special-education, personalized-learning, k-12, scaffolding, active-learning, adaptive-learning, higher-ed]
 confidence: medium

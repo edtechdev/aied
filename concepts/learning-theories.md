@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-16T09:22:41-04:00
 type: concept
 tags: [learning-theory, constructivism, behaviorism, cognitive-load-theory, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 confidence: high

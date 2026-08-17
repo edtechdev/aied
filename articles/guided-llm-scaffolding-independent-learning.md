@@ -1,6 +1,6 @@
 ---
 title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
-created: 2026-06-02
+created: 2026-06-02T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering, agentic-workflows, ai-literacy, curriculum-design, llm]

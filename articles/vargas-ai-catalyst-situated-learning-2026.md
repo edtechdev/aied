@@ -1,6 +1,6 @@
 ---
 title: "Connecting Education with Reality: AI as a Catalyst for Situated Learning"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [situated-learning, experiential-learning, authentic-learning, ai-education, instructional-design, higher-ed, teacher-role]

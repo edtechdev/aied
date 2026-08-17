@@ -1,6 +1,6 @@
 ---
 title: "Embodied Inquiry with AI as Facilitator: An Exploratory Case Study"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [physics-education, socratic-method, pedagogical-agent, generative-ai, higher-ed, professional-training, stem-education]

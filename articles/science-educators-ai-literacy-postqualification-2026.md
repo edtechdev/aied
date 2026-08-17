@@ -1,6 +1,6 @@
 ---
 title: "Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [science-education, ai-literacy, teacher-education, professional-development, stem-education]

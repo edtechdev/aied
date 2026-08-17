@@ -1,6 +1,6 @@
 ---
 title: "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots"
-created: 2026-06-18
+created: 2026-06-18T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, adaptive-learning, professional-training, active-learning, llm, adaptive-virtual-patient-psychotherapy-training]

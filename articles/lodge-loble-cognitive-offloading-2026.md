@@ -1,6 +1,6 @@
 ---
 title: Artificial intelligence, cognitive offloading and implications for education
-created: 2026-08-07
+created: 2026-08-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [cognitive-offloading, ai-literacy, equity, metacognition, teacher-role, k-12, higher-ed, rag]

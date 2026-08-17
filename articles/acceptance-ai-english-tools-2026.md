@@ -1,6 +1,6 @@
 ---
 title: "Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups"
-created: 2026-08-13
+created: 2026-08-13T05:23:56-04:00
 updated: 2026-08-13
 type: article
 tags: [language-learning, generative-ai, motivation, self-regulated-learning, higher-ed, teacher-role, engagement-metrics, personalized-learning]

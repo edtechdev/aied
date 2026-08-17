@@ -1,6 +1,6 @@
 ---
 title: Is AI making us stupid?
-created: 2026-07-19
+created: 2026-07-19T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [cognitive-offloading, over-reliance, generative-ai, metacognition, learning-gains, ai-literacy, skill-decay, self-regulated-learning, rag, higher-ed]

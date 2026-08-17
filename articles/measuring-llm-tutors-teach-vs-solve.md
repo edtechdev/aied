@@ -1,6 +1,6 @@
 ---
 title: "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact"
-created: 2026-06-16
+created: 2026-06-16T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, feedback-loop, scaffolding, benchmark, learning-analytics, student-experience, agentic-ai, k-12]

@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-15T10:24:06-04:00
 type: concept
 tags: [educational-robotics, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, social-robots]
 confidence: high

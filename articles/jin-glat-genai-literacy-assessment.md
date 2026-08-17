@@ -1,6 +1,6 @@
 ---
 title: "GLAT: The Generative AI Literacy Assessment Test"
-created: 2026-08-15
+created: 2026-08-15T16:09:27-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, generative-ai, educational-measurement, item-response-theory, assessment-validity, higher-ed, ai-ed-evaluation, llm]

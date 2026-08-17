@@ -1,6 +1,6 @@
 ---
 title: "A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective"
-created: 2026-08-08
+created: 2026-08-08T04:33:04-04:00
 updated: 2026-08-08
 type: article
 tags: [systematic-review, generative-ai, human-ai-interaction, ai-literacy, higher-ed, efficacy-study]

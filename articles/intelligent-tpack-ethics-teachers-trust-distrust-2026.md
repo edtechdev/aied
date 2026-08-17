@@ -1,6 +1,6 @@
 ---
 title: "Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust"
-created: 2026-08-16
+created: 2026-08-16T10:55:19-04:00
 updated: 2026-08-16
 type: article
 tags: [teacher-education, tpack, intelligent-tpack, ethics, trust, k-12, ai-literacy]

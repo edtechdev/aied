@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: 2026-07-28
-updated: 2026-08-15
+updated: 2026-08-15T09:23:09-04:00
 type: concept
 tags: [llm, stem-education, intelligent-tutoring, educational-theory, generative-ai, ai-education, curriculum-design, professional-training, automated-grading, writing-education]
 confidence: medium

@@ -1,6 +1,6 @@
 ---
 title: TeachBench - Evaluating LLM Teaching Ability
-created: 2026-05-08
+created: 2026-05-08T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, benchmark, formative-assessment, personalized-learning, feedback-loop, ai-literacy, agentic-workflows]

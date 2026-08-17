@@ -1,6 +1,6 @@
 ---
 title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines"
-created: 2026-08-13
+created: 2026-08-13T18:49:42-04:00
 updated: 2026-08-13
 type: article
 tags: [educational-robotics, game-based-learning, gamification, systematic-review, computational-thinking, k-12, higher-ed, programming-education]

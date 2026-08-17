@@ -1,6 +1,6 @@
 ---
 title: "ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring"
-created: 2026-07-31
+created: 2026-07-31T04:33:04-04:00
 updated: 2026-08-10
 type: article
 tags: [automated-essay-scoring, automated-grading, benchmark, educational-measurement, formative-assessment, higher-ed, llm, writing-education]

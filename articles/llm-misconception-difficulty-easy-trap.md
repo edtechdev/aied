@@ -1,6 +1,6 @@
 ---
 title: "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"
-created: 2026-07-30
+created: 2026-07-30T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback-loop, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]

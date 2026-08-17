@@ -1,6 +1,6 @@
 ---
 title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"
-created: 2026-05-09
+created: 2026-05-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, ai-tutoring]
