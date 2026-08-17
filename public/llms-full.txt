@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 695 articles and 144 concepts.
+> Complete text of 696 articles and 144 concepts.
 
 # Articles
 
@@ -5824,6 +5824,51 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 ## Citation
 
 Mikael Gorsky (2026). [ASE-26: A Curriculum for Agentic Software Engineering as a Discipline](https://arxiv.org/abs/2606.01152). arXiv:2606.01152.
+
+---
+
+## [Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study](https://edtechdev.github.io/aied/articles/assessing-quality-ai-generated-exams-field-2025/)
+
+> **Synthesis:** Isley, Gilbert, Kassos, Kocher, Nie, Brunskill, Domingue, Hofman, Legewie, Svoronos, Tuminelli and Goel (2025) report one of the largest field studies of AI-generated exam questions to date, evaluating an **iterative-refinement** approach to [[automated-question-generation]] in real college classrooms. Using an LLM (o3-mini) in a Self-Refine-style generate→judge→revise loop tailored to each course's instructor-provided materials, they produced custom 10-question multiple-choice exams for 71 college classes (~1,200 students) and benchmarked them against human-authored 2012 AP Statistics questions in 20 further classes (~500 students), for a final analysis sample of 91 classes and 1,686 students across computer science, [[math-education|mathematics]], chemistry and more. Analysing responses with a Bayesian hierarchical [[item-response-theory|2PL IRT]] model, they find AI-generated questions performed **on par with expert-created standardized-exam questions** in both difficulty and discrimination — the AI items were somewhat easier (β̄ = −0.45 vs. 0.35) but more discriminating (ᾱ = 1.3 vs. 1.2), with higher peak test information (I_max = 3.85, reliability 0.79 vs. 2.61, 0.72). The work provides evidence that generative AI can make high-quality, course-tailored [[assessment-validity|psychometrically sound]] assessments more readily available.
+
+## Key Findings
+
+**Iterative refinement for question generation.** The method mirrors Self-Refine: for each class, (1) an LLM generates one multiple-choice question grounded in the course description, syllabus and prior homework/exams; (2) an AI-judge labels it "good" or "bad" against functional criteria (course fit, uniqueness, not testing syllabus logistics, correct answer); and (3) the question and label are fed back into the generator prompt as few-shot good/bad examples. The loop repeats until 20 judge-approved questions are collected, which then pass a final judge that confirms appropriateness, difficulty and answer correctness, after which the 10 hardest are selected for the exam. A "good" example tests substantive content (e.g. programming-language design), whereas a "bad" one was rejected for testing class logistics rather than material.
+
+**Large-scale field design.** 182 participating classes at US colleges corresponded to 164 unique courses, mostly STEM. Students took a common quantitative-reasoning pre-test at semester start (to establish a comparable ability scale), then the tailored exam at semester end; neither students nor instructors were told whether questions were AI- or human-generated. The final dataset comprised 91 classes and 1,686 students completing both assessments — 71 classes/1,208 students on the AI-generated exam and 20 statistics classes/478 students on AP-statistics-sourced benchmark questions (matched to each course via LLM-judged concept fit and difficulty).
+
+**IRT analysis.** A Bayesian hierarchical two-parameter logistic (2PL) IRT model estimated student ability and item difficulty/discrimination jointly, with pre-test responses as anchor items to place all students on a common θ scale. The model converged well (max R̂ = 1.008) and was well calibrated (observed correct rates within posterior mass).
+
+**Comparable difficulty.** AI-generated items averaged β̄_AI = −0.45 (students answered ~60% correctly) vs. β̄_STD = 0.35 for standardized items (~39% correct), a posterior mean difference E[δ_β] = −0.79 with 95% CI [−0.94, −0.65] and Pr(δ_β < 0) ≈ 1 — the AI items were calibrated easier, intentionally prioritizing appropriately challenging rather than maximally hard questions.
+
+**Comparable — slightly higher — discrimination.** AI items averaged ᾱ_AI = 1.3 vs. ᾱ_STD = 1.2 ("moderate" discrimination by Baker's taxonomy for both), with E[δ_α] = 0.09, 95% CI [−0.092, 0.253], Pr(δ_α > 0) ≈ 0.85. A larger share of AI questions (36%) were "high" or "very high" discrimination than standardized items (21%), indicating the iterative-refinement pipeline reliably produces questions that distinguish stronger from weaker students.
+
+**Test information and reliability.** AI-generated exams had higher peak information (I_max = 3.85 vs. 2.61), corresponding to reliability 0.79 vs. 0.72, and were maximally informative for slightly-below-average students (peaking near θ = −0.51), whereas standardized exams peaked near θ = 0.32. For all ability levels below θ = 0.75, AI exams were, on average, more informative (e.g. I(0) = 3.36 vs. 2.5).
+
+**Limitations and implications.** The standardized-test comparison was limited to statistics courses (few public question banks exist elsewhere); only multiple-choice items were studied; the benchmark approximated but did not fully replicate a human expert tailoring questions per course; and the constant-θ assumption over the semester may not hold if AI and human-exam classes differed in ability change. The authors argue AI-assisted [[automated-question-generation]] can substantially reduce instructor workload, increase access to high-quality tailored assessments, and — with real-time generation — enable adaptive practice. Future work includes open-response generation with LLM grading, fine-tuning on collected response data to calibrate difficulty, and randomized assignment of AI vs. human exams.
+
+## Connected Concepts
+
+- [[automated-question-generation]]
+- [[automated-assessment]]
+- [[item-response-theory]]
+- [[assessment-validity]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration of exam questions
+- [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human assessment tasks in EFL
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment (AAIWA)
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — Student LLM usage and course outcomes
+
+## Citation
+
+Isley, C., Gilbert, J., Kassos, E., Kocher, M., Nie, A., Brunskill, E., Domingue, B., Hofman, J., Legewie, J., Svoronos, T., Tuminelli, C., & Goel, S. (2025). [*Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study*](https://arxiv.org/abs/2508.08314). arXiv:2508.08314 [cs.CY]. https://doi.org/10.48550/arXiv.2508.08314
 
 ---
 
@@ -33507,6 +33552,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[yasir-llm-tutoring-agents-2026]] — Three-way classification benchmark of LLM tutoring agents (Yasir et al. 2026)
 - [[drawedumath-vlm-struggling-students-2026]] — Evaluating VLMs on DrawEduMath: error content hardest (Lucy et al. 2026)
@@ -34006,6 +34052,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 
 - **Construct validity:** When students use AI on assessments, does the score reflect student knowledge or AI capability? [[genai-performance-vs-learning|Performance vs. learning]] research addresses this directly.
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
+- **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the [[assessment-validity|validity]] of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[confidence-aware-ai-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
 
@@ -34033,6 +34080,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[feedback]]
 
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)
 - [[competency-based-education-genai-production-2026]]
 
@@ -34210,6 +34258,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - **Short answer and essay:** [[automated-grading]], [[automated-essay-scoring]], and [[cong-confidence-asag-2026|confidence-aware approaches]] handle free-text evaluation.
 - **Code assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Bash grading]] and [[code-review-genai-cs1|code review]] demonstrate programming assessment.
 - **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
+- **AI-generated assessments at scale:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that iteratively refined, course-tailored AI-generated exams achieve [[item-response-theory|IRT]]-measured quality on par with expert-written standardized-exam questions (difficulty β̄ = −0.45 vs. 0.35; discrimination ᾱ = 1.3 vs. 1.2) across 91 college classes — evidence that [[automated-assessment]] can move from scoring to full item generation.
 - **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
 
 ### Quality and fairness
@@ -34235,6 +34284,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[feedback]]
 
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — AI learner-centered feedback: teachers' practices and perceptions (PolyFeed)
@@ -34358,6 +34408,7 @@ The central challenge in AQG is **quality control**:
 
 - **Hallucination risk:** LLMs can generate factually incorrect questions. [[generate-then-validate-question-gen|Generate-Then-Validate]] shows a dedicated validation phase sharply reduces this, and [[hallucination-risk|hallucination risk]] is a recognized concern throughout.
 - **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes [[ai-misuse-learning-harm|misuse]].
+- **Large-scale psychometric field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] validates an iterative-refinement AQG pipeline (generate→judge→revise, Self-Refine style) in 91 real college classes (~1,686 students). Bayesian hierarchical 2PL [[item-response-theory|IRT]] analysis shows AI-generated questions perform on par with expert-written standardized-exam items — somewhat easier (β̄ = −0.45 vs. 0.35) but slightly more discriminating (ᾱ = 1.3 vs. 1.2), with higher peak test information (reliability 0.79 vs. 0.72) — demonstrating that AQG can produce course-tailored, psychometrically sound assessments at scale.
 - **Task-dependence:** generation reliability varies by item type. [[automatic-short-answer-grading|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
 - **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
 
@@ -34400,6 +34451,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 ## Connected Articles
 
+- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale field validation of AI-generated exam quality via IRT
 - [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
 - [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
 - [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
@@ -36754,6 +36806,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
@@ -37025,6 +37078,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -37512,6 +37566,7 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 - **AI-predicted difficulty:** [[llm-item-difficulty-prediction|LLM item-difficulty prediction]] uses language models to estimate item difficulty, which must be validated against empirically fitted IRT parameters.
 - **Psychometric calibration:** [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] aligns model-based assessment with IRT-based measurement so that AI-generated responses preserve measurement properties.
 - **Knowledge tracing and student modeling:** IRT is closely related to [[knowledge-tracing]] and [[student-modeling]] — models that track learner knowledge over time — sharing the goal of estimating unobservable learner states from observable responses.
+- **Bayesian hierarchical field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a Bayesian hierarchical 2PL IRT model (with pre-test anchor items to place 1,686 students on a common θ scale) to show that AI-generated questions match expert-written standardized-exam items in difficulty and discrimination — a large-scale demonstration of IRT as the validation backbone for [[automated-question-generation]].
 
 ### Connections
 
@@ -37529,6 +37584,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[ai-tutoring]]
 
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
 - [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
 
 - [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
@@ -38189,6 +38245,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[pedagogical-llm-training]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching

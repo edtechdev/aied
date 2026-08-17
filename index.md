@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-16 | **Total pages:** 839
+**Last updated:** 2026-08-16 | **Total pages:** 840
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -145,6 +145,7 @@
 - [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
 - [[assessment]] — Assessment
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
 - [[assessment-validity]] — Assessment Validity in AI Education

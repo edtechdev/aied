@@ -28,6 +28,7 @@ The central challenge in AQG is **quality control**:
 
 - **Hallucination risk:** LLMs can generate factually incorrect questions. [[generate-then-validate-question-gen|Generate-Then-Validate]] shows a dedicated validation phase sharply reduces this, and [[hallucination-risk|hallucination risk]] is a recognized concern throughout.
 - **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes [[ai-misuse-learning-harm|misuse]].
+- **Large-scale psychometric field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] validates an iterative-refinement AQG pipeline (generate→judge→revise, Self-Refine style) in 91 real college classes (~1,686 students). Bayesian hierarchical 2PL [[item-response-theory|IRT]] analysis shows AI-generated questions perform on par with expert-written standardized-exam items — somewhat easier (β̄ = −0.45 vs. 0.35) but slightly more discriminating (ᾱ = 1.3 vs. 1.2), with higher peak test information (reliability 0.79 vs. 0.72) — demonstrating that AQG can produce course-tailored, psychometrically sound assessments at scale.
 - **Task-dependence:** generation reliability varies by item type. [[automatic-short-answer-grading|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
 - **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
 
@@ -70,6 +71,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 ## Connected Articles
 
+- [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale field validation of AI-generated exam quality via IRT
 - [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
 - [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
 - [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
