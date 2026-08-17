@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 696 articles and 144 concepts.
+> Complete text of 697 articles and 144 concepts.
 
 # Articles
 
@@ -8557,6 +8557,81 @@ This study compares two approaches to profiling how learners offload cognitive a
 ## Citation
 
 Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jovanovic, J. (2026). [*Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content*](https://arxiv.org/abs/2606.10434). arXiv:2606.10434.
+
+---
+
+## [Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications](https://edtechdev.github.io/aied/articles/cognitive-offloading-metacognitive-review-2026/)
+
+> Guo & Ye (2026) provide a comprehensive review of [[cognitive-offloading]] from a [[metacognition|metacognitive]] perspective, applying the distinction between metacognitive *beliefs* and metacognitive *experiences* within Nelson & Naren's dynamic model to explain why offloading interventions work in some phases but not others — and to derive targeted strategies for AI-assisted learning environments.
+
+Guo and Ye (2026) review the cognitive offloading literature through the lens of Nelson and Naren's dynamic metacognitive model, arguing that offloading decisions are a sophisticated, iterative metacognitive strategy rather than a simple tool-usage behavior. Their central contribution is applying the modern distinction between **metacognitive beliefs** (stable, domain-general self-conceptions stored in long-term memory) and **metacognitive experiences** (dynamic, task-specific feelings arising during performance) to reconcile the field's contradictory findings about feedback interventions and individual differences. The review is explicitly motivated by AI in education: advances in tools like ChatGPT enable more comprehensive cognitive offloading by providing personalized pacing and assistance, raising concerns about maladaptive tool reliance without metacognitive guidance.
+
+## The Dynamic Metacognitive Framework
+
+Cognitive offloading is the transfer of cognitive demands to external tools or environments — a form of cognitive reorganization that frees finite mental resources for higher-order processing. The review frames it through Nelson and Naren's (1990) object-level / meta-level model:
+
+- **Object level:** direct cognitive task execution (memorizing, solving problems)
+- **Meta level:** metacognitive *monitoring* (assessing confidence or perceived difficulty) and metacognitive *control* (selecting whether to offload to internal mental or external tool strategies)
+
+Monitoring provides upward information flow ("this task feels difficult"); control exerts downward influence ("I will use a reminder"). Offloading is thus a [[self-regulated-learning|self-regulatory]] optimization mechanism in which learners strategically allocate cognitive resources between internal and external strategies.
+
+## Beliefs vs. Experiences: Resolving the Feedback Paradox
+
+The review's core theoretical move distinguishes two metacognitive components:
+
+- **Metacognitive beliefs:** stable, self-referential knowledge stored in long-term memory (e.g., beliefs about one's memory capability, or about the reliability of a tool like a calculator or an AI assistant). These anchor strategy choices **before** task initiation.
+- **Metacognitive experiences:** lower-order, task-specific feelings arising from monitoring (perceived difficulty, confidence, mental workload). These drive belief **updating** during task execution.
+
+Applying this to feedback research reconciles apparently contradictory findings. In Gilbert et al. (2020), metacognitive advice feedback ("offloading is a good choice now") reduced reminder bias. But in Grinschgl et al. (2020), comparative ranking feedback shifted participants' metacognitive beliefs without increasing offloading behavior as expected. The resolution: **belief-targeting feedback is most effective pre-task** (anchoring), while **experience-targeting [[feedback]] (e.g., immediate correctness indicators) is most effective during-task** (updating). Abstract ranking feedback targets stored beliefs that can become separated or conflicted with the task-specific experiences that dominate immediate decision-making.
+
+The review derives the principle of **timing-component matching**: in the preparation phase, calibrate metacognitive beliefs with accurate information about abilities; during task execution, provide immediate, task-specific feedback (real-time accuracy, difficulty suggestions, strategy-effectiveness evaluations) that directly optimizes metacognitive experiences.
+
+## Over-Reliance and the Costs of Offloading
+
+Offloading incurs potential costs. Individuals often offload impulsively rather than deliberately, preferring external reminders that exceed their optimal capacity — a bias independent of objective performance. **Reminder bias** quantifies deviation from optimal offloading (both overuse, e.g., writing down everything, and underuse, e.g., refusing to write anything down). This bias correlates with subjective confidence and metacognitive biases; incentives reduce but do not eliminate it.
+
+Overuse of cognitive offloading may impair intrinsic abilities. Externalization of information processing can disrupt internal cognitive processes, causing "dual damage" to both performance and abilities — the "Google Effect" whereby reliance on search engines undermines independent critical discovery. In aviation, overreliance on instruments has catastrophic consequences if systems fail. When students frequently opt for cognitive simplification, opportunities for deep understanding and deliberate reasoning diminish, ultimately impairing long-term academic achievement. The review specifically flags that technology-enhanced learning environments may foster **maladaptive [[over-reliance|offloading patterns]]** without metacognitive guidance (Skulmowski, 2023).
+
+## Substitutive vs. Duplicative Offloading
+
+A key distinction with direct educational stakes: offloading can be **substitutive** (completely replacing internal processing with external aids) or **duplicative** (supplementing internal processing with external support). When external stores become unavailable, substitutive offloaders show severe performance decline, while duplicative offloaders maintain accuracy through successful internal encoding. This parallels the wiki's "coach vs. crutch" boundary: offloading that scaffolds preserves or boosts skill; offloading that substitutes risks decay.
+
+## Educational Implications and Interventions
+
+Metacognitive interventions (mindfulness, feedback, the ARDESOS-DIAPROVE problem-based learning program) enhance students' self-monitoring and regulation, helping them recognize when offloading is needed and manage learning processes. Educators can encourage reflection and discussion, provide specific offloading strategy training, and offer personalized feedback. The review emphasizes measuring metacognitive sensitivity (meta-d'), efficiency, and bias via signal detection frameworks to move beyond simple confidence metrics — providing tools for educational evaluation and personalized instructional design. This gives [[ai-literacy|AI literacy]] educators a theoretically grounded basis for teaching students *when* to offload to AI tools and when to do the cognitive work themselves.
+
+## Connections to the Wiki
+
+This review strengthens the theoretical foundation of the wiki's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[over-reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around generative AI tools.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[over-reliance]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[feedback]]
+- [[scaffolding]]
+- [[distributed-cognition]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning (episodic vs. habitual offloading)
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
+- [[coach-not-crutch-ai-writing]] — AI can work less and learn more: the "coach" boundary condition
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Prompt patterns as offloading traces
+- [[cognitive-offloading-speedup-illusion]] — The speedup illusion
+- [[ai-making-us-stupid]] — The skills-vs-basic-abilities perspective
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive disengagement in AI-assisted completion
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Embodied intelligence as the alternative to outsourcing
+
+## Citation
+
+Guo, Y., & Ye, Q. (2026). [*Meta-cognitive insights into cognitive offloading: Mechanisms, interventions, and educational implications*](https://doi.org/10.1057/s41599-026-06621-5). *Humanities and Social Sciences Communications*, 13(772).
 
 ---
 
@@ -34812,6 +34887,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 - **Fatigue and cognitive burden:** [[ai-fatigue-academic-contexts|AI fatigue research]] documents how constant AI interaction creates its own cognitive burden, a paradox where offloading one task increases cognitive load from managing AI outputs.
 
+- **The metacognitive beliefs-vs-experiences framework:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] apply Nelson and Naren's dynamic metacognitive model to reconcile the field's contradictory intervention findings. They distinguish metacognitive *beliefs* (stable, self-referential self-conceptions that anchor offloading choices pre-task) from metacognitive *experiences* (dynamic, task-specific feelings that drive belief updating during-task), yielding the principle of **timing-component matching**: belief-targeting feedback is most effective before a task, while experience-targeting feedback (immediate correctness indicators) is most effective during it. They also formalize **substitutive offloading** (replacing internal processing with external aids) vs. **duplicative offloading** (supplementing it) — when external stores vanish, substitutive offloaders decline sharply while duplicative offloaders retain accuracy — and use **reminder bias** to quantify deviation from optimal offloading. This converges with the "coach vs. crutch" boundary: offloading that scaffolds preserves skill; offloading that substitutes risks decay.
+
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer. This gives offloading research a falsifiable, level-contingent theory rather than a single harmful/helpful verdict.
 
 ### The CLT framework
@@ -34840,6 +34917,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[distributed-cognition]]
 - [[embodied-learning]]
 ## Connected Articles
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
@@ -38528,6 +38606,15 @@ Scheu et al. (2026) found a critical split:
 
 This suggests that **metacognitive support and [[motivation]] are not identical**. The LLM assistant's [[scaffolding]] of journal entries increased how much students wrote (behavioral engagement) but did not make them *want* to write more (intrinsic motivation).^[[scheu-mobile-chatbot-journaling-motivation-2026]]
 
+## The Beliefs-vs-Experiences Distinction
+
+[[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] offer a theoretically sharper account of how metacognition governs strategy selection, distinguishing two components that operate in different phases:
+
+- **Metacognitive beliefs** — stable, self-referential self-conceptions stored in long-term memory (e.g., beliefs about one's memory capability, or the reliability of a tool). These anchor strategy choices *before* task initiation.
+- **Metacognitive experiences** — dynamic, task-specific feelings (perceived difficulty, confidence, mental workload) that drive belief *updating* during task execution.
+
+This distinction yields the principle of **timing-component matching**: feedback that targets beliefs (e.g., comparative rankings) is most effective in the pre-task preparation phase, whereas feedback that targets experiences (e.g., immediate correctness indicators) is most effective during task execution. Abstract ranking feedback can become separated from — or overridden by — the task-specific experiences that dominate immediate decision-making, explaining why some feedback interventions fail to change behavior. This gives educators a phase-contingent rationale for designing metacognitive scaffolds around AI tools: calibrate beliefs before use, provide immediate task-specific feedback during use.
+
 ## Implications for Tool Design
 
 1. **Preserve the "friction" of thinking:** If AI writes the reflection, the student does not build metacognitive skill. Journaling assistants should scaffold, not author.
@@ -38551,6 +38638,7 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
@@ -38824,6 +38912,8 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 
 - **The placement rule:** [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] reframes allow-vs-ban as a placement question — an unguarded AI helper left high-school students ~17% worse on an unaided exam, while the same model rebuilt to withhold answers erased the harm. Its six-move learning frame (Prime, Probe, Point, Attach, Strengthen, Test) and diagnostic — *"if letting AI in makes the task feel effortless, it is in the wrong place"* — secure the first hard attempt (Probe) and the final unaided check (Test) as the moments where over-reliance most readily hides as an "illusion of learning."
 
+- **The metacognitive mechanics of overuse:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] explain *why* students over-offload even when it hurts them. People offload impulsively, preferring external reminders that exceed their optimal capacity — a bias independent of objective ability. **Reminder bias** quantifies this deviation from optimal offloading, and incentives reduce but do not eliminate it, because pre-existing metacognitive *beliefs* (e.g., overestimating tool effectiveness) anchor behavior faster than task *experiences* can correct it. Externalization can cause "dual damage" to performance *and* abilities, and technology-enhanced environments may foster maladaptive offloading without metacognitive guidance — so the antidote to over-reliance is metacognitive, not merely restrictive.
+
 ### Relationship to cognitive offloading
 
 Over-reliance is distinguished from [[cognitive-offloading]] by intent and outcome. Cognitive offloading can be productive (using a calculator to free mental resources for conceptual understanding) or unproductive (asking AI to solve a problem you should learn to solve). Over-reliance is specifically the unproductive pattern — where offloading has crossed the threshold from strategic support to learning displacement.
@@ -38849,6 +38939,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[behaviorism]]
 
 ## Connected Articles
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: effort vs. learning environment, AI writing (Lira et al. 2025)

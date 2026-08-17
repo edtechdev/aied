@@ -1,3 +1,14 @@
+# Wiki Log
+
+> Chronological record of all wiki actions. Append-only.
+
+## [2026-08-16] ingest | Cognitive offloading metacognitive review (Guo & Ye 2026, Nature HSSC)
+
+- Ingested Guo & Ye (2026), "Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications", Humanities and Social Sciences Communications 13:772 (open access, DOI 10.1057/s41599-026-06621-5). Full text PDF supplied by Doug; raw saved to raw/papers/cognitive-offloading-metacognitive-review-2026.md (+.pdf).
+- Article: articles/cognitive-offloading-metacognitive-review-2026.md. Applies Nelson & Naren's dynamic metacognitive model to offloading; distinguishes metacognitive beliefs (pre-task anchoring) from metacognitive experiences (during-task updating) -> principle of timing-component matching for feedback; substitutive vs. duplicative offloading; reminder bias quantifying deviation from optimal offloading; maladaptive offloading risk in tech-enhanced/AI environments. Inline links in narrative: self-regulated-learning, feedback, over-reliance, ai-literacy (+ abstract/Connections).
+- Enriched concepts (Connected Articles + research bullets + updated timestamps): cognitive-offloading (beliefs-vs-experiences framework bullet), metacognition (new "Beliefs-vs-Experiences Distinction" section), over-reliance (metacognitive mechanics of overuse bullet).
+- 0 broken links wiki-wide; journal.md regenerated 841 entries (was 840), index.md 841, llms regen (Articles 697/Concepts 144).
+
 ## [2026-08-16] fix | concepts: add time to created/updated; display date-only; rename sidebar header
 
 - Backfilled time-of-day into concept `created` frontmatter (all 144 concepts) so BOTH created and updated carry full timestamps (e.g. created "2026-08-09T10:44:35-04:00", updated "2026-08-16T11:21:11-04:00") for accurate reverse-chron sorting.
@@ -204,9 +215,6 @@
 - Page created: `concepts/responsible-assessment-ai-era-stanford-2026.md` — responsible assessment = socioculturally grounded, valid, context-specific inferences from accumulated evidence; GenAI breaks output-as-capability assumption; shift from testing events to systems of inference (continuous/formative, portfolio, conversation-based ECD); validity threats in AI scoring (construct-irrelevant variance, underrepresentation, generalization, calibration); AI literacy + durable skills need operational definitions; action areas for education systems, researchers, developers, funders
 - Tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop]
 - Back-linked from: assessment, assessment-validity, formative-assessment, automated-grading, ai-literacy, equity
-     1|# Wiki Log
-     2|
-     3|> Chronological record of all wiki actions. Append-only.
 
 ## [2026-08-16] ingest | 1 Sustainability paper (MDPI, CC BY 4.0)
 
