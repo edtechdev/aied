@@ -1,18 +1,18 @@
 ---
 title: "Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access"
 created: "2026-08-17T09:35:00-04:00"
-updated: "2026-08-17T09:35:00-04:00"
+updated: "2026-08-17T10:00:00-04:00"
 type: article
 tags: [equity-in-ai-education, ai-literacy, prompt-engineering, digital-divide, llm, bias-mitigation, accessible-learning]
 sources: ['raw/papers/2608.08942.md']
 confidence: high
 ---
 
-> **Synthesis:** Jin and colleagues (2026) identify a systematic accessibility bias they call **prompt privilege**: users who can phrase requests skillfully get markedly better output from large language models than users who express the same underlying intent less adroitly. To make this measurable and fixable, they propose a Prompt Equity Score (PES) that quantifies performance consistency across user populations and a Prompt Equity Transformer (PET) agent that rewrites a user's request into semantically equivalent, accessibility-oriented wording before it reaches the model. Demonstrations on the MedQA benchmark show statistically significant performance gaps between low-literacy and expert-prompting cohorts that PET eliminates while preserving meaning — advancing a system-centered view of [[equity-in-ai-education|equitable AI access]] in which the burden of effective [[prompt-engineering]] shifts from the learner to the AI itself.
+> **Synthesis:** Jin and colleagues (2026) identify a systematic accessibility bias they call **prompt privilege**: users who can phrase requests skillfully get markedly better output from [[llm|large language models]] than users who express the same underlying intent less adroitly. To make this measurable and fixable, they propose a Prompt Equity Score (PES) that quantifies performance consistency across user populations and a Prompt Equity Transformer (PET) agent that rewrites a user's request into semantically equivalent, accessibility-oriented wording before it reaches the model. Demonstrations on the MedQA benchmark show statistically significant performance gaps between low-literacy and expert-prompting cohorts that PET eliminates while preserving meaning — advancing a system-centered view of [[equity-in-ai-education|equitable AI access]] in which the burden of effective [[prompt-engineering]] shifts from the learner to the AI itself.
 
 ## Prompt privilege as an overlooked accessibility gap
 
-The paper reframes prompt sensitivity. Existing work on prompt robustness focuses on adversarial attacks, prompt injection, and prompt optimization — all concerned with whether an *attacker* or *expert* can extract more from a model. Jin et al. instead ask the inverse question: whether *equally legitimate* requests phrased differently receive different-quality responses simply because of phrasing. They call this accessibility challenge "prompt privilege" — users with greater prompting expertise systematically obtain better performance despite identical intent. This is fundamentally an [[equity-in-ai-education|equity]] problem: as LLMs are woven into healthcare, education, and public services, anyone with weaker [[ai-literacy|prompt literacy]] is silently disadvantaged, compounding the [[digital-divide]].
+The paper reframes prompt sensitivity. Existing work on prompt robustness focuses on adversarial attacks, prompt injection, and prompt optimization — all concerned with whether an *attacker* or *expert* can extract more from a model. Jin et al. instead ask the inverse question: whether *equally legitimate* requests phrased differently receive different-quality responses simply because of phrasing. They call this accessibility challenge "prompt privilege" — users with greater prompting expertise systematically obtain better performance despite identical intent. This is fundamentally an [[equity-in-ai-education|equity]] problem: as [[llm|LLMs]] are woven into healthcare, education, and public services, anyone with weaker [[ai-literacy|prompt literacy]] is silently disadvantaged, compounding the [[digital-divide]].
 
 ## Making the gap measurable: Prompt Equity Score (PES)
 
@@ -33,7 +33,7 @@ Experiments on the **MedQA** benchmark confirm the problem and the fix:
 ## Practical implications for education
 
 - **Design systems, not just curricula, for equity:** reducing the [[ai-literacy|prompt-literacy]] gap matters, but so does engineering models to be robust to naive phrasing — the burden should not rest solely on students.
-- **Audit AI tools for prompt privilege:** an institution deploying an AI tutor or writing assistant should measure performance consistency across its actual student populations, not just expert users.
+- **Audit AI tools for prompt privilege:** an institution deploying an [[ai-tutoring|AI tutor]] or writing assistant should measure performance consistency across its actual student populations, not just expert users.
 - **Treat prompting skill as a resource that is unevenly distributed:** prompt privilege is one mechanism behind observed differences in who benefits from [[generative-ai|generative AI]] in education, complementing findings on [[genai-skill-bypass-literacy|skill bypass]] and the illusion of [[digital-literacy-illusion|digital literacy]].
 
 ## Connected Concepts
