@@ -1,10 +1,13 @@
 # Journal
 
-**Last updated:** 2026-08-17 | **Total entries:** 844
+**Last updated:** 2026-08-17 | **Total entries:** 847
 
 > Reverse chronological index of all articles and concepts ingested into the wiki.
 
 ## "2026-08-17
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
 - [[engineering-education]] — Engineering Education
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education

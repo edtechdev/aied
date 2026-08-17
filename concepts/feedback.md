@@ -70,6 +70,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)

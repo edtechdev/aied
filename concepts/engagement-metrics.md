@@ -46,6 +46,8 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[higher-ed]]
 
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement

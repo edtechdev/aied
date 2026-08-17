@@ -44,6 +44,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[pedagogical-llm-training]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
