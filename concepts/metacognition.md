@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-16T20:47:13-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -46,6 +46,15 @@ Scheu et al. (2026) found a critical split:
 
 This suggests that **metacognitive support and [[motivation]] are not identical**. The LLM assistant's [[scaffolding]] of journal entries increased how much students wrote (behavioral engagement) but did not make them *want* to write more (intrinsic motivation).^[[scheu-mobile-chatbot-journaling-motivation-2026]]
 
+## The Beliefs-vs-Experiences Distinction
+
+[[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] offer a theoretically sharper account of how metacognition governs strategy selection, distinguishing two components that operate in different phases:
+
+- **Metacognitive beliefs** — stable, self-referential self-conceptions stored in long-term memory (e.g., beliefs about one's memory capability, or the reliability of a tool). These anchor strategy choices *before* task initiation.
+- **Metacognitive experiences** — dynamic, task-specific feelings (perceived difficulty, confidence, mental workload) that drive belief *updating* during task execution.
+
+This distinction yields the principle of **timing-component matching**: feedback that targets beliefs (e.g., comparative rankings) is most effective in the pre-task preparation phase, whereas feedback that targets experiences (e.g., immediate correctness indicators) is most effective during task execution. Abstract ranking feedback can become separated from — or overridden by — the task-specific experiences that dominate immediate decision-making, explaining why some feedback interventions fail to change behavior. This gives educators a phase-contingent rationale for designing metacognitive scaffolds around AI tools: calibrate beliefs before use, provide immediate task-specific feedback during use.
+
 ## Implications for Tool Design
 
 1. **Preserve the "friction" of thinking:** If AI writes the reflection, the student does not build metacognitive skill. Journaling assistants should scaffold, not author.
@@ -69,6 +78,7 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
