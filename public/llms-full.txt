@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 697 articles and 144 concepts.
+> Complete text of 698 articles and 144 concepts.
 
 # Articles
 
@@ -22318,6 +22318,60 @@ Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacogn
 
 ---
 
+## [Metacognitive Training Facilitates Optimal Cognitive Offloading](https://edtechdev.github.io/aied/articles/metacognitive-training-optimal-cognitive-offloading-2026/)
+
+> Ngai & Gilbert (2026) show that a brief metacognitive training intervention — just five practice trials pairing performance prediction with feedback — improves metacognitive calibration and makes people's [[cognitive-offloading]] strategy choices measurably more optimal, resolving earlier mixed findings about whether metacognitive training translates into actual offloading behavior.
+
+Ngai and Gilbert (2026) report two preregistered experiments testing whether a brief metacognitive intervention can reduce systematic biases in [[cognitive-offloading]]. People are known to offload suboptimally — most commonly over-using external reminders even when internal memory would earn more reward — a bias linked to miscalibrated [[metacognition|metacognitive confidence]]. Prior attempts to shift offloading via metacognitive interventions produced inconsistent results, so this study tested a tightly-specified training recipe under conditions designed to isolate metacognitive effects.
+
+## The Intervention
+
+Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-feedback loop was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
+
+## Findings
+
+- **Experiment 1 (N = 164):** Participants who made predictions *and* received feedback showed significantly improved metacognitive calibration and more optimal reminder-setting than the no-feedback control.
+- **Experiment 2 (N = 416, four-group additive design):** Replicated the benefit and isolated its mechanism:
+  - **Making predictions alone was ineffective** (no significant reduction in bias).
+  - **Adding performance feedback drove the improvement** — the key transition occurred between the prediction-only and prediction-plus-feedback groups.
+  - **Explicitly labeling over-/under-confidence added no further benefit** beyond the performance feedback itself.
+- **Effects on absolute (not signed) bias:** The intervention improved calibration by *correcting individual miscalibration in both directions* — increasing confidence in underconfident participants and decreasing it in overconfident ones. Signed (directional) bias effects were not significant, but absolute bias improved.
+- **Metacognitive hindsight bias persisted:** Participants' memory of their earlier confidence was systematically distorted toward their actual performance, and the intervention did not reduce this.
+- Confidence continued to explain significant variance in offloading choices even after controlling for objective optimal strategy.
+
+## Why It Differs From Prior Null Results
+
+The authors attribute their success — versus Engeler & Gilbert (2020) and Grinschgl et al. (2020, 2025) — to two design choices: (1) **financial incentive tied to the optimality of offloading strategy**, which minimized non-metacognitive influences like effort-avoidance; and (2) **veridical, immediate, trial-by-trial feedback explicitly linked to the prior prediction**, rather than a single block-level or fake feedback statement. This supports the view that feedback is most effective when salient, explicit, and iteratively connected to one's own prediction.
+
+## Connections to the Wiki
+
+This study provides strong empirical grounding for the wiki's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[over-reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable regulatory skill).
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[over-reliance]]
+- [[feedback]]
+- [[self-regulated-learning]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026): the beliefs-vs-experiences framework this study empirically validates
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
+- [[coach-not-crutch-ai-writing]] — AI can work less and learn more: the "coach" boundary condition
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Prompt patterns as offloading traces
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive disengagement in AI-assisted completion
+- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading in the AI era
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — A human-centered AI metacognitive model
+
+## Citation
+
+Ngai, C., & Gilbert, S. J. (2026). [*Metacognitive training facilitates optimal cognitive offloading*](https://doi.org/10.1186/s41235-026-00714-0). *Cognitive Research: Principles and Implications*, 11(21).
+
+---
+
 ## [Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning](https://edtechdev.github.io/aied/articles/metacognitively-discordant-completion-genai-2026/)
 
 > **Synthesis:** This theoretical paper names a state it calls *metacognitively discordant completion* (MDC): a learner submits correct, complete work while holding a first-person awareness that understanding has not actually arrived. Arguing that no existing literature holds the three defining conditions together under one name, the author builds the construct by inheritance from metacognition research and by boundary against related concepts, framing GenAI's role as amplification rather than invention.
@@ -34891,6 +34945,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer. This gives offloading research a falsifiable, level-contingent theory rather than a single harmful/helpful verdict.
 
+- **Metacognitive training reduces reminder bias (direct empirical evidence):** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the first clear demonstration that a brief intervention can make offloading measurably more optimal. Two preregistered experiments (N=164, N=416) found that **just five practice trials pairing a performance prediction with veridical, trial-by-trial feedback** improved metacognitive calibration and reduced reminder bias (deviation from each individual's optimal strategy). The four-group additive design isolated the mechanism: **predictions alone were ineffective; adding performance feedback drove the improvement; explicitly labeling over-/under-confidence added nothing further**. The effect appeared on *absolute* (not signed) bias — training corrected individual miscalibration in both directions (raising confidence in the underconfident, lowering it in the overconfident) rather than shifting everyone one way. This empirically validates the beliefs-vs-experiences framework above: it is *experience-targeting feedback*, not beliefs or prediction alone, that changes offloading behavior. The authors attribute success (versus earlier nulls) to financial incentive tied to offloading optimality plus immediate veridical feedback — implying such training works best when non-metacognitive factors (effort-avoidance) are minimized.
+
 ### The CLT framework
 
 [[cognitive-load-theory|Cognitive Load Theory]] provides the theoretical foundation: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing. Poorly integrated AI reduces all three, leaving students with completed tasks and empty learning.
@@ -34917,6 +34973,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[distributed-cognition]]
 - [[embodied-learning]]
 ## Connected Articles
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -36623,6 +36680,10 @@ AI changes feedback in three consequential directions, each raising the stakes o
 - **Evaluation demands on the learner.** Because AI feedback can be inaccurate or hallucinated, students must judge whether to trust and act on it. This is where [[feedback-literacy]] and [[trust-calibration]] become decisive: [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that only feedback-literate students convert AI feedback into [[self-regulated-learning]] gains, while [[llm-fallacy-misattribution|the LLM fallacy]] captures how students may over-credit AI feedback to their own competence.
 - **Feedback literacy as a training goal.** Rather than only providing feedback, AI tools are increasingly designed to *teach* students to use feedback — [[tubino-adachi-ai-automated-feedback-literacy|reframing automated feedback tools as literacy-building instruments]], [[zhan-boud-dawson-genai-feedback-engagement|framing GenAI as an enabler of feedback engagement]], and [[richmond-nicholls-genai-psych-feedback-ai-literacies|using GenAI critique tasks to build psychological, feedback, and AI literacies together]].
 
+### What makes feedback effective: calibration evidence
+
+[[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide a clean experimental result on feedback design with direct relevance to AIED: **veridical, immediate, trial-by-trial feedback tied to a learner's own prior prediction is what changes behavior — prediction or beliefs alone are not enough**. In their four-group design, feedback combined with a preceding performance prediction improved calibration and behavior, while predictions without feedback did nothing, and adding an explicit over-/underconfidence label added nothing further. This aligns with the wiki's feedback-system view: feedback's power lies in closing the gap against a learner's *own* estimate (the provision–uptake pairing), and effective feedback should be immediate, accurate, and explicitly connected to what the learner predicted — a design principle for AI feedback systems and [[feedback-literacy]] training alike.
+
 ### The provision-uptake pairing
 
 The wiki's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The [[feedback-loop]] is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
@@ -36648,6 +36709,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 ## Connected Articles
 
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
 - [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
@@ -38615,6 +38677,10 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 
 This distinction yields the principle of **timing-component matching**: feedback that targets beliefs (e.g., comparative rankings) is most effective in the pre-task preparation phase, whereas feedback that targets experiences (e.g., immediate correctness indicators) is most effective during task execution. Abstract ranking feedback can become separated from — or overridden by — the task-specific experiences that dominate immediate decision-making, explaining why some feedback interventions fail to change behavior. This gives educators a phase-contingent rationale for designing metacognitive scaffolds around AI tools: calibrate beliefs before use, provide immediate task-specific feedback during use.
 
+### Calibration is trainable: prediction + feedback
+
+[[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide direct causal evidence that metacognitive calibration is a *trainable* skill. In two preregistered experiments (N=164, N=416), **just five practice trials pairing a performance prediction with veridical feedback** improved calibration and reduced bias. A four-group additive design isolated the causal component: **making predictions alone was ineffective; adding performance feedback drove the improvement; explicitly labeling over-/underconfidence added nothing further**. Critically, the improvement acted on *absolute* calibration — raising confidence in the underconfident and lowering it in the overconfident — so it corrected miscalibration in both directions rather than shifting everyone one way (which is why signed/directional effects were null). This strengthens the "experiences not beliefs" account above and shows the *minimum viable metacognitive training*: prediction + immediate, task-specific feedback.
+
 ## Implications for Tool Design
 
 1. **Preserve the "friction" of thinking:** If AI writes the reflection, the student does not build metacognitive skill. Journaling assistants should scaffold, not author.
@@ -38638,6 +38704,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
@@ -38914,6 +38981,8 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 
 - **The metacognitive mechanics of overuse:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] explain *why* students over-offload even when it hurts them. People offload impulsively, preferring external reminders that exceed their optimal capacity — a bias independent of objective ability. **Reminder bias** quantifies this deviation from optimal offloading, and incentives reduce but do not eliminate it, because pre-existing metacognitive *beliefs* (e.g., overestimating tool effectiveness) anchor behavior faster than task *experiences* can correct it. Externalization can cause "dual damage" to performance *and* abilities, and technology-enhanced environments may foster maladaptive offloading without metacognitive guidance — so the antidote to over-reliance is metacognitive, not merely restrictive.
 
+- **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the direct empirical counterweight to the impulsiveness above: reminder bias — the laboratory analogue of over-reliance on external aids — **can be reduced with a brief metacognitive intervention**. Just five practice trials pairing a performance prediction with veridical feedback significantly reduced deviation from the optimal offloading strategy. Crucially, the mechanism was *calibration correction in both directions*: it reduced excessive reminder use in the over-confident *and* insufficient use in the under-confident, acting on absolute rather than directional bias. Prediction alone did nothing; only feedback changed behavior. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided** — directly applicable to teaching appropriate AI use.
+
 ### Relationship to cognitive offloading
 
 Over-reliance is distinguished from [[cognitive-offloading]] by intent and outcome. Cognitive offloading can be productive (using a calculator to free mental resources for conceptual understanding) or unproductive (asking AI to solve a problem you should learn to solve). Over-reliance is specifically the unproductive pattern — where offloading has crossed the threshold from strategic support to learning displacement.
@@ -38939,6 +39008,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[behaviorism]]
 
 ## Connected Articles
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-16T20:47:13-04:00"
+updated: "2026-08-16T21:20:00-04:00"
 type: concept
 tags: [cognitive-offloading, cognitive-load-theory, over-reliance, ai-literacy, student-experience, generative-ai]
 confidence: high
@@ -37,6 +37,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer. This gives offloading research a falsifiable, level-contingent theory rather than a single harmful/helpful verdict.
 
+- **Metacognitive training reduces reminder bias (direct empirical evidence):** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the first clear demonstration that a brief intervention can make offloading measurably more optimal. Two preregistered experiments (N=164, N=416) found that **just five practice trials pairing a performance prediction with veridical, trial-by-trial feedback** improved metacognitive calibration and reduced reminder bias (deviation from each individual's optimal strategy). The four-group additive design isolated the mechanism: **predictions alone were ineffective; adding performance feedback drove the improvement; explicitly labeling over-/under-confidence added nothing further**. The effect appeared on *absolute* (not signed) bias — training corrected individual miscalibration in both directions (raising confidence in the underconfident, lowering it in the overconfident) rather than shifting everyone one way. This empirically validates the beliefs-vs-experiences framework above: it is *experience-targeting feedback*, not beliefs or prediction alone, that changes offloading behavior. The authors attribute success (versus earlier nulls) to financial incentive tied to offloading optimality plus immediate veridical feedback — implying such training works best when non-metacognitive factors (effort-avoidance) are minimized.
+
 ### The CLT framework
 
 [[cognitive-load-theory|Cognitive Load Theory]] provides the theoretical foundation: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing. Poorly integrated AI reduces all three, leaving students with completed tasks and empty learning.
@@ -63,6 +65,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[distributed-cognition]]
 - [[embodied-learning]]
 ## Connected Articles
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
