@@ -48,7 +48,7 @@ For each new relevant paper:
 
 2. **Create article page** → `articles/[slug].md` (this is the wiki's page type for individual papers)
    - Frontmatter: title, created, updated, type: article, tags, sources, confidence
-   - **`created` MUST be today's date (ingestion date), NOT the paper's publication date.** The right-sidebar "Recent Articles" and the Journal page sort by `created`, so setting it to the paper's pub date buries new articles under older ones and they never appear as "new." Use `created: [TODAY]` (same as `updated`). The paper's actual publication date can go in the body/citation if relevant.
+   - **`created` MUST be today's date+time (ingestion date), NOT the paper's publication date.** The right-sidebar "Recently Added Articles" and the Journal page sort by `created`, so setting it to the paper's pub date buries new articles under older ones and they never appear as "new." Use `created: "[TODAY]THH:MM:SS±HH:MM"` quoted full timestamp (same as `updated`). The paper's actual publication date can go in the body/citation if relevant.
    - Body structure: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA, hyperlinked title)
    - **NEVER reference `raw/` paths in the article body** — no `^[raw/papers/x.md]` footnotes, no `[local](raw/papers/x.md)` / `[PDF](raw/...)` links. The Astro renderer leaves `^[...]` footnotes as literal text and `raw/` is not deployed, so they appear as broken text on the live site. The raw file is referenced ONLY in the `sources:` frontmatter field; in-body citations use the real paper URL (arXiv/DOI).
 
