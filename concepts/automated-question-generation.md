@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-15T20:02:54-04:00"
+updated: "2026-08-18T14:55:00-04:00"
 type: concept
 tags: [automated-question-generation, llm, generative-ai, assessment, automated-assessment, formative-assessment, educational-nlp, personalized-learning, adaptive-learning, ai-ed-evaluation, educational-measurement]
 confidence: high
@@ -19,6 +19,7 @@ The wiki's research illustrates several approaches:
 - **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.
 - **Cognitive-depth-aware generation:** [[llm-educational-question-cognitive-depth|Evaluating the cognitive depth of LLM-generated questions]] examines whether generated items tap higher-order thinking (creation, evaluation) or only memorization, connecting to Bloom's taxonomy and [[educational-measurement]].
 - **Pedagogical pipelines:** [[slidesqaqa-pedagogical-question-generation|Slide-deck Q&A generation]] uses a multi-stage pipeline for pedagogically sound question generation from course materials.
+- **Accessibility-aware generation:** [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]] design an LLM-powered question-generation system for [[accessible-learning|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video, and iteratively refining questions with the target community to ensure linguistic accessibility.
 - **RAG-based, human-in-the-loop systems:** [[code-gen|CODE-GEN]] combines [[rag|retrieval-augmented generation]] with [[human-in-the-loop-ai|human-in-the-loop]] review for generating [[automated-assessment|multiple-choice assessments]].
 - **Benchmarks and evaluation:** [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] provides a benchmark of scientific/mathematical riddles for evaluating question-generation and reasoning systems.
 
@@ -74,6 +75,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale field validation of AI-generated exam quality via IRT
 - [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
 - [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
 - [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
 - [[slidesqaqa-pedagogical-question-generation]] — Slide-deck Q&A pedagogical question generation
 - [[code-gen]] — CODE-GEN: RAG-based human-in-the-loop question generation

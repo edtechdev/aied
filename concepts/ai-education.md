@@ -52,7 +52,7 @@ AI in education changes the roles of every stakeholder:
 
 Several themes cut across the field:
 
-- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]].
+- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]]. How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
 - **The evolution of the field:** the wiki traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
 
 ## Field maturity
@@ -96,6 +96,8 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[situated-learning]]
 - [[critical-pedagogy]]
 - [[philosophy-of-ai-in-education]]
+- [[technology-acceptance-model]]
+- [[global-south]]
 - [[medical-education]]
 - [[humanities-education]]
 - [[teacher-education]]

@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 134
+**Total concepts:** 136
 
 ## Canonical concepts
 
@@ -173,6 +173,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 - **`generative-ai`** — Generative AI
     - phrases: generative AI; GenAI; generative artificial intelligence; GAI; chatbot; ChatGPT; generative model
+
+- **`global-south`** — Global South
+    - phrases: Global South; developing country; developing countries; majority world; low-resource context; non-Western context
 
 - **`governance`** — AI Governance
     - phrases: governance; AI governance; governance framework
@@ -386,6 +389,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
     - phrases: TPACK; technological pedagogical content knowledge
+
+- **`technology-acceptance-model`** — Technology Acceptance Model
+    - phrases: technology acceptance model; TAM; technology acceptance; perceived usefulness; perceived ease of use; UTAUT; adoption model
 
 - **`transfer-of-learning`** — Transfer of Learning
     - phrases: transfer of learning; learning transfer; transfer; far transfer

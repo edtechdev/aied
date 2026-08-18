@@ -47,7 +47,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Equity, ethics, and responsible use',
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
-      { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'accessible-learning', 'neurodiversity', 'universal-design-for-learning'] },
+      { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'accessible-learning', 'neurodiversity', 'universal-design-for-learning', 'global-south'] },
       { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'trust', 'trust-calibration', 'reducing-ai-misuse', 'cognitive-offloading', 'critical-thinking', 'critical-pedagogy'] },
     ],
   },
@@ -55,7 +55,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Emergent and cross-cutting themes',
     blurb: 'Concepts that span the field, from AI literacy to human–AI collaboration and design approaches.',
     groups: [
-      { label: 'Cross-cutting', items: ['ai-education', 'ai-literacy', 'prompt-engineering', 'human-ai-collaboration', 'agentic-ai', 'computational-thinking', 'design-thinking', 'curriculum-design', 'philosophy-of-ai-in-education'] },
+      { label: 'Cross-cutting', items: ['ai-education', 'ai-literacy', 'prompt-engineering', 'human-ai-collaboration', 'agentic-ai', 'computational-thinking', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'philosophy-of-ai-in-education'] },
     ],
   },
 ];
