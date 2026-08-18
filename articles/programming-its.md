@@ -57,7 +57,7 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 
 - [[formative-assessment]]
 - [[intelligent-tutoring]]
-- [[programming-education]]
+- [[cs-education]]
 - [[scaffolding]]
 - [[adaptive-learning]]
 - [[cs-education]]

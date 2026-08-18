@@ -25,11 +25,11 @@ confidence: high
 
 **Limited human alignment.** Despite strong internal agreement among models, alignment with the human teacher's grades remained limited — even the best-performing model achieved only moderate reliability, underscoring the need for human oversight in [[cs-education]] deployment.
 
-**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[programming-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
+**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[cs-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
 
 ## Connected Concepts
 
-- [[programming-education]]
+- [[cs-education]]
 - [[automated-assessment]]
 - [[llm]]
 - [[cs-education]]

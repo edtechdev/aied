@@ -28,7 +28,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[teacher-role]]
 - [[academic-integrity]]
 - [[learning-analytics]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 

@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-18 | **Total entries:** 849
+**Last updated:** 2026-08-18 | **Total entries:** 848
 
 > Reverse chronological index of all articles and concepts ingested into the wiki.
 
@@ -176,7 +176,6 @@
 - [[educational-robotics]] — Robots in Education
 - [[project-based-learning]] — Project-Based Learning
 - [[self-efficacy]] — Self-Efficacy
-- [[programming-education]] — Programming Education
 - [[social-robots]] — Social Robots
 - [[trust]] — Trust in AI
 - [[game-based-learning]] — Game-Based Learning

@@ -32,7 +32,7 @@ The absence of performance differences across usage clusters underscores the nee
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[socratic-method]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[learning-analytics]]
 - [[student-experience]]

@@ -18,7 +18,7 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 - [[teacher-role]]
 - [[higher-ed]]
 - [[prompt-engineering]]
-- [[programming-education]]
+- [[cs-education]]
 - [[self-efficacy]]
 - [[professional-training]]
 ## Connected Articles

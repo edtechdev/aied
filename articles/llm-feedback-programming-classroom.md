@@ -23,7 +23,7 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 - [[formative-assessment]]
 - [[stem-education]]
 - [[higher-ed]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 

@@ -16,7 +16,7 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[llm]]
 - [[cs-education]]
 - [[scaffolding]]
-- [[programming-education]]
+- [[cs-education]]
 - [[feedback]]
 ## Connected Articles
 

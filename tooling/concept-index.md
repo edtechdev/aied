@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 136
+**Total concepts:** 135
 
 ## Canonical concepts
 
@@ -106,7 +106,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: critical thinking; higher-order thinking; critical reasoning
 
 - **`cs-education`** — CS Education and AI
-    - phrases: computer science education; CS education; computing education; computer science
+    - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1
 
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy
     - phrases: culturally relevant pedagogy; culturally responsive teaching; culturally sustaining pedagogy; culturally responsive pedagogy
@@ -300,9 +300,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`professional-training`** — Professional Training and AI
     - phrases: professional training; workforce development; vocational training; reskilling; upskilling; professional education
 
-- **`programming-education`** — Programming Education
-    - phrases: programming education; programming; coding education; introductory programming; CS1
-
 - **`project-based-learning`** — Project-Based Learning
     - phrases: project-based learning; PBL; project-based
 
@@ -425,3 +422,4 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - `cognitive-load-theory` → removed (mention as plain text, no link)
 - `dual-process-theory` → removed (mention as plain text, no link)
 - `engagement-metrics` → **`student-engagement`**
+- `programming-education` → **`cs-education`**

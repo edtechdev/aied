@@ -26,7 +26,7 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[teacher-role]]
 - [[cs-education]]
 - [[generative-ai]]
-- [[programming-education]]
+- [[cs-education]]
 - [[assessment]]
 - [[higher-ed]]
 ## Connected Articles

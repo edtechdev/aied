@@ -19,7 +19,7 @@ Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students 
 - [[active-learning]]
 - [[student-experience]]
 - [[stem-education]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 

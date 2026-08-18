@@ -19,7 +19,7 @@ To make evaluation provenance explicit the authors build BILearn-CS, a 600-query
 - [[cognitive-offloading]]
 - [[pedagogical-llm-training]]
 - [[rag]]
-- [[programming-education]]
+- [[cs-education]]
 - [[intelligent-tutoring]]
 - [[benchmark]]
 - [[generative-ai]]

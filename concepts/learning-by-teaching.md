@@ -59,7 +59,7 @@ Learning by teaching is the constructive, active-learning counterpoint to the do
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]

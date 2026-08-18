@@ -48,7 +48,7 @@ The findings have implications beyond programming — the productivity-learning 
 - [[stem-education]]
 - [[transfer-of-learning]]
 - [[meta-analysis-systematic-review]]
-- [[programming-education]]
+- [[cs-education]]
 - [[learning-gains]]
 - [[cognitive-offloading]]
 ## Connected Articles

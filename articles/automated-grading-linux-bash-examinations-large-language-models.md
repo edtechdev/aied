@@ -20,7 +20,7 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 - [[formative-assessment]]
 - [[ai-feedback-quality]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[automated-assessment]]
 ## Connected Articles
 

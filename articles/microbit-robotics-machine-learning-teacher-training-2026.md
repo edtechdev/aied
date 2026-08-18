@@ -24,12 +24,12 @@ confidence: high
 
 **Control condition and training gap.** The control group received the same theoretical content ([[computational-thinking]], visual programming, and robotics/AI applications in primary education) through traditional lecture-based sessions rather than hands-on activities, isolating the effect of the practical intervention. The authors frame the study around explicit training gaps in initial teacher education — limited prior exposure to visual [[block-programming]], weak conceptual grasp of sequencing/loops/conditionals, unfamiliarity with robotics hardware, and minimal experience integrating programming across curricular areas.
 
-**Implication.** Educational robotics and machine-learning activities should be embedded in [[teacher-education]] so future teachers can teach [[computational-thinking]] and [[programming-education]] in [[higher-ed]], strengthening [[educational-robotics]] across the [[cs-education]] curriculum.
+**Implication.** Educational robotics and machine-learning activities should be embedded in [[teacher-education]] so future teachers can teach [[computational-thinking]] and [[cs-education]] in [[higher-ed]], strengthening [[educational-robotics]] across the [[cs-education]] curriculum.
 
 ## Connected Concepts
 
 - [[teacher-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[educational-robotics]]
 - [[computational-thinking]]
 - [[cs-education]]
