@@ -39,7 +39,7 @@ LLM tools give students rapid solutions but may reduce opportunities for product
 - [[learning-by-teaching]]
 - [[generative-ai]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[desirable-difficulties]]
 - [[scaffolding]]
 - [[higher-ed]]

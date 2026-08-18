@@ -21,7 +21,7 @@ As generative AI becomes central to software development, CS education is shifti
 - [[metacognition]]
 - [[student-experience]]
 - [[formative-assessment]]
-- [[programming-education]]
+- [[cs-education]]
 - [[critical-thinking]]
 ## Connected Articles
 

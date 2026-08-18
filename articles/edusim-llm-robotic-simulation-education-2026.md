@@ -23,7 +23,7 @@ This is a **platform development and evaluation study**. The researchers designe
 
 ## Implications for AI in Education
 
-EduSim-LLM shows how [[llm|large language models]] can lower the barrier to [[educational-robotics]] by enabling natural-language control of simulated robots, making robotics accessible to [[programming-education|beginner programmers]]. It connects to [[computational-thinking]], robotic simulation, and the educational use of embodied AI. For educators, it demonstrates a pathway for teaching robot programming without requiring low-level code expertise, supporting [[k-12]] and introductory higher-education robotics learning through conversational control.
+EduSim-LLM shows how [[llm|large language models]] can lower the barrier to [[educational-robotics]] by enabling natural-language control of simulated robots, making robotics accessible to [[cs-education|beginner programmers]]. It connects to [[computational-thinking]], robotic simulation, and the educational use of embodied AI. For educators, it demonstrates a pathway for teaching robot programming without requiring low-level code expertise, supporting [[k-12]] and introductory higher-education robotics learning through conversational control.
 
 ## Limitations
 
@@ -33,7 +33,7 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 
 - [[educational-robotics]]
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[computational-thinking]]
 - [[human-robot-interaction]]
 - [[simulation]]

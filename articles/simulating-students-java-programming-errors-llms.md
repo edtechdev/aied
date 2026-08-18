@@ -25,7 +25,7 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 
 ## Connected Concepts
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[simulating-students]]
 
 - [[learning-by-teaching]]

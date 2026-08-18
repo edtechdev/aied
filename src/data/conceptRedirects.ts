@@ -13,4 +13,5 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'cognitive-load-theory': 'cognitive-offloading',
   'dual-process-theory': 'critical-thinking',
   'engagement-metrics': 'student-engagement',
+  'programming-education': 'cs-education',
 };

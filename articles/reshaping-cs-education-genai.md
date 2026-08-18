@@ -18,7 +18,7 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[curriculum-design]]
 - [[critical-thinking]]
 - [[computational-thinking]]

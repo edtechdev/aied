@@ -19,7 +19,7 @@ SocratiCode demonstrates a participatory design evolution from directive AI tuto
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[human-in-the-loop-ai]]
-- [[programming-education]]
+- [[cs-education]]
 - [[k-12]]
 - [[socratic-method]]
 - [[scaffolding]]

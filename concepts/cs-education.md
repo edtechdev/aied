@@ -19,6 +19,17 @@ confidence: high
 - **Misconception modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **Authentic-assessment performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 GenAI systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 
+### Programming pedagogy: from blocks to embodied, game-based learning
+
+Programming education spans introductory [[block-programming|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
+
+- **Embodied block programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block-based programming with a conversational AI teaching agent and embodied robot execution, creating an iterative authoring–running–observing–revising loop that preserves learner [[agency]].
+- **Natural-language robot control:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots through natural-language instructions, lowering the barrier to robot programming without requiring low-level code expertise.
+- **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula, and [[microbit-robotics-machine-learning-teacher-training-2026|teacher-training research]] argues robotics and ML activities should be embedded in [[teacher-education]].
+- **Game-based and gamified learning:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] compares game-based learning (suited to informal settings) and gamification (suited to formal classrooms) in robotics education, which emphasizes introductory programming and modular kits.
+- **Project-based robotics:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] teaches robotics programming through an agile, semester-spanning [[project-based-learning|project]], addressing the theory-practice gap in higher-ed.
+- **LLM impact on learning outcomes:** [[jost-llm-programming-education-learning-outcomes|Jošt et al. (2024)]] and [[genai-meta-analysis-programming-learning|a meta-analysis of GenAI and programming learning]] examine whether AI-assisted tools help or undermine programming achievement.
+
 ### Curriculum transformation in the AI era
 
 The question "what should students still learn by hand?" now reshapes computing programs.
@@ -60,12 +71,12 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[programming-education]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[collaborative-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
+CS education connects to [[computational-thinking]], [[block-programming]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
 - [[computational-thinking]]
-- [[programming-education]]
+- [[block-programming]]
 - [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-assessment]]
@@ -77,6 +88,10 @@ CS education connects to [[computational-thinking]], [[programming-education]], 
 - [[higher-ed]]
 - [[k-12]]
 - [[professional-training]]
+- [[educational-robotics]]
+- [[game-based-learning]]
+- [[project-based-learning]]
+- [[embodied-learning]]
 - [[llm]]
 - [[generative-ai]]
 - [[intelligent-tutoring]]
@@ -115,4 +130,13 @@ CS education connects to [[computational-thinking]], [[programming-education]], 
 - [[llm-computational-thinking-physics-2026]]
 - [[test-driven-ai-assisted-learning]]
 - [[prompt-coach-agentic-tutor-prompt-engineering]]
+- [[roboblockly-conversational-block-robotics-ct-2026]]
+- [[edusim-llm-robotic-simulation-education-2026]]
+- [[computational-thinking-educational-robotics-secondary-2026]]
+- [[game-based-gamified-robotics-education-review-2026]]
+- [[bots-blocks-project-based-robotics-education-2026]]
+- [[jost-llm-programming-education-learning-outcomes]]
+- [[genai-meta-analysis-programming-learning]]
+- [[microbit-robotics-machine-learning-teacher-training-2026]]
+- [[jeon-isd-agent-bench-2026]]
 - [[ai-engineering-computing-workforce-grey-literature-2026]]

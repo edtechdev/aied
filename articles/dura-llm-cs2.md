@@ -24,7 +24,7 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Connected Concepts
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[llm]]
 - [[generative-ai]]
 - [[scaffolding]]

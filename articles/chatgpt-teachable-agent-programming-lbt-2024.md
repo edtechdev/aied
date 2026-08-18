@@ -31,7 +31,7 @@ Learning-by-teaching is an effective active-learning strategy, but traditional t
 
 - [[learning-by-teaching]]
 - [[generative-ai]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[self-regulated-learning]]
 - [[scaffolding]]

@@ -38,7 +38,7 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 ## Connected Concepts
 
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[cognitive-offloading]]
 - [[generative-ai]]

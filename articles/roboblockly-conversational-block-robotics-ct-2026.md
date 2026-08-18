@@ -23,7 +23,7 @@ This is a **design-based development and deployment study**. The researchers des
 
 ## Implications for AI in Education
 
-RoboBlockly Studio addresses the challenge of making [[computational-thinking]] concrete by grounding abstract block programs in embodied robot execution and scaffolding reflection with a conversational AI agent. It connects to [[programming-education]], [[programming-education|block-based programming]], [[educational-robotics]], and [[llm|LLM-based]] learning assistants. The design emphasis on **preserving learner agency** and **transparency** speaks to responsible AI tutoring design, and the embodied feedback loop supports learners in connecting code to real outcomes in [[k-12]] settings.
+RoboBlockly Studio addresses the challenge of making [[computational-thinking]] concrete by grounding abstract block programs in embodied robot execution and scaffolding reflection with a conversational AI agent. It connects to [[cs-education]], [[cs-education|block-based programming]], [[educational-robotics]], and [[llm|LLM-based]] learning assistants. The design emphasis on **preserving learner agency** and **transparency** speaks to responsible AI tutoring design, and the embodied feedback loop supports learners in connecting code to real outcomes in [[k-12]] settings.
 
 ## Limitations
 
@@ -32,7 +32,7 @@ The deployment involved 32 high school students, and detailed learning-outcome d
 ## Connected Concepts
 
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[educational-robotics]]
 - [[llm]]
 - [[embodied-learning]]
