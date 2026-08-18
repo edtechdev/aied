@@ -2,8 +2,8 @@
 
 > Relevant open-access **AI-in-education** journal articles identified from RSS feeds that have **not yet been ingested** into the wiki. The maintainer downloads the PDFs from the linked article pages and sends them for full-text ingestion. Sorted by journal.
 
-**Last updated:** 2026-08-16
-**Total backlog:** 94 articles
+**Last updated:** 2026-08-18
+**Total backlog:** 86 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -11,21 +11,15 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
-- [Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education](https://www.sciencedirect.com/science/article/pii/S2666920X26000342) — [DOI: 10.1016/j.caeai.2026.100572](https://doi.org/10.1016/j.caeai.2026.100572)
 - [Designing conversational Agents for adaptive instructional support in business simulation gaming](https://www.sciencedirect.com/science/article/pii/S2666920X2600038X) — [DOI: 10.1016/j.caeai.2026.100576](https://doi.org/10.1016/j.caeai.2026.100576)
-- [Exploring the design of LLM-powered question generation for deaf and hard of hearing learners](https://www.sciencedirect.com/science/article/pii/S2666920X26000779) — [DOI: 10.1016/j.caeai.2026.100615](https://doi.org/10.1016/j.caeai.2026.100615)
 - [Beyond “painting in pink”: A critical case study of all-girls generative AI workshops in a European makerspace and implications for gender equity in computing](https://www.sciencedirect.com/science/article/pii/S2666920X26000640) — [DOI: 10.1016/j.caeai.2026.100602](https://doi.org/10.1016/j.caeai.2026.100602)
 - [AI-assisted writing and the impact of ChatGPT on Greek-speaking students with and without learning disabilities. Outcomes from a repeated measures design](https://www.sciencedirect.com/science/article/pii/S2666920X26000652) — [DOI: 10.1016/j.caeai.2026.100603](https://doi.org/10.1016/j.caeai.2026.100603)
 - [How to train your dragon: Evaluating prompting and fine-tuning for GPT-based item generation in L2 listening assessment](https://www.sciencedirect.com/science/article/pii/S2666920X26000858) — [DOI: 10.1016/j.caeai.2026.100623](https://doi.org/10.1016/j.caeai.2026.100623)
 - [Preparing pre-service teachers for responsible generative AI use: Curriculum implications for ethics, privacy, and AI literacy](https://www.sciencedirect.com/science/article/pii/S2666920X26000792) — [DOI: 10.1016/j.caeai.2026.100617](https://doi.org/10.1016/j.caeai.2026.100617)
-- [From AI anxiety to strategic regulation: How university students transform generative AI into a strategic learning resource](https://www.sciencedirect.com/science/article/pii/S2666920X26000846) — [DOI: 10.1016/j.caeai.2026.100622](https://doi.org/10.1016/j.caeai.2026.100622)
 - [How high-school pressure and autonomy support are linked to dual AI learning pathways: A cross-contextual SEM analysis](https://www.sciencedirect.com/science/article/pii/S2666920X26000834) — [DOI: 10.1016/j.caeai.2026.100621](https://doi.org/10.1016/j.caeai.2026.100621)
-- [Factors influencing university students’ intention to use and reliance on generative artificial intelligence: An extended technology acceptance model with critical use](https://www.sciencedirect.com/science/article/pii/S2666920X26000809) — [DOI: 10.1016/j.caeai.2026.100618](https://doi.org/10.1016/j.caeai.2026.100618)
-- [Augmenting knowledge tracing through modeling dynamic higher-order concept interactions: A temporal hypergraph memory network](https://www.sciencedirect.com/science/article/pii/S2666920X26000780) — [DOI: 10.1016/j.caeai.2026.100616](https://doi.org/10.1016/j.caeai.2026.100616)
 - [Improving instructional design proficiency of master's students in mathematics education through intelligent educational technologies](https://www.sciencedirect.com/science/article/pii/S2666920X26000597) — [DOI: 10.1016/j.caeai.2026.100597](https://doi.org/10.1016/j.caeai.2026.100597)
 - [Modelling generative Al's influence on students' perceived decision capability: A cognitive load and decision augmentation approach](https://www.sciencedirect.com/science/article/pii/S2666920X26000585) — [DOI: 10.1016/j.caeai.2026.100596](https://doi.org/10.1016/j.caeai.2026.100596)
 - [An exploratory machine learning approach to understanding determinants of future ChatGPT use in higher education](https://www.sciencedirect.com/science/article/pii/S2666920X26000755) — [DOI: 10.1016/j.caeai.2026.100613](https://doi.org/10.1016/j.caeai.2026.100613)
-- [Social and cognitive drivers of generative AI adoption: A unified socio-cognitive model for engineering education](https://www.sciencedirect.com/science/article/pii/S2666920X26000767) — [DOI: 10.1016/j.caeai.2026.100614](https://doi.org/10.1016/j.caeai.2026.100614)
 - [AI literacy in secondary education: framework, assessment, and professional development in the Ukrainian context](https://www.sciencedirect.com/science/article/pii/S2666920X26000676) — [DOI: 10.1016/j.caeai.2026.100605](https://doi.org/10.1016/j.caeai.2026.100605)
 - [From proficiency to pedagogy: A mixed-methods study of in-service teachers’ TPACK-GenAI and the mediating role of pedagogical knowledge](https://www.sciencedirect.com/science/article/pii/S2666920X26000615) — [DOI: 10.1016/j.caeai.2026.100599](https://doi.org/10.1016/j.caeai.2026.100599)
 - [Designing large language model-based agents with 5E framework for ESL learners’ grammar acquisition](https://www.sciencedirect.com/science/article/pii/S2666920X26000664) — [DOI: 10.1016/j.caeai.2026.100604](https://doi.org/10.1016/j.caeai.2026.100604)
@@ -73,14 +67,12 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 - [Federated and explainable learning analytics for privacy-preserving academic risk modeling across heterogeneous educational institutions](https://www.sciencedirect.com/science/article/pii/S2666920X26000913) — [DOI: 10.1016/j.caeai.2026.100629](https://doi.org/10.1016/j.caeai.2026.100629)
 - [Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale](https://www.sciencedirect.com/science/article/pii/S2666920X2600086X) — [DOI: 10.1016/j.caeai.2026.100624](https://doi.org/10.1016/j.caeai.2026.100624)
 - [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
-- [A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw](https://www.sciencedirect.com/science/article/pii/S2666920X26001153) — [DOI: 10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653)
 - [Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — [DOI: 10.1016/j.caeai.2026.100654](https://doi.org/10.1016/j.caeai.2026.100654)
 
 ## Computers and Education Open (CEAO)
 
 - [Ubuntu-Ẹ̀kọ́ framework: A four-pillared critical-cultural-contextual-communal model for cultivating, educating and enhancing an AI-ready African workforce](https://www.sciencedirect.com/science/article/pii/S2666557326000431) — [DOI: 10.1016/j.caeo.2026.100372](https://doi.org/10.1016/j.caeo.2026.100372)
 - [Beyond skepticism: Question marks surrounding AI and AIED policies in Africa](https://www.sciencedirect.com/science/article/pii/S2666557326000418) — [DOI: 10.1016/j.caeo.2026.100370](https://doi.org/10.1016/j.caeo.2026.100370)
-- [Beyond operational skills: Teachers’ AI knowledge and interactions with generative AI in lesson planning](https://www.sciencedirect.com/science/article/pii/S266655732600042X)
 - [An experimental study exploring human–AI complementarity in early social-emotional learning](https://www.sciencedirect.com/science/article/pii/S2666557326000029) — [DOI: 10.1016/j.caeo.2026.100331](https://doi.org/10.1016/j.caeo.2026.100331)
 - [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](https://www.sciencedirect.com/science/article/pii/S2666557325000837) — [DOI: 10.1016/j.caeo.2025.100324](https://doi.org/10.1016/j.caeo.2025.100324)
 - [Pre-service teachers’ agency during their interactions with generative AI while designing for learning – a process view on Intelligent-TPACK](https://www.sciencedirect.com/science/article/pii/S2666557325000849) — [DOI: 10.1016/j.caeo.2025.100325](https://doi.org/10.1016/j.caeo.2025.100325)
