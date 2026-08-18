@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-17T10:45:00-04:00"
+updated: "2026-08-18T14:55:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -39,6 +39,7 @@ A distinct strand of the wiki treats AI literacy not merely as skills or critica
 - **Community-based epistemologies.** Community-based AI learning grounds AI engagement in learners' lived and community-based ways of knowing, redistributing AI's epistemic authority through epistemic fine-tuning, redistribution of authority, and situated discernment.^[[ojeda-ramirez-community-based-ai-learning]]
 - **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural sustainability — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.^[[avraamidou-ai-colonization-science-education]]
 - **Situated curriculum devices.** AI literacy can be built through situated, active teaching instruments (e.g., Episodes of Situated Learning) that develop AI competencies across levels rather than through abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
+- **Regulatory competence, not acceptance.** Kim (2026) reframes AI literacy in higher education as *regulatory competence* — an enacted practice of verifying, revising, selectively adopting, or rejecting AI output during academic work — showing that evaluative capacity and ethical awareness (not mere willingness to use AI) predict active, critical engagement.^[[ai-anxiety-strategic-regulation-writing-2026]]
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
 
@@ -96,6 +97,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
