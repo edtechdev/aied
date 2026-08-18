@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-18 | **Total entries:** 848
+**Last updated:** 2026-08-18 | **Total entries:** 847
 
 > Reverse chronological index of all articles and concepts ingested into the wiki.
 
@@ -169,7 +169,6 @@
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Presenting a Project-Based Approach for Robotics Education
 - [[task-context-trust-educational-hri-2026]] — What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI
 - [[agency]] — Learner Agency
-- [[block-programming]] — Block-Based Programming
 - [[embodied-learning]] — Embodied Learning
 - [[experiential-learning]] — Experiential Learning
 - [[human-robot-interaction]] — Human-Robot Interaction

@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 135
+**Total concepts:** 134
 
 ## Canonical concepts
 
@@ -78,9 +78,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`bias-mitigation`** — Bias Mitigation
     - phrases: bias mitigation; algorithmic bias; bias; fairness; de-biasing; debiasing
 
-- **`block-programming`** — Block-Based Programming
-    - phrases: block programming; block-based programming; block coding; Scratch; visual programming
-
 - **`cognitive-diagnosis`** — Cognitive Diagnosis
     - phrases: cognitive diagnosis; cognitive diagnostic assessment; misconception diagnosis; cognitive modeling
 
@@ -106,7 +103,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: critical thinking; higher-order thinking; critical reasoning
 
 - **`cs-education`** — CS Education and AI
-    - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1
+    - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1; block programming; block-based programming; block coding; Scratch; visual programming
 
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy
     - phrases: culturally relevant pedagogy; culturally responsive teaching; culturally sustaining pedagogy; culturally responsive pedagogy
@@ -423,3 +420,4 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - `dual-process-theory` → removed (mention as plain text, no link)
 - `engagement-metrics` → **`student-engagement`**
 - `programming-education` → **`cs-education`**
+- `block-programming` → **`cs-education`**

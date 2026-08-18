@@ -14,4 +14,5 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'dual-process-theory': 'critical-thinking',
   'engagement-metrics': 'student-engagement',
   'programming-education': 'cs-education',
+  'block-programming': 'cs-education',
 };
