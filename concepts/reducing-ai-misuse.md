@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-15T09:22:41-04:00"
+updated: "2026-08-18T16:45:00-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -37,6 +37,8 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Critical AI literacy.** A power-knowledge framing that teaches learners to interrogate, challenge, and participate in AI governance rather than consume it. Long-term, equity-oriented, and structural in its ambitions, though its learning effects are largely untested.
 
+**Recognizing [[ai-sycophancy|sycophancy]] to prevent uncritical acceptance.** Because [[ai-sycophancy|sycophantic]] AI validates rather than challenges the user, it is a direct misuse vector: students who receive affirming agreement for incorrect thinking are encouraged to substitute AI for their own [[cognitive-offloading|cognitive work]]. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce but do not eliminate the error loop, so misuse prevention must pair educative recognition training with system-level corrective-friction design (see Tier 1 guardrails).
+
 ## Connected Concepts
 
 - [[ai-misuse-learning-harm]]
@@ -50,6 +52,8 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[metacognition]]
 - [[motivation]]
 - [[prompt-engineering]]
+- [[ai-sycophancy]]
+- [[trust-calibration]]
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
@@ -63,6 +67,8 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline
 - [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[avraamidou-ai-colonization-science-education]]

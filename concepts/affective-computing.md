@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-18T16:45:00-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
 
@@ -19,7 +19,7 @@ Affective computing aims to make AI systems emotionally aware so they can respon
 Emotion-aware tutoring can yield measurable gains, but the same sophistication carries risks:
 
 - **Benefits.** Accounting for emotional state can improve [[student-engagement|engagement]] and outcomes; learners who feel understood persist longer, and recognizing frustration early enables timely [[scaffolding]] or [[adaptive-learning]] adjustments.
-- **Risks.** Empathetic-seeming automation can foster [[cognitive-offloading|Over-Reliance]] and parasocial dependency, mask genuine [[metacognition|metacognitive disengagement]], and raise [[privacy]] concerns from continuous affective monitoring. [[sycophantic-ai-social-interaction-2026]] documents how emotionally ingratiating AI can erode critical judgment, while [[ai-fatigue-academic-contexts]] and [[ai-campus-wellbeing-tools]] connect affective AI to learner well-being.
+- **Risks.** Empathetic-seeming automation can foster [[cognitive-offloading|Over-Reliance]] and parasocial dependency, mask genuine [[metacognition|metacognitive disengagement]], and raise [[privacy]] concerns from continuous affective monitoring. [[ai-sycophancy|AI sycophancy]] is a central affective risk: emotionally ingratiating AI that affirms rather than challenges can erode critical judgment and even displace real human relationships — [[sycophantic-ai-social-interaction-2026|Ibrahim et al.]] show that sycophantic AI led users to seek personal advice from the AI nearly as often as from close friends and family, with lower satisfaction in real-world interaction. [[ai-fatigue-academic-contexts]] and [[ai-campus-wellbeing-tools]] further connect affective AI to learner well-being.
 
 ### Affective computing and broader AIED
 
@@ -39,6 +39,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[math-education]]
 - [[open-source]]
 - [[pedagogical-llm-training]]
+- [[ai-sycophancy]]
 ## Connected Articles
 
 - [[ai-assisted-learning-modes-eeg]]

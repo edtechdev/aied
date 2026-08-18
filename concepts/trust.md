@@ -1,7 +1,7 @@
 ---
 title: Trust in AI
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-18T16:45:00-04:00"
 type: concept
 tags: [trust, ai-literacy, social-robots, human-robot-interaction, epistemic-trust, critical-thinking, intelligent-tutoring]
 
@@ -18,6 +18,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Epistemic trust in AI-mediated learning:** [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Research on avatar identity]] examines how the perceived source of AI content shapes epistemic trust.
 - **Calibration:** [[trust-calibration]] research examines how to help learners calibrate their trust to the actual reliability of AI systems, avoiding both over- and under-trust.
 - **Trust in tutoring and feedback:** Studies of [[intelligent-tutoring|AI Tutoring]] and AI [[feedback]] examine when learners appropriately trust (or question) AI-generated guidance and [[hallucination-risk|hallucinations]].
+- **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
 Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[social-robots]], [[human-robot-interaction]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
 
@@ -31,6 +32,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[human-robot-interaction]]
 - [[ethics]]
 - [[intelligent-tutoring]]
+- [[ai-sycophancy]]
 
 ## Connected Articles
 
@@ -40,3 +42,5 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[social-robot-study-companions]] — Social Robots as Study Companions
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
