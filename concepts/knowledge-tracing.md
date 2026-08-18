@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-18T14:55:00-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 confidence: medium
@@ -15,6 +15,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 
 - **Bayesian approaches:** [[stanbkt-bayesian-knowledge-tracing]] standardizes BKT implementations, while [[mbp-kt-meta-behavioral-knowledge-tracing]] incorporates meta-behavioral signals
 - **Neural and hybrid models:** [[neural-symbolic-knowledge-tracing]] combines symbolic reasoning with neural networks; [[explainable-probabilistic-kt]] advances interpretable probabilistic models
+- **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[difficulty-aware-dialogue-kt]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference
 - **Cold-start problem:** [[cold-start-knowledge-tracing-safeinsights]] examines model accuracy when students begin learning new skills
@@ -43,6 +44,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 - [[educlaw-bench-pedagogical-llm-agents-2026]]
 - [[huang-interpretable-knowledge-tracing-2026]]
+- [[thymen-temporal-hypergraph-knowledge-tracing-2026]]
 - [[learning-engagement-assistant-lea]]
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[multimodal-knowledge-graph-educational-reasoning]]

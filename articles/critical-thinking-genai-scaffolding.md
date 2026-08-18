@@ -123,4 +123,4 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 
 ## Citation
 
-Vendrell, M., & Johnston, S.-K. (2026). [*Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education*](https://doi.org/10.1016/j.caeai.2026.100572).
+Vendrell, M., & Johnston, S.-K. (2026). [*Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education*](https://doi.org/10.1016/j.caeai.2026.100572). Computers and Education: Artificial Intelligence, 10, 100572.

@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-08-17T11:15:00-04:00"
+updated: "2026-08-18T14:55:00-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, faculty-development, professional-training, assessment, ethics, higher-ed]
 confidence: high
@@ -17,6 +17,7 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] systematically review empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/equity/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal wellbeing.
 - **Embodied and multimodal assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with LLM analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
 - **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials for emerging roles.
+- **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use GenAI and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with UTAUT to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
 
 ## Signature concerns
 
@@ -47,6 +48,8 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 ## Connected Articles
 
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
+- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
