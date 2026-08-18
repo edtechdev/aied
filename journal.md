@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-18 | **Total entries:** 854
+**Last updated:** 2026-08-18 | **Total entries:** 855
 
 > Reverse chronological index of all articles and concepts ingested into the wiki.
 
@@ -8,6 +8,7 @@
 - [[genai-oop-programming-assessments-2026]] — Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments
 - [[assessment-latent-structure-human-llm-2026]] — Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource
+- [[ai-sycophancy]] — AI Sycophancy
 - [[global-south]] — Global South
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education

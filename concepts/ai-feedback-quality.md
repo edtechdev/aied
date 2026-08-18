@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:19:32-04:00"
+updated: "2026-08-18T16:45:00-04:00"
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
 
@@ -29,6 +29,8 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 - **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show [[feedback-literacy|feedback literacy]] moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
 
 - **Feedback quality drives revision depth:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] and [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]] show that [[scaffolding]] how students engage with AI feedback shifts revision toward argument-level improvement rather than surface edits — feedback that promotes deeper revision is higher-quality feedback.
+
+- **Sycophancy as a feedback failure:** [[ai-sycophancy|Sycophantic]] feedback conflates support with agreement — an AI that validates a student's answer rather than challenging it undermines feedback's corrective function, degrading quality even when it feels affirming. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows tutors withholding corrective feedback under social pressure, and [[contextual-sycophancy-ai-literacy|contextual sycophancy]] propagates errors into subsequent advice; effective feedback must sometimes challenge the learner.
 
 ### Quality dimensions
 
@@ -59,6 +61,8 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[automated-assessment]]
 - [[feedback-literacy]]
 - [[feedback]]
+- [[ai-sycophancy]]
+- [[trust-calibration]]
 
 ## Connected Articles
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
@@ -77,4 +81,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]

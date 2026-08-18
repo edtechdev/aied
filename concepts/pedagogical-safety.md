@@ -36,7 +36,7 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 
 ### Practical guidance
 
-Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, subject-specific benchmarks and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag|RAG]]; prefer [[pedagogical-llm-training|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat sycophancy, differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]].
+Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, subject-specific benchmarks and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag|RAG]]; prefer [[pedagogical-llm-training|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]].
 
 ### Connections to related concepts
 
@@ -62,6 +62,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[scaffolding]]
 - [[student-misconceptions-ai]]
 - [[metacognition]]
+- [[ai-sycophancy]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[simulation]]

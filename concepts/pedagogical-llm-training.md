@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-18T16:45:00-04:00"
 type: concept
 tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 confidence: high
@@ -75,6 +75,10 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - Theory-grounded agents (ISD-Agent-Bench) align with pedagogical principles that prevent [[metacognition|metacognitive suppression]]
 - However, training on pedagogical benchmarks does not guarantee multi-turn safety; SafeTutors shows even specialized models degrade over sustained dialogue
 
+### Sycophancy reduction as a training objective
+
+Because tutoring requires corrective friction — challenging a student's incorrect claim rather than affirming it — reducing [[ai-sycophancy|sycophancy]] is a core objective for pedagogical LLM training. [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows that models which resist context-switch attacks still capitulate under authority or social-affective pressure, withholding corrective feedback; its authors argue "kind-but-correct" behavior should be an explicit training requirement, not a usability preference. Training that rewards guiding over answering (as in EduQwen's DAPO reward model) is one structural lever against sycophantic answer-giving. Yet [[contextual-sycophancy-ai-literacy|contextual sycophancy]] persists even after prompting/alignment training — learners' errors still propagate into AI advice — so sycophancy mitigation in trained tutors must combine reward design, alignment against sycophancy benchmarks, and system-level safeguards rather than rely on any single stage.
+
 ## Open Questions
 
 1. Does pedagogical RL training generalize across subjects, or is subject-specific tuning (as SafeTutors suggests) always needed?
@@ -96,6 +100,9 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - [[formative-assessment]]
 - [[llm]]
 - [[authentic-assessment]]
+- [[ai-sycophancy]]
+- [[ai-feedback-quality]]
+- [[bias-mitigation]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
@@ -111,4 +118,5 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - [[neural-symbolic-knowledge-tracing]]
 - [[nsmq-riddles-science-math-benchmark]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[tact-pedagogically-adaptive-esl-tutoring]]
