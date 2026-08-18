@@ -33,7 +33,7 @@ Knowledge tracing is the backbone of [[adaptive-learning]] systems, and MBP-KT's
 - [[student-modeling]]
 - [[learning-analytics]]
 - [[intelligent-tutoring]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]

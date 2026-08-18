@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 137
+**Total concepts:** 136
 
 ## Canonical concepts
 
@@ -146,9 +146,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 - **`embodied-learning`** — Embodied Learning
     - phrases: embodied learning; embodied cognition; embodiment; gesture-based learning; body-based learning
-
-- **`engagement-metrics`** — Engagement Metrics
-    - phrases: engagement metrics; engagement measurement; engagement indicators; behavioral engagement
 
 - **`engineering-education`** — Engineering Education
     - phrases: engineering education; engineering
@@ -373,7 +370,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: storytelling in education; digital storytelling; narrative learning; story-based learning
 
 - **`student-engagement`** — Student Engagement
-    - phrases: student engagement; learner engagement; engagement
+    - phrases: student engagement; learner engagement; engagement; engagement metrics; engagement measurement; engagement indicators; behavioral engagement
 
 - **`student-experience`** — Student Experience with AI
     - phrases: student experience; learner experience; student voice; learner experience
@@ -427,3 +424,4 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - `automated-grading` → **`automated-assessment`**
 - `cognitive-load-theory` → removed (mention as plain text, no link)
 - `dual-process-theory` → removed (mention as plain text, no link)
+- `engagement-metrics` → **`student-engagement`**

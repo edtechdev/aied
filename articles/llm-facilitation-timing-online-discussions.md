@@ -42,7 +42,7 @@ For online learning environments — MOOC-style forums and classroom discussion 
 - [[pedagogical-agent]]
 - [[ai-ed-evaluation]]
 - [[prompt-engineering]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[learning-analytics]]
 
 ## Connected Articles

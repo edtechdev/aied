@@ -27,7 +27,7 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 - [[learning-analytics]]
 - [[adaptive-learning]]
 - [[assessment]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-modeling]]
 
 ## Connected Articles

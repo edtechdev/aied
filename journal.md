@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-17 | **Total entries:** 848
+**Last updated:** 2026-08-18 | **Total entries:** 847
 
 > Reverse chronological index of all articles and concepts ingested into the wiki.
 
@@ -304,7 +304,6 @@
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
 - [[knowledge-graph]] — Knowledge Graph
 - [[benchmark]] — Benchmark
-- [[engagement-metrics]] — Engagement Metrics
 - [[learning-gains]] — Learning Gains
 - [[higher-ed]] — AI in Higher Education
 - [[educational-policy-ai]] — Educational AI Policy

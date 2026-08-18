@@ -10,7 +10,7 @@ confidence: medium
 
 # Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology
 
-Borchers (2026) reports on a 90-minute participatory design workshop with 12 U.S. middle school mathematics teachers using i-Ready Math weekly. Thematic analysis identified four recurring dimensions of low student persistence: motivation and buy-in, cognitive roadblocks, resilience under challenge, and contextual barriers. Teachers emphasized the need to identify where students become stuck and recognize silent disengagement, prioritizing support for diagnosis and timely instructional response over aggregate usage metrics. This reframes the '5% problem' from an analytics gap to a situated instructional challenge, suggesting that [[teacher-role]] and [[teacher-ai-adoption-confidence]] must be centered when designing [[adaptive-learning]] systems for [[k-12]] contexts. The work connects to [[student-experience]] research and engagement-metrics by arguing that teacher-facing systems supporting interpretation of persistence through both cognitive and contextual evidence are needed.
+Borchers (2026) reports on a 90-minute participatory design workshop with 12 U.S. middle school mathematics teachers using i-Ready Math weekly. Thematic analysis identified four recurring dimensions of low student persistence: motivation and buy-in, cognitive roadblocks, resilience under challenge, and contextual barriers. Teachers emphasized the need to identify where students become stuck and recognize silent disengagement, prioritizing support for diagnosis and timely instructional response over aggregate usage metrics. This reframes the '5% problem' from an analytics gap to a situated instructional challenge, suggesting that [[teacher-role]] and [[teacher-ai-adoption-confidence]] must be centered when designing [[adaptive-learning]] systems for [[k-12]] contexts. The work connects to [[student-experience]] research and [[student-engagement|engagement metrics]] by arguing that teacher-facing systems supporting interpretation of persistence through both cognitive and contextual evidence are needed.
 
 ## Key Findings
 
@@ -30,7 +30,7 @@ The '5% problem' is reframed from an analytics failure to a design problem for t
 - [[k-12]]
 - [[student-experience]]
 - [[learning-analytics]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[teacher-ai-competency]]
 - [[motivation]]
 - [[formative-assessment]]
