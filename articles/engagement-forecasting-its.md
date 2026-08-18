@@ -54,7 +54,7 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 - [[student-engagement]]
 - [[learning-analytics]]
 - [[intelligent-tutoring]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 
 ## Connected Articles
 

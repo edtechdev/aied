@@ -31,7 +31,7 @@ This practitioner account from a major edtech platform grounds the [[intelligent
 - [[llm]]
 - [[personalized-learning]]
 - [[research-methods-aied]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[edtech-platform]]
 - [[student-experience]]
 - [[prompt-engineering]]

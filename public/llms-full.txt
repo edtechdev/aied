@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 711 articles and 137 concepts.
+> Complete text of 711 articles and 136 concepts.
 
 # Articles
 
@@ -1838,7 +1838,7 @@ The finding that full automation reduces cognitive engagement echoes the [[cogni
 - [[student-experience]]
 - [[k-12]]
 - [[active-learning]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 ## Connected Articles
@@ -2987,7 +2987,7 @@ Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026). [Student Perce
 
 ## Implications
 
-For [[generative-ai]]-driven [[intelligent-tutoring|AI Tutoring]] and narrative [[curriculum-design]], the study suggests that scaffolding learning checks (quizzes) into interactive stories requires more than inserting questions — the story must motivate and respond to them coherently. This bears on [[student-experience]] and [[engagement-metrics]]: perceived coherence appears to be the limiting factor for sustained engagement with AI-produced narrative content.
+For [[generative-ai]]-driven [[intelligent-tutoring|AI Tutoring]] and narrative [[curriculum-design]], the study suggests that scaffolding learning checks (quizzes) into interactive stories requires more than inserting questions — the story must motivate and respond to them coherently. This bears on [[student-experience]] and [[student-engagement]]: perceived coherence appears to be the limiting factor for sustained engagement with AI-produced narrative content.
 
 The work connects to broader efforts to make AI-generated instructional media usable, including AI-generated videos and slides in computing education, and to [[educational-nlp]] research on automated content generation. As a pilot with a small sample, it is a design-oriented contribution that motivates larger follow-ups on learning effectiveness rather than an efficacy study in itself.
 
@@ -2995,7 +2995,7 @@ The work connects to broader efforts to make AI-generated instructional media us
 
 - [[generative-ai]]
 - [[educational-nlp]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-experience]]
 - [[curriculum-design]]
 - [[pedagogical-agent]]
@@ -4963,7 +4963,7 @@ This work addresses a critical evaluation gap. An AI tutor that gives perfect pe
 - [[knowledge-tracing]]
 - [[teacher-ai-competency]]
 - [[intelligent-tutoring]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-modeling]]
 - [[feedback]]
 - [[learning-gains]]
@@ -5173,7 +5173,7 @@ This practitioner account from a major edtech platform grounds the [[intelligent
 - [[llm]]
 - [[personalized-learning]]
 - [[research-methods-aied]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[edtech-platform]]
 - [[student-experience]]
 - [[prompt-engineering]]
@@ -10425,7 +10425,7 @@ This study examines the [[student-modeling]] validity of **delayed start behavio
 
 - [[adaptive-learning]]
 - [[educational-measurement]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[formative-assessment]]
 - [[learning-analytics]]
 - [[learning-gains]]
@@ -12283,7 +12283,7 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 - [[student-engagement]]
 - [[learning-analytics]]
 - [[intelligent-tutoring]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 
 ## Connected Articles
 
@@ -13448,7 +13448,7 @@ Liu, Y., Song, Y., Gallagher, J., Sterman, S., & August, T. (2026). FOXGLOVE: Un
 
 # Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology
 
-Borchers (2026) reports on a 90-minute participatory design workshop with 12 U.S. middle school mathematics teachers using i-Ready Math weekly. Thematic analysis identified four recurring dimensions of low student persistence: motivation and buy-in, cognitive roadblocks, resilience under challenge, and contextual barriers. Teachers emphasized the need to identify where students become stuck and recognize silent disengagement, prioritizing support for diagnosis and timely instructional response over aggregate usage metrics. This reframes the '5% problem' from an analytics gap to a situated instructional challenge, suggesting that [[teacher-role]] and [[teacher-ai-adoption-confidence]] must be centered when designing [[adaptive-learning]] systems for [[k-12]] contexts. The work connects to [[student-experience]] research and engagement-metrics by arguing that teacher-facing systems supporting interpretation of persistence through both cognitive and contextual evidence are needed.
+Borchers (2026) reports on a 90-minute participatory design workshop with 12 U.S. middle school mathematics teachers using i-Ready Math weekly. Thematic analysis identified four recurring dimensions of low student persistence: motivation and buy-in, cognitive roadblocks, resilience under challenge, and contextual barriers. Teachers emphasized the need to identify where students become stuck and recognize silent disengagement, prioritizing support for diagnosis and timely instructional response over aggregate usage metrics. This reframes the '5% problem' from an analytics gap to a situated instructional challenge, suggesting that [[teacher-role]] and [[teacher-ai-adoption-confidence]] must be centered when designing [[adaptive-learning]] systems for [[k-12]] contexts. The work connects to [[student-experience]] research and [[student-engagement|engagement metrics]] by arguing that teacher-facing systems supporting interpretation of persistence through both cognitive and contextual evidence are needed.
 
 ## Key Findings
 
@@ -13468,7 +13468,7 @@ The '5% problem' is reframed from an analytics failure to a design problem for t
 - [[k-12]]
 - [[student-experience]]
 - [[learning-analytics]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[teacher-ai-competency]]
 - [[motivation]]
 - [[formative-assessment]]
@@ -14882,7 +14882,7 @@ A quantitative research design was used with data from 297 undergraduate and pos
 
 ## Implications for AI in Education
 
-The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[engagement-metrics|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-experience|student engagement]] in higher education.
+The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[student-engagement|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-experience|student engagement]] in higher education.
 
 ## Limitations
 
@@ -14893,7 +14893,7 @@ The cross-sectional design limits causal inference, and the sample is drawn from
 - [[generative-ai]]
 - [[motivation]]
 - [[self-determination-theory]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[higher-ed]]
 - [[personalized-learning]]
 - [[student-experience]]
@@ -15446,7 +15446,7 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - [[socratic-method]]
 - [[help-seeking]]
 - [[learning-analytics]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[student-engagement]]
@@ -16063,7 +16063,7 @@ MacArthur, M., Minnillo, S., Sperber, L., Whithaus, C., & Stillman, N. (2025). [
 
 ProPACT represents a shift from *individual* to *dyadic* learner modeling in [[intelligent-tutoring]]. By treating the pair — not the person — as the unit of analysis, it addresses a long-standing gap in [[collaborative-learning]] support. Traditional ITS architectures focus on individual cognition; ProPACT demonstrates that multimodal signals (gaze, pupil dilation) can be fused to model the health of a collaborative process in real time.
 
-The proactive forecasting approach is a departure from reactive feedback paradigms common in [[adaptive-learning]]. By predicting breakdowns 30 seconds ahead, ProPACT avoids the latency inherent in "detect-then-respond" architectures, allowing scaffolds to arrive *before* students experience frustration or disengagement. This has implications for engagement-metrics and real-time classroom orchestration.
+The proactive forecasting approach is a departure from reactive feedback paradigms common in [[adaptive-learning]]. By predicting breakdowns 30 seconds ahead, ProPACT avoids the latency inherent in "detect-then-respond" architectures, allowing scaffolds to arrive *before* students experience frustration or disengagement. This has implications for [[student-engagement|engagement metrics]] and real-time classroom orchestration.
 
 For [[cs-education]] specifically, ProPACT validates that AI-assisted pair programming can improve both task outcomes and collaborative skill development. The system's integration with [[collaborative-ai-tutoring]] workflows suggests a future where AI tutors monitor not just what students produce (code), but *how* they work together.
 
@@ -17524,7 +17524,7 @@ The authors discuss limitations (integration complexity, content-authoring burde
 - [[game-based-learning]]
 - [[edtech-platform]]
 - [[student-engagement]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 
 ## Connected Articles
 
@@ -18620,7 +18620,7 @@ MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most
 
 **LLM-powered response generation.** At its core, MathBuddy uses an LLM prompted with the aggregated affective state, the mathematical context, and the tutoring history to generate emotionally appropriate pedagogical responses. The LLM is not merely an answer engine but an affective-pedagogical reasoning system that must balance mathematical correctness with emotional attunement.
 
-**Rigorous evaluation.** The system was evaluated along eight pedagogical dimensions — including scaffolding quality, emotional attunement, mathematical accuracy, and learner engagement — through controlled user studies. The +23-point win rate and +3-point DAMR improvement establish clear evidence that affective awareness adds measurable value beyond content-only tutoring approaches. This connects to the engagement-metrics literature and the growing recognition that [[engagement-intensity-learner-modeling]] is essential for effective AI tutoring.
+**Rigorous evaluation.** The system was evaluated along eight pedagogical dimensions — including scaffolding quality, emotional attunement, mathematical accuracy, and learner engagement — through controlled user studies. The +23-point win rate and +3-point DAMR improvement establish clear evidence that affective awareness adds measurable value beyond content-only tutoring approaches. This connects to the [[student-engagement|engagement metrics]] literature and the growing recognition that [[engagement-intensity-learner-modeling]] is essential for effective AI tutoring.
 
 ## Implications
 
@@ -19397,7 +19397,7 @@ These findings connect [[generative-ai]] use to [[digital-divide]] and [[equity-
 - [[digital-divide]]
 - [[learning-gains]]
 - [[self-regulated-learning]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[help-seeking]]
 ## Connected Articles
 
@@ -20910,7 +20910,7 @@ For online learning environments — MOOC-style forums and classroom discussion 
 - [[pedagogical-agent]]
 - [[ai-ed-evaluation]]
 - [[prompt-engineering]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[learning-analytics]]
 
 ## Connected Articles
@@ -22059,12 +22059,12 @@ Lodge, J. M., & Loble, L. (2026). [Artificial intelligence, cognitive offloading
 
 ## Implications
 
-This review connects [[student-engagement]] and [[engagement-metrics]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the wiki and extends [[feedback|Feedback Loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[engagement-metrics]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
+This review connects [[student-engagement]] and [[student-engagement]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the wiki and extends [[feedback|Feedback Loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[student-engagement]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
 
 ## Connected Concepts
 
 - [[student-engagement]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[higher-ed]]
 - [[ai-education]]
 - [[active-learning]]
@@ -22256,7 +22256,7 @@ Knowledge tracing is the backbone of [[adaptive-learning]] systems, and MBP-KT's
 - [[student-modeling]]
 - [[learning-analytics]]
 - [[intelligent-tutoring]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]
@@ -22350,7 +22350,7 @@ Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng
 
 ## [MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://edtechdev.github.io/aied/articles/medgame-llm-medical-education-gamification/)
 
-MedGame transforms static clinical cases into structured, executable storytelling games for medical education, moving beyond the localized question-answering and single-turn feedback that characterize most [[llm]] medical-training systems. It uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware multimodal orchestration plans rendered by an interactive platform. The authors release **MedGame Bench**, a 5,000-case benchmark and evaluation protocol for Medical Narrative Generation and Story Direction; task-specific fine-tuning substantially improves open-source LLMs and narrows the gap with commercial models. A pilot student study finds learners perceive MedGame as more engaging and useful than text-only alternatives, extending decision-centered, immersive approaches seen in [[multimodal-ai-tutoring]] and [[intelligent-tutoring]]. Its use of [[generative-ai]] for scenario authoring connects to [[llm-tts-dialogue-lesson-generation]], and the engagement gains speak to engagement-metrics as a design target in professional training.
+MedGame transforms static clinical cases into structured, executable storytelling games for medical education, moving beyond the localized question-answering and single-turn feedback that characterize most [[llm]] medical-training systems. It uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware multimodal orchestration plans rendered by an interactive platform. The authors release **MedGame Bench**, a 5,000-case benchmark and evaluation protocol for Medical Narrative Generation and Story Direction; task-specific fine-tuning substantially improves open-source LLMs and narrows the gap with commercial models. A pilot student study finds learners perceive MedGame as more engaging and useful than text-only alternatives, extending decision-centered, immersive approaches seen in [[multimodal-ai-tutoring]] and [[intelligent-tutoring]]. Its use of [[generative-ai]] for scenario authoring connects to [[llm-tts-dialogue-lesson-generation]], and the engagement gains speak to [[student-engagement|engagement metrics]] as a design target in professional training.
 
 ## Connected Concepts
 
@@ -23484,7 +23484,7 @@ The system addresses a practical infrastructure gap in multi-site education: VR 
 - [[simulation]] — science experiments that are hard to run in a traditional classroom
 - [[embodied-learning]] — hands-on, three-dimensional understanding
 - [[student-experience]] — usability and VR-sickness outcomes
-- [[engagement-metrics]] — real-time co-presence and interaction
+- [[student-engagement]] — real-time co-presence and interaction
 - [[higher-ed]] — distributed university teaching scenarios
 - [[stem-education]] — science activities shared across sites
 - [[experiential-learning]] — immersive, hands-on learning activities
@@ -23554,7 +23554,7 @@ This paper presents one of the most comprehensive closed-loop [[intelligent-tuto
 - [[student-modeling]]
 - [[feedback]]
 - [[professional-training]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[educational-llm-alignment]]
@@ -24861,7 +24861,7 @@ Ojeda-Ramirez, S., Gyles, S., & Peppler, K. (2026). [*Community-Based AI Learnin
 - [[llm]]
 - [[generative-ai]]
 - [[help-seeking]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-engagement]]
 - [[edtech-platform]]
 - [[math-education]]
@@ -27830,7 +27830,7 @@ The work connects AI-based attention estimation to instructional design practice
 - [[human-in-the-loop-ai]]
 - [[motivation]]
 - [[student-engagement]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-experience]]
 
 ## Connected Articles
@@ -28003,7 +28003,7 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 - [[student-experience]]
 - [[llm]]
 - [[motivation]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[feedback]]
 ## Connected Articles
 
@@ -28555,7 +28555,7 @@ This paper introduces a simulation-based framework for evaluating how learner ta
 - [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[knowledge-tracing]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[simulating-students]]
 ## Connected Articles
 
@@ -32280,7 +32280,7 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 - [[learning-analytics]]
 - [[adaptive-learning]]
 - [[assessment]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-modeling]]
 
 ## Connected Articles
@@ -32745,7 +32745,7 @@ Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, Yo
 - [[math-education]]
 - [[k-12]]
 - [[help-seeking]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-engagement]]
 - [[adaptive-learning]]
 - [[learning-gains]]
@@ -34467,7 +34467,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
-- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
+- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[student-engagement|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
@@ -36777,65 +36777,6 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 
 ---
 
-## [Engagement Metrics](https://edtechdev.github.io/aied/concepts/engagement-metrics/)
-
-> **Engagement metrics** — the range of observable signals and measurement approaches researchers and systems use to operationalize [[student-engagement|student engagement]] in AI-supported learning: behavioral (time-on-task, activity counts, interaction frequency), cognitive (depth of processing, critical engagement, discourse analysis), affective (emotion, motivation), and contextual (multitasking, attention). In AI-education research, the choice of engagement metric fundamentally shapes what counts as "engagement" and, therefore, what conclusions are drawn about whether and how AI tools help or harm learning.
-
-Engagement is a multidimensional construct, and no single metric captures it. Behavioral metrics measure what learners *do* (clicks, time, persistence); cognitive metrics measure how learners *think* (elaboration, critical analysis, self-regulation); affective metrics measure how learners *feel* (interest, anxiety, motivation). AI-education research increasingly combines these — and treats engagement as a mediating mechanism between AI tool design and learning outcomes, rather than an outcome in itself.
-
-### How engagement metrics appear in the research
-
-- **Motivation and engagement as outcomes:** [[genai-motivation-engagement-2026|GenAI and student motivation research]] models perceived autonomy, competence, relatedness, and value as drivers of [[motivation|student motivation]], which then emerges as the strongest predictor of engagement in generative-AI-supported learning — an [[self-determination-theory|SDT]]-based view where engagement follows need satisfaction.
-
-- **Critical engagement vs. passive use:** [[critical-engagement-code-completion|Measuring critical engagement in AI code completion]] and [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]] show that *how* students engage matters more than how much: critical, generative engagement with AI output predicts learning, whereas passive acceptance predicts the [[cognitive-offloading|Over-Reliance]] and learning-displacement documented across the wiki.
-
-- **Engagement as a fragile, situation-dependent signal:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find that engagement with AI tutoring varies by context, task, and learner — the same tool produces strong engagement for some students and shallow, output-chasing behavior for others.
-
-- **Behavioral telemetry from learning platforms:** [[engagement-forecasting-its|Effort and progress forecasting]], [[learning-engagement-assistant-lea|Learning Engagement Assistant]], [[engagement-assessment-video|video engagement assessment]], and [[interactive-learning-dashboards-engagement|learning dashboards]] translate behavioral and physiological signals (attention, activity, persistence) into engagement metrics used for adaptive feedback and instructor intervention.
-
-- **Engagement as a learner-modeling signal:** [[engagement-intensity-learner-modeling|Engagement intensity as a learner-modeling signal]] uses engagement strength to inform adaptive AI systems, positioning engagement metrics as inputs to [[student-modeling]] and [[adaptive-learning]] rather than merely evaluation outputs.
-
-### Why the metric choice matters
-
-The definitional problem is central to AI-education research. A study that measures engagement as *time-on-task* may conclude an AI tool enhances engagement when students spend more time interacting with it; a study that measures engagement as *critical processing* may reach the opposite conclusion for the same tool. This is why the wiki's research emphasizes distinguishing engagement (participation in the learning process) from learning (actual cognitive gain) — see [[genai-performance-vs-learning|performance vs. learning]] — and why engagement metrics must be validated against what they claim to measure.
-
-### Connections to related concepts
-
-Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by behavioral telemetry in [[edtech-platform]]s.
-
-## Connected Concepts
-
-- [[student-engagement]]
-- [[learning-analytics]]
-- [[motivation]]
-- [[student-experience]]
-- [[educational-measurement]]
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[research-methods-aied]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
-
-- [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
-- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
-- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
-- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
-- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
-
----
-
 ## [Engineering Education](https://edtechdev.github.io/aied/concepts/engineering-education/)
 
 > **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education articles in this wiki cluster around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].
@@ -38095,7 +38036,7 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 
 1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.^[[multimodal-learning-genai]]
 2. **Sequence through engagement levels.** Effective [[ai-literacy|AI literacy]] instruction intentionally sequences learners through passive exposure, active manipulation, constructive generation, and interactive dialogue.^[[hingle-collaborative-ai-literacy-2025]]
-3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[engagement-metrics]].^[[icap-cognitive-engagement-llm-agents]]
+3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement]].^[[icap-cognitive-engagement-llm-agents]]
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
 
 > **Note on interpretation:** ICAP is a *taxonomy of engagement modes*, not a fixed teaching sequence. It is a common error to assume instruction must always begin at the passive end and progress upward. Research on inductive learning and productive failure shows that posing challenging constructive or interactive problems up front — without prior passive exposure — can produce stronger learning. Treat the modes as a classification of learner activity, and sequence them only where the learning goal warrants (see [[limitations-in-aied-research]]).
@@ -38104,7 +38045,7 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 
 - [[active-learning]]
 - [[collaborative-learning]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-engagement]]
 - [[learning-analytics]]
 - [[constructivist]]
@@ -38250,7 +38191,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Design for pedagogical structure, not frequency.** The educational payoff of AI tutoring depends on *how* the tool is used and designed, not on how often it is used. Instructor-designed tutors scoped to course objectives, learner proficiency, and a curated knowledge base outperform unstructured general-purpose chatbot use.^[[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
 
-**Use iterative live evaluation to keep improving.** Because LLMs are opaque, treat evaluation as the engine of improvement: instrument a small set of quality and [[engagement-metrics|engagement metrics]], run live experiments on models, prompting, personalization, and agents, and let data drive changes — the same discipline Khan Academy applies to its K-12 tutor (Khanmigo).^[[ai-tutoring-quality-k12-methodologies-2026]]
+**Use iterative live evaluation to keep improving.** Because LLMs are opaque, treat evaluation as the engine of improvement: instrument a small set of quality and [[student-engagement|engagement metrics]], run live experiments on models, prompting, personalization, and agents, and let data drive changes — the same discipline Khan Academy applies to its K-12 tutor (Khanmigo).^[[ai-tutoring-quality-k12-methodologies-2026]]
 
 **Support the learner's autonomy, competence, and relatedness.** AI tutors work best when they feel like a safe, structured practice space rather than an answer machine. Provide immediate, nonjudgmental [[feedback|feedback]]; scope the tutor to the learner's level so competence is achievable; and preserve learner agency by keeping the tutor a complement to (not a substitute for) other instruction.^[[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
 
@@ -38623,7 +38564,7 @@ Language learning has emerged as a significant AI in education domain because la
 ### AI-enhanced analytics
 
 - **Predictive analytics:** Machine learning on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
-- **Engagement analytics:** [[engagement-metrics|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
+- **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
 - **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
@@ -38643,7 +38584,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[formative-assessment]]
 - [[privacy]]
 - [[edtech-platform]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[ai-ed-evaluation]]
 - [[feedback]]
 - [[higher-ed]]
@@ -39405,13 +39346,13 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 ### Connections to related concepts
 
-Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[engagement-metrics]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing productive struggle), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
+Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[student-engagement]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing productive struggle), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
 
 ## Connected Concepts
 
 - [[self-determination-theory]]
 - [[student-experience]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[cognitive-offloading]]
@@ -40778,7 +40719,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[faculty-development]]
 - [[professional-training]]
 - [[cognitive-offloading]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles
@@ -41406,7 +41347,7 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 
 ## [Student Engagement](https://edtechdev.github.io/aied/concepts/student-engagement/)
 
-> **Student engagement** — the degree and quality of a learner's active involvement in the learning process, most often decomposed into behavioral, cognitive, and affective dimensions. In AI-education research, student engagement is both a key outcome (does an AI tool keep students engaged?) and a mechanism (does engagement mediate between AI design and learning?). It is conceptually distinct from the specific [[engagement-metrics]] used to measure it, and from learning itself — engagement is participation in learning, not proof of cognitive gain.
+> **Student engagement** — the degree and quality of a learner's active involvement in the learning process, most often decomposed into behavioral, cognitive, and affective dimensions. In AI-education research, student engagement is both a key outcome (does an AI tool keep students engaged?) and a mechanism (does engagement mediate between AI design and learning?). It is conceptually distinct from learning itself — engagement is participation in learning, not proof of cognitive gain — and from the specific metrics used to measure it.
 
 Engagement is a multidimensional construct rooted in educational psychology. **Behavioral engagement** refers to participation, effort, persistence, and on-task activity. **Cognitive engagement** refers to the depth of mental processing — elaboration, critical analysis, self-regulation, and the investment of mental effort. **Affective engagement** refers to emotional reactions such as interest, enjoyment, anxiety, and identification with learning. These dimensions can diverge: a student may be behaviorally active (clicking, spending time) while cognitively shallow (passively accepting output), or affectively interested while behaviorally distracted. This multidimensionality is why engagement must not be equated with any single observable behavior.
 
@@ -41420,6 +41361,18 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 - **Motivational antecedents:** [[ai-availability-student-motivation|AI availability and motivation]] shows that knowing AI is available can reduce the perceived value of effortful engagement, particularly for novice learners — engagement is shaped by expectancy, value, and perceived competence as much as by tool features.
 
+### Measuring engagement: the metric-choice problem
+
+Engagement is operationalized through a range of observable signals. **Behavioral metrics** measure what learners *do* (time-on-task, activity counts, interaction frequency, persistence); **cognitive metrics** measure how learners *think* (depth of processing, critical engagement, discourse analysis); **affective metrics** measure how learners *feel* (emotion, motivation, interest); and **contextual metrics** capture multitasking and attention. AI-education research increasingly combines these and treats engagement as a mediating mechanism between AI tool design and learning outcomes, rather than an outcome in itself.
+
+The choice of metric is definitional: a study that measures engagement as *time-on-task* may conclude an AI tool enhances engagement when students spend more time interacting with it, while a study that measures engagement as *critical processing* may reach the opposite conclusion for the same tool. This is why the wiki's research distinguishes engagement (participation) from learning (actual cognitive gain) — see [[genai-performance-vs-learning|performance vs. learning]] — and why engagement metrics must be validated against what they claim to measure.
+
+- **Engagement as a fragile, situation-dependent signal:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find that engagement varies by context, task, and learner — the same tool produces strong engagement for some students and shallow, output-chasing behavior for others.
+
+- **Behavioral telemetry from learning platforms:** [[engagement-forecasting-its|Effort and progress forecasting]], [[learning-engagement-assistant-lea|Learning Engagement Assistant]], [[engagement-assessment-video|video engagement assessment]], and [[interactive-learning-dashboards-engagement|learning dashboards]] translate behavioral and physiological signals (attention, activity, persistence) into engagement metrics used for adaptive feedback and instructor intervention.
+
+- **Engagement as a learner-modeling signal:** [[engagement-intensity-learner-modeling|Engagement intensity as a learner-modeling signal]] uses engagement strength to inform adaptive AI systems, positioning engagement metrics as inputs to [[student-modeling]] and [[adaptive-learning]] rather than merely evaluation outputs.
+
 ### Engagement vs. learning
 
 A central theme in the wiki's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the [[cognitive-offloading|cognitive work]] of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and desirable difficulty can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful cognitive processing — rather than a terminal outcome.
@@ -41430,19 +41383,21 @@ A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement
 
 ### Connections to related concepts
 
-Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
+Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools for operationalizing the dimensions above. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
 
 ## Connected Concepts
 
-- [[engagement-metrics]]
 - [[motivation]]
 - [[self-determination-theory]]
 - [[student-experience]]
 - [[learning-analytics]]
+- [[educational-measurement]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[metacognition]]
+- [[student-modeling]]
+- [[adaptive-learning]]
+- [[research-methods-aied]]
 - [[higher-ed]]
 
 ## Connected Articles
@@ -41459,6 +41414,10 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
 - [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
+- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant
+- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
+- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
+- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
 
 ---
 
@@ -41476,7 +41435,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 ### Connections
 
-Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[engagement-metrics|engagement]] (how AI systems measure and respond to student behavior).
+Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior).
 
 ## Connected Concepts
 

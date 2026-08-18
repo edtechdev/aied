@@ -24,7 +24,7 @@ A quantitative research design was used with data from 297 undergraduate and pos
 
 ## Implications for AI in Education
 
-The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[engagement-metrics|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-experience|student engagement]] in higher education.
+The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[student-engagement|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-experience|student engagement]] in higher education.
 
 ## Limitations
 
@@ -35,7 +35,7 @@ The cross-sectional design limits causal inference, and the sample is drawn from
 - [[generative-ai]]
 - [[motivation]]
 - [[self-determination-theory]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[higher-ed]]
 - [[personalized-learning]]
 - [[student-experience]]

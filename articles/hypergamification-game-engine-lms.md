@@ -29,7 +29,7 @@ The authors discuss limitations (integration complexity, content-authoring burde
 - [[game-based-learning]]
 - [[edtech-platform]]
 - [[student-engagement]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 
 ## Connected Articles
 

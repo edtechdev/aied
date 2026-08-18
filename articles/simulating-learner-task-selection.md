@@ -19,7 +19,7 @@ This paper introduces a simulation-based framework for evaluating how learner ta
 - [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[knowledge-tracing]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[simulating-students]]
 ## Connected Articles
 

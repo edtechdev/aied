@@ -20,7 +20,7 @@ MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most
 
 **LLM-powered response generation.** At its core, MathBuddy uses an LLM prompted with the aggregated affective state, the mathematical context, and the tutoring history to generate emotionally appropriate pedagogical responses. The LLM is not merely an answer engine but an affective-pedagogical reasoning system that must balance mathematical correctness with emotional attunement.
 
-**Rigorous evaluation.** The system was evaluated along eight pedagogical dimensions — including scaffolding quality, emotional attunement, mathematical accuracy, and learner engagement — through controlled user studies. The +23-point win rate and +3-point DAMR improvement establish clear evidence that affective awareness adds measurable value beyond content-only tutoring approaches. This connects to the engagement-metrics literature and the growing recognition that [[engagement-intensity-learner-modeling]] is essential for effective AI tutoring.
+**Rigorous evaluation.** The system was evaluated along eight pedagogical dimensions — including scaffolding quality, emotional attunement, mathematical accuracy, and learner engagement — through controlled user studies. The +23-point win rate and +3-point DAMR improvement establish clear evidence that affective awareness adds measurable value beyond content-only tutoring approaches. This connects to the [[student-engagement|engagement metrics]] literature and the growing recognition that [[engagement-intensity-learner-modeling]] is essential for effective AI tutoring.
 
 ## Implications
 
