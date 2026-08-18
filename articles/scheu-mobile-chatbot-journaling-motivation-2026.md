@@ -50,7 +50,7 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 - [[student-experience]]
 - [[llm]]
 - [[motivation]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[feedback]]
 ## Connected Articles
 

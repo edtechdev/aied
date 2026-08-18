@@ -33,7 +33,7 @@ The system addresses a practical infrastructure gap in multi-site education: VR 
 - [[simulation]] — science experiments that are hard to run in a traditional classroom
 - [[embodied-learning]] — hands-on, three-dimensional understanding
 - [[student-experience]] — usability and VR-sickness outcomes
-- [[engagement-metrics]] — real-time co-presence and interaction
+- [[student-engagement]] — real-time co-presence and interaction
 - [[higher-ed]] — distributed university teaching scenarios
 - [[stem-education]] — science activities shared across sites
 - [[experiential-learning]] — immersive, hands-on learning activities

@@ -33,7 +33,7 @@ These findings connect [[generative-ai]] use to [[digital-divide]] and [[equity-
 - [[digital-divide]]
 - [[learning-gains]]
 - [[self-regulated-learning]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[help-seeking]]
 ## Connected Articles
 

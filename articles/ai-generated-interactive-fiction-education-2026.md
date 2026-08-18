@@ -21,7 +21,7 @@ confidence: medium
 
 ## Implications
 
-For [[generative-ai]]-driven [[intelligent-tutoring|AI Tutoring]] and narrative [[curriculum-design]], the study suggests that scaffolding learning checks (quizzes) into interactive stories requires more than inserting questions — the story must motivate and respond to them coherently. This bears on [[student-experience]] and [[engagement-metrics]]: perceived coherence appears to be the limiting factor for sustained engagement with AI-produced narrative content.
+For [[generative-ai]]-driven [[intelligent-tutoring|AI Tutoring]] and narrative [[curriculum-design]], the study suggests that scaffolding learning checks (quizzes) into interactive stories requires more than inserting questions — the story must motivate and respond to them coherently. This bears on [[student-experience]] and [[student-engagement]]: perceived coherence appears to be the limiting factor for sustained engagement with AI-produced narrative content.
 
 The work connects to broader efforts to make AI-generated instructional media usable, including AI-generated videos and slides in computing education, and to [[educational-nlp]] research on automated content generation. As a pilot with a small sample, it is a design-oriented contribution that motivates larger follow-ups on learning effectiveness rather than an efficacy study in itself.
 
@@ -29,7 +29,7 @@ The work connects to broader efforts to make AI-generated instructional media us
 
 - [[generative-ai]]
 - [[educational-nlp]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-experience]]
 - [[curriculum-design]]
 - [[pedagogical-agent]]

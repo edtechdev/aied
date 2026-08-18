@@ -13,7 +13,7 @@ confidence: high
 ### AI-enhanced analytics
 
 - **Predictive analytics:** Machine learning on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
-- **Engagement analytics:** [[engagement-metrics|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
+- **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
 - **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
@@ -33,7 +33,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[formative-assessment]]
 - [[privacy]]
 - [[edtech-platform]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[ai-ed-evaluation]]
 - [[feedback]]
 - [[higher-ed]]

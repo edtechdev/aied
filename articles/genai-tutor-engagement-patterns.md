@@ -41,7 +41,7 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - [[socratic-method]]
 - [[help-seeking]]
 - [[learning-analytics]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[student-engagement]]

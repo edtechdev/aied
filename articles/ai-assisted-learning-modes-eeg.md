@@ -23,7 +23,7 @@ The finding that full automation reduces cognitive engagement echoes the [[cogni
 - [[student-experience]]
 - [[k-12]]
 - [[active-learning]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 ## Connected Articles

@@ -24,7 +24,7 @@ This paper presents one of the most comprehensive closed-loop [[intelligent-tuto
 - [[student-modeling]]
 - [[feedback]]
 - [[professional-training]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[educational-llm-alignment]]

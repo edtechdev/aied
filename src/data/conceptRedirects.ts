@@ -12,4 +12,5 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'automated-grading': 'automated-assessment',
   'cognitive-load-theory': 'cognitive-offloading',
   'dual-process-theory': 'critical-thinking',
+  'engagement-metrics': 'student-engagement',
 };

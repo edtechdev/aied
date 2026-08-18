@@ -27,7 +27,7 @@ The work connects AI-based attention estimation to instructional design practice
 - [[human-in-the-loop-ai]]
 - [[motivation]]
 - [[student-engagement]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-experience]]
 
 ## Connected Articles

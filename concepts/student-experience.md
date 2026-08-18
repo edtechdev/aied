@@ -20,7 +20,7 @@ confidence: high
 
 ### Connections
 
-Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[engagement-metrics|engagement]] (how AI systems measure and respond to student behavior).
+Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior).
 
 ## Connected Concepts
 

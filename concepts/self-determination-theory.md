@@ -34,7 +34,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[faculty-development]]
 - [[professional-training]]
 - [[cognitive-offloading]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles

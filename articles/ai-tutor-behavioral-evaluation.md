@@ -40,7 +40,7 @@ This work addresses a critical evaluation gap. An AI tutor that gives perfect pe
 - [[knowledge-tracing]]
 - [[teacher-ai-competency]]
 - [[intelligent-tutoring]]
-- [[engagement-metrics]]
+- [[student-engagement]]
 - [[student-modeling]]
 - [[feedback]]
 - [[learning-gains]]
