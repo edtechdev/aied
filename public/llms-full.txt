@@ -1665,18 +1665,18 @@ Eason Chen et al. (2026). [When AI Agents Teach Each Other: Discourse Patterns R
 
 ## [From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource](https://edtechdev.github.io/aied/articles/ai-anxiety-strategic-regulation-writing-2026/)
 
-Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in academic writing tasks, focusing on the role of AI anxiety. Using an explanatory sequential mixed-methods design, the study collected survey data and post-task written reflections from 107 university students.
+Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety. Using an explanatory sequential mixed-methods design, the study collected survey data and post-task written reflections from 107 university students.
 
 ## Key Findings
 
-- **AI anxiety is productive, not just a barrier:** Higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01). Students worried about plagiarism or accuracy were more likely to question every AI sentence, cross-check sources, and revise rather than accept output uncritically.
+- **AI anxiety is productive, not just a barrier:** Higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01). Students worried about [[plagiarism-detection|plagiarism]] or accuracy were more likely to question every AI sentence, cross-check sources, and revise rather than accept output uncritically.
 - **Evaluative capacity drives active engagement:** Evaluative capacity predicted revision and selective integration (β=.46, p<.001), while ethical awareness strengthened the translation of evaluation into active, responsible AI use (interaction β=.41, p<.01).
-- **Four regulatory types (N=107):** Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%). Effective AI use depended not on willingness to use the tool but on the capacity to question outputs, revise selectively, and maintain authorship responsibility.
+- **Four regulatory types (N=107):** Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%). Effective AI use depended not on willingness to use the tool but on the capacity to question outputs, revise selectively, and maintain authorship responsibility. Uncritical reliance risks [[cognitive-offloading|cognitive offloading]], while the other modes reflect active [[self-regulated-learning|self-regulated]] engagement.
 - **AI literacy as regulatory competence:** The study frames [[ai-literacy]] in higher education less as technology acceptance and more as a form of regulatory competence grounded in evaluative judgment and ethical responsibility.
 
 ## Implications for AI in Education
 
-This work reframes AI anxiety from a negative construct to a potentially productive signal that encourages closer scrutiny and more deliberate regulation of AI use. It challenges adoption-centered models (like [[technology-acceptance-model|TAM]]) that treat use as a stable decision, arguing instead that AI use is an ongoing process of judgment, revision, and selective uptake during task performance. For [[assessment|assessment]] and [[academic-integrity]] design, it suggests that fostering evaluative capacity and ethical awareness — not merely reducing anxiety — is the key to promoting critical, responsible engagement with [[generative-ai|GenAI]] in writing tasks.
+This work reframes AI anxiety from a negative construct to a potentially productive signal that encourages closer scrutiny and more deliberate regulation of AI use. It challenges adoption-centered models (like [[technology-acceptance-model|TAM]]) that treat use as a stable decision, arguing instead that AI use is an ongoing process of judgment, revision, and selective uptake during task performance. For [[assessment]] and [[academic-integrity]] design, it suggests that fostering evaluative capacity and ethical awareness — not merely reducing anxiety — is the key to promoting critical, responsible engagement with [[generative-ai|GenAI]] in writing tasks.
 
 ## Connected Concepts
 
@@ -1691,6 +1691,10 @@ This work reframes AI anxiety from a negative construct to a potentially product
 - [[critical-thinking]]
 - [[cognitive-offloading]]
 - [[feedback]]
+- [[assessment]]
+- [[plagiarism-detection]]
+- [[writing-education]]
+- [[technology-acceptance-model]]
 
 ## Connected Articles
 
@@ -21537,13 +21541,13 @@ Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnaga
 
 - **Two novel question strategies:** Beyond baseline questions generated directly from a video transcript, the system introduces **Visual Questions** (identifying video timestamps where visual information is likely to be misinterpreted — rapid movements, misaligned captions, dense on-screen text) and **Emotion Questions** (identifying timestamps where prior DHH learners shared emotional reactions, such as frustration or confusion, captured via facial-expression analysis).
 - **Three-phase pipeline:** Stage 1 generates baseline questions with GPT-3.5; Stage 2 incorporates DHH learner data (emotion and visual) to target overlooked learning moments; Stage 3 iteratively refines questions with DHH students and instructors for linguistic accessibility (simpler sentence structures, closed formats like multiple-choice and true/false). The final mini question bank contained 30 questions (10 per strategy).
-- **User study (N=16):** The prototype generally improved self-efficacy (M=5.70, SD=1.12 on a 7-point scale). Base questions excelled at connecting text and image and understanding concepts; emotion questions raised awareness of shared difficulties; visual questions were valued more by Deaf than Hard-of-Hearing participants.
-- **The accessibility gap:** LLMs struggle because text-based prompts are mismatched with DHH learners' sign-based first/native languages. Unnecessary linguistic complexity (compound sentences, double negatives) increases cognitive load and confusion.
+- **User study (N=16):** The prototype generally improved [[self-efficacy]] (M=5.70, SD=1.12 on a 7-point scale). Base questions excelled at connecting text and image and understanding concepts; emotion questions raised awareness of shared difficulties; visual questions were valued more by Deaf than Hard-of-Hearing participants.
+- **The accessibility gap:** LLMs struggle because text-based prompts are mismatched with DHH learners' sign-based first/native languages. Unnecessary linguistic complexity (compound sentences, double negatives) increases [[cognitive-offloading|cognitive load]] and confusion.
 - **Deaf vs. HoH differences:** Deaf participants selected visual questions more than HoH learners, who reported fast caption-reading speed and less need for visual support.
 
 ## Implications for AI in Education
 
-The study highlights the importance of considering **language diversity and culture** in the design of LLM-based educational technology. LLMs offer significant potential for [[personalized-learning|personalized]] and [[automated-question-generation|automated question generation]] at scale, but they risk encoding technology bias against users whose first language is not spoken language. The design-based approach — layering learner-specific data into generation and iteratively revising with the target community — offers a template for [[equity-in-ai-education|equitable]] [[special-education|special-education]] tooling that centers the users' own language and experience rather than treating accessibility as an afterthought.
+The study highlights the importance of considering **[[language-learning|language]] diversity and culture** in the design of LLM-based educational technology. LLMs offer significant potential for [[personalized-learning|personalized]] and [[automated-question-generation|automated question generation]] at scale, but they risk encoding [[bias-mitigation|technology bias]] against users whose first language is not spoken language. The design-based approach — layering learner-specific data into generation and iteratively revising with the target community — offers a template for [[equity-in-ai-education|equitable]] [[special-education|special-education]] tooling, grounded in [[universal-design-for-learning|Universal Design for Learning]], that centers the users' own language and experience rather than treating accessibility as an afterthought.
 
 ## Connected Concepts
 
@@ -21556,6 +21560,10 @@ The study highlights the importance of considering **language diversity and cult
 - [[equity-in-ai-education]]
 - [[student-experience]]
 - [[universal-design-for-learning]]
+- [[self-efficacy]]
+- [[language-learning]]
+- [[bias-mitigation]]
+- [[cognitive-offloading]]
 - [[neurodiversity]]
 
 ## Connected Articles
@@ -29170,7 +29178,7 @@ Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic (2026). [Socially fluent AI 
 
 ## [Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education](https://edtechdev.github.io/aied/articles/socio-cognitive-genai-adoption-engineering-2026/)
 
-Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated engineering students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.
+Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated [[engineering-education|engineering]] students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.
 
 ## Key Findings
 
@@ -29182,7 +29190,7 @@ Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated engineering stu
 
 ## Implications for AI in Education
 
-The study contributes to human–technology interaction research by clarifying the cognitive and social drivers of generative AI acceptance, and contextualizes model validation within a resource-constrained, multicultural higher education environment (Global South context). It offers evidence-based guidance for designing culturally responsive and cognitively supportive AI learning ecosystems, and underscores the need for cross-cultural, longitudinal research on evolving patterns of AI adoption.
+The study contributes to human–technology interaction research by clarifying the cognitive and social drivers of generative AI acceptance, and contextualizes model validation within a resource-constrained, multicultural [[higher-ed|higher education]] environment ([[global-south|Global South]] context). It offers evidence-based guidance for designing culturally responsive and cognitively supportive AI learning ecosystems, and underscores the need for cross-cultural, longitudinal research on evolving patterns of AI adoption.
 
 ## Connected Concepts
 
@@ -30869,7 +30877,7 @@ Talebzadeh, H. (2026). [*The Role of Artificial Intelligence in Green Education:
 
 ## [Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use](https://edtechdev.github.io/aied/articles/tam-critical-use-genai-engineering-2026/)
 
-Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among Engineering and Computer Science/IT (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.
+Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors influencing university students' intention to use and reliance on [[generative-ai|generative AI]] among [[engineering-education|Engineering]] and [[cs-education|Computer Science/IT]] (CS/IT) students. Drawing on an extended [[technology-acceptance-model|Technology Acceptance Model (TAM)]], the study integrates the construct of **critical use** and conceptualizes reliance across four functional domains relevant to engineering and CS/IT education.
 
 ## Key Findings
 
@@ -30877,11 +30885,11 @@ Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors i
 - **Attitudes and critical use drive intention:** Attitudes towards GenAI and critical use directly and positively influence intention to use GenAI, while perceived ease of use and perceived usefulness have positive indirect effects. Notably, ease of use did not directly shape attitudes, and usefulness did not directly predict intention.
 - **Intention predicts reliance across four domains:** Understanding, assessment, programming, and engineering projects. Students demonstrated moderate reliance overall, with greatest use for understanding-related tasks (clarifying concepts, worked examples) and limited utilization for full assessment writing.
 - **Appropriate, not excessive, reliance:** Consistent with Schemmer et al.'s framework, students showed moderate, appropriate reliance — recognizing GenAI's limits for precision-demanding engineering and CS tasks while drawing on it for debugging, formula generation, and design ideation.
-- **Critical use as a core AI-literacy dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against over-reliance.
+- **Critical use as a core [[ai-literacy|AI-literacy]] dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against [[cognitive-offloading|over-reliance]].
 
 ## Implications for AI in Education
 
-The study highlights the importance of moving beyond initial technology acceptance to examine **post-adoption behaviors** — critical use and reliance — particularly in technically demanding disciplines. It proposes a three-tiered AI-literacy training approach for engineering and CS/IT programs: (1) evidence-based AI literacy for all students, (2) targeted mentoring for those needing additional support, and (3) intensive one-to-one support for students experiencing persistent difficulties or over-dependence. Because reliance varies by task, pedagogical approaches should be task-specific rather than uniform.
+The study highlights the importance of moving beyond initial technology acceptance to examine **post-adoption behaviors** — critical use and reliance — particularly in technically demanding disciplines. It proposes a three-tiered [[ai-literacy|AI-literacy]] training approach for engineering and CS/IT programs: (1) evidence-based AI literacy for all students, (2) targeted mentoring for those needing additional support, and (3) intensive one-to-one support for students experiencing persistent difficulties or over-dependence. Because reliance varies by task, pedagogical approaches should be task-specific rather than uniform.
 
 ## Connected Concepts
 
@@ -30895,6 +30903,7 @@ The study highlights the importance of moving beyond initial technology acceptan
 - [[critical-thinking]]
 - [[ethics]]
 - [[academic-integrity]]
+- [[cognitive-offloading]]
 - [[reducing-ai-misuse]]
 
 ## Connected Articles
@@ -31935,16 +31944,16 @@ Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) pro
 
 ## Key Findings
 
-- **The limitation it addresses:** Existing memory-augmented knowledge-tracing models (e.g., DKVMN) treat concepts as independent entities, failing to capture how higher-order interactions among concepts shape learning — especially when concepts co-occur across varying question compositions.
+- **The limitation it addresses:** Existing memory-augmented knowledge-tracing models (e.g., DKVMN) treat concepts as independent entities, failing to capture how higher-order interactions among concepts shape learning — especially when concepts co-occur across varying question compositions. This parallels the [[cognitive-diagnosis|fine-grained skill assessment]] challenge of modeling multi-concept questions.
 - **Temporal hypergraph representation:** THyMeN represents each student's learning history as an evolving hypergraph, where each hyperedge reflects the multi-concept structure of a question, capturing authentic multi-skill task demands and cognitive load.
 - **Bidirectional message-passing:** A mechanism enables mutual refinement between concept nodes and question hyperedges, modeling how concept dynamics shift across questions and enabling composition-sensitive mastery estimates.
 - **Attention-based fusion:** Integrates memory-tracked concept mastery, composition-aware hypergraph signals, and question-specific features into a unified prediction representation.
 - **Adaptive scaling:** Regulates mastery updates using the diversity of concept co-occurrences across questions, yielding stable trajectories consistent with learning from varied practice.
-- **Results:** Outperforms seven baselines and state-of-the-art models in predictive accuracy on four benchmark datasets, while generating smoother, pedagogically plausible knowledge-evolution trajectories. Ablation and structural comparison studies validate the design contributions.
+- **Results:** Outperforms seven baselines and state-of-the-art models in predictive accuracy on four benchmark datasets, while generating smoother, pedagogically plausible knowledge-evolution trajectories. Ablation and structural comparison studies validate the design contributions. These advances feed [[intelligent-tutoring]] and [[adaptive-learning|adaptive]] systems that rely on accurate mastery estimates.
 
 ## Implications for AI in Education
 
-THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and pedagogically grounded learning support. By modeling how concepts interact within multi-concept questions, it produces more robust [[student-modeling|student knowledge models]] that support [[formative-assessment|formative]] and [[adaptive-learning|adaptive assessment]]. The emphasis on practice diversity and composition-sensitive mastery aligns with learning-science findings that cognitively demanding, varied practice strengthens retention — capturing learning dynamics that earlier KT models treat as equivalent.
+THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and pedagogically grounded learning support. By modeling how concepts interact within multi-concept questions, it produces more robust [[student-modeling|student knowledge models]] that support [[formative-assessment|formative]], [[adaptive-learning|adaptive]], and [[personalized-learning|personalized]] assessment, and informs [[learning-analytics|learning-analytics]] dashboards for intervention design. The emphasis on practice diversity and composition-sensitive mastery aligns with learning-science findings that cognitively demanding, varied practice strengthens retention — capturing learning dynamics that earlier KT models treat as equivalent.
 
 ## Connected Concepts
 
@@ -37929,11 +37938,11 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 ## [Global South](https://edtechdev.github.io/aied/concepts/global-south/)
 
-The **Global South** refers to countries in Africa, Asia, Latin America, and Oceania that are often economically, politically, and historically marginalized relative to the Global North. In AI in education research, Global South contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], cultural relevance, resource constraints, and the epistemic dominance of Western, Anglophone training data.
+The **Global South** refers to countries in Africa, Asia, Latin America, and Oceania that are often economically, politically, and historically marginalized relative to the Global North. In AI in education research, Global South contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
 
 ### Why It Matters for AIED
 
-Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and institutional contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation benchmarks built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this wiki spans culturally grounded datasets, benchmarks, and technology-adoption studies.
+Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and institutional contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this wiki spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
 
 ### Applications in the Wiki
 
@@ -37943,7 +37952,7 @@ Mainstream AI and educational-technology research has historically been dominate
 
 ### Implications
 
-Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant pedagogy, community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning.
+Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant pedagogy, community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning and [[technology-acceptance-model|technology-acceptance]] research adapted to local conditions.
 
 ## Connected Concepts
 
@@ -37955,6 +37964,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[k-12]]
 - [[accessible-learning]]
 - [[technology-acceptance-model]]
+- [[benchmark]]
 
 ## Connected Articles
 
@@ -42246,19 +42256,19 @@ The **Technology Acceptance Model (TAM)**, proposed by Davis (1989), explains an
 
 ### Core Structure
 
-The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], trust, social influence, self-determination, and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
+The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
 
 ### Applications in the Wiki
 
 TAM is applied across the wiki to model student and teacher adoption of AI tools:
 
-- **Critical use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with the construct of *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention, which then predicts reliance across understanding, assessment, programming, and engineering-project domains.
+- **Critical use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with the construct of *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention, which then predicts reliance across understanding, assessment, programming, and engineering-project domains — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
 - **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT to model engineering students' GenAI adoption in Bangladesh, showing that job relevance, result demonstrability, and subjective norms shape acceptance (explaining 64% of usage variance).
-- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — framing [[ai-literacy]] as regulatory competence rather than acceptance.
+- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — framing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
 
 ### Limits and Extensions
 
-While TAM is effective for predicting uptake, it is less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in higher education increasingly note that TAM alone is insufficient, prompting integration with frameworks such as UTAUT and Self-Determination Theory, and the addition of post-adoption constructs like critical use, reliance, and evaluative judgment.
+While TAM is effective for predicting uptake, it is less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with frameworks such as UTAUT and Self-Determination Theory, and the addition of post-adoption constructs like critical use, reliance, and evaluative judgment.
 
 ## Connected Concepts
 
@@ -42268,6 +42278,9 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 - [[higher-ed]]
 - [[critical-thinking]]
 - [[ethics]]
+- [[trust]]
+- [[cognitive-offloading]]
+- [[self-determination-theory]]
 - [[research-methods-aied]]
 - [[student-modeling]]
 

@@ -8,7 +8,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100614.md']
 confidence: high
 ---
 
-Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated engineering students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.
+Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated [[engineering-education|engineering]] students' adoption of [[generative-ai|generative AI]] by integrating the [[technology-acceptance-model|Technology Acceptance Model (TAM)]] with the Unified Theory of Acceptance and Use of Technology (UTAUT) to develop a unified socio-cognitive framework.
 
 ## Key Findings
 
@@ -20,7 +20,7 @@ Mazen Abdulwahab Asag & Md Abdullah Al Mamun (2026) investigated engineering stu
 
 ## Implications for AI in Education
 
-The study contributes to human–technology interaction research by clarifying the cognitive and social drivers of generative AI acceptance, and contextualizes model validation within a resource-constrained, multicultural higher education environment (Global South context). It offers evidence-based guidance for designing culturally responsive and cognitively supportive AI learning ecosystems, and underscores the need for cross-cultural, longitudinal research on evolving patterns of AI adoption.
+The study contributes to human–technology interaction research by clarifying the cognitive and social drivers of generative AI acceptance, and contextualizes model validation within a resource-constrained, multicultural [[higher-ed|higher education]] environment ([[global-south|Global South]] context). It offers evidence-based guidance for designing culturally responsive and cognitively supportive AI learning ecosystems, and underscores the need for cross-cultural, longitudinal research on evolving patterns of AI adoption.
 
 ## Connected Concepts
 
