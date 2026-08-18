@@ -21,7 +21,7 @@ confidence: high
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 
-Programming education spans introductory [[cs-education|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
+Programming education spans introductory block-based programming to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
 
 - **Block-based visual programming:** environments like Scratch and Blockly let beginners snap together graphical blocks rather than type text, eliminating syntax errors and making program structure visible — especially valuable for younger learners and for controlling [[educational-robotics|educational robots]]. In the AI era they are increasingly combined with conversational AI agents (e.g., [[microbit-robotics-machine-learning-teacher-training-2026|Micro:bit + MakeCode in teacher training]], [[cstutorbench-slm-tutors|small-language-model tutors]]).
 - **Embodied block programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block-based programming with a conversational AI teaching agent and embodied robot execution, creating an iterative authoring–running–observing–revising loop that preserves learner [[agency]].
