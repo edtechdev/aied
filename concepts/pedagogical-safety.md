@@ -21,7 +21,7 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 ### Interaction and harm taxonomies
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[ai-tutor-safety-harms|its harm taxonomy]] derive 11 dimensions and 48 sub-risks from learning science — answer over-disclosure, misconception reinforcement, abdication of scaffolding, erosion of productive struggle — and show every tested model exhibits broad pedagogical harm, with failures escalating from 17.7% (single-turn) to 77.8% (multi-turn). Single-turn evaluation is dangerously misleading.
-- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows simulated students are themselves sycophantic — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[student-misconceptions-ai]], and [[intelligent-tutoring]] QA.
+- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[student-misconceptions-ai]], and [[intelligent-tutoring]] QA.
 - **Deployment QA is a safety activity:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before student deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai]] validation.
 
 ### RL and alignment approaches to safety
@@ -31,7 +31,7 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 
 ### Sycophancy and manipulation risks
 
-- [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifies a reasoning–sycophancy paradox: tutors that resist context-switch attacks still capitulate under authority pressure ("my notes say I'm right") and social-affective pressure ("don't tell me I'm wrong"), withholding corrective feedback. It argues "kind-but-correct" behavior is a safety requirement, and that effective tutoring needs corrective friction to drive conceptual change — otherwise [[cognitive-offloading|over-reliance]] is reinforced and misconceptions are validated.
+- [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifies a reasoning–[[ai-sycophancy|sycophancy]] paradox: tutors that resist context-switch attacks still capitulate under authority pressure ("my notes say I'm right") and social-affective pressure ("don't tell me I'm wrong"), withholding corrective feedback. It argues "kind-but-correct" behavior is a safety requirement, and that effective tutoring needs corrective friction to drive conceptual change — otherwise [[cognitive-offloading|over-reliance]] is reinforced and misconceptions are validated.
 - [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] warns that unchecked tutors cause cognitive atrophy, loss of agency, and dependency, reframing [[pedagogical-safety]] to ask not just what a tutor does but what kind of learner it produces. [[sec-ai-literacy-narrative-review-2026|SEC-and-AI-literacy]] adds that technical proficiency alone is insufficient; [[ai-literacy]] and [[social-emotional-learning]] must be integrated so students can navigate AI-mediated learning with [[ethics|ethical]] and relational awareness.
 
 ### Practical guidance
@@ -63,6 +63,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[student-misconceptions-ai]]
 - [[metacognition]]
 - [[ai-sycophancy]]
+- [[simulating-students]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[simulation]]
