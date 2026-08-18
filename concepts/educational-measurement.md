@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing]
 confidence: medium
@@ -17,6 +17,7 @@ Educational measurement is the discipline of turning observations about learning
 - **Psychometric awareness in AI assessment:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
 - **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
+- **Latent-structure comparison:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] extend educational measurement to the LLM setting by testing whether assessment instruments show the *same factor structure* for humans and LLMs. Using EFA, factor congruence, and resampling, they show LLM–human latent structures systematically diverge across chemistry and quantitative-reasoning instruments, implying the constructs measured differ across populations — a necessary check before human validity evidence is assumed to transfer to AI.
 
 ### Connections
 
@@ -36,6 +37,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)

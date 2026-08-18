@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-15T20:02:54-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -55,6 +55,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[yasir-llm-tutoring-agents-2026]] — Three-way classification benchmark of LLM tutoring agents (Yasir et al. 2026)

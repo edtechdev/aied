@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:19:32-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
@@ -66,6 +66,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 
 - [[student-rationalization-ai-writing]] — It's OK Because… Student Rationalization of AI Use
