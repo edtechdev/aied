@@ -1,7 +1,7 @@
 ---
 title: Programming Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-15T10:55:19-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [programming-education, computational-thinking, cs-education, educational-robotics, k-12, higher-ed, block-programming]
 confidence: high
@@ -18,6 +18,7 @@ Programming education is closely related to [[computational-thinking]] (the unde
 - **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula.
 - **Game-based and gamified learning:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] compares game-based learning and gamification in robotics education, which emphasizes introductory programming and modular kits.
 - **Project-based robotics:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] teaches robotics programming through an agile, semester-spanning project.
+- **Authentic assessment of GenAI (2026):** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] benchmarked five GenAI systems (ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, M365 Copilot) against authentic introductory object-oriented programming tests and exams using the same rubric as students. All systems except Copilot outscored the average cohort and often earned full marks on longer tasks, yet still produced non-compiling code and repeated errors on interfaces, abstract classes, and inheritance — plus multimodal graphics questions. The study provides a dated, rubric-anchored reference for how AI capability has evolved relative to students.
 
 Programming education connects to [[educational-robotics]], [[computational-thinking]], [[cs-education]], [[stem-education]], [[llm|AI-assisted programming]], [[game-based-learning]], [[game-based-learning|Gamification]], [[project-based-learning]], and [[embodied-learning]].
 
@@ -38,6 +39,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[teacher-education]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio

@@ -1,9 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-18 | **Total entries:** 847
+**Last updated:** 2026-08-18 | **Total entries:** 849
 
 > Reverse chronological index of all articles and concepts ingested into the wiki.
 
+## "2026-08-18
+- [[genai-oop-programming-assessments-2026]] — Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments
+- [[assessment-latent-structure-human-llm-2026]] — Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
 ## "2026-08-17
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-Based Layered Hybrid AI-Driven Knowledge Model for Personalized E-Learning
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment

@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 confidence: high
@@ -32,6 +32,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 

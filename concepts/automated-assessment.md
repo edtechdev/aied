@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-17T11:30:00-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -77,6 +77,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
