@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-18T16:30:00-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 confidence: high
@@ -9,15 +9,25 @@ confidence: high
 
 > **Computational thinking** — a problem-solving approach involving decomposition, pattern recognition, abstraction, and algorithmic design. In AI education, computational thinking is both a prerequisite for understanding AI systems and a skill that AI tools can help develop.
 
-### CT and AI education
+### CT in an AI-era classroom
 
-- **CT as AI literacy foundation:** Understanding how AI systems decompose problems and apply algorithms is foundational to [[ai-literacy]]. [[computational-thinking-ai-agent-creation|Agent creation studies]] show how building AI agents develops CT skills.
-- **Programming education:** [[cs-education]] and [[prompt-problems-nl-programming-mistakes|prompting studies]] connect CT to [[cs-education|programming instruction]].
-- **K-12 integration:** [[k-12]] and [[stem-education]] curricula increasingly embed CT as a core competency.
+The wiki's connected articles converge on a central claim: computational thinking (CT) is the conceptual bedrock students need in order to engage critically with AI, and it is also the skill most directly deepened by well-designed AI-supported learning. Below the evidence is grouped into four themes grounded in the linked articles.
 
-### Connections
+- **CT as the foundation of AI literacy and critical engagement.** Several studies show that CT is what lets learners evaluate, rather than just consume, AI outputs. [[chat-debugging-human-ai-collaboration-circuits|Chat debugging research]] found that when undergraduates debugged analog circuits with LLM help, their *deficits in fundamental concepts and critical thinking* — not the tool — were the limiting factor, since students lacked the core ideas needed to judge AI suggestions. [[llm-intervention-design-cs-review|A review of LLM intervention designs]] likewise concludes that the [[cs-education]] push toward computational thinking over syntax mastery is what separates effective interventions from "tool frustration." In early childhood, [[ai-play-framework-early-childhood-2026|the AI-Play framework]] builds unplugged, play-based [[ai-literacy]] by teaching children that "AI is a system built from parts" and "AI learns from examples" — a developmentally grounded first layer of CT. And [[academic-league-of-ai-2026|an AI academic league]] connects CT to real civic AI projects through [[project-based-learning]], embedding [[ai-literacy]] in practice. Together these suggest CT is the transferable cognitive core of AI literacy.
 
-Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-literacy]], [[k-12]], [[project-based-learning|project-based learning]], and [[prompt-engineering]]. It bridges general problem-solving skills and specific AI competencies.
+- **Educational robotics as a vehicle for CT.** Robotics is the most-studied context for developing CT across [[k-12]] and [[stem-education]]. [[computational-thinking-educational-robotics-secondary-2026|Secondary-school research]] argues that educational robotics enhances problem solving and critical thinking only when CT concepts are made explicit and mapped onto the [[stem-education|STEAM]] curriculum rather than treated as isolated technical exercises. A [[game-based-gamified-robotics-education-review-2026|systematic review of 95 studies]] confirms that robotics fosters CT, creativity, and problem solving, and that [[game-based-learning]] suits informal settings while gamification dominates formal classrooms and supports project-based learning. [[microbit-robotics-machine-learning-teacher-training-2026|Teacher-training evidence]] shows an integrated Micro:bit + robot + machine-learning intervention produced significant CT knowledge gains (d = 0.638) in initial teacher education, arguing robotics should be embedded so future teachers can teach CT. LLMs can lower the barrier further: [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] couples an LLM with robot simulation so beginners control robots via natural language, making CT-embedded robotics accessible without low-level coding.
+
+- **LLMs as tools for CT assessment and development.** [[generative-ai|Generative AI]] offers scalable ways to measure and scaffold CT. [[llm-computational-thinking-physics-2026|Physics CT assessment research]] showed LLMs can mirror human raters in scoring growth in Data Practices and Computational Problem-Solving Practices across large-enrollment [[physics-education]] courses — while both humans and the LLM struggled with the more complex Systems Thinking construct, marking a clear boundary for automation. [[visual-query-tracer-declarative-logic-learning|Visual query tracing]] shows how visualization can scaffold abstract computation, building intuition that supports CT development. [[student-misconceptions-conditionals-loops-taxonomy|A taxonomy of conditionals-and-loops misconceptions]] provides fine-grained targets for [[scaffolding]] and for automated misconception detection, connecting to [[student-misconceptions-ai]]. These tools work best, however, when pedagogical design leads: [[llm-intervention-design-cs-review|the CS review]] found semester-long "Virtual Tutor" designs with scaffolded feedback consistently improved CT, whereas unstructured tool access increased frustration.
+
+- **CT across K-12, teacher education, and assessment redesign.** CT spans the whole [[k-12]] to [[higher-ed]] spectrum and is reshaping assessment. At the early-childhood end, AI-Play extends CT and AI literacy to Pre-K–K2 learners and non-technical families; at the university end, the [[genai-oop-programming-assessments-2026|OOP assessment study]] found 2026 GenAI systems outperform the average student on authentic programming exams yet still fail on interfaces, abstract classes, and inheritance — recurring conceptual gaps that mark exactly where CT remains hard to automate. [[solving-vs-evaluating-genai-solutions|A randomized A/B crossover study]] showed that evaluation-and-critique tasks produce comparable outcomes to generation, suggesting CT can be exercised through judging flawed AI solutions, though gains require deliberate scaffolding. Underpinning all of this is the teacher: the microbit study links CT instruction directly to [[teacher-education]], and [[hashmi-socratic-physics-chatbot-2025|Socratic chatbot research]] ties the precise problem formulation that CT demands to measurable course performance.
+
+### Practical guidance
+
+For educators, the consistent message is that CT is developed through *explicit, scaffolded, observable* engagement rather than passive AI use. Pair robotics with explicit CT-concept mapping to the curriculum; use LLMs for [[simulation]], natural-language control, and scalable assessment of CT growth while reserving human judgment for constructs like Systems Thinking; and redesign assessments to emphasize evaluation and diagnosis of AI output over raw generation. Whatever the setting — unplugged play in early childhood, robots in secondary [[stem-education]], or Virtual Tutors in [[higher-ed]] — structure the activity so students must reason about decomposition, pattern, abstraction, and algorithm rather than receive finished solutions.
+
+### Connections to related concepts
+
+Computational thinking is the shared cognitive foundation beneath [[ai-literacy]] and [[critical-thinking]], the curricular core of [[cs-education]] and [[k-12]] computing, and the conceptual target that [[educational-robotics]], [[game-based-learning]], and [[project-based-learning]] are best designed to serve. It is deepened by [[llm|large language models]] and [[generative-ai]] when those are used as scaffolding tools, and it is the skill that student-misconceptions taxonomies and CT-aware assessments aim to measure. Teachers develop it through [[teacher-education]] and [[professional-training]], and it transfers across domains including [[physics-education]] and [[stem-education|STEM]] broadly.
 
 ## Connected Concepts
 
@@ -30,9 +40,35 @@ Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-li
 - [[llm]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[educational-robotics]]
+- [[game-based-learning]]
+- [[project-based-learning]]
+- [[physics-education]]
+- [[scaffolding]]
+- [[critical-thinking]]
+- [[teacher-education]]
+- [[simulation]]
+- [[socratic-method]]
+- [[student-misconceptions-ai]]
+- [[agentic-ai]]
 
 ## Connected Articles
 
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[prompt-problems-nl-programming-mistakes]]
+- [[llm-computational-thinking-physics-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[visual-query-tracer-declarative-logic-learning]]
+- [[llm-intervention-design-cs-review]]
+- [[academic-league-of-ai-2026]]
+- [[ai-play-framework-early-childhood-2026]]
+- [[edusim-llm-robotic-simulation-education-2026]]
+- [[computational-thinking-educational-robotics-secondary-2026]]
+- [[microbit-robotics-machine-learning-teacher-training-2026]]
+- [[chat-debugging-human-ai-collaboration-circuits]]
+- [[student-misconceptions-conditionals-loops-taxonomy]]
+- [[genai-oop-programming-assessments-2026]]
+- [[game-based-gamified-robotics-education-review-2026]]
+- [[solving-vs-evaluating-genai-solutions]]
