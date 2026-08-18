@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 711 articles and 136 concepts.
+> Complete text of 713 articles and 136 concepts.
 
 # Articles
 
@@ -6064,6 +6064,59 @@ Mikael Gorsky (2026). [ASE-26: A Curriculum for Agentic Software Engineering as 
 ## Citation
 
 Isley, C., Gilbert, J., Kassos, E., Kocher, M., Nie, A., Brunskill, E., Domingue, B., Hofman, J., Legewie, J., Svoronos, T., Tuminelli, C., & Goel, S. (2025). [*Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study*](https://arxiv.org/abs/2508.08314). arXiv:2508.08314 [cs.CY]. https://doi.org/10.48550/arXiv.2508.08314
+
+---
+
+## [Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis](https://edtechdev.github.io/aied/articles/assessment-latent-structure-human-llm-2026/)
+
+> **Synthesis:** Strugatski, Zeinfeld, and Alexandron (2026) ask whether assessment instruments measure the same underlying constructs for humans and LLMs, arguing that validity-based inference from LLM performance on human-designed exams requires similarity in the latent structure of responses. Using a case study across two STEM instruments — a high-school chemistry diagnostic and the quantitative-reasoning section of a university entrance exam — they compare human response data with responses from six multimodal LLMs (OpenAI GPT-4o/GPT-5.2, Google Gemini 1.5 Pro/3 Pro, Anthropic Claude 3.5 Sonnet/4.5) using [[educational-measurement|exploratory factor analysis]], factor congruence, and resampling. They find systematic differences between human and LLM factor structures — LLM–human similarity reliably fell below the human–human baseline across both instruments. The findings call into question the [[ai-ed-evaluation|validity of evaluation practices]] that use educational assessments to make generalizable claims about AI capabilities.
+
+## The validity condition for LLM evaluation
+
+A common approach to evaluating LLMs is to administer assessment instruments designed to measure skills and competencies in humans — standardized exams, diagnostics, entrance tests — and treat performance as evidence about the LLM's underlying ability on the same constructs. From a [[assessment-validity|validity]] perspective, however, such inferences require that the relationship between observed performance and the underlying construct, established for humans, also holds for LLMs. A necessary condition for transferring score interpretations is *similarity in the latent structure* of responses to the assessment. This study directly tests that condition.
+
+## Method: comparing latent structures
+
+The authors adopt a case study design across two educational contexts: (1) a high-school chemistry diagnostic completed by several hundred Grade 11–12 students, and (2) a standalone quantitative-reasoning section from a high-stakes university entrance examination. LLM responses were generated from six multimodal models across three families. Because the assessments included figures, formulas, and visual content, multimodal input was required. The analysis combined:
+
+- **Exploratory factor analysis (EFA)** to extract latent factor structures from each group's responses;
+- **Factor congruence** to quantify similarity between human and LLM structures, using a matching algorithm (Hungarian method on absolute congruence) repeated over resamples;
+- **Resampling baselines** comparing LLM–human (LH) congruence against the human–human (HH) congruence distribution as the empirical baseline of expected structural agreement.
+
+## Key findings
+
+- **Systematic structural differences:** Across both instruments, humans and LLMs produced substantially different factor structures — LLM–human similarity remained considerably lower than human–human similarity, measured via mean matched factor congruence. This was consistent across instruments and choices of the number of factors.
+- **Factor retention diverges:** Parallel analysis retained different numbers of factors for humans vs. LLMs in both datasets (e.g., in Chemistry humans consistently retained five factors while LLMs most often retained four; in Quantitative Reasoning humans retained 7–8 vs. LLMs' five). The Kaiser criterion happened to match within each instrument, but parallel analysis revealed the divergence.
+- **HH baseline is itself variable:** Human–human similarity was far from perfect — distributions were broad rather than concentrated near 1.0 — so the main result is the *consistent gap* between HH and LH matching, not perfect human reproducibility.
+- **Implication:** Established assessment instruments may capture substantially different constructs in humans and LLMs, so performance on them is weak evidence for claims about LLM abilities on the same skills the instruments were designed to measure in humans.
+
+## Significance for psychometrically aware AI
+
+This paper contributes a *validity-oriented framework* for comparing latent structures across humans and LLMs, complementing the wiki's work on [[psychometrically-aware-ai|psychometrically aware AI]]. It shows that even when an LLM scores well on an exam, the score may not be interpretable the way a human score is — because the [[item-response-theory|latent construct structure]] is different. This is a deeper form of [[assessment-validity]] concern than raw score comparisons: it applies to [[educational-measurement]] practices, [[ai-ed-evaluation|AI evaluation]] using human benchmarks, and any [[automated-assessment|AI-based assessment]] that assumes human validity evidence transfers. For [[benchmark|LLM benchmarks]] built from human assessments, the implication is that benchmark scores may index a different underlying structure for the AI than for the humans the items were normed on.
+
+## Connected Concepts
+- [[assessment-validity]]
+- [[educational-measurement]]
+- [[psychometrically-aware-ai]]
+- [[item-response-theory]]
+- [[ai-ed-evaluation]]
+- [[llm]]
+- [[generative-ai]]
+- [[benchmark]]
+- [[automated-assessment]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[llm-psychometric-calibration-cdp]] — Aligning LLM-simulated and human examinees for psychometric calibration
+- [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
+- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test
+- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and reconceptualising assessment validity
+- [[ground-truth-reliability-aied]] — Modernizing ground truth in AIED evaluation
+
+## Citation
+Strugatski, A., Zeinfeld, L., & Alexandron, G. (2026). [*Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis*](https://arxiv.org/abs/2608.15630). arXiv:2608.15630 [cs.HC].
 
 ---
 
@@ -14909,6 +14962,58 @@ The cross-sectional design limits causal inference, and the sample is drawn from
 ## Citation
 
 Ahmed, A., & Sultan, A. (2026). [*Examining the impact of generative AI on student motivation and engagement: The mediating role of autonomy-support and autonomous motivation in education*](https://doi.org/10.3389/fpsyg.2026.1852265).
+
+---
+
+## [Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments](https://edtechdev.github.io/aied/articles/genai-oop-programming-assessments-2026/)
+
+> **Synthesis:** Lepp and Kaimre (2026) evaluate five widely used GenAI systems — ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, and M365 Copilot — against authentic [[programming-education|object-oriented programming]] tests and exams from an introductory university Java course, scoring them with the same rubric applied to students and comparing against historical cohort results and the prior year. All systems except Copilot outscored the average student cohort and often earned full marks on longer programming tasks, yet they still produced occasional non-compiling code and struggled with advanced OOP concepts — interfaces, abstract classes, and certain inheritance tasks — as well as graphics-based questions requiring image interpretation. Compared with the prior year the systems improved across most assessments while repeating several recurring error patterns. The findings offer an updated, dated benchmark of contemporary GenAI capabilities that can inform [[assessment]] design and the responsible integration of AI into [[cs-education]].
+
+## Context: GenAI and introductory programming assessment
+
+As [[generative-ai]] systems have rapidly improved at generating and explaining source code, a key open question for [[cs-education]] is how they perform on *authentic* assessments — the tests and exams instructors actually use — rather than simplified coding benchmarks. Earlier work found that early models (ChatGPT-3.5/4) could pass data-structures and introductory OOP courses but with uneven results, often below or near class averages and with persistent difficulty on [[programming-education|object-oriented]] concepts like interfaces. This study updates that picture for the 2026 generation of models using the same course and grading criteria across two consecutive years.
+
+## Design and method
+
+The study used programming tests (T1, T2) and a final examination from an introductory object-oriented programming course at the University of Tartu. The five GenAI systems were chosen based on a week-10 student survey (87.8% of respondents had used AI assistants in the course at least once). Generated solutions were assessed with the same grading criteria applied to students and compared with historical student results and the prior year's AI performance. Recurring errors were analyzed to identify systematic limitations.
+
+## Key findings
+
+- **Above-average overall performance:** All evaluated systems except M365 Copilot scored higher than the historical student cohort average on the programming tests (e.g., test 1 average ~14.61 points vs. student 13.76; test 2 ~14.87 vs. 13.39). The final exam showed all AI assistants performing nearly flawlessly on objects-and-classes items.
+- **Full marks on longer tasks:** Systems frequently obtained full marks on longer programming tasks, and ChatGPT and DeepSeek showed the strongest and most consistent performance.
+- **Persistent conceptual gaps:** Models still struggled with interfaces, abstract classes, and certain inheritance-related tasks — repeatedly, e.g., "the abstract class must implement the interface methods," "subclass cannot widen superclass method access," and marking methods `public` instead of `private`.
+- **Non-compiling code:** Systems occasionally produced code that did not compile (e.g., `a=a` causing non-compilation; confusion with list indexes).
+- **Multimodal weakness:** Performance was limited on graphics-related questions involving image interpretation — a domain where the 2026 models still underperform.
+- **Year-over-year improvement with recurring errors:** Compared with the prior year, systems improved across most assessments but repeated several error patterns (e.g., ChatGPT again marking methods `public` instead of `private`).
+
+## Implications for assessment and teaching
+
+The results support the view that contemporary GenAI can outperform the average student on authentic introductory programming assessments, making exam-based evaluation of students' individual coding ability unreliable unless assessments are redesigned. For [[automated-assessment]], the recurring conceptual errors (interfaces, abstract classes, inheritance) suggest that AI-generated solutions still require human review for advanced [[computational-thinking|OOP concepts]]. Instructors designing [[authentic-assessment|authentic]] programming assessments may need to weight tasks where models demonstrably fail — interfaces, abstract classes, multimodal image-based questions — to preserve [[assessment-validity]] and limit [[cognitive-offloading|over-reliance]] on AI. The findings also speak to [[academic-integrity]]: with models reliably exceeding the average student, detecting or deterring AI use becomes less defensible than redesigning what counts as evidence of learning.
+
+## Connected Concepts
+- [[programming-education]]
+- [[cs-education]]
+- [[generative-ai]]
+- [[automated-assessment]]
+- [[higher-ed]]
+- [[academic-integrity]]
+- [[assessment-validity]]
+- [[authentic-assessment]]
+- [[computational-thinking]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews
+- [[llm-automated-grading-programming-comparison-2026]] — Systematic comparison of LLMs for automated grading of programming
+- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
+- [[genai-performance-vs-learning]] — GenAI performance vs. learning
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
+- [[learner-ai-interaction-patterns-oop]] — Patterns of learner-AI interaction and academic performance
+- [[critical-engagement-code-completion]] — Critical engagement with code completion
+
+## Citation
+Lepp, M., & Kaimre, J. (2026). [*Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026*](https://arxiv.org/abs/2608.16318). arXiv:2608.16318 [cs.SE].
 
 ---
 
@@ -33883,6 +33988,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 
 - [[student-rationalization-ai-writing]] — It's OK Because… Student Rationalization of AI Use
@@ -34413,6 +34519,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[yasir-llm-tutoring-agents-2026]] — Three-way classification benchmark of LLM tutoring agents (Yasir et al. 2026)
@@ -34467,7 +34574,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
-- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[student-engagement|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
+- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
@@ -34856,6 +34963,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 ### Validity challenges
 
 - **Construct validity:** When students use AI on assessments, does the score reflect student knowledge or AI capability? [[genai-performance-vs-learning|Performance vs. learning]] research addresses this directly.
+- **Latent-structure validity across humans and LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] add a deeper validity condition: even when an LLM scores well, transferring human score interpretations requires similarity in the *latent structure* of responses. Comparing six multimodal LLMs to human cohorts on chemistry and quantitative-reasoning instruments, they find LLM–human factor structures consistently diverge (LLM–human congruence below the human–human baseline), so performance on a human-normed exam is weak evidence about LLM abilities on the constructs the items were designed to measure.
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the [[assessment-validity|validity]] of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
@@ -34886,6 +34994,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 - [[feedback]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
@@ -35129,6 +35238,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
@@ -35375,6 +35485,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 
@@ -35993,6 +36104,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]] and [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]] leverage AI for error identification and repair.
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
 - **Curriculum design:** [[ase-26-agentic-software-engineering-curriculum|Agentic SE curricula]] and [[reshaping-cs-education-genai|reshaping CS education]] redesign computing programs for the AI era.
+- **Authentic-assessment performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 GenAI systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 
 ### Unique affordances
 
@@ -36019,6 +36131,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
@@ -36537,6 +36650,7 @@ Educational measurement is the discipline of turning observations about learning
 - **Psychometric awareness in AI assessment:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
 - **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
+- **Latent-structure comparison:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] extend educational measurement to the LLM setting by testing whether assessment instruments show the *same factor structure* for humans and LLMs. Using EFA, factor congruence, and resampling, they show LLM–human latent structures systematically diverge across chemistry and quantitative-reasoning instruments, implying the constructs measured differ across populations — a necessary check before human validity evidence is assumed to transfer to AI.
 
 ### Connections
 
@@ -36556,6 +36670,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)
@@ -37471,6 +37586,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -38306,6 +38422,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
 - [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
 
@@ -40118,6 +40235,7 @@ Programming education is closely related to [[computational-thinking]] (the unde
 - **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula.
 - **Game-based and gamified learning:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] compares game-based learning and gamification in robotics education, which emphasizes introductory programming and modular kits.
 - **Project-based robotics:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] teaches robotics programming through an agile, semester-spanning project.
+- **Authentic assessment of GenAI (2026):** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] benchmarked five GenAI systems (ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, M365 Copilot) against authentic introductory object-oriented programming tests and exams using the same rubric as students. All systems except Copilot outscored the average cohort and often earned full marks on longer tasks, yet still produced non-compiling code and repeated errors on interfaces, abstract classes, and inheritance — plus multimodal graphics questions. The study provides a dated, rubric-anchored reference for how AI capability has evolved relative to students.
 
 Programming education connects to [[educational-robotics]], [[computational-thinking]], [[cs-education]], [[stem-education]], [[llm|AI-assisted programming]], [[game-based-learning]], [[game-based-learning|Gamification]], [[project-based-learning]], and [[embodied-learning]].
 
@@ -40138,6 +40256,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[teacher-education]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
@@ -40251,6 +40370,7 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 - **Calibration and confidence:** [[automated-assessment|Confidence-aware assessment]] and [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] ensure that AI reports meaningful, uncertainty-aware scores rather than overconfident point estimates.
 - **Difficulty prediction:** [[llm-item-difficulty-prediction|Item-difficulty prediction]] shows how LLM-based estimates must be validated against psychometric models (see [[item-response-theory]]).
 - **Measurement validity:** The concept connects to [[assessment-validity]] and [[educational-measurement]], the frameworks that define what valid, reliable AI assessment looks like.
+- **Latent-structure validity:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] show that a psychometrically aware stance must also verify that an assessment measures the *same latent construct* in LLMs as in humans. Because LLM and human response factor structures diverge on the same instruments, even well-scoring models may not be measuring the construct the exam purports to measure — a caveat for any AI assessment that borrows human validity evidence.
 
 ### Connections
 
@@ -40268,6 +40388,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
 - [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty

@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, llm]
 
@@ -17,6 +17,7 @@ As AI systems increasingly score responses, predict difficulty, and provide [[fe
 - **Calibration and confidence:** [[automated-assessment|Confidence-aware assessment]] and [[llm-psychometric-calibration-cdp|LLM psychometric calibration]] ensure that AI reports meaningful, uncertainty-aware scores rather than overconfident point estimates.
 - **Difficulty prediction:** [[llm-item-difficulty-prediction|Item-difficulty prediction]] shows how LLM-based estimates must be validated against psychometric models (see [[item-response-theory]]).
 - **Measurement validity:** The concept connects to [[assessment-validity]] and [[educational-measurement]], the frameworks that define what valid, reliable AI assessment looks like.
+- **Latent-structure validity:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] show that a psychometrically aware stance must also verify that an assessment measures the *same latent construct* in LLMs as in humans. Because LLM and human response factor structures diverge on the same instruments, even well-scoring models may not be measuring the construct the exam purports to measure — a caveat for any AI assessment that borrows human validity evidence.
 
 ### Connections
 
@@ -34,6 +35,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
 - [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty

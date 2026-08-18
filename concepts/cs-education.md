@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T18:05:58-04:00"
+updated: "2026-08-18T09:30:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai]
 
@@ -16,6 +16,7 @@ confidence: high
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]] and [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]] leverage AI for error identification and repair.
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
 - **Curriculum design:** [[ase-26-agentic-software-engineering-curriculum|Agentic SE curricula]] and [[reshaping-cs-education-genai|reshaping CS education]] redesign computing programs for the AI era.
+- **Authentic-assessment performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 GenAI systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 
 ### Unique affordances
 
@@ -42,6 +43,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
