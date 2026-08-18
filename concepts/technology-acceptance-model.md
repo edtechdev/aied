@@ -11,19 +11,19 @@ The **Technology Acceptance Model (TAM)**, proposed by Davis (1989), explains an
 
 ### Core Structure
 
-The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], trust, social influence, self-determination, and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
+The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
 
 ### Applications in the Wiki
 
 TAM is applied across the wiki to model student and teacher adoption of AI tools:
 
-- **Critical use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with the construct of *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention, which then predicts reliance across understanding, assessment, programming, and engineering-project domains.
+- **Critical use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with the construct of *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention, which then predicts reliance across understanding, assessment, programming, and engineering-project domains — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
 - **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT to model engineering students' GenAI adoption in Bangladesh, showing that job relevance, result demonstrability, and subjective norms shape acceptance (explaining 64% of usage variance).
-- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — framing [[ai-literacy]] as regulatory competence rather than acceptance.
+- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — framing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
 
 ### Limits and Extensions
 
-While TAM is effective for predicting uptake, it is less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in higher education increasingly note that TAM alone is insufficient, prompting integration with frameworks such as UTAUT and Self-Determination Theory, and the addition of post-adoption constructs like critical use, reliance, and evaluative judgment.
+While TAM is effective for predicting uptake, it is less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with frameworks such as UTAUT and Self-Determination Theory, and the addition of post-adoption constructs like critical use, reliance, and evaluative judgment.
 
 ## Connected Concepts
 
@@ -33,6 +33,9 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 - [[higher-ed]]
 - [[critical-thinking]]
 - [[ethics]]
+- [[trust]]
+- [[cognitive-offloading]]
+- [[self-determination-theory]]
 - [[research-methods-aied]]
 - [[student-modeling]]
 

@@ -7,11 +7,11 @@ tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, cul
 confidence: high
 ---
 
-The **Global South** refers to countries in Africa, Asia, Latin America, and Oceania that are often economically, politically, and historically marginalized relative to the Global North. In AI in education research, Global South contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], cultural relevance, resource constraints, and the epistemic dominance of Western, Anglophone training data.
+The **Global South** refers to countries in Africa, Asia, Latin America, and Oceania that are often economically, politically, and historically marginalized relative to the Global North. In AI in education research, Global South contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
 
 ### Why It Matters for AIED
 
-Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and institutional contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation benchmarks built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this wiki spans culturally grounded datasets, benchmarks, and technology-adoption studies.
+Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and institutional contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this wiki spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
 
 ### Applications in the Wiki
 
@@ -21,7 +21,7 @@ Mainstream AI and educational-technology research has historically been dominate
 
 ### Implications
 
-Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant pedagogy, community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning.
+Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant pedagogy, community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning and [[technology-acceptance-model|technology-acceptance]] research adapted to local conditions.
 
 ## Connected Concepts
 
@@ -33,6 +33,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[k-12]]
 - [[accessible-learning]]
 - [[technology-acceptance-model]]
+- [[benchmark]]
 
 ## Connected Articles
 
