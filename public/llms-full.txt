@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 713 articles and 135 concepts.
+> Complete text of 713 articles and 134 concepts.
 
 # Articles
 
@@ -10514,7 +10514,7 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 
 - [[intelligent-tutoring]]
 - [[benchmark]]
-- [[block-programming]]
+- [[cs-education]]
 - [[cs-education]]
 - [[feedback]]
 - [[intelligent-tutoring]]
@@ -22874,7 +22874,7 @@ Jia, Y. (2026). [*Metacognitively discordant completion and the aware pass-throu
 
 ## [Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training](https://edtechdev.github.io/aied/articles/microbit-robotics-machine-learning-teacher-training-2026/)
 
-> **Synthesis:** Sáez-López, García-Jiménez, and de Lara García-Cervigón (2026) report a quasi-experimental study of an integrated [[educational-robotics]] intervention in initial [[teacher-education]], run with 144 first-year Primary Education undergraduates from three Spanish public universities (experimental n = 105 at the University of La Laguna and the University of Oviedo; control n = 39 at the Complutense University of Madrid; 90.5% female, mean age 19.14, none with a computing/engineering background). Nine one-hour sessions (April–May 2025) combined Micro:bit with [[block-programming|MakeCode visual block programming]], the Maqueen robot, and the Nezha kit (Lego Technic) — with projects such as a dice, a light-sensitive "Light Car," and an automatic traffic-light barrier — plus an introductory machine learning task (the "Shy Panda" supervised image-classification project in Scratch 3.0 and Machine Learning for Kids). Using the 10-item Coding, Robotics, and Machine Learning Test (CRMT) and three four-point Likert attitude scales, the experimental group significantly outperformed the control on computational-concepts knowledge (M = 6.05 vs 4.51; t = 3.401, p = .001, Cohen's d = 0.638) and reported significant gains on machine learning, [[creativity]], and perceived benefits in [[math-education]] and art. The authors conclude that coding and robotics are essential in initial teacher training, where programming exposure remains limited.
+> **Synthesis:** Sáez-López, García-Jiménez, and de Lara García-Cervigón (2026) report a quasi-experimental study of an integrated [[educational-robotics]] intervention in initial [[teacher-education]], run with 144 first-year Primary Education undergraduates from three Spanish public universities (experimental n = 105 at the University of La Laguna and the University of Oviedo; control n = 39 at the Complutense University of Madrid; 90.5% female, mean age 19.14, none with a computing/engineering background). Nine one-hour sessions (April–May 2025) combined Micro:bit with [[cs-education|MakeCode visual block programming]], the Maqueen robot, and the Nezha kit (Lego Technic) — with projects such as a dice, a light-sensitive "Light Car," and an automatic traffic-light barrier — plus an introductory machine learning task (the "Shy Panda" supervised image-classification project in Scratch 3.0 and Machine Learning for Kids). Using the 10-item Coding, Robotics, and Machine Learning Test (CRMT) and three four-point Likert attitude scales, the experimental group significantly outperformed the control on computational-concepts knowledge (M = 6.05 vs 4.51; t = 3.401, p = .001, Cohen's d = 0.638) and reported significant gains on machine learning, [[creativity]], and perceived benefits in [[math-education]] and art. The authors conclude that coding and robotics are essential in initial teacher training, where programming exposure remains limited.
 
 ## Key Findings
 
@@ -22888,7 +22888,7 @@ Jia, Y. (2026). [*Metacognitively discordant completion and the aware pass-throu
 
 **Limitations.** The authors note purposive non-random sampling, a gender imbalance (90.5% female), institutional differences between experimental and control universities, self-reported attitudinal measures (Dimension 2 without baseline equivalence), and a short intervention period, which together limit causal inference and generalizability.
 
-**Control condition and training gap.** The control group received the same theoretical content ([[computational-thinking]], visual programming, and robotics/AI applications in primary education) through traditional lecture-based sessions rather than hands-on activities, isolating the effect of the practical intervention. The authors frame the study around explicit training gaps in initial teacher education — limited prior exposure to visual [[block-programming]], weak conceptual grasp of sequencing/loops/conditionals, unfamiliarity with robotics hardware, and minimal experience integrating programming across curricular areas.
+**Control condition and training gap.** The control group received the same theoretical content ([[computational-thinking]], visual programming, and robotics/AI applications in primary education) through traditional lecture-based sessions rather than hands-on activities, isolating the effect of the practical intervention. The authors frame the study around explicit training gaps in initial teacher education — limited prior exposure to visual [[cs-education]], weak conceptual grasp of sequencing/loops/conditionals, unfamiliarity with robotics hardware, and minimal experience integrating programming across curricular areas.
 
 **Implication.** Educational robotics and machine-learning activities should be embedded in [[teacher-education]] so future teachers can teach [[computational-thinking]] and [[cs-education]] in [[higher-ed]], strengthening [[educational-robotics]] across the [[cs-education]] curriculum.
 
@@ -32917,7 +32917,7 @@ Participants rated the tracer positively for building intuition about query eval
 
 ## Implications
 
-The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as pedagogical scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[block-programming]] and knowledge-graph teaching approaches — and points toward integrating such visualization into [[active-learning]] and [[cs-education]] curricula.
+The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as pedagogical scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[cs-education]] and knowledge-graph teaching approaches — and points toward integrating such visualization into [[active-learning]] and [[cs-education]] curricula.
 
 ## Connected Concepts
 
@@ -32927,7 +32927,7 @@ The study suggests declarative and logic-programming courses can adopt visual qu
 - [[higher-ed]]
 - [[computational-thinking]]
 - [[knowledge-graph]]
-- [[block-programming]]
+- [[cs-education]]
 - [[active-learning]]
 - [[cs-education]]
 - [[transfer-of-learning]]
@@ -35589,29 +35589,6 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 
 ---
 
-## [Block-Based Programming](https://edtechdev.github.io/aied/concepts/block-programming/)
-
-> **Block-based programming** — a visual programming paradigm in which learners build programs by snapping together graphical blocks (e.g., Scratch, Blockly) rather than typing text. Block-based environments lower the barrier to [[cs-education|programming]] by eliminating syntax errors and making program structure visible, which is especially valuable for beginners and younger learners. They are widely used to teach [[computational-thinking]] and to control [[educational-robotics|educational robots]].
-
-Block-based programming is closely related to [[cs-education]], [[computational-thinking]], and [[cs-education]]. In the AI era, block-based environments are increasingly combined with conversational AI agents and [[educational-robotics|embodied robot execution]] to help learners connect abstract program logic to meaningful, observable outcomes.
-
-## Connected Concepts
-
-- [[cs-education]]
-- [[computational-thinking]]
-- [[cs-education]]
-- [[educational-robotics]]
-- [[k-12]]
-- [[discipline-specific-aied]]
-
-## Connected Articles
-
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-
----
-
 ## [Cognitive Diagnosis](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/)
 
 > **Cognitive diagnosis** — the inference of a learner's latent knowledge state — the specific concepts, skills, and misconceptions they have or lack — from their responses or behavior. It is the assessment-side counterpart to [[knowledge-tracing]], focused on characterizing *what* a student knows rather than only predicting their next performance.
@@ -36109,8 +36086,9 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 
-Programming education spans introductory [[block-programming|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
+Programming education spans introductory [[cs-education|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
 
+- **Block-based visual programming:** environments like Scratch and Blockly let beginners snap together graphical blocks rather than type text, eliminating syntax errors and making program structure visible — especially valuable for younger learners and for controlling [[educational-robotics|educational robots]]. In the AI era they are increasingly combined with conversational AI agents (e.g., [[microbit-robotics-machine-learning-teacher-training-2026|Micro:bit + MakeCode in teacher training]], [[cstutorbench-slm-tutors|small-language-model tutors]]).
 - **Embodied block programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block-based programming with a conversational AI teaching agent and embodied robot execution, creating an iterative authoring–running–observing–revising loop that preserves learner [[agency]].
 - **Natural-language robot control:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots through natural-language instructions, lowering the barrier to robot programming without requiring low-level code expertise.
 - **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula, and [[microbit-robotics-machine-learning-teacher-training-2026|teacher-training research]] argues robotics and ML activities should be embedded in [[teacher-education]].
@@ -36159,12 +36137,11 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[block-programming]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
+CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
 - [[computational-thinking]]
-- [[block-programming]]
 - [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-assessment]]
@@ -36226,6 +36203,7 @@ CS education connects to [[computational-thinking]], [[block-programming]], [[st
 - [[jost-llm-programming-education-learning-outcomes]]
 - [[genai-meta-analysis-programming-learning]]
 - [[microbit-robotics-machine-learning-teacher-training-2026]]
+- [[cstutorbench-slm-tutors]]
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-engineering-computing-workforce-grey-literature-2026]]
 
@@ -36483,7 +36461,7 @@ The wiki has dedicated concept pages for several subject areas:
 
 - **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
 - **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
-- **[[cs-education]] / [[cs-education]] / [[block-programming]]** — AI for code generation, debugging, and novice programming support.
+- **[[cs-education]]** — AI for code generation, debugging, and novice programming support.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
@@ -36519,7 +36497,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -36538,7 +36516,6 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-education]]
 - [[math-education]]
 - [[physics-education]]
-- [[cs-education]]
 - [[cs-education]]
 - [[writing-education]]
 - [[language-learning]]

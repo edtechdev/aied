@@ -21,8 +21,9 @@ confidence: high
 
 ### Programming pedagogy: from blocks to embodied, game-based learning
 
-Programming education spans introductory [[block-programming|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
+Programming education spans introductory [[cs-education|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
 
+- **Block-based visual programming:** environments like Scratch and Blockly let beginners snap together graphical blocks rather than type text, eliminating syntax errors and making program structure visible — especially valuable for younger learners and for controlling [[educational-robotics|educational robots]]. In the AI era they are increasingly combined with conversational AI agents (e.g., [[microbit-robotics-machine-learning-teacher-training-2026|Micro:bit + MakeCode in teacher training]], [[cstutorbench-slm-tutors|small-language-model tutors]]).
 - **Embodied block programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block-based programming with a conversational AI teaching agent and embodied robot execution, creating an iterative authoring–running–observing–revising loop that preserves learner [[agency]].
 - **Natural-language robot control:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots through natural-language instructions, lowering the barrier to robot programming without requiring low-level code expertise.
 - **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula, and [[microbit-robotics-machine-learning-teacher-training-2026|teacher-training research]] argues robotics and ML activities should be embedded in [[teacher-education]].
@@ -71,12 +72,11 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[block-programming]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
+CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
 - [[computational-thinking]]
-- [[block-programming]]
 - [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-assessment]]
@@ -138,5 +138,6 @@ CS education connects to [[computational-thinking]], [[block-programming]], [[st
 - [[jost-llm-programming-education-learning-outcomes]]
 - [[genai-meta-analysis-programming-learning]]
 - [[microbit-robotics-machine-learning-teacher-training-2026]]
+- [[cstutorbench-slm-tutors]]
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-engineering-computing-workforce-grey-literature-2026]]

@@ -21,7 +21,7 @@ Participants rated the tracer positively for building intuition about query eval
 
 ## Implications
 
-The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as pedagogical scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[block-programming]] and knowledge-graph teaching approaches — and points toward integrating such visualization into [[active-learning]] and [[cs-education]] curricula.
+The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as pedagogical scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[cs-education]] and knowledge-graph teaching approaches — and points toward integrating such visualization into [[active-learning]] and [[cs-education]] curricula.
 
 ## Connected Concepts
 
@@ -31,7 +31,7 @@ The study suggests declarative and logic-programming courses can adopt visual qu
 - [[higher-ed]]
 - [[computational-thinking]]
 - [[knowledge-graph]]
-- [[block-programming]]
+- [[cs-education]]
 - [[active-learning]]
 - [[cs-education]]
 - [[transfer-of-learning]]
