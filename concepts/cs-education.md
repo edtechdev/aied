@@ -1,44 +1,89 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-18T10:00:00-04:00"
 type: concept
-tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai]
+tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
 confidence: high
 ---
 
-> **CS Education** — computer science education is the most-researched STEM subfield in the wiki, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications.
+> **CS Education** — computer science education is the most-researched STEM subfield in the wiki, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
 
 ### AI in CS education
 
 - **Code generation and completion:** [[code-review-genai-cs1|CS1 code review]], [[dura-llm-cs2|DURA for CS2]], and [[prompt-problems-nl-programming-mistakes|NL programming mistakes]] examine how students use AI for code generation and what they learn from it.
-- **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]] and [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]] leverage AI for error identification and repair.
-- **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
-- **Curriculum design:** [[ase-26-agentic-software-engineering-curriculum|Agentic SE curricula]] and [[reshaping-cs-education-genai|reshaping CS education]] redesign computing programs for the AI era.
+- **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
+- **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
+- **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
+- **Misconception modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **Authentic-assessment performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 GenAI systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 
-### Unique affordances
+### Curriculum transformation in the AI era
 
-CS education's unique position — students learn to build the very tools they use — creates both opportunities (meta-cognitive awareness of AI limitations) and risks ([[cognitive-offloading|Over-Reliance]] on AI-generated code). [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this duality.
+The question "what should students still learn by hand?" now reshapes computing programs.
+
+- **From implementation to verification:** [[reshaping-cs-education-genai|Reshaping Undergraduate CS Education]] argues that as GenAI automates implementation-level programming, debugging, and testing, curricula must shift toward *understanding and verifying AI-generated artifacts*, preserving system design, abstraction, and critical evaluation while de-emphasizing low-level implementation details. This aligns with [[ai-literacy]] frameworks that prize evaluation over generation.
+- **Agentic software engineering as a discipline:** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formalizes directing agents rather than writing code — teaching auditability, context engineering, verification, multi-agent workflows, and AgentOps — and positions [[agentic-ai|agentic AI]] competence as a structured, scaffolded curriculum rather than syntax mastery.
+- **New pedagogies and assessment models:** [[test-driven-ai-assisted-learning|Test-Driven AI-Assisted Learning]] replaces lectures with self-directed AI-assisted study gated by weekly closed-book tests, preserving individual accountability while AI agents scale material production and marking under human oversight.
+
+### AI literacy, agency, and the risk of over-reliance
+
+Because programming is where AI assistance is most powerful, it is also where the failure modes are most visible.
+
+- **Trust ≠ appropriate reliance:** [[trust-reliance-ai-education-2026|Trust and reliance on AI (Pitts et al.)]] find that higher trust in an AI assistant predicted *worse* discrimination between correct and misleading suggestions during Python problem-solving — moderated by [[ai-literacy]] and need for cognition. Calibration, not confidence, is the goal.
+- **Epistemic AI literacy:** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]] shows that in student-AI co-programming, 78.8% of interactions relied on non-mastery-oriented aims and unreliable strategies (outsourcing, verification-seeking), with only 11.1% showing high epistemic engagement — genuine learning rarely emerges without deliberate design support.
+- **Teachable agents and productive practice:** [[chatgpt-teachable-agent-programming-lbt-2024|Learning-by-teaching with ChatGPT]] improved knowledge gains and code quality but undermined error-correction practice because the agent is too competent — a design lesson: make agents *deliberately fallible* so debugging is preserved.
+- **Assistance governance:** [[llm-programming-support-governance-cs-education|a scoping review of 90 systems]] introduces the **PEA framework** (Policy, Enforcement, Authority) for bounding and controlling LLM assistance — a comparative vocabulary for designing scaffolding that limits over-reliance.
+- **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
+
+### Equity, culture, and who gets into computing
+
+- **Broadening participation:** [[suacode-african-students-motivations|SuaCode]] documents motivations for smartphone-based coding among African students (fewer than 1% of secondary-school leavers have fundamental coding skills), informing accessible AI-supported MOOCs for [[equity-in-ai-education|low-resource contexts]].
+- **Neurodivergence and collaboration:** [[neurodivergent-computing-students|Neurodivergent computing students]] report discomfort with ambiguous collaboration structures; structured assignments, smaller consistent teams, and explicit roles improve accessibility — design lessons for the AI tools entering computing classrooms.
+- **Culture shapes perceived ethics:** [[cross-cultural-student-perceptions-genai-computing|Canadian vs. South Korean computing students]] judged identical AI-assisted coding practices differently despite functionally identical policies — policy harmonization does not produce perception harmonization, an [[academic-integrity]] and [[equity-in-ai-education]] concern.
+- **Collaboration transparency:** [[student-perception-ai-use-collaboration|Graf et al.]] find that partners' misaligned beliefs about each other's AI use predict lower project scores, especially for lower-performing students — transparency mechanisms (disclosures, shared logs) may be needed in collaborative programming.
+
+### Ethics education and the workforce
+
+- **Ethics-to-behavior gap:** [[cost-of-ethics-crisis-cs-ethics-education|the "Cost-of-Ethics Crisis"]] shows CS students, despite contemporary ethics education, prioritize compensation, location, and culture over ethical concerns in job searches — a critical gap in how ethics instruction transfers to behavior.
+- **Workforce reshaping:** [[ai-engineering-computing-workforce-grey-literature-2026|a systematic review of U.S. grey literature]] frames the "Dual Train Problem" — rapid AI change racing institutional adaptation — and urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy).
+
+### Practical guidance for CS educators
+
+- **Design assessments AI can't coast through:** exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) rather than banning tools outright.
+- **Calibrate trust, don't just build it:** teach students to verify and discriminate AI output; AI literacy and need for cognition moderate whether trust becomes appropriate reliance.
+- **Keep debugging practice alive:** choose AI tools (or deliberately fallible agents) that leave error-correction and productive struggle intact.
+- **Make agent use explicit and governed:** define policy, enforcement, and authority for AI assistance ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
+- **Personalize AI-generated media:** treat AI visualizations/traces as one tool among many, deployed adaptively, not as uniform replacements ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
+- **Structure collaboration for all learners:** smaller consistent teams, explicit roles, and AI-use transparency support both neurodivergent learners and fair collaboration.
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[higher-ed]], and [[k-12]]. It is the domain where AIED tools are both used and built.
+CS education connects to [[computational-thinking]], [[programming-education]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[collaborative-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
 - [[computational-thinking]]
+- [[programming-education]]
 - [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-assessment]]
 - [[prompt-engineering]]
+- [[ai-literacy]]
+- [[agentic-ai]]
+- [[curriculum-design]]
+- [[human-ai-collaboration]]
 - [[higher-ed]]
 - [[k-12]]
+- [[professional-training]]
 - [[llm]]
 - [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
+- [[academic-integrity]]
+- [[equity-in-ai-education]]
+- [[collaborative-learning]]
 - [[discipline-specific-aied]]
 - [[teacher-education]]
 
@@ -54,3 +99,20 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[reshaping-cs-education-genai]]
 - [[critical-engagement-code-completion]]
+- [[ai-generated-traces-novice-programmers]]
+- [[student-misconceptions-conditionals-loops-taxonomy]]
+- [[trust-reliance-ai-education-2026]]
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]]
+- [[chatgpt-teachable-agent-programming-lbt-2024]]
+- [[llm-programming-support-governance-cs-education]]
+- [[llm-automated-grading-programming-comparison-2026]]
+- [[golrang-propact-pair-programming-2026]]
+- [[suacode-african-students-motivations]]
+- [[neurodivergent-computing-students]]
+- [[cross-cultural-student-perceptions-genai-computing]]
+- [[student-perception-ai-use-collaboration]]
+- [[cost-of-ethics-crisis-cs-ethics-education]]
+- [[llm-computational-thinking-physics-2026]]
+- [[test-driven-ai-assisted-learning]]
+- [[prompt-coach-agentic-tutor-prompt-engineering]]
+- [[ai-engineering-computing-workforce-grey-literature-2026]]
