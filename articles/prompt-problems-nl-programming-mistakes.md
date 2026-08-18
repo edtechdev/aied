@@ -21,7 +21,7 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 - [[generative-ai]]
 - [[prompt-engineering]]
 - [[student-misconceptions-ai]]
-- [[programming-education]]
+- [[cs-education]]
 ## Connected Articles
 
 - [[prompt-based-programming-lesson]]

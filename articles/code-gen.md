@@ -70,7 +70,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[rag]]
 - [[automated-assessment]]
 - [[automated-question-generation]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[llm]]
 - [[student-misconceptions-ai]]

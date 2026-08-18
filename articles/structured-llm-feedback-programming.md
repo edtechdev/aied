@@ -22,7 +22,7 @@ This study provides empirical evidence on how LLM-generated feedback structure a
 - [[feedback]]
 - [[ai-feedback-quality]]
 - [[automated-assessment]]
-- [[programming-education]]
+- [[cs-education]]
 - [[scaffolding]]
 - [[formative-assessment]]
 ## Connected Articles

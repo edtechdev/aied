@@ -38,7 +38,7 @@ Codify represents the trend toward LLM-powered tutoring systems that combine con
 - [[higher-ed]]
 - [[rag]]
 - [[intelligent-tutoring]]
-- [[programming-education]]
+- [[cs-education]]
 - [[socratic-method]]
 - [[knowledge-tracing]]
 ## Connected Articles

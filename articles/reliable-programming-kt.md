@@ -33,7 +33,7 @@ The paper's central message is methodological: performance claims in [[knowledge
 - [[adaptive-learning]]
 - [[cognitive-diagnosis]]
 - [[learning-analytics]]
-- [[programming-education]]
+- [[cs-education]]
 - [[automated-assessment]]
 
 ## Connected Articles

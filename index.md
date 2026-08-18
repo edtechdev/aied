@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-18 | **Total pages:** 849
+**Last updated:** 2026-08-18 | **Total pages:** 848
 ---
 ## Quick Links
 
@@ -653,7 +653,6 @@
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
 - [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
 - [[professional-training]] — Professional Training and AI
-- [[programming-education]] — Programming Education
 - [[programming-its]] — Programming Intelligent Tutoring Systems
 - [[project-based-learning]] — Project-Based Learning
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers

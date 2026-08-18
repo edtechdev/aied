@@ -20,7 +20,7 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 - [[academic-integrity]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[llm]]
 ## Connected Articles

@@ -36,7 +36,7 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 - [[metacognition]]
 - [[agentic-ai]]
 - [[higher-ed]]
-- [[programming-education]]
+- [[cs-education]]
 ## Connected Articles
 
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing

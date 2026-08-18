@@ -31,7 +31,7 @@ The finding that most student-GenAI interactions exhibit weak epistemic engageme
 
 ## Connected Concepts
 - [[critical-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 

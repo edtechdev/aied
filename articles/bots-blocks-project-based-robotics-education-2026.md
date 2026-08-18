@@ -23,7 +23,7 @@ This is a **design/case presentation** of a project-based learning framework for
 
 ## Implications for AI in Education
 
-The paper demonstrates how [[project-based-learning]] can address the theory-practice gap in [[higher-ed]] robotics education by giving students hands-on experience with robots over a sustained, agile project. It connects to [[educational-robotics]], [[active-learning]], [[computational-thinking]], and [[programming-education]]. For educators, it offers a model for structuring semester-long robotics projects that prepare students for industry, emphasizing practical experience alongside theory.
+The paper demonstrates how [[project-based-learning]] can address the theory-practice gap in [[higher-ed]] robotics education by giving students hands-on experience with robots over a sustained, agile project. It connects to [[educational-robotics]], [[active-learning]], [[computational-thinking]], and [[cs-education]]. For educators, it offers a model for structuring semester-long robotics projects that prepare students for industry, emphasizing practical experience alongside theory.
 
 ## Limitations
 
@@ -36,7 +36,7 @@ The paper presents a framework and a case example rather than a rigorous compara
 - [[higher-ed]]
 - [[active-learning]]
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 

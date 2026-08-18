@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 713 articles and 136 concepts.
+> Complete text of 713 articles and 135 concepts.
 
 # Articles
 
@@ -1085,7 +1085,7 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - [[curriculum-design]]
 - [[metacognition]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[ai-literacy]]
 - [[scaffolding]]
 
@@ -1275,7 +1275,7 @@ As AI coding agents take over substantial implementation work, developers increa
 
 ## Connected Concepts
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[human-ai-collaboration]]
 
 - [[cognitive-offloading]]
@@ -3753,7 +3753,7 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 - [[higher-ed]]
 - [[cs-education]]
 - [[curriculum-design]]
-- [[programming-education]]
+- [[cs-education]]
 - [[digital-divide]]
 ## Connected Articles
 
@@ -6006,7 +6006,7 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 - [[metacognition]]
 - [[agentic-ai]]
 - [[higher-ed]]
-- [[programming-education]]
+- [[cs-education]]
 ## Connected Articles
 
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
@@ -6329,7 +6329,7 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 - [[formative-assessment]]
 - [[ai-feedback-quality]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[automated-assessment]]
 ## Connected Articles
 
@@ -7014,7 +7014,7 @@ This is a **design/case presentation** of a project-based learning framework for
 
 ## Implications for AI in Education
 
-The paper demonstrates how [[project-based-learning]] can address the theory-practice gap in [[higher-ed]] robotics education by giving students hands-on experience with robots over a sustained, agile project. It connects to [[educational-robotics]], [[active-learning]], [[computational-thinking]], and [[programming-education]]. For educators, it offers a model for structuring semester-long robotics projects that prepare students for industry, emphasizing practical experience alongside theory.
+The paper demonstrates how [[project-based-learning]] can address the theory-practice gap in [[higher-ed]] robotics education by giving students hands-on experience with robots over a sustained, agile project. It connects to [[educational-robotics]], [[active-learning]], [[computational-thinking]], and [[cs-education]]. For educators, it offers a model for structuring semester-long robotics projects that prepare students for industry, emphasizing practical experience alongside theory.
 
 ## Limitations
 
@@ -7027,7 +7027,7 @@ The paper presents a framework and a case example rather than a rigorous compara
 - [[higher-ed]]
 - [[active-learning]]
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 
@@ -7199,7 +7199,7 @@ As generative AI becomes central to software development, CS education is shifti
 - [[metacognition]]
 - [[student-experience]]
 - [[formative-assessment]]
-- [[programming-education]]
+- [[cs-education]]
 - [[critical-thinking]]
 ## Connected Articles
 
@@ -7949,7 +7949,7 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 - [[academic-integrity]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[llm]]
 ## Connected Articles
@@ -7992,7 +7992,7 @@ Learning-by-teaching is an effective active-learning strategy, but traditional t
 
 - [[learning-by-teaching]]
 - [[generative-ai]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[self-regulated-learning]]
 - [[scaffolding]]
@@ -8463,7 +8463,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[rag]]
 - [[automated-assessment]]
 - [[automated-question-generation]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[llm]]
 - [[student-misconceptions-ai]]
@@ -8501,7 +8501,7 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[teacher-role]]
 - [[cs-education]]
 - [[generative-ai]]
-- [[programming-education]]
+- [[cs-education]]
 - [[assessment]]
 - [[higher-ed]]
 ## Connected Articles
@@ -8545,7 +8545,7 @@ Codify represents the trend toward LLM-powered tutoring systems that combine con
 - [[higher-ed]]
 - [[rag]]
 - [[intelligent-tutoring]]
-- [[programming-education]]
+- [[cs-education]]
 - [[socratic-method]]
 - [[knowledge-tracing]]
 ## Connected Articles
@@ -9138,7 +9138,7 @@ As AI code tools become integrated into programming environments, the emphasis o
 - [[cs-education]]
 - [[higher-ed]]
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[prompt-engineering]]
 - [[student-experience]]
 
@@ -9611,7 +9611,7 @@ The finding that most student-GenAI interactions exhibit weak epistemic engageme
 
 ## Connected Concepts
 - [[critical-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 
@@ -10083,7 +10083,7 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 - [[critical-thinking]]
 - [[formative-assessment]]
 - [[cognitive-offloading]]
-- [[programming-education]]
+- [[cs-education]]
 - [[stem-education]]
 - [[student-engagement]]
 - [[student-experience]]
@@ -10782,7 +10782,7 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 - [[feedback]]
 - [[learning-analytics]]
 - [[student-experience]]
-- [[programming-education]]
+- [[cs-education]]
 - [[computational-thinking]]
 
 ## Connected Articles
@@ -11184,7 +11184,7 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Connected Concepts
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[llm]]
 - [[generative-ai]]
 - [[scaffolding]]
@@ -11637,7 +11637,7 @@ To make evaluation provenance explicit the authors build BILearn-CS, a 600-query
 - [[cognitive-offloading]]
 - [[pedagogical-llm-training]]
 - [[rag]]
-- [[programming-education]]
+- [[cs-education]]
 - [[intelligent-tutoring]]
 - [[benchmark]]
 - [[generative-ai]]
@@ -11762,7 +11762,7 @@ This is a **platform development and evaluation study**. The researchers designe
 
 ## Implications for AI in Education
 
-EduSim-LLM shows how [[llm|large language models]] can lower the barrier to [[educational-robotics]] by enabling natural-language control of simulated robots, making robotics accessible to [[programming-education|beginner programmers]]. It connects to [[computational-thinking]], robotic simulation, and the educational use of embodied AI. For educators, it demonstrates a pathway for teaching robot programming without requiring low-level code expertise, supporting [[k-12]] and introductory higher-education robotics learning through conversational control.
+EduSim-LLM shows how [[llm|large language models]] can lower the barrier to [[educational-robotics]] by enabling natural-language control of simulated robots, making robotics accessible to [[cs-education|beginner programmers]]. It connects to [[computational-thinking]], robotic simulation, and the educational use of embodied AI. For educators, it demonstrates a pathway for teaching robot programming without requiring low-level code expertise, supporting [[k-12]] and introductory higher-education robotics learning through conversational control.
 
 ## Limitations
 
@@ -11772,7 +11772,7 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 
 - [[educational-robotics]]
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[computational-thinking]]
 - [[human-robot-interaction]]
 - [[simulation]]
@@ -12897,7 +12897,7 @@ LLM tools give students rapid solutions but may reduce opportunities for product
 - [[learning-by-teaching]]
 - [[generative-ai]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[desirable-difficulties]]
 - [[scaffolding]]
 - [[higher-ed]]
@@ -13320,7 +13320,7 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 - [[feedback]]
 - [[active-learning]]
 - [[student-experience]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[cognitive-offloading]]
 ## Connected Articles
@@ -13655,7 +13655,7 @@ This is a **PRISMA-aligned systematic literature review** with a comparative syn
 
 ## Implications for AI in Education
 
-The review provides evidence-based guidance for using [[game-based-learning]] and [[game-based-learning|Gamification]] in [[educational-robotics]]. It shows that GBL suits informal settings while gamification works well in formal classrooms and supports [[project-based-learning]], helping educators choose the right engagement strategy for their context. It connects to [[computational-thinking]], [[programming-education]], and both [[k-12]] and [[higher-ed]] robotics teaching, and highlights that robotics education emphasizes introductory programming and modular kits, with room for more advanced software adoption.
+The review provides evidence-based guidance for using [[game-based-learning]] and [[game-based-learning|Gamification]] in [[educational-robotics]]. It shows that GBL suits informal settings while gamification works well in formal classrooms and supports [[project-based-learning]], helping educators choose the right engagement strategy for their context. It connects to [[computational-thinking]], [[cs-education]], and both [[k-12]] and [[higher-ed]] robotics teaching, and highlights that robotics education emphasizes introductory programming and modular kits, with room for more advanced software adoption.
 
 ## Limitations
 
@@ -13668,7 +13668,7 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 - [[game-based-learning]]
 - [[project-based-learning]]
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[k-12]]
 
 ## Connected Articles
@@ -14792,7 +14792,7 @@ The findings have implications beyond programming — the productivity-learning 
 - [[stem-education]]
 - [[transfer-of-learning]]
 - [[meta-analysis-systematic-review]]
-- [[programming-education]]
+- [[cs-education]]
 - [[learning-gains]]
 - [[cognitive-offloading]]
 ## Connected Articles
@@ -14967,11 +14967,11 @@ Ahmed, A., & Sultan, A. (2026). [*Examining the impact of generative AI on stude
 
 ## [Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments](https://edtechdev.github.io/aied/articles/genai-oop-programming-assessments-2026/)
 
-> **Synthesis:** Lepp and Kaimre (2026) evaluate five widely used GenAI systems — ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, and M365 Copilot — against authentic [[programming-education|object-oriented programming]] tests and exams from an introductory university Java course, scoring them with the same rubric applied to students and comparing against historical cohort results and the prior year. All systems except Copilot outscored the average student cohort and often earned full marks on longer programming tasks, yet they still produced occasional non-compiling code and struggled with advanced OOP concepts — interfaces, abstract classes, and certain inheritance tasks — as well as graphics-based questions requiring image interpretation. Compared with the prior year the systems improved across most assessments while repeating several recurring error patterns. The findings offer an updated, dated benchmark of contemporary GenAI capabilities that can inform [[assessment]] design and the responsible integration of AI into [[cs-education]].
+> **Synthesis:** Lepp and Kaimre (2026) evaluate five widely used GenAI systems — ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, and M365 Copilot — against authentic [[cs-education|object-oriented programming]] tests and exams from an introductory university Java course, scoring them with the same rubric applied to students and comparing against historical cohort results and the prior year. All systems except Copilot outscored the average student cohort and often earned full marks on longer programming tasks, yet they still produced occasional non-compiling code and struggled with advanced OOP concepts — interfaces, abstract classes, and certain inheritance tasks — as well as graphics-based questions requiring image interpretation. Compared with the prior year the systems improved across most assessments while repeating several recurring error patterns. The findings offer an updated, dated benchmark of contemporary GenAI capabilities that can inform [[assessment]] design and the responsible integration of AI into [[cs-education]].
 
 ## Context: GenAI and introductory programming assessment
 
-As [[generative-ai]] systems have rapidly improved at generating and explaining source code, a key open question for [[cs-education]] is how they perform on *authentic* assessments — the tests and exams instructors actually use — rather than simplified coding benchmarks. Earlier work found that early models (ChatGPT-3.5/4) could pass data-structures and introductory OOP courses but with uneven results, often below or near class averages and with persistent difficulty on [[programming-education|object-oriented]] concepts like interfaces. This study updates that picture for the 2026 generation of models using the same course and grading criteria across two consecutive years.
+As [[generative-ai]] systems have rapidly improved at generating and explaining source code, a key open question for [[cs-education]] is how they perform on *authentic* assessments — the tests and exams instructors actually use — rather than simplified coding benchmarks. Earlier work found that early models (ChatGPT-3.5/4) could pass data-structures and introductory OOP courses but with uneven results, often below or near class averages and with persistent difficulty on [[cs-education|object-oriented]] concepts like interfaces. This study updates that picture for the 2026 generation of models using the same course and grading criteria across two consecutive years.
 
 ## Design and method
 
@@ -14991,7 +14991,7 @@ The study used programming tests (T1, T2) and a final examination from an introd
 The results support the view that contemporary GenAI can outperform the average student on authentic introductory programming assessments, making exam-based evaluation of students' individual coding ability unreliable unless assessments are redesigned. For [[automated-assessment]], the recurring conceptual errors (interfaces, abstract classes, inheritance) suggest that AI-generated solutions still require human review for advanced [[computational-thinking|OOP concepts]]. Instructors designing [[authentic-assessment|authentic]] programming assessments may need to weight tasks where models demonstrably fail — interfaces, abstract classes, multimodal image-based questions — to preserve [[assessment-validity]] and limit [[cognitive-offloading|over-reliance]] on AI. The findings also speak to [[academic-integrity]]: with models reliably exceeding the average student, detecting or deterring AI use becomes less defensible than redesigning what counts as evidence of learning.
 
 ## Connected Concepts
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[generative-ai]]
 - [[automated-assessment]]
@@ -18685,7 +18685,7 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 ## Connected Concepts
 
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[cognitive-offloading]]
 - [[generative-ai]]
@@ -19387,7 +19387,7 @@ The absence of performance differences across usage clusters underscores the nee
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[socratic-method]]
-- [[programming-education]]
+- [[cs-education]]
 - [[generative-ai]]
 - [[learning-analytics]]
 - [[student-experience]]
@@ -20402,11 +20402,11 @@ Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). [Exploring the 
 
 **Limited human alignment.** Despite strong internal agreement among models, alignment with the human teacher's grades remained limited — even the best-performing model achieved only moderate reliability, underscoring the need for human oversight in [[cs-education]] deployment.
 
-**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[programming-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
+**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[cs-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
 
 ## Connected Concepts
 
-- [[programming-education]]
+- [[cs-education]]
 - [[automated-assessment]]
 - [[llm]]
 - [[cs-education]]
@@ -20869,7 +20869,7 @@ Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students 
 - [[active-learning]]
 - [[student-experience]]
 - [[stem-education]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 
@@ -21141,7 +21141,7 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 - [[formative-assessment]]
 - [[stem-education]]
 - [[higher-ed]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 
@@ -21434,7 +21434,7 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[llm]]
 - [[cs-education]]
 - [[scaffolding]]
-- [[programming-education]]
+- [[cs-education]]
 - [[feedback]]
 ## Connected Articles
 
@@ -22890,12 +22890,12 @@ Jia, Y. (2026). [*Metacognitively discordant completion and the aware pass-throu
 
 **Control condition and training gap.** The control group received the same theoretical content ([[computational-thinking]], visual programming, and robotics/AI applications in primary education) through traditional lecture-based sessions rather than hands-on activities, isolating the effect of the practical intervention. The authors frame the study around explicit training gaps in initial teacher education — limited prior exposure to visual [[block-programming]], weak conceptual grasp of sequencing/loops/conditionals, unfamiliarity with robotics hardware, and minimal experience integrating programming across curricular areas.
 
-**Implication.** Educational robotics and machine-learning activities should be embedded in [[teacher-education]] so future teachers can teach [[computational-thinking]] and [[programming-education]] in [[higher-ed]], strengthening [[educational-robotics]] across the [[cs-education]] curriculum.
+**Implication.** Educational robotics and machine-learning activities should be embedded in [[teacher-education]] so future teachers can teach [[computational-thinking]] and [[cs-education]] in [[higher-ed]], strengthening [[educational-robotics]] across the [[cs-education]] curriculum.
 
 ## Connected Concepts
 
 - [[teacher-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[educational-robotics]]
 - [[computational-thinking]]
 - [[cs-education]]
@@ -25247,7 +25247,7 @@ This work connects to core wiki themes: [[knowledge-tracing]] [[personalized-lea
 - [[personalized-learning]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cs-education]]
 ## Connected Articles
 
@@ -26265,7 +26265,7 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 
 - [[formative-assessment]]
 - [[intelligent-tutoring]]
-- [[programming-education]]
+- [[cs-education]]
 - [[scaffolding]]
 - [[adaptive-learning]]
 - [[cs-education]]
@@ -26293,7 +26293,7 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 - [[teacher-role]]
 - [[higher-ed]]
 - [[prompt-engineering]]
-- [[programming-education]]
+- [[cs-education]]
 - [[self-efficacy]]
 - [[professional-training]]
 ## Connected Articles
@@ -26466,7 +26466,7 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 - [[generative-ai]]
 - [[prompt-engineering]]
 - [[student-misconceptions-ai]]
-- [[programming-education]]
+- [[cs-education]]
 ## Connected Articles
 
 - [[prompt-based-programming-lesson]]
@@ -27086,7 +27086,7 @@ The paper's central message is methodological: performance claims in [[knowledge
 - [[adaptive-learning]]
 - [[cognitive-diagnosis]]
 - [[learning-analytics]]
-- [[programming-education]]
+- [[cs-education]]
 - [[automated-assessment]]
 
 ## Connected Articles
@@ -27208,7 +27208,7 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[llm]]
-- [[programming-education]]
+- [[cs-education]]
 - [[curriculum-design]]
 - [[critical-thinking]]
 - [[computational-thinking]]
@@ -27605,7 +27605,7 @@ This is a **design-based development and deployment study**. The researchers des
 
 ## Implications for AI in Education
 
-RoboBlockly Studio addresses the challenge of making [[computational-thinking]] concrete by grounding abstract block programs in embodied robot execution and scaffolding reflection with a conversational AI agent. It connects to [[programming-education]], [[programming-education|block-based programming]], [[educational-robotics]], and [[llm|LLM-based]] learning assistants. The design emphasis on **preserving learner agency** and **transparency** speaks to responsible AI tutoring design, and the embodied feedback loop supports learners in connecting code to real outcomes in [[k-12]] settings.
+RoboBlockly Studio addresses the challenge of making [[computational-thinking]] concrete by grounding abstract block programs in embodied robot execution and scaffolding reflection with a conversational AI agent. It connects to [[cs-education]], [[cs-education|block-based programming]], [[educational-robotics]], and [[llm|LLM-based]] learning assistants. The design emphasis on **preserving learner agency** and **transparency** speaks to responsible AI tutoring design, and the embodied feedback loop supports learners in connecting code to real outcomes in [[k-12]] settings.
 
 ## Limitations
 
@@ -27614,7 +27614,7 @@ The deployment involved 32 high school students, and detailed learning-outcome d
 ## Connected Concepts
 
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[educational-robotics]]
 - [[llm]]
 - [[embodied-learning]]
@@ -28744,7 +28744,7 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 
 ## Connected Concepts
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[simulating-students]]
 
 - [[learning-by-teaching]]
@@ -29111,7 +29111,7 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 - [[learning-by-teaching]]
 - [[generative-ai]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[active-learning]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
@@ -29210,7 +29210,7 @@ SocratiCode demonstrates a participatory design evolution from directive AI tuto
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[human-in-the-loop-ai]]
-- [[programming-education]]
+- [[cs-education]]
 - [[k-12]]
 - [[socratic-method]]
 - [[scaffolding]]
@@ -29749,7 +29749,7 @@ This study provides empirical evidence on how LLM-generated feedback structure a
 - [[feedback]]
 - [[ai-feedback-quality]]
 - [[automated-assessment]]
-- [[programming-education]]
+- [[cs-education]]
 - [[scaffolding]]
 - [[formative-assessment]]
 ## Connected Articles
@@ -29949,7 +29949,7 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 - [[formative-assessment]]
 - [[assessment-validity]]
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[cognitive-diagnosis]]
 ## Connected Articles
 
@@ -31970,7 +31970,7 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[faculty-development]]
-- [[programming-education]]
+- [[cs-education]]
 ## Connected Articles
 
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
@@ -32733,7 +32733,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[teacher-role]]
 - [[academic-integrity]]
 - [[learning-analytics]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 
@@ -32880,7 +32880,7 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 
 ## Connected Concepts
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[open-source]]
 - [[automated-assessment]]
 
@@ -32917,7 +32917,7 @@ Participants rated the tracer positively for building intuition about query eval
 
 ## Implications
 
-The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as pedagogical scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[block-programming]] and knowledge-graph teaching approaches — and points toward integrating such visualization into [[active-learning]] and [[programming-education]] curricula.
+The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as pedagogical scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[block-programming]] and knowledge-graph teaching approaches — and points toward integrating such visualization into [[active-learning]] and [[cs-education]] curricula.
 
 ## Connected Concepts
 
@@ -32929,7 +32929,7 @@ The study suggests declarative and logic-programming courses can adopt visual qu
 - [[knowledge-graph]]
 - [[block-programming]]
 - [[active-learning]]
-- [[programming-education]]
+- [[cs-education]]
 - [[transfer-of-learning]]
 ## Connected Articles
 
@@ -35591,13 +35591,13 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 
 ## [Block-Based Programming](https://edtechdev.github.io/aied/concepts/block-programming/)
 
-> **Block-based programming** — a visual programming paradigm in which learners build programs by snapping together graphical blocks (e.g., Scratch, Blockly) rather than typing text. Block-based environments lower the barrier to [[programming-education|programming]] by eliminating syntax errors and making program structure visible, which is especially valuable for beginners and younger learners. They are widely used to teach [[computational-thinking]] and to control [[educational-robotics|educational robots]].
+> **Block-based programming** — a visual programming paradigm in which learners build programs by snapping together graphical blocks (e.g., Scratch, Blockly) rather than typing text. Block-based environments lower the barrier to [[cs-education|programming]] by eliminating syntax errors and making program structure visible, which is especially valuable for beginners and younger learners. They are widely used to teach [[computational-thinking]] and to control [[educational-robotics|educational robots]].
 
-Block-based programming is closely related to [[programming-education]], [[computational-thinking]], and [[cs-education]]. In the AI era, block-based environments are increasingly combined with conversational AI agents and [[educational-robotics|embodied robot execution]] to help learners connect abstract program logic to meaningful, observable outcomes.
+Block-based programming is closely related to [[cs-education]], [[computational-thinking]], and [[cs-education]]. In the AI era, block-based environments are increasingly combined with conversational AI agents and [[educational-robotics|embodied robot execution]] to help learners connect abstract program logic to meaningful, observable outcomes.
 
 ## Connected Concepts
 
-- [[programming-education]]
+- [[cs-education]]
 - [[computational-thinking]]
 - [[cs-education]]
 - [[educational-robotics]]
@@ -35842,7 +35842,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 ### CT and AI education
 
 - **CT as AI literacy foundation:** Understanding how AI systems decompose problems and apply algorithms is foundational to [[ai-literacy]]. [[computational-thinking-ai-agent-creation|Agent creation studies]] show how building AI agents develops CT skills.
-- **Programming education:** [[cs-education]] and [[prompt-problems-nl-programming-mistakes|prompting studies]] connect CT to [[programming-education|programming instruction]].
+- **Programming education:** [[cs-education]] and [[prompt-problems-nl-programming-mistakes|prompting studies]] connect CT to [[cs-education|programming instruction]].
 - **K-12 integration:** [[k-12]] and [[stem-education]] curricula increasingly embed CT as a core competency.
 
 ### Connections
@@ -36096,37 +36096,97 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ## [CS Education and AI](https://edtechdev.github.io/aied/concepts/cs-education/)
 
-> **CS Education** — computer science education is the most-researched STEM subfield in the wiki, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications.
+> **CS Education** — computer science education is the most-researched STEM subfield in the wiki, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
 
 ### AI in CS education
 
 - **Code generation and completion:** [[code-review-genai-cs1|CS1 code review]], [[dura-llm-cs2|DURA for CS2]], and [[prompt-problems-nl-programming-mistakes|NL programming mistakes]] examine how students use AI for code generation and what they learn from it.
-- **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]] and [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]] leverage AI for error identification and repair.
-- **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
-- **Curriculum design:** [[ase-26-agentic-software-engineering-curriculum|Agentic SE curricula]] and [[reshaping-cs-education-genai|reshaping CS education]] redesign computing programs for the AI era.
+- **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
+- **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
+- **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
+- **Misconception modeling:** [[student-misconceptions-conditionals-loops-taxonomy|a taxonomy of conditionals/loops misconceptions]] gives automated systems a precise vocabulary for diagnosing novice errors.
 - **Authentic-assessment performance:** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] show 2026 GenAI systems outscore the average student cohort on authentic introductory OOP assessments and frequently earn full marks on longer programming tasks, yet still struggle with interfaces, abstract classes, inheritance, and image-based questions — recurring error patterns instructors can exploit when designing assessments.
 
-### Unique affordances
+### Programming pedagogy: from blocks to embodied, game-based learning
 
-CS education's unique position — students learn to build the very tools they use — creates both opportunities (meta-cognitive awareness of AI limitations) and risks ([[cognitive-offloading|Over-Reliance]] on AI-generated code). [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this duality.
+Programming education spans introductory [[block-programming|block-based programming]] to advanced software development, and increasingly grounds abstract code in concrete, observable outcomes.
+
+- **Embodied block programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block-based programming with a conversational AI teaching agent and embodied robot execution, creating an iterative authoring–running–observing–revising loop that preserves learner [[agency]].
+- **Natural-language robot control:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots through natural-language instructions, lowering the barrier to robot programming without requiring low-level code expertise.
+- **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula, and [[microbit-robotics-machine-learning-teacher-training-2026|teacher-training research]] argues robotics and ML activities should be embedded in [[teacher-education]].
+- **Game-based and gamified learning:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] compares game-based learning (suited to informal settings) and gamification (suited to formal classrooms) in robotics education, which emphasizes introductory programming and modular kits.
+- **Project-based robotics:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] teaches robotics programming through an agile, semester-spanning [[project-based-learning|project]], addressing the theory-practice gap in higher-ed.
+- **LLM impact on learning outcomes:** [[jost-llm-programming-education-learning-outcomes|Jošt et al. (2024)]] and [[genai-meta-analysis-programming-learning|a meta-analysis of GenAI and programming learning]] examine whether AI-assisted tools help or undermine programming achievement.
+
+### Curriculum transformation in the AI era
+
+The question "what should students still learn by hand?" now reshapes computing programs.
+
+- **From implementation to verification:** [[reshaping-cs-education-genai|Reshaping Undergraduate CS Education]] argues that as GenAI automates implementation-level programming, debugging, and testing, curricula must shift toward *understanding and verifying AI-generated artifacts*, preserving system design, abstraction, and critical evaluation while de-emphasizing low-level implementation details. This aligns with [[ai-literacy]] frameworks that prize evaluation over generation.
+- **Agentic software engineering as a discipline:** [[ase-26-agentic-software-engineering-curriculum|ASE-26]] formalizes directing agents rather than writing code — teaching auditability, context engineering, verification, multi-agent workflows, and AgentOps — and positions [[agentic-ai|agentic AI]] competence as a structured, scaffolded curriculum rather than syntax mastery.
+- **New pedagogies and assessment models:** [[test-driven-ai-assisted-learning|Test-Driven AI-Assisted Learning]] replaces lectures with self-directed AI-assisted study gated by weekly closed-book tests, preserving individual accountability while AI agents scale material production and marking under human oversight.
+
+### AI literacy, agency, and the risk of over-reliance
+
+Because programming is where AI assistance is most powerful, it is also where the failure modes are most visible.
+
+- **Trust ≠ appropriate reliance:** [[trust-reliance-ai-education-2026|Trust and reliance on AI (Pitts et al.)]] find that higher trust in an AI assistant predicted *worse* discrimination between correct and misleading suggestions during Python problem-solving — moderated by [[ai-literacy]] and need for cognition. Calibration, not confidence, is the goal.
+- **Epistemic AI literacy:** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]] shows that in student-AI co-programming, 78.8% of interactions relied on non-mastery-oriented aims and unreliable strategies (outsourcing, verification-seeking), with only 11.1% showing high epistemic engagement — genuine learning rarely emerges without deliberate design support.
+- **Teachable agents and productive practice:** [[chatgpt-teachable-agent-programming-lbt-2024|Learning-by-teaching with ChatGPT]] improved knowledge gains and code quality but undermined error-correction practice because the agent is too competent — a design lesson: make agents *deliberately fallible* so debugging is preserved.
+- **Assistance governance:** [[llm-programming-support-governance-cs-education|a scoping review of 90 systems]] introduces the **PEA framework** (Policy, Enforcement, Authority) for bounding and controlling LLM assistance — a comparative vocabulary for designing scaffolding that limits over-reliance.
+- **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
+
+### Equity, culture, and who gets into computing
+
+- **Broadening participation:** [[suacode-african-students-motivations|SuaCode]] documents motivations for smartphone-based coding among African students (fewer than 1% of secondary-school leavers have fundamental coding skills), informing accessible AI-supported MOOCs for [[equity-in-ai-education|low-resource contexts]].
+- **Neurodivergence and collaboration:** [[neurodivergent-computing-students|Neurodivergent computing students]] report discomfort with ambiguous collaboration structures; structured assignments, smaller consistent teams, and explicit roles improve accessibility — design lessons for the AI tools entering computing classrooms.
+- **Culture shapes perceived ethics:** [[cross-cultural-student-perceptions-genai-computing|Canadian vs. South Korean computing students]] judged identical AI-assisted coding practices differently despite functionally identical policies — policy harmonization does not produce perception harmonization, an [[academic-integrity]] and [[equity-in-ai-education]] concern.
+- **Collaboration transparency:** [[student-perception-ai-use-collaboration|Graf et al.]] find that partners' misaligned beliefs about each other's AI use predict lower project scores, especially for lower-performing students — transparency mechanisms (disclosures, shared logs) may be needed in collaborative programming.
+
+### Ethics education and the workforce
+
+- **Ethics-to-behavior gap:** [[cost-of-ethics-crisis-cs-ethics-education|the "Cost-of-Ethics Crisis"]] shows CS students, despite contemporary ethics education, prioritize compensation, location, and culture over ethical concerns in job searches — a critical gap in how ethics instruction transfers to behavior.
+- **Workforce reshaping:** [[ai-engineering-computing-workforce-grey-literature-2026|a systematic review of U.S. grey literature]] frames the "Dual Train Problem" — rapid AI change racing institutional adaptation — and urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy).
+
+### Practical guidance for CS educators
+
+- **Design assessments AI can't coast through:** exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) rather than banning tools outright.
+- **Calibrate trust, don't just build it:** teach students to verify and discriminate AI output; AI literacy and need for cognition moderate whether trust becomes appropriate reliance.
+- **Keep debugging practice alive:** choose AI tools (or deliberately fallible agents) that leave error-correction and productive struggle intact.
+- **Make agent use explicit and governed:** define policy, enforcement, and authority for AI assistance ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
+- **Personalize AI-generated media:** treat AI visualizations/traces as one tool among many, deployed adaptively, not as uniform replacements ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
+- **Structure collaboration for all learners:** smaller consistent teams, explicit roles, and AI-use transparency support both neurodivergent learners and fair collaboration.
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[higher-ed]], and [[k-12]]. It is the domain where AIED tools are both used and built.
+CS education connects to [[computational-thinking]], [[block-programming]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 ## Connected Concepts
 
 - [[computational-thinking]]
+- [[block-programming]]
 - [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-assessment]]
 - [[prompt-engineering]]
+- [[ai-literacy]]
+- [[agentic-ai]]
+- [[curriculum-design]]
+- [[human-ai-collaboration]]
 - [[higher-ed]]
 - [[k-12]]
+- [[professional-training]]
+- [[educational-robotics]]
+- [[game-based-learning]]
+- [[project-based-learning]]
+- [[embodied-learning]]
 - [[llm]]
 - [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
+- [[academic-integrity]]
+- [[equity-in-ai-education]]
+- [[collaborative-learning]]
 - [[discipline-specific-aied]]
 - [[teacher-education]]
 
@@ -36142,6 +36202,32 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[reshaping-cs-education-genai]]
 - [[critical-engagement-code-completion]]
+- [[ai-generated-traces-novice-programmers]]
+- [[student-misconceptions-conditionals-loops-taxonomy]]
+- [[trust-reliance-ai-education-2026]]
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]]
+- [[chatgpt-teachable-agent-programming-lbt-2024]]
+- [[llm-programming-support-governance-cs-education]]
+- [[llm-automated-grading-programming-comparison-2026]]
+- [[golrang-propact-pair-programming-2026]]
+- [[suacode-african-students-motivations]]
+- [[neurodivergent-computing-students]]
+- [[cross-cultural-student-perceptions-genai-computing]]
+- [[student-perception-ai-use-collaboration]]
+- [[cost-of-ethics-crisis-cs-ethics-education]]
+- [[llm-computational-thinking-physics-2026]]
+- [[test-driven-ai-assisted-learning]]
+- [[prompt-coach-agentic-tutor-prompt-engineering]]
+- [[roboblockly-conversational-block-robotics-ct-2026]]
+- [[edusim-llm-robotic-simulation-education-2026]]
+- [[computational-thinking-educational-robotics-secondary-2026]]
+- [[game-based-gamified-robotics-education-review-2026]]
+- [[bots-blocks-project-based-robotics-education-2026]]
+- [[jost-llm-programming-education-learning-outcomes]]
+- [[genai-meta-analysis-programming-learning]]
+- [[microbit-robotics-machine-learning-teacher-training-2026]]
+- [[jeon-isd-agent-bench-2026]]
+- [[ai-engineering-computing-workforce-grey-literature-2026]]
 
 ---
 
@@ -36397,7 +36483,7 @@ The wiki has dedicated concept pages for several subject areas:
 
 - **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
 - **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
-- **[[cs-education]] / [[programming-education]] / [[block-programming]]** — AI for code generation, debugging, and novice programming support.
+- **[[cs-education]] / [[cs-education]] / [[block-programming]]** — AI for code generation, debugging, and novice programming support.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
@@ -36433,7 +36519,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -36453,7 +36539,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[math-education]]
 - [[physics-education]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[writing-education]]
 - [[language-learning]]
 - [[stem-education]]
@@ -36795,14 +36881,14 @@ Educational robotics is a distinct but closely related application of AI in educ
 
 ### Embodiment and pedagogy
 
-A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[programming-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]].
+A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]].
 
 ## Connected Concepts
 
 - [[human-robot-interaction]]
 - [[social-robots]]
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 - [[stem-education]]
 - [[embodied-learning]]
 - [[project-based-learning]]
@@ -37506,7 +37592,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 > **Game-based learning (GBL)** — the use of games themselves (digital or physical) as the medium and context for learning, where the game's mechanics, challenges, and progression carry educational content. Learners learn *through* playing. Relatedly, **gamification** applies game-design elements (points, badges, levels, leaderboards) to non-game learning activities without turning them into full games. In AI and [[educational-robotics|robotics]] education, both approaches are used to make technical content engaging and motivating.
 
-GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning]] theories: games provide intrinsic motivation, immediate feedback, and authentic problem contexts. It overlaps with [[simulation]], [[project-based-learning]], and [[educational-robotics]]. GBL is particularly relevant to [[educational-robotics]], [[computational-thinking]], and [[programming-education]], where games can make abstract technical concepts concrete and fun.
+GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning]] theories: games provide intrinsic motivation, immediate feedback, and authentic problem contexts. It overlaps with [[simulation]], [[project-based-learning]], and [[educational-robotics]]. GBL is particularly relevant to [[educational-robotics]], [[computational-thinking]], and [[cs-education]], where games can make abstract technical concepts concrete and fun.
 
 ### How GBL appears in the wiki's research
 
@@ -37520,7 +37606,7 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 Gamification is grounded in motivational theory, particularly [[self-determination-theory]] (supporting autonomy, competence, and relatedness) and behaviour-change frameworks. It has shown particular synergy with [[project-based-learning]] in applied domains like robotics. In the wiki's research:
 
 - **Robotics education:** the comparative review found gamification dominated formal classrooms in robotics education (p < .001) and strongly favored [[project-based-learning|project-based learning]] (p = .009), while game-based learning was more common in informal settings.
-- **Engagement and motivation:** gamification is used across the wiki to increase learner engagement and motivation in AI, [[programming-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest.
+- **Engagement and motivation:** gamification is used across the wiki to increase learner engagement and motivation in AI, [[cs-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest.
 
 GBL and gamification together connect to [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]], and [[computational-thinking]].
 
@@ -37534,7 +37620,7 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[simulation]]
 - [[project-based-learning]]
 - [[computational-thinking]]
-- [[programming-education]]
+- [[cs-education]]
 
 ## Connected Articles
 
@@ -38782,7 +38868,7 @@ Learning by teaching is the constructive, active-learning counterpoint to the do
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
 - [[cs-education]]
-- [[programming-education]]
+- [[cs-education]]
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]
@@ -40219,52 +40305,6 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[cyberagents-gamified-cybersecurity-learning-2026]]
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
-
----
-
-## [Programming Education](https://edtechdev.github.io/aied/concepts/programming-education/)
-
-> **Programming education** — the teaching and learning of computer programming, from introductory [[block-programming|block-based programming]] to advanced software development. In the AI era, programming education increasingly incorporates [[computational-thinking|computational thinking]], AI-assisted tools, and embodied approaches (such as robots) to help learners connect abstract code to meaningful, observable outcomes. It spans [[k-12]] and [[higher-ed]], formal and informal settings, and ranges from text-based languages (Python, Scratch) to block-based visual programming.
-
-Programming education is closely related to [[computational-thinking]] (the underlying problem-solving concepts) and [[cs-education]] (the broader computer science discipline). A key challenge in the AI era is that learners and teachers struggle to connect abstract program logic to meaningful outcomes, and that AI tools can both assist and potentially undermine genuine learning. Embodied and game-based approaches — using robots, block programming, and [[simulation]] — are increasingly used to ground programming in concrete, motivating tasks.
-
-### How programming education appears in the wiki's research
-
-- **Embodied block programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block-based programming with a conversational AI teaching agent and embodied robot execution, creating an iterative authoring–running–observing–revising loop that preserves learner [[agency]].
-- **Natural-language robot control:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots through natural-language instructions, lowering the barrier to robot programming.
-- **Robotics and computational thinking:** [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to educational robotics in secondary STEAM curricula.
-- **Game-based and gamified learning:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] compares game-based learning and gamification in robotics education, which emphasizes introductory programming and modular kits.
-- **Project-based robotics:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] teaches robotics programming through an agile, semester-spanning project.
-- **Authentic assessment of GenAI (2026):** [[genai-oop-programming-assessments-2026|Lepp & Kaimre (2026)]] benchmarked five GenAI systems (ChatGPT-5.2, DeepSeek-V3, Gemini 2.5 Flash, Claude Sonnet 4.5, M365 Copilot) against authentic introductory object-oriented programming tests and exams using the same rubric as students. All systems except Copilot outscored the average cohort and often earned full marks on longer tasks, yet still produced non-compiling code and repeated errors on interfaces, abstract classes, and inheritance — plus multimodal graphics questions. The study provides a dated, rubric-anchored reference for how AI capability has evolved relative to students.
-
-Programming education connects to [[educational-robotics]], [[computational-thinking]], [[cs-education]], [[stem-education]], [[llm|AI-assisted programming]], [[game-based-learning]], [[game-based-learning|Gamification]], [[project-based-learning]], and [[embodied-learning]].
-
-## Connected Concepts
-
-- [[computational-thinking]]
-- [[cs-education]]
-- [[educational-robotics]]
-- [[learning-by-teaching]]
-- [[stem-education]]
-- [[block-programming]]
-- [[llm]]
-- [[game-based-learning]]
-- [[project-based-learning]]
-- [[k-12]]
-- [[higher-ed]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## Connected Articles
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
-- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
-
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
-- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Bench
 
 ---
 
