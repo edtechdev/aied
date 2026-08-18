@@ -21,7 +21,7 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 
 - [[intelligent-tutoring]]
 - [[benchmark]]
-- [[block-programming]]
+- [[cs-education]]
 - [[cs-education]]
 - [[feedback]]
 - [[intelligent-tutoring]]
