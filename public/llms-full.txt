@@ -34317,6 +34317,30 @@ Active learning is a foundational principle in education research, grounded in [
 
 AI-enabled active learning manifests across multiple forms in this wiki: [[intelligent-tutoring]] systems that engage students in problem-solving rather than answer-giving, [[genai-mindtool-generative-learning]] approaches where students use AI as a thinking tool rather than a substitute, [[test-driven-ai-assisted-learning]] where students drive AI interaction rather than follow it, and [[curiobot-llm-tutoring-exploratory-learning]] exploratory learning environments. The [[scaffolding]] concept is tightly coupled — effective active learning requires calibrated support that fades as competence grows, which AI tutors must learn to provide.
 
+## How active learning appears in the wiki's research
+
+- **Interaction mode determines cognitive engagement.** [[ai-assisted-learning-modes-eeg|An EEG study of high school students]] compared Auto (AI solves independently), Interactive (student–AI collaboration with scaffolding), and Manual (no AI) modes: **Interactive produced the highest cognitive engagement and task accuracy**, while Auto reduced engagement and risked over-reliance. This gives a neurophysiological dimension to the argument that AI must keep students *doing* rather than watching.
+
+- **Exploratory and simulation-based active learning.** [[supplynet-visual-exploratory-learning|SupplyNet]] uses a contextual multi-agent LLM simulation to support visual exploratory learning in supply-chain education, pairing an interactive network view with a branching "what-if" timeline so learners trace causal dynamics rather than consume abstract content. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] and [[genai-assisted-problem-posing-physics-2026|problem-posing in physics]] similarly foreground learner-driven exploration.
+
+- **Structured conversational workflows for active review.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] structures post-lecture review around three stages — Recognize (mark in-situ confusion), Resolve (clarification), and Consolidate (teach-back) — showing that teach-back prompts learners to articulate and reveal conceptual gaps, and that context-grounded AI outperforms general-purpose AI for targeted support. Teach-back instantiates [[learning-by-teaching]].
+
+- **Active learning as a project-based, community structure.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes extracurricular AI education around competition teams, study groups, and AI-for-social-impact projects, embodying active and [[project-based-learning|project-based learning]] through democratic student governance rather than top-down curriculum.
+
+- **Mindtools and generative engagement.** [[genai-mindtool-generative-learning|GenAI as a mindtool]] positions AI as a device students think *with* rather than a source of answers, aligning active learning with generative-learning theories where learners integrate new ideas into existing knowledge.
+
+## Practical guidance
+
+- **Keep the learner in the loop.** Design AI interactions so students act on and with output (interactive, scaffolded modes) rather than receiving finished answers; full automation measurably reduces cognitive engagement.
+- **Anchor AI support in learners' own activity.** Confusion points, learner-driven questions, and problem-posing give personalized entry points for review and exploration.
+- **Use teach-back and explanation.** Have learners articulate what they understand; surfacing gaps through explanation is more active than passive re-reading.
+- **Pair active engagement with calibrated scaffolding.** Support should fade as competence grows — [[scaffolding]] that never withdraws can itself become passive reliance.
+- **Prefer tools that make thinking visible.** Exploratory simulations, mindtools, and interactive problem-spaces support the causal tracing and comparative reasoning at the heart of active learning.
+
+## Connections to related concepts
+
+Active learning is deeply connected to [[collaborative-learning]] (much active learning is social), [[learning-by-teaching]] (explaining to others is maximally active), [[project-based-learning]] and [[experiential-learning]] (learning by doing in authentic contexts), [[embodied-learning]] (physical engagement), [[game-based-learning]], and [[simulation]]. It relies on [[scaffolding]] and timely [[feedback]], and is threatened by [[cognitive-offloading|over-reliance]] when AI substitutes for effort. Grounded in [[constructivist]] and [[learning-theories]], it spans [[higher-ed]], [[k-12]], and [[stem-education]].
+
 ## Connected Concepts
 
 - [[learning-by-teaching]]
@@ -34333,6 +34357,12 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[cognitive-offloading]]
 - [[collaborative-learning]]
 - [[learning-theories]]
+- [[project-based-learning]]
+- [[experiential-learning]]
+- [[embodied-learning]]
+- [[simulation]]
+- [[game-based-learning]]
+- [[help-seeking]]
 ## Connected Articles
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
@@ -34343,6 +34373,10 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[test-driven-ai-assisted-learning]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[genai-assisted-problem-posing-physics-2026]]
+- [[ai-assisted-learning-modes-eeg]] — EEG study of AI interaction modes (interactive > auto)
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
+- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
+- [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
 
 ---
 
@@ -36139,6 +36173,20 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 **Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.^[[hao-human-ai-collaborative-problem-solving-cognition]] This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
 
+**Collaboration as the object of instruction.** [[golrang-propact-pair-programming-2026|ProPACT]] is an AI-driven adaptive tutor for pair programming that treats the *dyad* — not the individual — as the unit of analysis, modeling joint visual attention, joint mental effort, and pupil-based signals in real time to predict collaborative breakdowns up to 30 seconds in advance and intervene before they occur. Dyads receiving proactive feedback achieved substantially higher debugging success and completed tasks more efficiently, and showed sustained gains in collaborative regulation afterward — evidence that AI can teach collaboration itself, not just support a task.
+
+**AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based LLM probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
+
+**Collaborative structures for AI education.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes AI education through democratic student governance and project teams, embedding [[active-learning]] and [[project-based-learning]] in a collaborative, community-connected structure.
+
+## Practical guidance
+
+- **Model collaboration, not just the individual.** Tools that track dyadic or group state (as [[golrang-propact-pair-programming-2026|ProPACT]] does) can scaffold the collaboration itself, predicting and preventing breakdowns rather than reacting to them.
+- **Preserve cognitive conflict.** Structure AI as an argumentative partner that surfaces disagreement and implicit assumptions, avoiding the polished-artifacts problem where AI smooths over fragile epistemic engagement.
+- **Balance efficiency against self-regulation.** Collaborative AI that maximizes task efficiency (delegated reasoning) can undercut learners' regulatory engagement; design should deliberately protect space for concerted interpretation.
+- **Respect the neutrality constraint.** AI mediators are trusted while neutral; moving into advisory or challenging roles destabilizes that trust, so role switches should be explicit and configurable.
+- **Accommodate neurodivergent learners.** Structured assignments, small consistent teams, and explicit role definitions are requirements AI collaboration tools must support.
+
 ## Connected Concepts
 
 - [[active-learning]]
@@ -36157,6 +36205,12 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[learning-theories]]
 - [[distributed-cognition]]
 - [[self-regulated-learning]]
+- [[project-based-learning]]
+- [[human-ai-collaboration]]
+- [[trust-calibration]]
+- [[pedagogical-agent]]
+- [[student-modeling]]
+- [[active-learning]]
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -36172,6 +36226,9 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[vargas-situated-learning-ai-review-2024]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[golrang-propact-pair-programming-2026]] — ProPACT: proactive AI adaptive collaborative tutor for pair programming
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: AI disciplinary mediation in student project teams
+- [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
 
 ---
 
