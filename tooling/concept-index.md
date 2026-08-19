@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 137
+**Total concepts:** 138
 
 ## Canonical concepts
 
@@ -265,6 +265,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 - **`motivation`** — Motivation
     - phrases: motivation; student motivation; learner motivation; motivational
+
+- **`multilingual-learning`** — Multilingual Learning
+    - phrases: multilingual learning; multilingual education; multilingual learners; low-resource language; language diversity; multilingualism
 
 - **`multimodal`** — Multimodal AI
     - phrases: multimodal; multimodal AI; multimodal learning analytics; multimodal learning
