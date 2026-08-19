@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-18T09:00:00-04:00"
+updated: "2026-08-19T07:56:52-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, engagement-metrics]
 confidence: high
@@ -59,6 +59,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[adaptive-learning]]
 - [[research-methods-aied]]
 - [[higher-ed]]
+- [[framing-ai-use-for-students]]
 
 ## Connected Articles
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment

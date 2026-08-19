@@ -171,9 +171,11 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`formative-assessment`** — Formative Assessment in AI Education
     - phrases: formative assessment; formative; assessment for learning
 
+- **`framing-ai-use-for-students`** — Framing AI Use for Students
+    - phrases: framing AI use; framing AI for students; student buy-in; convincing students of AI; communicating AI policy; AI use framing; persuading students about AI
+
 - **`game-based-learning`** — Game-Based Learning
     - phrases: game-based learning; GBL; games for learning; serious games; gaming
-
 - **`generative-ai`** — Generative AI
     - phrases: generative AI; GenAI; generative artificial intelligence; GAI; chatbot; ChatGPT; generative model
 

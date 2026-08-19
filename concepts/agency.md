@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-15T10:19:32-04:00"
+updated: "2026-08-19T07:56:52-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -32,7 +32,8 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[ethics]]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
-- [[behaviorism]]
+- [[behaviorism]]- [[framing-ai-use-for-students]]
+
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use

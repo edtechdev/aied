@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-18 | **Total pages:** 855
+**Last updated:** 2026-08-19 | **Total pages:** 856
 ---
 ## Quick Links
 
@@ -347,6 +347,7 @@
 - [[fowlin-operationalizing-learning-principles-ai]] — Empowering Educators: Operationalizing Age-Old Learning Principles Using AI
 - [[foxglove-writing-feedback-experts-llms]] — FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs
 - [[framing-5-percent-problem-teachers-persistence]] — Framing the 5% Problem: Teachers'' Perspectives on Persistence in Educational Technology
+- [[framing-ai-use-for-students]] — Framing AI Use for Students
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]] — From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding

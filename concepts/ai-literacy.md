@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-18T16:45:00-04:00"
+updated: "2026-08-19T07:56:52-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -95,6 +95,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[teacher-education]]
 - [[ai-sycophancy]]
 - [[trust-calibration]]
+- [[framing-ai-use-for-students]]
 
 ## Connected Articles
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood

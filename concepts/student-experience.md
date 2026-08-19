@@ -1,7 +1,7 @@
 ---
 title: Student Experience with AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-19T07:56:52-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, cognitive-offloading, equity, k-12]
 
@@ -34,6 +34,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[scaffolding]]
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[framing-ai-use-for-students]]
 
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
