@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 142
+**Total concepts:** 143
 
 ## Canonical concepts
 
@@ -54,6 +54,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`ai-sycophancy`** — AI Sycophancy
     - phrases: AI sycophancy; sycophancy; sycophantic AI; sycophantic; agreeable AI; affirmation bias; flattering AI
 
+- **`ai-technologies`** — AI Technologies and Techniques in Education
+    - phrases: AI technologies; AI techniques; LLM training; AI systems; machine learning; deep learning; robotics
 - **`assessment`** — Assessment
     - phrases: assessment; educational assessment; student assessment; assessment design
 

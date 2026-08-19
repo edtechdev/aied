@@ -49,6 +49,7 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 - [[llm]]
 - [[rag]]
 - [[agentic-ai]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

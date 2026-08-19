@@ -57,6 +57,7 @@ A defining theme is that robots are effective when they support genuine learning
 - [[language-learning]]
 - [[k-12]]
 - [[higher-ed]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 
