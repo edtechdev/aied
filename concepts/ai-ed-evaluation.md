@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-19T18:13:48-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -35,6 +35,15 @@ AI-ed evaluation is difficult for several reasons. First, **reliability is not e
 
 AI-ed evaluation sits at the center of the wiki's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
 
+### Evaluating learning gains
+
+A central object of AI-ed evaluation is the **learning gain** — the measurable improvement in knowledge or skill an AI tool produces (see [[learning-gains]]). Evaluating gains rigorously requires choosing the right outcome measure, because [[genai-performance-vs-learning|performance and learning diverge]]: AI can inflate immediate, AI-assisted task performance while leaving durable, unassisted learning unchanged or reduced (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Effective gain evaluation therefore:
+
+- **Uses unassisted, AI-resistant outcome measures.** [[generative-ai-guardrails-harm-learning|Guardrail evidence]] and [[summative-assessment|summative-assessment research]] show that proctored, closed-book, unassisted measures — not AI-assisted homework or take-home work — reveal genuine [[learning-gains|learning gains]].
+- **Distinguishes assisted performance from durable learning.** [[genai-meta-analysis-programming-learning|Meta-analysis]] shows AI can produce large productivity gains with no significant learning gain (g ≈ 0), so evaluations must report both.
+- **Pairs pre/post measures with validity checks.** [[assessment-validity]] and [[educational-measurement]] ground gain measurement; [[genai-educational-outcomes-meta-analysis|meta-analytic review]] pools effect sizes across studies to establish the field's gain evidence.
+- **Disaggregates by learner and context.** Because [[learning-gains]] vary by population, domain, and AI configuration, evaluation should report gains for different student subgroups (e.g., by prior proficiency, as [[drawedumath-vlm-struggling-students-2026|VLM evaluations]] reveal for error status) rather than a single aggregate, and should connect gain findings to [[meta-analysis-systematic-review]] to situate them in the wider evidence base.
+
 ## Connected Concepts
 
 - [[assessment-validity]]
@@ -53,6 +62,8 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[llm]]
 - [[limitations-in-aied-research]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
+- [[learning-gains]]
+- [[game-based-learning]]
 
 ## Connected Articles
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)

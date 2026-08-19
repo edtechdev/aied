@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-19T18:13:28-04:00"
 type: concept
 tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
@@ -21,6 +21,10 @@ The wiki documents several families of learning theory, each with its own concep
 - **Cognition and cognitive architecture.** Cognitive Load Theory (how working-memory limits shape instruction), Dual-Process Theory (fast intuitive vs. slow deliberative processing), and [[metacognition]] (monitoring and regulating one's own learning) explain the *internal* mechanisms that AI tools engage or bypass.
 - **Motivation and self-direction.** [[self-determination-theory]] (autonomy, competence, relatedness), [[self-efficacy]] (confidence in one's capability), [[self-regulated-learning]] (goal-setting, monitoring, and adjustment), and [[motivation]] explain why learners engage with AI the way they do.
 - **Learning context and activity.** [[experiential-learning]], [[active-learning]], [[project-based-learning]], [[collaborative-learning]], [[transfer-of-learning]], [[desirable-difficulties]], and [[embodied-learning]] describe the kinds of activity and context that produce durable learning.
+
+### Learning theories and learning gains
+
+Learning theories are ultimately evaluated by their outcomes, and the wiki's [[learning-gains]] concept is where theory meets evidence. Each theory makes a different prediction about what *counts* as learning and how to measure it: behaviorism predicts observable performance gains on drill-and-feedback tasks; constructivism predicts deeper understanding that transfers to novel problems; sociocultural theory predicts gains in participation and mediated problem-solving; and cognitive-load theory predicts gains only when instruction respects working-memory limits. This is why [[learning-gains]] measurement is theory-laden — an instrument built on one theory may not capture the gains another predicts. In the AI era, the sharp divergence between AI-assisted performance and unassisted [[learning-gains|learning gains]] (see [[generative-ai-reduced-study-time-math]], [[stromberg-generative-ai-learning-penalty-secondary-2026]]) can be read through this lens: a behaviorist reading sees inflated homework scores as success, while a constructivist reading, focused on durable understanding, sees the same evidence as a failure to learn. Connecting theories to [[ai-ed-evaluation|evaluation]] and [[learning-gains|measured outcomes]] is thus essential to deciding which theoretical lens a given AI system actually satisfies.
 
 ### Why learning theories matter for AI in education
 
@@ -62,6 +66,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[sociocultural-learning]]
 - [[scaffolding]]
 - [[transfer-of-learning]]
+- [[learning-gains]]
 - [[desirable-difficulties]]
 - [[active-learning]]
 - [[experiential-learning]]
