@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T08:58:32-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -163,3 +163,5 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor–employer AI skills prioritization gap (2026)
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI literacy necessary but insufficient; four pedagogical functions
+- [[generative-ai-reduced-study-time-math]] — Students need training to recognize and resist cognitive surrender

@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -88,3 +88,5 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in higher education
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
+- [[generative-ai-reduced-study-time-math]] — 26.9% study-time decline among college students

@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:55:19-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 
@@ -74,3 +74,4 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-control-ai-generation-math-visuals]]
 - [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
+- [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible

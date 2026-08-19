@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-19T07:56:52-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -52,3 +52,4 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work

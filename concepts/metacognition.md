@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T07:42:38-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -115,3 +115,5 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI suppresses metacognition by completing reasoning
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
+- [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency

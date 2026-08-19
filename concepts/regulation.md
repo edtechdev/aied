@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity, higher-ed]
 confidence: high
@@ -57,3 +57,4 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
 - [[dot-framework-survey-2026]] — Technology-adoption frameworks
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
+- [[generative-ai-reduced-study-time-math]] — Age gradient and proctoring findings inform AI policy
