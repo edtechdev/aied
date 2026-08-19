@@ -79,3 +79,4 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[special-r1-rl-special-education]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

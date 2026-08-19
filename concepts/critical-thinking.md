@@ -49,3 +49,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

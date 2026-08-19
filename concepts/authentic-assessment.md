@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
 confidence: high
@@ -70,3 +70,4 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[cong-confidence-asag-2026]] — Confidence-aware automated short-answer grading
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
+- [[ssaho-ai-academic-integrity-review-2025]] — Multiple assessment methods to counter AI misconduct

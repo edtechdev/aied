@@ -1,7 +1,7 @@
 ---
 title: AI Plagiarism Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, policy-maker, llm, assessment-validity, equity]
 
@@ -41,6 +41,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 - **Fairness and equity:** detection tools that penalize non-native writers or produce false positives risk amplifying existing inequities.
 - **AI literacy is complementary:** helping students understand appropriate versus [[ai-misuse-learning-harm|harmful AI use]] is more productive than relying on surveillance.
 
+
+- **Detection reliability caution.** A systematic review of AI and academic integrity concludes that plagiarism/AI-detection tools cannot be relied upon for AI-generated work and should be paired with multiple assessment methods and manual review — reinforcing that detection is a limited, situational tool.^[[ssaho-ai-academic-integrity-review-2025]]
 ## Connected Concepts
 
 - [[academic-integrity]]
@@ -65,3 +67,4 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
+- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability

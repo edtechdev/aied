@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:24:06-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 
@@ -99,3 +99,4 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
 - [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing

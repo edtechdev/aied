@@ -65,3 +65,5 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[ai-feedback-enactment-workflow-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing

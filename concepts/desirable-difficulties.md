@@ -71,3 +71,4 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 - [[epistemic-emotions-collaborative-problem-solving]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle

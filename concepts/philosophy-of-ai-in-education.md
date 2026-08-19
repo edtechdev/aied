@@ -44,3 +44,4 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model of interpretive cognition in the humanities
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
 - [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

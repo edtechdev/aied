@@ -72,3 +72,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
