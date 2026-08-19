@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 877
+Last updated: 2026-08-19 | Total entries: 880
 
 ## 2026-08-19
 - 📄 [[ai-science-chemistry-education-systematic-review-2025]] — raw/papers/ai-science-chemistry-education-systematic-review-2025.md
@@ -53,6 +53,9 @@ Last updated: 2026-08-19 | Total entries: 877
 - 🏷️ [[multilingual-learning]] — 
   Multilingual Learning
   tags: multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, accessible-learning, llm
+- 🏷️ [[pedagogy]] — 
+  Pedagogies and Teaching Strategies
+  tags: pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12
 - 📄 [[philosophy-experimentation-ai-chemistry-2026]] — raw/papers/philosophy-experimentation-ai-chemistry-2026.md
   Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry
   tags: chemistry-education, philosophy-of-ai-in-education, critical-thinking, epistemology, human-ai-collaboration
@@ -62,12 +65,18 @@ Last updated: 2026-08-19 | Total entries: 877
 - 📄 [[ssaho-ai-academic-integrity-review-2025]] — raw/papers/ssaho-ai-academic-integrity-review-2025.md
   Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity
   tags: academic-integrity, plagiarism-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review
+- 🏷️ [[stakeholders]] — 
+  People and Audiences in AI Education
+  tags: stakeholders, teacher-role, student-experience, administrator, instructional-design, higher-ed, k-12, ai-literacy
 - 📄 [[stromberg-generative-ai-learning-penalty-secondary-2026]] — raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md
   The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
   tags: generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, homework, rct, equity-in-ai-education
 - 📄 [[substitution-to-scaffolding-ai-harm-cycle-2026]] — raw/papers/2608.17451.md
   From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
   tags: cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai
+- 🏷️ [[summative-assessment]] — 
+  Summative Assessment
+  tags: summative-assessment, assessment, examination, authentic-assessment, academic-integrity, higher-ed, k-12, evaluation
 - 📄 [[unesco-ai-guidelines-chemical-education-2026]] — raw/papers/unesco-ai-guidelines-chemical-education-2026.md
   Translating UNESCO Artificial Intelligence Guidelines to Chemical Education and Its Intersection with Sustainable Development Goals
   tags: chemistry-education, educational-policy-ai, ethics, ai-literacy, higher-ed, sustainable-development-goals

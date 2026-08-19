@@ -1,0 +1,78 @@
+---
+title: Pedagogies and Teaching Strategies
+created: "2026-08-19T17:45:00-04:00"
+updated: "2026-08-19T17:45:00-04:00"
+type: concept
+tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
+confidence: high
+---
+> **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for the wiki's coverage of how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In AI in education, pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. The wiki documents individual pedagogies and treats them as the instructional lens through which AI's design and classroom use are evaluated.
+
+Pedagogy and teaching strategy concern *how* educators teach — the activities, structures, and methods that organize learning — while [[learning-theories]] explains the underlying mechanisms of *how learning happens*. The two are complementary: a pedagogy operationalizes one or more theories, and the wiki treats pedagogy as the bridge from theory to classroom practice. Every AI tool embeds pedagogical assumptions about the desired instructional interaction, whether the designer states them or not.
+
+## The pedagogy landscape
+
+The wiki documents a rich set of individual teaching strategies and pedagogies, organized into families:
+
+- **Student-centered and active approaches.** [[active-learning]] (students engaged in doing and thinking rather than passively receiving), [[project-based-learning]] (learning through extended projects), [[experiential-learning]] (learning through direct experience), and [[learning-by-teaching]] (learning by explaining to others).
+- **Collaborative and social approaches.** [[collaborative-learning]] (learning through group work), [[sociocultural-learning]] (learning through social participation and mediation), and [[socratic-method|Socratic questioning]] (learning through guided dialogue and questioning).
+- **Experience-based approaches.** [[experiential-learning]] (learning through direct experience and reflection), [[situated-learning]] (learning in authentic contexts), and [[embodied-learning]] (learning through physical/embodied interaction).
+- **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[instructional-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
+- **Motivation and engagement approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
+- **Equity-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[accessible-learning]] ensure strategies serve diverse learners.
+
+## How pedagogy appears in AI in education
+
+The wiki's research examines pedagogy at the intersection of AI and teaching in several ways:
+
+- **AI as a pedagogical agent.** AI tools embody pedagogies — a tutor built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw prompting.
+- **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
+- **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
+- **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
+
+## Relationship to learning theories
+
+Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The wiki treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[instructional-design]], which concerns the systematic process of selecting and sequencing strategies.
+
+## Implications for AI in education
+
+- **Select pedagogy deliberately with AI:** the teaching strategy determines whether an AI tool supports or undermines learning, so pedagogical intent should drive AI tool selection and configuration.
+- **Keep learner agency central:** active, Socratic, and scaffolding pedagogies preserve the productive struggle and [[agency]] that AI can otherwise erode (see [[cognitive-offloading]], [[desirable-difficulties]]).
+- **Design AI to enact good pedagogy:** AI agents and tutors should be grounded in established instructional frameworks, not default answer-generation.
+- **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[instructional-design]]
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[project-based-learning]]
+- [[experiential-learning]]
+- [[game-based-learning]]
+- [[socratic-method]]
+- [[scaffolding]]
+- [[learning-by-teaching]]
+- [[self-regulated-learning]]
+- [[culturally-relevant-pedagogy]]
+- [[universal-design-for-learning]]
+- [[critical-pedagogy]]
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[ai-literacy]]
+- [[curriculum-design]]
+- [[higher-ed]]
+- [[k-12]]
+
+## Connected Articles
+
+- [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
+
+- [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
+- [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
+- [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
+- [[pedagogical-llm-training]] — AI tools trained to follow pedagogical principles
+- [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
+- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
+- [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI

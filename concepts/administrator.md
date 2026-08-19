@@ -33,6 +33,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[llm]]
 - [[generative-ai]]
 - [[student-experience]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 

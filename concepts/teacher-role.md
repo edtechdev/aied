@@ -52,6 +52,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[situated-learning]]
 - [[critical-pedagogy]]
 - [[teacher-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)

@@ -36,6 +36,7 @@ UDL connects to [[accessible-learning]], [[equity-in-ai-education]], [[special-e
 - [[authentic-assessment]]
 - [[student-experience]]
 - [[generative-ai]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

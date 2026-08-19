@@ -60,6 +60,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[research-methods-aied]]
 - [[higher-ed]]
 - [[framing-ai-use-for-students]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment

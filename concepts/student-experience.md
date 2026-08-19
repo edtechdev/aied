@@ -35,6 +35,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[framing-ai-use-for-students]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]

@@ -37,6 +37,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[teacher-role]]
 - [[social-emotional-learning]]
 - [[ai-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

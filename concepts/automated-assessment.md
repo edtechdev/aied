@@ -75,6 +75,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[human-in-the-loop-ai]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
