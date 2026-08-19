@@ -28,6 +28,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[game-based-learning]]
 - [[computational-thinking]]
 - [[higher-ed]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

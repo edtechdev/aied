@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 738 articles and 139 concepts.
+> Complete text of 738 articles and 142 concepts.
 
 # Articles
 
@@ -35339,6 +35339,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 - [[framing-ai-use-for-students]]
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
@@ -35508,7 +35509,8 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[embodied-learning]]
 - [[simulation]]
 - [[game-based-learning]]
-- [[help-seeking]]
+- [[help-seeking]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
@@ -35541,7 +35543,11 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 
 ### Effectiveness evidence
 
-The wiki documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization.
+The wiki documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization. [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find that "adaptive," "personalized," "individualized," and "customized" learning are used inconsistently — so effect sizes depend heavily on how adaptation is operationalized, and the field calls for a unified framework.
+
+### The AI era: LLM-based adaptation and its risks
+
+Generative AI has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and LLM-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency|agency]] is an open design question (see [[agentic-ai|agentic AI]]).
 
 ### Connections
 
@@ -35613,6 +35619,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[llm]]
 - [[generative-ai]]
 - [[student-experience]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 
@@ -35872,6 +35879,10 @@ Research in the wiki spans design and evaluation:
 - **Adversarial robustness testing:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] coordinates Interrogator, Target, and Judge agents to reveal failure modes invisible to single-strategy testing, reducing robustness scores by 0.17–0.20 points — critical for persona consistency and [[pedagogical-safety|safe deployment]] with learners.
 - **Domain applications:** agentic systems appear across domains, including [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], and [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
 
+### Multi-agent systems
+
+A growing and distinct strand of agentic AI involves **multi-agent systems** that orchestrate multiple specialized agents with distinct roles. The wiki documents several architectures: [[code-gen|CODE-GEN]] pairs a generator agent with a validator agent for human-in-the-loop question generation; [[adversarial-stress-testing-role-playing-agents|adversarial testing]] coordinates Interrogator/Target/Judge agents; multi-agent classrooms (e.g., [[human-in-the-loop-ai|MAIC]] with teacher, TA, and classmate archetypes) create varied peer-learning dynamics; and [[multi-agent-llm-social-learning|multi-agent social learning]] explores how interacting agents shape learning. Multi-agent design raises distinctive questions about [[human-in-the-loop-ai|human oversight]] (which agent is accountable, and where does a human intervene?), coordination costs, and how role differentiation supports or complicates [[scaffolding]].
+
 ## The central tension: automation vs. learning
 
 The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
@@ -35985,6 +35996,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[assessment]]
 - [[llm]]
 - [[limitations-in-aied-research]]
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
@@ -36044,7 +36056,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
+- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the wiki's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[educational-robotics|social robots]], [[educational-robotics|robots in education]], [[educational-robotics|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
@@ -36053,14 +36065,14 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 AI transforms both how we assess learners and how we evaluate AI systems themselves:
 
-- **Assessment:** [[assessment|assessment]], [[feedback|feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]], [[formative-assessment|formative assessment]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], and [[academic-integrity|academic integrity]].
+- **Assessment:** [[assessment|assessment]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[authentic-assessment|authentic assessment]], [[feedback|feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], and [[academic-integrity|academic integrity]].
 - **Feedback as a learning mechanism:** a major strand of AIED treats [[feedback|feedback]] not merely as an assessment by-product but as the central engine of learning. AI reshapes this mechanism in three ways: it generates feedback at unprecedented volume and immediacy ([[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]]); it demands new learner capabilities to judge and act on that feedback ([[feedback-literacy|feedback literacy]]); and it increasingly teaches those capabilities rather than just delivering feedback. Research shows well-architected AI feedback can match human feedback, but that its value is gated by the learner's feedback literacy — high literacy converts AI feedback into self-regulated-learning gains, while low literacy yields little or even negative effect. Feedback therefore spans both the provision side (quality, loops) and the uptake side (literacy), and sits alongside [[formative-assessment|formative assessment]], [[peer-review|peer review]], and [[automated-assessment|automated assessment]] as a defining concern of the field.
 - **Evaluation of AI systems:** [[ai-ed-evaluation|AI ed evaluation]], [[benchmark|benchmarks]], [[research-methods-aied|efficacy studies and research methods]], and [[rct|randomized controlled trials]] establish the evidence base for whether AI tools work. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations]] of this evidence — its generalizability, measurement validity, reproducibility, and how quickly AI findings date.
 - **AI systems and techniques:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], and [[simulation|simulation]].
 
 ## People: learners, teachers, and institutions
 
-AI in education changes the roles of every stakeholder:
+AI in education changes the roles of every stakeholder. The wiki's [[stakeholders|people and audiences in AI education]] page is the umbrella covering all of them:
 
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
@@ -36091,6 +36103,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[generative-ai]]
 - [[llm]]
 - [[ai-ed-evaluation]]
+- [[pedagogy]]
 - [[research-methods-aied]]
 - [[limitations-in-aied-research]]
 - [[assessment]]
@@ -36100,6 +36113,8 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
+- [[stakeholders]]
+- [[summative-assessment]]
 - [[teacher-role]]
 - [[teacher-ai-competency]]
 - [[human-ai-collaboration]]
@@ -36323,6 +36338,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[framing-ai-use-for-students]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
@@ -36648,6 +36664,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[feedback-literacy]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
@@ -36737,6 +36754,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[generative-ai]]
 - [[ai-education]]
 - [[feedback]]
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 
@@ -36823,6 +36841,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[human-in-the-loop-ai]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
@@ -37535,7 +37554,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[trust-calibration]]
 - [[pedagogical-agent]]
 - [[student-modeling]]
-- [[student-engagement]]
+- [[student-engagement]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -37797,6 +37817,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[teacher-role]]
 - [[social-emotional-learning]]
 - [[ai-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 
@@ -38055,6 +38076,7 @@ Grounded in the wiki's own articles, educators and designers can apply CRP to AI
 - [[higher-ed]]
 - [[language-learning]]
 - [[cs-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 
@@ -38110,7 +38132,8 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[agentic-ai]]
 - [[metacognition]]
 - [[prompt-engineering]]
-- [[collaborative-learning]]
+- [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -38664,11 +38687,15 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
 - **Government policy:** [[state-policy-teacher-ai|State teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
 - **K-12 policy:** [[brookings-ai-students-report|The Brookings AI students report]] and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
-- **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]].
+- **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
 ### Policy maturity gap
 
-The wiki documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[faculty-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations.
+The wiki documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[faculty-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
+
+### Policy vs. governance
+
+While [[educational-policy-ai|policy]] sets the formal rules and principles, [[governance]] encompasses the institutional structures, norms, and accountability mechanisms that implement and enforce them. Policy is what is decided; governance is how it is carried out. Both are needed: policy without governance is unenforced; governance without policy lacks direction.
 
 ### Connections
 
@@ -38686,8 +38713,10 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ethics]]
 - [[teacher-ai-competency]]
 - [[framing-ai-use-for-students]]
+- [[summative-assessment]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -38972,6 +39001,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[teacher-role]]
 - [[ai-education]]
 - [[agency]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -39106,6 +39136,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[educational-robotics]]
 - [[higher-ed]]
 - [[learning-theories]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -39175,6 +39206,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[curriculum-design]]
 - [[professional-training]]
 - [[teacher-education]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
@@ -39458,6 +39490,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[feedback-literacy]]
 - [[behaviorism]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -39606,6 +39639,7 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[project-based-learning]]
 - [[computational-thinking]]
 - [[cs-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 
@@ -39776,6 +39810,10 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 AI governance operates at two levels the wiki treats together: the *institutional rules* that govern AI use (policies, acceptable-use frameworks, [[assessment]] and declaration requirements) and *education about those rules* (preparing people to navigate them). Governance without education risks being unenforced or opaque; education without governance lacks teeth. Research in this strand includes [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]], [[genai-declaration-frameworks-higher-education|AI declaration frameworks]], [[genai-assessment-governance|assessment governance]], [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]], and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] that situate governance in the wider policy landscape.
 
+### Assessment governance
+
+A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. The wiki's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[plagiarism-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinised). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines.
+
 ### Governance across levels
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The wiki's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[faculty-development|faculty development]], transparent guidance, and ongoing evaluation.
@@ -39796,9 +39834,11 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[student-experience]]
 - [[educational-policy-ai]]
 - [[regulation]]
+- [[summative-assessment]]
 - [[ai-misuse-learning-harm]]
 - [[trust-calibration]]
 - [[generative-ai]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -39995,6 +40035,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -40132,7 +40173,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 ## [Human-in-the-Loop AI for Education](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/)
 
-Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling production. Two recent implementations illustrate distinct architectures:
+> **Human-in-the-loop (HITL) AI for education** — the design pattern in which educational AI systems strategically interleave automated generation with human expert judgment, preserving pedagogical quality and safety while scaling production. Rather than fully automating assessment, feedback, or instruction, HITL keeps a human (instructor, subject-matter expert, or learner) in the decision loop where their judgment has the highest marginal value — for evaluating quality, adjudicating edge cases, and protecting [[agency|learner agency]] and [[pedagogical-safety|safety]]. The central design question is not *whether* to include humans, but *where* in the pipeline their oversight is most valuable and least replaceable.
+
+HITL is a response to the limits and risks of fully autonomous AI in education: automated systems can generate at scale but lack the contextual, ethical, and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
 
 ## CODE-GEN: Human-in-the-Loop MCQ Generation
 
@@ -40155,9 +40198,25 @@ Strategic insight: Human effort should be concentrated where instructional judgm
 
 Yu et al. (2024) deployed a multi-agent classroom (Teacher Agent, TA Agent, classmate archetypes) at Tsinghua University with >500 students and >100,000 learning records. Human instructors participate in script generation and oversight, ensuring that mass-scale AI augmentation does not displace pedagogical expertise.
 
+## Why HITL matters in the AI era
+
+Human-in-the-loop design has become central to the wiki's [[agentic-ai|agentic AI]] and [[reducing-ai-misuse|responsible AI use]] discussions for several converging reasons:
+
+- **Pedagogical safety.** [[pedagogical-safety]] requires that AI with real instructional authority retains human oversight, so errors, biases, or harmful outputs are caught before they reach learners. This is especially important for autonomous agents that [[agentic-ai|proactively pursue goals]].
+- **Validity and quality control.** HITL is a quality gate for automated assessment and generation — humans adjudicate where automated scoring is unreliable (see [[llms-do-not-grade-essays-like-humans-2026|LLM essay grading]] research) and validate generated items.
+- **Learner agency.** Keeping a human in the loop preserves [[agency]] and supports [[self-regulated-learning]], countering the [[cognitive-offloading|over-reliance]] that fully autonomous assistance can induce.
+- **Trust and calibration.** Transparent human oversight supports [[trust-calibration]] — learners and instructors know a qualified human stands behind the system.
+
+## Where HITL appears in the wiki's research
+
+- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[automatic-short-answer-grading]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]).
+- **Feedback systems:** human-in-the-loop feedback design appears in [[aicode-collaborative-feedback-system|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
+- **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and scaffolding ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
+- **Agentic and multi-agent systems:** as AI becomes more autonomous, HITL oversight is a core [[agentic-ai|design guardrail]] ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
+
 ## Synthesis
 
-Human-in-the-loop design is not merely a safety measure—it is a **resource-allitution strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value.
+Human-in-the-loop design is not merely a safety measure—it is a **resource-allocation strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value. The most effective HITL systems concentrate scarce human expertise where automated systems are weakest (distractor design, explanatory feedback, edge-case adjudication, ethical judgment) and automate the rest — preserving quality, safety, and trust while scaling production.
 
 ## Connected Concepts
 
@@ -40173,6 +40232,11 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[metacognition]]
 - [[faculty-development]]
 - [[generative-ai]]
+- [[agency]]
+- [[pedagogical-safety]]
+- [[trust-calibration]]
+- [[agentic-ai]]
+- [[cognitive-offloading]]
 ## Connected Articles
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 
@@ -40359,7 +40423,9 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
 - [[learning-theories]]
-- [[behaviorism]]
+- [[behaviorism]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -40622,6 +40688,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -40925,6 +40992,7 @@ Learning by teaching is the constructive, [[active-learning]] counterpoint to th
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 
@@ -40947,18 +41015,23 @@ Learning gains are the ultimate test of any educational technology. In the wiki'
 Key findings from the wiki:
 
 - **[[adaptive-pretesting-retention|Adaptive pretesting]]** research examines whether [[generative-ai|GenAI-enabled]] pretesting produces durable learning gains that persist beyond immediate testing.
-- **[[genai-meta-analysis-programming-learning|Meta-analyses of GenAI in programming]]** find positive learning gains from structured AI use but negative effects from unguided reliance.
+- **[[genai-meta-analysis-programming-learning|Meta-analyses of GenAI in programming]]** find positive learning gains from structured AI use but negative effects from unguided reliance — a key distinction between productivity and durable learning.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.
 
+### The AI-era measurement problem
+
+A central theme in the wiki's learning-gains research is that **generative AI can inflate apparent performance without producing learning gains** — and that the choice of outcome measure determines whether this is visible. [[generative-ai-reduced-study-time-math|Research]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show a sharp divergence: AI use improves scores on AI-assisted homework while *lowering* scores on proctored, closed-book, unassisted measures. [[genai-performance-vs-learning|Performance-vs-learning research]] and [[young-people-learning-generative-ai-rapid-review-2026|rapid reviews]] therefore distinguish immediate AI-supported performance from durable learning, and treat unassisted summative measures (see [[summative-assessment]]) as the reliable signal of genuine learning gains.
+
 ### Measuring what matters
 
-Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses.
+Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses, and with [[rct]] (randomized trials as the gold-standard design for detecting causal learning gains).
 
 ## Connected Concepts
 
 - [[rct]]
 - [[formative-assessment]]
+- [[summative-assessment]]
 - [[cognitive-offloading]]
 - [[math-education]]
 - [[human-in-the-loop-ai]]
@@ -41050,6 +41123,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[philosophy-of-ai-in-education]]
 - [[critical-pedagogy]]
 - [[ai-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -41413,6 +41487,10 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[stanford-evidence-base-ai-k12-2026|Evidence base for AI in K-12]]** — reviews the strength of evidence for AI tutoring in schools.
 - **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.^[[ai-literacy-heptagon-2026]]
 
+## AI-era synthesis challenge: productivity vs. learning
+
+Reviews of generative-AI interventions face a distinctive challenge that the wiki's synthesis research highlights: **separating productivity gains from durable learning gains.** Because generative AI can inflate immediate task performance (homework, assisted practice) without producing learning, meta-analyses must be careful about which outcome they pool. [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] found large productivity gains but no significant learning gain (g ≈ 0) — a clean illustration. [[stromberg-generative-ai-learning-penalty-secondary-2026|Large-scale field studies]] and [[generative-ai-reduced-study-time-math|unassisted-measure research]] show that the measured effect depends on whether outcomes are AI-assisted or proctored/unassisted. Reviews should therefore report assisted and unassisted outcomes separately, distinguish performance from [[learning-gains|learning]], and flag studies that measure only immediate AI-supported performance. This connects to [[ai-ed-evaluation]] and [[summative-assessment]].
+
 ## Strengths and limitations
 
 **Strengths:**
@@ -41453,6 +41531,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[educational-measurement]]
 - [[assessment-validity]]
 - [[learning-gains]]
+- [[summative-assessment]]
 - [[ai-education]]
 - [[higher-ed]]
 - [[simulation]]
@@ -42134,6 +42213,81 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 
 ---
 
+## [Pedagogies and Teaching Strategies](https://edtechdev.github.io/aied/concepts/pedagogy/)
+
+> **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for the wiki's coverage of how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In AI in education, pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. The wiki documents individual pedagogies and treats them as the instructional lens through which AI's design and classroom use are evaluated.
+
+Pedagogy and teaching strategy concern *how* educators teach — the activities, structures, and methods that organize learning — while [[learning-theories]] explains the underlying mechanisms of *how learning happens*. The two are complementary: a pedagogy operationalizes one or more theories, and the wiki treats pedagogy as the bridge from theory to classroom practice. Every AI tool embeds pedagogical assumptions about the desired instructional interaction, whether the designer states them or not.
+
+## The pedagogy landscape
+
+The wiki documents a rich set of individual teaching strategies and pedagogies, organized into families:
+
+- **Student-centered and active approaches.** [[active-learning]] (students engaged in doing and thinking rather than passively receiving), [[project-based-learning]] (learning through extended projects), [[experiential-learning]] (learning through direct experience), and [[learning-by-teaching]] (learning by explaining to others).
+- **Collaborative and social approaches.** [[collaborative-learning]] (learning through group work), [[sociocultural-learning]] (learning through social participation and mediation), and [[socratic-method|Socratic questioning]] (learning through guided dialogue and questioning).
+- **Experience-based approaches.** [[experiential-learning]] (learning through direct experience and reflection), [[situated-learning]] (learning in authentic contexts), and [[embodied-learning]] (learning through physical/embodied interaction).
+- **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[instructional-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
+- **Motivation and engagement approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
+- **Equity-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[accessible-learning]] ensure strategies serve diverse learners.
+
+## How pedagogy appears in AI in education
+
+The wiki's research examines pedagogy at the intersection of AI and teaching in several ways:
+
+- **AI as a pedagogical agent.** AI tools embody pedagogies — a tutor built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw prompting.
+- **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
+- **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
+- **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
+
+## Relationship to learning theories
+
+Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The wiki treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[instructional-design]], which concerns the systematic process of selecting and sequencing strategies.
+
+## Implications for AI in education
+
+- **Select pedagogy deliberately with AI:** the teaching strategy determines whether an AI tool supports or undermines learning, so pedagogical intent should drive AI tool selection and configuration.
+- **Keep learner agency central:** active, Socratic, and scaffolding pedagogies preserve the productive struggle and [[agency]] that AI can otherwise erode (see [[cognitive-offloading]], [[desirable-difficulties]]).
+- **Design AI to enact good pedagogy:** AI agents and tutors should be grounded in established instructional frameworks, not default answer-generation.
+- **Teach with and about AI:** pedagogies should both use AI to teach and teach learners how to use AI responsibly.
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[instructional-design]]
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[project-based-learning]]
+- [[experiential-learning]]
+- [[game-based-learning]]
+- [[socratic-method]]
+- [[scaffolding]]
+- [[learning-by-teaching]]
+- [[self-regulated-learning]]
+- [[culturally-relevant-pedagogy]]
+- [[universal-design-for-learning]]
+- [[critical-pedagogy]]
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[ai-literacy]]
+- [[curriculum-design]]
+- [[higher-ed]]
+- [[k-12]]
+
+## Connected Articles
+
+- [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
+
+- [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
+- [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
+- [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
+- [[pedagogical-llm-training]] — AI tools trained to follow pedagogical principles
+- [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
+- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
+- [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
+
+---
+
 ## [Peer Review](https://edtechdev.github.io/aied/concepts/peer-review/)
 
 > **Peer review** — the practice in which students read, evaluate, and provide feedback on one another's work, most often writing. In writing pedagogy, peer review is a long-standing best practice: students learn both from receiving feedback and from providing criteria-based feedback to others, and interactions with peers about their writing correlate with deeper learning, audience awareness, and personal and social development. In the AI era, peer review is being re-examined as a human complement to [[ai-feedback-quality|AI-generated feedback]], with models such as PAIRR pairing the two.
@@ -42207,6 +42361,14 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **Equity risks** — Over-personalization can strand learners in low-expectation tracks
 
+## Personalization and assessment
+
+Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, fairness and comparability become harder to establish. The wiki's research warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
+
+## Personalization in the AI era
+
+Generative AI has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency|agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The wiki's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
+
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the wiki's [[limitations-in-aied-research|critique of weak construct use]]).
@@ -42217,6 +42379,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[intelligent-tutoring]]
 - [[student-experience]]
 - [[formative-assessment]]
+- [[summative-assessment]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[stem-education]]
@@ -42556,6 +42719,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[game-based-learning]]
 - [[computational-thinking]]
 - [[higher-ed]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 
@@ -43086,6 +43250,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[llm]]
 - [[higher-ed]]
 - [[learning-theories]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -43269,6 +43434,7 @@ For example:
 - [[learning-theories]]
 - [[behaviorism]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
@@ -43650,6 +43816,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[ai-literacy]]
 - [[agency]]
 - [[critical-thinking]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 
@@ -43709,6 +43876,71 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[adhd-video-segmentation-computing-education]]
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
+
+---
+
+## [People and Audiences in AI Education](https://edtechdev.github.io/aied/concepts/stakeholders/)
+
+> **People and audiences in AI education** — the range of human stakeholders involved in, affected by, and responsible for AI in education, and the umbrella concept for the wiki's coverage of who the actors are. AI in education is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[faculty-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the wiki treats them as the human context in which AI tools are designed, deployed, and evaluated.
+
+AI in education is fundamentally about people — the learners and educators whose work it transforms, and the leaders and designers who decide how it is used. Understanding the distinct stakeholders is essential because the same AI system looks very different from different vantage points: a tool a student experiences as personalized support may appear to a teacher as an integrity risk, to an administrator as a procurement and governance decision, and to a designer as a pedagogical choice. The wiki organizes coverage of these audiences across several concept pages.
+
+## The stakeholder landscape
+
+- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The wiki covers learners through [[student-experience]], [[student-engagement]], [[student-misconceptions-ai]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
+- **Teachers and faculty.** Educators who integrate AI into instruction. Covered by [[teacher-role]], [[teacher-ai-competency]], [[teacher-education]], [[faculty-development]], and [[tpack]]. Teachers face the dual challenge of using AI in their own teaching and teaching students to use it responsibly (see [[pedagogy|pedagogies and teaching strategies]]).
+- **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[instructional-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
+- **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
+- **Policymakers and regulators.** Government and institutional bodies that set the legal and regulatory framework. Related to [[educational-policy-ai]], [[regulation]], and [[governance]].
+- **Parents and families.** Present in the research (e.g., monitoring student AI use, attitudes toward AI) but not yet a dedicated page — grouped here as a stakeholder.
+
+## How stakeholders appear in the research
+
+- **Role-specific competency frameworks.** [[teacher-ai-competency]] and [[tpack]] define what teachers need to use AI effectively; [[ai-literacy]] defines what all audiences (especially students) need.
+- **Differential impacts by role.** Research examines how AI affects different audiences differently — [[student-experience]] studies student outcomes, [[teacher-role]] studies pedagogical integration, [[administrator]] studies institutional strategy, and [[faculty-development]] studies professional learning.
+- **Multi-stakeholder governance.** [[governance]] and [[educational-policy-ai]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
+- **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to fairness and access.
+
+## Implications for AI in education
+
+- **Design for the full stakeholder set:** effective AI in education must serve learners, support teachers, inform administrators, and align with policy — not just optimize one audience.
+- **Build role-specific competencies:** teachers, students, designers, and leaders each need tailored AI literacy and support (see [[ai-literacy]], [[teacher-ai-competency]], [[faculty-development]]).
+- **Align across levels:** the wiki's governance research shows AI succeeds when institutional leadership, teacher practice, and student experience are aligned rather than fragmented.
+- **Consider parents and the broader community:** families are stakeholders in AI adoption whose role and concerns deserve explicit attention.
+
+## Connected Concepts
+
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[teacher-education]]
+- [[faculty-development]]
+- [[tpack]]
+- [[student-experience]]
+- [[student-engagement]]
+- [[student-misconceptions-ai]]
+- [[administrator]]
+- [[instructional-design]]
+- [[curriculum-design]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[higher-ed]]
+- [[k-12]]
+- [[adult-learning]]
+
+## Connected Articles
+
+- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
+
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
+- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
+- [[ai-acceptance-preservice-science-teachers-2026]] — Preservice science teachers' AI acceptance
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
+- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
+- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 
 ---
 
@@ -43853,6 +44085,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[research-methods-aied]]
 - [[higher-ed]]
 - [[framing-ai-use-for-students]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -43907,6 +44140,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[framing-ai-use-for-students]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -44053,6 +44287,76 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 
 ---
 
+## [Summative Assessment](https://edtechdev.github.io/aied/concepts/summative-assessment/)
+
+> **Summative assessment** — assessment used to evaluate and certify what a learner has learned at the end of a unit, course, or program, in contrast to [[formative-assessment|formative assessment]] which supports learning during instruction. Summative assessment typically takes the form of high-stakes examinations — written, oral, proctored, or closed-book — that assign grades, gate progression, and certify competence. In the AI era, summative assessment has become a central battleground over [[academic-integrity]] and validity: generative AI can inflate performance on unproctored or take-home tasks, making the choice of summative format — and how it resists AI substitution — a pivotal design decision.
+
+Summative assessment serves a fundamentally different function from formative assessment: it measures and certifies achievement rather than guiding next steps. It includes end-of-unit tests, final examinations, standardized and high-stakes tests (e.g., entrance exams), oral defenses, and cumulative performance assessments. Because summative results carry real consequences (grades, progression, credentials, university admission), they face particular pressures in the AI era — both as *targets* of automated scoring and as *vulnerable* measures that students may seek to game using generative AI.
+
+## The AI-era stakes: validity and integrity
+
+The wiki's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
+
+- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds LLMs do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[automatic-short-answer-grading|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
+- **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes.
+- **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
+
+## AI-resistant summative formats
+
+A key theme in the wiki is that **summative format determines AI-resistance** — the more a task requires live, in-person, individually-probed performance, the harder it is for students to substitute AI for their own learning.
+
+- **Oral exams and assessments.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] argues the oral exam is a low-tech, inherently AI-resistant summative format: its real-time, interactive dialogue tests comprehension, critical thinking, and reasoning rather than memorization, prevents students from using AI to generate and memorize answers, and mirrors professional practice. [[socratic-tests-conversational-assessment|Socratic tests]] and [[code-review-genai-cs1|code-review interviews]] extend this to dynamic, conversational, and interview-based summative assessment.
+- **Closed-book, proctored, unassisted measures.** [[generative-ai-reduced-study-time-math|Evidence]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show that proctored closed-book exams — not inflated homework or take-home work — are the reliable signal of actual learning when students use AI. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] frameworks embed these unassisted measures within a validity-driven redesign.
+
+## High-stakes and standardized summative assessment
+
+High-stakes summative assessment — entrance exams, standardized tests, and certification — carries outsized consequences and is a focus of AI-era concern. [[stromberg-generative-ai-learning-penalty-secondary-2026|The generative AI learning penalty study]] measured outcomes on high-school (Zhongkao) and college (Gaokao) entrance exams, finding entrance-exam scores fell 18–24% after prolonged AI use. [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] and [[genai-performance-vs-learning|performance-vs-learning research]] warn that gains on AI-assisted tasks do not transfer to unassisted high-stakes measures.
+
+## Summative vs. formative in the AI era
+
+The wiki's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based portfolios) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
+
+## Implications for AI in education
+
+- **Summative format is a validity and integrity lever:** AI-resistant summative formats (oral, proctored, closed-book, in-person) preserve the connection between assessed performance and actual learning.
+- **Proctored/unassisted measures are the reliable signal:** when students use AI, unassisted summative exams — not homework — reveal genuine learning.
+- **Automated scoring needs psychometric scrutiny:** using LLMs to grade high-stakes exams requires evaluation of reliability, fairness, and validity, not just accuracy.
+- **AI can also generate exams:** AI-assisted exam and task generation is an emerging summative-design application that itself needs quality evaluation.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[formative-assessment]]
+- [[authentic-assessment]]
+- [[automated-assessment]]
+- [[assessment-validity]]
+- [[academic-integrity]]
+- [[ai-ed-evaluation]]
+- [[higher-ed]]
+- [[k-12]]
+
+## Connected Articles
+
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
+- [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails harms learning
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
+- [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
+- [[automatic-short-answer-grading]] — Automatic short-answer grading
+- [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
+- [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
+- [[code-review-genai-cs1]] — Code review interviews in CS1
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[test-driven-ai-assisted-learning]] — Test-driven AI-assisted learning
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on object-oriented programming assessments
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
+
+---
+
 ## [Teacher AI Competency](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/)
 
 > **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include pedagogical integration, [[assessment|assessment literacy]], ethical judgment, and the confidence to [[ai-literacy|use AI well]]. Teacher AI competency is the teacher-side counterpart to [[ai-literacy]], and is developed through [[faculty-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
@@ -44115,6 +44419,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 - [[tpack]]
 - [[teacher-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -44251,6 +44556,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[situated-learning]]
 - [[critical-pedagogy]]
 - [[teacher-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
@@ -44592,6 +44899,7 @@ UDL connects to [[accessible-learning]], [[equity-in-ai-education]], [[special-e
 - [[authentic-assessment]]
 - [[student-experience]]
 - [[generative-ai]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

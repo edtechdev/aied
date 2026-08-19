@@ -45,6 +45,10 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[stanford-evidence-base-ai-k12-2026|Evidence base for AI in K-12]]** — reviews the strength of evidence for AI tutoring in schools.
 - **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.^[[ai-literacy-heptagon-2026]]
 
+## AI-era synthesis challenge: productivity vs. learning
+
+Reviews of generative-AI interventions face a distinctive challenge that the wiki's synthesis research highlights: **separating productivity gains from durable learning gains.** Because generative AI can inflate immediate task performance (homework, assisted practice) without producing learning, meta-analyses must be careful about which outcome they pool. [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] found large productivity gains but no significant learning gain (g ≈ 0) — a clean illustration. [[stromberg-generative-ai-learning-penalty-secondary-2026|Large-scale field studies]] and [[generative-ai-reduced-study-time-math|unassisted-measure research]] show that the measured effect depends on whether outcomes are AI-assisted or proctored/unassisted. Reviews should therefore report assisted and unassisted outcomes separately, distinguish performance from [[learning-gains|learning]], and flag studies that measure only immediate AI-supported performance. This connects to [[ai-ed-evaluation]] and [[summative-assessment]].
+
 ## Strengths and limitations
 
 **Strengths:**
@@ -85,6 +89,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[educational-measurement]]
 - [[assessment-validity]]
 - [[learning-gains]]
+- [[summative-assessment]]
 - [[ai-education]]
 - [[higher-ed]]
 - [[simulation]]

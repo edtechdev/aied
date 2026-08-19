@@ -18,7 +18,11 @@ confidence: high
 
 ### Effectiveness evidence
 
-The wiki documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization.
+The wiki documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization. [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find that "adaptive," "personalized," "individualized," and "customized" learning are used inconsistently — so effect sizes depend heavily on how adaptation is operationalized, and the field calls for a unified framework.
+
+### The AI era: LLM-based adaptation and its risks
+
+Generative AI has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and LLM-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency|agency]] is an open design question (see [[agentic-ai|agentic AI]]).
 
 ### Connections
 

@@ -72,6 +72,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[philosophy-of-ai-in-education]]
 - [[critical-pedagogy]]
 - [[ai-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)

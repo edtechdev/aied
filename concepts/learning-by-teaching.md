@@ -62,6 +62,7 @@ Learning by teaching is the constructive, [[active-learning]] counterpoint to th
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

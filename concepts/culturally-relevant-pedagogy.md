@@ -55,6 +55,7 @@ Grounded in the wiki's own articles, educators and designers can apply CRP to AI
 - [[higher-ed]]
 - [[language-learning]]
 - [[cs-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

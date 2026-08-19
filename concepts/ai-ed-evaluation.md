@@ -52,6 +52,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[assessment]]
 - [[llm]]
 - [[limitations-in-aied-research]]
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
