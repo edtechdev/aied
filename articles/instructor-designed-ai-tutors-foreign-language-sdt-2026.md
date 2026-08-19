@@ -33,7 +33,6 @@ confidence: high
 - [[self-regulated-learning]]
 - [[generative-ai]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[motivation]]
 - [[agency]]
 - [[metacognition]]

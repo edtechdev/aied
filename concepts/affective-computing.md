@@ -35,7 +35,6 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[instructional-design]]
 - [[affective-tutoring]]
 - [[student-modeling]]
-- [[intelligent-tutoring]]
 - [[math-education]]
 - [[open-source]]
 - [[pedagogical-llm-training]]

@@ -65,7 +65,6 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[ethics]]
 - [[equity-in-ai-education]]
 - [[teacher-role]]
@@ -74,7 +73,6 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 - [[cognitive-offloading]]
 - [[personalized-learning]]
 - [[game-based-learning]]
-- [[cognitive-offloading]]
 - [[learning-analytics]]
 - [[human-ai-collaboration]]
 - [[ai-literacy]]

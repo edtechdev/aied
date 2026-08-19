@@ -21,7 +21,6 @@ The work contributes to understanding of [[intelligent-tutoring|AI Tutoring]] in
 - [[intelligent-tutoring]]
 - [[socratic-method]]
 - [[physics-education]]
-- [[intelligent-tutoring]]
 - [[educational-nlp]]
 - [[student-experience]]
 

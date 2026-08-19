@@ -59,7 +59,6 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 - [[self-regulated-learning]]
 - [[agency]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[learning-theories]]
 
 ## Connected Articles

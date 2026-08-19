@@ -34,7 +34,6 @@ The article translates the argument into a deployment-review question: what will
 - [[assessment-validity]]
 - [[governance]]
 - [[ethics]]
-- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[agency]]
 

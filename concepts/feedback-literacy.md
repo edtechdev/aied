@@ -61,7 +61,6 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
-- [[feedback]]
 
 ## Connected Articles
 

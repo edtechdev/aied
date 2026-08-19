@@ -35,7 +35,6 @@ The seasonal variation identification strategy is innovative for causal inferenc
 - [[learning-gains]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[genai-performance-vs-learning]]

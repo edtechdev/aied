@@ -36,7 +36,6 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[k-12]]
 - [[prompt-engineering]]
 - [[writing-education]]
-- [[automated-assessment]]
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Connected Articles

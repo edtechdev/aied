@@ -32,7 +32,6 @@ Students who preferred chatbots that initially engage them in guided-inquiry but
 - [[generative-ai]]
 - [[stem-education]]
 - [[higher-ed]]
-- [[socratic-method]]
 - [[metacognition]]
 
 ## Connected Articles

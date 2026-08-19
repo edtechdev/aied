@@ -21,7 +21,6 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 ## Connected Concepts
 - [[automated-assessment]]
 - [[assessment-validity]]
-- [[automated-assessment]]
 - [[formative-assessment]]
 - [[writing-education]]
 - [[scaffolding]]

@@ -36,7 +36,6 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 - [[scaffolding]]
-- [[intelligent-tutoring]]
 - [[llm]]
 - [[student-experience]]
 - [[agency]]

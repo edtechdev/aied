@@ -32,7 +32,6 @@ The model's human-centered orientation connects to [[human-ai-collaboration]] an
 - [[human-ai-collaboration]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[student-modeling]]
 - [[ethics]]
 

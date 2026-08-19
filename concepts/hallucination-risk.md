@@ -28,7 +28,6 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 - [[rag]]
 - [[academic-integrity]]
 - [[teacher-role]]
-- [[cognitive-offloading]]
 - [[multimodal]]
 - [[generative-ai]]
 - [[llm]]

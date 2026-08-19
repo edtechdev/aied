@@ -46,7 +46,6 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - [[rag]]
 - [[motivation]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 

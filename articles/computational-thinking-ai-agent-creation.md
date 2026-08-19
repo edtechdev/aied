@@ -34,7 +34,6 @@ These findings challenge linear learning assumptions in [[k-12]] and provide dir
 - [[ai-literacy]]
 - [[computational-thinking]]
 - [[k-12]]
-- [[k-12]]
 - [[scaffolding]]
 - [[self-efficacy]]
 

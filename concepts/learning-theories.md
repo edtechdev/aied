@@ -66,7 +66,6 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[collaborative-learning]]
 - [[embodied-learning]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[instructional-design]]
 - [[philosophy-of-ai-in-education]]
 - [[critical-pedagogy]]

@@ -32,7 +32,6 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 
 - [[authentic-assessment]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[formative-assessment]]
 - [[academic-integrity]]
 - [[rct]]

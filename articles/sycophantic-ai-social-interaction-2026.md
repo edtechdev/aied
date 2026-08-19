@@ -53,7 +53,6 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 - [[pedagogical-safety]]
 - [[feedback]]
 - [[ai-feedback-quality]]
-- [[well-being]]
 - [[student-experience]]
 - [[teacher-role]]
 - [[reducing-ai-misuse]]

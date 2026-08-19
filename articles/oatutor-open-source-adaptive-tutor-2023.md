@@ -48,7 +48,6 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
 - [[open-source]]
-- [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[math-education]]
 - [[edtech-platform]]

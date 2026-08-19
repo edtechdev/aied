@@ -56,7 +56,6 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[personalized-learning]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[student-modeling]]
 - [[knowledge-tracing]]

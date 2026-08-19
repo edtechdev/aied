@@ -14,7 +14,6 @@ A quasi-experimental, short-term longitudinal study with 126 first-year engineer
 
 - [[metacognition]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[experiential-learning]]
 - [[ai-literacy]]

@@ -35,7 +35,6 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 
 - [[ai-ed-evaluation]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[psychometrically-aware-ai]]
 - [[rag]]
 - [[human-in-the-loop-ai]]

@@ -33,7 +33,6 @@ The work also illustrates the epistemic limits of [[item-response-theory]]-style
 - [[assessment]]
 - [[automated-assessment]]
 - [[cs-education]]
-- [[automated-assessment]]
 - [[educational-measurement]]
 - [[ai-ed-evaluation]]
 - [[human-in-the-loop-ai]]

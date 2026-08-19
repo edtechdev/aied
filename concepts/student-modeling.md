@@ -40,7 +40,6 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[llm]]
 - [[higher-ed]]
 - [[ai-education]]
-- [[intelligent-tutoring]]
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)

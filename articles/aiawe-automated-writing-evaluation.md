@@ -28,7 +28,6 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - [[open-source]]
 - [[writing-education]]
 - [[automated-essay-scoring]]
-- [[automated-assessment]]
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]]

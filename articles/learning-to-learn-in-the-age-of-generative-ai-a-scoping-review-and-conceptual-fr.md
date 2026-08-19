@@ -22,7 +22,6 @@ This paper presents a scoping review of learning-to-learn (L2L) definitions with
 - [[generative-ai]] — the technology whose overuse L2L is positioned to counterbalance
 - [[cognitive-offloading]] — L2L framed as key to reducing GenAI overreliance
 - [[agency]] — fostering learner agency is a central goal of L2L in the AI era
-- [[cognitive-offloading]] — the mechanism by which GenAI use can undermine learning, which L2L mitigates
 - [[critical-thinking]] — a core L2L dimension that GenAI use can erode if unchecked
 - [[ai-literacy]] — learners need to understand AI to use it without losing learning-to-learn skills
 - [[scaffolding]] — structured support for developing L2L skills alongside GenAI use

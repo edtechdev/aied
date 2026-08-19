@@ -37,7 +37,6 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 - [[hallucination-risk]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-graph]]
-- [[cognitive-offloading]]
 - [[rag]]
 - [[scaffolding]]
 - [[writing-education]]

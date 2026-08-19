@@ -44,7 +44,6 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[formative-assessment]]
 - [[authentic-assessment]]
 - [[human-in-the-loop-ai]]
-- [[automated-assessment]]
 - [[hallucination-risk]]
 - [[trust-calibration]]
 - [[intelligent-tutoring]]

@@ -28,7 +28,6 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 - [[critical-thinking]]
 - [[lifelong-learning]]
 - [[professional-training]]
-- [[cognitive-offloading]]
 - [[human-ai-collaboration]]
 
 ## Connected Articles

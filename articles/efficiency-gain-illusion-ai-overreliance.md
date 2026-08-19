@@ -36,7 +36,6 @@ These results have direct implications for AI literacy education: users need not
 - [[ai-literacy]]
 - [[metacognition]]
 - [[trust-calibration]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]]

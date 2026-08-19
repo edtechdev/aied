@@ -66,7 +66,6 @@ The review identifies a **critical need for stronger experimental design and dat
 - [[affective-tutoring]]
 - [[human-in-the-loop-ai]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[benchmark]]
 - [[rct]]

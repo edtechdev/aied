@@ -43,7 +43,6 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 - [[open-source]]
 - [[pedagogical-llm-training]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[rag]]
 - [[multimodal]]

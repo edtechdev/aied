@@ -37,7 +37,6 @@ The study is context-specific (a social network analysis course, LLM-based datas
 - [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
-- [[cognitive-offloading]]
 - [[student-experience]]
 - [[higher-ed]]
 - [[scaffolding]]

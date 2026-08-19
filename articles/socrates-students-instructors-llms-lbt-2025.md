@@ -35,7 +35,6 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 - [[learning-by-teaching]]
 - [[generative-ai]]
 - [[cs-education]]
-- [[cs-education]]
 - [[active-learning]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]

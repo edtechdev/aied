@@ -40,7 +40,6 @@ This study provides strong empirical grounding for the wiki's [[cognitive-offloa
 
 - [[cognitive-offloading]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[feedback]]
 - [[self-regulated-learning]]
 - [[student-experience]]

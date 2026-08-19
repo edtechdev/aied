@@ -30,7 +30,6 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[writing-education]]
 - [[reducing-ai-misuse]]

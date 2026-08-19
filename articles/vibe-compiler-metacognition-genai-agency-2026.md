@@ -18,7 +18,6 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 
 - [[cognitive-offloading]]
 - [[metacognition]] — the cognitive capacity the Vibe Compiler seeks to preserve
-- [[cognitive-offloading]] — the risk of delegating synthesis to AI
 - [[scaffolding]] — structured metacognitive scaffolding of reasoning
 - [[human-in-the-loop-ai]] — keeping human agency central in AI-assisted work
 - [[agency]] — preserving epistemic agency during GenAI use
