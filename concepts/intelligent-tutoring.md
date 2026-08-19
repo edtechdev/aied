@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-17T18:05:00-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -130,3 +130,5 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation in brachytherapy training
 - [[residencyrl-clinical-rl-training-2026]] — ResidencyRL clinical RL training
 - [[li-ai-science-situated-learning-teachers-2025]] — AI in science situated learning
+
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes

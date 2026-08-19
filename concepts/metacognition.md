@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-16T21:20:00-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -113,3 +113,5 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[ensemble-cognition-philosophy-ai-education]]
 - [[genai-educational-outcomes-meta-analysis]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+
+- [[tutoring-specific-vs-general-ai]] — General-purpose AI suppresses metacognition by completing reasoning
