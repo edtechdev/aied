@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T07:56:52-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -43,6 +43,10 @@ A distinct strand of the wiki treats AI literacy not merely as skills or critica
 - **Recognizing [[ai-sycophancy|sycophancy]] as a literacy skill.** A core evaluative competency is recognizing when an AI is *agreeing* with the learner versus being correct. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce — but do not eliminate — sycophantic mirroring of user errors, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] is preferred by users precisely because it makes them feel understood. AI literacy must therefore teach learners to detect agreement-for-its-own-sake and to value corrective friction, connecting to [[trust-calibration]] and [[reducing-ai-misuse]].
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
+
+### Whose AI skills count? The instructor–employer framing divide
+
+A central open question in AI literacy is *which* skills matter and for whom. An Ithaka S+R study comparing how US instructors and employers prioritize the 26 skills of the HiBob AI Skills Framework found they agree on the importance of only one (setting realistic expectations for AI-augmented work). Instructors weight a **critical, responsible-use orientation** — recognizing AI's limits, transparency and attribution, human accountability, proactive output review — which aligns with academic values of attribution, review, and information literacy. Employers weight **productivity-oriented skills** — workflow evaluation and redesign, automation, and human–AI teaming — that reflect team-based workplace efficiency. Because only three of 26 skills are taught by half or more instructors, and those taught skew toward the critical-use categories, the report identifies a concrete **AI skills gap**: whole categories employers value are neither prioritized nor taught in college curricula.^[[ithaka-sr-ai-skills-college-graduates-2026]] This divide frames AI literacy as a contested construct — critical-use literacy for academic settings versus workflow-integration literacy for employment — a tension relevant to [[framing-ai-use-for-students]], [[curriculum-design]], and [[professional-training]].
 
 ### Designing AI literacy interventions
 
@@ -156,3 +160,4 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor–employer AI skills prioritization gap (2026)
