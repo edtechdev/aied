@@ -666,7 +666,7 @@ Last updated: 2026-08-19 | Total entries: 865
 ## 2026-08-12
 - 📄 [[agentschool-multi-agent-simulation-education-2026]] — raw/papers/2605.30144.md
   AgentSchool: An LLM-Powered Multi-Agent Simulation for Education
-  tags: simulating-students, agentic-ai, multi-agent, adaptive-learning, zone-of-proximal-development, knowledge-graph, intelligent-tutoring, llm
+  tags: simulating-students, agentic-ai, multi-agent, adaptive-learning, sociocultural-learning, knowledge-graph, intelligent-tutoring, llm
 - 📄 [[ai-acceptance-preservice-science-teachers-2026]] — raw/papers/ai-acceptance-preservice-science-teachers-2026.md
   Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
   tags: teacher-ai-competency, teacher-role, ai-literacy, higher-ed, stem-education, survey, equity, global-south
@@ -1071,7 +1071,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity, higher-ed
 - 🏷️ [[scaffolding]] — 
   Scaffolding
-  tags: zone-of-proximal-development, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition
+  tags: sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition
 - 📄 [[school-network-reorganization-optimization]] — raw/papers/2608.05427v1.md
   School network reorganization under educational and spatial constraints using classical and quantum optimization
   tags: ai-education, k-12, equity, simulation, systematic-review, policy, data-driven, optimization
@@ -1266,7 +1266,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience, scaffolding, rag, regulation
 - 📄 [[agentic-ai-pedagogical-best-practice-2026]] — raw/papers/agentic-ai-pedagogical-best-practice-2026.md
   Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-  tags: agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop, zone-of-proximal-development, agentic-workflows, desirable-difficulties, llm
+  tags: agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop, sociocultural-learning, agentic-workflows, desirable-difficulties, llm
 - 📄 [[agreement-not-quality-llm-coding-verification]] — raw/papers/2607.28890.md
   Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
   tags: llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity, research-methods, teacher-ai-collaboration, human-ai-collaboration, ai-literacy
@@ -1338,7 +1338,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: generative-ai, scaffolding, equity, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition
 - 📄 [[socratic-tests-conversational-assessment]] — raw/papers/2607.29624.md
   The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
-  tags: llm, generative-ai, assessment, automated-grading, assessment-validity, scaffolding, educational-theory, zone-of-proximal-development, ai-tutoring, automated-assessment
+  tags: llm, generative-ai, assessment, automated-grading, assessment-validity, scaffolding, educational-theory, sociocultural-learning, ai-tutoring, automated-assessment
 - 📄 [[structrag-diagram-reasoning-ai-tutoring]] — raw/papers/sle-2026-structrag-diagram-reasoning.md
   Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
   tags: intelligent-tutoring, stem-education, llm, generative-ai, automated-assessment, feedback, scaffolding, intelligent-tutoring, rag
@@ -1445,7 +1445,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: intelligent-tutoring, critical-thinking, cognitive-offloading, ai-assistance-reduces-persistence, student-experience, regulation
 - 📄 [[finkelstein-principled-ai-education-2025]] — raw/papers/finkelstein-principled-ai-education-2025.md
   Principled AI Education Framework
-  tags: ai-literacy, curriculum-design, instructional-design, generative-ai, zone-of-proximal-development, scaffolding, metacognition
+  tags: ai-literacy, curriculum-design, instructional-design, generative-ai, sociocultural-learning, scaffolding, metacognition
 - 📄 [[golrang-propact-pair-programming-2026]] — raw/papers/golrang-propact-pair-programming-2026.md
   ProPACT: Pair Programming with AI
   tags: pair-programming, collaborative-learning, cs-education, adaptive-learning-systems, rag, adaptive-learning, intelligent-tutoring
@@ -1478,7 +1478,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: llm, pedagogical-safety, reinforcement-learning, pedagogical-llm-training, open-source, rag
 - 📄 [[stanford-evidence-base-ai-k12-2026]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   Stanford Evidence Base: AI in K-12 Education
-  tags: k-12, ai-literacy, evidence, zone-of-proximal-development, k-12, intelligent-tutoring, scaffolding
+  tags: k-12, ai-literacy, evidence, sociocultural-learning, k-12, intelligent-tutoring, scaffolding
 - 📄 [[syal-multimodal-dialogue-stem-2026]] — raw/papers/syal-multimodal-dialogue-stem-2026.md
   Multimodal Dialogue in STEM Education
   tags: intelligent-tutoring, multimodal, socratic-method, stem-education, llm, intelligent-tutoring, scaffolding, metacognition
@@ -1537,7 +1537,7 @@ Last updated: 2026-08-19 | Total entries: 865
 - 📄 [[suacode-african-students-motivations]] — raw/papers/2607.22940.md
   Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course
   tags: cs-education, equity, mooc, global-south, equity-in-ai-education, ai-literacy, ai-education
-- 🏷️ [[zone-of-proximal-development]] — 
+- 🏷️ [[sociocultural-learning]] — 
   Zone Of Proximal Development
 
 ## 2026-07-27
@@ -2645,7 +2645,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy
 - 📄 [[text-simplification-its]] — raw/papers/2604.08947.md
   Text Simplification for Intelligent Tutoring
-  tags: intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop, generative-ai, human-in-the-loop-ai, zone-of-proximal-development, adaptive-learning-systems, ai-literacy
+  tags: intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop, generative-ai, human-in-the-loop-ai, sociocultural-learning, adaptive-learning-systems, ai-literacy
 - 📄 [[universities-ai-era-rethinking]] — raw/papers/2605.07056.md
   The University AI Didn''t Replace: Rethinking Universities in the AI Era
   tags: higher-ed, teacher-role, administrator, policy-maker, regulation, teacher-ai-competency, faculty-development-genai, student-experience, assessment-validity
@@ -2674,7 +2674,7 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: automated-assessment, llm, formative-assessment, feedback, higher-ed, learning-analytics, human-in-the-loop-ai, automated-assessment
 - 📄 [[collaborative-ai-tutoring]] — raw/papers/golrang-propact-pair-programming-2026.md
   Collaborative AI Tutoring
-  tags: intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, zone-of-proximal-development, affective-tutoring, adaptive-learning-systems, metacognition
+  tags: intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, sociocultural-learning, affective-tutoring, adaptive-learning-systems, metacognition
 - 📄 [[educational-llm-alignment]] — raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md
   Educational LLM Alignment
   tags: llm, benchmark, efficacy-study, bias-mitigation, teacher-role, pedagogical-llm-training, faculty-development-genai, ai-literacy, ethics
@@ -2728,10 +2728,10 @@ Last updated: 2026-08-19 | Total entries: 865
   tags: transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading
 - 📄 [[tutoring-specific-vs-general-ai]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   Tutoring-Specific vs. General-Purpose AI in Education
-  tags: intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, zone-of-proximal-development, metacognition
+  tags: intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, sociocultural-learning, metacognition
 - 📄 [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md
   Designing for Authentic Assessment: A Scoping Review
-  tags: ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, zone-of-proximal-development
+  tags: ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning
 
 ## 2026-05-06
 - 📄 [[genai-meta-analysis-programming-learning]] — raw/papers/2605.04779.md

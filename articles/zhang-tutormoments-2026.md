@@ -32,7 +32,7 @@ TutorMoments evaluates whether LM tutors select instructional actions appropriat
 - [[intelligent-tutoring]]
 - [[llm]]
 - [[cognitive-offloading]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 ## Connected Articles
 
 - [[lak2026-hint-button-unproductive-use]]

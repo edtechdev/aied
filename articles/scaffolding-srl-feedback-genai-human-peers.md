@@ -22,7 +22,7 @@ The study compared two parallel English classes (N = 118 first-year undergraduat
 ## Findings Across the SRL Phases
 
 - **Forethought:** GenAI students proactively designed and iteratively refined prompts aligned with their learning goals, engaging in a psychologically safe environment. Peer-group students largely selected feedback sources by social convenience (nearby peers, same-major peers, roommates), rarely had specific feedback goals, and faced interpersonal barriers and social anxiety about seeking feedback.
-- **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[zone-of-proximal-development]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
+- **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[sociocultural-learning]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
 - **Retrospect:** GenAI's immediate, iterative feedback enabled rapid confirmation of improvement and immediate self-reflection, helping students adjust feedback goals in subsequent cycles. Peer-group reflection was often delayed until later exams or assignments. Both groups recognized learner agency as central to effective feedback use.
 
 ## Implications

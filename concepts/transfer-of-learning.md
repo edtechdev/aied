@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:13:51-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
 
@@ -62,7 +62,7 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 
 ### Connections to related concepts
 
-Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[zone-of-proximal-development]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
+Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
 
 ## Connected Concepts
 
@@ -70,7 +70,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[intelligent-tutoring]]
 - [[k-12]]
 - [[self-regulated-learning]]

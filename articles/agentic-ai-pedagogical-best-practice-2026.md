@@ -3,7 +3,7 @@ title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop, zone-of-proximal-development, agentic-workflows, desirable-difficulties, llm]
+tags: [agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop, sociocultural-learning, agentic-workflows, desirable-difficulties, llm]
 sources: ['raw/papers/agentic-ai-pedagogical-best-practice-2026.md']
 confidence: high
 ---
@@ -39,7 +39,7 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 - [[formative-assessment]]
 - [[metacognition]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[human-in-the-loop-ai]]
 - [[collaborative-learning]]
 - [[self-regulated-learning]]

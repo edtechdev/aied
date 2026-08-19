@@ -356,6 +356,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`situated-learning`** — Situated Learning
     - phrases: situated learning; situated cognition; authentic context learning
 
+- **`sociocultural-learning`** — Sociocultural Learning
+    - phrases: sociocultural learning; sociocultural theory; sociocultural; Vygotsky; zone of proximal development; ZPD; mediated learning; mediation; cultural-historical activity theory; community of practice; apprenticeship; more knowledgeable other
+
 - **`social-emotional-learning`** — Social-Emotional Learning
     - phrases: social-emotional learning; SEL; social emotional; emotional learning
 
@@ -419,9 +422,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`writing-education`** — AI in Writing Education
     - phrases: writing education; writing; writing instruction; composition; academic writing
 
-- **`zone-of-proximal-development`** — Zone Of Proximal Development
-    - phrases: zone of proximal development; ZPD; Vygotsky
-
 ## Merged / absorbed (no longer separate pages)
 
 - `gamification` → **`game-based-learning`**
@@ -435,3 +435,4 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - `engagement-metrics` → **`student-engagement`**
 - `programming-education` → **`cs-education`**
 - `block-programming` → **`cs-education`**
+- `zone-of-proximal-development` → **`sociocultural-learning`**

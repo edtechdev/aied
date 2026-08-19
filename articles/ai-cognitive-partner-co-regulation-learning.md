@@ -34,7 +34,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 ## Key Findings
 
 - Proposes a developmental framework of human-AI co-regulation in which AI is conceptualized not merely as an external tool but as a **cognitive partner** in the co-regulation of thinking, learning, and self-control.
-- Integrates executive function, metacognition, distributed cognition, and sociocultural development theories to frame AI-mediated cognition as co-regulated between learner and intelligent system.
+- Integrates executive function, metacognition, distributed cognition, and [[sociocultural-learning|sociocultural development]] theories to frame AI-mediated cognition as co-regulated between learner and intelligent system.
 - Identifies four roles for AI in cognitive regulation: scaffold, metacognitive support, external memory / cognitive offloading system, and decision partner.
 - Argues the framework is most relevant in middle childhood, adolescence, and adulthood; early childhood AI support is limited to structured external regulation.
 - Highlights both benefits (performance gains via offloading, scaffolding, reduced cognitive load) and risks (over-reliance, excessive cognitive offloading, reduced independent reasoning and self-regulation development).

@@ -3,12 +3,12 @@ title: "AgentSchool: An LLM-Powered Multi-Agent Simulation for Education"
 created: "2026-08-12T22:10:30-04:00"
 updated: "2026-08-12"
 type: article
-tags: [simulating-students, agentic-ai, multi-agent, adaptive-learning, zone-of-proximal-development, knowledge-graph, intelligent-tutoring, llm]
+tags: [simulating-students, agentic-ai, multi-agent, adaptive-learning, sociocultural-learning, knowledge-graph, intelligent-tutoring, llm]
 sources: ['raw/papers/2605.30144.md']
 confidence: high
 ---
 
-> Ye et al. (2026) introduce **AgentSchool**, an LLM-driven multi-agent [[simulating-students|simulator]] that models learning as **state transition rather than prompted behavior**. It couples cognitively growable student agents (weighted subject knowledge graphs, thinking-workflow pools, explicit misconceptions) with adaptive teacher agents that plan, scaffold, and reflect along the [[zone-of-proximal-development]], embedded in a configurable scenery generator and a multi-scale simulator. It produces more differentiated mastery and misconception traces than baseline simulators and generates plausible classroom social dynamics (peripheral participation, cliques, opinion-leader emergence).
+> Ye et al. (2026) introduce **AgentSchool**, an LLM-driven multi-agent [[simulating-students|simulator]] that models learning as **state transition rather than prompted behavior**. It couples cognitively growable student agents (weighted subject knowledge graphs, thinking-workflow pools, explicit misconceptions) with adaptive teacher agents that plan, scaffold, and reflect along the [[sociocultural-learning]], embedded in a configurable scenery generator and a multi-scale simulator. It produces more differentiated mastery and misconception traces than baseline simulators and generates plausible classroom social dynamics (peripheral participation, cliques, opinion-leader emergence).
 
 The paper argues that validating educational AI is uniquely hard: interventions act on developing learners whose trajectories are irreversibly shaped, while real-world trials are slow, ethically constrained, and institutionally locked. LLM-based simulators offer a remedy, but many collapse learning into persona-conditioned role-play and can structurally penalize institutional novelty.
 
@@ -33,7 +33,7 @@ AgentSchool reframes student simulation as **stateful learning rather than role-
 
 - [[simulating-students]]
 - [[agentic-ai]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[knowledge-graph]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]

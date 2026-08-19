@@ -3,7 +3,7 @@ title: Principled AI Education Framework
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, curriculum-design, instructional-design, generative-ai, zone-of-proximal-development, scaffolding, metacognition]
+tags: [ai-literacy, curriculum-design, instructional-design, generative-ai, sociocultural-learning, scaffolding, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: medium
 ---
@@ -34,7 +34,7 @@ The emphasis on **discernment**, **empathy**, and **sense of self** as non-negot
 
 The framework also speaks to the growing evidence gap documented in [[stanford-evidence-base-ai-k12-2026]]: without principled foundations, the rush to implement AI in education proceeds without adequate causal evidence of effectiveness. Finkelstein's approach provides a normative compass — even where empirical evidence is thin, principles grounded in learning science can guide responsible implementation while research catches up.
 
-For course design, the framework connects directly to [[scaffolding]] practices and the [[zone-of-proximal-development]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
+For course design, the framework connects directly to [[scaffolding]] practices and the [[sociocultural-learning]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
 
 ## Connected Concepts
 
@@ -50,7 +50,7 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 - [[metacognition]]
 - [[scaffolding]]
 - [[transfer-of-learning]] — AI Learning Transfer
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base

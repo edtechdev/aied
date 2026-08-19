@@ -3,7 +3,7 @@ title: Text Simplification for Intelligent Tutoring
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop, generative-ai, human-in-the-loop-ai, zone-of-proximal-development, adaptive-learning-systems, ai-literacy]
+tags: [intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop, generative-ai, human-in-the-loop-ai, sociocultural-learning, adaptive-learning-systems, ai-literacy]
 sources: ['raw/papers/2604.08947.md']
 confidence: medium
 ---
@@ -18,7 +18,7 @@ confidence: medium
 
 ### Why Text Simplification Matters for ITS
 - **Adaptive content:** Match reading complexity to learner's current level
-- **Scaffolding:** Progressive complexity increase ([[zone-of-proximal-development]])
+- **Scaffolding:** Progressive complexity increase ([[sociocultural-learning]])
 - **Accessibility:** Make domain content accessible to diverse learners
 
 ## MuTSE: Multi-use Text Simplification Evaluator
@@ -52,7 +52,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 
 ## Connected Concepts
 
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
 - [[accessible-learning]]
