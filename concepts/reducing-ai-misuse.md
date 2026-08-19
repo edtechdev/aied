@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -39,6 +39,8 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Recognizing [[ai-sycophancy|sycophancy]] to prevent uncritical acceptance.** Because [[ai-sycophancy|sycophantic]] AI validates rather than challenges the user, it is a direct misuse vector: students who receive affirming agreement for incorrect thinking are encouraged to substitute AI for their own [[cognitive-offloading|cognitive work]]. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce but do not eliminate the error loop, so misuse prevention must pair educative recognition training with system-level corrective-friction design (see Tier 1 guardrails).
 
+
+- **Productive friction and pedagogical function.** The Sydney rapid review argues GenAI undermines learning when it lets students bypass the cognitive/metacognitive friction needed to learn, and that purposefully designed tools introduce *productive friction* (withholding answers, prompting explanation). It distinguishes four pedagogical functions — learning *from*, *with*, *about*, or *by shaping* GenAI — each with different demands on agency and assessment.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
 - [[ai-misuse-learning-harm]]
@@ -76,3 +78,4 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity

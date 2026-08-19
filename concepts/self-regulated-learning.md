@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-18T14:55:00-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -68,6 +68,8 @@ For example:
 - **For AI policy:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For researchers:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
+
+- **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
 - [[learning-by-teaching]]
@@ -124,3 +126,5 @@ For example:
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
+- [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T07:42:38-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -64,6 +64,8 @@ Cognitive Load Theory (Sweller) provides a contested theoretical lens on working
 
 Cognitive offloading (and its harmful form, over-reliance) connects fundamentally to [[trust-calibration]] — knowing when to trust and when to question AI — and [[ai-literacy]], which includes the metacognitive skill of knowing when to offload and recognizing one's own reliance patterns. It connects to [[scaffolding]] (structured support that reduces load without eliminating cognitive demand) and [[prompt-engineering]] (the primary mechanism through which offloading is enacted in LLM interactions). It intersects with [[metacognition]] and [[self-regulated-learning]] — effective learners calibrate their offloading decisions — and with [[critical-thinking]], [[agency]], and [[student-experience]].
 
+
+- **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -130,3 +132,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI

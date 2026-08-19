@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [philosophy-of-education, learning-theory, ethics, agency, posthumanism, epistemology, human-ai-collaboration, ai-education]
 confidence: high
@@ -45,3 +45,4 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
 - [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI

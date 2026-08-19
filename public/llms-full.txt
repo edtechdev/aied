@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 725 articles and 139 concepts.
+> Complete text of 726 articles and 139 concepts.
 
 # Articles
 
@@ -15977,31 +15977,49 @@ Fecko, B., Dziak, J., Vince, T., & Molnár, J. (2026). [*Generative AI interacti
 
 ## [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](https://edtechdev.github.io/aied/articles/generative-ai-reduced-study-time-math/)
 
-This landmark study provides the **first large-scale behavioral and outcome evidence** that [[generative-ai]] has fundamentally altered how students study and what they retain. Using a ten-year panel of **3.2 million ALEKS learning interactions** and complementary placement-assessment data, the authors employ a quasi-experimental design that exploits within-curriculum variation in AI susceptibility: text-based word problems that can be transcribed into AI prompts serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison.
+> **Synthesis:** Rismanchian, Uzun, Matayoshi, Cosyn, and Kurd-Misto (2026) provide the first large-scale behavioral and outcome evidence that [[generative-ai|generative AI]] has fundamentally altered how students study and what they retain. Using a ten-year panel of **3.2 million ALEKS learning interactions** plus **12.2 million ALEKS PPL placement-assessment response times**, a quasi-experimental design exploits within-curriculum variation in AI susceptibility: text-based word problems (transcribable into AI prompts) are treated, while interactive graph-based problems (requiring platform manipulation) serve as control. Learning time on AI-susceptible problems fell **2.8% per quarter** among college students after ChatGPT's release (26.9% cumulative over eleven quarters), the divergence **vanishes entirely under proctoring**, and proctored retention items show a **25% cumulative decline** in odds of correct response. The authors call this population-level displacement of thinking **cognitive surrender** — a shift from [[cognitive-offloading|deliberate offloading]] to passive dependency. ^[[generative-ai-reduced-study-time-math]]
 
-### Time-on-Task Decline
-Learning time on AI-susceptible problems declined at a rate of **2.8% per quarter** among college students after ChatGPT's release, cumulating to a **26.9% reduction** over eleven quarters. The effect varied by age group:
+## Study design and scale
+
+The study is notable for its scale and its quasi-experimental identification strategy:
+
+- **Time-on-task:** a ten-year panel of **3.2 million ALEKS learning interactions** (a mastery-based math learning platform).
+- **Learning outcomes and proctoring:** **12.2 million ALEKS PPL placement-assessment response times**, used to test whether the time decline persists when AI use is blocked (proctored) versus when it is not.
+- **Identification:** within-curriculum variation in **AI susceptibility** — text-based word problems that can be transcribed into prompts for an LLM serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison. This isolates AI-assisted offloading from general platform or curriculum effects.
+
+## Time-on-task decline
+
+Learning time on AI-susceptible problems declined at **2.8% per quarter** among college students after ChatGPT's release, cumulating to a **26.9% reduction** over eleven quarters. The effect varied sharply by age:
+
 - High school: **31.3%** cumulative decline
 - Middle school: **9.0%** cumulative decline
-- Grade 5: No detectable change
+- Grade 5: **no detectable change**
 
-### Proctoring Eliminates the Effect
-The divergence in study time **vanishes entirely under proctoring** for college students, ruling out general efficiency improvements as an explanation. This strongly implicates off-platform AI use rather than any platform, cohort, or curriculum change.
+The age gradient — absent for the youngest learners, strongest for high-schoolers and college students — is consistent with older students being more likely to access and use generative AI on their own.
 
-### Learning Outcome Impact
-- **Proctored retention items**: 25% cumulative decline in odds of correct response
-- **Non-proctored assessment**: Large opposite-signed increase — impossible to attribute to anything other than AI assistance
+## Proctoring eliminates the effect
 
-### The "Cognitive Surrender" Concept
-The authors introduce the term **cognitive surrender** to describe students offloading thinking to generative AI, producing a measurable population-level decline in durable knowledge. This represents a fundamental shift from [[cognitive-offloading]] as a deliberate metacognitive strategy to a passive, unreflective dependency.
+The divergence in study time **vanishes entirely under proctoring** for college students. This rules out general efficiency improvements, platform changes, cohort effects, or curriculum revisions as the explanation, and strongly implicates **off-platform AI use** as the driver. It is the cleanest evidence in the study that the decline reflects students substituting AI for their own [[cognitive-offloading|cognitive work]] rather than learning faster.
 
-## Implications for the Wiki
+## Learning outcome impact
 
-This study provides the strongest empirical evidence yet for the [[cognitive-offloading|Over-Reliance]] phenomenon documented across the wiki. It extends findings from [[genai-performance-vs-learning]] and [[cognitive-shift-ai-education]] by demonstrating effects at population scale with objective behavioral measures rather than self-report. The findings have direct implications for:
-- [[academic-integrity]] policy and assessment governance
-- [[ai-literacy]] curriculum design
-- learning-gains measurement methodology
-- Educational [[regulation]] and AI policy
+- **Proctored retention items:** a **25% cumulative decline** in odds of correct response (logistic fixed-effects models on randomly assigned proctored retention items) — durable knowledge is measurably worse.
+- **Non-proctored assessment:** a large **opposite-signed increase** — performance looks *better* when AI is available, but this is "impossible to attribute to anything other than AI assistance." This is the classic [[genai-performance-vs-learning|performance–learning gap]]: AI inflates immediate scores while eroding durable learning.
+
+## The "cognitive surrender" concept
+
+The authors introduce **cognitive surrender** to describe students offloading thinking to generative AI, producing a measurable population-level decline in durable knowledge. This represents a fundamental shift from [[cognitive-offloading]] as a deliberate, often [[metacognition|metacognitively]]-managed strategy to a passive, unreflective dependency — echoing the wiki's distinction between adaptive and maladaptive offloading and the mechanisms documented under [[reducing-ai-misuse]] and [[ai-misuse-learning-harm]].
+
+## Implications for AI in education
+
+This study provides the strongest empirical evidence yet for the over-reliance phenomenon documented across the wiki, at population scale with objective behavioral measures rather than self-report. Direct implications include:
+
+- **[[academic-integrity]] policy and assessment governance:** proctored, unassisted measures are essential because non-proctored performance is inflated by AI; the 25% proctored retention decline is the cost of unmonitored AI use.
+- **[[ai-literacy]] and [[self-regulated-learning]] curriculum design:** students need training to recognize and resist cognitive surrender, not just to use tools.
+- **[[assessment]] redesign:** the proctoring result validates unassisted and process-based assessment as ways to reveal and protect durable learning.
+- **[[learning-gains]] measurement methodology:** outcome measures must control for AI accessibility; self-report and non-proctored performance systematically understate the harm.
+- **Educational [[regulation]] and AI policy:** the age gradient and proctoring findings inform how policy should target different [[k-12]] and [[higher-ed]] levels.
+- **[[math-education]] specifically:** mastery platforms like ALEKS are directly affected, since text-based problems are the most AI-susceptible.
 
 ## Connected Concepts
 
@@ -16013,10 +16031,21 @@ This study provides the strongest empirical evidence yet for the [[cognitive-off
 - [[learning-gains]]
 - [[math-education]]
 - [[k-12]]
+- [[higher-ed]]
+- [[assessment]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ai-misuse-learning-harm]]
+- [[reducing-ai-misuse]]
+
 ## Connected Articles
 
-- [[genai-performance-vs-learning]]
-- [[cognitive-shift-ai-education]]
+- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning
+- [[cognitive-shift-ai-education]] — Evidence of a cognitive shift in AI education
+- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline in AI-native students
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive in mastery math
+- [[genai-availability-grades-satisfaction]] — AI availability, grades, and satisfaction
+
 ## Citation
 
 Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](https://arxiv.org/abs/2605.21629). arXiv:2605.21629.
@@ -34014,6 +34043,101 @@ Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). [*Co
 
 ---
 
+## [Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education](https://edtechdev.github.io/aied/articles/young-people-learning-generative-ai-rapid-review-2026/)
+
+> **Synthesis:** Arthars, Yang, Hill, Liu, and Markauskaite (2026) — a rapid literature review from the University of Sydney synthesizing **271 empirical papers** (2022–June 2026, Scopus + Web of Science) on how generative AI (GenAI) shapes learning for young people in **PreK-12** settings. Framed by the *How People Learn II* ecology (learners, contexts, cultures) and an ecological learning-sciences view, the review finds **no single "GenAI effect"**: affective gains are common but weak indicators of learning; the most consistent evidence is for improved *immediate* performance and product quality, while evidence on durable learning, transfer, and sustained self-regulation is more uneven. Outcomes depend on five entangled conditions — the learner, the tool, the task, social arrangements, and cultural/institutional context. The report's central contribution is a framework distinguishing students' **surrender, offloading, or agency** across cognitive, metacognitive, and affective dimensions, and four **pedagogical functions** of GenAI (learn *from*, *with*, *about*, or *by shaping* it). ^[[young-people-learning-generative-ai-rapid-review-2026]]
+
+## Purpose, framing, and method
+
+The review is aimed at educators, school leaders, and policymakers facing decisions that cannot wait for a mature evidence base. It takes a **learning-sciences, ecological perspective**: learning emerges from interactions among learners, tools, environments, and cultural norms, so GenAI's educational value cannot be assessed in isolation but only in relation to how it is configured.
+
+- **Method:** rapid literature review (Garritty method), Scopus + Web of Science, 2022 to 30 June 2026, English-language peer-reviewed journal articles and conference proceedings; **271 papers** included after screening; data coded across the learner/context/culture dimensions; retraction and publication-integrity checks run before finalization.
+- **Framing:** the *How People Learn II* (HPL II) structure — the characteristics/capacities of learners, the contexts of learning, and the cultural dimensions that shape what learning means and who participates.
+
+## Key findings on outcomes
+
+The evidence does **not** support a simple beneficial-or-harmful conclusion. Reported outcomes cluster into:
+
+- **Affective gains are common but weak.** GenAI use is often associated with increased interest, engagement, motivation, domain-specific self-efficacy, and reduced learning-related anxiety — across ages, subjects, and national contexts. But these are weak indicators of learning: confidence, ease, and perceived usefulness do not necessarily translate into durable understanding.
+- **Immediate performance improves most consistently.** Gains are strongest in immediate task performance, product quality, and knowledge assessed shortly after GenAI use (writing grammar/structure, math practice, programming performance). However, stronger performance *during* GenAI-supported activity does not mean students developed retainable, transferable capability.
+- **Higher-order reasoning is promising but uneven.** Studies associate GenAI-supported activities with argumentation, perspective-taking, critical reflection, evaluation, causal explanation, computational thinking, and creative problem-solving — but these outcomes are less consistently demonstrated and more likely when activities require students to explain, justify, compare, evaluate, reflect, or revise.
+- **Metacognitive and self-regulated learning outcomes are mixed.** GenAI can prompt monitoring/reflection/checking/revision *during* a supported activity, but benefits often do not persist when support is removed. Some uses encourage answer-seeking, dependence, weak verification, reduced self-monitoring, and a tendency to **overestimate learning**.
+- **The miscalibration gap.** GenAI can increase perceived learning even when durable learning is not demonstrated (e.g., note-taking outperformed GenAI alone on retention, yet students preferred GenAI and saw it as more helpful) — consistent with the fluency bias where learning that *feels* fluent is often shallow.
+
+## Five entangled conditions shaping outcomes
+
+1. **Learner characteristics/orientations** — prior knowledge and proficiency, self-regulation, self-efficacy, help-seeking and trust, and how students position GenAI in the activity. Higher-performing students use GenAI more strategically; lower-performing students outsource core work. The review highlights **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.
+2. **GenAI tool design** — open vs. constrained, scaffold- vs. answer-oriented, domain-specific vs. general-purpose, personas/roles/interfaces. The clearest demonstration is Bastani et al. (2025): the same GPT-4 configured as an unrestricted *GPT Base* versus a guardrailed *GPT Tutor* — students with GPT Base used it as a crutch and performed *worse* than controls when it was removed, while GPT Tutor students performed like controls. **Productive friction** built into tools (withholding answers, prompting explanation, Socratic questioning) supports learning.
+3. **The learning task** — what students are asked to produce and how. Tasks are more supportive when GenAI reduces *peripheral* barriers (syntax, retrieval) rather than replacing the learning goal itself. Pedagogical functions matter: learning **from** GenAI (tutor), **with** GenAI (cognitive tool), **about** GenAI (AI literacy), or **by shaping** GenAI (teachable-agent).
+4. **Social arrangements** — who participates and how. Hybrid teacher–GenAI feedback arrangements often outperform either alone; teacher orchestration, mediation, and scaffolding are central to critical engagement. Peer collaboration evidence is more uneven.
+5. **Cultural and institutional contexts** — resources, infrastructure, prior technology experience, cultural identity, and authority norms shape GenAI use and trust. Evidence here remains limited, so cross-context generalization needs care.
+
+## The surrender–offloading–agency continuum
+
+Building on Shaw and Nave's (2026) *cognitive surrender*, the review's central practical framework distinguishes how students relate to GenAI across **cognitive, metacognitive, and affective** dimensions:
+
+- **Surrender** — responsibility for learning-relevant work shifts to GenAI, often without deliberate awareness (accepting answers unchecked; letting GenAI decide what/how/when to learn; mistaking a fluent interaction for understanding).
+- **Offloading** — the learner intentionally delegates selected work (summarizing after an initial attempt, using GenAI for a study plan). This can support performance but only becomes learning if the student checks, elaborates, and connects output to their own understanding.
+- **Agency** — the learner retains responsibility for effort, judgment, and learning (asking GenAI to challenge an argument, generating practice scenarios, deliberately choosing not to use it when retrieval/effort is the point).
+
+These are not fixed properties of a practice but of how a practice is enacted. This connects directly to the wiki's treatment of [[cognitive-offloading|adaptive vs. maladaptive offloading]] and [[reducing-ai-misuse]].
+
+## Implications for teaching and learning
+
+- **Design for intentional GenAI use** tied to the learning goal; unmodified general-purpose tools are not neutral add-ons and can let students bypass the cognitive/metacognitive friction needed for learning.
+- **Clarify the pedagogical function** (from/with/about/by-shaping) to decide what agency, judgment, and accountability the activity requires.
+- **Foster student agency in learning-relevant work** — judge GenAI use by what students remain able and responsible to do (read, reason, explain, check, revise, judge, monitor).
+- **Teach students to regulate GenAI tool use** — stage-appropriate guidance on when to use it, how to monitor its effects on thinking, and when independent effort is important. Especially important for younger learners and those with less prior knowledge.
+- **Evaluate learning beyond immediate performance** — evidence aligned with the intended purpose, including process records, oral explanations, transfer/delayed tasks, and capability demonstrated without GenAI.
+- **Position teachers to do what only teachers do** — relational, pedagogical, higher-order work; hybrid human–GenAI arrangements are promising but place *greater* demands on teacher expertise, requiring time, training, and support.
+
+## Implications for leadership, policy, and system design
+
+- **Move beyond adoption-or-ban.** Unrestricted use carries bypass risks; prohibiting all use leaves students underprepared for the open-ended tools they will meet beyond school.
+- **Build developmentally responsive guidance** — a staged approach responsive to age, prior knowledge, and self-regulatory capacity, distinguishing beneficial from detrimental offloading.
+- **Make learning visible across varied configurations** — assessment based on a range of evidence beyond the immediate product.
+- **Build system capacity, governance, and shared responsibility** — professional learning, and treating governance, equity, and pedagogy together (uneven access, privacy, safety, procurement).
+- **GenAI literacy is necessary but insufficient** — students also need foundational domain knowledge to reason and judge, alongside questioning, critique, synthesis, ethical judgment, and coordination skills.
+
+## Connected Concepts
+
+- [[k-12]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[reducing-ai-misuse]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[assessment]]
+- [[educational-policy-ai]]
+- [[equity-in-ai-education]]
+- [[teacher-education]]
+- [[student-engagement]]
+- [[transfer-of-learning]]
+- [[desirable-difficulties]]
+- [[feedback]]
+- [[scaffolding]]
+- [[agency]]
+- [[human-ai-collaboration]]
+- [[learning-gains]]
+- [[philosophy-of-ai-in-education]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[generative-ai-reduced-study-time-math]] — Cognitive surrender and the performance–learning gap in math
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: the harm cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a mediational agent
+- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline in AI-native students
+- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning
+- [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI
+
+## Citation
+
+Arthars, N., Yang, H., Hill, M., Liu, D., & Markauskaite, L. (2026). [Young people, learning, and generative AI: A rapid literature review and implications for PreK-12 education](https://barker.institute/news/young-people-learning-and-generative-ai-a-rapid-literature-review-and-implications-for-prek-12-education/). The University of Sydney.
+
+---
+
 ## [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://edtechdev.github.io/aied/articles/youtube-frames-chatgpt-education/)
 
 Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumbnails, comments) to show how different creator groups frame ChatGPT use in education, revealing divergent narratives around learning support versus academic-integrity risk. The work connects to broader debates about how [[generative-ai]] systems reshape [[student-experience]] and the conditions under which AI support [[scaffolding|scaffolds]] rather than undermines learning. It has direct implications for [[pedagogy-ai-mistakes]] and the risk of [[cognitive-offloading|Over-Reliance]] when assistants absorb too much of the cognitive load. Findings also bear on [[ai-literacy]] and [[self-regulated-learning]], and on how institutions should govern [[student-experience]] and [[academic-integrity]]. Practitioners in [[higher-ed]] and [[teacher-role|teachers]] can use the evidence to calibrate when to deploy [[llm]]-based help and how to pair it with [[feedback|feedback]] that preserves learning gains.
@@ -34601,6 +34725,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[avraamidou-ai-colonization-science-education]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review: AI as threat and detection tool for academic integrity
+- [[generative-ai-reduced-study-time-math]] — Proctored retention decline (25%) shows AI inflates non-proctored performance
 
 ---
 
@@ -35075,6 +35200,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
 
 ---
 
@@ -35608,6 +35734,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor–employer AI skills prioritization gap (2026)
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI literacy necessary but insufficient; four pedagogical functions
+- [[generative-ai-reduced-study-time-math]] — Students need training to recognize and resist cognitive surrender
 
 ---
 
@@ -35877,6 +36005,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Evaluate learning beyond immediate GenAI-supported performance
+- [[generative-ai-reduced-study-time-math]] — Proctored, unassisted measures essential; non-proctored inflated by AI
 
 ---
 
@@ -36477,6 +36607,8 @@ Cognitive Load Theory (Sweller) provides a contested theoretical lens on working
 
 Cognitive offloading (and its harmful form, over-reliance) connects fundamentally to [[trust-calibration]] — knowing when to trust and when to question AI — and [[ai-literacy]], which includes the metacognitive skill of knowing when to offload and recognizing one's own reliance patterns. It connects to [[scaffolding]] (structured support that reduces load without eliminating cognitive demand) and [[prompt-engineering]] (the primary mechanism through which offloading is enacted in LLM interactions). It intersects with [[metacognition]] and [[self-regulated-learning]] — effective learners calibrate their offloading decisions — and with [[critical-thinking]], [[agency]], and [[student-experience]].
 
+
+- **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -36543,6 +36675,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
 
 ---
 
@@ -37317,6 +37450,7 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
 
 ---
 
@@ -37755,6 +37889,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
 - [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Move beyond adoption-or-ban; staged, developmentally responsive guidance
 
 ---
 
@@ -38033,6 +38168,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[avraamidou-ai-colonization-science-education]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Metacognitive inequity and uneven access
 
 ---
 
@@ -38376,6 +38512,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-peer-feedback-systems]] — AI peer feedback systems
 - [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
 - [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflow
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Hybrid teacher-GenAI feedback outperforms either alone
 
 ---
 
@@ -38699,6 +38836,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI impact on academic integrity
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12 education
+- [[generative-ai-reduced-study-time-math]] — Cognitive surrender: 26.9% study-time decline in AI-susceptible math
 
 ---
 
@@ -39029,6 +39168,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in higher education
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
+- [[generative-ai-reduced-study-time-math]] — 26.9% study-time decline among college students
 
 ---
 
@@ -39095,6 +39236,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
 
 ---
 
@@ -39648,6 +39790,8 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Rapid review: GenAI and PreK-12 learners (271 papers)
+- [[generative-ai-reduced-study-time-math]] — Cognitive surrender strongest for high schoolers, absent for Grade 5
 
 ---
 
@@ -39980,6 +40124,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[genai-educational-outcomes-meta-analysis]]
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
 
 ---
 
@@ -40324,6 +40469,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-control-ai-generation-math-visuals]]
 - [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
+- [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
 
 ---
 
@@ -40587,6 +40733,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI suppresses metacognition by completing reasoning
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
+- [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
 
 ---
 
@@ -41291,6 +41439,7 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
 - [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI
 
 ---
 
@@ -41762,6 +41911,8 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Recognizing [[ai-sycophancy|sycophancy]] to prevent uncritical acceptance.** Because [[ai-sycophancy|sycophantic]] AI validates rather than challenges the user, it is a direct misuse vector: students who receive affirming agreement for incorrect thinking are encouraged to substitute AI for their own [[cognitive-offloading|cognitive work]]. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce but do not eliminate the error loop, so misuse prevention must pair educative recognition training with system-level corrective-friction design (see Tier 1 guardrails).
 
+
+- **Productive friction and pedagogical function.** The Sydney rapid review argues GenAI undermines learning when it lets students bypass the cognitive/metacognitive friction needed to learn, and that purposefully designed tools introduce *productive friction* (withholding answers, prompting explanation). It distinguishes four pedagogical functions — learning *from*, *with*, *about*, or *by shaping* GenAI — each with different demands on agency and assessment.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
 - [[ai-misuse-learning-harm]]
@@ -41799,6 +41950,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity
 
 ---
 
@@ -41854,6 +42006,7 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
 - [[dot-framework-survey-2026]] — Technology-adoption frameworks
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
+- [[generative-ai-reduced-study-time-math]] — Age gradient and proctoring findings inform AI policy
 
 ---
 
@@ -42071,6 +42224,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
 
 ---
 
@@ -42213,6 +42367,8 @@ For example:
 - **For AI policy:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For researchers:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
+
+- **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
 - [[learning-by-teaching]]
@@ -42269,6 +42425,8 @@ For example:
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
+- [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 
 ---
 
@@ -42812,6 +42970,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
 
 ---
 
@@ -43134,6 +43293,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
 
 ---
 
@@ -43403,6 +43563,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[brookings-ai-students-report]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Performance-learning distinction and durable transfer
 
 ---
 

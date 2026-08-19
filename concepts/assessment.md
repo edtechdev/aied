@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -88,3 +88,5 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Evaluate learning beyond immediate GenAI-supported performance
+- [[generative-ai-reduced-study-time-math]] — Proctored, unassisted measures essential; non-proctored inflated by AI

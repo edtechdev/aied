@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
@@ -92,3 +92,4 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[avraamidou-ai-colonization-science-education]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review: AI as threat and detection tool for academic integrity
+- [[generative-ai-reduced-study-time-math]] — Proctored retention decline (25%) shows AI inflates non-proctored performance
