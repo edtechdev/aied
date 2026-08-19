@@ -23,7 +23,7 @@ This is a **design-based/co-design and deployment study**. The researchers co-de
 
 ## Implications for AI in Education
 
-RoboBuddy demonstrates how [[llm|LLM-powered]] [[social-robots]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how generative AI can help teachers author content for social robots. This connects to [[human-robot-interaction]], [[storytelling-in-education|narrative-based learning]], and the use of embodied AI to support inclusive, culturally responsive classrooms.
+RoboBuddy demonstrates how [[llm|LLM-powered]] [[educational-robotics]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how generative AI can help teachers author content for social robots. This connects to [[educational-robotics]], [[storytelling-in-education|narrative-based learning]], and the use of embodied AI to support inclusive, culturally responsive classrooms.
 
 ## Limitations
 
@@ -31,8 +31,8 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 
 ## Connected Concepts
 
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[llm]]
 - [[educational-robotics]]
 - [[teacher-role]]

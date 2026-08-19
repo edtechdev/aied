@@ -7,7 +7,7 @@ tags: [storytelling, engagement, motivation, social-robots, creativity, language
 confidence: high
 ---
 
-> **Storytelling in education** — the use of narrative as a pedagogical tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[social-robots|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, personalization, and embodiment that conventional (paper-based or slide-based) storytelling lacks.
+> **Storytelling in education** — the use of narrative as a pedagogical tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[educational-robotics|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, personalization, and embodiment that conventional (paper-based or slide-based) storytelling lacks.
 
 Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] theories of learning. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and AI agents build stories together, and interactive narrative that responds to the learner.
 
@@ -17,14 +17,14 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 - **Co-creative narrative HRI:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative study]] explores human-robot co-creation of stories, integrating generative models for contextually appropriate interaction.
 - **Narrative and creativity:** Storytelling supports [[creativity]] and [[language-learning|language]] development, and is used to enhance motivation and engagement in [[k-12]] settings.
 
-Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[social-robots]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
+Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
 
 ## Connected Concepts
 
 - [[student-engagement]]
 - [[motivation]]
 - [[creativity]]
-- [[social-robots]]
+- [[educational-robotics]]
 - [[language-learning]]
 - [[social-emotional-learning]]
 - [[educational-robotics]]

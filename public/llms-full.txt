@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 736 articles and 141 concepts.
+> Complete text of 736 articles and 139 concepts.
 
 # Articles
 
@@ -12233,7 +12233,7 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 - [[llm]]
 - [[cs-education]]
 - [[computational-thinking]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
 - [[simulation]]
 
 ## Connected Articles
@@ -12986,7 +12986,7 @@ Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through
 
 ## Educational Significance
 
-EC's value lies in offering conceptual vocabulary for asking better questions about [[human-robot-interaction|human-AI collaboration]] in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
+EC's value lies in offering conceptual vocabulary for asking better questions about [[educational-robotics|human-AI collaboration]] in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
 
 ## Connected Concepts
 
@@ -17769,7 +17769,7 @@ This is a **systematic literature review** following the PRISMA workflow. The au
 
 ## Implications for AI in Education
 
-The review provides a foundational evidence base for understanding how [[human-robot-interaction]] and [[social-robots]] affect [[agency]] and autonomy in learning contexts. As robots are increasingly used in education, preserving learners' sense of agency is a core ethical and design concern, connecting to [[ethics]], [[well-being]], and the governance of AI in education. The review's synthesis of measurement approaches (SDT-based autonomy scales, intentional-binding measures of agency) offers researchers tools for evaluating how educational robots support or undermine learner agency, and informs responsible design of embodied AI in classrooms.
+The review provides a foundational evidence base for understanding how [[educational-robotics]] and [[educational-robotics]] affect [[agency]] and autonomy in learning contexts. As robots are increasingly used in education, preserving learners' sense of agency is a core ethical and design concern, connecting to [[ethics]], [[well-being]], and the governance of AI in education. The review's synthesis of measurement approaches (SDT-based autonomy scales, intentional-binding measures of agency) offers researchers tools for evaluating how educational robots support or undermine learner agency, and informs responsible design of embodied AI in classrooms.
 
 ## Limitations
 
@@ -17777,8 +17777,8 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 
 ## Connected Concepts
 
-- [[human-robot-interaction]]
-- [[social-robots]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[agency]]
 - [[ethics]]
 - [[well-being]]
@@ -18189,12 +18189,12 @@ Shengjie Li, Vincent Ng (2026). [ICLE++: Modeling Fine-Grained Traits for Holist
 ## Study Design & Method
 This is a **usability/quality-of-experience study** of an LLM-powered narrative human-robot interaction system built on the iCub humanoid platform. The researchers integrated perceptual capabilities for social-cue recognition with generative-model understanding (ChatGPT) and implemented a storytelling interaction protocol where the human and robot jointly create a story by exchanging cubes with creative images. Participants interacted with the system, and the degree of usability and quality of experience was quantified to validate the framework and protocol.
 ## Implications for AI in Education
-The work demonstrates how **LLM-powered social robots** can support collaborative, engaging learning interactions such as storytelling, relevant to [[human-robot-interaction]], [[social-robots]], and [[educational-robotics]]. Integrating generative models enables robots to respond adaptively and contextually to children, supporting naturalistic educational interaction. This connects to [[llm|large language models]] in education and to child-focused learning activities such as storytelling, with implications for how embodied AI agents can participate in co-creation and narrative learning.
+The work demonstrates how **LLM-powered social robots** can support collaborative, engaging learning interactions such as storytelling, relevant to [[educational-robotics]], [[educational-robotics]], and [[educational-robotics]]. Integrating generative models enables robots to respond adaptively and contextually to children, supporting naturalistic educational interaction. This connects to [[llm|large language models]] in education and to child-focused learning activities such as storytelling, with implications for how embodied AI agents can participate in co-creation and narrative learning.
 ## Limitations
 The study focuses on usability and perceived quality of experience rather than measured learning outcomes; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
 ## Connected Concepts
-- [[human-robot-interaction]]
-- [[social-robots]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[educational-robotics]]
 - [[llm]]
 - [[student-engagement]]
@@ -19426,7 +19426,7 @@ This is a **qualitative interview study**. The researchers conducted twelve semi
 
 ## Implications for AI in Education
 
-The study provides a design foundation for building [[social-robots|generative social robots]] as tutors in [[higher-ed]], addressing the risks of misinformation, overreliance, and privacy violations. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[ethics|responsible AI]] design. For designers and educators, it specifies the knowledge a tutoring robot must hold (about itself, the user, and the domain) to behave responsibly and effectively, informing the development of trustworthy AI tutoring agents.
+The study provides a design foundation for building [[educational-robotics|generative social robots]] as tutors in [[higher-ed]], addressing the risks of misinformation, overreliance, and privacy violations. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[ethics|responsible AI]] design. For designers and educators, it specifies the knowledge a tutoring robot must hold (about itself, the user, and the domain) to behave responsibly and effectively, informing the development of trustworthy AI tutoring agents.
 
 ## Limitations
 
@@ -19434,7 +19434,7 @@ The findings derive from twelve interviews in a specific higher-education contex
 
 ## Connected Concepts
 
-- [[social-robots]]
+- [[educational-robotics]]
 - [[generative-ai]]
 - [[llm]]
 - [[higher-ed]]
@@ -24074,11 +24074,11 @@ Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging
 ## Study Design & Method
 This is a **quasi-experimental study**. The researchers compared student engagement and creativity across three storytelling modalities: paper-based, PowerPoint-based, and robot-assisted storytelling using the MotiBo system (a human-like interactive digital storytelling robot). Three groups of students participated over a five-day learning period. The study measured behavioural and cognitive engagement, and considered creativity as an outcome, analyzing differences across the three conditions.
 ## Implications for AI in Education
-MotiBo demonstrates how [[social-robots]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, embodied robot to storytelling increases behavioural and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
+MotiBo demonstrates how [[educational-robotics]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, embodied robot to storytelling increases behavioural and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
 ## Limitations
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper learning outcomes and creativity requires further investigation.
 ## Connected Concepts
-- [[social-robots]]
+- [[educational-robotics]]
 - [[educational-robotics]]
 - [[motivation]]
 - [[self-determination-theory]]
@@ -26173,12 +26173,12 @@ Hosseini, A.H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thi
 ## Study Design & Method
 This is an **exploratory design and user-study** in human-robot interaction. The researchers co-designed 52 Italian Sign Language signs with a Deaf student and an expert interpreter, implementing them on the Pepper platform using two techniques (manual animation and MATLAB-based inverse kinematics). An exploratory user study with 12 LIS-proficient participants (both Deaf and hearing) evaluated the intelligibility of the produced signs and short signed sentences, examining the feasibility of robot-mediated sign-language communication.
 ## Implications for AI in Education
-The work extends [[social-robots]] into [[equity-in-ai-education]] by exploring robots' capacity to communicate in [[special-education]], which could foster more inclusive human-robot interaction in educational settings and support Deaf learners. It connects to [[human-robot-interaction]], [[accessible-learning]], and [[special-education]], highlighting both the potential and the technical challenges of enabling robots to produce intelligible sign language. For educators, it points toward socially assistive robots as tools for inclusive classrooms, while underscoring the need for co-design with Deaf communities.
+The work extends [[educational-robotics]] into [[equity-in-ai-education]] by exploring robots' capacity to communicate in [[special-education]], which could foster more inclusive human-robot interaction in educational settings and support Deaf learners. It connects to [[educational-robotics]], [[accessible-learning]], and [[special-education]], highlighting both the potential and the technical challenges of enabling robots to produce intelligible sign language. For educators, it points toward socially assistive robots as tools for inclusive classrooms, while underscoring the need for co-design with Deaf communities.
 ## Limitations
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
 ## Connected Concepts
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[special-education]]
 - [[equity-in-ai-education]]
 - [[accessible-learning]]
@@ -26206,13 +26206,13 @@ Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Usi
 ## Study Design & Method
 This is a **scoping review** following the **PRISMA-ScR** guidelines. The authors searched Scopus, Web of Science, ERIC-Proquest, and Dialnet for peer-reviewed publications on the Pepper robot in formal education between 2014 and 1 March 2026. After duplicate removal and screening (1,448 references identified, 1,100 after deduplication, 345 full-text assessed), 13 studies met the inclusion criteria. Data extraction used a structured tool (piloted on three articles) covering authorship, country, objective, methodology, robot characteristics, curriculum area, student profile, teacher role, implementation issues, and reported benefits. Analysis combined descriptive analysis (frequencies/trends) and thematic categorical analysis (deductive, following Braun & Clarke), organized around themes of robot role, curricular areas, student profile, teacher role, challenges, and benefits.
 ## Implications for AI in Education
-The review situates Pepper's educational value beyond the technology itself: its embodiment, humanoid appearance, and multimodal interaction may foster initial interest but do not, in themselves, guarantee a meaningful educational experience. It positions the teacher as central — Pepper requires planning, supervision, regulation of interaction, and adjustment during activities, and should be understood as a **supportive pedagogical resource rather than a substitute for the teacher**. This connects to [[social-robots]], [[educational-robotics]], [[human-robot-interaction]], and [[teacher-role]], and cautions against technocentric approaches, calling for realistic, critical, and contextualized uses of social robotics. It is relevant to [[k-12]], [[higher-ed]], [[special-education]], and [[equity-in-ai-education|inclusive education]], and to [[research-methods-aied|research-methods]] debates about the predominance of small-sample qualitative studies and the need for longitudinal evidence.
+The review situates Pepper's educational value beyond the technology itself: its embodiment, humanoid appearance, and multimodal interaction may foster initial interest but do not, in themselves, guarantee a meaningful educational experience. It positions the teacher as central — Pepper requires planning, supervision, regulation of interaction, and adjustment during activities, and should be understood as a **supportive pedagogical resource rather than a substitute for the teacher**. This connects to [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], and [[teacher-role]], and cautions against technocentric approaches, calling for realistic, critical, and contextualized uses of social robotics. It is relevant to [[k-12]], [[higher-ed]], [[special-education]], and [[equity-in-ai-education|inclusive education]], and to [[research-methods-aied|research-methods]] debates about the predominance of small-sample qualitative studies and the need for longitudinal evidence.
 ## Limitations
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
 ## Connected Concepts
-- [[social-robots]]
 - [[educational-robotics]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[teacher-role]]
 - [[k-12]]
 - [[higher-ed]]
@@ -27901,7 +27901,7 @@ This is a **mixed-methods play-testing study**. The researchers designed REMind,
 
 ## Implications for AI in Education
 
-REMind demonstrates how [[social-robots]] can support [[social-emotional-learning]] through embodied role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/game-based learning, and the use of embodied AI to address social and emotional learning outcomes — a distinct application beyond technical/programming robotics education.
+REMind demonstrates how [[educational-robotics]] can support [[social-emotional-learning]] through embodied role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/game-based learning, and the use of embodied AI to address social and emotional learning outcomes — a distinct application beyond technical/programming robotics education.
 
 ## Limitations
 
@@ -27909,7 +27909,7 @@ The evaluation involved a small sample (18 children aged 9–10) in a play-testi
 
 ## Connected Concepts
 
-- [[social-robots]]
+- [[educational-robotics]]
 - [[social-emotional-learning]]
 - [[educational-robotics]]
 - [[k-12]]
@@ -28430,7 +28430,7 @@ This is a **design-based/co-design and deployment study**. The researchers co-de
 
 ## Implications for AI in Education
 
-RoboBuddy demonstrates how [[llm|LLM-powered]] [[social-robots]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how generative AI can help teachers author content for social robots. This connects to [[human-robot-interaction]], [[storytelling-in-education|narrative-based learning]], and the use of embodied AI to support inclusive, culturally responsive classrooms.
+RoboBuddy demonstrates how [[llm|LLM-powered]] [[educational-robotics]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how generative AI can help teachers author content for social robots. This connects to [[educational-robotics]], [[storytelling-in-education|narrative-based learning]], and the use of embodied AI to support inclusive, culturally responsive classrooms.
 
 ## Limitations
 
@@ -28438,8 +28438,8 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 
 ## Connected Concepts
 
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[llm]]
 - [[educational-robotics]]
 - [[teacher-role]]
@@ -28484,8 +28484,8 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[language-learning]]
 - [[embodied-learning]]
 - [[multimodal]]
@@ -29877,8 +29877,8 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[open-source]]
 - [[stem-education]]
 - [[educational-robotics]]
-- [[human-robot-interaction]]
-- [[social-robots]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[higher-ed]]
 
 ## Connected Articles
@@ -31828,7 +31828,7 @@ This is a **within-subjects experimental study**. The researchers conducted a vi
 
 ## Implications for AI in Education
 
-The study provides evidence that **task context shapes trust in educational robots more than appearance**, a key finding for [[social-robots]] and [[human-robot-interaction]] design. For educators and designers, it suggests that trust in [[educational-robotics|educational robots]] depends on what the robot is asked to do (e.g., instruction elicits higher trust) rather than on a single optimal embodiment. This informs the deployment of socially assistive robots across teaching, procedural instruction, and personal-information tasks in [[higher-ed]] and other settings, and connects to trust and acceptance of AI in learning.
+The study provides evidence that **task context shapes trust in educational robots more than appearance**, a key finding for [[educational-robotics]] and [[educational-robotics]] design. For educators and designers, it suggests that trust in [[educational-robotics|educational robots]] depends on what the robot is asked to do (e.g., instruction elicits higher trust) rather than on a single optimal embodiment. This informs the deployment of socially assistive robots across teaching, procedural instruction, and personal-information tasks in [[higher-ed]] and other settings, and connects to trust and acceptance of AI in learning.
 
 ## Limitations
 
@@ -31836,8 +31836,8 @@ The study used a within-subjects video-based paradigm rather than physical inter
 
 ## Connected Concepts
 
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[educational-robotics]]
 - [[trust]]
 - [[higher-ed]]
@@ -32485,11 +32485,11 @@ Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot fo
 ## Study Design & Method
 This is a **system development and preliminary evaluation study**. The researchers operationalized knowledge-based design requirements for generative social robots by implementing them on the Reachy Mini robot platform using system prompting, retrieval-augmented generation (RAG), and stateful prompt orchestration, building the Teachy Mini tutoring system. A preliminary evaluation study with 24 participants had them complete a robot-guided learning session about research methodologies, comparing learning with Teachy Mini against an alternative mode to assess the system's effectiveness and the value of the KBD approach.
 ## Implications for AI in Education
-Teachy Mini demonstrates how **knowledge-based design requirements** can be concretely implemented in [[social-robots|generative social robots]] for [[higher-ed]] tutoring, using system prompting, RAG, and stateful prompt orchestration to mitigate risks such as misinformation and reinforcing incorrect responses. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[educational-robotics]]. For designers and educators, it provides a validated example of translating responsible-AI design principles into a functioning embodied tutor, complementing [[knowledge-based-design-generative-social-robots-2026|the prior KBD requirements study]].
+Teachy Mini demonstrates how **knowledge-based design requirements** can be concretely implemented in [[educational-robotics|generative social robots]] for [[higher-ed]] tutoring, using system prompting, RAG, and stateful prompt orchestration to mitigate risks such as misinformation and reinforcing incorrect responses. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[educational-robotics]]. For designers and educators, it provides a validated example of translating responsible-AI design principles into a functioning embodied tutor, complementing [[knowledge-based-design-generative-social-robots-2026|the prior KBD requirements study]].
 ## Limitations
 The evaluation is preliminary with a small sample (N = 24), and the specific comparative learning outcomes are not fully detailed in the abstract. The system is built on the Reachy Mini platform, so generalizability to other robot platforms and to broader disciplinary content requires further study. The focus is on research-methodology tutoring, and longer-term effects and broader responsible-AI risks warrant additional evaluation.
 ## Connected Concepts
-- [[social-robots]]
+- [[educational-robotics]]
 - [[generative-ai]]
 - [[llm]]
 - [[higher-ed]]
@@ -35294,7 +35294,7 @@ Accessible learning sits at the intersection of [[equity-in-ai-education]], [[in
 
 **AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how [[collaborative-learning|collaborative learning]] structures affect neurodivergent comfort. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for Deaf and Hard of Hearing learners, introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video — while revealing the persistent mismatch between text-based AI prompts and DHH learners' sign-based first languages, underscoring the need for language- and culture-aware AI design. **[[text-simplification-its|MuTSE]]** tackles a complementary barrier — reading level — by evaluating LLM-based text simplification for [[intelligent-tutoring]], matching content complexity to each learner's current level via a human-in-the-loop evaluation framework rather than relying on linguistic metrics that miss pedagogical quality.
 
-**Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, multilingual answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[social-robots]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning.
+**Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, multilingual answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[educational-robotics]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning.
 
 **Inclusive assessment design** grapples with the tension between security and accessibility. **[[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]** proposes a theoretical framework for adaptive visual diversion that resists screen-capture cheating while accommodating learners with visual-processing needs — explicitly modeling the trade-off between anti-cheating measures and accessible-learning principles. This connects to broader [[academic-integrity]] and [[assessment]] concerns.
 
@@ -35316,7 +35316,7 @@ The wiki's accessible-learning research converges on a set of concrete design pr
 
 ### Connections to related concepts
 
-Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[social-robots]], [[human-robot-interaction]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]], [[educational-robotics]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
 
 ## Connected Concepts
 
@@ -35335,8 +35335,8 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[privacy]]
 - [[generative-ai]]
 - [[ai-education]]
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[educational-nlp]]
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
@@ -35716,14 +35716,14 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 
 > **Learner agency** — the capacity of learners to act intentionally, make choices, and exercise control over their own learning. In AI in education, agency is a central concern because AI tools can both support and undermine learners' control: well-designed AI preserves and amplifies learner autonomy, while over-reliance or passive acceptance of AI output can erode it. Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], and the [[ethics|ethical]] design of AI systems, and is closely related to the psychological concepts of autonomy and sense of agency.
 
-Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[social-robots|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
+Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
 ### How agency appears in the wiki's research
 
-- **Robotics and [[human-robot-interaction|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in computational thinking; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to well-being and governance debates.
+- **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in computational thinking; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to well-being and governance debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] research examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
 - **Critical engagement:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
-- **Design for agency:** Knowledge-based design for [[social-robots|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
+- **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
@@ -35958,7 +35958,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
-- **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
+- **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[educational-robotics|social robots]], [[educational-robotics|robots in education]], [[educational-robotics|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
@@ -36020,7 +36020,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[governance]]
 - [[educational-policy-ai]]
 - [[educational-robotics]]
-- [[social-robots]]
+- [[educational-robotics]]
 - [[distributed-cognition]]
 - [[situated-learning]]
 - [[critical-pedagogy]]
@@ -38623,40 +38623,55 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 
 ## [Robots in Education](https://edtechdev.github.io/aied/concepts/educational-robotics/)
 
-> **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for teaching and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering problem solving, [[critical-thinking|critical thinking]], [[creativity]], and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The wiki's robotics corpus spans curriculum-integrated programming, LLM-powered conversational tutors, socially assistive storytelling robots, and role-play for social-emotional learning.
+> **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for teaching and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering problem solving, [[critical-thinking|critical thinking]], [[creativity]], and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The wiki's robotics corpus spans curriculum-integrated programming, LLM-powered conversational tutors, socially assistive storytelling robots, and role-play for social-emotional learning. It is underpinned by two closely related areas absorbed here: **social robots** (robots designed for social interaction and relationship-building) and **human–robot interaction (HRI)** (the study of how people perceive, trust, and learn with robots).
 
-Educational robotics is a distinct but closely related application of AI in education. Unlike software-only [[intelligent-tutoring|intelligent tutoring]] or [[llm|LLM]] chatbots, robots add an **embodied** and often **social** presence — a physical agent that learners can see, manipulate, and (increasingly) converse with. This embodiment is central to their pedagogical value: it grounds abstract program logic in observable behaviour, and it can support relationship-building and emotional engagement that disembodied systems cannot. The field overlaps with [[human-robot-interaction]] (the study of how people and robots interact) and [[social-robots]] (robots designed to engage people socially).
+Educational robotics is a distinct but closely related application of AI in education. Unlike software-only [[intelligent-tutoring|intelligent tutoring]] or [[llm|LLM]] chatbots, robots add an **embodied** and often **social** presence — a physical agent that learners can see, manipulate, and (increasingly) converse with. This embodiment is central to their pedagogical value: it grounds abstract program logic in observable behaviour, and it can support relationship-building and emotional engagement that disembodied systems cannot.
+
+### Social robots and human–robot interaction
+
+Two strands shape the social side of robotics in education.
+
+**Social robots** are robots designed to engage people through social interaction, using human-like cues such as speech, gesture, facial expression, and personality to communicate, teach, assist, or accompany. In education, social robots (humanoids like iCub, Pepper, Reachy, and companion robots) are used for tutoring, storytelling, role-play, language support, and as study companions. Their social presence is the key differentiator from software-based AI agents, enabling relationship-building and emotional engagement. Advances in [[llm|large language models]] have dramatically expanded what social robots can say and do, enabling fluent, adaptive conversational tutoring — while also introducing risks such as misinformation, [[cognitive-offloading|over-reliance]], and [[privacy]] violations, motivating knowledge-based design approaches.
+
+**Human–robot interaction (HRI)** is the interdisciplinary study of how people and robots interact, encompassing perception, communication, collaboration, and the social, cognitive, and ethical dynamics of that interaction. In education, HRI underlies how learners perceive, trust, and learn with robots — whether programming a robot, conversing with a tutoring robot, or rehearsing social scenarios. HRI research examines how robot appearance, behaviour, task context, and embodiment shape user experience, trust, agency, and learning. Key concerns in educational HRI include preserving human [[agency]], building [[trust]], supporting [[self-efficacy]], and ensuring that interaction with robots supports rather than undermines autonomy and social learning. It connects robotics to [[human-ai-collaboration]] and [[social-emotional-learning]].
 
 ### How robots are used in education
 
 - **Computational thinking and programming:** Programmable robots (e.g., LEGO, block-based platforms) help learners connect code to real outcomes. [[computational-thinking-educational-robotics-secondary-2026|Valls i Pou]] links computational thinking to secondary STEAM curricula, and [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] combines block programming with a conversational AI agent and embodied robot feedback. [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners control simulated robots with natural language.
 
-- **Tutoring and knowledge delivery:** [[knowledge-based-design-generative-social-robots-2026|Knowledge-based design research]] and [[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]] develop LLM-powered generative social robots that tutor higher-education students, addressing risks like misinformation and [[cognitive-offloading|overreliance]]. [[task-context-trust-educational-hri-2026|Research on trust]] shows that what a robot does (task context) shapes learner trust more than its appearance.
+- **Tutoring and knowledge delivery:** [[knowledge-based-design-generative-social-robots-2026|Knowledge-based design research]] and [[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]] develop LLM-powered generative social robots that tutor higher-education students, addressing risks like misinformation and [[cognitive-offloading|overreliance]]. [[task-context-trust-educational-hri-2026|Research on trust]] shows that what a robot does (task context) shapes learner trust more than its appearance, with the highest trust during instructional tasks.
 
 - **Storytelling and engagement:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] and [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] use interactive, LLM-powered social robots for storytelling to boost motivation and engagement, while [[icub-humanoid-storytelling-llm-hri-2025|the iCub narrative HRI study]] explores co-creative storytelling between humans and humanoids.
 
-- **Social-emotional learning and inclusion:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] uses robot-mediated role-play to rehearse anti-bullying bystander intervention, and [[pepper-robot-sign-language-lis-2025|work with the Pepper robot]] explores robot sign-language communication to support Deaf learners.
+- **Social-emotional learning and inclusion:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] uses robot-mediated role-play to rehearse anti-bullying bystander intervention, and [[pepper-robot-sign-language-lis-2025|work with the Pepper robot]] explores robot sign-language communication to support Deaf learners. [[pepper-social-robot-formal-education-scoping-review-2026|A scoping review]] maps Pepper's use in formal education.
+
+- **Autonomy and agency:** [[human-autonomy-agency-hri-review-2025|A systematic review]] synthesizes how HRI affects human autonomy and sense of agency, bridging design frameworks with regulatory demands (EU AI Act, IEEE Ethically Aligned Design). [[social-robot-study-companions|Social robots as study companions]] and [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|robot–LLM integration in creative writing]] further explore robot roles.
 
 - **Project-based and game-based approaches:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents a project-based robotics course, and [[game-based-gamified-robotics-education-review-2026|a systematic review]] compares game-based learning and gamification in robotics education.
 
 ### Embodiment and pedagogy
 
-A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]].
+A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
 
 ## Connected Concepts
 
-- [[human-robot-interaction]]
-- [[social-robots]]
 - [[computational-thinking]]
 - [[cs-education]]
 - [[stem-education]]
 - [[embodied-learning]]
+- [[human-ai-collaboration]]
 - [[project-based-learning]]
 - [[game-based-learning]]
 - [[llm]]
 - [[motivation]]
 - [[student-engagement]]
 - [[social-emotional-learning]]
+- [[agency]]
+- [[trust]]
+- [[well-being]]
+- [[ethics]]
+- [[privacy]]
+- [[language-learning]]
 - [[k-12]]
 - [[higher-ed]]
 
@@ -38669,10 +38684,17 @@ A defining theme is that robots are effective when they support genuine learning
 - [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
+- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
+- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
+- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
+- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
+- [[social-robot-study-companions]] — Social Robots as Study Companions
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 
@@ -38680,16 +38702,16 @@ A defining theme is that robots are effective when they support genuine learning
 
 ## [Embodied Learning](https://edtechdev.github.io/aied/concepts/embodied-learning/)
 
-> **Embodied learning** — the pedagogical principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In AI in education, embodiment is realized through [[educational-robotics|educational robots]] and [[social-robots|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behaviour.
+> **Embodied learning** — the pedagogical principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In AI in education, embodiment is realized through [[educational-robotics|educational robots]] and [[educational-robotics|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behaviour.
 
 Embodied learning is closely related to [[active-learning]], [[experiential-learning]], and situated/[[constructivist|constructivist]] theories. The key claim is that a physical, manipulable agent helps learners connect abstract ideas to concrete outcomes — a program that makes a robot move, or a role-play with a physical robot — in ways that pure screen-based interaction may not. Robotics is the clearest embodiment of AI in education, giving learners something to see, touch, and observe.
 
 ### How embodied learning appears in the wiki's research
 
 - **Grounded programming:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] grounds block programming in embodied robot execution, creating a tight loop of authoring, running, observing, and revising so learners see their code become behaviour.
-- **Social-robotic interaction:** [[social-robots|Social robots]] used for storytelling ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), and sign language ([[pepper-robot-sign-language-lis-2025|Pepper]]) provide embodied social interaction that supports relational and [[social-emotional-learning|emotional]] learning.
+- **Social-robotic interaction:** [[educational-robotics|Social robots]] used for storytelling ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), and sign language ([[pepper-robot-sign-language-lis-2025|Pepper]]) provide embodied social interaction that supports relational and [[social-emotional-learning|emotional]] learning.
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
-- **Human-robot interaction:** [[human-robot-interaction|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, engagement, and autonomy.
+- **Human-robot interaction:** [[educational-robotics|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, engagement, and autonomy.
 - **Gesture as evidence of understanding:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integrate computer-vision gesture tracking with LLM analysis of speech to show that engineering students' conceptual understanding of statistics is expressed through both speech and gesture. High-confidence explanatory gestures cluster around specific concepts (especially the mean), and close gesture–speech coupling signals coherent conceptual talk while divergence marks developing ideas — positioning embodied action as evidence in [[assessment-validity|assessment]] via [[multimodal|multimodal learning analytics]], not only as a learning mechanism.
 
 ### Embodied intelligence and the critique of disembodied AI
@@ -38700,13 +38722,13 @@ A second, more theoretical strand of the wiki's embodiment research concerns the
 - **The limits of disembodied generative AI.** Post-cognitivist scholarship argues that current GenAI systems lack proprioception, multimodal agency, and embodied practice, and advocates an "embodied AI" grounded in situationality, emergence, and sensorimotor coupling, proposing a perceptual–affective choreography for human–AI interaction.^[[videla-embodied-ai-education-choreography]]
 - **Embodiment, situatedness, and social construction.** In science learning, AI tools function as "mediational artifacts" that enable digital communities of practice and boundary-crossing, connecting embodied, authentic inquiry to real-world and interdisciplinary contexts.^[[li-ai-science-situated-learning-teachers-2025]] This ties embodiment to [[situated-learning]] and [[distributed-cognition]].
 
-Embodied learning connects to [[educational-robotics]], [[social-robots]], [[human-robot-interaction]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], and [[social-emotional-learning]].
+Embodied learning connects to [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], and [[social-emotional-learning]].
 
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[active-learning]]
 - [[experiential-learning]]
 - [[situated-learning]]
@@ -40078,48 +40100,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-
----
-
-## [Human-Robot Interaction](https://edtechdev.github.io/aied/concepts/human-robot-interaction/)
-
-> **Human-robot interaction (HRI)** — the interdisciplinary study of how people and robots interact, encompassing perception, communication, collaboration, and the social, cognitive, and ethical dynamics of that interaction. In education, HRI underlies how learners perceive, trust, and learn with robots — whether programming a robot, conversing with a tutoring robot, or rehearsing social scenarios. HRI research examines how robot appearance, behaviour, task context, and [[embodied-learning|embodiment]] shape user experience, trust, agency, and learning.
-
-HRI sits at the intersection of [[social-robots|social robotics]], cognitive science, psychology, and [[human-ai-collaboration]]. It is the empirical and theoretical foundation for [[educational-robotics]], examining what makes human-robot interaction effective, trustworthy, and beneficial for learning and well-being. Key concerns in educational HRI include preserving human [[agency]], building [[trust]], supporting [[self-efficacy]], and ensuring that interaction with robots supports rather than undermines autonomy and social learning.
-
-### How HRI appears in the wiki's research
-
-- **Trust and task context:** [[task-context-trust-educational-hri-2026|Research on trust in educational HRI]] shows that task context shapes trust in [[social-robots|social robots]] more than appearance, with the highest trust during instructional tasks.
-- **Autonomy and sense of agency:** [[human-autonomy-agency-hri-review-2025|A systematic review]] synthesizes how HRI affects human autonomy and sense of agency, bridging design frameworks with regulatory demands (EU AI Act, IEEE Ethically Aligned Design).
-- **Natural language and perception:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative HRI study]] integrates perceptual capabilities with generative models (ChatGPT) for contextually appropriate social behaviour in co-creative storytelling.
-- **Language-driven control:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] translates natural-language instructions into robot behaviour sequences, and [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] uses a conversational AI agent alongside embodied robot execution.
-- **Sign-language interaction:** [[pepper-robot-sign-language-lis-2025|Pepper sign-language research]] explores robot communication with Deaf users in LIS.
-
-HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning]], [[human-ai-collaboration]], [[agency]], [[trust]], [[well-being]], and [[ethics]]. It informs responsible design of educational robots and their evaluation.
-
-## Connected Concepts
-
-- [[social-robots]]
-- [[educational-robotics]]
-- [[embodied-learning]]
-- [[human-ai-collaboration]]
-- [[agency]]
-- [[trust]]
-- [[well-being]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
-
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 
 ---
 
@@ -43426,52 +43406,6 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 
 ---
 
-## [Social Robots](https://edtechdev.github.io/aied/concepts/social-robots/)
-
-> **Social robots** — robots designed to engage people through social interaction, using human-like cues such as speech, gesture, facial expression, and personality to communicate, teach, assist, or accompany. In education, social robots (humanoids like iCub, Pepper, Reachy, and companion robots) are used for tutoring, storytelling, role-play, language support, and as study companions. Their social presence is the key differentiator from software-based AI agents, enabling relationship-building and emotional engagement.
-
-Social robots are distinct from [[educational-robotics|educational robots]] used purely for programming practice: they are designed for *social* interaction rather than just mechanical manipulation. Advances in [[llm|large language models]] have dramatically expanded what social robots can say and do, enabling fluent, adaptive conversational tutoring. However, this also introduces risks such as misinformation, [[cognitive-offloading|Over-Reliance]], and [[privacy]] violations, motivating knowledge-based design approaches.
-
-### How social robots appear in the wiki's research
-
-- **LLM-powered tutoring:** [[knowledge-based-design-generative-social-robots-2026|Knowledge-based design research]] and [[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]] develop generative social robots (GSRs) that tutor higher-education students, using knowledge-based design requirements to ensure responsible, effective behaviour.
-- **Storytelling and engagement:** [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities, [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like robot for interactive digital storytelling to boost motivation, and [[icub-humanoid-storytelling-llm-hri-2025|the iCub study]] explores co-creative narrative interaction.
-- **Social-emotional learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] uses social robots to rehearse anti-bullying bystander intervention through role-play.
-- **Sign language and inclusion:** [[pepper-robot-sign-language-lis-2025|Pepper sign-language research]] explores robots communicating in Italian Sign Language to support Deaf users.
-- **Trust and autonomy:** [[task-context-trust-educational-hri-2026|Research on trust]] shows task context shapes trust in social robots more than appearance; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how HRI affects human autonomy and sense of agency.
-
-Social robots connect to [[human-robot-interaction]], [[educational-robotics]], [[embodied-learning]], and [[student-engagement|engagement]]. They are increasingly relevant to [[social-emotional-learning]], [[equity-in-ai-education|inclusive education]], and [[higher-ed]]/[[k-12]] tutoring, with design grounded in [[agency]], [[trust]], [[self-efficacy]], and [[ethics]].
-
-## Connected Concepts
-
-- [[human-robot-interaction]]
-- [[educational-robotics]]
-- [[embodied-learning]]
-- [[llm]]
-- [[student-engagement]]
-- [[social-emotional-learning]]
-- [[agency]]
-- [[trust]]
-- [[ethics]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
-
-- [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
-- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
-- [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
-- [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
-- [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
-- [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
-- [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
-
----
-
 ## [Sociocultural Learning](https://edtechdev.github.io/aied/concepts/sociocultural-learning/)
 
 > **Sociocultural learning** — the family of theories, rooted in Vygotsky, that holds learning and development arise through social participation and are mediated by cultural tools, language, and interaction with more knowledgeable others. Cognition is distributed across people, artifacts, and environments rather than residing solely in individuals. In AI in education, sociocultural theory frames how [[generative-ai|generative AI]] functions as a new kind of *mediational agent* — a tool that both mediates activity and generates contingent contributions to interaction — and frames the design of [[scaffolding]], the Zone of Proximal Development (ZPD), apprenticeship, and communities of practice. See [[mediational-agent-genai-sociocultural-2026]].
@@ -43730,7 +43664,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 
 ## [Storytelling in Education](https://edtechdev.github.io/aied/concepts/storytelling-in-education/)
 
-> **Storytelling in education** — the use of narrative as a pedagogical tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[social-robots|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, personalization, and embodiment that conventional (paper-based or slide-based) storytelling lacks.
+> **Storytelling in education** — the use of narrative as a pedagogical tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[educational-robotics|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, personalization, and embodiment that conventional (paper-based or slide-based) storytelling lacks.
 
 Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] theories of learning. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and AI agents build stories together, and interactive narrative that responds to the learner.
 
@@ -43740,14 +43674,14 @@ Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constr
 - **Co-creative narrative HRI:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative study]] explores human-robot co-creation of stories, integrating generative models for contextually appropriate interaction.
 - **Narrative and creativity:** Storytelling supports [[creativity]] and [[language-learning|language]] development, and is used to enhance motivation and engagement in [[k-12]] settings.
 
-Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[social-robots]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
+Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]], [[educational-robotics]], [[language-learning]], [[social-emotional-learning]], and [[educational-robotics]].
 
 ## Connected Concepts
 
 - [[student-engagement]]
 - [[motivation]]
 - [[creativity]]
-- [[social-robots]]
+- [[educational-robotics]]
 - [[language-learning]]
 - [[social-emotional-learning]]
 - [[educational-robotics]]
@@ -44487,7 +44421,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 > **Trust in AI** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
 
-Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[social-robots|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[human-robot-interaction]], trust is shaped by robot behaviour, task, and appearance.
+Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[educational-robotics|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[educational-robotics]], trust is shaped by robot behaviour, task, and appearance.
 
 ### How trust appears in the wiki's research
 
@@ -44497,7 +44431,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Trust in tutoring and feedback:** Studies of [[intelligent-tutoring|AI Tutoring]] and AI [[feedback]] examine when learners appropriately trust (or question) AI-generated guidance and [[hallucination-risk|hallucinations]].
 - **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
-Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[social-robots]], [[human-robot-interaction]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
+Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
 
 ## Connected Concepts
 
@@ -44505,8 +44439,8 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[ai-literacy]]
 - [[critical-thinking]]
 - [[cognitive-offloading]]
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[ethics]]
 - [[intelligent-tutoring]]
 - [[ai-sycophancy]]

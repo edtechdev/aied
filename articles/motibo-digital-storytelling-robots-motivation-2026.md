@@ -16,11 +16,11 @@ confidence: medium
 ## Study Design & Method
 This is a **quasi-experimental study**. The researchers compared student engagement and creativity across three storytelling modalities: paper-based, PowerPoint-based, and robot-assisted storytelling using the MotiBo system (a human-like interactive digital storytelling robot). Three groups of students participated over a five-day learning period. The study measured behavioural and cognitive engagement, and considered creativity as an outcome, analyzing differences across the three conditions.
 ## Implications for AI in Education
-MotiBo demonstrates how [[social-robots]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, embodied robot to storytelling increases behavioural and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
+MotiBo demonstrates how [[educational-robotics]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, embodied robot to storytelling increases behavioural and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
 ## Limitations
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper learning outcomes and creativity requires further investigation.
 ## Connected Concepts
-- [[social-robots]]
+- [[educational-robotics]]
 - [[educational-robotics]]
 - [[motivation]]
 - [[self-determination-theory]]

@@ -16,4 +16,6 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'programming-education': 'cs-education',
   'block-programming': 'cs-education',
   'zone-of-proximal-development': 'sociocultural-learning',
+  'social-robots': 'educational-robotics',
+  'human-robot-interaction': 'educational-robotics',
 };
