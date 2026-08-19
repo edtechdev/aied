@@ -23,7 +23,6 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 - [[active-learning]]
 - [[student-experience]]
 - [[cs-education]]
-- [[cs-education]]
 - [[cognitive-offloading]]
 ## Connected Articles
 

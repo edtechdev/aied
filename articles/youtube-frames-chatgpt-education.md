@@ -24,7 +24,6 @@ Uses epistemic network analysis of multimodal YouTube metadata (transcripts, tit
 - [[llm]]
 - [[feedback]]
 - [[multimodal]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[pedagogy-ai-mistakes]]

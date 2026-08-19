@@ -14,14 +14,12 @@ As generative AI becomes central to software development, CS education is shifti
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[cs-education]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[student-experience]]
 - [[formative-assessment]]
-- [[cs-education]]
 - [[critical-thinking]]
 ## Connected Articles
 

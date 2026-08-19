@@ -52,12 +52,10 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[assessment-validity]]
 - [[formative-assessment]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[automated-question-generation]]
 - [[educational-measurement]]
 - [[item-response-theory]]
-- [[automated-assessment]]
 - [[psychometrically-aware-ai]]
 - [[learning-analytics]]
 - [[feedback]]
@@ -69,7 +67,6 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[authentic-assessment]]
 - [[higher-ed]]
 - [[generative-ai]]
-- [[feedback]]
 - [[feedback-literacy]]
 
 ## Connected Articles

@@ -33,7 +33,6 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[llm]]
 - [[generative-ai]]
 - [[k-12]]
-- [[k-12]]
 - [[language-learning]]
 - [[storytelling-in-education]]
 - [[pedagogical-safety]]

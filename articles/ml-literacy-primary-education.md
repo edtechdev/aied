@@ -40,7 +40,6 @@ The authors identify several design constraints: the one-group pre-/post-test de
 - [[curriculum-design]]
 - [[reinforcement-learning]]
 - [[educational-robotics]]
-- [[k-12]]
 
 ## Connected Articles
 

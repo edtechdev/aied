@@ -34,7 +34,6 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[self-regulated-learning]]
 - [[trust-calibration]]
 - [[trust]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 ## Connected Articles
 

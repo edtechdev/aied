@@ -44,7 +44,6 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - [[student-engagement]]
 - [[cognitive-offloading]]
 - [[equity-in-ai-education]]
-- [[student-engagement]]
 
 ## Connected Articles
 

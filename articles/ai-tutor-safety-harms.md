@@ -71,7 +71,6 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[pedagogical-safety]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[trust]]
 - [[hallucination-risk]]
 - [[bias-mitigation]]

@@ -35,7 +35,6 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[k-12]]
-- [[k-12]]
 - [[stem-education]]
 - [[student-experience]]
 

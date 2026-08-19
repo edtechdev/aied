@@ -21,12 +21,10 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[ai-literacy]]
 - [[metacognition]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[formative-assessment]]
 - [[teacher-role]]
 - [[cs-education]]
 - [[generative-ai]]
-- [[cs-education]]
 - [[assessment]]
 - [[higher-ed]]
 ## Connected Articles

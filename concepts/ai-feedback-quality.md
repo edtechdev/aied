@@ -58,9 +58,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[writing-education]]
 - [[higher-ed]]
 - [[teacher-role]]
-- [[automated-assessment]]
 - [[feedback-literacy]]
-- [[feedback]]
 - [[ai-sycophancy]]
 - [[trust-calibration]]
 

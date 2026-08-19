@@ -42,7 +42,6 @@ The findings suggest that **LLM-generated worked solutions can be as effective a
 - [[generative-ai]]
 - [[llm]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[math-education]]
 - [[learning-gains]]

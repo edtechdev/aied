@@ -32,7 +32,6 @@ The paper reframes expertise development as collective stewardship rather than o
 - [[governance]]
 - [[human-ai-collaboration]]
 - [[lifelong-learning]]
-- [[cognitive-offloading]]
 - [[professional-training]]
 
 ## Connected Articles

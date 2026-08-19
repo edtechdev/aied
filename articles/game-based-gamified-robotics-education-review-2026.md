@@ -35,7 +35,6 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 
 - [[educational-robotics]]
 - [[game-based-learning]]
-- [[game-based-learning]]
 - [[project-based-learning]]
 - [[computational-thinking]]
 - [[cs-education]]

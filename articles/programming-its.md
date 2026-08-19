@@ -60,7 +60,6 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 - [[cs-education]]
 - [[scaffolding]]
 - [[adaptive-learning]]
-- [[cs-education]]
 - [[student-modeling]]
 ## Connected Articles
 

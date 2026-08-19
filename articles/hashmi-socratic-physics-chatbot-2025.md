@@ -40,7 +40,6 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[socratic-method]]
 - [[stem-education]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 ## Connected Articles
 
 - [[socratic-ai-physics-tutor-taxonomy-2026]]

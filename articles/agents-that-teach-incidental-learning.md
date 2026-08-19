@@ -19,7 +19,6 @@ As AI coding agents take over substantial implementation work, developers increa
 
 ## Connected Concepts
 - [[cs-education]]
-- [[cs-education]]
 - [[human-ai-collaboration]]
 
 - [[cognitive-offloading]]

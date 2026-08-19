@@ -42,7 +42,6 @@ The most important practical nuance is that the harm is **selective by assessmen
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]
 - [[self-regulated-learning]]

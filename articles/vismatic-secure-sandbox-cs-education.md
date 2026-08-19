@@ -16,7 +16,6 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 
 ## Connected Concepts
 - [[cs-education]]
-- [[cs-education]]
 - [[open-source]]
 - [[automated-assessment]]
 

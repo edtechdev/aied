@@ -88,7 +88,6 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[generative-ai]]
 - [[higher-ed]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[self-regulated-learning]]
 - [[socratic-method]]

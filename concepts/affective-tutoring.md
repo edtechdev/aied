@@ -56,7 +56,6 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 - [[student-modeling]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[intelligent-tutoring]]
 - [[collaborative-learning]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]

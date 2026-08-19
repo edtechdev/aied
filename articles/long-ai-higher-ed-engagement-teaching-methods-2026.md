@@ -30,7 +30,6 @@ This review connects [[student-engagement]] and [[student-engagement]] to the ce
 ## Connected Concepts
 
 - [[student-engagement]]
-- [[student-engagement]]
 - [[higher-ed]]
 - [[ai-education]]
 - [[active-learning]]

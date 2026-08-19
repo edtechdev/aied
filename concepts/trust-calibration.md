@@ -31,7 +31,6 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - [[ai-literacy]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[hallucination-risk]]
 - [[metacognition]]
 - [[self-regulated-learning]]

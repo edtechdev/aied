@@ -27,7 +27,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[rct]]
 - [[formative-assessment]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[math-education]]
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]

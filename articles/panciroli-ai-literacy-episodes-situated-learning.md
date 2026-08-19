@@ -64,7 +64,6 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 ## Connected Articles
 
 - [[vargas-situated-learning-ai-review-2024]] — Systematic review linking situated learning and AI
-- [[panciroli-ai-literacy-episodes-situated-learning]] — (this paper)
 
 ## Citation
 

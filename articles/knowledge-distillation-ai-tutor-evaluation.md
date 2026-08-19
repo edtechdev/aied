@@ -35,7 +35,6 @@ Automated tutor evaluation of this kind is a prerequisite for accountability in 
 - [[k-12]]
 - [[higher-ed]]
 - [[llm]]
-- [[intelligent-tutoring]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 ## Connected Articles

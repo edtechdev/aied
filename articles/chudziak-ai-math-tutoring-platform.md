@@ -47,7 +47,6 @@ Real-world user studies to assess learning gains, user experience, and practical
 
 - [[intelligent-tutoring]]
 - [[math-education]]
-- [[intelligent-tutoring]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[socratic-method]]

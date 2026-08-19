@@ -37,7 +37,6 @@ The cross-sectional, self-report survey design limits causal inference despite t
 - [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]
-- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[higher-ed]]
 

@@ -36,7 +36,6 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[collaborative-learning]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[multimodal]]
 ## Connected Articles

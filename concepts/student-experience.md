@@ -29,7 +29,6 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[k-12]]
 - [[scaffolding]]

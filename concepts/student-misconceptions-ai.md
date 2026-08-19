@@ -44,7 +44,6 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[academic-integrity]]

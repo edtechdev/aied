@@ -30,7 +30,6 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[item-response-theory]]
 - [[automated-assessment]]
 - [[ai-ed-evaluation]]
-- [[automated-assessment]]
 - [[llm]]
 - [[limitations-in-aied-research]]
 

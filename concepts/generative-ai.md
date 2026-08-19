@@ -37,7 +37,6 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[automated-assessment]]
 - [[higher-ed]]

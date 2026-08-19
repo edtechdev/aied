@@ -70,7 +70,6 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 - [[assessment]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[automated-question-generation]]
 - [[assessment-validity]]
 - [[feedback]]
@@ -90,7 +89,6 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[privacy]]
 - [[ai-education]]
 - [[feedback-literacy]]
-- [[feedback]]
 - [[behaviorism]]
 
 ## Connected Articles

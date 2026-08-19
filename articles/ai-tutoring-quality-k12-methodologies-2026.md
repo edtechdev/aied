@@ -26,7 +26,6 @@ This practitioner account from a major edtech platform grounds the [[intelligent
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[k-12]]
 - [[llm]]
 - [[personalized-learning]]

@@ -43,7 +43,6 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[educational-measurement]]
 - [[item-response-theory]]
 - [[benchmark]]
-- [[automated-assessment]]
 - [[ai-feedback-quality]]
 ## Connected Articles
 

@@ -20,7 +20,6 @@ Hossain (2026) develops a typology of LLM reliance among undergraduate writers a
 - [[student-experience]]
 - [[higher-ed]]
 - [[self-efficacy]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing

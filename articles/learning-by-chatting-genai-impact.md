@@ -54,7 +54,6 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[agency]]
 ## Connected Articles

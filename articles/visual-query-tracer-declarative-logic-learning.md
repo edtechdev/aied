@@ -31,9 +31,7 @@ The study suggests declarative and logic-programming courses can adopt visual qu
 - [[higher-ed]]
 - [[computational-thinking]]
 - [[knowledge-graph]]
-- [[cs-education]]
 - [[active-learning]]
-- [[cs-education]]
 - [[transfer-of-learning]]
 ## Connected Articles
 

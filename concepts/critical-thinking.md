@@ -28,7 +28,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[faculty-development]]
 - [[cognitive-offloading]]
 - [[intelligent-tutoring]]
-- [[cognitive-offloading]]
 - [[teacher-role]]
 - [[privacy]]
 - [[pedagogical-safety]]

@@ -36,7 +36,6 @@ This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[self-determination-theory]]
 - [[motivation]]
 - [[self-regulated-learning]]

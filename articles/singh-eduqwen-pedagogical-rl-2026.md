@@ -43,7 +43,6 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[reinforcement-learning]]
 - [[benchmark]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[edtech-platform]]
 ## Connected Articles
 

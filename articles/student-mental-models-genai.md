@@ -22,7 +22,6 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 - [[generative-ai]]
 - [[higher-ed]]
 - [[trust]]
-- [[cognitive-offloading]]
 - [[agency]]
 ## Connected Articles
 

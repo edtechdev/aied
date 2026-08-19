@@ -37,7 +37,6 @@ The cross-sectional design precludes causal inference; the negative associations
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[self-regulated-learning]]
-- [[cognitive-offloading]]
 - [[motivation]]
 - [[higher-ed]]
 

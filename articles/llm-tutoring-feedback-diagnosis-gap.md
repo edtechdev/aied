@@ -22,7 +22,6 @@ This paper exposes a critical diagnostic blind spot in LLM-based tutoring agents
 - [[feedback]]
 - [[ai-feedback-quality]]
 - [[llm]]
-- [[intelligent-tutoring]]
 - [[cognitive-diagnosis]]
 - [[automated-assessment]]
 ## Connected Articles

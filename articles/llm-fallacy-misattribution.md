@@ -11,7 +11,7 @@ confidence: high
 
 > Three system properties enable the fallacy via two cognitive mediators:
 
-> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.^[[llm-fallacy-misattribution]]
+> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
 
 ## Distinctions from Related Phenomena
 
@@ -35,7 +35,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 - **Attribution ambiguity** — In iterative interactions, the boundary between user contribution and system generation becomes impossible to delineate; authorship is inferred from outcomes
 - **Cognitive outsourcing** — As the system assumes more workload, users engage less with underlying reasoning, weakening self-assessment accuracy
 
-> "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."^[[llm-fallacy-misattribution]]
+> "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."
 
 ## Manifestations in Education
 
@@ -76,7 +76,6 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[scaffolding]]
 - [[transfer-of-learning]] — AI Learning Transfer
 - [[authentic-assessment]] — Authentic Assessment
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 ## Connected Articles
 

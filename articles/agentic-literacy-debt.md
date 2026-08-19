@@ -65,7 +65,6 @@ These are structurally new competencies, not refinements. Design defaults are li
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 - [[governance]]
-- [[governance]]
 - [[trust-calibration]]
 - [[trust]]
 - [[ethics]]

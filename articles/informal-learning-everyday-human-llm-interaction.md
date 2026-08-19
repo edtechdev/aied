@@ -19,7 +19,6 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 
 - [[llm]]
 - [[ai-literacy]]
-- [[cognitive-offloading]]
 - [[student-experience]]
 - [[self-regulated-learning]]
 - [[metacognition]]

@@ -32,7 +32,6 @@ confidence: high
 - [[cs-education]]
 - [[educational-robotics]]
 - [[computational-thinking]]
-- [[cs-education]]
 
 ## Connected Articles
 

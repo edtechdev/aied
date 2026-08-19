@@ -24,7 +24,6 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 - [[feedback]]
 - [[learning-analytics]]
 - [[student-experience]]
-- [[cs-education]]
 - [[computational-thinking]]
 
 ## Connected Articles

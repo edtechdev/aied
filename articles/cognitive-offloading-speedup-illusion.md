@@ -16,7 +16,6 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[metacognition]]
 - [[transfer-of-learning]]
 ## Connected Articles

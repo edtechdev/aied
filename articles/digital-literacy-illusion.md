@@ -27,7 +27,6 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[ai-literacy]]
 - [[k-12]]
 - [[self-efficacy]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 
