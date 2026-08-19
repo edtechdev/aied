@@ -25,6 +25,21 @@ const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = concept.body || '';
 
+function splitTableCells(line: string): string[] {
+  const cells: string[] = [];
+  let cur = '';
+  let inLink = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '[' && line[i + 1] === '[') inLink = true;
+    else if (ch === ']' && line[i + 1] === ']') inLink = false;
+    if (ch === '|' && !inLink) { cells.push(cur); cur = ''; }
+    else { cur += ch; }
+  }
+  cells.push(cur);
+  return cells;
+}
+
 function renderMarkdown(text: string, pageTitle: string): string {
   let html = '';
   let inBlockquote = false;
@@ -62,7 +77,7 @@ function renderMarkdown(text: string, pageTitle: string): string {
     // Tables
     if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
       closeAllLists();
-      const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
+      const cells = splitTableCells(trimmed).slice(1, -1).map(c => c.trim());
       if (cells.every(c => /^:?-{3,}:?$/.test(c))) {
         inTableHead = false;
         continue;
