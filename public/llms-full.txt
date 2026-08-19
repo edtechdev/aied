@@ -990,7 +990,7 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 - [[formative-assessment]]
 - [[metacognition]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[human-in-the-loop-ai]]
 - [[collaborative-learning]]
 - [[self-regulated-learning]]
@@ -1291,7 +1291,7 @@ Mehra, R., Suri, S., Tagadinamani, P. K., Singi, K., & Kaulgud, V. (2026). [Agen
 
 ## [AgentSchool: An LLM-Powered Multi-Agent Simulation for Education](https://edtechdev.github.io/aied/articles/agentschool-multi-agent-simulation-education-2026/)
 
-> Ye et al. (2026) introduce **AgentSchool**, an LLM-driven multi-agent [[simulating-students|simulator]] that models learning as **state transition rather than prompted behavior**. It couples cognitively growable student agents (weighted subject knowledge graphs, thinking-workflow pools, explicit misconceptions) with adaptive teacher agents that plan, scaffold, and reflect along the [[zone-of-proximal-development]], embedded in a configurable scenery generator and a multi-scale simulator. It produces more differentiated mastery and misconception traces than baseline simulators and generates plausible classroom social dynamics (peripheral participation, cliques, opinion-leader emergence).
+> Ye et al. (2026) introduce **AgentSchool**, an LLM-driven multi-agent [[simulating-students|simulator]] that models learning as **state transition rather than prompted behavior**. It couples cognitively growable student agents (weighted subject knowledge graphs, thinking-workflow pools, explicit misconceptions) with adaptive teacher agents that plan, scaffold, and reflect along the [[sociocultural-learning]], embedded in a configurable scenery generator and a multi-scale simulator. It produces more differentiated mastery and misconception traces than baseline simulators and generates plausible classroom social dynamics (peripheral participation, cliques, opinion-leader emergence).
 
 The paper argues that validating educational AI is uniquely hard: interventions act on developing learners whose trajectories are irreversibly shaped, while real-world trials are slow, ethically constrained, and institutionally locked. LLM-based simulators offer a remedy, but many collapse learning into persona-conditioned role-play and can structurally penalize institutional novelty.
 
@@ -1316,7 +1316,7 @@ AgentSchool reframes student simulation as **stateful learning rather than role-
 
 - [[simulating-students]]
 - [[agentic-ai]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[knowledge-graph]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
@@ -2334,7 +2334,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 ## Key Findings
 
 - Proposes a developmental framework of human-AI co-regulation in which AI is conceptualized not merely as an external tool but as a **cognitive partner** in the co-regulation of thinking, learning, and self-control.
-- Integrates executive function, metacognition, distributed cognition, and sociocultural development theories to frame AI-mediated cognition as co-regulated between learner and intelligent system.
+- Integrates executive function, metacognition, distributed cognition, and [[sociocultural-learning|sociocultural development]] theories to frame AI-mediated cognition as co-regulated between learner and intelligent system.
 - Identifies four roles for AI in cognitive regulation: scaffold, metacognitive support, external memory / cognitive offloading system, and decision partner.
 - Argues the framework is most relevant in middle childhood, adolescence, and adulthood; early childhood AI support is limited to structured external regulation.
 - Highlights both benefits (performance gains via offloading, scaffolding, reduced cognitive load) and risks (over-reliance, excessive cognitive offloading, reduced independent reasoning and self-regulation development).
@@ -9171,7 +9171,7 @@ Post-intervention gains in JVA and JME suggest improved collaborative regulation
 
 ## Relationship to Tutoring-Specific Design
 
-ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[zone-of-proximal-development|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
+ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[sociocultural-learning|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
 
 ## Implications
 
@@ -9181,7 +9181,7 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 
 ## Connected Concepts
 
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[metacognition]]
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
@@ -13328,7 +13328,7 @@ The emphasis on **discernment**, **empathy**, and **sense of self** as non-negot
 
 The framework also speaks to the growing evidence gap documented in [[stanford-evidence-base-ai-k12-2026]]: without principled foundations, the rush to implement AI in education proceeds without adequate causal evidence of effectiveness. Finkelstein's approach provides a normative compass — even where empirical evidence is thin, principles grounded in learning science can guide responsible implementation while research catches up.
 
-For course design, the framework connects directly to [[scaffolding]] practices and the [[zone-of-proximal-development]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
+For course design, the framework connects directly to [[scaffolding]] practices and the [[sociocultural-learning]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
 
 ## Connected Concepts
 
@@ -13344,7 +13344,7 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 - [[metacognition]]
 - [[scaffolding]]
 - [[transfer-of-learning]] — AI Learning Transfer
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
@@ -16675,7 +16675,7 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 - [[scaffolding]]
 - [[agency]]
 - [[desirable-difficulties]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[math-education]]
 - [[teacher-role]]
 - [[student-engagement]]
@@ -19835,7 +19835,7 @@ Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T. (2026). [*Learning to 
 
 ## [Learning with machines: Toward a theory of epistemic co-agency](https://edtechdev.github.io/aied/articles/learning-with-machines-toward-a-theory-of-epistemic-co-agency/)
 
-> **Synthesis:** Samuel (2026) introduces the **Epistemic Entanglement Framework**, a theory-informed model for understanding how learners engage with generative AI (GenAI) systems. Arguing that existing learning theories (constructivism, sociocultural theory, connectivism) presume human-centered epistemic agency and cannot account for the ways GenAI simulates reasoning, reframes arguments, and co-constructs meaning, the paper proposes **epistemic co-agency** — a reflexive stance in which learners engage AI outputs dialectically, challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. The central claim is that the real challenge of AI in education is not technological fluency but cultivating learners who can reason *with, through, and against* generative systems.
+> **Synthesis:** Samuel (2026) introduces the **Epistemic Entanglement Framework**, a theory-informed model for understanding how learners engage with generative AI (GenAI) systems. Arguing that existing learning theories (constructivism, [[sociocultural-learning|sociocultural theory]], connectivism) presume human-centered epistemic agency and cannot account for the ways GenAI simulates reasoning, reframes arguments, and co-constructs meaning, the paper proposes **epistemic co-agency** — a reflexive stance in which learners engage AI outputs dialectically, challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. The central claim is that the real challenge of AI in education is not technological fluency but cultivating learners who can reason *with, through, and against* generative systems.
 
 ## Key Findings
 
@@ -22664,11 +22664,11 @@ Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026). [MedGame: Storytel
 
 ## [Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory](https://edtechdev.github.io/aied/articles/mediational-agent-genai-sociocultural-2026/)
 
-> **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that generative AI challenges a foundational distinction in [[constructivist|sociocultural]] theories of learning — the separation between *mediational means* and *social interaction*. Traditional tools such as language, writing, and educational technologies mediate human activity, while learning and development arise through social participation; generative AI complicates this because it both mediates activity *and* generates context-sensitive, contingent contributions that shape ongoing interaction. The authors propose the concept of the **mediational agent**: a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions to learning activity — occupying a hybrid space between a tool and a social partner. From this, they derive **five human-first habits of participation** (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) intended to preserve learners' judgment, agency, and responsibility in AI-mediated learning. ^[[mediational-agent-genai-sociocultural-2026]]
+> **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that generative AI challenges a foundational distinction in [[sociocultural-learning|sociocultural]] theories of learning — the separation between *mediational means* and *social interaction*. Traditional tools such as language, writing, and educational technologies mediate human activity, while learning and development arise through social participation; generative AI complicates this because it both mediates activity *and* generates context-sensitive, contingent contributions that shape ongoing interaction. The authors propose the concept of the **mediational agent**: a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions to learning activity — occupying a hybrid space between a tool and a social partner. From this, they derive **five human-first habits of participation** (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) intended to preserve learners' judgment, agency, and responsibility in AI-mediated learning. ^[[mediational-agent-genai-sociocultural-2026]]
 
 ## Why "tool" and "collaborator" both fail
 
-The essay's starting point is a conceptual gap in how education discusses generative AI. Sociocultural theory has long distinguished mediational means (language, writing, technologies) from social interaction (participation with teachers, peers, communities). Two dominant framings of GenAI are each insufficient:
+The essay's starting point is a conceptual gap in how education discusses generative AI. [[sociocultural-learning|Sociocultural theory]] has long distinguished mediational means (language, writing, technologies) from social interaction (participation with teachers, peers, communities). Two dominant framings of GenAI are each insufficient:
 
 - **AI as a tool** underestimates its interactional influence. Because GenAI generates contingent, context-sensitive responses, it does not behave like a passive instrument; it actively shapes the trajectory of the interaction — explaining, critiquing, questioning, suggesting, and revising in ways no previous educational technology did.
 - **AI as a collaborator** risks attributing intentionality, accountability, and community membership that AI systems do not possess. A collaborator is accountable to shared norms, occupies a position in a community of practice, and shares a history; an LLM has none of these — its apparent participation emerges from probabilistic language generation rather than intentional engagement.
@@ -22707,11 +22707,12 @@ The concept redirects research attention from "does AI improve outcomes or produ
 
 ## Implications
 
-The mediational-agent framing offers a principled theoretical vocabulary for discussions that otherwise oscillate between techno-optimism (AI as tool) and alarmism (AI as deceptive collaborator). It is a significant conceptual contribution to the [[learning-theories]] and sociocultural literature in AI education, aligning with posthumanist critiques while ultimately prioritizing human meaning-making and responsibility. For educators, it argues that the object of design should be the *habits of participation* learners develop, not just the tool's capabilities — a framing that complements the "scaffold, do not substitute" principle and the wiki's broader concern with preserving human agency and judgment in AI-mediated learning. The concept also enriches [[framing-ai-use-for-students]] by grounding *why* a human-first framing of AI matters theoretically, and connects to [[ai-sycophancy]] via the risk of non-accountable persuasive outputs.
+The mediational-agent framing offers a principled theoretical vocabulary for discussions that otherwise oscillate between techno-optimism (AI as tool) and alarmism (AI as deceptive collaborator). It is a significant conceptual contribution to the [[learning-theories]] and [[sociocultural-learning|sociocultural]] literature in AI education, aligning with posthumanist critiques while ultimately prioritizing human meaning-making and responsibility. For educators, it argues that the object of design should be the *habits of participation* learners develop, not just the tool's capabilities — a framing that complements the "scaffold, do not substitute" principle and the wiki's broader concern with preserving human agency and judgment in AI-mediated learning. The concept also enriches [[framing-ai-use-for-students]] by grounding *why* a human-first framing of AI matters theoretically, and connects to [[ai-sycophancy]] via the risk of non-accountable persuasive outputs.
 
 ## Connected Concepts
 
 - [[constructivist]]
+- [[sociocultural-learning]]
 - [[learning-theories]]
 - [[agency]]
 - [[generative-ai]]
@@ -27569,7 +27570,7 @@ Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., et
 
 ## [Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference](https://edtechdev.github.io/aied/articles/responsible-assessment-ai-era-stanford-2026/)
 
-> **Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-assessment|Automated Grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity-in-ai-education]], transparency, and trust.
+> **Responsible assessment in the AI era** — assessment grounded in learners' [[sociocultural-learning|sociocultural]] contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-assessment|Automated Grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity-in-ai-education]], transparency, and trust.
 
 The report synthesizes a future-focused convening (January 29, 2026) on how assessment should evolve as AI reshapes learning, work, and measurement. It defines **responsible assessment** as assessment that is grounded in individuals' sociocultural contexts and designed to produce valid, trustworthy, context-specific inferences from accumulated evidence — a shift toward continuous, context-rich, developmentally oriented practices that leverage AI responsibly (building on Johnson, 2025).
 
@@ -27975,7 +27976,7 @@ Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). *RoboBuddy in the 
 
 ## Context
 
-Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This meta-analysis examines how robot design features and instructional conditions relate to L2 learning outcomes, drawing on multimodal learning theory (MMLT) and sociocultural theory (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
+Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This meta-analysis examines how robot design features and instructional conditions relate to L2 learning outcomes, drawing on multimodal learning theory (MMLT) and [[sociocultural-learning|sociocultural theory]] (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
 
 ## Key Findings
 
@@ -28362,7 +28363,7 @@ The study compared two parallel English classes (N = 118 first-year undergraduat
 ## Findings Across the SRL Phases
 
 - **Forethought:** GenAI students proactively designed and iteratively refined prompts aligned with their learning goals, engaging in a psychologically safe environment. Peer-group students largely selected feedback sources by social convenience (nearby peers, same-major peers, roommates), rarely had specific feedback goals, and faced interpersonal barriers and social anxiety about seeking feedback.
-- **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[zone-of-proximal-development]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
+- **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[sociocultural-learning]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
 - **Retrospect:** GenAI's immediate, iterative feedback enabled rapid confirmation of improvement and immediate self-reflection, helping students adjust feedback goals in subsequent cycles. Peer-group reflection was often delayed until later exams or assignments. Both groups recognized learner agency as central to effective feedback use.
 
 ## Implications
@@ -29564,7 +29565,7 @@ A stated goal is human-AI alignment for measurement reliability: the conversatio
 - [[ai-ed-evaluation]]
 - [[socratic-method]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 
 ## Connected Articles
 
@@ -29932,7 +29933,7 @@ Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. 
 
 **Easier Doesn't Mean Better.** Students consistently report greater enjoyment and reduced cognitive burden when using AI tools. However, reduced effort can undermine deeper learning. Kreijkes et al. (2026) found retention improved only when AI use was paired with traditional strategies like note-taking. Stadler et al. (2024) found general-purpose AI reduced cognitive load but produced lower-quality reasoning and argumentation compared to traditional search. This aligns with [[desirable-difficulties]] research: making practice easier often harms long-term retention and transfer, even when it feels better in the moment.
 
-**Pedagogical Design Matters.** The most actionable finding: tutoring-specific tools consistently outperform general-purpose chatbots. Bastani et al. found that a tutoring-specific chatbot with pedagogical guardrails (hints, step-by-step reasoning, refusal to give direct answers) mitigated the exam score drop, while general-purpose GPT Base *caused* it. This suggests that [[intelligent-tutoring|AI Tutoring]] effectiveness depends critically on pedagogical design, not just model capability. The review interprets findings through a learning science framework spanning [[zone-of-proximal-development]] (general-purpose AI may operate outside the ZPD by doing work for students), the expertise reversal effect (novices need guidance, experts need independence), and [[metacognition]] (AI completing tasks reduces opportunities for students to monitor their own understanding).
+**Pedagogical Design Matters.** The most actionable finding: tutoring-specific tools consistently outperform general-purpose chatbots. Bastani et al. found that a tutoring-specific chatbot with pedagogical guardrails (hints, step-by-step reasoning, refusal to give direct answers) mitigated the exam score drop, while general-purpose GPT Base *caused* it. This suggests that [[intelligent-tutoring|AI Tutoring]] effectiveness depends critically on pedagogical design, not just model capability. The review interprets findings through a learning science framework spanning [[sociocultural-learning]] (general-purpose AI may operate outside the ZPD by doing work for students), the expertise reversal effect (novices need guidance, experts need independence), and [[metacognition]] (AI completing tasks reduces opportunities for students to monitor their own understanding).
 
 **Educator Evidence.** While the student-focused causal evidence is thin, the educator evidence base is even sparser. Very few high-quality studies examine how AI affects teacher practice, workload, or professional development — a gap that is particularly concerning given the rapid push to deploy AI tools in classrooms and the documented [[genai-can-harm-teaching-rct-2026|risks of AI harming teaching quality]].
 
@@ -29942,7 +29943,7 @@ This review is a watershed document for the field. It establishes that the evide
 
 The consistent pattern of immediate gains without durable transfer challenges the prevailing assumption that AI assistance automatically improves learning. It suggests that many AI education tools may function as **performance prosthetics** — helping students complete tasks in the moment without building the underlying knowledge that enables independent performance later. This distinction between assisted performance and genuine learning is well-established in [[rct|RCT-based education research]] but has been largely overlooked in the AI education hype cycle.
 
-The superiority of pedagogically designed tools over general-purpose AI is actionable: it implies that simply giving students access to ChatGPT or similar chatbots is not merely suboptimal but potentially harmful. Effective AI in education requires deliberate instructional design — [[scaffolding]], [[zone-of-proximal-development|ZPD]]-aligned support, refusal to bypass student thinking, and integration with established learning activities. This connects to broader work on [[ai-pedagogical-orientation]] and the growing recognition that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without thoughtful pedagogical integration.
+The superiority of pedagogically designed tools over general-purpose AI is actionable: it implies that simply giving students access to ChatGPT or similar chatbots is not merely suboptimal but potentially harmful. Effective AI in education requires deliberate instructional design — [[scaffolding]], [[sociocultural-learning|ZPD]]-aligned support, refusal to bypass student thinking, and integration with established learning activities. This connects to broader work on [[ai-pedagogical-orientation]] and the growing recognition that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without thoughtful pedagogical integration.
 
 For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
 
@@ -29954,7 +29955,7 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[metacognition]]
 - [[rct]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[ai-literacy]]
 - [[transfer-of-learning]] — Transfer of Learning
 - [[meta-analysis-systematic-review]]
@@ -32143,7 +32144,7 @@ Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026). [Test-Dri
 
 ### Why Text Simplification Matters for ITS
 - **Adaptive content:** Match reading complexity to learner's current level
-- **Scaffolding:** Progressive complexity increase ([[zone-of-proximal-development]])
+- **Scaffolding:** Progressive complexity increase ([[sociocultural-learning]])
 - **Accessibility:** Make domain content accessible to diverse learners
 
 ## MuTSE: Multi-use Text Simplification Evaluator
@@ -32177,7 +32178,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 
 ## Connected Concepts
 
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
 - [[accessible-learning]]
@@ -32847,7 +32848,7 @@ Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Ma
 
 ## [Tutoring-Specific vs. General-Purpose AI in Education](https://edtechdev.github.io/aied/articles/tutoring-specific-vs-general-ai/)
 
-> The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** (e.g., ChatGPT, Gemini) on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]] The mechanism is the preservation of learning work: tutoring-specific tools retain [[desirable-difficulties|productive struggle]] via graduated hints, avoid suppressing [[metacognition]], and calibrate to the [[zone-of-proximal-development|learner's zone of proximal development]] — where general-purpose AI that simply completes tasks short-circuits all three.
+> The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** (e.g., ChatGPT, Gemini) on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]] The mechanism is the preservation of learning work: tutoring-specific tools retain [[desirable-difficulties|productive struggle]] via graduated hints, avoid suppressing [[metacognition]], and calibrate to the [[sociocultural-learning|learner's zone of proximal development]] — where general-purpose AI that simply completes tasks short-circuits all three.
 
 ## The Core Distinction
 
@@ -32855,7 +32856,7 @@ Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Ma
 |---|---|---|
 | **Interaction model** | Open-ended Q&A; completes tasks on request | Structured hints, [[socratic-method|Socratic questioning]], step-by-step [[scaffolding|scaffolds]] |
 | **Cognitive load** | Reduces *all* load, including germane (productive) load | Reduces extraneous load while preserving productive struggle |
-| **ZPD targeting** | Often operates outside the [[zone-of-proximal-development|zone of proximal development]] | Explicitly calibrated to learner readiness |
+| **ZPD targeting** | Often operates outside the [[sociocultural-learning|zone of proximal development]] | Explicitly calibrated to learner readiness |
 | **Metacognitive demand** | Low — AI does the reasoning | High — learner must reason with guidance |
 | **[[transfer-of-learning|Transfer]] evidence** | Mixed to negative when tool is removed | More promising (limited causal data) |
 
@@ -32894,7 +32895,7 @@ Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Ma
 
 ## Connected Concepts
 
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[pedagogical-agent]]
@@ -33251,7 +33252,7 @@ Vargas, E. G., Chiappe, A., & Durand, J. (2024). [*Reshaping education in the er
 
 VeriForge addresses a central tension in [[writing-education]] with AI: how to leverage [[generative-ai]] for knowledge augmentation without ceding authorship and voice. The mixed-initiative design is a concrete instantiation of [[human-in-the-loop-ai]] collaboration, offering a counterpoint to [[cognitive-offloading]] concerns by making writers aware of what they do not know rather than silently filling gaps.
 
-For [[creativity]] research, the system's emphasis on preserving author agency over synthesis speaks directly to worries about [[cognitive-offloading|Over-Reliance]] and homogenized output. The knowledge-gap-revealing mechanism also connects to [[scaffolding]] theory and [[zone-of-proximal-development]], positioning the AI as a scaffold that surfaces and supports what the writer can learn rather than replacing it.
+For [[creativity]] research, the system's emphasis on preserving author agency over synthesis speaks directly to worries about [[cognitive-offloading|Over-Reliance]] and homogenized output. The knowledge-gap-revealing mechanism also connects to [[scaffolding]] theory and [[sociocultural-learning]], positioning the AI as a scaffold that surfaces and supports what the writer can learn rather than replacing it.
 
 The graph-based [[rag]] pipeline with source-anchored evidence cards also models best practice in [[ai-feedback-quality]] and [[hallucination-risk]]: surfaced knowledge is traceable to sources, mitigating [[hallucination-risk]]. The study offers design guidance for [[llm]]-based writing tools across domains beyond fiction, including academic and expository writing.
 
@@ -33267,7 +33268,7 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 - [[rag]]
 - [[scaffolding]]
 - [[writing-education]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 
 ## Connected Articles
 
@@ -34439,7 +34440,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 
 - [[ai-ed-evaluation]]
 - [[ai-education]]
@@ -34503,7 +34504,7 @@ TutorMoments evaluates whether LM tutors select instructional actions appropriat
 - [[intelligent-tutoring]]
 - [[llm]]
 - [[cognitive-offloading]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 ## Connected Articles
 
 - [[lak2026-hint-button-unproductive-use]]
@@ -34761,7 +34762,7 @@ The wiki's accessible-learning research converges on a set of concrete design pr
 
 ### Connections to related concepts
 
-Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[social-robots]], [[human-robot-interaction]], and [[educational-nlp]], while text simplification connects it to [[zone-of-proximal-development]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[social-robots]], [[human-robot-interaction]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
 
 ## Connected Concepts
 
@@ -34783,7 +34784,7 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[social-robots]]
 - [[human-robot-interaction]]
 - [[educational-nlp]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[adaptive-learning]]
 ## Connected Articles
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
@@ -35225,7 +35226,7 @@ Research in the wiki spans design and evaluation:
 
 ## The central tension: automation vs. learning
 
-The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[zone-of-proximal-development]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
+The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
 
 ## Productive friction and social interaction
 
@@ -35256,7 +35257,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[agency]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 - [[simulation]]
@@ -35394,7 +35395,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
+- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
@@ -36186,7 +36187,7 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **Prompting-based AES** has emerged as the most accessible approach. The **[[choi-anchor-aes-prompting-2025|Choi et al. anchor paper study]]** shows that including exemplar essays in prompts brings LLM-human agreement close to human-human reliability, with GPT-4o mini achieving comparable results to GPT-4o at lower cost. This connects to broader [[prompt-engineering]] research and makes AES feasible for teacher use.
 
-**Psychometric and trait-level scoring** moves beyond holistic scores. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** provides a psychometrically-aware framework for trait-adaptive scoring with [[zone-of-proximal-development|ZPD]]-grounded feedback. **[[icle-plus-plus-essay-scoring|ICLE++]]** models fine-grained traits for holistic essay scoring, advancing the precision of automated evaluation.
+**Psychometric and trait-level scoring** moves beyond holistic scores. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** provides a psychometrically-aware framework for trait-adaptive scoring with [[sociocultural-learning|ZPD]]-grounded feedback. **[[icle-plus-plus-essay-scoring|ICLE++]]** models fine-grained traits for holistic essay scoring, advancing the precision of automated evaluation.
 
 **Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity-in-ai-education]] considerations in AES deployment.
 
@@ -36683,7 +36684,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 > **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In AI in education, collaborative learning research spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.
 
-Collaborative learning is grounded in sociocultural theories of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this wiki explore how AI-mediated collaboration affects learning outcomes, epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
+Collaborative learning is grounded in [[sociocultural-learning|sociocultural theories]] of learning that position knowledge construction as fundamentally social. AI introduces new dynamics: AI can serve as a peer, a facilitator, or a participant in collaborative processes. The articles in this wiki explore how AI-mediated collaboration affects learning outcomes, epistemic engagement, and [[equity-in-ai-education|equity]] — and how collaborative structures must be designed to accommodate diverse learners.
 
 **AI as collaborative partner** explores AI's role in group learning. **[[polished-artifacts-fragile-engagement-2026|Kimmerle]]** conceptualizes the risk of reduced epistemic effort when learners use AI to produce polished knowledge artifacts, advocating for AI structured as an argumentative partner that preserves cognitive conflict. **[[epistemic-emotions-collaborative-problem-solving]]** examines how emotions shape collaborative problem-solving with AI. **[[hingle-collaborative-ai-literacy-2025]]** explores collaborative approaches to [[ai-literacy|AI literacy]] development.
 
@@ -39760,7 +39761,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[llm]]
 - [[generative-ai]]
 - [[teacher-education]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[metacognition]]
 - [[rct]]
 - [[faculty-development]]
@@ -40139,10 +40140,10 @@ This is the umbrella concept for the wiki's learning-theory strand. Learning the
 The wiki documents several families of learning theory, each with its own concepts:
 
 - **Classical learning theories.** [[behaviorism]] (learning as observable behavioral change through reinforcement and drill-and-practice) and [[constructivist|constructivism]] (learning as active knowledge construction) are the two poles that recur most often in AI research. The field frequently exhibits a "constructivism in name, behaviorism in practice" gap, where discourse espouses construction but AI implementations default to drill-and-feedback mechanics.^[[ai-vocational-education-training-review]]
+- **Sociocultural and developmental theories.** [[sociocultural-learning]] holds that learning and development arise through social participation and are mediated by cultural tools and more knowledgeable others — spanning the [[sociocultural-learning|Zone of Proximal Development]], [[scaffolding]], apprenticeship, communities of practice, and distributed cognition. In the AI age, generative AI is increasingly framed as a *mediational agent* that both mediates activity and generates contingent contributions to interaction.^[[mediational-agent-genai-sociocultural-2026]]
 - **Cognition and cognitive architecture.** Cognitive Load Theory (how working-memory limits shape instruction), Dual-Process Theory (fast intuitive vs. slow deliberative processing), and [[metacognition]] (monitoring and regulating one's own learning) explain the *internal* mechanisms that AI tools engage or bypass.
 - **Motivation and self-direction.** [[self-determination-theory]] (autonomy, competence, relatedness), [[self-efficacy]] (confidence in one's capability), [[self-regulated-learning]] (goal-setting, monitoring, and adjustment), and [[motivation]] explain why learners engage with AI the way they do.
 - **Learning context and activity.** [[experiential-learning]], [[active-learning]], [[project-based-learning]], [[collaborative-learning]], [[transfer-of-learning]], [[desirable-difficulties]], and [[embodied-learning]] describe the kinds of activity and context that produce durable learning.
-- **Development and scaffolding.** [[zone-of-proximal-development]] and [[scaffolding]] frame learning as movement through a support-able range with calibrated, fading assistance.
 
 ### Why learning theories matter for AI in education
 
@@ -40181,7 +40182,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[self-determination-theory]]
 - [[self-efficacy]]
 - [[motivation]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[scaffolding]]
 - [[transfer-of-learning]]
 - [[desirable-difficulties]]
@@ -42187,7 +42188,7 @@ Equally important is reading any single study with awareness of the **cross-cutt
 
 ### The ZPD connection
 
-[[zone-of-proximal-development|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
+[[sociocultural-learning|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
 
 ### Connections
 
@@ -42196,7 +42197,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 ## Connected Concepts
 
 - [[learning-by-teaching]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[cognitive-offloading]]
 - [[feedback]]
 - [[ai-literacy]]
@@ -42534,7 +42535,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 
 > **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where [[assessment]] emerges from the task itself rather than being separated from it.
 
-Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's sociocultural context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
+Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
 In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and immersive [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
 
@@ -42665,6 +42666,69 @@ Social robots connect to [[human-robot-interaction]], [[educational-robotics]], 
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
+
+---
+
+## [Sociocultural Learning](https://edtechdev.github.io/aied/concepts/sociocultural-learning/)
+
+> **Sociocultural learning** — the family of theories, rooted in Vygotsky, that holds learning and development arise through social participation and are mediated by cultural tools, language, and interaction with more knowledgeable others. Cognition is distributed across people, artifacts, and environments rather than residing solely in individuals. In AI in education, sociocultural theory frames how [[generative-ai|generative AI]] functions as a new kind of *mediational agent* — a tool that both mediates activity and generates contingent contributions to interaction — and frames the design of [[scaffolding]], the Zone of Proximal Development (ZPD), apprenticeship, and communities of practice. See [[mediational-agent-genai-sociocultural-2026]].
+
+### The concept
+
+Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental functions develop through participation in culturally organized activity. Unlike accounts that locate learning solely in the individual's information processing, the sociocultural view emphasizes that:
+
+- **Mediation is fundamental.** Humans think with and through cultural tools — language, writing, diagrams, technologies — which reorganize how they reason, remember, and solve problems (Wertsch, 1991). These tools do not merely transmit information; they reshape cognition and participation.
+- **Learning is social.** Higher mental functions appear first between people (intersubjectively, in interaction) and only later within the individual. Learning arises through participation with teachers, peers, and communities — in processes like [[scaffolding]], apprenticeship, and movement through the ZPD.
+- **Cognition is distributed.** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. Distributed cognition, [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
+
+### The Zone of Proximal Development (ZPD)
+
+The ZPD (Vygotsky) is the sociocultural concept most widely applied in AI tutoring: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an AI tutor should provide so learning advances without being given away — see [[tutoring-specific-vs-general-ai]].
+
+### Sociocultural learning in AI education
+
+Sociocultural theory shapes AIED research in several distinct ways:
+
+- **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) to preserve learner agency.^[[mediational-agent-genai-sociocultural-2026]]
+- **ZPD-calibrated scaffolding.** AI tutors should dynamically calibrate help to sit within each learner's zone. [[tutoring-specific-vs-general-ai]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
+- **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
+- **Cultural and institutional context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
+
+### Connection to cognitive load and [[metacognition]]
+
+The sociocultural strand is tightly coupled to Cognitive Load Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
+
+## Connected Concepts
+
+- [[scaffolding]]
+- [[constructivist]]
+- [[learning-theories]]
+- [[situated-learning]]
+- [[distributed-cognition]]
+- [[metacognition]]
+- [[agency]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[desirable-difficulties]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[k-12]]
+- [[intelligent-tutoring]]
+
+## Connected Articles
+
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[collaborative-ai-tutoring]] — Collaborative AI tutoring
+- [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
+- [[tutoring-specific-vs-general-ai]] — Tutoring specific vs. general AI
+- [[text-simplification-its]] — Text simplification in ITS
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+
+## Citation
+
+Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
 
 ---
 
@@ -43538,7 +43602,7 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 
 ### Connections to related concepts
 
-Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[zone-of-proximal-development]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
+Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
 
 ## Connected Concepts
 
@@ -43546,7 +43610,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[intelligent-tutoring]]
 - [[k-12]]
 - [[self-regulated-learning]]
@@ -43807,47 +43871,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
-
----
-
-## [Zone Of Proximal Development](https://edtechdev.github.io/aied/concepts/zone-of-proximal-development/)
-
-> **Zone of Proximal Development (ZPD)** — Vygotsky's concept of the space between what a learner can do alone and what they can do with assistance, where effective teaching and AI scaffolding should operate. In AI in education, ZPD frames the central design question: how much support an AI tutor should provide so learning advances without being given away — see [[tutoring-specific-vs-general-ai]].
-
-### The concept
-
-The Zone of Proximal Development (Vygotsky) describes the range of tasks a learner cannot yet do independently but *can* do with guidance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support that is withdrawn as the learner gains competence.
-
-### ZPD in AI tutoring
-
-ZPD is the theoretical frame behind much [[intelligent-tutoring|AI Tutoring]] design. An effective AI tutor should dynamically calibrate help to sit within each learner's zone:
-
-- **Just-enough support.** [[tutoring-specific-vs-general-ai]] examines how tutors tuned to a learner's level outperform generic assistance, keeping problems within the ZPD rather than too easy or too hard.
-- **Adaptive difficulty.** [[adaptive-learning]] systems and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting problem difficulty and hint level in response to learner performance.
-- **[[scaffolding|Scaffolding]], then fading.** [[finkelstein-principled-ai-education-2025|Principled AI education frameworks]] argue support should be withdrawn as competence grows, mirroring Vygotsky's notion that the zone shifts as the learner develops.
-
-### Connection to cognitive load and [[metacognition]]
-
-The ZPD is tightly coupled to Cognitive Load Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
-
-## Connected Concepts
-
-- [[metacognition]]
-- [[scaffolding]]
-- [[desirable-difficulties]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[rct]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[learning-theories]]
-## Connected Articles
-
-- [[collaborative-ai-tutoring]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[text-simplification-its]]
-- [[tutoring-specific-vs-general-ai]]
 
 ---
 

@@ -12,7 +12,7 @@ confidence: high
 
 ## Context
 
-Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This meta-analysis examines how robot design features and instructional conditions relate to L2 learning outcomes, drawing on multimodal learning theory (MMLT) and sociocultural theory (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
+Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This meta-analysis examines how robot design features and instructional conditions relate to L2 learning outcomes, drawing on multimodal learning theory (MMLT) and [[sociocultural-learning|sociocultural theory]] (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
 
 ## Key Findings
 

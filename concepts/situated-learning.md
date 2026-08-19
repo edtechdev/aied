@@ -1,7 +1,7 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16T09:34:46-04:00"
+updated: "2026-08-19T10:13:51-04:00"
 type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, communities-of-practice, contextual-knowledge, instructional-design, ai-education]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where [[assessment]] emerges from the task itself rather than being separated from it.
 
-Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's sociocultural context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
+Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's [[sociocultural-learning|sociocultural]] context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
 In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and immersive [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
 

@@ -72,7 +72,7 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 - [[scaffolding]]
 - [[agency]]
 - [[desirable-difficulties]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[math-education]]
 - [[teacher-role]]
 - [[student-engagement]]

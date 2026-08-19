@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-19T10:13:51-04:00"
 type: concept
 tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
@@ -17,10 +17,10 @@ This is the umbrella concept for the wiki's learning-theory strand. Learning the
 The wiki documents several families of learning theory, each with its own concepts:
 
 - **Classical learning theories.** [[behaviorism]] (learning as observable behavioral change through reinforcement and drill-and-practice) and [[constructivist|constructivism]] (learning as active knowledge construction) are the two poles that recur most often in AI research. The field frequently exhibits a "constructivism in name, behaviorism in practice" gap, where discourse espouses construction but AI implementations default to drill-and-feedback mechanics.^[[ai-vocational-education-training-review]]
+- **Sociocultural and developmental theories.** [[sociocultural-learning]] holds that learning and development arise through social participation and are mediated by cultural tools and more knowledgeable others — spanning the [[sociocultural-learning|Zone of Proximal Development]], [[scaffolding]], apprenticeship, communities of practice, and distributed cognition. In the AI age, generative AI is increasingly framed as a *mediational agent* that both mediates activity and generates contingent contributions to interaction.^[[mediational-agent-genai-sociocultural-2026]]
 - **Cognition and cognitive architecture.** Cognitive Load Theory (how working-memory limits shape instruction), Dual-Process Theory (fast intuitive vs. slow deliberative processing), and [[metacognition]] (monitoring and regulating one's own learning) explain the *internal* mechanisms that AI tools engage or bypass.
 - **Motivation and self-direction.** [[self-determination-theory]] (autonomy, competence, relatedness), [[self-efficacy]] (confidence in one's capability), [[self-regulated-learning]] (goal-setting, monitoring, and adjustment), and [[motivation]] explain why learners engage with AI the way they do.
 - **Learning context and activity.** [[experiential-learning]], [[active-learning]], [[project-based-learning]], [[collaborative-learning]], [[transfer-of-learning]], [[desirable-difficulties]], and [[embodied-learning]] describe the kinds of activity and context that produce durable learning.
-- **Development and scaffolding.** [[zone-of-proximal-development]] and [[scaffolding]] frame learning as movement through a support-able range with calibrated, fading assistance.
 
 ### Why learning theories matter for AI in education
 
@@ -59,7 +59,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[self-determination-theory]]
 - [[self-efficacy]]
 - [[motivation]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[scaffolding]]
 - [[transfer-of-learning]]
 - [[desirable-difficulties]]
