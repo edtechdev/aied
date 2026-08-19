@@ -16,7 +16,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 - **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with prior knowledge, and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
 - **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[student-misconceptions-ai]] and to AI tutors that adapt to the learner.
 - **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally situated activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
-- **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the ICAP framework ranks "constructive" and "interactive" engagement above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
+- **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" engagement above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
 
 ## Constructivism and AI in education
 
@@ -47,7 +47,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 ## Implications for design and research
 
 1. **Preserve the constructive activity.** AI should scaffold the learner's own thinking — prompt, question, and support — rather than perform it. Designers should ask whether the tool increases or replaces the learner's constructive effort.^[[generative-refusal-ai-tools-for-thought]]
-2. **Use the ICAP lens.** Sequence instruction through passive → active → constructive → interactive engagement, and evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption.^[[hingle-collaborative-ai-literacy-2025]]
+2. **Use the [[icap-framework|ICAP]] lens.** Sequence instruction through passive → active → constructive → interactive engagement, and evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption.^[[hingle-collaborative-ai-literacy-2025]]
 3. **Align theory and implementation.** Researchers should look beyond whether AI "works" to *how* it embodies a learning theory, checking for the constructivist-in-name, behaviorist-in-practice gap.^[[ai-vocational-education-training-review]]
 4. **Study learner agency and transfer.** Constructivist commitments imply evaluating not just immediate test gains but whether learners can transfer and independently apply their constructed understanding.^[[research-methods-aied]]
 
