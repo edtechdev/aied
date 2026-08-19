@@ -1,22 +1,22 @@
 ---
 title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-19T02:00:00-04:00"
 type: article
 tags: [ai-literacy, collaborative-learning, instructional-design, ai-literacy-assessment-misalignment, k-12, llm, higher-ed]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: medium
 ---
 
-> **Systematic review of collaborative learning for AI literacy** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups.
+> **Systematic review of collaborative learning for AI literacy** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how [[collaborative-learning|collaborative learning]] (CL) approaches can be harnessed to build [[ai-literacy]] across diverse educational contexts. Using the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups.
 
 ## Key Findings
 
 This systematic review is among the first to map the intersection of [[collaborative-learning]] and [[ai-literacy]], two fields that have largely developed in parallel despite their natural synergies. The review identified 9 studies (2015–2023) that met inclusion criteria for collaborative learning interventions targeting AI literacy outcomes.
 
-**The ICAP lens.** The authors applied the ICAP framework — which classifies cognitive engagement as Interactive, Constructive, Active, or Passive — to analyze the instructional activities in each study. This revealed that all four modes of cognitive engagement were represented across the corpus, suggesting that AI literacy instruction benefits from a [[instructional-design]] approach that sequences activities through multiple engagement levels rather than relying on any single mode. This aligns with broader findings about the effectiveness of [[active-learning]] strategies in STEM contexts.
+**The ICAP lens.** The authors applied the [[icap-framework|ICAP framework]] — which classifies cognitive engagement as Interactive, Constructive, Active, or Passive — to analyze the instructional activities in each study. This revealed that all four modes of cognitive engagement were represented across the corpus, suggesting that [[ai-literacy]] instruction benefits from a [[instructional-design]] approach that sequences activities through multiple engagement levels rather than relying on any single mode. This aligns with broader findings about the effectiveness of [[active-learning]] strategies in STEM contexts.
 
-**Effectiveness across contexts.** Collaborative learning was found to increase AI literacy outcomes across a wide range of instructional activities, educational settings, and learner populations. The studies spanned both formal classroom environments and informal learning contexts, with some interventions deliberately broadening participation — for example, by involving parents and families alongside students, or by incorporating [[ai-learning-companions-framework]] AI agents as collaborative partners in the learning process.
+**Effectiveness across contexts.** [[collaborative-learning|Collaborative learning]] was found to increase AI literacy outcomes across a wide range of instructional activities, educational settings, and learner populations. The studies spanned both formal classroom environments and informal learning contexts, with some interventions deliberately broadening participation — for example, by involving parents and families alongside students, or by incorporating [[ai-learning-companions-framework]] AI agents as collaborative partners in the learning process.
 
 **Classroom-centric but expanding.** Most studies took place in classroom settings, but the review identified emerging patterns of collaboration that extend beyond traditional boundaries: educator-family partnerships, peer-to-peer learning communities, and AI-agent-supported teamwork. These expanding participation models connect to the [[community-centered-ai-education-adults]] paradigm and suggest pathways toward more inclusive [[ai-literacy-equity-programming-policy]].
 
@@ -24,13 +24,13 @@ This systematic review is among the first to map the intersection of [[collabora
 
 ## Implications
 
-The review's findings have direct implications for [[instructional-design]] practice in AI literacy education. The presence of all four ICAP modes across successful interventions suggests that effective AI literacy curricula should intentionally sequence students through passive exposure (e.g., lectures on AI concepts), active manipulation (e.g., hands-on tool use), constructive generation (e.g., creating AI artifacts), and interactive dialogue (e.g., collaborative problem-solving with peers and AI). This multi-modal approach resonates with the [[ai-literacy-continuum-higher-education]] framework.
+The review's findings have direct implications for [[instructional-design]] practice in [[ai-literacy]] education. The presence of all four [[icap-framework|ICAP]] modes across successful interventions suggests that effective AI literacy curricula should intentionally sequence students through passive exposure (e.g., lectures on AI concepts), active manipulation (e.g., hands-on tool use), constructive generation (e.g., creating AI artifacts), and interactive dialogue (e.g., [[collaborative-learning|collaborative problem-solving]] with peers and AI). This multi-modal approach resonates with the [[ai-literacy-continuum-higher-education]] framework.
 
-For the [[collaborative-learning]] research community, this review provides a structured taxonomy for designing and evaluating AI literacy interventions. The ICAP framework offers a common vocabulary for comparing approaches and identifying which engagement modes are most impactful for different AI literacy competencies — an important step toward building the cumulative science called for in the [[ai-literacy-assessment-misalignment]] literature.
+For the [[collaborative-learning]] research community, this review provides a structured taxonomy for designing and evaluating AI literacy interventions. The [[icap-framework|ICAP framework]] offers a common vocabulary for comparing approaches and identifying which engagement modes are most impactful for different AI literacy competencies — an important step toward building the cumulative science called for in the [[ai-literacy-assessment-misalignment]] literature.
 
 Practically, the findings support the integration of collaborative AI literacy activities into existing [[k-12]] curricula and [[faculty-development]] programs. The success of interventions that involve families and community members suggests that AI literacy is not solely a school-based competency but a societal one — a perspective aligned with [[ai-education-global-capacity]] and [[ai-lifelong-learning-policy]].
 
-Looking forward, the review highlights the potential for [[icap-cognitive-engagement-llm-agents]] research to further enrich collaborative AI literacy instruction by designing LLM-based agents that can serve as interactive learning partners within ICAP-structured activities, extending the social dimension of learning beyond human peers.
+Looking forward, the review highlights the potential for [[icap-cognitive-engagement-llm-agents]] research to further enrich collaborative AI literacy instruction by designing LLM-based agents that can serve as interactive learning partners within [[icap-framework|ICAP]]-structured activities, extending the social dimension of learning beyond human peers.
 
 ## Connected Concepts
 

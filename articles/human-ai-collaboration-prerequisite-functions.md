@@ -14,7 +14,7 @@ confidence: high
 
 ## Key Findings
 
-- The chapter reconstructs the requirements that a situation, an interaction, and a set of cognitive processes have historically had to meet before being called collaborative, returning to longstanding accounts of collaborative learning.
+- The chapter reconstructs the requirements that a situation, an interaction, and a set of cognitive processes have historically had to meet before being called collaborative, returning to longstanding accounts of [[collaborative-learning]].
 - **True human-AI collaboration** requires a partly symmetric and negotiated relationship, shared and negotiable goals, a low and shifting division of labour, interactive and synchronous exchange, and mutual modelling, grounding, and socially shared regulation.
 - Reviewing process-sensitive empirical studies of writing and problem solving, the author shows that **most current human-AI interaction is better described as consultation, governance, delegation, or instruction** rather than collaboration.
 - The chapter introduces a **five-level diagnostic taxonomy of human-AI teaming — transactional, situational, operational, praxical, and synergistic** — defined by the affordances an AI system exhibits, with only the highest level beginning to satisfy the conditions the tradition places on collaboration.

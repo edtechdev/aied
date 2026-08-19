@@ -26,7 +26,7 @@ Gerlich (2025) investigates whether frequent use of AI tools erodes critical thi
 
 ## Implications
 
-- **Education:** Educators should balance AI integration with active learning and explicit critical thinking instruction, avoiding passive reliance on AI tools.
+- **Education:** Educators should balance AI integration with [[active-learning]] and explicit critical thinking instruction, avoiding passive reliance on AI tools.
 - **Policy/practice:** Teacher training should build AI competency while preserving cognitive engagement; students need metacognitive skills to judge when AI use undermines rather than supports learning.
 - **Conceptual:** Extends the "Google effect" (Sparrow et al., 2011) and cognitive offloading research (Risko & Gilbert, 2016) into the AI era, and connects [[trust]] in AI to greater offloading and diminished critical engagement.
 - **Caveats:** Self-reported measures and potential sample bias limit causal inference; the author calls for longitudinal and experimental follow-up.

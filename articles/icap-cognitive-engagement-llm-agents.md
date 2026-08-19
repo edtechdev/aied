@@ -12,7 +12,7 @@ confidence: high
 
 ## Synthesis
 
-This study applies an extended 7-point ICAP framework (Interactive, Constructive, Active, Passive) to characterize cognitive engagement in collaborative dialogue, comparing trained human annotators with LLM-based labeling: in-context learning (ICL), zero-shot prompting, and self-reflective agents.
+This study applies an extended 7-point [[icap-framework|ICAP]] framework (Interactive, Constructive, Active, Passive) to characterize cognitive engagement in collaborative dialogue, comparing trained human annotators with LLM-based labeling: in-context learning (ICL), zero-shot prompting, and self-reflective agents.
 
 Human interrater reliability was robust across framework refinement stages (kappa = 0.906–0.998), far exceeding ICL-based annotation (kappa = 0.541–0.609) — a large gap between human and LLM labeling of engagement.
 

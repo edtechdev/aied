@@ -27,7 +27,7 @@ confidence: high
 
 ## Design Implications
 
-The paper challenges the dominant LAD paradigm of "show data → hope for insight." Drawing on [[intelligent-tutoring]] research (Chi's ICAP framework), the authors argue that:
+The paper challenges the dominant LAD paradigm of "show data → hope for insight." Drawing on [[intelligent-tutoring]] research (Chi's [[icap-framework|ICAP framework]]), the authors argue that:
 
 1. **Interactivity ≠ navigation** — clicking filters is not cognitive engagement; two-way dialogue is
 2. **Elicitation beats telling** — asking learners to self-assess before revealing metrics drives calibration better than showing data upfront
