@@ -29,10 +29,10 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[critical-thinking]]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[ethics]]
 - [[intelligent-tutoring]]
 - [[ai-sycophancy]]
+
 
 ## Connected Articles
 

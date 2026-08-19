@@ -33,9 +33,8 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[open-source]]
 - [[stem-education]]
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[higher-ed]]
+
 
 ## Connected Articles
 

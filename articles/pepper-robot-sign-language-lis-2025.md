@@ -21,14 +21,14 @@ The work extends [[educational-robotics]] into [[equity-in-ai-education]] by exp
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[special-education]]
 - [[equity-in-ai-education]]
 - [[accessible-learning]]
+
 ## Connected Articles
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: Digital Storytelling Robots and Motivation
 ## Citation
-Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Using the Pepper robot to support sign language communication*. arXiv:2509.09889.
+Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). [*Using the Pepper robot to support sign language communication*](https://arxiv.org/abs/2509.09889). arXiv:2509.09889.

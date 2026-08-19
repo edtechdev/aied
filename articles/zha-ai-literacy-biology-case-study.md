@@ -34,7 +34,6 @@ The authors also offer practical guidance for educators: activate prior subject 
 
 - [[ai-literacy]]
 - [[k-12]]
-- [[k-12]]
 - [[biology-education]]
 - [[stem-education]]
 - [[curriculum-design]]
@@ -42,6 +41,7 @@ The authors also offer practical guidance for educators: activate prior subject 
 - [[transfer-of-learning]]
 - [[active-learning]]
 - [[ai-ed-evaluation]]
+
 
 ## Citation
 
