@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T03:36:31-04:00"
+updated: "2026-08-18T18:55:00-04:00"
 type: concept
 tags: [active-learning, instructional-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
 confidence: high
@@ -12,6 +12,30 @@ confidence: high
 Active learning is a foundational principle in education research, grounded in [[constructivist]] theories that position learners as active constructors of knowledge. In the context of AI in education, the concept takes on dual significance: AI tools can enable active learning at scale (through [[intelligent-tutoring|interactive tutoring]], [[simulation|simulations]], and [[adaptive-learning|adaptive feedback]]), but poorly designed AI tools can also undermine it by [[cognitive-offloading|doing the cognitive work]] for students. The tension between AI assistance and active cognitive engagement — explored in articles like [[lak2026-hint-button-unproductive-use]] on premature hint use and [[efficiency-gain-illusion-ai-overreliance]] on [[cognitive-offloading|Over-Reliance]] — is a central concern.
 
 AI-enabled active learning manifests across multiple forms in this wiki: [[intelligent-tutoring]] systems that engage students in problem-solving rather than answer-giving, [[genai-mindtool-generative-learning]] approaches where students use AI as a thinking tool rather than a substitute, [[test-driven-ai-assisted-learning]] where students drive AI interaction rather than follow it, and [[curiobot-llm-tutoring-exploratory-learning]] exploratory learning environments. The [[scaffolding]] concept is tightly coupled — effective active learning requires calibrated support that fades as competence grows, which AI tutors must learn to provide.
+
+## How active learning appears in the wiki's research
+
+- **Interaction mode determines cognitive engagement.** [[ai-assisted-learning-modes-eeg|An EEG study of high school students]] compared Auto (AI solves independently), Interactive (student–AI collaboration with scaffolding), and Manual (no AI) modes: **Interactive produced the highest cognitive engagement and task accuracy**, while Auto reduced engagement and risked over-reliance. This gives a neurophysiological dimension to the argument that AI must keep students *doing* rather than watching.
+
+- **Exploratory and simulation-based active learning.** [[supplynet-visual-exploratory-learning|SupplyNet]] uses a contextual multi-agent LLM simulation to support visual exploratory learning in supply-chain education, pairing an interactive network view with a branching "what-if" timeline so learners trace causal dynamics rather than consume abstract content. [[curiobot-llm-tutoring-exploratory-learning|Curiobot]] and [[genai-assisted-problem-posing-physics-2026|problem-posing in physics]] similarly foreground learner-driven exploration.
+
+- **Structured conversational workflows for active review.** [[knowloop-confusion-to-consolidation-2026|KnowLoop]] structures post-lecture review around three stages — Recognize (mark in-situ confusion), Resolve (clarification), and Consolidate (teach-back) — showing that teach-back prompts learners to articulate and reveal conceptual gaps, and that context-grounded AI outperforms general-purpose AI for targeted support. Teach-back instantiates [[learning-by-teaching]].
+
+- **Active learning as a project-based, community structure.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes extracurricular AI education around competition teams, study groups, and AI-for-social-impact projects, embodying active and [[project-based-learning|project-based learning]] through democratic student governance rather than top-down curriculum.
+
+- **Mindtools and generative engagement.** [[genai-mindtool-generative-learning|GenAI as a mindtool]] positions AI as a device students think *with* rather than a source of answers, aligning active learning with generative-learning theories where learners integrate new ideas into existing knowledge.
+
+## Practical guidance
+
+- **Keep the learner in the loop.** Design AI interactions so students act on and with output (interactive, scaffolded modes) rather than receiving finished answers; full automation measurably reduces cognitive engagement.
+- **Anchor AI support in learners' own activity.** Confusion points, learner-driven questions, and problem-posing give personalized entry points for review and exploration.
+- **Use teach-back and explanation.** Have learners articulate what they understand; surfacing gaps through explanation is more active than passive re-reading.
+- **Pair active engagement with calibrated scaffolding.** Support should fade as competence grows — [[scaffolding]] that never withdraws can itself become passive reliance.
+- **Prefer tools that make thinking visible.** Exploratory simulations, mindtools, and interactive problem-spaces support the causal tracing and comparative reasoning at the heart of active learning.
+
+## Connections to related concepts
+
+Active learning is deeply connected to [[collaborative-learning]] (much active learning is social), [[learning-by-teaching]] (explaining to others is maximally active), [[project-based-learning]] and [[experiential-learning]] (learning by doing in authentic contexts), [[embodied-learning]] (physical engagement), [[game-based-learning]], and [[simulation]]. It relies on [[scaffolding]] and timely [[feedback]], and is threatened by [[cognitive-offloading|over-reliance]] when AI substitutes for effort. Grounded in [[constructivist]] and [[learning-theories]], it spans [[higher-ed]], [[k-12]], and [[stem-education]].
 
 ## Connected Concepts
 
@@ -29,6 +53,12 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[cognitive-offloading]]
 - [[collaborative-learning]]
 - [[learning-theories]]
+- [[project-based-learning]]
+- [[experiential-learning]]
+- [[embodied-learning]]
+- [[simulation]]
+- [[game-based-learning]]
+- [[help-seeking]]
 ## Connected Articles
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
@@ -39,3 +69,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[test-driven-ai-assisted-learning]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[genai-assisted-problem-posing-physics-2026]]
+- [[ai-assisted-learning-modes-eeg]] — EEG study of AI interaction modes (interactive > auto)
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
+- [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
+- [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
