@@ -1,7 +1,7 @@
 ---
 title: Technology Acceptance Model
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-18"
+updated: "2026-08-19T07:56:52-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
 confidence: high
@@ -38,6 +38,7 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 - [[self-determination-theory]]
 - [[research-methods-aied]]
 - [[student-modeling]]
+- [[framing-ai-use-for-students]]
 
 ## Connected Articles
 
