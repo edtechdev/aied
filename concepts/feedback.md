@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [feedback, feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 
@@ -69,6 +69,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-literacy]]
 - [[writing-education]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -100,3 +101,4 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflow
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Hybrid teacher-GenAI feedback outperforms either alone
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology

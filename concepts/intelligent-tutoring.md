@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T07:42:38-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -90,6 +90,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[behaviorism]]
 - [[assessment-validity]]
 - [[k-12]]
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
@@ -132,3 +133,4 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[li-ai-science-situated-learning-teachers-2025]] — AI in science situated learning
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology

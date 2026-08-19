@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 140
+**Total concepts:** 141
 
 ## Canonical concepts
 
@@ -80,6 +80,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 - **`bias-mitigation`** — Bias Mitigation
     - phrases: bias mitigation; algorithmic bias; bias; fairness; de-biasing; debiasing
+
+- **`biology-education`** — Biology Education
+    - phrases: biology education; biology; biological education; biology learning; biology laboratory; life sciences
 
 - **`chemistry-education`** — Chemistry Education
     - phrases: chemistry education; chemistry; chemical education; chemistry learning; chemistry laboratory
