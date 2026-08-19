@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T18:02:45-04:00"
+updated: "2026-08-19T18:08:47-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -22,7 +22,7 @@ The wiki's concept coverage is anchored by several **umbrella pages** that group
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
 - **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the [[feedback|feedback loop]], [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]). Feedback sits at the intersection of assessment and learning — without it, assessment measures performance but does not improve it.
 - **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, teachers, instructional designers, administrators, and policymakers.
-- **[[ai-ed-evaluation|AI ed evaluation]]** and **[[research-methods-aied|research methods]]** — the umbrellas for how we know whether AI works (efficacy, benchmarks, RCTs, meta-analysis).
+- **[[ai-ed-evaluation|AI ed evaluation]]** and **[[research-methods-aied|research methods]]** — the umbrellas for how we know whether AI works: [[research-methods-aied|efficacy studies]], [[benchmark|benchmarks]], [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis]], and [[learning-gains|learning gains]] as the core outcome measure. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations of this evidence]] — its generalizability, measurement validity, reproducibility, and how quickly AI findings date — which the wiki documents as a dedicated concept page.
 - **[[governance|AI governance]]**, **[[educational-policy-ai|educational AI policy]]**, and **[[equity-in-ai-education|equity]]** — the umbrellas for the institutional, regulatory, and fairness layer.
 
 These umbrella pages are linked throughout the sections below; each strand below names both its umbrella and its constituent concepts.
