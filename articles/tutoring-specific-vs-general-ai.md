@@ -1,26 +1,24 @@
 ---
 title: Tutoring-Specific vs. General-Purpose AI in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-19T07:35:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, zone-of-proximal-development, metacognition]
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
 
-> 1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints. 2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See Cognitive Load Theory. 3. **Metacognition suppression** — When AI completes reasoning, students lose practice in monitoring their own understanding.
-
-> The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]]
+> The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** (e.g., ChatGPT, Gemini) on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]] The mechanism is the preservation of learning work: tutoring-specific tools retain [[desirable-difficulties|productive struggle]] via graduated hints, avoid suppressing [[metacognition]], and calibrate to the [[zone-of-proximal-development|learner's zone of proximal development]] — where general-purpose AI that simply completes tasks short-circuits all three.
 
 ## The Core Distinction
 
 | Dimension | General-Purpose AI (e.g., ChatGPT, Gemini) | Tutoring-Specific AI |
 |---|---|---|
-| **Interaction model** | Open-ended Q&A; completes tasks on request | Structured hints, Socratic questioning, step-by-step scaffolds |
+| **Interaction model** | Open-ended Q&A; completes tasks on request | Structured hints, [[socratic-method|Socratic questioning]], step-by-step [[scaffolding|scaffolds]] |
 | **Cognitive load** | Reduces *all* load, including germane (productive) load | Reduces extraneous load while preserving productive struggle |
 | **ZPD targeting** | Often operates outside the [[zone-of-proximal-development|zone of proximal development]] | Explicitly calibrated to learner readiness |
 | **Metacognitive demand** | Low — AI does the reasoning | High — learner must reason with guidance |
-| **Transfer evidence** | Mixed to negative when tool is removed | More promising (limited causal data) |
+| **[[transfer-of-learning|Transfer]] evidence** | Mixed to negative when tool is removed | More promising (limited causal data) |
 
 ## Evidence from the Causal Literature
 
@@ -33,15 +31,15 @@ confidence: medium
 
 ### Tutoring-Specific AI: Better Outcomes
 
-- **Bastani et al. (2025):** A tutoring-specific chatbot with pedagogical guardrails (**hints, step-by-step reasoning, misconception targeting**) **mitigated the exam score drop** observed with general-purpose GPT. General-purpose GPT Base caused the drop; the tutoring variant prevented it.
+- **Bastani et al. (2025):** A tutoring-specific chatbot with pedagogical guardrails (**hints, step-by-step reasoning, [[student-misconceptions-ai|misconception targeting]]**) **mitigated the exam score drop** observed with general-purpose GPT. General-purpose GPT Base caused the drop; the tutoring variant prevented it.
 - **Kreijkes et al. (2026):** Retention improved when AI use was **paired with traditional strategies** like note-taking — suggesting that friction-preserving designs matter.
 
 ## Why This Happens: Learning Science Mechanisms
 
-1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints.
+1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints (see [[desirable-difficulties]]).
 2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See Cognitive Load Theory.
-3. **Metacognition suppression** — When AI completes reasoning, students lose practice in monitoring their own understanding.
-4. **Expertise reversal** — Novices need scaffolding, not answers. General AI gives answers; tutoring AI gives scaffolds.
+3. **Metacognition suppression** — When AI completes reasoning, students lose practice in [[metacognition|monitoring their own understanding]].
+4. **Expertise reversal** — Novices need scaffolding, not answers. General AI gives answers; tutoring AI gives [[scaffolding|scaffolds]].
 
 ## Important Caveats
 
@@ -51,8 +49,8 @@ confidence: medium
 
 ## Implications for Practitioners
 
-- **For tool selection:** Favor products with explicit pedagogical guardrails (hints, Socratic mode, step-by-step requirements) over raw LLM access.
-- **For policy:** School/district procurement criteria should distinguish between "AI-integrated" tools (tutoring-specific) and "AI-access" tools (general chatbox).
+- **For tool selection:** Favor products with explicit pedagogical guardrails (hints, [[socratic-method|Socratic mode]], step-by-step requirements) over raw LLM access.
+- **For policy:** School/district procurement criteria should distinguish between "AI-integrated" tools (tutoring-specific) and "AI-access" tools (general chatbot).
 - **For research:** Head-to-head RCTs comparing pedagogically designed AI vs. raw LLM access on delayed post-tests are urgently needed.
 
 ## Connected Concepts
@@ -62,14 +60,19 @@ confidence: medium
 - [[scaffolding]]
 - [[pedagogical-agent]]
 - [[self-regulated-learning]]
+- [[metacognition]]
 - [[transfer-of-learning]]
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
+- [[socratic-method]]
 - [[generative-ai]]
+- [[adaptive-learning]]
+
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-effectiveness-review]]
+
 ## Citation
 
 Stanford SCALE Initiative. (2026). [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf).
