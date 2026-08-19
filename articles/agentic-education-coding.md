@@ -60,7 +60,6 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - [[curriculum-design]]
 - [[metacognition]]
 - [[cs-education]]
-- [[cs-education]]
 - [[ai-literacy]]
 - [[scaffolding]]
 

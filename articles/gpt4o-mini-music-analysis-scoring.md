@@ -33,7 +33,6 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[automated-assessment]]
 - [[prompt-engineering]]
 - [[assessment-validity]]
-- [[automated-assessment]]
 - [[higher-ed]]
 - [[educational-measurement]]
 

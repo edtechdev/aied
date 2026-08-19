@@ -37,7 +37,6 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 - [[formative-assessment]]
 - [[assessment-validity]]
 - [[computational-thinking]]
-- [[cs-education]]
 - [[cognitive-diagnosis]]
 ## Connected Articles
 

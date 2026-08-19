@@ -34,7 +34,6 @@ Yasir et al. (2026) benchmark seven LLM feedback agents as step-level tutors in 
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[knowledge-graph]]
 - [[knowledge-tracing]]

@@ -31,7 +31,6 @@ The paper discusses what a language-based facilitator cannot reach and the value
 - [[higher-ed]]
 - [[professional-training]]
 - [[stem-education]]
-- [[socratic-method]]
 - [[simulation]]
 - [[teacher-role]]
 

@@ -16,7 +16,6 @@ Generative AI undermines a basic premise of educational assessment: that submitt
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[governance]]
-- [[governance]]
 - [[cognitive-offloading]]
 - [[trust]]
 - [[authentic-assessment]]

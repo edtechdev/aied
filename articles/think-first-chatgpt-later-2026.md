@@ -58,7 +58,6 @@ The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[desirable-difficulties]]
 - [[scaffolding]]

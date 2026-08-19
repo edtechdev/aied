@@ -34,7 +34,6 @@ As AI code tools become integrated into programming environments, the emphasis o
 - [[cs-education]]
 - [[higher-ed]]
 - [[llm]]
-- [[cs-education]]
 - [[prompt-engineering]]
 - [[student-experience]]
 

@@ -32,7 +32,6 @@ confidence: high
 - [[cs-education]]
 - [[automated-assessment]]
 - [[llm]]
-- [[cs-education]]
 - [[assessment]]
 
 ## Connected Articles

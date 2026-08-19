@@ -75,7 +75,6 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 - [[teacher-role]]
 - [[cognitive-offloading]]
 - [[ai-ed-evaluation]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 

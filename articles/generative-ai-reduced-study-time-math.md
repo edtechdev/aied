@@ -39,7 +39,6 @@ This study provides the strongest empirical evidence yet for the [[cognitive-off
 
 - [[generative-ai]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 - [[regulation]]

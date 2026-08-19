@@ -16,7 +16,6 @@ This construct has significant implications for [[cognitive-offloading|Over-Reli
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]
 - [[affective-computing]]

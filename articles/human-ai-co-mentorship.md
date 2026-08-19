@@ -33,7 +33,6 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[lifelong-learning]]
 - [[project-based-learning]]
 - [[human-ai-collaboration]]
-- [[intelligent-tutoring]]
 - [[scaffolding]]
 
 ## Connected Articles

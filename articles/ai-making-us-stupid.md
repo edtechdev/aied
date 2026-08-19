@@ -52,7 +52,6 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[self-regulated-learning]]

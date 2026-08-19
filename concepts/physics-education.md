@@ -33,7 +33,6 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[stem-education]]
 - [[socratic-method]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[computational-thinking]]
 - [[ai-literacy]]
 - [[trust-calibration]]

@@ -34,7 +34,6 @@ Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichot
 
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[scaffolding]]
 - [[socratic-method]]

@@ -15,7 +15,6 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 - [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[formative-assessment]]
-- [[cognitive-offloading]]
 - [[cs-education]]
 - [[stem-education]]
 - [[student-engagement]]

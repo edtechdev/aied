@@ -18,7 +18,6 @@ MedGame transforms static clinical cases into structured, executable storytellin
 - [[generative-ai]]
 - [[game-based-learning]]
 - [[storytelling-in-education]]
-- [[game-based-learning]]
 - [[professional-training]]
 ## Connected Articles
 

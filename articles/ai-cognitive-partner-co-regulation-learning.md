@@ -49,7 +49,6 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[human-ai-collaboration]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 

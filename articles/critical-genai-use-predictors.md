@@ -46,7 +46,6 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 ## Connected Concepts
 - [[cognitive-offloading]]
 - [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
 
 - [[ai-literacy]]
 - [[higher-ed]]

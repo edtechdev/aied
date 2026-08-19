@@ -28,7 +28,6 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 - [[equity-in-ai-education]]
 - [[intelligent-tutoring]]
 - [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
 - [[adaptive-learning]]
 - [[learning-gains]]
 - [[k-12]]

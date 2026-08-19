@@ -36,7 +36,6 @@ As a conceptual paper, the framework has not been empirically tested; the author
 - [[critical-thinking]]
 - [[metacognition]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[formative-assessment]]
 - [[scaffolding]]
 - [[higher-ed]]

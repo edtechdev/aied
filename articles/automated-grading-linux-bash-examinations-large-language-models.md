@@ -20,8 +20,6 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 - [[formative-assessment]]
 - [[ai-feedback-quality]]
 - [[cs-education]]
-- [[cs-education]]
-- [[automated-assessment]]
 ## Connected Articles
 
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations

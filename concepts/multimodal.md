@@ -60,7 +60,6 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[educational-nlp]]
 - [[knowledge-graph]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[ai-literacy]]
 - [[prompt-engineering]]
 - [[feedback]]

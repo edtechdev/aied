@@ -30,7 +30,6 @@ This is relevant to [[academic-integrity]] and [[student-experience]] discussion
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[student-experience]]
 - [[generative-ai]]

@@ -1085,7 +1085,6 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - [[curriculum-design]]
 - [[metacognition]]
 - [[cs-education]]
-- [[cs-education]]
 - [[ai-literacy]]
 - [[scaffolding]]
 
@@ -1157,7 +1156,6 @@ These are structurally new competencies, not refinements. Design defaults are li
 - [[ai-literacy]]
 - [[agentic-ai]]
 - [[cognitive-offloading]]
-- [[governance]]
 - [[governance]]
 - [[trust-calibration]]
 - [[trust]]
@@ -1274,7 +1272,6 @@ As AI coding agents take over substantial implementation work, developers increa
 - **Vision:** Learning-aware development environments where productivity and learning are complementary rather than competing — a theme echoed in [[self-regulated-learning]] and [[professional-training]].
 
 ## Connected Concepts
-- [[cs-education]]
 - [[cs-education]]
 - [[human-ai-collaboration]]
 
@@ -1989,7 +1986,6 @@ The cross-sectional design precludes causal inference; the negative associations
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[self-regulated-learning]]
-- [[cognitive-offloading]]
 - [[motivation]]
 - [[higher-ed]]
 
@@ -2035,7 +2031,6 @@ This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[self-determination-theory]]
 - [[motivation]]
@@ -2354,7 +2349,6 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[human-ai-collaboration]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 
@@ -2716,7 +2710,6 @@ Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven 
 - [[ethics]]
 - [[governance]]
 - [[bias-mitigation]]
-- [[governance]]
 - [[ai-education]]
 ## Connected Articles
 
@@ -2769,7 +2762,6 @@ This construct has significant implications for [[cognitive-offloading|Over-Reli
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]
@@ -3799,7 +3791,6 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 - [[higher-ed]]
 - [[cs-education]]
 - [[curriculum-design]]
-- [[cs-education]]
 - [[digital-divide]]
 ## Connected Articles
 
@@ -4022,7 +4013,6 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[metacognition]]
@@ -4693,7 +4683,6 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[automated-assessment]]
 - [[language-learning]]
 - [[ai-feedback-quality]]
 - [[educational-measurement]]
@@ -5092,7 +5081,6 @@ The review identifies a **critical need for stronger experimental design and dat
 - [[affective-tutoring]]
 - [[human-in-the-loop-ai]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[benchmark]]
 - [[rct]]
@@ -5179,7 +5167,6 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[pedagogical-safety]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[trust]]
 - [[hallucination-risk]]
 - [[bias-mitigation]]
@@ -5213,7 +5200,6 @@ This practitioner account from a major edtech platform grounds the [[intelligent
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[k-12]]
 - [[llm]]
@@ -5563,7 +5549,6 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - [[open-source]]
 - [[writing-education]]
 - [[automated-essay-scoring]]
-- [[automated-assessment]]
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]]
@@ -5938,7 +5923,6 @@ The framework challenges educators to evaluate not just outputs but the distribu
 - [[metacognition]]
 - [[trust-calibration]]
 - [[motivation]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 
@@ -6375,8 +6359,6 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 - [[formative-assessment]]
 - [[ai-feedback-quality]]
 - [[cs-education]]
-- [[cs-education]]
-- [[automated-assessment]]
 ## Connected Articles
 
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
@@ -6488,7 +6470,6 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[human-in-the-loop-ai]]
 - [[ai-feedback-quality]]
 - [[ai-ed-evaluation]]
-- [[automated-assessment]]
 - [[automated-assessment]]
 - [[assessment]]
 - [[assessment-validity]]
@@ -7114,7 +7095,6 @@ Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichot
 
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[scaffolding]]
 - [[socratic-method]]
@@ -7195,7 +7175,6 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[k-12]]
 - [[llm]]
 - [[governance]]
-- [[governance]]
 - [[cognitive-offloading]]
 - [[well-being]]
 ## Connected Articles
@@ -7238,14 +7217,12 @@ As generative AI becomes central to software development, CS education is shifti
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[cs-education]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[student-experience]]
 - [[formative-assessment]]
-- [[cs-education]]
 - [[critical-thinking]]
 ## Connected Articles
 
@@ -7880,7 +7857,6 @@ The findings suggest that **LLM-generated worked solutions can be as effective a
 - [[generative-ai]]
 - [[llm]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[math-education]]
 - [[learning-gains]]
@@ -7933,7 +7909,6 @@ The seasonal variation identification strategy is innovative for causal inferenc
 - [[learning-gains]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[genai-performance-vs-learning]]
@@ -8038,7 +8013,6 @@ Learning-by-teaching is an effective active-learning strategy, but traditional t
 
 - [[learning-by-teaching]]
 - [[generative-ai]]
-- [[cs-education]]
 - [[cs-education]]
 - [[self-regulated-learning]]
 - [[scaffolding]]
@@ -8171,7 +8145,6 @@ Real-world user studies to assess learning gains, user experience, and practical
 
 - [[intelligent-tutoring]]
 - [[math-education]]
-- [[intelligent-tutoring]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[socratic-method]]
@@ -8281,7 +8254,6 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[k-12]]
 - [[pedagogical-llm-training]]
 - [[teacher-ai-competency]]
-- [[k-12]]
 - [[teacher-role]]
 - [[instructional-design]]
 - [[curriculum-design]]
@@ -8361,7 +8333,6 @@ Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using 
 ## Connected Concepts
 
 - [[writing-education]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[ai-feedback-quality]]
@@ -8542,12 +8513,10 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[ai-literacy]]
 - [[metacognition]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[formative-assessment]]
 - [[teacher-role]]
 - [[cs-education]]
 - [[generative-ai]]
-- [[cs-education]]
 - [[assessment]]
 - [[higher-ed]]
 ## Connected Articles
@@ -8804,7 +8773,6 @@ The paper reframes expertise development as collective stewardship rather than o
 - [[governance]]
 - [[human-ai-collaboration]]
 - [[lifelong-learning]]
-- [[cognitive-offloading]]
 - [[professional-training]]
 
 ## Connected Articles
@@ -8900,7 +8868,6 @@ This review strengthens the theoretical foundation of the wiki's [[cognitive-off
 
 - [[cognitive-offloading]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[critical-thinking]]
@@ -8935,7 +8902,6 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[metacognition]]
 - [[transfer-of-learning]]
@@ -9184,7 +9150,6 @@ As AI code tools become integrated into programming environments, the emphasis o
 - [[cs-education]]
 - [[higher-ed]]
 - [[llm]]
-- [[cs-education]]
 - [[prompt-engineering]]
 - [[student-experience]]
 
@@ -9306,7 +9271,6 @@ These findings challenge linear learning assumptions in [[k-12]] and provide dir
 - [[agentic-ai]]
 - [[ai-literacy]]
 - [[computational-thinking]]
-- [[k-12]]
 - [[k-12]]
 - [[scaffolding]]
 - [[self-efficacy]]
@@ -9552,7 +9516,6 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
-- [[automated-assessment]]
 - [[automated-assessment]]
 - [[psychometrically-aware-ai]]
 - [[rag]]
@@ -9919,7 +9882,6 @@ Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., 
 - [[ai-feedback-quality]]
 - [[assessment-validity]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[prompt-engineering]]
@@ -10030,7 +9992,6 @@ Generative AI undermines a basic premise of educational assessment: that submitt
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[governance]]
-- [[governance]]
 - [[cognitive-offloading]]
 - [[trust]]
 - [[authentic-assessment]]
@@ -10128,7 +10089,6 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 - [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[formative-assessment]]
-- [[cognitive-offloading]]
 - [[cs-education]]
 - [[stem-education]]
 - [[student-engagement]]
@@ -10181,7 +10141,6 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 ## Connected Concepts
 - [[cognitive-offloading]]
 - [[reducing-ai-misuse]]
-- [[cognitive-offloading]]
 
 - [[ai-literacy]]
 - [[higher-ed]]
@@ -10347,7 +10306,6 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[generative-ai]]
 - [[higher-ed]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[self-regulated-learning]]
 - [[socratic-method]]
@@ -10561,9 +10519,7 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 - [[intelligent-tutoring]]
 - [[benchmark]]
 - [[cs-education]]
-- [[cs-education]]
 - [[feedback]]
-- [[intelligent-tutoring]]
 - [[k-12]]
 - [[llm]]
 - [[privacy]]
@@ -10828,7 +10784,6 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 - [[feedback]]
 - [[learning-analytics]]
 - [[student-experience]]
-- [[cs-education]]
 - [[computational-thinking]]
 
 ## Connected Articles
@@ -11089,7 +11044,6 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[ai-literacy]]
 - [[k-12]]
 - [[self-efficacy]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 
@@ -11229,7 +11183,6 @@ DURA framework (Demystify-Use-Reflect-Assess) for structured LLM integration in 
 This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
-- [[cs-education]]
 - [[cs-education]]
 - [[llm]]
 - [[generative-ai]]
@@ -11927,7 +11880,6 @@ These results have direct implications for AI literacy education: users need not
 - [[ai-literacy]]
 - [[metacognition]]
 - [[trust-calibration]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]]
@@ -12187,7 +12139,6 @@ The paper discusses what a language-based facilitator cannot reach and the value
 - [[higher-ed]]
 - [[professional-training]]
 - [[stem-education]]
-- [[socratic-method]]
 - [[simulation]]
 - [[teacher-role]]
 
@@ -12382,7 +12333,6 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 - [[student-engagement]]
 - [[learning-analytics]]
 - [[intelligent-tutoring]]
-- [[student-engagement]]
 
 ## Connected Articles
 
@@ -12943,11 +12893,9 @@ LLM tools give students rapid solutions but may reduce opportunities for product
 - [[learning-by-teaching]]
 - [[generative-ai]]
 - [[cs-education]]
-- [[cs-education]]
 - [[desirable-difficulties]]
 - [[scaffolding]]
 - [[higher-ed]]
-- [[desirable-difficulties]]
 
 ## Connected Articles
 
@@ -13367,7 +13315,6 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 - [[active-learning]]
 - [[student-experience]]
 - [[cs-education]]
-- [[cs-education]]
 - [[cognitive-offloading]]
 ## Connected Articles
 
@@ -13610,7 +13557,6 @@ The findings push back on the assumption that withholding answers is always the 
 - [[student-experience]]
 - [[higher-ed]]
 - [[math-education]]
-- [[intelligent-tutoring]]
 - [[socratic-method]]
 - [[metacognition]]
 - [[k-12]]
@@ -13710,7 +13656,6 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[game-based-learning]]
 - [[game-based-learning]]
 - [[project-based-learning]]
 - [[computational-thinking]]
@@ -14066,7 +14011,6 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - [[rag]]
 - [[motivation]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 
@@ -14372,7 +14316,6 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 - [[critical-thinking]]
 - [[lifelong-learning]]
 - [[professional-training]]
-- [[cognitive-offloading]]
 - [[human-ai-collaboration]]
 
 ## Connected Articles
@@ -15038,7 +14981,6 @@ The results support the view that contemporary GenAI can outperform the average 
 
 ## Connected Concepts
 - [[cs-education]]
-- [[cs-education]]
 - [[generative-ai]]
 - [[automated-assessment]]
 - [[higher-ed]]
@@ -15093,7 +15035,6 @@ The cross-sectional, self-report survey design limits causal inference despite t
 - [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]
-- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[higher-ed]]
 
@@ -15217,7 +15158,6 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[generative-ai]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
@@ -15600,7 +15540,6 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - [[student-engagement]]
 - [[cognitive-offloading]]
 - [[equity-in-ai-education]]
-- [[student-engagement]]
 
 ## Connected Articles
 
@@ -15727,7 +15666,6 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 - [[teacher-ai-competency]]
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
-- [[k-12]]
 - [[k-12]]
 - [[stem-education]]
 - [[student-experience]]
@@ -15919,7 +15857,6 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[socratic-method]]
 - [[generative-ai]]
@@ -15991,7 +15928,6 @@ This study provides the strongest empirical evidence yet for the [[cognitive-off
 
 - [[generative-ai]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 - [[regulation]]
@@ -16030,7 +15966,6 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[writing-education]]
@@ -16225,7 +16160,6 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[collaborative-learning]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[multimodal]]
 ## Connected Articles
@@ -16366,7 +16300,6 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[automated-assessment]]
 - [[prompt-engineering]]
 - [[assessment-validity]]
-- [[automated-assessment]]
 - [[higher-ed]]
 - [[educational-measurement]]
 
@@ -16551,7 +16484,6 @@ The model's human-centered orientation connects to [[human-ai-collaboration]] an
 - [[human-ai-collaboration]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[student-modeling]]
 - [[ethics]]
 
@@ -16629,7 +16561,6 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 - [[formative-assessment]]
 - [[cognitive-offloading]]
 - [[help-seeking]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[generative-ai]]
@@ -16803,7 +16734,6 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[physics-education]]
 - [[socratic-method]]
 - [[stem-education]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 ## Connected Articles
 
@@ -17217,7 +17147,6 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[lifelong-learning]]
 - [[project-based-learning]]
 - [[human-ai-collaboration]]
-- [[intelligent-tutoring]]
 - [[scaffolding]]
 
 ## Connected Articles
@@ -17613,7 +17542,6 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 - [[equity-in-ai-education]]
 - [[intelligent-tutoring]]
 - [[human-in-the-loop-ai]]
-- [[intelligent-tutoring]]
 - [[adaptive-learning]]
 - [[learning-gains]]
 - [[k-12]]
@@ -17672,9 +17600,7 @@ The authors discuss limitations (integration complexity, content-authoring burde
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[game-based-learning]]
-- [[game-based-learning]]
 - [[edtech-platform]]
-- [[student-engagement]]
 - [[student-engagement]]
 
 ## Connected Articles
@@ -17930,7 +17856,6 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 
 - [[llm]]
 - [[ai-literacy]]
-- [[cognitive-offloading]]
 - [[student-experience]]
 - [[self-regulated-learning]]
 - [[metacognition]]
@@ -18292,7 +18217,6 @@ Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guid
 - [[language-learning]]
 - [[self-regulated-learning]]
 - [[generative-ai]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[motivation]]
 - [[agency]]
@@ -18732,10 +18656,8 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 
 - [[llm]]
 - [[cs-education]]
-- [[cs-education]]
 - [[cognitive-offloading]]
 - [[generative-ai]]
-- [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[self-regulated-learning]]
 - [[human-ai-collaboration]]
@@ -18793,7 +18715,6 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 - [[k-12]]
 - [[open-source]]
 - [[pedagogical-llm-training]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[rag]]
@@ -18934,7 +18855,6 @@ Automated tutor evaluation of this kind is a prerequisite for accountability in 
 - [[k-12]]
 - [[higher-ed]]
 - [[llm]]
-- [[intelligent-tutoring]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 ## Connected Articles
@@ -19389,7 +19309,6 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 - [[regulation]]
 - [[higher-ed]]
 - [[governance]]
-- [[governance]]
 - [[agency]]
 - [[educational-policy-ai]]
 ## Connected Articles
@@ -19433,7 +19352,6 @@ The absence of performance differences across usage clusters underscores the nee
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[socratic-method]]
-- [[cs-education]]
 - [[generative-ai]]
 - [[learning-analytics]]
 - [[student-experience]]
@@ -19608,7 +19526,6 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[agency]]
 ## Connected Articles
@@ -19668,7 +19585,6 @@ This paper presents a scoping review of learning-to-learn (L2L) definitions with
 - [[generative-ai]] — the technology whose overuse L2L is positioned to counterbalance
 - [[cognitive-offloading]] — L2L framed as key to reducing GenAI overreliance
 - [[agency]] — fostering learner agency is a central goal of L2L in the AI era
-- [[cognitive-offloading]] — the mechanism by which GenAI use can undermine learning, which L2L mitigates
 - [[critical-thinking]] — a core L2L dimension that GenAI use can erode if unchecked
 - [[ai-literacy]] — learners need to understand AI to use it without losing learning-to-learn skills
 - [[scaffolding]] — structured support for developing L2L skills alongside GenAI use
@@ -19755,7 +19671,6 @@ As a conceptual paper, the framework has not been empirically tested; the author
 - [[ai-literacy]]
 - [[critical-thinking]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[formative-assessment]]
 - [[scaffolding]]
@@ -20165,7 +20080,6 @@ Shang Li (2025) presents a qualitative study grounding AI integration in K-12 sc
 - [[embodied-learning]]
 - [[simulation]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[stem-education]]
 - [[teacher-role]]
 - [[k-12]]
@@ -20455,7 +20369,6 @@ Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). [Exploring the 
 - [[cs-education]]
 - [[automated-assessment]]
 - [[llm]]
-- [[cs-education]]
 - [[assessment]]
 
 ## Connected Articles
@@ -20545,7 +20458,6 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[llm]]
 - [[generative-ai]]
 - [[k-12]]
-- [[k-12]]
 - [[language-learning]]
 - [[storytelling-in-education]]
 - [[pedagogical-safety]]
@@ -20629,7 +20541,6 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 - [[teacher-role]]
 - [[cognitive-offloading]]
 - [[ai-ed-evaluation]]
-- [[cognitive-offloading]]
 
 ## Connected Articles
 
@@ -20881,7 +20792,6 @@ The work also illustrates the epistemic limits of [[item-response-theory]]-style
 - [[assessment]]
 - [[automated-assessment]]
 - [[cs-education]]
-- [[automated-assessment]]
 - [[educational-measurement]]
 - [[ai-ed-evaluation]]
 - [[human-in-the-loop-ai]]
@@ -21083,7 +20993,7 @@ Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). [To facilitate or not to faci
 
 > Three system properties enable the fallacy via two cognitive mediators:
 
-> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.^[[llm-fallacy-misattribution]]
+> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
 
 ## Distinctions from Related Phenomena
 
@@ -21107,7 +21017,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 - **Attribution ambiguity** — In iterative interactions, the boundary between user contribution and system generation becomes impossible to delineate; authorship is inferred from outcomes
 - **Cognitive outsourcing** — As the system assumes more workload, users engage less with underlying reasoning, weakening self-assessment accuracy
 
-> "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."^[[llm-fallacy-misattribution]]
+> "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."
 
 ## Manifestations in Education
 
@@ -21148,7 +21058,6 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[scaffolding]]
 - [[transfer-of-learning]] — AI Learning Transfer
 - [[authentic-assessment]] — Authentic Assessment
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 ## Connected Articles
 
@@ -21480,7 +21389,6 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[llm]]
 - [[cs-education]]
 - [[scaffolding]]
-- [[cs-education]]
 - [[feedback]]
 ## Connected Articles
 
@@ -21607,7 +21515,6 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[self-regulated-learning]]
 - [[trust-calibration]]
 - [[trust]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 ## Connected Articles
 
@@ -21633,7 +21540,6 @@ Hossain (2026) develops a typology of LLM reliance among undergraduate writers a
 - [[student-experience]]
 - [[higher-ed]]
 - [[self-efficacy]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
@@ -22026,7 +21932,6 @@ This paper exposes a critical diagnostic blind spot in LLM-based tutoring agents
 - [[feedback]]
 - [[ai-feedback-quality]]
 - [[llm]]
-- [[intelligent-tutoring]]
 - [[cognitive-diagnosis]]
 - [[automated-assessment]]
 ## Connected Articles
@@ -22203,7 +22108,6 @@ This report from the Australian Network for Quality Digital Education investigat
 - [[teacher-role]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
-- [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 ## Connected Articles
 
@@ -22261,7 +22165,6 @@ This review connects [[student-engagement]] and [[student-engagement]] to the ce
 
 ## Connected Concepts
 
-- [[student-engagement]]
 - [[student-engagement]]
 - [[higher-ed]]
 - [[ai-education]]
@@ -22557,7 +22460,6 @@ MedGame transforms static clinical cases into structured, executable storytellin
 - [[generative-ai]]
 - [[game-based-learning]]
 - [[storytelling-in-education]]
-- [[game-based-learning]]
 - [[professional-training]]
 ## Connected Articles
 
@@ -22809,7 +22711,6 @@ A quasi-experimental, short-term longitudinal study with 126 first-year engineer
 
 - [[metacognition]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[experiential-learning]]
 - [[ai-literacy]]
@@ -22901,7 +22802,6 @@ This study provides strong empirical grounding for the wiki's [[cognitive-offloa
 
 - [[cognitive-offloading]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[feedback]]
 - [[self-regulated-learning]]
 - [[student-experience]]
@@ -22944,7 +22844,6 @@ This is relevant to [[academic-integrity]] and [[student-experience]] discussion
 
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[student-experience]]
@@ -22991,7 +22890,6 @@ Jia, Y. (2026). [*Metacognitively discordant completion and the aware pass-throu
 - [[cs-education]]
 - [[educational-robotics]]
 - [[computational-thinking]]
-- [[cs-education]]
 
 ## Connected Articles
 
@@ -23113,7 +23011,6 @@ The study is context-specific (a social network analysis course, LLM-based datas
 - [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
-- [[cognitive-offloading]]
 - [[student-experience]]
 - [[higher-ed]]
 - [[scaffolding]]
@@ -23206,7 +23103,6 @@ The authors identify several design constraints: the one-group pre-/post-test de
 - [[curriculum-design]]
 - [[reinforcement-learning]]
 - [[educational-robotics]]
-- [[k-12]]
 
 ## Connected Articles
 
@@ -24877,7 +24773,6 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
 - [[open-source]]
-- [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[math-education]]
 - [[edtech-platform]]
@@ -25060,7 +24955,6 @@ Ojeda-Ramirez, S., Gyles, S., & Peppler, K. (2026). [*Community-Based AI Learnin
 - [[generative-ai]]
 - [[help-seeking]]
 - [[student-engagement]]
-- [[student-engagement]]
 - [[edtech-platform]]
 - [[math-education]]
 - [[k-12]]
@@ -25231,7 +25125,6 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 ## Connected Articles
 
 - [[vargas-situated-learning-ai-review-2024]] — Systematic review linking situated learning and AI
-- [[panciroli-ai-literacy-episodes-situated-learning]] — (this paper)
 
 ## Citation
 
@@ -25340,7 +25233,6 @@ This work connects to core wiki themes: [[knowledge-tracing]] [[personalized-lea
 - [[personalized-learning]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[cs-education]]
 - [[cs-education]]
 ## Connected Articles
 
@@ -25455,7 +25347,6 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 
 - [[reinforcement-learning]]
 - [[pedagogical-safety]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 - [[ethics]]
@@ -25658,7 +25549,6 @@ Students who preferred chatbots that initially engage them in guided-inquiry but
 - [[generative-ai]]
 - [[stem-education]]
 - [[higher-ed]]
-- [[socratic-method]]
 - [[metacognition]]
 
 ## Connected Articles
@@ -25846,7 +25736,6 @@ The article translates the argument into a deployment-review question: what will
 - [[assessment-validity]]
 - [[governance]]
 - [[ethics]]
-- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[agency]]
 
@@ -26009,7 +25898,6 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[ethics]]
 - [[equity-in-ai-education]]
 - [[teacher-role]]
@@ -26018,7 +25906,6 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 - [[cognitive-offloading]]
 - [[personalized-learning]]
 - [[game-based-learning]]
-- [[cognitive-offloading]]
 - [[learning-analytics]]
 - [[human-ai-collaboration]]
 - [[ai-literacy]]
@@ -26361,7 +26248,6 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 - [[cs-education]]
 - [[scaffolding]]
 - [[adaptive-learning]]
-- [[cs-education]]
 - [[student-modeling]]
 ## Connected Articles
 
@@ -26559,7 +26445,6 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 - [[generative-ai]]
 - [[prompt-engineering]]
 - [[student-misconceptions-ai]]
-- [[cs-education]]
 ## Connected Articles
 
 - [[prompt-based-programming-lesson]]
@@ -26694,7 +26579,6 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 ## Connected Concepts
 - [[automated-assessment]]
 - [[assessment-validity]]
-- [[automated-assessment]]
 - [[formative-assessment]]
 - [[writing-education]]
 - [[scaffolding]]
@@ -27045,7 +26929,6 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 - [[cognitive-offloading]]
 - [[help-seeking]]
 - [[k-12]]
-- [[cognitive-offloading]]
 - [[llm]]
 ## Connected Articles
 
@@ -27301,7 +27184,6 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[llm]]
-- [[cs-education]]
 - [[curriculum-design]]
 - [[critical-thinking]]
 - [[computational-thinking]]
@@ -27535,7 +27417,6 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 - [[scaffolding]]
-- [[intelligent-tutoring]]
 - [[llm]]
 - [[student-experience]]
 - [[agency]]
@@ -27575,7 +27456,6 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[formative-assessment]]
 - [[personalized-learning]]
 - [[rag]]
-- [[intelligent-tutoring]]
 - [[simulating-students]]
 - [[feedback]]
 - [[llm]]
@@ -28027,7 +27907,6 @@ The work connects AI-based attention estimation to instructional design practice
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[motivation]]
-- [[student-engagement]]
 - [[student-engagement]]
 - [[student-experience]]
 
@@ -28723,7 +28602,6 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[educational-measurement]]
 - [[item-response-theory]]
 - [[benchmark]]
-- [[automated-assessment]]
 - [[ai-feedback-quality]]
 ## Connected Articles
 
@@ -28837,7 +28715,6 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 
 ## Connected Concepts
 - [[cs-education]]
-- [[cs-education]]
 - [[simulating-students]]
 
 - [[learning-by-teaching]]
@@ -28944,7 +28821,6 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[llm]]
 - [[reinforcement-learning]]
 - [[benchmark]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[edtech-platform]]
 ## Connected Articles
@@ -29242,7 +29118,6 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 - [[learning-by-teaching]]
 - [[generative-ai]]
 - [[cs-education]]
-- [[cs-education]]
 - [[active-learning]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
@@ -29273,7 +29148,6 @@ The work contributes to understanding of [[intelligent-tutoring|AI Tutoring]] in
 - [[intelligent-tutoring]]
 - [[socratic-method]]
 - [[physics-education]]
-- [[intelligent-tutoring]]
 - [[educational-nlp]]
 - [[student-experience]]
 
@@ -29425,7 +29299,6 @@ The framework positions the educator as an atmospheric regulator who modulates h
 - [[adult-learning]]
 - [[well-being]]
 - [[digital-divide]]
-- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 
 ## Connected Articles
@@ -29621,7 +29494,6 @@ For the research community, the review functions as both a wake-up call and a ro
 
 - [[intelligent-tutoring]]
 - [[desirable-difficulties]]
-- [[k-12]]
 - [[k-12]]
 - [[metacognition]]
 - [[rct]]
@@ -30032,7 +29904,6 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 - [[generative-ai]]
 - [[higher-ed]]
 - [[trust]]
-- [[cognitive-offloading]]
 - [[agency]]
 ## Connected Articles
 
@@ -30080,7 +29951,6 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 - [[formative-assessment]]
 - [[assessment-validity]]
 - [[computational-thinking]]
-- [[cs-education]]
 - [[cognitive-diagnosis]]
 ## Connected Articles
 
@@ -30612,7 +30482,6 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 - [[pedagogical-safety]]
 - [[feedback]]
 - [[ai-feedback-quality]]
-- [[well-being]]
 - [[student-experience]]
 - [[teacher-role]]
 - [[reducing-ai-misuse]]
@@ -30730,7 +30599,6 @@ TACT advances the state of [[intelligent-tutoring|AI tutoring]] by grounding LLM
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[intelligent-tutoring]]
 - [[pedagogical-safety]]
 ## Connected Articles
 
@@ -31912,7 +31780,6 @@ The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[desirable-difficulties]]
 - [[scaffolding]]
@@ -32190,7 +32057,6 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[faculty-development]]
-- [[cs-education]]
 ## Connected Articles
 
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
@@ -32860,7 +32726,6 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 - [[hallucination-risk]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-graph]]
-- [[cognitive-offloading]]
 - [[rag]]
 - [[scaffolding]]
 - [[writing-education]]
@@ -32982,7 +32847,6 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 
 - [[cognitive-offloading]]
 - [[metacognition]] — the cognitive capacity the Vibe Compiler seeks to preserve
-- [[cognitive-offloading]] — the risk of delegating synthesis to AI
 - [[scaffolding]] — structured metacognitive scaffolding of reasoning
 - [[human-in-the-loop-ai]] — keeping human agency central in AI-assisted work
 - [[agency]] — preserving epistemic agency during GenAI use
@@ -33071,7 +32935,6 @@ Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, Yo
 - [[k-12]]
 - [[help-seeking]]
 - [[student-engagement]]
-- [[student-engagement]]
 - [[adaptive-learning]]
 - [[learning-gains]]
 - [[equity-in-ai-education]]
@@ -33099,7 +32962,6 @@ Addresses a critical tension in [[stem-education|CS education]]: the widespread 
 The framework provides a scalable blueprint for [[academic-integrity|preserving pedagogical integrity]] in the AI era, enabling educators to enforce authentic coding discipline through [[formative-assessment|process-oriented monitoring]] rather than final-output evaluation. Open source on GitHub for institutional adoption.
 
 ## Connected Concepts
-- [[cs-education]]
 - [[cs-education]]
 - [[open-source]]
 - [[automated-assessment]]
@@ -33147,9 +33009,7 @@ The study suggests declarative and logic-programming courses can adopt visual qu
 - [[higher-ed]]
 - [[computational-thinking]]
 - [[knowledge-graph]]
-- [[cs-education]]
 - [[active-learning]]
-- [[cs-education]]
 - [[transfer-of-learning]]
 ## Connected Articles
 
@@ -33621,7 +33481,6 @@ Yasir et al. (2026) benchmark seven LLM feedback agents as step-level tutors in 
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[knowledge-graph]]
 - [[knowledge-tracing]]
@@ -33664,7 +33523,6 @@ Uses epistemic network analysis of multimodal YouTube metadata (transcripts, tit
 - [[llm]]
 - [[feedback]]
 - [[multimodal]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[pedagogy-ai-mistakes]]
@@ -34571,7 +34429,6 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[instructional-design]]
 - [[affective-tutoring]]
 - [[student-modeling]]
-- [[intelligent-tutoring]]
 - [[math-education]]
 - [[open-source]]
 - [[pedagogical-llm-training]]
@@ -34637,7 +34494,6 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 - [[student-modeling]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[intelligent-tutoring]]
 - [[collaborative-learning]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
@@ -34682,7 +34538,6 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
 - [[behaviorism]]
-- [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
@@ -34826,7 +34681,6 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[formative-assessment]]
 - [[authentic-assessment]]
 - [[human-in-the-loop-ai]]
-- [[automated-assessment]]
 - [[hallucination-risk]]
 - [[trust-calibration]]
 - [[intelligent-tutoring]]
@@ -34935,7 +34789,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[behaviorism]]
 - [[learning-theories]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[generative-ai]]
 - [[llm]]
 - [[ai-ed-evaluation]]
@@ -34945,7 +34798,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[feedback]]
 - [[feedback-literacy]]
 - [[ai-feedback-quality]]
-- [[feedback]]
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
@@ -35048,9 +34900,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[writing-education]]
 - [[higher-ed]]
 - [[teacher-role]]
-- [[automated-assessment]]
 - [[feedback-literacy]]
-- [[feedback]]
 - [[ai-sycophancy]]
 - [[trust-calibration]]
 
@@ -35266,7 +35116,6 @@ The most important practical nuance is that the harm is **selective by assessmen
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]
 - [[self-regulated-learning]]
@@ -35383,7 +35232,6 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 
 - [[authentic-assessment]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[formative-assessment]]
 - [[academic-integrity]]
 - [[rct]]
@@ -35460,12 +35308,10 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[assessment-validity]]
 - [[formative-assessment]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[automated-question-generation]]
 - [[educational-measurement]]
 - [[item-response-theory]]
-- [[automated-assessment]]
 - [[psychometrically-aware-ai]]
 - [[learning-analytics]]
 - [[feedback]]
@@ -35477,7 +35323,6 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[authentic-assessment]]
 - [[higher-ed]]
 - [[generative-ai]]
-- [[feedback]]
 - [[feedback-literacy]]
 
 ## Connected Articles
@@ -35694,7 +35539,6 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[k-12]]
 - [[prompt-engineering]]
 - [[writing-education]]
-- [[automated-assessment]]
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Connected Articles
@@ -35754,7 +35598,6 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[llm]]
 - [[generative-ai]]
 - [[educational-nlp]]
-- [[automated-assessment]]
 - [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[assessment]]
@@ -35848,7 +35691,6 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 - [[agency]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[learning-theories]]
 
@@ -36374,7 +36216,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[agency]]
 - [[critical-thinking]]
 - [[ai-literacy]]
@@ -36514,7 +36355,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[faculty-development]]
 - [[cognitive-offloading]]
 - [[intelligent-tutoring]]
-- [[cognitive-offloading]]
 - [[teacher-role]]
 - [[privacy]]
 - [[pedagogical-safety]]
@@ -37178,7 +37018,6 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 
 - [[personalized-learning]]
 - [[adaptive-learning]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[student-modeling]]
@@ -37862,7 +37701,6 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[trust-calibration]]
 - [[cognitive-offloading]]
 - [[higher-ed]]
-- [[feedback]]
 
 ## Connected Articles
 
@@ -38044,7 +37882,6 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 - [[assessment]]
 - [[automated-assessment]]
-- [[automated-assessment]]
 - [[automated-question-generation]]
 - [[assessment-validity]]
 - [[feedback]]
@@ -38064,7 +37901,6 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[privacy]]
 - [[ai-education]]
 - [[feedback-literacy]]
-- [[feedback]]
 - [[behaviorism]]
 
 ## Connected Articles
@@ -38170,7 +38006,6 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[automated-assessment]]
 - [[higher-ed]]
@@ -38342,7 +38177,6 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 - [[rag]]
 - [[academic-integrity]]
 - [[teacher-role]]
-- [[cognitive-offloading]]
 - [[multimodal]]
 - [[generative-ai]]
 - [[llm]]
@@ -38425,9 +38259,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[metacognition]]
 - [[scaffolding]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[student-experience]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[learning-analytics]]
 - [[k-12]]
@@ -39421,7 +39253,6 @@ Learning by teaching is the constructive, [[active-learning]] counterpoint to th
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
 - [[cs-education]]
-- [[cs-education]]
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]
 - [[pedagogical-agent]]
@@ -39459,7 +39290,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 - [[rct]]
 - [[formative-assessment]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[math-education]]
 - [[human-in-the-loop-ai]]
@@ -39542,7 +39372,6 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[experiential-learning]]
 - [[collaborative-learning]]
 - [[embodied-learning]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[instructional-design]]
 - [[philosophy-of-ai-in-education]]
@@ -39777,7 +39606,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 ## Connected Concepts
 
 - [[stem-education]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[affective-computing]]
@@ -40044,7 +39872,6 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[adaptive-learning]]
 - [[student-experience]]
 - [[formative-assessment]]
-- [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[agentic-ai]]
 - [[human-in-the-loop-ai]]
@@ -40184,7 +40011,6 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[llm]]
 - [[educational-nlp]]
 - [[knowledge-graph]]
-- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
 - [[prompt-engineering]]
@@ -40768,7 +40594,6 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[stem-education]]
 - [[socratic-method]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[computational-thinking]]
 - [[ai-literacy]]
 - [[trust-calibration]]
@@ -41078,7 +40903,6 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[item-response-theory]]
 - [[automated-assessment]]
 - [[ai-ed-evaluation]]
-- [[automated-assessment]]
 - [[llm]]
 - [[limitations-in-aied-research]]
 
@@ -41210,7 +41034,6 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 ## Connected Concepts
 
 - [[ai-misuse-learning-harm]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]
@@ -42272,7 +42095,6 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[k-12]]
 - [[scaffolding]]
@@ -42336,7 +42158,6 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[academic-integrity]]
@@ -42394,7 +42215,6 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[llm]]
 - [[higher-ed]]
 - [[ai-education]]
-- [[intelligent-tutoring]]
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
@@ -42549,7 +42369,6 @@ A key finding across teacher-education research is the gap between what teachers
 - [[teacher-ai-competency]]
 - [[ai-literacy]]
 - [[faculty-development]]
-- [[k-12]]
 - [[k-12]]
 - [[ethics]]
 - [[ai-education]]
@@ -42862,7 +42681,6 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]
 - [[metacognition]]

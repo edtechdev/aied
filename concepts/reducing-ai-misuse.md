@@ -43,7 +43,6 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 - [[ai-misuse-learning-harm]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]
 - [[ai-literacy]]

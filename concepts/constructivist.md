@@ -65,7 +65,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[agency]]
 - [[critical-thinking]]
 - [[ai-literacy]]

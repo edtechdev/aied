@@ -55,7 +55,6 @@ This review strengthens the theoretical foundation of the wiki's [[cognitive-off
 
 - [[cognitive-offloading]]
 - [[metacognition]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[critical-thinking]]

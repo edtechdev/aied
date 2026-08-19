@@ -39,10 +39,8 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 
 - [[llm]]
 - [[cs-education]]
-- [[cs-education]]
 - [[cognitive-offloading]]
 - [[generative-ai]]
-- [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[self-regulated-learning]]
 - [[human-ai-collaboration]]

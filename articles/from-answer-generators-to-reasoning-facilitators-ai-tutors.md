@@ -35,7 +35,6 @@ The findings push back on the assumption that withholding answers is always the 
 - [[student-experience]]
 - [[higher-ed]]
 - [[math-education]]
-- [[intelligent-tutoring]]
 - [[socratic-method]]
 - [[metacognition]]
 - [[k-12]]

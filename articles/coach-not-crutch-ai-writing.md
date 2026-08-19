@@ -37,7 +37,6 @@ Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using 
 
 - [[writing-education]]
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[ai-feedback-quality]]
 - [[learning-gains]]

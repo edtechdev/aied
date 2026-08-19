@@ -75,7 +75,6 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[adaptive-learning]]
 - [[student-experience]]
 - [[formative-assessment]]
-- [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[agentic-ai]]
 - [[human-in-the-loop-ai]]

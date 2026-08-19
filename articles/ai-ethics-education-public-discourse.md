@@ -29,7 +29,6 @@ confidence: medium
 - [[ethics]]
 - [[governance]]
 - [[bias-mitigation]]
-- [[governance]]
 - [[ai-education]]
 ## Connected Articles
 

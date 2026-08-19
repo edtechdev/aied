@@ -33,7 +33,6 @@ The results support the view that contemporary GenAI can outperform the average 
 
 ## Connected Concepts
 - [[cs-education]]
-- [[cs-education]]
 - [[generative-ai]]
 - [[automated-assessment]]
 - [[higher-ed]]

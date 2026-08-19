@@ -33,7 +33,6 @@ The framework positions the educator as an atmospheric regulator who modulates h
 - [[adult-learning]]
 - [[well-being]]
 - [[digital-divide]]
-- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 
 ## Connected Articles

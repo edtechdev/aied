@@ -37,7 +37,6 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[generative-ai]]
-- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

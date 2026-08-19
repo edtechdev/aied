@@ -51,7 +51,6 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[socratic-method]]
 - [[generative-ai]]

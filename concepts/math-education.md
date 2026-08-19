@@ -32,7 +32,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 
 - [[stem-education]]
 - [[intelligent-tutoring]]
-- [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[affective-computing]]
 - [[affective-tutoring]]

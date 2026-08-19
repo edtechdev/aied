@@ -57,7 +57,6 @@ TACT advances the state of [[intelligent-tutoring|AI tutoring]] by grounding LLM
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[intelligent-tutoring]]
 - [[pedagogical-safety]]
 ## Connected Articles
 

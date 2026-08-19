@@ -40,7 +40,6 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[intelligent-tutoring]]
 - [[desirable-difficulties]]
 - [[k-12]]
-- [[k-12]]
 - [[metacognition]]
 - [[rct]]
 - [[scaffolding]]

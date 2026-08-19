@@ -21,7 +21,6 @@ This work connects to core wiki themes: [[knowledge-tracing]] [[personalized-lea
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[cs-education]]
-- [[cs-education]]
 ## Connected Articles
 
 - [[programming-its]]
