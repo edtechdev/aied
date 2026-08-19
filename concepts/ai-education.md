@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-19T17:49:03-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -11,6 +11,20 @@ confidence: high
 > **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the wiki's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, learning science, computer science, [[educational-policy-ai|educational policy]], [[ethics]], and [[equity-in-ai-education|equity]]. This page is an introduction to the field and a map to every concept the wiki covers.
 
 AI in education is the umbrella that all other concept pages collectively define. The wiki organizes the field into the major strands below, each linking to the relevant concept pages.
+
+## How the wiki is organized: the umbrella pages
+
+The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
+
+- **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within (active, collaborative, project-based, experiential, game-based, Socratic, scaffolding, and more).
+- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks (behaviorism, constructivism, sociocultural, cognitive, motivational) that shape AI design and evaluation.
+- **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems (LLMs, generative AI, multimodal, robotics) and techniques (RAG, prompt engineering, reinforcement learning, model training, agentic orchestration) that power AIED.
+- **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
+- **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, teachers, instructional designers, administrators, and policymakers.
+- **[[ai-ed-evaluation|AI ed evaluation]]** and **[[research-methods-aied|research methods]]** — the umbrellas for how we know whether AI works (efficacy, benchmarks, RCTs, meta-analysis).
+- **[[governance|AI governance]]**, **[[educational-policy-ai|educational AI policy]]**, and **[[equity-in-ai-education|equity]]** — the umbrellas for the institutional, regulatory, and fairness layer.
+
+These umbrella pages are linked throughout the sections below; each strand below names both its umbrella and its constituent concepts.
 
 ## Two dimensions of AI in education
 
