@@ -15,7 +15,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'learning-by-teaching', 'collaborative-learning', 'project-based-learning', 'experiential-learning', 'game-based-learning', 'scaffolding', 'socratic-method', 'self-regulated-learning', 'self-determination-theory', 'sociocultural-learning', 'desirable-difficulties', 'transfer-of-learning', 'metacognition', 'constructivist', 'behaviorism', 'learning-theories', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'storytelling-in-education', 'instructional-design'] },
       { label: 'Learning theories and processes', items: ['motivation', 'self-efficacy', 'help-seeking', 'student-engagement', 'cognitive-diagnosis', 'student-modeling', 'knowledge-tracing', 'student-misconceptions-ai', 'simulating-students', 'icap-framework'] },
-      { label: 'AI agents and interactions', items: ['intelligent-tutoring', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'pedagogical-llm-training', 'educational-robotics'] },
+      { label: 'AI agents and interactions', items: ['intelligent-tutoring', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'pedagogical-llm-training'] },
       { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'language-learning', 'cs-education', 'writing-education', 'stem-education', 'engineering-education', 'teacher-education', 'medical-education', 'humanities-education', 'special-education', 'adult-learning', 'higher-ed'] },
     ],
   },
@@ -31,7 +31,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI systems and techniques',
     blurb: 'The AI models and methods that power education technology, from generative models to knowledge representation.',
     groups: [
-      { label: 'Models and techniques', items: ['generative-ai', 'llm', 'rag', 'multimodal', 'reinforcement-learning', 'educational-nlp', 'knowledge-graph', 'simulation', 'adaptive-learning', 'personalized-learning'] },
+      { label: 'Models and techniques', items: ['ai-technologies', 'generative-ai', 'llm', 'rag', 'multimodal', 'reinforcement-learning', 'educational-nlp', 'knowledge-graph', 'simulation', 'educational-robotics', 'adaptive-learning', 'personalized-learning'] },
     ],
   },
   {

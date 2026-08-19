@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 880
+Last updated: 2026-08-19 | Total entries: 881
 
 ## 2026-08-19
 - 📄 [[ai-science-chemistry-education-systematic-review-2025]] — raw/papers/ai-science-chemistry-education-systematic-review-2025.md
@@ -8,6 +8,9 @@ Last updated: 2026-08-19 | Total entries: 880
 - 📄 [[ai-supported-experimental-design-chemistry-2026]] — raw/papers/ai-supported-experimental-design-chemistry-2026.md
   Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design
   tags: chemistry-education, higher-ed, laboratory, ai-literacy, critical-thinking
+- 🏷️ [[ai-technologies]] — 
+  AI Technologies and Techniques in Education
+  tags: ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai
 - 📄 [[beyond-chatgpt-ai-tools-biological-education-2026]] — raw/papers/beyond-chatgpt-ai-tools-biological-education-2026.md
   Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education
   tags: biology-education, generative-ai, ai-literacy, academic-integrity, machine-learning, higher-ed

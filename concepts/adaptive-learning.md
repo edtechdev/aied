@@ -42,6 +42,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[k-12]]
 - [[formative-assessment]]
 - [[behaviorism]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

@@ -102,7 +102,8 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[authentic-assessment]]
 - [[ai-sycophancy]]
 - [[ai-feedback-quality]]
-- [[bias-mitigation]]
+- [[bias-mitigation]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

@@ -36,7 +36,8 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 - [[learning-analytics]]
 - [[open-source]]
 - [[pedagogical-safety]]
-- [[pedagogical-llm-training]]
+- [[pedagogical-llm-training]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+
 ## Connected Articles
 
 - [[history-aware-student-simulation]]

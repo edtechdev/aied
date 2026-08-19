@@ -67,6 +67,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[simulation]]
 - [[pedagogical-safety]]
 - [[ai-education]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
