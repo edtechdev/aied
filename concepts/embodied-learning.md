@@ -32,8 +32,6 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[active-learning]]
 - [[experiential-learning]]
 - [[situated-learning]]
@@ -43,6 +41,7 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[learning-theories]]
 - [[multimodal]]
 - [[assessment-validity]]
+
 
 ## Connected Articles
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations

@@ -21,15 +21,15 @@ MotiBo demonstrates how [[educational-robotics]] can enhance [[student-engagemen
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper learning outcomes and creativity requires further investigation.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[motivation]]
 - [[self-determination-theory]]
 - [[student-engagement]]
 - [[storytelling-in-education]]
+
 ## Connected Articles
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: Robot-Mediated Role-Play
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 ## Citation
-Fung, K. Y., & Lui, T. L. R. (2026). *MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*. arXiv:2601.01218.
+Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*](https://arxiv.org/abs/2601.01218). arXiv:2601.01218.

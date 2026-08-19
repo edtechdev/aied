@@ -24,8 +24,6 @@ The review situates Pepper's educational value beyond the technology itself: its
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[teacher-role]]
 - [[k-12]]
 - [[higher-ed]]
@@ -35,6 +33,7 @@ As a scoping review, its aim was to map available evidence rather than assess qu
 - [[student-engagement]]
 - [[embodied-learning]]
 - [[research-methods-aied]]
+
 ## Connected Articles
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning

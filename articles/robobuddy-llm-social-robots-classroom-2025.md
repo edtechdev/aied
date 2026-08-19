@@ -32,12 +32,11 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[llm]]
-- [[educational-robotics]]
 - [[teacher-role]]
 - [[k-12]]
 - [[student-engagement]]
+
 
 ## Connected Articles
 
@@ -47,4 +46,4 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 
 ## Citation
 
-Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). *RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities*. arXiv:2508.16706.
+Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). [*RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities*](https://arxiv.org/abs/2508.16706). arXiv:2508.16706.
