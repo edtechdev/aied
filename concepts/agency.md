@@ -50,3 +50,5 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

@@ -74,3 +74,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[vargas-situated-learning-ai-review-2024]]
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

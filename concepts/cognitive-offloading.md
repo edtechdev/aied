@@ -129,3 +129,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ethical-ai-higher-ed-game-theory]]
 
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle

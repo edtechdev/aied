@@ -1,13 +1,34 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 857
+Last updated: 2026-08-19 | Total entries: 864
 
 ## 2026-08-19
+- 📄 [[cfes-p24-multimodal-slide-auditing-2026]] — raw/papers/cfes-p24-multimodal-slide-auditing-2026.md
+  Benchmarking Multimodal Large Language Models for Educational Slide Auditing
+  tags: benchmark, llm, multimodal, instructional-design, ai-ed-evaluation, multimedia-learning, assessment-validity, generative-ai
 - 🏷️ [[framing-ai-use-for-students]] — 
   Framing AI Use for Students
   tags: ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance
 - 📄 [[ithaka-sr-ai-skills-college-graduates-2026]] — raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md
   AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
   tags: ai-literacy, curriculum-design, higher-ed, workforce, generative-ai, professional-training, teacher-education
+- 📄 [[mediational-agent-genai-sociocultural-2026]] — raw/papers/mediational-agent-genai-sociocultural-2026.md
+  Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory
+  tags: sociocultural, learning-theories, constructivist, agency, generative-ai, human-ai-collaboration, critical-ai-literacy, posthumanist, philosophy-of-education
+- 📄 [[multilingual-adaptive-learning-nigeria-2026]] — raw/papers/2608.15738.md
+  An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria
+  tags: adaptive-learning, multilingual-learning, global-south, llm, equity-in-ai-education, personalized-learning, culturally-relevant-pedagogy, digital-divide, accessible-learning
+- 🏷️ [[multilingual-learning]] — 
+  Multilingual Learning
+  tags: multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, accessible-learning, llm
+- 📄 [[sc2r-counterfactual-recourse-educational-2026]] — raw/papers/2608.17618.md
+  From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support
+  tags: learning-analytics, predictive-modeling, educational-measurement, ai-ed-evaluation, higher-ed, student-modeling, interpretability, ethics, human-in-the-loop
+- 📄 [[ssaho-ai-academic-integrity-review-2025]] — raw/papers/ssaho-ai-academic-integrity-review-2025.md
+  Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity
+  tags: academic-integrity, plagiarism-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review
+- 📄 [[substitution-to-scaffolding-ai-harm-cycle-2026]] — raw/papers/2608.17451.md
+  From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
+  tags: cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai
 
 ## 2026-08-18
 - 📄 [[ai-anxiety-strategic-regulation-writing-2026]] — raw/papers/10.1016_j.caeai.2026.100622.md

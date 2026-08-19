@@ -48,3 +48,4 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

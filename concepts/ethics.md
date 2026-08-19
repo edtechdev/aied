@@ -1,7 +1,7 @@
 ---
 title: Ethics in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-17T10:45:00-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
@@ -56,3 +56,8 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[genai-higher-education-systematic-review-2026]]
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[raffaghelli-situated-ai-ethics-2026]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[ssaho-ai-academic-integrity-review-2025]] — Culture of academic integrity as the ethical response to AI

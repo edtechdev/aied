@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-16T09:22:41-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
@@ -46,6 +46,8 @@ Rather than treating learning theories as abstract philosophy, the wiki grounds 
 
 Learning theories also appear as content in AI literacy curricula: learners study behaviorism, cognitivism, constructivism, and connectivism to understand the pedagogical assumptions behind the tools they use.^[[generativism-learning-theory]] Teaching this strand gives students (and educators) the vocabulary to critique why an AI product is built the way it is — and whether its mechanics serve the learning goal at hand.
 
+
+- **The mediational agent.** Warschauer, Tate, and Ritchie (2026) argue generative AI breaks the sociocultural distinction between mediational means and social interaction, proposing the *mediational agent* — a system that both mediates action and generates contingent, non-accountable contributions, occupying a hybrid space between a tool and a social partner. This yields five human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation).^[[mediational-agent-genai-sociocultural-2026]]
 ## Connected Concepts
 
 - [[behaviorism]]
@@ -88,3 +90,4 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

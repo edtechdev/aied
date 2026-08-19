@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-19T07:56:52-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -73,3 +73,6 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing

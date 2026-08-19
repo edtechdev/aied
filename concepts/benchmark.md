@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 confidence: high
@@ -21,6 +21,8 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 
 Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — without rigorous benchmarks, claims about AI tutoring effectiveness are unverifiable. They also intersect with [[bias-mitigation]], as benchmark design can encode or amplify biases. The tension between benchmark performance and real-world utility is explored across multiple articles, connecting to [[transfer-of-learning]] concerns in [[generative-ai]] applications.
 
+
+- **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.^[[cfes-p24-multimodal-slide-auditing-2026]]
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -45,3 +47,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing

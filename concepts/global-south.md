@@ -43,3 +43,4 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
 - [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

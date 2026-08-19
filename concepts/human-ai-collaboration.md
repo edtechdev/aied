@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-17T06:45:00-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -27,6 +27,8 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 
+
+- **The mediational agent as a hybrid form of participation.** Rather than a midpoint between tool and collaborator, generative AI is conceptualized as a mediational agent that mediates action while generating contingent, non-accountable contributions — a distinct category that redirects design from technological capability to habits of participation (supervisory agency, epistemic vigilance).^[[mediational-agent-genai-sociocultural-2026]]
 ## Connected Concepts
 
 - [[generative-ai]]
@@ -63,3 +65,6 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

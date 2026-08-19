@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [authentic-assessment, automated-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
 
@@ -58,3 +58,4 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 - [[cong-confidence-asag-2026]]
 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing

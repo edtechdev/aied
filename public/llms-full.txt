@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 719 articles and 138 concepts.
+> Complete text of 725 articles and 139 concepts.
 
 # Articles
 
@@ -7451,6 +7451,85 @@ Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.
 ## Citation
 
 Lelièvre, M., Waldock, A., Liu, M., Valdés Aspillaga, N., Mackintosh, A., Ogando Portelo, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). [*Benchmarking the pedagogical knowledge of large language models*](https://arxiv.org/abs/2506.18710v1). arXiv:2506.18710. Leaderboard: [The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK).
+
+---
+
+## [Benchmarking Multimodal Large Language Models for Educational Slide Auditing](https://edtechdev.github.io/aied/articles/cfes-p24-multimodal-slide-auditing-2026/)
+
+> **Synthesis:** Ma, Li, and Shi (2026) introduce **CFES-P24**, a theory-grounded counterfactual benchmark for auditing whether multimodal large language models (MLLMs) actually respond to specific instructional-design constructs when evaluating educational slides. Instead of a holistic rating — which says little about *which* construct a model attends to — the benchmark expresses six multimedia-learning principles as deterministic, reversible slide transformations and generates counterfactual A/B pairs plus visual-equivalence sham controls. A pilot evaluation of a frozen gate found that construct recognition (operation, principle, repair, evidence localization) was near-perfect **8/8** for both models, while *comparative judgment* (direction 6/8) and *severity calibration* (0/8) diverged sharply — demonstrating that these are empirically separable skills and that a composite score would conceal which layer fails. ^[[cfes-p24-multimodal-slide-auditing-2026]]
+
+## The problem with holistic ratings
+
+Multimodal LLMs are increasingly used to evaluate educational materials such as slides. But a single holistic rating obscures a critical question: **does the model actually respond to a particular instructional-design construct**, or is it just producing a plausible-sounding overall judgment? Naturally occurring slides contain several weaknesses at once, and a preference for one deck over another does not reveal whether the decision reflects an instructional principle, a visual preference, or an unnoticed textual cue. This is a validity concern central to [[ai-ed-evaluation|AI-based evaluation]] of educational content — the same tension between aggregate accuracy and construct-level fidelity the wiki treats under [[assessment-validity]] and [[benchmark]].
+
+## CFES-P24 design
+
+The benchmark is theory-grounded and counterfactual:
+
+- **Registry:** 504 planned pairs — **432 target pairs + 72 sham controls** — derived from **24 author-created, three-slide micro-lessons** across **six disciplines** (biology, computer science, earth science, mathematics, physics, psychology). Baselines are rendered at 1920×1080 with fixed typography, a 4.5 minimum contrast ratio, and controlled geometry.
+- **Six multimedia-learning principles** are expressed as deterministic, *reversible* transformations, each at **three parameterized levels**: coherence (add task-irrelevant elements), signaling (reduce cue coverage), spatial contiguity (move a label away), redundancy (copy speaker-note text to screen), modality (transfer units from notes to screen), and segmenting (merge stages).
+- **72 visual-equivalence sham controls** — three families (equal-contrast palette mapping, equal-readability font substitution, border-weight change) that alter visual form without changing the instructional relation. They test whether a model reacts to *any* visible pixel difference.
+
+A key design feature is a **private truth record**: the pipeline records each operation and its inverse, hides the label behind a blind identifier, and requests a structured response (more-problematic version, operation, principle, anchored severity S0–S3, evidence element IDs, minimal repair, confidence). The transformation log provides operation-level truth without asking a human rater to reconstruct the edit after the fact.
+
+## Pilot evaluation method
+
+The pilot reports a **frozen candidate gate** rather than the full 504-pair evaluation — the paper stresses distinguishing a *registered design* from *completed evidence*. Key elements:
+
+- **21 pairs generated** of the 504 registered; they passed **100/100** transformation-rule checks, **21/21** inverse-restoration checks, and **21/21** independent disk-level quality checks, with **0** errors, warnings, or blind-label leaks.
+- The frozen gate contained **five pairs** (signaling, spatial contiguity, redundancy, modality + one sham), evaluated once by each of two models via the Poe API on 15 July 2026: **GPT-5.4** and **Qwen3-VL-235B-A22B-Instruct**, temperature 0, structured output required, no retries.
+- Truth was scored offline on six exact-match endpoints; the 14 release rules were conjunctive, so a single failure blocked the next stage.
+
+## Pilot results: recognition, judgment, and calibration separate
+
+The results are the paper's central contribution — **endpoints diverged sharply** across the eight target calls:
+
+| Endpoint | Exact match | Rate |
+|---|---|---|
+| Observable operation | 8/8 | 1.00 |
+| Principle | 8/8 | 1.00 |
+| Minimal repair | 8/8 | 1.00 |
+| Evidence-anchor overlap | 8/8 | 1.00 |
+| **Direction** (which version is more problematic) | **6/8** | 0.75 |
+| **Severity** (anchored S0–S3) | **0/8** | 0.00 |
+
+Both sham calls were correctly classified as having **no material difference**. Every response satisfied the structured-output schema on the first attempt.
+
+- **Recognition is easy; comparative judgment is harder.** Both models recovered every target operation, principle, repair, and evidence anchor (32/32 exact cells), but GPT-5.4 failed direction twice — returning *same* for a signaling pair and a modality pair — even while correctly describing the edit and identifying the elements, at confidence 0.95–0.98. The error lies in the decision threshold implied by *more_problematic*, not in perception of the change. Qwen3-VL selected the correct direction 4/4.
+- **Severity calibration failed entirely.** The preregistered truth assigned **S3** (global/task-blocking) to all eight target calls, while *both* models returned **S1** every time (0/8). Because the visible edits were localized, the paper interprets the eight identical S1 judgments not as eight model failures but as evidence that the original severity labels were **over-anchored** — the anchors overestimated the magnitude of the visible manipulations.
+- **The preregistered gate failed and blocked release.** With 13/14 rules passing but direction at 6/8 against the required 8/8, the frozen conjunctive policy kept all **16 holdback calls blocked**. No call was rerun and the threshold was not changed after results were known — modeling disciplined preregistration.
+- The 10 calls cost US$0.34 total (GPT-5.4 $0.30, Qwen3-VL $0.04); descriptive Wilson intervals are wide and no model ranking is claimed.
+
+## Implications
+
+- **Layered scorecards, not composite scores.** The paper argues for reporting perceptual grounding (operation, evidence), construct mapping (principle, repair), comparative judgment (direction), and calibration (severity) as *separate* layers, so disagreement is interpretable and a system can abstain on pedagogical consequence while still offering a verifiable repair. A composite score would have concealed the error pattern entirely.
+- **Confidence is not reliability.** GPT-5.4's two direction errors were made at high confidence, showing that confidence does not resolve construct-level failures.
+- **Severity must be parameter-grounded.** Future versions should replace presumed learning-impact severity with magnitude grounded in measurable edit properties (label–target distance, duplicated-text proportion, cue coverage) and keep claims about learning consequences separate.
+- **Distinguish "registered" from "completed."** The paper models rigor by keeping the registered design, generated artifact, and model status distinct — relevant to the wiki's [[ai-ed-evaluation]] and [[benchmark]] literatures on honest evaluation of AI in education.
+- **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a research protocol, not a classroom-ready product; it establishes no learning gains or teacher agreement.
+
+## Connected Concepts
+
+- [[benchmark]]
+- [[llm]]
+- [[multimodal]]
+- [[instructional-design]]
+- [[ai-ed-evaluation]]
+- [[assessment-validity]]
+- [[generative-ai]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: CDPK + SEND
+- [[elbench-education-llm-benchmark-2026]] — ELBench: Education-Facing LLM Benchmark
+- [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK Benchmark
+- [[aissa-slides-analysis]] — Slides Analysis
+- [[xai-education-framework]] — Explainable AI in Education Framework
+
+## Citation
+
+Ma, Y., Li, S., & Shi, S. (2026). [*Benchmarking Multimodal Large Language Models for Educational Slide Auditing*](https://osf.io/preprints/edarxiv/4y8xk_v1). EdArXiv preprint.
 
 ---
 
@@ -22554,6 +22633,82 @@ Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026). [MedGame: Storytel
 
 ---
 
+## [Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory](https://edtechdev.github.io/aied/articles/mediational-agent-genai-sociocultural-2026/)
+
+> **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that generative AI challenges a foundational distinction in [[constructivist|sociocultural]] theories of learning — the separation between *mediational means* and *social interaction*. Traditional tools such as language, writing, and educational technologies mediate human activity, while learning and development arise through social participation; generative AI complicates this because it both mediates activity *and* generates context-sensitive, contingent contributions that shape ongoing interaction. The authors propose the concept of the **mediational agent**: a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions to learning activity — occupying a hybrid space between a tool and a social partner. From this, they derive **five human-first habits of participation** (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) intended to preserve learners' judgment, agency, and responsibility in AI-mediated learning. ^[[mediational-agent-genai-sociocultural-2026]]
+
+## Why "tool" and "collaborator" both fail
+
+The essay's starting point is a conceptual gap in how education discusses generative AI. Sociocultural theory has long distinguished mediational means (language, writing, technologies) from social interaction (participation with teachers, peers, communities). Two dominant framings of GenAI are each insufficient:
+
+- **AI as a tool** underestimates its interactional influence. Because GenAI generates contingent, context-sensitive responses, it does not behave like a passive instrument; it actively shapes the trajectory of the interaction — explaining, critiquing, questioning, suggesting, and revising in ways no previous educational technology did.
+- **AI as a collaborator** risks attributing intentionality, accountability, and community membership that AI systems do not possess. A collaborator is accountable to shared norms, occupies a position in a community of practice, and shares a history; an LLM has none of these — its apparent participation emerges from probabilistic language generation rather than intentional engagement.
+
+This mirrors the wiki's ongoing debate between treating AI as a neutral tool versus as a quasi-partner in [[human-ai-collaboration|human–AI collaboration]] — and the paper offers a theoretically rigorous middle path.
+
+## The mediational agent concept
+
+The proposed concept resolves the dichotomy. A **mediational agent**:
+
+- **mediates** human action like a tool (extending the learner's activity), yet
+- **participates** in interaction by generating contingent, responsive contributions — explanations, critiques, questions, and suggestions — like an interlocutor, while
+- **remaining non-accountable** — it does not possess the intentionality, social membership, or responsibility of a genuine community member.
+
+Crucially, the paper argues this is a **hybrid form of participation, not a midpoint on a continuum** between tools and people. Generative AI's novelty lies not in its intelligence but in its *participation*: it performs functions that historically belonged to opposite sides of a conceptual distinction. Activity systems that include mediational agents are organized differently, and learners must continually decide whether to accept, reject, revise, interrogate, or redirect AI-generated contributions — judgments that become part of the learning activity itself.
+
+## The developmental paradox
+
+Generative AI is exceptionally effective at improving immediate performance (a product: fluent prose, working code, plausible explanations) but learning depends on *process* — generating ideas, wrestling with uncertainty, evaluating alternatives, revising understanding. Systems designed to reduce cognitive effort therefore create a **developmental paradox**: the same capabilities that improve immediate performance may reduce opportunities for intellectual growth if they replace rather than support learners' own thinking. This is the paper's link to the [[reducing-ai-misuse]] concern about performance–learning gaps and to [[desirable-difficulties|productive struggle]].
+
+## Five human-first habits of participation
+
+Because a mediational agent is responsive but non-accountable, the educational task is neither "use the tool well" nor "collaborate productively" — it is to **regulate the relationship between one's own thinking and the system's contributions**. The paper proposes five dispositions (not a fixed pedagogy, and discipline-dependent in expression):
+
+1. **Primacy of human cognition** — develop ideas, interpretations, or problem framings *before* turning to AI, creating the intellectual foundation needed to evaluate subsequent AI contributions rather than simply adopt them.
+2. **Purposeful engagement** — direct AI use by human intentions, using it strategically to extend, challenge, or refine one's thinking rather than to replace it.
+3. **Supervisory agency** — because the system generates contributions without responsibility for consequences, learners remain accountable for every decision about whether and how those contributions enter their work.
+4. **Epistemic vigilance** — fluent language and confident explanations must never be confused with truth or disciplinary validity; learners continually interrogate AI claims, corroborate evidence, and evaluate reasoning by disciplinary standards.
+5. **Reflective self-regulation** — because AI can obscure the boundary between human and machine contributions, learners consciously monitor their own understanding, identify what they genuinely learned, and evaluate how AI shaped their thinking.
+
+These habits are not generic digital competencies; supervisory agency in historical inquiry differs from software engineering, and epistemic vigilance takes different forms in scientific modeling than in literary interpretation. The common principle is a commitment to preserving human judgment within activities that increasingly include mediational agents.
+
+## What changes for the learning sciences
+
+The concept redirects research attention from "does AI improve outcomes or productivity?" toward **how patterns of participation change** when responsive but non-accountable systems enter everyday learning. It reframes longstanding questions: scaffolding (mediational agents generate support dynamically without the social relationships that gave scaffolding its developmental significance); distributed cognition (how should cognitive responsibility be distributed when artifacts contribute to reasoning itself?); and new empirical foci (how learners negotiate authority, responsibility, and judgment during interaction). Whether the term "mediational agent" endures matters less than whether the idea lets the field notice phenomena existing categories leave unexplained.
+
+## Implications
+
+The mediational-agent framing offers a principled theoretical vocabulary for discussions that otherwise oscillate between techno-optimism (AI as tool) and alarmism (AI as deceptive collaborator). It is a significant conceptual contribution to the [[learning-theories]] and sociocultural literature in AI education, aligning with posthumanist critiques while ultimately prioritizing human meaning-making and responsibility. For educators, it argues that the object of design should be the *habits of participation* learners develop, not just the tool's capabilities — a framing that complements the "scaffold, do not substitute" principle and the wiki's broader concern with preserving human agency and judgment in AI-mediated learning. The concept also enriches [[framing-ai-use-for-students]] by grounding *why* a human-first framing of AI matters theoretically, and connects to [[ai-sycophancy]] via the risk of non-accountable persuasive outputs.
+
+## Connected Concepts
+
+- [[constructivist]]
+- [[learning-theories]]
+- [[agency]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[philosophy-of-ai-in-education]]
+- [[reducing-ai-misuse]]
+- [[ethics]]
+- [[critical-thinking]]
+- [[framing-ai-use-for-students]]
+
+## Connected Articles
+
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with Machines: Epistemic Co-Agency
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as Cognitive Partner and Co-Regulation
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and Interpretive Cognition
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical/Creative Thinking
+- [[posthumanist-ai-literacy-2025]] — Posthumanist AI Literacy
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding
+
+## Citation
+
+Warschauer, M., Tate, T., & Ritchie, D. (2026). [*Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory*](https://osf.io/preprints/edarxiv/wcpj5_v2). EdArXiv preprint.
+
+---
+
 ## [Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment](https://edtechdev.github.io/aied/articles/melo-llm-classroom-observation-teach-2026/)
 
 # Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment
@@ -23710,6 +23865,58 @@ Responding productively to authentic student reasoning is among the most difficu
 ## Citation
 
 Tufino, E. (2026). [A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers](https://arxiv.org/abs/2608.05820).
+
+---
+
+## [An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria](https://edtechdev.github.io/aied/articles/multilingual-adaptive-learning-nigeria-2026/)
+
+> **Synthesis:** Nwogo et al. (2026) build and evaluate an AI-based [[adaptive-learning|adaptive learning]] platform for multilingual and low-resource educational contexts, with a case study on Nigerian Pidgin English. The system integrates fine-tuned large language models (LLMs) within a personalized-and-adaptive-learning (PAL) framework, using a curated Nigerian Pidgin corpus to fine-tune an instruction-tuned model. The study systematically investigates model optimization through multi-level quantization (4-bit, 5-bit, 8-bit), showing that higher-bit quantization improves semantic preservation and structural coherence while lower-bit models offer reduced inference latency with minimal degradation in instructional quality. This yields a deployable, resource-aware intelligent learning system that balances semantic robustness, cultural relevance, and computational efficiency — an experimentally validated framework for adapting LLMs to low-resource languages at practical scale.
+
+## The low-resource multilingual problem
+
+Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited personalization, inadequate language support, and weak curriculum internationalization — reducing learner engagement and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but fine-tuning and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the wiki's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|equity in AI education]].
+
+## Platform design and the Nigerian Pidgin corpus
+
+The system's core is a **personalized and adaptive learning (PAL) framework** that integrates fine-tuned LLMs. To achieve linguistic alignment, the authors developed a **curated Nigerian Pidgin corpus** and used it to fine-tune an instruction-tuned LLM, tailoring generation to the local language and context — a concrete instantiation of [[culturally-relevant-pedagogy|culturally relevant]] and locally grounded educational AI.
+
+## The quantization trade-off
+
+The study's distinctive empirical contribution is a systematic analysis of **multi-level quantization** (4-bit, 5-bit, 8-bit) and its trade-offs:
+
+- **Higher-bit quantization (8-bit):** improves semantic preservation and structural coherence — output stays closer to the full-fidelity model.
+- **Lower-bit models (4/5-bit):** offer reduced inference latency with only minimal degradation in instructional quality — more deployable on constrained hardware.
+
+Evaluation combined automatic semantic metrics (BLEU, ROUGE-L, BERTScore, perplexity, lexical diversity) with **human-centered cultural assessment by native speakers**, grounding the technical results in actual linguistic and cultural acceptability rather than metric-only scores.
+
+## Implications
+
+The paper contributes an experimentally validated framework for adapting LLMs to low-resource languages while keeping deployment practical — a necessary condition for [[accessible-learning|educational accessibility]] and equity in the Global South. It models how to balance semantic robustness, cultural relevance, and computational efficiency, and offers a blueprint for institutions in under-resourced contexts to deploy [[llm|LLM]]-based adaptive learning without relying on massive cloud infrastructure. It also demonstrates that cultural validation by native speakers is an essential complement to automatic metrics when building educational AI for linguistically diverse populations.
+
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[multilingual-learning]]
+- [[global-south]]
+- [[llm]]
+- [[equity-in-ai-education]]
+- [[personalized-learning]]
+- [[culturally-relevant-pedagogy]]
+- [[digital-divide]]
+- [[accessible-learning]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[learnmate2-llm-adaptive-learning]] — LearnMate2 LLM Adaptive Learning
+- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
+- [[zha-ai-literacy-biology-case-study]] — AI Literacy in Biology
+- [[clara-collaboration-literacy-dashboard]] — Collaborative Literacy Dashboard
+- [[eduguard-safe-rag-llm-tutor]] — Safe RAG LLM Tutor
+
+## Citation
+
+Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). [*An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria*](https://arxiv.org/abs/2608.15738). arXiv:2608.15738 [cs.CY]. https://doi.org/10.48550/arXiv.2608.15738
 
 ---
 
@@ -28008,6 +28215,66 @@ Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zho
 
 ---
 
+## [From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support](https://edtechdev.github.io/aied/articles/sc2r-counterfactual-recourse-educational-2026/)
+
+> **Synthesis:** Le, Abel, and Laforge (2026) tackle a persistent gap in [[learning-analytics]]: prediction models can identify students at risk, but they rarely say which interventions are *feasible, actionable, and compatible with educational constraints*. They introduce **SC2R**, a semantics-constrained counterfactual recourse framework that couples a calibrated predictive model with integer-programming-based recourse generation over discrete action variables, a lightweight RDF vocabulary for representing intervention plans, and SHACL validation to enforce timing, budget, immutability, and availability constraints. Evaluated offline on the OULAD dataset, SC2R shows that compact intervention plans can be generated at scale and, crucially, that semantic validation catches infeasible plans that lighter optimization-only approaches would accept. Rather than claiming causal improvement, the paper demonstrates that counterfactual recourse becomes more operationally meaningful in education when recommendations are not only model-valid but also semantically feasible and machine-checkable.
+
+## Beyond prediction: the recourse gap
+
+[[learning-analytics|Learning analytics]] has made real progress in predicting failure, disengagement, and dropout from educational traces, assessment records, and learner profiles. But predictive performance alone is insufficient for decision support: instructors, advisors, and student-support services need recommendations that are actionable and operationally feasible, not just risk scores. This is the **actionability gap** — the gap between "this student is at risk" and "here is what can actually be done about it, within real constraints."
+
+The paper positions counterfactual explanations and algorithmic recourse as the bridge between prediction and action. Recourse asks *what should change* to obtain a more desirable outcome, with an emphasis on actionability for the affected individual. But in education, naive recourse is often **mathematically valid yet unenactable**: methods that operate in feature space can recommend interventions that violate timing, budget, or availability realities (e.g., suggesting a session that happens after the assessment, or an action the institution cannot actually deliver).
+
+## The SC2R framework
+
+SC2R assembles four components into one pipeline:
+
+1. **A calibrated predictive model** for identifying at-risk students, providing reliable probability estimates.
+2. **Integer-programming-based recourse generation** over *discrete action variables* — the framework searches for compact sets of feasible actions rather than arbitrary feature-space perturbations.
+3. **A lightweight RDF vocabulary** for representing intervention plans in a structured, shareable, machine-readable form.
+4. **SHACL validation** to enforce semantic constraints — timing (before/after assessments), budget, immutability (can't change a completed grade), and availability (whether an intervention can actually be delivered).
+
+The framework is evaluated **offline on the OULAD dataset**, using snapshots constructed relative to each assessment at two decision horizons.
+
+## Findings
+
+- **Strong predictive component:** the calibrated model provides reliable at-risk identification as a foundation for recourse.
+- **Scalable plan generation:** compact intervention plans can be generated at scale across the dataset.
+- **Semantic validation matters:** SHACL validation reveals infeasible plans that lighter optimization-only settings would otherwise accept — the paper's central methodological claim. Semantic feasibility and machine-checkability make recommendations genuinely operational rather than merely model-valid.
+- **Honest about causality:** the authors deliberately do *not* claim causal improvement in student outcomes. The contribution is demonstrating that recourse becomes more operationally meaningful when it is semantically constrained.
+
+## Implications for AI in education
+
+SC2R speaks directly to the wiki's theme that prediction alone is not enough — that trustworthy, actionable educational AI requires aligning recommendations with real-world constraints and human oversight. It connects the [[learning-analytics]] literature on at-risk prediction with the explainability and recourse literature, and it offers a concrete mechanism (semantic validation) for making "actionable" AI recommendations genuinely enactable. Its emphasis on machine-checkable, constraint-respecting plans is a constructive response to concerns that predictive AI in education can produce recommendations that institutions cannot or should not follow. It also aligns with the movement in the field toward moving "beyond prediction" toward decision support that respects human oversight and trustworthiness (see [[ai-ed-evaluation]], [[human-in-the-loop-ai]], and the wiki's broader coverage of responsible AI in education).
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[student-modeling]]
+- [[ai-ed-evaluation]]
+- [[trust]]
+- [[educational-measurement]]
+- [[human-in-the-loop-ai]]
+- [[human-ai-collaboration]]
+- [[ethics]]
+- [[higher-ed]]
+- [[governance]]
+
+## Connected Articles
+
+- [[at-risk-students-ml-prediction]] — Machine Learning Prediction of At-Risk Students
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
+- [[xai-education-framework]] — Explainable AI in Education Framework
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
+- [[trace-course-grade-prediction-2026]] — Trace-Based Course Grade Prediction
+- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards
+
+## Citation
+
+Le, N. L., Abel, M.-H., & Laforge, B. (2026). [*From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support*](https://arxiv.org/abs/2608.17618). arXiv:2608.17618 [cs.IR]. https://doi.org/10.48550/arXiv.2608.17618
+
+---
+
 ## [Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks](https://edtechdev.github.io/aied/articles/scaffolding-critical-engagement-genai-minority-students/)
 
 > **Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).
@@ -29519,6 +29786,83 @@ Cheng, C.-J., Chung, Y.-C., Chiu, B.-C., Lin, Y.-H., & Liao, J.-W. (2026). [*Exp
 
 ---
 
+## [Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity](https://edtechdev.github.io/aied/articles/ssaho-ai-academic-integrity-review-2025/)
+
+> **Synthesis:** Balalle and Pannilage (2025) present a PRISMA-based systematic literature review (25 studies from 1,443 records across Scopus, PubMed, DOAJ, and BASE) examining the impact of artificial intelligence on [[academic-integrity|academic integrity]] in higher education. The review finds a genuine **research gap** — AI and academic integrity sit in the same keyword cluster but few studies cover both — and documents that AI functions as both a **threat** to integrity (AI-generated writing, paraphrasing tools, contract cheating) and a **tool for detection** (Turnitin AI/similarity scoring). Its central call is for institutions to build a **culture of academic integrity** through clear policy, assessment redesign, and ethics training, rather than relying on detection software alone. ^[[ssaho-ai-academic-integrity-review-2025]]
+
+## Methods
+
+The review used a PICO-framed research question ("What is the role of AI in influencing academic integrity, and how can educational institutions ensure ethical AI usage?") and the PRISMA 2020 flow for study selection:
+
+- **1,443 records** identified (PubMed 62, DOAJ 1,136, Scopus 235, BASE 7, plus 3 expert recommendations); 32 duplicates removed → 1,408 screened → 78 full-text retrieved → **25 included** in the final analysis.
+- **Risk of bias** was assessed with the Cochrane **ROBINS-I** tool via Nested Knowledge's semi-automated platform. The most significant bias was in participant selection; 9 studies showed selection concerns, and several others showed bias due to confounding, missing data, or selective reporting.
+- A **VOSviewer keyword co-occurrence network** (4 clusters) surfaced the field's structure: cluster 1 (academic integrity, academic misconduct, AI, student character), cluster 2 (academic writing, generative AI, large language model), cluster 3 (ChatGPT, higher education, quality assurance), cluster 4 (plagiarism).
+- The most-cited works were Cotton et al. (2024) "Chatting and cheating" (755 citations), Sullivan (2023) "ChatGPT in higher education" (221), and Crawford et al. (2023) "Leadership is needed for ethical ChatGPT" (188).
+
+## Key findings
+
+### AI as both threat and detection tool
+
+The review documents AI's **dual role**:
+
+- **As a threat:** Students use generative AI (ChatGPT, Google Bard, Writesonic, Jasper, Wordtune, automated paraphrasing tools) to complete assignments, reducing originality and risking the credibility of qualifications. Non-native English speakers show a high tendency to breach integrity when struggling to write in English.
+- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; online proctoring systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that plagiarism-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
+
+### Detection is an industry, not a solution
+
+Academic cheating and detection have become "thriving industries" — companies sell both AI-writing/humanizing software and detection software. The review argues institutions can develop their own manual detection procedures and train lecture panels, and that **multiple assessment methods** (oral exams, traditional writing tests, essays) should be used to detect AI misconduct rather than software alone (citing Bozkurt 2024).
+
+### Culture of integrity over policing
+
+Across the included studies, the dominant recommendation is **preventive and cultural** rather than purely technological:
+
+- Clearly define what constitutes academic misconduct (plagiarism, AI writing, cheating) and establish **explicit policies and expectations**.
+- Develop an **honour code** agreed by students and faculty, and a jointly-developed campus AI-use policy, formally documented and distributed.
+- Build a **culture of academic integrity** from orientation onward, with regular workshops and training on citation practices, academic ethics, plagiarism, and AI detection tools.
+- **Redefine academic integrity** for the technology-based era — the old definition no longer fits.
+- Balance detection with **assessment redesign** (some institutions have returned to pen-and-paper exams), while recognizing that banning AI is difficult to enforce (ChatGPT is hard to prevent, per Sharples 2022).
+
+### AI also has legitimate value
+
+The review is balanced: AI can enhance writing efficiency, improve non-native English writing, act as a virtual tutor students ask questions to without hesitation, and improve learning abilities (Darvishi et al. 2024; Maphoto et al. 2024; Milano et al. 2023). The task is to **harness these benefits while upholding ethical standards**, not to ban the tools.
+
+## Implications for AI in Education
+
+- **Detection is necessary but insufficient.** The review reinforces the wiki's [[plagiarism-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
+- **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the wiki's [[authentic-assessment]] and [[assessment]] literature.
+- **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
+- **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
+
+> **License note:** This work is licensed **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial), reflecting an open-access but non-commercial publication. [Offer removal if unwanted.]
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[plagiarism-detection]]
+- [[assessment]]
+- [[generative-ai]]
+- [[ai-misuse-learning-harm]]
+- [[ethics]]
+- [[educational-policy-ai]]
+- [[reducing-ai-misuse]]
+- [[higher-ed]]
+- [[authentic-assessment]]
+- [[framing-ai-use-for-students]]
+
+## Connected Articles
+
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
+- [[genai-chinese-higher-education-integrity-2026]] — Balancing Gen-AI in Chinese higher education
+- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text
+- [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and assessment reform
+
+## Citation
+
+Balalle, H., & Pannilage, S. (2025). *Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity*. *Social Sciences & Humanities Open, 11*, 101299. https://doi.org/10.1016/j.ssaho.2025.101299
+
+---
+
 ## [StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing](https://edtechdev.github.io/aied/articles/stanbkt-bayesian-knowledge-tracing/)
 
 StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (BKT) that moves beyond traditional expectation-maximization (EM) point estimates to full Bayesian inference via Stan. The package supports **four estimation methods** (Hamiltonian Monte Carlo, variational inference, Pathfinder, and optimization), **three model variants** (standard, grouped, and hierarchical BKT), and provides posterior predictive inference with visualization utilities. Evaluated on the ASSISTments 2020 dataset, all methods achieve comparable predictive performance while trading off speed vs. posterior fidelity. A key demonstration shows how posterior inference enables **principled comparison of learning, forgetting, guessing, and slipping parameters** across experimental conditions in an educational intervention involving perceptual cue manipulations.
@@ -30347,6 +30691,85 @@ Studying why learners enroll grounds course design in actual learner needs, conn
 ## Citation
 
 Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, George Boateng (2026). ["Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course](https://arxiv.org/abs/2607.22940). arXiv:2607.22940.
+
+---
+
+## [From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)](https://edtechdev.github.io/aied/articles/substitution-to-scaffolding-ai-harm-cycle-2026/)
+
+> **Synthesis:** Favero, Pérez-Ortiz, Käser, and Oliver (2026) argue that the central risk of AI in education is not technological failure but *misalignment* — AI that substitutes for human effort erodes the very capacities education is meant to build. They organize this risk into an integrative framework of four interrelated dimensions — [[cognitive-offloading|cognition]], [[agency]], emotional well-being, and [[ethics]] — linked by a **self-reinforcing harm cycle** in which offloading reduces effort, weakens agency, and compounds emotional and ethical harm. Grounding the framework in an exploratory analysis of 49 International Baccalaureate essays, they find learners themselves perceive these risks (80% report AI reliance reduces thinking) while converging on the AI they want: systems that withhold immediate answers, prompt recall, and encourage reflection through questions. From this they derive a single design principle, **scaffold, do not substitute**, argued to extend beyond education to any system that mediates human thinking, and outline a research agenda for building AI that fosters enduring human capacity.
+
+## The self-reinforcing harm cycle
+
+The paper's central conceptual contribution is a unifying mechanism that treats the scattered harms of AI — usually discussed in isolation — as one interconnected, self-reinforcing cycle:
+
+- **Cognition:** [[cognitive-offloading|Cognitive offloading]] reduces the effortful reasoning that builds durable understanding; large-scale studies link high AI dependence to lower performance on [[critical-thinking|critical-thinking]] assessments, mediated by offloading. This connects directly to the wiki's over-reliance literature (see [[cognitive-offloading]] and the associated articles on the speedup illusion and synthesis writing).
+- **Agency:** convenience and persuasive outputs erode [[agency]]; dependency undermines independent problem-solving, and overtrust leads students to accept AI output uncritically. The authors warn of **intellectual conformity** — ready-made answers nudging learners toward normative reasoning and standardized thought.
+- **Emotion:** reliance produces technostress, digital fatigue, AI guilt (feeling both assisted and inauthentic), and — for some — AI entitlement, a normative breakdown around effort and authorship.
+- **Ethics:** continuous data collection creates surveillance and power asymmetries; students' fear of being wrong suppresses experimentation and intellectual risk-taking. Notably, students in the corpus raised ethics mainly as **authorship and integrity** ("how can the school know they are originals and not just AI generated?") rather than privacy.
+
+The cycle is self-reinforcing because each dimension feeds the next: cognitive offloading weakens effortful reasoning, which increases overtrust and reduces agency; diminished agency intensifies emotional harms; and structural ethical factors (surveillance, opaque data practices) amplify all of these, leaving learners less confident, less critical, and increasingly dependent on algorithmic authority.
+
+## The students' own words
+
+The framework is grounded in an exploratory qualitative analysis of 49 argumentative essays written by International Baccalaureate students (median age 17) from three German-speaking Swiss schools, responding to "Does using AI change what it means to learn?" Findings are descriptive, not generalizable:
+
+- **80% (39/49)** explicitly linked AI reliance to reduced thinking — "the knowledge arrives without being earned, and unearthed knowledge tends not to stay."
+- **41%** endorsed effortful [[desirable-difficulties|retrieval or effort]] as valuable ("retrieving information from memory, even imperfectly, strengthens understanding").
+- **88% (43/49)** raised agency, most often as erosion of independent effort.
+- **53% (26/49)** named at least one behavior that *supports* rather than replaces thinking — withholding the solution, asking critical questions, prompting active recall, offering alternative explanations.
+- Yet **48 of 49** framed AI in terms of *replacement*, not scaffolding — the AI students say they need is not the AI they typically encounter.
+
+This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed feedback, and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
+
+## Scaffold, do not substitute
+
+The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a privacy-preserving, environmentally sensitive educational chatbot that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
+
+For different stakeholders, the principle translates into distinct obligations:
+
+- **Researchers:** move beyond benchmarks of what AI can *produce* toward measures of what AI helps humans *develop* — understanding, judgment, agency, and independent thinking. The central question becomes whether systems strengthen human capacity over time or quietly replace the effort through which that capacity is built.
+- **System builders:** scaffolding must become a designed capability, not an afterthought.
+- **Educators, institutions, policymakers:** preserve the conditions under which learning occurs — productive struggle, reflection, intellectual agency — through tasks, [[assessment|assessments]], procurement, and [[governance]] structures.
+
+The paper's broader claim is that this challenge extends beyond education to the entire AI ecosystem: any system that mediates human thinking can either weaken human capabilities through substitution or strengthen them through scaffolding, with consequences not only for learners but for democratic societies.
+
+## Relationship to existing research
+
+The framework integrates and extends themes already present in the wiki. It provides a unifying theoretical lens that connects the over-reliance / [[cognitive-offloading]] literature, the [[agency|learner-agency]] and dependency literature, [[reducing-ai-misuse]], and [[ethics|AI ethics]] in education — synthesizing what prior work has tended to treat as separate concerns. Its "scaffold, do not substitute" principle operationalizes the pedagogy-vs-technology distinction that underlies work on pedagogically aligned AI, and its call to measure human capacity development rather than machine output aligns with the wiki's critiques of overly narrow AI benchmarks. Its evidence base (student essays) adds a rare learner-perspective dimension to a literature dominated by researcher and system perspectives.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[agency]]
+- [[ethics]]
+- [[reducing-ai-misuse]]
+- [[desirable-difficulties]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[human-ai-collaboration]]
+- [[socratic-method]]
+- [[governance]]
+- [[assessment]]
+- [[academic-integrity]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Guiding Human–AI Collaboration
+- [[cognitive-offloading-speedup-illusion]] — Cognitive Offloading and the Speedup Illusion
+- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive Offloading in LLM-Assisted Writing
+- [[correct-answer-trap-ai-tutor]] — The Correct-Answer Trap in AI Tutoring
+- [[generative-refusal-ai-tools-for-thought]] — Generative Refusal: AI Tools for Thought
+- [[ai-making-us-stupid]] — Is AI Making Us Stupid?
+- [[coach-not-crutch-ai-writing]] — Coach Not Crutch: AI Writing
+- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors
+- [[student-cheat-sheets-make-or-take]] — Make or Take: Student Cheat Sheets
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
+
+## Citation
+
+Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2026). [*From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)*](https://arxiv.org/abs/2608.17451). arXiv:2608.17451 [cs.HC]. https://doi.org/10.48550/arXiv.2608.17451
 
 ---
 
@@ -34132,6 +34555,8 @@ The wiki documents a paradigm shift: from AI as an integrity threat to be police
 
 Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of AI in education, inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
 
+
+- **Systematic-review synthesis.** A PRISMA review of 25 studies (Balalle & Pannilage 2025) finds AI acts as both a threat (AI-generated writing, paraphrasing tools) and a detection tool (Turnitin AI scores), that detection software is unreliable for AI-generated work, and that institutions must build a culture of academic integrity through clear policy, assessment redesign, and ethics training rather than policing alone.^[[ssaho-ai-academic-integrity-review-2025]]
 ## Connected Concepts
 
 - [[assessment-validity]]
@@ -34174,6 +34599,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: Systematic Review
 - [[competency-based-education-genai-production-2026]] — Competency-Based Education and GenAI Production
 - [[avraamidou-ai-colonization-science-education]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[ssaho-ai-academic-integrity-review-2025]] — Systematic review: AI as threat and detection tool for academic integrity
 
 ---
 
@@ -34251,6 +34678,7 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[special-r1-rl-special-education]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -34383,6 +34811,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[fowlin-operationalizing-learning-principles-ai]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -34644,6 +35073,8 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -34813,6 +35244,8 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[genai-educational-outcomes-meta-analysis]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 
 ---
 
@@ -35173,6 +35606,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor–employer AI skills prioritization gap (2026)
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -35231,6 +35666,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
 - [[cognitive-shift-ai-education]] — Cognitive Shift in AI Education
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
+- [[ssaho-ai-academic-integrity-review-2025]] — AI misuse in academic writing and integrity breaches
 
 ---
 
@@ -35354,6 +35790,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 - [[cong-confidence-asag-2026]]
 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 
 ---
 
@@ -35438,6 +35875,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Automated assessment of interactive explainer content
 - [[ai-assessment-scale-reform]] — AI assessment scale reform
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
 
 ---
 
@@ -35506,6 +35945,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[cong-confidence-asag-2026]] — Confidence-aware automated short-answer grading
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
+- [[ssaho-ai-academic-integrity-review-2025]] — Multiple assessment methods to counter AI misconduct
 
 ---
 
@@ -35816,6 +36256,8 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 
 Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — without rigorous benchmarks, claims about AI tutoring effectiveness are unverifiable. They also intersect with [[bias-mitigation]], as benchmark design can encode or amplify biases. The tension between benchmark performance and real-world utility is explored across multiple articles, connecting to [[transfer-of-learning]] concerns in [[generative-ai]] applications.
 
+
+- **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.^[[cfes-p24-multimodal-slide-auditing-2026]]
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -35840,6 +36282,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 
 ---
 
@@ -36099,6 +36542,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ethical-ai-higher-ed-game-theory]]
 
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 
 ---
 
@@ -36346,6 +36790,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -36475,6 +36920,8 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -36680,6 +37127,7 @@ Grounded in the wiki's own articles, educators and designers can apply CRP to AI
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
 - [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Community Learning
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif: Interest-Based Personalized Assignments
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -36868,6 +37316,7 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 - [[epistemic-emotions-collaborative-problem-solving]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 
 ---
 
@@ -36914,6 +37363,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -37210,6 +37660,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
 - [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 ---
 
@@ -37303,6 +37754,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[genai-higher-education-systematic-review-2026]]
 
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
+- [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
 
 ---
 
@@ -37580,6 +38032,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -37634,6 +38087,11 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[genai-higher-education-systematic-review-2026]]
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[raffaghelli-situated-ai-ethics-2026]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[ssaho-ai-academic-integrity-review-2025]] — Culture of academic integrity as the ethical response to AI
 
 ---
 
@@ -38113,6 +38571,8 @@ Students are also framed by the wider media and public discourse around AI in ed
 - [[youtube-frames-chatgpt-education]] — How YouTube frames ChatGPT use in education
 - [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
+- [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
+- [[mediational-agent-genai-sociocultural-2026]] — Human-first habits of participation in AI-mediated learning
 
 ---
 
@@ -38234,6 +38694,11 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose generative AI in education
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructor–employer divergence on prioritizing GenAI skills
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI impact on academic integrity
 
 ---
 
@@ -38275,6 +38740,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: Ghana STEM Benchmark
 - [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -38341,6 +38807,8 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[genai-assessment-governance]] — Assessment governance under GenAI
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 ---
 
@@ -38559,6 +39027,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in higher education
 
 ---
 
@@ -38584,6 +39054,8 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 
+
+- **The mediational agent as a hybrid form of participation.** Rather than a midpoint between tool and collaborator, generative AI is conceptualized as a mediational agent that mediates action while generating contingent, non-accountable contributions — a distinct category that redirects design from technological capability to habits of participation (supervisory agency, epistemic vigilance).^[[mediational-agent-genai-sociocultural-2026]]
 ## Connected Concepts
 
 - [[generative-ai]]
@@ -38620,6 +39092,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -38690,6 +39165,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 ---
 
@@ -38921,6 +39397,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 
 ---
 
@@ -39351,7 +39828,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 ### From description to intervention
 
-Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]].
+Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with human oversight preserved.
 
 ### Connections
 
@@ -39388,6 +39865,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 ---
 
@@ -39545,6 +40023,8 @@ Rather than treating learning theories as abstract philosophy, the wiki grounds 
 
 Learning theories also appear as content in AI literacy curricula: learners study behaviorism, cognitivism, constructivism, and connectivism to understand the pedagogical assumptions behind the tools they use.^[[generativism-learning-theory]] Teaching this strand gives students (and educators) the vocabulary to critique why an AI product is built the way it is — and whether its mechanics serve the learning goal at hand.
 
+
+- **The mediational agent.** Warschauer, Tate, and Ritchie (2026) argue generative AI breaks the sociocultural distinction between mediational means and social interaction, proposing the *mediational agent* — a system that both mediates action and generates contingent, non-accountable contributions, occupying a hybrid space between a tool and a social partner. This yields five human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation).^[[mediational-agent-genai-sociocultural-2026]]
 ## Connected Concepts
 
 - [[behaviorism]]
@@ -39587,6 +40067,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -39770,6 +40251,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[ai-feedback-enactment-workflow-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 
 ---
 
@@ -40153,6 +40636,52 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 ---
 
+## [Multilingual Learning](https://edtechdev.github.io/aied/concepts/multilingual-learning/)
+
+> Multilingual learning in AI education concerns how educational technologies and LLM-based systems support learners across languages, dialects, and low-resource linguistic contexts — and the risks of linguistic exclusion when AI systems are built primarily for dominant languages.
+
+## Overview
+
+Multilingual learning is a core equity dimension of AI in education. Generative AI and [[llm|LLMs]] are overwhelmingly trained and tuned on high-resource languages, which can systematically disadvantage learners who study or think in other languages. The theme spans technical challenges (adapting models to low-resource languages, dialectal corpora, [[rag|RAG]] in non-dominant languages), pedagogical concerns (culturally relevant and locally grounded instruction), and structural equity (who gets access to useful educational AI at all).
+
+## Technical approaches
+
+- **Fine-tuning for low-resource languages:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|fine-tuned an instruction-tuned LLM on a curated Nigerian Pidgin corpus]] within an adaptive-learning platform, and systematically analyzed quantization (4/5/8-bit) trade-offs between semantic fidelity and computational efficiency — showing that low-resource languages can be served with practical hardware constraints. See also the [[bilingual-llm-lecture-companion-srl-2026|bilingual LLM lecture companion]] for self-regulated learning.
+- **Corpus and data equity:** building curated corpora (e.g., Nigerian Pidgin, Indian knowledge systems via [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) is a recurring strategy for enabling model output in learners' own languages.
+- **Voice-first and oral contexts:** [[kutti-ai-voice-first-learning-companion|voice-first companions]] and [[structural-silence-underrepresented-language-ai-2026|structural-silence analyses]] address contexts where text-based AI fails speakers of underrepresented languages.
+
+## Equity and pedagogy
+
+Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|equity in AI education]] across the [[global-south|Global South]].
+
+## Assessment bias
+
+Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in physics), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity]].
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[llm]]
+- [[equity-in-ai-education]]
+- [[global-south]]
+- [[digital-divide]]
+- [[culturally-relevant-pedagogy]]
+- [[accessible-learning]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Nigeria
+- [[bilingual-llm-lecture-companion-srl-2026]] — Bilingual LLM Lecture Companion
+- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages
+- [[llm-cultural-relevance-k12]] — LLM Cultural Relevance in K-12
+- [[scaffolding-critical-engagement-genai-minority-students]] — Critical Engagement with GenAI Among Minority Students
+- [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
+- [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
+- [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
+
+---
+
 ## [Multimodal AI](https://edtechdev.github.io/aied/concepts/multimodal/)
 
 > **Multimodal AI** — AI systems that process, understand, or generate content across multiple modalities — text, images, audio, video, and structured data — and the educational questions these systems raise. In AI in education, multimodal AI appears in three distinct roles: as the *learning content* learners create and engage with ([[multimodal-learning-genai|multimodal learning]]), as the *capability boundary* of tutoring systems that must interpret diagrams and graphs ([[syal-multimodal-dialogue-stem-2026|multimodal tutoring]]), and as the *assessment signal* used to evaluate understanding ([[multimodal-item-parameter-estimation-2026|multimodal measurement]]).
@@ -40246,6 +40775,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
 - [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 
 ---
 
@@ -40717,6 +41247,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[vargas-situated-learning-ai-review-2024]]
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 
 ---
 
@@ -40759,6 +41290,7 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model of interpretive cognition in the humanities
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
 - [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 
 ---
 
@@ -40860,6 +41392,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 - **Fairness and equity:** detection tools that penalize non-native writers or produce false positives risk amplifying existing inequities.
 - **AI literacy is complementary:** helping students understand appropriate versus [[ai-misuse-learning-harm|harmful AI use]] is more productive than relying on surveillance.
 
+
+- **Detection reliability caution.** A systematic review of AI and academic integrity concludes that plagiarism/AI-detection tools cannot be relied upon for AI-generated work and should be paired with multiple assessment methods and manual review — reinforcing that detection is a limited, situational tool.^[[ssaho-ai-academic-integrity-review-2025]]
 ## Connected Concepts
 
 - [[academic-integrity]]
@@ -40884,6 +41418,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and Assessment Validity
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
+- [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
 
 ---
 
@@ -41261,6 +41796,9 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
 
 ---
 
@@ -41492,6 +42030,7 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
 - **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[cognitive-offloading|Over-Reliance]].
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
+- **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and ethics.
 
 ### The ZPD connection
 
@@ -41531,6 +42070,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[ai-cognitive-partner-co-regulation-learning]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 
 ---
 
@@ -42072,6 +42612,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[pedagogy-ai-mistakes]]
 
 - [[tutoring-specific-vs-general-ai]] — Structured Socratic hints vs. open-ended general-purpose Q&A
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 
 ---
 
@@ -42445,6 +42986,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 ---
 
@@ -42946,6 +43488,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 ---
 

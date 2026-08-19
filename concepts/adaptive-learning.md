@@ -57,3 +57,4 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[fowlin-operationalizing-learning-principles-ai]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

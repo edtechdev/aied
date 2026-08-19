@@ -108,3 +108,4 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts

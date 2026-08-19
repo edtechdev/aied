@@ -1,7 +1,7 @@
 ---
 title: Instructional Design with AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-17T09:55:00-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [instructional-design, curriculum-design, faculty-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 confidence: high
@@ -87,3 +87,4 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing

@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -86,3 +86,5 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[genai-educational-outcomes-meta-analysis]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
