@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 726 articles and 139 concepts.
+> Complete text of 732 articles and 140 concepts.
 
 # Articles
 
@@ -4652,6 +4652,76 @@ Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (202
 
 ---
 
+## [Artificial Intelligence in Science and Chemistry Education: A Systematic Review](https://edtechdev.github.io/aied/articles/ai-science-chemistry-education-systematic-review-2025/)
+
+> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) systematically review empirical research (2014–2024) on AI applications in **science and chemistry education**, finding rapid growth from 2021–2024 with **ChatGPT and conversational robots** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and STEM (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing multimodal lab environments, and encouraging personalized learning. Researchers consistently flag **ethical risks** — gender/racial bias, hallucinations, plagiarism, accuracy/reliability concerns, infrastructure and language gaps, and effects on writing and independent thinking. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and teacher training to foster conscious, ethical AI use. ^[[ai-science-chemistry-education-systematic-review-2025]]
+
+## Purpose and method
+
+The review addresses a gap: most AI-in-education research examines generic effects, but subject-area reviews spanning science and chemistry are limited. It uses a **systematic review** design (PRISMA), searching Web of Science and Scopus for studies published 2014–2024 on AI applications in science/chemistry education.
+
+- **Screening:** 255 records identified, 149 screened, 25 assessed for eligibility, **18 studies included**.
+- **Distribution:** 3 (2021), 1 (2022), 3 (2023), 11 (2024) — reflecting the post-ChatGPT surge.
+- **Methods used:** experimental/quasi-experimental with control groups, case studies, laboratory studies, mixed methods, and self-study; several integrated instructional design models (ADDIE, rapid prototyping).
+- **Samples:** mostly teacher candidates, middle/high-school students, and teachers.
+
+## AI tools and applications
+
+- AI is used most in **science education** (n=11), followed by **chemistry education** (n=5) and **STEM education** (n=2).
+- **ChatGPT and conversational robots** predominate; machine learning algorithms appear in two studies and the DALL-E image tool in one.
+- Applications include AI-supported games and simulations, virtual laboratories, AI-based evaluation tools, and AI chatbots embedded as tutors or even as research participants.
+
+## Effects on learning outcomes
+
+AI applications most often affect **learning-process outcomes** (n=9): supporting students' online learning, facilitating learning, aiding successful knowledge construction, providing **multimodal (auditory) lab environments**, offering interdisciplinary learning experiences, and encouraging personalized and equitable science learning.
+
+Other outcome clusters:
+- **Prompt engineering** (n=6) — students develop prompt-writing skills, use AI as an intelligent personal assistant for writing, gain writing confidence, and get help with complex mechanical explanations.
+- **Professional skill development** (n=5) — teacher candidates build evaluation expertise and teaching skills; AI supports classroom management, lesson-plan design, and professional development.
+- **Technology** (n=3) — increased acceptance of AI among teachers/candidates/students, introduction of machine learning in chemistry, and quality-education opportunities.
+- **Active participation** (n=2) — activates teacher–student and peer interaction and participation in interactive activities.
+
+## Risks, limitations, and ethics
+
+Researchers emphasize recurring **ethical challenges**: gender and racial bias, hallucinations, copyright infringement, plagiarism and biased information production, accuracy and reliability problems, technical infrastructure and language-support gaps, and impacts on human decision-making and writing skills. Notably, **excessive reliance on AI-produced content can weaken students' independent thinking and decision-making**. The review concludes that determining and communicating the ethical issues around AI use and raising student and teacher awareness of conscious use are essential.
+
+## Chemistry-education gaps
+
+- Studies in **chemistry education focus more on technical applications**, revealing a need for **pedagogical research** addressing AI integration into chemistry teaching processes.
+- More research is needed on AI for developing **conceptual understanding, problem-solving, and laboratory skills** in chemistry and STEM.
+- The **teacher-candidate focus** signals a strategic orientation toward future practitioners' AI literacy; the limited high-school and middle-school coverage is a significant gap in integrating AI into early education levels.
+- Recommended: teacher-training programs, projects encouraging AI use in chemistry/STEM, and efforts to develop AI literacy for conscious tool use.
+
+## Connected Concepts
+
+- [[stem-education]]
+- [[generative-ai]]
+- [[ethics]]
+- [[educational-policy-ai]]
+- [[teacher-education]]
+- [[ai-literacy]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[k-12]]
+- [[higher-ed]]
+- [[personalized-learning]]
+- [[simulation]]
+- [[digital-divide]]
+
+## Connected Articles
+
+- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Reimagining the philosophy of experimentation in chemistry with AI
+
+## Citation
+
+Erümit, A. K., & Özdemir Sarıalioğlu, R. (2025). [Artificial intelligence in science and chemistry education: A systematic review](https://doi.org/10.1007/s44217-025-00622-3). *Discover Education*, 4, 178.
+
+---
+
 ## [AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics](https://edtechdev.github.io/aied/articles/ai-scoring-language-bias-physics/)
 
 > **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
@@ -4728,6 +4798,50 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 ## Citation
 
 Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](https://arxiv.org/abs/2607.05412). arXiv:2607.05412. ISLS 2026 (arXiv preprint).
+
+---
+
+## [Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design](https://edtechdev.github.io/aied/articles/ai-supported-experimental-design-chemistry-2026/)
+
+> **Synthesis:** Yim and Lui (2026) report an authentic pedagogical approach integrating AI chatbots into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group feedback indicated significantly enhanced **student confidence in conducting experiments and soft skills** — critical thinking, problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. ^[[ai-supported-experimental-design-chemistry-2026]]
+
+## The pedagogical approach
+
+- **Authentic task:** students designed a lab manual for analyzing real-world samples using AI, then implemented it hands-on.
+- **Validation:** lab manuals were reviewed by independent testing and certification professionals to ensure the accuracy and reliability of AI-generated content.
+- **Evaluation:** surveys and focus-group interviews with students and staff.
+
+## Findings
+
+- **Confidence and soft skills:** the approach significantly enhanced students' confidence in conducting experiments and their critical thinking, problem-solving, analytical abilities, and experimental design skills.
+- **AI's role:** AI was particularly beneficial for **ideation, scoping, and managing language-related tasks**; with effective prompting it provided useful background information and generic experimental procedures.
+- **Student discernment:** many students preferred to consult their own literature reviews for critical details, expressing concerns about potential inaccuracies in chemical calculations and the reliability of advanced chemistry content — evidence of evaluative engagement with AI output.
+- **Staff role shift:** instead of demonstrating established experiments ("cookbook"), staff now encounter a broader range of unexpected issues arising from student-designed lab manuals, focusing on **guiding and advising** rather than supplying definitive answers.
+
+This complements the wiki's framing of [[ai-literacy|critical AI use]] and [[human-ai-collaboration|human–AI collaboration]]: students learned to interrogate and verify AI-generated content rather than accept it uncritically.
+
+## Connected Concepts
+
+- [[chemistry-education]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[human-ai-collaboration]]
+- [[generative-ai]]
+- [[reducing-ai-misuse]]
+- [[agency]]
+- [[scaffolding]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+
+## Citation
+
+Yim, K.-H., & Lui, M. Y. (2026). [Supporting undergraduate students' learning in practical chemistry courses through AI-supported experimental design](https://doi.org/10.1021/acs.jchemed.5c01311). *Journal of Chemical Education*, 103(6), 3022–3030.
 
 ---
 
@@ -9712,6 +9826,54 @@ The finding that most student-GenAI interactions exhibit weak epistemic engageme
 ## Citation
 
 Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming](https://arxiv.org/abs/2607.00211). arXiv:2607.00211.
+
+---
+
+## [Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education](https://edtechdev.github.io/aied/articles/context-based-ai-secondary-chemistry-2026/)
+
+> **Synthesis:** Abdikayumova and Madybekova (2026) use a mixed-methods, quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary chemistry. The experimental group, using **PhET interactive simulations and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest engagement**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. ^[[context-based-ai-secondary-chemistry-2026]]
+
+## Design and intervention
+
+- **Sample:** 93 Grade 10 secondary students, three groups: context-based 7E + AI tools (experimental), 7E without context/AI (comparison), conventional teaching (control).
+- **Duration:** 12 weeks.
+- **AI tools:** PhET interactive simulations and ChatGPT-based tutoring embedded within the 7E inquiry phases.
+- **Measures:** pre-/post-tests and engagement scales (quantitative); observation checklists, reflection forms, and AI usage logs (qualitative).
+
+## Findings
+
+- **Achievement:** ANCOVA showed the experimental group scored **significantly higher** than both comparison and control groups, with a **large effect size**.
+- **Engagement:** experimental-group students reported the highest levels of interest and participation.
+- **Synergy of components:** the three elements — contextualization, inquiry (7E), and adaptive AI — functioned synergistically. Contextual activities increased relevance and intrinsic motivation; the 7E cycle structured exploratory reasoning; AI provided real-time clarification and tailored explanations, reduced misconceptions, and supported self-paced learning.
+- **Teacher dependence:** qualitative data showed the benefits relied on teacher guidance and careful lesson planning, not on the tools alone.
+
+## Implications and limitations
+
+The study extends prior evidence that context-based instruction and AI tools each help, by demonstrating that **their integration within a structured inquiry cycle produces greater gains** than either alone. Limitations include the single-site setting, small sample, reliance on self-reported engagement, and potential novelty effects of AI tools. Recommendations: targeted professional development for teachers on AI literacy and inquiry pedagogy; curriculum/administrative support for real-world contexts and adaptive technologies; and equitable access and clear ethical-use guidelines from policymakers.
+
+## Connected Concepts
+
+- [[chemistry-education]]
+- [[k-12]]
+- [[constructivist]]
+- [[personalized-learning]]
+- [[student-engagement]]
+- [[motivation]]
+- [[ai-literacy]]
+- [[teacher-education]]
+- [[simulation]]
+- [[adaptive-learning]]
+- [[assessment]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+
+## Citation
+
+Abdikayumova, N., & Madybekova, G. (2026). [Using context-based and AI-enhanced approaches to improve student engagement and achievement in secondary chemistry education](https://doi.org/10.1515/cti-2025-0068). *Chemistry Teacher International*, 8(1), 37–51.
 
 ---
 
@@ -18300,6 +18462,60 @@ Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guid
 
 ---
 
+## [Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment](https://edtechdev.github.io/aied/articles/instructor-ai-roles-chatgpt-formative-assessment-2026/)
+
+> **Synthesis:** Ratniyom, Boonphadung, Intaraprasit, and Chumkaeo (2026) analyze how **pre-service science teachers across achievement levels** perceive the distinct roles of human instructors versus ChatGPT in a **ChatGPT-enhanced formative assessment** of stoichiometry. The human instructor was viewed as an **adaptive expert**, toggling between *Simplifier* and *Elaborator* roles depending on learner achievement; ChatGPT was perceived as a **personalized self-regulated-learning tool** whose role shifted by achievement — a *Patient Tutor* for low-achievers, a *Personal Coach* for medium-achievers, and an *Intellectual Sparring Partner* for high-achievers. The authors propose an **Instructor–AI Synergistic Learning Ecosystem** model reframing human–AI collaboration as complementary partnership rather than competition. ^[[instructor-ai-roles-chatgpt-formative-assessment-2026]]
+
+## Design
+
+- **Data:** secondary qualitative analysis of interviews with pre-service science teachers, stratified into high-, medium-, and low-achieving groups.
+- **Context:** ChatGPT-enhanced formative assessment in stoichiometry learning.
+- **Setting:** 13 pre-service science teachers from a single Thai university (case study).
+
+## Findings: distinct instructor vs. GenAI roles
+
+**The human instructor** was predominantly viewed as an **adaptive expert**, adept at toggling between two roles based on learners' achievement:
+- **Simplifier** for lower-achieving students (breaking down complex content)
+- **Elaborator** for higher-achieving students (extending and deepening understanding)
+
+**ChatGPT** was perceived as a **personalized tool for self-regulated learning**, its role shifting with achievement:
+- **Patient Tutor** for low-achievers — non-judgmental, always-available support
+- **Personal Coach** for medium-achievers — guided practice and feedback
+- **Intellectual Sparring Partner** for high-achievers — challenging and probing ideas
+
+## The Instructor–AI Synergistic Learning Ecosystem model
+
+The study's principal contribution is an **Achievement-Based Instructor–AI Synergistic Learning Ecosystem** model that reframes human–AI collaboration **not as competition but as complementary partnership**. It positions the instructor as the adaptive expert delivering context-aware feedback while GenAI functions as a personalized SRL tool scaling individualized formative feedback — turning the long-standing challenge of **scaling formative assessment** in large classes into a pedagogical opportunity. This connects directly to the wiki's [[human-ai-collaboration]] concept.
+
+## Limitations
+
+The findings are context-specific (13 pre-service teachers, single university, stoichiometry with ChatGPT); perceptions relied on self-reported descriptions rather than full interaction logs; and the model lacks a developmental/longitudinal dimension.
+
+## Connected Concepts
+
+- [[chemistry-education]]
+- [[formative-assessment]]
+- [[self-regulated-learning]]
+- [[human-ai-collaboration]]
+- [[teacher-education]]
+- [[generative-ai]]
+- [[feedback]]
+- [[student-engagement]]
+- [[agency]]
+- [[personalized-learning]]
+
+## Connected Articles
+
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+
+## Citation
+
+Ratniyom, J., Boonphadung, S., Intaraprasit, M., & Chumkaeo, P. (2026). [Instructor and AI roles in the chemistry classroom: Future science teachers' perceptions in a ChatGPT-enhanced formative assessment](https://doi.org/10.1515/cti-2025-0097). *Chemistry Teacher International*, advance online publication.
+
+---
+
 ## [Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory](https://edtechdev.github.io/aied/articles/instructor-designed-ai-tutors-foreign-language-sdt-2026/)
 
 > **Synthesis:** Lee and Kwon (2026) report a mixed-methods study of an instructor-designed, customized Japanese-language GPT tutor in a South Korean university general-education course, drawing on self-determination theory (SDT) and the noticing hypothesis. With 74 undergraduates, they find that continuous use of the instructor-built AI tutor was associated with high satisfaction of autonomy and relatedness needs, three distinct cognitive-noticing experiences, and learner perceptions of the tool as a structured learning environment rather than a convenience tool. The central claim is that the educational effectiveness of generative AI in foreign language learning depends less on frequency of use than on the quality of pedagogical design underlying its deployment.
@@ -25843,6 +26059,59 @@ Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-I
 
 ---
 
+## [Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry](https://edtechdev.github.io/aied/articles/philosophy-experimentation-ai-chemistry-2026/)
+
+> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in chemistry education**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **agency shift** (AI's role in decision-making raises questions about the locus of scientific creativity), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. ^[[philosophy-experimentation-ai-chemistry-2026]]
+
+## AI and the epistemology of experimentation
+
+The article examines how AI challenges the epistemological foundations of chemistry experimentation — how knowledge is generated, validated, and trusted. AI predictive models and simulations function by analyzing datasets to produce models and forecasts that may not be observable in a physical laboratory, raising questions about what counts as evidence, how results are validated, and whether AI-generated conclusions can be distinguished from direct observation.
+
+## AI and the ontology of experimentation
+
+Chemistry's ontology has been rooted in **realism** — substances and phenomena exist independently of the observer, and experiments offer direct insight into them. AI complicates this:
+
+- AI systems can forecast reaction results, propose novel reactions/molecules not yet created, and generate predicted results that occupy a **liminal ontological space** between abstraction and potential reality.
+- In an acid–base titration, students may interact with three representations simultaneously: an AI predictive model, the physical titration, and real-time AI analysis — introducing a complex landscape where virtual and physical chemistry become increasingly **permeable**.
+- This shifts chemistry from realism toward a **constructivist or post-constructivist** perspective where reality is a collaborative creation of human and machine entities.
+
+## Agency shift and methodological implications
+
+Using the synthesis of a new compound as a worked example, the authors detail how AI integration changes experimental methodology and introduces **agency shift**:
+
+- **Experimental control** — AI can optimize reaction conditions in real time, raising questions about the locus of scientific creativity and responsibility for outcomes.
+- **Randomization** — AI automates randomization with high precision but may introduce algorithmic bias and opacity.
+- The recommended approach is a **cooperative human–AI methodology** where AI optimizes design and provides data-driven insights while the educator/researcher provides theoretical foundations and evaluates the feasibility of AI-suggested conditions.
+
+## Over-reliance and the need for balance
+
+The article cautions against **over-reliance** on AI in chemical experimentation, where AI automates routine tasks and fundamentally alters how experiments are conceptualized and conducted. It calls for a **framework for integrating AI into chemistry education** that maximizes benefits while preserving the essential elements of scientific reasoning and discovery — a theme that resonates with the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns, and with the philosophical treatment of [[philosophy-of-ai-in-education]].
+
+## Connected Concepts
+
+- [[chemistry-education]]
+- [[philosophy-of-ai-in-education]]
+- [[critical-thinking]]
+- [[human-ai-collaboration]]
+- [[generative-ai]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[higher-ed]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education (epistemic drift)
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+
+## Citation
+
+Reyes, R. L., & Regala, J. D. (2026). [Reimagining the philosophy of experimentation in chemistry education: Embracing AI as a tool for scientific inquiry](https://doi.org/10.1007/s11191-025-00667-8). *Science & Education*, 35, 709–754.
+
+---
+
 ## [Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning](https://edtechdev.github.io/aied/articles/physics-chatbot-epistemological-beliefs-2026/)
 
 > **Synthesis:** Sirnoorkar & Mamidpalliwar (2026) investigate the association between introductory physics students' preferences for chatbot behavior and their epistemological beliefs, using a custom online waves module with simulations integrated with a chatbot. Preferences were captured through three options (guided-inquiry, direct answer, and a combination); beliefs via the EBAPS survey. Students who preferred chatbots that initially engage in guided-inquiry but provide answers when explicitly sought ('Combination') demonstrated more sophisticated epistemological beliefs than those preferring answer-providing chatbots, though no association was found between EBAPS total scores for guided-inquiry vs answer-oriented preferences, and differences did not survive Bonferroni adjustment. The work connects to [[physics-education]], [[pedagogical-agent]], and [[socratic-method]] research.
@@ -33022,6 +33291,68 @@ Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Und
 
 ---
 
+## [Translating UNESCO Artificial Intelligence Guidelines to Chemical Education and Its Intersection with Sustainable Development Goals](https://edtechdev.github.io/aied/articles/unesco-ai-guidelines-chemical-education-2026/)
+
+> **Synthesis:** Li, Tolosa, Rivas Echeverria, and Marquez (2026) — a *Perspective* in the *Journal of Chemical Education* — translate UNESCO's AI ethics and education guidance (2022–2025) into **chemical education**, arguing that responsible AI integration requires a shift from a **content-delivery model to a knowledge-creation model** guided by high-level ethical frameworks. They organize current GenAI-in-chemistry research into four pillars — **AI chemical literacy, technical accuracy and reasoning, pedagogical principles, and ethics/epistemology** — and warn of **epistemic drift**: reliance on opaque algorithms may detach scientific inquiry from causal understanding. The article emphasizes **critical AI chemical literacy**, targeted teacher training, human-reasoning-prioritizing assessment, and closing the global disparity where high-income institutions have adopted AI tools while low-income regions lag. ^[[unesco-ai-guidelines-chemical-education-2026]]
+
+## The four pillars of GenAI in chemical education
+
+The authors synthesize recent (2024–2025) research into four pillars:
+
+1. **AI chemical literacy** — Students value chatbots for feedback but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced critical thinking and data-privacy risks.
+2. **Technical accuracy and reasoning** — Frontier models (e.g., o1) can outperform average chemists on general knowledge but struggle with **spatial reasoning (NMR)** and are overconfident in wrong answers; LLMs perform poorly on rigorous quantitative tasks (ChemBench, QCBench), and simple notation changes degrade retrieval (ChemLMs). Direct LLM queries for molecular properties often fail.
+3. **Pedagogical principles** — Unrestricted access to AI answers can bypass the **productive struggle** needed for deep conceptual learning; local RAG-based tutors that question rather than answer show promise; students struggle to write effective prompts initially, but structured frameworks improve interaction over time.
+4. **Ethics and epistemology** — Students are optimistic about AI utility but fear labor displacement and loss of human ownership/authorship; policy ambiguity burdens students navigating ethical boundaries; generative image models could amplify demographic biases (e.g., the "white male chemist"); and **reliance on opaque data-driven models may detach inquiry from causal understanding — "epistemic drift."**
+
+## Translating UNESCO guidance to chemistry
+
+UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member States) and its education guidance (AI and Education: Guidance for Policy-Makers; Harnessing AI in Higher Education; ChatGPT and Higher Education) establish global standards for fairness, transparency, and human oversight. The authors translate these into chemistry-specific action:
+
+- **Human-centered pedagogy** — AI should serve learning and human reasoning, not replace scientific judgment.
+- **Teacher training** — STEM/chemistry educators must be equipped to use AI effectively in teaching.
+- **Assessment reform** — develop assessments that **prioritize human reasoning over algorithmic output**.
+- **Critical AI chemical literacy** — move beyond technical adoption to foster the critical literacy needed to evaluate AI outputs against chemical principles.
+
+## Epistemic drift
+
+The article's central conceptual warning is **epistemic drift**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
+
+## Prompt engineering for scientific illustration
+
+The authors demonstrate prompt engineering techniques for **scientific illustration generation** in chemistry and physical chemistry, discussing their advantages (rapid visualization of molecular phenomena) and limitations (accuracy, representational bias), underscoring the need for students to interrogate AI-generated visualizations.
+
+## Policy gap and global disparity
+
+- AI development has **outpaced policy debates** in most academic institutions, creating a significant policy gap in higher education.
+- Most institutions in **high-income countries** had implemented AI-driven tools by 2025, while access in **low-income regions** remains constrained — a global equity concern for chemistry and STEM education.
+
+## Connected Concepts
+
+- [[chemistry-education]]
+- [[educational-policy-ai]]
+- [[ethics]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[prompt-engineering]]
+- [[critical-thinking]]
+- [[digital-divide]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+
+## Citation
+
+Li, Y., Tolosa, L., Rivas Echeverria, F., & Marquez, R. (2026). [Translating UNESCO artificial intelligence guidelines to chemical education and its intersection with sustainable development goals](https://doi.org/10.1021/acs.jchemed.5c00819). *Journal of Chemical Education*, 103(3), 1135–1144.
+
+---
+
 ## [The University AI Didn''t Replace: Rethinking Universities in the AI Era](https://edtechdev.github.io/aied/articles/universities-ai-era-rethinking/)
 
 > **Synthesis:** Rather than replacing universities, generative AI **redefines their essential functions** — this paper proposes a four-level framework of institutional AI adoption and argues that the central challenge is moving from isolated, individual-driven experimentation to strategic integration, supported by workload and recognition systems.
@@ -34938,6 +35269,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 
 ---
 
@@ -35182,6 +35514,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
 - [[behaviorism]]- [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
@@ -35202,6 +35535,9 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -35672,6 +36008,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ai-sycophancy]]
 - [[trust-calibration]]
 - [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
@@ -35737,6 +36074,11 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI literacy necessary but insufficient; four pedagogical functions
 - [[generative-ai-reduced-study-time-math]] — Students need training to recognize and resist cognitive surrender
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -35986,6 +36328,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[higher-ed]]
 - [[generative-ai]]
 - [[feedback-literacy]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
@@ -36008,6 +36351,9 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Evaluate learning beyond immediate GenAI-supported performance
 - [[generative-ai-reduced-study-time-math]] — Proctored, unassisted measures essential; non-proctored inflated by AI
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 
 ---
 
@@ -36505,6 +36851,69 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 
 ---
 
+## [Chemistry Education](https://edtechdev.github.io/aied/concepts/chemistry-education/)
+
+> **Chemistry Education** — the study of how students learn chemistry and how to teach it more effectively, spanning [[generative-ai|GenAI]] in laboratory and experimental design, AI-mediated formative assessment, context-based and inquiry-based instruction, the technical accuracy of LLMs on chemistry tasks, and the philosophy of experimentation in the AI age. Chemistry education research engages the discipline's distinctive demands — abstract, submicroscopic concepts, symbolic and representational notation (formulas, SMILES, spectra), and hands-on laboratory practice — which make it a rich and distinctive context for studying how AI both supports and challenges learning.
+
+Chemistry education has become a fertile domain for AI-in-education research because chemistry combines **abstract conceptual content**, **specialized symbolic representation**, and **physical laboratory practice**. AI tools (notably ChatGPT and conversational agents) are used to explain complex topics, support laboratory work and experimental design, provide personalized feedback and formative assessment, and simulate experiments. At the same time, research documents LLM **technical limits** on rigorous chemistry tasks and the risk of **epistemic drift** and over-reliance.
+
+### Key research themes
+
+**AI-supported laboratory and experimental design** is a distinctive strength of chemistry-education research. **[[ai-supported-experimental-design-chemistry-2026|Yim & Lui]]** integrated AI chatbots into an upper-division undergraduate analytical chemistry lab: students used AI to **design lab manuals**, implemented them hands-on, and had them validated by certification professionals — significantly enhancing experimental confidence and critical-thinking/problem-solving skills while shifting staff roles from "cookbook" demonstration toward guidance. The [[philosophy-experimentation-ai-chemistry-2026|philosophy-of-experimentation]] strand examines how AI reshapes the epistemology, ontology (AI predictions in a "liminal" space), and methodology of chemistry experiments, and warns of **agency shift** and over-reliance.
+
+**Context-based and inquiry-based instruction** uses AI within structured pedagogies. **[[context-based-ai-secondary-chemistry-2026|Abdikayumova & Madybekova]]** combined the **7E instructional model** with PhET simulations and ChatGPT tutoring for Grade 10 chemistry, finding significantly higher achievement and engagement than inquiry-only or conventional teaching — demonstrating the synergy of contextualization, structured inquiry, and adaptive AI. This connects to [[constructivist]] and [[personalized-learning]] frameworks.
+
+**AI-mediated formative assessment and human–AI collaboration.** **[[instructor-ai-roles-chatgpt-formative-assessment-2026|Ratniyom et al.]]** found pre-service science teachers perceive distinct, achievement-based roles: the human instructor as an adaptive expert (Simplifier/Elaborator), and ChatGPT as a personalized self-regulated-learning tool shifting from *Patient Tutor* (low-achievers) to *Personal Coach* (medium) to *Intellectual Sparring Partner* (high) — proposing an **Instructor–AI Synergistic Learning Ecosystem**. This advances [[human-ai-collaboration]], [[formative-assessment]], and [[self-regulated-learning]] research.
+
+**Technical accuracy and critical AI literacy.** Systematic evidence shows LLMs can define basic chemistry terms but perform poorly on rigorous quantitative tasks and struggle with spatial reasoning (e.g., NMR), overconfidence, and notation sensitivity ([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]; the ChemBench/QCBench findings in the [[unesco-ai-guidelines-chemical-education-2026|UNESCO perspective]]). This makes **evaluative engagement with AI output** — interrogating, verifying, and cross-checking against chemical principles — a central learning goal, connecting to [[ai-literacy]], [[critical-thinking]], and [[reducing-ai-misuse]].
+
+**Ethics, policy, and epistemic drift.** The [[unesco-ai-guidelines-chemical-education-2026|UNESCO-guidelines perspective]] warns of **epistemic drift** — reliance on opaque algorithms detaching scientific inquiry from causal understanding — and calls for a shift from content delivery to **knowledge creation**, critical AI chemical literacy, human-reasoning-prioritizing assessment, and closing the global access gap.
+
+### Connections to related concepts
+
+Chemistry education sits within the broader [[stem-education]] domain and shares much with [[physics-education]] (laboratory practice, abstract concepts, problem-solving) while having distinctive connections: to [[assessment]] and [[formative-assessment]] through AI-mediated evaluation; to [[simulation]] and laboratory learning through virtual experiments; to [[teacher-education]] through pre-service science-teacher research and professional development; to [[educational-policy-ai]] and [[ethics]] through the governance of AI in STEM; and to [[philosophy-of-ai-in-education]] through the epistemology/ontology of experimentation. The [[ai-literacy]] and [[reducing-ai-misuse]] concepts are essential for the responsible-use dimension, and [[higher-ed]] and [[k-12]] capture the levels at which chemistry AI research occurs.
+
+## Connected Concepts
+
+- [[stem-education]]
+- [[physics-education]]
+- [[discipline-specific-aied]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[assessment]]
+- [[formative-assessment]]
+- [[feedback]]
+- [[human-ai-collaboration]]
+- [[self-regulated-learning]]
+- [[constructivist]]
+- [[personalized-learning]]
+- [[simulation]]
+- [[critical-thinking]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[ethics]]
+- [[educational-policy-ai]]
+- [[teacher-education]]
+- [[philosophy-of-ai-in-education]]
+- [[higher-ed]]
+- [[k-12]]
+- [[agency]]
+
+## Connected Articles
+
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI guidelines to chemical education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based + AI in secondary chemistry (7E)
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+
+## Citation
+
+The chemistry-education concept is synthesized from the wiki's chemistry AI-in-education articles (2025–2026).
+
+---
+
 ## [Cognitive Diagnosis](https://edtechdev.github.io/aied/concepts/cognitive-diagnosis/)
 
 > **Cognitive diagnosis** — the inference of a learner's latent knowledge state — the specific concepts, skills, and misconceptions they have or lack — from their responses or behavior. It is the assessment-side counterpart to [[knowledge-tracing]], focused on characterizing *what* a student knows rather than only predicting their next performance.
@@ -36629,6 +37038,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[distributed-cognition]]
 - [[embodied-learning]]
 - [[formative-assessment]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -36677,6 +37087,9 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -36899,6 +37312,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[student-misconceptions-ai]]
 - [[learning-theories]]
 - [[behaviorism]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -36925,6 +37339,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 
 ---
 
@@ -37039,6 +37454,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[regulation]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -37056,6 +37472,9 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[videla-embodied-ai-education-choreography]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -37499,6 +37918,8 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 
 ---
 
@@ -37514,6 +37935,7 @@ The wiki has dedicated concept pages for several subject areas:
 
 - **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
 - **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
+- **[[chemistry-education]]** — AI in laboratory/experimental design, AI-mediated formative assessment, context-based and inquiry-based instruction, LLM technical limits on chemistry tasks, and the philosophy of experimentation.
 - **[[cs-education]]** — AI for code generation, debugging, and novice programming support.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
@@ -37540,6 +37962,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 - **Mathematics** — problem-solving, procedural fluency, and conceptual understanding. AI research emphasizes [[socratic-method|Socratic tutoring]] ([[oatutor-open-source-adaptive-tutor-2023|OATutor]]), [[adaptive-learning|adaptive]] practice, and diagnosing student misconceptions.
 - **Physics** — model-based reasoning, experimentation, and [[simulation]]. AI research uses virtual labs ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion]]), chatbots ([[becker-chatgpt-typology-physics-2026|ChatGPT typology]]), and problem-posing ([[genai-assisted-problem-posing-physics-2026|GenAI problem-posing]]).
+- **Chemistry** — abstract submicroscopic concepts, specialized notation, and laboratory practice. AI research spans AI-supported experimental design ([[ai-supported-experimental-design-chemistry-2026|AI-designed lab manuals]]), context-based 7E instruction with AI tutoring ([[context-based-ai-secondary-chemistry-2026|context-based + AI]]), AI-mediated formative assessment ([[instructor-ai-roles-chatgpt-formative-assessment-2026|instructor–AI roles]]), and the philosophy of experimentation ([[philosophy-experimentation-ai-chemistry-2026|philosophy of experimentation]]).
 - **Engineering** — design thinking, hands-on/laboratory learning, and professional formation. AI research addresses instructors' [[engineering-faculty-metaphors-ai-understanding-2026|metaphors for AI]], [[ethical-use-ai-engineering-education-review-2026|ethical governance of AI use]], [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce preparation]].
 - **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
 - **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
@@ -37550,7 +37973,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -37569,6 +37992,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-education]]
 - [[math-education]]
 - [[physics-education]]
+- [[chemistry-education]]
 - [[cs-education]]
 - [[writing-education]]
 - [[language-learning]]
@@ -37870,6 +38294,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ethics]]
 - [[teacher-ai-competency]]
 - [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -37891,6 +38316,9 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
 - [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Move beyond adoption-or-ban; staged, developmentally responsive guidance
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 
 ---
 
@@ -38206,6 +38634,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[cognitive-offloading]]
 - [[teacher-role]]
 - [[teacher-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
@@ -38229,6 +38658,8 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture of academic integrity as the ethical response to AI
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 
 ---
 
@@ -38484,6 +38915,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[writing-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -38514,6 +38946,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
 - [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflow
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Hybrid teacher-GenAI feedback outperforms either alone
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 
 ---
 
@@ -38601,6 +39034,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-education]]
 - [[feedback-literacy]]
 - [[behaviorism]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -38626,6 +39060,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-changing-teaching-workflows]] — AI and changing teaching workflows
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 
 ---
 
@@ -38795,7 +39230,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[higher-ed]]
 - [[k-12]]
 
-- [[tpack]]
+- [[tpack]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -38839,6 +39275,11 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI impact on academic integrity
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12 education
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender: 26.9% study-time decline in AI-susceptible math
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -39123,6 +39564,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[regulation]]
 - [[professional-training]]
 - [[discipline-specific-aied]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -39171,6 +39613,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in higher education
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
 - [[generative-ai-reduced-study-time-math]] — 26.9% study-time decline among college students
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -39212,7 +39658,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[student-experience]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[creativity]]
+- [[creativity]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
@@ -39238,6 +39685,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -39771,6 +40221,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[intelligent-tutoring]]
 - [[collaborative-learning]]
 - [[discipline-specific-aied]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -39793,6 +40244,8 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Rapid review: GenAI and PreK-12 learners (271 papers)
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender strongest for high schoolers, absent for Grade 5
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 
 ---
 
@@ -40782,6 +41235,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 
 ---
 
@@ -41368,7 +41822,8 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[edtech-platform]]
 - [[ai-literacy]]
 - [[learning-analytics]]
-- [[teacher-role]]
+- [[teacher-role]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
@@ -41397,6 +41852,9 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 
 ---
 
@@ -41429,6 +41887,7 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 - [[human-ai-collaboration]]
 - [[critical-thinking]]
 - [[ai-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
@@ -41441,6 +41900,7 @@ The philosophy of AI in education and [[learning-theories]] are complementary le
 - [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -41486,6 +41946,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[generative-ai]]
 - [[higher-ed]]
 - [[discipline-specific-aied]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
@@ -41757,6 +42218,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 
 ---
 
@@ -41929,6 +42391,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ai-sycophancy]]
 - [[trust-calibration]]
 - [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
@@ -41952,6 +42415,10 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 
 ---
 
@@ -42226,6 +42693,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 
 ---
 
@@ -42390,6 +42858,7 @@ For example:
 - [[feedback]]
 - [[learning-theories]]
 - [[behaviorism]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
@@ -42428,6 +42897,7 @@ For example:
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 
 ---
 
@@ -42515,6 +42985,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[constructivist]]
 - [[trust-calibration]]
 - [[professional-training]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
@@ -42528,6 +42999,8 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[li-ai-science-situated-learning-teachers-2025]]
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 
 ---
 
@@ -42679,18 +43152,18 @@ Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental 
 
 - **Mediation is fundamental.** Humans think with and through cultural tools — language, writing, diagrams, technologies — which reorganize how they reason, remember, and solve problems (Wertsch, 1991). These tools do not merely transmit information; they reshape cognition and participation.
 - **Learning is social.** Higher mental functions appear first between people (intersubjectively, in interaction) and only later within the individual. Learning arises through participation with teachers, peers, and communities — in processes like [[scaffolding]], apprenticeship, and movement through the ZPD.
-- **Cognition is distributed.** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. Distributed cognition, [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
+- **[[distributed-cognition|Cognition is distributed]].** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. [[distributed-cognition|Distributed cognition]], [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
 
 ### The Zone of Proximal Development (ZPD)
 
-The ZPD (Vygotsky) is the sociocultural concept most widely applied in AI tutoring: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an AI tutor should provide so learning advances without being given away — see [[tutoring-specific-vs-general-ai]].
+The ZPD (Vygotsky) is the sociocultural concept most widely applied in [[intelligent-tutoring|AI tutoring]]: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an [[intelligent-tutoring|AI tutor]] should provide so learning advances without being given away — see [[tutoring-specific-vs-general-ai]].
 
 ### Sociocultural learning in AI education
 
 Sociocultural theory shapes AIED research in several distinct ways:
 
-- **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) to preserve learner agency.^[[mediational-agent-genai-sociocultural-2026]]
-- **ZPD-calibrated scaffolding.** AI tutors should dynamically calibrate help to sit within each learner's zone. [[tutoring-specific-vs-general-ai]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
+- **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) to preserve [[agency|learner agency]].^[[mediational-agent-genai-sociocultural-2026]]
+- **ZPD-calibrated scaffolding.** [[intelligent-tutoring|AI tutors]] should dynamically calibrate help to sit within each learner's zone. [[tutoring-specific-vs-general-ai]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
 - **Cultural and institutional context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
 
@@ -42911,6 +43384,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[llm]]
 - [[discipline-specific-aied]]
 - [[teacher-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -42923,6 +43397,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[ai-metacognition-stem-review]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[avraamidou-ai-colonization-science-education]]
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 
 ---
 
@@ -43035,6 +43510,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 
 ---
 
@@ -43342,6 +43819,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[k-12]]
 - [[ethics]]
 - [[ai-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 
@@ -43358,6 +43836,9 @@ A key finding across teacher-education research is the gap between what teachers
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 
 ---
 
