@@ -1,6 +1,6 @@
 # AGENTS.md
 
-## Wiki: AI in Education Research Wiki
+## Wiki: AI in Education Wiki
 
 Static site built with Astro, deployed to GitHub Pages from `main` branch at https://edtechdev.github.io/aied/
 
