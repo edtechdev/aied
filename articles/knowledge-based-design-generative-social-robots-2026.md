@@ -38,6 +38,7 @@ The findings derive from twelve interviews in a specific higher-education contex
 - [[intelligent-tutoring]]
 - [[ethics]]
 
+
 ## Connected Articles
 
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: A Knowledge-Based Generative Social Robot
@@ -46,4 +47,4 @@ The findings derive from twelve interviews in a specific higher-education contex
 
 ## Citation
 
-Vonschallen, S., Oberle, D., Schmiedel, T., & Eyssel, F. (2026). *Knowledge-based design requirements for generative social robots in higher education*. arXiv:2602.12873.
+Vonschallen, S., Oberle, D., Schmiedel, T., & Eyssel, F. (2026). [*Knowledge-based design requirements for generative social robots in higher education*](https://arxiv.org/abs/2602.12873). arXiv:2602.12873.

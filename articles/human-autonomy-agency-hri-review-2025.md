@@ -32,11 +32,11 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[agency]]
 - [[ethics]]
 - [[well-being]]
 - [[self-determination-theory]]
+
 
 ## Connected Articles
 
@@ -46,4 +46,4 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 
 ## Citation
 
-Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). *Human autonomy and sense of agency in human-robot interaction: A systematic literature review*. arXiv:2509.22271.
+Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). [*Human autonomy and sense of agency in human-robot interaction: A systematic literature review*](https://arxiv.org/abs/2509.22271). arXiv:2509.22271.

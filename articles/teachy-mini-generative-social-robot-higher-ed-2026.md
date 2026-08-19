@@ -25,11 +25,11 @@ The evaluation is preliminary with a small sample (N = 24), and the specific com
 - [[llm]]
 - [[higher-ed]]
 - [[intelligent-tutoring]]
-- [[educational-robotics]]
+
 ## Connected Articles
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for GSRs
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 ## Citation
-Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., & Schmiedel, T. (2026). *Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education*. arXiv:2607.22345.
+Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., & Schmiedel, T. (2026). [*Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education*](https://arxiv.org/abs/2607.22345). arXiv:2607.22345.

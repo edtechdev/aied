@@ -89,7 +89,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[governance]]
 - [[educational-policy-ai]]
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[distributed-cognition]]
 - [[situated-learning]]
 - [[critical-pedagogy]]
@@ -100,6 +99,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[humanities-education]]
 - [[teacher-education]]
 - [[discipline-specific-aied]]
+
 
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)

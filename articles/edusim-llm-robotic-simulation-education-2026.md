@@ -35,8 +35,8 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 - [[llm]]
 - [[cs-education]]
 - [[computational-thinking]]
-- [[educational-robotics]]
 - [[simulation]]
+
 
 ## Connected Articles
 
@@ -46,4 +46,4 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 
 ## Citation
 
-Lu, S., & Zhang, L. (2026). *EduSim-LLM: An educational platform integrating large language models and robotic simulation for beginners*. arXiv:2601.01196.
+Lu, S., & Zhang, L. (2026). [*EduSim-LLM: An educational platform integrating large language models and robotic simulation for beginners*](https://arxiv.org/abs/2601.01196). arXiv:2601.01196.

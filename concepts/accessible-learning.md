@@ -57,10 +57,10 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[generative-ai]]
 - [[ai-education]]
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[educational-nlp]]
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
+
 ## Connected Articles
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 

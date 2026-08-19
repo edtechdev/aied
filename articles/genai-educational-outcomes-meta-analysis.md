@@ -35,7 +35,6 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 - [[constructivist]]
 - [[critical-thinking]]
 - [[game-based-learning]]
-- [[game-based-learning]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[learning-gains]]
@@ -44,6 +43,7 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 - [[cognitive-offloading]]
 - [[personalized-learning]]
 - [[self-determination-theory]]
+
 
 ## Citation
 
