@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-19 | **Total pages:** 875
+**Last updated:** 2026-08-19 | **Total pages:** 877
 ---
 ## Quick Links
 
@@ -349,6 +349,7 @@
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[feedback-literacy]] — Feedback Literacy
 - [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
@@ -768,6 +769,7 @@
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[stem-education]] — STEM Education and AI
 - [[storytelling-in-education]] — Storytelling in Education
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results

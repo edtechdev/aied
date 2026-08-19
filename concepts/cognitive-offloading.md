@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-19T17:06:43-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -55,6 +55,7 @@ The wiki's research documents over-reliance as one of the most consequential ris
 - **The metacognitive mechanics of overuse:** the beliefs-vs-experiences framework explains *why* students over-offload even when it hurts them — people offload impulsively, and pre-existing metacognitive *beliefs* anchor behavior faster than task *experiences* can correct it — so the antidote to over-reliance is metacognitive, not merely restrictive.
 - **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] show reminder bias — the laboratory analogue of over-reliance — can be reduced with a brief metacognitive intervention (five practice trials pairing a prediction with feedback), correcting calibration in both directions. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided**.
 - **Field evidence: AI that coaches vs. AI that answers.** [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found that AI support that coached rather than gave answers slowed students down but reduced effort-avoidance — improving next-attempt correctness after mistakes with more time per question (a "productive slowdown") — while [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] showed that without structure making mistakes consequential, students default to shallow use (bare answers, prompt clicks) and gains match practice without AI. Both confirm that offloading's harm is contingent on **how** AI is used and designed, not just on access.
+- **Large-scale field evidence: the "generative AI learning penalty."** [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]], tracking 26,811 Chinese secondary students over 30 months, found that self-directed generative-AI adoption raised homework scores 18% and cut homework time 30% while *lowering* closed-book exam scores 20% within six months and entrance-exam scores 18–24% after two years — concentrated among the ~81% of users whose behavior indicated homework outsourcing (short completion time + inflated homework scores). This is direct large-scale evidence that unguarded offloading (using AI as a homework substitute rather than a tutor) produces the learning penalty cognitive-offloading predicts, often undetected by students themselves.
 
 ### The CLT framework
 
@@ -142,3 +143,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning

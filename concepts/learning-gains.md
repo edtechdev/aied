@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T17:06:43-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 confidence: high
@@ -47,3 +47,4 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
