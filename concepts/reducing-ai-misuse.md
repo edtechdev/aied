@@ -1,13 +1,13 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-18T16:45:00-04:00"
+updated: "2026-08-19T07:56:52-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
 ---
 
-> **Reducing AI misuse** — the design, pedagogical, and policy levers that prevent students from substituting generative AI for their own [[cognitive-offloading|cognitive work]] and instead steer them toward ethical, productive use. Effective approaches are sorted by impact rather than popularity, and the strongest evidence favors **structural levers** — tool guardrails and assessment redesign — that change the environment so misuse is harder, regardless of a student's motivation, over **educative levers** that rely on building durable capacity and student buy-in.
+> **Reducing AI misuse** — the design, pedagogical, and policy levers that prevent students from substituting generative AI for their own [[cognitive-offloading|cognitive work]] and instead steer them toward ethical, productive use. Effective approaches are sorted by impact rather than popularity, and the strongest evidence favors **structural levers** — tool guardrails and assessment redesign — that change the environment so misuse is harder, regardless of a student's motivation, over **educative levers** that rely on building durable capacity and [[framing-ai-use-for-students|student buy-in]].
 
 The concept rests on the evidence that AI misuse actively harms durable learning — the performance–learning gap documented in [[ai-misuse-learning-harm]] — even while inflating immediate performance. Interventions therefore target the mechanisms of that harm: answer-copying, [[cognitive-offloading]], motivation erosion, and learning displacement. They are not mutually exclusive; a robust approach combines a structural floor with educative capacity-building.
 
@@ -53,6 +53,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[prompt-engineering]]
 - [[ai-sycophancy]]
 - [[trust-calibration]]
+- [[framing-ai-use-for-students]]
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
