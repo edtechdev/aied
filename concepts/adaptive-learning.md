@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T09:22:41-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -55,3 +55,5 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[vargas-situated-learning-ai-review-2024]]
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots

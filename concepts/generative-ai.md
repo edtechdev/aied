@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -76,3 +76,5 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[genai-educational-outcomes-meta-analysis]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose generative AI in education

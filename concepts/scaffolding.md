@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T04:26:01-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [zone-of-proximal-development, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -54,3 +54,5 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[critical-thinking-genai-scaffolding]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]]
+
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-17T18:05:00-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -127,3 +127,5 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[tzirides-thinking-through-ai-2025]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[ethical-ai-higher-ed-game-theory]]
+
+- [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work

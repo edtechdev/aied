@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-19T07:42:38-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, intelligent-tutoring, metacognition, formative-assessment]
 
@@ -106,3 +106,5 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[critical-thinking-genai-scaffolding]]
 - [[generative-ai-guardrails-harm-learning]]
 - [[pedagogy-ai-mistakes]]
+
+- [[tutoring-specific-vs-general-ai]] — Structured Socratic hints vs. open-ended general-purpose Q&A
