@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T18:08:47-04:00"
+updated: "2026-08-19T18:23:31-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -16,14 +16,14 @@ AI in education is the umbrella that all other concept pages collectively define
 
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
 
-- **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within (active, collaborative, project-based, experiential, game-based, Socratic, scaffolding, and more).
-- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks (behaviorism, constructivism, sociocultural, cognitive, motivational) that shape AI design and evaluation.
-- **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems (LLMs, generative AI, multimodal, robotics) and techniques (RAG, prompt engineering, reinforcement learning, model training, agentic orchestration) that power AIED.
+- **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more).
+- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
+- **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal|multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED.
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
 - **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the [[feedback|feedback loop]], [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]). Feedback sits at the intersection of assessment and learning — without it, assessment measures performance but does not improve it.
-- **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, teachers, instructional designers, administrators, and policymakers.
+- **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, [[teacher-role|teachers]], [[instructional-design|instructional designers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]].
 - **[[ai-ed-evaluation|AI ed evaluation]]** and **[[research-methods-aied|research methods]]** — the umbrellas for how we know whether AI works: [[research-methods-aied|efficacy studies]], [[benchmark|benchmarks]], [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis]], and [[learning-gains|learning gains]] as the core outcome measure. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations of this evidence]] — its generalizability, measurement validity, reproducibility, and how quickly AI findings date — which the wiki documents as a dedicated concept page.
-- **[[governance|AI governance]]**, **[[educational-policy-ai|educational AI policy]]**, and **[[equity-in-ai-education|equity]]** — the umbrellas for the institutional, regulatory, and fairness layer.
+- **[[governance|AI governance]]**, **[[educational-policy-ai|educational AI policy]]**, and **[[equity-in-ai-education|equity]]** — the umbrellas for the institutional, regulatory, and fairness layer (see also [[regulation]] and [[privacy]]).
 
 These umbrella pages are linked throughout the sections below; each strand below names both its umbrella and its constituent concepts.
 
