@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-19T17:06:43-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -19,7 +19,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Guardrailed AI tool design ("hint-not-answer" [[scaffolding]]).** In the strongest causal finding in the wiki, a field RCT showed an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted exam scores **−17%**, while a guardrailed tutor (hints instead of answers, plus teacher-authored problem information) eliminated the harm entirely. This mechanically prevents the answer-copying "crutch" behavior behind the damage. Activities include hint-not-answer tutoring, seeding prompts with correct solutions and common misconceptions, and requiring a student attempt before AI output is revealed.
 
-**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones.
+**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones. Large-scale field evidence underscores this: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]] found that homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — exactly the signal that unassisted, proctored measures are designed to surface, and the study recommends weighting closed-book in-person assessment more heavily.
 
 ### Tier 2 — Strong framework support, high potential
 
@@ -89,3 +89,5 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning

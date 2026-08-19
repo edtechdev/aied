@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 875
+Last updated: 2026-08-19 | Total entries: 877
 
 ## 2026-08-19
 - 📄 [[ai-science-chemistry-education-systematic-review-2025]] — raw/papers/ai-science-chemistry-education-systematic-review-2025.md
@@ -32,6 +32,9 @@ Last updated: 2026-08-19 | Total entries: 875
 - 📄 [[critical-thinking-biological-sciences-ai-2025]] — raw/papers/critical-thinking-biological-sciences-ai-2025.md
   Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education
   tags: biology-education, critical-thinking, higher-ed, ethics, ai-literacy
+- 📄 [[fenton-oral-exams-ai-authentic-assessment-2025]] — raw/papers/fenton-oral-exams-ai-authentic-assessment-2025.md
+  Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
+  tags: assessment, authentic-assessment, academic-integrity, generative-ai, higher-ed, k-12, critical-thinking, feedback
 - 🏷️ [[framing-ai-use-for-students]] — 
   Framing AI Use for Students
   tags: ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance
@@ -59,6 +62,9 @@ Last updated: 2026-08-19 | Total entries: 875
 - 📄 [[ssaho-ai-academic-integrity-review-2025]] — raw/papers/ssaho-ai-academic-integrity-review-2025.md
   Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity
   tags: academic-integrity, plagiarism-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review
+- 📄 [[stromberg-generative-ai-learning-penalty-secondary-2026]] — raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md
+  The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
+  tags: generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, homework, rct, equity-in-ai-education
 - 📄 [[substitution-to-scaffolding-ai-harm-cycle-2026]] — raw/papers/2608.17451.md
   From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
   tags: cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai

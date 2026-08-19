@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment in AI Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T17:06:43-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 
@@ -117,3 +117,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment

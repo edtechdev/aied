@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 736 articles and 139 concepts.
+> Complete text of 738 articles and 139 concepts.
 
 # Articles
 
@@ -12233,8 +12233,8 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 - [[llm]]
 - [[cs-education]]
 - [[computational-thinking]]
-- [[educational-robotics]]
 - [[simulation]]
+
 
 ## Connected Articles
 
@@ -12244,7 +12244,7 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 
 ## Citation
 
-Lu, S., & Zhang, L. (2026). *EduSim-LLM: An educational platform integrating large language models and robotic simulation for beginners*. arXiv:2601.01196.
+Lu, S., & Zhang, L. (2026). [*EduSim-LLM: An educational platform integrating large language models and robotic simulation for beginners*](https://arxiv.org/abs/2601.01196). arXiv:2601.01196.
 
 ---
 
@@ -13000,6 +13000,7 @@ EC's value lies in offering conceptual vocabulary for asking better questions ab
 - [[constructivist]]
 - [[pedagogical-agent]]
 
+
 ## Connected Articles
 
 - [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education
@@ -13678,6 +13679,52 @@ Strengths: a clear mechanism-oriented design, design-based tests (permutation, l
 ## Citation
 
 Yao, X.-C. (2026). [Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision in generative AI-supported contexts](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1835593/full). *Frontiers in Psychology*, 17, 1835593. DOI: 10.3389/fpsyg.2026.1835593. (CC BY)
+
+---
+
+## [Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future](https://edtechdev.github.io/aied/articles/fenton-oral-exams-ai-authentic-assessment-2025/)
+
+> **Synthesis:** Fenton (2025) makes the case that oral exams and assessments deserve renewed attention as an **authentic assessment** strategy in the face of generative AI. Arguing that the real-time, interactive nature of an oral assessment prevents students from using AI to generate and memorize answers, the article reviews the history, types, benefits, challenges, and practical recommendations for oral assessments across high school and higher education. Key benefits include personalization, authenticity, work-readiness, deeper knowledge, and the preservation of [[academic-integrity]]; key challenges include scheduling, anxiety, and potential bias.
+
+## Key Findings
+- **Oral assessments reduce AI-related academic integrity issues** because the real-time, interactive format prevents students from using AI to generate answers and memorize them ahead of time, particularly when questions are unknown in advance (drawing on Nikolic et al., 2023).
+- **Oral assessments are authentic** — they mirror professional practice (job interviews, workplace challenges, clinical/patient communication), build communication skills, confidence, and deeper understanding, and prepare students for careers where verbal communication is vital.
+- **They probe depth over memorization**: as a dialogue, oral assessments let educators test comprehension, critical thinking, problem-solving, and reasoning — reaching the highest levels of Bloom's taxonomy — rather than rote recall.
+- **Benefits include personalization, authenticity, work-readiness, deeper knowledge, enjoyment, and higher grades**; oral assessments can also support struggling students and shift study habits away from memorization toward understanding.
+- **Challenges include** scheduling/technical logistics, student anxiety, and potential bias (gender, ethnicity, language, speed of answering, and non-anonymous marking), though evidence suggests oral assessments can be as inclusive as written exams (e.g., accommodating dyslexia).
+
+## Study Design & Method
+This is a **review/essay** (not an empirical study) in *Educational Researcher*. Fenton synthesizes the literature on oral exams and assessments, covering their history (from ancient Greek/Socratic practices through the "viva voce" tradition at Oxford and Cambridge), Joughin's (1998) typology of oral assessments (six dimensions: primary content type, interaction, authenticity, structure, examiners, orality), and evidence from disciplines including business, medicine, engineering, marketing, chemistry, and biology. The article distills benefits and challenges from the research and offers practical design considerations and 13 numbered recommendations for implementation.
+
+## Implications for AI in Education
+In an era of generative AI that performs well at the lower levels of Bloom's taxonomy but struggles at the create level and with theory-based arguments, Fenton positions oral assessment as a way to assess the higher-order skills students actually need. For [[reducing-ai-misuse|reducing AI misuse]] and preserving [[academic-integrity]], oral assessments offer a low-tech, human-centered complement to AI-detection tools. The article connects to [[authentic-assessment]], [[assessment]], [[feedback]] (via guiding principles for prompting), [[critical-thinking]], [[formative-assessment]], and the [[educational-policy-ai|policy]] questions around assessment redesign. Its practical recommendations — clear rubrics, standardized content, assessor training, prompting guidance, bias mitigation, and online delivery options — give educators a concrete playbook for reintroducing oral assessment.
+
+## Limitations
+As a review/essay, it does not provide new empirical evidence. The author notes that more research is needed on how students and educators actually experience oral assessments in the current AI environment, and on more practical implementation guidance. It is published in a major research journal (Educational Researcher) but represents a position/review piece rather than original data.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[authentic-assessment]]
+- [[academic-integrity]]
+- [[reducing-ai-misuse]]
+- [[generative-ai]]
+- [[critical-thinking]]
+- [[feedback]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[k-12]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[ssaho-ai-academic-integrity-review-2025]] — AI and Academic Integrity review
+- [[socratic-tests-conversational-assessment]] — Socratic tests / conversational assessment
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — Multimodal embodied cognition and oral explanations
+
+## Citation
+
+Fenton, A. (2025). [*Reconsidering the use of oral exams and assessments: An old way to move into a new future*](https://doi.org/10.3102/0013189X251333638). *Educational Researcher, 54*(7), 430–436.
 
 ---
 
@@ -14737,7 +14784,6 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 - [[constructivist]]
 - [[critical-thinking]]
 - [[game-based-learning]]
-- [[game-based-learning]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[learning-gains]]
@@ -14746,6 +14792,7 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 - [[cognitive-offloading]]
 - [[personalized-learning]]
 - [[self-determination-theory]]
+
 
 ## Citation
 
@@ -17778,11 +17825,11 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[agency]]
 - [[ethics]]
 - [[well-being]]
 - [[self-determination-theory]]
+
 
 ## Connected Articles
 
@@ -17792,7 +17839,7 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 
 ## Citation
 
-Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). *Human autonomy and sense of agency in human-robot interaction: A systematic literature review*. arXiv:2509.22271.
+Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). [*Human autonomy and sense of agency in human-robot interaction: A systematic literature review*](https://arxiv.org/abs/2509.22271). arXiv:2509.22271.
 
 ---
 
@@ -18194,17 +18241,16 @@ The work demonstrates how **LLM-powered social robots** can support collaborativ
 The study focuses on usability and perceived quality of experience rather than measured learning outcomes; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[llm]]
 - [[student-engagement]]
+
 ## Connected Articles
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots for Storytelling
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Embodiment in Creative Writing
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 ## Citation
-Lombardi, M., Calabrese, C., Ghiglino, D., Foglino, C., De Tommaso, D., Da Lisca, G., Natale, L., & Wykowska, A. (2025). *Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction*. arXiv:2508.02505.
+Lombardi, M., Calabrese, C., Ghiglino, D., Foglino, C., De Tommaso, D., Da Lisca, G., Natale, L., & Wykowska, A. (2025). [*Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction*](https://arxiv.org/abs/2508.02505). arXiv:2508.02505.
 
 ---
 
@@ -19441,6 +19487,7 @@ The findings derive from twelve interviews in a specific higher-education contex
 - [[intelligent-tutoring]]
 - [[ethics]]
 
+
 ## Connected Articles
 
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: A Knowledge-Based Generative Social Robot
@@ -19449,7 +19496,7 @@ The findings derive from twelve interviews in a specific higher-education contex
 
 ## Citation
 
-Vonschallen, S., Oberle, D., Schmiedel, T., & Eyssel, F. (2026). *Knowledge-based design requirements for generative social robots in higher education*. arXiv:2602.12873.
+Vonschallen, S., Oberle, D., Schmiedel, T., & Eyssel, F. (2026). [*Knowledge-based design requirements for generative social robots in higher education*](https://arxiv.org/abs/2602.12873). arXiv:2602.12873.
 
 ---
 
@@ -24079,18 +24126,18 @@ MotiBo demonstrates how [[educational-robotics]] can enhance [[student-engagemen
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper learning outcomes and creativity requires further investigation.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[motivation]]
 - [[self-determination-theory]]
 - [[student-engagement]]
 - [[storytelling-in-education]]
+
 ## Connected Articles
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: Robot-Mediated Role-Play
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 ## Citation
-Fung, K. Y., & Lui, T. L. R. (2026). *MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*. arXiv:2601.01218.
+Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*](https://arxiv.org/abs/2601.01218). arXiv:2601.01218.
 
 ---
 
@@ -26178,17 +26225,17 @@ The work extends [[educational-robotics]] into [[equity-in-ai-education]] by exp
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[special-education]]
 - [[equity-in-ai-education]]
 - [[accessible-learning]]
+
 ## Connected Articles
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: Digital Storytelling Robots and Motivation
 ## Citation
-Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Using the Pepper robot to support sign language communication*. arXiv:2509.09889.
+Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). [*Using the Pepper robot to support sign language communication*](https://arxiv.org/abs/2509.09889). arXiv:2509.09889.
 
 ---
 
@@ -26211,8 +26258,6 @@ The review situates Pepper's educational value beyond the technology itself: its
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
 ## Connected Concepts
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[teacher-role]]
 - [[k-12]]
 - [[higher-ed]]
@@ -26222,6 +26267,7 @@ As a scoping review, its aim was to map available evidence rather than assess qu
 - [[student-engagement]]
 - [[embodied-learning]]
 - [[research-methods-aied]]
+
 ## Connected Articles
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
@@ -27911,10 +27957,10 @@ The evaluation involved a small sample (18 children aged 9–10) in a play-testi
 
 - [[educational-robotics]]
 - [[social-emotional-learning]]
-- [[educational-robotics]]
 - [[k-12]]
 - [[self-efficacy]]
 - [[student-engagement]]
+
 
 ## Connected Articles
 
@@ -27924,7 +27970,7 @@ The evaluation involved a small sample (18 children aged 9–10) in a play-testi
 
 ## Citation
 
-Sanoubari, E., Fernandes, N., Rebello, K., Pan, A., Houston, A., & Dautenhahn, K. (2026). *Play-testing REMind: Evaluating an educational robot-mediated role-play game*. arXiv:2604.00300.
+Sanoubari, E., Fernandes, N., Rebello, K., Pan, A., Houston, A., & Dautenhahn, K. (2026). [*Play-testing REMind: Evaluating an educational robot-mediated role-play game*](https://arxiv.org/abs/2604.00300). arXiv:2604.00300.
 
 ---
 
@@ -28439,12 +28485,11 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[llm]]
-- [[educational-robotics]]
 - [[teacher-role]]
 - [[k-12]]
 - [[student-engagement]]
+
 
 ## Connected Articles
 
@@ -28454,7 +28499,7 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 
 ## Citation
 
-Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). *RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities*. arXiv:2508.16706.
+Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). [*RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities*](https://arxiv.org/abs/2508.16706). arXiv:2508.16706.
 
 ---
 
@@ -28484,8 +28529,6 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[language-learning]]
 - [[embodied-learning]]
 - [[multimodal]]
@@ -28493,6 +28536,7 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 - [[learning-gains]]
 - [[collaborative-learning]]
 - [[pedagogical-agent]]
+
 
 ## Connected Articles
 
@@ -29877,9 +29921,8 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[open-source]]
 - [[stem-education]]
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[higher-ed]]
+
 
 ## Connected Articles
 
@@ -30545,6 +30588,50 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 ## Citation
 
 CRPE, S.N. (2026). [How State Policy Can Help Teachers Use AI Well](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/)
+
+---
+
+## [The Generative AI Learning Penalty: Evidence from Chinese Secondary Education](https://edtechdev.github.io/aied/articles/stromberg-generative-ai-learning-penalty-secondary-2026/)
+
+> **Synthesis:** Strömberg, Lei, and Wu (2026) provide large-scale quasi-experimental evidence of a **"generative AI learning penalty."** Using 30 months of panel data on 26,811 Chinese secondary students (grades 7–12), they exploit staggered generative-AI adoption in a difference-in-differences design. AI adoption raises homework scores by 18% and cuts homework completion time by 30%, but *lowers* monthly closed-book exam scores by 20% within six months, and high-stakes entrance-exam scores by 18–24% only after about two years. The learning losses are concentrated among the roughly 81% of AI users whose behavior indicates **homework outsourcing**; AI users who keep homework time comparable to non-users learn as efficiently.
+
+## Key Findings
+- **Task productivity diverges sharply from learning:** generative AI boosts homework performance (scores +18%, completion time −30%, from 64 to 45 min) while *reducing* closed-book exam performance (−20% of baseline mean, ≈1.4 SD) within six months.
+- **Long-run learning costs accumulate slowly but are large:** high-stakes entrance-exam scores fall by 18% (Gaokao/college) and 24% (Zhongkao/high school) of baseline mean (1.3–1.5 SD), with the full penalty emerging only after ~two years — implying short-duration studies systematically underestimate the long-run cost.
+- **The penalty is driven by homework outsourcing:** ~81% of AI users complete homework in less time than the fastest non-AI students, receive scores matching generative-AI accuracy, and perform poorly on exams. AI users who spend as much time on homework as non-users achieve similar exam scores.
+- **Effects differ by subject and student:** losses are largest in social sciences (Politics, Geography, −27%), then STEM (−22%), then languages (English −17%, Chinese −9%); and are larger for junior students, boys, and high-achieving students.
+- **Some adaptation over time:** the estimated penalty fell from ~25% (early 2023) to ~16% (June 2025), suggesting students/teachers are gradually adapting but persistent barriers remain.
+
+## Study Design & Method
+This is a **large-scale quasi-experimental econometric study** (working paper, June 2026). It combines 30 months of administrative panel data on 26,811 Chinese students across nine subjects, including monthly closed-book exams, high-school (Zhongkao) and college (Gaokao) entrance exams, and homework scores/completion time. Identification relies on **staggered generative-AI adoption in a difference-in-differences (DID) design**, with reported AI use rising from near zero in 2022 to ~80% by June 2025. The authors distinguish short-run learning (monthly exams) from long-run learning (entrance exams) and classify students into "outsourcing" vs. "non-outsourcing" AI users based on homework time and score patterns.
+
+## Implications for AI in Education
+This study is central to the wiki's understanding of [[reducing-ai-misuse|reducing AI misuse]] and [[cognitive-offloading]]. It provides large-scale field evidence that unguarded, self-directed use of general-purpose generative AI — used as a homework substitute rather than a tutor — can undermine actual learning even while inflating homework grades, a phenomenon students often fail to perceive. Its findings connect to [[cognitive-offloading]] (bypassing the practice/effort that produces learning), [[assessment]] and [[learning-gains]] (homework scores as misleading signals), and [[equity-in-ai-education|equity]] (larger losses for high-achieving students, boys, and junior students). Policy recommendations include informing students of the long-run learning costs, weighting closed-book in-person assessment more heavily, and having parents/teachers monitor inputs (homework time, effort) rather than outputs (homework scores). The [[rct]] literature on AI tutors (e.g., Bastani et al. 2025, Kestin et al. 2025) provides a contrasting supply-side lens.
+
+## Limitations
+This is a working paper (SSRN preprint) and not yet peer-reviewed. The difference-in-differences design relies on observational AI-adoption patterns rather than randomization. The setting is Chinese secondary education, which may not generalize to other contexts. The "homework outsourcing" classification is behaviorally inferred from homework time/scores rather than directly observed tool use. Standard-deviation effect sizes appear large in part because averaging across subjects compresses the outcome SD.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[reducing-ai-misuse]]
+- [[generative-ai]]
+- [[learning-gains]]
+- [[assessment]]
+- [[k-12]]
+- [[rct]]
+- [[equity-in-ai-education]]
+- [[ai-ed-evaluation]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity review
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams as authentic AI-resistant assessment
+
+## Citation
+
+Strömberg, D., Lei, V., & Wu, Y. (2026). [*The generative AI learning penalty: Evidence from Chinese secondary education*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618). SSRN Working Paper No. 6868618.
 
 ---
 
@@ -31837,10 +31924,9 @@ The study used a within-subjects video-based paradigm rather than physical inter
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[trust]]
 - [[higher-ed]]
+
 
 ## Connected Articles
 
@@ -31850,7 +31936,7 @@ The study used a within-subjects video-based paradigm rather than physical inter
 
 ## Citation
 
-Velentza, A.-M., Nikou, K., Bosser, A.-G., & Fachantidis, N. (2026). *What robots do matters more than what they look like: Task context shapes trust in educational HRI*. arXiv:2606.14602.
+Velentza, A.-M., Nikou, K., Bosser, A.-G., & Fachantidis, N. (2026). [*What robots do matters more than what they look like: Task context shapes trust in educational HRI*](https://arxiv.org/abs/2606.14602). arXiv:2606.14602.
 
 ---
 
@@ -32494,14 +32580,14 @@ The evaluation is preliminary with a small sample (N = 24), and the specific com
 - [[llm]]
 - [[higher-ed]]
 - [[intelligent-tutoring]]
-- [[educational-robotics]]
+
 ## Connected Articles
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for GSRs
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 ## Citation
-Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., & Schmiedel, T. (2026). *Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education*. arXiv:2607.22345.
+Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., & Schmiedel, T. (2026). [*Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education*](https://arxiv.org/abs/2607.22345). arXiv:2607.22345.
 
 ---
 
@@ -34825,7 +34911,6 @@ The authors also offer practical guidance for educators: activate prior subject 
 
 - [[ai-literacy]]
 - [[k-12]]
-- [[k-12]]
 - [[biology-education]]
 - [[stem-education]]
 - [[curriculum-design]]
@@ -34833,6 +34918,7 @@ The authors also offer practical guidance for educators: activate prior subject 
 - [[transfer-of-learning]]
 - [[active-learning]]
 - [[ai-ed-evaluation]]
+
 
 ## Citation
 
@@ -35281,6 +35367,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[generative-ai-reduced-study-time-math]] — Proctored retention decline (25%) shows AI inflates non-proctored performance
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 
 ---
 
@@ -35336,10 +35423,10 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[generative-ai]]
 - [[ai-education]]
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[educational-nlp]]
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
+
 ## Connected Articles
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
@@ -35934,6 +36021,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[genai-educational-outcomes-meta-analysis]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -36020,7 +36108,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[governance]]
 - [[educational-policy-ai]]
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[distributed-cognition]]
 - [[situated-learning]]
 - [[critical-pedagogy]]
@@ -36031,6 +36118,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[humanities-education]]
 - [[teacher-education]]
 - [[discipline-specific-aied]]
+
 
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -36589,6 +36677,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -36617,6 +36707,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich higher education can assess both genuine outputs and the processes that produced them.
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
+- [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsidering oral exams]] positions the oral exam/assessment as a low-tech authentic alternative that is inherently AI-resistant — its real-time, interactive dialogue tests comprehension, critical thinking, and reasoning (not memorization), mirrors professional practice, and prevents students from using AI to generate and memorize answers. It offers a concrete set of practical recommendations (clear rubrics, standardized content, assessor training, prompting guidelines, bias mitigation) for reintroducing oral assessment across high school and higher education.
 
 ## Connections to learning theory
 
@@ -36658,6 +36749,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 - [[ssaho-ai-academic-integrity-review-2025]] — Multiple assessment methods to counter AI misconduct
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 
 ---
 
@@ -37292,6 +37384,7 @@ The wiki's research documents over-reliance as one of the most consequential ris
 - **The metacognitive mechanics of overuse:** the beliefs-vs-experiences framework explains *why* students over-offload even when it hurts them — people offload impulsively, and pre-existing metacognitive *beliefs* anchor behavior faster than task *experiences* can correct it — so the antidote to over-reliance is metacognitive, not merely restrictive.
 - **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] show reminder bias — the laboratory analogue of over-reliance — can be reduced with a brief metacognitive intervention (five practice trials pairing a prediction with feedback), correcting calibration in both directions. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided**.
 - **Field evidence: AI that coaches vs. AI that answers.** [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found that AI support that coached rather than gave answers slowed students down but reduced effort-avoidance — improving next-attempt correctness after mistakes with more time per question (a "productive slowdown") — while [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] showed that without structure making mistakes consequential, students default to shallow use (bare answers, prompt clicks) and gains match practice without AI. Both confirm that offloading's harm is contingent on **how** AI is used and designed, not just on access.
+- **Large-scale field evidence: the "generative AI learning penalty."** [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]], tracking 26,811 Chinese secondary students over 30 months, found that self-directed generative-AI adoption raised homework scores 18% and cut homework time 30% while *lowering* closed-book exam scores 20% within six months and entrance-exam scores 18–24% after two years — concentrated among the ~81% of users whose behavior indicated homework outsourcing (short completion time + inflated homework scores). This is direct large-scale evidence that unguarded offloading (using AI as a homework substitute rather than a tutor) produces the learning penalty cognitive-offloading predicts, often undetected by students themselves.
 
 ### The CLT framework
 
@@ -37379,6 +37472,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -37769,6 +37863,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 
 ---
 
@@ -38727,8 +38822,6 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[educational-robotics]]
-- [[educational-robotics]]
 - [[active-learning]]
 - [[experiential-learning]]
 - [[situated-learning]]
@@ -38738,6 +38831,7 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[learning-theories]]
 - [[multimodal]]
 - [[assessment-validity]]
+
 
 ## Connected Articles
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
@@ -38919,6 +39013,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Metacognitive inequity and uneven access
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -39274,6 +39369,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Hybrid teacher-GenAI feedback outperforms either alone
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 
 ---
 
@@ -39388,6 +39484,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 
 ---
 
@@ -39954,6 +40051,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 
 ---
 
@@ -40548,6 +40646,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender strongest for high schoolers, absent for Grade 5
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -40881,6 +40980,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -42657,7 +42757,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Guardrailed AI tool design ("hint-not-answer" [[scaffolding]]).** In the strongest causal finding in the wiki, a field RCT showed an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted exam scores **−17%**, while a guardrailed tutor (hints instead of answers, plus teacher-authored problem information) eliminated the harm entirely. This mechanically prevents the answer-copying "crutch" behavior behind the damage. Activities include hint-not-answer tutoring, seeding prompts with correct solutions and common misconceptions, and requiring a student attempt before AI output is revealed.
 
-**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones.
+**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones. Large-scale field evidence underscores this: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]] found that homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — exactly the signal that unassisted, proctored measures are designed to surface, and the study recommends weighting closed-book in-person assessment more heavily.
 
 ### Tier 2 — Strong framework support, high potential
 
@@ -42727,6 +42827,8 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
 ---
 
@@ -43684,7 +43786,7 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 - [[educational-robotics]]
 - [[language-learning]]
 - [[social-emotional-learning]]
-- [[educational-robotics]]
+
 
 ## Connected Articles
 
@@ -44440,10 +44542,10 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[critical-thinking]]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
-- [[educational-robotics]]
 - [[ethics]]
 - [[intelligent-tutoring]]
 - [[ai-sycophancy]]
+
 
 ## Connected Articles
 
