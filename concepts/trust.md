@@ -10,7 +10,7 @@ confidence: high
 
 > **Trust in AI** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
 
-Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[social-robots|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[human-robot-interaction]], trust is shaped by robot behaviour, task, and appearance.
+Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[educational-robotics|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[educational-robotics]], trust is shaped by robot behaviour, task, and appearance.
 
 ### How trust appears in the wiki's research
 
@@ -20,7 +20,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Trust in tutoring and feedback:** Studies of [[intelligent-tutoring|AI Tutoring]] and AI [[feedback]] examine when learners appropriately trust (or question) AI-generated guidance and [[hallucination-risk|hallucinations]].
 - **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
-Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[social-robots]], [[human-robot-interaction]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
+Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
 
 ## Connected Concepts
 
@@ -28,8 +28,8 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[ai-literacy]]
 - [[critical-thinking]]
 - [[cognitive-offloading]]
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[ethics]]
 - [[intelligent-tutoring]]
 - [[ai-sycophancy]]

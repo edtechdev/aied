@@ -23,7 +23,7 @@ This is a **within-subjects experimental study**. The researchers conducted a vi
 
 ## Implications for AI in Education
 
-The study provides evidence that **task context shapes trust in educational robots more than appearance**, a key finding for [[social-robots]] and [[human-robot-interaction]] design. For educators and designers, it suggests that trust in [[educational-robotics|educational robots]] depends on what the robot is asked to do (e.g., instruction elicits higher trust) rather than on a single optimal embodiment. This informs the deployment of socially assistive robots across teaching, procedural instruction, and personal-information tasks in [[higher-ed]] and other settings, and connects to trust and acceptance of AI in learning.
+The study provides evidence that **task context shapes trust in educational robots more than appearance**, a key finding for [[educational-robotics]] and [[educational-robotics]] design. For educators and designers, it suggests that trust in [[educational-robotics|educational robots]] depends on what the robot is asked to do (e.g., instruction elicits higher trust) rather than on a single optimal embodiment. This informs the deployment of socially assistive robots across teaching, procedural instruction, and personal-information tasks in [[higher-ed]] and other settings, and connects to trust and acceptance of AI in learning.
 
 ## Limitations
 
@@ -31,8 +31,8 @@ The study used a within-subjects video-based paradigm rather than physical inter
 
 ## Connected Concepts
 
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[educational-robotics]]
 - [[trust]]
 - [[higher-ed]]

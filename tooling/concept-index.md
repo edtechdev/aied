@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 141
+**Total concepts:** 139
 
 ## Canonical concepts
 
@@ -206,9 +206,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`human-in-the-loop-ai`** — Human-in-the-Loop AI for Education
     - phrases: human-in-the-loop; HITL; human in the loop; human oversight; human-in-the-loop AI
 
-- **`human-robot-interaction`** — Human-Robot Interaction
-    - phrases: human-robot interaction; HRI; human-robot collaboration
-
 - **`humanities-education`** — Humanities and Social Science Education
     - phrases: humanities education; humanities and social science education; liberal arts education; HSS education
 
@@ -368,9 +365,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`social-emotional-learning`** — Social-Emotional Learning
     - phrases: social-emotional learning; SEL; social emotional; emotional learning
 
-- **`social-robots`** — Social Robots
-    - phrases: social robots; social robotics; companion robots
-
 - **`socratic-method`** — Socratic Method
     - phrases: Socratic method; Socratic questioning; Socratic dialogue; Socratic tutoring
 
@@ -442,3 +436,5 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - `programming-education` → **`cs-education`**
 - `block-programming` → **`cs-education`**
 - `zone-of-proximal-development` → **`sociocultural-learning`**
+- `social-robots` → **`educational-robotics`**
+- `human-robot-interaction` → **`educational-robotics`**

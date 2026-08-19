@@ -23,7 +23,7 @@ This is a **systematic literature review** following the PRISMA workflow. The au
 
 ## Implications for AI in Education
 
-The review provides a foundational evidence base for understanding how [[human-robot-interaction]] and [[social-robots]] affect [[agency]] and autonomy in learning contexts. As robots are increasingly used in education, preserving learners' sense of agency is a core ethical and design concern, connecting to [[ethics]], [[well-being]], and the governance of AI in education. The review's synthesis of measurement approaches (SDT-based autonomy scales, intentional-binding measures of agency) offers researchers tools for evaluating how educational robots support or undermine learner agency, and informs responsible design of embodied AI in classrooms.
+The review provides a foundational evidence base for understanding how [[educational-robotics]] and [[educational-robotics]] affect [[agency]] and autonomy in learning contexts. As robots are increasingly used in education, preserving learners' sense of agency is a core ethical and design concern, connecting to [[ethics]], [[well-being]], and the governance of AI in education. The review's synthesis of measurement approaches (SDT-based autonomy scales, intentional-binding measures of agency) offers researchers tools for evaluating how educational robots support or undermine learner agency, and informs responsible design of embodied AI in classrooms.
 
 ## Limitations
 
@@ -31,8 +31,8 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 
 ## Connected Concepts
 
-- [[human-robot-interaction]]
-- [[social-robots]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[agency]]
 - [[ethics]]
 - [[well-being]]

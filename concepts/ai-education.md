@@ -27,7 +27,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
-- **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
+- **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[educational-robotics|social robots]], [[educational-robotics|robots in education]], [[educational-robotics|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
@@ -89,7 +89,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[governance]]
 - [[educational-policy-ai]]
 - [[educational-robotics]]
-- [[social-robots]]
+- [[educational-robotics]]
 - [[distributed-cognition]]
 - [[situated-learning]]
 - [[critical-pedagogy]]

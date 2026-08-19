@@ -30,7 +30,7 @@ confidence: high
 
 ## Educational Significance
 
-EC's value lies in offering conceptual vocabulary for asking better questions about [[human-robot-interaction|human-AI collaboration]] in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
+EC's value lies in offering conceptual vocabulary for asking better questions about [[educational-robotics|human-AI collaboration]] in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
 
 ## Connected Concepts
 

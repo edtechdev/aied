@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-19 | **Total pages:** 877
+**Last updated:** 2026-08-19 | **Total pages:** 875
 ---
 ## Quick Links
 
@@ -450,7 +450,6 @@
 - [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators: Designing professional learning for critical AI literacy
 - [[human-in-the-loop-ai]] — Human-in-the-Loop AI for Education
 - [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[human-robot-interaction]] — Human-Robot Interaction
 - [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
 - [[humanities-education]] — Humanities and Social Science Education
 - [[humanlike-ai-collaborative-writing]] — 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
@@ -751,7 +750,6 @@
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[social-robots]] — Social Robots
 - [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity in online interaction
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education
 - [[socrates-students-instructors-llms-lbt-2025]] — Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education

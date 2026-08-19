@@ -24,7 +24,7 @@ This is a **mixed-methods play-testing study**. The researchers designed REMind,
 
 ## Implications for AI in Education
 
-REMind demonstrates how [[social-robots]] can support [[social-emotional-learning]] through embodied role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/game-based learning, and the use of embodied AI to address social and emotional learning outcomes — a distinct application beyond technical/programming robotics education.
+REMind demonstrates how [[educational-robotics]] can support [[social-emotional-learning]] through embodied role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/game-based learning, and the use of embodied AI to address social and emotional learning outcomes — a distinct application beyond technical/programming robotics education.
 
 ## Limitations
 
@@ -32,7 +32,7 @@ The evaluation involved a small sample (18 children aged 9–10) in a play-testi
 
 ## Connected Concepts
 
-- [[social-robots]]
+- [[educational-robotics]]
 - [[social-emotional-learning]]
 - [[educational-robotics]]
 - [[k-12]]

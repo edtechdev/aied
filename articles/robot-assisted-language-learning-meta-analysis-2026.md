@@ -32,8 +32,8 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 ## Connected Concepts
 
 - [[educational-robotics]]
-- [[social-robots]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
+- [[educational-robotics]]
 - [[language-learning]]
 - [[embodied-learning]]
 - [[multimodal]]
