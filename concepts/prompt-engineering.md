@@ -38,7 +38,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[generative-ai]]
 - [[instructional-design]]
 - [[cs-education]]
-- [[higher-ed]]
+- [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+
 ## Connected Articles
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration

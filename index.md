@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-19 | **Total pages:** 880
+**Last updated:** 2026-08-19 | **Total pages:** 881
 ---
 ## Quick Links
 
@@ -120,6 +120,7 @@
 - [[ai-supported-experimental-design-chemistry-2026]] — Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design
 - [[ai-sycophancy]] — AI Sycophancy
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
+- [[ai-technologies]] — AI Technologies and Techniques in Education
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms: Looking back and forward
 - [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs
 - [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study

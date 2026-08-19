@@ -77,6 +77,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[edtech-platform]]
 - [[stem-education]]
 - [[accessible-learning]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)

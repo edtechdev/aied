@@ -42,7 +42,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[pedagogical-llm-training]]
-- [[learning-by-teaching]]
+- [[learning-by-teaching]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+
 ## Connected Articles
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study

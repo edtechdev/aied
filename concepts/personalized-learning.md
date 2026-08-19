@@ -56,6 +56,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-literacy]]
 - [[learning-analytics]]
 - [[teacher-role]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

@@ -37,6 +37,7 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[pedagogical-safety]]
 - [[k-12]]
 - [[higher-ed]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 
