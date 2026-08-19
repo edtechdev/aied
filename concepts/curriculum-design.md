@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-08-15T10:19:32-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [curriculum-design, instructional-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 confidence: high
@@ -60,3 +60,4 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping

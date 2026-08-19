@@ -1,7 +1,7 @@
 ---
 title: Student Experience with AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T07:56:52-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, cognitive-offloading, equity, k-12]
 
@@ -52,3 +52,4 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI-skills expectations for college graduates vs. institutional readiness

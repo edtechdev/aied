@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T07:56:52-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -54,4 +54,4 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 718 articles and 138 concepts.
+> Complete text of 719 articles and 138 concepts.
 
 # Articles
 
@@ -18452,6 +18452,89 @@ Irwin, B., & Muller, T. (2026). [*Positioning generative AI in EFL peer feedback
 
 ---
 
+## [AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently](https://edtechdev.github.io/aied/articles/ithaka-sr-ai-skills-college-graduates-2026/)
+
+> **Ithaka S+R's AI Skills for College Graduates report** surveys 500 US four-year-college instructors (April 2026) on how they prioritize 26 AI-related skills from the HiBob AI Skills Framework, and compares their ratings to a panel of US employers surveyed by HiBob. The headline finding is a **systematic skills-prioritization gap**: instructors and employers agree on the importance of only one skill (setting realistic expectations for AI-augmented work), with instructors favoring a *critical, responsible-use* orientation (limits of AI, attribution, human accountability) while employers favor *workflow, automation, and human–AI teaming* skills. Instructors also report their institutions lack both a consensus on what AI skills look like and an assessment framework for them — an infrastructure gap that parallels [[ai-literacy]] debates. ^[[ithaka-sr-ai-skills-college-graduates-2026]]
+
+## Background and the AI Skills Framework
+
+The report is one of the first major efforts to vet a comprehensive AI-skills framework with college instructors. The framework, developed by HiBob (a multinational HR technology company) to understand which AI skills employers seek and pay a premium for, spans **seven categories and 26 skills**:
+
+1. **AI literacy** — understanding human vs. AI capabilities, selecting appropriate tools, setting realistic expectations
+2. **Continuous learning orientation** — iterating on AI tools, peer coaching
+3. **Prompting and input quality** — clear actionable prompts, grounding in reliable sources, multimodal prompting
+4. **Evaluating and improving output quality** — proactive review, revising drafts for audiences, resisting sycophantic AI, bias & fairness awareness
+5. **AI safety, ethics, and governance** — handling sensitive data, responsible use, human accountability, transparency & attribution
+6. **Workflow evaluation and redesign** — mapping workflows, efficient human–AI handoffs, documenting decisions
+7. **Automation and technical integration** — no/low-code automations, basic coding/API capabilities
+
+The framework is designed to capture how a typical, non-technical employee uses AI tools at work — from foundational LLM chatbots to purpose-built systems.
+
+## Methodology
+
+- **Instructor survey (Ithaka S+R):** 500 instructors from four-year nonprofit colleges responded (28,200 invited, April 13–24 2026). They rated each of the 26 skills on a seven-point importance scale, reported whether they taught each skill, and answered questions on institutional AI context.
+- **Employer data (HiBob):** 1,200 employers surveyed Feb–March 2026; the report compares instructors against the **US subset (200 employers)**.
+- **Respondent profile:** mostly tenured/tenure-track (300) plus 122 adjunct/contingent; ~three-fifths at doctoral institutions and public universities; disciplines led by social sciences, natural sciences, and business.
+- **Limitations:** the report notes potential early-response bias, exclusion of community colleges/vocational institutions, and that the "skill of doing things without AI" was a recurring instructor refrain.
+
+## Key Findings
+
+### A wide alignment gap, with one point of agreement
+
+Across the 26 skills, instructors and employers **agreed on the importance of only one**: *setting realistic expectations for AI-augmented work* (an AI-literacy skill). In most other cases one group rated skills higher than the other.
+
+### Instructors prioritize responsible, critical use
+
+Instructors ranked highest the skills reflecting **responsible use of AI and navigating the limits of human and AI capability**: uses AI responsibly, reinforces human accountability, transparency & attribution, proactively reviews output quality, and recognizes the limits of one's own expertise. One instructor noted that "understanding the limitations of AI and the fact that LLMs cannot replace human intelligence is key." These priorities align with foundational academic values — attribution, review and revision, and information literacy.
+
+### Employers prioritize workflow, automation, and teaming
+
+Employers valued skills related to **workflows, automation, and efficient human–AI collaboration** — the activities of workers rather than students. They also highly valued human-to-human and human-to-machine skills more than instructors, reflecting the team-oriented, efficiency-driven nature of workplaces compared to the individualistic evaluation common in academic settings.
+
+### The teaching gap is the strongest evidence of a skills gap
+
+Only **three of 26 skills are taught by half or more instructors**. Two-thirds teach transparency & attribution (likely via academic integrity), and roughly half teach responsible use, proactive output review, and human accountability. But far fewer instructors teach the workflow-evaluation and technical-integration skills — precisely the categories where instructor–employer prioritization diverged most. The report calls this "the strongest evidence that there is an AI skills gap between higher education and employers": whole categories employers value are neither prioritized nor taught.
+
+### Institutional context: expectations exceed infrastructure
+
+Instructors slightly disagreed that their institutions expect undergraduates to acquire moderate AI proficiency, and more strongly disagreed that institutions have a **consensus on what AI skills look like** or a **shared framework to assess them**. One instructor reported their "institution announced AI literacy as a top priority—and then did nothing since." These findings indicate institutions are in the early stages of organizing around AI-ready learning environments.
+
+## Implications for AI in Education
+
+- **For curriculum design:** The report offers a concrete, assessable 26-skill framework institutions can use to map existing coursework against employer priorities — a practical antidote to the "vaporware" vagueness of AI-skills talk. It highlights specific under-taught categories (workflow redesign, automation, technical integration) that many institutions could add without abandoning critical-use values.
+- **For assessment:** A shared framework for assessing AI skills is a prerequisite for knowing whether students reach proficiency; the report documents that most institutions lack this, echoing [[assessment]] debates in the wiki.
+- **For [[ai-literacy]]:** The instructor emphasis on critical, responsible use aligns closely with the wiki's treatment of AI literacy as regulatory competence and critical thinking, while the employer emphasis on productivity-oriented skills introduces a complementary framing the field is still reconciling.
+- **For equity and practice:** The report flags the presence of instructors who see resisting/doing-without AI as the key skill — a framing tension relevant to [[framing-ai-use-for-students]] and [[student-experience]].
+
+> **License note:** This work is licensed **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial), reflecting that it is a non-commercial, nonprofit research publication. [Offer removal if unwanted.]
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[curriculum-design]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[professional-training]]
+- [[teacher-education]]
+- [[framing-ai-use-for-students]]
+- [[student-experience]]
+- [[educational-policy-ai]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the engineering/computing workforce: grey-literature review
+- [[ai-higher-ed-workforce-survey]] — The impact of AI on work in higher education
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce readiness for smart manufacturing
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills-gap agenda
+- [[genai-skill-bypass-literacy]] — The GenAI skill bypass: divergent AI-literacy pathways
+
+## Citation
+
+Fried, M. (2026). *AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently*. Ithaka S+R. https://sr.ithaka.org/publications/ai-skills-for-college-graduates/
+
+---
+
 ## [ISD Agent Benchmark](https://edtechdev.github.io/aied/articles/jeon-isd-agent-bench-2026/)
 
 > **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias. It is a direct contribution to the study of [[instructional-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
@@ -34973,6 +35056,10 @@ A distinct strand of the wiki treats AI literacy not merely as skills or critica
 
 These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
 
+### Whose AI skills count? The instructor–employer framing divide
+
+A central open question in AI literacy is *which* skills matter and for whom. An Ithaka S+R study comparing how US instructors and employers prioritize the 26 skills of the HiBob AI Skills Framework found they agree on the importance of only one (setting realistic expectations for AI-augmented work). Instructors weight a **critical, responsible-use orientation** — recognizing AI's limits, transparency and attribution, human accountability, proactive output review — which aligns with academic values of attribution, review, and information literacy. Employers weight **productivity-oriented skills** — workflow evaluation and redesign, automation, and human–AI teaming — that reflect team-based workplace efficiency. Because only three of 26 skills are taught by half or more instructors, and those taught skew toward the critical-use categories, the report identifies a concrete **AI skills gap**: whole categories employers value are neither prioritized nor taught in college curricula.^[[ithaka-sr-ai-skills-college-graduates-2026]] This divide frames AI literacy as a contested construct — critical-use literacy for academic settings versus workflow-integration literacy for employment — a tension relevant to [[framing-ai-use-for-students]], [[curriculum-design]], and [[professional-training]].
+
 ### Designing AI literacy interventions
 
 The wiki's frameworks and empirical studies converge on a set of practical guidelines for educators and instructional designers building AI literacy interventions:
@@ -35085,6 +35172,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ojeda-ramirez-community-based-ai-learning]]
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor–employer AI skills prioritization gap (2026)
 
 ---
 
@@ -35349,6 +35437,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[automatic-short-answer-grading]] — Automatic short-answer grading
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Automated assessment of interactive explainer content
 - [[ai-assessment-scale-reform]] — AI assessment scale reform
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
 
 ---
 
@@ -36649,6 +36738,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
 
 ---
 
@@ -37212,7 +37302,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
 
 ---
 
@@ -38022,6 +38112,7 @@ Students are also framed by the wider media and public discourse around AI in ed
 - [[ai-availability-student-motivation]] — How AI availability shapes student motivation
 - [[youtube-frames-chatgpt-education]] — How YouTube frames ChatGPT use in education
 - [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
 
 ---
 
@@ -38142,6 +38233,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose generative AI in education
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructor–employer divergence on prioritizing GenAI skills
 
 ---
 
@@ -38466,6 +38558,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
 
 ---
 
@@ -40887,6 +40980,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[cyberagents-gamified-cybersecurity-learning-2026]]
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
 
 ---
 
@@ -42226,6 +42320,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI-skills expectations for college graduates vs. institutional readiness
 
 ---
 
@@ -42496,6 +42591,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
 
 ---
 

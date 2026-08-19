@@ -1,7 +1,7 @@
 ---
 title: Professional Training and AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-17T10:45:00-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high
@@ -54,3 +54,4 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[cyberagents-gamified-cybersecurity-learning-2026]]
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers

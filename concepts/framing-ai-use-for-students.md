@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-08-19T08:05:00-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance]
 confidence: high
@@ -84,3 +84,4 @@ Students are also framed by the wider media and public discourse around AI in ed
 - [[ai-availability-student-motivation]] — How AI availability shapes student motivation
 - [[youtube-frames-chatgpt-education]] — How YouTube frames ChatGPT use in education
 - [[ai-ethics-education-public-discourse]] — Public discourse on AI ethics in education
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity

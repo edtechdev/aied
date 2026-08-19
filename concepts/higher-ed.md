@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T20:02:54-04:00"
+updated: "2026-08-19T08:58:32-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -85,3 +85,4 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates

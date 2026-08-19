@@ -1,10 +1,13 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 856
+Last updated: 2026-08-19 | Total entries: 857
 
 ## 2026-08-19
 - 🏷️ [[framing-ai-use-for-students]] — 
   Framing AI Use for Students
   tags: ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance
+- 📄 [[ithaka-sr-ai-skills-college-graduates-2026]] — raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md
+  AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
+  tags: ai-literacy, curriculum-design, higher-ed, workforce, generative-ai, professional-training, teacher-education
 
 ## 2026-08-18
 - 📄 [[ai-anxiety-strategic-regulation-writing-2026]] — raw/papers/10.1016_j.caeai.2026.100622.md
