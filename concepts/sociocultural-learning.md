@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-19T10:28:09-04:00"
+updated: "2026-08-19T10:31:06-04:00"
 type: concept
 tags: [sociocultural, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration]
 confidence: high
@@ -14,7 +14,7 @@ Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental 
 
 - **Mediation is fundamental.** Humans think with and through cultural tools — language, writing, diagrams, technologies — which reorganize how they reason, remember, and solve problems (Wertsch, 1991). These tools do not merely transmit information; they reshape cognition and participation.
 - **Learning is social.** Higher mental functions appear first between people (intersubjectively, in interaction) and only later within the individual. Learning arises through participation with teachers, peers, and communities — in processes like [[scaffolding]], apprenticeship, and movement through the ZPD.
-- **Cognition is distributed.** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. [[distributed-cognition|Distributed cognition]], [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
+- **[[distributed-cognition|Cognition is distributed]].** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. [[distributed-cognition|Distributed cognition]], [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
 
 ### The Zone of Proximal Development (ZPD)
 
