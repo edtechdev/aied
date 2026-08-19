@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T17:49:03-04:00"
+updated: "2026-08-19T18:02:45-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -20,6 +20,7 @@ The wiki's concept coverage is anchored by several **umbrella pages** that group
 - **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks (behaviorism, constructivism, sociocultural, cognitive, motivational) that shape AI design and evaluation.
 - **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems (LLMs, generative AI, multimodal, robotics) and techniques (RAG, prompt engineering, reinforcement learning, model training, agentic orchestration) that power AIED.
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
+- **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the [[feedback|feedback loop]], [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]). Feedback sits at the intersection of assessment and learning — without it, assessment measures performance but does not improve it.
 - **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, teachers, instructional designers, administrators, and policymakers.
 - **[[ai-ed-evaluation|AI ed evaluation]]** and **[[research-methods-aied|research methods]]** — the umbrellas for how we know whether AI works (efficacy, benchmarks, RCTs, meta-analysis).
 - **[[governance|AI governance]]**, **[[educational-policy-ai|educational AI policy]]**, and **[[equity-in-ai-education|equity]]** — the umbrellas for the institutional, regulatory, and fairness layer.
