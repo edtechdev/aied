@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-19T17:45:00-04:00"
+updated: "2026-08-19T18:13:28-04:00"
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high
@@ -34,6 +34,18 @@ The wiki's research examines pedagogy at the intersection of AI and teaching in 
 
 Pedagogies and learning theories are closely linked: each pedagogy operationalizes one or more theories. For example, [[project-based-learning]] operationalizes [[constructivist]] and [[experiential-learning|experiential]] theories; [[socratic-method]] draws on [[sociocultural-learning]] and [[metacognition]]; [[scaffolding]] stems from the [[sociocultural-learning|Zone of Proximal Development]]. The wiki treats [[learning-theories]] as the conceptual foundation and this page as the instructional-practice umbrella — see also [[instructional-design]], which concerns the systematic process of selecting and sequencing strategies.
 
+## Learning gains across pedagogical strategies
+
+Different pedagogical strategies produce different kinds and sizes of [[learning-gains|learning gains]], and the wiki's evidence lets us compare them:
+
+- **Active and experiential strategies** generally produce stronger durable learning than passive reception, though they feel more effortful — [[active-learning]], [[experiential-learning]], [[project-based-learning]], and [[learning-by-teaching]] build understanding through doing. [[generative-ai-reduced-study-time-math|Research]] shows that strategies preserving effortful practice (rather than AI shortcutting it) protect [[learning-gains]].
+- **Structured, guided strategies** ([[scaffolding]], [[self-regulated-learning]], [[instructional-design]]) produce reliable but more modest gains — the guardrail evidence ([[generative-ai-guardrails-harm-learning|PNAS 2025]]) shows hint-not-answer scaffolding preserves learning that unguarded answer-giving destroys.
+- **[[game-based-learning|Game-based learning]]** produces engagement and skill gains that are real but often modest and context-dependent — [[genai-educational-outcomes-meta-analysis|meta-analytic evidence]] finds game-assisted GenAI shows no significant added benefit over other formats, so games are best used for motivation and practice, not as a shortcut to gains.
+- **Collaborative and sociocultural strategies** ([[collaborative-learning]], [[sociocultural-learning]]) show gains mediated by interaction quality, increasingly studied with AI as a partner or peer.
+- **Socratic and dialogue-based strategies** ([[socratic-method]]) target higher-order thinking and reasoning — gains that are harder to measure than skill gains but central to [[critical-thinking]].
+
+The key cross-cutting finding, consistent with the wiki's [[learning-gains]] research, is that **the strategy's effect on learning depends more on how it preserves learner effort and productive struggle than on which label it carries** — any pedagogy, even a "good" one, fails if AI is configured to bypass the cognitive work it was meant to elicit (see [[cognitive-offloading]], [[desirable-difficulties]]).
+
 ## Implications for AI in education
 
 - **Select pedagogy deliberately with AI:** the teaching strategy determines whether an AI tool supports or undermines learning, so pedagogical intent should drive AI tool selection and configuration.
@@ -44,6 +56,7 @@ Pedagogies and learning theories are closely linked: each pedagogy operationaliz
 ## Connected Concepts
 
 - [[learning-theories]]
+- [[learning-gains]]
 - [[instructional-design]]
 - [[active-learning]]
 - [[collaborative-learning]]
