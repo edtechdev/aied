@@ -1,0 +1,136 @@
+---
+// Concept map for the homepage: a radial SVG with "AI in Education" at the center
+// and top-level umbrella concepts arranged around it. Each node links to its
+// concept page. Dark background, distinct node colors, fully accessible.
+
+// Central hub
+const center = { slug: 'ai-education', label: 'AI in Education' };
+
+// Outer umbrella nodes (concept slug, display label, brand color)
+const nodes = [
+  { slug: 'intelligent-tutoring', label: 'Intelligent Tutoring', color: '#7dd3fc' },
+  { slug: 'learning-theories',    label: 'Learning Theories',    color: '#4ade80' },
+  { slug: 'assessment',           label: 'Assessment',           color: '#fbbf24' },
+  { slug: 'feedback',             label: 'Feedback',             color: '#f87171' },
+  { slug: 'generative-ai',        label: 'Generative AI',        color: '#22d3ee' },
+  { slug: 'ai-literacy',          label: 'AI Literacy',          color: '#a78bfa' },
+  { slug: 'human-ai-collaboration', label: 'Human\u2013AI Collaboration', color: '#f472b6' },
+  { slug: 'ethics',               label: 'Ethics',               color: '#fb923c' },
+  { slug: 'equity-in-ai-education', label: 'Equity in AI Education', color: '#a3e635' },
+  { slug: 'discipline-specific-aied', label: 'AI in the Disciplines', color: '#e879f9' },
+];
+
+// geometry
+const CX = 450, CY = 340;
+const R = 250; // ring radius
+const n = nodes.length;
+const placed = nodes.map((node, i) => {
+  const angle = -90 + (360 / n) * i; // degrees from top, clockwise
+  const rad = (angle * Math.PI) / 180;
+  return { ...node, x: CX + R * Math.cos(rad), y: CY + R * Math.sin(rad) };
+});
+const centerNode = { ...center, x: CX, y: CY, r: 46 };
+// split long labels into two lines
+function lines(label: string): string[] {
+  const words = label.split(' ');
+  if (words.length <= 2) return [label];
+  const mid = Math.ceil(words.length / 2);
+  return [words.slice(0, mid).join(' '), words.slice(mid).join(' ')];
+}
+// adaptive node radius so long labels fit inside the circle
+function nodeRadius(labelLines: string[]): number {
+  const maxLen = Math.max(...labelLines.map((l) => l.length));
+  return Math.max(30, maxLen * 3.1 + 8);
+}
+const links = placed.map((p) => ({ x1: CX, y1: CY, x2: p.x, y2: p.y }));
+---
+<svg
+  class="concept-map"
+  viewBox="0 0 900 700"
+  role="img"
+  aria-labelledby="concept-map-title concept-map-desc"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title id="concept-map-title">Concept map of AI in Education</title>
+  <desc id="concept-map-desc">
+    A radial map with AI in Education at the center, connected by lines to ten top-level
+    concepts: Intelligent Tutoring, Learning Theories, Assessment, Feedback, Generative AI,
+    AI Literacy, Human&#8211;AI Collaboration, Ethics, Equity in AI Education, and AI in the Disciplines.
+    Select any node to open that concept's page.
+  </desc>
+
+  <!-- background card matching the site's dark theme -->
+  <rect x="0" y="0" width="900" height="700" rx="16" fill="#0d1418" />
+
+  <!-- connection lines -->
+  {links.map((l) => (
+    <line x1={l.x1} y1={l.y1} x2={l.x2} y2={l.y2} stroke="#2c3a45" stroke-width="2" />
+  ))}
+
+  <!-- center node (clickable) -->
+  <a href={`/aied/concepts/${centerNode.slug}/`}>
+    <g class="concept-map-node">
+      <circle cx={centerNode.x} cy={centerNode.y} r={centerNode.r} fill="#0b1220" stroke="#7dd3fc" stroke-width="3" />
+      <text x={centerNode.x} y={centerNode.y - 2} text-anchor="middle" fill="#e8eef2" font-size="15" font-weight="700" font-family="inherit">
+        AI in
+        <tspan x={centerNode.x} dy="16">Education</tspan>
+      </text>
+    </g>
+  </a>
+
+  <!-- outer nodes (clickable) -->
+  {placed.map((p) => {
+    const ls = lines(p.label);
+    const r = nodeRadius(ls);
+    const fs = ls.length === 2 ? 11 : 12;
+    return (
+      <a href={`/aied/concepts/${p.slug}/`}>
+        <g class="concept-map-node">
+          <circle cx={p.x} cy={p.y} r={r} fill={p.color} />
+          <circle cx={p.x} cy={p.y} r={r} fill="none" stroke="#0d1418" stroke-width="2" />
+          {ls.length === 1 ? (
+            <text x={p.x} y={p.y + 4} text-anchor="middle" fill="#0b1220" font-size={fs} font-weight="700" font-family="inherit">{ls[0]}</text>
+          ) : (
+            <>
+              <text x={p.x} y={p.y - 4} text-anchor="middle" fill="#0b1220" font-size={fs} font-weight="700" font-family="inherit">{ls[0]}</text>
+              <text x={p.x} y={p.y + 10} text-anchor="middle" fill="#0b1220" font-size={fs} font-weight="700" font-family="inherit">{ls[1]}</text>
+            </>
+          )}
+        </g>
+      </a>
+    );
+  })}
+</svg>
+
+<style>
+  .concept-map {
+    display: block;
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+    margin: 0 auto 1.75rem auto;
+    border-radius: 16px;
+    border: 1px solid var(--muted-border-color);
+    background: #0d1418;
+  }
+  /* cursor + hover affordance */
+  .concept-map a { cursor: pointer; }
+  .concept-map .concept-map-node {
+    transition: opacity 0.15s ease, transform 0.15s ease;
+    transform-box: fill-box;
+    transform-origin: center;
+  }
+  .concept-map a:hover .concept-map-node,
+  .concept-map a:focus-visible .concept-map-node {
+    opacity: 0.92;
+  }
+  .concept-map a:hover .concept-map-node circle:first-of-type,
+  .concept-map a:focus-visible .concept-map-node circle:first-of-type {
+    filter: drop-shadow(0 0 6px currentColor);
+  }
+  /* ensure focus is visible for keyboard users */
+  .concept-map a:focus-visible .concept-map-node circle {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+  }
+</style>
