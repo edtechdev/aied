@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-19T10:28:09-04:00"
 type: concept
 tags: [sociocultural, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration]
 confidence: high
@@ -14,18 +14,18 @@ Sociocultural theory (Vygotsky, 1978; Luria; Leontiev) holds that higher mental 
 
 - **Mediation is fundamental.** Humans think with and through cultural tools — language, writing, diagrams, technologies — which reorganize how they reason, remember, and solve problems (Wertsch, 1991). These tools do not merely transmit information; they reshape cognition and participation.
 - **Learning is social.** Higher mental functions appear first between people (intersubjectively, in interaction) and only later within the individual. Learning arises through participation with teachers, peers, and communities — in processes like [[scaffolding]], apprenticeship, and movement through the ZPD.
-- **Cognition is distributed.** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. Distributed cognition, [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
+- **Cognition is distributed.** Cognitive work is spread across people, artifacts, and environments (Hutchins; Clark & Chalmers; Pea), rather than contained in the individual mind. [[distributed-cognition|Distributed cognition]], [[situated-learning|situated learning]], and communities of practice extend the sociocultural strand.
 
 ### The Zone of Proximal Development (ZPD)
 
-The ZPD (Vygotsky) is the sociocultural concept most widely applied in AI tutoring: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an AI tutor should provide so learning advances without being given away — see [[tutoring-specific-vs-general-ai]].
+The ZPD (Vygotsky) is the sociocultural concept most widely applied in [[intelligent-tutoring|AI tutoring]]: the space between what a learner can do alone and what they can do with assistance. Learning happens most effectively when instruction targets this zone — challenging enough to push development, supported enough to make progress. It is the theoretical foundation of [[scaffolding]]: temporary, adjustable support withdrawn as competence grows. In AI in education, ZPD frames the central design question of how much support an [[intelligent-tutoring|AI tutor]] should provide so learning advances without being given away — see [[tutoring-specific-vs-general-ai]].
 
 ### Sociocultural learning in AI education
 
 Sociocultural theory shapes AIED research in several distinct ways:
 
-- **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) to preserve learner agency.^[[mediational-agent-genai-sociocultural-2026]]
-- **ZPD-calibrated scaffolding.** AI tutors should dynamically calibrate help to sit within each learner's zone. [[tutoring-specific-vs-general-ai]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
+- **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation) to preserve [[agency|learner agency]].^[[mediational-agent-genai-sociocultural-2026]]
+- **ZPD-calibrated scaffolding.** [[intelligent-tutoring|AI tutors]] should dynamically calibrate help to sit within each learner's zone. [[tutoring-specific-vs-general-ai]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
 - **Cultural and institutional context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
 
