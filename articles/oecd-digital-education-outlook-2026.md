@@ -45,7 +45,7 @@ Chapter 8 makes the case for purpose-built educational GenAI systems co-created 
 
 ## Collaborative Learning and Creativity
 
-GenAI supports collaborative learning in four roles: information hub, personalised material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For creativity, GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
+GenAI supports [[collaborative-learning]] in four roles: information hub, personalised material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For creativity, GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
 
 ## System-Level and Assessment Applications
 

@@ -63,7 +63,7 @@ An open-source ITS where XAI explains mastery predictions and hint selections to
 A learning resource recommender that explains *why* specific resources are suggested based on the learner's knowledge state and goals. Supports [[self-regulated-learning]] by making the recommendation logic visible and actionable.
 
 ### CLA (Connected Learning Analytics) — Multimodal Collaboration
-Analytics for collaborative learning environments that surface group dynamics and individual contributions. XAI helps students and instructors understand team interaction patterns — connecting to [[collaborative-learning]] and [[learning-analytics]] research.
+Analytics for [[collaborative-learning]] environments that surface group dynamics and individual contributions. XAI helps students and instructors understand team interaction patterns — connecting to [[collaborative-learning]] and [[learning-analytics]] research.
 
 ## Significance for AIED
 

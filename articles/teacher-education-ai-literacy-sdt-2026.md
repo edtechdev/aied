@@ -12,7 +12,7 @@ confidence: high
 
 ## Key Findings
 
-- **Need-supportive PD positively predicts needs satisfaction (β = .77, p < .001) and behavioral engagement in PLCs (β = .47, p < .001)** — a well-designed PD can spark ongoing, collaborative learning.
+- **Need-supportive PD positively predicts needs satisfaction (β = .77, p < .001) and behavioral engagement in PLCs (β = .47, p < .001)** — a well-designed PD can spark ongoing, [[collaborative-learning]].
 - **Needs satisfaction significantly predicts AI literacy (β = .52), attitude (β = .68), and reduces AI anxiety (β = −.66)** — PD content alone is insufficient; *how* it is delivered (whether it supports psychological needs) determines its effectiveness in changing teachers' AI knowledge, feelings, and beliefs.
 - **AI literacy is the key cognitive gateway to sustained engagement**: among the AI learning outcomes, only AI literacy had a significant direct effect on behavioral engagement in PLCs (β = .39, p < .001); attitude (p = .72) and anxiety (p = .18) were non-significant — teachers need a foundation of ability before actively engaging in peer-to-peer learning.
 - The theoretical contribution is a validated motivational pathway: PD needs support → needs satisfaction → cognitive (AI literacy) and affective (attitude, anxiety) learning → sustained behavioral engagement, with AI literacy as the primary cognitive driver.

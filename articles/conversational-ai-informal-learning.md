@@ -16,7 +16,7 @@ confidence: medium
 - Young adults among German-based, digitally engaged users are at the forefront of adopting LLMs, primarily to enhance their learning experiences independently of time and space: LLM learners averaged 31 years versus 35 for non-learners (F = 6.68, p < .01), men were more likely to adopt (53% of LLM learners were male, while 64% of avoiders were female; χ² = 15.5, p < .001), and ChatGPT dominated, with 93% (n = 632) of LLM learners reporting its use.
 - Four types of learners emerge across learning contexts, distinguished by the tasks they perform with LLMs and the devices they use to access them: Structured Knowledge Builders (22.9%), Self-Guided Explorers (26.5%), Analytical Problem Solvers, and Adaptive Power Users, identified via latent class analysis with balanced class shares (23.8–25.7%).
 - Respondents exhibit paradoxical trust behaviors: they rely on LLMs while simultaneously distrusting their accuracy and privacy protection measures — 88% (n = 601) perceived improved learning or productivity, yet misinformation was the most commonly cited challenge (68%, n = 460) and the majority (n = 543) reported taking no privacy measures.
-- The study's implications emphasize the importance of including different media types for learning, enabling collaborative learning, providing sources, and meeting the needs of different types of learners — "learning by design."
+- The study's implications emphasize the importance of including different media types for learning, enabling [[collaborative-learning]], providing sources, and meeting the needs of different types of learners — "learning by design."
 
 ## Study Design & Method
 
