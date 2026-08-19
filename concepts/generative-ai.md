@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -84,3 +84,5 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI impact on academic integrity
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12 education
+- [[generative-ai-reduced-study-time-math]] — Cognitive surrender: 26.9% study-time decline in AI-susceptible math

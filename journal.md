@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 864
+Last updated: 2026-08-19 | Total entries: 865
 
 ## 2026-08-19
 - 📄 [[cfes-p24-multimodal-slide-auditing-2026]] — raw/papers/cfes-p24-multimodal-slide-auditing-2026.md
@@ -29,6 +29,9 @@ Last updated: 2026-08-19 | Total entries: 864
 - 📄 [[substitution-to-scaffolding-ai-harm-cycle-2026]] — raw/papers/2608.17451.md
   From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
   tags: cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai
+- 📄 [[young-people-learning-generative-ai-rapid-review-2026]] — raw/papers/young-people-learning-generative-ai-rapid-review-2026.md
+  Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education
+  tags: k-12, generative-ai, cognitive-offloading, self-regulated-learning, metacognition, ai-literacy, reducing-ai-misuse, assessment, educational-policy-ai, equity-in-ai-education, teacher-education, student-engagement
 
 ## 2026-08-18
 - 📄 [[ai-anxiety-strategic-regulation-writing-2026]] — raw/papers/10.1016_j.caeai.2026.100622.md
@@ -2293,7 +2296,7 @@ Last updated: 2026-08-19 | Total entries: 864
   tags: generative-ai, cognitive-offloading, ai-literacy, student-experience, ai-assistance-reduces-persistence, rag, ai-education
 - 📄 [[generative-ai-reduced-study-time-math]] — raw/papers/2605.21629.md
   Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-  tags: generative-ai, cognitive-offloading, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education
+  tags: generative-ai, cognitive-offloading, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education, math-education, assessment
 - 📄 [[llm-automated-assessment-student-self-explanations]] — raw/papers/2605.21614.md
   Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
   tags: llm, automated-assessment, feedback, stem-education, higher-ed, scaffolding, self-regulated-learning, metacognition

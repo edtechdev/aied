@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-19T07:42:38-04:00"
+updated: "2026-08-19T09:54:41-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, cognitive-offloading, learning-science, scaffolding, metacognition]
 
@@ -72,3 +72,4 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
