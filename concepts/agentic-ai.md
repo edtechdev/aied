@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-15T17:49:40-04:00"
+updated: "2026-08-19T10:13:51-04:00"
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency]
 confidence: high
@@ -26,7 +26,7 @@ Research in the wiki spans design and evaluation:
 
 ## The central tension: automation vs. learning
 
-The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[zone-of-proximal-development]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
+The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[sociocultural-learning]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
 
 ## Productive friction and social interaction
 
@@ -57,7 +57,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[agency]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[ai-ed-evaluation]]
 - [[benchmark]]
 - [[simulation]]

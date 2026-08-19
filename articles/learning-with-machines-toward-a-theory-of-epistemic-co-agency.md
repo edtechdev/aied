@@ -8,7 +8,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100573.md']
 confidence: high
 ---
 
-> **Synthesis:** Samuel (2026) introduces the **Epistemic Entanglement Framework**, a theory-informed model for understanding how learners engage with generative AI (GenAI) systems. Arguing that existing learning theories (constructivism, sociocultural theory, connectivism) presume human-centered epistemic agency and cannot account for the ways GenAI simulates reasoning, reframes arguments, and co-constructs meaning, the paper proposes **epistemic co-agency** — a reflexive stance in which learners engage AI outputs dialectically, challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. The central claim is that the real challenge of AI in education is not technological fluency but cultivating learners who can reason *with, through, and against* generative systems.
+> **Synthesis:** Samuel (2026) introduces the **Epistemic Entanglement Framework**, a theory-informed model for understanding how learners engage with generative AI (GenAI) systems. Arguing that existing learning theories (constructivism, [[sociocultural-learning|sociocultural theory]], connectivism) presume human-centered epistemic agency and cannot account for the ways GenAI simulates reasoning, reframes arguments, and co-constructs meaning, the paper proposes **epistemic co-agency** — a reflexive stance in which learners engage AI outputs dialectically, challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. The central claim is that the real challenge of AI in education is not technological fluency but cultivating learners who can reason *with, through, and against* generative systems.
 
 ## Key Findings
 

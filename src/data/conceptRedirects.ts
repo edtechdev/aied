@@ -15,4 +15,5 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'engagement-metrics': 'student-engagement',
   'programming-education': 'cs-education',
   'block-programming': 'cs-education',
+  'zone-of-proximal-development': 'sociocultural-learning',
 };

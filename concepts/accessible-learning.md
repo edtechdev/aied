@@ -1,7 +1,7 @@
 ---
 title: Accessible Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T16:10:00-04:00"
+updated: "2026-08-19T10:13:51-04:00"
 type: concept
 tags: [accessible-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high
@@ -37,7 +37,7 @@ The wiki's accessible-learning research converges on a set of concrete design pr
 
 ### Connections to related concepts
 
-Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[social-robots]], [[human-robot-interaction]], and [[educational-nlp]], while text simplification connects it to [[zone-of-proximal-development]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[social-robots]], [[human-robot-interaction]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
 
 ## Connected Concepts
 
@@ -59,7 +59,7 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[social-robots]]
 - [[human-robot-interaction]]
 - [[educational-nlp]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[adaptive-learning]]
 ## Connected Articles
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access

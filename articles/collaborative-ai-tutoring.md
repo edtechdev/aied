@@ -3,7 +3,7 @@ title: Collaborative AI Tutoring
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, zone-of-proximal-development, affective-tutoring, adaptive-learning-systems, metacognition]
+tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, sociocultural-learning, affective-tutoring, adaptive-learning-systems, metacognition]
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium
 ---
@@ -56,7 +56,7 @@ Post-intervention gains in JVA and JME suggest improved collaborative regulation
 
 ## Relationship to Tutoring-Specific Design
 
-ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[zone-of-proximal-development|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
+ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[sociocultural-learning|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
 
 ## Implications
 
@@ -66,7 +66,7 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 
 ## Connected Concepts
 
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[metacognition]]
 - [[collaborative-learning]]
 - [[intelligent-tutoring]]

@@ -3,12 +3,12 @@ title: Tutoring-Specific vs. General-Purpose AI in Education
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-19T07:35:00-04:00"
 type: article
-tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, zone-of-proximal-development, metacognition]
+tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, sociocultural-learning, metacognition]
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
 
-> The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** (e.g., ChatGPT, Gemini) on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]] The mechanism is the preservation of learning work: tutoring-specific tools retain [[desirable-difficulties|productive struggle]] via graduated hints, avoid suppressing [[metacognition]], and calibrate to the [[zone-of-proximal-development|learner's zone of proximal development]] — where general-purpose AI that simply completes tasks short-circuits all three.
+> The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** (e.g., ChatGPT, Gemini) on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]] The mechanism is the preservation of learning work: tutoring-specific tools retain [[desirable-difficulties|productive struggle]] via graduated hints, avoid suppressing [[metacognition]], and calibrate to the [[sociocultural-learning|learner's zone of proximal development]] — where general-purpose AI that simply completes tasks short-circuits all three.
 
 ## The Core Distinction
 
@@ -16,7 +16,7 @@ confidence: medium
 |---|---|---|
 | **Interaction model** | Open-ended Q&A; completes tasks on request | Structured hints, [[socratic-method|Socratic questioning]], step-by-step [[scaffolding|scaffolds]] |
 | **Cognitive load** | Reduces *all* load, including germane (productive) load | Reduces extraneous load while preserving productive struggle |
-| **ZPD targeting** | Often operates outside the [[zone-of-proximal-development|zone of proximal development]] | Explicitly calibrated to learner readiness |
+| **ZPD targeting** | Often operates outside the [[sociocultural-learning|zone of proximal development]] | Explicitly calibrated to learner readiness |
 | **Metacognitive demand** | Low — AI does the reasoning | High — learner must reason with guidance |
 | **[[transfer-of-learning|Transfer]] evidence** | Mixed to negative when tool is removed | More promising (limited causal data) |
 
@@ -55,7 +55,7 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[pedagogical-agent]]

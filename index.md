@@ -870,4 +870,4 @@
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
-- [[zone-of-proximal-development]] — Zone Of Proximal Development
+- [[sociocultural-learning]] — Sociocultural Learning

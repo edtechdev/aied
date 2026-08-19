@@ -1,9 +1,9 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:13:51-04:00"
 type: concept
-tags: [zone-of-proximal-development, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
+tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
 confidence: high
 ---
@@ -21,7 +21,7 @@ confidence: high
 
 ### The ZPD connection
 
-[[zone-of-proximal-development|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
+[[sociocultural-learning|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
 
 ### Connections
 
@@ -30,7 +30,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 ## Connected Concepts
 
 - [[learning-by-teaching]]
-- [[zone-of-proximal-development]]
+- [[sociocultural-learning]]
 - [[cognitive-offloading]]
 - [[feedback]]
 - [[ai-literacy]]
