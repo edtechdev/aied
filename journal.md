@@ -1,13 +1,28 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 865
+Last updated: 2026-08-19 | Total entries: 872
 
 ## 2026-08-19
+- 📄 [[ai-science-chemistry-education-systematic-review-2025]] — raw/papers/ai-science-chemistry-education-systematic-review-2025.md
+  Artificial Intelligence in Science and Chemistry Education: A Systematic Review
+  tags: chemistry-education, science-education, generative-ai, ethics, educational-policy-ai, teacher-education
+- 📄 [[ai-supported-experimental-design-chemistry-2026]] — raw/papers/ai-supported-experimental-design-chemistry-2026.md
+  Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design
+  tags: chemistry-education, higher-ed, laboratory, ai-literacy, critical-thinking
 - 📄 [[cfes-p24-multimodal-slide-auditing-2026]] — raw/papers/cfes-p24-multimodal-slide-auditing-2026.md
   Benchmarking Multimodal Large Language Models for Educational Slide Auditing
   tags: benchmark, llm, multimodal, instructional-design, ai-ed-evaluation, multimedia-learning, assessment-validity, generative-ai
+- 🏷️ [[chemistry-education]] — 
+  Chemistry Education
+  tags: chemistry-education, stem-education, higher-ed, k-12, generative-ai, teacher-education, ai-literacy, assessment, philosophy-of-ai-in-education
+- 📄 [[context-based-ai-secondary-chemistry-2026]] — raw/papers/context-based-ai-secondary-chemistry-2026.md
+  Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education
+  tags: chemistry-education, k-12, constructivist, personalized-learning, student-engagement, motivation
 - 🏷️ [[framing-ai-use-for-students]] — 
   Framing AI Use for Students
   tags: ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance
+- 📄 [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — raw/papers/instructor-ai-roles-chatgpt-formative-assessment-2026.md
+  Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment
+  tags: chemistry-education, formative-assessment, self-regulated-learning, human-ai-collaboration, teacher-education
 - 📄 [[ithaka-sr-ai-skills-college-graduates-2026]] — raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md
   AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
   tags: ai-literacy, curriculum-design, higher-ed, workforce, generative-ai, professional-training, teacher-education
@@ -20,6 +35,9 @@ Last updated: 2026-08-19 | Total entries: 865
 - 🏷️ [[multilingual-learning]] — 
   Multilingual Learning
   tags: multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, accessible-learning, llm
+- 📄 [[philosophy-experimentation-ai-chemistry-2026]] — raw/papers/philosophy-experimentation-ai-chemistry-2026.md
+  Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry
+  tags: chemistry-education, philosophy-of-ai-in-education, critical-thinking, epistemology, human-ai-collaboration
 - 📄 [[sc2r-counterfactual-recourse-educational-2026]] — raw/papers/2608.17618.md
   From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support
   tags: learning-analytics, predictive-modeling, educational-measurement, ai-ed-evaluation, higher-ed, student-modeling, interpretability, ethics, human-in-the-loop
@@ -29,6 +47,9 @@ Last updated: 2026-08-19 | Total entries: 865
 - 📄 [[substitution-to-scaffolding-ai-harm-cycle-2026]] — raw/papers/2608.17451.md
   From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
   tags: cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai
+- 📄 [[unesco-ai-guidelines-chemical-education-2026]] — raw/papers/unesco-ai-guidelines-chemical-education-2026.md
+  Translating UNESCO Artificial Intelligence Guidelines to Chemical Education and Its Intersection with Sustainable Development Goals
+  tags: chemistry-education, educational-policy-ai, ethics, ai-literacy, higher-ed, sustainable-development-goals
 - 📄 [[young-people-learning-generative-ai-rapid-review-2026]] — raw/papers/young-people-learning-generative-ai-rapid-review-2026.md
   Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education
   tags: k-12, generative-ai, cognitive-offloading, self-regulated-learning, metacognition, ai-literacy, reducing-ai-misuse, assessment, educational-policy-ai, equity-in-ai-education, teacher-education, student-engagement
@@ -1531,14 +1552,15 @@ Last updated: 2026-08-19 | Total entries: 865
 - 🏷️ [[reinforcement-learning]] — 
   Reinforcement Learning
   tags: llm, pedagogical-safety, intelligent-tutoring, special-education, personalized-learning, k-12, scaffolding, active-learning, adaptive-learning, higher-ed
+- 🏷️ [[sociocultural-learning]] — 
+  Sociocultural Learning
+  tags: sociocultural, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration
 - 📄 [[student-cheat-sheets-make-or-take]] — raw/papers/2607.24736.md
   Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets
   tags: assessment, metacognition, self-regulated-learning, higher-ed
 - 📄 [[suacode-african-students-motivations]] — raw/papers/2607.22940.md
   Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course
   tags: cs-education, equity, mooc, global-south, equity-in-ai-education, ai-literacy, ai-education
-- 🏷️ [[sociocultural-learning]] — 
-  Zone Of Proximal Development
 
 ## 2026-07-27
 - 📄 [[kutti-ai-voice-first-learning-companion]] — raw/papers/2607.22377.md

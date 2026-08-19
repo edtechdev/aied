@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-17T09:55:00-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 confidence: high
@@ -58,3 +58,4 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift

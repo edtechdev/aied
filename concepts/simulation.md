@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-15T09:22:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, skill-development, reinforcement-learning, experiential-learning]
 confidence: high
@@ -32,6 +32,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[constructivist]]
 - [[trust-calibration]]
 - [[professional-training]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
@@ -45,3 +46,5 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[li-ai-science-situated-learning-teachers-2025]]
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry

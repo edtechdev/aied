@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -71,6 +71,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[student-misconceptions-ai]]
 - [[learning-theories]]
 - [[behaviorism]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -97,3 +98,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry

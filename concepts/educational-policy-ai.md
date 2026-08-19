@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -36,6 +36,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ethics]]
 - [[teacher-ai-competency]]
 - [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -57,3 +58,6 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
 - [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Move beyond adoption-or-ban; staged, developmentally responsive guidance
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry

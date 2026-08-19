@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -42,6 +42,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[regulation]]
 - [[professional-training]]
 - [[discipline-specific-aied]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -90,3 +91,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in higher education
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
 - [[generative-ai-reduced-study-time-math]] — 26.9% study-time decline among college students
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

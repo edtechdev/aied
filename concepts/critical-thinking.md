@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -34,6 +34,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[regulation]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -51,3 +52,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[videla-embodied-ai-education-choreography]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -56,6 +56,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ai-sycophancy]]
 - [[trust-calibration]]
 - [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
@@ -79,3 +80,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture-building and assessment redesign over detection policing
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Cognitive surrender, productive friction, and metacognitive inequity
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

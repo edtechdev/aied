@@ -1,7 +1,7 @@
 ---
 title: STEM Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:55:19-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 
@@ -40,6 +40,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[llm]]
 - [[discipline-specific-aied]]
 - [[teacher-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -52,3 +53,4 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[ai-metacognition-stem-review]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[avraamidou-ai-colonization-science-education]]
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education

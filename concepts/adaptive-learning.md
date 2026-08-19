@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T07:42:38-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -58,3 +58,4 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry

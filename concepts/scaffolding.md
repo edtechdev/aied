@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -59,3 +59,4 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
