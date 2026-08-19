@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T08:58:32-04:00"
+updated: "2026-08-19T09:42:57-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -79,3 +79,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose generative AI in education
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructor–employer divergence on prioritizing GenAI skills
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI impact on academic integrity

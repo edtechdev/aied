@@ -68,3 +68,5 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[genai-assessment-governance]] — Assessment governance under GenAI
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse

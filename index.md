@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-19 | **Total pages:** 857
+**Last updated:** 2026-08-19 | **Total pages:** 864
 ---
 ## Quick Links
 
@@ -185,6 +185,7 @@
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[ccct-cooperative-learning-technique]] — Artificial intelligence assisted design of a novel cooperative learning technique for higher education
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the Pedagogical Knowledge of Large Language Models
+- [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmarking Multimodal Large Language Models for Educational Slide Auditing
 - [[chat-debugging-human-ai-collaboration-circuits]] — Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
 - [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
 - [[chatgpt-academic-writing-quality-ownership-2026]] — Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership
@@ -568,6 +569,7 @@
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 - [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory
 - [[medical-education]] — Medical and Health Professions Education
 - [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment
 - [[memdora-ai-spaced-repetition]] — Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition
@@ -596,6 +598,8 @@
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[multilingual-adaptive-learning-nigeria-2026]] — An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria
+- [[multilingual-learning]] — Multilingual Learning
 - [[multimodal]] — Multimodal AI
 - [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
@@ -705,6 +709,7 @@
 - [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity
 - [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support
 - [[scaffolding]] — Scaffolding
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks
 - [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy
@@ -748,6 +753,7 @@
 - [[special-education]] — Special Education
 - [[special-r1-rl-special-education]] — Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
+- [[ssaho-ai-academic-integrity-review-2025]] — Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity
 - [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
@@ -773,6 +779,7 @@
 - [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course
 - [[suacode-african-students-motivations]] — 'Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course'
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
 - [[surfacing-isolated-learners]] — Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
 - [[syal-multimodal-dialogue-stem-2026]] — Multimodal Dialogue in STEM Education

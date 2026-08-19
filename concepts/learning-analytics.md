@@ -20,7 +20,7 @@ confidence: high
 
 ### From description to intervention
 
-Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]].
+Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with human oversight preserved.
 
 ### Connections
 
@@ -57,3 +57,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse

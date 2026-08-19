@@ -17,6 +17,7 @@ confidence: high
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
 - **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[cognitive-offloading|Over-Reliance]].
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
+- **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and ethics.
 
 ### The ZPD connection
 
@@ -56,3 +57,4 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[ai-cognitive-partner-co-regulation-learning]]
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle

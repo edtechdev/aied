@@ -108,3 +108,4 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[pedagogy-ai-mistakes]]
 
 - [[tutoring-specific-vs-general-ai]] — Structured Socratic hints vs. open-ended general-purpose Q&A
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle

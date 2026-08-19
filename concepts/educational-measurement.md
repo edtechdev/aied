@@ -47,3 +47,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
 - [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse

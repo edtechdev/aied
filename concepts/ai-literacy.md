@@ -161,3 +161,5 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor–employer AI skills prioritization gap (2026)
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

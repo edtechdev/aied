@@ -96,3 +96,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent

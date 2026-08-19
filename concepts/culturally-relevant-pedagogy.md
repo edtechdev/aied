@@ -69,3 +69,4 @@ Grounded in the wiki's own articles, educators and designers can apply CRP to AI
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
 - [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Community Learning
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif: Interest-Based Personalized Assignments
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
