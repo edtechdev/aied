@@ -23,7 +23,7 @@ confidence: high
 
 **ChatGPT** was perceived as a **personalized tool for self-regulated learning**, its role shifting with achievement:
 - **Patient Tutor** for low-achievers — non-judgmental, always-available support
-- **Personal Coach** for medium-achievers — guided practice and feedback
+- **Personal Coach** for medium-achievers — guided practice and [[feedback]]
 - **Intellectual Sparring Partner** for high-achievers — challenging and probing ideas
 
 ## The Instructor–AI Synergistic Learning Ecosystem model

@@ -60,7 +60,3 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[text-simplification-its]] — Text simplification in ITS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-
-## Citation
-
-Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
