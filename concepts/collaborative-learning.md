@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T18:55:00-04:00"
+updated: "2026-08-19T01:50:00-04:00"
 type: concept
 tags: [collaborative-learning, cscl, ai-education, student-experience, scaffolding, equity, k-12, higher-ed]
 confidence: high
@@ -28,6 +28,10 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 **AI as a neutral mediator — and the tension when it stops being neutral.** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] is a Discord-based LLM probe that mediates disciplinary boundaries in interdisciplinary student teams by surfacing implicit assumptions and returning anonymized syntheses to shared discussion. Students valued it as both cognitive support and a relational buffer, but a central tension emerged: AI's perceived neutrality was load-bearing, and eroded once the AI moved from neutral mediator to advisor or challenger — a key design constraint for [[pedagogical-agent|agents]] that mediate collaboration while preserving [[human-ai-collaboration]] and [[trust-calibration]].
 
 **Collaborative structures for AI education.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes AI education through democratic student governance and project teams, embedding [[active-learning]] and [[project-based-learning]] in a collaborative, community-connected structure.
+
+### The ICAP framework: collaboration as the highest engagement mode
+
+Collaborative learning occupies the top of the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive): the *interactive* mode — co-constructing meaning through dialogue, defending a position, or solving jointly — produces the deepest knowledge change in Chi's taxonomy. This makes ICAP both a justification for collaborative pedagogies and a design constraint on AI. An AI that mediates discussion (as [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] or [[golrang-propact-pair-programming-2026|ProPACT]] do) is valuable precisely when it sustains *interactive* engagement; an AI that answers for the group or smooths over cognitive conflict can downgrade collaboration to a mere *active* or *passive* mode. ICAP-based annotation (see [[icap-cognitive-engagement-llm-agents|extended ICAP measurement of collaborative dialogue]]) and facilitation-timing research both treat the quality of interactive discourse as the outcome of interest, grounding collaborative learning in [[student-engagement]] and the ICAP hierarchy.^[[icap-cognitive-engagement-llm-agents]]^[[llm-facilitation-timing-online-discussions]]
 
 ## Practical guidance
 
@@ -60,7 +64,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[trust-calibration]]
 - [[pedagogical-agent]]
 - [[student-modeling]]
-- [[active-learning]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -79,3 +83,5 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[golrang-propact-pair-programming-2026]] — ProPACT: proactive AI adaptive collaborative tutor for pair programming
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: AI disciplinary mediation in student project teams
 - [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
+- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
+- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions

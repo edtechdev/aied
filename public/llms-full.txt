@@ -34329,6 +34329,10 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 
 - **Mindtools and generative engagement.** [[genai-mindtool-generative-learning|GenAI as a mindtool]] positions AI as a device students think *with* rather than a source of answers, aligning active learning with generative-learning theories where learners integrate new ideas into existing knowledge.
 
+### The ICAP framework as the organizing lens
+
+Active learning is precisely operationalized by the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive), which classifies learner behavior by mode of cognitive engagement and knowledge change. Under ICAP, what is colloquially called "active learning" actually spans three distinct, ordered levels of engagement: *active* (acting on material, e.g. taking notes or answering a prompt), *constructive* (generating new output beyond the given, e.g. self-explaining or drawing), and *interactive* (co-constructing meaning through dialogue). This matters for AI in education because an AI tool can masquerade as "active" while keeping learners in the shallowest modes: clicking through a dashboard or accepting a generated answer is active at best, not constructive or interactive. ICAP thereby sharpens the central design goal of active learning — **push learners from active toward constructive and interactive engagement** — and warns against AI systems that *answer for* the learner, which keep them passive.^[[icap-cognitive-engagement-llm-agents]]^[[hingle-collaborative-ai-literacy-2025]] This connects active learning directly to [[icap-framework]], [[student-engagement]], and [[collaborative-learning]], whose highest ICAP mode is interactive dialogue.
+
 ## Practical guidance
 
 - **Keep the learner in the loop.** Design AI interactions so students act on and with output (interactive, scaffolded modes) rather than receiving finished answers; full automation measurably reduces cognitive engagement.
@@ -34357,6 +34361,8 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[cognitive-offloading]]
 - [[collaborative-learning]]
 - [[learning-theories]]
+- [[icap-framework]]
+- [[student-engagement]]
 - [[project-based-learning]]
 - [[experiential-learning]]
 - [[embodied-learning]]
@@ -36179,6 +36185,10 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 **Collaborative structures for AI education.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes AI education through democratic student governance and project teams, embedding [[active-learning]] and [[project-based-learning]] in a collaborative, community-connected structure.
 
+### The ICAP framework: collaboration as the highest engagement mode
+
+Collaborative learning occupies the top of the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive): the *interactive* mode — co-constructing meaning through dialogue, defending a position, or solving jointly — produces the deepest knowledge change in Chi's taxonomy. This makes ICAP both a justification for collaborative pedagogies and a design constraint on AI. An AI that mediates discussion (as [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]] or [[golrang-propact-pair-programming-2026|ProPACT]] do) is valuable precisely when it sustains *interactive* engagement; an AI that answers for the group or smooths over cognitive conflict can downgrade collaboration to a mere *active* or *passive* mode. ICAP-based annotation (see [[icap-cognitive-engagement-llm-agents|extended ICAP measurement of collaborative dialogue]]) and facilitation-timing research both treat the quality of interactive discourse as the outcome of interest, grounding collaborative learning in [[student-engagement]] and the ICAP hierarchy.^[[icap-cognitive-engagement-llm-agents]]^[[llm-facilitation-timing-online-discussions]]
+
 ## Practical guidance
 
 - **Model collaboration, not just the individual.** Tools that track dyadic or group state (as [[golrang-propact-pair-programming-2026|ProPACT]] does) can scaffold the collaboration itself, predicting and preventing breakdowns rather than reacting to them.
@@ -36210,7 +36220,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[trust-calibration]]
 - [[pedagogical-agent]]
 - [[student-modeling]]
-- [[active-learning]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -36229,6 +36239,8 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[golrang-propact-pair-programming-2026]] — ProPACT: proactive AI adaptive collaborative tutor for pair programming
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Spritz: AI disciplinary mediation in student project teams
 - [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
+- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
+- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
 
 ---
 
@@ -38765,6 +38777,10 @@ ICAP reframes the central design question for AI in education: an AI tool that *
 
 ICAP also serves as a measurement framework. In one study, researchers extended ICAP to a 7-point scale to characterize cognitive engagement in collaborative dialogue, then compared trained human annotators with LLM-based labeling (in-context learning, zero-shot prompting, and reflective agents). Human interrater reliability (kappa = 0.906–0.998) far exceeded LLM annotation (kappa = 0.541–0.609), highlighting ICAP's role — and current limits — in automated engagement measurement for [[learning-analytics]] pipelines.^[[icap-cognitive-engagement-llm-agents]]
 
+### Guiding collaborative-dialogue facilitation
+
+Because interactive engagement is the highest ICAP mode, the framework helps locate the value of AI facilitation in [[collaborative-learning|online collaborative discussion]]. [[llm-facilitation-timing-online-discussions|Research on LLM facilitation timing]] shows that *when* an AI intervenes in a discussion shapes whether it supports or interrupts interactive knowledge co-construction — an ICAP-informed caution that autonomous moderation agents need calibration toward human-like restraint rather than over-eager facilitation.
+
 ### ICAP and learning analytics design
 
 ICAP underlies critiques of shallow "engagement" metrics: interacting with a dashboard by clicking filters is *active*, not *interactive*, engagement. Effective learning-analytics designs elicit self-assessment and two-way dialogue rather than merely displaying data — an implication drawn directly from Chi's framework.^[[interactive-learning-dashboards-engagement]]
@@ -38783,7 +38799,6 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[student-engagement]]
-- [[student-engagement]]
 - [[learning-analytics]]
 - [[constructivist]]
 - [[instructional-design]]
@@ -38798,6 +38813,7 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
 - [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
 - [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
+- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
 
 ---
 
