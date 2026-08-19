@@ -53,6 +53,24 @@ const recentConcepts = concepts
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title} — AI Ed Wiki</title>
   <meta name="description" content={description} />
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/aied/logo.svg" />
+  <link rel="apple-touch-icon" href="/aied/logo.svg" />
+  <!-- Open Graph (link previews) -->
+  <meta property="og:site_name" content="AI Ed Wiki" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={"https://edtechdev.github.io/aied/"} />
+  <meta property="og:image" content="https://edtechdev.github.io/aied/og-concept-map.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="1013" />
+  <meta property="og:image:alt" content="Concept map of AI in Education" />
+  <!-- Twitter card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content="https://edtechdev.github.io/aied/og-concept-map.png" />
   <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="/aied/rss.xml" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
