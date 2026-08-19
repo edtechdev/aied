@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-19 | **Total pages:** 872
+**Last updated:** 2026-08-19 | **Total pages:** 877
 ---
 ## Quick Links
 
@@ -172,10 +172,12 @@
 - [[behaviorism]] — Behaviorism
 - [[benchmark]] — Benchmark
 - [[benzion-ai-physics-simulations-virtual-lab]] — Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
 - [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms
 - [[bias-mitigation]] — Bias Mitigation
 - [[bilingual-llm-lecture-companion-srl-2026]] — A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol
+- [[biology-education]] — Biology Education
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[book-level-synthetic-textbook-organization]] — Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Presenting a Project-Based Approach for Robotics Education
@@ -196,8 +198,10 @@
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
 - [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
 - [[chatgpt-inoculation-training-verification-2026]] — Student engagement with ChatGPT for educational tasks: Effects of inoculation training on verification intentions and behavior
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning
 - [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
 - [[chatgpt-teachable-agent-programming-lbt-2024]] — Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology
 - [[chemistry-education]] — Chemistry Education
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
@@ -256,6 +260,7 @@
 - [[critical-media-literacy-education-2026]] — Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities
 - [[critical-pedagogy]] — Critical Pedagogy
 - [[critical-thinking]] — Critical Thinking
+- [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth — a differentiated framework and testable propositions
 - [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education

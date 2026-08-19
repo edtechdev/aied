@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -43,6 +43,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -95,3 +96,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education

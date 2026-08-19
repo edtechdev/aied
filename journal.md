@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 872
+Last updated: 2026-08-19 | Total entries: 877
 
 ## 2026-08-19
 - 📄 [[ai-science-chemistry-education-systematic-review-2025]] — raw/papers/ai-science-chemistry-education-systematic-review-2025.md
@@ -8,15 +8,30 @@ Last updated: 2026-08-19 | Total entries: 872
 - 📄 [[ai-supported-experimental-design-chemistry-2026]] — raw/papers/ai-supported-experimental-design-chemistry-2026.md
   Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design
   tags: chemistry-education, higher-ed, laboratory, ai-literacy, critical-thinking
+- 📄 [[beyond-chatgpt-ai-tools-biological-education-2026]] — raw/papers/beyond-chatgpt-ai-tools-biological-education-2026.md
+  Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education
+  tags: biology-education, generative-ai, ai-literacy, academic-integrity, machine-learning, higher-ed
+- 🏷️ [[biology-education]] — 
+  Biology Education
+  tags: biology-education, stem-education, higher-ed, k-12, generative-ai, critical-thinking, ai-literacy, human-ai-collaboration
 - 📄 [[cfes-p24-multimodal-slide-auditing-2026]] — raw/papers/cfes-p24-multimodal-slide-auditing-2026.md
   Benchmarking Multimodal Large Language Models for Educational Slide Auditing
   tags: benchmark, llm, multimodal, instructional-design, ai-ed-evaluation, multimedia-learning, assessment-validity, generative-ai
+- 📄 [[chatgpt-math-biology-challenge-based-learning-2025]] — raw/papers/chatgpt-math-biology-challenge-based-learning-2025.md
+  Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning
+  tags: biology-education, higher-ed, generative-ai, academic-integrity, ethics, active-learning
+- 📄 [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — raw/papers/chatgpt-virtual-lab-teaching-assistant-biology-2026.md
+  ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology
+  tags: biology-education, higher-ed, generative-ai, human-ai-collaboration, simulation, laboratory
 - 🏷️ [[chemistry-education]] — 
   Chemistry Education
   tags: chemistry-education, stem-education, higher-ed, k-12, generative-ai, teacher-education, ai-literacy, assessment, philosophy-of-ai-in-education
 - 📄 [[context-based-ai-secondary-chemistry-2026]] — raw/papers/context-based-ai-secondary-chemistry-2026.md
   Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education
   tags: chemistry-education, k-12, constructivist, personalized-learning, student-engagement, motivation
+- 📄 [[critical-thinking-biological-sciences-ai-2025]] — raw/papers/critical-thinking-biological-sciences-ai-2025.md
+  Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education
+  tags: biology-education, critical-thinking, higher-ed, ethics, ai-literacy
 - 🏷️ [[framing-ai-use-for-students]] — 
   Framing AI Use for Students
   tags: ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance
@@ -423,7 +438,7 @@ Last updated: 2026-08-19 | Total entries: 872
   tags: intelligent-tutoring, intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement
 - 📄 [[zha-ai-literacy-biology-case-study]] — raw/papers/zha-ai-literacy-biology-case-study.md
   A Case Study of Integrating AI Literacy Education in a Biology Class
-  tags: ai-literacy, k-12, stem-education, curriculum-design, instructional-design, transfer-of-learning, ai-ed-evaluation, active-learning, k-12
+  tags: biology-education, ai-literacy, k-12, stem-education, curriculum-design, instructional-design, transfer-of-learning, ai-ed-evaluation, active-learning, k-12
 - 📄 [[zhan-boud-dawson-genai-feedback-engagement]] — raw/papers/zhan-boud-dawson-genai-feedback-engagement.md
   Generative artificial intelligence as an enabler of student feedback engagement: a framework
   tags: generative-ai, feedback, self-regulated-learning, ai-literacy, higher-ed, teacher-role, cognitive-offloading, prompt-engineering, formative-assessment, metacognition, academic-integrity, student-engagement
