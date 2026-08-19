@@ -35,7 +35,7 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 - [[llm]]
 - [[cs-education]]
 - [[computational-thinking]]
-- [[human-robot-interaction]]
+- [[educational-robotics]]
 - [[simulation]]
 
 ## Connected Articles

@@ -16,11 +16,11 @@ confidence: high
 ## Study Design & Method
 This is a **system development and preliminary evaluation study**. The researchers operationalized knowledge-based design requirements for generative social robots by implementing them on the Reachy Mini robot platform using system prompting, retrieval-augmented generation (RAG), and stateful prompt orchestration, building the Teachy Mini tutoring system. A preliminary evaluation study with 24 participants had them complete a robot-guided learning session about research methodologies, comparing learning with Teachy Mini against an alternative mode to assess the system's effectiveness and the value of the KBD approach.
 ## Implications for AI in Education
-Teachy Mini demonstrates how **knowledge-based design requirements** can be concretely implemented in [[social-robots|generative social robots]] for [[higher-ed]] tutoring, using system prompting, RAG, and stateful prompt orchestration to mitigate risks such as misinformation and reinforcing incorrect responses. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[educational-robotics]]. For designers and educators, it provides a validated example of translating responsible-AI design principles into a functioning embodied tutor, complementing [[knowledge-based-design-generative-social-robots-2026|the prior KBD requirements study]].
+Teachy Mini demonstrates how **knowledge-based design requirements** can be concretely implemented in [[educational-robotics|generative social robots]] for [[higher-ed]] tutoring, using system prompting, RAG, and stateful prompt orchestration to mitigate risks such as misinformation and reinforcing incorrect responses. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[educational-robotics]]. For designers and educators, it provides a validated example of translating responsible-AI design principles into a functioning embodied tutor, complementing [[knowledge-based-design-generative-social-robots-2026|the prior KBD requirements study]].
 ## Limitations
 The evaluation is preliminary with a small sample (N = 24), and the specific comparative learning outcomes are not fully detailed in the abstract. The system is built on the Reachy Mini platform, so generalizability to other robot platforms and to broader disciplinary content requires further study. The focus is on research-methodology tutoring, and longer-term effects and broader responsible-AI risks warrant additional evaluation.
 ## Connected Concepts
-- [[social-robots]]
+- [[educational-robotics]]
 - [[generative-ai]]
 - [[llm]]
 - [[higher-ed]]

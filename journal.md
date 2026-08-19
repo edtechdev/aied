@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-19 | Total entries: 877
+Last updated: 2026-08-19 | Total entries: 875
 
 ## 2026-08-19
 - 📄 [[ai-science-chemistry-education-systematic-review-2025]] — raw/papers/ai-science-chemistry-education-systematic-review-2025.md
@@ -559,7 +559,7 @@ Last updated: 2026-08-19 | Total entries: 877
   tags: equity, ai-literacy, digital-inequality, ai-education, access, inclusion, social-justice
 - 🏷️ [[educational-robotics]] — 
   Robots in Education
-  tags: educational-robotics, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, social-robots
+  tags: educational-robotics, robots-in-education, social-robots, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, embodied-learning
 - 📄 [[edusim-llm-robotic-simulation-education-2026]] — raw/papers/lu-edusim-llm-robotic-simulation-2026.md
   EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners
   tags: educational-robotics, llm, robotic-simulation, programming-education, computational-thinking, beginners
@@ -611,9 +611,6 @@ Last updated: 2026-08-19 | Total entries: 877
 - 📄 [[human-autonomy-agency-hri-review-2025]] — raw/papers/glawe-human-autonomy-agency-hri-2025.md
   Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review
   tags: human-robot-interaction, agency, autonomy, systematic-review, ethics, governance, well-being
-- 🏷️ [[human-robot-interaction]] — 
-  Human-Robot Interaction
-  tags: human-robot-interaction, social-robots, educational-robotics, agency, trust, well-being
 - 📄 [[icub-humanoid-storytelling-llm-hri-2025]] — raw/papers/lombardi-humanoid-storytelling-child-2025.md
   Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction
   tags: human-robot-interaction, social-robots, llm, storytelling, child-development, educational-robotics, usability
@@ -668,9 +665,6 @@ Last updated: 2026-08-19 | Total entries: 877
 - 🏷️ [[social-emotional-learning]] — 
   Social-Emotional Learning
   tags: ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed
-- 🏷️ [[social-robots]] — 
-  Social Robots
-  tags: social-robots, human-robot-interaction, educational-robotics, embodied-learning, engagement
 - 🏷️ [[storytelling-in-education]] — 
   Storytelling in Education
   tags: storytelling, engagement, motivation, social-robots, creativity, language-learning, k-12
