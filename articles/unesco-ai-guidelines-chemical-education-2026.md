@@ -13,7 +13,7 @@ confidence: high
 
 The authors synthesize recent (2024–2025) research into four pillars:
 
-1. **AI chemical literacy** — Students value chatbots for feedback but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced critical thinking and data-privacy risks.
+1. **AI chemical literacy** — Students value chatbots for feedback but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced [[critical-thinking|critical thinking]] and data-privacy risks.
 2. **Technical accuracy and reasoning** — Frontier models (e.g., o1) can outperform average chemists on general knowledge but struggle with **spatial reasoning (NMR)** and are overconfident in wrong answers; LLMs perform poorly on rigorous quantitative tasks (ChemBench, QCBench), and simple notation changes degrade retrieval (ChemLMs). Direct LLM queries for molecular properties often fail.
 3. **Pedagogical principles** — Unrestricted access to AI answers can bypass the **productive struggle** needed for deep conceptual learning; local RAG-based tutors that question rather than answer show promise; students struggle to write effective prompts initially, but structured frameworks improve interaction over time.
 4. **Ethics and epistemology** — Students are optimistic about AI utility but fear labor displacement and loss of human ownership/authorship; policy ambiguity burdens students navigating ethical boundaries; generative image models could amplify demographic biases (e.g., the "white male chemist"); and **reliance on opaque data-driven models may detach inquiry from causal understanding — "epistemic drift."**
@@ -29,9 +29,9 @@ UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member State
 
 ## Epistemic drift
 
-The article's central conceptual warning is **epistemic drift**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
+The article's central conceptual warning is **[[philosophy-of-ai-in-education|epistemic drift]]**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
 
-## Prompt engineering for scientific illustration
+## [[prompt-engineering|Prompt engineering]] for scientific illustration
 
 The authors demonstrate prompt engineering techniques for **scientific illustration generation** in chemistry and physical chemistry, discussing their advantages (rapid visualization of molecular phenomena) and limitations (accuracy, representational bias), underscoring the need for students to interrogate AI-generated visualizations.
 
