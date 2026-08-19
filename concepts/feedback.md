@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-19T18:02:45-04:00"
 type: concept
 tags: [feedback, feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 
@@ -47,6 +47,17 @@ AI changes feedback in three consequential directions, each raising the stakes o
 
 [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide a clean experimental result on feedback design with direct relevance to AIED: **veridical, immediate, trial-by-trial feedback tied to a learner's own prior prediction is what changes behavior — prediction or beliefs alone are not enough**. In their four-group design, feedback combined with a preceding performance prediction improved calibration and behavior, while predictions without feedback did nothing, and adding an explicit over-/underconfidence label added nothing further. This aligns with the wiki's feedback-system view: feedback's power lies in closing the gap against a learner's *own* estimate (the provision–uptake pairing), and effective feedback should be immediate, accurate, and explicitly connected to what the learner predicted — a design principle for AI feedback systems and [[feedback-literacy]] training alike.
 
+### Feedback across assessment contexts
+
+The wiki's feedback research spans the full range of assessment contexts, each with distinct feedback dynamics:
+
+- **Formative feedback** is the canonical site of feedback-for-learning — [[formative-assessment|formative assessment]] feeds [[self-regulated-learning|self-regulated learning]] through feedback that arrives while learning is still in progress ([[automated-formative-assessments-a-level-sciences|automated formative assessments]], [[ai-feedback-enactment-workflow-2026|feedback enactment]]).
+- **Summative feedback** is the feedback attached to [[summative-assessment|summative assessment]] — end-of-unit tests, oral exams, and proctored/closed-book examinations. In the AI era, the summative setting is where AI resistance matters most (see [[summative-assessment]]): feedback on a proctored oral exam or closed-book assessment tests genuine learning, whereas feedback on AI-assisted homework can be inflated. [[fenton-oral-exams-ai-authentic-assessment-2025|Oral assessments]] reframe the feedback moment as a live, interactive dialogue — feedback becomes immediate, conversational, and inseparable from the assessment itself, which is precisely why they resist AI substitution.
+- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[ai-peer-feedback-systems|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]).
+- **Automated feedback** scales delivery — [[automated-assessment|automated scoring and feedback]] from essay scoring to short-answer grading.
+
+A key cross-context insight is that **the reliability of feedback depends on the integrity of the assessment it is attached to**: feedback is only as trustworthy as the measure it responds to. In the AI era this pushes educators toward [[authentic-assessment|authentic]] and AI-resistant [[summative-assessment|summative formats]] where the feedback a student receives reflects genuine learning rather than AI-assisted output.
+
 ### The provision-uptake pairing
 
 The wiki's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The feedback loop is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
@@ -60,6 +71,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-feedback-quality]]
 - [[feedback-literacy]]
 - [[formative-assessment]]
+- [[summative-assessment]]
 - [[peer-review]]
 - [[automated-assessment]]
 - [[assessment]]
