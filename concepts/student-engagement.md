@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, engagement-metrics]
 confidence: high
@@ -80,3 +80,5 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment

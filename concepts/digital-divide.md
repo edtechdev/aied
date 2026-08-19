@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-08-15T10:24:06-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [equity, ai-literacy, digital-inequality, ai-education, access, inclusion, social-justice]
 confidence: high
@@ -49,3 +49,5 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift

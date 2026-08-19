@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -100,6 +100,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[ai-sycophancy]]
 - [[trust-calibration]]
 - [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
@@ -165,3 +166,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI literacy necessary but insufficient; four pedagogical functions
 - [[generative-ai-reduced-study-time-math]] — Students need training to recognize and resist cognitive surrender
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

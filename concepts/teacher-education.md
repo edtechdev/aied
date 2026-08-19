@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -43,6 +43,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[k-12]]
 - [[ethics]]
 - [[ai-education]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 
@@ -59,3 +60,6 @@ A key finding across teacher-education research is the gap between what teachers
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors report institutional AI-skills consensus and assessment gaps
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Teachers essential for relational/higher-order work in hybrid arrangements
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -85,6 +85,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[distributed-cognition]]
 - [[embodied-learning]]
 - [[formative-assessment]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -133,3 +134,6 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

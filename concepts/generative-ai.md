@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -42,7 +42,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[higher-ed]]
 - [[k-12]]
 
-- [[tpack]]
+- [[tpack]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -86,3 +87,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review of AI impact on academic integrity
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12 education
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender: 26.9% study-time decline in AI-susceptible math
+- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

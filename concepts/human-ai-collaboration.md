@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -43,7 +43,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[student-experience]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[creativity]]
+- [[creativity]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
@@ -69,3 +70,6 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI

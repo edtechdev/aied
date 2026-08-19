@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-19T10:47:32-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -33,6 +33,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
 - [[behaviorism]]- [[framing-ai-use-for-students]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
@@ -53,3 +54,6 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
