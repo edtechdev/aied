@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T18:55:00-04:00"
+updated: "2026-08-19T01:50:00-04:00"
 type: concept
 tags: [active-learning, instructional-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
 confidence: high
@@ -24,6 +24,10 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - **Active learning as a project-based, community structure.** [[academic-league-of-ai-2026|The Academic League of AI]] organizes extracurricular AI education around competition teams, study groups, and AI-for-social-impact projects, embodying active and [[project-based-learning|project-based learning]] through democratic student governance rather than top-down curriculum.
 
 - **Mindtools and generative engagement.** [[genai-mindtool-generative-learning|GenAI as a mindtool]] positions AI as a device students think *with* rather than a source of answers, aligning active learning with generative-learning theories where learners integrate new ideas into existing knowledge.
+
+### The ICAP framework as the organizing lens
+
+Active learning is precisely operationalized by the [[icap-framework|ICAP framework]] (Interactive–Constructive–Active–Passive), which classifies learner behavior by mode of cognitive engagement and knowledge change. Under ICAP, what is colloquially called "active learning" actually spans three distinct, ordered levels of engagement: *active* (acting on material, e.g. taking notes or answering a prompt), *constructive* (generating new output beyond the given, e.g. self-explaining or drawing), and *interactive* (co-constructing meaning through dialogue). This matters for AI in education because an AI tool can masquerade as "active" while keeping learners in the shallowest modes: clicking through a dashboard or accepting a generated answer is active at best, not constructive or interactive. ICAP thereby sharpens the central design goal of active learning — **push learners from active toward constructive and interactive engagement** — and warns against AI systems that *answer for* the learner, which keep them passive.^[[icap-cognitive-engagement-llm-agents]]^[[hingle-collaborative-ai-literacy-2025]] This connects active learning directly to [[icap-framework]], [[student-engagement]], and [[collaborative-learning]], whose highest ICAP mode is interactive dialogue.
 
 ## Practical guidance
 
@@ -53,6 +57,8 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[cognitive-offloading]]
 - [[collaborative-learning]]
 - [[learning-theories]]
+- [[icap-framework]]
+- [[student-engagement]]
 - [[project-based-learning]]
 - [[experiential-learning]]
 - [[embodied-learning]]

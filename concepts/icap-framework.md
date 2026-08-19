@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-19T01:50:00-04:00"
 type: concept
 tags: [icap, cognitive-engagement, learning-theory, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]
 confidence: high
@@ -30,6 +30,10 @@ ICAP reframes the central design question for AI in education: an AI tool that *
 
 ICAP also serves as a measurement framework. In one study, researchers extended ICAP to a 7-point scale to characterize cognitive engagement in collaborative dialogue, then compared trained human annotators with LLM-based labeling (in-context learning, zero-shot prompting, and reflective agents). Human interrater reliability (kappa = 0.906–0.998) far exceeded LLM annotation (kappa = 0.541–0.609), highlighting ICAP's role — and current limits — in automated engagement measurement for [[learning-analytics]] pipelines.^[[icap-cognitive-engagement-llm-agents]]
 
+### Guiding collaborative-dialogue facilitation
+
+Because interactive engagement is the highest ICAP mode, the framework helps locate the value of AI facilitation in [[collaborative-learning|online collaborative discussion]]. [[llm-facilitation-timing-online-discussions|Research on LLM facilitation timing]] shows that *when* an AI intervenes in a discussion shapes whether it supports or interrupts interactive knowledge co-construction — an ICAP-informed caution that autonomous moderation agents need calibration toward human-like restraint rather than over-eager facilitation.
+
 ### ICAP and learning analytics design
 
 ICAP underlies critiques of shallow "engagement" metrics: interacting with a dashboard by clicking filters is *active*, not *interactive*, engagement. Effective learning-analytics designs elicit self-assessment and two-way dialogue rather than merely displaying data — an implication drawn directly from Chi's framework.^[[interactive-learning-dashboards-engagement]]
@@ -48,7 +52,6 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 - [[active-learning]]
 - [[collaborative-learning]]
 - [[student-engagement]]
-- [[student-engagement]]
 - [[learning-analytics]]
 - [[constructivist]]
 - [[instructional-design]]
@@ -63,3 +66,4 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
 - [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
 - [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
+- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
