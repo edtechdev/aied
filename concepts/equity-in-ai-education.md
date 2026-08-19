@@ -69,6 +69,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[teacher-role]]
 - [[ai-education]]
 - [[agency]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment

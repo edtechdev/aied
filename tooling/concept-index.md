@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 139
+**Total concepts:** 142
 
 ## Canonical concepts
 
@@ -290,6 +290,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`pedagogical-safety`** — Pedagogical Safety
     - phrases: pedagogical safety; safety in tutoring; AI safety in education; safe tutoring
 
+- **`pedagogy`** — Pedagogies and Teaching Strategies
+    - phrases: pedagogy; pedagogies; teaching strategies; teaching methods; instructional strategies
 - **`peer-review`** — Peer Review
     - phrases: peer review; peer feedback; peer assessment
 
@@ -371,6 +373,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`special-education`** — Special Education
     - phrases: special education; special needs education; exceptional learners
 
+- **`stakeholders`** — People and Audiences in AI Education
+    - phrases: stakeholders; audiences; teachers; students; instructional designers; administrators; policymakers
 - **`stem-education`** — STEM Education and AI
     - phrases: STEM education; STEM
 
@@ -389,6 +393,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`student-modeling`** — Student Modeling
     - phrases: student modeling; learner modeling; learner model; student model
 
+- **`summative-assessment`** — Summative Assessment
+    - phrases: summative assessment; final exam; examination; high-stakes test; oral exam; proctored exam; closed-book exam
 - **`teacher-ai-competency`** — Teacher AI Competency
     - phrases: teacher AI competency; teacher AI competence; teacher AI readiness; teacher digital competence
 

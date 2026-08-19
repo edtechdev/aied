@@ -89,6 +89,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[ai-literacy]]
 - [[agency]]
 - [[critical-thinking]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

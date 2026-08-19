@@ -29,6 +29,14 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **Equity risks** — Over-personalization can strand learners in low-expectation tracks
 
+## Personalization and assessment
+
+Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, fairness and comparability become harder to establish. The wiki's research warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
+
+## Personalization in the AI era
+
+Generative AI has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency|agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The wiki's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
+
 ## Terminological ambiguity
 
 A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the wiki's [[limitations-in-aied-research|critique of weak construct use]]).
@@ -39,6 +47,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[intelligent-tutoring]]
 - [[student-experience]]
 - [[formative-assessment]]
+- [[summative-assessment]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[stem-education]]

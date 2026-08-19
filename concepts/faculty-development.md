@@ -56,6 +56,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[curriculum-design]]
 - [[professional-training]]
 - [[teacher-education]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding

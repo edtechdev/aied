@@ -14,11 +14,15 @@ confidence: high
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
 - **Government policy:** [[state-policy-teacher-ai|State teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
 - **K-12 policy:** [[brookings-ai-students-report|The Brookings AI students report]] and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
-- **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]].
+- **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
 ### Policy maturity gap
 
-The wiki documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[faculty-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations.
+The wiki documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[faculty-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
+
+### Policy vs. governance
+
+While [[educational-policy-ai|policy]] sets the formal rules and principles, [[governance]] encompasses the institutional structures, norms, and accountability mechanisms that implement and enforce them. Policy is what is decided; governance is how it is carried out. Both are needed: policy without governance is unenforced; governance without policy lacks direction.
 
 ### Connections
 
@@ -36,8 +40,10 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ethics]]
 - [[teacher-ai-competency]]
 - [[framing-ai-use-for-students]]
+- [[summative-assessment]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

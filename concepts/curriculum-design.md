@@ -42,7 +42,8 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[agentic-ai]]
 - [[metacognition]]
 - [[prompt-engineering]]
-- [[collaborative-learning]]
+- [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change

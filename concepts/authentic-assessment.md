@@ -60,6 +60,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[generative-ai]]
 - [[ai-education]]
 - [[feedback]]
+- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
 

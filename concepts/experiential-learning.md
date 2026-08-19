@@ -28,6 +28,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[educational-robotics]]
 - [[higher-ed]]
 - [[learning-theories]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era

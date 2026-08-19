@@ -64,7 +64,8 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[embodied-learning]]
 - [[simulation]]
 - [[game-based-learning]]
-- [[help-seeking]]
+- [[help-seeking]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 

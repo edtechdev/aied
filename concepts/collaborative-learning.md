@@ -64,7 +64,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[trust-calibration]]
 - [[pedagogical-agent]]
 - [[student-modeling]]
-- [[student-engagement]]
+- [[student-engagement]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]

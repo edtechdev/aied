@@ -38,6 +38,7 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[project-based-learning]]
 - [[computational-thinking]]
 - [[cs-education]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 

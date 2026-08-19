@@ -27,6 +27,10 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 AI governance operates at two levels the wiki treats together: the *institutional rules* that govern AI use (policies, acceptable-use frameworks, [[assessment]] and declaration requirements) and *education about those rules* (preparing people to navigate them). Governance without education risks being unenforced or opaque; education without governance lacks teeth. Research in this strand includes [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]], [[genai-declaration-frameworks-higher-education|AI declaration frameworks]], [[genai-assessment-governance|assessment governance]], [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]], and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] that situate governance in the wider policy landscape.
 
+### Assessment governance
+
+A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. The wiki's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[plagiarism-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinised). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines.
+
 ### Governance across levels
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The wiki's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[faculty-development|faculty development]], transparent guidance, and ongoing evaluation.
@@ -47,9 +51,11 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[student-experience]]
 - [[educational-policy-ai]]
 - [[regulation]]
+- [[summative-assessment]]
 - [[ai-misuse-learning-harm]]
 - [[trust-calibration]]
 - [[generative-ai]]
+- [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
