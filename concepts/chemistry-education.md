@@ -1,7 +1,7 @@
 ---
 title: Chemistry Education
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [chemistry-education, stem-education, higher-ed, k-12, generative-ai, teacher-education, ai-literacy, assessment, philosophy-of-ai-in-education]
 confidence: high
@@ -51,6 +51,7 @@ Chemistry education sits within the broader [[stem-education]] domain and shares
 - [[higher-ed]]
 - [[k-12]]
 - [[agency]]
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 

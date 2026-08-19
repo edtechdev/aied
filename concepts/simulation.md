@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, skill-development, reinforcement-learning, experiential-learning]
 confidence: high
@@ -33,6 +33,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[trust-calibration]]
 - [[professional-training]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
@@ -48,3 +49,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology

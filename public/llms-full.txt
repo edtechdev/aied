@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 732 articles and 140 concepts.
+> Complete text of 736 articles and 141 concepts.
 
 # Articles
 
@@ -4654,7 +4654,7 @@ Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (202
 
 ## [Artificial Intelligence in Science and Chemistry Education: A Systematic Review](https://edtechdev.github.io/aied/articles/ai-science-chemistry-education-systematic-review-2025/)
 
-> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) systematically review empirical research (2014–2024) on AI applications in **science and chemistry education**, finding rapid growth from 2021–2024 with **ChatGPT and conversational robots** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and STEM (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing multimodal lab environments, and encouraging personalized learning. Researchers consistently flag **ethical risks** — gender/racial bias, hallucinations, plagiarism, accuracy/reliability concerns, infrastructure and language gaps, and effects on writing and independent thinking. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and teacher training to foster conscious, ethical AI use. ^[[ai-science-chemistry-education-systematic-review-2025]]
+> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) systematically review empirical research (2014–2024) on AI applications in **science and chemistry education**, finding rapid growth from 2021–2024 with **ChatGPT and conversational robots** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and STEM (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing multimodal lab environments, and encouraging [[personalized-learning|personalized learning]]. Researchers consistently flag **ethical risks** — gender/racial bias, hallucinations, plagiarism, accuracy/reliability concerns, infrastructure and language gaps, and effects on writing and independent thinking. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and teacher training to foster conscious, ethical AI use. ^[[ai-science-chemistry-education-systematic-review-2025]]
 
 ## Purpose and method
 
@@ -4676,7 +4676,7 @@ The review addresses a gap: most AI-in-education research examines generic effec
 AI applications most often affect **learning-process outcomes** (n=9): supporting students' online learning, facilitating learning, aiding successful knowledge construction, providing **multimodal (auditory) lab environments**, offering interdisciplinary learning experiences, and encouraging personalized and equitable science learning.
 
 Other outcome clusters:
-- **Prompt engineering** (n=6) — students develop prompt-writing skills, use AI as an intelligent personal assistant for writing, gain writing confidence, and get help with complex mechanical explanations.
+- **[[prompt-engineering|Prompt engineering]]** (n=6) — students develop prompt-writing skills, use AI as an intelligent personal assistant for writing, gain writing confidence, and get help with complex mechanical explanations.
 - **Professional skill development** (n=5) — teacher candidates build evaluation expertise and teaching skills; AI supports classroom management, lesson-plan design, and professional development.
 - **Technology** (n=3) — increased acceptance of AI among teachers/candidates/students, introduction of machine learning in chemistry, and quality-education opportunities.
 - **Active participation** (n=2) — activates teacher–student and peer interaction and participation in interactive activities.
@@ -4803,7 +4803,7 @@ Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities 
 
 ## [Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design](https://edtechdev.github.io/aied/articles/ai-supported-experimental-design-chemistry-2026/)
 
-> **Synthesis:** Yim and Lui (2026) report an authentic pedagogical approach integrating AI chatbots into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group feedback indicated significantly enhanced **student confidence in conducting experiments and soft skills** — critical thinking, problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. ^[[ai-supported-experimental-design-chemistry-2026]]
+> **Synthesis:** Yim and Lui (2026) report an authentic pedagogical approach integrating AI chatbots into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group feedback indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. ^[[ai-supported-experimental-design-chemistry-2026]]
 
 ## The pedagogical approach
 
@@ -6929,6 +6929,65 @@ Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). Lev
 
 ---
 
+## [Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education](https://edtechdev.github.io/aied/articles/beyond-chatgpt-ai-tools-biological-education-2026/)
+
+> **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *research* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about generative AI (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced student engagement and subject knowledge, support for coding skills, assistive technologies for students with disabilities, and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **machine-learning tools for bioimaging**. Evidence suggests tools like iNaturalist can improve learning outcomes, promote engagement, and foster environmental stewardship. Challenges include **academic integrity, assessment design, misinformation, and the potential erosion of critical thinking and independent research skills**, requiring professional development for educators and clear guidance for students. ^[[beyond-chatgpt-ai-tools-biological-education-2026]]
+
+> ⚠️ **License note:** This article is published under a **CC BY-NC-ND 4.0** license (Taylor & Francis, *Journal of Biological Education*). Non-commercial use only; no derivatives. Verify against this license before redistribution.
+
+## The context
+
+AI has transformed biological research — from AlphaFold's protein-structure prediction (Nobel Prize 2024) to 'omics, molecular/cellular engineering, cancer biology, animal behavior, and biodiversity work. These developments increasingly underpin biology education, making consideration of AI in this context urgent. Prior to 2022, AI use among scientists required high-level programming; ChatGPT's arrival made GAI easy to use and freely available, but also triggered concerns about assessment integrity, misinformation, and erosion of problem-solving skills. Notably, around **16% of students** surveyed in Sweden and the UK admitted using GAI in assessments, and GPT-4-generated essays went almost entirely undetected and outscored undergraduates.
+
+## Benefits of AI in biological education
+
+- **Enhanced engagement and subject knowledge** — AI tools support interactive, personalized learning.
+- **Support for coding skills** — AI assists students with the computational demands of modern biology.
+- **Assistive technologies** — AI supports students with disabilities.
+- **Predictive modeling** — identifying at-risk students for early intervention.
+- **Species identification and fieldwork** — computer-vision tools like **iNaturalist and Google Lens** identify species from images, supporting learning and engagement, especially in fieldwork. Evidence suggests iNaturalist can improve learning outcomes and foster **environmental stewardship**.
+- **Bioimaging and specialized ML** — emerging machine-learning tools for bioimaging and species identification in biology teaching.
+
+## Challenges and risks
+
+- **Academic integrity** — GAI easily completes many traditional assessments; detection remains imperfect.
+- **Assessment design** — the need to redesign assessments that AI cannot trivially complete.
+- **Misinformation and hallucination** — AI can produce confident but inaccurate content.
+- **Erosion of critical thinking and independent research skills** — over-reliance on GAI may weaken these.
+- **Environmental cost** — the substantial computing resources behind GAI.
+
+## Recommendations
+
+To maximize benefits while minimizing risks, the review calls for **appropriate professional development for educators** and **clear guidance for students**, plus further rigorous research — particularly on AI's impacts on critical thinking and the integration of AI into **laboratory and field-based activities**.
+
+## Connected Concepts
+
+- [[biology-education]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[academic-integrity]]
+- [[higher-ed]]
+- [[human-ai-collaboration]]
+- [[critical-thinking]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[assessment]]
+- [[ethics]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+
+## Citation
+
+Cotton, P. A., & Cotton, D. R. E. (2026). [Beyond ChatGPT: A review of the use of AI tools in biological education](https://doi.org/10.1080/00219266.2026.2628797). *Journal of Biological Education*. Advance online publication. **CC BY-NC-ND 4.0.**
+
+---
+
 ## [Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World](https://edtechdev.github.io/aied/articles/beyond-detection-authentic-assessment-ai-2025/)
 
 > **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant institutional response to generative AI in assessment — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
@@ -8150,6 +8209,54 @@ Vu, C. B., Cummings, J. J., & Park, D. Y. (2026). [*Student engagement with Chat
 
 ---
 
+## [Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning](https://edtechdev.github.io/aied/articles/chatgpt-math-biology-challenge-based-learning-2025/)
+
+> **Synthesis:** Elizondo-García, Hernández-De la Cerda, Benavides-García, Caratozzolo, and Membrillo-Hernández (2025) report a pilot study using **ChatGPT within challenge-based learning (CBL)** in two higher-education digital courses — *Fundamentals of Biological Systems* (biology) and *Mathematics and Data Science for Decision Making*. Students solved activities with ChatGPT, then verified output quality against high-quality traditional sources. Surveys and NLP topic modeling revealed that students valued ChatGPT for its **immediacy, ease, and accessibility** while raising concerns about the **veracity and depth** of its output, whether it would supplant the teacher, and whether it would erode skill and competency development. The authors call for **updated academic-integrity codes and new AI-use ethics**, and note that teachers should be prepared to use AI and that AI-text detectors should be available for evaluation. ^[[chatgpt-math-biology-challenge-based-learning-2025]]
+
+## Design and context
+
+- **Setting:** Tecnológico de Monterrey, two digital (distance-learning) higher-education courses: biology (Fundamentals of Biological Systems) and mathematics/data science.
+- **Pedagogy:** challenge-based learning (CBL) under the Tec21 educational model — students address real challenges, here using ChatGPT to solve assigned activities.
+- **Verification step:** students were explicitly instructed to validate ChatGPT's outputs against formal, high-academic-quality sources.
+- **Method:** surveys (Likert-scale items) plus NLP analysis of open-ended responses — sentiment analysis, Latent Dirichlet Allocation (LDA), and Latent Semantic Analysis (LSA) topic modeling.
+
+## Student perceptions (findings)
+
+- **Positive:** students appreciated ChatGPT's **immediate access to information, ease, availability**, and clear/concise explanations; it supported personalized and self-directed learning. LDA revealed five themes: (1) information-retrieval tooling, (2) rapid/dynamic learning with technology, (3) ease and speed of use, (4) research and specific responses, and (5) AI as a support tool.
+- **Concerns:** veracity and depth of topics, the tool's reliability (outputs "simplify research" but sometimes lack precision or current data), potential to **supplant the teacher**, and risk of **excessive dependency** that could impair critical thinking, complex reasoning, and problem-solving.
+- **Notably neutral:** sentiment analysis showed 90% neutral responses, indicating students were still largely unfamiliar with ChatGPT's full capabilities — "we are still at the beginning of using this tool."
+- **Academic integrity gap:** a third of surveyed students did not know about modifications to academic-integrity regulations regarding AI use.
+
+## Implications
+
+The study emphasizes the need for **updated academic-integrity codes** and **new ethics for AI use** in higher education. Teachers should be prepared to use AI effectively and critically, and institutions should make AI-text detectors available for evaluation. When used responsibly, AI tools can help solve academic problems across knowledge domains, but implementation must be guided by ethical principles — responsible use, critical engagement with outputs, and fairness/transparency.
+
+## Connected Concepts
+
+- [[biology-education]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[academic-integrity]]
+- [[ethics]]
+- [[ai-literacy]]
+- [[active-learning]]
+- [[critical-thinking]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+
+## Citation
+
+Elizondo-García, M. E., Hernández-De la Cerda, H., Benavides-García, I. G., Caratozzolo, P., & Membrillo-Hernández, J. (2025). [Who is solving the challenge? The use of ChatGPT in mathematics and biology courses using challenge-based learning](https://doi.org/10.3389/feduc.2025.1417642). *Frontiers in Education*, 10, 1417642.
+
+---
+
 ## [Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education](https://edtechdev.github.io/aied/articles/chatgpt-programming-education-text-mining/)
 
 ## Analysis
@@ -8221,6 +8328,62 @@ Learning-by-teaching is an effective active-learning strategy, but traditional t
 ## Citation
 
 Chen, A., Wei, Y., Le, H., & Zhang, Y. (2024). [*Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education*](https://arxiv.org/abs/2412.15226). arXiv:2412.15226 [cs.CY].
+
+---
+
+## [ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology](https://edtechdev.github.io/aied/articles/chatgpt-virtual-lab-teaching-assistant-biology-2026/)
+
+> **Synthesis:** Doğru and Faulconer (2026) tested ChatGPT as a **virtual teaching assistant (VTA)** in an introductory undergraduate biology laboratory course, comparing its responses to student-generated questions about an enzyme-activity lab exercise against those of a cohort of graduate teaching assistants (TAs). Evaluated by subject-matter experts and students, **human TAs were more accurate and demonstrated more substantial teaching effectiveness** (instructor voice, understanding, helpfulness). Notably, students preferred the computer-generated response 40% of the time and could identify an AI-generated response only 45% of the time. The authors conclude ChatGPT can help lift the burden of basic questions from TAs and instructors, but students must understand its **error rate** and a **safety net** is needed to prevent proceeding on incorrect information — a real safety concern in the biology laboratory. ^[[chatgpt-virtual-lab-teaching-assistant-biology-2026]]
+
+## Design
+
+- **Setting:** introductory undergraduate biology laboratory course.
+- **Method:** student-generated questions about a lab exercise on enzyme activity were separately given to ChatGPT and a cohort of graduate TAs.
+- **Evaluation:** responses were rated by subject-matter experts (SMEs) and students on **content accuracy** and **teaching effectiveness** (instructor voice, understanding, helpfulness).
+
+## Findings
+
+- **Accuracy:** human TAs provided more accurate responses than ChatGPT.
+- **Teaching effectiveness:** human TAs demonstrated more substantial teaching effectiveness across instructor voice, understanding, and helpfulness — significant on most items for both SME and student ratings.
+- **Preference and detection:** students preferred the computer-generated response 40% of the time, and could identify an AI-generated response only 45% of the time — a meaningful share of AI output was both preferred and undetected.
+- **SMEs:** ChatGPT's overall content accuracy was rated *acceptable* but with a notable error rate on specialized biology terminology and concepts.
+
+## The biology-specific challenge
+
+The authors note LLMs may struggle with **specialized terminology and concepts in biology**, leading to incorrect or misleading information — a concern amplified in a laboratory context where inaccurate information can present **safety risks**. They draw parallels to prior findings that ChatGPT gives incomplete/misleading answers to physics questions and errors on complex tasks.
+
+## Implications
+
+- **VTA value:** ChatGPT can serve as a resource to students and lift a burden from TAs/instructors for answering basic questions.
+- **Safety net required:** students must understand the system's error rate, and safeguards must ensure students do not proceed with incorrect information in the lab.
+- **For human TAs:** even a human TA should carefully consider using AI to draft responses, with careful attention to accuracy, editing, and addressing voice, understanding, and helpfulness.
+- **Future research:** cognitive load associated with ChatGPT as a VTA — it may reduce intrinsic load by providing immediate answers while enhancing germane load through on-demand conversational questioning.
+
+## Connected Concepts
+
+- [[biology-education]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[simulation]]
+- [[intelligent-tutoring]]
+- [[feedback]]
+- [[ai-literacy]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[ai-supported-experimental-design-chemistry-2026]] — AI in laboratory/experimental design (chemistry)
+- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation with AI
+
+## Citation
+
+Doğru, M. S., & Faulconer, E. K. (2026). [ChatGPT as a virtual laboratory teaching assistant in undergraduate biology](https://doi.org/10.1007/s11165-025-10271-z). *Research in Science Education*, 56, 379–399.
 
 ---
 
@@ -9831,7 +9994,7 @@ Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aim
 
 ## [Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education](https://edtechdev.github.io/aied/articles/context-based-ai-secondary-chemistry-2026/)
 
-> **Synthesis:** Abdikayumova and Madybekova (2026) use a mixed-methods, quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary chemistry. The experimental group, using **PhET interactive simulations and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest engagement**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. ^[[context-based-ai-secondary-chemistry-2026]]
+> **Synthesis:** Abdikayumova and Madybekova (2026) use a mixed-methods, quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary chemistry. The experimental group, using **PhET interactive simulations and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. ^[[context-based-ai-secondary-chemistry-2026]]
 
 ## Design and intervention
 
@@ -10462,6 +10625,62 @@ The findings connect to [[ethics]] and [[equity-in-ai-education]] debates: if te
 ## Citation
 
 Santos-Albardía, M., Peña-Fernández, S., & Agirreazkuenaga, I. (2025). [*Technology, education and critical media literacy: potential, challenges, and opportunities*](https://doi.org/10.3389/fhumd.2025.1608911). Frontiers in Human Dynamics, 7, 1608911.
+
+---
+
+## [Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education](https://edtechdev.github.io/aied/articles/critical-thinking-biological-sciences-ai-2025/)
+
+> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **critical thinking in the biological sciences** must be deliberately cultivated in higher education. While AI provides powerful tools for data interpretation and pattern recognition, **human oversight and critical analysis remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and ethical considerations, and recommend strategically deploying AI tools (including chatbots) within **active-learning methods** such as problem-based learning, flipped classrooms, and online learning — while preserving direct human mentorship. ^[[critical-thinking-biological-sciences-ai-2025]]
+
+## The argument
+
+AI is transforming biological research — accelerating discovery, reshaping data analysis, and informing hypothesis generation — which demands that students and scientists **critically assess AI-generated outputs**. The review stresses three pillars:
+
+- **Skepticism** — treat AI outputs as hypotheses to be validated, not as authoritative findings.
+- **Contextual understanding** — interpret AI results within the broader biological, methodological, and theoretical context.
+- **Ethical considerations** — uphold scientific integrity and address the biases and limits of automated systems.
+
+## The indispensable role of human oversight
+
+Despite AI's power in data interpretation and pattern recognition, **human oversight and critical analysis remain essential** to validate findings and prevent biases inherent in automated systems. The review aligns with the broader concern that over-reliance on AI could erode the very critical-thinking skills that scientists need.
+
+## Active-learning strategies for AI integration
+
+AI tools, including chatbots, can be **strategically employed within active-learning methodologies**:
+- **Problem-based learning** — AI supports inquiry and hypothesis generation while students reason through problems.
+- **Flipped classrooms** — AI provides preparatory content, freeing in-class time for reasoning and discussion.
+- **Online learning** — AI supports engagement and individualized pacing.
+
+These approaches enhance students' ability to use AI effectively while maintaining the rigor of scientific research.
+
+## Balancing AI and human mentorship
+
+The conclusion is emphatic: incorporating AI **should not diminish the role of educators**. Educators play an irreplaceable role in interpreting AI outputs, contextualizing knowledge, and integrating ethical considerations into the curriculum. The goal is a learning environment where **AI complements traditional teaching** — preparing students not just to use technology effectively but to develop the critical-thinking skills to use it *wisely*, upholding high ethical standards in the biological sciences.
+
+## Connected Concepts
+
+- [[biology-education]]
+- [[critical-thinking]]
+- [[higher-ed]]
+- [[ethics]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[active-learning]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+
+## Citation
+
+Papaneophytou, C., & Nicolaou, S. A. (2025). [Promoting critical thinking in biological sciences in the era of artificial intelligence: The role of higher education](https://doi.org/10.3390/higheredu4020024). *Trends in Higher Education*, 4, 24.
 
 ---
 
@@ -18480,7 +18699,7 @@ Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guid
 
 **ChatGPT** was perceived as a **personalized tool for self-regulated learning**, its role shifting with achievement:
 - **Patient Tutor** for low-achievers — non-judgmental, always-available support
-- **Personal Coach** for medium-achievers — guided practice and feedback
+- **Personal Coach** for medium-achievers — guided practice and [[feedback]]
 - **Intellectual Sparring Partner** for high-achievers — challenging and probing ideas
 
 ## The Instructor–AI Synergistic Learning Ecosystem model
@@ -26061,7 +26280,7 @@ Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-I
 
 ## [Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry](https://edtechdev.github.io/aied/articles/philosophy-experimentation-ai-chemistry-2026/)
 
-> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in chemistry education**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **agency shift** (AI's role in decision-making raises questions about the locus of scientific creativity), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. ^[[philosophy-experimentation-ai-chemistry-2026]]
+> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in chemistry education**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific creativity), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. ^[[philosophy-experimentation-ai-chemistry-2026]]
 
 ## AI and the epistemology of experimentation
 
@@ -33299,7 +33518,7 @@ Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Und
 
 The authors synthesize recent (2024–2025) research into four pillars:
 
-1. **AI chemical literacy** — Students value chatbots for feedback but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced critical thinking and data-privacy risks.
+1. **AI chemical literacy** — Students value chatbots for feedback but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced [[critical-thinking|critical thinking]] and data-privacy risks.
 2. **Technical accuracy and reasoning** — Frontier models (e.g., o1) can outperform average chemists on general knowledge but struggle with **spatial reasoning (NMR)** and are overconfident in wrong answers; LLMs perform poorly on rigorous quantitative tasks (ChemBench, QCBench), and simple notation changes degrade retrieval (ChemLMs). Direct LLM queries for molecular properties often fail.
 3. **Pedagogical principles** — Unrestricted access to AI answers can bypass the **productive struggle** needed for deep conceptual learning; local RAG-based tutors that question rather than answer show promise; students struggle to write effective prompts initially, but structured frameworks improve interaction over time.
 4. **Ethics and epistemology** — Students are optimistic about AI utility but fear labor displacement and loss of human ownership/authorship; policy ambiguity burdens students navigating ethical boundaries; generative image models could amplify demographic biases (e.g., the "white male chemist"); and **reliance on opaque data-driven models may detach inquiry from causal understanding — "epistemic drift."**
@@ -33315,9 +33534,9 @@ UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member State
 
 ## Epistemic drift
 
-The article's central conceptual warning is **epistemic drift**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
+The article's central conceptual warning is **[[philosophy-of-ai-in-education|epistemic drift]]**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
 
-## Prompt engineering for scientific illustration
+## [[prompt-engineering|Prompt engineering]] for scientific illustration
 
 The authors demonstrate prompt engineering techniques for **scientific illustration generation** in chemistry and physical chemistry, discussing their advantages (rapid visualization of molecular phenomena) and limitations (accuracy, representational bias), underscoring the need for students to interrogate AI-generated visualizations.
 
@@ -34607,6 +34826,7 @@ The authors also offer practical guidance for educators: activate prior subject 
 - [[ai-literacy]]
 - [[k-12]]
 - [[k-12]]
+- [[biology-education]]
 - [[stem-education]]
 - [[curriculum-design]]
 - [[instructional-design]]
@@ -35032,6 +35252,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[higher-ed]]
 - [[k-12]]
 - [[framing-ai-use-for-students]]
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
@@ -35058,6 +35279,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review: AI as threat and detection tool for academic integrity
 - [[generative-ai-reduced-study-time-math]] — Proctored retention decline (25%) shows AI inflates non-proctored performance
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -35213,6 +35436,8 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
 - [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 
 ---
 
@@ -36009,6 +36234,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[trust-calibration]]
 - [[framing-ai-use-for-students]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
@@ -36079,6 +36305,10 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -36329,6 +36559,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[generative-ai]]
 - [[feedback-literacy]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
@@ -36354,6 +36585,10 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -36851,15 +37086,67 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 
 ---
 
-## [Chemistry Education](https://edtechdev.github.io/aied/concepts/chemistry-education/)
+## [Biology Education](https://edtechdev.github.io/aied/concepts/biology-education/)
 
-> **Chemistry Education** — the study of how students learn chemistry and how to teach it more effectively, spanning [[generative-ai|GenAI]] in laboratory and experimental design, AI-mediated formative assessment, context-based and inquiry-based instruction, the technical accuracy of LLMs on chemistry tasks, and the philosophy of experimentation in the AI age. Chemistry education research engages the discipline's distinctive demands — abstract, submicroscopic concepts, symbolic and representational notation (formulas, SMILES, spectra), and hands-on laboratory practice — which make it a rich and distinctive context for studying how AI both supports and challenges learning.
+> **Biology Education** — the study of how students learn biology and how to teach it more effectively, spanning AI-assisted laboratory instruction, AI literacy embedded in biology curricula, critical thinking in the AI era, and the use of specialized tools (species identification, bioimaging, predictive modeling) in biological education. Biology's distinctive demands — large bodies of specialized terminology, visual-spatial and systems thinking, hands-on laboratory and fieldwork, and increasingly computational 'omics methods — make it a rich context for examining both the promise and the risks of AI in STEM learning.
 
-Chemistry education has become a fertile domain for AI-in-education research because chemistry combines **abstract conceptual content**, **specialized symbolic representation**, and **physical laboratory practice**. AI tools (notably ChatGPT and conversational agents) are used to explain complex topics, support laboratory work and experimental design, provide personalized feedback and formative assessment, and simulate experiments. At the same time, research documents LLM **technical limits** on rigorous chemistry tasks and the risk of **epistemic drift** and over-reliance.
+Biology education research on AI clusters around a tension: AI has revolutionized biology *research* (AlphaFold, 'omics, computational biology), yet its adoption in biology *education* has been cautious amid concerns about generative-AI cheating, misinformation, and erosion of critical thinking. The wiki's biology articles collectively examine how AI tools function as laboratory teaching assistants, how AI literacy can be embedded in biology courses, how critical thinking must be protected in the AI era, and how specialized AI tools support fieldwork and species identification.
 
 ### Key research themes
 
-**AI-supported laboratory and experimental design** is a distinctive strength of chemistry-education research. **[[ai-supported-experimental-design-chemistry-2026|Yim & Lui]]** integrated AI chatbots into an upper-division undergraduate analytical chemistry lab: students used AI to **design lab manuals**, implemented them hands-on, and had them validated by certification professionals — significantly enhancing experimental confidence and critical-thinking/problem-solving skills while shifting staff roles from "cookbook" demonstration toward guidance. The [[philosophy-experimentation-ai-chemistry-2026|philosophy-of-experimentation]] strand examines how AI reshapes the epistemology, ontology (AI predictions in a "liminal" space), and methodology of chemistry experiments, and warns of **agency shift** and over-reliance.
+**AI in the biology laboratory.** **[[chatgpt-virtual-lab-teaching-assistant-biology-2026|Doğru & Faulconer]]** tested ChatGPT as a **virtual teaching assistant** in an undergraduate biology lab, finding human TAs more accurate and more effective, though students preferred the AI response 40% of the time and detected AI output only 45% of the time — highlighting both the burden-lifting potential and the safety-need for a "safety net" against incorrect lab information. This parallels the chemistry strand's [[ai-supported-experimental-design-chemistry-2026|AI-supported experimental design]] and [[philosophy-experimentation-ai-chemistry-2026|philosophy of experimentation]] — shared concern for AI in hands-on science labs.
+
+**AI literacy embedded in biology curricula.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** integrated machine-learning and neural-network concepts into a high-school honors biology course, finding significant gains in AI knowledge and that biology context supported AI learning — evidence for embedding AI literacy in [[stem-education]] rather than relegating it to extracurriculars. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** used ChatGPT within **challenge-based learning** in biology and math courses, finding students valued immediacy but worried about veracity, teacher replacement, and skill erosion — calling for updated academic-integrity codes and AI-use ethics.
+
+**Critical thinking in the AI era.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]]** argue that as AI shapes biological research, **critical thinking** — skepticism, contextual understanding, and ethical reasoning — must be deliberately cultivated, with human oversight remaining indispensable to validate AI outputs and prevent bias. This connects to the wiki-wide [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns.
+
+**Specialized AI tools and the broader review.** **[[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]]** review the full landscape of AI tools in biological education, including **iNaturalist and Google Lens** for species identification, bioimaging and machine-learning tools, assistive technologies, and predictive modeling of at-risk students — alongside the integrity, assessment-design, misinformation, and critical-thinking challenges of generative AI.
+
+### Connections to related concepts
+
+Biology education sits within the broader [[stem-education]] domain and shares the laboratory-practice and specialized-terminology concerns of [[chemistry-education]] and [[physics-education]]. Distinctive connections: to [[critical-thinking]] through the AI-era emphasis on skepticism and oversight; to [[ai-literacy]] through embedding AI concepts in biology courses; to [[human-ai-collaboration]] through virtual lab assistants and challenge-based learning; to [[academic-integrity]] and [[ethics]] through generative-AI misuse and policy; and to [[assessment]] through AI-mediated evaluation. The [[higher-ed]] and [[k-12]] concepts capture the levels at which biology AI research occurs, and [[intelligent-tutoring]] and [[simulation]] connect to AI-assisted lab and teaching support.
+
+## Connected Concepts
+
+- [[stem-education]]
+- [[chemistry-education]]
+- [[physics-education]]
+- [[discipline-specific-aied]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[human-ai-collaboration]]
+- [[academic-integrity]]
+- [[ethics]]
+- [[intelligent-tutoring]]
+- [[simulation]]
+- [[feedback]]
+- [[assessment]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[higher-ed]]
+- [[k-12]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
+
+---
+
+## [Chemistry Education](https://edtechdev.github.io/aied/concepts/chemistry-education/)
+
+> **Chemistry Education** — the study of how students learn chemistry and how to teach it more effectively, spanning [[generative-ai|GenAI]] in laboratory and experimental design, AI-mediated [[formative-assessment|formative assessment]], context-based and inquiry-based instruction, the technical accuracy of LLMs on chemistry tasks, and the philosophy of experimentation in the AI age. Chemistry education research engages the discipline's distinctive demands — abstract, submicroscopic concepts, symbolic and representational notation (formulas, SMILES, spectra), and hands-on laboratory practice — which make it a rich and distinctive context for studying how AI both supports and challenges learning.
+
+Chemistry education has become a fertile domain for AI-in-education research because chemistry combines **abstract conceptual content**, **specialized symbolic representation**, and **physical laboratory practice**. AI tools (notably ChatGPT and conversational agents) are used to explain complex topics, support laboratory work and experimental design, provide personalized [[feedback]] and [[formative-assessment|formative assessment]], and [[simulation|simulate]] experiments. At the same time, research documents LLM **technical limits** on rigorous chemistry tasks and the risk of **epistemic drift** and over-reliance.
+
+### Key research themes
+
+**AI-supported laboratory and experimental design** is a distinctive strength of chemistry-education research. **[[ai-supported-experimental-design-chemistry-2026|Yim & Lui]]** integrated AI chatbots into an upper-division undergraduate analytical chemistry lab: students used AI to **design lab manuals**, implemented them hands-on, and had them validated by certification professionals — significantly enhancing experimental confidence and [[critical-thinking|critical-thinking]]/problem-solving skills while shifting staff roles from "cookbook" demonstration toward guidance. The [[philosophy-experimentation-ai-chemistry-2026|philosophy-of-experimentation]] strand examines how AI reshapes the epistemology, ontology (AI predictions in a "liminal" space), and methodology of chemistry experiments, and warns of **[[agency|agency shift]]** and over-reliance.
 
 **Context-based and inquiry-based instruction** uses AI within structured pedagogies. **[[context-based-ai-secondary-chemistry-2026|Abdikayumova & Madybekova]]** combined the **7E instructional model** with PhET simulations and ChatGPT tutoring for Grade 10 chemistry, finding significantly higher achievement and engagement than inquiry-only or conventional teaching — demonstrating the synergy of contextualization, structured inquiry, and adaptive AI. This connects to [[constructivist]] and [[personalized-learning]] frameworks.
 
@@ -36898,6 +37185,7 @@ Chemistry education sits within the broader [[stem-education]] domain and shares
 - [[higher-ed]]
 - [[k-12]]
 - [[agency]]
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 
@@ -36907,10 +37195,6 @@ Chemistry education sits within the broader [[stem-education]] domain and shares
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-
-## Citation
-
-The chemistry-education concept is synthesized from the wiki's chemistry AI-in-education articles (2025–2026).
 
 ---
 
@@ -37039,6 +37323,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[embodied-learning]]
 - [[formative-assessment]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -37090,6 +37375,10 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -37455,6 +37744,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[generative-ai]]
 - [[higher-ed]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -37475,6 +37765,10 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -37936,6 +38230,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
 - **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
 - **[[chemistry-education]]** — AI in laboratory/experimental design, AI-mediated formative assessment, context-based and inquiry-based instruction, LLM technical limits on chemistry tasks, and the philosophy of experimentation.
+- **[[biology-education]]** — AI in laboratory instruction, AI literacy embedded in biology curricula, critical thinking in the AI era, and specialized tools (species identification, bioimaging, predictive modeling).
 - **[[cs-education]]** — AI for code generation, debugging, and novice programming support.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
@@ -37963,6 +38258,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 - **Mathematics** — problem-solving, procedural fluency, and conceptual understanding. AI research emphasizes [[socratic-method|Socratic tutoring]] ([[oatutor-open-source-adaptive-tutor-2023|OATutor]]), [[adaptive-learning|adaptive]] practice, and diagnosing student misconceptions.
 - **Physics** — model-based reasoning, experimentation, and [[simulation]]. AI research uses virtual labs ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion]]), chatbots ([[becker-chatgpt-typology-physics-2026|ChatGPT typology]]), and problem-posing ([[genai-assisted-problem-posing-physics-2026|GenAI problem-posing]]).
 - **Chemistry** — abstract submicroscopic concepts, specialized notation, and laboratory practice. AI research spans AI-supported experimental design ([[ai-supported-experimental-design-chemistry-2026|AI-designed lab manuals]]), context-based 7E instruction with AI tutoring ([[context-based-ai-secondary-chemistry-2026|context-based + AI]]), AI-mediated formative assessment ([[instructor-ai-roles-chatgpt-formative-assessment-2026|instructor–AI roles]]), and the philosophy of experimentation ([[philosophy-experimentation-ai-chemistry-2026|philosophy of experimentation]]).
+- **Biology** — specialized terminology, systems/visual-spatial thinking, and hands-on laboratory and fieldwork. AI research spans virtual lab teaching assistants ([[chatgpt-virtual-lab-teaching-assistant-biology-2026|ChatGPT as VTA]]), AI literacy embedded in biology curricula ([[zha-ai-literacy-biology-case-study|AI literacy in a biology class]]), ChatGPT in challenge-based learning ([[chatgpt-math-biology-challenge-based-learning-2025|ChatGPT in CBL]]), critical thinking in the AI era ([[critical-thinking-biological-sciences-ai-2025|critical thinking in bio sciences]]), and the AI-tools landscape ([[beyond-chatgpt-ai-tools-biological-education-2026|AI tools review]]).
 - **Engineering** — design thinking, hands-on/laboratory learning, and professional formation. AI research addresses instructors' [[engineering-faculty-metaphors-ai-understanding-2026|metaphors for AI]], [[ethical-use-ai-engineering-education-review-2026|ethical governance of AI use]], [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce preparation]].
 - **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
 - **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
@@ -37973,7 +38269,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -37993,6 +38289,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[math-education]]
 - [[physics-education]]
 - [[chemistry-education]]
+- [[biology-education]]
 - [[cs-education]]
 - [[writing-education]]
 - [[language-learning]]
@@ -38295,6 +38592,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[teacher-ai-competency]]
 - [[framing-ai-use-for-students]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -38319,6 +38617,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -38635,6 +38934,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-role]]
 - [[teacher-education]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
@@ -38660,6 +38960,9 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture of academic integrity as the ethical response to AI
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -38916,6 +39219,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-literacy]]
 - [[writing-education]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -38947,6 +39251,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflow
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Hybrid teacher-GenAI feedback outperforms either alone
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 
 ---
 
@@ -39231,6 +39536,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]]
 
 - [[tpack]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
@@ -39280,6 +39586,10 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -39565,6 +39875,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -39617,6 +39928,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -39659,6 +39974,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[creativity]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
@@ -39688,6 +40004,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -40079,6 +40398,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[behaviorism]]
 - [[assessment-validity]]
 - [[k-12]]
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
@@ -40121,6 +40441,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[li-ai-science-situated-learning-teachers-2025]] — AI in science situated learning
 
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 
 ---
 
@@ -40222,6 +40543,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[collaborative-learning]]
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -41947,6 +42269,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[higher-ed]]
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
@@ -42392,6 +42715,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[trust-calibration]]
 - [[framing-ai-use-for-students]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
@@ -42419,6 +42743,10 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 ---
 
@@ -42986,6 +43314,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[trust-calibration]]
 - [[professional-training]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
@@ -43001,6 +43330,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 
 ---
 
@@ -43199,10 +43529,6 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
 
-## Citation
-
-Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes.* Harvard University Press.
-
 ---
 
 ## [Socratic Method](https://edtechdev.github.io/aied/concepts/socratic-method/)
@@ -43385,6 +43711,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[discipline-specific-aied]]
 - [[teacher-education]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era

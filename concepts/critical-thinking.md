@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -35,6 +35,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[generative-ai]]
 - [[higher-ed]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -55,3 +56,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education

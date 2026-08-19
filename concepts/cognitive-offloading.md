@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -86,6 +86,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[embodied-learning]]
 - [[formative-assessment]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -137,3 +138,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education

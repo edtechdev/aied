@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T01:50:00-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [active-learning, instructional-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
 confidence: high
@@ -79,3 +79,5 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: visual exploratory learning via multi-agent simulation
 - [[knowloop-confusion-to-consolidation-2026]] — KnowLoop: staged conversational post-lecture review
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
+- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI

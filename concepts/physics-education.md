@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-19T11:35:39-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 
@@ -49,6 +49,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[higher-ed]]
 - [[discipline-specific-aied]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
