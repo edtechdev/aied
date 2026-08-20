@@ -1,7 +1,10 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 857
+**Last updated:** 2026-08-20 | **Total entries:** 858
 
 ## "2026-08-20
+- ● [[ai-student-engagement-online-learning-review-2025]] — ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
+  Artificial Intelligence and Student Engagement in Online Learning: A Literature Review
+  #online-education #online-learning #student-engagement #literature-review #chatbots #affective-computing #learning-analytics #higher-ed
 - ● [[remote-proctoring]] — 
   Remote Proctoring
   #remote-proctoring #academic-integrity #summative-assessment #online-education #automated-proctoring #privacy #equity #higher-ed
@@ -21,7 +24,7 @@
   'Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences'
   #community-of-inquiry #online-education #shared-metacognition #generative-ai #collaborative-learning #theoretical-framework #higher-ed
 - ● [[chatgpt-perception-online-learning-engagement-2026]] — ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
-  'How Does Students\' Perception of ChatGPT Shape Online Learning Engagement and Performance?'
+  How Does Students' Perception of ChatGPT Shape Online Learning Engagement and Performance?
   #chatgpt #generative-ai #online-education #online-learning #student-engagement #academic-performance #structural-equation-modeling #higher-ed
 - ◐ [[ai-decision-support-online-learning-assessment-2026]] — ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
   'Architecting an AI-Driven Decision Support System for Enhanced Online Learning and Assessment'

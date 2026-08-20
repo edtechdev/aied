@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 749 articles and 146 concepts.
+> Complete text of 750 articles and 146 concepts.
 
 # Articles
 
@@ -5008,6 +5008,52 @@ Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities 
 
 ---
 
+## [Artificial Intelligence and Student Engagement in Online Learning: A Literature Review](https://edtechdev.github.io/aied/articles/ai-student-engagement-online-learning-review-2025/)
+
+> **Synthesis:** Zhou (2025) systematically reviews 24 studies from the Web of Science database on how AI enhances student engagement in online learning. Six key applications emerge: AI chatbots in course design, emotion/facial/voice recognition and eye tracking, machine learning for data analysis, teacher–student interaction support, personalized feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.
+
+## Key Findings
+
+- **Six AI applications support engagement.** The review classifies AI use into: (1) AI chatbots integrated into online course design, (2) emotion, facial, voice recognition and eye tracking, (3) machine learning for data analysis, (4) teacher–student interaction support, (5) personalized feedback and recommendations, and (6) AI-powered bots in smart learning environments.
+- **Chatbots foster engagement through timely, personalized support.** AI-powered [[pedagogical-agent|chatbots]] are effective across learning domains and stages — delivering course information, interactive practice, and information retrieval — with comparative analyses finding them especially effective when deployed for personalized, on-demand assistance.
+- **Affective and behavioral monitoring.** Emotion recognition, facial and voice tracking, and eye tracking enable real-time assessment of behavioral, emotional, and cognitive engagement — recognizing states from boredom and confusion to interest and enjoyment using facial expressions, physiological signals, and voice data.
+- **Common data sources and measurement.** Studies rely on video recordings, activity logs, standardized datasets, and surveys; engagement is typically measured through multi-method approaches combining surveys, AI recognition, and coded activity data.
+- **Integration improves insight.** Combining diverse AI tools and data sources provides more accurate, real-time insight into students' cognitive, emotional, and behavioral engagement than single-source approaches.
+
+## Study Design & Method
+
+A systematic literature review of 24 peer-reviewed studies retrieved from the Web of Science database. The review synthesized how AI has been implemented to foster student engagement in fully online learning (excluding blended and flipped contexts), classifying applications and examining the data resources and measurement approaches used. Engagement is treated as a multi-dimensional construct spanning behavioral participation, emotional investment, and cognitive involvement.
+
+## Implications for AI in Education
+
+In [[online-teaching-and-learning|online learning]], where autonomy and [[self-regulated-learning|self-regulation]] demands make sustained engagement harder than in person, AI offers real-time monitoring, personalized feedback, and interactive tools to support [[student-engagement|engagement]]. For designers, the review recommends integrating multiple AI modalities and data sources rather than relying on a single signal, and measuring engagement across cognitive, emotional, and behavioral dimensions. Future work should examine real-time interventions, long-term impacts, [[ethics|ethical considerations]], and the differences between synchronous and asynchronous online learning.
+
+## Connected Concepts
+
+- [[student-engagement]]
+- [[online-teaching-and-learning]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[pedagogical-agent]]
+- [[affective-computing]]
+- [[learning-analytics]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: systematic review of learner engagement and satisfaction
+- [[chatgpt-perception-online-learning-engagement-2026]] — How students' perception of ChatGPT shapes online learning engagement
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards as engagement tools
+- [[genai-tutor-engagement-patterns]] — Patterns in GenAI tutor use and engagement
+
+## Citation
+
+Zhou, Z. (2025). [*Artificial intelligence and student engagement in online learning: a literature review*](https://doi.org/10.1080/08923647.2025.2594282). *American Journal of Distance Education*. Advance online publication.
+
+---
+
 ## [Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design](https://edtechdev.github.io/aied/articles/ai-supported-experimental-design-chemistry-2026/)
 
 > **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI [[pedagogical-agent|chatbots]] into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group [[feedback|feedback]] indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
@@ -8558,7 +8604,7 @@ Elizondo-García, M. E., Hernández-De la Cerda, H., Benavides-García, I. G., C
 
 ---
 
-## [How Does Students\' Perception of ChatGPT Shape Online Learning Engagement and Performance?](https://edtechdev.github.io/aied/articles/chatgpt-perception-online-learning-engagement-2026/)
+## [How Does Students' Perception of ChatGPT Shape Online Learning Engagement and Performance?](https://edtechdev.github.io/aied/articles/chatgpt-perception-online-learning-engagement-2026/)
 
 > **Synthesis:** This SEM-based study tested whether students' perception of ChatGPT (knowledge, willingness to use, and concerns) shapes online learning engagement across behavioral, emotional, and cognitive dimensions, and whether engagement in turn drives academic performance. Using survey data from 305 graduate students in Iran, the authors found that ChatGPT perception accounts for 19.2% of variance in engagement, while perception plus engagement together explain 40.4% of variance in academic performance. Online learning engagement significantly mediates the perception→performance link, underscoring its pivotal role in translating AI adoption into academic gains.
 
@@ -36070,6 +36116,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[ai-decision-support-online-learning-assessment-2026]]
@@ -36235,6 +36282,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[ai-sycophancy]]
 ## Connected Articles
 
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[ai-assisted-learning-modes-eeg]]
 - [[ai-campus-wellbeing-tools]]
@@ -40708,6 +40756,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
@@ -41614,6 +41663,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[interactive-online-learning-ai-2025]]
 - [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
@@ -42431,6 +42481,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
@@ -42725,6 +42776,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 
 ## Connected Articles
 
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
@@ -42838,6 +42890,7 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 
 ## Connected Articles
 
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
@@ -43261,6 +43314,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[ai-distance-education-systematic-review-2026]]
@@ -44385,6 +44439,7 @@ For example:
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
@@ -45080,6 +45135,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
