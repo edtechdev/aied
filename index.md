@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-20 | **Total pages:** 895
+**Last updated:** 2026-08-20 | **Total pages:** 896
 ---
 ## Quick Links
 
@@ -121,6 +121,7 @@
 - [[ai-science-chemistry-education-systematic-review-2025]] — Artificial Intelligence in Science and Chemistry Education: A Systematic Review
 - [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
+- [[ai-student-engagement-online-learning-review-2025]] — Artificial Intelligence and Student Engagement in Online Learning: A Literature Review
 - [[ai-supported-experimental-design-chemistry-2026]] — Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design
 - [[ai-sycophancy]] — AI Sycophancy
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
@@ -206,7 +207,7 @@
 - [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
 - [[chatgpt-inoculation-training-verification-2026]] — Student engagement with ChatGPT for educational tasks: Effects of inoculation training on verification intentions and behavior
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning
-- [[chatgpt-perception-online-learning-engagement-2026]] — How Does Students\' Perception of ChatGPT Shape Online Learning Engagement and Performance?
+- [[chatgpt-perception-online-learning-engagement-2026]] — How Does Students' Perception of ChatGPT Shape Online Learning Engagement and Performance?
 - [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
 - [[chatgpt-teachable-agent-programming-lbt-2024]] — Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology

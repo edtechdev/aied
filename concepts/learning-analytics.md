@@ -41,6 +41,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[interactive-online-learning-ai-2025]]
 - [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
