@@ -24,6 +24,7 @@ The framework challenges educators to evaluate not just outputs but the distribu
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[adult-learning]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]

@@ -38,6 +38,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning

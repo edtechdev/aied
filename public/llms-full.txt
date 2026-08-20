@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 752 articles and 146 concepts.
+> Complete text of 753 articles and 147 concepts.
 
 # Articles
 
@@ -3778,6 +3778,7 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[lifelong-learning]]
 - [[equity-in-ai-education]]
 - [[educational-policy-ai]]
@@ -6332,6 +6333,7 @@ The framework challenges educators to evaluate not just outputs but the distribu
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[adult-learning]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
@@ -15263,6 +15265,7 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[ai-ed-evaluation]]
 - [[ai-feedback-quality]]
 - [[constructivist]]
@@ -16490,6 +16493,51 @@ The two most frequent comparison themes were the nature of the feedback **inform
 ## Citation
 
 Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2026). Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2502582), 51(5), 863–878
+
+---
+
+## [Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences](https://edtechdev.github.io/aied/articles/genai-thoughtless-use-self-directed-learning-2026/)
+
+> **Synthesis:** Zhao & Gu (2026), grounded in Social Cognitive Theory, survey 487 undergraduates in Henan Province, China, and use multi-group SEM to show that the **thoughtless use of generative AI (TUGA)** — adopting AI answers without critically evaluating or understanding them — significantly undermines [[self-directed-learning|self-directed learning (SDL)]]. This negative effect operates both directly and through the partial mediation of [[self-efficacy|self-efficacy (SE)]] and [[motivation]]. Multi-group analysis reveals substantial **gender differences**: the negative impact of thoughtless use on motivation was stronger for male students, while effects on self-efficacy were stronger for female students.
+
+## Key Findings
+
+- **TUGA directly harms self-directed learning.** Thoughtless use of GenAI had a significant direct negative effect on undergraduates' SDL (β = −0.42, t = 6.76, p < .001). The model — TUGA, self-efficacy, and motivation — explained **75.3%** of the variance in SDL.
+- **Strongest predictor was motivation.** Among direct predictors of SDL, [[motivation]] had the strongest positive effect (β = 0.68, t = 11.63, p < .001), followed by the negative effect of TUGA and the positive effect of [[self-efficacy]] (β = 0.23, t = 3.93, p < .001).
+- **TUGA erodes both self-efficacy and motivation.** Thoughtless use significantly and negatively predicted motivation (β = −0.54, t = 8.53, p < .001) and self-efficacy (β = −0.37, t = 4.75, p < .001), while self-efficacy positively predicted motivation (β = 0.78, t = 23.56, p < .001).
+- **Partial mediation through SE and motivation.** Indirect effects through motivation (β = −0.37, p < .001), self-efficacy (β = −0.09, p = .012), and the sequential self-efficacy→motivation path (β = −0.20, p = .003) were all significant, alongside the significant direct effect — indicating partial mediation.
+- **Gender differences.** The negative impact of thoughtless use on learning motivation was significantly **stronger for male students**, while its effects on self-efficacy were significantly **stronger for female students** (partial measurement invariance: significant variance differences for motivation and SDL, not for SE and TUGA).
+
+## Study Design & Method
+
+A quantitative study grounded in Social Cognitive Theory. 487 undergraduates from Henan Province, China, were surveyed via snowball sampling. Structural equation modeling (PLS-SEM with SmartPLS) tested the relationships among thoughtless GenAI use (TUGA), self-efficacy (SE), motivation, and self-directed learning (SDL), including mediation (bootstrapping) and multi-group analysis (PLS-MGA with the Welch–Satterthwaite method) to examine gender differences. Measurement invariance was assessed via MICOM. Model fit was acceptable (SRMR = 0.063).
+
+## Implications for AI in Education
+
+The study links the risk of [[cognitive-offloading|unreflective AI reliance]] to the erosion of students' capacity for [[self-directed-learning|self-directed learning]], [[self-efficacy]], and [[motivation]] — and shows these harms are not gender-neutral. For institutions, it reinforces the value of promoting [[ai-literacy|responsible AI use]] that preserves critical evaluation and independent learning rather than simply banning or uncritically encouraging GenAI. Because motivation is the strongest lever on SDL, and thoughtless use suppresses it, interventions that rebuild learner agency and self-efficacy may buffer the negative effects of AI overreliance — a concern shared with the wiki's [[ai-misuse-learning-harm|misuse-and-harm]] and [[cognitive-offloading|over-reliance]] literature.
+
+## Connected Concepts
+
+- [[self-directed-learning]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[self-efficacy]]
+- [[motivation]]
+- [[ai-misuse-learning-harm]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI use and learning outcomes
+- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
+- [[chatgpt-perception-online-learning-engagement-2026]] — ChatGPT perception and online learning engagement
+
+## Citation
+
+Zhao, H., & Gu, H. (2026). [*Thoughtless use of generative artificial intelligence and college students' self-directed learning: a multi-group SEM analysis of gender differences*](https://doi.org/10.1038/s41598-026-54337-y). *Scientific Reports*, 16, 24567.
 
 ---
 
@@ -29757,6 +29805,7 @@ Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[learning-analytics]]
 - [[personalized-learning]]
@@ -36299,6 +36348,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[higher-ed]]
 - [[professional-training]]
@@ -36469,6 +36519,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[motivation]]
 - [[self-efficacy]]
@@ -36990,6 +37041,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[student-experience]]
 - [[higher-ed]]
@@ -37022,6 +37074,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-communities-of-inquiry-2026]]
@@ -37139,6 +37192,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[remote-proctoring]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
@@ -37152,6 +37206,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Articles
 
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
@@ -38180,6 +38235,7 @@ The wiki's research documents over-reliance as one of the most consequential ris
 - **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] show reminder bias — the laboratory analogue of over-reliance — can be reduced with a brief metacognitive intervention (five practice trials pairing a prediction with feedback), correcting calibration in both directions. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided**.
 - **Field evidence: AI that coaches vs. AI that answers.** [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found that AI support that coached rather than gave answers slowed students down but reduced effort-avoidance — improving next-attempt correctness after mistakes with more time per question (a "productive slowdown") — while [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] showed that without structure making mistakes consequential, students default to shallow use (bare answers, prompt clicks) and gains match practice without AI. Both confirm that offloading's harm is contingent on **how** AI is used and designed, not just on access.
 - **Large-scale field evidence: the "generative AI learning penalty."** [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]], tracking 26,811 Chinese secondary students over 30 months, found that self-directed generative-AI adoption raised homework scores 18% and cut homework time 30% while *lowering* closed-book exam scores 20% within six months and entrance-exam scores 18–24% after two years — concentrated among the ~81% of users whose behavior indicated homework outsourcing (short completion time + inflated homework scores). This is direct large-scale evidence that unguarded offloading (using AI as a homework substitute rather than a tutor) produces the learning penalty cognitive-offloading predicts, often undetected by students themselves.
+- **Over-reliance erodes self-directed learning via motivation and self-efficacy.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] model the mechanism directly: across 487 Chinese undergraduates, **thoughtless use of GenAI (TUGA)** — adopting AI outputs without critical evaluation — significantly undermined [[self-directed-learning|self-directed learning]] (β = −0.42) both directly and through partial mediation of [[motivation]] (β = −0.54 path from TUGA) and [[self-efficacy]] (β = −0.37). The model explained 75.3% of SDL variance. Because motivation was the strongest positive driver of SDL (β = 0.68), and thoughtless use suppresses it, this is quantitative evidence that over-reliance damages the motivational and self-efficacy resources autonomous learning depends on — with gender differences (stronger motivation harm for males, stronger self-efficacy harm for females).
 
 ### The CLT framework
 
@@ -38193,6 +38249,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[ai-literacy]]
 - [[metacognition]]
@@ -38215,6 +38272,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -38644,6 +38702,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -40503,6 +40562,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
@@ -40837,6 +40897,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[generative-ai]]
@@ -40857,6 +40918,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
@@ -42043,6 +42105,7 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[adult-learning]]
 - [[professional-training]]
 - [[personalized-learning]]
@@ -42499,6 +42562,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[scaffolding]]
@@ -42574,6 +42638,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-determination-theory]]
 - [[student-experience]]
 - [[student-engagement]]
@@ -42586,6 +42651,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
@@ -44424,6 +44490,50 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 
 ---
 
+## [Self-Directed Learning](https://edtechdev.github.io/aied/concepts/self-directed-learning/)
+
+> **Self-directed learning (SDL)** — the process by which learners take initiative and responsibility for diagnosing their own learning needs, setting goals, identifying resources, choosing and implementing strategies, and evaluating outcomes, often with limited external structure. In the AI era, SDL is both a key outcome (does AI use support or erode learners' capacity to direct their own learning?) and a vulnerability (the convenience of generative AI can undermine the very autonomy and [[self-efficacy]] SDL requires).
+
+Self-directed learning is closely related to — but distinct from — [[self-regulated-learning|self-regulated learning (SRL)]]. While SRL emphasizes the in-the-moment cognitive, motivational, and behavioral regulation of learning (planning, monitoring, controlling, reflecting), SDL emphasizes the learner's overarching responsibility for the direction and management of their own learning across time, often in informal or self-chosen contexts. SDL is foundational to [[adult-learning|adult learning]] and [[lifelong-learning|lifelong learning]], and is a prominent theory in distance and online education, where learners must sustain autonomy without scheduled class time.
+
+## How generative AI reshapes self-directed learning
+
+The wiki's research documents both sides of the GenAI–SDL relationship.
+
+- **AI can support SDL.** [[ai-lifelong-learning-policy|AI and lifelong learning]] and [[self-directed-growth-generative-ai-learning-analytics|self-directed growth with GenAI + learning analytics]] show that AI tools can scaffold independent inquiry, provide on-demand resources, and personalize learning paths in ways that strengthen learner autonomy. [[genai-educational-outcomes-meta-analysis|Meta-analytic evidence]] on generative AI educational outcomes and [[conversational-ai-informal-learning|conversational AI in informal learning]] suggest positive potential when AI is used as a resource the learner directs.
+
+- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the wiki.
+
+- **Cognitive offloading and delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] and [[learning-by-chatting-genai-impact|learning by chatting with GenAI]] examine how learners may delegate cognitive work to AI in ways that bypass the effortful processing SDL requires — a failure mode of otherwise autonomy-supportive tools. [[critical-thinking-genai-scaffolding|Scaffolding critical thinking with GenAI]] and [[test-driven-ai-assisted-learning|test-driven AI-assisted learning]] model more productive designs.
+
+## The SDL–SRL distinction in practice
+
+Because SDL emphasizes learner-initiated direction, interventions to protect it focus on preserving [[agency]] and self-efficacy rather than merely regulating moment-to-moment behavior. The evidence that thoughtless AI use erodes motivation and self-efficacy — the psychological resources SDL depends on — suggests that promoting [[ai-literacy|responsible AI use]] is not just an integrity issue but a developmental one: protecting students' capacity to direct their own learning.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[agency]]
+- [[self-efficacy]]
+- [[motivation]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[ai-misuse-learning-harm]]
+- [[ai-literacy]]
+- [[adult-learning]]
+- [[lifelong-learning]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning (SEM, gender differences)
+- [[ai-lifelong-learning-policy]] — AI and lifelong learning policy
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with GenAI and learning analytics
+- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
+- [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
+
+---
+
 ## [Self-Efficacy](https://edtechdev.github.io/aied/concepts/self-efficacy/)
 
 > **Self-efficacy** — a learner's belief in their capability to successfully perform a task or achieve a goal. Drawing on social cognitive theory (Bandura), self-efficacy shapes motivation, effort, persistence, and learning engagement. In AI in education, self-efficacy matters in two ways: AI tools can build learners' confidence and autonomy (e.g., by providing [[feedback]] and [[scaffolding]]), and learners' AI self-efficacy — their confidence in using AI technologies — influences how effectively they engage with AI, including how AI-related knowledge translates into career-relevant readiness.
@@ -44441,6 +44551,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[motivation]]
 - [[self-regulated-learning]]
 - [[student-experience]]
@@ -44450,6 +44561,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 ## Connected Articles
 
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
@@ -44526,6 +44638,7 @@ For example:
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[learning-by-teaching]]
 - [[metacognition]]
 - [[ai-literacy]]
@@ -44548,6 +44661,7 @@ For example:
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course

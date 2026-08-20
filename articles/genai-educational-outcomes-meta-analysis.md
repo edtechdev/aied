@@ -30,6 +30,7 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[ai-ed-evaluation]]
 - [[ai-feedback-quality]]
 - [[constructivist]]

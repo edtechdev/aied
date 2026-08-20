@@ -25,6 +25,7 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[adult-learning]]
 - [[professional-training]]
 - [[personalized-learning]]

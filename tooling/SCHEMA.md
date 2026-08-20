@@ -106,7 +106,7 @@ Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; 
 - `pedagogy`, `instructional-design`, `curriculum-design`, `assessment`, `authentic-assessment`, `socratic-method`, `project-based-learning`, `collaborative-learning`, `collaborative-ai-tutoring`, `design-thinking`, `training-methodology`, `simulation`, `oral-defense`, `pair-programming`
 
 ### Learning & Cognition
-- `metacognition`, `self-regulated-learning`, `cognitive-offloading`, `critical-thinking`, `creative-thinking`, `computational-thinking`, `skill-decay`, `confidence`, `student-ai-interaction`
+- `metacognition`, `self-regulated-learning`, `self-directed-learning`, `cognitive-offloading`, `critical-thinking`, `creative-thinking`, `computational-thinking`, `skill-decay`, `confidence`, `student-ai-interaction`
 
 ### Stakeholders
 - `k-12`, `higher-ed`, `lifelong-learning`, `teacher-role`, `student-experience`, `administrator`, `policy-maker`
