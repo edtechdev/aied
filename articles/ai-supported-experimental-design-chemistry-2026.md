@@ -7,9 +7,9 @@ tags: [chemistry-education, higher-ed, laboratory, ai-literacy, critical-thinkin
 sources: ['raw/papers/ai-supported-experimental-design-chemistry-2026.md']
 confidence: high
 ---
-> **Synthesis:** Yim and Lui (2026) report an authentic pedagogical approach integrating AI chatbots into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group feedback indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. ^[[ai-supported-experimental-design-chemistry-2026]]
+> **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI chatbots into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group feedback indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
 
-## The pedagogical approach
+## The [[pedagogy|pedagogical]] approach
 
 - **Authentic task:** students designed a lab manual for analyzing real-world samples using AI, then implemented it hands-on.
 - **Validation:** lab manuals were reviewed by independent testing and certification professionals to ensure the accuracy and reliability of AI-generated content.

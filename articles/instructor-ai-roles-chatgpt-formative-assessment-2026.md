@@ -7,7 +7,7 @@ tags: [chemistry-education, formative-assessment, self-regulated-learning, human
 sources: ['raw/papers/instructor-ai-roles-chatgpt-formative-assessment-2026.md']
 confidence: high
 ---
-> **Synthesis:** Ratniyom, Boonphadung, Intaraprasit, and Chumkaeo (2026) analyze how **pre-service science teachers across achievement levels** perceive the distinct roles of human instructors versus ChatGPT in a **ChatGPT-enhanced formative assessment** of stoichiometry. The human instructor was viewed as an **adaptive expert**, toggling between *Simplifier* and *Elaborator* roles depending on learner achievement; ChatGPT was perceived as a **personalized self-regulated-learning tool** whose role shifted by achievement — a *Patient Tutor* for low-achievers, a *Personal Coach* for medium-achievers, and an *Intellectual Sparring Partner* for high-achievers. The authors propose an **Instructor–AI Synergistic Learning Ecosystem** model reframing human–AI collaboration as complementary partnership rather than competition. ^[[instructor-ai-roles-chatgpt-formative-assessment-2026]]
+> **Synthesis:** Ratniyom, Boonphadung, Intaraprasit, and Chumkaeo (2026) analyze how **pre-service science teachers across achievement levels** perceive the distinct roles of human instructors versus ChatGPT in a **ChatGPT-enhanced formative assessment** of stoichiometry. The human instructor was viewed as an **adaptive expert**, toggling between *Simplifier* and *Elaborator* roles depending on learner achievement; ChatGPT was perceived as a **personalized self-regulated-learning tool** whose role shifted by achievement — a *Patient Tutor* for low-achievers, a *Personal Coach* for medium-achievers, and an *Intellectual Sparring Partner* for high-achievers. The authors propose an **Instructor–AI Synergistic Learning Ecosystem** model reframing human–AI collaboration as complementary partnership rather than competition. 
 
 ## Design
 
@@ -28,7 +28,7 @@ confidence: high
 
 ## The Instructor–AI Synergistic Learning Ecosystem model
 
-The study's principal contribution is an **Achievement-Based Instructor–AI Synergistic Learning Ecosystem** model that reframes human–AI collaboration **not as competition but as complementary partnership**. It positions the instructor as the adaptive expert delivering context-aware feedback while GenAI functions as a personalized SRL tool scaling individualized formative feedback — turning the long-standing challenge of **scaling formative assessment** in large classes into a pedagogical opportunity. This connects directly to the wiki's [[human-ai-collaboration]] concept.
+The study's principal contribution is an **Achievement-Based Instructor–AI Synergistic Learning Ecosystem** model that reframes human–AI collaboration **not as competition but as complementary partnership**. It positions the instructor as the adaptive expert delivering context-aware feedback while GenAI functions as a personalized SRL tool scaling individualized formative feedback — turning the long-standing challenge of **scaling formative assessment** in large classes into a [[pedagogy|pedagogical]] opportunity. This connects directly to the wiki's [[human-ai-collaboration]] concept.
 
 ## Limitations
 

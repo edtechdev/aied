@@ -22,7 +22,7 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 
 ### Connections to related concepts
 
-Biology education sits within the broader [[stem-education]] domain and shares the laboratory-practice and specialized-terminology concerns of [[chemistry-education]] and [[physics-education]]. Distinctive connections: to [[critical-thinking]] through the AI-era emphasis on skepticism and oversight; to [[ai-literacy]] through embedding AI concepts in biology courses; to [[human-ai-collaboration]] through virtual lab assistants and challenge-based learning; to [[academic-integrity]] and [[ethics]] through generative-AI misuse and policy; and to [[assessment]] through AI-mediated evaluation. The [[higher-ed]] and [[k-12]] concepts capture the levels at which biology AI research occurs, and [[intelligent-tutoring]] and [[simulation]] connect to AI-assisted lab and teaching support.
+Biology education sits within the broader [[stem-education]] domain and shares the laboratory-practice and specialized-terminology concerns of [[chemistry-education]] and [[physics-education]]. Distinctive connections: to [[critical-thinking]] through the AI-era emphasis on skepticism and oversight; to [[ai-literacy]] through embedding AI concepts in biology courses; to [[human-ai-collaboration]] through virtual lab assistants and challenge-based learning; to [[academic-integrity]] and [[ethics]] through generative-[[ai-misuse-learning-harm|AI misuse]] and policy; and to [[assessment]] through AI-mediated evaluation. The [[higher-ed]] and [[k-12]] concepts capture the levels at which biology AI research occurs, and [[intelligent-tutoring]] and [[simulation]] connect to AI-assisted lab and teaching support.
 
 ## Connected Concepts
 

@@ -7,13 +7,13 @@ tags: [ai-literacy, academic-integrity, student-experience, motivation, educatio
 confidence: high
 ---
 
-> **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and ethical use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural guardrails change the environment, but scaffolding, literacy training, and AI-use policies only take hold when students are actually convinced of their point.
+> **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and ethical use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural guardrails change the environment, but [[scaffolding|scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.
 
 The concept sits between two more familiar ones. Where [[technology-acceptance-model]] *predicts* uptake from perceived usefulness and ease of use, framing is the *active practice* of shaping those perceptions. And where [[student-experience]] describes how students currently perceive AI, framing is about changing that experience deliberately. It is the communication-side partner to [[educational-policy-ai]]: a policy is only as effective as students' willingness to buy into it.
 
 ## Why framing matters
 
-Framing matters because **policy and rules do not reliably change behavior on their own**. Survey research on regulatory awareness finds that students' knowledge of institutional GenAI rules shows only weak-to-moderate associations with what they actually do — most students use generative AI tools, over half are unsure whether their usage complies with institutional regulations, and they lean on privately accessed tools rather than institutionally provided ones.^[[student-regulatory-awareness-genai]] Knowing the rules is necessary but not sufficient; the message has to *persuade*, not just inform.
+Framing matters because **policy and rules do not reliably change behavior on their own**. Survey research on regulatory awareness finds that students' knowledge of institutional GenAI rules shows only weak-to-moderate associations with what they actually do — most students use [[generative-ai|generative AI]] tools, over half are unsure whether their usage complies with institutional regulations, and they lean on privately accessed tools rather than institutionally provided ones.^[[student-regulatory-awareness-genai]] Knowing the rules is necessary but not sufficient; the message has to *persuade*, not just inform.
 
 The frame also shapes whether students experience AI as a **threat to be avoided or evaded** versus a **resource to be used deliberately**. When institutions respond to AI with fear and condemnation — what one line of work calls a recurring "moral panic" — they push students into hiding or rationalizing their use rather than learning to use it well.^[[moral-panic-genai-classroom]] Reframing anxiety and condemnation into structured opportunity changes the whole dynamic of student engagement with AI.
 
@@ -33,7 +33,7 @@ A mixed-methods study of academic writing found that AI anxiety is not simply a 
 
 ### Use targeted messages to shape specific behaviors
 
-Small, well-designed messages can shift behavior. An **inoculation message** about ChatGPT's fallibility increased students' intentions to verify AI-provided information and their actual verification behavior.^[[chatgpt-inoculation-training-verification-2026]] Likewise, simply warning students about AI fallibility increased help-seeking in an intelligent tutoring system — a frame of *calibrated caution* rather than blanket distrust.^[[ai-fallibility-warning-help-seeking]] These point to a general principle: frame the tool's limits honestly, and students calibrate their behavior accordingly rather than either over-trusting or rejecting it.
+Small, well-designed messages can shift behavior. An **inoculation message** about ChatGPT's fallibility increased students' intentions to verify AI-provided information and their actual verification behavior.^[[chatgpt-inoculation-training-verification-2026]] Likewise, simply warning students about AI fallibility increased help-seeking in an [[intelligent-tutoring|intelligent tutoring]] system — a frame of *calibrated caution* rather than blanket distrust.^[[ai-fallibility-warning-help-seeking]] These point to a general principle: frame the tool's limits honestly, and students calibrate their behavior accordingly rather than either over-trusting or rejecting it.
 
 ### Secure buy-in and take-up, not just access
 
@@ -45,7 +45,7 @@ Framing connects to [[motivation]] through [[self-determination-theory]]: how a 
 
 ## Media and public framing
 
-Students are also framed by the wider media and public discourse around AI in education, which shapes their baseline expectations before any instructor message. Analyses of public discourse and how platforms like YouTube frame ChatGPT use in education show that prevailing frames — hype, doom, or pragmatism — influence how learners and educators approach the technology.^[[youtube-frames-chatgpt-education]]^[[ai-ethics-education-public-discourse]] Effective framing by instructors often means deliberately countering or redirecting these ambient narratives.
+Students are also framed by the wider media and public discourse around [[ai-education|AI in education]], which shapes their baseline expectations before any instructor message. Analyses of public discourse and how platforms like YouTube frame ChatGPT use in education show that prevailing frames — hype, doom, or pragmatism — influence how learners and educators approach the technology.^[[youtube-frames-chatgpt-education]]^[[ai-ethics-education-public-discourse]] Effective framing by instructors often means deliberately countering or redirecting these ambient narratives.
 
 ## Practical guidance
 

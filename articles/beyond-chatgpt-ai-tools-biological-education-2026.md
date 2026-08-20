@@ -7,7 +7,7 @@ tags: [biology-education, generative-ai, ai-literacy, academic-integrity, machin
 sources: ['raw/papers/beyond-chatgpt-ai-tools-biological-education-2026.md']
 confidence: high
 ---
-> **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *research* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about generative AI (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced student engagement and subject knowledge, support for coding skills, assistive technologies for students with disabilities, and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **machine-learning tools for bioimaging**. Evidence suggests tools like iNaturalist can improve learning outcomes, promote engagement, and foster environmental stewardship. Challenges include **academic integrity, assessment design, misinformation, and the potential erosion of critical thinking and independent research skills**, requiring professional development for educators and clear guidance for students. ^[[beyond-chatgpt-ai-tools-biological-education-2026]]
+> **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *research* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about generative AI (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced [[student-engagement|student engagement]] and subject knowledge, support for coding skills, assistive technologies for students with disabilities, and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **machine-learning tools for bioimaging**. Evidence suggests tools like iNaturalist can improve learning outcomes, promote engagement, and foster environmental stewardship. Challenges include **academic integrity, assessment design, misinformation, and the potential erosion of critical thinking and independent research skills**, requiring professional development for educators and clear guidance for students. 
 
 > ⚠️ **License note:** This article is published under a **CC BY-NC-ND 4.0** license (Taylor & Francis, *Journal of Biological Education*). Non-commercial use only; no derivatives. Verify against this license before redistribution.
 
@@ -17,7 +17,7 @@ AI has transformed biological research — from AlphaFold's protein-structure pr
 
 ## Benefits of AI in biological education
 
-- **Enhanced engagement and subject knowledge** — AI tools support interactive, personalized learning.
+- **Enhanced engagement and subject knowledge** — AI tools support interactive, [[personalized-learning|personalized learning]].
 - **Support for coding skills** — AI assists students with the computational demands of modern biology.
 - **Assistive technologies** — AI supports students with disabilities.
 - **Predictive modeling** — identifying at-risk students for early intervention.
@@ -28,7 +28,7 @@ AI has transformed biological research — from AlphaFold's protein-structure pr
 
 - **Academic integrity** — GAI easily completes many traditional assessments; detection remains imperfect.
 - **Assessment design** — the need to redesign assessments that AI cannot trivially complete.
-- **Misinformation and hallucination** — AI can produce confident but inaccurate content.
+- **Misinformation and [[hallucination-risk|hallucination]]** — AI can produce confident but inaccurate content.
 - **Erosion of critical thinking and independent research skills** — over-reliance on GAI may weaken these.
 - **Environmental cost** — the substantial computing resources behind GAI.
 

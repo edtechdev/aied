@@ -8,7 +8,7 @@ sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** Balalle and Pannilage (2025) present a PRISMA-based systematic literature review (25 studies from 1,443 records across Scopus, PubMed, DOAJ, and BASE) examining the impact of artificial intelligence on [[academic-integrity|academic integrity]] in higher education. The review finds a genuine **research gap** — AI and academic integrity sit in the same keyword cluster but few studies cover both — and documents that AI functions as both a **threat** to integrity (AI-generated writing, paraphrasing tools, contract cheating) and a **tool for detection** (Turnitin AI/similarity scoring). Its central call is for institutions to build a **culture of academic integrity** through clear policy, assessment redesign, and ethics training, rather than relying on detection software alone. ^[[ssaho-ai-academic-integrity-review-2025]]
+> **Synthesis:** Balalle and Pannilage (2025) present a PRISMA-based systematic literature review (25 studies from 1,443 records across Scopus, PubMed, DOAJ, and BASE) examining the impact of artificial intelligence on [[academic-integrity|academic integrity]] in higher education. The review finds a genuine **research gap** — AI and academic integrity sit in the same keyword cluster but few studies cover both — and documents that AI functions as both a **threat** to integrity (AI-generated writing, paraphrasing tools, contract cheating) and a **tool for detection** (Turnitin AI/similarity scoring). Its central call is for institutions to build a **culture of academic integrity** through clear policy, assessment redesign, and ethics training, rather than relying on detection software alone. 
 
 ## Methods
 
@@ -16,7 +16,7 @@ The review used a PICO-framed research question ("What is the role of AI in infl
 
 - **1,443 records** identified (PubMed 62, DOAJ 1,136, Scopus 235, BASE 7, plus 3 expert recommendations); 32 duplicates removed → 1,408 screened → 78 full-text retrieved → **25 included** in the final analysis.
 - **Risk of bias** was assessed with the Cochrane **ROBINS-I** tool via Nested Knowledge's semi-automated platform. The most significant bias was in participant selection; 9 studies showed selection concerns, and several others showed bias due to confounding, missing data, or selective reporting.
-- A **VOSviewer keyword co-occurrence network** (4 clusters) surfaced the field's structure: cluster 1 (academic integrity, academic misconduct, AI, student character), cluster 2 (academic writing, generative AI, large language model), cluster 3 (ChatGPT, higher education, quality assurance), cluster 4 (plagiarism).
+- A **VOSviewer keyword co-occurrence network** (4 clusters) surfaced the field's structure: cluster 1 (academic integrity, academic misconduct, AI, student character), cluster 2 (academic writing, generative AI, [[llm|large language model]]), cluster 3 (ChatGPT, higher education, quality assurance), cluster 4 (plagiarism).
 - The most-cited works were Cotton et al. (2024) "Chatting and cheating" (755 citations), Sullivan (2023) "ChatGPT in higher education" (221), and Crawford et al. (2023) "Leadership is needed for ethical ChatGPT" (188).
 
 ## Key findings
