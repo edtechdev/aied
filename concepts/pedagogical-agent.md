@@ -53,6 +53,7 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 
 ## Connected Articles
 
+- [[genai-simulate-patient-history-pbl-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]

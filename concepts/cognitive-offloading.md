@@ -70,6 +70,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[ai-literacy]]
@@ -93,6 +94,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice

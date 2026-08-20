@@ -67,6 +67,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
@@ -82,6 +83,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
+- [[learn-framework-responsible-genai-pbl-2026]]
 - [[ai-communities-of-inquiry-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)

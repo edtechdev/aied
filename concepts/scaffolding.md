@@ -29,6 +29,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[learning-by-teaching]]
 - [[sociocultural-learning]]
 - [[cognitive-offloading]]
@@ -45,6 +46,8 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[pbl-biomedical-engineering-genai-2026]]
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
 

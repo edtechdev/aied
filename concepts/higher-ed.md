@@ -29,6 +29,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -50,6 +51,9 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[pbl-biomedical-engineering-genai-2026]]
+- [[educators-engagement-ai-pbl-review-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]

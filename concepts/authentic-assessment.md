@@ -47,6 +47,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[assessment]]
 - [[assessment-validity]]
 - [[formative-assessment]]
@@ -64,6 +65,8 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Articles
 
+- [[genai-simulate-patient-history-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
