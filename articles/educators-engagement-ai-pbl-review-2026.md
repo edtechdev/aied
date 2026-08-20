@@ -1,22 +1,22 @@
 ---
 title: 'A Systematic Review of Educators'' Engagement with AI in Problem-Based Learning'
 created: "2026-08-20T06:50:00-04:00"
-updated: "2026-08-20T06:50:00-04:00"
+updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, systematic-review, generative-ai, teacher-role, human-computer-interaction, sdg4, higher-ed]
 sources: ['raw/papers/educators-engagement-ai-pbl-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This PRISMA 2020 systematic review (50 peer-reviewed articles, 2015–2024) examines how educators engage with AI-driven Problem-Based Learning (PBL) tools through a Human–Computer Interaction (HCI) lens, aligned with SDG 4 (Quality Education). Three dominant themes emerge: AI-enhanced PBL environments strengthen educator–student collaboration via real-time feedback, intelligent scaffolding, and data-informed decisions; AI supports adaptive and personalized learning that improves engagement and problem-solving; yet persistent ethical concerns (data privacy, algorithmic bias, educator autonomy) and underdeveloped AI-based assessment practices limit adoption. The authors propose an AI-Enhanced Academic Interaction Model (AEAIM) integrating the Technology Acceptance Model, Constructivist Learning Theory, and Krashen's Input Hypothesis, and stress that AI must empower rather than replace educator agency.
+> **Synthesis:** This PRISMA 2020 systematic review (50 peer-reviewed articles, 2015–2024) examines how educators engage with AI-driven [[problem-based-learning|Problem-Based Learning]] (PBL) tools through a [[human-ai-collaboration|Human–Computer Interaction]] (HCI) lens, aligned with SDG 4 (Quality Education). Three dominant themes emerge: AI-enhanced PBL environments strengthen educator–student collaboration via [[feedback|real-time feedback]], [[scaffolding|intelligent scaffolding]], and data-informed decisions; AI supports adaptive and [[personalized-learning|personalized learning]] that improves [[student-engagement|engagement]] and problem-solving; yet persistent [[ethics|ethical]] concerns ([[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], educator autonomy) and underdeveloped AI-based [[assessment]] practices limit adoption. The authors propose an AI-Enhanced Academic Interaction Model (AEAIM) integrating the [[technology-acceptance-model|Technology Acceptance Model]], [[constructivist|Constructivist]] Learning Theory, and Krashen's Input Hypothesis, and stress that AI must empower rather than replace educator [[agency]].
 
 ## Key Findings
 - AI-driven PBL environments enhance educator and student collaboration through real-time feedback, intelligent scaffolding, and data-informed instructional decisions.
 - AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills.
 - Persistent ethical concerns — data privacy, algorithmic bias, and erosion of educator autonomy — accompany AI integration and require human oversight.
-- AI-based assessment within PBL remains underdeveloped: only ~10% of reviewed studies examined AI-driven assessments, indicating weak empirical evidence on automated feedback, formative assessment, and learning analytics.
+- AI-based assessment within PBL remains underdeveloped: only ~10% of reviewed studies examined AI-driven assessments, indicating weak empirical evidence on automated feedback, [[formative-assessment|formative assessment]], and [[learning-analytics|learning analytics]].
 - Only 45% of educators report confidence using AI-driven PBL platforms without additional training, highlighting a gap in AI usability support and literacy.
-- Opaque AI models raise educators' cognitive load and reduce trust and adoption, underscoring the need for Explainable AI (XAI) and user-centered interfaces.
+- Opaque AI models raise educators' [[cognitive-offloading|cognitive load]] and reduce [[trust]] and adoption, underscoring the need for Explainable AI (XAI) and user-centered interfaces.
 
 ## Study Design & Method
 - Systematic literature review following PRISMA 2020 (Identification → Screening → Eligibility → Inclusion), starting from 3,500 records and yielding 50 peer-reviewed articles (2015–2024).

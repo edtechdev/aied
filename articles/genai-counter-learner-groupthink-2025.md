@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings"
 created: "2026-08-20T06:20:00-04:00"
-updated: "2026-08-20T07:15:00-04:00"
+updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [generative-ai, collaborative-learning, problem-based-learning, pedagogical-agent, interprofessional-education, student-engagement, active-learning, higher-ed]
 sources: ['raw/papers/genai-counter-learner-groupthink-2025.md']
