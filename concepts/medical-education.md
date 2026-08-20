@@ -25,6 +25,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[higher-ed]]
 - [[simulation]]
 - [[adaptive-learning]]
@@ -41,6 +42,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 
 ## Connected Articles
 
+- [[genai-simulate-patient-history-pbl-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
 - [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
 - [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education

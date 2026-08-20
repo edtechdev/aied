@@ -29,6 +29,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-by-teaching]]
 - [[llm]]
@@ -48,6 +49,12 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-pbl-computational-thinking-2026]]
+- [[pbl-biomedical-engineering-genai-2026]]
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[genai-simulate-patient-history-pbl-2026]]
+- [[educators-engagement-ai-pbl-review-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]

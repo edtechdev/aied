@@ -260,6 +260,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: research methods in AIED; AIED methodology; research design; AIED research methods
     - phrases: scaffolding; scaffold; instructional scaffolding
     - phrases: self-determination theory; SDT; autonomy competence relatedness
+    - phrases: self-directed learning; self-directed; SDL
     - phrases: self-efficacy; self efficacy; academic self-efficacy
     - phrases: self-regulated learning; SRL; self-regulation
     - phrases: simulating students; student simulation; AI students; synthetic students; simulated learners
@@ -395,6 +396,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`physics-education`** — Physics Education
 - **`plagiarism-detection`** — AI Plagiarism Detection
 - **`privacy`** — Privacy in AI Education
+- **`problem-based-learning`** — Problem-Based Learning
+    - phrases: problem-based learning; PBL; problem based learning
 - **`professional-training`** — Professional Training and AI
 - **`project-based-learning`** — Project-Based Learning
 - **`prompt-engineering`** — Prompt Engineering
@@ -409,7 +412,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`scaffolding`** — Scaffolding
 - **`self-determination-theory`** — Self-Determination Theory
 - **`self-directed-learning`** — Self-Directed Learning
-    - phrases: self-directed learning; self-directed; SDL
 - **`self-efficacy`** — Self-Efficacy
 - **`self-regulated-learning`** — Self-Regulated Learning
 - **`simulating-students`** — Simulating Students

@@ -43,6 +43,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[active-learning]]
 - [[icap-framework]]
@@ -69,6 +70,9 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Articles
 
+- [[ai-pbl-computational-thinking-2026]]
+- [[educators-engagement-ai-pbl-review-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[polished-artifacts-fragile-engagement-2026]]

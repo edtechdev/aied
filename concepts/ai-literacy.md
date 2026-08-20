@@ -74,6 +74,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[student-experience]]
@@ -107,6 +108,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]

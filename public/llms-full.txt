@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 753 articles and 147 concepts.
+> Complete text of 760 articles and 148 concepts.
 
 # Articles
 
@@ -2852,6 +2852,49 @@ Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven 
 
 ---
 
+## [AI-Enhanced Problem-Based Learning Framework: Integrating ChatGPT as Adaptive Scaffolding to Improve Critical Thinking and Personalized Learning](https://edtechdev.github.io/aied/articles/ai-enhanced-pbl-chatgpt-scaffolding-2026/)
+
+> **Synthesis:** La Sunra, Amaliah, & Radhiyani (2026) examine an AI-Enhanced Problem-Based Learning (AIPBL) framework that integrates ChatGPT as adaptive scaffolding to improve critical thinking and support personalized learning. Using an explanatory sequential mixed-methods design with 120 eighth-grade students across four junior high schools in Makassar, they find a large, significant improvement in critical thinking — from 60.3 (SD 9.7) to 73.5 (SD 10.4), t(119) = 9.64, p < .001, d = 1.00 — with notable gains in analysis, inference, and bias detection. Qualitative analysis shows ChatGPT supported idea exploration, strengthened verification habits, and enhanced reflection and metacognitive monitoring, without producing passive dependence.
+
+## Key Findings
+
+- **Large critical thinking gains.** Overall critical thinking scores rose from 60.3 (SD 9.7) to 73.5 (SD 10.4), t(119) = 9.64, p < .001, d = 1.00 — a large effect — with notable gains in analysis, inference, and bias detection.
+- **Four qualitative patterns.** ChatGPT supported idea exploration, strengthened students' verification habits, enhanced reflection and [[metacognition|metacognitive monitoring]], and — crucially — did not lead to passive dependence when embedded in structured PBL.
+- **ChatGPT as adaptive scaffolding.** The educational value of ChatGPT depends on how it is used: it functions as a learning partner when embedded in structured [[problem-based-learning|PBL]] and guided by teachers, rather than as a standalone answer machine.
+- **Personalized learning support.** The framework used ChatGPT to tailor scaffolding to individual student needs, supporting [[personalized-learning|personalized learning]] within a [[project-based-learning|problem-based]] format.
+- **Agency preserved.** The study offers practical evidence that ChatGPT can be integrated in secondary classrooms without reducing student agency.
+
+## Study Design & Method
+
+An explanatory sequential mixed-methods study with 120 eighth-grade students from four junior high schools in Ujung Pandang District, Makassar. The quantitative phase used a one-group pre-test–post-test design to measure whether students' critical thinking changed after the AIPBL intervention (with ChatGPT as adaptive scaffolding); the qualitative phase examined how students used ChatGPT. This design captured both the extent of improvement and the process behind it.
+
+## Implications for AI in Education
+
+For secondary education, the study provides evidence that [[generative-ai|generative AI]] can be integrated productively when embedded in a structured, teacher-guided pedagogy like [[problem-based-learning|problem-based learning]] — functioning as adaptive scaffolding that strengthens [[critical-thinking|critical thinking]] rather than substituting for it. It counters the assumption that AI use in classrooms necessarily reduces agency, showing instead that design and facilitation determine whether ChatGPT becomes a learning partner or a shortcut. The findings connect to the wiki's [[scaffolding]] and [[cognitive-offloading|over-reliance]] literature: the framework's structure is what prevents passive dependence.
+
+## Connected Concepts
+
+- [[problem-based-learning]]
+- [[scaffolding]]
+- [[critical-thinking]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[k-12]]
+
+## Connected Articles
+
+- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration
+- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL
+- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with generative AI
+
+## Citation
+
+La Sunra, S., Amaliah, S., & Radhiyani, F. (2026). [*AI-enhanced problem-based learning framework: integrating ChatGPT as adaptive scaffolding to improve critical thinking and personalized learning*](https://doi.org/10.30762/jeels.v13i2.7039). *JEELS*, 13(2).
+
+---
+
 ## [A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data](https://edtechdev.github.io/aied/articles/ai-ethics-education-public-discourse/)
 
 **Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026)** - George Mason University; University of Virginia. arXiv preprint.
@@ -4427,6 +4470,53 @@ For science education, the argument reorients design: the many factors reported 
 ## Citation
 
 Marcus Kubsch (2026). [AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation](https://arxiv.org/abs/2606.16822). arXiv:2606.16822. arXiv preprint (physics.ed-ph).
+
+---
+
+## [AI-Supported Problem-Based Learning for Enhancing Computational Thinking](https://edtechdev.github.io/aied/articles/ai-pbl-computational-thinking-2026/)
+
+> **Synthesis:** This quasi-experimental study (N = 103 first-year undergraduates in Nigeria) tested whether AI-supported Problem-Based Learning (AI-PBL) outperforms conventional instruction in building computational thinking (CT) and academic achievement within computer robotics programming. Grounded in Vygotsky's Social Constructivism, the intervention cast AI tools (ChatGPT and Teachable Machine) as "more capable peers" providing adaptive scaffolding inside students' Zone of Proximal Development across a 14-week, project-based robotics curriculum. The AI-PBL group significantly outperformed the control group on posttest CT and academic achievement after controlling for pretest scores, while gender did not significantly moderate the gains — evidence that AI-enhanced PBL can be both effective and equitable in under-resourced STEM contexts.
+
+## Key Findings
+- AI-PBL students significantly outperformed the conventional-PBL control group on posttest computational thinking, controlling for baseline scores — confirming AI-enhanced scaffolding meaningfully strengthens CT acquisition.
+- AI-PBL students also achieved significantly higher academic achievement in computer robotics programming, controlling for pretest performance.
+- Gender did not significantly moderate the instructional effects: both male and female students benefited roughly equally from the AI-PBL approach, countering persistent concerns about gendered outcomes in STEM.
+- The CT instrument captured five dimensions — abstraction/pattern recognition, algorithm design, decomposition, debugging, and critical reasoning/metacognition — all of which were targeted by AI-scaffolded robotic tasks (e.g., line-following, assistive, recycling, and search-and-rescue robots).
+- Grounding AI tools in learners' Zone of Proximal Development (as digital "more capable peers") enabled adaptive feedback, personalized scaffolding, and iterative problem-solving that traditional lecture-based teaching could not supply.
+
+## Study Design & Method
+- **Design:** Quasi-experimental, pretest–posttest non-equivalent groups (intact classes; coin toss assigned group); 2 × 2 factorial with instructional strategy and age group as factors, gender treated as covariate. Analyzed with ANCOVA (JAMOVI) plus N-Gain descriptive analysis.
+- **Participants:** 103 first-year undergraduates (59 female, 44 male; aged 16–25) across two purposively selected public universities in Southeastern Nigeria, in a compulsory *Foundations of Robotics Programming* course.
+- **Groups:** Experimental (n = 51) received a 14-week AI-PBL intervention (3 contact hours/week, 42 total hours); control (n = 52) received traditional lecture-based instruction on identical content.
+- **AI tools:** ChatGPT (idea generation, code explanation, iterative debugging, decision-logic formulation, reflective writing) and Teachable Machine (training image/color classifiers), embedded with Arduino robotics kits.
+- **Authentic robotic tasks:** design a line-following robot navigating a dynamic maze; a service robot assisting visually impaired users (HRI, voice recognition, obstacle avoidance); a recycling-sorting robot (supervised ML classification); and a search-and-rescue robot (computer vision + decision trees).
+- **Instruments:** 20-item Computational Thinking in Robotics Scale (CT-RS; α = 0.89) capturing abstraction, algorithm design, decomposition, debugging, and critical reasoning/metacognition; 50-item Computer Robotics Programming Skills Test (CRPST; α = 0.91) across motion control, ML for robotics, human–robot interaction, and computer vision.
+- **Limitation noted:** the raw source file truncates before the full statistical results tables, so exact effect sizes and N-Gain values could not be reproduced here.
+
+## Implications for AI in Education
+- **AI-PBL is a scalable pathway in under-resourced contexts:** where expert facilitators and robotics kits are scarce, intelligent tutoring, chatbots, and adaptive feedback can substitute for limited human scaffolding and extend PBL's reach.
+- **AI tools should act as cognitive scaffolds, not answer engines:** framing ChatGPT/Teachable Machine as "more capable peers" within the ZPD supports metacognition, iterative debugging, and transferable CT rather than passive consumption.
+- **Equity benefits:** the non-significant gender moderation suggests adaptive, inclusive AI features can help narrow traditional gender gaps in STEM, but only if access to AI tools is equitable — infrastructure and teacher readiness remain key barriers.
+- **Call for institutional/policy adoption:** the authors urge investment in teacher training, context-aware (localized/adaptive) AI-PBL frameworks, and further research on scalability, with implications for K–12 STEM pathways as well as higher education.
+
+## Connected Concepts
+- [[problem-based-learning]]
+- [[computational-thinking]]
+- [[generative-ai]]
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[k-12]]
+- [[metacognition]]
+- [[scaffolding]]
+
+## Connected Articles
+- [[ai-metacognition-stem-review]]
+- [[genai-educational-outcomes-meta-analysis]]
+- [[ai-communities-of-inquiry-2026]]
+- [[critical-thinking-biological-sciences-ai-2025]]
+
+## Citation
+(2026). [*AI-supported problem-based learning for enhancing computational thinking*](https://doi.org/10.1016/j.chbah.2026.100263). *Computers in Human Behavior: Artificial Humans*, 7, 100263.
 
 ---
 
@@ -12435,6 +12525,51 @@ Lo, A.L.L.A.Z.N.A.R.K.K. (2026). [*Educational VLM Evaluation*](https://arxiv.or
 
 ---
 
+## [A Systematic Review of Educators'' Engagement with AI in Problem-Based Learning](https://edtechdev.github.io/aied/articles/educators-engagement-ai-pbl-review-2026/)
+
+> **Synthesis:** This PRISMA 2020 systematic review (50 peer-reviewed articles, 2015–2024) examines how educators engage with AI-driven Problem-Based Learning (PBL) tools through a Human–Computer Interaction (HCI) lens, aligned with SDG 4 (Quality Education). Three dominant themes emerge: AI-enhanced PBL environments strengthen educator–student collaboration via real-time feedback, intelligent scaffolding, and data-informed decisions; AI supports adaptive and personalized learning that improves engagement and problem-solving; yet persistent ethical concerns (data privacy, algorithmic bias, educator autonomy) and underdeveloped AI-based assessment practices limit adoption. The authors propose an AI-Enhanced Academic Interaction Model (AEAIM) integrating the Technology Acceptance Model, Constructivist Learning Theory, and Krashen's Input Hypothesis, and stress that AI must empower rather than replace educator agency.
+
+## Key Findings
+- AI-driven PBL environments enhance educator and student collaboration through real-time feedback, intelligent scaffolding, and data-informed instructional decisions.
+- AI tools support adaptive and personalized learning experiences that improve learner engagement and problem-solving skills.
+- Persistent ethical concerns — data privacy, algorithmic bias, and erosion of educator autonomy — accompany AI integration and require human oversight.
+- AI-based assessment within PBL remains underdeveloped: only ~10% of reviewed studies examined AI-driven assessments, indicating weak empirical evidence on automated feedback, formative assessment, and learning analytics.
+- Only 45% of educators report confidence using AI-driven PBL platforms without additional training, highlighting a gap in AI usability support and literacy.
+- Opaque AI models raise educators' cognitive load and reduce trust and adoption, underscoring the need for Explainable AI (XAI) and user-centered interfaces.
+
+## Study Design & Method
+- Systematic literature review following PRISMA 2020 (Identification → Screening → Eligibility → Inclusion), starting from 3,500 records and yielding 50 peer-reviewed articles (2015–2024).
+- Databases searched: Web of Science, Scopus, IEEE Xplore, SpringerLink, Taylor & Francis Online, Elsevier (ScienceDirect), Consensus, and Google Scholar, using Boolean (AND/OR) and truncation operators.
+- Thematic analysis of the 50 studies using NVivo 14 with two independent coders (inter-rater reliability κ = 0.82).
+- Results framed around an HCI lens (usability, explainability, cognitive load, decision autonomy) and three thematic codes: educators' perceptions/challenges in AI adoption, AI's effectiveness in supporting PBL, and AI's impact on learning outcomes and SDG 4 equity.
+
+## Implications for AI in Education
+- Educators need structured AI usability and literacy training to interpret AI-generated feedback, personalize learning pathways, and retain instructional control.
+- Institutional barriers — funding constraints, inconsistent AI policies, and resistance — must be addressed for sustainable AI-PBL adoption.
+- Policymakers should establish regulatory frameworks governing AI transparency, bias mitigation, and accountability in AI-generated assessments.
+- AI developers should pursue human-centered design so AI functions as an assistive tool supporting — not replacing — pedagogical expertise, while reducing cognitive load via explainable interfaces.
+- The AEAIM offers an integrative adoption model (TAM + constructivism + Krashen's Input Hypothesis) that could guide future research and tool design.
+
+## Connected Concepts
+- [[problem-based-learning]]
+- [[generative-ai]]
+- [[teacher-role]]
+- [[collaborative-learning]]
+- [[human-ai-collaboration]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]]
+- [[ai-communities-of-inquiry-2026]]
+- [[chatgpt-math-biology-challenge-based-learning-2025]]
+
+## Citation
+Amdan, M.A., Asim, A., Rosman, N.F., Janius, N., Dasuki, F.H., & Johnny, N.K. (2026). [*A systematic review of educators' engagement with AI in problem-based learning*](https://doi.org/10.55197/qjssh.v7i1.787). *Quantum Journal of Social Sciences and Humanities*, 7(1).
+
+---
+
 ## [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://edtechdev.github.io/aied/articles/educlaw-bench-pedagogical-llm-agents-2026/)
 
 > **EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners** — Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and a... [[intelligent-tutoring]] [[llm]] [[agentic-ai]] benchmark [[knowledge-tracing]] [[student-modeling]]
@@ -16339,6 +16474,46 @@ The study is a qualitative, activity-theoretical case study at a single institut
 ## Citation
 
 Bakogianni, D., Liljekvist, Y., & Bui, P. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637).
+
+---
+
+## [Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study](https://edtechdev.github.io/aied/articles/genai-simulate-patient-history-pbl-2026/)
+
+> **Synthesis:** In March 2024, 37% of second-year students at a small community-based Midwestern U.S. medical school piloted a genAI-enabled virtual patient in a required PBL tutorial, comparing it to the school's legacy Electronic PBL Module (ePBLM) searchable database. Across two genAI groups (N=13) and two comparison groups (N=13) sharing the same faculty facilitator, the genAI avatar presented essential case content accurately but students treated it as a sophisticated "question base" rather than a real patient. The study demonstrates that genAI can represent essential PBL case content, stimulate problem-driven collaboration, and boost perceived engagement and teamwork — while exposing the need to frame the experience so students experiment with the AI's humanlike capabilities and adapt to its limitations.
+
+## Key Findings
+- **GenAI enabled accurate essential content, with occasional deviations.** Pertinent positive findings matched the ePBLM, but the AI deviated on non-essential or non-pertinent-negative content (e.g., one group reported headaches "on and off for a few months"; the ePBLM returned "Only on occasion"), and reported occasional recreational marijuana use not in the ePBLM.
+- **GenAI tutorials took longer, especially on history-taking.** GenAI groups spent 55–65 min vs. 36–39 min for ePBLM, with ~10 min more on history-taking (24–30 vs. 16–19 min); only genAI groups closed the case by communicating the diagnosis and initial management plan to the patient.
+- **Students rated the genAI experience significantly higher overall.** Perceptions survey total rose only for the genAI condition (beta = 5.77, 95% CI [1.27, 10.27], p = .013); genAI students rated clinical accuracy 1.6 points higher post-tutorial and reported higher enjoyability, teamwork, interest, and confidence. Model R² = 0.25, F(3, 48) = 5.39, p = .003.
+- **History information recall was near ceiling in both conditions.** Immediate recall was 9.40 (ePBLM) vs. 10.10 (genAI) of 11; delayed recall 7.94 vs. 8.63. Only time (immediate→delayed forgetting) was significant (p < .001); rate of forgetting did not differ by condition.
+- **Students did not interview the avatar like a human.** Their questioning was predominantly closed-ended and efficiency-focused; Group 1's student asked the tutor, "Can we give him advice or is it [the AI] just, like, a question base?" The genAI's rapport-building embellishments were sometimes inconsistent (forthcoming responses for one group, irritable tone for another).
+
+## Study Design & Method
+Between-groups, mixed-methods pilot at a small community-based U.S. medical school using hybrid PBL. Twenty-six second-year students (37% of Class of 2026; convenience sample; of 14 reporting demographics, 79% women, 20% minoritized racial/ethnic group) opened the first required case of the Endocrinology, Reproduction, and Gastroenterology (ERG) unit (~3 months before USMLE Step 1). Two groups (N=13) conducted voice-to-voice history-taking with a genAI-enabled avatar (Randy Rhodes, a 54-year-old man with Type 2 Diabetes); two comparison groups (N=13) gathered history by keyword search of the ePBLM. All four groups had the same expert faculty facilitator (a 16-year "master" PBL tutor). The avatar combined a local speech-to-text model, ElevenLabs voice synthesis, D-ID facial animation, and OpenAI GPT-4o driven by the faculty ePBLM case materials with "guardrails" (e.g., preventing the AI from revealing the diagnosis). Data included: descriptive observation (Spradley) of audio recordings by 5 co-investigators using a reflexivity-bracketed template with inductive consensus coding; an 8-item locally developed Learner Perceptions Survey (summated 8–40, item 5 reverse-coded); and an 11-item short-answer Patient History Information Quiz graded masked to condition, administered immediately and 2 weeks post-tutorial. Analysis used OLS linear regression (R 4.5.0; lme4, emmeans, gtsummary, ggplot2), two-tailed α = 0.05.
+
+## Implications for AI in Education
+- **Representing patients realistically in PBL is feasible but needs framing.** GenAI accurately delivered essential case content and stimulated the problem-driven collaboration defining PBL, but students defaulted to a "question base" frame. Tutors should encourage students to experiment with the AI's humanlike capabilities and help them recognize and adapt to its limitations.
+- **Humanistic interaction requires early and explicit scaffolding.** Because rising third-year students brought an ePBLM-querying framework into the encounter, introducing genAI-enabled patients early (even first year) — before an alternative interactional framework takes hold — may promote more patient-centered communication than the predominantly closed-ended questioning observed.
+- **Content deviation creates a new tutor role.** The inevitability of genAI deviation (especially on pertinent negative findings) suggests tutors must help students stay on track when embellished or inconsistent responses tempt distraction; the impact should be studied systematically across case types.
+- **Reality-accuracy trade-off is central.** Tightening guardrails to prevent deviation risks making the LLM robotic and unrealistic; loosening them risks bias, inaccuracy, unpredictability, and inappropriate emotional dependence — a philosophical question about how much deviation from faculty control PBL can absorb.
+- **Methodological strengths and limits.** This is among the first studies to directly observe (rather than infer from activity/self-report) the effect of manipulating patient modality in PBL. It is a "best case" single-case, single-school pilot using locally developed instruments and small group numbers (no group-level statistical control), so it aims at groundwork rather than generalizability.
+
+## Connected Concepts
+- [[problem-based-learning]]
+- [[medical-education]]
+- [[generative-ai]]
+- [[pedagogical-agent]]
+- [[simulation]]
+- [[authentic-assessment]]
+
+## Connected Articles
+- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
+- [[genai-patient-education-transplant-handbooks]] — Generative AI for Patient Education: Grounding Content and Equity in Transplant Handbooks
+
+## Citation
+Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based learning tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.
 
 ---
 
@@ -20573,6 +20748,51 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 ## Citation
 
 Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://arxiv.org/abs/2608.03968). arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).
+
+---
+
+## [The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning](https://edtechdev.github.io/aied/articles/learn-framework-responsible-genai-pbl-2026/)
+
+> **Synthesis:** Uden and Hwang (2026) propose the **LEARN framework** — Lifelong Learning, Engagement, Active Processing, Reflection, and Neuro-based Design — as a neuroscience-informed conceptual model for the ethical, pedagogically grounded integration of generative AI (GAI) into problem-based learning (PBL) assessment. Responding to students using GAI as their *primary* means of completing assessments, the framework positions GAI as a **cognitive scaffold rather than a cognitive substitute**, encouraging critical evaluation, reflective judgement, and ethical self-regulation. It synthesises educational neuroscience, constructivist/PBL theory, and emerging research on ethical AI use to redesign assessment toward process-based learning, moving beyond both instrument adoption and prohibition.
+
+## Key Findings
+
+- **Problem framing:** The paper identifies the central tension of GAI in education — students increasingly use tools like ChatGPT, Claude, and Gemini not as learning aids but as the primary means of completing coursework — raising concerns about [[academic-integrity]], [[cognitive-offloading]], and the erosion of [[critical-thinking]]. Detection-based responses are limited in reliability, so sustainable solutions must be pedagogical rather than purely technical.
+- **Design assumptions:** Four premises underpin LEARN: (1) deep learning requires sustained cognitive effort that cannot be replaced by automated generation; (2) ethical AI use is cultivated through reflective, transparent processes rather than surveillance; (3) learning is optimised when design aligns with neurocognitive principles (cognitive load, reward-based motivation, social connectedness); and (4) assessment should support learning processes and reasoning traces over final products alone.
+- **Lifelong Learning:** Cultivates self-directed, adaptable learners via goal setting, metacognitive planning, and personal learning portfolios; grounded in neuroplasticity and hippocampal/dopaminergic consolidation from sustained, effortful practice. Ethics operationalised through assessable learning traces (portfolios, AI-use disclosure).
+- **Engagement:** The core mechanism transforming instruction into authentic experience — involving students in designing curricula, assessments, and rubrics, and in decisions about GAI use. Grounded in prefrontal motivation networks and oxytocin-mediated social learning pathways.
+- **Active Processing:** Learners interrogate, verify, and extend GAI outputs rather than passively accepting them — comparing AI summaries with their own readings, identifying missing arguments and bias. Grounded in executive function and retrieval-based learning; operationalised via critique-and-revision requirements.
+- **Reflection:** Serves as the metacognitive engine consolidating knowledge and fostering ethical engagement, via learning journals, think-aloud protocols, and reflective essays. Grounded in error-monitoring and self-regulation networks (medial prefrontal cortex). The paper distinguishes LEARN from classical scaffolding (Vygotsky's ZPD, cognitive apprenticeship) because GAI can autonomously generate complete solutions, demanding reconceptualised, dialogic, epistemically regulated scaffolding.
+- **Neuro-based Design:** The integrative design layer aligning instruction with how the brain learns — scaffolding tasks from simple to complex, mentoring, staged feedback, retrieval practice, and process-focused rubrics that make AI reliance transparent and auditable.
+
+## Implications for AI in Education
+
+- **Shift from product- to process-based assessment:** The framework argues conventional take-home assessments lose validity when GAI can generate polished responses; assessment should instead capture reasoning traces, metacognitive awareness, and critical engagement — e.g. via process-focused rubrics, oral justifications, and staged submissions.
+- **From policing to principled design:** Rather than surveillance or prohibition, LEARN cultivates ethical AI use through reflective transparency and learner agency, aligning with institutional policies (e.g. University of Sydney's "two-lane" approach) but filling the gap of a coherent pedagogical framework for operationalising them.
+- **Reconceptualising scaffolding for the AI era:** Because GAI can fully generate solutions, traditional scaffolding must be redefined as interactive, dialogic, and epistemically regulated — learners must interrogate, evaluate, justify, and reflect on AI output, transforming scaffolding from guided assistance into a catalyst for higher-order reasoning and ethical judgement.
+- **Neuroscience as an explanatory layer:** Motivation, scaffolding, and reflection are tied to reward systems, cognitive-load regulation, and metacognitive monitoring respectively, providing a why for design choices that complements psychological and pedagogical accounts of learning.
+- **Research agenda:** The paper is conceptual; empirical studies of LEARN implementation are underway and to be reported subsequently, signalling a move toward testing neuro-pedagogical assessment redesign in practice.
+
+## Connected Concepts
+
+- [[problem-based-learning]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[academic-integrity]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: parallel argument that AI should scaffold, not substitute, human cognition
+- [[ai-metacognition-stem-review]] — AI and metacognition in STEM
+- [[efficiency-gain-illusion-ai-overreliance]] — Cognitive Offloading and the Speedup Illusion
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth and generative AI
+
+## Citation
+
+Uden, L., & Hwang, G.-J. (2026). [*The LEARN framework for responsible use of generative AI in education: a neuroscience-informed model for problem-based learning*](https://doi.org/10.1007/s40692-026-00398-x). *Journal of Computers in Education*.
 
 ---
 
@@ -26668,6 +26888,84 @@ This work connects to core wiki themes: [[knowledge-tracing]] [[personalized-lea
 ## Citation
 
 Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026). [Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components](https://arxiv.org/abs/2607.05409). arXiv:2607.05409. CSEDM Workshop 2026 (arXiv preprint).
+
+---
+
+## [Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI](https://edtechdev.github.io/aied/articles/pbl-biomedical-engineering-genai-2026/)
+
+> **Synthesis:** This article presents a modularized, implementation-ready problem-based learning (PBL) framework tailored to biomedical AI, positioning generative AI (GenAI) as a guarded knowledge-summarization and coding-support module rather than an answer engine. A three-year case study (2021–2023) across Georgia Tech and Emory University engaged 248 students in interdisciplinary teams on real biomedical AI problems, with GenAI governed by disclosure, source-anchoring, verification, and version-logging policies. The framework reframes GenAI as a scaffold that accelerates baseline learning and frees students for higher-order critical thinking and innovation. A portable replication package (syllabi, milestones, rubrics, team procedures, and AI-usage templates) accompanies the design for adoption under variable resources.
+
+## Key Findings
+
+- **Modularized PBL+AI framework:** The design comprises four interdependent modules—problem formation via authentic biomedical problem briefs with curated deidentified datasets, AI-supported knowledge inquiry, problem-solving with robustness and reproducibility evaluation, and presentation through written reports, oral demos, and peer review.
+- **Grade distribution shift:** Post-integration cohorts (2021–2023) showed higher A-rates (66.4% vs. 39.1% control, Δ = +27.3 points, p = 0.042) and fewer low grades (6.1% vs. 22.4%), a trend that persisted after excluding the COVID-19-affected year (A-rate 67.4% vs. 39.1%, p = 0.037).
+- **Coding fluency as an enabler:** Students with more coding experience performed better (exploratory OLS β ≈ +1.88 points per year, p = 0.022), suggesting foundational coding readiness enables productive GenAI use for ideation and code assistance.
+- **High research productivity:** Implementation-focused PBL yielded 16 student-authored peer-reviewed publications addressing biomedical AI problems (e.g., wearable COVID-19 detection, graph-based single-cell RNA severity classification, synthetic augmentation for transplant-rejection imaging).
+- **Strong teamwork outcomes:** Peer evaluations remained high across courses (BHI 89.8–94.6%, MIP 88.8–90.6%, biostatistics ~92–94%), indicating effective collaboration under AI-augmented PBL.
+- **Guardrailed AI use:** Approved institution-reviewed tools only (DeepSeek banned), no PII/PHI submitted, mandatory disclosure and validation logs, source-anchored literature claims, and code provenance comments preserved both transparency and PBL's learner-directed intent.
+
+## Implications for AI in Education
+
+The study demonstrates that GenAI is most valuable in PBL when positioned as a baseline knowledge assembler and coding scaffold rather than a source of direct answers, strengthening rather than bypassing the pedagogical intent of PBL. Its guardrail architecture—disclosure logs, source anchoring, verification, and version logging—offers a transferable model for responsible adoption in technical and specialty courses. Five scalability opportunities (guided problem exploration, knowledge acquisition, prototype support, automated formative assessment, and personalized learning pathways) map directly onto the faculty-resource and curricular-update bottlenecks that historically limited PBL. However, the findings also flag equity concerns (GenAI bias toward nonnative speakers and diverse backgrounds), hallucination risk in accuracy-critical biomedical domains (mitigated via retrieval-augmented generation and critical-evaluation training), and the need to balance AI assistance with periods of independent problem-solving to preserve critical thinking.
+
+## Connected Concepts
+
+- [[problem-based-learning]]
+- [[generative-ai]]
+- [[engineering-education]]
+- [[curriculum-design]]
+- [[scaffolding]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]]
+- [[tam-critical-use-genai-engineering-2026]]
+- [[genai-thoughtless-use-self-directed-learning-2026]]
+
+## Citation
+
+Nnamdi, M.C., Tamo, J.B., Marteau, B., Shi, W., & Wang, M.D. (2026). [*Advancing problem-based learning in biomedical engineering in the era of generative AI*](https://doi.org/10.1109/TE.2026.3658007). *IEEE Transactions on Education*, 69(2).
+
+---
+
+## [Problem-Based Learning and the Structural Conditions for Productive AI Integration](https://edtechdev.github.io/aied/articles/pbl-structural-conditions-ai-2026/)
+
+> **Synthesis:** This conceptual essay (method: conceptual synthesis, producing theoretical warrant rather than empirical proof) argues that the structural features of problem-based learning — problem-driven inquiry, collaborative knowledge construction, facilitation over instruction, and metacognitive reflection — are the same conditions under which [[generative-ai|AI]] integration is educationally productive rather than substitutive. AI breaks the artefact-as-proxy for learning but not learning itself, and engagement remains the surviving observable proxy. The alignment is structural (PBL's founding rationale predates AI), AI raises the ceiling on problem complexity to widen access to wicked problems, and the analysis generalises to any pedagogy sharing these features.
+
+## Key Findings
+- **Structural, not retrospective, alignment:** PBL was designed around conditions — [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, [[metacognition|metacognitive reflection]], and learner-directed inquiry — long before AI existed; these same conditions determine whether AI supports learner development or substitutes for it. The alignment is traceable in PBL's founding design logic, not a post-hoc reinterpretation.
+- **AI breaks the artefact-as-proxy, not learning itself:** Producing a polished artefact no longer correlates with intellectual engagement (a Goodhart dynamic the proxy was already vulnerable to; AI removed the friction masking it), but the underlying learning processes remain intact.
+- **Engagement is the surviving proxy:** Observable cognitive and social processes (grappling with problems, peer challenge, revising reasoning, sitting with uncertainty) remain evidential; engagement is harder to decouple from learning than artefact production, though it carries its own, narrower, Goodhart risk.
+- **Not all cognitive demand is equally formative:** The load-bearing/offloadable distinction (drawing on the context-sovereignty framework) determines whether AI integration develops competence or substitutes for it — retrieval and production are offloadable; judgement, reasoning, and professional identity are not.
+- **The capabilities for productive AI use are what PBL was designed to develop:** Critical faculty, social awareness, and metacognitive sensitivity (the constituents of "taste") map precisely onto PBL's evaluative, collaborative, and reflective demands.
+- **AI raises the ceiling on problem complexity:** By absorbing the execution layer, AI lowers access barriers and expands access to complex, wicked problems previously beyond students' reach, shifting the curriculum question from which problems are manageable to which become possible.
+
+## Implications for AI in Education
+- Shift institutional focus from detecting and restricting AI output toward making engagement visible and treating it as valid evidence of learning; assess processes (reasoning, peer challenge, reflective practice) rather than relying on artefact quality.
+- AI is best framed as a participant in collective inquiry rather than a private substitute: inviting AI into the tutorial as "another voice" can extend PBL's structural conditions, provided students remain the authors of the inquiry.
+- The distinction between load-bearing and offloadable cognitive demand gives teachers a diagnostic question ("is AI removing the demand that was building the right things?") that dissolves rather than rebuts the cognitive-offloading concern.
+- AI's educational value is a structural reallocation of cognitive energy toward the judgement layer, not a mere efficiency gain — and it creates new curriculum aims (e.g. learning to use AI's voice appropriately) that did not exist before.
+- Because any pedagogy sharing these structural features (case-based, inquiry-based, team-based learning, collaborative clinical reasoning) supports the same analysis, the principle generalises beyond PBL.
+- Assessment at scale remains an open problem: portfolios, orals, observed practice, and programmatic assessment are each partial answers with real limitations.
+
+## Connected Concepts
+- [[problem-based-learning]]
+- [[collaborative-learning]]
+- [[cognitive-offloading]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[responsible-assessment-ai-era-stanford-2026]]
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]]
+- [[fenton-oral-exams-ai-authentic-assessment-2025]]
+
+## Citation
+Rowe, M. (2026). [*Problem-based learning and the structural conditions for productive AI integration*](https://doi.org/10.35542/osf.io/haet3_v1). Preprint, OSF.
 
 ---
 
@@ -36023,6 +36321,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[learn-framework-responsible-genai-pbl-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
@@ -36173,6 +36472,7 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[learning-by-teaching]]
 - [[scaffolding]]
 - [[constructivist]]
@@ -36197,6 +36497,7 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[help-seeking]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[ai-pbl-computational-thinking-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
@@ -36257,6 +36558,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
@@ -37041,6 +37343,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[student-experience]]
@@ -37074,6 +37377,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
@@ -37490,6 +37795,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[pbl-structural-conditions-ai-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
@@ -37566,6 +37872,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[assessment]]
 - [[assessment-validity]]
 - [[formative-assessment]]
@@ -37583,6 +37890,8 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Articles
 
+- [[genai-simulate-patient-history-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
@@ -38249,6 +38558,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[ai-literacy]]
@@ -38272,6 +38582,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -38371,6 +38683,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[active-learning]]
 - [[icap-framework]]
@@ -38397,6 +38710,9 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Articles
 
+- [[ai-pbl-computational-thinking-2026]]
+- [[educators-engagement-ai-pbl-review-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -38468,6 +38784,7 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 ## Connected Articles
 
+- [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
@@ -38687,6 +39004,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[student-experience]]
 - [[metacognition]]
 - [[faculty-development]]
@@ -38702,6 +39020,9 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-tools-academic-work-cheating-2026]]
@@ -39760,6 +40081,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[stem-education]]
 - [[cs-education]]
 - [[math-education]]
@@ -39774,6 +40096,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 
 ## Connected Articles
 
+- [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
@@ -40543,6 +40866,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-by-teaching]]
 - [[llm]]
@@ -40562,6 +40886,12 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-pbl-computational-thinking-2026]]
+- [[pbl-biomedical-engineering-genai-2026]]
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
+- [[learn-framework-responsible-genai-pbl-2026]]
+- [[genai-simulate-patient-history-pbl-2026]]
+- [[educators-engagement-ai-pbl-review-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
@@ -40897,6 +41227,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -40918,6 +41249,9 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[pbl-biomedical-engineering-genai-2026]]
+- [[educators-engagement-ai-pbl-review-2026]]
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
@@ -41605,6 +41939,8 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-pbl-computational-thinking-2026]]
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -42365,6 +42701,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[higher-ed]]
 - [[simulation]]
 - [[adaptive-learning]]
@@ -42381,6 +42718,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 
 ## Connected Articles
 
+- [[genai-simulate-patient-history-pbl-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
 - [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
 - [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
@@ -42562,6 +42900,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
@@ -42577,6 +42916,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
+- [[learn-framework-responsible-genai-pbl-2026]]
 - [[ai-communities-of-inquiry-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
@@ -43061,6 +43402,7 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 
 ## Connected Articles
 
+- [[genai-simulate-patient-history-pbl-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
@@ -43486,6 +43828,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
@@ -43751,6 +44094,61 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 ---
 
+## [Problem-Based Learning](https://edtechdev.github.io/aied/concepts/problem-based-learning/)
+
+> **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[metacognition|metacognitive reflection]] — have emerged as the same conditions under which generative AI integration becomes educationally productive rather than substitutive.
+
+PBL originated in medical education (McMaster University, 1960s) and has since spread across health professions, engineering, and K-12. The learner takes responsibility for diagnosing learning needs, identifying resources, and constructing solutions, while the facilitator scaffolds the process. The distinctive claim of PBL is that the *problem* is the curriculum driver — not an illustration of content taught elsewhere but the context in which content is learned.
+
+## PBL in the AI era
+
+The wiki's research shows that PBL has become a focal point for thinking about productive AI integration.
+
+- **PBL's structural conditions make AI integration productive.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argues that PBL's core features — problem-driven inquiry, collaborative construction, facilitation, metacognitive reflection — are exactly the conditions under which AI functions as a partner in professional development rather than a shortcut around it. The alignment is structural, not retrospective: PBL was designed around these conditions before AI existed, rooted in the recognition that professional competence requires adaptive judgement rather than routine execution.
+- **AI raises the ceiling on problem complexity.** The same argument holds that AI expands what category of problem PBL can engage, making "wicked problems" and complex real-world cases accessible to students who previously could not reach them.
+- **The artefact-as-proxy problem.** AI severs the link between a submitted artefact and the engagement that produced it — a problem PBL is well positioned to address because it assesses the *process* and demonstrated understanding, not just the product. This connects PBL to [[authentic-assessment|authentic]] and process-based assessment and to the wiki's [[cognitive-offloading|over-reliance]] literature.
+- **ChatGPT as adaptive scaffolding.** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] show ChatGPT integrated as adaptive scaffolding within an AI-enhanced PBL framework to improve [[critical-thinking|critical thinking]] and [[personalized-learning|personalized learning]] in K-12 (120 eighth graders). This treats AI as a within-PBL support rather than an answer machine.
+- **Responsible-use frameworks.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] advance the neuroscience-informed **LEARN** framework (Lifelong Learning, Engagement, Active Processing, Reflection, Neuro-based Design) for ethically grounding generative AI use within PBL, countering [[cognitive-offloading|cognitive offloading]] and integrity erosion.
+- **Domain implementations.** PBL frameworks for biomedical engineering use GenAI for summarization and coding support with replication packages ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); AI-supported PBL enhances [[computational-thinking|computational thinking]] in robotics ([[ai-pbl-computational-thinking-2026|AI-supported PBL for computational thinking]]); and genAI-enabled virtual patients support medical history-taking tutorials ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
+- **Evidence synthesis.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] systematically review 50 studies (2015–2024) on educators' engagement with AI in PBL within a human-computer interaction framework.
+
+## PBL vs. related pedagogies
+
+PBL is closely related to [[project-based-learning|project-based learning]] — both are learner-centered and problem/context-driven — but PBL centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *artefact* or project. PBL is also kin to case-based and inquiry-based learning, which share the problem-driven, facilitation-led structure. In the wiki's mapping, the structural argument for productive AI integration applies to any pedagogy sharing these features, not only PBL.
+
+## Why PBL matters for AI integration
+
+Because PBL foregrounds process, collaboration, and demonstrated understanding over artefact production, it is a natural home for [[ai-literacy|responsible AI use]]: students learn *with* AI as a partner rather than *from* AI as a substitute. The facilitator's role and the design of the problem become the levers that determine whether AI supports learning or displaces it — the same [[human-in-the-loop-ai|human oversight]] and assessment-design concerns that recur across the wiki.
+
+## Connected Concepts
+
+- [[project-based-learning]]
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[scaffolding]]
+- [[critical-thinking]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[authentic-assessment]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[medical-education]]
+- [[engineering-education]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[pbl-structural-conditions-ai-2026]] — PBL and the structural conditions for productive AI integration (Rowe 2026)
+- [[educators-engagement-ai-pbl-review-2026]] — Systematic review of educators' engagement with AI in PBL (Amdan et al. 2026)
+- [[genai-simulate-patient-history-pbl-2026]] — GenAI virtual patient for medical PBL tutorials (Mool et al. 2026)
+- [[learn-framework-responsible-genai-pbl-2026]] — The LEARN framework for responsible GenAI in PBL (Uden & Hwang 2026)
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT as adaptive scaffolding in AI-enhanced PBL (La Sunra et al. 2026)
+- [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
+- [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
+- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
+
+---
+
 ## [Professional Training and AI](https://edtechdev.github.io/aied/concepts/professional-training/)
 
 > **Professional training** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.
@@ -43808,7 +44206,9 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 
 > **Project-based learning (PBL)** — an active, learner-centred pedagogy in which students learn by engaging in extended, real-world projects that require inquiry, problem solving, and the application of knowledge to produce tangible outcomes. PBL emphasizes student autonomy, collaboration, and authentic tasks, and is widely used with technology — including [[educational-robotics|educational robotics]] and AI — to give learners hands-on, meaningful projects. It contrasts with purely theoretical or lecture-based instruction.
 
-PBL is closely related to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], and [[constructivist|constructivist]] pedagogy. It is especially valuable for AI and robotics education because these fields are inherently applied: learners best understand robots, algorithms, and systems by building and testing them in project contexts. PBL also fosters [[computational-thinking]], problem solving, and [[self-regulated-learning|self-direction]].
+PBL is closely related to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], and [[constructivist]] pedagogy. It is especially valuable for AI and robotics education because these fields are inherently applied: learners best understand robots, algorithms, and systems by building and testing them in project contexts. PBL also fosters [[computational-thinking]], problem solving, and [[self-regulated-learning|self-direction]].
+
+Project-based learning is closely related to — but distinct from — [[problem-based-learning|problem-based learning]]: both are learner-centered and context-driven, but problem-based learning centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *project* or artefact. The two are frequently conflated, and many AI-in-education frameworks draw on both (see the [[problem-based-learning|problem-based learning]] page for the AI-era treatment).
 
 ### How PBL appears in the wiki's research
 
@@ -43820,6 +44220,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[active-learning]]
 - [[experiential-learning]]
 - [[collaborative-learning]]
@@ -43831,6 +44232,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 ## Connected Articles
 
+- [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
@@ -44413,6 +44815,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[learning-by-teaching]]
 - [[sociocultural-learning]]
 - [[cognitive-offloading]]
@@ -44429,6 +44832,8 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[pbl-biomedical-engineering-genai-2026]]
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
 
@@ -44793,6 +45198,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[genai-simulate-patient-history-pbl-2026]]
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
 
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
@@ -45846,6 +46252,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[educators-engagement-ai-pbl-review-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-acceptance-preservice-science-teachers-2026]]
