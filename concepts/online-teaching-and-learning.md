@@ -77,6 +77,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[pedagogy]]
 - [[instructional-design]]
 - [[active-learning]]
@@ -103,6 +104,14 @@ Online learning is particularly vulnerable: the medium already distances learner
 
 ## Connected Articles
 
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-online-education-engagement-satisfaction-2026]]
+- [[interactive-online-learning-ai-2025]]
+- [[ai-communities-of-inquiry-2026]]
+- [[ai-distance-education-systematic-review-2026]]
+- [[ai-decision-support-online-learning-assessment-2026]]
+- [[chatgpt-perception-online-learning-engagement-2026]]
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
 - [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]] — Enhancing online learning outcomes through virtual companion AI

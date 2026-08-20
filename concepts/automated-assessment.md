@@ -56,6 +56,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[assessment-validity]]
 - [[formative-assessment]]
 - [[automated-essay-scoring]]
@@ -78,6 +79,9 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-decision-support-online-learning-assessment-2026]]
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL

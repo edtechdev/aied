@@ -31,6 +31,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[ethics]]
@@ -40,6 +41,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework

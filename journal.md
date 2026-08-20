@@ -1,7 +1,37 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 847
+**Last updated:** 2026-08-20 | **Total entries:** 857
 
 ## "2026-08-20
+- ● [[remote-proctoring]] — 
+  Remote Proctoring
+  #remote-proctoring #academic-integrity #summative-assessment #online-education #automated-proctoring #privacy #equity #higher-ed
+- ● [[academic-dishonesty-automated-proctoring-ai-2026]] — ['raw/papers/academic-dishonesty-automated-proctoring-ai-2026.md']
+  A Comprehensive Review of the Changing Landscape of Academic Dishonesty in Automated Proctoring in the Era of Artificial Intelligence
+  #remote-proctoring #academic-integrity #automated-proctoring #online-education #higher-ed #covid-19 #machine-learning #privacy
+- ● [[automated-online-exam-proctoring-decade-review-2026]] — ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']
+  Ensuring Academic Integrity through Automated Online Exam Proctoring: A Decade-Long Systematic Review
+  #remote-proctoring #academic-integrity #automated-proctoring #online-education #higher-ed #systematic-review #deep-learning #privacy
+- ● [[ai-distance-education-systematic-review-2026]] — ['raw/papers/ai-distance-education-systematic-review-2026.md']
+  'Artificial Intelligence in Distance Education: A Systematic Review of Emerging Pedagogical, Cognitive and Institutional Dynamics'
+  #distance-learning #online-education #systematic-review #generative-ai #ai-education #governance #pedagogy #equity
+- ● [[ai-online-education-engagement-satisfaction-2026]] — ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
+  'Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction'
+  #online-education #online-learning #learner-engagement #learner-satisfaction #systematic-review #chatbots #intelligent-tutoring #sentiment-analysis
+- ◐ [[ai-communities-of-inquiry-2026]] — ['raw/papers/ai-communities-of-inquiry-2026.md']
+  'Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences'
+  #community-of-inquiry #online-education #shared-metacognition #generative-ai #collaborative-learning #theoretical-framework #higher-ed
+- ● [[chatgpt-perception-online-learning-engagement-2026]] — ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
+  'How Does Students\' Perception of ChatGPT Shape Online Learning Engagement and Performance?'
+  #chatgpt #generative-ai #online-education #online-learning #student-engagement #academic-performance #structural-equation-modeling #higher-ed
+- ◐ [[ai-decision-support-online-learning-assessment-2026]] — ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
+  'Architecting an AI-Driven Decision Support System for Enhanced Online Learning and Assessment'
+  #online-education #online-learning #learning-analytics #decision-support-system #ai-education #automated-assessment #personalized-learning #systematic-review
+- ◐ [[ai-tools-academic-work-cheating-2026]] — ['raw/papers/ai-tools-academic-work-cheating-2026.md']
+  'Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethics, and Impact on Academic Performance and Critical Thinking'
+  #academic-integrity #ai-misuse-learning-harm #critical-thinking #student-perception #ethics #ai-literacy #systematic-review #higher-ed
+- ◐ [[interactive-online-learning-ai-2025]] — ['raw/papers/interactive-online-learning-ai-2025.md']
+  'Interactive Online Learning Method for Students Based on Artificial Intelligence'
+  #online-education #online-learning #deep-learning #student-performance-prediction #personalized-learning #educational-data-mining #adaptive-learning #ai-education
 - ● [[online-teaching-and-learning]] — 
   Online Teaching and Learning
   #online-education #online-learning #distance-learning #mooc #blended-learning #pedagogy #instructional-design #generative-ai #higher-ed #academic-integrity #cognitive-offloading #ai-literacy

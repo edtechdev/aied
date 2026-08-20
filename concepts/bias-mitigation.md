@@ -76,6 +76,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[ai-education]]
 
 ## Connected Articles
+- [[ai-online-education-engagement-satisfaction-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 

@@ -41,6 +41,7 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[ethics]]
 - [[higher-ed]]
 - [[privacy]]
@@ -58,6 +59,7 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-distance-education-systematic-review-2026]]
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

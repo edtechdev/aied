@@ -81,6 +81,8 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 
 ## Connected Articles
 
+- [[ai-communities-of-inquiry-2026]]
+- [[ai-distance-education-systematic-review-2026]]
 - [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
 
 - [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty

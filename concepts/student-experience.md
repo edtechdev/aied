@@ -24,6 +24,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[generative-ai]]
 - [[llm]]
 - [[higher-ed]]
@@ -38,6 +39,8 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[chatgpt-perception-online-learning-engagement-2026]]
+- [[ai-tools-academic-work-cheating-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
 - [[ai-generated-interactive-fiction-education-2026]]
