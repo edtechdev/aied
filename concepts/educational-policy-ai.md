@@ -22,7 +22,7 @@ The wiki documents that institutional AI policies [[genai-policies-higher-ed-com
 
 ### Policy vs. governance
 
-While [[educational-policy-ai|policy]] sets the formal rules and principles, [[governance]] encompasses the institutional structures, norms, and accountability mechanisms that implement and enforce them. Policy is what is decided; governance is how it is carried out. Both are needed: policy without governance is unenforced; governance without policy lacks direction.
+While policy sets the formal rules and principles, [[governance]] encompasses the institutional structures, norms, and accountability mechanisms that implement and enforce them. Policy is what is decided; governance is how it is carried out. Both are needed: policy without governance is unenforced; governance without policy lacks direction.
 
 ### Connections
 
