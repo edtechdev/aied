@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-20T03:17:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with generative AI systems during learning and problem solving. Research here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to learning outcomes, [[cognitive-offloading]], and [[agency]].
 
-Student-AI interaction is the observable surface of learners' engagement with generative AI — the questions they pose, the prompts they write, the way they negotiate and verify AI output, and how those patterns shift across task stages and over time. It sits at the intersection of [[student-experience]], [[prompt-engineering]], and [[learning-analytics]], and is central to debates about whether AI use in education represents genuine learning or [[cognitive-offloading|over-reliance]].
+Student-AI interaction is the observable surface of learners' engagement with generative AI — the questions they pose, the prompts they write, the way they negotiate and verify AI output, and how those patterns shift across task stages and over time. It sits at the intersection of [[student-experience]], [[prompt-engineering]], and [[learning-analytics]], and is central to debates about whether AI use in education represents genuine learning or [[cognitive-offloading|over-reliance]]. Where [[human-ai-collaboration]] frames the high-level division of cognitive labor between people and models, student-AI interaction is the concrete, measurable enactment of that relationship — the specific inquiries, prompts, and negotiation moves learners make moment to moment.
 
 ### What students ask AI
 
@@ -24,6 +24,7 @@ A complementary strand links the *form* of interaction to learning. Shallow or h
 Characterizing student-AI interaction informs [[instructional-design]]: instructors can notice when students' questioning patterns are narrow or shallow and design interventions that broaden inquiry; [[teacher-role]] shifts toward coaching students to interact productively with AI. It also grounds [[ai-literacy]] curricula that treat effective prompting and verification as learnable skills rather than innate abilities.
 
 ## Connected Concepts
+- [[human-ai-collaboration]]
 - [[student-experience]]
 - [[prompt-engineering]]
 - [[learning-analytics]]
