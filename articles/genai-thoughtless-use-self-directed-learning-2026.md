@@ -1,14 +1,14 @@
 ---
 title: "Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences"
 created: "2026-08-20T06:30:00-04:00"
-updated: "2026-08-20T06:30:00-04:00"
+updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [generative-ai, self-directed-learning, cognitive-offloading, self-efficacy, motivation, self-regulated-learning, higher-ed, gender]
 sources: ['raw/papers/genai-thoughtless-use-self-directed-learning-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Zhao & Gu (2026), grounded in Social Cognitive Theory, survey 487 undergraduates in Henan Province, China, and use multi-group SEM to show that the **thoughtless use of generative AI (TUGA)** — adopting AI answers without critically evaluating or understanding them — significantly undermines [[self-directed-learning|self-directed learning (SDL)]]. This negative effect operates both directly and through the partial mediation of [[self-efficacy|self-efficacy (SE)]] and [[motivation]]. Multi-group analysis reveals substantial **gender differences**: the negative impact of thoughtless use on motivation was stronger for male students, while effects on self-efficacy were stronger for female students.
+> **Synthesis:** Zhao & Gu (2026), grounded in Social Cognitive Theory, survey 487 [[higher-ed|undergraduates]] in Henan Province, China, and use multi-group SEM to show that the **thoughtless use of [[generative-ai|generative AI]] (TUGA)** — adopting AI answers without [[critical-thinking|critically]] evaluating or understanding them — significantly undermines [[self-directed-learning|self-directed learning (SDL)]]. This negative effect operates both directly and through the partial mediation of [[self-efficacy|self-efficacy (SE)]] and [[motivation]]. Multi-group analysis reveals substantial **gender differences**: the negative impact of thoughtless use on motivation was stronger for male students, while effects on self-efficacy were stronger for female students.
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ A quantitative study grounded in Social Cognitive Theory. 487 undergraduates fro
 
 ## Implications for AI in Education
 
-The study links the risk of [[cognitive-offloading|unreflective AI reliance]] to the erosion of students' capacity for [[self-directed-learning|self-directed learning]], [[self-efficacy]], and [[motivation]] — and shows these harms are not gender-neutral. For institutions, it reinforces the value of promoting [[ai-literacy|responsible AI use]] that preserves critical evaluation and independent learning rather than simply banning or uncritically encouraging GenAI. Because motivation is the strongest lever on SDL, and thoughtless use suppresses it, interventions that rebuild learner agency and self-efficacy may buffer the negative effects of AI overreliance — a concern shared with the wiki's [[ai-misuse-learning-harm|misuse-and-harm]] and [[cognitive-offloading|over-reliance]] literature.
+The study links the risk of [[cognitive-offloading|unreflective AI reliance]] to the erosion of students' capacity for [[self-directed-learning|self-directed learning]], [[self-efficacy]], and [[motivation]] — and shows these harms are not gender-neutral. For institutions, it reinforces the value of promoting [[ai-literacy|responsible AI use]] that preserves critical evaluation and independent learning rather than simply banning or uncritically encouraging GenAI. Because motivation is the strongest lever on SDL, and thoughtless use suppresses it, interventions that rebuild [[agency|learner agency]] and self-efficacy may buffer the negative effects of AI overreliance — a concern shared with the wiki's [[ai-misuse-learning-harm|misuse-and-harm]] and [[cognitive-offloading|over-reliance]] literature.
 
 ## Connected Concepts
 
