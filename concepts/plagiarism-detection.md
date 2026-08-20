@@ -1,7 +1,7 @@
 ---
 title: AI Plagiarism Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-20T05:55:00-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, policy-maker, llm, assessment-validity, equity]
 
@@ -43,6 +43,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 
 - **Detection reliability caution.** A systematic review of AI and academic integrity concludes that plagiarism/AI-detection tools cannot be relied upon for AI-generated work and should be paired with multiple assessment methods and manual review — reinforcing that detection is a limited, situational tool.^[[ssaho-ai-academic-integrity-review-2025]]
+- **Beyond detection: dialog over surveillance.** A practitioner account of Grand Canyon University's learning-verification framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues the best response to student AI use is dialog, not detection. Because detectors are unreliable (and biased against nonnative writers), GCU stopped asking "did the student use AI?" and instead asks students to demonstrate understanding in a brief conversation — an extension of [[authentic-assessment|assessment redesign]] that treats detection as a dead end and verification as good teaching.
 ## Connected Concepts
 
 - [[academic-integrity]]
