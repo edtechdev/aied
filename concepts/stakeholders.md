@@ -26,7 +26,7 @@ confidence: high
 - **Multi-stakeholder governance.** [[governance]] and [[educational-policy-ai]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
 - **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to fairness and access.
 
-## Implications for [[ai-education|AI in education]]
+## Implications for AI in education
 
 - **Design for the full stakeholder set:** effective [[ai-education|AI in education]] must serve learners, support teachers, inform administrators, and align with policy — not just optimize one audience.
 - **Build role-specific competencies:** teachers, students, designers, and leaders each need tailored AI literacy and support (see [[ai-literacy]], [[teacher-ai-competency]], [[faculty-development]]).
