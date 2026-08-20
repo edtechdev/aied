@@ -33,6 +33,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 
 ## Connected Concepts
 
+- [[problem-based-learning]]
 - [[stem-education]]
 - [[cs-education]]
 - [[math-education]]
@@ -47,6 +48,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 
 ## Connected Articles
 
+- [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)

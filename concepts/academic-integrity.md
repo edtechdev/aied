@@ -75,6 +75,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[learn-framework-responsible-genai-pbl-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]

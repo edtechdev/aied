@@ -1,7 +1,31 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 862
+**Last updated:** 2026-08-20 | **Total entries:** 870
 
 ## "2026-08-20
+- ● [[problem-based-learning]] — 
+  Problem-Based Learning
+  #active-learning #collaborative-learning #scaffolding #generative-ai #critical-thinking #higher-ed #medical-education #engineering-education
+- ◐ [[learn-framework-responsible-genai-pbl-2026]] — ['raw/papers/learn-framework-responsible-genai-pbl-2026.md']
+  'The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning'
+  #problem-based-learning #generative-ai #cognitive-offloading #neuroscience #academic-integrity #responsible-ai #higher-ed
+- ◐ [[ai-pbl-computational-thinking-2026]] — ['raw/papers/ai-pbl-computational-thinking-2026.md']
+  'AI-Supported Problem-Based Learning for Enhancing Computational Thinking'
+  #problem-based-learning #computational-thinking #generative-ai #robotics #k-12 #ai-education
+- ● [[pbl-structural-conditions-ai-2026]] — ['raw/papers/pbl-structural-conditions-ai-2026.md']
+  'Problem-Based Learning and the Structural Conditions for Productive AI Integration'
+  #problem-based-learning #generative-ai #cognitive-offloading #assessment #professional-judgement #higher-ed #learning-design
+- ● [[genai-simulate-patient-history-pbl-2026]] — ['raw/papers/genai-simulate-patient-history-pbl-2026.md']
+  'Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study'
+  #problem-based-learning #generative-ai #medical-education #virtual-patient #simulation #mixed-methods
+- ● [[educators-engagement-ai-pbl-review-2026]] — ['raw/papers/educators-engagement-ai-pbl-review-2026.md']
+  'A Systematic Review of Educators'' Engagement with AI in Problem-Based Learning'
+  #problem-based-learning #systematic-review #generative-ai #teacher-role #human-computer-interaction #sdg4 #higher-ed
+- ◐ [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
+  AI-Enhanced Problem-Based Learning Framework: Integrating ChatGPT as Adaptive Scaffolding to Improve Critical Thinking and Personalized Learning
+  #problem-based-learning #generative-ai #scaffolding #critical-thinking #personalized-learning #k-12 #chatgpt
+- ◐ [[pbl-biomedical-engineering-genai-2026]] — ['raw/papers/pbl-biomedical-engineering-genai-2026.md']
+  'Advancing Problem-Based Learning in Biomedical Engineering in the Era of Generative AI'
+  #problem-based-learning #generative-ai #engineering-education #biomedical-engineering #curriculum-design #higher-ed
 - ● [[self-directed-learning]] — 
   Self-Directed Learning
   #self-regulated-learning #agency #motivation #self-efficacy #higher-ed #generative-ai #lifelong-learning #adult-learning

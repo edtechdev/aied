@@ -37,6 +37,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[genai-simulate-patient-history-pbl-2026]]
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
 
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training

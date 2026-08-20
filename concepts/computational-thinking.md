@@ -54,6 +54,7 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 ## Connected Articles
 
+- [[ai-pbl-computational-thinking-2026]]
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
