@@ -18,4 +18,6 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'zone-of-proximal-development': 'sociocultural-learning',
   'social-robots': 'educational-robotics',
   'human-robot-interaction': 'educational-robotics',
+  'mooc': 'online-teaching-and-learning',
+  'blended-learning': 'online-teaching-and-learning',
 };
