@@ -1,7 +1,7 @@
 ---
 title: Instructional Design with AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-20T04:25:00-04:00"
+updated: "2026-08-20T06:10:00-04:00"
 type: concept
 tags: [instructional-design, curriculum-design, faculty-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 confidence: high
@@ -66,6 +66,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
