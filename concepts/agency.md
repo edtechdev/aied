@@ -23,6 +23,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[motivation]]
 - [[self-efficacy]]

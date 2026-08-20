@@ -22,6 +22,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[motivation]]
 - [[self-regulated-learning]]
 - [[student-experience]]
@@ -31,6 +32,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 ## Connected Articles
 
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)

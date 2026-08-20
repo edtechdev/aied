@@ -21,6 +21,7 @@ confidence: high
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[learning-analytics]]
 - [[personalized-learning]]

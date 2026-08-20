@@ -30,6 +30,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[higher-ed]]
 - [[professional-training]]

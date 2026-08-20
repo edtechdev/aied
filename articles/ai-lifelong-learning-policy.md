@@ -16,6 +16,7 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[lifelong-learning]]
 - [[equity-in-ai-education]]
 - [[educational-policy-ai]]

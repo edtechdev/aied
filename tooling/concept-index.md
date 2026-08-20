@@ -256,6 +256,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: reducing AI misuse; AI misuse reduction; mitigating AI misuse; preventing AI misuse
     - phrases: regulation; AI regulation; regulatory; regulatory framework
     - phrases: reinforcement learning; RL; reward model; RLHF
+    - phrases: remote proctoring; online proctoring; automated proctoring; AI proctoring; e-proctoring; exam proctoring; online invigilation
     - phrases: research methods in AIED; AIED methodology; research design; AIED research methods
     - phrases: scaffolding; scaffold; instructional scaffolding
     - phrases: self-determination theory; SDT; autonomy competence relatedness
@@ -404,10 +405,11 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`regulation`** — AI Regulation in Education
 - **`reinforcement-learning`** — Reinforcement Learning
 - **`remote-proctoring`** — Remote Proctoring
-    - phrases: remote proctoring; online proctoring; automated proctoring; AI proctoring; e-proctoring; exam proctoring; online invigilation
 - **`research-methods-aied`** — Research Methods in AIED
 - **`scaffolding`** — Scaffolding
 - **`self-determination-theory`** — Self-Determination Theory
+- **`self-directed-learning`** — Self-Directed Learning
+    - phrases: self-directed learning; self-directed; SDL
 - **`self-efficacy`** — Self-Efficacy
 - **`self-regulated-learning`** — Self-Regulated Learning
 - **`simulating-students`** — Simulating Students
