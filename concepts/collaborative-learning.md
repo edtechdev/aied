@@ -72,12 +72,11 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[neurodivergent-computing-students]]
-- [[golrang-propact-pair-programming-2026]]
+
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[academic-league-of-ai-2026]]
+
 - [[vargas-situated-learning-ai-review-2024]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]

@@ -52,17 +52,17 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 ## Connection to Existing Work
 
-### vs. [[ai-tutor-effectiveness-review|AI Tutor Effectiveness]]
+### vs. AI Tutor Effectiveness
 - Traditional ITS effectiveness reviews focus on *human* learning outcomes with *deployed* systems
 - TeachBench evaluates *model* teaching capability in *controlled* agentic settings
 - Both highlight: **teaching is more than problem-solving**
 
-### vs. [[educational-llm-alignment|Educational LLM Alignment]]
+### vs. Educational LLM Alignment
 - Alignment benchmarks measure: "Does this model produce good teaching content?"
 - TeachBench measures: "Does this model *improve learning* through instruction?"
 - Complementary: alignment → content quality; TeachBench → instructional effectiveness
 
-### vs. [[agentic-workflows-education|Agentic Workflows]]
+### vs. Agentic Workflows
 - TeachBench operationalizes the **"teacher agent"** paradigm in agentic education
 - Reveals current LLMs struggle with *structured pedagogical planning* (vs. reactive Q&A)
 - Aligns with: agentic reflection, planning, and tool use in educational contexts

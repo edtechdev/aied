@@ -37,7 +37,7 @@ The DOT Framework integrates **Design Thinking stages** (Empathize → Define �
 
 This study provides the *first empirical evidence* supporting DOT as a descriptive model — practitioners' beliefs and behaviors partially map to its structure, but the gaps (needs assessment, feedback) reveal where the model is aspirational rather than descriptive of current practice.
 
-## Implications for [[ai-education]]
+## Implications for ai-education
 - **Measurement**: The 19-item belief scale offers a validated starting point for [[ai-ed-evaluation]] studies
 - **Professional Development**: Training should target the full design cycle, not just tool use — especially needs assessment and feedback integration
 - **Policy**: Institutional AI strategies need to address governance concerns while building on practitioners' existing favorable dispositions

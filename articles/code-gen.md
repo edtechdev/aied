@@ -59,7 +59,7 @@ CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeratio
 - **False positives:** Validator approved distractors that were syntactically valid but instructionally shallow; approved feedback that described surface mechanics without deeper elaboration
 - **False negatives:** Validator misinterpreted answer schemas (confusing answer value with option position); internal inconsistency where textual analysis affirmed correctness but binary classification contradicted it
 
-### Significance for [[automated-assessment]] and [[automated-question-generation]]
+### Significance for automated-assessment and automated-question-generation
 
 CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation can serve as scalable first-line quality control for [[automated-assessment]] item generation. The explicit evaluation of the Validator against human judgment — rather than assuming automated evaluation is reliable — provides an evidence-based framework for determining where AI can be safely delegated and where [[human-in-the-loop-ai]] oversight must be maintained.
 
