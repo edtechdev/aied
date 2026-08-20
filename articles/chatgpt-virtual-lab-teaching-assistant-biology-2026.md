@@ -7,7 +7,7 @@ tags: [biology-education, higher-ed, generative-ai, human-ai-collaboration, simu
 sources: ['raw/papers/chatgpt-virtual-lab-teaching-assistant-biology-2026.md']
 confidence: high
 ---
-> **Synthesis:** Doğru and Faulconer (2026) tested ChatGPT as a **virtual teaching assistant (VTA)** in an introductory undergraduate biology laboratory course, comparing its responses to student-generated questions about an enzyme-activity lab exercise against those of a cohort of graduate teaching assistants (TAs). Evaluated by subject-matter experts and students, **human TAs were more accurate and demonstrated more substantial teaching effectiveness** (instructor voice, understanding, helpfulness). Notably, students preferred the computer-generated response 40% of the time and could identify an AI-generated response only 45% of the time. The authors conclude ChatGPT can help lift the burden of basic questions from TAs and instructors, but students must understand its **error rate** and a **safety net** is needed to prevent proceeding on incorrect information — a real safety concern in the biology laboratory. ^[[chatgpt-virtual-lab-teaching-assistant-biology-2026]]
+> **Synthesis:** Doğru and Faulconer (2026) tested ChatGPT as a **virtual teaching assistant (VTA)** in an introductory undergraduate biology laboratory course, comparing its responses to student-generated questions about an enzyme-activity lab exercise against those of a cohort of graduate teaching assistants (TAs). Evaluated by subject-matter experts and students, **human TAs were more accurate and demonstrated more substantial teaching effectiveness** (instructor voice, understanding, helpfulness). Notably, students preferred the computer-generated response 40% of the time and could identify an AI-generated response only 45% of the time. The authors conclude ChatGPT can help lift the burden of basic questions from TAs and instructors, but students must understand its **error rate** and a **safety net** is needed to prevent proceeding on incorrect information — a real safety concern in the biology laboratory. 
 
 ## Design
 
@@ -24,7 +24,7 @@ confidence: high
 
 ## The biology-specific challenge
 
-The authors note LLMs may struggle with **specialized terminology and concepts in biology**, leading to incorrect or misleading information — a concern amplified in a laboratory context where inaccurate information can present **safety risks**. They draw parallels to prior findings that ChatGPT gives incomplete/misleading answers to physics questions and errors on complex tasks.
+The authors note [[llm|LLMs]] may struggle with **specialized terminology and concepts in biology**, leading to incorrect or misleading information — a concern amplified in a laboratory context where inaccurate information can present **safety risks**. They draw parallels to prior findings that ChatGPT gives incomplete/misleading answers to physics questions and errors on complex tasks.
 
 ## Implications
 

@@ -7,7 +7,7 @@ tags: [chemistry-education, k-12, constructivist, personalized-learning, student
 sources: ['raw/papers/context-based-ai-secondary-chemistry-2026.md']
 confidence: high
 ---
-> **Synthesis:** Abdikayumova and Madybekova (2026) use a mixed-methods, quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary chemistry. The experimental group, using **PhET interactive simulations and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. ^[[context-based-ai-secondary-chemistry-2026]]
+> **Synthesis:** Abdikayumova and Madybekova (2026) use a mixed-methods, quasi-experimental design with **93 Grade 10 students** in three instructional groups — (a) context-based **7E instructional model** integrated with AI tools, (b) the 7E model without contextual/AI components, and (c) conventional teaching — over 12 weeks of secondary chemistry. The experimental group, using **PhET interactive simulations and ChatGPT tutoring** embedded within the 7E phases, achieved **significantly higher post-test scores** (large effect size, ANCOVA) and reported the **highest [[student-engagement|engagement]]**. The authors argue that contextualization, structured inquiry, and adaptive AI act **synergistically**: contextual activities connect abstract chemistry to everyday life, the 7E cycle structures reasoning, and AI provides real-time clarification and tailored explanations. 
 
 ## Design and intervention
 
@@ -25,7 +25,7 @@ confidence: high
 
 ## Implications and limitations
 
-The study extends prior evidence that context-based instruction and AI tools each help, by demonstrating that **their integration within a structured inquiry cycle produces greater gains** than either alone. Limitations include the single-site setting, small sample, reliance on self-reported engagement, and potential novelty effects of AI tools. Recommendations: targeted professional development for teachers on AI literacy and inquiry pedagogy; curriculum/administrative support for real-world contexts and adaptive technologies; and equitable access and clear ethical-use guidelines from policymakers.
+The study extends prior evidence that context-based instruction and AI tools each help, by demonstrating that **their integration within a structured inquiry cycle produces greater gains** than either alone. Limitations include the single-site setting, small sample, reliance on self-reported engagement, and potential novelty effects of AI tools. Recommendations: targeted professional development for teachers on AI literacy and inquiry [[pedagogy|pedagogy]]; curriculum/administrative support for real-world contexts and adaptive technologies; and equitable access and clear ethical-use guidelines from policymakers.
 
 ## Connected Concepts
 

@@ -20,7 +20,7 @@ Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors i
 
 ## Implications for AI in Education
 
-The study highlights the importance of moving beyond initial technology acceptance to examine **post-adoption behaviors** — critical use and reliance — particularly in technically demanding disciplines. It proposes a three-tiered [[ai-literacy|AI-literacy]] training approach for engineering and CS/IT programs: (1) evidence-based AI literacy for all students, (2) targeted mentoring for those needing additional support, and (3) intensive one-to-one support for students experiencing persistent difficulties or over-dependence. Because reliance varies by task, pedagogical approaches should be task-specific rather than uniform.
+The study highlights the importance of moving beyond initial technology acceptance to examine **post-adoption behaviors** — critical use and reliance — particularly in technically demanding disciplines. It proposes a three-tiered [[ai-literacy|AI-literacy]] training approach for engineering and CS/IT programs: (1) evidence-based AI literacy for all students, (2) targeted mentoring for those needing additional support, and (3) intensive one-to-one support for students experiencing persistent difficulties or over-dependence. Because reliance varies by task, [[pedagogy|pedagogical]] approaches should be task-specific rather than uniform.
 
 ## Connected Concepts
 
