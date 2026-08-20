@@ -30,6 +30,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 
 ## Connected Concepts
 
+- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[knowledge-tracing]]
 - [[personalized-learning]]
 - [[intelligent-tutoring]]

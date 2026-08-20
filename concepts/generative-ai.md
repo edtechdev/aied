@@ -29,6 +29,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 ## Connected Concepts
 
+- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-by-teaching]]
 - [[llm]]
 - [[prompt-engineering]]
