@@ -8,12 +8,12 @@ confidence: high
 ---
 > **AI technologies and techniques in education** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the wiki's coverage of the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, this page anchors the *technical* strand: the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
 
-[[ai-education|AI in education]] runs on a specific technical stack, and understanding it matters for educators and researchers even when they do not build systems themselves — because technical choices shape what AI can and cannot do in the classroom, the risks it carries, and how to evaluate it. This page organizes the wiki's technical-concept coverage: the AI systems, the techniques that adapt and control them, and how the technical layer connects to pedagogy, assessment, and evaluation.
+[[ai-education|AI in education]] runs on a specific technical stack, and understanding it matters for [[teacher-role|educators]] and researchers even when they do not build systems themselves — because technical choices shape what AI can and cannot do in the classroom, the risks it carries, and how to evaluate it. This page organizes the wiki's technical-concept coverage: the AI systems, the techniques that adapt and control them, and how the technical layer connects to pedagogy, assessment, and evaluation.
 
 ## AI systems in education
 
 - **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the wiki. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
-- **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation|simulation]].
+- **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation]].
 - **Robots and embodied systems.** [[educational-robotics|Robots in education]] add an embodied and often social presence — programmable kits for computational thinking and humanoid/social robots for tutoring, storytelling, and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Knowledge-based systems.** [[knowledge-graph|Knowledge graphs]] and [[educational-nlp|educational NLP]] represent and process domain knowledge, increasingly combined with LLMs for grounded, explainable tutoring.
 
@@ -31,9 +31,9 @@ The technical strand is inseparable from the wiki's other themes:
 
 - **Pedagogy:** technical choices embody pedagogical assumptions — a tutor built on [[socratic-method|Socratic prompting]] reasons with learners, while an answer-generating model may default to direct provision (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Assessment and evaluation:** [[ai-ed-evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment]] and [[automated-assessment]] use the technical stack to grade and generate.
-- **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, guardrails, [[prompt-engineering]] [[scaffolding|scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, guardrails, [[prompt-engineering]] [[scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
 
-## Implications for [[ai-education|AI in education]]
+## Implications for AI in education
 
 - **Technical literacy supports critical use:** understanding the underlying models and techniques helps educators and learners use AI well and evaluate it critically (see [[ai-literacy]]).
 - **Choose technology by pedagogical intent:** the AI system and technique should follow the [[pedagogy|teaching strategy]], not the reverse.

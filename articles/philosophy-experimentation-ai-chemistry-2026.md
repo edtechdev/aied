@@ -7,7 +7,7 @@ tags: [chemistry-education, philosophy-of-ai-in-education, critical-thinking, ep
 sources: ['raw/papers/philosophy-experimentation-ai-chemistry-2026.md']
 confidence: high
 ---
-> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in chemistry education**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific creativity), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. 
+> **Synthesis:** Reyes and Regala (2026) offer a philosophical examination of how **AI reshapes the epistemology, ontology, and methodology of experimentation in chemistry education**. AI-driven methods challenge the traditional realism/positivism of the chemistry laboratory, placing AI predictions in a **"liminal ontological space"** — neither wholly hypothetical nor fully real until empirically proven. The authors trace **ontological shifts** (e.g., AI-predicted compounds and titration curves blur the virtual/physical boundary), **[[agency|agency shift]]** (AI's role in decision-making raises questions about the locus of scientific [[creativity|creativity]]), and the risk of **over-reliance** on AI that automates routine tasks and alters how experiments are conceived. They argue for a **balanced human–AI framework** that maximizes AI's benefits while preserving the essential elements of scientific reasoning, intuition, creativity, and discovery. 
 
 ## AI and the epistemology of experimentation
 
@@ -19,7 +19,7 @@ Chemistry's ontology has been rooted in **realism** — substances and phenomena
 
 - AI systems can forecast reaction results, propose novel reactions/molecules not yet created, and generate predicted results that occupy a **liminal ontological space** between abstraction and potential reality.
 - In an acid–base titration, students may interact with three representations simultaneously: an AI predictive model, the physical titration, and real-time AI analysis — introducing a complex landscape where virtual and physical chemistry become increasingly **permeable**.
-- This shifts chemistry from realism toward a **[[constructivist|constructivist]] or post-[[constructivist|constructivist]]** perspective where reality is a collaborative creation of human and machine entities.
+- This shifts chemistry from realism toward a **[[constructivist]] or post-[[constructivist]]** perspective where reality is a collaborative creation of human and machine entities.
 
 ## Agency shift and methodological implications
 

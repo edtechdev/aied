@@ -25,7 +25,7 @@ confidence: high
 
 ## Implications and limitations
 
-The study extends prior evidence that context-based instruction and AI tools each help, by demonstrating that **their integration within a structured inquiry cycle produces greater gains** than either alone. Limitations include the single-site setting, small sample, reliance on self-reported engagement, and potential novelty effects of AI tools. Recommendations: targeted professional development for teachers on AI literacy and inquiry [[pedagogy|pedagogy]]; curriculum/administrative support for real-world contexts and adaptive technologies; and equitable access and clear ethical-use guidelines from policymakers.
+The study extends prior evidence that context-based instruction and AI tools each help, by demonstrating that **their integration within a structured inquiry cycle produces greater gains** than either alone. Limitations include the single-site setting, small sample, reliance on self-reported engagement, and potential novelty effects of AI tools. Recommendations: targeted professional development for [[teacher-role|teachers]] on AI literacy and inquiry [[pedagogy]]; curriculum/administrative support for real-world contexts and adaptive technologies; and equitable access and clear [[ethics|ethical]]-use guidelines from policymakers.
 
 ## Connected Concepts
 
