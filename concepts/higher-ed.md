@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-20T04:25:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -17,7 +17,7 @@ AI in higher education research spans every function of the university: from [[i
 
 ### Student experience at scale
 
-Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice. [[ai-higher-ed-workforce-survey|Workforce preparation surveys]] connect AI use in higher education to employment outcomes.
+Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice. [[ai-higher-ed-workforce-survey|Workforce preparation surveys]] connect AI use in higher education to employment outcomes. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students.
 
 ### Faculty and teaching
 
@@ -29,6 +29,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
+- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[generative-ai]]
 - [[llm]]
 - [[student-experience]]

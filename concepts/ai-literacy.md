@@ -74,6 +74,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 
 ## Connected Concepts
 
+- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[student-experience]]
 - [[higher-ed]]
 - [[cognitive-offloading]]

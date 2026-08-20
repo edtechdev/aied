@@ -6,433 +6,439 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 ## Canonical concepts
 
-- **`academic-integrity`** — Academic Integrity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     - phrases: academic integrity; academic dishonesty; plagiarism; authorship; contract cheating
-
-- **`accessible-learning`** — Accessible Learning
     - phrases: accessible learning; accessibility; accessible design; inclusive design; accessible education
-
-- **`active-learning`** — Active Learning
     - phrases: active learning; active engagement
-
-- **`adaptive-learning`** — Adaptive Learning
     - phrases: adaptive learning; adaptivity; adaptive system; adaptive instruction
-
-- **`administrator`** — AI from the Administrator Perspective
     - phrases: administrator; administrator perspective; institutional leader; education administrator; edtech administrator
-
-- **`adult-learning`** — Adult Learning
     - phrases: adult learning; andragogy; continuing education; adult education; lifelong learner
-
-- **`affective-computing`** — Affective Computing
     - phrases: affective computing; emotion recognition; emotion AI; sentiment analysis
-
-- **`affective-tutoring`** — Affective Tutoring
     - phrases: affective tutoring; emotion-aware tutoring; affect-sensitive tutoring; emotion-aware AI tutor
-
-- **`agency`** — Learner Agency
-    - phrases: learner agency; student agency; agency; autonomy; epistemic agency; learner control
-
-- **`agentic-ai`** — Agentic AI in Education
     - phrases: agentic AI; AI agent; AI agents; agent; agents; agentic; autonomous agents; AI agentic systems; agent-based AI; multi-agent
-
-- **`ai-ed-evaluation`** — AI Ed Evaluation
-    - phrases: AIEd evaluation; AI evaluation; evaluation; evaluating AI; AI system evaluation; assessment of AI systems
-
-- **`ai-education`** — AI in Education
-    - phrases: AI in education; AIEd; AI education; artificial intelligence in education
-
-- **`ai-feedback-quality`** — AI Feedback Quality
-    - phrases: AI feedback quality; feedback quality; automated feedback; quality of AI feedback
-
-- **`ai-literacy`** — AI Literacy
-    - phrases: AI literacy; AI competency; AI fluency; AI competence; AI skills
-
-- **`ai-misuse-learning-harm`** — AI Misuse and Learning Harm
-    - phrases: AI misuse; learning harm; AI-induced learning harm; misuse of AI; harmful AI use
-
-- **`ai-sycophancy`** — AI Sycophancy
-    - phrases: AI sycophancy; sycophancy; sycophantic AI; sycophantic; agreeable AI; affirmation bias; flattering AI
-
-- **`ai-technologies`** — AI Technologies and Techniques in Education
-    - phrases: AI technologies; AI techniques; LLM training; AI systems; machine learning; deep learning; robotics
-- **`assessment`** — Assessment
-    - phrases: assessment; educational assessment; student assessment; assessment design
-
-- **`assessment-validity`** — Assessment Validity in AI Education
-    - phrases: assessment validity; validity; test validity; measurement validity
-
-- **`authentic-assessment`** — Authentic Assessment
-    - phrases: authentic assessment; authentic tasks; real-world assessment; authentic learning tasks
-
-- **`automated-assessment`** — Automated Assessment
-    - phrases: automated assessment; automated grading; confidence-aware assessment; confidence-aware AI assessment; AI grading; automatic assessment; auto-scoring; autograding; automatic grading
-
-- **`automated-essay-scoring`** — Automated Essay Scoring
-    - phrases: automated essay scoring; AES; essay scoring; essay grading; automatic essay evaluation
-
-- **`automated-question-generation`** — Automated Question Generation
-    - phrases: automated question generation; AQG; question generation; item generation; auto-generated questions; AI question generation
-
-- **`behaviorism`** — Behaviorism
-    - phrases: behaviorism; behavioral learning theory; behaviourism
-
-- **`benchmark`** — Benchmark
-    - phrases: benchmark; benchmarking; benchmark suite; evaluation benchmark; benchmark dataset; benchmarks
-
-- **`bias-mitigation`** — Bias Mitigation
-    - phrases: bias mitigation; algorithmic bias; bias; fairness; de-biasing; debiasing
-
-- **`biology-education`** — Biology Education
-    - phrases: biology education; biology; biological education; biology learning; biology laboratory; life sciences
-
-- **`chemistry-education`** — Chemistry Education
-    - phrases: chemistry education; chemistry; chemical education; chemistry learning; chemistry laboratory
-
-- **`cognitive-diagnosis`** — Cognitive Diagnosis
-    - phrases: cognitive diagnosis; cognitive diagnostic assessment; misconception diagnosis; cognitive modeling
-
-- **`cognitive-offloading`** — Cognitive Offloading
-    - phrases: cognitive offloading; offloading cognition; over-reliance; cognitive outsourcing; cognitive delegation; mental offloading
-
-- **`collaborative-learning`** — Collaborative Learning
-    - phrases: collaborative learning; cooperative learning; group learning; peer learning
-
-- **`computational-thinking`** — Computational Thinking
-    - phrases: computational thinking; CT; computational skills
-
-- **`constructivist`** — Constructivism
-    - phrases: constructivism; constructivist learning; constructionism; constructivist theory
-
-- **`creativity`** — Creativity
-    - phrases: creativity; creative thinking; divergent thinking; creative skills
-
-- **`critical-pedagogy`** — Critical Pedagogy
-    - phrases: critical pedagogy; critical theory; critical educational theory
-
-- **`critical-thinking`** — Critical Thinking
-    - phrases: critical thinking; higher-order thinking; critical reasoning
-
-- **`cs-education`** — CS Education and AI
-    - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1; block programming; block-based programming; block coding; Scratch; visual programming
-
-- **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy
-    - phrases: culturally relevant pedagogy; culturally responsive teaching; culturally sustaining pedagogy; culturally responsive pedagogy
-
-- **`curriculum-design`** — Curriculum Design
-    - phrases: curriculum design; curriculum; curriculum development; curriculum alignment
-
-- **`design-thinking`** — Design Thinking
-    - phrases: design thinking; design process; design-based
-
-- **`desirable-difficulties`** — Desirable Difficulties
-    - phrases: desirable difficulties; productive struggle; desirable difficulty
-
-- **`digital-divide`** — Digital Divide
-    - phrases: digital divide; digital inequality; technology gap; access gap
-
-- **`discipline-specific-aied`** — AIEd in the Disciplines
-    - phrases: discipline-specific AIEd; AI in the disciplines; domain-specific AIED; disciplinary education; subject-specific AIED
-
-- **`distributed-cognition`** — Distributed Cognition
-    - phrases: distributed cognition; distributed intelligence; extended cognition
-
-- **`edtech-platform`** — Edtech Platform
-    - phrases: edtech platform; educational platform; LMS; learning platform; learning management system; edtech
-
-- **`educational-measurement`** — Educational Measurement
-    - phrases: educational measurement; measurement; assessment theory; measurement theory; educational testing
-
-- **`educational-nlp`** — Educational NLP
-    - phrases: educational NLP; NLP in education; natural language processing in education; language technologies in education
-
-- **`educational-policy-ai`** — Educational AI Policy
-    - phrases: educational AI policy; AI policy; education policy; policy for AI; AI in education policy
-
-- **`educational-robotics`** — Robots in Education
-    - phrases: educational robotics; robotics in education; robots in education; teaching robots
-
-- **`embodied-learning`** — Embodied Learning
-    - phrases: embodied learning; embodied cognition; embodiment; gesture-based learning; body-based learning
-
-- **`engineering-education`** — Engineering Education
-    - phrases: engineering education; engineering
-
-- **`equity-in-ai-education`** — Equity in AI Education
-    - phrases: equity; AI equity; fairness; educational equity; digital divide
-
-- **`ethics`** — Ethics in AI Education
     - phrases: AI ethics; ethical AI; responsible AI; ethics of AI; AI ethics education
-
-- **`experiential-learning`** — Experiential Learning
+    - phrases: AI feedback quality; feedback quality; automated feedback; quality of AI feedback
+    - phrases: AI in education; AIEd; AI education; artificial intelligence in education
+    - phrases: AI literacy; AI competency; AI fluency; AI competence; AI skills
+    - phrases: AI misuse; learning harm; AI-induced learning harm; misuse of AI; harmful AI use
+    - phrases: AI sycophancy; sycophancy; sycophantic AI; sycophantic; agreeable AI; affirmation bias; flattering AI
+    - phrases: AI technologies; AI techniques; LLM training; AI systems; machine learning; deep learning; robotics
+    - phrases: AIEd evaluation; AI evaluation; evaluation; evaluating AI; AI system evaluation; assessment of AI systems
+    - phrases: assessment validity; validity; test validity; measurement validity
+    - phrases: assessment; educational assessment; student assessment; assessment design
+    - phrases: authentic assessment; authentic tasks; real-world assessment; authentic learning tasks
+    - phrases: automated assessment; automated grading; confidence-aware assessment; confidence-aware AI assessment; AI grading; automatic assessment; auto-scoring; autograding; automatic grading
+    - phrases: automated essay scoring; AES; essay scoring; essay grading; automatic essay evaluation
+    - phrases: automated question generation; AQG; question generation; item generation; auto-generated questions; AI question generation
+    - phrases: behaviorism; behavioral learning theory; behaviourism
+    - phrases: benchmark; benchmarking; benchmark suite; evaluation benchmark; benchmark dataset; benchmarks
+    - phrases: bias mitigation; algorithmic bias; bias; fairness; de-biasing; debiasing
+    - phrases: biology education; biology; biological education; biology learning; biology laboratory; life sciences
+    - phrases: chemistry education; chemistry; chemical education; chemistry learning; chemistry laboratory
+    - phrases: cognitive diagnosis; cognitive diagnostic assessment; misconception diagnosis; cognitive modeling
+    - phrases: cognitive offloading; offloading cognition; over-reliance; cognitive outsourcing; cognitive delegation; mental offloading
+    - phrases: collaborative learning; cooperative learning; group learning; peer learning
+    - phrases: computational thinking; CT; computational skills
+    - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1; block programming; block-based programming; block coding; Scratch; visual programming
+    - phrases: constructivism; constructivist learning; constructionism; constructivist theory
+    - phrases: creativity; creative thinking; divergent thinking; creative skills
+    - phrases: critical pedagogy; critical theory; critical educational theory
+    - phrases: critical thinking; higher-order thinking; critical reasoning
+    - phrases: culturally relevant pedagogy; culturally responsive teaching; culturally sustaining pedagogy; culturally responsive pedagogy
+    - phrases: curriculum design; curriculum; curriculum development; curriculum alignment
+    - phrases: design thinking; design process; design-based
+    - phrases: desirable difficulties; productive struggle; desirable difficulty
+    - phrases: digital divide; digital inequality; technology gap; access gap
+    - phrases: discipline-specific AIEd; AI in the disciplines; domain-specific AIED; disciplinary education; subject-specific AIED
+    - phrases: distributed cognition; distributed intelligence; extended cognition
+    - phrases: edtech platform; educational platform; LMS; learning platform; learning management system; edtech
+    - phrases: educational AI policy; AI policy; education policy; policy for AI; AI in education policy
+    - phrases: educational measurement; measurement; assessment theory; measurement theory; educational testing
+    - phrases: educational NLP; NLP in education; natural language processing in education; language technologies in education
+    - phrases: educational robotics; robotics in education; robots in education; teaching robots
+    - phrases: embodied learning; embodied cognition; embodiment; gesture-based learning; body-based learning
+    - phrases: engineering education; engineering
+    - phrases: equity; AI equity; fairness; educational equity; digital divide
     - phrases: experiential learning; learning by doing; hands-on learning
-
-- **`faculty-development`** — Faculty Development
     - phrases: faculty development; professional development; teacher development; PD; educator development
-
-- **`feedback`** — Feedback
-    - phrases: feedback loop; feedback cycle; assessment feedback; learner feedback
-
-- **`feedback-literacy`** — Feedback Literacy
     - phrases: feedback literacy; feedback skills; feedback competency
-
-- **`formative-assessment`** — Formative Assessment in AI Education
+    - phrases: feedback loop; feedback cycle; assessment feedback; learner feedback
     - phrases: formative assessment; formative; assessment for learning
-
-- **`framing-ai-use-for-students`** — Framing AI Use for Students
     - phrases: framing AI use; framing AI for students; student buy-in; convincing students of AI; communicating AI policy; AI use framing; persuading students about AI
-
-- **`game-based-learning`** — Game-Based Learning
     - phrases: game-based learning; GBL; games for learning; serious games; gaming
-- **`generative-ai`** — Generative AI
     - phrases: generative AI; GenAI; generative artificial intelligence; GAI; chatbot; ChatGPT; generative model
-
-- **`global-south`** — Global South
     - phrases: Global South; developing country; developing countries; majority world; low-resource context; non-Western context
-
-- **`governance`** — AI Governance
     - phrases: governance; AI governance; governance framework
-
-- **`hallucination-risk`** — Hallucination Risk
     - phrases: hallucination; hallucination risk; AI hallucination; LLM hallucination
-
-- **`help-seeking`** — Help-Seeking
     - phrases: help-seeking; help seeking; help seeking behavior; help avoidance
-
-- **`higher-ed`** — AI in Higher Education
     - phrases: higher education; higher-ed; university; college; HE; post-secondary
-
-- **`human-ai-collaboration`** — Human AI Collaboration
     - phrases: human-AI collaboration; human-AI teaming; human-machine collaboration; hybrid intelligence; co-pilot; human-AI interaction
-
-- **`human-in-the-loop-ai`** — Human-in-the-Loop AI for Education
     - phrases: human-in-the-loop; HITL; human in the loop; human oversight; human-in-the-loop AI
-
-- **`humanities-education`** — Humanities and Social Science Education
     - phrases: humanities education; humanities and social science education; liberal arts education; HSS education
-
-- **`icap-framework`** — ICAP Framework
     - phrases: ICAP; ICAP framework; interactive-constructive-active-passive
-
-- **`instructional-design`** — Instructional Design with AI
     - phrases: instructional design; learning design; instructional development; ID
-
-- **`intelligent-tutoring`** — Intelligent Tutoring
     - phrases: intelligent tutoring; AI tutoring; ITS; intelligent tutoring system; AI tutor; tutoring system; adaptive tutor
-
-- **`item-response-theory`** — Item Response Theory
     - phrases: item response theory; IRT; psychometric modeling; item difficulty
-
-- **`k-12`** — K-12 AI Education
     - phrases: K-12; K-12 education; school; elementary; secondary education
-
-- **`knowledge-graph`** — Knowledge Graph
     - phrases: knowledge graph; KG; knowledge graph construction; graph-based knowledge
-
-- **`knowledge-tracing`** — Knowledge Tracing
     - phrases: knowledge tracing; KT; knowledge modeling; student knowledge modeling
-
-- **`language-learning`** — Language Learning
     - phrases: language learning; second language acquisition; SLA; foreign language learning; L2; language education
-
-- **`learning-analytics`** — Learning Analytics
-    - phrases: learning analytics; LA; educational data mining; analytics
-
-- **`learning-by-teaching`** — Learning by Teaching
-    - phrases: learning by teaching; teachable agents; teach-back; peer teaching
-
-- **`learning-gains`** — Learning Gains
-    - phrases: learning gains; learning outcomes; achievement; student achievement; learning effectiveness
-
-- **`learning-theories`** — Learning Theories
-    - phrases: learning theories; learning theory; theories of learning
-
-- **`lifelong-learning`** — Lifelong Learning and AI
-    - phrases: lifelong learning; continuous learning; lifelong learning and AI; upskilling
-
-- **`limitations-in-aied-research`** — Limitations in AIEd Research
-    - phrases: limitations in AIEd research; research limitations; AIED limitations; validity of AIEd research
-
-- **`llm`** — Large Language Models (LLMs)
     - phrases: large language model; LLM; large language models; GPT; language model; foundation model
-
-- **`math-education`** — Math Education
+    - phrases: learner agency; student agency; agency; autonomy; epistemic agency; learner control
+    - phrases: learning analytics; LA; educational data mining; analytics
+    - phrases: learning by teaching; teachable agents; teach-back; peer teaching
+    - phrases: learning gains; learning outcomes; achievement; student achievement; learning effectiveness
+    - phrases: learning theories; learning theory; theories of learning
+    - phrases: lifelong learning; continuous learning; lifelong learning and AI; upskilling
+    - phrases: limitations in AIEd research; research limitations; AIED limitations; validity of AIEd research
     - phrases: mathematics education; math education; mathematics
-
-- **`medical-education`** — Medical and Health Professions Education
     - phrases: medical education; health professions education; medical and health education; clinical education
-
-- **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review
-    - phrases: systematic review; meta-analysis; literature review; PRISMA; scoping review
-
-- **`metacognition`** — Metacognition
     - phrases: metacognition; metacognitive; self-monitoring
-
-- **`motivation`** — Motivation
     - phrases: motivation; student motivation; learner motivation; motivational
-
-- **`multilingual-learning`** — Multilingual Learning
     - phrases: multilingual learning; multilingual education; multilingual learners; low-resource language; language diversity; multilingualism
-
-- **`multimodal`** — Multimodal AI
     - phrases: multimodal; multimodal AI; multimodal learning analytics; multimodal learning
-
-- **`neurodiversity`** — Neurodiversity
     - phrases: neurodiversity; neurodivergent; neurodivergence; autism; ADHD
-
-- **`open-source`** — Open Source
+    - phrases: online teaching; online learning; online education; e-learning; distance learning; distance education; MOOC; online courses; virtual learning; remote learning
     - phrases: open source; open-source; OSS; open educational resources; open models
-
-- **`pedagogical-agent`** — Pedagogical Agent
     - phrases: pedagogical agent; virtual agent; learning agent; animated pedagogical agent; tutor agent
-
-- **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring
-    - phrases: training pedagogical LLMs; pedagogical LLM; LLM training for tutoring; fine-tuning tutors; pedagogical fine-tuning
-
-- **`pedagogical-safety`** — Pedagogical Safety
     - phrases: pedagogical safety; safety in tutoring; AI safety in education; safe tutoring
-
-- **`pedagogy`** — Pedagogies and Teaching Strategies
     - phrases: pedagogy; pedagogies; teaching strategies; teaching methods; instructional strategies
-- **`peer-review`** — Peer Review
     - phrases: peer review; peer feedback; peer assessment
-
-- **`personalized-learning`** — Personalized Learning
     - phrases: personalized learning; personalisation; personalization; individualized learning
-
-- **`philosophy-of-ai-in-education`** — Philosophy of AI in Education
     - phrases: philosophy of AI in education; philosophy of education; philosophy of AI
-
-- **`physics-education`** — Physics Education
     - phrases: physics education; physics teaching; physics
-
-- **`plagiarism-detection`** — AI Plagiarism Detection
     - phrases: plagiarism detection; AI plagiarism detection; AI-generated text detection; authorship detection; AI text detection
-
-- **`privacy`** — Privacy in AI Education
     - phrases: privacy; data privacy; student privacy; data protection
-
-- **`professional-training`** — Professional Training and AI
     - phrases: professional training; workforce development; vocational training; reskilling; upskilling; professional education
-
-- **`project-based-learning`** — Project-Based Learning
     - phrases: project-based learning; PBL; project-based
-
-- **`prompt-engineering`** — Prompt Engineering
     - phrases: prompt engineering; prompting; prompt design; prompt literacy; prompting strategies
-
-- **`psychometrically-aware-ai`** — Psychometrically Aware AI
     - phrases: psychometrically aware AI; psychometric AI; psychometrics; psychometrically aligned AI
-
-- **`rag`** — RAG (Retrieval-Augmented Generation)
     - phrases: RAG; retrieval-augmented generation; retrieval augmentation; retrieval
-
-- **`rct`** — RCT
     - phrases: RCT; randomized controlled trial; randomized controlled experiment; controlled trial
-
-- **`reducing-ai-misuse`** — Reducing AI Misuse
     - phrases: reducing AI misuse; AI misuse reduction; mitigating AI misuse; preventing AI misuse
-
-- **`regulation`** — AI Regulation in Education
     - phrases: regulation; AI regulation; regulatory; regulatory framework
-
-- **`reinforcement-learning`** — Reinforcement Learning
     - phrases: reinforcement learning; RL; reward model; RLHF
-
-- **`research-methods-aied`** — Research Methods in AIED
     - phrases: research methods in AIED; AIED methodology; research design; AIED research methods
-
-- **`scaffolding`** — Scaffolding
     - phrases: scaffolding; scaffold; instructional scaffolding
-
-- **`self-determination-theory`** — Self-Determination Theory
     - phrases: self-determination theory; SDT; autonomy competence relatedness
-
-- **`self-efficacy`** — Self-Efficacy
     - phrases: self-efficacy; self efficacy; academic self-efficacy
-
-- **`self-regulated-learning`** — Self-Regulated Learning
     - phrases: self-regulated learning; SRL; self-regulation
-
-- **`simulating-students`** — Simulating Students
     - phrases: simulating students; student simulation; AI students; synthetic students; simulated learners
-
-- **`simulation`** — Simulation
     - phrases: simulation; simulator; virtual lab; simulation-based learning
-
-- **`situated-learning`** — Situated Learning
     - phrases: situated learning; situated cognition; authentic context learning
-
-- **`sociocultural-learning`** — Sociocultural Learning
-    - phrases: sociocultural learning; sociocultural theory; sociocultural; Vygotsky; zone of proximal development; ZPD; mediated learning; mediation; cultural-historical activity theory; community of practice; apprenticeship; more knowledgeable other
-
-- **`social-emotional-learning`** — Social-Emotional Learning
     - phrases: social-emotional learning; SEL; social emotional; emotional learning
-
-- **`socratic-method`** — Socratic Method
+    - phrases: sociocultural learning; sociocultural theory; sociocultural; Vygotsky; zone of proximal development; ZPD; mediated learning; mediation; cultural-historical activity theory; community of practice; apprenticeship; more knowledgeable other
     - phrases: Socratic method; Socratic questioning; Socratic dialogue; Socratic tutoring
-
-- **`special-education`** — Special Education
     - phrases: special education; special needs education; exceptional learners
-
-- **`stakeholders`** — People and Audiences in AI Education
     - phrases: stakeholders; audiences; teachers; students; instructional designers; administrators; policymakers
-- **`stem-education`** — STEM Education and AI
     - phrases: STEM education; STEM
-
-- **`storytelling-in-education`** — Storytelling in Education
     - phrases: storytelling in education; digital storytelling; narrative learning; story-based learning
-
-- **`student-ai-interaction`** — Student-AI Interaction
-    - phrases: student-AI interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; learner-AI interaction; interactions with AI
-
-- **`student-engagement`** — Student Engagement
     - phrases: student engagement; learner engagement; engagement; engagement metrics; engagement measurement; engagement indicators; behavioral engagement
-
-- **`student-experience`** — Student Experience with AI
     - phrases: student experience; learner experience; student voice; learner experience
-
-- **`student-misconceptions-ai`** — Student Misconceptions about AI
     - phrases: student misconceptions about AI; misconceptions about AI; AI misconceptions; learner misconceptions
-
-- **`student-modeling`** — Student Modeling
     - phrases: student modeling; learner modeling; learner model; student model
-
-- **`summative-assessment`** — Summative Assessment
+    - phrases: student-AI interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; learner-AI interaction; interactions with AI
     - phrases: summative assessment; final exam; examination; high-stakes test; oral exam; proctored exam; closed-book exam
-- **`teacher-ai-competency`** — Teacher AI Competency
+    - phrases: systematic review; meta-analysis; literature review; PRISMA; scoping review
     - phrases: teacher AI competency; teacher AI competence; teacher AI readiness; teacher digital competence
-
-- **`teacher-education`** — Teacher Education
     - phrases: teacher education; teacher training; preservice teacher education
-
-- **`teacher-role`** — Teacher Role in AI-Enhanced Education
     - phrases: teacher role; teacher; teacher agency; educator role
-
-- **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
-    - phrases: TPACK; technological pedagogical content knowledge
-
-- **`technology-acceptance-model`** — Technology Acceptance Model
     - phrases: technology acceptance model; TAM; technology acceptance; perceived usefulness; perceived ease of use; UTAUT; adoption model
-
-- **`transfer-of-learning`** — Transfer of Learning
+    - phrases: TPACK; technological pedagogical content knowledge
+    - phrases: training pedagogical LLMs; pedagogical LLM; LLM training for tutoring; fine-tuning tutors; pedagogical fine-tuning
     - phrases: transfer of learning; learning transfer; transfer; far transfer
-
-- **`trust`** — Trust in AI
-    - phrases: trust in AI; trust; trustworthiness
-
-- **`trust-calibration`** — Trust Calibration
     - phrases: trust calibration; calibrated trust; appropriate trust
-
-- **`universal-design-for-learning`** — Universal Design for Learning
+    - phrases: trust in AI; trust; trustworthiness
     - phrases: universal design for learning; UDL; universal design
-
-- **`well-being`** — Well-Being
     - phrases: well-being; wellbeing; student wellbeing; mental health
-
-- **`writing-education`** — AI in Writing Education
     - phrases: writing education; writing; writing instruction; composition; academic writing
-
+- **`academic-integrity`** — Academic Integrity
+- **`accessible-learning`** — Accessible Learning
+- **`active-learning`** — Active Learning
+- **`adaptive-learning`** — Adaptive Learning
+- **`administrator`** — AI from the Administrator Perspective
+- **`adult-learning`** — Adult Learning
+- **`affective-computing`** — Affective Computing
+- **`affective-tutoring`** — Affective Tutoring
+- **`agency`** — Learner Agency
+- **`agentic-ai`** — Agentic AI in Education
+- **`ai-ed-evaluation`** — AI Ed Evaluation
+- **`ai-education`** — AI in Education
+- **`ai-feedback-quality`** — AI Feedback Quality
+- **`ai-literacy`** — AI Literacy
+- **`ai-misuse-learning-harm`** — AI Misuse and Learning Harm
+- **`ai-sycophancy`** — AI Sycophancy
+- **`ai-technologies`** — AI Technologies and Techniques in Education
+- **`assessment-validity`** — Assessment Validity in AI Education
+- **`assessment`** — Assessment
+- **`authentic-assessment`** — Authentic Assessment
+- **`automated-assessment`** — Automated Assessment
+- **`automated-essay-scoring`** — Automated Essay Scoring
+- **`automated-question-generation`** — Automated Question Generation
+- **`behaviorism`** — Behaviorism
+- **`benchmark`** — Benchmark
+- **`bias-mitigation`** — Bias Mitigation
+- **`biology-education`** — Biology Education
+- **`blended-learning`** — Blended Learning
+    - phrases: blended learning; hybrid learning; blended format; hybrid format
+- **`chemistry-education`** — Chemistry Education
+- **`cognitive-diagnosis`** — Cognitive Diagnosis
+- **`cognitive-offloading`** — Cognitive Offloading
+- **`collaborative-learning`** — Collaborative Learning
+- **`computational-thinking`** — Computational Thinking
+- **`constructivist`** — Constructivism
+- **`creativity`** — Creativity
+- **`critical-pedagogy`** — Critical Pedagogy
+- **`critical-thinking`** — Critical Thinking
+- **`cs-education`** — CS Education and AI
+- **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy
+- **`curriculum-design`** — Curriculum Design
+- **`design-thinking`** — Design Thinking
+- **`desirable-difficulties`** — Desirable Difficulties
+- **`digital-divide`** — Digital Divide
+- **`discipline-specific-aied`** — AIEd in the Disciplines
+- **`distributed-cognition`** — Distributed Cognition
+- **`edtech-platform`** — Edtech Platform
+- **`educational-measurement`** — Educational Measurement
+- **`educational-nlp`** — Educational NLP
+- **`educational-policy-ai`** — Educational AI Policy
+- **`educational-robotics`** — Robots in Education
+- **`embodied-learning`** — Embodied Learning
+- **`engineering-education`** — Engineering Education
+- **`equity-in-ai-education`** — Equity in AI Education
+- **`ethics`** — Ethics in AI Education
+- **`experiential-learning`** — Experiential Learning
+- **`faculty-development`** — Faculty Development
+- **`feedback-literacy`** — Feedback Literacy
+- **`feedback`** — Feedback
+- **`formative-assessment`** — Formative Assessment in AI Education
+- **`framing-ai-use-for-students`** — Framing AI Use for Students
+- **`game-based-learning`** — Game-Based Learning
+- **`generative-ai`** — Generative AI
+- **`global-south`** — Global South
+- **`governance`** — AI Governance
+- **`hallucination-risk`** — Hallucination Risk
+- **`help-seeking`** — Help-Seeking
+- **`higher-ed`** — AI in Higher Education
+- **`human-ai-collaboration`** — Human AI Collaboration
+- **`human-in-the-loop-ai`** — Human-in-the-Loop AI for Education
+- **`humanities-education`** — Humanities and Social Science Education
+- **`icap-framework`** — ICAP Framework
+- **`instructional-design`** — Instructional Design with AI
+- **`intelligent-tutoring`** — Intelligent Tutoring
+- **`item-response-theory`** — Item Response Theory
+- **`k-12`** — K-12 AI Education
+- **`knowledge-graph`** — Knowledge Graph
+- **`knowledge-tracing`** — Knowledge Tracing
+- **`language-learning`** — Language Learning
+- **`learning-analytics`** — Learning Analytics
+- **`learning-by-teaching`** — Learning by Teaching
+- **`learning-gains`** — Learning Gains
+- **`learning-theories`** — Learning Theories
+- **`lifelong-learning`** — Lifelong Learning and AI
+- **`limitations-in-aied-research`** — Limitations in AIEd Research
+- **`llm`** — Large Language Models (LLMs)
+- **`math-education`** — Math Education
+- **`medical-education`** — Medical and Health Professions Education
+- **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review
+- **`metacognition`** — Metacognition
+- **`mooc`** — Massive Open Online Courses (MOOC)
+    - phrases: MOOC; MOOCs; massive open online course; massive open online courses
+- **`motivation`** — Motivation
+- **`multilingual-learning`** — Multilingual Learning
+- **`multimodal`** — Multimodal AI
+- **`neurodiversity`** — Neurodiversity
+- **`online-teaching-and-learning`** — Online Teaching and Learning
+- **`open-source`** — Open Source
+- **`pedagogical-agent`** — Pedagogical Agent
+- **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring
+- **`pedagogical-safety`** — Pedagogical Safety
+- **`pedagogy`** — Pedagogies and Teaching Strategies
+- **`peer-review`** — Peer Review
+- **`personalized-learning`** — Personalized Learning
+- **`philosophy-of-ai-in-education`** — Philosophy of AI in Education
+- **`physics-education`** — Physics Education
+- **`plagiarism-detection`** — AI Plagiarism Detection
+- **`privacy`** — Privacy in AI Education
+- **`professional-training`** — Professional Training and AI
+- **`project-based-learning`** — Project-Based Learning
+- **`prompt-engineering`** — Prompt Engineering
+- **`psychometrically-aware-ai`** — Psychometrically Aware AI
+- **`rag`** — RAG (Retrieval-Augmented Generation)
+- **`rct`** — RCT
+- **`reducing-ai-misuse`** — Reducing AI Misuse
+- **`regulation`** — AI Regulation in Education
+- **`reinforcement-learning`** — Reinforcement Learning
+- **`research-methods-aied`** — Research Methods in AIED
+- **`scaffolding`** — Scaffolding
+- **`self-determination-theory`** — Self-Determination Theory
+- **`self-efficacy`** — Self-Efficacy
+- **`self-regulated-learning`** — Self-Regulated Learning
+- **`simulating-students`** — Simulating Students
+- **`simulation`** — Simulation
+- **`situated-learning`** — Situated Learning
+- **`social-emotional-learning`** — Social-Emotional Learning
+- **`sociocultural-learning`** — Sociocultural Learning
+- **`socratic-method`** — Socratic Method
+- **`special-education`** — Special Education
+- **`stakeholders`** — People and Audiences in AI Education
+- **`stem-education`** — STEM Education and AI
+- **`storytelling-in-education`** — Storytelling in Education
+- **`student-ai-interaction`** — Student-AI Interaction
+- **`student-engagement`** — Student Engagement
+- **`student-experience`** — Student Experience with AI
+- **`student-misconceptions-ai`** — Student Misconceptions about AI
+- **`student-modeling`** — Student Modeling
+- **`summative-assessment`** — Summative Assessment
+- **`teacher-ai-competency`** — Teacher AI Competency
+- **`teacher-education`** — Teacher Education
+- **`teacher-role`** — Teacher Role in AI-Enhanced Education
+- **`technology-acceptance-model`** — Technology Acceptance Model
+- **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
+- **`transfer-of-learning`** — Transfer of Learning
+- **`trust-calibration`** — Trust Calibration
+- **`trust`** — Trust in AI
+- **`universal-design-for-learning`** — Universal Design for Learning
+- **`well-being`** — Well-Being
+- **`writing-education`** — AI in Writing Education
 ## Merged / absorbed (no longer separate pages)
 
 - `gamification` → **`game-based-learning`**
