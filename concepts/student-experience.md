@@ -54,3 +54,4 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI-skills expectations for college graduates vs. institutional readiness
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction

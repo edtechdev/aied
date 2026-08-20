@@ -96,3 +96,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines

@@ -58,3 +58,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
