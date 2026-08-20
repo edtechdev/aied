@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 751 articles and 146 concepts.
+> Complete text of 752 articles and 146 concepts.
 
 # Articles
 
@@ -5010,23 +5010,23 @@ Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities 
 
 ## [Artificial Intelligence and Student Engagement in Online Learning: A Literature Review](https://edtechdev.github.io/aied/articles/ai-student-engagement-online-learning-review-2025/)
 
-> **Synthesis:** Zhou (2025) systematically reviews 24 studies from the Web of Science database on how AI enhances student engagement in online learning. Six key applications emerge: AI chatbots in course design, emotion/facial/voice recognition and eye tracking, machine learning for data analysis, teacher–student interaction support, personalized feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.
+> **Synthesis:** Zhou (2025) [[meta-analysis-systematic-review|systematically reviews]] 24 studies from the Web of Science database on how AI enhances [[student-engagement|student engagement]] in [[online-teaching-and-learning|online learning]]. Six key applications emerge: AI chatbots in [[instructional-design|course design]], emotion/facial/voice recognition and eye tracking, machine learning for data analysis, teacher–student interaction support, [[personalized-learning|personalized]] feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.
 
 ## Key Findings
 
-- **Six AI applications support engagement.** The review classifies AI use into: (1) AI chatbots integrated into online course design, (2) emotion, facial, voice recognition and eye tracking, (3) machine learning for data analysis, (4) teacher–student interaction support, (5) personalized feedback and recommendations, and (6) AI-powered bots in smart learning environments.
+- **Six AI applications support engagement.** The review classifies AI use into: (1) AI chatbots integrated into [[instructional-design|online course design]], (2) emotion, facial, voice recognition and eye tracking, (3) [[learning-analytics|machine learning for data analysis]], (4) teacher–student interaction support, (5) personalized [[feedback]] and recommendations, and (6) AI-powered bots in smart learning environments.
 - **Chatbots foster engagement through timely, personalized support.** AI-powered [[pedagogical-agent|chatbots]] are effective across learning domains and stages — delivering course information, interactive practice, and information retrieval — with comparative analyses finding them especially effective when deployed for personalized, on-demand assistance.
-- **Affective and behavioral monitoring.** Emotion recognition, facial and voice tracking, and eye tracking enable real-time assessment of behavioral, emotional, and cognitive engagement — recognizing states from boredom and confusion to interest and enjoyment using facial expressions, physiological signals, and voice data.
+- **Affective and behavioral monitoring.** Emotion recognition, facial and voice tracking, and eye tracking enable real-time assessment of behavioral, emotional, and cognitive engagement — recognizing states from boredom and confusion to interest and enjoyment using facial expressions, physiological signals, and voice data.^[[affective-computing]]
 - **Common data sources and measurement.** Studies rely on video recordings, activity logs, standardized datasets, and surveys; engagement is typically measured through multi-method approaches combining surveys, AI recognition, and coded activity data.
 - **Integration improves insight.** Combining diverse AI tools and data sources provides more accurate, real-time insight into students' cognitive, emotional, and behavioral engagement than single-source approaches.
 
 ## Study Design & Method
 
-A systematic literature review of 24 peer-reviewed studies retrieved from the Web of Science database. The review synthesized how AI has been implemented to foster student engagement in fully online learning (excluding blended and flipped contexts), classifying applications and examining the data resources and measurement approaches used. Engagement is treated as a multi-dimensional construct spanning behavioral participation, emotional investment, and cognitive involvement.
+A [[meta-analysis-systematic-review|systematic literature review]] of 24 peer-reviewed studies retrieved from the Web of Science database. The review synthesized how AI has been implemented to foster [[student-engagement|student engagement]] in fully [[online-teaching-and-learning|online learning]] (excluding blended and flipped contexts), classifying applications and examining the data resources and measurement approaches used. Engagement is treated as a multi-dimensional construct spanning behavioral participation, emotional investment, and cognitive involvement.
 
 ## Implications for AI in Education
 
-In [[online-teaching-and-learning|online learning]], where autonomy and [[self-regulated-learning|self-regulation]] demands make sustained engagement harder than in person, AI offers real-time monitoring, personalized feedback, and interactive tools to support [[student-engagement|engagement]]. For designers, the review recommends integrating multiple AI modalities and data sources rather than relying on a single signal, and measuring engagement across cognitive, emotional, and behavioral dimensions. Future work should examine real-time interventions, long-term impacts, [[ethics|ethical considerations]], and the differences between synchronous and asynchronous online learning.
+In [[online-teaching-and-learning|online learning]], where autonomy and [[self-regulated-learning|self-regulation]] demands make sustained engagement harder than in person, AI offers real-time monitoring, personalized feedback, and interactive tools to support [[student-engagement|engagement]]. For designers, the review recommends integrating multiple AI modalities and [[multimodal|data sources]] rather than relying on a single signal, and measuring engagement across cognitive, emotional, and behavioral dimensions. Future work should examine real-time interventions, long-term impacts, [[ethics|ethical considerations]], and the differences between synchronous and asynchronous online learning.
 
 ## Connected Concepts
 
@@ -7278,15 +7278,15 @@ Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). Lev
 
 ## [The Best Response to Student AI Use Is Not Detection, It Is Dialog](https://edtechdev.github.io/aied/articles/best-response-student-ai-dialog-2026/)
 
-> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best institutional response to student AI use is **learning verification through dialog — not detection**. Because AI detectors are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes trust. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an assessment approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
+> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best institutional response to student AI use is **learning verification through dialog — not [[plagiarism-detection|detection]]**. Because [[plagiarism-detection|AI detectors]] are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes [[trust]]. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an [[assessment]] approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
 
 ## Key Findings
 
-- **Detection is unreliable and formal processes stall.** AI detectors produce unacceptable error rates and are disproportionately likely to flag writing by nonnative English speakers; Code of Conduct processes require proof that is functionally unavailable with AI, so cases stall, students are not found responsible, and faculty feel dismissed.
-- **Reframe the problem: AI use is a confounding variable.** AI use is not the true concern — it is one of several things (ghostwriting, overstepping tutors, contract cheating) that disrupt the inferential link between a submitted artifact and actual student understanding. The real question is whether the student mastered the learning objectives.
-- **Learning verification in practice.** A syllabus statement normalizes that students may be asked to explain their work at any point (framed as pedagogy, not surveillance); verification conversations (5–10 minutes) focus on the material, not the tool. Alternatives for large/asynchronous courses: written reflections, short student videos, early draft submissions, and (when used) AI chat logs.
-- **Trust and relationships shift.** Students initially approached verification with anxiety (assuming they were accused), but when communicated well they began disclosing AI use more openly and engaging with assignments as genuine learning tasks rather than products. The framework treats AI use as acceptable when the student can demonstrate understanding.
-- **Faculty and institutional challenges.** Faculty's top concern was time, which softened once 5–10 minute conversations proved cleaner than formal proceedings. The harder persistent challenge is faculty who are philosophically unwilling to treat verified AI use as neutral — a gap addressed through brown-bag conversations rather than policy training. Formal, systematic evaluation of outcomes is still in development.
+- **Detection is unreliable and formal processes stall.** [[plagiarism-detection|AI detectors]] produce unacceptable error rates and are disproportionately likely to flag writing by nonnative English speakers; Code of Conduct processes require proof that is functionally unavailable with AI, so cases stall, students are not found responsible, and faculty feel dismissed.
+- **Reframe the problem: AI use is a confounding variable.** AI use is not the true concern — it is one of several things (ghostwriting, overstepping tutors, [[ai-misuse-learning-harm|contract cheating]]) that disrupt the inferential link between a submitted artifact and actual student understanding. The real question is whether the student mastered the learning objectives.
+- **Learning verification in practice.** A [[instructional-design|syllabus]] statement normalizes that students may be asked to explain their work at any point (framed as [[pedagogy]], not surveillance); verification conversations (5–10 minutes) focus on the material, not the tool — an extension of [[authentic-assessment|demonstrating understanding]]. Alternatives for large/asynchronous courses: written reflections, short student videos, early draft submissions, and (when used) AI chat logs.
+- **Trust and relationships shift.** Students initially approached verification with [[student-experience|anxiety]] (assuming they were accused), but when communicated well they began disclosing AI use more openly and engaging with assignments as genuine [[assessment|learning tasks]] rather than products. The framework treats AI use as acceptable when the student can demonstrate understanding.
+- **Faculty and institutional challenges.** Faculty's top concern was time, which softened once 5–10 minute conversations proved cleaner than formal proceedings. The harder persistent challenge is [[teacher-role|faculty]] who are philosophically unwilling to treat verified AI use as neutral — a gap addressed through brown-bag conversations rather than policy training. Formal, systematic evaluation of outcomes is still in development.
 
 ## Implications for AI in Education
 
@@ -15070,6 +15070,52 @@ Rizun, N., Bordean, O. N., Nikiforova, A., Beleiu, I. N., & Revina, A. (2026). [
 ## Citation
 
 Bai, L., & Costa, C. (2026). [*Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement*](https://doi.org/10.1016/j.caeo.2026.100397). *Computers and Education Open*, 100397. https://doi.org/10.1016/j.caeo.2026.100397
+
+---
+
+## [Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings](https://edtechdev.github.io/aied/articles/genai-counter-learner-groupthink-2025/)
+
+> **Synthesis:** Wiss et al. (2025) describe a mixed-methods study that introduced a generative AI agent — **CALIE** (Collaborative Agent for Learning and Interprofessional Exploration) — into twelve newly formed interprofessional student teams in a virtual [[project-based-learning|problem-based learning]] session, intentionally prompted to inject controversial viewpoints and counter groupthink. Across 158 survey respondents from seven health-professions graduate programs, the genAI agent positively influenced group dynamics, stimulated [[critical-thinking|critical thinking]] and [[student-engagement|engagement]], and limited groupthink's potential. The faculty facilitator's stance toward the AI significantly shaped students' acceptance of it, and students' perceptions of the AI as useful, helpful, and part of the team differed significantly and were positively intercorrelated.
+
+## Key Findings
+
+- **genAI agents can counter groupthink.** Students reported that the agent's regularly introduced controversial responses stimulated [[critical-thinking|critical thinking]], introduced divergent outside viewpoints, and gave teams a launchpad to analyze the AI's output using their own disciplinary knowledge — steering groups away from conformity-driven consensus.
+- **Quantitative perceptions.** A repeated-measures ANOVA (F(2, 156) = 26.01, p < .001) found students agreed most that AI can be a useful tool (M = 3.49), then that its feedback was helpful (M = 3.21), and least that AI felt part of the team (M = 2.88); all pairwise comparisons differed significantly. The three items were all positively correlated.
+- **Facilitator influence matters.** Students who said their faculty facilitator influenced how they integrated the AI reported more positive AI perceptions on all three measures — e.g., viewing AI as part of the team (M = 3.08 vs 2.64, F(1,156) = 5.96, p = .02) and finding its [[feedback]] helpful (M = 3.44 vs 2.93, F(1,156) = 10.26, p = .002).
+- **Disagreement with the AI aided teamwork.** Even when learners rejected or mistrusted the agent's responses, the act of engaging with or refuting them offered a socially permissible way to speak up, stimulating reflection and conversation and counteracting passivity in unfamiliar teams.
+- **Mixed bias findings.** Perceptions of AI bias were "complex and messy" — some students held personal negative bias toward AI, and it was unclear whether they labeled controversial responses "biased" because they disagreed with the content; bias in interprofessional AI settings is flagged for future research.
+
+## Study Design & Method
+
+A mixed-methods study under Yale IRB. 165 graduate health-professions learners (158 opted into the survey) from seven programs (MPH, nursing, AGACNP, DPT, PharmD, DDS, Physician Associate) were divided evenly across twelve small groups, each facilitated by a faculty member. Teams completed a synchronous 180-minute virtual [[project-based-learning|problem-based learning]] session using the VIPE interprofessional education methodology, during which the CALIE genAI agent was voiced at three points to introduce potentially controversial perspectives. Data came from an online post-activity survey combining quantitative perception items (analyzed with repeated-measures and multivariate ANOVAs) and qualitative open responses.
+
+## Implications for AI in Education
+
+For educators and learning designers running team-based [[project-based-learning|problem-based learning]], intentionally prompted [[agentic-ai|generative AI agents]] can serve as productive "devil's advocates" that inject controversy, stimulate [[critical-thinking|critical thinking]] and [[student-engagement|engagement]], and counteract the conformity pressures that produce groupthink — especially valuable in [[collaborative-learning|interprofessional]] settings where diverse perspectives are the pedagogical goal. The facilitator's role is pivotal: their framing and stance toward the AI substantially shapes whether students accept and benefit from it. The study cautions that AI bias perception is complex and that learner skepticism can coexist with productive engagement.
+
+## Connected Concepts
+
+- [[collaborative-learning]]
+- [[project-based-learning]]
+- [[experiential-learning]]
+- [[active-learning]]
+- [[pedagogical-agent]]
+- [[agentic-ai]]
+- [[human-ai-collaboration]]
+- [[critical-thinking]]
+- [[student-engagement]]
+- [[ai-literacy]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-communities-of-inquiry-2026]] — AI and Communities of Inquiry: collaborative inquiry with AI
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards and engagement
+- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: learner engagement and satisfaction
+
+## Citation
+
+Wiss, A., Showstark, M., Dobbeck, K., Pattershall-Geide, J., Zschaebitz, E., Joosten-Hagye, D., Potter, K., & Embry, E. (2025). [*Utilizing generative AI to counter learner groupthink by introducing controversy in collaborative problem based learning settings*](https://doi.org/10.24059/olj.v29i3.5096). *Online Learning Journal*, 29(3), 39–65.
 
 ---
 
@@ -35901,6 +35947,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 
 - **Systematic-review synthesis.** A PRISMA review of 25 studies (Balalle & Pannilage 2025) finds AI acts as both a threat (AI-generated writing, paraphrasing tools) and a detection tool (Turnitin AI scores), that detection software is unreliable for AI-generated work, and that institutions must build a culture of academic integrity through clear policy, assessment redesign, and ethics training rather than policing alone.^[[ssaho-ai-academic-integrity-review-2025]]
+- **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine engagement, and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
+
 ## Connected Concepts
 
 - [[remote-proctoring]]
@@ -36100,6 +36148,7 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[help-seeking]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
 - [[lak2026-hint-button-unproductive-use]]
@@ -36524,6 +36573,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
@@ -36972,6 +37022,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]
@@ -38288,6 +38339,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Articles
 
+- [[genai-counter-learner-groupthink-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[polished-artifacts-fragile-engagement-2026]]
 - [[epistemic-emotions-collaborative-problem-solving]]
@@ -38592,6 +38644,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
@@ -39881,6 +39934,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
@@ -40803,6 +40857,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
@@ -40924,6 +40979,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
@@ -41218,6 +41274,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -42938,6 +42995,7 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 
 ## Connected Articles
 
+- [[genai-counter-learner-groupthink-2025]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
@@ -43548,6 +43606,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 
 - **Detection reliability caution.** A systematic review of AI and academic integrity concludes that plagiarism/AI-detection tools cannot be relied upon for AI-generated work and should be paired with multiple assessment methods and manual review — reinforcing that detection is a limited, situational tool.^[[ssaho-ai-academic-integrity-review-2025]]
+- **Beyond detection: dialog over surveillance.** A practitioner account of Grand Canyon University's learning-verification framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues the best response to student AI use is dialog, not detection. Because detectors are unreliable (and biased against nonnative writers), GCU stopped asking "did the student use AI?" and instead asks students to demonstrate understanding in a brief conversation — an extension of [[authentic-assessment|assessment redesign]] that treats detection as a dead end and verification as good teaching.
 ## Connected Concepts
 
 - [[academic-integrity]]
@@ -43706,6 +43765,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 ## Connected Articles
 
+- [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
@@ -45145,6 +45205,8 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 Engagement is operationalized through a range of observable signals. **Behavioral metrics** measure what learners *do* (time-on-task, activity counts, interaction frequency, persistence); **cognitive metrics** measure how learners *think* (depth of processing, critical engagement, discourse analysis); **affective metrics** measure how learners *feel* (emotion, motivation, interest); and **contextual metrics** capture multitasking and attention. AI-education research increasingly combines these and treats engagement as a mediating mechanism between AI tool design and learning outcomes, rather than an outcome in itself.
 
+- **Six AI application families + multi-method measurement:** [[ai-student-engagement-online-learning-review-2025|Zhou's (2025) systematic review]] of 24 WoS studies maps six AI applications for engagement — chatbots in course design, emotion/facial/voice recognition and eye tracking, ML for data analysis, teacher–student interaction support, personalized feedback/recommendations, and AI-powered bots in smart learning environments. It finds that integrating multiple AI modalities and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement than single-source approaches — reinforcing the metric-choice problem above.
+
 The choice of metric is definitional: a study that measures engagement as *time-on-task* may conclude an AI tool enhances engagement when students spend more time interacting with it, while a study that measures engagement as *critical processing* may reach the opposite conclusion for the same tool. This is why the wiki's research distinguishes engagement (participation) from learning (actual cognitive gain) — see [[genai-performance-vs-learning|performance vs. learning]] — and why engagement metrics must be validated against what they claim to measure.
 
 - **Engagement as a fragile, situation-dependent signal:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find that engagement varies by context, task, and learner — the same tool produces strong engagement for some students and shallow, output-chasing behavior for others.
@@ -45184,6 +45246,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]

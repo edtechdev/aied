@@ -106,6 +106,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]
