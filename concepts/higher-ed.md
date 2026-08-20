@@ -29,6 +29,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[generative-ai]]
@@ -49,6 +50,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]

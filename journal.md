@@ -1,7 +1,13 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 860
+**Last updated:** 2026-08-20 | **Total entries:** 862
 
 ## "2026-08-20
+- ● [[self-directed-learning]] — 
+  Self-Directed Learning
+  #self-regulated-learning #agency #motivation #self-efficacy #higher-ed #generative-ai #lifelong-learning #adult-learning
+- ● [[genai-thoughtless-use-self-directed-learning-2026]] — ['raw/papers/genai-thoughtless-use-self-directed-learning-2026.md']
+  Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences
+  #generative-ai #self-directed-learning #cognitive-offloading #self-efficacy #motivation #self-regulated-learning #higher-ed #gender
 - ● [[genai-counter-learner-groupthink-2025]] — ['raw/papers/genai-counter-learner-groupthink-2025.md']
   Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
   #generative-ai #collaborative-learning #project-based-learning #pedagogical-agent #interprofessional-education #student-engagement #active-learning #higher-ed

@@ -67,6 +67,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 ## Connected Concepts
 
+- [[self-directed-learning]]
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[scaffolding]]
