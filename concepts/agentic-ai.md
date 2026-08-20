@@ -70,6 +70,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[genai-counter-learner-groupthink-2025]]
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)

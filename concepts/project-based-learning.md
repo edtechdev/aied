@@ -32,6 +32,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 
 ## Connected Articles
 
+- [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers

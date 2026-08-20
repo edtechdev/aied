@@ -69,6 +69,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 ## Connected Articles
 
+- [[genai-counter-learner-groupthink-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[polished-artifacts-fragile-engagement-2026]]
 - [[epistemic-emotions-collaborative-problem-solving]]

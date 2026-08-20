@@ -1,7 +1,10 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 859
+**Last updated:** 2026-08-20 | **Total entries:** 860
 
 ## "2026-08-20
+- ● [[genai-counter-learner-groupthink-2025]] — ['raw/papers/genai-counter-learner-groupthink-2025.md']
+  Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
+  #generative-ai #collaborative-learning #project-based-learning #pedagogical-agent #interprofessional-education #student-engagement #active-learning #higher-ed
 - ● [[best-response-student-ai-dialog-2026]] — ['raw/papers/best-response-student-ai-dialog-2026.md']
   The Best Response to Student AI Use Is Not Detection, It Is Dialog
   #academic-integrity #ai-misuse-learning-harm #plagiarism-detection #assessment #ai-literacy #higher-ed #teacher-role

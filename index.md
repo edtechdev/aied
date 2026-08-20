@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-20 | **Total pages:** 897
+**Last updated:** 2026-08-20 | **Total pages:** 898
 ---
 ## Quick Links
 
@@ -385,6 +385,7 @@
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[genai-chatgpt-adoption-ethics-students-2026]] — Generative AI in higher education: Ethical and behavioral factors influencing students' intentions to use ChatGPT
 - [[genai-chinese-higher-education-integrity-2026]] — Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement
+- [[genai-counter-learner-groupthink-2025]] — Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
 - [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: Generative AI–Supported Adaptation of EAP Reading Materials
