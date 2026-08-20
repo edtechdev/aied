@@ -74,3 +74,4 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines

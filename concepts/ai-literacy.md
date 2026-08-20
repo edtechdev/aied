@@ -177,3 +177,4 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines

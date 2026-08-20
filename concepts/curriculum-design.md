@@ -62,3 +62,4 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines

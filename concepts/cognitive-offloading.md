@@ -144,3 +144,5 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction

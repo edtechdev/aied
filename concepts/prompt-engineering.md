@@ -60,3 +60,5 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction

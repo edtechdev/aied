@@ -141,3 +141,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[cstutorbench-slm-tutors]]
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-engineering-computing-workforce-grey-literature-2026]]
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction

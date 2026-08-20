@@ -36,3 +36,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
