@@ -43,6 +43,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 
 ## Connected Concepts
 
+- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[student-experience]]

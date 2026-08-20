@@ -1,7 +1,7 @@
 ---
 title: Adult Learning
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-18T16:30:00-04:00"
+updated: "2026-08-20T04:25:00-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium
@@ -26,10 +26,11 @@ Design AI for adult learners as a scaffold for self-direction, not a substitute 
 
 ## Connections to related concepts
 
-Adult learning sits at the intersection of several closely linked concepts in this wiki. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[accessible-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
+Adult learning sits at the intersection of several closely linked concepts in this wiki. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[accessible-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
 
 ## Connected Concepts
 
+- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[higher-ed]]
 - [[professional-training]]
 - [[lifelong-learning]]
