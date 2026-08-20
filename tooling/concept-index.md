@@ -383,6 +383,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`storytelling-in-education`** — Storytelling in Education
     - phrases: storytelling in education; digital storytelling; narrative learning; story-based learning
 
+- **`student-ai-interaction`** — Student-AI Interaction
+    - phrases: student-AI interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; learner-AI interaction; interactions with AI
+
 - **`student-engagement`** — Student Engagement
     - phrases: student engagement; learner engagement; engagement; engagement metrics; engagement measurement; engagement indicators; behavioral engagement
 
