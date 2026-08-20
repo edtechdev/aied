@@ -29,6 +29,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[generative-ai]]
 - [[llm]]
@@ -48,6 +49,11 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-online-education-engagement-satisfaction-2026]]
+- [[ai-distance-education-systematic-review-2026]]
+- [[ai-tools-academic-work-cheating-2026]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement

@@ -60,6 +60,10 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ai-online-education-engagement-satisfaction-2026]]
+- [[interactive-online-learning-ai-2025]]
+- [[ai-distance-education-systematic-review-2026]]
+- [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[ai-guided-learning-audiovideo-2026]]

@@ -403,6 +403,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`reducing-ai-misuse`** — Reducing AI Misuse
 - **`regulation`** — AI Regulation in Education
 - **`reinforcement-learning`** — Reinforcement Learning
+- **`remote-proctoring`** — Remote Proctoring
+    - phrases: remote proctoring; online proctoring; automated proctoring; AI proctoring; e-proctoring; exam proctoring; online invigilation
 - **`research-methods-aied`** — Research Methods in AIED
 - **`scaffolding`** — Scaffolding
 - **`self-determination-theory`** — Self-Determination Theory

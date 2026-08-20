@@ -42,6 +42,7 @@ The wiki's assessment literature consistently emphasizes that [[assessment]] is 
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[assessment]]
 - [[formative-assessment]]
 - [[authentic-assessment]]
@@ -54,6 +55,8 @@ The wiki's assessment literature consistently emphasizes that [[assessment]] is 
 
 ## Connected Articles
 
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
 
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence

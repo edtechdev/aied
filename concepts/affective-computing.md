@@ -41,6 +41,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[ai-sycophancy]]
 ## Connected Articles
 
+- [[ai-online-education-engagement-satisfaction-2026]]
 - [[ai-assisted-learning-modes-eeg]]
 - [[ai-campus-wellbeing-tools]]
 - [[ai-fatigue-academic-contexts]]

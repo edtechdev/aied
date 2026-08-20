@@ -81,6 +81,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[ai-communities-of-inquiry-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)

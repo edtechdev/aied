@@ -60,6 +60,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[ai-tools-academic-work-cheating-2026]]
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
 
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning

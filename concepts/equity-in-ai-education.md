@@ -54,6 +54,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[digital-divide]]
 - [[bias-mitigation]]
 - [[culturally-relevant-pedagogy]]
@@ -72,6 +73,9 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-distance-education-systematic-review-2026]]
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access

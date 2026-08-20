@@ -26,6 +26,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[k-12]]
@@ -39,6 +40,9 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 ## Connected Articles
 
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-online-education-engagement-satisfaction-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-fatigue-academic-contexts]]
 - [[ai-lms-middle-school-longitudinal]]
