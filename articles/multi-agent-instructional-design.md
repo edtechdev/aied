@@ -67,17 +67,17 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 ## Connection to Existing Work
 
-### vs. [[principled-ai-education|Principled AI Education]]
+### vs. Principled AI Education
 - Both emphasize: **augment, don't displace** learning sciences with AI
 - KLI framework operationalizes "educational goals → learning models → technology"
 - **Complementary:** Principled AI sets the framework; this paper implements it via MAS
 
-### vs. [[agentic-workflows-education|Agentic Workflows]]
+### vs. Agentic Workflows
 - **Multi-agent collaboration:** MAS-CMD's conquer-merge discussion exemplifies agentic **planning + reflection**
 - **Teacher as beneficiary:** Unlike agentic tutoring (where students interact with agents), here agents serve *teachers* as instructional design assistants
 - **Scalability:** MAS offers "scalable path for creating high-quality educational content"
 
-### vs. [[teachbench-llm-teaching-evaluation|TeachBench]]
+### vs. TeachBench
 - **Complementary paradigms:** TeachBench evaluates *teaching ability*; this paper *designs instructional materials*
 - **Both use agents:** TeachBench (teacher-student agents); this paper (instructional designer agents)
 - **Both find:** Raw solving ≠ pedagogical quality; structured frameworks needed

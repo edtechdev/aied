@@ -21,11 +21,11 @@ Across three pre-registered studies (N=2,691), this paper documents systematic m
 
 Critically, the authors identify a **session-level carryover effect**: prior AI use in a session leads to further AI adoption, which in turn entrenches the miscalibration about time savings. This creates a **self-reinforcing feedback loop** — initial AI use begets more AI use, and the illusion of efficiency makes it harder for users to self-correct.
 
-## Connection to [[cognitive-offloading|Over-Reliance]]
+## Connection to Over-Reliance
 
 This study provides a cognitive mechanism for the [[cognitive-offloading|Over-Reliance]] phenomenon: the efficiency-gain illusion explains *why* students and other users continue to reach for AI even when it demonstrably doesn't help — and in fact may harm learning outcomes, as documented in related work. The findings complement [[cognitive-shift-ai-education]] by identifying the perceptual biases that drive behavioral change.
 
-## Implications for [[ai-literacy]]
+## Implications for ai-literacy
 
 These results have direct implications for AI literacy education: users need not only technical knowledge about AI capabilities and limitations, but also **metacognitive calibration** about their own AI use patterns. Simply telling people that AI may not save time is insufficient — the illusion is perceptual and self-reinforcing.
 
