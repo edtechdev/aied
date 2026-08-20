@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments"
 created: "2026-08-18T09:20:00-04:00"
-updated: "2026-08-18T09:20:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [cs-education, programming-education, generative-ai, automated-assessment, higher-ed, academic-integrity, llm, computing-education]
 sources: ['raw/papers/genai-oop-programming-assessments-2026.md']
@@ -12,7 +12,7 @@ confidence: high
 
 ## Context: GenAI and introductory programming assessment
 
-As [[generative-ai]] systems have rapidly improved at generating and explaining source code, a key open question for [[cs-education]] is how they perform on *authentic* assessments — the tests and exams instructors actually use — rather than simplified coding benchmarks. Earlier work found that early models (ChatGPT-3.5/4) could pass data-structures and introductory OOP courses but with uneven results, often below or near class averages and with persistent difficulty on [[cs-education|object-oriented]] concepts like interfaces. This study updates that picture for the 2026 generation of models using the same course and grading criteria across two consecutive years.
+As [[generative-ai]] systems have rapidly improved at generating and explaining source code, a key open question for [[cs-education]] is how they perform on *authentic* assessments — the tests and exams [[teacher-role|instructors]] actually use — rather than simplified coding benchmarks. Earlier work found that early models (ChatGPT-3.5/4) could pass data-structures and introductory OOP courses but with uneven results, often below or near class averages and with persistent difficulty on [[cs-education|object-oriented]] concepts like interfaces. This study updates that picture for the 2026 generation of models using the same course and grading criteria across two consecutive years.
 
 ## Design and method
 

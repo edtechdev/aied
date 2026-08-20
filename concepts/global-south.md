@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-18"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 confidence: high
@@ -15,7 +15,7 @@ Mainstream AI and educational-technology research has historically been dominate
 
 ### Applications in the Wiki
 
-- **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based STEM benchmark, one of the first Global South educational evaluation datasets.
+- **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **Contextual adoption:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] model GenAI adoption among Bangladeshi engineering students, and [[connected-ai-lesson-planning-vietnam|ConnectED]] deploys a curriculum-aligned lesson-planning system for Vietnamese education.
 - **Epistemic marginalization:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] argues that Western-centric training data marginalizes non-Western and disability-centered knowledges — connecting Global South concerns to [[equity-in-ai-education]] and [[culturally-relevant-pedagogy]].
 

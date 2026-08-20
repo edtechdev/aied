@@ -1,13 +1,13 @@
 ---
 title: "Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment"
 created: "2026-08-19T12:48:00-04:00"
-updated: "2026-08-19T12:48:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, formative-assessment, self-regulated-learning, human-ai-collaboration, teacher-education]
 sources: ['raw/papers/instructor-ai-roles-chatgpt-formative-assessment-2026.md']
 confidence: high
 ---
-> **Synthesis:** Ratniyom, Boonphadung, Intaraprasit, and Chumkaeo (2026) analyze how **pre-service science [[teacher-role|teachers]] across achievement levels** perceive the distinct roles of human instructors versus ChatGPT in a **ChatGPT-enhanced formative assessment** of stoichiometry. The human instructor was viewed as an **adaptive expert**, toggling between *Simplifier* and *Elaborator* roles depending on learner achievement; ChatGPT was perceived as a **personalized self-regulated-learning tool** whose role shifted by achievement — a *Patient Tutor* for low-achievers, a *Personal Coach* for medium-achievers, and an *Intellectual Sparring Partner* for high-achievers. The authors propose an **Instructor–AI Synergistic Learning Ecosystem** model reframing human–AI collaboration as complementary partnership rather than competition. 
+> **Synthesis:** Ratniyom, Boonphadung, Intaraprasit, and Chumkaeo (2026) analyze how **pre-service science [[teacher-role|teachers]] across achievement levels** perceive the distinct roles of human instructors versus ChatGPT in a **ChatGPT-enhanced formative assessment** of stoichiometry. The human instructor was viewed as an **adaptive expert**, toggling between *Simplifier* and *Elaborator* roles depending on learner achievement; ChatGPT was perceived as a **personalized self-regulated-learning tool** whose role shifted by achievement — a *Patient [[intelligent-tutoring|tutor]]* for low-achievers, a *Personal Coach* for medium-achievers, and an *Intellectual Sparring Partner* for high-achievers. The authors propose an **Instructor–AI Synergistic Learning Ecosystem** model reframing human–AI collaboration as complementary partnership rather than competition. 
 
 ## Design
 

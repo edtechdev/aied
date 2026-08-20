@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-19T18:13:28-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high
@@ -25,7 +25,7 @@ The wiki documents a rich set of individual teaching strategies and pedagogies, 
 
 The wiki's research examines pedagogy at the intersection of AI and teaching in several ways:
 
-- **AI as a pedagogical agent.** AI tools embody pedagogies — a tutor built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw prompting.
+- **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw prompting.
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
 - **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.

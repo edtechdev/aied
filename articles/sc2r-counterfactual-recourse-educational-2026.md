@@ -1,7 +1,7 @@
 ---
 title: "From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support"
 created: "2026-08-19T09:35:00-04:00"
-updated: "2026-08-19T09:35:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [learning-analytics, predictive-modeling, educational-measurement, ai-ed-evaluation, higher-ed, student-modeling, interpretability, ethics, human-in-the-loop]
 sources: ['raw/papers/2608.17618.md']
@@ -12,7 +12,7 @@ confidence: high
 
 ## Beyond prediction: the recourse gap
 
-[[learning-analytics|Learning analytics]] has made real progress in predicting failure, disengagement, and dropout from educational traces, assessment records, and learner profiles. But predictive performance alone is insufficient for decision support: instructors, advisors, and student-support services need recommendations that are actionable and operationally feasible, not just risk scores. This is the **actionability gap** — the gap between "this student is at risk" and "here is what can actually be done about it, within real constraints."
+[[learning-analytics|Learning analytics]] has made real progress in predicting failure, disengagement, and dropout from educational traces, assessment records, and learner profiles. But predictive performance alone is insufficient for decision support: [[teacher-role|instructors]], advisors, and student-support services need recommendations that are actionable and operationally feasible, not just risk scores. This is the **actionability gap** — the gap between "this student is at risk" and "here is what can actually be done about it, within real constraints."
 
 The paper positions counterfactual explanations and algorithmic recourse as the bridge between prediction and action. Recourse asks *what should change* to obtain a more desirable outcome, with an emphasis on actionability for the affected individual. But in education, naive recourse is often **mathematically valid yet unenactable**: methods that operate in feature space can recommend interventions that violate timing, budget, or availability realities (e.g., suggesting a session that happens after the assessment, or an action the institution cannot actually deliver).
 
