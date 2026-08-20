@@ -53,6 +53,7 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 
 ## Connected Articles
 
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-generated-interactive-fiction-education-2026]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]

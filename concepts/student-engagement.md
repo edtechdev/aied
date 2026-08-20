@@ -64,6 +64,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
