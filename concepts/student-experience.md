@@ -39,6 +39,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]

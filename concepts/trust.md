@@ -37,6 +37,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar Identity and Epistemic Trust

@@ -64,6 +64,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
