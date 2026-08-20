@@ -1,7 +1,10 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 858
+**Last updated:** 2026-08-20 | **Total entries:** 859
 
 ## "2026-08-20
+- ● [[best-response-student-ai-dialog-2026]] — ['raw/papers/best-response-student-ai-dialog-2026.md']
+  The Best Response to Student AI Use Is Not Detection, It Is Dialog
+  #academic-integrity #ai-misuse-learning-harm #plagiarism-detection #assessment #ai-literacy #higher-ed #teacher-role
 - ● [[ai-student-engagement-online-learning-review-2025]] — ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
   Artificial Intelligence and Student Engagement in Online Learning: A Literature Review
   #online-education #online-learning #student-engagement #literature-review #chatbots #affective-computing #learning-analytics #higher-ed
