@@ -121,6 +121,9 @@ AI in education connects to every concept in the wiki — it is the field that a
 
 
 ## Connected Articles
+- [[ai-online-education-engagement-satisfaction-2026]]
+- [[interactive-online-learning-ai-2025]]
+- [[ai-decision-support-online-learning-assessment-2026]]
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]]

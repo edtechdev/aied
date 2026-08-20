@@ -49,6 +49,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[assessment-validity]]
 - [[formative-assessment]]
 - [[automated-assessment]]
@@ -73,6 +74,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[ai-tools-academic-work-cheating-2026]]
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)

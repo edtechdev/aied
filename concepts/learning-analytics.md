@@ -41,6 +41,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
+- [[interactive-online-learning-ai-2025]]
+- [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration

@@ -50,6 +50,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - **Systematic-review synthesis.** A PRISMA review of 25 studies (Balalle & Pannilage 2025) finds AI acts as both a threat (AI-generated writing, paraphrasing tools) and a detection tool (Turnitin AI scores), that detection software is unreliable for AI-generated work, and that institutions must build a culture of academic integrity through clear policy, assessment redesign, and ethics training rather than policing alone.^[[ssaho-ai-academic-integrity-review-2025]]
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[assessment-validity]]
 - [[ai-literacy]]
@@ -72,6 +73,9 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-tools-academic-work-cheating-2026]]
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 

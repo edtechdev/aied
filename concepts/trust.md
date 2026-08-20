@@ -24,6 +24,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[trust-calibration]]
 - [[ai-literacy]]
 - [[critical-thinking]]

@@ -41,6 +41,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Concepts
 
+- [[remote-proctoring]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[assessment]]
@@ -53,6 +54,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Articles
 
+- [[ai-tools-academic-work-cheating-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
