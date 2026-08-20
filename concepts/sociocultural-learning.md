@@ -29,7 +29,7 @@ Sociocultural theory shapes AIED research in several distinct ways:
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
 - **Cultural and institutional context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
 
-### Connection to cognitive load and [[metacognition]]
+### Connection to cognitive load and metacognition
 
 The sociocultural strand is tightly coupled to Cognitive Load Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
 

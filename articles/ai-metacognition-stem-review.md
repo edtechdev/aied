@@ -60,22 +60,22 @@ Despite benefits, scholars warn of:
 
 ## Connection to Existing Work
 
-### vs. [[metacognition|Metacognition in AI Education]]
+### vs. Metacognition in AI Education
 - This review **maps the field systematically** (135 publications, 24 core studies)
 - Confirms: metacognition is **central to STEM success** but challenging to foster
 - AI tools offer scalable scaffolding, but require **teacher preparation in AI literacy**
 
-### vs. [[adaptive-learning|Adaptive Learning Systems]]
+### vs. Adaptive Learning Systems
 - **ALEKS, Carnegie Learning** highlighted as successful adaptive platforms for metacognition
 - **Deep reinforcement learning** enhances metacognitive outcomes (vs. static adaptive rules)
 - Aligns with: system-level regulation > individual reflection
 
-### vs. [[intelligent-tutoring|Intelligent Tutoring Systems]]
+### vs. Intelligent Tutoring Systems
 - ITS identified as **key scaffolding tool** for metacognitive development
 - Combines **content mastery** (object level) with **reflective monitoring** (meta level)
 - Consistent with: [[tutoring-specific-vs-general-ai]] — domain-specific tutoring outperforms generic chatbots
 
-### vs. [[ai-literacy|AI Literacy]]
+### vs. AI Literacy
 - **Critical finding:** AI literacy must be **integrated into teacher preparation**
 - Teachers need skills to: select tools, interpret analytics, maintain ethical oversight
 - Aligns with: human-centered paradigm (AI as tool, teacher as agentic decision-maker)
