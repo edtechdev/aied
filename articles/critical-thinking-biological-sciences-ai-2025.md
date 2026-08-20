@@ -7,33 +7,32 @@ tags: [biology-education, critical-thinking, higher-ed, ethics, ai-literacy]
 sources: ['raw/papers/critical-thinking-biological-sciences-ai-2025.md']
 confidence: high
 ---
-> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **critical thinking in the biological sciences** must be deliberately cultivated in higher education. While AI provides powerful tools for data interpretation and pattern recognition, **human oversight and critical analysis remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and ethical considerations, and recommend strategically deploying AI tools (including chatbots) within **active-learning methods** such as problem-based learning, flipped classrooms, and online learning — while preserving direct human mentorship. 
+> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **[[critical-thinking|critical thinking]] in the [[biology-education|biological sciences]]** must be deliberately cultivated in [[higher-ed|higher education]]. While AI provides powerful tools for data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and [[ethics|ethical considerations]], and recommend strategically deploying AI tools (including chatbots) within **[[active-learning|active-learning methods]]** such as problem-based learning, flipped classrooms, and online learning — while preserving direct [[human-in-the-loop-ai|human mentorship]]. 
 
 ## The argument
 
-AI is transforming biological research — accelerating discovery, reshaping data analysis, and informing hypothesis generation — which demands that students and scientists **critically assess AI-generated outputs**. The review stresses three pillars:
+AI is transforming biological research — accelerating discovery, reshaping data analysis, and informing hypothesis generation — which demands that students and scientists **critically assess [[generative-ai|AI-generated outputs]]**. The review stresses three pillars:
 
 - **Skepticism** — treat AI outputs as hypotheses to be validated, not as authoritative findings.
 - **Contextual understanding** — interpret AI results within the broader biological, methodological, and theoretical context.
-- **Ethical considerations** — uphold scientific integrity and address the biases and limits of automated systems.
+- **[[ethics|Ethical considerations]]** — uphold [[academic-integrity|scientific integrity]] and address the biases and limits of automated systems.
 
 ## The indispensable role of human oversight
 
-Despite AI's power in data interpretation and pattern recognition, **human oversight and critical analysis remain essential** to validate findings and prevent biases inherent in automated systems. The review aligns with the broader concern that over-reliance on AI could erode the very critical-thinking skills that scientists need.
+Despite AI's power in data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain essential** to validate findings and prevent biases inherent in automated systems. The review aligns with the broader concern that [[cognitive-offloading|over-reliance on AI]] could erode the very [[critical-thinking|critical-thinking skills]] that scientists need.
 
 ## Active-learning strategies for AI integration
 
-AI tools, including chatbots, can be **strategically employed within active-learning methodologies**:
+AI tools, including chatbots, can be **strategically employed within [[active-learning|active-learning methodologies]]**:
 - **Problem-based learning** — AI supports inquiry and hypothesis generation while students reason through problems.
 - **Flipped classrooms** — AI provides preparatory content, freeing in-class time for reasoning and discussion.
 - **Online learning** — AI supports engagement and individualized pacing.
 
-These approaches enhance students' ability to use AI effectively while maintaining the rigor of scientific research.
+These approaches enhance students' ability to [[ai-literacy|use AI effectively]] while maintaining the rigor of scientific research.
 
 ## Balancing AI and human mentorship
 
-The conclusion is emphatic: incorporating AI **should not diminish the role of educators**. Educators play an irreplaceable role in interpreting AI outputs, contextualizing knowledge, and integrating ethical considerations into the curriculum. The goal is a learning environment where **AI complements traditional teaching** — preparing students not just to use technology effectively but to develop the critical-thinking skills to use it *wisely*, upholding high ethical standards in the biological sciences.
-
+The conclusion is emphatic: incorporating AI **should not diminish [[teacher-role|the role of educators]]**. [[teacher-role|Educators]] play an irreplaceable role in interpreting AI outputs, contextualizing knowledge, and integrating [[ethics|ethical considerations]] into the curriculum. The goal is a learning environment where **AI complements traditional teaching** — preparing students not just to use technology effectively but to develop the [[critical-thinking|critical-thinking skills]] to use it *wisely*, upholding high ethical standards in the [[biology-education|biological sciences]].
 ## Connected Concepts
 
 - [[biology-education]]

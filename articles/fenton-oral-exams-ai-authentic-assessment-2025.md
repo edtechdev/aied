@@ -12,7 +12,7 @@ confidence: high
 ## Key Findings
 - **Oral assessments reduce AI-related academic integrity issues** because the real-time, interactive format prevents students from using AI to generate answers and memorize them ahead of time, particularly when questions are unknown in advance (drawing on Nikolic et al., 2023).
 - **Oral assessments are authentic** — they mirror professional practice (job interviews, workplace challenges, clinical/patient communication), build communication skills, confidence, and deeper understanding, and prepare students for careers where verbal communication is vital.
-- **They probe depth over memorization**: as a dialogue, oral assessments let educators test comprehension, critical thinking, problem-solving, and reasoning — reaching the highest levels of Bloom's taxonomy — rather than rote recall.
+- **They probe depth over memorization**: as a dialogue, oral assessments let [[teacher-role|educators]] test comprehension, critical thinking, problem-solving, and reasoning — reaching the highest levels of Bloom's taxonomy — rather than rote recall.
 - **Benefits include personalization, authenticity, work-readiness, deeper knowledge, enjoyment, and higher grades**; oral assessments can also support struggling students and shift study habits away from memorization toward understanding.
 - **Challenges include** scheduling/technical logistics, student anxiety, and potential bias (gender, ethnicity, language, speed of answering, and non-anonymous marking), though evidence suggests oral assessments can be as inclusive as written exams (e.g., accommodating dyslexia).
 

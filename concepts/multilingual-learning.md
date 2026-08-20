@@ -11,7 +11,7 @@ confidence: medium
 
 ## Overview
 
-Multilingual learning is a core equity dimension of [[ai-education|AI in education]]. Generative AI and [[llm|LLMs]] are overwhelmingly trained and tuned on high-resource languages, which can systematically disadvantage learners who study or think in other languages. The theme spans technical challenges (adapting models to low-resource languages, dialectal corpora, [[rag|RAG]] in non-dominant languages), pedagogical concerns (culturally relevant and locally grounded instruction), and structural equity (who gets access to useful educational AI at all).
+Multilingual learning is a core equity dimension of [[ai-education|AI in education]]. Generative AI and [[llm|LLMs]] are overwhelmingly trained and tuned on high-resource languages, which can systematically disadvantage learners who study or think in other languages. The theme spans technical challenges (adapting models to low-resource languages, dialectal corpora, [[rag|RAG]] in non-dominant languages), [[pedagogy|pedagogical]] concerns (culturally relevant and locally grounded instruction), and structural equity (who gets access to useful educational AI at all).
 
 ## Technical approaches
 
@@ -19,7 +19,7 @@ Multilingual learning is a core equity dimension of [[ai-education|AI in educati
 - **Corpus and data equity:** building curated corpora (e.g., Nigerian Pidgin, Indian knowledge systems via [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) is a recurring strategy for enabling model output in learners' own languages.
 - **Voice-first and oral contexts:** [[kutti-ai-voice-first-learning-companion|voice-first companions]] and [[structural-silence-underrepresented-language-ai-2026|structural-silence analyses]] address contexts where text-based AI fails speakers of underrepresented languages.
 
-## Equity and [[pedagogy|pedagogy]]
+## Equity and pedagogy
 
 Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|equity in AI education]] across the [[global-south|Global South]].
 

@@ -19,7 +19,7 @@ The wiki documents a rich set of individual teaching strategies and pedagogies, 
 - **Experience-based approaches.** [[experiential-learning]] (learning through direct experience and reflection), [[situated-learning]] (learning in authentic contexts), and [[embodied-learning]] (learning through physical/embodied interaction).
 - **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[instructional-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
 - **Motivation and engagement approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
-- **Equity-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[accessible-learning]] ensure strategies serve diverse learners.
+- **[[equity-in-ai-education|equity]]-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[accessible-learning]] ensure strategies serve diverse learners.
 
 ## How pedagogy appears in AI in education
 

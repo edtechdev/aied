@@ -7,7 +7,7 @@ tags: [ai-literacy, academic-integrity, student-experience, motivation, educatio
 confidence: high
 ---
 
-> **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and ethical use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural guardrails change the environment, but [[scaffolding|scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.
+> **Framing AI use for students** — the persuasive and communicative craft of shaping how learners understand the value, purpose, and boundaries of AI tools and policies, so that they adopt productive and [[ethics|ethical]] use rather than rejecting, avoiding, or gaming it. It is the "buy-in" lever that [[reducing-ai-misuse]]'s educative interventions depend on: structural guardrails change the environment, but [[scaffolding]], literacy training, and AI-use policies only take hold when students are actually convinced of their point.
 
 The concept sits between two more familiar ones. Where [[technology-acceptance-model]] *predicts* uptake from perceived usefulness and ease of use, framing is the *active practice* of shaping those perceptions. And where [[student-experience]] describes how students currently perceive AI, framing is about changing that experience deliberately. It is the communication-side partner to [[educational-policy-ai]]: a policy is only as effective as students' willingness to buy into it.
 
@@ -45,7 +45,7 @@ Framing connects to [[motivation]] through [[self-determination-theory]]: how a 
 
 ## Media and public framing
 
-Students are also framed by the wider media and public discourse around [[ai-education|AI in education]], which shapes their baseline expectations before any instructor message. Analyses of public discourse and how platforms like YouTube frame ChatGPT use in education show that prevailing frames — hype, doom, or pragmatism — influence how learners and educators approach the technology.^[[youtube-frames-chatgpt-education]]^[[ai-ethics-education-public-discourse]] Effective framing by instructors often means deliberately countering or redirecting these ambient narratives.
+Students are also framed by the wider media and public discourse around [[ai-education|AI in education]], which shapes their baseline expectations before any instructor message. Analyses of public discourse and how platforms like YouTube frame ChatGPT use in education show that prevailing frames — hype, doom, or pragmatism — influence how learners and [[teacher-role|educators]] approach the technology.^[[youtube-frames-chatgpt-education]]^[[ai-ethics-education-public-discourse]] Effective framing by instructors often means deliberately countering or redirecting these ambient narratives.
 
 ## Practical guidance
 

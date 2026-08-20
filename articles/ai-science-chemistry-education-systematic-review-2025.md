@@ -7,7 +7,7 @@ tags: [chemistry-education, science-education, generative-ai, ethics, educationa
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
 ---
-> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) systematically review empirical research (2014–2024) on AI applications in **science and [[chemistry-education|chemistry education]]**, finding rapid growth from 2021–2024 with **ChatGPT and conversational robots** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and STEM (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing [[multimodal|multimodal]] lab environments, and encouraging [[personalized-learning|personalized learning]]. Researchers consistently flag **ethical risks** — gender/racial bias, [[hallucination-risk|hallucination]], plagiarism, accuracy/reliability concerns, infrastructure and language gaps, and effects on writing and independent thinking. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and teacher training to foster conscious, ethical AI use. 
+> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) systematically review empirical research (2014–2024) on AI applications in **science and [[chemistry-education|chemistry education]]**, finding rapid growth from 2021–2024 with **ChatGPT and conversational robots** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and STEM (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing [[multimodal]] lab environments, and encouraging [[personalized-learning|personalized learning]]. Researchers consistently flag **ethical risks** — gender/racial bias, [[hallucination-risk|hallucination]], plagiarism, accuracy/reliability concerns, infrastructure and language gaps, and effects on writing and independent thinking. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and teacher training to foster conscious, ethical AI use. 
 
 ## Purpose and method
 
@@ -16,7 +16,7 @@ The review addresses a gap: most AI-in-education research examines generic effec
 - **Screening:** 255 records identified, 149 screened, 25 assessed for eligibility, **18 studies included**.
 - **Distribution:** 3 (2021), 1 (2022), 3 (2023), 11 (2024) — reflecting the post-ChatGPT surge.
 - **Methods used:** experimental/quasi-experimental with control groups, case studies, laboratory studies, mixed methods, and self-study; several integrated [[instructional-design|instructional design]] models (ADDIE, rapid prototyping).
-- **Samples:** mostly teacher candidates, middle/high-school students, and teachers.
+- **Samples:** mostly teacher candidates, middle/high-school students, and [[teacher-role|teachers]].
 
 ## AI tools and applications
 
@@ -26,7 +26,7 @@ The review addresses a gap: most AI-in-education research examines generic effec
 
 ## Effects on learning outcomes
 
-AI applications most often affect **learning-process outcomes** (n=9): supporting students' online learning, facilitating learning, aiding successful knowledge construction, providing **[[multimodal|multimodal]] (auditory) lab environments**, offering interdisciplinary learning experiences, and encouraging personalized and equitable science learning.
+AI applications most often affect **learning-process outcomes** (n=9): supporting students' online learning, facilitating learning, aiding successful knowledge construction, providing **[[multimodal]] (auditory) lab environments**, offering interdisciplinary learning experiences, and encouraging personalized and equitable science learning.
 
 Other outcome clusters:
 - **[[prompt-engineering|Prompt engineering]]** (n=6) — students develop prompt-writing skills, use AI as an intelligent personal assistant for writing, gain writing confidence, and get help with complex mechanical explanations.

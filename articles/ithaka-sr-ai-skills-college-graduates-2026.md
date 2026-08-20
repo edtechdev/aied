@@ -16,9 +16,9 @@ The report is one of the first major efforts to vet a comprehensive AI-skills fr
 
 1. **AI literacy** — understanding human vs. AI capabilities, selecting appropriate tools, setting realistic expectations
 2. **Continuous learning orientation** — iterating on AI tools, peer coaching
-3. **Prompting and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal|multimodal]] prompting
+3. **Prompting and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal]] prompting
 4. **Evaluating and improving output quality** — proactive review, revising drafts for audiences, resisting sycophantic AI, bias & fairness awareness
-5. **AI safety, [[ethics|ethics]], and [[governance|governance]]** — handling sensitive data, responsible use, human accountability, transparency & attribution
+5. **AI safety, [[ethics]], and [[governance]]** — handling sensitive data, responsible use, human accountability, transparency & attribution
 6. **Workflow evaluation and redesign** — mapping workflows, efficient human–AI handoffs, documenting decisions
 7. **Automation and technical integration** — no/low-code automations, basic coding/API capabilities
 
