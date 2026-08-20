@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-18"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [llm, generative-ai, special-education, accessible-learning, automated-question-generation, online-learning, equity, k-12, higher-ed, student-experience]
 sources: ['raw/papers/10.1016_j.caeai.2026.100615.md']
@@ -13,7 +13,7 @@ Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnaga
 ## Key Findings
 
 - **Two novel question strategies:** Beyond baseline questions generated directly from a video transcript, the system introduces **Visual Questions** (identifying video timestamps where visual information is likely to be misinterpreted — rapid movements, misaligned captions, dense on-screen text) and **Emotion Questions** (identifying timestamps where prior DHH learners shared emotional reactions, such as frustration or confusion, captured via facial-expression analysis).
-- **Three-phase pipeline:** Stage 1 generates baseline questions with GPT-3.5; Stage 2 incorporates DHH learner data (emotion and visual) to target overlooked learning moments; Stage 3 iteratively refines questions with DHH students and instructors for linguistic accessibility (simpler sentence structures, closed formats like multiple-choice and true/false). The final mini question bank contained 30 questions (10 per strategy).
+- **Three-phase pipeline:** Stage 1 generates baseline questions with GPT-3.5; Stage 2 incorporates DHH learner data (emotion and visual) to target overlooked learning moments; Stage 3 iteratively refines questions with DHH students and [[teacher-role|instructors]] for linguistic accessibility (simpler sentence structures, closed formats like multiple-choice and true/false). The final mini question bank contained 30 questions (10 per strategy).
 - **User study (N=16):** The prototype generally improved [[self-efficacy]] (M=5.70, SD=1.12 on a 7-point scale). Base questions excelled at connecting text and image and understanding concepts; emotion questions raised awareness of shared difficulties; visual questions were valued more by Deaf than Hard-of-Hearing participants.
 - **The accessibility gap:** LLMs struggle because text-based prompts are mismatched with DHH learners' sign-based first/native languages. Unnecessary linguistic complexity (compound sentences, double negatives) increases [[cognitive-offloading|cognitive load]] and confusion.
 - **Deaf vs. HoH differences:** Deaf participants selected visual questions more than HoH learners, who reported fast caption-reading speed and less need for visual support.

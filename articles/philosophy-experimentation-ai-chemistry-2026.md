@@ -1,7 +1,7 @@
 ---
 title: "Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry"
 created: "2026-08-19T12:50:00-04:00"
-updated: "2026-08-19T12:50:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, philosophy-of-ai-in-education, critical-thinking, epistemology, human-ai-collaboration]
 sources: ['raw/papers/philosophy-experimentation-ai-chemistry-2026.md']
@@ -11,7 +11,7 @@ confidence: high
 
 ## AI and the epistemology of experimentation
 
-The article examines how AI challenges the epistemological foundations of chemistry experimentation — how knowledge is generated, validated, and trusted. AI predictive models and simulations function by analyzing datasets to produce models and forecasts that may not be observable in a physical laboratory, raising questions about what counts as evidence, how results are validated, and whether AI-generated conclusions can be distinguished from direct observation.
+The article examines how AI challenges the epistemological foundations of chemistry experimentation — how knowledge is generated, validated, and trusted. AI predictive models and [[simulation|simulation]] function by analyzing datasets to produce models and forecasts that may not be observable in a physical laboratory, raising questions about what counts as evidence, how results are validated, and whether AI-generated conclusions can be distinguished from direct observation.
 
 ## AI and the ontology of experimentation
 
@@ -26,8 +26,8 @@ Chemistry's ontology has been rooted in **realism** — substances and phenomena
 Using the synthesis of a new compound as a worked example, the authors detail how AI integration changes experimental methodology and introduces **agency shift**:
 
 - **Experimental control** — AI can optimize reaction conditions in real time, raising questions about the locus of scientific creativity and responsibility for outcomes.
-- **Randomization** — AI automates randomization with high precision but may introduce algorithmic bias and opacity.
-- The recommended approach is a **cooperative human–AI methodology** where AI optimizes design and provides data-driven insights while the educator/researcher provides theoretical foundations and evaluates the feasibility of AI-suggested conditions.
+- **Randomization** — AI automates randomization with high precision but may introduce algorithmic [[equity-in-ai-education|bias]] and opacity.
+- The recommended approach is a **cooperative human–AI methodology** where AI optimizes design and provides data-driven insights while the [[teacher-role|educator]]/researcher provides theoretical foundations and evaluates the feasibility of AI-suggested conditions.
 
 ## Over-reliance and the need for balance
 

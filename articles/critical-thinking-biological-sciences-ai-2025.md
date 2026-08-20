@@ -1,13 +1,13 @@
 ---
 title: "Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education"
 created: "2026-08-19T13:02:00-04:00"
-updated: "2026-08-19T13:02:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [biology-education, critical-thinking, higher-ed, ethics, ai-literacy]
 sources: ['raw/papers/critical-thinking-biological-sciences-ai-2025.md']
 confidence: high
 ---
-> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **[[critical-thinking|critical thinking]] in the [[biology-education|biological sciences]]** must be deliberately cultivated in [[higher-ed|higher education]]. While AI provides powerful tools for data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and [[ethics|ethical considerations]], and recommend strategically deploying AI tools (including chatbots) within **[[active-learning|active-learning methods]]** such as problem-based learning, flipped classrooms, and online learning — while preserving direct [[human-in-the-loop-ai|human mentorship]]. 
+> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **[[critical-thinking|critical thinking]] in the [[biology-education|biological sciences]]** must be deliberately cultivated in [[higher-ed|higher education]]. While AI provides powerful tools for data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and [[ethics|ethical considerations]], and recommend strategically deploying AI tools (including [[pedagogical-agent|chatbots]]) within **[[active-learning|active-learning methods]]** such as problem-based learning, flipped classrooms, and online learning — while preserving direct [[human-in-the-loop-ai|human mentorship]]. 
 
 ## The argument
 

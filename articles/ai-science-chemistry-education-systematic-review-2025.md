@@ -1,13 +1,13 @@
 ---
 title: "Artificial Intelligence in Science and Chemistry Education: A Systematic Review"
 created: "2026-08-19T12:40:00-04:00"
-updated: "2026-08-19T12:40:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, science-education, generative-ai, ethics, educational-policy-ai, teacher-education]
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
 ---
-> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) systematically review empirical research (2014–2024) on AI applications in **science and [[chemistry-education|chemistry education]]**, finding rapid growth from 2021–2024 with **ChatGPT and conversational robots** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and STEM (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing [[multimodal]] lab environments, and encouraging [[personalized-learning|personalized learning]]. Researchers consistently flag **ethical risks** — gender/racial bias, [[hallucination-risk|hallucination]], plagiarism, accuracy/reliability concerns, infrastructure and language gaps, and effects on writing and independent thinking. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and teacher training to foster conscious, ethical AI use. 
+> **Synthesis:** Erümit and Özdemir Sarıalioğlu (2025) [[meta-analysis-systematic-review|systematically review]] empirical research (2014–2024) on AI applications in **science and [[chemistry-education|chemistry education]]**, finding rapid growth from 2021–2024 with **ChatGPT and [[educational-robotics|conversational robots]]** as the most-used tools. Studies predominantly target **science education** (n=11) over chemistry (n=5) and [[stem-education|STEM]] (n=2), and their effects concentrate on **learning-process outcomes** — supporting online learning, facilitating understanding, providing [[multimodal]] lab environments, and encouraging [[personalized-learning|personalized learning]]. Researchers consistently flag **[[ethics|ethical risks]]** — [[equity-in-ai-education|gender/racial bias]], [[hallucination-risk|hallucination]], [[academic-integrity|plagiarism]], accuracy/reliability concerns, infrastructure and language gaps, and effects on [[writing-education|writing]] and [[critical-thinking|independent thinking]]. The review calls for increased research at secondary/middle-school levels, more pedagogical (vs. technical) studies in chemistry, and [[teacher-education|teacher training]] to foster conscious, ethical AI use. 
 
 ## Purpose and method
 
@@ -20,30 +20,30 @@ The review addresses a gap: most AI-in-education research examines generic effec
 
 ## AI tools and applications
 
-- AI is used most in **science education** (n=11), followed by **[[chemistry-education|chemistry education]]** (n=5) and **STEM education** (n=2).
-- **ChatGPT and conversational robots** predominate; machine learning algorithms appear in two studies and the DALL-E image tool in one.
-- Applications include AI-supported games and simulations, virtual laboratories, AI-based evaluation tools, and AI chatbots embedded as tutors or even as research participants.
+- AI is used most in **science education** (n=11), followed by **[[chemistry-education|chemistry education]]** (n=5) and **[[stem-education|STEM education]]** (n=2).
+- **ChatGPT and conversational [[educational-robotics|robots]]** predominate; machine learning algorithms appear in two studies and the DALL-E image tool in one.
+- Applications include AI-supported games and [[simulation|simulations]], [[simulation|virtual laboratories]], [[automated-assessment|AI-based evaluation tools]], and AI chatbots embedded as tutors or even as research participants.
 
 ## Effects on learning outcomes
 
 AI applications most often affect **learning-process outcomes** (n=9): supporting students' online learning, facilitating learning, aiding successful knowledge construction, providing **[[multimodal]] (auditory) lab environments**, offering interdisciplinary learning experiences, and encouraging personalized and equitable science learning.
 
 Other outcome clusters:
-- **[[prompt-engineering|Prompt engineering]]** (n=6) — students develop prompt-writing skills, use AI as an intelligent personal assistant for writing, gain writing confidence, and get help with complex mechanical explanations.
+- **[[prompt-engineering|Prompt engineering]]** (n=6) — students develop prompt-[[writing-education|writing skills]], use AI as an intelligent personal assistant for writing, gain [[writing-education|writing confidence]], and get help with complex mechanical explanations.
 - **Professional skill development** (n=5) — teacher candidates build evaluation expertise and teaching skills; AI supports classroom management, lesson-plan design, and professional development.
 - **Technology** (n=3) — increased acceptance of AI among teachers/candidates/students, introduction of machine learning in chemistry, and quality-education opportunities.
 - **Active participation** (n=2) — activates teacher–student and peer interaction and participation in interactive activities.
 
 ## Risks, limitations, and ethics
 
-Researchers emphasize recurring **ethical challenges**: gender and racial bias, [[hallucination-risk|hallucination]], copyright infringement, plagiarism and biased information production, accuracy and reliability problems, technical infrastructure and language-support gaps, and impacts on human decision-making and writing skills. Notably, **excessive reliance on AI-produced content can weaken students' independent thinking and decision-making**. The review concludes that determining and communicating the ethical issues around AI use and raising student and teacher awareness of conscious use are essential.
+Researchers emphasize recurring **ethical challenges**: [[equity-in-ai-education|gender and racial bias]], [[hallucination-risk|hallucination]], copyright infringement, plagiarism and biased information production, accuracy and reliability problems, technical infrastructure and language-support gaps, and impacts on human [[critical-thinking|decision-making]] and writing skills. Notably, **excessive reliance on AI-produced content can weaken students' independent thinking and decision-making**. The review concludes that determining and communicating the ethical issues around AI use and raising student and teacher awareness of conscious use are essential.
 
 ## Chemistry-education gaps
 
 - Studies in **[[chemistry-education|chemistry education]] focus more on technical applications**, revealing a need for **pedagogical research** addressing AI integration into chemistry teaching processes.
 - More research is needed on AI for developing **conceptual understanding, problem-solving, and laboratory skills** in chemistry and STEM.
-- The **teacher-candidate focus** signals a strategic orientation toward future practitioners' AI literacy; the limited high-school and middle-school coverage is a significant gap in integrating AI into early education levels.
-- Recommended: teacher-training programs, projects encouraging AI use in chemistry/STEM, and efforts to develop AI literacy for conscious tool use.
+- The **teacher-candidate focus** signals a strategic orientation toward future practitioners' [[ai-literacy|AI literacy]]; the limited high-school and middle-school coverage is a significant gap in integrating AI into early education levels.
+- Recommended: [[teacher-education|teacher-training]] programs, projects encouraging AI use in chemistry/STEM, and efforts to develop AI literacy for conscious tool use.
 
 ## Connected Concepts
 

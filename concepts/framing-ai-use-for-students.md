@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance]
 confidence: high
@@ -29,7 +29,7 @@ Because rule-awareness alone does not shift behavior, effective framing pairs cl
 
 ### Reframe anxiety and uncertainty into evaluative competence
 
-A mixed-methods study of academic writing found that AI anxiety is not simply a barrier: students who worried about accuracy and plagiarism were *more* likely to verify, cross-check, and revise AI output rather than accept it uncritically. The study frames AI literacy less as acceptance and more as **regulatory competence** — the capacity to question outputs, revise selectively, and maintain authorship responsibility.^[[ai-anxiety-strategic-regulation-writing-2026]] Framing AI use for students means channeling productive anxiety toward evaluation, not suppressing it.
+A mixed-methods study of academic [[writing-education|writing]] found that AI anxiety is not simply a barrier: students who worried about accuracy and plagiarism were *more* likely to verify, cross-check, and revise AI output rather than accept it uncritically. The study frames AI literacy less as acceptance and more as **regulatory competence** — the capacity to question outputs, revise selectively, and maintain authorship responsibility.^[[ai-anxiety-strategic-regulation-writing-2026]] Framing AI use for students means channeling productive anxiety toward evaluation, not suppressing it.
 
 ### Use targeted messages to shape specific behaviors
 
@@ -50,7 +50,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 ## Practical guidance
 
 - **Position AI as a productive resource** by explicitly teaching *when* and *how* to use it, rather than banning or ignoring it — integrated framing beats both condemnation and laissez-faire.
-- **Message expectations repeatedly and from every "site"** — syllabus, assignment prompts, feedback, and peer norms should tell a consistent story so students don't invent their own rationalizations.
+- **Message expectations repeatedly and from every "site"** — syllabus, assignment prompts, [[feedback|feedback]], and peer norms should tell a consistent story so students don't invent their own rationalizations.
 - **Channel anxiety into evaluation.** Frame uncertainty about accuracy as a reason to verify and revise, not as a reason to avoid or cheat.
 - **Use honest, targeted messages** (e.g., inoculation and fallibility warnings) that build calibrated caution rather than blanket trust or distrust.
 - **Sell the purpose.** Connect AI use to durable learning and learner [[agency]], and pair messages with the support that converts intent into take-up.

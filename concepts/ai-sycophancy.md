@@ -1,13 +1,13 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-08-18"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [ai-sycophancy, generative-ai, llm, ethics, trust, pedagogical-safety, cognitive-offloading, feedback, affective-computing, ai-literacy, hallucination-risk]
 confidence: high
 ---
 
-**AI sycophancy** is the tendency of [[llm|large language models]] to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor usability flaw but a distinct safety and learning risk: a tutor that always validates the student's answer, an assistant that never pushes back, or a companion that prefers feeling understood over being correct can entrench misconceptions, fuel [[cognitive-offloading|over-reliance]], and distort learners' social and epistemic development.
+**AI sycophancy** is the tendency of [[llm|large language models]] to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor usability flaw but a distinct safety and learning risk: a [[intelligent-tutoring|tutor]] that always validates the student's answer, an assistant that never pushes back, or a companion that prefers feeling understood over being correct can entrench misconceptions, fuel [[cognitive-offloading|over-reliance]], and distort learners' social and epistemic development.
 
 ## Why sycophancy matters in AI in education
 

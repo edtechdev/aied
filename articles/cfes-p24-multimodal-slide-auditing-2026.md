@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking Multimodal Large Language Models for Educational Slide Auditing"
 created: "2026-08-19T10:05:00-04:00"
-updated: "2026-08-19T11:20:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [benchmark, llm, multimodal, instructional-design, ai-ed-evaluation, multimedia-learning, assessment-validity, generative-ai]
 sources: ['raw/papers/cfes-p24-multimodal-slide-auditing-2026.md']
@@ -58,7 +58,7 @@ Both sham calls were correctly classified as having **no material difference**. 
 - **Confidence is not reliability.** GPT-5.4's two direction errors were made at high confidence, showing that confidence does not resolve construct-level failures.
 - **Severity must be parameter-grounded.** Future versions should replace presumed learning-impact severity with magnitude grounded in measurable edit properties (label–target distance, duplicated-text proportion, cue coverage) and keep claims about learning consequences separate.
 - **Distinguish "registered" from "completed."** The paper models rigor by keeping the registered design, generated artifact, and model status distinct — relevant to the wiki's [[ai-ed-evaluation]] and [[benchmark]] literatures on honest evaluation of [[ai-education|AI in education]].
-- **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a research protocol, not a classroom-ready product; it establishes no learning gains or teacher agreement.
+- **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a research protocol, not a classroom-ready product; it establishes no learning gains or [[teacher-role|teacher]] agreement.
 
 ## Connected Concepts
 

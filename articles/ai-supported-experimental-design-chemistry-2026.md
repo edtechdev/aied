@@ -1,13 +1,13 @@
 ---
 title: "Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design"
 created: "2026-08-19T12:46:00-04:00"
-updated: "2026-08-19T12:46:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, higher-ed, laboratory, ai-literacy, critical-thinking]
 sources: ['raw/papers/ai-supported-experimental-design-chemistry-2026.md']
 confidence: high
 ---
-> **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI chatbots into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group feedback indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
+> **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI [[pedagogical-agent|chatbots]] into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group [[feedback|feedback]] indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
 
 ## The pedagogical approach
 

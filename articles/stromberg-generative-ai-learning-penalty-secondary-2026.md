@@ -1,7 +1,7 @@
 ---
 title: "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education"
 created: "2026-08-19T17:12:00-04:00"
-updated: "2026-08-19T17:12:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, homework, rct, equity-in-ai-education]
 sources: ['raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md']
@@ -13,7 +13,7 @@ confidence: high
 - **Task productivity diverges sharply from learning:** generative AI boosts homework performance (scores +18%, completion time −30%, from 64 to 45 min) while *reducing* closed-book exam performance (−20% of baseline mean, ≈1.4 SD) within six months.
 - **Long-run learning costs accumulate slowly but are large:** high-stakes entrance-exam scores fall by 18% (Gaokao/college) and 24% (Zhongkao/high school) of baseline mean (1.3–1.5 SD), with the full penalty emerging only after ~two years — implying short-duration studies systematically underestimate the long-run cost.
 - **The penalty is driven by homework outsourcing:** ~81% of AI users complete homework in less time than the fastest non-AI students, receive scores matching generative-AI accuracy, and perform poorly on exams. AI users who spend as much time on homework as non-users achieve similar exam scores.
-- **Effects differ by subject and student:** losses are largest in social sciences (Politics, Geography, −27%), then STEM (−22%), then languages (English −17%, Chinese −9%); and are larger for junior students, boys, and high-achieving students.
+- **Effects differ by subject and student:** losses are largest in social sciences (Politics, Geography, −27%), then [[stem-education|STEM]] (−22%), then languages (English −17%, Chinese −9%); and are larger for junior students, boys, and high-achieving students.
 - **Some adaptation over time:** the estimated penalty fell from ~25% (early 2023) to ~16% (June 2025), suggesting students/[[teacher-role|teachers]] are gradually adapting but persistent barriers remain.
 
 ## Study Design & Method
