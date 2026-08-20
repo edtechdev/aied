@@ -1,14 +1,14 @@
 ---
 title: "Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory"
 created: "2026-08-19T10:00:00-04:00"
-updated: "2026-08-19T11:25:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [sociocultural, learning-theories, constructivist, agency, generative-ai, human-ai-collaboration, critical-ai-literacy, posthumanist, philosophy-of-education]
 sources: ['raw/papers/mediational-agent-genai-sociocultural-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that generative AI challenges a foundational distinction in [[sociocultural-learning|sociocultural]] theories of learning — the separation between *mediational means* and *social interaction*. Traditional tools such as language, writing, and educational technologies mediate human activity, while learning and development arise through social participation; generative AI complicates this because it both mediates activity *and* generates context-sensitive, contingent contributions that shape ongoing interaction. The authors propose the concept of the **mediational agent**: a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions to learning activity — occupying a hybrid space between a tool and a social partner. From this, they derive **five human-first habits of participation** (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-[[regulation]]) intended to preserve learners' judgment, agency, and responsibility in AI-mediated learning. 
+> **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that generative AI challenges a foundational distinction in [[sociocultural-learning|sociocultural]] theories of learning — the separation between *mediational means* and *social interaction*. Traditional tools such as language, [[writing-education|writing]], and educational technologies mediate human activity, while learning and development arise through social participation; generative AI complicates this because it both mediates activity *and* generates context-sensitive, contingent contributions that shape ongoing interaction. The authors propose the concept of the **mediational agent**: a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions to learning activity — occupying a hybrid space between a tool and a social partner. From this, they derive **five human-first habits of participation** (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-[[regulation]]) intended to preserve learners' judgment, agency, and responsibility in AI-mediated learning. 
 
 ## Why "tool" and "collaborator" both fail
 

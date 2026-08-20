@@ -1,7 +1,7 @@
 ---
 title: AI Technologies and Techniques in Education
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-08-19T18:10:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai]
 confidence: high
@@ -29,7 +29,7 @@ confidence: high
 
 The technical strand is inseparable from the wiki's other themes:
 
-- **Pedagogy:** technical choices embody pedagogical assumptions — a tutor built on [[socratic-method|Socratic prompting]] reasons with learners, while an answer-generating model may default to direct provision (see [[pedagogy|pedagogies and teaching strategies]]).
+- **Pedagogy:** technical choices embody pedagogical assumptions — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic prompting]] reasons with learners, while an answer-generating model may default to direct provision (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Assessment and evaluation:** [[ai-ed-evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment]] and [[automated-assessment]] use the technical stack to grade and generate.
 - **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, guardrails, [[prompt-engineering]] [[scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
 

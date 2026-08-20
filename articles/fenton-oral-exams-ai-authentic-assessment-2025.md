@@ -1,13 +1,13 @@
 ---
 title: "Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future"
 created: "2026-08-19T17:10:00-04:00"
-updated: "2026-08-19T17:10:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, generative-ai, higher-ed, k-12, critical-thinking, feedback]
 sources: ['raw/papers/fenton-oral-exams-ai-authentic-assessment-2025.md']
 confidence: high
 ---
-> **Synthesis:** Fenton (2025) makes the case that oral exams and assessments deserve renewed attention as an **authentic assessment** strategy in the face of generative AI. Arguing that the real-time, interactive nature of an oral assessment prevents students from using AI to generate and memorize answers, the article reviews the history, types, benefits, challenges, and practical recommendations for oral assessments across high school and higher education. Key benefits include personalization, authenticity, work-readiness, deeper knowledge, and the preservation of [[academic-integrity]]; key challenges include scheduling, anxiety, and potential bias.
+> **Synthesis:** Fenton (2025) makes the case that oral exams and assessments deserve renewed attention as an **authentic assessment** strategy in the face of generative AI. Arguing that the real-time, interactive nature of an oral assessment prevents students from using AI to generate and memorize answers, the article reviews the history, types, benefits, challenges, and practical recommendations for oral assessments across high school and higher education. Key benefits include personalization, authenticity, work-readiness, deeper knowledge, and the preservation of [[academic-integrity]]; key challenges include scheduling, anxiety, and potential [[equity-in-ai-education|bias]].
 
 ## Key Findings
 - **Oral assessments reduce AI-related academic integrity issues** because the real-time, interactive format prevents students from using AI to generate answers and memorize them ahead of time, particularly when questions are unknown in advance (drawing on Nikolic et al., 2023).

@@ -1,7 +1,7 @@
 ---
 title: "From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)"
 created: "2026-08-19T09:30:00-04:00"
-updated: "2026-08-19T09:30:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai]
 sources: ['raw/papers/2608.17451.md']
@@ -14,7 +14,7 @@ confidence: high
 
 The paper's central conceptual contribution is a unifying mechanism that treats the scattered harms of AI — usually discussed in isolation — as one interconnected, self-reinforcing cycle:
 
-- **Cognition:** [[cognitive-offloading|Cognitive offloading]] reduces the effortful reasoning that builds durable understanding; large-scale studies link high AI dependence to lower performance on [[critical-thinking]] assessments, mediated by offloading. This connects directly to the wiki's over-reliance literature (see [[cognitive-offloading]] and the associated articles on the speedup illusion and synthesis writing).
+- **Cognition:** [[cognitive-offloading|Cognitive offloading]] reduces the effortful reasoning that builds durable understanding; large-scale studies link high AI dependence to lower performance on [[critical-thinking]] assessments, mediated by offloading. This connects directly to the wiki's over-reliance literature (see [[cognitive-offloading]] and the associated articles on the speedup illusion and synthesis [[writing-education|writing]]).
 - **Agency:** convenience and persuasive outputs erode [[agency]]; dependency undermines independent problem-solving, and overtrust leads students to accept AI output uncritically. The authors warn of **intellectual conformity** — ready-made answers nudging learners toward normative reasoning and standardized thought.
 - **Emotion:** reliance produces technostress, digital fatigue, AI guilt (feeling both assisted and inauthentic), and — for some — AI entitlement, a normative breakdown around effort and authorship.
 - **Ethics:** continuous data collection creates surveillance and power asymmetries; students' fear of being wrong suppresses experimentation and intellectual risk-taking. Notably, students in the corpus raised ethics mainly as **authorship and integrity** ("how can the school know they are originals and not just AI generated?") rather than [[privacy]].
@@ -31,11 +31,11 @@ The framework is grounded in an exploratory qualitative analysis of 49 argumenta
 - **53% (26/49)** named at least one behavior that *supports* rather than replaces thinking — withholding the solution, asking critical questions, prompting active recall, offering alternative explanations.
 - Yet **48 of 49** framed AI in terms of *replacement*, not scaffolding — the AI students say they need is not the AI they typically encounter.
 
-This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed feedback, and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
+This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed [[feedback|feedback]], and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
 
 ## Scaffold, do not substitute
 
-The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a [[privacy]]-preserving, environmentally sensitive educational chatbot that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
+The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a [[privacy]]-preserving, environmentally sensitive educational [[pedagogical-agent|chatbot]] that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
 
 For different stakeholders, the principle translates into distinct obligations:
 

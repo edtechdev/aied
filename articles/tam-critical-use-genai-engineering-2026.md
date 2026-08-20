@@ -1,7 +1,7 @@
 ---
 title: "Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-18"
+updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, higher-ed, student-experience, cs-education, engineering-education, ai-literacy, critical-thinking, ethics, reliance]
 sources: ['raw/papers/10.1016_j.caeai.2026.100618.md']
@@ -14,7 +14,7 @@ Trang H. Nguyen, Long T. Truong, & Nhu H.T. Nguyen (2026) investigated factors i
 
 - **Method:** Anonymous survey at an Australian university (n=126), analyzed using Partial Least Squares Structural Equation Modelling (PLS-SEM).
 - **Attitudes and critical use drive intention:** Attitudes towards GenAI and critical use directly and positively influence intention to use GenAI, while perceived ease of use and perceived usefulness have positive indirect effects. Notably, ease of use did not directly shape attitudes, and usefulness did not directly predict intention.
-- **Intention predicts reliance across four domains:** Understanding, assessment, programming, and engineering projects. Students demonstrated moderate reliance overall, with greatest use for understanding-related tasks (clarifying concepts, worked examples) and limited utilization for full assessment writing.
+- **Intention predicts reliance across four domains:** Understanding, assessment, programming, and engineering projects. Students demonstrated moderate reliance overall, with greatest use for understanding-related tasks (clarifying concepts, worked examples) and limited utilization for full assessment [[writing-education|writing]].
 - **Appropriate, not excessive, reliance:** Consistent with Schemmer et al.'s framework, students showed moderate, appropriate reliance — recognizing GenAI's limits for precision-demanding engineering and CS tasks while drawing on it for debugging, formula generation, and design ideation.
 - **Critical use as a core [[ai-literacy|AI-literacy]] dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against [[cognitive-offloading|over-reliance]].
 

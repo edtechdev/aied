@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-20T02:55:00-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 confidence: high
@@ -13,7 +13,7 @@ Student-AI interaction is the observable surface of learners' engagement with ge
 
 ### What students ask AI
 
-A core strand of research measures the **types and quality of student inquiries**. Studies apply taxonomies of question types — for example the Graesser et al. 18-type taxonomy — to classify student-AI interactions, often using few-shot classifiers to scale the analysis across hundreds or thousands of interactions. Findings indicate that a small subset of question types accounts for the majority of student inquiries, and that the questions students ask **change substantially as a task progresses** (e.g., [[student-ai-inquiry-types-cs2-2026]]). This task-dependence matters: interaction quality is not a fixed trait of the student but is shaped by problem context, scaffolding, and the affordances of the AI tool.
+A core strand of research measures the **types and quality of student inquiries**. Studies apply taxonomies of question types — for example the Graesser et al. 18-type taxonomy — to classify student-AI interactions, often using few-shot classifiers to scale the analysis across hundreds or thousands of interactions. Findings indicate that a small subset of question types accounts for the majority of student inquiries, and that the questions students ask **change substantially as a task progresses** (e.g., [[student-ai-inquiry-types-cs2-2026]]). This task-dependence matters: interaction quality is not a fixed trait of the student but is shaped by problem context, [[scaffolding|scaffolding]], and the affordances of the AI tool.
 
 ### Interaction quality and learning
 

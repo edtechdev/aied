@@ -1,7 +1,7 @@
 ---
 title: Technology Acceptance Model
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-19T07:56:52-04:00"
+updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
 confidence: high
@@ -15,7 +15,7 @@ The classic TAM posits that PU and PEOU jointly determine attitude, which drives
 
 ### Applications in the Wiki
 
-TAM is applied across the wiki to model student and teacher adoption of AI tools:
+TAM is applied across the wiki to model student and [[teacher-role|teacher]] adoption of AI tools:
 
 - **Critical use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with the construct of *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention, which then predicts reliance across understanding, assessment, programming, and engineering-project domains — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
 - **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT to model engineering students' GenAI adoption in Bangladesh, showing that job relevance, result demonstrability, and subjective norms shape acceptance (explaining 64% of usage variance).
