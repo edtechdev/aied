@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-20T06:10:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, engagement-metrics]
 confidence: high
@@ -24,6 +24,8 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 ### Measuring engagement: the metric-choice problem
 
 Engagement is operationalized through a range of observable signals. **Behavioral metrics** measure what learners *do* (time-on-task, activity counts, interaction frequency, persistence); **cognitive metrics** measure how learners *think* (depth of processing, critical engagement, discourse analysis); **affective metrics** measure how learners *feel* (emotion, motivation, interest); and **contextual metrics** capture multitasking and attention. AI-education research increasingly combines these and treats engagement as a mediating mechanism between AI tool design and learning outcomes, rather than an outcome in itself.
+
+- **Six AI application families + multi-method measurement:** [[ai-student-engagement-online-learning-review-2025|Zhou's (2025) systematic review]] of 24 WoS studies maps six AI applications for engagement — chatbots in course design, emotion/facial/voice recognition and eye tracking, ML for data analysis, teacher–student interaction support, personalized feedback/recommendations, and AI-powered bots in smart learning environments. It finds that integrating multiple AI modalities and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement than single-source approaches — reinforcing the metric-choice problem above.
 
 The choice of metric is definitional: a study that measures engagement as *time-on-task* may conclude an AI tool enhances engagement when students spend more time interacting with it, while a study that measures engagement as *critical processing* may reach the opposite conclusion for the same tool. This is why the wiki's research distinguishes engagement (participation) from learning (actual cognitive gain) — see [[genai-performance-vs-learning|performance vs. learning]] — and why engagement metrics must be validated against what they claim to measure.
 
