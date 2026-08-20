@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 740 articles and 147 concepts.
+> Complete text of 740 articles and 145 concepts.
 
 # Articles
 
@@ -36162,7 +36162,7 @@ AI in education is the umbrella that all other concept pages collectively define
 
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
 
-- **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more).
+- **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more). This includes the distinct pedagogical context of [[online-teaching-and-learning|online teaching and learning]] — where the digital medium shapes which strategies (and AI risks) are viable.
 - **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
 - **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal|multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED.
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
@@ -36186,10 +36186,10 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the wiki's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
-- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
+- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the wiki's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[storytelling-in-education|storytelling]], and [[creativity|creativity]].
+- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], [[agency|learner agency]], [[icap-framework|ICAP cognitive engagement]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[educational-robotics|social robots]], [[educational-robotics|robots in education]], [[educational-robotics|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
-- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
+- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[engineering-education|engineering]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], [[multilingual-learning|multilingual learning]], [[social-emotional-learning|social-emotional learning]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
 
@@ -36205,7 +36205,7 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 AI in education changes the roles of every stakeholder. The wiki's [[stakeholders|people and audiences in AI education]] page is the umbrella covering all of them:
 
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
-- **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
+- **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
 - **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
 
@@ -36213,7 +36213,7 @@ AI in education changes the roles of every stakeholder. The wiki's [[stakeholder
 
 Several themes cut across the field:
 
-- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]]. How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
+- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
 - **The evolution of the field:** the wiki traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
 
 ## Field maturity
@@ -37455,29 +37455,6 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[zha-ai-literacy-biology-case-study]] — AI literacy education in a biology class
-
----
-
-## [Blended Learning](https://edtechdev.github.io/aied/concepts/blended-learning/)
-
-> **Blended learning** — an instructional model that combines in-person and [[online-teaching-and-learning|online]] components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended (and hybrid) formats are a core setting for AI in education.
-
-Blended learning asks instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[instructional-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools ([[intelligent-tutoring|tutoring agents]], adaptive platforms, discussion facilitation) offer opportunities for personalization and always-on support, while raising [[academic-integrity|academic integrity]] and [[cognitive-offloading|cognitive offloading]] risks that span both the online and in-person portions.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]]
-- [[instructional-design]]
-- [[pedagogy]]
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 
 ---
 
@@ -41974,28 +41951,6 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 ---
 
-## [Massive Open Online Courses (MOOC)](https://edtechdev.github.io/aied/concepts/mooc/)
-
-> **Massive Open Online Courses (MOOC)** — large-scale online courses designed for open, unlimited participation, typically delivered through a platform to thousands of learners. MOOCs are a canonical form of [[online-teaching-and-learning|online teaching and learning]], known for reach and scalability but historically limited in adaptivity and personalization.
-
-The MOOC format excels at scale — serving thousands of learners with pre-recorded, structured content — but has struggled to personalize instruction. Generative AI and [[agentic-ai|agentic AI]] systems (see [[mooc-to-maic|MAIC]]) are being explored as a way to combine MOOC scalability with adaptive, personalized support, shifting from "one video for N students" toward "N agents for 1 student." MOOC learners' [[academic-integrity|academic integrity]] and [[cognitive-offloading|cognitive offloading]] risks are also heightened by the self-paced, often unproctored nature of the medium.
-
-## Connected Concepts
-
-- [[online-teaching-and-learning]]
-- [[intelligent-tutoring]]
-- [[agentic-ai]]
-- [[personalized-learning]]
-- [[academic-integrity]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: Learner engagement, retention, inclusivity
-
----
-
 ## [Motivation](https://edtechdev.github.io/aied/concepts/motivation/)
 
 > **Motivation** — the psychological processes that initiate, direct, and sustain goal-directed behavior. In AI in education, motivation research examines how AI tools affect learners' and teachers' motivation — whether AI [[scaffolding|scaffolds]] or undermines persistence, curiosity, and intrinsic engagement — and how motivational states shape the effectiveness of AI-mediated learning.
@@ -42223,11 +42178,19 @@ Neurodiversity connects to [[special-education]], [[accessible-learning]], [[uni
 
 ## [Online Teaching and Learning](https://edtechdev.github.io/aied/concepts/online-teaching-and-learning/)
 
-> **Online teaching and learning** — the pedagogy and practice of teaching and learning that happens through digital, network-mediated environments rather than in a shared physical classroom. It spans fully online courses, Massive Open Online Courses ([[mooc|MOOC]]), [[blended-learning|blended]] and hybrid formats, and distance education. For the wiki, the central question is how [[generative-ai|generative AI]] reshapes the opportunities, challenges, and recommended practices of teaching at a distance — from scalable personalization to new [[academic-integrity|academic integrity]] and [[cognitive-offloading]] risks.
+> **Online teaching and learning** — the pedagogy and practice of teaching and learning that happens through digital, network-mediated environments rather than in a shared physical classroom. It spans fully online courses, Massive Open Online Courses (MOOC), blended and hybrid formats, and distance education. For the wiki, the central question is how [[generative-ai|generative AI]] reshapes the opportunities, challenges, and recommended practices of teaching at a distance — from scalable personalization to new [[academic-integrity|academic integrity]] and [[cognitive-offloading]] risks.
 
 Online teaching and learning is a distinct pedagogical context, not merely a delivery mechanism. It removes the physical co-presence that scaffolds attention, motivation, and informal interaction, and it substitutes structured digital interaction — discussion forums, asynchronous materials, video, [[intelligent-tutoring|tutoring agents]] — for face-to-face contact. This changes what instructors can rely on, what students can access, and how learning is designed and assessed. As an umbrella concept in the [[pedagogy|pedagogies and teaching strategies]] landscape, it sits alongside [[active-learning]], [[collaborative-learning]], and [[self-regulated-learning]] but is distinguished by the medium: the constraints and affordances of the online environment shape which strategies are viable.
 
 The rise of generative AI lands directly in this context. Online learners already work through screens and software, so AI tools are natural neighbors; at the same time, online assessment is harder to invigilate, making misuse easier and the stakes higher. The evidence in this wiki shows that AI can be a powerful ally for online teaching and learning — and, configured poorly, a significant source of learning harm.
+
+## Formats and settings
+
+Online teaching and learning takes several related forms that share the medium but differ in reach and structure:
+
+- **Massive Open Online Courses (MOOC).** Large-scale courses designed for open, unlimited participation, typically delivered through a platform to thousands of learners. MOOCs excel at reach and scalability but have historically struggled to personalize instruction. Generative AI and [[agentic-ai|agentic AI]] systems (see [[mooc-to-maic|MAIC]]) are being explored as a way to combine MOOC scalability with adaptive, personalized support, shifting from "one video for N students" toward "N agents for 1 student." MOOC learners' [[academic-integrity|academic integrity]] and [[cognitive-offloading|cognitive offloading]] risks are heightened by the self-paced, often unproctored nature of the medium. Technical and structural factors — instability, limited offline functionality, unclear pricing, regional payment restrictions — also shape [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|engagement, retention, and inclusivity]] across online platforms.
+- **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[instructional-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for personalization and always-on support while raising integrity and offloading risks that span both the online and in-person portions.
+- **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient.
 
 ## Opportunities and benefits of AI for online teaching and learning
 

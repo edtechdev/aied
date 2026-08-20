@@ -317,8 +317,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`benchmark`** — Benchmark
 - **`bias-mitigation`** — Bias Mitigation
 - **`biology-education`** — Biology Education
-- **`blended-learning`** — Blended Learning
-    - phrases: blended learning; hybrid learning; blended format; hybrid format
 - **`chemistry-education`** — Chemistry Education
 - **`cognitive-diagnosis`** — Cognitive Diagnosis
 - **`cognitive-offloading`** — Cognitive Offloading
@@ -380,8 +378,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`medical-education`** — Medical and Health Professions Education
 - **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review
 - **`metacognition`** — Metacognition
-- **`mooc`** — Massive Open Online Courses (MOOC)
-    - phrases: MOOC; MOOCs; massive open online course; massive open online courses
 - **`motivation`** — Motivation
 - **`multilingual-learning`** — Multilingual Learning
 - **`multimodal`** — Multimodal AI
@@ -440,6 +436,9 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`well-being`** — Well-Being
 - **`writing-education`** — AI in Writing Education
 ## Merged / absorbed (no longer separate pages)
+- **`mooc`** — MOOC → absorbed into `online-teaching-and-learning`
+- **`blended-learning`** — Blended Learning → absorbed into `online-teaching-and-learning`
+
 
 - `gamification` → **`game-based-learning`**
 - `over-reliance` → **`cognitive-offloading`**
