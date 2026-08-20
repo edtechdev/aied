@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-20 | **Total pages:** 896
+**Last updated:** 2026-08-20 | **Total pages:** 897
 ---
 ## Quick Links
 
@@ -180,6 +180,7 @@
 - [[behaviorism]] — Behaviorism
 - [[benchmark]] — Benchmark
 - [[benzion-ai-physics-simulations-virtual-lab]] — Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
+- [[best-response-student-ai-dialog-2026]] — The Best Response to Student AI Use Is Not Detection, It Is Dialog
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
 - [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms

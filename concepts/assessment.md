@@ -74,6 +74,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 

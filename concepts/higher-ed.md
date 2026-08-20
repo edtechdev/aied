@@ -49,6 +49,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]

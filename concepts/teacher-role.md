@@ -56,6 +56,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]

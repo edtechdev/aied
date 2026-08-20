@@ -54,6 +54,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math

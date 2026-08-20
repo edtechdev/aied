@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 750 articles and 146 concepts.
+> Complete text of 751 articles and 146 concepts.
 
 # Articles
 
@@ -7273,6 +7273,48 @@ Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical a
 ## Citation
 
 Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. *The Physics Teacher*, 63, 424–427. https://doi.org/10.1119/5.0252343
+
+---
+
+## [The Best Response to Student AI Use Is Not Detection, It Is Dialog](https://edtechdev.github.io/aied/articles/best-response-student-ai-dialog-2026/)
+
+> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best institutional response to student AI use is **learning verification through dialog — not detection**. Because AI detectors are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes trust. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an assessment approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
+
+## Key Findings
+
+- **Detection is unreliable and formal processes stall.** AI detectors produce unacceptable error rates and are disproportionately likely to flag writing by nonnative English speakers; Code of Conduct processes require proof that is functionally unavailable with AI, so cases stall, students are not found responsible, and faculty feel dismissed.
+- **Reframe the problem: AI use is a confounding variable.** AI use is not the true concern — it is one of several things (ghostwriting, overstepping tutors, contract cheating) that disrupt the inferential link between a submitted artifact and actual student understanding. The real question is whether the student mastered the learning objectives.
+- **Learning verification in practice.** A syllabus statement normalizes that students may be asked to explain their work at any point (framed as pedagogy, not surveillance); verification conversations (5–10 minutes) focus on the material, not the tool. Alternatives for large/asynchronous courses: written reflections, short student videos, early draft submissions, and (when used) AI chat logs.
+- **Trust and relationships shift.** Students initially approached verification with anxiety (assuming they were accused), but when communicated well they began disclosing AI use more openly and engaging with assignments as genuine learning tasks rather than products. The framework treats AI use as acceptable when the student can demonstrate understanding.
+- **Faculty and institutional challenges.** Faculty's top concern was time, which softened once 5–10 minute conversations proved cleaner than formal proceedings. The harder persistent challenge is faculty who are philosophically unwilling to treat verified AI use as neutral — a gap addressed through brown-bag conversations rather than policy training. Formal, systematic evaluation of outcomes is still in development.
+
+## Implications for AI in Education
+
+The essay reframes [[academic-integrity]] enforcement from a detection/compliance model to an assessment model grounded in dialog and [[authentic-assessment|demonstrated understanding]]. It positions [[teacher-role|faculty]] as teachers with the legitimate authority to confirm that a grade reflects actual learning, rather than as investigators or monitors. It complements [[plagiarism-detection|detection]] limits with process-based, [[ai-literacy]]-building assessment — and its emphasis on student anxiety about being asked to explain their work ties directly to the stress and [[trust]] concerns documented in [[remote-proctoring]] and other surveillance-based approaches.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[ai-misuse-learning-harm]]
+- [[plagiarism-detection]]
+- [[authentic-assessment]]
+- [[assessment]]
+- [[ai-literacy]]
+- [[teacher-role]]
+- [[trust]]
+- [[student-experience]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-tools-academic-work-cheating-2026]] — Systematic review: is AI use for academic work cheating?
+- [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty evidence
+
+## Citation
+
+Mandernach, B.J. (2026). [*The best response to student AI use is not detection, it is dialog*](https://doi.org/10.1080/00091383.2026.2706428). *Change: The Magazine of Higher Learning*, 58(4), 28–33.
 
 ---
 
@@ -35884,6 +35926,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
@@ -36929,6 +36972,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
@@ -37057,6 +37101,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
@@ -37339,6 +37384,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 
@@ -37431,6 +37477,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
@@ -40756,6 +40803,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
@@ -43517,6 +43565,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
 - [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
@@ -45195,6 +45244,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -45619,6 +45669,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[best-response-student-ai-dialog-2026]]
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]
@@ -45917,6 +45968,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 
 ## Connected Articles
 
+- [[best-response-student-ai-dialog-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar Identity and Epistemic Trust
