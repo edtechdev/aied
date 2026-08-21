@@ -94,3 +94,4 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation

@@ -88,3 +88,4 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation

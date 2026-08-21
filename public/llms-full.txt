@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 151 concepts and 791 articles.
+> Complete text of 151 concepts and 794 articles.
 
 # Concepts
 
@@ -116,6 +116,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -505,6 +506,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[ai-fatigue-academic-contexts]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -634,6 +636,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -726,6 +729,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -827,6 +831,7 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -1267,6 +1272,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -1756,6 +1762,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
 - **AI-generated assessments at scale:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that iteratively refined, course-tailored AI-generated exams achieve [[item-response-theory|IRT]]-measured quality on par with expert-written standardized-exam questions (difficulty β̄ = −0.45 vs. 0.35; discrimination ᾱ = 1.3 vs. 1.2) across 91 college classes — evidence that automated assessment can move from scoring to full item generation.
 - **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
+- **Neurophysiological assessment:** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark ML/DL models for EEG-based familiarity prediction (faces vs. math equations) as a step toward direct, objective measures of knowledge acquisition. Crucially, they show standard stratified cross-validation inflates performance (up to 0.9853 F1) via temporal leakage, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — a cautionary methodological lesson for all automated-assessment benchmarking.
 
 ### Automated grading
 
@@ -1851,6 +1858,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -2066,6 +2074,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 
 - **Construct-level counterfactual benchmarks.** CFES-P24 expresses multimedia-learning principles as deterministic, reversible slide transformations to audit whether MLLMs respond to specific instructional-design constructs rather than producing plausible holistic ratings. A frozen pilot showed construct recognition (operation, principle, repair, evidence localization) at 8/8 while comparative judgment (direction 6/8) and severity calibration (0/8) failed — arguing for layered scorecards over composite scores.^[[cfes-p24-multimodal-slide-auditing-2026]]
+- **Trial-independent evaluation in physiological benchmarks.** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark 15 ML/DL models for EEG-based familiarity prediction and show that the choice of validation scheme changes headline results dramatically: standard stratified cross-validation allows temporal leakage and reports up to 0.9853 F1, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1. The lesson — temporal/leakage-aware evaluation is essential for credible educational benchmarks — extends beyond EEG to any benchmark using sequential or time-structured data.
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -2092,6 +2101,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[teaching-monster-pck-benchmark-2026]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -2410,6 +2420,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[student-math-competence-clustering]] — Clustering for Modelling Student Mathematical Competence
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -2444,6 +2455,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **The metacognitive beliefs-vs-experiences framework:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] apply Nelson and Naren's dynamic metacognitive model to reconcile the field's contradictory intervention findings. They distinguish metacognitive *beliefs* (stable, self-referential self-conceptions that anchor offloading choices pre-task) from metacognitive *experiences* (dynamic, task-specific feelings that drive belief updating during-task), yielding the principle of **timing-component matching**: belief-targeting feedback is most effective before a task, while experience-targeting feedback (immediate correctness indicators) is most effective during it. They also formalize **substitutive offloading** (replacing internal processing with external aids) vs. **duplicative offloading** (supplementing it) — when external stores vanish, substitutive offloaders decline sharply while duplicative offloaders retain accuracy — and use **reminder bias** to quantify deviation from optimal offloading. This converges with the "coach vs. crutch" boundary: offloading that scaffolds preserves skill; offloading that substitutes risks decay.
 
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer.
+
+- **Student self-perception of offloading risk:** [[student-perceptions-ai-study-tools-2026|Oladosu (2026)]] exploratory survey (N=26) finds most students report AI makes assignment completion faster (80.7% agree) and improves understanding (92.3%), yet the same respondents independently voice concerns about overreliance, reduced critical thinking, reduced independent effort, and inaccurate information. The pattern — productivity gains co-occurring with self-reported offloading concerns — illustrates how students can perceive the [[cognitive-offloading-speedup-illusion|speedup]] benefits of offloading while recognizing its learning risks, converging with the speedup-illusion and critical-thinking-paradox threads above.
 
 - **Metacognitive training reduces reminder bias (direct empirical evidence):** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the first clear demonstration that a brief intervention can make offloading measurably more optimal. Two preregistered experiments (N=164, N=416) found that **just five practice trials pairing a performance prediction with veridical, trial-by-trial feedback** improved metacognitive calibration and reduced reminder bias. The four-group additive design isolated the mechanism: **predictions alone were ineffective; adding performance feedback drove the improvement; explicitly labeling over-/under-confidence added nothing further**. The effect appeared on *absolute* (not signed) bias — training corrected individual miscalibration in both directions. This empirically validates the beliefs-vs-experiences framework above: it is *experience-targeting feedback*, not beliefs or prediction alone, that changes offloading behavior. The authors attribute success to financial incentive tied to offloading optimality plus immediate veridical feedback.
 
@@ -2569,6 +2582,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -2982,6 +2996,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -3260,6 +3275,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -3751,6 +3767,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -5113,6 +5130,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -5517,6 +5536,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -5627,13 +5647,17 @@ Duan et al. (2026) built a [[rag|RAG]]-based [[agentic-ai|agentic]] system with 
 
 **Human-Required Dimensions (high human burden):**
 - Pedagogically meaningful distractor design
-- High-quality explanatory [[feedback|feedback]]
+- High-quality explanatory [[feedback]]
 
 Strategic insight: Human effort should be concentrated where instructional judgment is irreplaceable; computational verification can be fully automated.
 
 ## MAIC: Human-in-the-Loop Script Generation
 
 Yu et al. (2024) deployed a multi-agent classroom (Teacher Agent, TA Agent, classmate archetypes) at Tsinghua University with >500 students and >100,000 learning records. Human instructors participate in script generation and oversight, ensuring that mass-scale AI augmentation does not displace pedagogical expertise.
+
+## PedaCo: Dual Gatekeeping for AI Video Generation
+
+Kim, Baek, and Kwak (2026) extend HITL to AI-generated instructional video via **PedaCo** (Pedagogical Co-creation), a pipeline with two complementary gatekeeping layers that instantiate *principled resistance* grounded in Mayer's Cognitive Theory of Multimedia Learning (CTML). The **first layer** places the human at the script stage: an LLM drafts a script, an AI reviewer flags potential CTML violations (e.g., "Scene 3 introduces technical terms without prior explanation"), and the educator decides to accept, revise, or regenerate. The **second layer** runs automated metrics post-synthesis on coherence, redundancy, temporal contiguity, modality, and image quality, which the educator reviews. In a within-subject study (23 educators), the review-based approach improved every CTML principle (mean rating 3.07→3.86, p<.01), with educators rating production efficiency at 4.26/5 — friction perceived as productive, not burdensome. The design principle echoes the wiki's HITL synthesis: humans and algorithms catch *different* kinds of problems, so the most effective systems automate where computational verification is precise (temporal synchronization) and preserve human judgment where pedagogical nuance is irreplaceable (tone, audience fit).
 
 ## Why HITL matters in the AI era
 
@@ -5701,6 +5725,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -5907,6 +5932,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -6420,6 +6446,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -6773,6 +6800,7 @@ The purpose of this wiki is to help close that gap — to make it easier to keep
 - [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
 - [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -8010,6 +8038,7 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -9165,6 +9194,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -9428,6 +9458,7 @@ For example:
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -10146,6 +10177,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Affective gains common but weak indicators of learning
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -10202,6 +10234,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI-skills expectations for college graduates vs. institutional readiness
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
 
 ---
 
@@ -10329,6 +10362,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[trace-course-grade-prediction-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 
 ---
 
@@ -10652,6 +10686,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 ---
 
@@ -17057,6 +17092,52 @@ The cross-sectional, non-experimental design limits causal inference despite the
 ## Citation
 
 Arshad, A., Lone, A., Arickswamy, L., Hassan, K., Alnaim, A. A., & AlFarhan, M. F. (2026). [*From AI use to critical thinking among medical students: A moderated mediation perspective on cognitive load and self-regulated learning*](https://doi.org/10.3389/fpsyg.2026.1883053).
+
+---
+
+## [When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation](https://edtechdev.github.io/aied/articles/ai-video-dual-gatekeeping-2026/)
+
+> **Synthesis:** Kim, Baek, and Kwak (2026) argue that [[generative-ai|generative AI]] video authoring pipelines for education need "structured refusal" to prevent aesthetically polished but pedagogically flawed content. They introduce PedaCo, a dual-gatekeeping system with two layers: a script-stage review where [[teacher-role|educators]] iteratively reshape AI drafts against Mayer's Cognitive Theory of Multimedia Learning, and a post-synthesis automated metric flagging violations in instructional coherence and narrative–visual synchronization. A within-subject study with 23 educators and automated metrics across seven topics show both layers independently improve the same instructional dimensions, reframing [[human-in-the-loop-ai|principled resistance]] as a productive partner to, rather than opponent of, AI.
+
+## From friction to principled resistance
+
+The paper opens from a critique of friction-free adoption: current video generation pipelines optimize for visual appeal over instructional essentials such as precise temporal alignment of narration or strategic sequencing of prerequisite concepts. The authors argue that pedagogical friction is not a hurdle to be eliminated but a site of professional accountability — moments of deliberate hesitation are where instructional quality is forged. They frame this as *principled resistance*: deliberate, theory-grounded pushback against AI outputs that fail [[pedagogy|pedagogical]] standards, rooted in Mayer's 12 CTML principles for effective [[instructional-design|multimedia instruction]].
+
+## Two layers of resistance
+
+PedaCo operationalizes principled resistance through three concrete forms — rejecting (requesting regeneration), revising (manual editing), and overriding (vetoing automated flags). Layer 1 intervenes at the script stage, where an [[agentic-ai|LLM]] generates an initial script that passes through a structured review cycle; an AI reviewer prompted with CTML principles produces [[feedback]] organized by principle, and the human educator decides what to accept, revise, or regenerate. This keeps the system advisory and preserves the educator's professional authority. Layer 2 performs post-synthesis evaluation through a composite metric across coherence, redundancy, temporal contiguity, modality, and image quality, with the educator deciding whether to accept or return to the script stage. The design rationale is that humans and algorithms catch different kinds of problems — educators identify nuanced pedagogical mismatches while algorithms provide precise structural verification.
+
+## Converging evidence
+
+In a within-subject study, 23 educators using PedaCo reported statistically significant improvements across every CTML principle (mean rating rose from 3.07 to 3.86 on a 5-point scale, p < .01), with the largest gains in prerequisite sequencing, irrelevant-material removal, and overall instructional validity. Educators did not perceive the review as slowing them down (production efficiency 4.26/5). Independently, automated metrics on 14 videos showed significant improvement in temporal contiguity and coherence, but not in the other three dimensions (near-ceiling). The convergence between subjective ratings and objective metrics — both identifying coherence and temporal alignment as most enhanced — provides triangulated evidence that the two layers complement rather than duplicate each other.
+
+## Discussion
+
+The authors surface three tensions: negotiating [[agency]] when automated flags and educator judgments diverge; the sustainability of friction (when does productive friction become "friction fatigue"); and the need to move beyond proxy metrics to test direct causal impact on student learning outcomes. The conclusion reframes [[ai-education|resistance to AI in education]] not as rejection but as building systems designed to push back on principled grounds until the output is genuinely ready to teach.
+
+## Connected Concepts
+- [[generative-ai]]
+- [[teacher-role]]
+- [[instructional-design]]
+- [[pedagogy]]
+- [[human-in-the-loop-ai]]
+- [[agentic-ai]]
+- [[scaffolding]]
+- [[agency]]
+- [[curriculum-design]]
+
+## Connected Articles
+- [[ai-generated-instructional-videos-computing-ed]] — AI-Generated Instructional Videos in Computing Education
+- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint Adaptive Video Generation
+- [[human-ai-collaboration-prerequisite-functions]] — Human-AI Collaboration Prerequisite Functions
+- [[human-ai-collaboration-trust-expectations]] — Human-AI Collaboration and Trust
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education Scoping Review
+- [[generative-refusal-ai-tools-for-thought]] — Generative Refusal: AI Tools for Thought
+- [[genai-mindtool-generative-learning]] — GenAI as Mindtool for Generative Learning
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Human-AI Collaborative Problem Solving
+
+## Citation
+Kim, Y., Baek, I., & Kwak, N. (2026). [*When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation*](https://arxiv.org/abs/2608.19812). CHI 2026 Workshop on Understanding and Engaging Critical Resistance to AI in Education. arXiv:2608.19812.
 
 ---
 
@@ -24469,6 +24550,47 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 ## Citation
 
 Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). [EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers](https://arxiv.org/abs/2608.02024). arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.
+
+---
+
+## [Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction](https://edtechdev.github.io/aied/articles/eeg-familiarity-automated-assessment-2026/)
+
+> **Synthesis:** Nanayakkara and Halloluwa (2026) address the fundamental challenge of objective learning assessment by benchmarking fifteen [[reinforcement-learning|machine learning]] and deep learning models for EEG-based familiarity prediction across two cognitive domains — human faces (factual knowledge) and mathematical equations (conceptual knowledge). Using continuous EEG from 23 participants and spectral features across six frequency bands, they show that standard stratified cross-validation yields artificially high performance (up to 0.9853 F1 with a CNN) due to temporal leakage, whereas rigorous trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — still statistically significant above chance. The study establishes a realistic benchmark for EEG-based [[cognitive-diagnosis|cognitive monitoring]] in educational technology and cautions against overestimating model generalizability in [[automated-assessment]].
+
+## The promise and pitfalls of neurophysiological assessment
+
+Traditional [[assessment|assessment methods]] such as quizzes and exams are indirect proxies for learning, relying on a learner's ability to articulate knowledge. The paper motivates psychophysiological signals — eye-tracking, skin conductance, and especially [[affective-computing|electroencephalography (EEG)]] — as direct, non-invasive windows into the neural correlates of knowledge acquisition. EEG offers high temporal resolution, making it promising for detecting *familiarity*, a foundational element of learning. The study positions itself as a comprehensive [[benchmark]] filling a gap: prior work often focused on a limited set of models or a single cognitive domain, so this work evaluates fifteen models across two distinct domains.
+
+## Methodological rigor: trial-independent evaluation
+
+The central methodological contribution is the contrast between two validation schemes. Standard stratified cross-validation allows temporal leakage across neighboring epochs, producing inflated estimates (up to 0.9853 F1 with CNN). A rigorous trial-independent validation (Group K-Fold), which respects the temporal structure of the data, drops peak performance to 0.6038 F1 (CNN) — still statistically significant above the 25% chance level. This demonstrates the critical necessity of trial-independent evaluation to avoid overestimating model generalizability, a lesson directly relevant to [[ai-ed-evaluation|AI evaluation]] and [[limitations-in-aied-research|the limitations of AI in education research]].
+
+## Neural biomarkers and feature importance
+
+Beyond classification performance, the authors use feature importance and SHAP analysis to identify temporal and frontal Gamma and Beta oscillations as the most critical biomarkers for familiarity. This connects the benchmarking to the underlying [[learning-analytics|neural signatures of learning]] and suggests which brain signals carry the most information about whether a learner recognizes familiar content.
+
+## Connected Concepts
+- [[automated-assessment]]
+- [[learning-analytics]]
+- [[educational-measurement]]
+- [[ai-ed-evaluation]]
+- [[benchmark]]
+- [[cognitive-diagnosis]]
+- [[student-modeling]]
+- [[affective-computing]]
+- [[limitations-in-aied-research]]
+
+## Connected Articles
+- [[ai-assisted-learning-modes-eeg]] — AI-Assisted Learning Modes and EEG
+- [[physiological-signals-exam-outcomes-ml]] — Physiological Signals, Exam Outcomes, and ML
+- [[genai-oop-programming-assessments-2026]] — GenAI on OOP Programming Assessments
+- [[assessment-latent-structure-human-llm-2026]] — Assessment Latent Structure for Humans and LLMs
+- [[pedlow-genai-selfassessment-2026]] — GenAI Self-Assessment
+- [[jin-glat-genai-literacy-assessment]] — GLAT GenAI Literacy Assessment
+- [[genai-assessment-governance]] — GenAI Assessment Governance
+
+## Citation
+Nanayakkara, I., & Halloluwa, T. (2026). [*Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction*](https://arxiv.org/abs/2608.16541). arXiv:2608.16541.
 
 ---
 
@@ -44402,6 +44524,48 @@ Graf et al. (2026) identify a new challenge in collaborative programming educati
 ## Citation
 
 Laura Graf, Ramona Beinstingel, Stephan Kusche, Oleksandra Poquet (2026). [Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance](https://arxiv.org/abs/2606.23237). arXiv:2606.23237. arXiv:2606.23237 (cs.HC; cs.CY)
+
+---
+
+## [Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study](https://edtechdev.github.io/aied/articles/student-perceptions-ai-study-tools-2026/)
+
+> **Synthesis:** This exploratory EdArXiv survey examines how students perceive [[generative-ai|generative AI]] tools for study productivity and learning. From an anonymous online questionnaire (N=26, 23 current students), the study reports that 88.5% of respondents use AI tools for studying, with most reporting faster assignment completion (80.7% agree/strongly agree) and improved subject understanding (92.3%). At the same time, students voiced concerns about [[cognitive-offloading|overreliance]], reduced [[critical-thinking|critical thinking]], diminished independent effort, inaccurate information, and [[academic-integrity|academic dishonesty]]. The small, non-probability sample and self-reported measures make the findings exploratory, consistent with broader reviews of the benefits and risks of [[generative-ai|generative AI]] in students' study practices.
+
+## Benefits: perceived productivity and understanding
+
+Respondents overwhelmingly reported using AI tools for studying, with explanations, summaries, information retrieval, and feedback as common uses. Fourteen respondents (53.8%) strongly agreed and seven (26.9%) agreed that AI helped them complete assignments faster; seventeen (65.4%) strongly agreed and seven (26.9%) agreed that AI improved their understanding of subjects. These perceptions mirror a wider pattern in the [[generative-ai-education-productivity-gaps|education literature]] suggesting that students experience AI as a productivity aid.
+
+## Risks: overreliance, critical thinking, and integrity
+
+Alongside benefits, students described concerns about overreliance, reduced critical thinking, reduced independent effort, inaccurate information, and academic dishonesty. These echo the dual-edged findings of [[ai-education|AI in education]] research on [[cognitive-offloading|cognitive offloading]] and [[reducing-ai-misuse|AI misuse]], where AI assistance trades short-term efficiency against potential erosion of independent [[self-regulated-learning|learning behaviors]].
+
+## Limitations
+
+The study uses a small (N=26), non-probability sample with self-reported measures, so findings are exploratory and cannot establish causal effects. Its value lies in capturing authentic student voices about [[ai-literacy|AI literacy]] and perceived impacts, complementing larger-scale quantitative studies.
+
+## Connected Concepts
+- [[student-experience]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[academic-integrity]]
+- [[student-engagement]]
+- [[ai-literacy]]
+- [[self-regulated-learning]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences UK HE Survey
+- [[genai-usage-design-students-survey]] — GenAI Usage and Design: Students Survey
+- [[cross-cultural-student-perceptions-genai-computing]] — Cross-Cultural Student Perceptions of GenAI
+- [[genai-over-reliance-learning-2026]] — GenAI Over-Reliance in Learning
+- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency Gain Illusion and AI Overreliance
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools, Cognitive Offloading, and Critical Thinking
+- [[llm-reliance-types-undergrad]] — LLM Reliance Types in Undergraduates
+- [[generative-ai-education-productivity-gaps]] — Generative AI Education Productivity Gaps
+
+## Citation
+Oladosu, A.-A. (2026). [*Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study*](https://osf.io/preprints/edarxiv/ur5w8). EdArXiv preprint.
 
 ---
 

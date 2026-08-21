@@ -79,3 +79,4 @@ The purpose of this wiki is to help close that gap — to make it easier to keep
 - [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
 - [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
