@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -133,3 +133,6 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
+- [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams

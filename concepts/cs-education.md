@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T10:00:00-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -143,3 +143,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-engineering-computing-workforce-grey-literature-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice

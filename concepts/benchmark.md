@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 confidence: high
@@ -48,3 +48,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams

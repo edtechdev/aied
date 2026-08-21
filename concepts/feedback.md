@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-19T18:02:45-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [feedback, feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 
@@ -120,3 +120,5 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback

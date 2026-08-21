@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, skill-development, reinforcement-learning, experiential-learning]
 confidence: high
@@ -52,3 +52,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[educasim-cs1-instructional-practice]] — EducaSim: simulated small-group section for teacher practice

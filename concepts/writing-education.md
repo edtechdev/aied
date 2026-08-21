@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T09:41:18-04:00"
+updated: "2026-08-21T08:02:47-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high
@@ -17,11 +17,13 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-review]] and finds AI feedback is most useful in a human-centered process.
 
-- **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[agency|agency]] is affected when AI participates at different stages.
+- **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[agency]] is affected when AI participates at different stages.
 
 - **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which [[agency]] is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
 
 - **L2 / multilingual writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms.
+
+- **Bias in personalized feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show that LLM writing-feedback tools are not language-neutral: personalizing feedback with a student's race, ethnicity, ELL designation, learning disability, achievement, or motivation systematically shifts feedback in stereotype-aligned ways — including positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for students marked by race, language, or disability, even when the essay is identical. This makes "personalization" itself a bias vector that writing-feedback tools must audit and control.
 
 - **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and ethical use.
 
@@ -73,3 +75,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback

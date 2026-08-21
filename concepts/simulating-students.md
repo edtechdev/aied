@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-21T08:02:47-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 confidence: high
@@ -29,6 +29,10 @@ Validity is the central concern: a simulated student is only useful if its behav
 ### Connection to the wiki
 
 Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for professional training (e.g., [[special-education]] and medical education contexts).
+
+### Authentic-data student models and interactive practice
+
+Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential teaching practice at the scale of massive online courses. Both point to simulation serving not only evaluation but hands-on teacher preparation.
 
 ## Connected Concepts
 
@@ -59,3 +63,5 @@ Simulating students sits at the intersection of [[simulation]], [[student-modeli
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
 - [[inside-llm-student-simulator-reasoning-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice

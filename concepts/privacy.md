@@ -1,7 +1,7 @@
 ---
 title: Privacy in AI Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity, governance, educational-policy-ai]
 confidence: high
@@ -50,3 +50,4 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[eduzone-llm-safety-k12]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 150 concepts and 781 articles.
+> Complete text of 150 concepts and 787 articles.
 
 # Concepts
 
@@ -718,6 +718,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[pchl-he-framework-genai-content-creation-2026]] — GenAI content creation framework in higher ed
 - [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
 
 ---
 
@@ -817,6 +818,8 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
 
 ---
 
@@ -1050,6 +1053,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 
 ---
 
@@ -1631,6 +1635,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based assessment
 
 ---
 
@@ -1744,7 +1749,7 @@ Automated grading is one of the most mature and widely-deployed AI in education 
 
 ### Confidence-aware assessment
 
-A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust|trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
+A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
 
 **How confidence is modeled** in the wiki's research:
 
@@ -1753,6 +1758,8 @@ A central design goal within automated assessment is **confidence awareness**: A
 - **Psychometric calibration of LLMs:** [[psychometrically-aware-ai|Psychometrically aware AI]] advances the standard of aligning [[llm|LLM]] scoring with measurement theory, with calibration as a core requirement alongside [[item-response-theory]] alignment.
 - **Difficulty and response-time calibration:** [[llm-difficulty-calibration-programming-exams-2026|Programming-exam difficulty calibration]] repositions LLMs as auxiliary evidence sources whose difficulty estimates correlate with student pass rates.
 - **Trait-adaptive essay scoring:** [[psyscore-essay-scoring-zpd-feedback|PsyScore]] shows a psychometrically-aware framework can adapt essay feedback to learner traits.
+- **Evaluating visual student work:** [[diagramir-educational-math-diagram-evaluation|DiagramIR]] back-translates LLM-generated math diagrams (TikZ) into an intermediate representation with deterministic checks, beating LLM-as-a-Judge on agreement with human raters and letting small models match large ones at ~10× lower cost — a scalable route to assessing non-text, diagrammatic student output.
+- **Explainability of rubric-based scoring:** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al.]] show that model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales for explaining rubric-based scores (e.g., classroom feedback quality), and propose deletion-based + cross-model tests as a principled way to evaluate any scoring model's explanations.
 
 **Why calibrated confidence matters:**
 
@@ -1819,6 +1826,9 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[code-anchor-multi-view-visualization]] — Code-anchor multi-view visualization
 - [[llm-psychometric-calibration-cdp]] — LLM psychometric calibration
 - [[llm-item-difficulty-prediction]] — LLM item-difficulty prediction
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
 
 ---
 
@@ -2059,6 +2069,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 
 ---
 
@@ -2078,6 +2089,7 @@ The wiki's research documents bias entering at multiple points in the pipeline:
 - **Selection bias in learning analytics:** [[temporal-smoothness-debiased-kt|Debiased knowledge tracing]] addresses selection bias arising from non-random exercise recommendations: training on observed logs with standard empirical risk produces biased mastery estimates that compound errors in adaptive recommendation loops.
 - **Data and annotation bias:** [[data-annotations-pedagogical-hints|data annotations]] and [[ground-truth-reliability-aied|ground-truth reliability]] research examine how the labels and inter-rater reliability underlying AI models carry bias — arguing against treating κ > 0.8 as a binary stamp of approval.
 - **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Generative AI and minoritized knowledges]] documents how training data and model behavior marginalize non-dominant knowledge systems and disability perspectives.
+- **Stereotype-aligned automated feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show four widely used LLMs systematically shift writing feedback in stereotype-aligned ways when feedback is personalized with student attributes — race, ethnicity, ELL designation, learning disability, achievement, or motivation — producing positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for marked students even on identical essays. The "Marked Words" concentration metric offers a concrete method for auditing such bias in automated feedback.
 
 ## Mitigation approaches
 
@@ -2149,6 +2161,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
 - [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
 
 ---
 
@@ -3057,6 +3070,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-engineering-computing-workforce-grey-literature-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 
 ---
 
@@ -3721,7 +3735,8 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-generated-interactive-fiction-education-2026]]
 
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[zerkouk-comprehensive-review-its-2025]]- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 
 ---
 
@@ -4060,7 +4075,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 ## Outcome equity
 
 - **Differentiated impact:** AI tools may widen gaps if designed without an equity lens — [[genai-higher-education-systematic-review-2026|systematic reviews]] and [[ai-scoring-language-bias-physics|scoring-bias studies]] show uneven benefits and harms across learner groups.
-- **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable.
+- **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable. [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM writing-feedback tools systematically shift toward stereotype-aligned praise and withheld critique when feedback is personalized with a student's race, language, disability, achievement, or motivation — even on identical essays — making "personalization" a concrete bias vector in automated feedback.
 - **Fairness-aware systems:** [[bias-mitigation]] and [[ground-truth-reliability-aied|ground-truth reliability]] research develop methods for detecting and correcting bias in AI tutors, scorers, and recommenders.
 - **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
 - **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making prompting skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
@@ -4069,7 +4084,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - **Language:** Most AI tools prioritize English, marginalizing multilingual learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
 - **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
-- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity|neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|accessible educational materials]] are illustrative.
+- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|accessible educational materials]] are illustrative.
 
 ## Special populations and global equity
 
@@ -4152,6 +4167,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Metacognitive inequity and uneven access
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
 
 ---
 
@@ -4277,6 +4293,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[educasim-cs1-instructional-practice]] — EducaSim: role play with simulated students for teacher training
 
 ---
 
@@ -4550,6 +4567,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
 
 ---
 
@@ -4930,6 +4949,9 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
+- [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
 
 ---
 
@@ -5842,6 +5864,8 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
+- [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
 
 ---
 
@@ -5972,6 +5996,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated feedback for middle-school writing
 
 ---
 
@@ -6200,6 +6225,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 
 ---
 
@@ -6619,6 +6645,11 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
+- [[teachlm-post-training-llms-education]] — TeachLM: post-training with authentic learning data
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated feedback
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 
 ---
 
@@ -6691,6 +6722,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[ai-tpack-preservice-math-teachers]]
 - [[genai-runaway-object-math-higher-ed]]
 - [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic pipeline for educational math diagram evaluation
 
 ---
 
@@ -7173,6 +7205,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
 - [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
 
 ---
 
@@ -7330,6 +7363,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[engagement-forecasting-its]] — Forecasting Effort and Progress in Online Learning
 - [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in the Era of AI
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses
 
 ---
 
@@ -7445,6 +7479,7 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 - [[paratutor-parent-child-tutoring]]
 - [[agents-that-teach-incidental-learning]]
 - [[ai-tutor-authoring-promptdecipher]]
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
 
 ---
 
@@ -7500,6 +7535,16 @@ Jeon et al. (2026) created a benchmark for LLM agents automating [[instructional
 - **25,795 scenarios** from Context Matrix (51 variables × 5 categories × 33 ISD sub-steps)
 - **Multi-judge protocol** across diverse LLM providers to mitigate LLM-as-judge bias
 - High inter-judge reliability achieved
+
+## Approach 3: Pedagogical Instruction Following (LearnLM) and Authentic-Data Post-Training (TeachLM)
+
+Two complementary post-training strategies for embedding pedagogy into foundation models:
+
+- **Pedagogical instruction following (LearnLM).** [[learnlm-improving-gemini-learning|Google's LearnLM]] reframes education-model training as *pedagogical instruction following*: training and evaluation examples carry system-level instructions describing the desired pedagogical behavior, letting developers/teachers specify tutor behavior without committing to any single definition of pedagogy. Mixed directly into Gemini's post-training (SFT + reward-model + RLHF stages) via co-training, LearnLM was preferred by experts over GPT-4o (+31%), Claude 3.5 Sonnet (+11%), and base Gemini 1.5 Pro (+13%) across scenario-guided multi-turn evaluations. Key finding: **RL is substantially more effective than SFT alone** for following nuanced pedagogical instructions in long conversations.
+
+- **Authentic-data post-training (TeachLM).** [[teachlm-post-training-llms-education|TeachLM]] argues that prompt engineering is a stopgap and that the scarce ingredient is *authentic* learner–tutor interaction data. Trained on 100,000 hours of one-on-one Polygence sessions (rigorously anonymized), it builds a fine-tuned **authentic student model** enabling synthetic multi-turn evaluation, and the teacher model doubles student talk time, improves questioning style, and increases dialogue turns by 50%.
+
+**Synthesis:** LearnLM shows that instruction following + RLHF is a viable route when training data is scarce; TeachLM shows that when authentic longitudinal interaction data *is* available, post-training on it directly outperforms both prompting and synthetic-only data. Together they frame the pedagogical-training design space as a choice between scalable instruction-conditioned post-training and data-driven fine-tuning on real tutoring interactions.
 
 ## Synthesis: What Makes Pedagogical Training Work
 
@@ -7563,7 +7608,8 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[nsmq-riddles-science-math-benchmark]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[tact-pedagogically-adaptive-esl-tutoring]]- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
+- [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
 
 ---
 
@@ -7742,6 +7788,7 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 
 ---
 
@@ -7888,6 +7935,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
 
 ---
 
@@ -8115,6 +8163,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[eduzone-llm-safety-k12]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
 
 ---
 
@@ -8264,6 +8313,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[academic-league-of-ai-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence
 
 ---
 
@@ -8327,6 +8377,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following vs prompt engineering
+- [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
 
 ---
 
@@ -8634,6 +8686,7 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 - [[history-aware-student-simulation]]
 - [[q-learning-lab-rl-teaching]]
 - [[singh-eduqwen-pedagogical-rl-2026]]- [[residencyrl-clinical-rl-training-2026]]
+- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following
 
 ---
 
@@ -9168,6 +9221,10 @@ Validity is the central concern: a simulated student is only useful if its behav
 
 Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for professional training (e.g., [[special-education]] and medical education contexts).
 
+### Authentic-data student models and interactive practice
+
+Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential teaching practice at the scale of massive online courses. Both point to simulation serving not only evaluation but hands-on teacher preparation.
+
 ## Connected Concepts
 
 - [[simulation]]
@@ -9197,6 +9254,8 @@ Simulating students sits at the intersection of [[simulation]], [[student-modeli
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
 - [[inside-llm-student-simulator-reasoning-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
 
 ---
 
@@ -9247,6 +9306,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
+- [[educasim-cs1-instructional-practice]] — EducaSim: simulated small-group section for teacher practice
 
 ---
 
@@ -9738,6 +9798,7 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
 - [[icap-cognitive-engagement-llm-agents]] — ICAP Cognitive Engagement with LLM Agents
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
+- [[learnlm-improving-gemini-learning]] — LearnLM: scenario-guided learner-AI tutoring conversations
 
 ---
 
@@ -10016,6 +10077,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation
 
 ---
 
@@ -10212,6 +10274,10 @@ In-service professional development supports practicing teachers in integrating 
 
 A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.^[[teachers-ai-knowledge-genai-lesson-planning-2026]] Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.^[[ai-tpack-mathematics-teacher-education-2026]] [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, fairness, accountability, inclusiveness).^[[intelligent-tpack-ethics-teachers-trust-distrust-2026]]
 
+### Simulated instructional practice
+
+Beyond content and beliefs, teacher preparation increasingly uses **simulated classrooms** for hands-on practice that scales. [[educasim-cs1-instructional-practice|EducaSim]] uses generative student agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training in a CS1 course supporting ~20,000 students. Deployed as an optional prep tool across 254 sessions (mean ~16 min), it provides low-cost ($0.05–$0.10/session) role-play practice with structured post-session feedback (talk-time statistics, LLM-identified instructional behaviors) and self-reflection prompts. This complements the [[simulating-students]] paradigm: simulated learners serve not just evaluation but experiential, high-frequency teacher preparation, especially for massive online courses where live coaching cannot scale.
+
 ## Connected Concepts
 
 - [[teacher-role]]
@@ -10242,6 +10308,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 
 ---
 
@@ -10325,6 +10392,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 
 ---
 
@@ -10719,11 +10788,13 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-review]] and finds AI feedback is most useful in a human-centered process.
 
-- **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[agency|agency]] is affected when AI participates at different stages.
+- **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[agency]] is affected when AI participates at different stages.
 
 - **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which [[agency]] is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
 
 - **L2 / multilingual writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms.
+
+- **Bias in personalized feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show that LLM writing-feedback tools are not language-neutral: personalizing feedback with a student's race, ethnicity, ELL designation, learning disability, achievement, or motivation systematically shifts feedback in stereotype-aligned ways — including positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for students marked by race, language, or disability, even when the essay is identical. This makes "personalization" itself a bias vector that writing-feedback tools must audit and control.
 
 - **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and ethical use.
 
@@ -10775,6 +10846,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
 
 ---
 
@@ -22926,6 +22998,45 @@ Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Respon
 
 ---
 
+## [DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation](https://edtechdev.github.io/aied/articles/diagramir-educational-math-diagram-evaluation/)
+
+> **Back-translating generated diagrams into an intermediate representation (IR) enables scalable, low-cost automatic evaluation that beats LLM-as-a-Judge on agreement with human raters.** Most [[llm|LLM]]-based learning tools are text-only, limiting their use in visual domains like [[math-education|mathematics]] where diagrams and spatial reasoning matter. Recent work lets LLMs generate code (LaTeX TikZ) that compiles to educational figures, but evaluating whether those figures are mathematically and visually sound remains a bottleneck. DiagramIR solves this by translating TikZ code into a schema-constrained IR and running deterministic rule-based checks (fully in frame, elements scaled/readable, labels matched, no problematic overlap, angles/lengths match). Across 398 real teacher-generated diagram instances, this back-translation pipeline achieves higher agreement with human raters (Cohen's κ ≈ 0.48–0.56) than LLM-as-a-Judge (κ ≈ 0.39–0.47), and lets a small model like GPT-4.1-Mini perform comparably to GPT-5 at **10× lower inference cost** — important for accessible, scalable, equitable education technology.
+
+## Key Findings
+
+- **Scalable evaluation is the bottleneck, not generation.** LLMs can already produce pedagogically useful math diagrams (e.g., from TikZ), but judging correctness is subjective and human evaluation cannot scale to live, chatbot-style settings.
+- **Back-translation into an IR beats LLM-as-a-Judge on human agreement.** By decoupling perception (an LLM maps TikZ → IR) from verification (cheap rule-based checks on the IR), DiagramIR achieves higher Cohen's κ agreement with human raters across models than LLM-as-a-Judge in its strongest setting (both code and image).
+- **Smaller models become competitive at 10× lower cost.** Because the pipeline offloads evaluation to deterministic checks, even GPT-4.1-Mini performs on par with the best LLM-judge (GPT-5) at roughly $0.47 vs $4.83 on the dataset — critical for deploying evaluation in resource-constrained settings.
+- **Strength in spatial checks, limitation in some math checks.** Back-translation outperforms LLM-as-a-Judge on both spatial checks (fully-in-frame, readable scaling, label association, overlap), but the LLM judge does better on one mathematical check (angle labels, κ 0.829 vs 0.652), where programmatically verifying label positioning relative to geometric objects is tricky.
+- **Grounded in real teacher–LLM interaction data.** The 398-item evaluation set is drawn from 6,000 random conversations between teachers and an AI math assistant (Coteach) using the Illustrative Mathematics K–12 [[curriculum-design|curriculum]], reflecting diagrams teachers actually generate "in the wild."
+
+## Practical Implications
+
+- **Use symbolic intermediate representations to make evaluation cheap and auditable.** For developers of math/AI education tools, translating generated figures into a structured IR where deterministic checks run is both more reliable and far cheaper than asking an LLM to judge the rendered image — and the checks explain exactly why a diagram passes or fails.
+- **Adopt an IR-based evaluation for accessibility and scale.** The approach lets lightweight models do the work, lowering the cost floor enough to deploy automatic diagram feedback in live, real-time learning tools.
+- **Pair automatic evaluation with rubric-based human calibration.** The pipeline mirrors a clear rubric (mathematical + spatial correctness) and is calibrated against human raters, so automatic checks remain aligned with pedagogical intent.
+
+## Connected Concepts
+
+- [[math-education]]
+- [[automated-assessment]]
+- [[llm]]
+- [[multimodal]]
+- [[educational-nlp]]
+- [[benchmark]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[structrag-diagram-reasoning-ai-tutoring]] — StructRAG: structural diagram reasoning for STEM AI tutoring
+- [[math-education]] — Math Education
+
+## Citation
+
+Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *DiagramIR: An automatic pipeline for educational math diagram evaluation* (arXiv:2511.08283). NeurIPS 2025 Math-AI Workshop. https://arxiv.org/abs/2511.08283
+
+---
+
 ## [A didactical-driven teacher assistant for a dimensional modeling course](https://edtechdev.github.io/aied/articles/didactical-teacher-assistant-dimensional-modeling/)
 
 Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant for a university dimensional modeling (data warehousing) course. Unlike most educational chatbots that delegate pedagogical decisions implicitly to the LLM, their system makes content selection and didactic structuring explicit and traceable: tutoring strategy is encoded in an external didactic layer that the LLM executes, so tutoring behavior can be evaluated and reproduced. The design responds directly to the opacity critique raised in [[rethinking-scaffolding-llm-tutors]] and complements retrieval-grounded designs such as [[retrieval-augmented-tutoring-algorithm-kite]] and safety-layered tutors like [[eduguard-safe-rag-llm-tutor]]. As an instructor-facing pedagogical agent it sits alongside [[teachingcoach-chatbot-instructor-guidance]], and its explicit didactic structuring exemplifies principled [[instructional-design]] applied to LLM tutoring in [[cs-education]].
@@ -23460,6 +23571,47 @@ The finding that models struggle most with **multi-step teaching workflows** in 
 ## Citation
 
 Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [Are agents ready to teach? A multi-stage benchmark for real-world teaching workflows](https://arxiv.org/abs/2605.14322). arXiv:2605.14322.
+
+---
+
+## [EducaSim: Interactive Simulacra for CS1 Instructional Practice](https://edtechdev.github.io/aied/articles/educasim-cs1-instructional-practice/)
+
+> **Generative agents that simulate a small-group classroom section offer low-cost, scalable, experiential teaching practice for instructors — especially in massive online courses.** EducaSim implements diverse pedagogical-based student personas, actual course material, and agent-based architectures so teachers-in-training can practice instruction through role play without the trained-facilitator overhead that makes live role play hard to scale. Deployed as an optional preparation tool in a six-week CS1 course supporting ~20,000 students (focused on 150 of 1,300 volunteer teachers), it logged 254 sessions with a mean duration of ~16 minutes, and teachers who engaged generally found it a positive experience. The framework is designed to fix three weaknesses of prior student simulations: lack of in-context domain knowledge, inconsistent agent behavior, and missing feedback/self-reflection.
+
+## Key Findings
+
+- **Role play is high-impact but hard to scale for teacher training.** It is well-recognized for improving learning outcomes and preparing teachers for classroom scenarios, but depends on trained, available facilitators — an acute problem for massive online courses with hundreds to thousands of novice teachers.
+- **EducaSim's agents combine personas, memory, and a decision-making framework.** Student personas capture engagement and speech styles (deliberately avoiding sensitive demographic traits to limit bias); a node-based memory system grounds agents in actual chronological course material with varied knowledge states; and a response framework classifies each utterance as an error or success archetype before an LLM generates the final response.
+- **Extended interaction modes beyond text.** A runnable Python IDE (whose code is piped into the agent memory stream) and low-latency voice-to-text (via Whisper) support realistic practice; an LLM-as-a-judge "speech oracle" decides who speaks next, mirroring real classroom dynamics.
+- **Post-session feedback and self-reflection are built in.** The tool computes talk-time statistics and uses an LLM to identify instructional behaviors (teacher uptake, questioning quality, misconceptions), then offers structured feedback and reflective prompts.
+- **Low cost and positive uptake.** At roughly $0.05–$0.10 per session (GPT-4.1-mini + Whisper-1), with hosting under $5 for 150 users, EducaSim is inexpensive; user reactions on the teachers' forum were positive, including one teacher who improved engagement after acting on feedback.
+
+## Practical Implications
+
+- **Student-simulator tools can scale role play for online teaching prep.** For large-scale online programs (e.g., Code in Place, Schoolhouse), simulated sections provide 24/7, low-cost practice that frees scarce human coaches for higher-value synchronous feedback.
+- **Ground simulated students in real course content and knowledge states.** Contextualized memories tied to actual lecture materials (with per-document engagement levels) are what make the simulation pedagogically relevant, unlike generic chatbots that hallucinate or lack domain knowledge.
+- **Close the learning loop with feedback and reflection.** The pairing of talk-time statistics, LLM-generated feedback, and self-guided reflection is what turns the simulation into a coaching experience rather than a toy.
+- **Make simulation failure modes explicit** — student agents that hallucinate or lack domain knowledge are a known limitation of generic chatbots. EducaSim grounds its simulated learners in actual course material and varied knowledge states to stay pedagogically relevant.
+
+## Connected Concepts
+
+- [[simulating-students]]
+- [[teacher-education]]
+- [[experiential-learning]]
+- [[agentic-ai]]
+- [[pedagogical-agent]]
+- [[cs-education]]
+- [[simulation]]
+- [[online-teaching-and-learning]]
+
+## Connected Articles
+
+- [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
+- [[simulating-students]] — Simulating Students
+
+## Citation
+
+Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *EducaSim: Interactive simulacra for CS1 instructional practice* (arXiv:2603.11444). arXiv. https://arxiv.org/abs/2603.11444
 
 ---
 
@@ -32492,6 +32644,47 @@ Szekely, S., Gal-Ezer, J., & Harel, D. (2026). [*Rethinking Higher Education: Fr
 
 ---
 
+## [LearnLM: Improving Gemini for Learning](https://edtechdev.github.io/aied/articles/learnlm-improving-gemini-learning/)
+
+> **Reframes improving [[llm|LLMs]] for learning as *pedagogical instruction following*** — training and evaluation examples carry system-level instructions that describe the specific pedagogical behavior desired or present in subsequent turns, rather than committing the model to any single definition of pedagogy. This lets teachers or developers specify the tutoring behavior they want while the model improves on general instruction-following and other capabilities. The resulting **LearnLM** model (based on Gemini 1.5 Pro, available on Google AI Studio) was substantially preferred by education experts across diverse learning scenarios, with average preference strengths of **+31% over GPT-4o, +11% over Claude 3.5 Sonnet, and +13% over the base Gemini 1.5 Pro**. Because pedagogical data is mixed directly into Gemini's post-training (SFT, reward-model, and RL stages) rather than applied as post-hoc fine-tuning, the improvements can be carried into future Gemini releases.
+
+## Key Findings
+
+- **Pedagogy is context-dependent, so it is best left specified per-application.** Interviews with the education sector (EdTech companies, schools, non-profits, governments) found that "ideal AI tutor behavior" is prohibitively hard to define globally; the most useful capability is following system instructions that create interactive, tutor-led exercises — including withholding answers or staying on topic even when students try to circumvent them.
+- **Prompting remains the practical route, but instruction-following can be trained.** Post-hoc fine-tuning for each application is costly, hard to maintain, and quickly outdated as base models improve. The paper instead trains models to follow complex, nuanced pedagogical system instructions, using both hard constraints ("do not reveal the answer") and soft style guidelines ("use a motivating tone").
+- **RL is significantly more effective than SFT alone for pedagogical instruction following.** Preference judgments capture subtle, context-dependent distinctions across long conversations that supervised fine-tuning on instruction-labeled data only partially handles; a reward model trained on pedagogically-seeded preference pairs is used during RLHF.
+- **Co-training prevents catastrophic forgetting.** By conditioning pedagogical responses on specific system instructions and mixing the data with Gemini's standard post-training mixture, LearnLM learns pedagogical instruction-following without losing core reasoning, [[multimodal]] understanding, factuality, safety, or multi-turn properties.
+- **Robust expert-preference evaluation at scale.** A scenario-guided, conversation-level pipeline (49 evaluation scenarios; 186 educators role-playing learners across 2,360 conversations; 248 pedagogy experts producing 10,192 assessments) gave LearnLM consistent preference wins over GPT-4o, Claude 3.5 Sonnet, and Gemini 1.5 Pro across all five comparative assessment categories — strongest on "Which tutor demonstrated better tutoring?"
+
+## Practical Implications
+
+- **For tool builders, specify pedagogy via system instructions and measure adherence.** LearnLM demonstrates that framing education-model behavior as instruction following is both trainable and evaluable — developers can define desired tutoring attributes and evaluate whether a model follows them, rather than relying on vague prompt prose.
+- **Prefer models trained with pedagogical data over prompt-engineered general models when fidelity matters.** The paper's core claim is that rule-based prompting alone cannot robustly encode complex, adaptive pedagogy; post-training with pedagogical data (even mixed into a general model) yields more consistent adherence.
+- **Invest in scenario-based, conversation-level evaluation.** The gap between LearnLM and competitors was made visible by controlled, scenario-guided multi-turn comparisons with expert pedagogy reviewers — a template for education-specific model evaluation that single-turn benchmarks miss.
+
+## Connected Concepts
+
+- [[llm]]
+- [[pedagogical-llm-training]]
+- [[generative-ai]]
+- [[intelligent-tutoring]]
+- [[reinforcement-learning]]
+- [[prompt-engineering]]
+- [[teacher-role]]
+- [[student-ai-interaction]]
+- [[pedagogy]]
+
+## Connected Articles
+
+- [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
+- [[learning-to-prompt-adaptive-tutoring]] — Learning to prompt for adaptive tutoring
+
+## Citation
+
+LearnLM Team, Google. (2025). *LearnLM: Improving Gemini for learning* (arXiv:2412.16429). arXiv. https://arxiv.org/abs/2412.16429
+
+---
+
 ## [LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning](https://edtechdev.github.io/aied/articles/learnmate2-llm-adaptive-learning/)
 
 > LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning **Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
@@ -35084,6 +35277,48 @@ Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Qu
 ## Citation
 
 Oreopoulos, P., Liut, M., Sungu, A., & Low, N. (2026). *[Making AI tutoring productive: Evidence from a mastery-based math practice experiment](https://www.nber.org/papers/w35621)* (NBER Working Paper No. 35621). National Bureau of Economic Research.
+
+---
+
+## [Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback](https://edtechdev.github.io/aied/articles/marked-pedagogies-linguistic-bias-writing-feedback/)
+
+> **LLM-powered personalized [[feedback]] is not language-neutral: it reproduces stereotype-aligned biases that change how feedback is written depending on presumed student attributes — even when the essay is identical.** "Marked Pedagogies" names the systematic instructional orientations four widely used [[llm|LLMs]] (GPT-4o, GPT-3.5-turbo, Llama-3.3 70B, Llama-3.1 8B) adopt when feedback is conditioned on gender, race/ethnicity, learning needs, achievement, or [[motivation]]. Using 600 eighth-grade persuasive essays from the PERSUADE dataset, the authors generated feedback under contrastive prompt conditions and adapted the Marked Words framework to detect lexical shifts. Feedback for students marked by race, language, or disability often exhibited **positive feedback bias** (overuse of praise) and **feedback withholding bias** (less substantive critique, assumptions of limited ability). Across attributes, models tailored not just what content was emphasized but also how writing was judged and how students were addressed — echoing long-documented patterns of teacher bias.
+
+## Key Findings
+
+- **Personalization triggers stereotype-aligned shifts, not neutral adaptation.** Even with essay content held constant, merely prompting the model with a student's race, ethnicity, ELL designation, learning disability, achievement level, or motivation systematically shifted feedback language in stereotype-aligned directions.
+- **Positive feedback bias and feedback withholding bias are the clearest harms.** Feedback for students marked by race, language, or disability overused praise, gave less substantive critique, and assumed limited ability — mirroring the same biases documented in human teachers (especially White teachers) when assessing minority students.
+- **Models privilege standard academic [[writing-education|English]].** LLMs reproduce a "digital mono-languaging" that marginalizes multilingual learners who use other linguistic varieties in their writing.
+- **The effect is robust but variable.** Concentration-metric regression confirmed that Marked Pedagogies differ significantly between marked and comparative prompts; effects were stronger and more consistent under explicit attribute prompts than under name-only prompting (e.g., Lakisha, Juan, Emily), which produced smaller, noisier signals.
+- **Need for transparency and accountability.** The authors argue automated feedback tools must be scrutinized for these systematic pedagogical orientations, which risk discriminatory treatment of students at scale.
+
+## Practical Implications
+
+- **Audit automated feedback for distributional bias, not just accuracy.** Education tool developers deploying LLM writing feedback should test how outputs shift across student descriptors, using methods like the Marked Words / concentration approach, to surface stereotype-aligned praise and withheld critique.
+- **Treat "personalization" as a bias vector to control.** Personalization is often framed as a benefit, but it is exactly the mechanism through which these biases enter; designers should decide deliberately what student attributes feed into feedback generation and monitor their effects.
+- **Support multilingual and minoritized writers explicitly.** Because LLMs privilege standard academic English, tools should guard against penalizing non-standard varieties and against lowered expectations for ELL and disability-designated students.
+
+## Connected Concepts
+
+- [[writing-education]]
+- [[automated-assessment]]
+- [[bias-mitigation]]
+- [[equity-in-ai-education]]
+- [[feedback]]
+- [[personalized-learning]]
+- [[generative-ai]]
+- [[k-12]]
+- [[ai-feedback-quality]]
+
+## Connected Articles
+
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs human rater essay assessment
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback for critical thinking in writing
+
+## Citation
+
+Tan, M., Phalen, L., & Demszky, D. (2026). *Marked pedagogies: Examining linguistic biases in personalized automated writing feedback* (arXiv:2603.12471). LAK 2026. https://doi.org/10.1145/3785022.3785113
 
 ---
 
@@ -41994,6 +42229,47 @@ Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"
 
 ---
 
+## [From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment](https://edtechdev.github.io/aied/articles/shap-llm-rationales-teaching-quality-assessment/)
+
+> **For rubric-based scoring of classroom transcripts, model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales.** This paper proposes a general framework for sentence-level interpretability of rubric-based scoring, combining Shapley-value attributions with [[llm|LLM]]-generated rationales, and instantiates it on the Quality of Feedback (QoF) dimension of the CLASS framework using the NCTE corpus (~6k annotated transcript segments). Across models, fine-tuned pretrained language models (PLMs) outperform prompted LLMs in prediction accuracy but exhibit label compression toward mid-scale scores. Deletion-based faithfulness tests show SHAP identifies sentences that reliably drive predictions — producing larger, more coherent prediction shifts than LLM rationales — and SHAP attributions transfer robustly across architectures, whereas LLM rationales exert limited and inconsistent influence. The work offers a principled basis for evaluating both scoring models and their explanations in high-stakes educational settings and other rubric-based language assessment.
+
+## Key Findings
+
+- **Explainability matters for high-stakes rubric scoring.** Opaque scores are insufficient where teachers must understand, [[trust]], and contest automated judgments — a requirement now reflected in frameworks like the EU AI Act.
+- **PLMs beat LLMs on scoring accuracy but compress toward mid-scale.** Fine-tuned transformer-based models (BERT, ALBERT, RoBERTa, DeBERTa variants) outperform prompted instruction-tuned LLMs on QoF prediction (e.g., lower MAE/MSE), but their scores concentrate in the 3–5 mid-range rather than using the full 1–7 scale.
+- **SHAP is more faithful than LLM rationales.** Under deletion-based tests (progressively removing the top-10 sentences each method ranks as most influential), SHAP-selected sentences produce larger and more coherent prediction shifts than LLM-generated rationales — meaning SHAP better identifies the text the model actually relies on.
+- **SHAP explanations transfer across architectures; LLM rationales do not.** Cross-model analysis (removing sentences ranked by one model family and re-scoring with the other) shows SHAP attributions generalize robustly, while LLM rationales exert limited, inconsistent influence on other models.
+- **A reusable framework for evaluating explanations.** The combination of model-agnostic attribution, deletion-based faithfulness testing, and cross-model robustness offers a principled way to judge whether any scoring model's explanations are trustworthy.
+
+## Practical Implications
+
+- **Prefer principled attribution methods over LLM free-text rationales for accountability.** For high-stakes automated assessment, SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
+- **Use deletion-based faithfulness tests to validate explanations.** Before trusting an explanation method, measure how removing its top-ranked units changes predictions — and check whether explanations generalize across model families.
+- **Pair transparent scoring with human interpretability.** Moving "from what (the score) to why (the reasoning)" is essential for generating actionable teacher feedback and building trust; a framework that surfaces the specific dialogue sentences behind a quality rating supports that.
+
+## Connected Concepts
+
+- [[automated-assessment]]
+- [[educational-nlp]]
+- [[llm]]
+- [[feedback]]
+- [[teacher-role]]
+- [[ai-ed-evaluation]]
+- [[learning-analytics]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[teaching-feedback-classification-benchmark]] — Teaching feedback classification benchmark
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: feedback loop for educators
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+
+## Citation
+
+Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment* (arXiv:2606.05180). Findings of ACL 2026. https://arxiv.org/abs/2606.05180
+
+---
+
 ## [Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources](https://edtechdev.github.io/aied/articles/shen-sustainable-ai-knowledge-base-cs-education-2026/)
 
 > **Synthesis:** Shen et al. (2026) demonstrate the feasibility of running AI knowledge-base assistants entirely on **consumer-grade hardware** (NVIDIA RTX 3060, 12 GB VRAM) using **open educational resources** (OER) for computer science education — an on-premise alternative to cloud-dependent AI tutors. Combining structured extraction from 82 OER documents, RAG, and NF4 4-bit quantization-aware fine-tuning of Qwen-7B and DeepSeek-MoE, they report strong accuracy (DeepSeek-MoE 78.6% overall, 82.3% multi-hop) at very low energy cost (1.8 mWh/query) while preserving educational utility within ~2 points of full-precision accuracy. The system is framed as a knowledge-base assistant, not a validated tutor.
@@ -45231,6 +45507,46 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 ## Citation
 
 Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors](https://arxiv.org/abs/2603.18189). arXiv:2603.18189. cs.AI.
+
+---
+
+## [TeachLM: Post-Training LLMs for Education Using Authentic Learning Data](https://edtechdev.github.io/aied/articles/teachlm-post-training-llms-education/)
+
+> **Post-training an [[llm|LLM]] on *authentic* one-on-one learning data, rather than [[prompt-engineering|prompt engineering]] or synthetic-only data, substantially improves pedagogical and conversational quality.** TeachLM is fine-tuned (parameter-efficiently) on 100,000 hours of longitudinal, one-on-one student–tutor interactions from the Polygence platform, carefully anonymized for [[privacy]] and consent. The team first trains a high-fidelity **authentic student model** that generates realistic synthetic student–tutor dialogues, which then enables a novel multi-turn evaluation protocol for benchmarking tutor behavior at scale. Against off-the-shelf models, TeachLM approximately **doubles student talk time**, improves questioning style, increases dialogue turns by 50%, and delivers greater personalization of instruction. The work is a direct counterpoint to the paper's finding that elaborate prompt engineering (their earlier "PolyPilot" tutor) could not close the gap with human tutoring.
+
+## Key Findings
+
+- **Prompt engineering is a stopgap, not a solution.** The authors built PolyPilot, a dynamically prompt-engineered project-based tutor on GPT-4, iterating for months with 70+ engaged users; even with RAG-based examples and refined stage-dependent prompts, the gap between the LLM and a human tutor proved too large to close — e.g., varying the number and placement of questions or avoiding "wall-of-text" responses was inconsistent under prompting.
+- **Authentic learning data is the missing ingredient.** One-on-one tutoring can yield two-sigma [[learning-gains|learning gains]] (Bloom), but high-quality data reflecting how *actual students* learn is scarce due to logistics, privacy protections, and data-quality concerns. Polygence's 100,000 hours span 150+ subjects with PhD-level tutors, 4–6 month longitudinal relationships, multi-modal exchanges, and outcome-oriented projects (80% culminate in a showcaseable artifact).
+- **A fine-tuned student model enables scalable, reproducible multi-turn evaluation.** Training an authentic student model on the same data lets the authors generate synthetic dialogues and evaluate tutor models on proxies for high-quality pedagogy — student talk time, questioning style, dialogue turns, and personalization — a protocol that is fast, scalable, and reproducible versus labor-intensive human assessment.
+- **Fine-tuning on authentic data clearly beats off-the-shelf models.** TeachLM approximately doubles student talk time, improves questioning style, increases dialogue turns by 50%, and shows greater personalization — evidence that post-training on real learner–tutor interactions addresses the friction-minimizing, sycophantic tendencies encoded in general-purpose LLMs.
+- **Careful data curation and anonymization are central.** The pipeline includes dual-track transcription, diarization, cleaning (removing backchannels, aligning persona), consent per session, PII removal on internal servers, and enterprise-grade confidentiality for model providers — a model for ethically sourcing education data.
+
+## Practical Implications
+
+- **Invest in real learner–tutor corpora, not just prompt tuning.** For developers of [[intelligent-tutoring|AI tutors]], the transferable lesson is that genuine interaction data (with consent and anonymization) unlocks quality that prompting cannot; platform owners with longitudinal tutoring logs hold unusually valuable training material.
+- **Use a fine-tuned student model for multi-turn tutor evaluation.** Synthetic-student-driven evaluation offers a fast, reproducible complement (or alternative) to expensive human expert review of long dialogues, which is especially useful for iterating on tutor behavior.
+- **Design for student talk time and questioning as quality targets.** The evaluated proxies — balancing talk time, open questioning, dialogue length, and personalization — give concrete, measurable objectives for pedagogical LLM behavior.
+
+## Connected Concepts
+
+- [[pedagogical-llm-training]]
+- [[llm]]
+- [[simulating-students]]
+- [[privacy]]
+- [[generative-ai]]
+- [[intelligent-tutoring]]
+- [[student-modeling]]
+- [[project-based-learning]]
+
+## Connected Articles
+
+- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
+- [[educasim-cs1-instructional-practice]] — EducaSim: Interactive Simulacra for CS1 Instructional Practice
+
+## Citation
+
+Perczel, J., Chow, J., & Demszky, D. (2025). *TeachLM: Post-training LLMs for education using authentic learning data* (arXiv:2510.05087). arXiv. https://arxiv.org/abs/2510.05087
 
 ---
 

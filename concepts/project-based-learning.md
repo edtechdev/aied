@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-20T07:00:00-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 confidence: high
@@ -43,3 +43,4 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[academic-league-of-ai-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence

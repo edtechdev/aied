@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [llm, pedagogical-safety, intelligent-tutoring, special-education, personalized-learning, k-12, scaffolding, active-learning, adaptive-learning, higher-ed]
 confidence: medium
@@ -43,3 +43,4 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 - [[history-aware-student-simulation]]
 - [[q-learning-lab-rl-teaching]]
 - [[singh-eduqwen-pedagogical-rl-2026]]- [[residencyrl-clinical-rl-training-2026]]
+- [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following

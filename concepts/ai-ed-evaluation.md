@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-19T18:13:48-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -101,3 +101,5 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
