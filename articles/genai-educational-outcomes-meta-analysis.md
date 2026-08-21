@@ -1,14 +1,14 @@
 ---
 title: "Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-08-16"
+updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [meta-analysis, ai-ed-evaluation, learning-gains, systematic-review, generative-ai, higher-ed]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']
 confidence: high
 ---
 
-> **Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches** — Dong (2026), *Humanities and Social Sciences Communications* 13, 559. A PRISMA-based meta-analysis of 53 studies that pools the effect of generative AI (GenAI) on educational outcomes. The central conclusion: GenAI generally outperforms traditional and non-GenAI approaches on academic achievement, higher-order thinking, and writing skills, and GenAI feedback is particularly effective — though game-assisted GenAI shows no significant added benefit, and gains vary by country and are consistent across university and secondary levels. ⚠️ Published under CC BY-NC-ND 4.0 (non-commercial, no-derivatives) — see the source note.
+> **Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches** — Dong (2026), *Humanities and Social Sciences Communications* 13, 559. A PRISMA-based meta-analysis of 53 studies that pools the effect of generative AI (GenAI) on educational outcomes. The central conclusion: GenAI generally outperforms traditional and non-GenAI approaches on academic achievement, higher-order thinking, and writing skills, and GenAI feedback is particularly effective — though game-assisted GenAI shows no significant added benefit, and gains vary by country and are consistent across university and secondary levels.
 
 ## Key Findings
 
@@ -49,5 +49,3 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 ## Citation
 
 Dong, Y. (2026). [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://www.nature.com/articles/s41599-026-06903-y). *Humanities and Social Sciences Communications* 13, 559. https://doi.org/10.1057/s41599-026-06903-y
-
-> ⚠️ **License note:** Published under **CC BY-NC-ND 4.0** (non-commercial, no-derivatives). This differs from the CC BY license used by most other entries in this wiki. If the non-commercial / no-derivatives restriction is a concern, this entry and its raw source can be removed on request.
