@@ -19,6 +19,10 @@ Then replace the placeholder dates and content with your own.
 - **`articles/<slug>.md`** — one page per paper: synthesis → Key Findings → Connected Concepts → Connected Articles → Citation
 - **`concepts/<slug>.md`** — one page per broad topic that synthesizes multiple articles
 
+## Inline-link HARD GATE
+
+After creating/enriching any page, run the inline-link pass (see the `wiki-inline-links` skill): hyperlink every concept mentioned in the body narrative to its concept page, and verify 0 self-links / 0 heading links / balanced brackets / 0 broken links **before** `npm run build`. A green build does not substitute for this pass.
+
 ## Site build
 
 The wiki is published as an Astro static site. After adding content:

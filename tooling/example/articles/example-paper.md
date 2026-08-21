@@ -1,7 +1,7 @@
 ---
 title: "Example Paper: A Guide to Getting Started"
-created: [DATE]
-updated: [DATE]
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article
 tags: [getting-started, example]
 sources: [raw/papers/0000.00000.md]

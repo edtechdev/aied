@@ -131,12 +131,14 @@ Example question: "What does the research say about AI feedback for student writ
 Want to set up your own automated research wiki for a different domain? Everything you need is in the [`tooling/`](tooling/) directory:
 
 - **`tooling/README.md`** — Complete setup guide
-- **`tooling/SKILL.md`** — Hermes Agent skill definition
+- **`tooling/SKILL.md`** — Hermes Agent skill definition (`research-wiki` ingestion + export pipeline)
 - **`tooling/SCHEMA.md`** — Domain, tag taxonomy, and page conventions
 - **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
-- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan)
+- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan), each enforcing the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy)
 - **`tooling/example/`** — Starter wiki files to get going quickly
 - **`tooling/config.example.yaml`** — Scan configuration for customization
+
+The repo's **AGENTS.md** documents the page-structure rules and the inline-link HARD GATE that agents must follow on every ingestion. The **`wiki-inline-links`** skill (term→slug dictionary + scanner) enforces aggressive concept-linking in every new/enriched page's narrative before the site is built.
 
 Just copy the `tooling/` directory into a new repo, follow the README, and you'll have your own research wiki in ~15 minutes. No API keys required.
