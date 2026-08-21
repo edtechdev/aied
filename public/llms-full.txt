@@ -12797,11 +12797,11 @@ The guidelines span four categories:
 
 ## [AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized](https://edtechdev.github.io/aied/articles/ai-advice-suppresses-ikt-suspension-2026/)
 
-# AI Advice Suppresses People's Willingness to Say "I Don't Know"
+# AI Advice Suppresses People's Willingness to Say "I Don't Know", Even When the Advice Is Wrong and Accuracy Is Incentivized
 
 ## Core Finding
 
-In five experiments (N = 3,132; four preregistered, one direct replication), **merely having access to AI advice nearly eliminated people's willingness to suspend judgment** — to say "I don't know" — even when the AI advice was systematically wrong and accuracy was rewarded. Participants answered more questions but were correct about **a third as often** as when AI was unavailable, while their **confidence nearly doubled**. The effect persisted whether advice was actively requested or automatically displayed, and monetary incentives only partly corrected it. AI access doesn't just change what people answer; it changes the metacognitive threshold at which they decide they know enough to answer.
+In five experiments (N = 3,132; four preregistered, one direct replication), **merely having access to AI advice nearly eliminated people's willingness to suspend judgment** — to say "I don't know" — even when the AI advice was systematically wrong and accuracy was rewarded. Participants answered more questions but were correct about **a third as often** as when [[generative-ai]] was unavailable, while their **confidence nearly doubled**. The effect persisted whether advice was actively requested or automatically displayed, and monetary incentives only partly corrected it. AI access doesn't just change what people answer; it changes the metacognitive threshold at which they decide they know enough to answer.
 
 ## Key Findings
 
@@ -12814,7 +12814,7 @@ In five experiments (N = 3,132; four preregistered, one direct replication), **m
 
 ## Why this matters for education
 
-Although the study is framed around general human judgment (fine visual details in films), its mechanism operates on the **availability and fluency of an answer, not its subject matter** — so it applies directly wherever AI supplies a confident response, including assessment, homework, tutoring, and information-seeking in learning. The authors explicitly note this bears on [[cognitive-offloading]], the erosion of human agency, and "cognitive surrender." For education specifically, the findings suggest that the mere presence of AI may suppress learners' willingness to withhold judgment and acknowledge uncertainty — a core metacognitive and epistemic skill ([[metacognition]], [[critical-thinking]]) — while inflating their confidence in wrong answers ([[trust-calibration]]). It also implies that **the goal of AI-literacy instruction may be less to teach tool skill than to preserve learners' readiness to recognize and act on the limits of what they know** ([[ai-literacy]], [[reducing-ai-misuse]]).
+Although the study is framed around general human judgment (fine visual details in films), its mechanism operates on the **availability and fluency of an answer, not its subject matter** — so it applies directly wherever AI supplies a confident response, including [[assessment]], homework, tutoring, and information-seeking in learning. The authors explicitly note this bears on [[cognitive-offloading]], the erosion of human [[agency]], and "cognitive surrender." For education specifically, the findings suggest that the mere presence of AI may suppress learners' willingness to withhold judgment and acknowledge uncertainty — a core metacognitive and epistemic skill ([[metacognition]], [[critical-thinking]]) — while inflating their confidence in wrong answers ([[trust-calibration]]) and eroding [[self-efficacy]]. It also implies that **the goal of AI-literacy instruction may be less to teach tool skill than to preserve learners' readiness to recognize and act on the limits of what they know** ([[ai-literacy]], [[reducing-ai-misuse]]), a challenge that sits at the heart of [[human-ai-collaboration]] and [[ai-education]].
 
 ## Practical Implications
 
