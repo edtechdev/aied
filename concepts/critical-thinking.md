@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -71,3 +71,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[ai-advice-suppresses-ikt-suspension-2026]]

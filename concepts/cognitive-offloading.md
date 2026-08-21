@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T10:44:23-04:00"
+updated: "2026-08-21T14:58:18-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -69,6 +69,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 - **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
 AI dependency is not simply a product of technical skill: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] show that skill-based AI literacy predicted higher dependency (consistent with the enabling-capacity/offloading view), while AI and academic self-efficacy buffered against overreliance — indicating offloading is governed by motivational self-efficacy beliefs as much as by capability.
+
+The effect is partly a **change in the threshold to respond, not in capacity**: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] show that merely having access to AI advice nearly eliminated people's willingness to say "I don't know" — even when the advice was wrong — while nearly doubling confidence and cutting accuracy to a third; incentives restored accuracy (by reducing reliance) but not suspension.
 
 ## Connected Concepts
 
@@ -158,3 +160,4 @@ AI dependency is not simply a product of technical skill: [[student-dependency-o
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[ai-advice-suppresses-ikt-suspension-2026]]

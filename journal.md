@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-21 | **Total entries:** 906
+**Last updated:** 2026-08-21 | **Total entries:** 907
 
 ## 2026-08-21
+
+- ◐ [[ai-advice-suppresses-ikt-suspension-2026]] — raw/papers/ai-advice-suppresses-ikt-suspension-2026.md
+  AI Advice Suppresses People's Willingness to Say "I Don't Know", Even When the Advice Is Wrong and Accuracy Is Incentivized
+  #cognitive-offloading #metacognition #critical-thinking #ai-literacy #trust-calibration #reducing-ai-misuse #automation-bias #overconfidence #human-ai-interaction #generative-ai
 
 - ◐ [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — raw/papers/can-ai-evaluate-assessment-llm-meta-assessment-2026.md
   Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
