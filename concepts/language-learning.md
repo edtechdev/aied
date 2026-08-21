@@ -19,6 +19,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[writing-education]]
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
@@ -34,6 +35,9 @@ Language learning has emerged as a significant AI in education domain because la
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[alharbi-ethical-genai-eap-2026]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers

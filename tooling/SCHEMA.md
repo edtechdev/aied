@@ -103,7 +103,7 @@ Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; 
 
 ### Pedagogy & Practice
 - `personalized-learning`, `formative-assessment`, `feedback-loop`, `scaffolding`, `active-learning`, `blended-learning`, `mastery-learning`, `educational-theory`
-- `pedagogy`, `instructional-design`, `curriculum-design`, `assessment`, `authentic-assessment`, `socratic-method`, `project-based-learning`, `problem-based-learning`, `collaborative-learning`, `collaborative-ai-tutoring`, `design-thinking`, `training-methodology`, `simulation`, `oral-defense`, `pair-programming`
+- `pedagogy`, `instructional-design`, `curriculum-design`, `assessment`, `authentic-assessment`, `portfolio-assessment`, `socratic-method`, `project-based-learning`, `problem-based-learning`, `collaborative-learning`, `collaborative-ai-tutoring`, `design-thinking`, `training-methodology`, `simulation`, `oral-defense`, `pair-programming`
 
 ### Learning & Cognition
 - `metacognition`, `self-regulated-learning`, `self-directed-learning`, `cognitive-offloading`, `critical-thinking`, `creative-thinking`, `computational-thinking`, `skill-decay`, `confidence`, `student-ai-interaction`
@@ -114,7 +114,7 @@ Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; 
 
 ### Domain Areas
 - `stem-education`, `language-learning`, `writing-education`, `special-education`, `professional-training`
-- `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `online-education`, `online-learning`, `distance-learning`, `blended-learning`, `multilingual-learning`, `neurodiversity`, `accessible-learning`, `informal-learning`, `independent-learning`, `software-engineering`
+- `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `online-education`, `online-learning`, `distance-learning`, `blended-learning`, `multilingual-learning`, `neurodiversity`, `accessible-learning`, `informal-learning`, `independent-learning`, `software-engineering`, `business-education`, `economics-education`, `management-education`
 
 ### Research & Evaluation
 - `rct`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`

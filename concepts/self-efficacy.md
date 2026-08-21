@@ -32,6 +32,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 ## Connected Articles
 
+- [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-literacy-career-adaptability-business-2026]] — AI Literacy, AI Readiness, and Career Adaptability
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind

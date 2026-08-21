@@ -37,6 +37,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 ## Connected Articles
 
+- [[nguyen-genai-global-south-review-2026]]
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education (Bangladesh)
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: Vietnamese Lesson Planning
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset

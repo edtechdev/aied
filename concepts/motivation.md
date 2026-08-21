@@ -38,6 +38,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]

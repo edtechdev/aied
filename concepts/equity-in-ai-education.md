@@ -73,6 +73,9 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[dollinger-equitable-assessment-ai-2026]]
+- [[nguyen-genai-global-south-review-2026]]
+- [[enright-staff-perspectives-genai-2026]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-distance-education-systematic-review-2026]]

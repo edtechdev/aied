@@ -59,6 +59,9 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[alharbi-ethical-genai-eap-2026]]
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[espino-ai-business-education-review-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-acceptance-preservice-science-teachers-2026]]

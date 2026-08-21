@@ -27,6 +27,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[cs-education]]
 - [[math-education]]
 - [[physics-education]]

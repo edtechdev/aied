@@ -74,6 +74,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -108,6 +109,16 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[pedlow-genai-selfassessment-2026]]
+- [[rook-plumb-genai-curricula-student-insights-2026]]
+- [[luo-eaton-ai-student-feedback-ethics-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[fekete-ethical-ai-literacy-gaps-2026]]
+- [[rana-genai-design-thinking-2025]]
+- [[espino-ai-business-education-review-2026]]
+- [[drummond-genai-business-schools-framework-2026]]
 - [[learn-framework-responsible-genai-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
