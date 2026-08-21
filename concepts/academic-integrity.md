@@ -52,6 +52,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[assessment-validity]]
@@ -75,6 +76,16 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[pedlow-genai-selfassessment-2026]]
+- [[alharbi-ethical-genai-eap-2026]]
+- [[adarkwah-genai-unesco-policy-2026]]
+- [[nguyen-genai-global-south-review-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[espino-ai-business-education-review-2026]]
+- [[drummond-genai-business-schools-framework-2026]]
 - [[learn-framework-responsible-genai-pbl-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]

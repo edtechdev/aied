@@ -27,6 +27,7 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[student-experience]]
@@ -42,6 +43,7 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 
 ## Connected Articles
 
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation

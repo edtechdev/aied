@@ -37,6 +37,7 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[ai-literacy]]
 
 ## Connected Articles
+- [[enright-staff-perspectives-genai-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts in Student-AI Dialogue

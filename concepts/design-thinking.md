@@ -54,6 +54,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 
 ## Connected Articles
 
+- [[rana-genai-design-thinking-2025]]
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students

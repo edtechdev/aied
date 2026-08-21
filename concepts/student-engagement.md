@@ -49,6 +49,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[motivation]]
 - [[self-determination-theory]]
@@ -66,6 +67,12 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ying-genai-journalism-assessment-2026]]
+- [[rook-plumb-genai-curricula-student-insights-2026]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
+- [[drummond-genai-business-schools-framework-2026]]
+- [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]

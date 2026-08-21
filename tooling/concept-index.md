@@ -247,6 +247,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: physics education; physics teaching; physics
     - phrases: plagiarism detection; AI plagiarism detection; AI-generated text detection; authorship detection; AI text detection
     - phrases: privacy; data privacy; student privacy; data protection
+    - phrases: problem-based learning; PBL; problem based learning
     - phrases: professional training; workforce development; vocational training; reskilling; upskilling; professional education
     - phrases: project-based learning; PBL; project-based
     - phrases: prompt engineering; prompting; prompt design; prompt literacy; prompting strategies
@@ -319,6 +320,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`benchmark`** — Benchmark
 - **`bias-mitigation`** — Bias Mitigation
 - **`biology-education`** — Biology Education
+- **`business-education`** — AI in Business Education
 - **`chemistry-education`** — Chemistry Education
 - **`cognitive-diagnosis`** — Cognitive Diagnosis
 - **`cognitive-offloading`** — Cognitive Offloading
@@ -343,6 +345,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`educational-robotics`** — Robots in Education
 - **`embodied-learning`** — Embodied Learning
 - **`engineering-education`** — Engineering Education
+- **`eportfolio`** — E-Portfolio
 - **`equity-in-ai-education`** — Equity in AI Education
 - **`ethics`** — Ethics in AI Education
 - **`experiential-learning`** — Experiential Learning
@@ -397,7 +400,6 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`plagiarism-detection`** — AI Plagiarism Detection
 - **`privacy`** — Privacy in AI Education
 - **`problem-based-learning`** — Problem-Based Learning
-    - phrases: problem-based learning; PBL; problem based learning
 - **`professional-training`** — Professional Training and AI
 - **`project-based-learning`** — Project-Based Learning
 - **`prompt-engineering`** — Prompt Engineering

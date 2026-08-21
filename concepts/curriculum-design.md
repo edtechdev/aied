@@ -29,6 +29,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[instructional-design]]
 - [[ai-literacy]]
 - [[scaffolding]]
@@ -45,6 +46,12 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[ying-genai-journalism-assessment-2026]]
+- [[rook-plumb-genai-curricula-student-insights-2026]]
+- [[zhou-constructive-alignment-genai-business-2026]]
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[espino-ai-business-education-review-2026]]
+- [[drummond-genai-business-schools-framework-2026]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[ai-interior-design-malaysia-2026]]

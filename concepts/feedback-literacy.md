@@ -50,6 +50,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[ai-feedback-quality]]
 - [[feedback]]
 - [[formative-assessment]]
@@ -64,6 +65,8 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 
 ## Connected Articles
 
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → self-regulated learning (Mendoza et al. 2026)
 - [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy predicts essay grade in AI-enhanced writing (Hawkins et al. 2026)
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)

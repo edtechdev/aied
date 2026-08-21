@@ -54,6 +54,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[benali-genai-academic-writing-2026]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)

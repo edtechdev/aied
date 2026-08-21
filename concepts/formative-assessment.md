@@ -68,6 +68,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[assessment]]
 - [[automated-assessment]]
 - [[automated-question-generation]]
@@ -94,6 +95,8 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment

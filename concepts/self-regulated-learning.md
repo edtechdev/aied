@@ -72,6 +72,7 @@ For example:
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[self-directed-learning]]
 - [[learning-by-teaching]]
 - [[metacognition]]
@@ -95,6 +96,8 @@ For example:
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[benali-genai-academic-writing-2026]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]

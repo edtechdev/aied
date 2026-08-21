@@ -46,6 +46,9 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[ying-genai-journalism-assessment-2026]]
+- [[rana-genai-design-thinking-2025]]
+- [[oby-chatgpt-use-learning-framework-2026]]
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice

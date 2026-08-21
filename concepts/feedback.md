@@ -68,6 +68,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[ai-feedback-quality]]
 - [[feedback-literacy]]
 - [[formative-assessment]]
@@ -84,6 +85,9 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[luo-eaton-ai-student-feedback-ethics-2026]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 

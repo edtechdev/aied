@@ -46,6 +46,9 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[adarkwah-genai-unesco-policy-2026]]
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
+- [[fekete-ethical-ai-literacy-gaps-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]

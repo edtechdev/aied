@@ -49,6 +49,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 ## Connected Concepts
 
+- [[business-education]]
+- [[eportfolio]]
 - [[remote-proctoring]]
 - [[assessment-validity]]
 - [[formative-assessment]]
@@ -74,6 +76,17 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[pedlow-genai-selfassessment-2026]]
+- [[dollinger-equitable-assessment-ai-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[zhou-constructive-alignment-genai-business-2026]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
+- [[espino-ai-business-education-review-2026]]
 - [[pbl-structural-conditions-ai-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
