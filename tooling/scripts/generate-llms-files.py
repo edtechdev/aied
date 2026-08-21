@@ -67,26 +67,35 @@ def collect():
 def build_llms_txt(articles, concepts):
     lines = []
     lines.append("# AI in Education Wiki")
-    lines.append(f"> A comprehensive wiki of {len(articles)} research articles and {len(concepts)} concepts covering AI in education — papers, frameworks, and methodologies.")
-    lines.append("")
-    lines.append("## Articles")
-    lines.append("")
-    for a in articles:
-        desc = a['desc'].replace('\n', ' ')
-        lines.append(f"- [{a['title']}]({a['url']}): {desc}")
+    lines.append(f"> A comprehensive wiki of {len(concepts)} concepts and {len(articles)} research articles covering AI in education — frameworks, methodologies, and papers.")
     lines.append("")
     lines.append("## Concepts")
     lines.append("")
     for c in concepts:
         desc = c['desc'].replace('\n', ' ')
         lines.append(f"- [{c['title']}]({c['url']}): {desc}")
+    lines.append("")
+    lines.append("## Articles")
+    lines.append("")
+    for a in articles:
+        desc = a['desc'].replace('\n', ' ')
+        lines.append(f"- [{a['title']}]({a['url']}): {desc}")
     return "\n".join(lines) + "\n"
 
 def build_llms_full(articles, concepts):
     lines = []
     lines.append("# AI in Education Wiki — Full Content")
-    lines.append(f"> Complete text of {len(articles)} articles and {len(concepts)} concepts.")
+    lines.append(f"> Complete text of {len(concepts)} concepts and {len(articles)} articles.")
     lines.append("")
+    lines.append("# Concepts")
+    lines.append("")
+    for c in concepts:
+        lines.append(f"## [{c['title']}]({c['url']})")
+        lines.append("")
+        lines.append(c['body'])
+        lines.append("")
+        lines.append("---")
+        lines.append("")
     lines.append("# Articles")
     lines.append("")
     for a in articles:
@@ -95,15 +104,6 @@ def build_llms_full(articles, concepts):
         # Strip synthesis blockquote markers for readability
         body = a['body']
         lines.append(body)
-        lines.append("")
-        lines.append("---")
-        lines.append("")
-    lines.append("# Concepts")
-    lines.append("")
-    for c in concepts:
-        lines.append(f"## [{c['title']}]({c['url']})")
-        lines.append("")
-        lines.append(c['body'])
         lines.append("")
         lines.append("---")
         lines.append("")
