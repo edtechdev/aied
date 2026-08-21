@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-21T10:44:03-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [self-efficacy, motivation, confidence, self-regulated-learning, student-experience, ai-literacy]
 confidence: high
@@ -41,3 +41,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[ai-advice-suppresses-ikt-suspension-2026]]

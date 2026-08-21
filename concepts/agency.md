@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -63,3 +63,4 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[ai-advice-suppresses-ikt-suspension-2026]]

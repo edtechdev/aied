@@ -1,7 +1,7 @@
 ---
 title: Trust in AI
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-18T16:45:00-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [trust, ai-literacy, social-robots, human-robot-interaction, epistemic-trust, critical-thinking, intelligent-tutoring]
 
@@ -47,3 +47,4 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[ai-advice-suppresses-ikt-suspension-2026]]

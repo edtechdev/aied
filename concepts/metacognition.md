@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T09:54:41-04:00"
+updated: "2026-08-21T14:58:18-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -65,6 +65,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 2. **Model metacognitive language:** The example-based course worked partly because it exposed students to proficient models' metacognitive self-talk.
 3. **Separate support for motivation vs. skill:** Metacognitive skill development (course-structured) and productivity enhancement (AI-assisted) may require different design strategies.
 
+AI may alter the **metacognitive threshold** for deciding one knows enough to answer: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] found that mere access to AI advice suppressed people's willingness to suspend judgment under uncertainty, even with wrong advice and accuracy incentives — an effect that survived unsolicited AI output and monetary stakes.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -127,3 +129,4 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
 - [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[ai-advice-suppresses-ikt-suspension-2026]]
