@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-21T10:45:29-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -25,7 +25,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Scaffolded use sequences: think first, AI second, reflect third.** Eight design principles for integrating LLMs without displacing [[critical-thinking]]: preserve cognitive friction, position AI as a provisional thinking partner rather than an authority, embed evaluation checkpoints, require metacognitive journaling and prompt logs, and balance AI-mediated with AI-free phases. Correlational evidence (independent work before AI produces stronger outputs) is strong; it is the pedagogically complete version of Tier 1.
 
-**AI literacy and prompting literacy with deliberate practice and immediate [[feedback|feedback]].** A K-12 module using scenario-based prompt practice with an LLM auto-grader improved actual prompting skills and raised confidence in using AI for learning **+10.4%**, with 87% reporting they learned how to use AI responsibly. Demonstrated skill gains; the open question is whether these convert into downstream learning outcomes. It also addresses the equity gap in prior AI access.
+**AI literacy and prompting literacy with deliberate practice and immediate [[feedback]].** A K-12 module using scenario-based prompt practice with an LLM auto-grader improved actual prompting skills and raised confidence in using AI for learning **+10.4%**, with 87% reporting they learned how to use AI responsibly. Demonstrated skill gains; the open question is whether these convert into downstream learning outcomes. It also addresses the equity gap in prior AI access.
 
 **Structured AI-use declaration frameworks.** Replacing generic "I used AI" checkboxes with domain-specific declarations that map use to cognitive stages (structural planning vs. content generation) forces reflection on the learning process and clarifies the boundary between acceptable assistance and misconduct, shifting the emphasis from policing to professional practice.
 
@@ -93,3 +93,4 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]

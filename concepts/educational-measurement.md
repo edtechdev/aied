@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-21T10:44:03-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing]
 confidence: medium
@@ -48,3 +48,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
 - [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[end-of-assessment-ai-disruption-transformation-2026]]

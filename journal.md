@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-21 | **Total entries:** 903
+**Last updated:** 2026-08-21 | **Total entries:** 906
 
 ## 2026-08-21
+
+- ◐ [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — raw/papers/can-ai-evaluate-assessment-llm-meta-assessment-2026.md
+  Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
+  #meta-assessment #automated-assessment #assessment-validity #llm #ai-feedback-quality #higher-ed #educational-measurement #human-in-the-loop-ai #hallucination-risk
 
 - ◐ [[diagramir-educational-math-diagram-evaluation]] — raw/papers/2511.08283.md
   DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation
@@ -11,6 +15,10 @@
 - ◐ [[educasim-cs1-instructional-practice]] — raw/papers/2603.11444.md
   EducaSim: Interactive Simulacra for CS1 Instructional Practice
   #simulating-students #teacher-education #experiential-learning #agentic-ai #pedagogical-agent #cs-education #role-play #online-teaching-and-learning
+
+- ◐ [[end-of-assessment-ai-disruption-transformation-2026]] — raw/papers/end-of-assessment-ai-disruption-transformation-2026.md
+  The End of Assessment? Disruption and Transformation in the Age of AI
+  #assessment #assessment-validity #automated-assessment #ai-literacy #equity-in-ai-education #bias-mitigation #psychometrically-aware-ai #educational-measurement #human-ai-collaboration #higher-ed #ai-education
 
 - ● [[english-education]] — 
   English Education (EAP / EFL / ESL)
@@ -27,6 +35,10 @@
 - ◐ [[shap-llm-rationales-teaching-quality-assessment]] — raw/papers/2606.05180.md
   From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment
   #automated-assessment #educational-nlp #llm #feedback #teacher-role #ai-ed-evaluation #learning-analytics #explainability
+
+- ◐ [[student-dependency-on-ai-literacy-self-efficacy-2026]] — raw/papers/student-dependency-on-ai-literacy-self-efficacy-2026.md
+  Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies
+  #ai-dependency #ai-literacy #self-efficacy #self-regulated-learning #cognitive-offloading #student-engagement #higher-ed #generative-ai #help-seeking #motivation
 
 - ◐ [[teachlm-post-training-llms-education]] — raw/papers/2510.05087.md
   TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
