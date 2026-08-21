@@ -41,6 +41,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 
 ## Connected Articles
 
+- [[benali-genai-academic-writing-2026]]
 - [[avraamidou-ai-colonization-science-education]] — Critical, feminist critique of the "AI colonization" of science education
 - [[li-mroziak-reorienting-critical-ai-literacy]] — "Resisting AI" as a community-rooted praxis of critical AI literacy
 - [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning

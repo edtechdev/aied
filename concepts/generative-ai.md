@@ -29,6 +29,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 ## Connected Concepts
 
+- [[business-education]]
+- [[eportfolio]]
 - [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-by-teaching]]
@@ -49,6 +51,26 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[pedlow-genai-selfassessment-2026]]
+- [[alharbi-ethical-genai-eap-2026]]
+- [[rook-plumb-genai-curricula-student-insights-2026]]
+- [[adarkwah-genai-unesco-policy-2026]]
+- [[luo-eaton-ai-student-feedback-ethics-2026]]
+- [[dollinger-equitable-assessment-ai-2026]]
+- [[nguyen-genai-global-south-review-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[fekete-ethical-ai-literacy-gaps-2026]]
+- [[zhou-constructive-alignment-genai-business-2026]]
+- [[rana-genai-design-thinking-2025]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
+- [[espino-ai-business-education-review-2026]]
+- [[drummond-genai-business-schools-framework-2026]]
+- [[oby-chatgpt-use-learning-framework-2026]]
 - [[ai-pbl-computational-thinking-2026]]
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]

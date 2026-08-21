@@ -1,7 +1,76 @@
 # Journal
-**Last updated:** 2026-08-20 | **Total entries:** 870
+**Last updated:** 2026-08-20 | **Total entries:** 893
 
 ## "2026-08-20
+- ● [[business-education]] — 
+  AI in Business Education
+  #ai-education #business-education #economics-education #management-education #curriculum-design #generative-ai #higher-ed #discipline-specific-aied
+- ● [[eportfolio]] — 
+  E-Portfolio
+  #assessment #authentic-assessment #formative-assessment #feedback #generative-ai #portfolio-assessment #student-engagement #higher-ed #language-learning
+- ◐ [[zhan-chapman-genai-cs-education-2026]] — ['raw/papers/zhan-chapman-genai-cs-education-2026.md']
+  Harnessing Generative Artificial Intelligence in Computer Science Education: Pedagogical Innovation, Ethical Responsibility, and the Future of Assessment
+  #generative-ai #cs-education #assessment #ethics #higher-ed #adaptive-learning
+- ◐ [[ying-genai-journalism-assessment-2026]] — ['raw/papers/ying-genai-journalism-assessment-2026.md']
+  From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI
+  #generative-ai #journalism-education #assessment #ethics #higher-ed #experiential-learning #academic-integrity
+- ◐ [[benali-genai-academic-writing-2026]] — ['raw/papers/benali-genai-academic-writing-2026.md']
+  Teaching with Generative Artificial Intelligence: Enhancing Critical Thinking and Ethical Awareness in Academic Writing
+  #generative-ai #writing-education #critical-thinking #ethics #academic-integrity #higher-ed
+- ◐ [[rook-plumb-genai-curricula-student-insights-2026]] — ['raw/papers/rook-plumb-genai-curricula-student-insights-2026.md']
+  Integrating Generative Artificial Intelligence into University Curricula: Student Insights
+  #generative-ai #business-education #higher-ed #curriculum-design #student-engagement #ai-literacy
+- ◐ [[alharbi-ethical-genai-eap-2026]] — ['raw/papers/alharbi-ethical-genai-eap-2026.md']
+  Ethical Generative AI Integration in English for Academic Purposes within Higher Education: A Mixed-Methods Study
+  #generative-ai #language-learning #ethics #higher-ed #academic-integrity #teacher-role
+- ◐ [[pedlow-genai-selfassessment-2026]] — ['raw/papers/pedlow-genai-selfassessment-2026.md']
+  Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education
+  #generative-ai #ethics #self-assessment #assessment #academic-integrity #agency #higher-ed
+- ● [[adarkwah-genai-unesco-policy-2026]] — ['raw/papers/adarkwah-genai-unesco-policy-2026.md']
+  Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis
+  #generative-ai #educational-policy-ai #governance #higher-ed #academic-integrity
+- ◐ [[zhou-constructive-alignment-genai-business-2026]] — ['raw/papers/zhou-constructive-alignment-genai-business-2026.md']
+  From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment
+  #generative-ai #business-education #higher-ed #curriculum-design #instructional-design #assessment
+- ◐ [[alrahmi-org-drivers-ai-adoption-he-2026]] — ['raw/papers/alrahmi-org-drivers-ai-adoption-he-2026.md']
+  Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education
+  #technology-acceptance-model #ai-education #higher-ed #governance #educational-policy-ai #administrator
+- ◐ [[dollinger-equitable-assessment-ai-2026]] — ['raw/papers/dollinger-equitable-assessment-ai-2026.md']
+  Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence
+  #assessment #equity-in-ai-education #generative-ai #higher-ed #authentic-assessment
+- ◐ [[fekete-ethical-ai-literacy-gaps-2026]] — ['raw/papers/fekete-ethical-ai-literacy-gaps-2026.md']
+  Between Promise and Practice: Bridging Ethical Artificial Intelligence Literacy Gaps Across Students, Educators, and Policy
+  #ai-literacy #ethics #generative-ai #higher-ed #teacher-role #educational-policy-ai
+- ● [[nguyen-genai-global-south-review-2026]] — ['raw/papers/nguyen-genai-global-south-review-2026.md']
+  Perceptions of Generative AI in Global South: A Scoping Review
+  #generative-ai #global-south #systematic-review #higher-ed #equity-in-ai-education #academic-integrity
+- ◐ [[enright-staff-perspectives-genai-2026]] — ['raw/papers/enright-staff-perspectives-genai-2026.md']
+  'AI Should Help Them Learn, Not Learn for Them': University Staff Perspectives on the Role of Generative AI in Education
+  #teacher-role #generative-ai #higher-ed #ai-literacy #student-ai-interaction
+- ◐ [[luo-eaton-ai-student-feedback-ethics-2026]] — ['raw/papers/luo-eaton-ai-student-feedback-ethics-2026.md']
+  Is It Ethical for Teachers to Use AI for Student Feedback?
+  #feedback #ai-feedback-quality #ethics #teacher-role #generative-ai #higher-ed
+- ◐ [[drummond-genai-business-schools-framework-2026]] — ['raw/papers/drummond-genai-business-schools-framework-2026.md']
+  Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools: A Case Study
+  #generative-ai #business-education #higher-ed #curriculum-design #teacher-role #academic-integrity #student-engagement
+- ● [[sutama-chatgpt-eportfolio-speaking-2026]] — ['raw/papers/sutama-chatgpt-eportfolio-speaking-2026.md']
+  Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model: Its Effect on Students' Speaking Performance and Feedback Literacy
+  #eportfolio #portfolio-assessment #generative-ai #language-learning #feedback-literacy #speaking #assessment
+- ● [[rana-genai-design-thinking-2025]] — ['raw/papers/rana-genai-design-thinking-2025.md']
+  Generative AI in Design Thinking Pedagogy: Enhancing Creativity, Critical Thinking, and Ethical Reasoning in Higher Education
+  #design-thinking #generative-ai #creativity #critical-thinking #ethics #higher-ed #scaffolding
+- ◐ [[ni-lam-multiliteracies-ai-portfolio-2026]] — ['raw/papers/ni-lam-multiliteracies-ai-portfolio-2026.md']
+  Students' Perceptions of Multiliteracies Development Using AI-Assisted Portfolio Assessment
+  #eportfolio #portfolio-assessment #generative-ai #assessment #feedback #language-learning #student-engagement
+- ● [[oby-chatgpt-use-learning-framework-2026]] — ['raw/papers/oby-chatgpt-use-learning-framework-2026.md']
+  Beyond Task Completion: A Theoretical Integration and Framework for Guiding Students' ChatGPT Use for Learning
+  #generative-ai #cognitive-offloading #self-efficacy #motivation #metacognition #student-engagement #higher-ed
+- ◐ [[nicola-richmond-programwide-assessment-genai-2025]] — ['raw/papers/nicola-richmond-programwide-assessment-genai-2025.md']
+  It Takes a Village... Program-Wide Approaches to Redesigning Assessment in a Time of Generative Artificial Intelligence (GenAI)
+  #assessment #generative-ai #higher-ed #teacher-role #curriculum-design #faculty-development
+- ● [[espino-ai-business-education-review-2026]] — ['raw/papers/espino-ai-business-education-review-2026.md']
+  Mapping the Integration of AI into Business Education: Insights from a Decade of Research
+  #ai-education #business-education #systematic-review #generative-ai #curriculum-design #higher-ed
 - ● [[problem-based-learning]] — 
   Problem-Based Learning
   #active-learning #collaborative-learning #scaffolding #generative-ai #critical-thinking #higher-ed #medical-education #engineering-education
@@ -34,7 +103,7 @@
   #generative-ai #self-directed-learning #cognitive-offloading #self-efficacy #motivation #self-regulated-learning #higher-ed #gender
 - ● [[genai-counter-learner-groupthink-2025]] — ['raw/papers/genai-counter-learner-groupthink-2025.md']
   Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
-  #generative-ai #collaborative-learning #project-based-learning #pedagogical-agent #interprofessional-education #student-engagement #active-learning #higher-ed
+  #generative-ai #collaborative-learning #problem-based-learning #pedagogical-agent #interprofessional-education #student-engagement #active-learning #higher-ed
 - ● [[best-response-student-ai-dialog-2026]] — ['raw/papers/best-response-student-ai-dialog-2026.md']
   The Best Response to Student AI Use Is Not Detection, It Is Dialog
   #academic-integrity #ai-misuse-learning-harm #plagiarism-detection #assessment #ai-literacy #higher-ed #teacher-role

@@ -27,6 +27,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[equity-in-ai-education]]
 - [[privacy]]
 - [[bias-mitigation]]
@@ -42,6 +43,18 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[pedlow-genai-selfassessment-2026]]
+- [[alharbi-ethical-genai-eap-2026]]
+- [[rook-plumb-genai-curricula-student-insights-2026]]
+- [[adarkwah-genai-unesco-policy-2026]]
+- [[luo-eaton-ai-student-feedback-ethics-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[fekete-ethical-ai-literacy-gaps-2026]]
+- [[rana-genai-design-thinking-2025]]
+- [[drummond-genai-business-schools-framework-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

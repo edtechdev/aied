@@ -47,6 +47,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[problem-based-learning]]
 - [[assessment]]
 - [[assessment-validity]]
@@ -65,6 +66,14 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 
 ## Connected Articles
 
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[pedlow-genai-selfassessment-2026]]
+- [[dollinger-equitable-assessment-ai-2026]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[ni-lam-multiliteracies-ai-portfolio-2026]]
+- [[espino-ai-business-education-review-2026]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[pbl-structural-conditions-ai-2026]]
 - [[best-response-student-ai-dialog-2026]]

@@ -41,6 +41,9 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[enright-staff-perspectives-genai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching

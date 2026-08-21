@@ -46,6 +46,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]

@@ -60,6 +60,9 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
+- [[nguyen-genai-global-south-review-2026]]
+- [[espino-ai-business-education-review-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]

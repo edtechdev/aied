@@ -41,6 +41,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
+- [[espino-ai-business-education-review-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[interactive-online-learning-ai-2025]]
 - [[ai-decision-support-online-learning-assessment-2026]]

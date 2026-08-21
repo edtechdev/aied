@@ -38,6 +38,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[faculty-development]]
 - [[teacher-ai-competency]]
 - [[ai-literacy]]
@@ -56,6 +57,14 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[ying-genai-journalism-assessment-2026]]
+- [[alharbi-ethical-genai-eap-2026]]
+- [[luo-eaton-ai-student-feedback-ethics-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[fekete-ethical-ai-literacy-gaps-2026]]
+- [[zhou-constructive-alignment-genai-business-2026]]
+- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[drummond-genai-business-schools-framework-2026]]
 - [[educators-engagement-ai-pbl-review-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)

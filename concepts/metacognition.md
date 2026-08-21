@@ -67,6 +67,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 ## Connected Concepts
 
+- [[eportfolio]]
 - [[problem-based-learning]]
 - [[self-directed-learning]]
 - [[self-regulated-learning]]
@@ -83,6 +84,9 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[benali-genai-academic-writing-2026]]
+- [[sutama-chatgpt-eportfolio-speaking-2026]]
+- [[oby-chatgpt-use-learning-framework-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[learn-framework-responsible-genai-pbl-2026]]
 - [[ai-communities-of-inquiry-2026]]

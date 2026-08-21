@@ -73,6 +73,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 
 ## Connected Concepts
 
+- [[business-education]]
 - [[ai-education]]
 - [[math-education]]
 - [[physics-education]]

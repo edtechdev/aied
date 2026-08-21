@@ -103,6 +103,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[zhan-chapman-genai-cs-education-2026]]
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education

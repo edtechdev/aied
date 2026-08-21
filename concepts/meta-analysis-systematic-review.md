@@ -95,6 +95,8 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[simulation]]
 
 ## Connected Articles
+- [[nguyen-genai-global-south-review-2026]]
+- [[espino-ai-business-education-review-2026]]
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review
 

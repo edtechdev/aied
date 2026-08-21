@@ -37,6 +37,7 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 
 ## Connected Articles
 
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing

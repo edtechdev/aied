@@ -35,6 +35,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 
 ## Connected Articles
 
+- [[rana-genai-design-thinking-2025]]
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[ai-collaborative-learning-skills-impacts]] — AI and Collaborative Learning: Impacts on Creativity

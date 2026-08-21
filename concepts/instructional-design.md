@@ -66,6 +66,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[zhou-constructive-alignment-genai-business-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning

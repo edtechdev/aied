@@ -63,6 +63,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[trust-calibration]]
 
 ## Connected Articles
+- [[luo-eaton-ai-student-feedback-ethics-2026]]
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)

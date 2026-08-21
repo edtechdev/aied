@@ -59,6 +59,9 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[adarkwah-genai-unesco-policy-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 
