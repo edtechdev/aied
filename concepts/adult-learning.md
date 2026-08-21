@@ -1,7 +1,7 @@
 ---
 title: Adult Learning
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-20T04:25:00-04:00"
+updated: "2026-08-21T09:21:26-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium
@@ -27,6 +27,14 @@ Design AI for adult learners as a scaffold for self-direction, not a substitute 
 ## Connections to related concepts
 
 Adult learning sits at the intersection of several closely linked concepts in this wiki. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[accessible-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
+
+## Implications for adult-education instructors and designers
+
+- **Design AI as a scaffold for self-direction, not a substitute.** Behavioral independence from the tool doesn't prove the learner directed the learning — protect goal ownership, delegation control, and cognitive recoverability ([[andragogy-cognitive-delegation-genai-2026|andragogy + cognitive delegation]]).
+- **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
+- **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
+- **Match capability with governance and reliability.** Technical capability must be matched by [[governance]] and organizational readiness ([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), and stable, reliable infrastructure is a precondition for engagement and retention ([[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|technical factors]]).
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-21T09:18:31-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -61,15 +61,6 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **Ethics-to-behavior gap:** [[cost-of-ethics-crisis-cs-ethics-education|the "Cost-of-Ethics Crisis"]] shows CS students, despite contemporary ethics education, prioritize compensation, location, and culture over ethical concerns in job searches — a critical gap in how ethics instruction transfers to behavior.
 - **Workforce reshaping:** [[ai-engineering-computing-workforce-grey-literature-2026|a systematic review of U.S. grey literature]] frames the "Dual Train Problem" — rapid AI change racing institutional adaptation — and urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy).
 
-### Practical guidance for CS educators
-
-- **Design assessments AI can't coast through:** exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) rather than banning tools outright.
-- **Calibrate trust, don't just build it:** teach students to verify and discriminate AI output; AI literacy and need for cognition moderate whether trust becomes appropriate reliance.
-- **Keep debugging practice alive:** choose AI tools (or deliberately fallible agents) that leave error-correction and productive struggle intact.
-- **Make agent use explicit and governed:** define policy, enforcement, and authority for AI assistance ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
-- **Personalize AI-generated media:** treat AI visualizations/traces as one tool among many, deployed adaptively, not as uniform replacements ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
-- **Structure collaboration for all learners:** smaller consistent teams, explicit roles, and AI-use transparency support both neurodivergent learners and fair collaboration.
-
 ### Connections
 
 CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
@@ -78,7 +69,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - **Design assessments AI cannot coast through.** Exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) instead of banning tools outright — [[genai-oop-programming-assessments-2026|GenAI systems still struggle there]].
 - **Calibrate trust, don't just build it.** [[trust-reliance-ai-education-2026|Trust-reliance research]] shows higher trust predicted *worse* discrimination of misleading AI suggestions; teach verification and critical evaluation, moderated by AI literacy and need for cognition.
-- **Keep debugging and productive struggle alive.** Choose tools or deliberately fallible agents ([[chatgpt-teachable-agent-programming-lbt-2024|learning-by-teaching]]) that preserve error-correction practice, and personalize AI-generated media to avoid expertise-reversal effects.
+- **Keep debugging and productive struggle alive.** Choose tools or deliberately fallible agents ([[chatgpt-teachable-agent-programming-lbt-2024|learning-by-teaching]]) that preserve error-correction practice, and personalize AI-generated media to avoid expertise-reversal effects ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
 - **Govern AI assistance explicitly.** Define policy, enforcement, and authority for LLM support ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
 - **Shift curricula toward verification and agent direction.** As GenAI automates implementation, teach understanding/verifying AI artifacts ([[reshaping-cs-education-genai|reshape curricula]]) and structured agentic-software-engineering skills ([[ase-26-agentic-software-engineering-curriculum|ASE-26]]).
 - **Structure collaboration for all learners.** Smaller consistent teams, explicit roles, and AI-use transparency support neurodivergent students and fair collaboration, especially where misaligned AI-use beliefs lower project scores.
