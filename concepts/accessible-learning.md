@@ -1,7 +1,7 @@
 ---
 title: Accessible Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-21T09:21:26-04:00"
 type: concept
 tags: [accessible-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high
@@ -38,6 +38,15 @@ The wiki's accessible-learning research converges on a set of concrete design pr
 ### Connections to related concepts
 
 Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]], [[educational-robotics]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+
+## Implications for instructors designing accessible learning
+
+- **Design for the excluded modality first, not last.** Building for blind/low-vision users from the start ([[kutti-ai-voice-first-learning-companion|Kutti AI]], [[tactile-statistical-graphs-accessibility|tactile graphs]]) produces tools that also work offline and in low-resource settings — accessibility as a catalyst, not a retrofit.
+- **Co-design with the target community.** [[pepper-robot-sign-language-lis-2025|Sign-language robots]] and [[llm-question-generation-deaf-hard-of-hearing-2026|DHH question generation]] show community involvement surfaces barriers (e.g., sign-based first languages) designers can't anticipate — involve learners and communities in design.
+- **Evaluate pedagogical quality, not just linguistic metrics.** [[text-simplification-its|MuTSE]] shows LLM output variability requires human-in-the-loop evaluation so that simplification helps rather than oversimplifies.
+- **Use AI to close performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes.
+- **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs — weigh integrity against access.
+- **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Disability-centered critique]] warns that Anglophone, Western-centric training data marginalizes disabled ways of knowing — audit AI tools for epistemic justice alongside [[equity-in-ai-education]].
 
 ## Connected Concepts
 

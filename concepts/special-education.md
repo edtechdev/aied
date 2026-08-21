@@ -1,7 +1,7 @@
 ---
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T14:55:00-04:00"
+updated: "2026-08-21T09:18:31-04:00"
 type: concept
 tags: [special-education, accessible-learning, equity, neurodiversity, ai-education, k-12, higher-ed]
 confidence: high
@@ -16,6 +16,15 @@ Special education is a domain where AI's capacity for personalization and adapta
 **Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[instructional-design]] and [[universal-design-for-learning]].
 
 **Critical perspectives** examine how AI can marginalize disabled learners. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that AI systems actively marginalize disability-centered knowledge due to Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+
+## Implications for special-education instructors
+
+- **Co-design AI with the target learners and community.** [[llm-question-generation-deaf-hard-of-hearing-2026|Question generation for Deaf/Hard-of-Hearing learners]] shows the value of iteratively refining AI with the community to bridge the gap between text-based prompts and sign-based first languages — involve learners and their communities in design rather than assuming AI fits them.
+- **Match AI to specific disability profiles, not generic accessibility.** [[special-r1-rl-special-education|Special-R1]] models cognitive and communicative diversity across disability profiles; [[dyslexlens-dyslexic-learners-ai|DysLexLens]] documents both the literacy value and the persistent accessibility barriers dyslexic learners face — choose tools aligned to each learner's profile and be alert to unmet barriers.
+- **Structure collaboration for neurodivergent learners.** [[neurodivergent-computing-students|Neurodivergent computing students]] need structured assignments, small consistent teams, and explicit roles — apply these design requirements to any AI-mediated collaborative activity.
+- **Use AI to close (not widen) performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes, not where it merely automates.
+- **Center disability-led embodied design.** [[embodied-string-learning-blindness-low-vision-musicians|Blind/low-vision musicians]] research shows non-visual, disability-led strategies outperform default visual interfaces — build and adapt AI with disabled learners' expertise.
+- **Guard against epistemic marginalization.** [[genai-minoritized-knowledges-disability|Critical perspectives]] warn that Western-centric training data can marginalize disability-centered knowledge — audit AI content and tools for epistemic justice alongside [[equity-in-ai-education]].
 
 ## Connected Concepts
 
