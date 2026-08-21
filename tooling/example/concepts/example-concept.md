@@ -1,10 +1,9 @@
 ---
 title: Example Concept
-created: [DATE]
-updated: [DATE]
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: concept
 tags: [getting-started, example]
-sources: [raw/papers/0000.00000.md]
 confidence: medium
 ---
 
@@ -18,7 +17,7 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[example-topic]]
+- [[assessment]]
 - [[instructional-design]]
 
 ## Connected Articles
