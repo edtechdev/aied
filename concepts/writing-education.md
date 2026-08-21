@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high
@@ -34,6 +34,14 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 ### Connections
 
 Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-review]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
+
+## Implications for writing instructors
+
+- **Frame AI as a complement, not a replacement, for the writing process.** The wiki's research consistently treats AI as a scaffold for drafting, revision, and feedback while protecting the cognitive work and human audience that make writing a learning activity — [[coach-not-crutch-ai-writing|coaching over crutch]].
+- **Use AI feedback within a human-centered process.** [[pairr-ai-peer-review-2025|PAIRR]] finds AI feedback is most useful combined with peer review and reflection; design feedback loops that keep the instructor and peer audience central.
+- **Audit automated feedback for bias.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM feedback shifts in stereotype-aligned ways when personalized with student attributes — monitor for positive/withholding bias, and be explicit that personalization can be a bias vector.
+- **Guard the cognitive work of writing.** Watch for [[cognitive-offloading|over-reliance]] that bypasses planning, revision, and self-assessment; use AI at chosen stages ([[ai-writing-support-stage-ownership-2026|stage-based ownership]]) to protect student agency.
+- **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
 ## Connected Concepts
 

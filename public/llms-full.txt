@@ -2186,6 +2186,14 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 
 Biology education sits within the broader [[stem-education]] domain and shares the laboratory-practice and specialized-terminology concerns of [[chemistry-education]] and [[physics-education]]. Distinctive connections: to [[critical-thinking]] through the AI-era emphasis on skepticism and oversight; to [[ai-literacy]] through embedding AI concepts in biology courses; to [[human-ai-collaboration]] through virtual lab assistants and challenge-based learning; to [[academic-integrity]] and [[ethics]] through generative-[[ai-misuse-learning-harm|AI misuse]] and policy; and to [[assessment]] through AI-mediated evaluation. The [[higher-ed]] and [[k-12]] concepts capture the levels at which biology AI research occurs, and [[intelligent-tutoring]] and [[simulation]] connect to AI-assisted lab and teaching support.
 
+## Implications for biology instructors
+
+- **Keep a human "safety net" around AI lab assistants.** [[chatgpt-virtual-lab-teaching-assistant-biology-2026|Doğru & Faulconer]] find human TAs more accurate and effective than ChatGPT, yet students preferred AI 40% of the time and detected AI output only 45% — verify and annotate AI lab information, and never rely on it unmoderated for safety-critical content.
+- **Embed AI literacy in the biology curriculum, not as an add-on.** [[zha-ai-literacy-biology-case-study|Zha et al.]] show biology context supports AI learning; integrate ML/neural-network concepts into coursework where they naturally arise.
+- **Deliberately cultivate critical thinking in the AI era.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]] argue skepticism, contextual understanding, and ethical reasoning must be taught explicitly, with human oversight to validate AI outputs and prevent bias.
+- **Teach responsible use alongside challenge-based learning.** [[chatgpt-math-biology-challenge-based-learning-2025|CBL studies]] find students value immediacy but worry about veracity and skill erosion — update academic-integrity codes and AI-use ethics in parallel with adoption.
+- **Survey the specialized tool landscape.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]] map tools (iNaturalist, Google Lens, bioimaging, at-risk prediction) that instructors can deploy for fieldwork, species ID, and student support — choose purpose-built tools over general chatbots where they fit.
+
 ## Connected Concepts
 
 - [[stem-education]]
@@ -2240,6 +2248,13 @@ AI in business education spans **economics** and **management** as core discipli
 
 Business is one of the fields where generative AI adoption is fastest, so business schools face acute pressure to prepare students for an AI-integrated workplace. The research emphasizes that effective integration is **curriculum-driven and student-informed** — not just adding AI tools but redesigning programmes so that GenAI literacy, ethical judgement, and authentic application are woven through degree structures. This connects business education to the wiki's broader themes of [[ai-literacy|AI literacy]], [[teacher-role|educator]] preparation, [[assessment]] redesign, and [[curriculum-design|curriculum]] reform in the AI era.
 
+## Implications for business instructors
+
+- **Integrate AI curriculum-driven and student-informed.** [[drummond-genai-business-schools-framework-2026|Student-informed frameworks]] and [[rook-plumb-genai-curricula-student-insights-2026|student insights]] show students want GenAI skills for careers and to use AI without unintentional misconduct — design programmes that weave AI literacy, ethical judgement, and authentic application through degree structures.
+- **Align curriculum constructively.** [[zhou-constructive-alignment-genai-business-2026|Constructive alignment research]] finds the degree of curriculum integration shapes whether GenAI benefits or risks dominate — integrate, don't append.
+- **Address the persistent gaps.** [[espino-ai-business-education-review-2026|A decade of research]] flags gaps in curriculum coherence, educator readiness, and assessment validity — prioritize these in program design.
+- **Prepare students for an AI-integrated workplace.** Emphasize AI literacy, ethical use, and domain application (finance, marketing, management, economics) as core competencies, not electives.
+
 ## Connected Concepts
 
 - [[ai-education]]
@@ -2286,6 +2301,14 @@ Chemistry education has become a fertile domain for AI-in-education research bec
 ### Connections to related concepts
 
 Chemistry education sits within the broader [[stem-education]] domain and shares much with [[physics-education]] (laboratory practice, abstract concepts, problem-solving) while having distinctive connections: to [[assessment]] and [[formative-assessment]] through AI-mediated evaluation; to [[simulation]] and laboratory learning through virtual experiments; to [[teacher-education]] through pre-service science-teacher research and professional development; to [[educational-policy-ai]] and [[ethics]] through the [[governance]] of AI in STEM; and to [[philosophy-of-ai-in-education]] through the epistemology/ontology of experimentation. The [[ai-literacy]] and [[reducing-ai-misuse]] concepts are essential for the responsible-use dimension, and [[higher-ed]] and [[k-12]] capture the levels at which chemistry AI research occurs.
+
+## Implications for chemistry instructors
+
+- **Leverage AI for experimental design, not just answers.** [[ai-supported-experimental-design-chemistry-2026|Yim & Lui]] show students designing lab manuals with AI and validating them hands-on builds confidence and critical-thinking while shifting staff from demonstration to guidance — a model for lab courses.
+- **Demand evaluative engagement with AI output.** Systematic evidence finds [[llm|LLMs]] weak on rigorous quantitative chemistry, spatial reasoning (NMR), and overconfident — make interrogating and cross-checking AI against chemical principles an explicit learning goal.
+- **Assign distinct, achievement-sensitive AI roles.** [[instructor-ai-roles-chatgpt-formative-assessment-2026|Instructor–AI role research]] finds the human instructor as adaptive expert and ChatGPT as a personalized tool shifting from Patient tutor (low achievers) to Coach to Intellectual Sparring Partner (high achievers) — differentiate support by student level.
+- **Combine AI with structured, contextual pedagogy.** [[context-based-ai-secondary-chemistry-2026|7E + PhET + ChatGPT]] outperformed inquiry-only and conventional teaching, showing AI works best inside an established instructional model.
+- **Be alert to epistemic drift and over-reliance.** [[philosophy-experimentation-ai-chemistry-2026|Philosophy-of-experimentation]] research and UNESCO guidance warn that opaque AI can detach inquiry from causal understanding — preserve human-reasoning-prioritizing assessment and student agency.
 
 ## Connected Concepts
 
@@ -3001,6 +3024,15 @@ Because programming is where AI assistance is most powerful, it is also where th
 ### Connections
 
 CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
+
+## Implications for computing instructors
+
+- **Design assessments AI cannot coast through.** Exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) instead of banning tools outright — [[genai-oop-programming-assessments-2026|GenAI systems still struggle there]].
+- **Calibrate trust, don't just build it.** [[trust-reliance-ai-education-2026|Trust-reliance research]] shows higher trust predicted *worse* discrimination of misleading AI suggestions; teach verification and critical evaluation, moderated by AI literacy and need for cognition.
+- **Keep debugging and productive struggle alive.** Choose tools or deliberately fallible agents ([[chatgpt-teachable-agent-programming-lbt-2024|learning-by-teaching]]) that preserve error-correction practice, and personalize AI-generated media to avoid expertise-reversal effects.
+- **Govern AI assistance explicitly.** Define policy, enforcement, and authority for LLM support ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
+- **Shift curricula toward verification and agent direction.** As GenAI automates implementation, teach understanding/verifying AI artifacts ([[reshaping-cs-education-genai|reshape curricula]]) and structured agentic-software-engineering skills ([[ase-26-agentic-software-engineering-curriculum|ASE-26]]).
+- **Structure collaboration for all learners.** Smaller consistent teams, explicit roles, and AI-use transparency support neurodivergent students and fair collaboration, especially where misaligned AI-use beliefs lower project scores.
 
 ## Connected Concepts
 
@@ -3964,7 +3996,7 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Faculty understanding and shared language:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analyze the metaphors engineering instructors use to describe AI, finding that most frame it either as a human-like "social being/agent" or as a "technical tool," and that instructors within the same department often hold fundamentally different mental models. Because metaphors both construct and constrain understanding, they argue a shared, accurate language is essential for [[faculty-development]] and departmental discussions about AI.
 - **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] systematically review empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/equity/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal wellbeing.
 - **Embodied and multimodal assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with LLM analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
-- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials for emerging roles.
+- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials for emerging roles.
 - **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use GenAI and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with UTAUT to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
 
 ## Signature concerns
@@ -3978,6 +4010,14 @@ Engineering education sits within [[stem-education]] and connects strongly to [[
 ## Under-covered sub-areas
 
 The wiki's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **discipline-specific engineering pedagogies** (mechanical, civil, chemical, electrical, software, and bioengineering education), **design and maker education**, **capstone and project-based learning**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
+
+## Implications for engineering instructors
+
+- **Build a shared, accurate language about AI.** [[engineering-faculty-metaphors-ai-understanding-2026|Faculty metaphor research]] finds instructors hold fundamentally different mental models (agent vs. tool); align departmental understanding before making policy.
+- **Close the ethics-to-accountability gap.** [[ethical-use-ai-engineering-education-review-2026|Ethics reviews]] find guidance is mostly student-facing and compliance-oriented; strengthen reciprocal faculty and institutional accountability, given engineering's stake in public safety.
+- **Use multimodal, embodied assessment.** [[multimodal-embodied-cognition-oral-explanations-2026|Gesture + speech assessment]] adds diagnostic evidence beyond language alone — consider embodied cues when evaluating conceptual understanding.
+- **Prepare students for the workforce, not just the course.** The [[ai-engineering-computing-workforce-grey-literature-2026|Dual Train Problem]] urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles.
+- **Model critical use and appropriate reliance.** [[tam-critical-use-genai-engineering-2026|Critical-use TAM research]] shows students rely on AI heavily for understanding tasks but less for assessment — guide them toward appropriate, verifiable reliance across task types.
 
 ## Connected Concepts
 
@@ -4060,6 +4100,14 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 ## Why it matters
 
 AI's English dominance is a defining feature of this strand. Because models are strongest in English and in standard academic English specifically, English education both benefits disproportionately (powerful EAP scaffolds) and carries distinctive risks (monolingual bias, discrimination against World Englishes and multilingual writers). Research here connects to [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]], and [[academic-integrity|academic integrity]].
+
+## Implications for English / EAP / EFL-ESL instructors
+
+- **Exploit AI's strength for academic English, deliberately.** Because models are strongest in English and standard academic English, EAP instructors can deploy AI for genre-based writing, reading-material differentiation ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]), and revision feedback — but should frame AI as a drafting/feedback partner, not an answer engine.
+- **Protect academic-English register and feedback literacy.** [[feedback-literacy-scripts-eap-writing|EAP writing revision]] shows feedback is only as productive as the learner's feedback literacy — teach students to interpret, judge, and act on AI feedback, and use second-rater mechanisms to check AI quality.
+- **Watch the English-dominance equity tension.** Models privilege standard academic English, marginalizing World Englishes and multilingual writers ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — audit feedback for monolingual bias and lowered expectations.
+- **Integrate AI ethically into EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] calls for transparent, responsible use in higher-ed English teaching that preserves academic integrity.
+- **Differentiate by proficiency and need.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] and adaptive tutoring research support tailoring AI support and evaluation to learners' level rather than one-size-fits-all.
 
 ## Connected Concepts
 
@@ -5644,6 +5692,13 @@ SSH education is a distinct subject area in the wiki, complementary to [[stem-ed
 
 SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The wiki treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
 
+## Implications for humanities and social-science instructors
+
+- **Treat AI as an epistemic mediator, not a content tutor.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] shows AI reconfigures meaning-making, authorship, and agency in SSH — design pedagogy around the three trajectories (AI-dependent, AI-enhanced, AI-critical) and aim for the AI-critical end.
+- **Protect interpretive depth and authorship.** Because the humanities prize judgment and original authorship, guard against AI flattening analysis; make critical evaluation of AI output a learning goal ([[critical-thinking]], [[ai-literacy]]).
+- **Use AI deliberately in source work.** [[paternalistic-filter-llm-history-education|History research]] shows AI can shape reasoning and source interpretation — teach students to interrogate AI-mediated historical claims and the filters it applies.
+- **Consider student-facing impacts.** [[genai-impact-chinese-students-hss|Student experience studies]] document how GenAI affects SSH learners; adapt support and integrity framing to real usage rather than assumptions.
+
 ## Connected Concepts
 
 - [[higher-ed]]
@@ -6221,6 +6276,13 @@ Language learning has emerged as a significant AI in education domain because la
 
 **Accessibility for language learners** connects to [[accessible-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 
+## Implications for language instructors
+
+- **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
+- **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
+- **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and culturally responsive design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
+- **Prepare language teachers' AI literacy.** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher professional development alongside tool adoption.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -6769,6 +6831,15 @@ Mathematics education has become a primary domain for AI in education research b
 
 Math education sits within the broader [[stem-education]] domain with distinctive connections to [[intelligent-tutoring]] and [[intelligent-tutoring|AI Tutoring]] through the strong tradition of cognitive tutors and ITS research in mathematics, to [[scaffolding]] through the productive struggle and hint-use literature, to [[affective-computing]] through math anxiety and emotion-aware tutoring, to [[knowledge-tracing]] and [[assessment-validity]] through cognitive diagnosis and assessment research, and to [[teacher-role]] through teacher-AI collaboration in math instruction. The [[k-12]] connection is particularly strong — 8 of 10 math articles involve K-12 contexts — while [[higher-ed]] connections emerge in teacher preparation and advanced math practice.
 
+## Implications for math instructors
+
+- **Treat AI tutoring as a help-seeking lever, not a capability fix.** [[lak2026-hint-button-unproductive-use|Hint-use research]] shows premature hint requests and superficial hint reading predict lower gains — so the design of *when and how* students seek AI help matters more than raw tutor capability. Encourage students to attempt before asking, and surface help at the moment of need rather than on demand.
+- **Protect productive struggle.** [[zhang-tutormoments-2026|TutorMoments]] finds models default to over-helpfulness, rarely pushing for rigor; configure AI support to scaffold rather than solve, and monitor for answer-replacement that erodes reasoning.
+- **Do not treat AI diagnostic output as ground truth.** [[llm-cognitive-diagnosis-handwritten-math|MathCog]] shows LLMs underperform at diagnosing math thinking (F1 < 0.5) with over-attribution and hallucinated evidence; use AI diagnosis as a suggestion to verify against the student's actual work.
+- **Beware surface-format fragility in AI scoring.** [[representation-robustness-llm-math-problem-solving|Representation sensitivity]] means equivalent problems can flip AI answers — a validity risk for AI-based math assessment; prefer human review for high-stakes scoring.
+- **Use AI to lower the bar for personalized practice.** [[ai-powered-personalized-learning-elementary-fractions-2026|Adaptive platforms]] improved fraction comprehension for students with math learning difficulties; deploy AI-adaptive tools selectively for learners who need differentiated support.
+- **Keep the teacher in control of AI-generated instructional materials.** [[teacher-control-ai-generation-math-visuals|Teacher control of AI visuals]] supports a framework that balances AI efficiency with pedagogical correctness.
+
 ## Connected Concepts
 
 - [[stem-education]]
@@ -6837,6 +6908,13 @@ AI in medical and health-professions education is a growing strand of the wiki's
 ### Why it matters
 
 HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
+
+## Implications for health-professions educators
+
+- **Use AI to operationalize learning principles, not replace the educator.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] argue AI should operationalize experiential, situated, and distributed-cognition learning while the teacher remains central to engagement and outcomes.
+- **Leverage AI for clinical skills training.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] and [[hdr-brachytherapy-agentic-ai-simulation-2026|agentic simulation]] show AI as a skills-training partner in real clinical workflows — embed it where it adds safe, scalable practice.
+- **Balance high-stakes benefits against over-reliance.** HPE is competency-based and high-stakes; guard against AI substituting for hands-on clinical skill and judgment, and apply [[feedback]], [[assessment]], and [[ethics]] considerations with particular care.
+- **Adapt gamified and interdisciplinary AI thoughtfully.** [[medgame-llm-medical-education-gamification|Gamified LLM learning]] and [[alrazeeni-transforming-nursing-education-ai-2026|nursing-education transformation]] show promise but need evaluation for safety and skill outcomes.
 
 ## Connected Concepts
 
@@ -8100,6 +8178,14 @@ Physics education research has become a proving ground for AI in education becau
 ### Connections to related concepts
 
 Physics education sits within the broader [[stem-education]] domain but has distinctive connections: to [[socratic-method]] through the strong tradition of Socratic dialogue in physics problem-solving; to [[computational-thinking]] through the increasing role of computation in physics; to [[assessment-validity]] through the challenges of scoring physics explanations; and to [[professional-training]] through simulation-based preparation. The [[student-experience]] and [[ai-literacy]] concepts are essential for understanding how physics students navigate AI tools, while [[educational-measurement]] and [[automated-assessment|Automated Grading]] connect to the assessment dimension.
+
+## Implications for physics instructors
+
+- **Design for student trust, not just adoption.** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] document a 50-point trust-utility gap (91% use, 41% trust), with students identifying AI failures in visual-spatial reasoning and circuits — create opportunities to expose and discuss these limits rather than assume acceptance.
+- **Use Socratic AI to deepen question quality, but watch for strategic ceding.** [[hashmi-socratic-physics-chatbot-2025|Socratic chatbots]] improve question specificity, yet [[socratic-ai-physics-tutor-taxonomy-2026|taxonomy research]] finds meta-procedural turns dominate — students hand strategic control to the tutor. Intervene to keep students the decision-makers.
+- **Structure AI use cognitively, not just permissively.** [[airis-cognitively-activated-ai-physics-2026|AIRIS]] (Activate–Inquire–Reflect) shows the value of having students predict/outline before AI, delegate computational steps while comparing output critically, and reflect afterward — treat AI integration as an instructional-design problem, and test whether learning survives AI removal.
+- **Guard against scoring bias.** [[ai-scoring-language-bias-physics|AI scoring]] systematically underestimates linguistically weaker students' explanations; use language-aware or human-moderated scoring for conceptual assessment.
+- **Use simulated classrooms for teacher preparation.** [[multiagent-classroom-dual-process-physics-teachers-2026|Simulated multi-agent classrooms]] give prospective teachers rare practice responding to authentic student reasoning — a low-cost complement to live microteaching.
 
 ## Connected Concepts
 
@@ -9785,6 +9871,13 @@ STEM's structured knowledge representation, verifiable answers, and computationa
 
 STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[intelligent-tutoring|AI Tutoring]] — it is the domain context for much of the wiki's tutoring and assessment research.
 
+## Implications for STEM instructors
+
+- **Choose discipline-appropriate AI.** STEM spans math (tutoring), physics (Socratic dialogue, simulation), CS (code generation, review), and engineering (design, workforce) — select tools matched to each subfield's signature pedagogy rather than assuming one general chatbot fits all.
+- **Use AI's structured-fit advantage, but protect reasoning.** STEM's verifiable answers make it the most AI-tractable domain; guard against over-reliance and answer-replacement by embedding AI in structured, mastery-oriented workflows.
+- **Embed AI literacy across STEM courses.** Studies ([[zha-ai-literacy-biology-case-study|biology]], [[ai-tpack-preservice-math-teachers|math teacher prep]]) show STEM context supports AI learning — integrate AI concepts where they naturally arise rather than isolating them.
+- **Watch equity and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, digital-divide access, and culturally relevant design as you deploy them.
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -10372,6 +10465,13 @@ A key finding across teacher-education research is the gap between what teachers
 
 Beyond content and beliefs, teacher preparation increasingly uses **simulated classrooms** for hands-on practice that scales. [[educasim-cs1-instructional-practice|EducaSim]] uses generative student agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training in a CS1 course supporting ~20,000 students. Deployed as an optional prep tool across 254 sessions (mean ~16 min), it provides low-cost ($0.05–$0.10/session) role-play practice with structured post-session feedback (talk-time statistics, LLM-identified instructional behaviors) and self-reflection prompts. This complements the [[simulating-students]] paradigm: simulated learners serve not just evaluation but experiential, high-frequency teacher preparation, especially for massive online courses where live coaching cannot scale.
 
+## Implications for teacher educators
+
+- **Build both AI literacy and critical AI-TPACK.** Pre-service and in-service teachers need readiness to integrate AI — instruments extend TPACK with an AI/ethics dimension ([[ai-tpack-mathematics-teacher-education-2026|AI-TPACK]], [[designing-ai-professional-development-itpack-2026|i-TPACK PD]]); teach ethical reasoning, transparency, and fairness alongside tool use.
+- **Close the articulate-vs-enact gap.** Teachers often claim operational AI skills but struggle to apply them pedagogically; design PD that moves from knowledge to enacted practice ([[teachers-ai-knowledge-genai-lesson-planning-2026|lesson planning]]).
+- **Use simulated practice to scale preparation.** [[educasim-cs1-instructional-practice|EducaSim]]-style simulated classrooms give teachers-in-training low-cost, high-frequency practice with feedback — a complement to limited live coaching.
+- **Address beliefs and trust.** [[self-efficacy|Self-efficacy]] predicts AI-TPACK while strong traditional-teaching beliefs can be a barrier, and [[trust]] is shaped by transparency/fairness — attend to these psychological factors, not just skills.
+
 ## Connected Concepts
 
 - [[teacher-role]]
@@ -10899,6 +10999,14 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 ### Connections
 
 Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-review]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
+
+## Implications for writing instructors
+
+- **Frame AI as a complement, not a replacement, for the writing process.** The wiki's research consistently treats AI as a scaffold for drafting, revision, and feedback while protecting the cognitive work and human audience that make writing a learning activity — [[coach-not-crutch-ai-writing|coaching over crutch]].
+- **Use AI feedback within a human-centered process.** [[pairr-ai-peer-review-2025|PAIRR]] finds AI feedback is most useful combined with peer review and reflection; design feedback loops that keep the instructor and peer audience central.
+- **Audit automated feedback for bias.** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM feedback shifts in stereotype-aligned ways when personalized with student attributes — monitor for positive/withholding bias, and be explicit that personalization can be a bias vector.
+- **Guard the cognitive work of writing.** Watch for [[cognitive-offloading|over-reliance]] that bypasses planning, revision, and self-assessment; use AI at chosen stages ([[ai-writing-support-stage-ownership-2026|stage-based ownership]]) to protect student agency.
+- **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
 ## Connected Concepts
 

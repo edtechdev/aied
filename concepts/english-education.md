@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [english-education, language-learning, writing-education, higher-ed, k-12, generative-ai, ai-feedback-quality, automated-assessment, equity-in-ai-education, academic-integrity]
 confidence: high
@@ -56,6 +56,14 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 ## Why it matters
 
 AI's English dominance is a defining feature of this strand. Because models are strongest in English and in standard academic English specifically, English education both benefits disproportionately (powerful EAP scaffolds) and carries distinctive risks (monolingual bias, discrimination against World Englishes and multilingual writers). Research here connects to [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]], and [[academic-integrity|academic integrity]].
+
+## Implications for English / EAP / EFL-ESL instructors
+
+- **Exploit AI's strength for academic English, deliberately.** Because models are strongest in English and standard academic English, EAP instructors can deploy AI for genre-based writing, reading-material differentiation ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]), and revision feedback — but should frame AI as a drafting/feedback partner, not an answer engine.
+- **Protect academic-English register and feedback literacy.** [[feedback-literacy-scripts-eap-writing|EAP writing revision]] shows feedback is only as productive as the learner's feedback literacy — teach students to interpret, judge, and act on AI feedback, and use second-rater mechanisms to check AI quality.
+- **Watch the English-dominance equity tension.** Models privilege standard academic English, marginalizing World Englishes and multilingual writers ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — audit feedback for monolingual bias and lowered expectations.
+- **Integrate AI ethically into EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] calls for transparent, responsible use in higher-ed English teaching that preserves academic integrity.
+- **Differentiate by proficiency and need.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] and adaptive tutoring research support tailoring AI support and evaluation to learners' level rather than one-size-fits-all.
 
 ## Connected Concepts
 

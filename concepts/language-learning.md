@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity]
 confidence: high
@@ -16,6 +16,13 @@ Language learning has emerged as a significant AI in education domain because la
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.
 
 **Accessibility for language learners** connects to [[accessible-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
+
+## Implications for language instructors
+
+- **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
+- **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
+- **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and culturally responsive design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
+- **Prepare language teachers' AI literacy.** [[governing-unseen-ai-literacy-language-teachers-2026|Systematic reviews]] find AI literacy among language teachers is a key gap — invest in teacher professional development alongside tool adoption.
 
 ## Connected Concepts
 
