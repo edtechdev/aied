@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-20T04:25:00-04:00"
+updated: "2026-08-21T09:21:26-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -26,6 +26,14 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 ### Assessment and integrity
 
 [[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[plagiarism-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
+
+## Implications for higher-education instructors
+
+- **Design assessment for an AI-capable student body.** Detection-centered integrity approaches are giving way to [[authentic-assessment|authentic]] and process-based evaluation ([[beyond-detection-authentic-assessment-ai-2025|beyond detection]], [[ai-assessment-scale-reform|assessment reform]]) — redesign what you assess, not just how you police it.
+- **Redesign the "what should students still learn by hand?" question.** Just as in computing, decide which skills must be preserved (verification, judgment, process) and make those the assessed core, rather than assuming AI skills transfer automatically.
+- **Treat faculty readiness as sociotechnical, not just technical.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] frames readiness across epistemic, pedagogical, institutional, and quality domains — align your teaching practice with institutional governance, not just tool fluency.
+- **Address the policy-vs-practice gap.** Large-scale studies ([[ai-in-the-wild-college|AI in the wild]]) show students use AI in ways institutional policy doesn't anticipate — align your expectations with real usage and teach [[ai-literacy]] explicitly.
+- **Use AI to raise feedback quality and quantity.** [[ai-assistance-discretionary-feedback|AI-assisted feedback]] can increase the feedback instructors deliver; pair it with human judgment so it improves learning rather than merely automating.
 
 ## Connected Concepts
 

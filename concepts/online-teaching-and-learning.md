@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-21T09:21:26-04:00"
 type: concept
 tags: [online-education, online-learning, distance-learning, mooc, blended-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 confidence: high
@@ -53,17 +53,6 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Data privacy and trust.** Online platforms collect rich learner data; AI systems raise transparency and privacy concerns ([[privacy]]), especially for adults balancing work and study.
 - **Organisational readiness.** The demise of KhanMigo — learners not actually engaging with the chatbot, with limited evidence of gains — cautions that technical capability must be matched with [[governance]] and organizational readiness.
 
-## Tips and strategies for online instructors and instructional designers
-
-- **Guardrail the AI, don't just supply it.** Use hint-not-answer [[scaffolding]] that keeps learner cognitive work in the loop, rather than answer-generating chatbots. The guardrailed-tutor RCT shows this eliminates the exam penalty that unguarded access causes.
-- **Design AI-resistant and proctored/unassisted [[assessment|assessments]].** Because online grading often can't distinguish assisted from independent work, include closed-book, proctored, or process-revealing assessments to surface — and discourage — misuse (see [[ai-misuse-learning-harm|AI misuse and learning harm]]).
-- **Teach AI literacy explicitly.** Help students recognize reliance patterns, calibrate trust, and understand the cost of bypassing their own cognitive work ([[ai-literacy]]). Training that builds [[self-regulated-learning|self-regulation]] and [[metacognition]] directly counters offloading.
-- **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like AIDA) outperform generic external chatbots, and increase acceptance.
-- **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
-- **Calibrate AI facilitation toward human caution.** When using AI to moderate or facilitate online discussions, prefer settings that intervene sparingly; humans are the better model for when to step in.
-- **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
-- **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability (AI-ALOE guidelines).
-
 ## Recommended pedagogical strategies for online teaching and learning
 
 - **Active and interactive learning.** Prefer strategies that keep students doing and thinking rather than passively receiving — [[active-learning]], interactive exercises, and [[socratic-method|Socratic]] dialogue. AI that prompts reasoning (rather than supplying answers) preserves the productive struggle and [[desirable-difficulties|desirable difficulties]] that build durable learning.
@@ -74,6 +63,17 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] (companion AI, synchronous check-ins, peer interaction), since online isolation is a key barrier to [[student-engagement|engagement]] and belonging.
 - **Blended design thinking.** For hybrid formats, apply [[instructional-design]] principles to decide what is best done synchronously vs. asynchronously and online vs. in person, and how AI supports each.
 - **Human-in-the-loop governance.** Keep educators and [[teacher-role|instructors]] in the loop over AI tools, grounded in [[tpack|pedagogical content knowledge]], so pedagogical intent — not the tool's default — drives design.
+
+## Implications for online instructors and instructional designers
+
+- **Guardrail the AI, don't just supply it.** Use hint-not-answer [[scaffolding]] that keeps learner cognitive work in the loop; the guardrailed-tutor RCT shows this eliminates the exam penalty that unguarded access causes.
+- **Design AI-resistant and proctored/unassisted assessments.** Because online grading often can't distinguish assisted from independent work, include closed-book, proctored, or process-revealing assessments to surface and discourage misuse ([[ai-misuse-learning-harm|AI misuse and learning harm]]).
+- **Teach AI literacy explicitly.** Help students recognize reliance patterns and calibrate trust ([[ai-literacy]]); build [[self-regulated-learning|self-regulation]] and [[metacognition]] to counter offloading.
+- **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) outperform generic external chatbots and increase acceptance.
+- **Calibrate AI facilitation toward human caution.** When using AI to moderate discussions, prefer settings that intervene sparingly ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
+- **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
+- **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
 
 ## Connected Concepts
 

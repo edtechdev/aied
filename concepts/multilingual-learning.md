@@ -1,7 +1,7 @@
 ---
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-08-19T09:55:00-04:00"
+updated: "2026-08-21T09:21:26-04:00"
 type: concept
 tags: [multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, accessible-learning, llm]
 confidence: medium
@@ -26,6 +26,14 @@ Multilingual AI must go beyond translation to reflect [[culturally-relevant-peda
 ## Assessment bias
 
 Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in physics), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity]].
+
+## Implications for instructors in multilingual contexts
+
+- **Extend AI to learners' own languages, not just English.** Fine-tune or configure models for low-resource and non-dominant languages ([[multilingual-adaptive-learning-nigeria-2026|Nigerian Pidgin platform]]) rather than forcing English-only tools; pair AI with [[rag|RAG]] and local corpora where possible.
+- **Guard assessment against language bias.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native speakers — use language-aware or human-moderated evaluation to protect [[assessment-validity]] and [[equity-in-ai-education|fairness]].
+- **Reflect culture and context, not just translation.** Multilingual AI must go beyond translation to [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generate content that is linguistically and contextually appropriate ([[llm-cultural-relevance-k12|K-12 cultural relevance]]).
+- **Pair AI with multilingual support structures.** Use voice-first and oral modes ([[kutti-ai-voice-first-learning-companion|voice-first companions]]) where text-based AI fails, and support [[self-regulated-learning|self-regulation]] in bilingual contexts ([[bilingual-llm-lecture-companion-srl-2026|bilingual lecture companion]]).
+- **Watch the digital divide.** Monolingual bias in AI deepens the [[digital-divide]] and undermines access across the [[global-south]] — plan for equitable infrastructure and access alongside tool choice.
 
 ## Connected Concepts
 

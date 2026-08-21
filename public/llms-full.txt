@@ -153,6 +153,15 @@ The wiki's accessible-learning research converges on a set of concrete design pr
 
 Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]], [[educational-robotics]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
 
+## Implications for instructors designing accessible learning
+
+- **Design for the excluded modality first, not last.** Building for blind/low-vision users from the start ([[kutti-ai-voice-first-learning-companion|Kutti AI]], [[tactile-statistical-graphs-accessibility|tactile graphs]]) produces tools that also work offline and in low-resource settings — accessibility as a catalyst, not a retrofit.
+- **Co-design with the target community.** [[pepper-robot-sign-language-lis-2025|Sign-language robots]] and [[llm-question-generation-deaf-hard-of-hearing-2026|DHH question generation]] show community involvement surfaces barriers (e.g., sign-based first languages) designers can't anticipate — involve learners and communities in design.
+- **Evaluate pedagogical quality, not just linguistic metrics.** [[text-simplification-its|MuTSE]] shows LLM output variability requires human-in-the-loop evaluation so that simplification helps rather than oversimplifies.
+- **Use AI to close performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes.
+- **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs — weigh integrity against access.
+- **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Disability-centered critique]] warns that Anglophone, Western-centric training data marginalizes disabled ways of knowing — audit AI tools for epistemic justice alongside [[equity-in-ai-education]].
+
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
@@ -413,6 +422,14 @@ Design AI for adult learners as a scaffold for self-direction, not a substitute 
 ## Connections to related concepts
 
 Adult learning sits at the intersection of several closely linked concepts in this wiki. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[accessible-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
+
+## Implications for adult-education instructors and designers
+
+- **Design AI as a scaffold for self-direction, not a substitute.** Behavioral independence from the tool doesn't prove the learner directed the learning — protect goal ownership, delegation control, and cognitive recoverability ([[andragogy-cognitive-delegation-genai-2026|andragogy + cognitive delegation]]).
+- **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
+- **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
+- **Match capability with governance and reliability.** Technical capability must be matched by [[governance]] and organizational readiness ([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), and stable, reliable infrastructure is a precondition for engagement and retention ([[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|technical factors]]).
 
 ## Connected Concepts
 
@@ -3012,15 +3029,6 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **Ethics-to-behavior gap:** [[cost-of-ethics-crisis-cs-ethics-education|the "Cost-of-Ethics Crisis"]] shows CS students, despite contemporary ethics education, prioritize compensation, location, and culture over ethical concerns in job searches — a critical gap in how ethics instruction transfers to behavior.
 - **Workforce reshaping:** [[ai-engineering-computing-workforce-grey-literature-2026|a systematic review of U.S. grey literature]] frames the "Dual Train Problem" — rapid AI change racing institutional adaptation — and urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy).
 
-### Practical guidance for CS educators
-
-- **Design assessments AI can't coast through:** exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) rather than banning tools outright.
-- **Calibrate trust, don't just build it:** teach students to verify and discriminate AI output; AI literacy and need for cognition moderate whether trust becomes appropriate reliance.
-- **Keep debugging practice alive:** choose AI tools (or deliberately fallible agents) that leave error-correction and productive struggle intact.
-- **Make agent use explicit and governed:** define policy, enforcement, and authority for AI assistance ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
-- **Personalize AI-generated media:** treat AI visualizations/traces as one tool among many, deployed adaptively, not as uniform replacements ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
-- **Structure collaboration for all learners:** smaller consistent teams, explicit roles, and AI-use transparency support both neurodivergent learners and fair collaboration.
-
 ### Connections
 
 CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[ai-literacy]], [[agentic-ai]], [[curriculum-design]], [[human-ai-collaboration]], [[higher-ed]], [[k-12]], and [[professional-training]]. It is the domain where AIED tools are both used and built, making it a testbed for [[intelligent-tutoring]], [[educational-robotics]], [[collaborative-learning]], [[game-based-learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
@@ -3029,7 +3037,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 
 - **Design assessments AI cannot coast through.** Exploit GenAI's recurring failure patterns (interfaces, abstract classes, inheritance, image-based tasks) instead of banning tools outright — [[genai-oop-programming-assessments-2026|GenAI systems still struggle there]].
 - **Calibrate trust, don't just build it.** [[trust-reliance-ai-education-2026|Trust-reliance research]] shows higher trust predicted *worse* discrimination of misleading AI suggestions; teach verification and critical evaluation, moderated by AI literacy and need for cognition.
-- **Keep debugging and productive struggle alive.** Choose tools or deliberately fallible agents ([[chatgpt-teachable-agent-programming-lbt-2024|learning-by-teaching]]) that preserve error-correction practice, and personalize AI-generated media to avoid expertise-reversal effects.
+- **Keep debugging and productive struggle alive.** Choose tools or deliberately fallible agents ([[chatgpt-teachable-agent-programming-lbt-2024|learning-by-teaching]]) that preserve error-correction practice, and personalize AI-generated media to avoid expertise-reversal effects ([[ai-generated-traces-novice-programmers|expertise-reversal]]).
 - **Govern AI assistance explicitly.** Define policy, enforcement, and authority for LLM support ([[llm-programming-support-governance-cs-education|PEA]]) rather than leaving boundaries implicit.
 - **Shift curricula toward verification and agent direction.** As GenAI automates implementation, teach understanding/verifying AI artifacts ([[reshaping-cs-education-genai|reshape curricula]]) and structured agentic-software-engineering skills ([[ase-26-agentic-software-engineering-curriculum|ASE-26]]).
 - **Structure collaboration for all learners.** Smaller consistent teams, explicit roles, and AI-use transparency support neurodivergent students and fair collaboration, especially where misaligned AI-use beliefs lower project scores.
@@ -5374,6 +5382,14 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 [[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[plagiarism-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
 
+## Implications for higher-education instructors
+
+- **Design assessment for an AI-capable student body.** Detection-centered integrity approaches are giving way to [[authentic-assessment|authentic]] and process-based evaluation ([[beyond-detection-authentic-assessment-ai-2025|beyond detection]], [[ai-assessment-scale-reform|assessment reform]]) — redesign what you assess, not just how you police it.
+- **Redesign the "what should students still learn by hand?" question.** Just as in computing, decide which skills must be preserved (verification, judgment, process) and make those the assessed core, rather than assuming AI skills transfer automatically.
+- **Treat faculty readiness as sociotechnical, not just technical.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] frames readiness across epistemic, pedagogical, institutional, and quality domains — align your teaching practice with institutional governance, not just tool fluency.
+- **Address the policy-vs-practice gap.** Large-scale studies ([[ai-in-the-wild-college|AI in the wild]]) show students use AI in ways institutional policy doesn't anticipate — align your expectations with real usage and teach [[ai-literacy]] explicitly.
+- **Use AI to raise feedback quality and quantity.** [[ai-assistance-discretionary-feedback|AI-assisted feedback]] can increase the feedback instructors deliver; pair it with human judgment so it improves learning rather than merely automating.
+
 ## Connected Concepts
 
 - [[business-education]]
@@ -6089,6 +6105,15 @@ K-12 AI deployment operates at societal scale — millions of students, compulso
 ### Connections
 
 K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (student competency), [[teacher-role]] (K-12 teacher transformation), [[equity-in-ai-education]] (access gaps), and [[special-education]] (diverse learner needs).
+
+## Implications for K-12 instructors
+
+- **Prioritize child-safe guardrailing.** K-12 AI use demands stronger [[pedagogical-safety|safety]] protections — use tools specifically built and vetted for children ([[eduzone-llm-safety-k12|EduZone]], [[eduguard-safe-rag-llm-tutor|EduGuard]]) and be alert to the harms of unguarded tutors ([[ai-tutor-safety-harms|tutor harm research]]).
+- **Build AI literacy age-appropriately.** Use curricula and frameworks designed for younger learners ([[aaai2026-prompting-literacy-k12|K-12 AI literacy modules]]), and don't assume students arrive with responsible-use knowledge.
+- **Close the teacher-competency gap.** Teachers systematically overestimate their AI competency (~40% gap between self-report and performance), yet short training (e.g., 4-hour prompting workshops) yields substantially higher classroom AI integration — invest in your own preparation ([[teacher-ai-competency]], [[teacher-education]]).
+- **Diversify materials deliberately.** AI is strong at [[culturally-relevant-pedagogy|culturally relevant]] material generation (78% of teachers find suggestions helpful), but tools default to dominant perspectives — actively use AI to broaden, not narrow, representation, and guard against [[equity-in-ai-education|opportunity gaps]].
+- **Watch the learning-penalty risk.** Evidence shows outsourcing AI work can harm learning, especially for older students ([[generative-ai-reduced-study-time-math|cognitive surrender]], [[stromberg-generative-ai-learning-penalty-secondary-2026|homework-outsourcing penalty]]) — design assignments that keep cognitive work in the loop and assess for durable understanding, not just completion.
+- **Translate policy into practice.** Institutional GenAI policies often lack implementation guidance; turn policy into concrete, actionable classroom practices and training ([[ai-literacy-assessment-misalignment|policy-to-practice]]).
 
 ## Connected Concepts
 
@@ -7257,6 +7282,14 @@ Multilingual AI must go beyond translation to reflect [[culturally-relevant-peda
 
 Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in physics), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity]].
 
+## Implications for instructors in multilingual contexts
+
+- **Extend AI to learners' own languages, not just English.** Fine-tune or configure models for low-resource and non-dominant languages ([[multilingual-adaptive-learning-nigeria-2026|Nigerian Pidgin platform]]) rather than forcing English-only tools; pair AI with [[rag|RAG]] and local corpora where possible.
+- **Guard assessment against language bias.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native speakers — use language-aware or human-moderated evaluation to protect [[assessment-validity]] and [[equity-in-ai-education|fairness]].
+- **Reflect culture and context, not just translation.** Multilingual AI must go beyond translation to [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generate content that is linguistically and contextually appropriate ([[llm-cultural-relevance-k12|K-12 cultural relevance]]).
+- **Pair AI with multilingual support structures.** Use voice-first and oral modes ([[kutti-ai-voice-first-learning-companion|voice-first companions]]) where text-based AI fails, and support [[self-regulated-learning|self-regulation]] in bilingual contexts ([[bilingual-llm-lecture-companion-srl-2026|bilingual lecture companion]]).
+- **Watch the digital divide.** Monolingual bias in AI deepens the [[digital-divide]] and undermines access across the [[global-south]] — plan for equitable infrastructure and access alongside tool choice.
+
 ## Connected Concepts
 
 - [[language-learning]]
@@ -7463,17 +7496,6 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Data privacy and trust.** Online platforms collect rich learner data; AI systems raise transparency and privacy concerns ([[privacy]]), especially for adults balancing work and study.
 - **Organisational readiness.** The demise of KhanMigo — learners not actually engaging with the chatbot, with limited evidence of gains — cautions that technical capability must be matched with [[governance]] and organizational readiness.
 
-## Tips and strategies for online instructors and instructional designers
-
-- **Guardrail the AI, don't just supply it.** Use hint-not-answer [[scaffolding]] that keeps learner cognitive work in the loop, rather than answer-generating chatbots. The guardrailed-tutor RCT shows this eliminates the exam penalty that unguarded access causes.
-- **Design AI-resistant and proctored/unassisted [[assessment|assessments]].** Because online grading often can't distinguish assisted from independent work, include closed-book, proctored, or process-revealing assessments to surface — and discourage — misuse (see [[ai-misuse-learning-harm|AI misuse and learning harm]]).
-- **Teach AI literacy explicitly.** Help students recognize reliance patterns, calibrate trust, and understand the cost of bypassing their own cognitive work ([[ai-literacy]]). Training that builds [[self-regulated-learning|self-regulation]] and [[metacognition]] directly counters offloading.
-- **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like AIDA) outperform generic external chatbots, and increase acceptance.
-- **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
-- **Calibrate AI facilitation toward human caution.** When using AI to moderate or facilitate online discussions, prefer settings that intervene sparingly; humans are the better model for when to step in.
-- **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
-- **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability (AI-ALOE guidelines).
-
 ## Recommended pedagogical strategies for online teaching and learning
 
 - **Active and interactive learning.** Prefer strategies that keep students doing and thinking rather than passively receiving — [[active-learning]], interactive exercises, and [[socratic-method|Socratic]] dialogue. AI that prompts reasoning (rather than supplying answers) preserves the productive struggle and [[desirable-difficulties|desirable difficulties]] that build durable learning.
@@ -7484,6 +7506,17 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] (companion AI, synchronous check-ins, peer interaction), since online isolation is a key barrier to [[student-engagement|engagement]] and belonging.
 - **Blended design thinking.** For hybrid formats, apply [[instructional-design]] principles to decide what is best done synchronously vs. asynchronously and online vs. in person, and how AI supports each.
 - **Human-in-the-loop governance.** Keep educators and [[teacher-role|instructors]] in the loop over AI tools, grounded in [[tpack|pedagogical content knowledge]], so pedagogical intent — not the tool's default — drives design.
+
+## Implications for online instructors and instructional designers
+
+- **Guardrail the AI, don't just supply it.** Use hint-not-answer [[scaffolding]] that keeps learner cognitive work in the loop; the guardrailed-tutor RCT shows this eliminates the exam penalty that unguarded access causes.
+- **Design AI-resistant and proctored/unassisted assessments.** Because online grading often can't distinguish assisted from independent work, include closed-book, proctored, or process-revealing assessments to surface and discourage misuse ([[ai-misuse-learning-harm|AI misuse and learning harm]]).
+- **Teach AI literacy explicitly.** Help students recognize reliance patterns and calibrate trust ([[ai-literacy]]); build [[self-regulated-learning|self-regulation]] and [[metacognition]] to counter offloading.
+- **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) outperform generic external chatbots and increase acceptance.
+- **Calibrate AI facilitation toward human caution.** When using AI to moderate discussions, prefer settings that intervene sparingly ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
+- **Design for adult life constraints.** For adult and distance learners, prioritize mobile access, offline capability, and asynchronous availability ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
+- **Co-design with students and staff, and build governance.** Participatory development, senior sponsorship, cross-unit collaboration, and robust [[governance]] are enabling factors for responsible GenAI adoption.
+- **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
 
 ## Connected Concepts
 
@@ -9759,6 +9792,15 @@ Special education is a domain where AI's capacity for personalization and adapta
 **Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[instructional-design]] and [[universal-design-for-learning]].
 
 **Critical perspectives** examine how AI can marginalize disabled learners. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that AI systems actively marginalize disability-centered knowledge due to Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+
+## Implications for special-education instructors
+
+- **Co-design AI with the target learners and community.** [[llm-question-generation-deaf-hard-of-hearing-2026|Question generation for Deaf/Hard-of-Hearing learners]] shows the value of iteratively refining AI with the community to bridge the gap between text-based prompts and sign-based first languages — involve learners and their communities in design rather than assuming AI fits them.
+- **Match AI to specific disability profiles, not generic accessibility.** [[special-r1-rl-special-education|Special-R1]] models cognitive and communicative diversity across disability profiles; [[dyslexlens-dyslexic-learners-ai|DysLexLens]] documents both the literacy value and the persistent accessibility barriers dyslexic learners face — choose tools aligned to each learner's profile and be alert to unmet barriers.
+- **Structure collaboration for neurodivergent learners.** [[neurodivergent-computing-students|Neurodivergent computing students]] need structured assignments, small consistent teams, and explicit roles — apply these design requirements to any AI-mediated collaborative activity.
+- **Use AI to close (not widen) performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes, not where it merely automates.
+- **Center disability-led embodied design.** [[embodied-string-learning-blindness-low-vision-musicians|Blind/low-vision musicians]] research shows non-visual, disability-led strategies outperform default visual interfaces — build and adapt AI with disabled learners' expertise.
+- **Guard against epistemic marginalization.** [[genai-minoritized-knowledges-disability|Critical perspectives]] warn that Western-centric training data can marginalize disability-centered knowledge — audit AI content and tools for epistemic justice alongside [[equity-in-ai-education]].
 
 ## Connected Concepts
 
