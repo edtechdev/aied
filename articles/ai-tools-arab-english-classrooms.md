@@ -1,7 +1,7 @@
 ---
 title: "AI tools in Arab University English classrooms: Looking back and forward"
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [language-learning, higher-ed, writing-education, ai-literacy, cognitive-offloading, teacher-role, generative-ai, scaffolding]
 
@@ -24,7 +24,8 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 - [[cognitive-offloading]]
 - [[teacher-role]]
 - [[scaffolding]]
-- [[generative-ai]]
+- [[generative-ai]]- [[english-education]]
+
 ## Connected Articles
 
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)

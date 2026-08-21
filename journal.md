@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-21 | **Total entries:** 902
+**Last updated:** 2026-08-21 | **Total entries:** 903
 
 ## 2026-08-21
 
@@ -11,6 +11,10 @@
 - ◐ [[educasim-cs1-instructional-practice]] — raw/papers/2603.11444.md
   EducaSim: Interactive Simulacra for CS1 Instructional Practice
   #simulating-students #teacher-education #experiential-learning #agentic-ai #pedagogical-agent #cs-education #role-play #online-teaching-and-learning
+
+- ● [[english-education]] — 
+  English Education (EAP / EFL / ESL)
+  #english-education #language-learning #writing-education #higher-ed #k-12 #generative-ai #ai-feedback-quality #automated-assessment #equity-in-ai-education #academic-integrity
 
 - ◐ [[learnlm-improving-gemini-learning]] — raw/papers/2412.16429.md
   LearnLM: Improving Gemini for Learning

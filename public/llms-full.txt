@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 150 concepts and 787 articles.
+> Complete text of 151 concepts and 787 articles.
 
 # Concepts
 
@@ -835,7 +835,7 @@ The wiki's concept coverage is anchored by several **umbrella pages** that group
 
 - **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more). This includes the distinct pedagogical context of [[online-teaching-and-learning|online teaching and learning]] — where the digital medium shapes which strategies (and AI risks) are viable.
 - **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
-- **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal|multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED.
+- **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED.
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
 - **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the feedback loop, [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]). Feedback sits at the intersection of assessment and learning — without it, assessment measures performance but does not improve it.
 - **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, [[teacher-role|teachers]], [[instructional-design|instructional designers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]].
@@ -857,28 +857,28 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the wiki's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[storytelling-in-education|storytelling]], and [[creativity|creativity]].
-- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[self-directed-learning|self-directed learning]], [[self-regulated-learning|self-regulated learning]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], [[agency|learner agency]], [[icap-framework|ICAP cognitive engagement]], and [[instructional-design|instructional design]].
+- **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the wiki's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[sociocultural-learning|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition]], [[constructivist|constructivism]], [[behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[storytelling-in-education|storytelling]], and [[creativity]].
+- **Learning theories and processes:** [[motivation]], [[self-efficacy]], [[help-seeking]], [[student-engagement|student engagement]], [[self-directed-learning|self-directed learning]], [[self-regulated-learning|self-regulated learning]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], [[agency|learner agency]], [[icap-framework|ICAP cognitive engagement]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[educational-robotics|social robots]], [[educational-robotics|robots in education]], [[educational-robotics|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
-- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[engineering-education|engineering]], [[business-education|business, economics, and management]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], [[multilingual-learning|multilingual learning]], [[social-emotional-learning|social-emotional learning]], and [[adult-learning|adult learning]].
+- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[engineering-education|engineering]], [[business-education|business, economics, and management]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity]], [[multilingual-learning|multilingual learning]], [[social-emotional-learning|social-emotional learning]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
 
 AI transforms both how we assess learners and how we evaluate AI systems themselves:
 
-- **Assessment:** [[assessment|assessment]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[authentic-assessment|authentic assessment]], [[eportfolio|e-portfolio]], [[feedback|feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]], and [[academic-integrity|academic integrity]].
-- **Feedback as a learning mechanism:** a major strand of AIED treats [[feedback|feedback]] not merely as an assessment by-product but as the central engine of learning. AI reshapes this mechanism in three ways: it generates feedback at unprecedented volume and immediacy ([[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]]); it demands new learner capabilities to judge and act on that feedback ([[feedback-literacy|feedback literacy]]); and it increasingly teaches those capabilities rather than just delivering feedback. Research shows well-architected AI feedback can match human feedback, but that its value is gated by the learner's feedback literacy — high literacy converts AI feedback into self-regulated-learning gains, while low literacy yields little or even negative effect. Feedback therefore spans both the provision side (quality, loops) and the uptake side (literacy), and sits alongside [[formative-assessment|formative assessment]], [[peer-review|peer review]], and [[automated-assessment|automated assessment]] as a defining concern of the field.
+- **Assessment:** [[assessment]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[authentic-assessment|authentic assessment]], [[eportfolio|e-portfolio]], [[feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]], and [[academic-integrity|academic integrity]].
+- **Feedback as a learning mechanism:** a major strand of AIED treats [[feedback]] not merely as an assessment by-product but as the central engine of learning. AI reshapes this mechanism in three ways: it generates feedback at unprecedented volume and immediacy ([[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]]); it demands new learner capabilities to judge and act on that feedback ([[feedback-literacy|feedback literacy]]); and it increasingly teaches those capabilities rather than just delivering feedback. Research shows well-architected AI feedback can match human feedback, but that its value is gated by the learner's feedback literacy — high literacy converts AI feedback into self-regulated-learning gains, while low literacy yields little or even negative effect. Feedback therefore spans both the provision side (quality, loops) and the uptake side (literacy), and sits alongside [[formative-assessment|formative assessment]], [[peer-review|peer review]], and [[automated-assessment|automated assessment]] as a defining concern of the field.
 - **Evaluation of AI systems:** [[ai-ed-evaluation|AI ed evaluation]], [[benchmark|benchmarks]], [[research-methods-aied|efficacy studies and research methods]], and [[rct|randomized controlled trials]] establish the evidence base for whether AI tools work. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations]] of this evidence — its generalizability, measurement validity, reproducibility, and how quickly AI findings date.
-- **AI systems and techniques:** the wiki's [[ai-technologies|AI technologies and techniques]] page is the umbrella for the technical layer — [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], [[simulation|simulation]], and [[educational-robotics|robots in education]].
+- **AI systems and techniques:** the wiki's [[ai-technologies|AI technologies and techniques]] page is the umbrella for the technical layer — [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], [[simulation]], and [[educational-robotics|robots in education]].
 
 ## People: learners, teachers, and institutions
 
 AI in education changes the roles of every stakeholder. The wiki's [[stakeholders|people and audiences in AI education]] page is the umbrella covering all of them:
 
-- **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
+- **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking]], and [[well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
-- **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
-- **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
+- **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
+- **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
 
 ## Emergent and cross-cutting themes
 
@@ -935,6 +935,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[medical-education]]
 - [[humanities-education]]
 - [[teacher-education]]
+- [[english-education]]
 - [[discipline-specific-aied]]
 - [[problem-based-learning]]
 - [[self-directed-learning]]
@@ -3411,6 +3412,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[cs-education]]** — AI for code generation, debugging, and novice programming support.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
+- **[[english-education]]** — English for Academic Purposes (EAP) and English language teaching (EFL/ESL/L2): academic-English register, genre-based writing, and English-specific feedback and assessment — distinct from general language learning and general writing.
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
 - **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
@@ -3441,13 +3443,14 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 - **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
 - **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
 - **Language learning** — communicative competence, interaction, and corrective feedback. AI research uses conversational agents ([[ai-interlocutor-l2-spoken-dialogue|L2 interlocutors]]), pronunciation feedback, and culturally responsive design.
+- **English education (EAP/EFL/ESL)** — English as target language and academic register. AI research spans ethical EAP integration ([[alharbi-ethical-genai-eap-2026|Alharbi et al.]]), GenAI EAP writing revision ([[feedback-literacy-scripts-eap-writing|feedback-literacy scripts]]), EAP reading-material adaptation ([[genai-differentiated-eap-reading-materials-2026|differentiated EAP materials]]), ESL tutoring ([[tact-pedagogically-adaptive-esl-tutoring|TACT]]), and English-specific assessment ([[self-referential-l2-writing-llm-assessment|self-referential L2 writing evaluation]], [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]]).
 - **Health professions** — competency-based, clinically embedded, high-stakes. AI research emphasizes [[simulation]], reinforcement learning ([[residencyrl-clinical-rl-training-2026|ResidencyRL]]), and foundational learning principles ([[fowlin-operationalizing-learning-principles-ai|operationalizing learning principles]]).
 - **Teacher education** — a discipline whose AI research centers on preparing teachers to integrate AI: intelligent-TPACK frameworks ([[designing-ai-professional-development-itpack-2026|i-TPACK PD]]), teacher AI literacy ([[science-educators-ai-literacy-postqualification-2026|science educators]]), pre-service readiness ([[conceptualizing-preservice-teachers-ai-readiness-2026|intelligent-TPACK readiness]]), and in-service trust and ethics ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|trust and ethics]]).
 - **Humanities & social sciences** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness.
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -3471,6 +3474,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[cs-education]]
 - [[writing-education]]
 - [[language-learning]]
+- [[english-education]]
 - [[stem-education]]
 - [[teacher-education]]
 - [[medical-education]]
@@ -4002,6 +4006,95 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
+
+---
+
+## [English Education (EAP / EFL / ESL)](https://edtechdev.github.io/aied/concepts/english-education/)
+
+> **English education** — the application of AI to the teaching and learning of English, especially **English for Academic Purposes (EAP)** and English language teaching more broadly (EFL/ESL/L2). This is a discipline-specific AIEd strand distinct from both general [[language-learning]] (second/foreign-language acquisition of any language) and [[writing-education]] (writing as a general skill): it centers on English as a target language and academic register, with its own signature pedagogies — communicative competence, genre-based academic writing, corrective feedback, and reading/writing in an academic register — that shape how AI is designed, used, and evaluated.
+
+English is one of the most AI-affected discipline strands because [[llm|LLMs]] are English-dominant: they are strongest at generating, revising, and evaluating English text, which is exactly what EAP and EFL/ESL instruction centers on. That English-advantage creates a distinctive double edge — powerful [[scaffolding]] for academic English on one hand, and an entrenched bias toward standard academic English that can marginalize multilingual learners on the other.
+
+## Scope and focus
+
+This concept organizes AI research in **English education** — the subset of language learning where the target language is English (including EFL/ESL/L2 contexts) and the academic-English register (EAP). Core themes:
+
+- **Academic English (EAP):** AI support for the genre-based, discipline-specific English used in higher-education writing, reading, and feedback — distinct from general writing instruction.
+- **English language teaching (EFL/ESL/L2):** [[intelligent-tutoring|AI tutors]], interlocutors, and [[feedback]] tools for learners acquiring English.
+- **English-specific [[assessment]]:** automated evaluation and feedback on English writing and speaking, including EAP writing revision and L2 writing assessment.
+- **Linguistic equity:** the tension between AI's English dominance and the needs of multilingual and World Englishes writers.
+
+## How English education differs from Language Learning
+
+[[language-learning]] is the broader umbrella for acquiring any second/foreign language — spoken, written, and literate — via AI interlocutors, pronunciation tools, and conversational practice. English education is the **English-specific** case, and within it, EAP is a **register-specific** case:
+
+| Dimension | [[language-learning]] | **English education (this page)** |
+|-----------|----------------------|-----------------------------------|
+| Target language | Any L2 (French, Spanish, Japanese, …) | English specifically |
+| Focus | L2 acquisition generally: spoken dialogue, pronunciation, literacy | English as a target + the academic-English register |
+| Signature contexts | Conversation, pronunciation, general fluency | **EAP**: academic writing, reading, feedback, genre |
+| Representative AI | L2 interlocutors, pronunciation feedback, robot-assisted L2 | EAP writing tools, EFL peer-feedback, English academic writing assessment |
+
+The two overlap heavily (most English learning is also L2 acquisition), but English education foregrounds English as the target and the academic register — e.g., [[alharbi-ethical-genai-eap-2026|ethical GenAI integration in EAP]], [[feedback-literacy-scripts-eap-writing|GenAI EAP writing revision]], and [[genai-differentiated-eap-reading-materials-2026|EAP reading-material adaptation]] are EAP-specific in ways generic language-learning research is not.
+
+## How English education differs from Writing Education
+
+[[writing-education]] concerns writing as a general cognitive and rhetorical skill — across all languages and disciplines, from composition to academic integrity. English education focuses specifically on **English** and, within EAP, on the **academic register**:
+
+| Dimension | [[writing-education]] | **English education (this page)** |
+|-----------|----------------------|-----------------------------------|
+| Scope | Writing in general (any language, any genre) | English as target language + academic English register |
+| Signature concern | Composition, revision, [[agency]], authorship | EAP genre, academic register, L2/EFL writing, [[feedback-literacy|feedback literacy]] in English |
+| Assessment angle | [[automated-essay-scoring|Automated essay scoring]], writing feedback broadly | English-specific assessment (EAP writing, EFL [[peer-review|peer feedback]], L2 writing evaluation) |
+| Equity angle | Bias in writing feedback | Bias + the English-dominance/multilingual tension (World Englishes) |
+
+Many writing-education articles are English-first (e.g., [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]), but they are framed as general writing research; English education re-centers the **English-as-target** and **academic-English** dimensions that generic writing and generic language-learning pages underemphasize.
+
+## Articles in this cluster
+
+- **EAP-specific:** [[alharbi-ethical-genai-eap-2026|Ethical GenAI integration in EAP]], [[feedback-literacy-scripts-eap-writing|GenAI EAP writing revision]], [[genai-differentiated-eap-reading-materials-2026|EAP reading-material adaptation]].
+- **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|TACT ESL tutoring]], [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT EFL e-portfolio speaking]], [[irwin-muller-efl-peer-feedback-literacy|EFL peer-feedback literacy]], [[ai-vs-human-assessment-efl-tpck-2026|AI vs human EFL assessment]], [[acceptance-ai-english-tools-2026|acceptance of AI English tools]], [[ai-tools-arab-english-classrooms|AI in Arab English classrooms]].
+- **L2 English writing/assessment:** [[self-referential-l2-writing-llm-assessment|self-referential L2 writing assessment]], [[ai-interlocutor-l2-spoken-dialogue|L2 spoken-dialogue interlocutors]], [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|emotional AI and L2 pre-service teachers]].
+- **Linguistic equity / World Englishes:** [[genai-linguistic-diversity-academic-writing|GenAI and linguistic diversity in academic writing]], [[governing-unseen-ai-literacy-language-teachers-2026|AI literacy among language teachers]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages in AI infrastructure]].
+
+## Why it matters
+
+AI's English dominance is a defining feature of this strand. Because models are strongest in English and in standard academic English specifically, English education both benefits disproportionately (powerful EAP scaffolds) and carries distinctive risks (monolingual bias, discrimination against World Englishes and multilingual writers). Research here connects to [[equity-in-ai-education|equity]], [[bias-mitigation|bias mitigation]], [[automated-assessment|automated assessment]], [[ai-feedback-quality|AI feedback quality]], and [[academic-integrity|academic integrity]].
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[writing-education]]
+- [[multilingual-learning]]
+- [[higher-ed]]
+- [[k-12]]
+- [[generative-ai]]
+- [[llm]]
+- [[automated-assessment]]
+- [[ai-feedback-quality]]
+- [[feedback-literacy]]
+- [[equity-in-ai-education]]
+- [[bias-mitigation]]
+- [[academic-integrity]]
+- [[discipline-specific-aied]]
+
+## Connected Articles
+
+- [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in EAP within Higher Education
+- [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
+- [[genai-differentiated-eap-reading-materials-2026]] — From Unified to Differentiated Materials: GenAI-Supported Adaptation of EAP Reading Materials
+- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
+- [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model
+- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
+- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
+- [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
+- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
+- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Not a Universal Benefit: Emotional AI and L2 Pre-Service Teachers
+- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
+- [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 
 ---
 
@@ -6120,7 +6213,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 > **Language Learning** — the study of how AI supports second language (L2) acquisition, writing development, and linguistic diversity in educational settings. AI in education research in this wiki spans AI interlocutors for spoken dialogue, automated writing evaluation for L2 learners, reading support, and concerns about language bias in AI scoring systems.
 
-Language learning has emerged as a significant AI in education domain because language is inherently interactive — making it well-suited to conversational AI — and because AI's linguistic capabilities raise both opportunities ([[personalized-learning|personalized language practice]] at scale) and risks (systematic bias against non-native language patterns). The articles in this wiki explore both sides of this equation.
+Language learning has emerged as a significant AI in education domain because language is inherently interactive — making it well-suited to conversational AI — and because AI's linguistic capabilities raise both opportunities ([[personalized-learning|personalized language practice]] at scale) and risks (systematic bias against non-native language patterns). The articles in this wiki explore both sides of this equation. Where the target language is **English specifically** — especially [[english-education|English for Academic Purposes (EAP)]] and EFL/ESL/L2 English teaching — see the dedicated [[english-education]] concept page, which distinguishes English-specific research from general L2 acquisition and general writing.
 
 **AI as language tutor and interlocutor** is the most developed theme. **[[ai-interlocutor-l2-spoken-dialogue|What Changes When the Interlocutor Is an AI?]]** examines interactional fluency and linguistic uptake when L2 learners converse with AI versus humans. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** provides pedagogically adaptive ESL tutoring. **[[llm-children-reading-story-generation]]** explores AI-generated stories for children's reading development. These connect to [[intelligent-tutoring]] and [[generative-ai]].
 
@@ -6144,6 +6237,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[higher-ed]]
 - [[k-12]]
 - [[discipline-specific-aied]]
+- [[english-education]]
 
 ## Connected Articles
 - [[alharbi-ethical-genai-eap-2026]]
@@ -10780,7 +10874,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 
 > **AI in writing education** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
 
-Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the [[cognitive-offloading|cognitive work]] — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing.
+Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the [[cognitive-offloading|cognitive work]] — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing. Where the focus is **English specifically** — [[english-education|English for Academic Purposes (EAP)]] and English language teaching (EFL/ESL/L2) — see the dedicated [[english-education]] concept page, which distinguishes English-specific and academic-register research from general writing and general language learning.
 
 ### How AI in writing education appears in the research
 
@@ -10825,6 +10919,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[feedback-literacy]]
 - [[feedback]]
 - [[discipline-specific-aied]]
+- [[english-education]]
 
 ## Connected Articles
 - [[benali-genai-academic-writing-2026]]
@@ -11287,6 +11382,7 @@ The cross-sectional design precludes causal inference, and all constructs rely o
 - [[higher-ed]]
 - [[personalized-learning]]
 - [[teacher-role]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -14524,6 +14620,7 @@ Scheinberg et al. (2026) analyze 78 university learners of German across four si
 - [[personalized-learning]]
 - [[llm]]
 - [[human-ai-collaboration]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -16184,7 +16281,8 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 - [[cognitive-offloading]]
 - [[teacher-role]]
 - [[scaffolding]]
-- [[generative-ai]]
+- [[generative-ai]]- [[english-education]]
+
 ## Connected Articles
 
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
@@ -16856,6 +16954,7 @@ Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S.,
 - [[ai-feedback-quality]]
 - [[human-ai-collaboration]]
 - [[assessment]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -17241,6 +17340,7 @@ The study positions [[teacher-role|educators]] as ethical decision-makers rather
 - [[academic-integrity]]
 - [[teacher-role]]
 - [[faculty-development]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -23013,7 +23113,7 @@ Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Respon
 ## Practical Implications
 
 - **Use symbolic intermediate representations to make evaluation cheap and auditable.** For developers of math/AI education tools, translating generated figures into a structured IR where deterministic checks run is both more reliable and far cheaper than asking an LLM to judge the rendered image — and the checks explain exactly why a diagram passes or fails.
-- **Adopt an IR-based evaluation for accessibility and scale.** The approach lets lightweight models do the work, lowering the cost floor enough to deploy automatic diagram feedback in live, real-time learning tools.
+- **Adopt an IR-based evaluation for accessibility and scale.** The approach lets lightweight models do the work, lowering the cost floor enough to deploy automatic diagram [[feedback]] in live, real-time learning tools.
 - **Pair automatic evaluation with rubric-based human calibration.** The pipeline mirrors a clear rubric (mathematical + spatial correctness) and is calibrated against human raters, so automatic checks remain aligned with pedagogical intent.
 
 ## Connected Concepts
@@ -23033,7 +23133,7 @@ Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Respon
 
 ## Citation
 
-Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *DiagramIR: An automatic pipeline for educational math diagram evaluation* (arXiv:2511.08283). NeurIPS 2025 Math-AI Workshop. https://arxiv.org/abs/2511.08283
+Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *[DiagramIR: An automatic pipeline for educational math diagram evaluation](https://arxiv.org/abs/2511.08283)* (arXiv:2511.08283). NeurIPS 2025 Math-AI Workshop.
 
 ---
 
@@ -23611,7 +23711,7 @@ Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu,
 
 ## Citation
 
-Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *EducaSim: Interactive simulacra for CS1 instructional practice* (arXiv:2603.11444). arXiv. https://arxiv.org/abs/2603.11444
+Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *[EducaSim: Interactive simulacra for CS1 instructional practice](https://arxiv.org/abs/2603.11444)* (arXiv:2603.11444). arXiv.
 
 ---
 
@@ -25577,6 +25677,7 @@ Strengths: a clear mechanism-oriented design, design-based tests (permutation, l
 - [[scaffolding]]
 - [[metacognition]]
 - [[feedback-literacy]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -26747,6 +26848,7 @@ The learner-outcome and process indicators were collected in the same session, m
 - [[instructional-design]]
 - [[teacher-role]]
 - [[curriculum-design]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -27106,6 +27208,7 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 - [[teacher-ai-competency]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -28850,6 +28953,7 @@ Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive
 - [[faculty-development]]
 - [[governance]]
 - [[higher-ed]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -31161,6 +31265,7 @@ Irwin & Muller (2026) offer a conceptual, theory-informed design framework for p
 - [[language-learning]]
 - [[ai-literacy]]
 - [[feedback-literacy]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -32681,7 +32786,7 @@ Szekely, S., Gal-Ezer, J., & Harel, D. (2026). [*Rethinking Higher Education: Fr
 
 ## Citation
 
-LearnLM Team, Google. (2025). *LearnLM: Improving Gemini for learning* (arXiv:2412.16429). arXiv. https://arxiv.org/abs/2412.16429
+LearnLM Team, Google. (2025). *[LearnLM: Improving Gemini for learning](https://arxiv.org/abs/2412.16429)* (arXiv:2412.16429). arXiv.
 
 ---
 
@@ -35318,7 +35423,7 @@ Oreopoulos, P., Liut, M., Sungu, A., & Low, N. (2026). *[Making AI tutoring prod
 
 ## Citation
 
-Tan, M., Phalen, L., & Demszky, D. (2026). *Marked pedagogies: Examining linguistic biases in personalized automated writing feedback* (arXiv:2603.12471). LAK 2026. https://doi.org/10.1145/3785022.3785113
+Tan, M., Phalen, L., & Demszky, D. (2026). *[Marked pedagogies: Examining linguistic biases in personalized automated writing feedback](https://doi.org/10.1145/3785022.3785113)* (arXiv:2603.12471). LAK 2026.
 
 ---
 
@@ -37894,6 +37999,7 @@ This study challenges the assumption that emotional design in educational AI pro
 ## Connected Concepts
 - [[affective-computing]]
 - [[agentic-ai]]
+- [[english-education]]
 
 ## Connected Articles
 - [[ai-in-the-wild-college]]
@@ -42072,7 +42178,8 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[automated-question-generation]]
 - [[human-in-the-loop-ai]]
 - [[llm]]
-- [[educational-measurement]]
+- [[educational-measurement]]- [[english-education]]
+
 ## Connected Articles
 - [[ai-learning-companions-framework]]
 - [[ground-truth-reliability-aied]]
@@ -42243,7 +42350,7 @@ Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"
 
 ## Practical Implications
 
-- **Prefer principled attribution methods over LLM free-text rationales for accountability.** For high-stakes automated assessment, SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
+- **Prefer principled attribution methods over LLM free-text rationales for accountability.** For high-stakes [[automated-assessment|automated assessment]], SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
 - **Use deletion-based faithfulness tests to validate explanations.** Before trusting an explanation method, measure how removing its top-ranked units changes predictions — and check whether explanations generalize across model families.
 - **Pair transparent scoring with human interpretability.** Moving "from what (the score) to why (the reasoning)" is essential for generating actionable teacher feedback and building trust; a framework that surfaces the specific dialogue sentences behind a quality rating supports that.
 
@@ -42266,7 +42373,7 @@ Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"
 
 ## Citation
 
-Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment* (arXiv:2606.05180). Findings of ACL 2026. https://arxiv.org/abs/2606.05180
+Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *[From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment](https://arxiv.org/abs/2606.05180)* (arXiv:2606.05180). Findings of ACL 2026.
 
 ---
 
@@ -43563,6 +43670,7 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 - [[higher-ed]]
 - [[privacy]]
 - [[accessible-learning]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -44423,6 +44531,7 @@ Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). [Surf
 - [[generative-ai]]
 - [[metacognition]]
 - [[student-engagement]]
+- [[english-education]]
 
 ## Connected Articles
 
@@ -44660,7 +44769,8 @@ TACT advances the state of [[intelligent-tutoring|AI tutoring]] by grounding LLM
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[pedagogical-safety]]
+- [[pedagogical-safety]]- [[english-education]]
+
 ## Connected Articles
 
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
@@ -45516,7 +45626,7 @@ Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot fo
 
 ## Key Findings
 
-- **Prompt engineering is a stopgap, not a solution.** The authors built PolyPilot, a dynamically prompt-engineered project-based tutor on GPT-4, iterating for months with 70+ engaged users; even with RAG-based examples and refined stage-dependent prompts, the gap between the LLM and a human tutor proved too large to close — e.g., varying the number and placement of questions or avoiding "wall-of-text" responses was inconsistent under prompting.
+- **Prompt engineering is a stopgap, not a solution.** The authors built PolyPilot, a dynamically prompt-engineered project-based tutor on GPT-4, iterating for months with 70+ engaged users; even with [[rag|RAG]]-based examples and refined stage-dependent prompts, the gap between the LLM and a human tutor proved too large to close — e.g., varying the number and placement of questions or avoiding "wall-of-text" responses was inconsistent under prompting.
 - **Authentic learning data is the missing ingredient.** One-on-one tutoring can yield two-sigma [[learning-gains|learning gains]] (Bloom), but high-quality data reflecting how *actual students* learn is scarce due to logistics, privacy protections, and data-quality concerns. Polygence's 100,000 hours span 150+ subjects with PhD-level tutors, 4–6 month longitudinal relationships, multi-modal exchanges, and outcome-oriented projects (80% culminate in a showcaseable artifact).
 - **A fine-tuned student model enables scalable, reproducible multi-turn evaluation.** Training an authentic student model on the same data lets the authors generate synthetic dialogues and evaluate tutor models on proxies for high-quality pedagogy — student talk time, questioning style, dialogue turns, and personalization — a protocol that is fast, scalable, and reproducible versus labor-intensive human assessment.
 - **Fine-tuning on authentic data clearly beats off-the-shelf models.** TeachLM approximately doubles student talk time, improves questioning style, increases dialogue turns by 50%, and shows greater personalization — evidence that post-training on real learner–tutor interactions addresses the friction-minimizing, sycophantic tendencies encoded in general-purpose LLMs.
@@ -45546,7 +45656,7 @@ Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot fo
 
 ## Citation
 
-Perczel, J., Chow, J., & Demszky, D. (2025). *TeachLM: Post-training LLMs for education using authentic learning data* (arXiv:2510.05087). arXiv. https://arxiv.org/abs/2510.05087
+Perczel, J., Chow, J., & Demszky, D. (2025). *[TeachLM: Post-training LLMs for education using authentic learning data](https://arxiv.org/abs/2510.05087)* (arXiv:2510.05087). arXiv.
 
 ---
 
