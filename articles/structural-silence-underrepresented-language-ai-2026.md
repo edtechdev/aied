@@ -1,7 +1,7 @@
 ---
 title: "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-13"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [equity, multilingual-learning, language-learning, digital-divide, global-south, ai-education, inclusive-ai, higher-ed]
 sources: ['raw/papers/2608.12278.md']
@@ -37,6 +37,7 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 - [[higher-ed]]
 - [[privacy]]
 - [[accessible-learning]]
+- [[english-education]]
 
 ## Connected Articles
 

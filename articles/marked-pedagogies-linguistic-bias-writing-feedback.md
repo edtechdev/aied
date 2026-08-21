@@ -1,7 +1,7 @@
 ---
 title: "Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [writing-education, automated-assessment, bias-mitigation, equity-in-ai-education, feedback, personalized-learning, generative-ai, k-12, ai-feedback-quality]
 confidence: high
@@ -44,4 +44,4 @@ sources: [raw/papers/2603.12471.md]
 
 ## Citation
 
-Tan, M., Phalen, L., & Demszky, D. (2026). *Marked pedagogies: Examining linguistic biases in personalized automated writing feedback* (arXiv:2603.12471). LAK 2026. https://doi.org/10.1145/3785022.3785113
+Tan, M., Phalen, L., & Demszky, D. (2026). *[Marked pedagogies: Examining linguistic biases in personalized automated writing feedback](https://doi.org/10.1145/3785022.3785113)* (arXiv:2603.12471). LAK 2026.

@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [generative-ai, writing-education, equity, higher-ed, language-learning]
 sources: ['raw/papers/2607.28505.md']
@@ -36,6 +36,7 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 - [[teacher-ai-competency]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[english-education]]
 
 ## Connected Articles
 

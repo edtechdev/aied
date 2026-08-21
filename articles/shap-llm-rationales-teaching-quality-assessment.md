@@ -1,7 +1,7 @@
 ---
 title: "From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [automated-assessment, educational-nlp, llm, feedback, teacher-role, ai-ed-evaluation, learning-analytics, explainability]
 confidence: high
@@ -20,7 +20,7 @@ sources: [raw/papers/2606.05180.md]
 
 ## Practical Implications
 
-- **Prefer principled attribution methods over LLM free-text rationales for accountability.** For high-stakes automated assessment, SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
+- **Prefer principled attribution methods over LLM free-text rationales for accountability.** For high-stakes [[automated-assessment|automated assessment]], SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
 - **Use deletion-based faithfulness tests to validate explanations.** Before trusting an explanation method, measure how removing its top-ranked units changes predictions — and check whether explanations generalize across model families.
 - **Pair transparent scoring with human interpretability.** Moving "from what (the score) to why (the reasoning)" is essential for generating actionable teacher feedback and building trust; a framework that surfaces the specific dialogue sentences behind a quality rating supports that.
 
@@ -43,4 +43,4 @@ sources: [raw/papers/2606.05180.md]
 
 ## Citation
 
-Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment* (arXiv:2606.05180). Findings of ACL 2026. https://arxiv.org/abs/2606.05180
+Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *[From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment](https://arxiv.org/abs/2606.05180)* (arXiv:2606.05180). Findings of ACL 2026.

@@ -1,7 +1,7 @@
 ---
 title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-09"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [tutoring, tutoring-systems, scaffolding, intelligent-tutoring, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]
 
@@ -57,7 +57,8 @@ TACT advances the state of [[intelligent-tutoring|AI tutoring]] by grounding LLM
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[pedagogical-safety]]
+- [[pedagogical-safety]]- [[english-education]]
+
 ## Connected Articles
 
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
