@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-08-15T10:19:32-04:00"
+updated: "2026-08-21T08:02:47-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm, fairness]
 confidence: high
@@ -21,6 +21,7 @@ The wiki's research documents bias entering at multiple points in the pipeline:
 - **Selection bias in learning analytics:** [[temporal-smoothness-debiased-kt|Debiased knowledge tracing]] addresses selection bias arising from non-random exercise recommendations: training on observed logs with standard empirical risk produces biased mastery estimates that compound errors in adaptive recommendation loops.
 - **Data and annotation bias:** [[data-annotations-pedagogical-hints|data annotations]] and [[ground-truth-reliability-aied|ground-truth reliability]] research examine how the labels and inter-rater reliability underlying AI models carry bias — arguing against treating κ > 0.8 as a binary stamp of approval.
 - **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Generative AI and minoritized knowledges]] documents how training data and model behavior marginalize non-dominant knowledge systems and disability perspectives.
+- **Stereotype-aligned automated feedback (Marked Pedagogies):** [[marked-pedagogies-linguistic-bias-writing-feedback|Tan et al. (2026)]] show four widely used LLMs systematically shift writing feedback in stereotype-aligned ways when feedback is personalized with student attributes — race, ethnicity, ELL designation, learning disability, achievement, or motivation — producing positive feedback bias and feedback withholding bias (overuse of praise, less substantive critique, assumptions of limited ability) for marked students even on identical essays. The "Marked Words" concentration metric offers a concrete method for auditing such bias in automated feedback.
 
 ## Mitigation approaches
 
@@ -92,3 +93,4 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
 - [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback

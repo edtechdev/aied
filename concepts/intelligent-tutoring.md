@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -136,3 +136,5 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
+- [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data

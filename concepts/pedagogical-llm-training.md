@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-18T16:45:00-04:00"
+updated: "2026-08-21T08:02:47-04:00"
 type: concept
 tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 confidence: high
@@ -57,6 +57,16 @@ Jeon et al. (2026) created a benchmark for LLM agents automating [[instructional
 - **25,795 scenarios** from Context Matrix (51 variables × 5 categories × 33 ISD sub-steps)
 - **Multi-judge protocol** across diverse LLM providers to mitigate LLM-as-judge bias
 - High inter-judge reliability achieved
+
+## Approach 3: Pedagogical Instruction Following (LearnLM) and Authentic-Data Post-Training (TeachLM)
+
+Two complementary post-training strategies for embedding pedagogy into foundation models:
+
+- **Pedagogical instruction following (LearnLM).** [[learnlm-improving-gemini-learning|Google's LearnLM]] reframes education-model training as *pedagogical instruction following*: training and evaluation examples carry system-level instructions describing the desired pedagogical behavior, letting developers/teachers specify tutor behavior without committing to any single definition of pedagogy. Mixed directly into Gemini's post-training (SFT + reward-model + RLHF stages) via co-training, LearnLM was preferred by experts over GPT-4o (+31%), Claude 3.5 Sonnet (+11%), and base Gemini 1.5 Pro (+13%) across scenario-guided multi-turn evaluations. Key finding: **RL is substantially more effective than SFT alone** for following nuanced pedagogical instructions in long conversations.
+
+- **Authentic-data post-training (TeachLM).** [[teachlm-post-training-llms-education|TeachLM]] argues that prompt engineering is a stopgap and that the scarce ingredient is *authentic* learner–tutor interaction data. Trained on 100,000 hours of one-on-one Polygence sessions (rigorously anonymized), it builds a fine-tuned **authentic student model** enabling synthetic multi-turn evaluation, and the teacher model doubles student talk time, improves questioning style, and increases dialogue turns by 50%.
+
+**Synthesis:** LearnLM shows that instruction following + RLHF is a viable route when training data is scarce; TeachLM shows that when authentic longitudinal interaction data *is* available, post-training on it directly outperforms both prompting and synthetic-only data. Together they frame the pedagogical-training design space as a choice between scalable instruction-conditioned post-training and data-driven fine-tuning on real tutoring interactions.
 
 ## Synthesis: What Makes Pedagogical Training Work
 
@@ -120,4 +130,5 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[nsmq-riddles-science-math-benchmark]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[tact-pedagogically-adaptive-esl-tutoring]]- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
+- [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data

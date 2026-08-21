@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-20T04:25:00-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high
@@ -93,3 +93,4 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[ai-learning-tools-engineering-education-needs]] — AI learning tools in engineering education
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following

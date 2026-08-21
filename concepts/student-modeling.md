@@ -1,7 +1,7 @@
 ---
 title: Student Modeling
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring]
 confidence: high
@@ -67,3 +67,4 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation

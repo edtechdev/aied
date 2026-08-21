@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-15T18:05:58-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -42,4 +42,5 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-generated-interactive-fiction-education-2026]]
 
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[zerkouk-comprehensive-review-its-2025]]- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality

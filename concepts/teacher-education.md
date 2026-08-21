@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-21T08:02:47-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -33,6 +33,10 @@ In-service professional development supports practicing teachers in integrating 
 
 A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.^[[teachers-ai-knowledge-genai-lesson-planning-2026]] Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.^[[ai-tpack-mathematics-teacher-education-2026]] [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, fairness, accountability, inclusiveness).^[[intelligent-tpack-ethics-teachers-trust-distrust-2026]]
 
+### Simulated instructional practice
+
+Beyond content and beliefs, teacher preparation increasingly uses **simulated classrooms** for hands-on practice that scales. [[educasim-cs1-instructional-practice|EducaSim]] uses generative student agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training in a CS1 course supporting ~20,000 students. Deployed as an optional prep tool across 254 sessions (mean ~16 min), it provides low-cost ($0.05–$0.10/session) role-play practice with structured post-session feedback (talk-time statistics, LLM-identified instructional behaviors) and self-reflection prompts. This complements the [[simulating-students]] paradigm: simulated learners serve not just evaluation but experiential, high-frequency teacher preparation, especially for massive online courses where live coaching cannot scale.
+
 ## Connected Concepts
 
 - [[teacher-role]]
@@ -63,3 +67,4 @@ A key finding across teacher-education research is the gap between what teachers
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
