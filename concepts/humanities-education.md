@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16T09:41:18-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [humanities, social-science, history, philosophy, critical-thinking, ai-literacy, higher-ed, interpretation]
 confidence: high
@@ -21,6 +21,13 @@ SSH education is a distinct subject area in the wiki, complementary to [[stem-ed
 ### Why it matters
 
 SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The wiki treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
+
+## Implications for humanities and social-science instructors
+
+- **Treat AI as an epistemic mediator, not a content tutor.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] shows AI reconfigures meaning-making, authorship, and agency in SSH — design pedagogy around the three trajectories (AI-dependent, AI-enhanced, AI-critical) and aim for the AI-critical end.
+- **Protect interpretive depth and authorship.** Because the humanities prize judgment and original authorship, guard against AI flattening analysis; make critical evaluation of AI output a learning goal ([[critical-thinking]], [[ai-literacy]]).
+- **Use AI deliberately in source work.** [[paternalistic-filter-llm-history-education|History research]] shows AI can shape reasoning and source interpretation — teach students to interrogate AI-mediated historical claims and the filters it applies.
+- **Consider student-facing impacts.** [[genai-impact-chinese-students-hss|Student experience studies]] document how GenAI affects SSH learners; adapt support and integrity framing to real usage rather than assumptions.
 
 ## Connected Concepts
 

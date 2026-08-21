@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 
@@ -27,6 +27,15 @@ Mathematics education has become a primary domain for AI in education research b
 ### Connections to related concepts
 
 Math education sits within the broader [[stem-education]] domain with distinctive connections to [[intelligent-tutoring]] and [[intelligent-tutoring|AI Tutoring]] through the strong tradition of cognitive tutors and ITS research in mathematics, to [[scaffolding]] through the productive struggle and hint-use literature, to [[affective-computing]] through math anxiety and emotion-aware tutoring, to [[knowledge-tracing]] and [[assessment-validity]] through cognitive diagnosis and assessment research, and to [[teacher-role]] through teacher-AI collaboration in math instruction. The [[k-12]] connection is particularly strong — 8 of 10 math articles involve K-12 contexts — while [[higher-ed]] connections emerge in teacher preparation and advanced math practice.
+
+## Implications for math instructors
+
+- **Treat AI tutoring as a help-seeking lever, not a capability fix.** [[lak2026-hint-button-unproductive-use|Hint-use research]] shows premature hint requests and superficial hint reading predict lower gains — so the design of *when and how* students seek AI help matters more than raw tutor capability. Encourage students to attempt before asking, and surface help at the moment of need rather than on demand.
+- **Protect productive struggle.** [[zhang-tutormoments-2026|TutorMoments]] finds models default to over-helpfulness, rarely pushing for rigor; configure AI support to scaffold rather than solve, and monitor for answer-replacement that erodes reasoning.
+- **Do not treat AI diagnostic output as ground truth.** [[llm-cognitive-diagnosis-handwritten-math|MathCog]] shows LLMs underperform at diagnosing math thinking (F1 < 0.5) with over-attribution and hallucinated evidence; use AI diagnosis as a suggestion to verify against the student's actual work.
+- **Beware surface-format fragility in AI scoring.** [[representation-robustness-llm-math-problem-solving|Representation sensitivity]] means equivalent problems can flip AI answers — a validity risk for AI-based math assessment; prefer human review for high-stakes scoring.
+- **Use AI to lower the bar for personalized practice.** [[ai-powered-personalized-learning-elementary-fractions-2026|Adaptive platforms]] improved fraction comprehension for students with math learning difficulties; deploy AI-adaptive tools selectively for learners who need differentiated support.
+- **Keep the teacher in control of AI-generated instructional materials.** [[teacher-control-ai-generation-math-visuals|Teacher control of AI visuals]] supports a framework that balances AI efficiency with pedagogical correctness.
 
 ## Connected Concepts
 
