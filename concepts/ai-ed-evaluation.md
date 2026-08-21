@@ -103,3 +103,4 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction

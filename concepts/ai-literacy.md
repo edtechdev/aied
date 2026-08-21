@@ -206,3 +206,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning

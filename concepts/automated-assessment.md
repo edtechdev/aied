@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T10:44:03-04:00"
+updated: "2026-08-21T19:04:00-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -16,6 +16,7 @@ confidence: high
 - **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
 - **AI-generated assessments at scale:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that iteratively refined, course-tailored AI-generated exams achieve [[item-response-theory|IRT]]-measured quality on par with expert-written standardized-exam questions (difficulty β̄ = −0.45 vs. 0.35; discrimination ᾱ = 1.3 vs. 1.2) across 91 college classes — evidence that automated assessment can move from scoring to full item generation.
 - **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
+- **Neurophysiological assessment:** [[eeg-familiarity-automated-assessment-2026|Nanayakkara & Halloluwa (2026)]] benchmark ML/DL models for EEG-based familiarity prediction (faces vs. math equations) as a step toward direct, objective measures of knowledge acquisition. Crucially, they show standard stratified cross-validation inflates performance (up to 0.9853 F1) via temporal leakage, while trial-independent Group K-Fold validation drops the peak to 0.6038 F1 — a cautionary methodological lesson for all automated-assessment benchmarking.
 
 ### Automated grading
 
@@ -111,3 +112,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction

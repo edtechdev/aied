@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-15T10:24:06-04:00"
+updated: "2026-08-21T19:04:00-04:00"
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
@@ -24,13 +24,17 @@ Duan et al. (2026) built a [[rag|RAG]]-based [[agentic-ai|agentic]] system with 
 
 **Human-Required Dimensions (high human burden):**
 - Pedagogically meaningful distractor design
-- High-quality explanatory [[feedback|feedback]]
+- High-quality explanatory [[feedback]]
 
 Strategic insight: Human effort should be concentrated where instructional judgment is irreplaceable; computational verification can be fully automated.
 
 ## MAIC: Human-in-the-Loop Script Generation
 
 Yu et al. (2024) deployed a multi-agent classroom (Teacher Agent, TA Agent, classmate archetypes) at Tsinghua University with >500 students and >100,000 learning records. Human instructors participate in script generation and oversight, ensuring that mass-scale AI augmentation does not displace pedagogical expertise.
+
+## PedaCo: Dual Gatekeeping for AI Video Generation
+
+Kim, Baek, and Kwak (2026) extend HITL to AI-generated instructional video via **PedaCo** (Pedagogical Co-creation), a pipeline with two complementary gatekeeping layers that instantiate *principled resistance* grounded in Mayer's Cognitive Theory of Multimedia Learning (CTML). The **first layer** places the human at the script stage: an LLM drafts a script, an AI reviewer flags potential CTML violations (e.g., "Scene 3 introduces technical terms without prior explanation"), and the educator decides to accept, revise, or regenerate. The **second layer** runs automated metrics post-synthesis on coherence, redundancy, temporal contiguity, modality, and image quality, which the educator reviews. In a within-subject study (23 educators), the review-based approach improved every CTML principle (mean rating 3.07→3.86, p<.01), with educators rating production efficiency at 4.26/5 — friction perceived as productive, not burdensome. The design principle echoes the wiki's HITL synthesis: humans and algorithms catch *different* kinds of problems, so the most effective systems automate where computational verification is precise (temporal synchronization) and preserve human judgment where pedagogical nuance is irreplaceable (tone, audience fit).
 
 ## Why HITL matters in the AI era
 
@@ -98,3 +102,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation

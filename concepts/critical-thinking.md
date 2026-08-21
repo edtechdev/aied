@@ -72,3 +72,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
