@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-20T09:30:00-04:00"
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Authentic assessment** — the design of assessments that examine student performance on worthy, realistic intellectual tasks, rather than isolated, standardized test items. Originating with Wiggins (1990) as a counterbalance to standardized tests, authentic assessment has evolved from replicating workplace tasks toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. Generative AI has made authentic assessment newly essential: any task a [[llm|language model]] can credibly simulate in a take-home setting loses its validity as evidence of original student competence, so authentic forms must be redesigned around what AI cannot credibly counterfeit.
 
-Authentic assessment sits at the heart of how [[assessment|assessment]] is being rethought in the AI era. It connects to [[assessment-validity]] (does the assessment measure what it claims?), [[formative-assessment]] (authentic tasks that inform learning), and [[academic-integrity]] (moving from detection to designing tasks where AI use is expected and declared). It is a central response in the wiki's assessment-redesign literature.
+Authentic assessment sits at the heart of how [[assessment]] is being rethought in the AI era. It connects to [[assessment-validity]] (does the assessment measure what it claims?), [[formative-assessment]] (authentic tasks that inform learning), and [[academic-integrity]] (moving from detection to designing tasks where AI use is expected and declared). It is a central response in the wiki's assessment-redesign literature.
 
 ## The evolution of authenticity
 
@@ -31,6 +31,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich higher education can assess both genuine outputs and the processes that produced them.
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
 - [[fenton-oral-exams-ai-authentic-assessment-2025|Reconsidering oral exams]] positions the oral exam/assessment as a low-tech authentic alternative that is inherently AI-resistant — its real-time, interactive dialogue tests comprehension, critical thinking, and reasoning (not memorization), mirrors professional practice, and prevents students from using AI to generate and memorize answers. It offers a concrete set of practical recommendations (clear rubrics, standardized content, assessor training, prompting guidelines, bias mitigation) for reintroducing oral assessment across high school and higher education.
+- [[eportfolio|E-portfolio assessment]] is another authentic, process-based form that resists AI fabrication: [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] identify social contribution portfolios among the authentic forms most robust to generative AI, and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] recommends annotated portfolios and recorded walkthroughs that probe reasoning in real time. [[ni-lam-multiliteracies-ai-portfolio-2026|Ni & Lam (2026)]] and [[sutama-chatgpt-eportfolio-speaking-2026|Laksana et al. (2026)]] show generative AI can assist the portfolio process — feedback, drafting, reflection — while the portfolio's reasoning traces and drafts preserve authenticity.
 
 ## Connections to learning theory
 

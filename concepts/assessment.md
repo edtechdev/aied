@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-20T09:30:00-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -17,6 +17,7 @@ Assessment is central to AI in education for two reasons. First, AI itself is us
 - **Formative assessment:** [[formative-assessment|AI systems]] generate, validate, and adapt formative assessment items at scale, informing ongoing instruction rather than only summative evaluation.
 - **Learning analytics and measurement:** [[learning-analytics]] and [[educational-measurement]] connect assessment data to learning processes, using [[item-response-theory]], [[knowledge-tracing]], and [[student-modeling]] to interpret performance.
 - **Feedback loops:** AI assessment increasingly feeds into [[feedback|feedback loops]] that close the cycle from assessment to learning.
+- **E-portfolio assessment:** [[eportfolio|e-portfolios]] assemble student work and reflections over time as a process-based, AI-robust assessment form. Generative AI can assist the portfolio *process* — generating feedback, scaffolding reflection, and (with appropriate rubric design) supporting evaluation — while the portfolio's emphasis on reasoning traces and drafts resists AI fabrication. [[ni-lam-multiliteracies-ai-portfolio-2026|AI-assisted portfolio assessment]] and [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT + e-portfolio for EFL speaking]] show AI can enhance both the portfolio experience and learner feedback literacy.
 
 ## Validity and measurement challenges
 

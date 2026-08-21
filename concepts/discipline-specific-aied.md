@@ -1,9 +1,9 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-20T09:30:00-04:00"
 type: concept
-tags: [ai-education, discipline-specific, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education]
+tags: [ai-education, discipline-specific, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
 confidence: high
 ---
 
@@ -26,6 +26,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
 - **[[engineering-education]]** — professional formation, design and hands-on learning, ethical use of AI, embodied assessment, and workforce preparation in engineering.
+- **[[business-education]]** — AI in business, economics, and management education: student-informed GenAI frameworks, curriculum integration via constructive alignment, and preparation for AI-integrated professional practice.
 - **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
 - **[[k-12]]** and **[[higher-ed]]** — education about and with AI at each level.
 
@@ -63,7 +64,6 @@ The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]
 
 Several disciplines remain thin in the wiki and are good candidates for future ingestion:
 
-- **Business, economics, and management** — limited coverage despite AI's business-education relevance: [[ai-literacy-career-adaptability-business-2026|AI literacy and career adaptability in business]], [[beck-genai-literacy-economics-hands-on|hands-on GenAI literacy in economics]], [[dot-framework-survey-2026|technology-adoption frameworks]].
 - **Law and legal education** — minimal coverage: [[llm-turing-test-italian-legal-exams-2026|LLMs and Italian legal exams]].
 - **Psychology and counseling** — few AI-in-education articles: [[hawkins-feedback-literacy-ai-essay-writing|AI feedback literacy]], [[critical-genai-use-predictors|critical GenAI use]], [[adaptive-virtual-patient-psychotherapy-training|virtual patient psychotherapy training]].
 - **History** — only isolated articles: [[paternalistic-filter-llm-history-education|LLMs and historical reasoning]].
