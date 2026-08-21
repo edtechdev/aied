@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 
@@ -27,6 +27,14 @@ Physics education research has become a proving ground for AI in education becau
 ### Connections to related concepts
 
 Physics education sits within the broader [[stem-education]] domain but has distinctive connections: to [[socratic-method]] through the strong tradition of Socratic dialogue in physics problem-solving; to [[computational-thinking]] through the increasing role of computation in physics; to [[assessment-validity]] through the challenges of scoring physics explanations; and to [[professional-training]] through simulation-based preparation. The [[student-experience]] and [[ai-literacy]] concepts are essential for understanding how physics students navigate AI tools, while [[educational-measurement]] and [[automated-assessment|Automated Grading]] connect to the assessment dimension.
+
+## Implications for physics instructors
+
+- **Design for student trust, not just adoption.** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]] document a 50-point trust-utility gap (91% use, 41% trust), with students identifying AI failures in visual-spatial reasoning and circuits — create opportunities to expose and discuss these limits rather than assume acceptance.
+- **Use Socratic AI to deepen question quality, but watch for strategic ceding.** [[hashmi-socratic-physics-chatbot-2025|Socratic chatbots]] improve question specificity, yet [[socratic-ai-physics-tutor-taxonomy-2026|taxonomy research]] finds meta-procedural turns dominate — students hand strategic control to the tutor. Intervene to keep students the decision-makers.
+- **Structure AI use cognitively, not just permissively.** [[airis-cognitively-activated-ai-physics-2026|AIRIS]] (Activate–Inquire–Reflect) shows the value of having students predict/outline before AI, delegate computational steps while comparing output critically, and reflect afterward — treat AI integration as an instructional-design problem, and test whether learning survives AI removal.
+- **Guard against scoring bias.** [[ai-scoring-language-bias-physics|AI scoring]] systematically underestimates linguistically weaker students' explanations; use language-aware or human-moderated scoring for conceptual assessment.
+- **Use simulated classrooms for teacher preparation.** [[multiagent-classroom-dual-process-physics-teachers-2026|Simulated multi-agent classrooms]] give prospective teachers rare practice responding to authentic student reasoning — a low-cost complement to live microteaching.
 
 ## Connected Concepts
 

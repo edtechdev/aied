@@ -1,7 +1,7 @@
 ---
 title: Biology Education
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [biology-education, stem-education, higher-ed, k-12, generative-ai, critical-thinking, ai-literacy, human-ai-collaboration]
 confidence: high
@@ -23,6 +23,14 @@ Biology education research on AI clusters around a tension: AI has revolutionize
 ### Connections to related concepts
 
 Biology education sits within the broader [[stem-education]] domain and shares the laboratory-practice and specialized-terminology concerns of [[chemistry-education]] and [[physics-education]]. Distinctive connections: to [[critical-thinking]] through the AI-era emphasis on skepticism and oversight; to [[ai-literacy]] through embedding AI concepts in biology courses; to [[human-ai-collaboration]] through virtual lab assistants and challenge-based learning; to [[academic-integrity]] and [[ethics]] through generative-[[ai-misuse-learning-harm|AI misuse]] and policy; and to [[assessment]] through AI-mediated evaluation. The [[higher-ed]] and [[k-12]] concepts capture the levels at which biology AI research occurs, and [[intelligent-tutoring]] and [[simulation]] connect to AI-assisted lab and teaching support.
+
+## Implications for biology instructors
+
+- **Keep a human "safety net" around AI lab assistants.** [[chatgpt-virtual-lab-teaching-assistant-biology-2026|Doğru & Faulconer]] find human TAs more accurate and effective than ChatGPT, yet students preferred AI 40% of the time and detected AI output only 45% — verify and annotate AI lab information, and never rely on it unmoderated for safety-critical content.
+- **Embed AI literacy in the biology curriculum, not as an add-on.** [[zha-ai-literacy-biology-case-study|Zha et al.]] show biology context supports AI learning; integrate ML/neural-network concepts into coursework where they naturally arise.
+- **Deliberately cultivate critical thinking in the AI era.** [[critical-thinking-biological-sciences-ai-2025|Papaneophytou & Nicolaou]] argue skepticism, contextual understanding, and ethical reasoning must be taught explicitly, with human oversight to validate AI outputs and prevent bias.
+- **Teach responsible use alongside challenge-based learning.** [[chatgpt-math-biology-challenge-based-learning-2025|CBL studies]] find students value immediacy but worry about veracity and skill erosion — update academic-integrity codes and AI-use ethics in parallel with adoption.
+- **Survey the specialized tool landscape.** [[beyond-chatgpt-ai-tools-biological-education-2026|Cotton & Cotton]] map tools (iNaturalist, Google Lens, bioimaging, at-risk prediction) that instructors can deploy for fieldwork, species ID, and student support — choose purpose-built tools over general chatbots where they fit.
 
 ## Connected Concepts
 

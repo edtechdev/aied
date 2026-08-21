@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16T09:41:18-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [medical-education, health-professions, higher-ed, clinical, simulation, assessment, adaptive-learning, teacher-role]
 confidence: high
@@ -22,6 +22,13 @@ AI in medical and health-professions education is a growing strand of the wiki's
 ### Why it matters
 
 HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
+
+## Implications for health-professions educators
+
+- **Use AI to operationalize learning principles, not replace the educator.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] argue AI should operationalize experiential, situated, and distributed-cognition learning while the teacher remains central to engagement and outcomes.
+- **Leverage AI for clinical skills training.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] and [[hdr-brachytherapy-agentic-ai-simulation-2026|agentic simulation]] show AI as a skills-training partner in real clinical workflows — embed it where it adds safe, scalable practice.
+- **Balance high-stakes benefits against over-reliance.** HPE is competency-based and high-stakes; guard against AI substituting for hands-on clinical skill and judgment, and apply [[feedback]], [[assessment]], and [[ethics]] considerations with particular care.
+- **Adapt gamified and interdisciplinary AI thoughtfully.** [[medgame-llm-medical-education-gamification|Gamified LLM learning]] and [[alrazeeni-transforming-nursing-education-ai-2026|nursing-education transformation]] show promise but need evaluation for safety and skill outcomes.
 
 ## Connected Concepts
 

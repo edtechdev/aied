@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-08-18T14:55:00-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, faculty-development, professional-training, assessment, ethics, higher-ed]
 confidence: high
@@ -16,7 +16,7 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Faculty understanding and shared language:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analyze the metaphors engineering instructors use to describe AI, finding that most frame it either as a human-like "social being/agent" or as a "technical tool," and that instructors within the same department often hold fundamentally different mental models. Because metaphors both construct and constrain understanding, they argue a shared, accurate language is essential for [[faculty-development]] and departmental discussions about AI.
 - **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] systematically review empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/equity/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal wellbeing.
 - **Embodied and multimodal assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with LLM analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
-- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials for emerging roles.
+- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials for emerging roles.
 - **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use GenAI and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with UTAUT to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
 
 ## Signature concerns
@@ -30,6 +30,14 @@ Engineering education sits within [[stem-education]] and connects strongly to [[
 ## Under-covered sub-areas
 
 The wiki's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **discipline-specific engineering pedagogies** (mechanical, civil, chemical, electrical, software, and bioengineering education), **design and maker education**, **capstone and project-based learning**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
+
+## Implications for engineering instructors
+
+- **Build a shared, accurate language about AI.** [[engineering-faculty-metaphors-ai-understanding-2026|Faculty metaphor research]] finds instructors hold fundamentally different mental models (agent vs. tool); align departmental understanding before making policy.
+- **Close the ethics-to-accountability gap.** [[ethical-use-ai-engineering-education-review-2026|Ethics reviews]] find guidance is mostly student-facing and compliance-oriented; strengthen reciprocal faculty and institutional accountability, given engineering's stake in public safety.
+- **Use multimodal, embodied assessment.** [[multimodal-embodied-cognition-oral-explanations-2026|Gesture + speech assessment]] adds diagnostic evidence beyond language alone — consider embodied cues when evaluating conceptual understanding.
+- **Prepare students for the workforce, not just the course.** The [[ai-engineering-computing-workforce-grey-literature-2026|Dual Train Problem]] urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles.
+- **Model critical use and appropriate reliance.** [[tam-critical-use-genai-engineering-2026|Critical-use TAM research]] shows students rely on AI heavily for understanding tasks but less for assessment — guide them toward appropriate, verifiable reliance across task types.
 
 ## Connected Concepts
 

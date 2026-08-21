@@ -1,7 +1,7 @@
 ---
 title: AI in Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-08-20T09:05:00-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [ai-education, business-education, economics-education, management-education, curriculum-design, generative-ai, higher-ed, discipline-specific-aied]
 confidence: high
@@ -26,6 +26,13 @@ AI in business education spans **economics** and **management** as core discipli
 ## Why AI in business education matters
 
 Business is one of the fields where generative AI adoption is fastest, so business schools face acute pressure to prepare students for an AI-integrated workplace. The research emphasizes that effective integration is **curriculum-driven and student-informed** — not just adding AI tools but redesigning programmes so that GenAI literacy, ethical judgement, and authentic application are woven through degree structures. This connects business education to the wiki's broader themes of [[ai-literacy|AI literacy]], [[teacher-role|educator]] preparation, [[assessment]] redesign, and [[curriculum-design|curriculum]] reform in the AI era.
+
+## Implications for business instructors
+
+- **Integrate AI curriculum-driven and student-informed.** [[drummond-genai-business-schools-framework-2026|Student-informed frameworks]] and [[rook-plumb-genai-curricula-student-insights-2026|student insights]] show students want GenAI skills for careers and to use AI without unintentional misconduct — design programmes that weave AI literacy, ethical judgement, and authentic application through degree structures.
+- **Align curriculum constructively.** [[zhou-constructive-alignment-genai-business-2026|Constructive alignment research]] finds the degree of curriculum integration shapes whether GenAI benefits or risks dominate — integrate, don't append.
+- **Address the persistent gaps.** [[espino-ai-business-education-review-2026|A decade of research]] flags gaps in curriculum coherence, educator readiness, and assessment validity — prioritize these in program design.
+- **Prepare students for an AI-integrated workplace.** Emphasize AI literacy, ethical use, and domain application (finance, marketing, management, economics) as core competencies, not electives.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: STEM Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 
@@ -24,6 +24,13 @@ STEM's structured knowledge representation, verifiable answers, and computationa
 ### Connections
 
 STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[intelligent-tutoring|AI Tutoring]] — it is the domain context for much of the wiki's tutoring and assessment research.
+
+## Implications for STEM instructors
+
+- **Choose discipline-appropriate AI.** STEM spans math (tutoring), physics (Socratic dialogue, simulation), CS (code generation, review), and engineering (design, workforce) — select tools matched to each subfield's signature pedagogy rather than assuming one general chatbot fits all.
+- **Use AI's structured-fit advantage, but protect reasoning.** STEM's verifiable answers make it the most AI-tractable domain; guard against over-reliance and answer-replacement by embedding AI in structured, mastery-oriented workflows.
+- **Embed AI literacy across STEM courses.** Studies ([[zha-ai-literacy-biology-case-study|biology]], [[ai-tpack-preservice-math-teachers|math teacher prep]]) show STEM context supports AI learning — integrate AI concepts where they naturally arise rather than isolating them.
+- **Watch equity and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, digital-divide access, and culturally relevant design as you deploy them.
 
 ## Connected Concepts
 
