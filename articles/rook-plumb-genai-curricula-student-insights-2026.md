@@ -1,14 +1,14 @@
 ---
 title: "Integrating Generative Artificial Intelligence into University Curricula: Student Insights"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-08-20T08:40:00-04:00"
+updated: "2026-08-21T13:21:45-04:00"
 type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, student-engagement, ai-literacy]
 sources: ['raw/papers/rook-plumb-genai-curricula-student-insights-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Rook, L., & Plumb, M. (2026), *Journal of University Teaching and Learning Practice* 23(2). A qualitative survey of **166 undergraduate business students** in a final-year capstone unit at a regional Australian university, analyzed using Braun and Clarke's Reflexive Thematic Analysis. The study foregrounds student voice on the role of [[generative-ai|generative AI]] in academic learning and career readiness, finding **strong support** for integrating GenAI knowledge and application into [[higher-ed|higher education]] [[curriculum-design|curricula]]. Students identified **three priority areas** for development: (1) understanding and optimising GenAI functionality, (2) exploring GenAI applications across contexts, and (3) navigating ethical and legal dimensions of GenAI. The authors argue that involving students in co-designing future-ready curricula advances [[ai-literacy|AI literacy]], digital capability, and employability. ⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.
+> **Synthesis:** Rook, L., & Plumb, M. (2026), *Journal of University Teaching and Learning Practice* 23(2). A qualitative survey of **166 undergraduate business students** in a final-year capstone unit at a regional Australian university, analyzed using Braun and Clarke's Reflexive Thematic Analysis. The study foregrounds student voice on the role of [[generative-ai|generative AI]] in academic learning and career readiness, finding **strong support** for integrating GenAI knowledge and application into [[higher-ed|higher education]] [[curriculum-design|curricula]]. Students identified **three priority areas** for development: (1) understanding and optimising GenAI functionality, (2) exploring GenAI applications across contexts, and (3) navigating ethical and legal dimensions of GenAI. The authors argue that involving students in co-designing future-ready curricula advances [[ai-literacy|AI literacy]], digital capability, and employability.
 
 ## Key Findings
 
@@ -59,4 +59,3 @@ This study is a distinctive empirical anchor showing that [[ai-literacy|AI liter
 
 Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence into university curricula: Student insights](https://doi.org/10.53761/jjzzd330). *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/jjzzd330
 
-> ⚠️ **License note:** Published under **CC BY-ND 4.0** (attribution, no-derivatives). This differs from the CC BY license used by most other entries in this wiki; flagged in the wiki log.

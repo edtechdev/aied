@@ -1,7 +1,7 @@
 ---
 title: "Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity"
 created: "2026-08-19T11:30:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [academic-integrity, plagiarism-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review]
 sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']
@@ -52,8 +52,6 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 - **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the wiki's [[authentic-assessment]] and [[assessment]] literature.
 - **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
 - **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
-
-> **License note:** This work is licensed **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial), reflecting an open-access but non-commercial publication. [Offer removal if unwanted.]
 
 ## Connected Concepts
 
