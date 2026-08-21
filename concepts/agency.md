@@ -64,3 +64,4 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation

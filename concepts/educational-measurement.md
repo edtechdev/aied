@@ -49,3 +49,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction

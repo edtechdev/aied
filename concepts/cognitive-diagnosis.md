@@ -46,3 +46,4 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[student-math-competence-clustering]] — Clustering for Modelling Student Mathematical Competence
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction

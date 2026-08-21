@@ -136,3 +136,5 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
+- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning

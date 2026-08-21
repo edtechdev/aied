@@ -139,3 +139,4 @@ For example:
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
