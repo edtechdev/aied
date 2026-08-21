@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-21T10:44:23-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -71,6 +71,8 @@ The wiki's frameworks and empirical studies converge on a set of practical guide
 ### Connections across the wiki
 
 AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
+
+AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI self-efficacy and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and self-regulated-learning scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
 
 ## Connected Concepts
 
@@ -201,3 +203,5 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]

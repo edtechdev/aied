@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T10:44:03-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -109,3 +109,5 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
