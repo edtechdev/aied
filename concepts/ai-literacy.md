@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-21T10:44:23-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -205,3 +205,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[ai-advice-suppresses-ikt-suspension-2026]]

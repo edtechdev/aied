@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 
@@ -47,3 +47,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
+- [[ai-advice-suppresses-ikt-suspension-2026]]

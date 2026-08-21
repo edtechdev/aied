@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-21T10:45:29-04:00"
+updated: "2026-08-21T14:58:12-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -94,3 +94,4 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[ai-advice-suppresses-ikt-suspension-2026]]
