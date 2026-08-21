@@ -9,7 +9,7 @@ Everything you need to run your own automated research wiki — a static site th
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt`/`llms-full.txt`
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
 
-**[Live example: AI in Education Wiki](https://edtechdev.github.io/aied)** — 500+ articles on AI in education, auto-updated weekdays at 9 AM ET and Sundays via RSS.
+**[Live example: AI in Education Wiki](https://edtechdev.github.io/aied)** — 900+ articles and concept pages on AI in education, auto-updated weekdays at 9 AM ET and Sundays via RSS.
 
 ## Quick Start
 
@@ -53,6 +53,7 @@ Adjust `astro.config.mjs` (`base` should match your repo name) and the `site` UR
 | `cron/daily-scan-prompt.md` | Daily cron prompt — update domain references |
 | `cron/weekly-rss-scan-prompt.md` | Weekly journal cron prompt |
 | `scripts/fetch-rss-feeds.py` | The `FEEDS` dict — add/remove journals |
+| `../skills/research/wiki-inline-links/` | The inline-link HARD GATE pass (term→slug dictionary + scanner) |
 
 ### 4. Initialize your wiki
 
@@ -103,6 +104,8 @@ wiki/
 
 Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro templates.
 
+**Inline hyperlink rule (HARD GATE):** after creating/enriching any article or concept page, run the inline-link pass (see `wiki-inline-links` skill) — hyperlink every concept mentioned in the page body narrative to its concept page (aggressive, including conceptually-similar phrases), and fix self-links, links in `##` headings, same-text links `[[slug|slug]]`, and broken links. Verify 0 self-links, 0 heading links, balanced brackets, and 0 broken links **before** `npm run build`. A green build does NOT substitute for this editorial pass.
+
 ## Pipeline Commands
 
 ```bash
@@ -152,3 +155,5 @@ Regenerate them with `generate-llms-files.py` after each ingestion batch.
 ## Run Your Own Wiki
 
 Copy the `tooling/` directory into a new repo, follow this README and the Astro site setup, and you'll have your own automated research wiki in ~15 minutes.
+
+To fully reproduce the ingestion workflow (including the inline-link HARD GATE), also install the two Hermes Agent skills in the `research` category: **`research-wiki`** (the full ingestion + export pipeline, in `tooling/SKILL.md`) and **`wiki-inline-links`** (the aggressive inline-link pass that runs on every new/enriched page before build). See `cron/` for the job prompts that wire them together.

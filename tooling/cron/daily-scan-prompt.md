@@ -48,7 +48,7 @@ For each new relevant paper:
 
 2. **Create article page** → `articles/[slug].md` (this is the wiki's page type for individual papers)
    - Frontmatter: title, created, updated, type: article, tags, sources, confidence
-   - **`created` MUST be today's date+time (ingestion date), NOT the paper's publication date.** The right-sidebar "Recently Added Articles" and the Journal page sort by `created`, so setting it to the paper's pub date buries new articles under older ones and they never appear as "new." Use `created: "[TODAY]THH:MM:SS±HH:MM"` quoted full timestamp (same as `updated`). The paper's actual publication date can go in the body/citation if relevant.
+   - **`created` MUST be today's date (ingestion date), NOT the paper's publication date.** The right-sidebar "Recent Articles" and the Journal page sort by `created`, so setting it to the paper's pub date buries new articles under older ones and they never appear as "new." Use `created: [TODAY]` (same as `updated`). The paper's actual publication date can go in the body/citation if relevant.
    - Body structure: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA, hyperlinked title)
    - **NEVER reference `raw/` paths in the article body** — no `^[raw/papers/x.md]` footnotes, no `[local](raw/papers/x.md)` / `[PDF](raw/...)` links. The Astro renderer leaves `^[...]` footnotes as literal text and `raw/` is not deployed, so they appear as broken text on the live site. The raw file is referenced ONLY in the `sources:` frontmatter field; in-body citations use the real paper URL (arXiv/DOI).
 
@@ -58,7 +58,7 @@ For each new relevant paper:
 
 4. **Add back-links** to 3-5+ related pages (update their Connected Articles sections)
 
-5. **Inline-link + concept enrichment (MANDATORY — do NOT skip):** For each new article, (a) add inline `[[slug|display]]` wiki-links in the article's narrative body to EVERY matching concept mentioned by name, each linking to the MOST SPECIFIC concept (e.g. `[[engineering-education]]` for "engineering education", `[[meta-analysis-systematic-review]]` for "systematic review", `[[ethics]]` for "AI ethics", `[[academic-integrity]]` for "academic integrity"); and (b) enrich every connected concept page the article contributes to significantly — add a research bullet/subsection to that concept's BODY narrative (not just its Connected Articles list) and bump its `updated` timestamp so the sidebar refreshes. Apply this to every ingested article and any new concept pages created, not just to the article page itself.
+5. **Run the inline-link pass (mandatory, HARD GATE)** — Load the `wiki-inline-links` skill and run the full linking pass on every newly created/enriched article and concept page: aggressively link every concept mention in the narrative body (including conceptually-similar phrases — e.g. "critical analysis"→`[[critical-thinking]]`, "AI tutors"→`[[intelligent-tutoring]]`, "human oversight"→`[[human-in-the-loop-ai]]`, "teachers"/"educators"→`[[teacher-role]]`) to the matching concept page, and clean up self-links, links inside `##` headings, and same-text links `[[slug|slug]]`. Verify 0 self-links, 0 heading links, balanced brackets, and 0 broken links before proceeding. **This is a BLOCKING PREREQUISITE — do NOT build/commit/push/deploy until the linking pass is run AND verified on every newly created/enriched page. A green build does NOT substitute for this editorial step.**
 
 6. **Append to log.md** — date, sources, paper list, tags
 
