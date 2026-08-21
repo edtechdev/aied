@@ -18572,7 +18572,7 @@ Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). [Behavi
 
 ## [Teaching with Generative Artificial Intelligence: Enhancing Critical Thinking and Ethical Awareness in Academic Writing](https://edtechdev.github.io/aied/articles/benali-genai-academic-writing-2026/)
 
-> **Synthesis:** Benali Taouis & Díaz García (2026), *Journal of University Teaching and Learning Practice* 23(5). This study integrates [[generative-ai|generative AI]] tools — ChatGPT (GPT-4) and Writefull for Word — into the English for Professional and Academic Communication (EPAC) course at the Universidad Politécnica de Madrid (UPM), an [[writing-education|academic writing]] course. Framed by [[critical-thinking|critical digital pedagogy]] (CDP), [[self-regulated-learning|self-regulated learning]] (SRL), and [[critical-thinking|Bloom's revised taxonomy]], the intervention guided 96 final-year Spanish undergraduate students (in 24 project groups) through a sequential drafting–revision–reflection workflow while developing research-proposal (RP) sections. Analysis of 24 reflective reports (inductive thematic analysis with grounded-theory coding) showed that the process of verifying, revising, and adapting AI-generated content strengthened students' [[critical-thinking|critical thinking]] and assessment skills, deepened content awareness, and fostered ethical, responsible [[academic-integrity|academic practice]]. Rather than banning AI, the study models guided, intentional integration in which AI functions as a cognitive and linguistic scaffold — not a substitute for original thinking. ⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.
+> **Synthesis:** Benali Taouis & Díaz García (2026), *Journal of University Teaching and Learning Practice* 23(5). This study integrates [[generative-ai|generative AI]] tools — ChatGPT (GPT-4) and Writefull for Word — into the English for Professional and Academic Communication (EPAC) course at the Universidad Politécnica de Madrid (UPM), an [[writing-education|academic writing]] course. Framed by [[critical-thinking|critical digital pedagogy]] (CDP), [[self-regulated-learning|self-regulated learning]] (SRL), and [[critical-thinking|Bloom's revised taxonomy]], the intervention guided 96 final-year Spanish undergraduate students (in 24 project groups) through a sequential drafting–revision–reflection workflow while developing research-proposal (RP) sections. Analysis of 24 reflective reports (inductive thematic analysis with grounded-theory coding) showed that the process of verifying, revising, and adapting AI-generated content strengthened students' [[critical-thinking|critical thinking]] and assessment skills, deepened content awareness, and fostered ethical, responsible [[academic-integrity|academic practice]]. Rather than banning AI, the study models guided, intentional integration in which AI functions as a cognitive and linguistic scaffold — not a substitute for original thinking.
 
 ## Key Findings
 
@@ -18631,8 +18631,6 @@ This study offers a transferable model for [[higher-ed|higher education]] course
 ## Citation
 
 Benali Taouis, H., & Díaz García, A. (2026). [Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing](https://doi.org/10.53761/28y4hw95). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/28y4hw95
-
-> ⚠️ **License note:** Published under **CC BY-ND 4.0** (attribution, no-derivatives). This differs from the CC BY license used by most other entries in this wiki; flagged in the wiki log.
 
 ---
 
@@ -18733,8 +18731,6 @@ Mandernach, B.J. (2026). [*The best response to student AI use is not detection,
 ## [Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education](https://edtechdev.github.io/aied/articles/beyond-chatgpt-ai-tools-biological-education-2026/)
 
 > **Synthesis:** Cotton and Cotton (2026) review the use of AI tools in **biological education**, noting that AI has revolutionized biology *research* (exemplified by AlphaFold's Nobel Prize) yet its adoption in biology *education* has been slower, partly due to concerns about generative AI (GAI) tools like ChatGPT. The review examines the potential benefits of AI — enhanced [[student-engagement|student engagement]] and subject knowledge, support for coding skills, assistive technologies for students with disabilities, and predictive modeling to identify at-risk students — alongside emerging specialized tools such as **iNaturalist and Google Lens** for species identification and **machine-learning tools for bioimaging**. Evidence suggests tools like iNaturalist can improve learning outcomes, promote engagement, and foster environmental stewardship. Challenges include **academic integrity, assessment design, misinformation, and the potential erosion of critical thinking and independent research skills**, requiring professional development for [[teacher-role|educators]] and clear guidance for students. 
-
-> ⚠️ **License note:** This article is published under a **CC BY-NC-ND 4.0** license (Taylor & Francis, *Journal of Biological Education*). Non-commercial use only; no derivatives. Verify against this license before redistribution.
 
 ## The context
 
@@ -20571,8 +20567,6 @@ CLARA introduces a novel architecture for [[learning-analytics]] where AI-produc
 ## Summary
 
 Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using AI inevitably hinders learning by sparing effort. Across pre-registered studies they find the opposite is possible: AI can reduce effort while improving the learning environment, so learners can "work less and learn more." A nationally representative Gallup survey of young adults (N = 2,472) confirmed that the public largely holds the "crutch" intuition (73% negative about AI's impact on capability). But in experiments, participants who practiced writing cover letters with an AI tool wrote higher-quality no-AI cover letters than those who practiced alone — and AI beat both googling examples and receiving personalized feedback from experienced human editors. A third experiment showed AI teaches by example: merely viewing an AI-revised letter (no further practice) produced the same gain as practicing with the tool.
-
-**License note:** preprint is **CC BY-NC-ND 4.0** (non-commercial, no-derivatives); summary only, full text not redistributed.
 
 ## Key Findings
 
@@ -25301,7 +25295,7 @@ Rania Abdelghani, Peter Kaiser, Kou Murayama (2026). [From Prompting to Epistemi
 
 ## [Mapping the Integration of AI into Business Education: Insights from a Decade of Research](https://edtechdev.github.io/aied/articles/espino-ai-business-education-review-2026/)
 
-> **Synthesis:** Espino & Espino (2026), *Journal of University Teaching and Learning Practice* 23(6). A bibliometric [[meta-analysis-systematic-review|systematic review]] of 213 peer-reviewed articles (2015–2024) drawn from the Dimensions database, analyzed with bibliographic coupling and co-word analysis in VOSviewer. The review maps [[ai-education|AI in education]] as applied specifically to business education, surfacing **four** major research clusters — (1) AI-driven business-education transformation, (2) innovative digital pedagogies, (3) AI-enhanced personalization of learning, and (4) business education aligned with the digital economy — plus three co-word trends (technological transformation, integration of [[generative-ai|generative AI]] tools, and advancing educational quality). Persistent gaps across clusters center on [[curriculum-design|curriculum]] coherence, educator readiness, and [[assessment]] validity. The authors reframe AI integration as a structural *pedagogical* reconfiguration rather than tool adoption. ⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.
+> **Synthesis:** Espino & Espino (2026), *Journal of University Teaching and Learning Practice* 23(6). A bibliometric [[meta-analysis-systematic-review|systematic review]] of 213 peer-reviewed articles (2015–2024) drawn from the Dimensions database, analyzed with bibliographic coupling and co-word analysis in VOSviewer. The review maps [[ai-education|AI in education]] as applied specifically to business education, surfacing **four** major research clusters — (1) AI-driven business-education transformation, (2) innovative digital pedagogies, (3) AI-enhanced personalization of learning, and (4) business education aligned with the digital economy — plus three co-word trends (technological transformation, integration of [[generative-ai|generative AI]] tools, and advancing educational quality). Persistent gaps across clusters center on [[curriculum-design|curriculum]] coherence, educator readiness, and [[assessment]] validity. The authors reframe AI integration as a structural *pedagogical* reconfiguration rather than tool adoption.
 
 ## Key Findings
 
@@ -25358,8 +25352,6 @@ For [[ai-education|AI in education]] more broadly, this review is a strong, high
 ## Citation
 
 Espino, L. C., & Espino, C. L. (2026). [Mapping the integration of AI into business education: Insights from a decade of research](https://doi.org/10.53761/5yhdnk13). *Journal of University Teaching and Learning Practice*, 23(6). https://doi.org/10.53761/5yhdnk13
-
-> ⚠️ **License note:** Published under **CC BY-ND 4.0** (attribution, no-derivatives). This differs from the CC BY license used by most other entries in this wiki; flagged in the wiki log.
 
 ---
 
@@ -27139,7 +27131,7 @@ Gao, X. (2026). [*From unified to differentiated materials: Generative AI–supp
 
 ## [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://edtechdev.github.io/aied/articles/genai-educational-outcomes-meta-analysis/)
 
-> **Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches** — Dong (2026), *Humanities and Social Sciences Communications* 13, 559. A PRISMA-based meta-analysis of 53 studies that pools the effect of generative AI (GenAI) on educational outcomes. The central conclusion: GenAI generally outperforms traditional and non-GenAI approaches on academic achievement, higher-order thinking, and writing skills, and GenAI feedback is particularly effective — though game-assisted GenAI shows no significant added benefit, and gains vary by country and are consistent across university and secondary levels. ⚠️ Published under CC BY-NC-ND 4.0 (non-commercial, no-derivatives) — see the source note.
+> **Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches** — Dong (2026), *Humanities and Social Sciences Communications* 13, 559. A PRISMA-based meta-analysis of 53 studies that pools the effect of generative AI (GenAI) on educational outcomes. The central conclusion: GenAI generally outperforms traditional and non-GenAI approaches on academic achievement, higher-order thinking, and writing skills, and GenAI feedback is particularly effective — though game-assisted GenAI shows no significant added benefit, and gains vary by country and are consistent across university and secondary levels.
 
 ## Key Findings
 
@@ -27180,8 +27172,6 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 ## Citation
 
 Dong, Y. (2026). [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://www.nature.com/articles/s41599-026-06903-y). *Humanities and Social Sciences Communications* 13, 559. https://doi.org/10.1057/s41599-026-06903-y
-
-> ⚠️ **License note:** Published under **CC BY-NC-ND 4.0** (non-commercial, no-derivatives). This differs from the CC BY license used by most other entries in this wiki. If the non-commercial / no-derivatives restriction is a concern, this entry and its raw source can be removed on request.
 
 ---
 
@@ -29761,8 +29751,6 @@ Hashmi, A., et al. (2025). [*Analyzing Undergraduate Problem-Solving in Physics 
 
 Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use generative AI for feedback during essay writing, using a novel simulated assessment task methodology. Thirty-two psychology students at The University of Queensland completed a screen-recorded, 25-minute essay writing task with unrestricted access to ChatGPT (and optionally other tools such as Quillbot, Co-pilot, and DeepL), then watched the recording back in a video-stimulated interview. A thematic analysis (Braun & Clarke 2006) of the transcribed interviews identified four distinct, temporally ordered themes: *feedforward* (initial content and idea requests), *feedback* (requesting assessments of one's own work, including criteria-based and line-level language improvements), *feedback evaluation* (making decisions based on AI output, enacted through 'expand', 'summarise', 'elaborate', and 'try again' prompts, and providing feedback to AI), and *AI avoidance* (deliberately not using AI, often citing academic integrity or a desire that the essay sound 'in my own words'). A standard multiple regression found feedback literacy to be the only significant positive predictor of essay grade (β = 0.46, p = 0.017), supporting the study's working theory. The paper interprets feedback literacy (Carless & Boud 2018) within the broader scope of self-regulated learning (Pintrich 2000) and is one of the first to deploy Dawson et al.'s (2024) validated Feedback Literacy Behaviour Scale.
 
-**License note:** article is **CC BY-NC-ND 4.0** (non-commercial, no-derivatives); summary only, full text not redistributed.
-
 ## Key Findings
 
 - **Feedback literacy predicts essay task performance.** Feedback literacy was the only significant (positive) predictor of essay grade in a standard multiple regression (β = 0.46, t(25) = 2.56, p = 0.017, sr² = .17); feedback literacy and essay grade were positively and significantly correlated (p = 0.019). The overall model accounted for a non-significant 35% of variance (F(6, 25) = 2.26, p = .071), and the analysis was underpowered.
@@ -31610,8 +31598,6 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 - **For assessment:** A shared framework for assessing AI skills is a prerequisite for knowing whether students reach proficiency; the report documents that most institutions lack this, echoing [[assessment]] debates in the wiki.
 - **For [[ai-literacy]]:** The instructor emphasis on critical, responsible use aligns closely with the wiki's treatment of AI literacy as regulatory competence and [[critical-thinking|critical thinking]], while the employer emphasis on productivity-oriented skills introduces a complementary framing the field is still reconciling.
 - **For [[equity-in-ai-education|equity]] and practice:** The report flags the presence of instructors who see resisting/doing-without AI as the key skill — a framing tension relevant to [[framing-ai-use-for-students]] and [[student-experience]].
-
-> **License note:** This work is licensed **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial), reflecting that it is a non-commercial, nonprofit research publication. [Offer removal if unwanted.]
 
 ## Connected Concepts
 
@@ -41669,7 +41655,7 @@ Wang, Y., Zhang, Z. J., & Zou, D. (2026). [*Multimodality and Social Interaction
 
 ## [Integrating Generative Artificial Intelligence into University Curricula: Student Insights](https://edtechdev.github.io/aied/articles/rook-plumb-genai-curricula-student-insights-2026/)
 
-> **Synthesis:** Rook, L., & Plumb, M. (2026), *Journal of University Teaching and Learning Practice* 23(2). A qualitative survey of **166 undergraduate business students** in a final-year capstone unit at a regional Australian university, analyzed using Braun and Clarke's Reflexive Thematic Analysis. The study foregrounds student voice on the role of [[generative-ai|generative AI]] in academic learning and career readiness, finding **strong support** for integrating GenAI knowledge and application into [[higher-ed|higher education]] [[curriculum-design|curricula]]. Students identified **three priority areas** for development: (1) understanding and optimising GenAI functionality, (2) exploring GenAI applications across contexts, and (3) navigating ethical and legal dimensions of GenAI. The authors argue that involving students in co-designing future-ready curricula advances [[ai-literacy|AI literacy]], digital capability, and employability. ⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.
+> **Synthesis:** Rook, L., & Plumb, M. (2026), *Journal of University Teaching and Learning Practice* 23(2). A qualitative survey of **166 undergraduate business students** in a final-year capstone unit at a regional Australian university, analyzed using Braun and Clarke's Reflexive Thematic Analysis. The study foregrounds student voice on the role of [[generative-ai|generative AI]] in academic learning and career readiness, finding **strong support** for integrating GenAI knowledge and application into [[higher-ed|higher education]] [[curriculum-design|curricula]]. Students identified **three priority areas** for development: (1) understanding and optimising GenAI functionality, (2) exploring GenAI applications across contexts, and (3) navigating ethical and legal dimensions of GenAI. The authors argue that involving students in co-designing future-ready curricula advances [[ai-literacy|AI literacy]], digital capability, and employability.
 
 ## Key Findings
 
@@ -41719,8 +41705,6 @@ This study is a distinctive empirical anchor showing that [[ai-literacy|AI liter
 ## Citation
 
 Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence into university curricula: Student insights](https://doi.org/10.53761/jjzzd330). *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/jjzzd330
-
-> ⚠️ **License note:** Published under **CC BY-ND 4.0** (attribution, no-derivatives). This differs from the CC BY license used by most other entries in this wiki; flagged in the wiki log.
 
 ---
 
@@ -43608,8 +43592,6 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 - **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the wiki's [[authentic-assessment]] and [[assessment]] literature.
 - **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
 - **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
-
-> **License note:** This work is licensed **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial), reflecting an open-access but non-commercial publication. [Offer removal if unwanted.]
 
 ## Connected Concepts
 
@@ -48066,8 +48048,6 @@ Xie, Y., Yang, W., Zhang, B., Li, Z., Wang, L., Yang, M., & Gao, Y. (2026). [*Hi
 
 Yasir et al. (2026) benchmark seven LLM feedback agents as step-level tutors in propositional logic, using **knowledge-graph-derived ground truth** across 10,836 solution–feedback pairs and three feedback conditions. Their core finding: models achieve near-ceiling performance on optimal steps but **systematically over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions** — precisely where adaptive tutoring matters most. These failures persist across models and solution contexts (suggesting architectural rather than informational limits), and accurate diagnosis does not reliably produce pedagogically actionable feedback. The authors conclude LLMs are better suited to hybrid architectures where KG-grounded models handle diagnosis while LLMs support open-ended scaffolding and dialogue.
 
-**License note:** open access under **CC BY-NC-ND 4.0** (non-commercial, no-derivatives). Summary only; full text not redistributed.
-
 ## Key Findings
 
 - **Near-ceiling on optimal steps, failures elsewhere:** models classified optimal solutions well (F1 94–99%) but struggled on valid-alternative solutions (F1 0–76%) and incorrect solutions (F1 4–55%).
@@ -48811,8 +48791,6 @@ Zhao, R., Bobrov, A., Li, J., Aloisi, C., & He, Y. (2025). [LearnLens: LLM-Enabl
 ## Citation
 
 Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment. *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/pc04tp05
-
-*Note: The source is published under a CC BY-ND 4.0 (no derivatives) license; content has been summarised rather than adapted.*
 
 ---
 

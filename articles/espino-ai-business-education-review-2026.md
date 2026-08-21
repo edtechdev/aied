@@ -1,14 +1,14 @@
 ---
 title: "Mapping the Integration of AI into Business Education: Insights from a Decade of Research"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-08-20T08:10:00-04:00"
+updated: "2026-08-21T13:21:45-04:00"
 type: article
 tags: [ai-education, business-education, systematic-review, generative-ai, curriculum-design, higher-ed]
 sources: ['raw/papers/espino-ai-business-education-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Espino & Espino (2026), *Journal of University Teaching and Learning Practice* 23(6). A bibliometric [[meta-analysis-systematic-review|systematic review]] of 213 peer-reviewed articles (2015–2024) drawn from the Dimensions database, analyzed with bibliographic coupling and co-word analysis in VOSviewer. The review maps [[ai-education|AI in education]] as applied specifically to business education, surfacing **four** major research clusters — (1) AI-driven business-education transformation, (2) innovative digital pedagogies, (3) AI-enhanced personalization of learning, and (4) business education aligned with the digital economy — plus three co-word trends (technological transformation, integration of [[generative-ai|generative AI]] tools, and advancing educational quality). Persistent gaps across clusters center on [[curriculum-design|curriculum]] coherence, educator readiness, and [[assessment]] validity. The authors reframe AI integration as a structural *pedagogical* reconfiguration rather than tool adoption. ⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.
+> **Synthesis:** Espino & Espino (2026), *Journal of University Teaching and Learning Practice* 23(6). A bibliometric [[meta-analysis-systematic-review|systematic review]] of 213 peer-reviewed articles (2015–2024) drawn from the Dimensions database, analyzed with bibliographic coupling and co-word analysis in VOSviewer. The review maps [[ai-education|AI in education]] as applied specifically to business education, surfacing **four** major research clusters — (1) AI-driven business-education transformation, (2) innovative digital pedagogies, (3) AI-enhanced personalization of learning, and (4) business education aligned with the digital economy — plus three co-word trends (technological transformation, integration of [[generative-ai|generative AI]] tools, and advancing educational quality). Persistent gaps across clusters center on [[curriculum-design|curriculum]] coherence, educator readiness, and [[assessment]] validity. The authors reframe AI integration as a structural *pedagogical* reconfiguration rather than tool adoption.
 
 ## Key Findings
 
@@ -66,4 +66,3 @@ For [[ai-education|AI in education]] more broadly, this review is a strong, high
 
 Espino, L. C., & Espino, C. L. (2026). [Mapping the integration of AI into business education: Insights from a decade of research](https://doi.org/10.53761/5yhdnk13). *Journal of University Teaching and Learning Practice*, 23(6). https://doi.org/10.53761/5yhdnk13
 
-> ⚠️ **License note:** Published under **CC BY-ND 4.0** (attribution, no-derivatives). This differs from the CC BY license used by most other entries in this wiki; flagged in the wiki log.

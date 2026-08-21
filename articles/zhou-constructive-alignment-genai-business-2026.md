@@ -1,7 +1,7 @@
 ---
 title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-08-20T08:20:00-04:00"
+updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, instructional-design, assessment]
 sources: ['raw/papers/zhou-constructive-alignment-genai-business-2026.md']
@@ -55,4 +55,3 @@ confidence: medium
 
 Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment. *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/pc04tp05
 
-*Note: The source is published under a CC BY-ND 4.0 (no derivatives) license; content has been summarised rather than adapted.*

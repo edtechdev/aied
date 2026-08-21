@@ -1,7 +1,7 @@
 ---
 title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-08-15"
+updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [intelligent-tutoring, intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
 
@@ -14,8 +14,6 @@ confidence: high
 ## Summary
 
 Yasir et al. (2026) benchmark seven LLM feedback agents as step-level tutors in propositional logic, using **knowledge-graph-derived ground truth** across 10,836 solution–feedback pairs and three feedback conditions. Their core finding: models achieve near-ceiling performance on optimal steps but **systematically over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions** — precisely where adaptive tutoring matters most. These failures persist across models and solution contexts (suggesting architectural rather than informational limits), and accurate diagnosis does not reliably produce pedagogically actionable feedback. The authors conclude LLMs are better suited to hybrid architectures where KG-grounded models handle diagnosis while LLMs support open-ended scaffolding and dialogue.
-
-**License note:** open access under **CC BY-NC-ND 4.0** (non-commercial, no-derivatives). Summary only; full text not redistributed.
 
 ## Key Findings
 

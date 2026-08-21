@@ -1,14 +1,14 @@
 ---
 title: "Teaching with Generative Artificial Intelligence: Enhancing Critical Thinking and Ethical Awareness in Academic Writing"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-08-20T08:40:00-04:00"
+updated: "2026-08-21T13:21:45-04:00"
 type: article
 tags: [generative-ai, writing-education, critical-thinking, ethics, academic-integrity, higher-ed]
 sources: ['raw/papers/benali-genai-academic-writing-2026.md']
 confidence: medium
 ---
 
-> **Synthesis:** Benali Taouis & Díaz García (2026), *Journal of University Teaching and Learning Practice* 23(5). This study integrates [[generative-ai|generative AI]] tools — ChatGPT (GPT-4) and Writefull for Word — into the English for Professional and Academic Communication (EPAC) course at the Universidad Politécnica de Madrid (UPM), an [[writing-education|academic writing]] course. Framed by [[critical-thinking|critical digital pedagogy]] (CDP), [[self-regulated-learning|self-regulated learning]] (SRL), and [[critical-thinking|Bloom's revised taxonomy]], the intervention guided 96 final-year Spanish undergraduate students (in 24 project groups) through a sequential drafting–revision–reflection workflow while developing research-proposal (RP) sections. Analysis of 24 reflective reports (inductive thematic analysis with grounded-theory coding) showed that the process of verifying, revising, and adapting AI-generated content strengthened students' [[critical-thinking|critical thinking]] and assessment skills, deepened content awareness, and fostered ethical, responsible [[academic-integrity|academic practice]]. Rather than banning AI, the study models guided, intentional integration in which AI functions as a cognitive and linguistic scaffold — not a substitute for original thinking. ⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.
+> **Synthesis:** Benali Taouis & Díaz García (2026), *Journal of University Teaching and Learning Practice* 23(5). This study integrates [[generative-ai|generative AI]] tools — ChatGPT (GPT-4) and Writefull for Word — into the English for Professional and Academic Communication (EPAC) course at the Universidad Politécnica de Madrid (UPM), an [[writing-education|academic writing]] course. Framed by [[critical-thinking|critical digital pedagogy]] (CDP), [[self-regulated-learning|self-regulated learning]] (SRL), and [[critical-thinking|Bloom's revised taxonomy]], the intervention guided 96 final-year Spanish undergraduate students (in 24 project groups) through a sequential drafting–revision–reflection workflow while developing research-proposal (RP) sections. Analysis of 24 reflective reports (inductive thematic analysis with grounded-theory coding) showed that the process of verifying, revising, and adapting AI-generated content strengthened students' [[critical-thinking|critical thinking]] and assessment skills, deepened content awareness, and fostered ethical, responsible [[academic-integrity|academic practice]]. Rather than banning AI, the study models guided, intentional integration in which AI functions as a cognitive and linguistic scaffold — not a substitute for original thinking.
 
 ## Key Findings
 
@@ -68,4 +68,3 @@ This study offers a transferable model for [[higher-ed|higher education]] course
 
 Benali Taouis, H., & Díaz García, A. (2026). [Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing](https://doi.org/10.53761/28y4hw95). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/28y4hw95
 
-> ⚠️ **License note:** Published under **CC BY-ND 4.0** (attribution, no-derivatives). This differs from the CC BY license used by most other entries in this wiki; flagged in the wiki log.

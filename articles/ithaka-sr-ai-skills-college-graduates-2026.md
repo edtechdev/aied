@@ -1,7 +1,7 @@
 ---
 title: "AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently"
 created: "2026-08-19T08:30:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [ai-literacy, curriculum-design, higher-ed, workforce, generative-ai, professional-training, teacher-education]
 sources: ['raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md']
@@ -59,8 +59,6 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 - **For assessment:** A shared framework for assessing AI skills is a prerequisite for knowing whether students reach proficiency; the report documents that most institutions lack this, echoing [[assessment]] debates in the wiki.
 - **For [[ai-literacy]]:** The instructor emphasis on critical, responsible use aligns closely with the wiki's treatment of AI literacy as regulatory competence and [[critical-thinking|critical thinking]], while the employer emphasis on productivity-oriented skills introduces a complementary framing the field is still reconciling.
 - **For [[equity-in-ai-education|equity]] and practice:** The report flags the presence of instructors who see resisting/doing-without AI as the key skill — a framing tension relevant to [[framing-ai-use-for-students]] and [[student-experience]].
-
-> **License note:** This work is licensed **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial), reflecting that it is a non-commercial, nonprofit research publication. [Offer removal if unwanted.]
 
 ## Connected Concepts
 
