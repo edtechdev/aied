@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-08-20T04:35:00-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [online-education, online-learning, distance-learning, mooc, blended-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 confidence: high
@@ -125,3 +125,4 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[engagement-forecasting-its]] — Forecasting Effort and Progress in Online Learning
 - [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in the Era of AI
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses

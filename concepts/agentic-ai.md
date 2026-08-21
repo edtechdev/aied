@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency]
 confidence: high
@@ -93,3 +93,4 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[pchl-he-framework-genai-content-creation-2026]] — GenAI content creation framework in higher ed
 - [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section

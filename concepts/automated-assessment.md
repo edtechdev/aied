@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-18T09:30:00-04:00"
+updated: "2026-08-21T08:02:47-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -29,7 +29,7 @@ Automated grading is one of the most mature and widely-deployed AI in education 
 
 ### Confidence-aware assessment
 
-A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust|trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
+A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
 
 **How confidence is modeled** in the wiki's research:
 
@@ -38,6 +38,8 @@ A central design goal within automated assessment is **confidence awareness**: A
 - **Psychometric calibration of LLMs:** [[psychometrically-aware-ai|Psychometrically aware AI]] advances the standard of aligning [[llm|LLM]] scoring with measurement theory, with calibration as a core requirement alongside [[item-response-theory]] alignment.
 - **Difficulty and response-time calibration:** [[llm-difficulty-calibration-programming-exams-2026|Programming-exam difficulty calibration]] repositions LLMs as auxiliary evidence sources whose difficulty estimates correlate with student pass rates.
 - **Trait-adaptive essay scoring:** [[psyscore-essay-scoring-zpd-feedback|PsyScore]] shows a psychometrically-aware framework can adapt essay feedback to learner traits.
+- **Evaluating visual student work:** [[diagramir-educational-math-diagram-evaluation|DiagramIR]] back-translates LLM-generated math diagrams (TikZ) into an intermediate representation with deterministic checks, beating LLM-as-a-Judge on agreement with human raters and letting small models match large ones at ~10× lower cost — a scalable route to assessing non-text, diagrammatic student output.
+- **Explainability of rubric-based scoring:** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al.]] show that model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales for explaining rubric-based scores (e.g., classroom feedback quality), and propose deletion-based + cross-model tests as a principled way to evaluate any scoring model's explanations.
 
 **Why calibrated confidence matters:**
 
@@ -104,3 +106,6 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[code-anchor-multi-view-visualization]] — Code-anchor multi-view visualization
 - [[llm-psychometric-calibration-cdp]] — LLM psychometric calibration
 - [[llm-item-difficulty-prediction]] — LLM item-difficulty prediction
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment

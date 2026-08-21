@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-08-18T16:30:00-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
 confidence: medium
@@ -75,3 +75,4 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 - [[paratutor-parent-child-tutoring]]
 - [[agents-that-teach-incidental-learning]]
 - [[ai-tutor-authoring-promptdecipher]]
+- [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice

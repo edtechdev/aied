@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-20T03:17:00-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 confidence: high
@@ -44,3 +44,4 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
 - [[icap-cognitive-engagement-llm-agents]] — ICAP Cognitive Engagement with LLM Agents
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
+- [[learnlm-improving-gemini-learning]] — LearnLM: scenario-guided learner-AI tutoring conversations

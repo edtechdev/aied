@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T10:55:19-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 
@@ -86,3 +86,5 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment

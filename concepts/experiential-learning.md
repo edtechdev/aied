@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-16T09:22:41-04:00"
+updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [experiential-learning, active-learning, higher-ed, project-based-learning, embodied-learning, learning-by-doing]
 confidence: high
@@ -47,3 +47,4 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[vargas-ai-catalyst-situated-learning-2026]]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
+- [[educasim-cs1-instructional-practice]] — EducaSim: role play with simulated students for teacher training
