@@ -196,6 +196,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: educational robotics; robotics in education; robots in education; teaching robots
     - phrases: embodied learning; embodied cognition; embodiment; gesture-based learning; body-based learning
     - phrases: engineering education; engineering
+- **`english-education`** — English Education (EAP / EFL / ESL) — phrases: English for academic purposes; EAP; English language teaching; ELT; EFL; ESL; English as a second language; academic English; English education
     - phrases: equity; AI equity; fairness; educational equity; digital divide
     - phrases: experiential learning; learning by doing; hands-on learning
     - phrases: faculty development; professional development; teacher development; PD; educator development

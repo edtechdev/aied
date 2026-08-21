@@ -1,7 +1,7 @@
 ---
 title: "From Unified to Differentiated Materials: Generative AI–Supported Adaptation of EAP Reading Materials"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-08-13"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [language-learning, generative-ai, personalized-learning, instructional-design, scaffolding, teacher-role, writing-education, curriculum-design]
 sources: ['raw/papers/10.3389_fpsyg.2026.1887565.md']
@@ -39,6 +39,7 @@ The learner-outcome and process indicators were collected in the same session, m
 - [[instructional-design]]
 - [[teacher-role]]
 - [[curriculum-design]]
+- [[english-education]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, peer-review, formative-assessment, self-regulated-learning, writing-education, language-learning, ai-literacy]
 
@@ -43,6 +43,7 @@ Irwin & Muller (2026) offer a conceptual, theory-informed design framework for p
 - [[language-learning]]
 - [[ai-literacy]]
 - [[feedback-literacy]]
+- [[english-education]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-10"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [affective-computing, language-learning, ai-education, ai-tutoring, educational-technology, edtech-platform]
 sources: []
@@ -17,6 +17,7 @@ This study challenges the assumption that emotional design in educational AI pro
 ## Connected Concepts
 - [[affective-computing]]
 - [[agentic-ai]]
+- [[english-education]]
 
 ## Connected Articles
 - [[ai-in-the-wild-college]]

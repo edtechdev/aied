@@ -1,7 +1,7 @@
 ---
 title: "Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, language-learning, higher-ed, generative-ai, simulation, scaffolding, metacognition]
 
@@ -57,6 +57,7 @@ Strengths: a clear mechanism-oriented design, design-based tests (permutation, l
 - [[scaffolding]]
 - [[metacognition]]
 - [[feedback-literacy]]
+- [[english-education]]
 
 ## Connected Articles
 

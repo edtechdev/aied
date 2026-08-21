@@ -1,7 +1,7 @@
 ---
 title: "Ethical Generative AI Integration in English for Academic Purposes within Higher Education: A Mixed-Methods Study"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-08-20T08:40:00-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [generative-ai, language-learning, ethics, higher-ed, academic-integrity, teacher-role]
 sources: ['raw/papers/alharbi-ethical-genai-eap-2026.md']
@@ -36,6 +36,7 @@ The study positions [[teacher-role|educators]] as ethical decision-makers rather
 - [[academic-integrity]]
 - [[teacher-role]]
 - [[faculty-development]]
+- [[english-education]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "LearnLM: Improving Gemini for Learning"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [llm, pedagogical-llm-training, generative-ai, intelligent-tutoring, reinforcement-learning, prompt-engineering, teacher-role, student-ai-interaction]
 confidence: high
@@ -43,4 +43,4 @@ sources: [raw/papers/2412.16429.md]
 
 ## Citation
 
-LearnLM Team, Google. (2025). *LearnLM: Improving Gemini for learning* (arXiv:2412.16429). arXiv. https://arxiv.org/abs/2412.16429
+LearnLM Team, Google. (2025). *[LearnLM: Improving Gemini for learning](https://arxiv.org/abs/2412.16429)* (arXiv:2412.16429). arXiv.

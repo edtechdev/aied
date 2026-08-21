@@ -1,7 +1,7 @@
 ---
 title: "EducaSim: Interactive Simulacra for CS1 Instructional Practice"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [simulating-students, teacher-education, experiential-learning, agentic-ai, pedagogical-agent, cs-education, role-play, online-teaching-and-learning]
 confidence: high
@@ -43,4 +43,4 @@ sources: [raw/papers/2603.11444.md]
 
 ## Citation
 
-Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *EducaSim: Interactive simulacra for CS1 instructional practice* (arXiv:2603.11444). arXiv. https://arxiv.org/abs/2603.11444
+Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *[EducaSim: Interactive simulacra for CS1 instructional practice](https://arxiv.org/abs/2603.11444)* (arXiv:2603.11444). arXiv.

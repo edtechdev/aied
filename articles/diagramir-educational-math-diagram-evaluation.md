@@ -1,7 +1,7 @@
 ---
 title: "DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [math-education, automated-assessment, llm, multimodal, educational-nlp, benchmark, generative-ai]
 confidence: high
@@ -21,7 +21,7 @@ sources: [raw/papers/2511.08283.md]
 ## Practical Implications
 
 - **Use symbolic intermediate representations to make evaluation cheap and auditable.** For developers of math/AI education tools, translating generated figures into a structured IR where deterministic checks run is both more reliable and far cheaper than asking an LLM to judge the rendered image — and the checks explain exactly why a diagram passes or fails.
-- **Adopt an IR-based evaluation for accessibility and scale.** The approach lets lightweight models do the work, lowering the cost floor enough to deploy automatic diagram feedback in live, real-time learning tools.
+- **Adopt an IR-based evaluation for accessibility and scale.** The approach lets lightweight models do the work, lowering the cost floor enough to deploy automatic diagram [[feedback]] in live, real-time learning tools.
 - **Pair automatic evaluation with rubric-based human calibration.** The pipeline mirrors a clear rubric (mathematical + spatial correctness) and is calibrated against human raters, so automatic checks remain aligned with pedagogical intent.
 
 ## Connected Concepts
@@ -41,4 +41,4 @@ sources: [raw/papers/2511.08283.md]
 
 ## Citation
 
-Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *DiagramIR: An automatic pipeline for educational math diagram evaluation* (arXiv:2511.08283). NeurIPS 2025 Math-AI Workshop. https://arxiv.org/abs/2511.08283
+Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *[DiagramIR: An automatic pipeline for educational math diagram evaluation](https://arxiv.org/abs/2511.08283)* (arXiv:2511.08283). NeurIPS 2025 Math-AI Workshop.

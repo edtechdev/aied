@@ -1,7 +1,7 @@
 ---
 title: "TeachLM: Post-Training LLMs for Education Using Authentic Learning Data"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [pedagogical-llm-training, llm, simulating-students, privacy, generative-ai, intelligent-tutoring, student-modeling, project-based-learning]
 confidence: high
@@ -12,7 +12,7 @@ sources: [raw/papers/2510.05087.md]
 
 ## Key Findings
 
-- **Prompt engineering is a stopgap, not a solution.** The authors built PolyPilot, a dynamically prompt-engineered project-based tutor on GPT-4, iterating for months with 70+ engaged users; even with RAG-based examples and refined stage-dependent prompts, the gap between the LLM and a human tutor proved too large to close — e.g., varying the number and placement of questions or avoiding "wall-of-text" responses was inconsistent under prompting.
+- **Prompt engineering is a stopgap, not a solution.** The authors built PolyPilot, a dynamically prompt-engineered project-based tutor on GPT-4, iterating for months with 70+ engaged users; even with [[rag|RAG]]-based examples and refined stage-dependent prompts, the gap between the LLM and a human tutor proved too large to close — e.g., varying the number and placement of questions or avoiding "wall-of-text" responses was inconsistent under prompting.
 - **Authentic learning data is the missing ingredient.** One-on-one tutoring can yield two-sigma [[learning-gains|learning gains]] (Bloom), but high-quality data reflecting how *actual students* learn is scarce due to logistics, privacy protections, and data-quality concerns. Polygence's 100,000 hours span 150+ subjects with PhD-level tutors, 4–6 month longitudinal relationships, multi-modal exchanges, and outcome-oriented projects (80% culminate in a showcaseable artifact).
 - **A fine-tuned student model enables scalable, reproducible multi-turn evaluation.** Training an authentic student model on the same data lets the authors generate synthetic dialogues and evaluate tutor models on proxies for high-quality pedagogy — student talk time, questioning style, dialogue turns, and personalization — a protocol that is fast, scalable, and reproducible versus labor-intensive human assessment.
 - **Fine-tuning on authentic data clearly beats off-the-shelf models.** TeachLM approximately doubles student talk time, improves questioning style, increases dialogue turns by 50%, and shows greater personalization — evidence that post-training on real learner–tutor interactions addresses the friction-minimizing, sycophantic tendencies encoded in general-purpose LLMs.
@@ -42,4 +42,4 @@ sources: [raw/papers/2510.05087.md]
 
 ## Citation
 
-Perczel, J., Chow, J., & Demszky, D. (2025). *TeachLM: Post-training LLMs for education using authentic learning data* (arXiv:2510.05087). arXiv. https://arxiv.org/abs/2510.05087
+Perczel, J., Chow, J., & Demszky, D. (2025). *[TeachLM: Post-training LLMs for education using authentic learning data](https://arxiv.org/abs/2510.05087)* (arXiv:2510.05087). arXiv.

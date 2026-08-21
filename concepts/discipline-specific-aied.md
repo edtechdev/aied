@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-08-20T09:30:00-04:00"
+updated: "2026-08-21T08:50:57-04:00"
 type: concept
 tags: [ai-education, discipline-specific, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
 confidence: high
@@ -22,6 +22,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[cs-education]]** — AI for code generation, debugging, and novice programming support.
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
+- **[[english-education]]** — English for Academic Purposes (EAP) and English language teaching (EFL/ESL/L2): academic-English register, genre-based writing, and English-specific feedback and assessment — distinct from general language learning and general writing.
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
 - **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
@@ -52,13 +53,14 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 - **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
 - **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
 - **Language learning** — communicative competence, interaction, and corrective feedback. AI research uses conversational agents ([[ai-interlocutor-l2-spoken-dialogue|L2 interlocutors]]), pronunciation feedback, and culturally responsive design.
+- **English education (EAP/EFL/ESL)** — English as target language and academic register. AI research spans ethical EAP integration ([[alharbi-ethical-genai-eap-2026|Alharbi et al.]]), GenAI EAP writing revision ([[feedback-literacy-scripts-eap-writing|feedback-literacy scripts]]), EAP reading-material adaptation ([[genai-differentiated-eap-reading-materials-2026|differentiated EAP materials]]), ESL tutoring ([[tact-pedagogically-adaptive-esl-tutoring|TACT]]), and English-specific assessment ([[self-referential-l2-writing-llm-assessment|self-referential L2 writing evaluation]], [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]]).
 - **Health professions** — competency-based, clinically embedded, high-stakes. AI research emphasizes [[simulation]], reinforcement learning ([[residencyrl-clinical-rl-training-2026|ResidencyRL]]), and foundational learning principles ([[fowlin-operationalizing-learning-principles-ai|operationalizing learning principles]]).
 - **Teacher education** — a discipline whose AI research centers on preparing teachers to integrate AI: intelligent-TPACK frameworks ([[designing-ai-professional-development-itpack-2026|i-TPACK PD]]), teacher AI literacy ([[science-educators-ai-literacy-postqualification-2026|science educators]]), pre-service readiness ([[conceptualizing-preservice-teachers-ai-readiness-2026|intelligent-TPACK readiness]]), and in-service trust and ethics ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|trust and ethics]]).
 - **Humanities & social sciences** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness.
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -82,6 +84,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[cs-education]]
 - [[writing-education]]
 - [[language-learning]]
+- [[english-education]]
 - [[stem-education]]
 - [[teacher-education]]
 - [[medical-education]]
