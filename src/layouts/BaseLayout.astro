@@ -179,6 +179,20 @@ const recentConcepts = concepts
       outline: none;
       box-shadow: 0 0 0 3px var(--primary-focus);
     }
+    .header-use-ai {
+      flex-shrink: 0;
+      padding: 0.45rem 0.95rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #0b1220;
+      background: var(--primary);
+      border-radius: 8px;
+      white-space: nowrap;
+    }
+    .header-use-ai:hover {
+      background: var(--primary-hover);
+      color: #0b1220;
+    }
     header a { color: white; text-decoration: none; }
     .brand-link {
       display: inline-flex;
@@ -524,6 +538,7 @@ const recentConcepts = concepts
         <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
         <pagefind-searchbox placeholder="Search articles & concepts..."></pagefind-searchbox>
       </div>
+      <a href="/aied/ai" class="header-use-ai">Use with AI</a>
     </div>
   </header>
 
