@@ -1,7 +1,7 @@
 ---
 title: Accessible Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:21:26-04:00"
+updated: "2026-08-21T09:43:26-04:00"
 type: concept
 tags: [accessible-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high
@@ -24,16 +24,6 @@ Accessible learning sits at the intersection of [[equity-in-ai-education]], [[in
 **Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
 
 **Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led embodied design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends reinforcement learning to model cognitive and communicative diversity across disability profiles.
-
-### Practical guidance
-
-The wiki's accessible-learning research converges on a set of concrete design principles:
-
-- **Design for the excluded modality first, not last.** [[kutti-ai-voice-first-learning-companion|Kutti AI]] and [[tactile-statistical-graphs-accessibility|tactile graphs]] show that building for blind/low-vision users from the start produces tools that also work offline and in low-resource settings — accessibility as a catalyst, not a retrofit.
-- **Co-design with the target community.** [[pepper-robot-sign-language-lis-2025|Bolla et al.]] co-designed signs with a Deaf student and expert interpreter; [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]] iteratively refined questions with DHH students and instructors. Community involvement surfaces barriers (e.g., sign-based first languages) that designers cannot anticipate.
-- **Evaluate pedagogical quality, not just linguistic metrics.** [[text-simplification-its|MuTSE]] shows LLM output variability requires human-in-the-loop evaluation so that simplification helps rather than oversimplifies or undersimplifies.
-- **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs.
-- **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Tali-Otmani]] reminds us that accessibility is not only a design task but an epistemic-justice question — AI trained on Anglophone, Western-centric data risks marginalizing disabled and minoritized ways of knowing.
 
 ### Connections to related concepts
 
