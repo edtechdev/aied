@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 151 concepts and 787 articles.
+> Complete text of 151 concepts and 790 articles.
 
 # Concepts
 
@@ -1061,6 +1061,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 ---
 
@@ -1130,6 +1131,8 @@ The wiki's frameworks and empirical studies converge on a set of practical guide
 ### Connections across the wiki
 
 AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
+
+AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI self-efficacy and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and self-regulated-learning scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
 
 ## Connected Concepts
 
@@ -1260,6 +1263,8 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 
 ---
 
@@ -1493,6 +1498,8 @@ The wiki argues that maintaining assessment validity requires redesigning assess
 
 Assessment validity connects to [[authentic-assessment]], [[automated-assessment|Automated Grading]], [[automated-assessment|Confidence Aware AI Assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
 
+AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption-transformation-2026|Hathcoat, Slotnick & Miller (2026)]] argue that when LLMs serve as test-takers, test-makers, raters, and analysts, the interpretive chain becomes opaque and the object of measurement loses definition — reframing validity as requiring AI-fluent "cyborg" judgment, and [[can-ai-evaluate-assessment-llm-meta-assessment-2026|Green et al. (2026)]] show AI scores can align with human raters (87% checklist) while the underlying rationale diverges, especially on measurement quality and weak reports.
+
 ## Connected Concepts
 
 - [[authentic-assessment]]
@@ -1524,6 +1531,8 @@ Assessment validity connects to [[authentic-assessment]], [[automated-assessment
 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 ---
 
@@ -1643,6 +1652,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based assessment
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 ---
 
@@ -1836,6 +1847,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
+- [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 ---
 
@@ -2461,6 +2474,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 
 - **The surrender-offloading-agency continuum.** The Sydney PreK-12 rapid review (Arthars et al. 2026, 271 papers) frames GenAI use across cognitive, metacognitive, and affective dimensions: *surrender* (responsibility for learning-relevant work shifts to GenAI, often unknowingly), *offloading* (deliberate, possibly productive delegation that becomes learning only if checked/elaborated), and *agency* (retaining responsibility for effort and judgment). It also warns of **metacognitive inequity**: weaker metacognitive students are more susceptible to detrimental offloading and less able to recognize it.^[[young-people-learning-generative-ai-rapid-review-2026]]
+AI dependency is not simply a product of technical skill: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] show that skill-based AI literacy predicted higher dependency (consistent with the enabling-capacity/offloading view), while AI and academic self-efficacy buffered against overreliance — indicating offloading is governed by motivational self-efficacy beliefs as much as by capability.
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -2548,6 +2563,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 
 ---
 
@@ -3728,6 +3744,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
 - [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[end-of-assessment-ai-disruption-transformation-2026]]
 
 ---
 
@@ -4755,7 +4772,7 @@ Formative assessment in AI education connects to the learning process itself:
 
 - **Feedback loops:** [[feedback|feedback loops]] are the mechanism by which formative assessment informs learning; AI tutors and adaptive systems close these loops at scale.
 - **Self-regulated learning:** formative feedback supports [[self-regulated-learning|self-regulated learning]] when students monitor progress and adjust; AI feedback should cultivate [[ai-internal-feedback-evaluative-judgments|evaluative judgment]], not displace it.
-- **Scaffolding:** [[scaffolding|scaffolding]] and formative assessment work together — AI can provide just-in-time hints and prompts, though sequenced feedback research cautions against over-structuring.
+- **Scaffolding:** [[scaffolding]] and formative assessment work together — AI can provide just-in-time hints and prompts, though sequenced feedback research cautions against over-structuring.
 - **Validity and quality:** the [[ai-feedback-quality|quality]] and [[assessment-validity|validity]] of AI-generated formative items and feedback must be evaluated; [[ai-ed-evaluation]] provides the methods.
 
 ## Risk: Assessment as surveillance
@@ -5250,6 +5267,7 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 - [[prompt-injection-defenses-educational-llm-tutors]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 ---
 
@@ -5506,7 +5524,7 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 
 The wiki's evidence shows that human-AI collaboration is a double-edged arrangement whose outcome is determined by design rather than by AI itself:
 
-- **Collaboration can enhance learning when it preserves cognitive engagement.** Studies of [[genai-mindtool-generative-learning|GenAI as a mindtool]] and guided collaboration show that when the division of labor keeps the learner generating, deciding, and evaluating, AI augments rather than replaces thinking — producing durable [[self-regulated-learning|self-regulated learning]] and [[creativity|creativity]] gains.
+- **Collaboration can enhance learning when it preserves cognitive engagement.** Studies of [[genai-mindtool-generative-learning|GenAI as a mindtool]] and guided collaboration show that when the division of labor keeps the learner generating, deciding, and evaluating, AI augments rather than replaces thinking — producing durable [[self-regulated-learning|self-regulated learning]] and [[creativity]] gains.
 - **Collaboration can substitute for learning when it offloads too much.** The failure mode is [[cognitive-offloading|over-reliance]]: when AI produces the answer, the learner's role collapses into passive acceptance, and immediate task performance masks a lack of durable learning. [[genai-performance-vs-learning|Performance-versus-learning]] research and the substitution-to-scaffolding harm cycle ([[substitution-to-scaffolding-ai-harm-cycle-2026]]) document this systematically.
 - **Design principle — preserve the learner's productive work.** Across the research, the sharpest predictor of whether collaboration helps or harms is *who generates and decides*. Arrangements that keep the human cognitively productive (guided prompting, "think first, then consult AI," verification and evaluation steps) support learning; arrangements that hand the whole task to the model do not.
 - **Trust must be calibrated, not assumed.** Productive collaboration depends on learners accurately calibrating when to rely on and when to verify AI output — connecting to [[trust-calibration]] and [[human-in-the-loop-ai|human oversight]] rather than blind acceptance or blanket rejection.
@@ -5520,7 +5538,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **Orchestration and agency:** [[teacher-student-agency-orchestration|Teacher–student agency orchestration]] and [[student-mental-models-genai|student mental models]] address how agency is negotiated across humans and AI, connecting to [[human-in-the-loop-ai]] and [[agentic-ai]].
 - **Metacognitive and team dimensions:** [[haiml-human-centered-ai-metacognitive-model-2026|Human-centered AI metacognitive models]] and [[spritz-ai-disciplinary-mediation-student-teams-2026|disciplinary mediation in student teams]] extend collaboration to metacognition and team learning.
 - **Distinct collaboration modes:** empirical work identifies three human–AI collaborative problem-solving modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-regulation).^[[hao-human-ai-collaborative-problem-solving-cognition]]
-- **Guidance decides performance versus learning:** Wong and Qiu (2026) contrasted free vs. guided human–AI collaboration on a creative task. Freely collaborating with ChatGPT produced only transient performance that collapsed on a later unassisted task, whereas a guided "think first, ChatGPT later" protocol — generating one's own ideas, then using ChatGPT to improve, develop, and evaluate them — yielded durable gains in *independent* [[creativity|creativity]]. The advantage was mediated by collaborative prompts aimed at improving one's *own* ideas, showing that *who generates* (the division of labor) predicts whether collaboration produces [[self-regulated-learning|learning]] or [[cognitive-offloading|substitution]].^[[think-first-chatgpt-later-2026]]
+- **Guidance decides performance versus learning:** Wong and Qiu (2026) contrasted free vs. guided human–AI collaboration on a creative task. Freely collaborating with ChatGPT produced only transient performance that collapsed on a later unassisted task, whereas a guided "think first, ChatGPT later" protocol — generating one's own ideas, then using ChatGPT to improve, develop, and evaluate them — yielded durable gains in *independent* [[creativity]]. The advantage was mediated by collaborative prompts aimed at improving one's *own* ideas, showing that *who generates* (the division of labor) predicts whether collaboration produces [[self-regulated-learning|learning]] or [[cognitive-offloading|substitution]].^[[think-first-chatgpt-later-2026]]
 - **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
 - **The mediational agent as a hybrid form of participation.** Rather than a midpoint between tool and collaborator, generative AI is conceptualized as a mediational agent that mediates action while generating contingent, non-accountable contributions — a distinct category that redirects design from technological capability to habits of participation (supervisory agency, epistemic vigilance).^[[mediational-agent-genai-sociocultural-2026]]
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
@@ -8619,6 +8637,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
+- [[end-of-assessment-ai-disruption-transformation-2026]]
 
 ---
 
@@ -8723,7 +8742,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Scaffolded use sequences: think first, AI second, reflect third.** Eight design principles for integrating LLMs without displacing [[critical-thinking]]: preserve cognitive friction, position AI as a provisional thinking partner rather than an authority, embed evaluation checkpoints, require metacognitive journaling and prompt logs, and balance AI-mediated with AI-free phases. Correlational evidence (independent work before AI produces stronger outputs) is strong; it is the pedagogically complete version of Tier 1.
 
-**AI literacy and prompting literacy with deliberate practice and immediate [[feedback|feedback]].** A K-12 module using scenario-based prompt practice with an LLM auto-grader improved actual prompting skills and raised confidence in using AI for learning **+10.4%**, with 87% reporting they learned how to use AI responsibly. Demonstrated skill gains; the open question is whether these convert into downstream learning outcomes. It also addresses the equity gap in prior AI access.
+**AI literacy and prompting literacy with deliberate practice and immediate [[feedback]].** A K-12 module using scenario-based prompt practice with an LLM auto-grader improved actual prompting skills and raised confidence in using AI for learning **+10.4%**, with 87% reporting they learned how to use AI responsibly. Demonstrated skill gains; the open question is whether these convert into downstream learning outcomes. It also addresses the equity gap in prior AI access.
 
 **Structured AI-use declaration frameworks.** Replacing generic "I used AI" checkboxes with domain-specific declarations that map use to cognitive stages (structural planning vs. content generation) forces reflection on the learning process and clarifies the boundary between acceptable assistance and misconduct, shifting the emphasis from policing to professional practice.
 
@@ -8791,6 +8810,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 
 ---
 
@@ -9259,6 +9279,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — HCAP Framework
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 
 ---
 
@@ -9395,6 +9416,7 @@ For example:
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 
 ---
 
@@ -19222,6 +19244,59 @@ Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026).
 
 ---
 
+## [Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance](https://edtechdev.github.io/aied/articles/can-ai-evaluate-assessment-llm-meta-assessment-2026/)
+
+# Can AI Evaluate Assessment?
+
+## Core Finding
+
+Can large language models ([[llm|ChatGPT-5]] and Microsoft Copilot Pro) conduct **meta-assessment** — evaluating the quality of assessment reports? Comparing AI ratings to a human expert across three report versions (strong/moderate/weak), an evaluation format (checklist vs. rubric), three assessment elements, and five replications, AI aligned with human ratings at **87% (checklist)** and **44–50% (rubric)** agreement overall — but the number alone obscures deep limitations: AI struggled most with **measurement quality** and weak/high-error reports, and even when scores agreed, AI's *rationale* often conflicted with expert reasoning. AI is a **valuable supplemental tool**, not a replacement for human expertise.
+
+## Key Findings
+
+- **Format matters greatly.** The binary checklist produced high overall agreement (ChatGPT-5 = 87%, Copilot Pro = 89%) because its simple decision structure limits disagreement; the more nuanced rubric produced far lower agreement (44% and 50%) and revealed much larger divergences. The only major checklist failure was Use of Results on the weak report, where both models credited intent rather than evidence.
+- **AI is better on high-quality reports.** Agreement was strongest for the strong report across both formats, and declined as quality fell. On weaker reports, AI frequently **inflated** scores and failed to penalize missing or misclassified evidence (e.g., Copilot consistently scored the weak report's Improvement element a perfect 1 in the checklist).
+- **Measurement is the hardest element.** Use of Results had the highest agreement (68%), followed by SLOs (61%) and Measures (54%) — but this understates the problem: AI had consistent difficulty judging outcome–measure alignment and distinguishing direct from indirect evidence, errors that cascaded into other ratings.
+- **Four recurring error types:** (1) **hallucinations** (fabricated SLOs — two true instances), (2) **misses** (failing to detect missing/low-quality evidence on weaker reports), (3) **misplaced attention** (e.g., Copilot basing an Interpretation of Results rating on the Use of Results section), and (4) **misapplication of criteria** (faulty judgment applied to correctly identified content). These often intersected.
+- **Secure agreement ≠ sound rationale.** Even where human and AI scores matched, the underlying reasoning often differed. AI accepted report labels at face value (e.g., taking "exit interview" as a direct measure) and treated any mention of "change" as proof of data-informed improvement — suggesting credible-sounding but misleading labels could fool untrained LLMs. Human expertise adds contextual, nonverbal-perceptual reasoning AI currently lacks.
+- **Model differences:** ChatGPT-5 was stricter, more conservative, and more variable (occasionally returning fractional scores to signal uncertainty and adopting an unnecessarily strict linguistic standard); Copilot Pro was highly stable but consistently lenient/inflated.
+
+## Practical Implications
+
+- **Use AI as a supplement, not a replacement.** For strong reports or a simple checklist, AI can streamline initial review and efficiently flag vague language and non-student-centered phrasing — useful especially for faculty/staff new to assessment.
+- **Keep human judgment on measurement and weak reports.** AI is least reliable at evaluating measurement quality/alignment and low-quality reports — exactly where faculty need developmental support. A hybrid model (AI for initial screens, humans for nuanced elements) can offset staffing limits in assessment offices.
+- **Expect and guard against label-based overcredulity.** LLMs accepted surface labels at face value; institutions should verify AI verdicts against evidence rather than trust labels, and mirror this training for new human raters too.
+- **Establish review and verification guidelines.** Institutions adopting AI for [[assessment|meta-assessment]] should set clear policies for human oversight, disclosure of AI use in feedback, and data-privacy handling (what is stored or used for training) — especially with real institutional data.
+- **Use AI meta-assessment as a reflective training byproduct.** The process of prompting and asking AI to justify ratings encourages assessment professionals to critically reflect on their own criteria and rationale — itself a valuable professional-development outcome.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[assessment-validity]]
+- [[automated-assessment]]
+- [[educational-measurement]]
+- [[ai-feedback-quality]]
+- [[llm]]
+- [[hallucination-risk]]
+- [[human-in-the-loop-ai]]
+- [[psychometrically-aware-ai]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[end-of-assessment-ai-disruption-transformation-2026]] — The End of Assessment? Disruption and transformation in the age of AI
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in an AI-mediated world
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+- [[assessment-latent-structure-human-llm-2026]] — Assessment latent structure: human vs. LLM
+
+## Citation
+
+Green, K., Bao, Y., LeRoy, S., & Good, M. (2026). *[Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance](https://www.rpajournal.com/rpa-archives/)*. Research & Practice in Assessment, 21(2).
+
+---
+
 ## [The care-full craft of feedback in an age of generative AI](https://edtechdev.github.io/aied/articles/care-full-feedback-genai/)
 
 ## Summary
@@ -24715,6 +24790,65 @@ Siyan et al. (2026) conduct a carefully controlled experiment isolating the effe
 ## Citation
 
 Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, Zhou Yu (2026). [Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions](https://arxiv.org/abs/2606.26641). arXiv:2606.26641. cs.HC.
+
+---
+
+## [The End of Assessment? Disruption and Transformation in the Age of AI](https://edtechdev.github.io/aied/articles/end-of-assessment-ai-disruption-transformation-2026/)
+
+# The End of Assessment? Disruption and Transformation in the Age of AI
+
+## Core Finding
+
+Generative AI is collapsing the long-standing boundaries between learner, test, and assessor — an **epistemic disruption** in what counts as evidence of learning. These systems can be test-takers, test-makers, test-raters, *and* analysts/reporters simultaneously. Rather than merely adding a tool, AI dissolves the field's traditional representational-measurement paradigm. The authors argue assessment must transform from static measurement into an **evidence ecosystem** centered on meaning-making, justice, and AI literacy, led by a "cyborg" assessment professional fluent in both disciplinary assessment expertise and AI.
+
+## Key Findings
+
+- **AI as test-taker, test-maker, test-rater, and analyst.** LLMs ([[llm|ChatGPT, Claude, Gemini]]) can complete the same tasks used to evaluate students (essays, quantitative problems, code, data analysis) and have excelled on the bar, medical licensing, and SAT. They can also generate items, rubrics, and validity documentation in seconds; score written work with speed and consistency; and synthesize institutional findings for accreditation — redistributing the interpretive authority once reserved for assessment professionals.
+- **Validity is thrown into question.** The authors anchor on [[assessment-validity|Messick's]] (1989) integrative-judgment definition of validity. When AI designs the very measures from which evidence is derived, the interpretive chain becomes opaque: are we assessing a construct grounded in human theory, or one generated from statistical patterns in training data?
+- **Justice is a validity question.** Validity is inseparable from value implications. AI can encode dominant linguistic patterns and rhetorical styles as quality markers — e.g., privileging standardized academic English and misclassifying equally sophisticated reasoning from multilingual or culturally marginalized learners — and AI image generators represent White individuals more accurately than people of color (Yang, 2025). These biases are not just ethical concerns but direct threats to validity, connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
+- **AI literacy becomes assessment literacy.** Where traditional assessment literacy involved rubrics, reliability, and validity, AI literacy extends this to prompting, data interpretation, and understanding how generative systems produce evidence. Without it, practitioners, faculty, and students risk becoming passive consumers of algorithmic judgments ([[ai-literacy]]).
+
+- **The "cyborg" assessment professional.** The field's future is a hybrid worker who combines high AI literacy with high disciplinary/assessment expertise — designing prompts with intention, creating human-machine partnerships, auditing outputs for bias, shaping data pipelines, and stewarding institutional meaning-making. A two-axis framework (AI literacy × disciplinary/content expertise) yields four quadrants, and the authors outline a pathway from traditional assessment specialist (low AI literacy) through "AI Explorer" to the cyborg/Futurist Assessment Professional.
+- **A national Community of Practice as a case in transition.** The Generative AI in Assessment CoP, launched by the Assessment Institute in 2025 with ~80 members (plus ~130 affiliates), reflects themes of urgency, desire, variation, constraint, and community — evidence that the field is actively negotiating new professional identities around AI-mediated evidence.
+
+## Assessment as meaning-making rather than measurement
+
+A central transformation claim is that assessment shifts from extracting scores to constructing meaning from complex, hybridized systems. AI can surface relationships too complex for humans to detect alone, but it cannot generate the **"why"** — the moral and contextual lens through which meaning is co-constructed. The assessment professional becomes "sensemaker-in-chief," a translator between algorithmic data and human understanding, and dashboards become evolving evidence narratives rather than snapshots.
+
+## Practical Implications
+
+- **Redesign what is assessed, not just how.** If AI participation in assessment is inevitable, the object of measurement must evolve from testing isolated knowledge to assessing how effectively students work *with* AI to interpret, apply, and evaluate knowledge. AI literacy becomes a foundational learning outcome for students and faculty.
+- **Treat AI equity audits as validity work.** As [[psychometrically-aware-ai|psychometrically aware AI]] is adopted, the field should audit training data, prompts, and results for representational bias — and resist treating dominant norms (e.g., standardized academic English) as neutral quality standards.
+- **Reconceive the assessor's role as auditor/translator.** Rather than guarding the purity of measurement, assessment professionals should position themselves as curators and stewards of algorithmic evidence — verifying, interpreting, and explaining AI-augmented results, and teaching others to question model reasoning.
+- **Pair AI scoring with human judgment.** While automated scoring offers speed and consistency, the authors emphasize unresolved questions of bias, fairness, and transparency — pointing to hybrid human-plus-AI scoring that keeps humans in the interpretive loop.
+- **Build the "cyborg" pathway deliberately.** Institutions should offer structured professional development (prompting, algorithmic auditing, data stewardship) to move the workforce from low-AI-literacy quadrants toward fluent, justice-oriented assessment practice, in line with the CoP model.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[assessment-validity]]
+- [[automated-assessment]]
+- [[psychometrically-aware-ai]]
+- [[educational-measurement]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[bias-mitigation]]
+- [[human-ai-collaboration]]
+- [[ai-feedback-quality]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[llm]]
+- [[item-response-theory]]
+
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
+- [[ai-assessment-scale-reform]] — AI Assessment Scale and reform
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+
+## Citation
+
+Hathcoat, J. D., Slotnick, R., & Miller, W. (2026). *[The End of Assessment? Disruption and Transformation in the Age of AI](https://www.rpajournal.com/the-end-of-assessment-disruption-and-transformation-in-the-age-of-ai/)*. Research & Practice in Assessment, 21(3).
 
 ---
 
@@ -43975,6 +44109,62 @@ This work suggests exam designers should treat the cheat-sheet decision as a for
 ## Citation
 
 Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). [Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets](https://arxiv.org/abs/2607.24736). arXiv:2607.24736.
+
+---
+
+## [Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies](https://edtechdev.github.io/aied/articles/student-dependency-on-ai-literacy-self-efficacy-2026/)
+
+# Understanding Student Dependency on AI
+
+## Core Finding
+
+Among 478 Israeli higher-education students, AI literacy is a **double-edged factor**: its skill-based dimensions (using/understanding AI) were *positively* associated with reported AI dependency, while **self-efficacy** (both academic and AI-specific) and **effort regulation** were *negatively* associated. AI literacy alone does not protect against overreliance — it can even enable it. Self-efficacy beliefs and self-regulated learning practices appear at least as important as technical skill for balanced, intentional AI engagement.
+
+## Key Findings
+
+- **Multidimensional AI literacy operates in opposing directions.** The skill-based dimensions (using/understanding AI: β = 0.404, the strongest predictor; detecting AI: β = 0.108) were positively associated with dependency. In contrast, **AI self-efficacy** (confidence in one's own AI competence) was negatively associated (β = −0.132), mirroring academic self-efficacy (β = −0.197). This suggests a "compensatory" mechanism: strong skills enable offloading, but strong self-efficacy buffers against it ([[cognitive-offloading]], [[self-efficacy]]).
+- **The model explained 27.3% of variance** in AI dependency (F(8,469)=22.03) — a meaningful improvement over the 22.1% from a single aggregate AI literacy score, confirming that multidimensional treatment adds explanatory value.
+- **Effort regulation predicted lower dependency** (β = −0.134); **general academic help seeking predicted higher dependency** (β = 0.124); time/study management was not significant. The help-seeking measure captures human sources, so the finding does not show AI substituting for human help.
+- **Four student profiles emerged** (K-means cluster analysis): **HL** (high literacy, low dependency — most adaptive), **MM** (moderate/moderate), **LL** (low/low), and **HH** (high literacy, high dependency). The HL profile scored highest on academic self-efficacy, time/study management, and effort regulation; HH — despite strong technical knowledge — did not lead on any self-regulation measure, suggesting reliance may undermine learner autonomy and create an illusion of competence.
+- **The dual structure within AI literacy** (skills that enable use vs. beliefs that govern reliance) is a novel contribution to the AI-dependency literature, supporting calls to treat [[ai-literacy]] as multidimensional rather than unitary.
+
+## The compensatory self-efficacy mechanism
+
+The central insight is that skill and confidence pull in opposite directions in predicting dependency. AI literacy curricula focused narrowly on technical skill (how to prompt, how to use tools) may **inadvertently increase dependency**. By contrast, curricula that also build students' sense that they can "think with AI rather than through AI" — and their general academic confidence — may protect against overreliance. The authors frame this as a shift from a technological-instrumental conception of AI literacy toward a pedagogical, behavioral, and emotional one foregrounding self-regulation, self-awareness, and learner responsibility.
+
+## Practical Implications
+
+- **Do not treat AI-literacy training as sufficient for responsible use.** Fostering technical proficiency alone can raise dependency; pair it with interventions that build academic and AI self-efficacy and self-regulated learning.
+- **Scaffold self-regulation, not just prompting.** Students high in dependency report weaker effort regulation and time management — design instructional scaffolds for effort, time management, and reflective engagement with AI outputs (process documentation, reflective dialogue, critique of AI-generated outputs) rather than only tool skills.
+- **Differentiate support by learner profile.** Since four distinct profiles emerged with different needs, frameworks for learning and support should be adjusted to user characteristics — foundational AI skills for novice users, critical/reflective use for those already skilled.
+- **Interpret AI dependency as a self-regulation and motivation issue.** The differences among profiles reflect disparities in self-control, academic self-efficacy, persistence, and resource management — not mainly in technological knowledge or access. Position AI as a supportive resource embedded within emotional–behavioral skills that enable conscious, critical, autonomous use.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[cognitive-offloading]]
+- [[self-efficacy]]
+- [[self-regulated-learning]]
+- [[help-seeking]]
+- [[motivation]]
+- [[student-engagement]]
+- [[student-misconceptions-ai]]
+- [[reducing-ai-misuse]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[end-of-assessment-ai-disruption-transformation-2026]] — The End of Assessment? Disruption and transformation in the age of AI
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemic AI literacy in student-AI co-programming
+- [[genai-thoughtless-use-self-directed-learning-2026]] — GenAI and thoughtless use in self-directed learning
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
+
+## Citation
+
+Maizel, H., Kalman Halevi, M., Sarid, M., & Tutian, R. (2026). *[Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies](https://doi.org/10.3390/educsci16071123)*. Education Sciences, 16(7), 1123.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment in AI Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-19T17:06:43-04:00"
+updated: "2026-08-21T10:45:29-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 
@@ -51,7 +51,7 @@ Formative assessment in AI education connects to the learning process itself:
 
 - **Feedback loops:** [[feedback|feedback loops]] are the mechanism by which formative assessment informs learning; AI tutors and adaptive systems close these loops at scale.
 - **Self-regulated learning:** formative feedback supports [[self-regulated-learning|self-regulated learning]] when students monitor progress and adjust; AI feedback should cultivate [[ai-internal-feedback-evaluative-judgments|evaluative judgment]], not displace it.
-- **Scaffolding:** [[scaffolding|scaffolding]] and formative assessment work together — AI can provide just-in-time hints and prompts, though sequenced feedback research cautions against over-structuring.
+- **Scaffolding:** [[scaffolding]] and formative assessment work together — AI can provide just-in-time hints and prompts, though sequenced feedback research cautions against over-structuring.
 - **Validity and quality:** the [[ai-feedback-quality|quality]] and [[assessment-validity|validity]] of AI-generated formative items and feedback must be evaluated; [[ai-ed-evaluation]] provides the methods.
 
 ## Risk: Assessment as surveillance

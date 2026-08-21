@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-21T10:44:03-04:00"
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
 
@@ -84,3 +84,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
