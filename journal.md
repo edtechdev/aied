@@ -2128,7 +2128,7 @@
 
 - ◐ [[cognitive-commons-ai-expertise-regeneration]] — raw/papers/2607.29380.md
   The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
-  #generative-ai #professional-training #educational-theory #cognitive-offloading #lifelong-learning #cognitive-offloading #policy-maker #human-ai-collaboration #rag #ai-education
+  #generative-ai #professional-training #educational-theory #cognitive-offloading #lifelong-learning #policy-maker #human-ai-collaboration #rag #ai-education
 
 - ◐ [[structured-ai-demonstrations-engineering-mechanics]] — raw/papers/2607.28710.md
   Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results
