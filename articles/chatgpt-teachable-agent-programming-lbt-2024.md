@@ -18,7 +18,7 @@ Learning-by-teaching is an effective active-learning strategy, but traditional t
 
 - **Improved knowledge and programming gains.** Interacting with ChatGPT as a teachable agent improved students' knowledge gains and programming abilities, particularly in writing readable and logically sound code.
 - **Limited error-correction benefit.** The approach had limited impact on developing error-correction skills, likely because ChatGPT tends to generate correct code, reducing opportunities for students to practice debugging.
-- **Self-regulated learning gains.** Students' SRL abilities improved, suggesting that teaching ChatGPT fosters higher self-efficacy and better implementation of SRL strategies.
+- **Self-regulated [[learning-gains|learning gains]].** Students' SRL abilities improved, suggesting that teaching ChatGPT fosters higher self-efficacy and better implementation of SRL strategies.
 - **Role of natural dialogue.** Natural-language dialogue supports "socialized learning by teaching," where the conversational relationship with the agent drives engagement and reflection.
 
 ## Implications

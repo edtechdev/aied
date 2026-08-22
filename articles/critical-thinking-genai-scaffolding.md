@@ -54,7 +54,7 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 ## Connection to Existing Frameworks
 
-This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[tutoring-specific-vs-general-ai]] that pedagogically-designed AI outperforms raw LLM chatbots on learning outcomes. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on feedback literacy principles (Carless & Boud, 2018).
+This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[tutoring-specific-vs-general-ai]] that pedagogically-designed AI outperforms raw LLM chatbots on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on feedback literacy principles (Carless & Boud, 2018).
 
 P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 

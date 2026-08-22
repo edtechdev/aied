@@ -28,7 +28,7 @@ The near-universal reported use of LLMs in informal, everyday learning indicates
 
 ## Limitations
 
-The authors note that the sample, recruited exclusively from Germany via Prolific, may overrepresent tech-savvy, English-fluent individuals (mean AI literacy score = 3.06), and that cultural attitudes toward AI vary, so findings may not generalize to non-Western or less tech-savvy populations. The non-user subsample was small, so results for that group should be treated as exploratory and descriptive. The study measured self-reported LLM use and perceived purposes without measuring concrete learning outcomes, so no claims can be made about whether more frequent or highly satisfactory LLM use translates into deeper conceptual learning.
+The authors note that the sample, recruited exclusively from Germany via Prolific, may overrepresent tech-savvy, English-fluent individuals (mean AI literacy score = 3.06), and that cultural attitudes toward AI vary, so findings may not generalize to non-Western or less tech-savvy populations. The non-user subsample was small, so results for that group should be treated as exploratory and descriptive. The study measured self-reported LLM use and perceived purposes without measuring concrete [[learning-gains|learning outcomes]], so no claims can be made about whether more frequent or highly satisfactory LLM use translates into deeper conceptual learning.
 
 ## Connected Concepts
 

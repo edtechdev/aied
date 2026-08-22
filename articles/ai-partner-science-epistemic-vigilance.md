@@ -47,7 +47,7 @@ For science education, the argument reorients design: the many factors reported 
 - [[edtech-design-time-generative-ui]] — The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of [[learning-gains|Learning Outcomes]]
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 
 ## Citation

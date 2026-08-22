@@ -35,7 +35,7 @@ confidence: high
 - [[cognitive-offloading]]
 ## Connected Articles
 
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and [[learning-gains|Academic Performance]] in an Object-Oriented Programming Course
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

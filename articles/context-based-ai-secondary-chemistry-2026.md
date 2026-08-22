@@ -18,7 +18,7 @@ confidence: high
 
 ## Findings
 
-- **Achievement:** ANCOVA showed the experimental group scored **significantly higher** than both comparison and control groups, with a **large effect size**.
+- **[[learning-gains|Achievement]]:** ANCOVA showed the experimental group scored **significantly higher** than both comparison and control groups, with a **large effect size**.
 - **Engagement:** experimental-group students reported the highest levels of interest and participation.
 - **Synergy of components:** the three elements — contextualization, inquiry (7E), and adaptive AI — functioned synergistically. Contextual activities increased relevance and intrinsic motivation; the 7E cycle structured exploratory reasoning; AI provided real-time clarification and tailored explanations, reduced misconceptions, and supported self-paced learning.
 - **Teacher dependence:** qualitative data showed the benefits relied on teacher guidance and careful lesson planning, not on the tools alone.

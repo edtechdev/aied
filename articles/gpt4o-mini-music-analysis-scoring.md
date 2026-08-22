@@ -17,7 +17,7 @@ confidence: high
 
 300 university-level music analysis responses scored by teachers on four dimensions (Harmony, Form, Reasoning, Terminology) benchmarked against three GPT-4o-mini prompting strategies.
 
-Fs+CoT (few-shot + chain-of-thought) showed the strongest agreement with teacher mean scores in both single-pass and median-aggregated conditions.
+Fs+CoT (few-shot + chain-of-thought) showed the strongest agreement with teacher [[learning-gains|mean scores]] in both single-pass and median-aggregated conditions.
 
 RAG showed systematic over-scoring; SC (self-consistency over 5 generations) was highly repeatable but weaker at individual-level agreement.
 

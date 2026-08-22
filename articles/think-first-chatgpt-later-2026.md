@@ -79,4 +79,4 @@ The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI
 
 ## Citation
 
-Wong, S. S. H., & Qiu, S. X. (2026). [*Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity*](https://doi.org/10.1007/s10648-026-10118-7). *Educational Psychology Review*, 38(45). https://doi.org/10.1007/s10648-026-10118-7
+Wong, S. S. H., & Qiu, S. X. (2026). [*Think First, ChatGPT Later: Guiding Human–AI Collaboration for [[learning-gains|Learning Gains]] in Independent Human Creativity*](https://doi.org/10.1007/s10648-026-10118-7). *Educational Psychology Review*, 38(45). https://doi.org/10.1007/s10648-026-10118-7

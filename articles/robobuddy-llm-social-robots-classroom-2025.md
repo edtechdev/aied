@@ -27,7 +27,7 @@ RoboBuddy demonstrates how [[llm|LLM-powered]] [[educational-robotics]] can make
 
 ## Limitations
 
-The deployment was a single-week study with 27 students, limiting generalizability and insight into long-term effects. The interface and activity frameworks were co-designed with four teachers, so the design reflects their context. The study focused on integration policies and scenario-based efficacy, with learning outcomes not comprehensively measured.
+The deployment was a single-week study with 27 students, limiting generalizability and insight into long-term effects. The interface and activity frameworks were co-designed with four teachers, so the design reflects their context. The study focused on integration policies and scenario-based efficacy, with [[learning-gains|learning outcomes]] not comprehensively measured.
 
 ## Connected Concepts
 

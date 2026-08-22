@@ -61,7 +61,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 1. **No educational evaluation:** Persona-MME benchmark tests general personal assistant scenarios, not tutoring
 2. **Privacy concerns in K-12:** Longitudinal student memory raises FERPA/COPPA questions; PersonaVLM's self-contained pipeline (no API dependency) mitigates this but local deployment remains infrastructure-heavy
 3. **Bias risk:** Personality inference from limited student interaction may stereotype; EMA smoothing helps but doesn't eliminate it
-4. **Personality vs. competence:** Big Five alignment optimizes for user satisfaction, not necessarily learning outcomes—these can conflict (e.g., a student prefers easy answers, but learning requires productive struggle)
+4. **Personality vs. competence:** Big Five alignment optimizes for user satisfaction, not necessarily [[learning-gains|learning outcomes]]—these can conflict (e.g., a student prefers easy answers, but learning requires productive struggle)
 
 ## Open Questions
 

@@ -8,7 +8,7 @@ sources: []
 confidence: high
 ---
 
-> **Synthesis:** This study compares the pedagogical effects on students' design thinking and students' perceptions of feedback systems by GenAI and human instructors. A within-class randomized experimental design with 80 undergraduates revealed no significant overall difference in learning gains but identified respective stage-specific strengths: GenAI proved more effective during the empathise stage (superior timeliness and privacy), while human instructors excelled in the prototype stage (contextual anchoring). Comparable effects yet complementary functions were observed in other stages.
+> **Synthesis:** This study compares the pedagogical effects on students' design thinking and students' perceptions of feedback systems by GenAI and human instructors. A within-class randomized experimental design with 80 undergraduates revealed no significant overall difference in [[learning-gains|learning gains]] but identified respective stage-specific strengths: GenAI proved more effective during the empathise stage (superior timeliness and privacy), while human instructors excelled in the prototype stage (contextual anchoring). Comparable effects yet complementary functions were observed in other stages.
 
 ## Key Findings
 

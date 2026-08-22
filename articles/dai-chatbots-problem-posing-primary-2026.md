@@ -18,7 +18,7 @@ confidence: high
 
 3. **Lower cognitive load, higher acceptance.** The chatbot group reported lower cognitive load and higher technology acceptance than the search-engine group.
 
-4. **Three rounds of progressive inquiry.** Following three rounds of progressive problem-based inquiry learning, students' problem posing ability increased significantly in both groups (number and quality dimensions), with chatbots amplifying the effect.
+4. **Three rounds of progressive inquiry.** Following three rounds of progressive problem-based inquiry [[learning-gains|learning]], students' problem posing ability increased significantly in both groups (number and quality dimensions), with chatbots amplifying the effect.
 
 ## Implications
 

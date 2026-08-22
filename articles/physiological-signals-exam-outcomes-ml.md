@@ -20,7 +20,7 @@ confidence: medium
 
 ## Study Design & Method
 
-Physiological stress indicators — electrodermal activity, heart rate, and skin temperature — were collected during examination sessions and analyzed to uncover their association with academic performance. A diverse set of machine learning approaches was employed, ranging from standard models (logistic regression, random forest, support vector machines) to advanced architectures (transformers, long short-term memory, and gated recurrent unit models), with a key focus on assessing the adaptability of transformers in processing numerical data. Standard performance metrics — accuracy, precision, recall, and F1-score — were used to compare model efficacy, and trend analysis was conducted across 30 replicates to examine the mean performance and consistency of the models.
+Physiological stress indicators — electrodermal activity, heart rate, and skin temperature — were collected during examination sessions and analyzed to uncover their association with [[learning-gains|academic performance]]. A diverse set of machine learning approaches was employed, ranging from standard models (logistic regression, random forest, support vector machines) to advanced architectures (transformers, long short-term memory, and gated recurrent unit models), with a key focus on assessing the adaptability of transformers in processing numerical data. Standard performance metrics — accuracy, precision, recall, and F1-score — were used to compare model efficacy, and trend analysis was conducted across 30 replicates to examine the mean performance and consistency of the models.
 
 ## Implications for AI in Education
 

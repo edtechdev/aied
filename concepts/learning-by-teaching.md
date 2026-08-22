@@ -39,7 +39,7 @@ Two further affordances recur across the wiki:
 
 ## Why It Matters in AI Education
 
-Learning by teaching is the constructive, [[active-learning]] counterpoint to the dominant LLM-as-tutor pattern. Where a tutor gives answers (and risks [[cognitive-offloading|Over-Reliance]]), an LbT setup makes the student the teacher, forcing explanation, gap-detection, and knowledge construction. This positions LbT as a key strategy for turning generative AI from a crutch into a tool for deeper learning, and connects to [[desirable-difficulties]], [[active-learning]], and [[constructivist|constructivist]] pedagogy.
+Learning by teaching is the constructive, [[active-learning]] counterpoint to the dominant LLM-as-tutor pattern. Where a tutor gives answers (and risks [[cognitive-offloading|Over-Reliance]]), an LbT setup makes the student the teacher, forcing explanation, gap-detection, and knowledge construction. This positions LbT as a key strategy for turning generative AI from a crutch into a tool for deeper learning, and connects to [[desirable-difficulties]], [[active-learning]], and [[constructivist]] pedagogy.
 
 ## Design Implications
 

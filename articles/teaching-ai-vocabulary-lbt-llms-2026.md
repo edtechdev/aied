@@ -18,7 +18,7 @@ Learning-by-teaching helps learners deepen understanding by explaining concepts 
 
 - **High learning effectiveness.** Learners using the proposed system showed improved performance versus a baseline vocabulary-learning system, with test-score distributions shifting positively.
 - **Improved retention.** Results showed improved memory retention at 3 and 7 days after learning.
-- **Learner traits matter.** The study identified traits linked to better learning outcomes, highlighting potential for tailored/adaptive approaches.
+- **Learner traits matter.** The study identified traits linked to better [[learning-gains|learning outcomes]], highlighting potential for tailored/adaptive approaches.
 - **Scalable and cost-effective.** The LLM-based approach supports scalable, cost-effective learning-by-teaching across fields, addressing the expense and rigidity of template-based systems.
 
 ## Implications

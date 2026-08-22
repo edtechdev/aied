@@ -14,7 +14,7 @@ This large-scale survey of humanities and social sciences (HSS) students in Chin
 
 ## Key Findings
 
-**Usage patterns:** HSS students use GenAI primarily for writing assistance, information synthesis, and idea generation — tasks that align closely with HSS learning outcomes expressed through written and interpretive forms. Variations emerged by discipline and duration of GenAI experience, with modest gender differences.
+**Usage patterns:** HSS students use GenAI primarily for writing assistance, information synthesis, and idea generation — tasks that align closely with HSS [[learning-gains|learning outcomes]] expressed through written and interpretive forms. Variations emerged by discipline and duration of GenAI experience, with modest gender differences.
 
 **Learning processes:** More than half of students perceived enhanced motivation, independent thinking, and creativity. However, a substantial minority reported little change or even decline, suggesting that [[personalized-learning]] approaches to GenAI integration may be necessary.
 

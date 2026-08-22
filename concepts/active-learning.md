@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T11:35:39-04:00"
+updated: "2026-08-22T06:25:00-04:00"
 type: concept
 tags: [active-learning, instructional-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
 confidence: high
@@ -41,7 +41,11 @@ Active learning is precisely operationalized by the [[icap-framework|ICAP framew
 
 Active learning is deeply connected to [[collaborative-learning]] (much active learning is social), [[learning-by-teaching]] (explaining to others is maximally active), [[project-based-learning]] and [[experiential-learning]] (learning by doing in authentic contexts), [[embodied-learning]] (physical engagement), [[game-based-learning]], and [[simulation]]. It relies on [[scaffolding]] and timely [[feedback]], and is threatened by [[cognitive-offloading|over-reliance]] when AI substitutes for effort. Grounded in [[constructivist]] and [[learning-theories]], it spans [[higher-ed]], [[k-12]], and [[stem-education]].
 
+Active learning is one of the strongest levers on [[learning-gains|learning gains]] in the AI era. Because active strategies build understanding through effortful doing, they are the most robust to AI short-circuiting — and the wiki's evidence shows that preserving that effort protects durable learning while letting AI absorb it erodes it ([[generative-ai-reduced-study-time-math|reduced study time]], [[stromberg-generative-ai-learning-penalty-secondary-2026|the learning penalty]], [[lak2026-hint-button-unproductive-use|hint abuse]]). Instructors who pair active-learning designs with [[learning-gains|measured gains]] on unassisted outcomes get the clearest picture of whether AI-assisted activity actually improved learning.
+
 ## Connected Concepts
+
+- [[learning-gains]]
 
 - [[problem-based-learning]]
 - [[learning-by-teaching]]

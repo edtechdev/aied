@@ -63,7 +63,7 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 - [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
-- [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
+- [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for [[learning-gains|Learning Outcomes]] of Delayed Start Behavior
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners

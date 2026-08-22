@@ -27,7 +27,7 @@ The paper supports [[educational-robotics|robotics]] as a vehicle for developing
 
 ## Limitations
 
-As a conceptual and literature-based paper, it presents a proposal rather than empirical evidence of learning outcomes; the proposed curriculum integration is not yet validated in practice. The focus is on the secondary-school context and STEAM subjects, so generalizability to other levels and disciplines is limited.
+As a conceptual and literature-based paper, it presents a proposal rather than empirical evidence of [[learning-gains|learning outcomes]]; the proposed curriculum integration is not yet validated in practice. The focus is on the secondary-school context and STEAM subjects, so generalizability to other levels and disciplines is limited.
 
 ## Connected Concepts
 

@@ -30,7 +30,7 @@ The study contributes to understanding [[cognitive-offloading]] as observable pa
 
 ## Limitations
 
-The study is context-specific (a social network analysis course, LLM-based dataset generation), and the prompting patterns may not generalize to other task types or disciplines. The "leveling" tendency could reflect the specific task design (minimal-effort tasks with plausible instant outputs) rather than a general characteristic of LLM-assisted work, as the authors acknowledge. The sample is 281 prompts from 122 submissions at a single university. Prompt quality was inferred from output quality, and the relationship between prompting behavior and learning outcomes is not directly causally tested.
+The study is context-specific (a social network analysis course, LLM-based dataset generation), and the prompting patterns may not generalize to other task types or disciplines. The "leveling" tendency could reflect the specific task design (minimal-effort tasks with plausible instant outputs) rather than a general characteristic of LLM-assisted work, as the authors acknowledge. The sample is 281 prompts from 122 submissions at a single university. Prompt quality was inferred from output quality, and the relationship between prompting behavior and [[learning-gains|learning outcomes]] is not directly causally tested.
 
 ## Connected Concepts
 

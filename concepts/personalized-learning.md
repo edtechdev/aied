@@ -13,7 +13,7 @@ Tailoring educational experiences to individual learner profiles, including prio
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a [[multimodal|multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.
+Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
@@ -35,7 +35,7 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 ## Personalization in the AI era
 
-Generative AI has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency|agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The wiki's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
+Generative AI has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The wiki's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
 
 ## Terminological ambiguity
 

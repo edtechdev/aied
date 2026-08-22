@@ -21,7 +21,7 @@ confidence: high
 
 ## Study Design & Method
 
-The study is grounded in the internal feedback paradigm: students generate feedback by comparing their work against external information (exemplars, criteria, goals, AI feedback) — with the comparison itself producing the learning gain. Each task cycle had students write an initial draft, set goals, rank their draft against three AI-generated exemplars of varied quality and justify the ranking, request and compare DeepSeek R1 feedback, revise, and set goals for the next task. The instructor (a senior lecturer with over 15 years of experience) explained the writing criteria in advance. Data sources were students' self-reflection forms, semi-structured interviews, and initial and revised essay drafts, analysed qualitatively to trace evaluative judgment development over time.
+The study is grounded in the internal feedback paradigm: students generate feedback by comparing their work against external information (exemplars, criteria, goals, AI feedback) — with the comparison itself producing the [[learning-gains|learning gain]]. Each task cycle had students write an initial draft, set goals, rank their draft against three AI-generated exemplars of varied quality and justify the ranking, request and compare DeepSeek R1 feedback, revise, and set goals for the next task. The instructor (a senior lecturer with over 15 years of experience) explained the writing criteria in advance. Data sources were students' self-reflection forms, semi-structured interviews, and initial and revised essay drafts, analysed qualitatively to trace evaluative judgment development over time.
 
 ## Key Results
 

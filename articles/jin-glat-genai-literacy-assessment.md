@@ -31,7 +31,7 @@ The instrument's items were built from a blueprint of 25 GenAI concepts organize
 
 The GLAT provides educators and researchers with a reliable, valid, performance-based tool for diagnosing GenAI literacy in [[higher-ed]], complementing or replacing biased self-report surveys. By identifying learners' actual GenAI competencies, it can guide targeted interventions and curriculum design that build foundational GenAI knowledge, practical prompting skills, and ethical awareness.
 
-Its successful use of [[item-response-theory]] and [[educational-measurement]] methods illustrates a model for developing psychometrically rigorous AI assessments, relevant to the broader [[ai-ed-evaluation]] agenda. The finding that objective test performance beats self-report for predicting real GenAI-supported learning outcomes reinforces calls to move beyond self-perception measures in AI literacy research.
+Its successful use of [[item-response-theory]] and [[educational-measurement]] methods illustrates a model for developing psychometrically rigorous AI assessments, relevant to the broader [[ai-ed-evaluation]] agenda. The finding that objective test performance beats self-report for predicting real GenAI-supported [[learning-gains|learning outcomes]] reinforces calls to move beyond self-perception measures in AI literacy research.
 
 The authors note important scope limits: GLAT was validated only with higher education students, uses specialized GenAI terminology, is delivered in English, and its external validity rests on a context-specific visual-analytics task. As [[generative-ai]] and [[llm]] technologies evolve rapidly, the instrument must be continually updated and extended across educational levels, disciplines, and languages to remain relevant.
 

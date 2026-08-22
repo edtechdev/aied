@@ -12,7 +12,7 @@ confidence: high
 
 ## Key Findings
 
-This study examined the effects of pedagogical agents (real vs. virtual) and metaphorical design on learners' performance, attention, comprehension, and psychological distance in a 2x2 between-subjects design with 129 learners. Results showed both virtual pedagogical agents and metaphorical design improved learning performance and reduced psychological distance. Metaphorical design specifically increased cognitive effort and enhanced virtual agents' perceived human-likeness. Spatial and hypothetical distances mediated the effects on learning performance.
+This study examined the effects of pedagogical agents (real vs. virtual) and metaphorical design on learners' performance, attention, comprehension, and psychological distance in a 2x2 between-subjects design with 129 learners. Results showed both virtual pedagogical agents and metaphorical design improved [[learning-gains|learning]] performance and reduced psychological distance. Metaphorical design specifically increased cognitive effort and enhanced virtual agents' perceived human-likeness. Spatial and hypothetical distances mediated the effects on learning performance.
 
 ## Connected Concepts
 - [[agentic-ai]]

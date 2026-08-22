@@ -9,7 +9,7 @@ sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
 
-> **Stanford Evidence Base: AI in K-12 Education** — A 2026 systematic review from the Stanford SCALE Initiative analyzing 818 papers on AI in K-12 education. The central finding is stark: only 20 studies provide strong causal evidence, and zero high-quality causal studies examine U.S. K-12 student settings. The evidence that exists reveals a consistent pattern — AI improves performance during use but gains frequently fail to persist or transfer, and general-purpose AI tools can actively harm learning outcomes compared to pedagogically designed alternatives.
+> **Stanford Evidence Base: AI in K-12 Education** — A 2026 systematic review from the Stanford SCALE Initiative analyzing 818 papers on AI in K-12 education. The central finding is[[learning-gains|learning outcomes]]tudies provide strong causal evidence, and zero high-quality causal studies examine U.S. K-12 student settings. The evidence that exists reveals a consistent pattern — AI improves performance during use but gains frequently fail to persist or transfer, and general-purpose AI tools can actively harm learning outcomes compared to pedagogically designed alternatives.
 
 **Stanford SCALE Initiative, AI Hub for Education** — Published 2026. Analysis of repository spanning through October 2025.
 

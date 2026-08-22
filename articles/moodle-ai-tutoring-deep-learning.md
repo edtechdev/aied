@@ -33,7 +33,7 @@ Unlike [[tutoring-specific-vs-general-ai]] debates about specialized tutors, thi
 
 ## Open Questions
 
-- How does in-LMS tutoring compare to standalone systems in learning outcomes?
+- How does in-LMS tutoring compare to standalone systems in [[learning-gains|learning outcomes]]?
 - Can the deep learning scaffolding generalize across disciplines beyond the tested contexts?
 - What is the instructor's role when AI handles adaptive questioning within Moodle?
 

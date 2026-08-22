@@ -13,7 +13,7 @@ confidence: high
 
 This descriptive study documents student LLM use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of domain-specific empirical evidence for pedagogical policy in engineering education.
 
-The authors contribute a reproducible survey instrument capturing student AI usage patterns, attitudes, and verification practices, linked to academic performance metrics — an open methodological framework for other instructors.
+The authors contribute a reproducible survey instrument capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open methodological framework for other instructors.
 
 A deployable sequence of nine structured, instructor-led AI demonstrations models strategic LLM delegation and evaluation for students, treating AI use as a taught skill rather than an assumed behavior.
 

@@ -17,7 +17,7 @@ confidence: high
 
 - **538 teachers across 24 Turkish K-12 schools** randomized at school-department level; analytical sample 193 teachers / 2,816 students / 14,198 student-course observations
 - Treatment: custom **GPT-4o chatbot** with Turkish Ministry of Education curriculum database + 1-hour training (one arm added weekly usage-stat reminders); control = business-as-usual
-- Pre-registered; ITT; semester-length (spring 2025)
+- Pre-r[[learning-gains|Academic performance]]ster-length (spring 2025)
 
 ## Results
 

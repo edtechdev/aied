@@ -1,7 +1,7 @@
 ---
 title: Instructional Design with AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-20T06:10:00-04:00"
+updated: "2026-08-22T06:25:00-04:00"
 type: concept
 tags: [instructional-design, curriculum-design, faculty-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 confidence: high
@@ -24,6 +24,10 @@ Instructional design bridges AI capabilities and effective pedagogy. Where [[cur
 ### Connections to related concepts
 
 Instructional design is the bridge discipline of AI in education — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[faculty-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what instructional designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations.
+
+### How instructional design determines learning gains
+
+Instructional design is the lever that decides whether AI produces [[learning-gains|learning gains]] or merely AI-inflated performance. The wiki's evidence is consistent on this: **the same AI tool yields large gains or net harm depending on how the learning experience is designed around it.** [[instructional-guidance-genai-learning|Hou et al.]] showed that a five-step prompting framework grounded in learning theory significantly improved higher-order cognitive outcomes, while access to AI alone did not; [[genai-mindtool-generative-learning|mindtool]] and [[airis-cognitively-activated-ai-physics-2026|AIRIS]] frameworks preserve the learner's cognitive work so that durable gains (rather than task-efficiency) result. Design choices that protect [[learning-gains]] — scaffolding that requires a student attempt, [[formative-assessment]] with unassisted outcome measures, and pedagogical structure that keeps the learner the agent — mirror the field's finding (see [[learning-gains]]) that AI is a strong gain when it coaches and a harm when it answers. Conversely, poorly designed AI-integrated lessons fall prey to the [[cognitive-offloading|performance-learning gap]], where apparent success masks no learning.
 
 ### Practical guidance for designers and developers
 
@@ -62,7 +66,9 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
 - [[learning-theories]]
-- [[behaviorism]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[learning-gains]]
+- [[behaviorism]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
