@@ -1,7 +1,7 @@
 ---
 title: "Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities"
 created: "2026-08-22T18:30:00-04:00"
-updated: "2026-08-22T18:30:00-04:00"
+updated: "2026-08-22T18:35:00-04:00"
 type: article
 tags: [higher-ed, ai-literacy, metacognition, self-regulated-learning, lifelong-learning, adaptive-learning, generative-ai, educational-policy-ai, assessment-validity]
 sources: ['raw/papers/lodge-adaptive-capabilities-genai-future-2026.md']
@@ -64,4 +64,4 @@ This report is a policy and quality-assurance contribution to the wiki's [[educa
 
 ## Citation
 
-Lodge, J. M., de Barba, P., Ainscough, L., Brazil, J. R., Broadbent, J., Ebbert, D., Frankland, S., Gabriel, F., Gašević, D., Hennicke, T., Lim, L.-A., Male, S. A., Mirriahi, N., Oliveira, E. A., Pacitti, H., Raković, M., Russell, J., Taylor-Griffiths, D., & Yang, S. (2026). [Assuring quality learning in a gen AI-integrated future: The role of adaptive capabilities. *TEQSA*, June 2026](https://www.teqsa.gov.au/assuring-quality-learning-gen-ai-integrated-future).
+Lodge, J. M., de Barba, P., Ainscough, L., Brazil, J. R., Broadbent, J., Ebbert, D., Frankland, S., Gabriel, F., Gašević, D., Hennicke, T., Lim, L.-A., Male, S. A., Mirriahi, N., Oliveira, E. A., Pacitti, H., Raković, M., Russell, J., Taylor-Griffiths, D., & Yang, S. (2026). [Assuring quality learning in a gen AI-integrated future: The role of adaptive capabilities. *TEQSA*, June 2026](https://www.teqsa.gov.au/guides-resources/resources/corporate-publications/assuring-quality-learning-gen-ai-integrated-future-role-adaptive-capabilities).
