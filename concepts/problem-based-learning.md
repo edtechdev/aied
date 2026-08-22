@@ -57,3 +57,7 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 - [[pbl-biomedical-engineering-genai-2026]] — PBL in biomedical engineering in the GenAI era (Nnamdi et al. 2026)
 - [[ai-pbl-computational-thinking-2026]] — AI-supported PBL for computational thinking
 - [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in interprofessional PBL
+
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM

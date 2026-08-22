@@ -210,3 +210,13 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
+
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM

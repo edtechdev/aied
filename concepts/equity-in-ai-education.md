@@ -122,3 +122,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
+
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review

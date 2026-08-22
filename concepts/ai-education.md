@@ -157,3 +157,5 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
+
+- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning

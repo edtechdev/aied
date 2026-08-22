@@ -72,3 +72,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM

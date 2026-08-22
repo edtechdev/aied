@@ -65,6 +65,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 
 ## Citation
 
