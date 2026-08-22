@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 154 concepts and 804 articles.
+> Complete text of 154 concepts and 805 articles.
 
 # Concepts
 
@@ -736,6 +736,8 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+
 ---
 
 ## [AI Ed Evaluation](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/)
@@ -1298,6 +1300,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -2424,6 +2428,15 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 Accurate diagnosis lets instruction target the actual gaps rather than a global "ability" score — enabling [[automated-assessment]] that explains *why* a student erred and [[feedback|Feedback Loop]] systems that remediate specific [[student-modeling|knowledge states]]. Poor diagnosis produces the inverse: instruction aimed at the wrong concepts. This is why [[psychometrically-aware-ai]] emphasizes diagnostic validity alongside prediction accuracy.
 
+### Relationship to knowledge tracing and intelligent tutoring
+
+Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architecture and is the assessment-side counterpart of [[knowledge-tracing]]:
+
+- **Diagnosis vs. tracing — complementary temporal views.** [[knowledge-tracing|Knowledge tracing]] tracks the *temporal dynamics* of mastery — estimating how a scalar knowledge state evolves across exercises and predicting the next response. Cognitive diagnosis produces the *static, fine-grained snapshot* of which knowledge components, skills, or misconceptions a learner currently holds. A tutor needs both: knowledge tracing to sequence what to teach next, cognitive diagnosis to know *what* is actually wrong. [[item-response-theory|IRT]]- and [[educational-measurement|measurement]]-based diagnostic models, and cognitive-diagnosis models that map items to multiple components, instantiate the diagnostic side.
+- **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the pedagogical action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
+- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
+- **Separating diagnosis from feedback is a design principle.** LLM tutors reliably confirm correct steps but over-reject valid reasoning and over-validate errors — and accurate diagnosis does not reliably yield actionable [[feedback]]. ITS design should therefore separate a diagnostic component from the feedback/scaffolding component ([[yasir-llm-tutoring-agents-2026]]).
+
 ### Connections
 
 Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
@@ -2447,9 +2460,18 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[llm-student-misconception-identification]] — LLM identification of student misconceptions
 - [[student-math-competence-clustering]] — Clustering for Modelling Student Mathematical Competence
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
+- [[yasir-llm-tutoring-agents-2026]] — Separating diagnosis from feedback in LLM tutors
+- [[skill-acquisition-without-temporal-info]] — Diagnosing skill acquisition without temporal information
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -2620,6 +2642,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -3257,6 +3281,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -5715,6 +5741,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+
 ---
 
 ## [Human AI Collaboration](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/)
@@ -6142,6 +6170,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and misconceptions a learner holds; the assessment-side counterpart to knowledge tracing that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
@@ -6186,6 +6215,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[scaffolding]]
 - [[adaptive-learning]]
+- [[cognitive-diagnosis]]
 - [[llm]]
 - [[student-modeling]]
 - [[knowledge-tracing]]
@@ -6258,6 +6288,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -6648,6 +6680,8 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -7077,6 +7111,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -8991,6 +9027,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following vs prompt engineering
 - [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
 
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+
 ---
 
 ## [Psychometrically Aware AI](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/)
@@ -9561,6 +9599,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+
 ---
 
 ## [Self-Determination Theory](https://edtechdev.github.io/aied/concepts/self-determination-theory/)
@@ -9832,6 +9872,8 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -10478,6 +10520,8 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[icap-cognitive-engagement-llm-agents]] — ICAP Cognitive Engagement with LLM Agents
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
 - [[learnlm-improving-gemini-learning]] — LearnLM: scenario-guided learner-AI tutoring conversations
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 ---
 
@@ -34322,6 +34366,61 @@ Shang Li (2025) presents a qualitative study grounding AI integration in K-12 sc
 ## Citation
 
 Li, S. (2025). [*Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives*](https://doi.org/10.4236/ce.2025.1611114). *Creative Education*, 16(11), 1858–1882.
+
+---
+
+## [The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education](https://edtechdev.github.io/aied/articles/li-dbagent-llm-educational-agent-cs-2026/)
+
+> **Synthesis:** This large-scale quasi-experiment (N = 313 sophomores, four authentic classes, four weeks) evaluated DBagent — a domain-specific [[llm|LLM]]-based educational agent for an undergraduate database course with tool use, memory, and goal-directed reasoning. The agent-enriched environment significantly improved learning achievement, but [[learning-analytics|lag sequential analysis]] of interaction logs revealed a distinctive cognitive profile: high-frequency lower-order engagement (Remember/Understand, ~54.5%) driven by psychological safety, organized around a "Query-Evaluation-Query" verification loop — with only 3.92% of interactions reaching higher-order cognition. SEM confirmed positive perceptions sustain engagement via satisfaction.
+
+## Key Findings
+
+1. **Improved learning achievement.** The agent-powered context significantly outperformed traditional instruction; the top experimental class beat the control on both tasks (Z = 3.49, Z = 5.15, p < .001), with the largest effect on complex problem-solving (Task 2).
+
+2. **A shift from social inhibition to psychological safety.** Student-agent interactions were dominated by lower-order cognitive activity (~54.5%) because the agent provided a judgment-free environment that encouraged [[help-seeking]] — interpreted as psychological safety rather than mere dependency.
+
+3. **The "Query-Evaluation-Query" verification loop.** LSA identified a significant QR-EA-QR loop: students offload recall/understanding to the agent, then transition into Evaluation of its output — an "offload-evaluate cycle" distinct from the linear confusion-to-understanding path of human-instructor interaction.
+
+4. **But lower-order lock-in.** Strong self-transition loops within lower-order states (Understand z = 49.08; Application z = 51.48) show learners get "locked" in routine processing, with only 3.92% reaching higher-order cognition — attributed to the agent's unwavering compliance lacking pedagogical friction.
+
+5. **Perceptions drive engagement via satisfaction.** SEM confirmed learners' positive perceptions of the agent promoted sustained [[student-engagement|engagement]] through the mediating role of satisfaction.
+
+6. **The "prompt engineering gap."** Efficacy was moderated by domain-specific digital readiness — a Geoscience-major class underperformed CS cohorts on Task 2, suggesting non-technical students need targeted scaffolding to bridge the [[prompt-engineering]] gap.
+
+## Implications
+
+This study provides empirical evidence for [[intelligent-tutoring]] and [[agentic-ai|agent-based]] learning: [[agentic-ai|autonomous LLM agents]] can improve achievement and reduce social inhibition, but their psychological-safety advantage comes with a [[cognitive-offloading|cognitive offloading]] risk — lower-order tasks are offloaded and students can become locked in routine processing without [[scaffolding]] that introduces productive [[desirable-difficulties|struggle]]. The finding that only ~4% of interactions reach higher-order cognition echoes the wiki's [[measuring-llm-tutors-teach-vs-solve|teach-vs-solve]] and [[tutoring-specific-vs-general-ai]] evidence: agent compliance must be designed with pedagogical friction.
+
+The offload-evaluate cycle and lower-order distribution connect directly to [[cognitive-diagnosis]] (evaluating what students actually process) and [[cognitive-offloading]]. The psychological-safety mechanism and the prompt-engineering gap inform [[ai-literacy]] and [[student-ai-interaction]] — and argue for building verification and critical-evaluation scaffolds into agent design.
+
+## Connected Concepts
+
+- [[llm]]
+- [[agentic-ai]]
+- [[intelligent-tutoring]]
+- [[cs-education]]
+- [[cognitive-diagnosis]]
+- [[cognitive-offloading]]
+- [[student-ai-interaction]]
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[prompt-engineering]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
+
+## Connected Articles
+
+- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: pedagogical LLM agents
+- [[measuring-llm-tutors-teach-vs-solve]] — Whether LLM tutors teach or solve
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
+- [[deeptutor]] — DeepTutor: open-source agentic tutoring framework
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+
+## Citation
+
+Li, X., Liu, Z., Jiang, S., Chen, J., & Chen, W. (2026). [*The impact of an LLM-based educational agent on learning achievement, cognitive dynamics, and student perceptions in computer science education*](https://doi.org/10.1186/s40594-026-00641-y). *International Journal of STEM Education*, 13, 51.
 
 ---
 

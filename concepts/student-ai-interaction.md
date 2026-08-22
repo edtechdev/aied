@@ -45,3 +45,5 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[icap-cognitive-engagement-llm-agents]] — ICAP Cognitive Engagement with LLM Agents
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): LLM Integration in CS2
 - [[learnlm-improving-gemini-learning]] — LearnLM: scenario-guided learner-AI tutoring conversations
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
