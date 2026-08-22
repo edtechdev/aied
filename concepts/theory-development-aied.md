@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-08-22T07:25:00-04:00"
 type: concept
 tags: [theory, learning-theories, theory-building, conceptual-framework, ai-education, limitations-in-aied-research, research-methods-aied]
 confidence: medium
@@ -32,9 +32,14 @@ Other work extends existing theory into the AI context rather than founding new 
 
 The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in AIEd research]] documents that AIEd studies frequently use theory weakly or uncritically — a recurring methodological weakness alongside reproducibility and measurement gaps. Reviews find many AIEd papers apply theory superficially or not at all (e.g., [[llm-critical-thinking-teamwork-review|literature reviews]] noting few studies ground interventions in learning theory). This makes theory *development* — and theory *use* — a quality concern as much as a scholarly output, connecting to [[research-methods-aied|research methods]] and [[ai-ed-evaluation]].
 
+## Relationship to the philosophy of AI in education
+
+Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in education]] are complementary but distinct strands of the wiki's foundational work. **Theory development** produces and empirically tests the *mechanisms* of learning-with-AI — named theories and frameworks such as generativism, epistemic co-agency, and the absent cognitive baseline that explain and predict how learners and AI interact. **Philosophy** interrogates the *presuppositions* those mechanisms rest on: what counts as knowledge, who counts as a knower, and what the learner fundamentally is. A theory like [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] proposes a mechanism while implicitly adopting philosophical commitments about distributed cognition and [[agency]]; philosophy makes those commitments explicit and contestable. Where theory development asks whether a framework explains learning well, philosophy asks whether it captures what learning and mind really are — the two strands meet in the field's most foundational articles, which often do both at once.
+
 ## Connected Concepts
 
 - [[learning-theories]]
+- [[philosophy-of-ai-in-education]]
 - [[limitations-in-aied-research]]
 - [[research-methods-aied]]
 - [[generative-ai]]
