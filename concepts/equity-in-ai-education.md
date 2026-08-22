@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-22T17:45:00-04:00"
 type: concept
 tags: [equity, accessible-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -131,4 +131,5 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 

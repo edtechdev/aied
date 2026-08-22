@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 969
+**Last updated:** 2026-08-22 | **Total entries:** 970
 
 ## 2026-08-22
+
+- ◐ [[zuo-instructor-power-genai-writing-2026]] — raw/papers/zuo-instructor-power-genai-writing-2026.md
+  \"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI
+  #teacher-role #writing-education #faculty-development #generative-ai #higher-ed #ai-literacy #student-experience
 
 - ◐ [[roe-assessment-twins-2026]] — raw/papers/roe-assessment-twins-2026.md
   Assessment Twins: An Approach for Strengthening Assessment Validity in the Age of Generative AI
