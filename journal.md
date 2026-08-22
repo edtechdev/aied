@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 971
+**Last updated:** 2026-08-22 | **Total entries:** 972
 
 ## 2026-08-22
+
+- ◐ [[shaw-nave-cognitive-surrender-2026]] — raw/papers/shaw-nave-cognitive-surrender-2026.md
+  Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender
+  #cognitive-offloading #critical-thinking #trust #metacognition #ai-literacy #ai-misuse-learning-harm #generative-ai #human-in-the-loop-ai
 
 - ◐ [[lodge-adaptive-capabilities-genai-future-2026]] — raw/papers/lodge-adaptive-capabilities-genai-future-2026.md
   Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities

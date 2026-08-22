@@ -66,3 +66,5 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+
