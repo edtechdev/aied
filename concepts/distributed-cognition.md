@@ -59,4 +59,5 @@ Distributed cognition provides both a design lens and an evaluation lens. For de
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a distributed-cognition-inspired theory of learning with machines
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 

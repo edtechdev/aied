@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 970
+**Last updated:** 2026-08-22 | **Total entries:** 971
 
 ## 2026-08-22
+
+- ◐ [[lodge-adaptive-capabilities-genai-future-2026]] — raw/papers/lodge-adaptive-capabilities-genai-future-2026.md
+  Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities
+  #higher-ed #ai-literacy #metacognition #self-regulated-learning #lifelong-learning #adaptive-learning #generative-ai #educational-policy-ai #assessment-validity
 
 - ◐ [[zuo-instructor-power-genai-writing-2026]] — raw/papers/zuo-instructor-power-genai-writing-2026.md
   \"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI

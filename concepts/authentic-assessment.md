@@ -89,4 +89,5 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[ssaho-ai-academic-integrity-review-2025]] — Multiple assessment methods to counter AI misconduct
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
