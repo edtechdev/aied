@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T01:07:28-04:00"
+updated: "2026-08-22T02:17:06-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -28,6 +28,8 @@ confidence: high
 Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
 
 Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for agentic AI.
+
+Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-2026|Zhang et al. (2026)]] introduce TutorMoments, which evaluates whether LM tutors scaffold only when support is needed, push for rigor when the student is ready, and avoid over-scaffolding (reducing cognitive demand more than the situation requires). Minimally prompted frontier models default to over-scaffolding at the expense of productive struggle.
 
 ## Connected Concepts
 
@@ -71,3 +73,4 @@ Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[agentic-ai-pedagogical-best-practice-2026]]
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
