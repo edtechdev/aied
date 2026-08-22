@@ -49095,7 +49095,7 @@ TutorMoments evaluates whether [[intelligent-tutoring|LM tutors]] select instruc
 
 ## Citation
 
-Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026). [When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://example.com/tutormoments-preview.pdf).
+Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026). *[When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf)*.
 
 ---
 
