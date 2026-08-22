@@ -185,7 +185,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: culturally relevant pedagogy; culturally responsive teaching; culturally sustaining pedagogy; culturally responsive pedagogy
     - phrases: curriculum design; curriculum; curriculum development; curriculum alignment
     - phrases: design thinking; design process; design-based
-    - phrases: desirable difficulties; productive struggle; desirable difficulty
+    - phrases: desirable difficulties; desirable difficulty; productive struggle; productive friction; cognitive friction
     - phrases: digital divide; digital inequality; technology gap; access gap
     - phrases: discipline-specific AIEd; AI in the disciplines; domain-specific AIED; disciplinary education; subject-specific AIED
     - phrases: distributed cognition; distributed intelligence; extended cognition
