@@ -279,6 +279,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: student experience; learner experience; student voice; learner experience
     - phrases: student misconceptions about AI; misconceptions about AI; AI misconceptions; learner misconceptions
     - phrases: student modeling; learner modeling; learner model; student model
+    - phrases: prior knowledge; prior-knowledge; prior knowledge state; activate prior knowledge; activation of prior knowledge
     - phrases: student-AI interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; learner-AI interaction; interactions with AI
     - phrases: summative assessment; final exam; examination; high-stakes test; oral exam; proctored exam; closed-book exam
     - phrases: systematic review; meta-analysis; literature review; PRISMA; scoping review

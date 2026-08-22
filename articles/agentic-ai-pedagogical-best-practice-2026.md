@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T01:18:37-04:00"
 type: article
 tags: [agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop, sociocultural-learning, agentic-workflows, desirable-difficulties, llm]
 sources: ['raw/papers/agentic-ai-pedagogical-best-practice-2026.md']
@@ -10,7 +10,7 @@ confidence: high
 
 > Education AI is shifting from passive chatbots to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers personalisation but risks undermining **learner [[agency]] and cognitive effort**. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it:
 
-> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
+> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **[[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
 
 ## The tension: automation vs. learning
 
@@ -18,11 +18,11 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 
 | Principle | Agentic-AI risk |
 |---|---|
-| Prior knowledge activation | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge |
+| [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge |
 | [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
 | [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
-| Formative assessment | Agent-generated [[feedback]] pre-empts learners' own self-assessment loops |
-| Scaffolding | Automated scaffolds stay static instead of being dynamically withdrawn |
+| [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[assessment|self-assessment]] loops |
+| [[scaffolding]] | Automated scaffolds stay static instead of being dynamically withdrawn |
 | [[metacognition]] | Agent initiation displaces the learner's own planning, monitoring, evaluation |
 
 ## Design recommendations
@@ -36,6 +36,7 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 
 - [[agentic-ai]]
 - [[desirable-difficulties]]
+- [[prior-knowledge]]
 - [[formative-assessment]]
 - [[metacognition]]
 - [[scaffolding]]
