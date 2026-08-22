@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-22T02:17:06-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -43,6 +43,8 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - **Distinguishes assisted performance from durable learning.** [[genai-meta-analysis-programming-learning|Meta-analysis]] shows AI can produce large productivity gains with no significant learning gain (g ≈ 0), so evaluations must report both.
 - **Pairs pre/post measures with validity checks.** [[assessment-validity]] and [[educational-measurement]] ground gain measurement; [[genai-educational-outcomes-meta-analysis|meta-analytic review]] pools effect sizes across studies to establish the field's gain evidence.
 - **Disaggregates by learner and context.** Because [[learning-gains]] vary by population, domain, and AI configuration, evaluation should report gains for different student subgroups (e.g., by prior proficiency, as [[drawedumath-vlm-struggling-students-2026|VLM evaluations]] reveal for error status) rather than a single aggregate, and should connect gain findings to [[meta-analysis-systematic-review]] to situate them in the wider evidence base.
+
+Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al. (2026)]] argue that prior tutoring benchmarks (MathTutorBench, MRBench, LearnLM) reward one side of the assistance dilemma or give underspecified guidance. TutorMoments instead replays teacher-identified pedagogical decision points, evaluating whether a tutor's help is appropriate to the specific learning moment — scaffolding vs. rigor.
 
 ## Connected Concepts
 
@@ -104,3 +106,4 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle

@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-22T02:17:06-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -49,7 +49,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Use iterative live evaluation to keep improving.** Because LLMs are opaque, treat evaluation as the engine of improvement: instrument a small set of quality and [[student-engagement|engagement metrics]], run live experiments on models, prompting, personalization, and agents, and let data drive changes — the same discipline Khan Academy applies to its K-12 tutor (Khanmigo).^[[ai-tutoring-quality-k12-methodologies-2026]]
 
-**Support the learner's autonomy, competence, and relatedness.** AI tutors work best when they feel like a safe, structured practice space rather than an answer machine. Provide immediate, nonjudgmental [[feedback|feedback]]; scope the tutor to the learner's level so competence is achievable; and preserve learner agency by keeping the tutor a complement to (not a substitute for) other instruction.^[[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
+**Support the learner's autonomy, competence, and relatedness.** AI tutors work best when they feel like a safe, structured practice space rather than an answer machine. Provide immediate, nonjudgmental [[feedback]]; scope the tutor to the learner's level so competence is achievable; and preserve learner agency by keeping the tutor a complement to (not a substitute for) other instruction.^[[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
 
 **Guard against answer disclosure.** The central failure mode of LLM tutoring is giving the answer away, which inflates immediate performance while undermining durable learning. Use Socratic prompting, calibrated hints, and non-disclosive scaffolding — and measure outcomes on unassisted, [[transfer-of-learning|transfer]] tasks, not just in-tool performance.^[[measuring-llm-tutors-teach-vs-solve]]^[[socratic-method]]
 
@@ -66,6 +66,8 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 **Model the learner, not just the dialogue.** Attach structured [[student-modeling]] and [[knowledge-tracing]] components to LLM dialogue so the system can adapt difficulty and diagnose misconceptions from evidence rather than responding fluently but blindly — quality depends on both the base model and how it is adapted.^[[educlaw-bench-pedagogical-llm-agents-2026]]
 
 **Start from open tooling where possible.** Open-source agentic tutoring frameworks (e.g. [[deeptutor|DeepTutor]]) lower the barrier to a citation-grounded, difficulty-calibrated tutor you can inspect and extend.^[[deeptutor]]
+
+Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity.
 
 ## Connected Concepts
 
@@ -138,3 +140,4 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
