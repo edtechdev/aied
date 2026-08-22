@@ -17,9 +17,7 @@ The EduQwen project addresses a fundamental misalignment in LLM behavior for edu
 **Three-stage optimization pipeline.** The team used a dense Qwen3-32B backbone (chosen over MoE architectures for superior responsiveness to iterative optimization) and applied:
 
 1. **Stage 1 — RL with DAPO:** Decoupled Advantage Policy Optimization was selected over GRPO for its stable gradients on complex pedagogical reasoning tasks, using asymmetric clipping to prevent catastrophic divergence. Hard-negative mining identified 440 questions the base model could not answer perfectly across 30 attempts, then sorted them by error frequency into a difficulty-ordered curriculum. Extended rollouts (5→8 steps) enabled multi-step pedagogical decision-making. Result: **94.13% on CDPK**, already SOTA.
-
 2. **Stage 2 — Synthetic SFT:** The RL1 model generated 40,000 synthetic responses; only correct responses with gradient-based selection were retained, yielding 1,050 high-quality difficulty-ordered data points. Difficulty-weighted sampling kept all hard examples while sampling easy ones sparsely. Result: **96.20%**.
-
 3. **Stage 3 — Final RL (RL2):** A second DAPO round on the SFT checkpoint reused the original hard-negative dataset, allowing the further refined model to tackle originally challenging problems. Result: **96.52%** — definitive SOTA.
 
 **Benchmark dominance.** EduQwen 32B-SFT-RL2 established new SOTA results across the Interactive Pedagogy Benchmark Leaderboard, surpassing Gemini-3 Pro (90.55%) — a system that is orders of magnitude larger. This proves that dense, mid-sized open-source models can become pedagogical domain experts through specialized optimization.

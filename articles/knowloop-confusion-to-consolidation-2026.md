@@ -15,9 +15,7 @@ confidence: high
 Fang and Reidsma designed KnowLoop, a dual-agent conversational system for post-lecture review organized around learners' in-situ confusion. The system implements three stages:
 
 1. **Recognize** — During lecture viewing, learners press a capture button at moments of confusion. The system records timestamps, aligns them with the lecture transcript, and expands to include surrounding instructional context.
-
 2. **Resolve** — A Teaching Assistant agent (GPT-4o) provides clarification grounded in the marked confusion point and associated lecture transcript. Interaction is constrained to one confusion point at a time to maintain focus.
-
 3. **Consolidate** — A Peer agent (GPT-4o) scaffolds reflective teach-back, revisiting confusion points in order and asking learners to explain their understanding. Progression moves from confusion-point-level articulation to lecture-level summarization.
 
 The study involved 22 participants (STEM backgrounds, AI familiarity M=4.00/5, low prior knowledge of lecture content) watching an 18-minute introductory reinforcement learning lecture.

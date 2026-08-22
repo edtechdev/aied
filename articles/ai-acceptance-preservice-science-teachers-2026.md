@@ -13,9 +13,7 @@ confidence: high
 ## Key Findings
 
 1. **Positive perceptions.** Pre-service science teachers recognized AI's potential to improve teaching quality, instructional effectiveness, and student [[learning-gains|learning outcomes]].
-
 2. **ChatGPT dominance.** ChatGPT emerged as the most frequently used AI tool, with research, content explanation, and lesson planning as the primary purposes.
-
 3. **Acceptance–use gap.** Despite positive attitudes, favorable effort expectancy, and strong behavioural intentions, actual adoption of AI remained uneven.
 
 ## Implications

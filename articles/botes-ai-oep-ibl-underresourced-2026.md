@@ -13,11 +13,8 @@ confidence: medium
 ## Key Findings
 
 1. **A conceptual framework bridging generative-AI co-design and open pedagogy.** The paper establishes a novel framework for using AI-supported OEP/RS to enable inquiry-led STEM teaching without requiring advanced programming.
-
 2. **Three adaptable teaching scenarios.** Natural science, technology, and mathematics scenarios demonstrate how generative AI tools create curriculum-aligned, multilingual, contextually relevant digital simulations.
-
 3. **Overcoming under-resourced constraints.** AI-generated simulations transform abstract concepts into interactive experiences, addressing infrastructural, linguistic, and contextual barriers in rural classrooms.
-
 4. **A scalable, cost-effective path to equity.** The framework offers a pathway for digital inclusion and equitable [[stem-education|STEM education]], with actionable guidelines for educators to design localized learning objects.
 
 ## Implications

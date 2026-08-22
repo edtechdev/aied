@@ -17,11 +17,8 @@ ISD-Agent-Bench operationalizes [[instructional-design|instructional design theo
 ## Key Findings
 
 1. **Hybrid agents outperform both pure theory and pure technique.** The best-performing approach integrates classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) with modern ReAct-style reasoning. The performance hierarchy is: Hybrid (theory + technique) > pure theory-based > technique-only. This demonstrates that grounding LLM agents in established educational design theory provides a structural advantage that raw prompting cannot replicate.
-
 2. **The Context Matrix framework enables systematic scenario generation.** Rather than ad-hoc benchmark construction, ISD-Agent-Bench uses a Context Matrix that combinatorially varies **51 contextual variables** across 5 categories with **33 ISD sub-steps** derived from ADDIE, producing 25,795 total scenarios. This systematic coverage ensures agents are tested across diverse instructional design situations rather than narrow task types.
-
 3. **Theoretical quality strongly correlates with benchmark performance.** Agents grounded in classical ISD theories showed significant advantages in problem-centered design and objective-assessment alignment — two areas where theory-free agents consistently struggled. This provides empirical validation for the role of [[instructional-design]] theory in guiding AI behavior.
-
 4. **Multi-judge protocol addresses a critical evaluation challenge.** Recognizing that single-LLM evaluation introduces systematic bias, the benchmark employs diverse LLMs from different providers as judges, achieving high inter-judge reliability. This protocol-level innovation is as important as the benchmark itself for the validity of [[agentic-ai]] evaluation.
 
 ## Implications

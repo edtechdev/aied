@@ -15,13 +15,9 @@ confidence: high
 The framework defines a progression from minimal to maximal teacher-AI collaboration:
 
 1. **Transactional** — AI executes a concrete task on request with no shared context. Teacher sends prompt, AI returns output. Example: generating a quiz from a topic list. Risk: cognitive offloading without professional growth.
-
 2. **Situational** — AI gathers data from the teaching/learning context and reports it back. A shared state exists for the task. Example: AI summarizes classroom discussion data. Teacher remains the primary decision-maker.
-
 3. **Operational** — Teacher sets goals; AI not only reports context but also proposes actions to achieve those goals. AI moves beyond task execution into action planning. Example: AI recommends pedagogical interventions based on student performance data.
-
 4. **Praxical** — AI incorporates learning patterns from prior interactions to adapt its behavior over time. The system learns from teacher feedback and refines its models. Teacher and AI develop shared practice.
-
 5. **Synergistic** — Both agents engage in negotiation, constructive challenge, and co-reasoning that enhance each other’s capabilities. Outcomes emerge that neither could realize independently. This is the highest level of hybrid intelligence.
 
 ## Key Insights

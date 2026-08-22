@@ -103,15 +103,10 @@ The **boundary object** function — ChatGPT's interpretive flexibility across d
 ## Six Pedagogical Recommendations
 
 1. **Embed structured cognitive scaffolding** — Stepwise activities: prompt design → output evaluation → iterative refinement. Frame ChatGPT as dialogic partner, not solution provider. This aligns with [[critical-thinking-genai-scaffolding|the six-process scaffolding framework]] and [[human-in-the-loop-ai|human-in-the-loop architectures]].
-
 2. **Explicitly teach AI literacy for epistemic vigilance** — Integrate modules on prompt refinement, hallucination recognition, bias detection, and contextual interpretation. Addresses the [[ai-literacy-assessment-misalignment|self-report vs. performance gap]] in AI evaluation skills.
-
 3. **Design tasks that co-activate CT and CrT through recursive inquiry** — Open-ended case studies, argumentative writing with multi-perspective AI dialogue, project-based tasks requiring both generation and analytical reflection. This is the practical implementation of the dual-lens framework.
-
 4. **Implement reflection protocols for cognitive regulation** — Guided prompts after each interaction: "What was most useful/misleading?", "How did this shape your thinking?", "What would you change in your next prompt?" Reinforces [[metacognition|metacognitive monitoring]].
-
 5. **Leverage ChatGPT as a connective node for interdisciplinary thinking** — Cross-domain tasks that draw on ChatGPT's broad knowledge while critically examining disciplinary assumptions. Supports [[ai-learning-companions-framework|dialogic partner]] and connectivist learning.
-
 6. **Position feedback as a multi-source process** — Triangulate AI feedback with peer review, instructor input, and self-assessment. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
 
 ## Limitations of the Review

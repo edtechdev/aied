@@ -14,13 +14,9 @@ confidence: high
 ## Key Findings
 
 1. **73 studies (2015–early 2025), PRISMA-guided.** A systematic review from Scopus and Web of Science, coded by AI type, engagement outcomes, and instructional strategies.
-
 2. **Pedagogy mediates AI's effect on engagement.** AI enhances engagement most effectively within interactive pedagogies — flipped classrooms, project-based learning, and scaffolded feedback loops — rather than through tool deployment alone.
-
 3. **PMAISE model introduced.** The review proposes a conceptual framework (Pedagogical Mediation of AI for Student Engagement) aligning AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement.
-
 4. **Teaching methods amplify or inhibit AI effects.** Concrete examples demonstrate that the same AI tool can boost or fail to boost engagement depending on the surrounding instructional design.
-
 5. **Equity and ethics concerns.** Structural barriers to equitable AI adoption (e.g., socioeconomically disadvantaged students more vulnerable to unstable internet or limited device access), alongside data privacy and ethical concerns, are examined.
 
 ## Implications

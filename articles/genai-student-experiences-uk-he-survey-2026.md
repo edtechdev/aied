@@ -13,9 +13,7 @@ confidence: high
 ## Key Findings
 
 1. **Conscientious objectors.** Despite discourse that "everyone is using it," a significant minority of students deliberately refuse to use GenAI.
-
 2. **Mostly honest but pervasive use.** For students who do use GenAI, the majority are honest most of the time and try to avoid submitting direct GenAI outputs, yet they use it for a range of tasks throughout the entire learning and assessment process.
-
 3. **International convergence.** The UK and Australian findings are strikingly similar yet nuanced, suggesting shared student norms and tensions across institutions and countries.
 
 ## Implications

@@ -13,11 +13,8 @@ confidence: medium
 ## Key Findings
 
 1. **Higher education lacks a vocabulary for complex AI interaction.** GenAI is moving beyond isolated prompt-response exchanges toward systems that curate information, call tools, retain state, verify intermediate products, and repeat actions under explicit control, yet HE lacks a pedagogically grounded way to select among these increasingly complex forms.
-
 2. **Four task configurations.** PCHL-HE differentiates four configurations: *prompt* engineering designs a bounded instruction; *context* engineering designs the information environment available to the model; *harness* engineering designs a complete, multi-step, tool-mediated working pass; *loop* engineering closes a verified, repeatable loop.
-
 3. **Eight differentiating dimensions.** The framework spans unit of control, information grounding, workflow complexity, temporal horizon, tool orchestration, feedback and iteration, verification, and human oversight.
-
 4. **Integrative construction.** The framework is built through synthesis of research on prompting, retrieval and context management, agentic systems, human interaction with automation, AI in HE, assessment, feedback, academic integrity, and design science.
 
 ## Implications

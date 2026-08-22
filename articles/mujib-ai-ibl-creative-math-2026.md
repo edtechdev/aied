@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Creative performance and attitudes improved.** AI-supported IBL significantly improved creative mathematical performance and attitudes toward mathematics compared with traditional instruction.
-
 2. **Critical problem-solving did not improve significantly.** The intervention did not produce a statistically significant improvement in critical problem-solving skills — a cautionary result for claims that AI + IBL automatically strengthens higher-order reasoning.
-
 3. **Positive inter-correlations.** Correlation analysis showed positive relationships among creative performance, problem-solving, and attitudes in both groups; multivariate analysis confirmed a significant overall group effect.
-
 4. **Efficiency mechanism.** The authors suggest AI-supported IBL may improve instructional efficiency through guided exploration, [[scaffolding|adaptive feedback]], and reduced [[cognitive-offloading|cognitive load]].
 
 ## Implications

@@ -19,7 +19,6 @@ DeepTutor is a fully open-source [[agentic-ai]] framework that unifies two tutor
 ### Hybrid Personalization Engine
 
 1. **Static Knowledge Grounding (SKG):** Course-sourced knowledge indexed via [[rag]] from textbooks and lecture materials, ensuring all tutoring responses are citation-grounded and factually anchored.
-
 2. **Dynamic Personal Memory (DPM):** A **trace forest** — a hierarchical memory structure where specialized agents continuously distill multi-turn interaction traces into an evolving learner profile. Unlike coarse skill inventories, this captures fine-grained reasoning traces showing *how* a student errs, not just *what* they got wrong.
 
 ### Architecture

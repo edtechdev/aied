@@ -14,11 +14,8 @@ confidence: medium
 ## Key Findings
 
 1. **Significant performance gains from proactive feedback.** Dyads receiving ProPACT feedback achieved substantially higher debugging success (*t*[49.96] = −13.51, *p* < .0001) and completed tasks more efficiently (*t*[44.70] = 4.39, *p* < .0001) compared to the no-feedback control condition.
-
 2. **Dyadic sensing enables predictive intervention.** ProPACT constructs a multimodal dyadic learner model from Joint Visual Attention (JVA — cosine similarity of gaze distributions over 30-second windows), Joint Mental Effort (JME — cross-recurrence quantification of pupil-diameter signals), and individual Mental Effort (IPA from pupillary fluctuations). An XGBoost-based forecaster predicts sub-optimal collaboration states up to **30 seconds in advance.**
-
 3. **Five-tier adaptive feedback hierarchy works.** The system escalates through minimally intrusive scaffolds: (A1) do nothing when collaboration is productive; (A2) temporarily enable GitHub Copilot when cognitive strain rises; (A3) show a gaze-awareness tool highlighting the partner's visual focus; (A4) issue unobtrusive dialogue prompts to re-align mental effort; and (A5) provide directive task-based hints only as a last resort. Signals are discretized against a normalized resting baseline using a ±2SD criterion (High / Average / Low).
-
 4. **Post-intervention gains in collaborative regulation.** Beyond task-level improvements, dyads showed sustained increases in JVA and JME after the intervention, indicating that the system fostered durable collaborative skills rather than just providing momentary assistance.
 
 ## Implications

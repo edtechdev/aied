@@ -13,11 +13,8 @@ confidence: medium
 ## Key Findings
 
 1. **Socratic dialogue improves question specificity.** Student question specificity rose dramatically from ~10–15% on the first conversational turn to **100% on the final turn**, indicating that sustained Socratic interaction trains students to formulate increasingly precise, expert-like physics questions.
-
 2. **Specificity correlates with [[learning-gains|academic performance]].** Self-reported expected course grade showed a significant positive correlation with question specificity (Pearson *r* = 0.43), suggesting that the ability to formulate precise physics questions — a skill the chatbot explicitly cultivates — is linked to broader course outcomes.
-
 3. **Students rated the chatbot positively on knowledge-building.** Post-interaction surveys yielded a median rating of **4.0/5** for knowledge-based skills and **3.4/5** for overall effectiveness, indicating acceptable student reception for a tool deployed at scale.
-
 4. **Dual-purpose design enables both instruction and research.** The chatbot served simultaneously as a [[socratic-method]] teaching tool and as a data-collection instrument for [[learning-analytics]], with full dialogue transcripts enabling fine-grained analysis of student reasoning patterns.
 
 ## Implications

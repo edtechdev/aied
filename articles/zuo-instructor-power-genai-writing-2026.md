@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **Four polycentric power centers shape instructor perceptions.** Instructors' views and practices are not uniform but shaped by orientation to four centers: the global trend of GenAI, the university and department, colleagues, and students.
-
 2. **The global trend is seen as inescapable.** All instructors recognized GenAI as "the reality" — inevitable and "never going away" — motivating them to adjust teaching and "stay a step ahead" of students, though views differed on its effectiveness and ethics.
-
 3. **Institutional and disciplinary variation.** Departments varied from having general AI policies (requiring syllabus AI statements, allowing instructor-specific design) to having no policy at all. Disciplinary differences emerged: liberal-arts and business schools were more open to GenAI; psychology was less interested. Contingent/adjunct faculty felt constrained by limited autonomy.
-
 4. **Students are the direct driver.** All instructors observed student GenAI use (some estimating 80–90% of students), creating pressure to "be on top of AI literacy." Concerns included difficulty evaluating real writing proficiency, student "laziness"/over-reliance, the widening digital divide, and whether assignments evaluated writing or digital literacy.
-
 5. **Instructors updated practices to retain authority and promote accountability.** Common strategies included emphasizing the writing process over the final product (reflections, more conferences, multiple revisions), open conversations about GenAI's limitations, and clarifying how GenAI may be used in each class.
 
 ## Theoretical framing: scale and polycentricity

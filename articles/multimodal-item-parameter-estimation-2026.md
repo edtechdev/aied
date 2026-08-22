@@ -13,9 +13,7 @@ confidence: high
 ## Key Findings
 
 1. **LLMs can learn IRT curves implicitly.** A multimodal LLM prompted and fine-tuned to replicate choice probabilities across a corpus of image-and-text multiple-choice items, conditioned on labeled ability levels, learns the response patterns encoded in 3PL and MCM curves.
-
 2. **Direct difficulty estimation.** Item difficulty on a held-out test set can be approximated directly from the model's predicted option probabilities, without explicit parameter-fitting.
-
 3. **Multimodal relevance.** Because items contain both image and text stimuli, the approach extends IRT-style estimation to multimodal assessment items.
 
 ## Implications

@@ -14,7 +14,6 @@ Across three pre-registered studies (N=2,691), this paper documents systematic m
 ### Two Forms of Miscalibration
 
 1. **Self-estimate miscalibration**: People on average **underestimate how often they actually use AI** — they believe they use it significantly less than objective measures show.
-
 2. **Efficiency-gain illusion**: People **overestimate the time and effort savings** that AI assistance provides, believing tasks are faster and easier with AI even when objective metrics show no difference.
 
 ### The Overreliance Feedback Loop

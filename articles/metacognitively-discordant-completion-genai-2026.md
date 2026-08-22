@@ -14,9 +14,7 @@ confidence: medium
 ## Key Findings
 
 1. **The construct.** MDC is the experiential state of a learner who has invested cognitive effort, holds a formed first-person awareness that understanding has not occurred (judged against their own operative standard), and releases the completion anyway. The conjunction of the three conditions is the construct.
-
 2. **Not new to AI.** A pre-AI genealogy across five literatures establishes that the dissociation between completing and understanding is old; four cuts separate MDC from withdrawn effort, justification discourse, fluency illusions, and preprint-stage constructs.
-
 3. **Sibling construct and boundary.** A sibling construct, the Absent Cognitive Baseline, marks the case where no verdict can form; frameworks from epistemic akrasia to academic dishonesty each lack one element of MDC. GenAI's part is amplification, not invention.
 
 ## Implications
