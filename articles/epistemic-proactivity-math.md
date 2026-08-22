@@ -1,14 +1,14 @@
 ---
 title: "From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning"
 created: "2026-06-30T04:33:04-04:00"
-updated: "2026-08-22T07:45:00-04:00"
+updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
 sources: ['raw/papers/2606.28472.md']
 confidence: high
 ---
 
-> **Synthesis:** Abdelghani, Kaiser & Murayama (2026) trace how 112 Grade-9 students' interactions with a general-purpose [[llm|LLM]] math tutor evolve over a practice session, identifying a trajectory from superficial prompting toward what they term **epistemic proactivity** — the active, self-directed pursuit of conceptual understanding through AI dialogue. The key contribution is temporal: **static** summaries of AI use (whole-session prompt functions, request types, modeling stages, behavioral diversity) did *not* predict AI-free post-test performance, but **temporal** shifts toward epistemically proactive interaction *did*. This developmental framework is a significant contribution to [[ai-literacy]] research, reframing productive AI use not as a binary skill but as a capacity that matures through scaffolded practice.
+> **Synthesis:** Abdelghani, Kaiser & Murayama (2026) trace how 112 Grade-9 ([[k-12]]) students' interactions with a general-purpose [[llm|LLM]] [[intelligent-tutoring|math tutor]] evolve over a practice session, identifying a trajectory from superficial prompting toward what they term **epistemic proactivity** — the active, self-directed pursuit of conceptual understanding through AI dialogue. The key contribution is temporal: **static** summaries of AI use (whole-session prompt functions, request types, modeling stages, behavioral diversity) did *not* predict AI-free post-test performance, but **temporal** shifts toward epistemically proactive interaction *did*. This developmental framework is a significant contribution to [[ai-literacy]] research, reframing productive AI use not as a binary skill but as a capacity that matures through scaffolded practice.
 
 ## Key Findings
 
@@ -20,7 +20,7 @@ confidence: high
 
 ## Study design
 
-The study examined Grade-9 students using a web-based LLM tutor on a **mathematical-modeling (MM)** task — an open-ended practice setting where the goal was to improve understanding and prepare for a later independent assessment, not to complete a specific task. 112 students participated; 97 completed both AI-free pre- and post-tests. Pre- and post-test items were drawn from the IQB VERA mathematics item pool, targeting the same modeling concepts with different items to avoid practice effects. Average post-test performance was M = 53.20% (SD = 26.40%).
+The study examined [[k-12|Grade-9]] students using a web-based LLM tutor on a **[[math-education|mathematical-modeling]] (MM)** task — an open-ended practice setting where the goal was to improve understanding and prepare for a later independent assessment, not to complete a specific task. 112 students participated; 97 completed both AI-free pre- and post-tests. Pre- and post-test items were drawn from the IQB VERA mathematics item pool, targeting the same modeling concepts with different items to avoid practice effects. Average post-test performance was M = 53.20% (SD = 26.40%).
 
 Student turns were coded along three dimensions hypothesized to capture epistemically proactive AI use: **self-regulated learning (SRL) functions** (plan/monitor/evaluate vs. request), **help-seeking content** (conceptual/procedural vs. verification/answer-seeking), and **mathematical-modeling activity** (understand/structure/mathematize/work vs. interpret/validate). Each turn was assigned a normalized within-session position (turn index ÷ total turns), splitting into early (< .5) and late (≥ .5) phases.
 

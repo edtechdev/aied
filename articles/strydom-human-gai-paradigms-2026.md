@@ -1,14 +1,14 @@
 ---
 title: "Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices"
 created: "2026-08-22T17:10:00-04:00"
-updated: "2026-08-22T17:25:00-04:00"
+updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, human-ai-collaboration, ai-literacy, educational-theory, ai-education, theory-development-aied, student-ai-interaction]
 sources: ['raw/papers/strydom-human-gai-paradigms-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Strydom (2026) introduces seven **human–generative-AI (GAI) engagement paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organisation, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for teaching, assessment, professional development, and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the wiki's foundational strand.
+> **Synthesis:** Strydom (2026) introduces seven **human–generative-AI (GAI) engagement paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organisation, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for teaching, assessment, [[faculty-development|professional development]], and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the wiki's [[ai-education|AI-education]] foundational strand.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ The paper builds on Schommer's multidimensional model of personal epistemologica
 - **Control of knowledge acquisition** — whether learning is controlled by the learner or external forces
 - **Speed of knowledge acquisition** — whether learning is quick/all-or-nothing or gradual
 
-Strydom contends these dimensions offer a productive lens on how individuals differently position themselves relative to GAI — explaining why the same tool is engaged very differently across people and contexts.
+Strydom contends these dimensions offer a productive lens on how individuals differently position themselves relative to GAI — explaining why the same tool is engaged very differently across people and contexts. The framework thus extends the wiki's [[learning-theories]] strand into the human-GAI interaction space.
 
 ## The seven paradigms in detail
 
@@ -37,7 +37,7 @@ Strydom contends these dimensions offer a productive lens on how individuals dif
 - **Symbiotic (Collaborator):** A relational, posthumanist orientation viewing human and machine cognition as permeable and entangled; knowledge is co-created via the relationship itself, with [[agency]] distributed across the human-machine dyad rather than retained individually.
 - **Guarded (Guardian):** Foregrounds epistemic vigilance — interrogation of who makes knowledge claims, on what grounds, and their reliability before acceptance. Reflects concerns about detection accuracy, [[academic-integrity|academic integrity]], authorship, and techno-solutionism; not resistance but deliberate, slower verification.
 - **Values-based (Defender):** Prioritises [[ethics|ethical]] AI use and the ethics of knowledge creation — fairness, transparency, accountability, [[privacy]]. Asks not just whether claims are true but how they were arrived at responsibly.
-- **Equity (Advocate):** Foregrounds power, ideology, and [[equity-in-ai-education|equity]]. Recognises GAI's democratising potential while attending to digital inequality and bias — GAI trained on English-language, Western academic sources risks reproducing hierarchies of whose knowledge counts; technology is not neutral.
+- **Equity (Advocate):** Foregrounds power, ideology, and [[equity-in-ai-education|equity]]. Recognises GAI's democratising potential while attending to [[digital-divide|digital inequality]] and bias — GAI trained on English-language, Western academic sources risks reproducing hierarchies of whose knowledge counts; technology is not neutral.
 
 ## Implications for AI in education
 
@@ -45,7 +45,7 @@ The framework reframes the human-GAI relationship from a tool-usage question int
 
 - **Teaching and assessment:** paradigms imply differentiated approaches — e.g., pioneering/possibility-focused alignments could be encouraged to experiment with alternative [[assessment]] formats rather than polished-product-only evidence.
 - **Professional development:** guarded orientations are not mere resistance but a coherent epistemological position requiring targeted [[faculty-development|staff development]]; the framework offers a diagnostic vocabulary for differentiated development.
-- **Governance and policy:** the lens can inform [[governance]] frameworks and [[educational-policy-ai|educational policy]] in multidisciplinary and professional contexts, echoing how epistemological stances shape institutional responses.
+- **Governance and policy:** the lens can inform [[governance]] frameworks and [[educational-policy-ai|educational policy]] in multidisciplinary and [[higher-ed|higher-education]] contexts, echoing how epistemological stances shape institutional responses.
 
 The framework sits alongside other [[theory-development-aied|theory-building]] work in the corpus (epistemic co-agency, generativism, the absent cognitive baseline) in theorising how learners' relationship to AI-shaped cognition develops, while explicitly positioning itself as an exploratory heuristic requiring empirical validation.
 
