@@ -13,17 +13,11 @@ confidence: high
 ## Key Findings
 
 1. **The Cognitive Commons as a collective-action problem.** [[generative-ai|Generative AI]] creates a parallel to Hardin's tragedy of the commons: professions share a collective pool of deep expertise that no single organization owns, and rational individual decisions to eliminate entry-level developmental positions can deplete it.
-
 2. **Internalized vs. Distributed Mastery.** AI-era work demands two forms of expertise — **Internalized Mastery** (deep domain knowledge concentrated in individual minds via deliberate practice) and **Distributed Mastery** (fluency in orchestrating intelligence distributed across human–AI systems). They serve complementary functions, but commons depletion jeopardizes both.
-
 3. **The Validation Tether.** Effective oversight of AI outputs — recognizing domain errors, inappropriate recommendations, and subtle flaws — depends on the deep internalized expertise that AI adoption undermines. Distributed Mastery is not a substitute for Internalized Mastery; it presupposes it.
-
 4. **Three defining commons characteristics.** The cognitive commons is *collectively dependent* (a public-goods problem), *non-exclusive* (free-rider incentives), and *degradable through overexploitation of the regeneration mechanism* — where depletion manifests through generational employment patterns, not immediate scarcity.
-
 5. **Early empirical signals.** In the most AI-exposed US occupations, workers aged 22–25 saw a **16% relative employment decline** (Oct 2022–Sep 2025) while workers 35–49 grew over 8% (Brynjolfsson et al. 2025), reinforced by Hampole et al.'s LinkedIn analysis. Two mechanisms drive this: direct position elimination, and augmentation-without-internalization (junior workers skip the cognitive struggle that builds mastery).
-
 6. **Five vulnerability factors.** Task substitutability, regulatory intensity, safety criticality, professional-association strength, and work modularization determine an occupation's commons vulnerability — with software engineering, financial analysis, and legal research highest, and medicine/engineering slower due to regulatory and safety counterpressures.
-
 7. **Assisted performance ≠ independent capability.** AI-assisted productivity does not transfer to unassisted performance (Wiles et al. 2024); heavy AI reliance reduces independent diagnostic accuracy (Budzyń et al. 2025; Natali et al. 2025); and validation habits are eroding — 40% of employees received flawed AI content, 60% do not routinely check AI accuracy.
 
 ## The Cognitive Commons construct

@@ -13,9 +13,7 @@ confidence: medium
 ## Key Findings
 
 1. **Superficial curriculum integration.** Recent technological advances (including generative content and deepfakes) create challenges for information consumption, yet their inclusion in educational curricula is limited and often shallow.
-
 2. **Teacher training gap.** Teachers are inadequately trained to manage these tools effectively, which directly hinders the development of students' [[critical-thinking]].
-
 3. **Critical media literacy as the remedy.** Students and experts agree the goal should be a critical media literacy that goes beyond tool use to help learners question and evaluate the content they consume, within an ethical and reflective framework that promotes participatory and critical citizenship.
 
 ## Implications

@@ -14,9 +14,7 @@ confidence: medium
 ## Key Findings
 
 1. **A gap in existing frameworks.** AI-literacy, technical-proficiency, responsible-use, and academic-integrity frameworks give little attention to how AI influences the learner's thinking and decision-making processes.
-
 2. **Three-layer model.** HAIML organizes learning around Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making, moving learners from direct engagement with AI to reflection on how AI shapes their thinking, and finally to informed, responsible decision-making.
-
 3. **Agency-preserving design.** The framework integrates concepts from human agency, self-regulated learning, metacognition, and automation-bias research to keep learners in control of AI-mediated cognition.
 
 ## Implications

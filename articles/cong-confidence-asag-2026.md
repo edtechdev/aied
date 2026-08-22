@@ -14,11 +14,8 @@ confidence: medium
 ## Key Findings
 
 1. **Model-based confidence alone is insufficient.** Three LLM confidence signals were systematically compared — **verbalizing** (prompting the model to self-report confidence), **latent** (softmax-normalized conditional log-likelihood of the predicted label token), and **consistency-based** (agreement fraction across 5 predictions at temperatures [0.2–1.0]) — and none individually provided reliable uncertainty estimates for ASAG.
-
 2. **Aleatoric uncertainty must be explicitly modeled.** The key innovation is modeling dataset-derived (aleatoric) uncertainty via semantic heterogeneity: student responses are embedded with all-MiniLM-L6-v2, clustered with agglomerative hierarchical clustering (Ward linkage), and within-cluster entropy quantifies inherent ambiguity. This captures the fundamental reality that some student answers are genuinely ambiguous, independent of model quality.
-
 3. **Hybrid fusion outperforms single-source approaches.** Combining model-based signals with aleatoric uncertainty via a Random Forest classifier (500 trees) followed by Platt scaling produced the best calibration, evaluated on both selective prediction (AUROC / AUARC) and reliability (ECE / MCE / Brier score). The hybrid framework acknowledges that both epistemic and aleatoric uncertainty contribute to grading unreliability.
-
 4. **Principled evaluation enables safe deployment.** By evaluating with selective prediction metrics rather than raw accuracy, the framework enables a practical workflow: high-confidence predictions can be auto-graded, while low-confidence cases are routed to human review. This is a more realistic deployment model than assuming perfect automation.
 
 ## Implications

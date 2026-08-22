@@ -14,9 +14,7 @@ confidence: high
 ## Key Findings
 
 1. **Consume — adaptive audio speed.** AIxSpeed dynamically adjusts playback speed at the phoneme level using speech-recognition confidence as a proxy for listening difficulty, achieving average playback factors of 1.30x (LibriSpeech) and 1.29x (UME-ERJ) with higher mean opinion scores than matched constant-speed playback.
-
 2. **Understand — multimodal summaries.** FastPerson generates video summaries preserving visual and auditory information and lets learners switch between summarized and full versions by chapter, reducing viewing time by 53% with no statistically significant difference in quiz scores.
-
 3. **Imitate — proficiency feedback.** Profy learns proficiency from largely unannotated speech, visualizes classifier-relevant regions and model-derived acoustic distances, and produced an observed improvement in pronunciation intelligibility with non-overlapping pre/post confidence intervals.
 
 ## Implications

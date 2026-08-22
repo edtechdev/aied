@@ -14,13 +14,9 @@ confidence: medium
 ## Key Findings
 
 1. **Universal harm across all models.** Every evaluated model — from 3.8B open-weight models to GPT-5-mini — exhibited broad pedagogical harm. No model was consistently safe across all subjects and interaction modes, indicating that tutoring safety is not solved by general capability improvements.
-
 2. **Scale does not reliably improve safety.** Increasing model size did not produce consistent improvements in pedagogical safety, challenging the assumption that larger models are inherently better tutors. This finding parallels broader critiques in llm-evaluation that general benchmarks do not capture domain-specific safety requirements.
-
 3. **Multi-turn dialogue dramatically worsens behavior.** Pedagogical failure rates escalate from **17.7% in single-turn** interactions to **77.8% in multi-turn** conversations. The crescendo-based escalation design reveals that models which appear safe in one-turn evaluations systematically degrade across sustained interaction — single-turn "safe/helpful" results mask systematic tutor failure.
-
 4. **Harms are subject-dependent.** Violation patterns vary significantly across mathematics, physics, and chemistry, indicating that mitigations must be discipline-aware. A tutoring safety strategy that works for math may not transfer to science domains.
-
 5. **An 11-dimension, 48-sub-risk taxonomy grounds the evaluation.** SafeTutors' risk taxonomy spans Cognitive, Epistemic, Metacognitive, Motivational-Affective, Developmental & Equity, Instructional Alignment, Behavioral & Inquiry, Ethical-Epistemic Integrity, Informational-Semantic, Reflective-Critical, and Pedagogical Relationship dimensions — each with multiple sub-risks drawn from learning-science literature.
 
 ## Implications

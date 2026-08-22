@@ -13,11 +13,8 @@ confidence: medium
 ## Key Findings
 
 1. **Eight studies reviewed.** The review synthesizes 8 peer-reviewed studies published between 2019 and 2025 focusing on AI literacy for writing instruction at the elementary level.
-
 2. **AI supports writing practices efficiently.** Findings report that AI integration has efficient results in support of writing practices in elementary classrooms.
-
 3. **Creativity through multimodality.** AI fosters creativity through multimodal application, enabling new forms of expression in young learners' writing.
-
 4. **Nuanced assessment approaches.** AI creates nuanced approaches to writing assessment, though the review notes certain limitations remain for future research.
 
 ## Implications

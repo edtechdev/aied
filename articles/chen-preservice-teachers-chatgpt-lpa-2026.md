@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **Four distinguishable acceptance profiles (entropy = 0.985).** Person-centered LPA (using [[technology-acceptance-model|TAM]] and UTAUT2 constructs) revealed Pragmatic Evaluators (47.66%), Technology Pioneers (26.56%), Resistant Skeptics (14.06%), and Environmental Observers (11.72%).
-
 2. **The ease-of-use ≠ intention paradox.** Resistant Skeptics had relatively high perceived ease of use yet very low behavioral intention — demonstrating that perceived technical ease does not guarantee adoption, and implying resistance is driven by attitudes/values rather than capability.
-
 3. **Discipline shapes acceptance.** STEM pre-service teachers concentrated in Technology Pioneers (47.1%), while non-STEM teachers were overrepresented in Environmental Observers and Resistant Skeptics (χ² = 36.20, p < .001, Cramer's V = 0.532).
-
 4. **Profiles differ strongly in behavioral intention** (F = 109.00, p < .001, η² = 0.726), confirming the profiles are meaningfully distinct in downstream intention.
-
 5. **A differentiated AI-literacy framework.** Profiles such as Resistant Skeptics require targeted interventions that extend beyond operational skills training — addressing attitudes, trust, and contextual factors.
 
 ## Implications

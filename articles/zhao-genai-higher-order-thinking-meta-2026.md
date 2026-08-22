@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Moderate overall positive effect on higher-order thinking.** Across 29 studies, GenAI improved learners' HOT to a moderate degree.
-
 2. **Problem-solving > critical thinking > creativity.** The most significant improvement was in problem-solving abilities, followed by critical thinking, while the effect on creativity was relatively limited.
-
 3. **Duration matters.** Effects were strongest when interventions lasted 8–16 weeks — medium- to long-term integration is recommended.
-
 4. **Self-regulated learning amplifies benefit.** Learners with higher SRL capacities benefited more substantially, suggesting dynamic, personalized scaffolding of SRL maximizes GenAI's educational potential.
 
 ## Implications

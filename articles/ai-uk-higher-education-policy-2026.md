@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Fragmented and accelerating adoption.** AI integration in UK higher education is accelerating but remains fragmented, revealing a gap between policy ambitions and institutional capacity.
-
 2. **Institutional disparities.** Differences between teaching-led and research-intensive universities highlight disparities in infrastructure and staff preparedness.
-
 3. **Policy concerns cluster around equity and efficacy.** Key concerns include ethics, equity exclusion, and learner efficacy, compounded by limited theoretical coherence and participatory governance.
-
 4. **A layered framework proposed.** The review proposes a layered, inclusive framework linking national policy, institutional infrastructure, and governance.
 
 ## Implications

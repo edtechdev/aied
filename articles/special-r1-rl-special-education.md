@@ -21,7 +21,6 @@ Special-R1 is a framework that extends pedagogical reinforcement learning (RL) t
 The framework has two core components:
 
 1. **Two-dimensional adaptive system prompt**: Couples a difficulty-based support level (scaffolding) with a disability-specific teaching style, forming a persona-aware prompt that guides the LLM tutor during multi-turn dialogue.
-
 2. **Persona-aware Thinking Reward**: The judge rubric used to compute the training reward is conditioned on the learner's disability profile rather than a generic student. This shapes the tutor to produce responses that are helpful, safe, and appropriately challenging for each specific persona.
 
 ## Key Results

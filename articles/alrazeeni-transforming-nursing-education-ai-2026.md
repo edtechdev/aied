@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Four application areas.** AI in nursing education centers on: (a) personalized learning systems tailoring content to individual needs; (b) simulation-based training improving decision-making in high-acuity scenarios; (c) automated assessment providing immediate, unbiased feedback; (d) institutional-level AI for curriculum management and predictive analytics.
-
 2. **Recurring risks.** Technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias are common across studies.
-
 3. **Actionable recommendations.** Integrate AI-powered simulation into emergency-care training; deploy adaptive platforms to support at-risk learners; use automated tools for real-time formative feedback; and adopt diagnostic accuracy as a measurable outcome for assessing impact.
-
 4. **Next step.** Initiate multi-site pilot programs over 6–12 months, evaluating improvements in [[learning-gains|learning outcomes]], trust, and system integration.
 
 ## Implications

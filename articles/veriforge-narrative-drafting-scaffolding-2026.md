@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **The core problem is latent knowledge gaps.** Current AI writing tools require explicit queries authors cannot formulate, generate finished prose that risks homogenizing voice, or assist only within what authors already know. VeriForge targets the discovery and integration of unfamiliar domain knowledge.
-
 2. **Mixed-initiative division of labor.** Grounded in interviews with 9 fiction writers, VeriForge divides cognitive labor: the system takes initiative over domain discovery while the author keeps full initiative over narrative synthesis, preserving writer agency.
-
 3. **Three complementary mechanisms.** Proactive inline highlighting flags potential knowledge gaps as authors draft; dual-stream querying pairs conversational responses with source-anchored Knowledge Cards for direct fact extraction; a spatial Knowledge Canvas lets authors organize and connect discovered knowledge, all powered by a graph-based [[rag]] pipeline.
-
 4. **Promising preliminary evidence.** A within-subjects user study (N=12) showed the paradigm helps authors recognize previously overlooked knowledge gaps, supports creative exploration, and produced passages rated by experts as having stronger domain grounding in a cold-start task.
 
 ## Implications

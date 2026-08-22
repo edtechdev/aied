@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **Assessment twins as a validity-focused response to GenAI.** Two deliberately linked, interdependent components that address the same intended learning outcomes through different modes of evidence, scheduled to allow cross-checking against a known vulnerability (e.g., GenAI completion). The twin approach triangulates evidence across pedagogically valuable but GenAI-vulnerable formats.
-
 2. **A systematic validity mapping.** Using Messick's unified validity framework (via Shaw & Crisp's six strands — content, substantive, structural, generalisability, external, consequential), the paper shows how GenAI threatens each strand and how twinning mitigates those threats.
-
 3. **Retaining formative value.** Many GenAI-vulnerable tasks (take-home essays, research reports) carry substantial formative value. Rather than discarding them, twins retain the vulnerable task for learning while pairing it with a twin that supplies reliable summative evidence — the original task supports learning, the twin confirms achievement.
-
 4. **A three-step design process.** (1) Identify GenAI vulnerabilities (requiring assessor AI literacy); (2) consider learning outcomes and choose a complementary twin assessment; (3) develop an interdependent marking framework (confirmatory threshold or confirmatory weighting).
-
 5. **Context-dependent application.** Twins suit institutions that can support resource-intensive confirmatory tasks; in resource-limited, very large-cohort settings, a full redesign using established frameworks (e.g., the AIAS) may be more effective. Challenges include resource intensity, equity concerns, and the need for empirical validation.
 
 ## The validity problem GenAI creates

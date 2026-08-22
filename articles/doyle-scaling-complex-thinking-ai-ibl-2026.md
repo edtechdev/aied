@@ -13,13 +13,9 @@ confidence: medium
 ## Key Findings
 
 1. **IBL's scalability problem.** IBL scaffolding requires instructors to continually assess and tailor support per student — time-intensive and hard to scale to large cohorts. AI is proposed as the mechanism to scale that scaffolding.
-
 2. **AI as a scaffolding layer, not an output generator.** The framework maps AI interactions onto the stages of IBL, positioning AI as a metacognitive coach: in the question phase AI critique compels clarification; in Investigate/Create it prompts self-evaluation; in Discuss/Reflect it introduces conflict to challenge assumptions.
-
 3. **AI vs. teacher scaffolding.** AI provides instant, in-task, individualized intervention, whereas teacher scaffolding is post-task and cohort-balanced — a timing-and-scale distinction.
-
 4. **Complex thinking as the goal.** Complex thinking synthesizes critical, creative, and systematic thinking, with metacognition as its backbone — and IBL, scaffolded by AI, is positioned as the pedagogy to develop it.
-
 5. **Institutional conditions.** Sustainability depends on shifting assessment from content mastery to measurable complex-thinking skills, plus teacher training and technological governance.
 
 ## Implications

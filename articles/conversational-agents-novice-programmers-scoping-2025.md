@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **23 studies, PRISMA-ScR.** The review screened 743 citations to select 23 studies on educational conversational agents for novice programmers (January 2019–June 2024), with research peaking in 2022.
-
 2. **A technological shift toward LLMs and RAG.** Prototypes moved from rule-based/scripted systems (n=9) to LLM-based (n=8) and retrieval-augmented/hybrid (n=2) architectures — integrating open-source models, [[rag|retrieval-augmented generation]] to reduce [[hallucination-risk|hallucination]], and flexible pipelines that align technical sophistication with pedagogical adaptability.
-
 3. **Sparse [[learning-theories|pedagogical grounding]].** Only 4 of 23 studies explicitly apply [[learning-theories|learning theories]] (Vygotskian dialogue, the 4C/ID model, [[scaffolding]] techniques, gamification). Without theory-informed design, these tools risk bypassing critical and [[computational-thinking|algorithmic thinking]] development — surfacing a persistent gap between CA development and [[pedagogy]].
-
 4. **Weak and heterogeneous evaluation.** 15 of 23 studies used experimental designs, but most relied on subjective post-usage surveys/interviews; only three used objective pre/post-test designs. Quality was mostly Moderate (none of 17 quasi-experimental studies rated High), limiting causal claims.
-
 5. **English-only dominance creates an inclusivity barrier.** Though most studies originated outside English-speaking countries, 17 of 23 prototypes were English-only; multilingual support (Pynar, Pyo, Profe Alex) remains rare, and only 2 of 23 studies addressed gender representation.
 
 ## Implications

@@ -18,13 +18,9 @@ Codify (also referred to as "AI Tutor") is a web-based [[intelligent-tutoring]] 
 The system comprises five integrated components:
 
 1. **Conversational AI Tutor**: Built on [[llm]] technology with LangChain and [[retrieval-augmented-tutoring-algorithm-kite|Retrieval-Augmented Generation (RAG)]] for contextual memory and response coherence. Uses Socratic questioning rather than answer provision.
-
 2. **Practice Question Engine**: Automatically generates programming exercises at three difficulty levels (beginner, intermediate, advanced), dynamically tailored to student competency.
-
 3. **Competency Tracking**: Maintains topic-level competency scores (0–100) per student, updated continuously based on interactions, quiz performance, and problem-solving. Incorporates **resistance curves** — mastery becomes progressively harder as proficiency increases.
-
 4. **Code Analysis & Feedback**: Performs syntax validation, logic analysis, style feedback, and debugging assistance. Critically, the system **does not correct code directly** — it provides educational hints that encourage self-discovery, aligning with [[scaffolding]] best practices.
-
 5. **Adaptive Learning & Gamification**: Features XP, daily streaks, competitive leagues (Bronze → Diamond), and multiple leaderboards for engagement.
 
 ## Positioning in the ITS Landscape

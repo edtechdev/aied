@@ -13,9 +13,7 @@ confidence: high
 ## Key Contributions
 
 1. **Hierarchical proficiency modeling:** Represents each student's knowledge as node-wise proficiencies on a concept tree, with a tree-structured encoder-decoder where the encoder infers proficiencies from response history and the decoder predicts responses via a GCN-based cognitive decoder. This enables intuitive coarse-to-fine diagnosis — first assessing broad competence, then drilling into specific concept weaknesses.
-
 2. **Automated concept tree construction:** A multi-agent LLM pipeline (Concept Elaborator, Concept Tagger, Coarse Concept Generator) automatically builds concept trees and exercise-concept links from educational text, eliminating costly expert annotation. This makes the entire diagnosis pipeline fully automated.
-
 3. **LLM-guided proficiency learning:** An LLM teacher provides order-based distillation — supervising pairwise proficiency ordering rather than absolute values — yielding more reliable and semantically coherent proficiency estimates than reconstruction-only training.
 
 ## Approach

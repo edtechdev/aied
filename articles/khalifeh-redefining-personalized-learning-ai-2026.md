@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **PL is conceptually ambiguous.** Personalized learning functions as a broad, multi-layered umbrella term without a universally accepted definition; related terms are used interchangeably, creating clarity problems for research and practice.
-
 2. **AI is transforming PL.** Real-time feedback, adaptive sequencing, intelligent tutoring, and dynamic learning pathways have shifted PL from static, one-size-fits-all instruction toward adaptive, data-driven, learner-centered approaches.
-
 3. **A unified term is needed.** The review calls for a common framework to clarify definitions and enhance consistency across educational technology practice — extending Shemshack and Spector's (2020) earlier terminology review.
-
 4. **Research gaps persist.** Disproportionate focus on older learners; a lack of longitudinal, inclusive, and methodologically rigorous research, especially in underrepresented populations and diverse contexts; frameworks lagging behind technological innovation; and under-addressed concerns around privacy, bias, ethics, teacher preparation, and human–AI collaboration.
 
 ## Implications

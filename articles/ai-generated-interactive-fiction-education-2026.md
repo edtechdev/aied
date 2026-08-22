@@ -14,9 +14,7 @@ confidence: medium
 ## Key Findings
 
 1. **Generation is not enough.** Generative AI can produce interactive narrative content at scale, but scenarios that are confusing, narratively inconsistent, or unengaging are unlikely to be useful in practice — quality must be validated with users, not assumed.
-
 2. **Mixed user ratings.** Participants rated narrative clarity and length acceptance positively, engagement sat near the neutral midpoint, and story-content coherence was the weakest dimension by a clear margin.
-
 3. **Quiz integration is the bottleneck.** Qualitative feedback identified artificial in-fiction motivation for quiz prompts, abrupt setting changes, and the absence of story-level consequences for wrong answers as the main friction points.
 
 ## Implications
