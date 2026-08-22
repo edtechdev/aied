@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-08-16"
+updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [learning-theory, self-regulated-learning, metacognition, cognitive-offloading, scaffolding, distributed-cognition, developmental-psychology, higher-ed]
 sources: ['raw/papers/ai-cognitive-partner-co-regulation-learning.md']
@@ -49,7 +49,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[human-ai-collaboration]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[cognitive-offloading-llm-synthesis-writing]]

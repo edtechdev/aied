@@ -1,7 +1,7 @@
 ---
 title: "Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence"
 created: "2026-06-12T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [generative-ai, llm, personalized-learning, scaffolding, higher-ed, self-regulated-learning, human-ai-collaboration, cognitive-offloading-llm-synthesis-writing, ai-literacy]
 sources: ['raw/papers/2606.12441.md']
@@ -35,6 +35,7 @@ Generativism has profound implications for [[intelligent-tutoring|instructional 
 - [[llm]]
 - [[constructivist]]
 - [[cognitive-offloading]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[cognitive-offloading-llm-synthesis-writing]]

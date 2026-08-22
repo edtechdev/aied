@@ -1,7 +1,7 @@
 ---
 title: Distinguishing performance gains from learning when using generative AI
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [generative-ai, metacognition, cognitive-offloading, higher-ed, scaffolding, self-regulated-learning, ai-assistance-reduces-persistence, rag, llm]
 
@@ -37,6 +37,7 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[generative-ai]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
