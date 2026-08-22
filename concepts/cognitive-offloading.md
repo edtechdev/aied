@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T20:28:43-04:00"
+updated: "2026-08-22T04:44:37-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -38,6 +38,7 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer.
 
 - **Metacognitive training reduces reminder bias (direct empirical evidence):** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the first clear demonstration that a brief intervention can make offloading measurably more optimal. Two preregistered experiments (N=164, N=416) found that **just five practice trials pairing a performance prediction with veridical, trial-by-trial feedback** improved metacognitive calibration and reduced reminder bias. The four-group additive design isolated the mechanism: **predictions alone were ineffective; adding performance feedback drove the improvement; explicitly labeling over-/under-confidence added nothing further**. The effect appeared on *absolute* (not signed) bias — training corrected individual miscalibration in both directions. This empirically validates the beliefs-vs-experiences framework above: it is *experience-targeting feedback*, not beliefs or prediction alone, that changes offloading behavior. The authors attribute success to financial incentive tied to offloading optimality plus immediate veridical feedback.
+- **Over-reliance is the leading ethical concern across all conversational-AI generations.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) reports that human–AI relationship concerns — including over-reliance and the diminution of social interaction — are the **most frequently discussed ethical issue across all CAI generations**, predating GenAI. It also lists educational impact and cognitive concerns (including overreliance and degraded critical thinking) as the second most-discussed challenge category, underscoring that offloading's harm is a persistent, cross-generation theme rather than a GenAI-specific novelty.^[[conversational-ai-agents-umbrella-review-2026]]
 
 ### Over-reliance: when offloading becomes harmful
 
@@ -161,3 +162,5 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
