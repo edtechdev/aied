@@ -147,3 +147,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming

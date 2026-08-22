@@ -64,3 +64,5 @@ Network methods are used across the wiki's evidence base to answer questions tha
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
 - [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
+
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science

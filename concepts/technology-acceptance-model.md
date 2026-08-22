@@ -51,3 +51,5 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 - [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
 - [[ai-acceptance-preservice-science-teachers-2026]] — AI acceptance among preservice science teachers
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
+
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles

@@ -137,3 +137,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming

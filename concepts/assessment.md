@@ -123,3 +123,5 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based assessment
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)

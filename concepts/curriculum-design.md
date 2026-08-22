@@ -71,3 +71,5 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review

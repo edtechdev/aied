@@ -43,3 +43,5 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[llm-difficulty-calibration-programming-exams-2026]] — LLM difficulty calibration in programming exams
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
+
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)

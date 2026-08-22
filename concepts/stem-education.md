@@ -1,7 +1,7 @@
 ---
 title: STEM Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-22T05:12:36-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 
@@ -20,6 +20,22 @@ confidence: high
 ### Why STEM dominates
 
 STEM's structured knowledge representation, verifiable answers, and computational thinking alignment make it the most natural fit for AI tutoring. [[computational-thinking|Computational thinking research]] explores this alignment explicitly.
+
+### New evidence from 2025–26 IJ STEM Education research
+
+A concentrated batch of 2026 *International Journal of STEM Education* studies sharpens how AI functions across STEM's subfields and levels:
+
+- **Subject-specific governance shapes student AI use.** A cross-sectional study of 416 Czech secondary students ([[lnenicka-secondary-students-genai-stem-2026]]) found AI adoption is *stratified by discipline* rather than unified: computer science and economics normalize GenAI as a collaborative resource, while mathematics (65.9% prohibit) and natural sciences (55.3%) show high perceived prohibition co-occurring with poor rule clarity and persistent clandestine use. Students mostly use AI as an instrumental scaffold (explanation, solution-checking) rather than a substitute, but a critical evaluation gap emerges — heavy prompt modification overshadows external factual verification, shifting behavior toward [[cognitive-offloading]]. This argues for *subject-sensitive* guidance over blanket bans.
+
+- **AI as a co-inquirer in inquiry-based STEM.** A quasi-experiment with 97 third-graders ([[dai-chatbots-problem-posing-primary-2026]]) showed GenAI chatbots significantly outperformed search engines for science [[problem-based-learning|problem posing]] in inquiry-based learning, improving question quality, producing a more integrated epistemic [[network-analysis|network structure]] (ENA), and lowering cognitive load. A systematic review of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) confirms ChatGPT supports question formulation, inquiry design, problem-solving, and reflection — but risks over-reliance, hallucination, and superficial conclusions when outputs are treated as authoritative.
+
+- **STEAM is an uneven pathway to AI literacy.** A PRISMA systematic review of 39 studies ([[niri-steam-ai-literacy-review-2026]]) found STEAM implementations chiefly develop technical literacies (fundamental AI concepts, computational thinking, data literacy) while underdeveloping ethical awareness, creative imagination, creating/managing/designing with AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag — indicating AI literacy in STEM is currently lopsided toward technical skill over responsible shaping of AI.
+
+- **Adaptive AI-based STEM programs can support deep learning.** A cluster-randomized pilot in sixth-grade science ([[bin-bakheet-adaptive-ai-stem-deep-learning-2026]], N = 30) found an adaptive AI-based STEM program (personalized content, rule-based mastery, real-time feedback) produced large effect sizes favoring the experimental group across explanation, interpretation, application, and idea generation — though the two-classroom design warrants cautious interpretation.
+
+- **Teacher acceptance is heterogeneous and discipline-shaped.** A latent profile analysis of 128 pre-service teachers ([[chen-preservice-teachers-chatgpt-lpa-2026]]) found four ChatGPT-acceptance profiles (Pragmatic Evaluators, Technology Pioneers, Resistant Skeptics, Environmental Observers), with STEM teachers concentrated in Technology Pioneers and non-STEM teachers in resistant profiles — and Resistant Skeptics showing high ease of use but low intention, demanding differentiated [[ai-literacy]] training.
+
+- **Assessment and cognitive processes in AI-integrated STEM.** The [[zhang-ct-ai-training-test-2026|CTAT]] (34-item, IRT-validated) provides a valid instrument for assessing [[computational-thinking]] within AI-training contexts, revealing students struggle most with data representation, logical-operator sequencing, and loop structures. A grounded-theory study of AI-assisted programming ([[liu-tool-tutor-crutch-programming-2026]]) shows learners oscillate between "Domain Mastery" and "Tool Mastery" through Scaffolding and Offloading loops, with attenuated metacognitive calibration under routine offloading — a process-level account of the performance-learning tension.
 
 ### Connections
 
@@ -52,6 +68,14 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[ai-acceptance-preservice-science-teachers-2026]]
 

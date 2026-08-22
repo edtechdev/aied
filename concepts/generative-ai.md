@@ -141,3 +141,15 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
+
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
