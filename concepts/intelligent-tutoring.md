@@ -143,3 +143,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

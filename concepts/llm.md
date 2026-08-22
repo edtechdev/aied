@@ -76,3 +76,5 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

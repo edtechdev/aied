@@ -52,6 +52,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
 - [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ## Citation
 

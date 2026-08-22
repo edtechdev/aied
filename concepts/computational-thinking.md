@@ -73,3 +73,5 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[genai-oop-programming-assessments-2026]]
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

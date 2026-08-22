@@ -164,3 +164,5 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:18:31-04:00"
+updated: "2026-08-22T04:52:33-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -13,6 +13,7 @@ confidence: high
 ### AI in CS education
 
 - **Code generation and completion:** [[code-review-genai-cs1|CS1 code review]], [[dura-llm-cs2|DURA for CS2]], and [[prompt-problems-nl-programming-mistakes|NL programming mistakes]] examine how students use AI for code generation and what they learn from it.
+- **Conversational agents for novices (scoping review):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] map 23 studies (2019–June 2024) of [[conversational-ai|conversational agents]] for novice programmers, documenting a shift from rule-based chatbots to [[llm|LLM]]- and [[rag|RAG]]-based agents (with [[rag|retrieval-augmented generation]] reducing hallucination) and personalized tutoring support (e.g., InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Notably, only 4 of 23 studies ground design in learning theory, and 17 of 23 prototypes are English-only despite most research originating outside English-speaking countries — flagging weak pedagogical grounding and an inclusivity gap for future CA design in introductory programming.
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
 - **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
@@ -144,3 +145,5 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ai-engineering-computing-workforce-grey-literature-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

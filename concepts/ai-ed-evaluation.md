@@ -107,3 +107,5 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 949
+**Last updated:** 2026-08-22 | **Total entries:** 950
 
 ## 2026-08-22
+
+- ◐ [[conversational-agents-novice-programmers-scoping-2025]] — raw/papers/conversational-agents-novice-programmers-scoping-2025.md
+  Exploring Conversational Agents for Novice Programmers: A Scoping Review
+  #conversational-ai #chatbot #cs-education #intelligent-tutoring #scaffolding #feedback #generative-ai #llm #equity-in-ai-education #multimodal #scoping-review
 
 - ● [[conversational-ai]] — 
   Conversational AI
