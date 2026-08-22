@@ -1,7 +1,7 @@
 ---
 title: Student Experience with AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T20:28:43-04:00"
+updated: "2026-08-22T17:45:00-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, cognitive-offloading, equity, k-12]
 
@@ -63,3 +63,5 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+

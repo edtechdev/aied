@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-22T17:45:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high
@@ -85,3 +85,5 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
+- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+
