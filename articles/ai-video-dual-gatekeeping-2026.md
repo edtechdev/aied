@@ -24,7 +24,7 @@ In a within-subject study, 23 educators using PedaCo reported statistically sign
 
 ## Discussion
 
-The authors surface three tensions: negotiating [[agency]] when automated flags and educator judgments diverge; the sustainability of friction (when does productive friction become "friction fatigue"); and the need to move beyond proxy metrics to test direct causal impact on student learning outcomes. The conclusion reframes [[ai-education|resistance to AI in education]] not as rejection but as building systems designed to push back on principled grounds until the output is genuinely ready to teach.
+The authors surface three tensions: negotiating [[agency]] when automated flags and educator judgments diverge; the sustainability of friction (when does productive friction become "friction fatigue"); and the need to move beyond proxy metrics to test direct causal impact on student [[learning-gains|learning outcomes]]. The conclusion reframes [[ai-education|resistance to AI in education]] not as rejection but as building systems designed to push back on principled grounds until the output is genuinely ready to teach.
 
 ## Connected Concepts
 - [[generative-ai]]

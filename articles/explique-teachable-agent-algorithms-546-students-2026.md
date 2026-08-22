@@ -19,7 +19,7 @@ LLM tools give students rapid solutions but may reduce opportunities for product
 - **Explique platform** integrates the Algorithm Apprentice teachable agent into an undergraduate algorithms course.
 - **11-week field deployment** in a real course with **546 students**.
 - **3,809 student–agent LBT dialogues** analyzed alongside quiz and survey data.
-- **Generalized linear mixed-effects models** linked dialogue behaviors to learning outcomes.
+- **Generalized linear mixed-effects models** linked dialogue behaviors to [[learning-gains|learning outcomes]].
 
 ## Key Findings
 

@@ -21,7 +21,7 @@ Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) pro
 
 ## Implications for AI in Education
 
-THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and pedagogically grounded learning support. By modeling how concepts interact within multi-concept questions, it produces more robust [[student-modeling|student knowledge models]] that support [[formative-assessment|formative]], [[adaptive-learning|adaptive]], and [[personalized-learning|personalized]] assessment, and informs [[learning-analytics|learning-analytics]] dashboards for intervention design. The emphasis on practice diversity and composition-sensitive mastery aligns with learning-science findings that cognitively demanding, varied practice strengthens retention — capturing learning dynamics that earlier KT models treat as equivalent.
+THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and pedagogically grounded learning support. By modeling how concepts interact within multi-concept questions, it produces more robust [[student-modeling|student knowledge models]] that support [[formative-assessment|formative]], [[adaptive-learning|adaptive]], and [[personalized-learning|personalized]] assessment, and informs [[learning-analytics]] dashboards for intervention design. The emphasis on practice diversity and composition-sensitive mastery aligns with learning-science findings that cognitively demanding, varied practice strengthens retention — capturing learning dynamics that earlier KT models treat as equivalent.
 
 ## Connected Concepts
 

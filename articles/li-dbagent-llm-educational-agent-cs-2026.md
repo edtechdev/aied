@@ -8,7 +8,7 @@ sources: ['raw/papers/li-dbagent-llm-educational-agent-cs-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This large-scale quasi-experiment (N = 313 sophomores, four authentic classes, four weeks) evaluated DBagent — a domain-specific [[llm|LLM]]-based educational agent for an undergraduate database course with tool use, memory, and goal-directed reasoning. The agent-enriched environment significantly improved learning achievement, but [[learning-analytics|lag sequential analysis]] of interaction logs revealed a distinctive cognitive profile: high-frequency lower-order engagement (Remember/Understand, ~54.5%) driven by psychological safety, organized around a "Query-Evaluation-Query" verification loop — with only 3.92% of interactions reaching higher-order cognition. SEM confirmed positive perceptions sustain engagement via satisfaction.
+> **Synthesis:** This large-scale quasi-experiment (N = 313 sophomores, four authentic classes, four weeks) evaluated DBagent — a domain-specific [[llm|LLM]]-based educational agent for an undergraduate database course with tool use, memory, and goal-directed reasoning. The agent-enriched environment significantly improved learning [[learning-gains|achievement]], but [[learning-analytics|lag sequential analysis]] of interaction logs revealed a distinctive cognitive profile: high-frequency lower-order engagement (Remember/Understand, ~54.5%) driven by psychological safety, organized around a "Query-Evaluation-Query" verification loop — with only 3.92% of interactions reaching higher-order cognition. SEM confirmed positive perceptions sustain engagement via satisfaction.
 
 ## Key Findings
 

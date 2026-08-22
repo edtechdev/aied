@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.17451.md']
 confidence: high
 ---
 
-> **Synthesis:** Favero, Pérez-Ortiz, Käser, and Oliver (2026) argue that the central risk of [[ai-education|AI in education]] is not technological failure but *misalignment* — AI that substitutes for human effort erodes the very capacities education is meant to build. They organize this risk into an integrative framework of four interrelated dimensions — [[cognitive-offloading|cognition]], [[agency]], emotional [[well-being|well-being]], and [[ethics]] — linked by a **self-reinforcing harm cycle** in which offloading reduces effort, weakens agency, and compounds emotional and ethical harm. Grounding the framework in an exploratory analysis of 49 International Baccalaureate essays, they find learners themselves perceive these risks (80% report AI reliance reduces thinking) while converging on the AI they want: systems that withhold immediate answers, prompt recall, and encourage reflection through questions. From this they derive a single design principle, **scaffold, do not substitute**, argued to extend beyond education to any system that mediates human thinking, and outline a research agenda for building AI that fosters enduring human capacity.
+> **Synthesis:** Favero, Pérez-Ortiz, Käser, and Oliver (2026) argue that the central risk of [[ai-education|AI in education]] is not technological failure but *misalignment* — AI that substitutes for human effort erodes the very capacities education is meant to build. They organize this risk into an integrative framework of four interrelated dimensions — [[cognitive-offloading|cognition]], [[agency]], emotional [[well-being]], and [[ethics]] — linked by a **self-reinforcing harm cycle** in which offloading reduces effort, weakens agency, and compounds emotional and ethical harm. Grounding the framework in an exploratory analysis of 49 International Baccalaureate essays, they find learners themselves perceive these risks (80% report AI reliance reduces thinking) while converging on the AI they want: systems that withhold immediate answers, prompt recall, and encourage reflection through questions. From this they derive a single design principle, **scaffold, do not substitute**, argued to extend beyond education to any system that mediates human thinking, and outline a research agenda for building AI that fosters enduring human capacity.
 
 ## The self-reinforcing harm cycle
 
@@ -31,7 +31,7 @@ The framework is grounded in an exploratory qualitative analysis of 49 argumenta
 - **53% (26/49)** named at least one behavior that *supports* rather than replaces thinking — withholding the solution, asking critical questions, prompting active recall, offering alternative explanations.
 - Yet **48 of 49** framed AI in terms of *replacement*, not scaffolding — the AI students say they need is not the AI they typically encounter.
 
-This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed [[feedback|feedback]], and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
+This convergence is striking because students' desiderata align almost exactly with established learning-science principles: effortful retrieval, [[desirable-difficulties|productive struggle]], delayed [[feedback]], and questioning. The authors note these are "not consumer preferences but pedagogically sound intuitions."
 
 ## Scaffold, do not substitute
 

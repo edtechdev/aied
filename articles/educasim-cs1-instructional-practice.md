@@ -12,7 +12,7 @@ sources: [raw/papers/2603.11444.md]
 
 ## Key Findings
 
-- **Role play is high-impact but hard to scale for teacher training.** It is well-recognized for improving learning outcomes and preparing teachers for classroom scenarios, but depends on trained, available facilitators — an acute problem for massive online courses with hundreds to thousands of novice teachers.
+- **Role play is high-impact but hard to scale for teacher training.** It is well-recognized for improving [[learning-gains|learning outcomes]] and preparing teachers for classroom scenarios, but depends on trained, available facilitators — an acute problem for massive online courses with hundreds to thousands of novice teachers.
 - **EducaSim's agents combine personas, memory, and a decision-making framework.** Student personas capture engagement and speech styles (deliberately avoiding sensitive demographic traits to limit bias); a node-based memory system grounds agents in actual chronological course material with varied knowledge states; and a response framework classifies each utterance as an error or success archetype before an LLM generates the final response.
 - **Extended interaction modes beyond text.** A runnable Python IDE (whose code is piped into the agent memory stream) and low-latency voice-to-text (via Whisper) support realistic practice; an LLM-as-a-judge "speech oracle" decides who speaks next, mirroring real classroom dynamics.
 - **Post-session feedback and self-reflection are built in.** The tool computes talk-time statistics and uses an LLM to identify instructional behaviors (teacher uptake, questioning quality, misconceptions), then offers structured feedback and reflective prompts.

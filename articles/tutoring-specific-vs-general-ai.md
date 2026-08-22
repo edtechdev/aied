@@ -25,7 +25,7 @@ confidence: medium
 ### General-Purpose AI: Mixed or Negative Transfer
 
 - **Bastani et al. (2025):** High schoolers using a general-purpose chatbot for math practice scored **~17% worse** on closed-book final exams than peers with no AI access, despite higher practice grades.^[[stanford-evidence-base-ai-k12-2026]]
-- **Lehmann et al. (2025):** General-purpose AI for programming increased topics covered but **harmed understanding** and widened achievement gaps for low-prior-knowledge students.
+- **Lehmann et al. (2025):** General-purpose AI for programming increased topics covered but **harmed understanding** and widened [[learning-gains|achievement]] gaps for low-prior-knowledge students.
 - **Stadler et al. (2024):** General-purpose AI produced **lower-quality reasoning and argumentation** vs. traditional search.
 - **Kosmyna et al. (2025):** AI essay assistance led to **83% of participants failing to recall a quote** from their own essay, vs. 11% for non-AI users.
 

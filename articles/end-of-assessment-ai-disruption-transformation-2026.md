@@ -30,7 +30,7 @@ A central transformation claim is that assessment shifts from extracting scores 
 
 ## Practical Implications
 
-- **Redesign what is assessed, not just how.** If AI participation in assessment is inevitable, the object of measurement must evolve from testing isolated knowledge to assessing how effectively students work *with* AI to interpret, apply, and evaluate knowledge. AI literacy becomes a foundational learning outcome for students and faculty.
+- **Redesign what is assessed, not just how.** If AI participation in assessment is inevitable, the object of measurement must evolve from testing isolated knowledge to assessing how effectively students work *with* AI to interpret, apply, and evaluate knowledge. AI literacy becomes a foundational [[learning-gains|learning outcome]] for students and faculty.
 - **Treat AI equity audits as validity work.** As [[psychometrically-aware-ai|psychometrically aware AI]] is adopted, the field should audit training data, prompts, and results for representational bias — and resist treating dominant norms (e.g., standardized academic English) as neutral quality standards.
 - **Reconceive the assessor's role as auditor/translator.** Rather than guarding the purity of measurement, assessment professionals should position themselves as curators and stewards of algorithmic evidence — verifying, interpreting, and explaining AI-augmented results, and teaching others to question model reasoning.
 - **Pair AI scoring with human judgment.** While automated scoring offers speed and consistency, the authors emphasize unresolved questions of bias, fairness, and transparency — pointing to hybrid human-plus-AI scoring that keeps humans in the interpretive loop.

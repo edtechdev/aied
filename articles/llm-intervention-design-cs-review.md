@@ -10,7 +10,7 @@ confidence: high
 
 ## Key Findings
 
-This scoping review analyzed **13 experimental studies** on LLM integration in undergraduate [[cs-education]], examining how intervention design choices shape learning outcomes. The central finding: **LLM effectiveness depends less on the model itself than on pedagogical design**.
+This scoping review analyzed **13 experimental studies** on LLM integration in undergraduate [[cs-education]], examining how intervention design choices shape [[learning-gains|learning outcomes]]. The central finding: **LLM effectiveness depends less on the model itself than on pedagogical design**.
 
 ### Three Intervention Archetypes
 

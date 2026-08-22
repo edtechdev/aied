@@ -25,7 +25,7 @@ The paper positions AI as an active participant in the orchestration of interact
 
 ## Ethical, Professional, and Design Implications
 
-The framework treats equity, transparency, teacher professional judgment, and data governance as central pedagogical concerns. It argues that AI-mediated collaboration risks algorithmic authority and technocratic governance when [[self-regulated-learning|shared regulation]] is reduced to dashboards, alerts, and nudges. Design should scaffold equitable participation, support co-regulation and metacognitive awareness, and remain interpretable, adjustable, and subordinate to teacher judgment. This aligns AI mediation with the pedagogical commitments of [[constructivist|constructivist]] and socio-cultural accounts rather than with a tool-centric [[pedagogical-agent|pedagogical agent]] logic.
+The framework treats equity, transparency, teacher professional judgment, and data governance as central pedagogical concerns. It argues that AI-mediated collaboration risks algorithmic authority and technocratic governance when [[self-regulated-learning|shared regulation]] is reduced to dashboards, alerts, and nudges. Design should scaffold equitable participation, support co-regulation and metacognitive awareness, and remain interpretable, adjustable, and subordinate to teacher judgment. This aligns AI mediation with the pedagogical commitments of [[constructivist]] and socio-cultural accounts rather than with a tool-centric [[pedagogical-agent|pedagogical agent]] logic.
 
 ## Connected Concepts
 

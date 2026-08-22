@@ -41,7 +41,7 @@ Built on LangGraph, the multi-agent system's main interaction loop centers on a 
 
 ## Future Work
 
-Real-world user studies to assess learning gains, user experience, and practical utility of generated courses; advanced student modeling (e.g., affective state detection); spaced repetition; exploring different LLMs and RAG architectures; adaptability to other STEM domains, accessibility, and explainability.
+Real-world user studies to assess [[learning-gains|learning gains]], user experience, and practical utility of generated courses; advanced student modeling (e.g., affective state detection); spaced repetition; exploring different LLMs and RAG architectures; adaptability to other STEM domains, accessibility, and explainability.
 
 ## Connected Concepts
 

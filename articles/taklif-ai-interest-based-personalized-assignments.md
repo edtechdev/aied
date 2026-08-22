@@ -27,7 +27,7 @@ Taklif.AI addresses the challenge of creating engaging, [[personalized-learning]
 - **84%** rated the personalization feature as beneficial
 - Strong user acceptance overall
 
-The platform represents a shift from **one-size-fits-all** assignments toward interest-driven engagement, potentially reducing [[academic-integrity]] concerns like plagiarism. However, the paper acknowledges the need for **rigorous empirical evaluation of learning outcomes** beyond user acceptance — echoing the [[genai-performance-vs-learning]] distinction between engagement gains and actual learning improvements.
+The platform represents a shift from **one-size-fits-all** assignments toward interest-driven engagement, potentially reducing [[academic-integrity]] concerns like plagiarism. However, the paper acknowledges the need for **rigorous empirical evaluation of [[learning-gains|learning outcomes]]** beyond user acceptance — echoing the [[genai-performance-vs-learning]] distinction between engagement gains and actual learning improvements.
 
 This work connects to the broader [[automated-question-generation]] literature and the [[edtech-platform]] ecosystem. The use of open-weight models (Llama 3.3 70B) aligns with the trend toward institution-controlled AI deployment seen in [[lata-ferpa-compliant-local-llm-autograder]] and [[moodle-ai-tutoring-deep-learning]].
 

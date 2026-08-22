@@ -8,7 +8,7 @@ sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
 confidence: high
 ---
 
-> **Synthesis:** A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.
+> **Synthesis:** A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced [[learning-gains|learning gains]], even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.
 
 ## Study Design
 

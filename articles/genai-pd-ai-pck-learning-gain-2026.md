@@ -3,12 +3,12 @@ title: "Efficacy of an Intensive Generative AI Professional Development Program 
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
-tags: [teacher-professional-development, teacher-ai-competency, generative-ai, professional-training, efficacy-study, teacher-training, faculty-development, training-methodology]
+tags: [professional-development, teacher-ai-competency, generative-ai, professional-training, efficacy-study, teacher-training, faculty-development, training-methodology]
 sources: ['raw/papers/genai-pd-ai-pck-learning-gain-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This quasi-experimental study of an intensive 8-hour generative-AI professional development program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36), with pre-service teachers showing statistically higher learning gains than experienced teachers (*p* = 0.033).
+> **Synthesis:** This quasi-experimental study of an intensive 8-hour generative-AI professional development program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36), with pre-service teachers showing statistically higher [[learning-gains|learning gains]] than experienced teachers (*p* = 0.033).
 
 ## Key Findings
 

@@ -14,8 +14,7 @@ Examines how different forms of learner-AI interaction relate to learning outcom
 
 - Survey data were collected from **210 undergraduate students** in a first-year object-oriented programming (OOP) course where **GenAI use was permitted for coursework but prohibited in assessments**.
 - Students used GenAI **significantly more often for explanation seeking and debugging than for code generation**.
-- **Cluster analysis identified five distinct learner-AI interaction profiles**, including a "smart" high-usage pattern characterized by **low reliance on code generation** and high use for conceptual support and debugging.
-- Usage patterns were associated with differences in **perceived assignment difficulty, self-assessed understanding, trust in AI-generated code, and norm-related attitudes**.
+- **Cluster analysis identified five distinct learner-AI interaction profiles**, including a "smart" high-usage pattern characterized by **low reliance on code generation** and high use for conceptual support a[[learning-gains|learning gains]]- Usage patterns were associated with differences in **perceived assignment difficulty, self-assessed understanding, trust in AI-generated code, and norm-related attitudes**.
 - Critically, **no significant differences in assessment performance were found across clusters** — self-directed GenAI use alone did not lead to measurable learning gains.
 
 ## Study Design & Method

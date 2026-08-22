@@ -9,7 +9,7 @@ confidence: high
 ---
 
 > **Authors:** Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević **Year:** 2026 **Venue:** arXiv (cs.CY)
-> Large-scale analysis (N=11,406 students, 200 classes, 10 institutions) of GenAI tutor engagement identifies four session-level engagement types — Deep, Shallow, Routine-Learning, and Exam-Driven — with 10.4% of sessions being shallow copy-paste use and deeper engagement more common at selective institutions.
+> Large-scale analysis (N=11,406 students, 200 classes, 10 institutions) of GenAI tutor engagement identifies four session-level engagement types — Deep, Shallow, Routine-[[learning-gains|Learning]], and Exam-Driven — with 10.4% of sessions being shallow copy-paste use and deeper engagement more common at selective institutions.
 
 ## Summary
 

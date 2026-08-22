@@ -1420,7 +1420,7 @@
 
 - ◐ [[genai-pd-ai-pck-learning-gain-2026]] — raw/papers/genai-pd-ai-pck-learning-gain-2026.md
   Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers
-  #teacher-professional-development #teacher-ai-competency #generative-ai #professional-training #efficacy-study #teacher-training #faculty-development #training-methodology
+  #professional-development #teacher-ai-competency #generative-ai #professional-training #efficacy-study #teacher-training #faculty-development #training-methodology
 
 - ◐ [[spritz-ai-disciplinary-mediation-student-teams-2026]] — raw/papers/spritz-ai-disciplinary-mediation-student-teams-2026.md
   Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication

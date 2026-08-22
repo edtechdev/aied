@@ -30,7 +30,7 @@ This multimodal approach aims to provide timely, targeted feedback at scale — 
 ## Results
 
 ### Learning Effectiveness
-- **Equivalent learning gains** between AI multimodal feedback and educator feedback
+- **Equivalent [[learning-gains|learning gains]]** between AI multimodal feedback and educator feedback
 - No significant difference in post-test performance
 
 ### Student Perceptions (AI significantly better)

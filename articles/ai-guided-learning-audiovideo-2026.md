@@ -9,7 +9,7 @@ sources: ['raw/papers/2608.08990.md']
 confidence: high
 ---
 
-> **Synthesis:** This dissertation develops an AI-guided learning framework that supports three interconnected stages — Consume, Understand, and Imitate — with three deep-learning systems for audio/video learning. AIxSpeed adapts audio playback speed using speech-recognition confidence; FastPerson produces multimodal video summaries; and Profy supports pronunciation practice from largely unannotated speech. Evaluations show efficiency gains (up to 1.30x playback, 53% less viewing time) with no loss in learning outcomes, and improved pronunciation intelligibility.
+> **Synthesis:** This dissertation develops an AI-guided learning framework that supports three interconnected stages — Consume, Understand, and Imitate — with three deep-learning systems for audio/video learning. AIxSpeed adapts audio playback speed using speech-recognition confidence; FastPerson produces multimodal video summaries; and Profy supports pronunciation practice from largely unannotated speech. Evaluations show efficiency gains (up to 1.30x playback, 53% less viewing time) with no loss in [[learning-gains|learning outcomes]], and improved pronunciation intelligibility.
 
 ## Key Findings
 

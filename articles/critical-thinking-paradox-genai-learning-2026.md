@@ -13,7 +13,7 @@ confidence: high
 
 ## Key Findings
 
-**The critical-thinking paradox.** GenAI can improve immediate product quality while reducing the cognitive activity on which durable learning depends — a product–process dissociation treated as a testable interpretation rather than an established fact, with genuine heterogeneity retained as a rival explanation.
+**The critical-thinking paradox.** GenAI can improve immediate product quality while reducing the cognitive activity on which durable [[learning-gains|learning]] depends — a product–process dissociation treated as a testable interpretation rather than an established fact, with genuine heterogeneity retained as a rival explanation.
 
 **Differentiated three-level framework.** AI-integration strategies map onto surface (AI as efficiency tool), intermediate (AI as guided scaffold) and deep (AI as dialog partner) cognitive processing, each with level-appropriate AI roles, primary risks and boundary conditions — a more granular account than binary "helpful or harmful" framings.
 

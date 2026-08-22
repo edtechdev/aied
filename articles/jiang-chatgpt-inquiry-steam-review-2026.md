@@ -16,7 +16,7 @@ confidence: high
 
 2. **Roles cluster in three of five inquiry phases.** ChatGPT was used mainly in conceptualization, investigation, and discussion — supporting question formulation, inquiry design, problem-solving, and reflection. Its use in the orientation and conclusion phases remains largely unexplored.
 
-3. **Multiple roles.** ChatGPT functioned as a learning tool, tutor, learning peer, domain expert, and teaching assistant. For students it enhanced academic performance, critical thinking, engagement, and motivation while supporting individualized learning; for processes it improved interaction, reduced educator workload, and enabled differentiated learning.
+3. **Multiple roles.** ChatGPT functioned as a learning tool, tutor, learning peer, domain expert, and teaching assistant. For students it enhanced [[learning-gains|academic performance]], critical thinking, engagement, and motivation while supporting individualized learning; for processes it improved interaction, reduced educator workload, and enabled differentiated learning.
 
 4. **Multifaceted challenges.** Learners may over-rely on ChatGPT-generated answers, accept inaccurate feedback, experience conceptual confusion, or produce superficial conclusions when AI outputs are treated as authoritative. Hallucinations undermine evidence synthesis in the conclusion phase. Institutional challenges include curricular misalignment, reduced instructional depth, unequal access, privacy concerns, academic-integrity risks, and algorithmic bias.
 

@@ -27,7 +27,7 @@ The study provides a design foundation for building [[educational-robotics|gener
 
 ## Limitations
 
-The findings derive from twelve interviews in a specific higher-education context, so they may not generalize across disciplines, institutions, or learner populations. The design requirements are identified but not yet fully validated through implementation and evaluation. The focus is on the knowledge prerequisites of tutoring robots rather than on broader social-robot design or measured learning outcomes.
+The findings derive from twelve interviews in a specific higher-education context, so they may not generalize across disciplines, institutions, or learner populations. The design requirements are identified but not yet fully validated through implementation and evaluation. The focus is on the knowledge prerequisites of tutoring robots rather than on broader social-robot design or measured [[learning-gains|learning outcomes]].
 
 ## Connected Concepts
 

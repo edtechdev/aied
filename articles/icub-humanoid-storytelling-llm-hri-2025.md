@@ -18,7 +18,7 @@ This is a **usability/quality-of-experience study** of an LLM-powered narrative 
 ## Implications for AI in Education
 The work demonstrates how **LLM-powered social robots** can support collaborative, engaging learning interactions such as storytelling, relevant to [[educational-robotics]], [[educational-robotics]], and [[educational-robotics]]. Integrating generative models enables robots to respond adaptively and contextually to children, supporting naturalistic educational interaction. This connects to [[llm|large language models]] in education and to child-focused learning activities such as storytelling, with implications for how embodied AI agents can participate in co-creation and narrative learning.
 ## Limitations
-The study focuses on usability and perceived quality of experience rather than measured learning outcomes; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
+The study focuses on usability and perceived quality of experience rather than measured [[learning-gains|learning outcomes]]; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
 ## Connected Concepts
 - [[educational-robotics]]
 - [[llm]]

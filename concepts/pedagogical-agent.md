@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-08-22T04:44:37-04:00"
+updated: "2026-08-22T06:25:00-04:00"
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
 confidence: medium
@@ -31,7 +31,11 @@ Design for the learner's agency, not the model's convenience. Favor tutoring-spe
 
 Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their diagnostic backbone of [[knowledge-tracing]] and student modeling) and [[generative-ai]]/[[llm]] (their delivery engine). They operationalize [[scaffolding]] and [[feedback]], aim at [[metacognition]] and [[self-regulated-learning]], and increasingly target [[collaborative-learning]]. Safety concerns recur across [[pedagogical-safety]], authoring quality, and the risk that agents [[cognitive-offloading|offload]] learning rather than support it. All of this is evaluated through [[ai-ed-evaluation]] and [[benchmark|benchmarks]] that must measure teaching, not just solving.
 
+Crucially, pedagogical agents are judged by their [[learning-gains|learning gains]], not by how fluently they respond. The wiki's evidence is that agents produce durable gains when designed as tutoring-specific coaches with guardrails — [[tutoring-specific-vs-general-ai|tutoring-specific AI consistently outperforms general-purpose chatbots]] — and can harm learning when they substitute for the learner's effort ([[generative-ai-guardrails-harm-learning|the guardrail RCT]], [[jost-llm-programming-education-learning-outcomes|LLM-reliance and grades]]). Measuring an agent's [[learning-gains]] therefore requires unassisted, transferable outcome measures, not in-tool performance.
+
 ## Connected Concepts
+
+- [[learning-gains]]
 
 - [[pedagogical-safety]]
 - [[agentic-ai]]

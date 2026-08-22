@@ -28,7 +28,7 @@ LaTA (LaTeX Teaching Assistant) is a **privacy-preserving, drop-in autograder** 
 - **Grading error rate:** 0.02-0.04% per rubric line item — near-perfect accuracy
 - **Operational benefit:** Enabled regrading of corrected assignments and expanded TA office hours
 
-**Learning outcomes (vs. traditional cohort):**
+**[[learning-gains|Learning outcomes]] (vs. traditional cohort):**
 - **Midterm exam:** +11% performance gain
 - **Final exam:** +8% performance gain
 - **Confidence gains:** Δ ≥ +1.49 Likert points on every learning objective (N=159, p < 10⁻²⁷)

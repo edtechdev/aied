@@ -20,7 +20,7 @@ The authors argue that generative AI easily boosts performance but often bypasse
 
 ## Implications for AIED Design
 
-This distinction has profound implications for [[scaffolding]] design. Systems that optimize for immediate performance may undermine learning. They must be designed to promote cognitive engagement — for example, through [[socratic-method]] dialogue, constrained feedback, or requiring student articulation before revealing AI output. The piece connects to [[cognitive-offloading|Over-Reliance]] research showing that AI assistance can reduce independent problem-solving and to the [[pedagogy-ai-mistakes]] paradigm that uses AI errors as learning opportunities.
+This distinction has profound implications for [[scaffolding]] design. Systems that optimize for immediate performance may undermine learning. They must be designed to promote cognitive engagement — for example, through [[socratic-method]] dialogue, constrained feedback, or requiring student articulation before revealing AI output. The piece connects to [[cognitive-offloading|Over-Reliance]] research showing tha[[learning-gains|exam scores]]ance can reduce independent problem-solving and to the [[pedagogy-ai-mistakes]] paradigm that uses AI errors as learning opportunities.
 
 The performance-vs-learning gap is now causally demonstrated in a field RCT: [[generative-ai-guardrails-harm-learning]] shows that an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm.
 

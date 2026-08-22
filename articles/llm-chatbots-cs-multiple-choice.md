@@ -9,7 +9,7 @@ sources: ['raw/papers/2606.15919.md']
 confidence: high
 ---
 
-Investigates LLM chatbots' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with student performance. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
+Investigates LLM chatbots' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
 
 ## Key Findings
 

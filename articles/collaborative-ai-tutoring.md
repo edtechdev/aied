@@ -10,7 +10,7 @@ confidence: medium
 
 > ProPACT constructs a real-time model of pair collaboration using three signals:
 
-> Most adaptive learning systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^[[golrang-propact-pair-programming-2026]]
+> Most adaptive [[learning-gains|learning]] systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^[[golrang-propact-pair-programming-2026]]
 
 ## The Dyadic Learner Model
 

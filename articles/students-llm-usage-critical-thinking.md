@@ -20,7 +20,7 @@ This study extends prior work on student LLM use by analyzing data from **two of
 
 1. **Refined bottom-up categorization** of LLM usage types in academic critical thinking, cross-labeled by the **extent of student initiative** — from passive (copy-pasting text for summaries) to active (using LLM as a Socratic dialogue partner for [[critical-thinking-genai-scaffolding]]).
 
-2. **Learning outcome analysis** linking usage frequency and type to performance on three midterm exams. This addresses the core question raised by [[genai-performance-vs-learning]]: do specific LLM usage patterns help or hinder actual learning?
+2. **[[learning-gains|Learning outcome]] analysis** linking usage frequency and type to performance on three midterm exams. This addresses the core question raised by [[genai-performance-vs-learning]]: do specific LLM usage patterns help or hinder actual learning?
 
 3. The **student initiative** dimension is particularly valuable for understanding [[ai-literacy]] development — it maps onto the distinction between using AI as a crutch vs. as a cognitive tool, directly relevant to [[scaffolding]] design.
 

@@ -29,7 +29,7 @@ The central finding is a **discrepancy between initial perceptions and actual us
 - **Design for relevance and discipline-specificity.** Generic GenAI feedback that fails on subject-specific content (e.g., mathematics) or simply restates educator feedback risks being abandoned; adaptive and discipline-tailored GenAI is a clear design priority.
 - **Manage expectations to sustain engagement.** The gap between initial hype and real-world use suggests institutions should communicate clearly what GenAI can and cannot do, reducing mismatched expectations that undermine trust and usage.
 - **Empower learners as active agents.** By enabling students to seek clarification, reflect, and act on feedback independently, GenAI within LA tools can strengthen [[feedback|feedback loops]], promote [[formative-assessment|formative]] engagement, and build feedback literacy — provided learners retain control over the interaction.
-- **Measure feedback literacy via trace data.** The authors propose novel trace-data-based measures of feedback literacy to move beyond self-report, complementing [[student-experience|student-experience]] survey work.
+- **Measure feedback literacy via trace data.** The authors propose novel trace-data-based measures of feedback literacy to move beyond self-report, complementing [[student-experience]] survey work.
 
 ## Connected Concepts
 

@@ -10,7 +10,7 @@ confidence: high
 
 Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large GenAI tutor while preparing for a math exam. Despite overwhelmingly selecting scaffolded support before the session, students' actual interactions were dominated by instrumental requests (asking for answers) with almost no explicit monitoring or evaluation of their own learning.
 
-**Critical finding:** Post-test performance was significantly lower than pre-test, and higher extraneous cognitive load predicted lower post-test scores after controlling for prior knowledge. This reveals an **intention-behavior gap** — students intend to use AI for learning but default to answer-seeking, undermining [[self-regulated-learning|self-regulated learning]] processes.
+**Critical finding:** Post-test performance was significantly lower than pre-test, and higher extraneous cognitive load predicted lower post-[[learning-gains|test scores]] after controlling for prior knowledge. This reveals an **intention-behavior gap** — students intend to use AI for learning but default to answer-seeking, undermining [[self-regulated-learning|self-regulated learning]] processes.
 
 The paper proposes a turn-level codebook combining SRL and [[metacognition|help-seeking constructs]] with LLM-specific codes (agency over AI, epistemic vigilance). Results support the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive GenAI use, and hybrid human-AI analysis of interaction patterns. Contributes directly to the [[cognitive-offloading|over-reliance and cognitive offloading]] literature.
 

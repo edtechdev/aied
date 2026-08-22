@@ -17,7 +17,7 @@ confidence: high
 - LLMs act as **catalysts for collaboration**: supporting idea generation, organization, and peer feedback, simulating rubric-based evaluations and expert reviews, and democratizing access to knowledge — promoting more equitable [[collaborative-learning]], especially in diverse and large-class settings.
 - For problem-solving, LLMs help students **explore alternative solutions, incorporate interdisciplinary perspectives, and simulate authentic real-world scenarios** — e.g., clinical and ethical dilemmas in health sciences, and prototype testing, debugging, and refinement in STEM.
 - LLMs deliver **scalable, timely, personalized feedback** in large courses (near-instant responses reduce delay and dependence on instructor availability) and can **reduce faculty workload** by automating feedback on routine tasks such as drafts, quizzes, and structured assignments.
-- LLMs support **assessment reform**: generating rubrics and varied assessment items aligned with learning outcomes, and shifting assessment from factual recall toward scenario-based, competency-based evaluation.
+- LLMs support **assessment reform**: generating rubrics and varied assessment items aligned with [[learning-gains|learning outcomes]], and shifting assessment from factual recall toward scenario-based, competency-based evaluation.
 
 ## About the Review
 

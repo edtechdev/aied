@@ -8,7 +8,7 @@ sources: []
 confidence: high
 ---
 
-> **Synthesis:** Emotion regulation has been recognized as a key factor affecting students' academic success. This study proposed a self-determination theory (SDT)-based emotional agent framework, implementing an emotional agent (EmoAgent) capable of proactively detecting students' emotional states and providing emotional regulation strategies. An 8-week quasi-experiment with 173 sixth graders found that the SDT-based emotional agent-mediated approach significantly outperformed the conventional agent approach in academic achievement, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on academic success.
+> **Synthesis:** Emotion regulation has been recognized as a key factor affecting students' academic success. This study proposed a self-determination theory (SDT)-based emotional agent framework, implementing an emotional agent (EmoAgent) capable of proactively detecting students' emotional states and providing emotional regulation strategies. An 8-week quasi-experiment with 173 sixth graders found that the SDT-based emotional agent-mediated approach significantly outperformed the conventional agent approach in academic [[learning-gains|achievement]], engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on academic success.
 
 ## Key Findings
 

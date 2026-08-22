@@ -18,7 +18,7 @@ confidence: high
 
 3. **Actionable recommendations.** Integrate AI-powered simulation into emergency-care training; deploy adaptive platforms to support at-risk learners; use automated tools for real-time formative feedback; and adopt diagnostic accuracy as a measurable outcome for assessing impact.
 
-4. **Next step.** Initiate multi-site pilot programs over 6–12 months, evaluating improvements in learning outcomes, trust, and system integration.
+4. **Next step.** Initiate multi-site pilot programs over 6–12 months, evaluating improvements in [[learning-gains|learning outcomes]], trust, and system integration.
 
 ## Implications
 

@@ -12,7 +12,7 @@ confidence: high
 ## Design and context
 
 - **Setting:** Tecnológico de Monterrey, two digital (distance-learning) higher-education courses: biology (Fundamentals of Biological Systems) and mathematics/data science.
-- **[[pedagogy|pedagogy]]:** challenge-based learning (CBL) under the Tec21 educational model — students address real challenges, here using ChatGPT to solve assigned activities.
+- **[[pedagogy]]:** challenge-based learning (CBL) under the Tec21 educational model — students address real challenges, here using ChatGPT to solve assigned activities.
 - **Verification step:** students were explicitly instructed to validate ChatGPT's outputs against formal, high-academic-quality sources.
 - **Method:** surveys (Likert-scale items) plus NLP analysis of open-ended responses — sentiment analysis, Latent Dirichlet Allocation (LDA), and Latent Semantic Analysis (LSA) topic modeling.
 

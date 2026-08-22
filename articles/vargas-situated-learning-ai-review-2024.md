@@ -26,7 +26,7 @@ Vargas, Chiappe & Durand (2024) offer a systematic synthesis of how situated lea
 
 ## Educational Significance
 
-The review is significant because it bridges a classical learning theory and contemporary AI research, showing how an [[constructivist|constructivist]], context-anchored view of learning can steer AI deployment rather than merely reacting to it. For educators, it reframes the [[teacher-role]] as designer of flexible, context-connected learning spaces supported — not supplanted — by AI. For instructional designers and policymakers, it argues that effective [[adaptive-learning]] and [[personalized-learning]] depend on grounding AI in authentic contexts and communities of practice, and that scaling such experiences via AI can make engaged, situated learning accessible to far more students. Its insistence on human ethical guidance connects directly to ongoing debates about [[ai-education]] and the responsible integration of AI in [[higher-ed]] and schooling.
+The review is significant because it bridges a classical learning theory and contemporary AI research, showing how an [[constructivist]], context-anchored view of learning can steer AI deployment rather than merely reacting to it. For educators, it reframes the [[teacher-role]] as designer of flexible, context-connected learning spaces supported — not supplanted — by AI. For instructional designers and policymakers, it argues that effective [[adaptive-learning]] and [[personalized-learning]] depend on grounding AI in authentic contexts and communities of practice, and that scaling such experiences via AI can make engaged, situated learning accessible to far more students. Its insistence on human ethical guidance connects directly to ongoing debates about [[ai-education]] and the responsible integration of AI in [[higher-ed]] and schooling.
 
 ## Connected Concepts
 
@@ -46,7 +46,7 @@ The review is significant because it bridges a classical learning theory and con
 ## Connected Articles
 
 - [[learning-theories]] — umbrella concept; situated learning is documented as one of its activity-and-context learning theories
-- [[genai-educational-outcomes-meta-analysis]] — broader synthesis of AI's effects on learning outcomes
+- [[genai-educational-outcomes-meta-analysis]] — broader synthesis of AI's effects on [[learning-gains|learning outcomes]]
 - [[ai-vocational-education-training-review]] — documents the constructivism/behaviorism gap in AI for education, complementing this review's constructivist framing
 - [[self-directed-growth-generative-ai-learning-analytics]] — related framing of AI as a scaffold for self-directed, context-aware learning
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — the role of human guidance and critical engagement with AI
