@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 155 concepts and 811 articles.
+> Complete text of 156 concepts and 811 articles.
 
 # Concepts
 
@@ -809,7 +809,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 - [[learning-gains]]
 - [[game-based-learning]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
@@ -974,8 +974,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[remote-proctoring]]
 - [[eportfolio]]
 - [[business-education]]
-
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[espino-ai-business-education-review-2026]]
@@ -2581,7 +2580,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[formative-assessment]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[learn-framework-responsible-genai-pbl-2026]]
@@ -2905,7 +2904,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[learning-theories]]
 - [[behaviorism]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -5265,7 +5264,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[tpack]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[benali-genai-academic-writing-2026]]
@@ -6947,7 +6946,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[math-education]]
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -7057,7 +7056,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[critical-pedagogy]]
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
@@ -7190,7 +7189,7 @@ The purpose of this wiki is to help close that gap — to make it easier to keep
 - [[llm]]
 - [[generative-ai]]
 - [[cognitive-offloading]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation
@@ -7615,6 +7614,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
 - [[learning-theories]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[benali-genai-academic-writing-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
@@ -9694,7 +9694,7 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - [[higher-ed]]
 - [[limitations-in-aied-research]]
 - [[learning-gains]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
@@ -11390,6 +11390,63 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 
 ---
 
+## [Theory Development in AI in Education](https://edtechdev.github.io/aied/concepts/theory-development-aied/)
+
+> **Theory development in AI in education** — the scholarly work of creating, advancing, and critically examining the theories and conceptual frameworks that explain how learners, teachers, and AI systems interact. As generative AI reshapes education, the field is both proposing *new* theories of learning-with-AI and reworking established [[learning-theories|learning theories]] — while a documented weakness in theory use remains a cross-cutting limitation of AIEd research.
+
+Theory development in AIEd sits at the boundary between the applied [[learning-theories|learning theories]] the field draws on and the novel constructs the AI era is producing. Where [[learning-theories]] catalogs the established theories applied to AI (behaviorism, constructivism, cognitive load, self-determination, etc.), this concept tracks the *process and product of theorizing itself*: which new theories and frameworks are being born, how established theories are being advanced, and the methodological question of whether AIEd research theorizes well.
+
+## New theories of learning with AI
+
+A growing cluster of articles explicitly creates new theory for the AI era rather than applying existing frames:
+
+- **Generativism.** [[generativism-learning-theory|Generativism]] is proposed as a new learning theory, arguing that behaviorism, cognitivism, [[constructivist|constructivism]], and connectivism show significant conceptual limitations as [[generative-ai|generative AI]] proliferates — a direct bid to name a distinct theoretical paradigm for AI-mediated learning.
+- **Epistemic co-agency.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] builds "toward a theory of epistemic co-agency," a theory-informed model of how learners and GenAI systems jointly produce knowledge and understanding.
+- **The absent cognitive baseline (ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] theorizes a structural gap in AI-native students' academic self-assessment — a three-dimension framework explaining why students overestimate their learning when AI inflates performance.
+- **The cognitive commons.** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] draws on common-pool-resource theory and distributed cognition to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal.
+- **Performance vs. learning.** [[genai-performance-vs-learning|Performance-vs-learning]] theorizes the sharp divergence between AI-inflated task performance and durable learning, a distinction that recurs across the wiki's [[learning-gains]] evidence.
+- **Epistemic AI literacy (EAIL).** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemic AI Literacy]] reframes AI literacy as a process-oriented epistemic competence centered on how knowledge is constructed and justified when students co-program with generative AI.
+- **Cognitive stewardship.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] theorizes the institutional responsibility for protecting knowledge and learning in AI-pervasive assessment contexts.
+- **Co-regulation and epistemic proactivity.** [[ai-cognitive-partner-co-regulation-learning|AI as a cognitive partner in co-regulation]] integrates executive function, [[metacognition]], distributed cognition, and sociocultural development into a developmental model; [[epistemic-proactivity-math|epistemic proactivity]] theorizes students' agentic stance toward AI in mathematics.
+
+## Advancing established theory
+
+Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates cognitive-load theory with load-reduction instruction into a three-level framework; [[doyle-scaling-complex-thinking-ai-ibl-2026|complex-thinking scaffolding]] extends [[inquiry-based-learning|IBL]] theory with an AI-scaffolding layer; and [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. Much of this is conceptual-framework work ([[botes-ai-oep-ibl-underresourced-2026|OEP/RS]], [[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
+
+## The theory-use problem in AIEd
+
+The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in AIEd research]] documents that AIEd studies frequently use theory weakly or uncritically — a recurring methodological weakness alongside reproducibility and measurement gaps. Reviews find many AIEd papers apply theory superficially or not at all (e.g., [[llm-critical-thinking-teamwork-review|literature reviews]] noting few studies ground interventions in learning theory). This makes theory *development* — and theory *use* — a quality concern as much as a scholarly output, connecting to [[research-methods-aied|research methods]] and [[ai-ed-evaluation]].
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[limitations-in-aied-research]]
+- [[research-methods-aied]]
+- [[generative-ai]]
+- [[constructivist]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[learning-gains]]
+- [[ai-education]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[generativism-learning-theory]] — Generativism as a new learning theory
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency
+- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline (ACB)
+- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and expertise regeneration
+- [[genai-performance-vs-learning]] — Performance vs. learning
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Epistemic AI Literacy (EAIL)
+- [[credential-cognitive-stewardship-ai-assessment]] — Credential and cognitive stewardship
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulation
+- [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
+- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
+
+---
+
 ## [Technological Pedagogical Content Knowledge (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/)
 
 > **Technological Pedagogical Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[faculty-development|professional development]].
@@ -12029,7 +12086,7 @@ The work contributes to understanding of [[metacognition]] in educational contex
 - [[student-experience]]
 - [[generative-ai]]
 - [[higher-ed]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[cognitive-offloading-speedup-illusion]]
@@ -14348,7 +14405,7 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[human-ai-collaboration]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[cognitive-offloading-llm-synthesis-writing]]
@@ -22049,7 +22106,7 @@ The paper reframes expertise development as collective stewardship rather than o
 - [[human-ai-collaboration]]
 - [[lifelong-learning]]
 - [[professional-training]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
@@ -22902,6 +22959,7 @@ The finding that most student-GenAI interactions exhibit weak epistemic engageme
 - [[ai-literacy]]
 - [[student-experience]]
 - [[scaffolding]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[agentic-education-coding]]
@@ -23426,6 +23484,7 @@ Generative AI undermines a basic premise of educational assessment: that submitt
 - [[trust]]
 - [[authentic-assessment]]
 - [[ethics]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[genai-assessment-governance]]
@@ -26538,6 +26597,7 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[help-seeking]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
@@ -29295,6 +29355,7 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[generative-ai]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
@@ -30268,6 +30329,7 @@ Generativism has profound implications for [[intelligent-tutoring|instructional 
 - [[llm]]
 - [[constructivist]]
 - [[cognitive-offloading]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[cognitive-offloading-llm-synthesis-writing]]
@@ -34244,7 +34306,7 @@ As a conceptual paper, the framework has not been empirically tested; the author
 - [[formative-assessment]]
 - [[scaffolding]]
 - [[higher-ed]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy

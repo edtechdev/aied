@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-22T01:07:28-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -87,6 +87,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
 - [[learning-theories]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[benali-genai-academic-writing-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T20:28:43-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -49,7 +49,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[tpack]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[benali-genai-academic-writing-2026]]

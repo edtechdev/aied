@@ -380,6 +380,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`learning-by-teaching`** — Learning by Teaching
 - **`learning-gains`** — Learning Gains
 - **`learning-theories`** — Learning Theories
+- **`theory-development-aied`** — Theory Development in AI in Education
 - **`lifelong-learning`** — Lifelong Learning and AI
 - **`limitations-in-aied-research`** — Limitations in AIEd Research
 - **`llm`** — Large Language Models (LLMs)

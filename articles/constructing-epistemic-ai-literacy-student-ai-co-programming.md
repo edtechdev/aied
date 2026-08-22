@@ -1,7 +1,7 @@
 ---
 title: "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [ai-literacy, cs-education, student-ai-interaction, scaffolding, higher-ed, automated-grading, llm, learning-analytics, formative-assessment]
 sources: ['raw/papers/2607.00211.md']
@@ -38,6 +38,7 @@ The finding that most student-GenAI interactions exhibit weak epistemic engageme
 - [[ai-literacy]]
 - [[student-experience]]
 - [[scaffolding]]
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[agentic-education-coding]]

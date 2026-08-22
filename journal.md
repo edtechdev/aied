@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 966
+**Last updated:** 2026-08-22 | **Total entries:** 967
 
 ## 2026-08-22
+
+- ● [[theory-development-aied]] — 
+  Theory Development in AI in Education
+  #theory #learning-theories #theory-building #conceptual-framework #ai-education #limitations-in-aied-research #research-methods-aied
 
 - ◐ [[doyle-scaling-complex-thinking-ai-ibl-2026]] — raw/papers/doyle-scaling-complex-thinking-ai-ibl-2026.md
   Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning
