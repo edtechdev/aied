@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-08-22T01:20:00-04:00"
+updated: "2026-08-22T01:40:13-04:00"
 type: concept
 tags: [prior-knowledge, learning-theory, cognitive-load, constructivist, personalized-learning, scaffolding, student-modeling, instructional-design, metacognition]
 confidence: high
@@ -9,12 +9,12 @@ confidence: high
 
 > **Prior knowledge** — the existing knowledge, skills, beliefs, and mental models a learner brings to a new learning task. It is the single most powerful predictor of subsequent learning: new information is interpreted through — and integrated with — what the learner already knows, so instruction that activates and builds on prior knowledge produces stronger, more durable learning than instruction that treats every learner as a blank slate. In AI in education, prior knowledge is central to [[student-modeling]] (adapting [[personalized-learning|instruction]] to the learner's current state), to the [[constructivist]] principle that knowledge is actively constructed atop existing mental models, and to the risk that AI tools which pre-fetch and surface content bypass the retrieval practice that activates prior knowledge.
 
-Prior knowledge activation is one of the most robust findings in the learning sciences: learners do not absorb new material in a vacuum but map it onto existing schemas, and the quality of that mapping determines retention and [[transfer-of-learning|transfer]]. The concept underpins Ausubel's advance organizers, activation of prior knowledge before new instruction, retrieval practice as a form of activating and strengthening what is known, and diagnostic assessment of what learners already know. In the AI era, prior knowledge has taken on new urgency because generative AI can either *support* activation (prompting learners to recall and connect what they know) or *bypass* it entirely (instantly supplying an answer or pre-fetched content that the learner never had to retrieve or integrate).
+Prior knowledge activation is one of the most robust findings in the learning sciences: learners do not absorb new material in a vacuum but map it onto existing schemas, and the quality of that mapping determines retention and [[transfer-of-learning|transfer]]. The concept underpins Ausubel's advance organizers, activation of prior knowledge before new instruction, retrieval practice as a form of activating and strengthening what is known, and diagnostic [[assessment]] of what learners already know. In the AI era, prior knowledge has taken on new urgency because [[generative-ai|generative AI]] can either *support* activation (prompting learners to recall and connect what they know) or *bypass* it entirely (instantly supplying an answer or pre-fetched content that the learner never had to retrieve or integrate).
 
 ## The role of prior knowledge
 
 - **It is the strongest predictor of learning.** Decades of research show that what a learner already knows correlates with learning outcomes more strongly than almost any other factor, because new information is encoded relative to existing mental models. AI systems that adapt to each learner's prior-knowledge state therefore hold particular promise for efficiency and [[transfer-of-learning|transfer]].
-- **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard instructional move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
+- **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard [[pedagogy|instructional]] move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
 - **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[student-misconceptions-ai|misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
 - **It drives student modeling.** To personalize, an AI system must estimate the learner's prior-knowledge state — the basis of [[knowledge-tracing]], student modeling, and adaptive [[scaffolding]]. The quality of these estimates determines whether adaptation is genuinely helpful or misleading.
 
