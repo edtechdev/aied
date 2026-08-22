@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-21T20:28:43-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -137,4 +137,3 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
