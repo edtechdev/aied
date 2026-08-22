@@ -53,7 +53,7 @@ Adjust `astro.config.mjs` (`base` should match your repo name) and the `site` UR
 | `cron/daily-scan-prompt.md` | Daily cron prompt — update domain references |
 | `cron/weekly-rss-scan-prompt.md` | Weekly journal cron prompt |
 | `scripts/fetch-rss-feeds.py` | The `FEEDS` dict — add/remove journals |
-| `../skills/research/wiki-inline-links/` | The inline-link HARD GATE pass (term→slug dictionary + scanner) |
+| `skills/research/wiki-inline-links/` | The inline-link HARD GATE pass (term→slug dictionary + scanner + `check_list_formatting.py`) |
 
 ### 4. Initialize your wiki
 
@@ -87,6 +87,8 @@ wiki/
 ├── articles/          # One page per paper (synthesis, findings, citations)
 ├── concepts/          # One page per broad topic (synthesizes multiple papers)
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
+├── tooling/           # Reusable tooling: SKILL.md (research-wiki), SCHEMA.md, README, cron/, scripts/
+├── skills/            # Mirrored Hermes skills: research/wiki-inline-links/ (inline-link + list-formatting HARD GATE)
 ├── src/               # Astro pages: index, journal, search, article/concept templates
 ├── public/            # llms.txt, llms-full.txt, robots.txt, schema/
 ├── astro.config.mjs   # Astro config (base, pagefind, sitemap)
@@ -106,6 +108,8 @@ Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro 
 
 **Inline hyperlink rule (HARD GATE):** after creating/enriching any article or concept page, run the inline-link pass (see `wiki-inline-links` skill) — hyperlink every concept mentioned in the page body narrative to its concept page (aggressive, including conceptually-similar phrases), and fix self-links, links in `##` headings, same-text links `[[slug|slug]]`, and broken links. Verify 0 self-links, 0 heading links, balanced brackets, and 0 broken links **before** `npm run build`. A green build does NOT substitute for this editorial pass.
 
+**List-formatting rule (HARD GATE):** ordered/bulleted lists whose consecutive items are separated by a blank line render broken — each item restarts at `1.` (CommonMark splits them into separate lists). Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` before build and fix every reported page by removing the blank line between consecutive list items. A green build does NOT catch this; the maintainer flags it repeatedly.
+
 ## Pipeline Commands
 
 ```bash
@@ -114,6 +118,10 @@ python3 tooling/scripts/fetch-rss-feeds.py
 
 # Regenerate agent-ready files
 python3 tooling/scripts/generate-llms-files.py
+
+# HARD GATE checks before build (both required; green build does NOT substitute)
+python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all   # inline-link pass (advisory; apply links)
+python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all   # list-formatting check (fix 0 defects)
 
 # Build the Astro site
 npm run build
@@ -149,11 +157,12 @@ Regenerate them with `generate-llms-files.py` after each ingestion batch.
 | Search index stale | Pagefind-based — run `npm run build` so `dist/pagefind/` regenerates |
 | llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
 | Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `articles/` or `concepts/` |
+| Numbered list shows every item as `1.` | Blank lines between consecutive list items split them into separate lists — run `check_list_formatting.py` and remove the blank lines |
 | YAML parsing errors | Titles with colons must be quoted: `title: "X: Y"` |
 | Paywalled articles | Hybrid journals (BJET) — the weekly cron skips paywalled articles and reports them |
 
 ## Run Your Own Wiki
 
-Copy the `tooling/` directory into a new repo, follow this README and the Astro site setup, and you'll have your own automated research wiki in ~15 minutes.
+Copy the `tooling/` directory **and the `skills/` directory** into a new repo, follow this README and the Astro site setup, and you'll have your own automated research wiki in ~15 minutes.
 
-To fully reproduce the ingestion workflow (including the inline-link HARD GATE), also install the two Hermes Agent skills in the `research` category: **`research-wiki`** (the full ingestion + export pipeline, in `tooling/SKILL.md`) and **`wiki-inline-links`** (the aggressive inline-link pass that runs on every new/enriched page before build). See `cron/` for the job prompts that wire them together.
+To fully reproduce the ingestion workflow (including the inline-link HARD GATE and the list-formatting check), install the two Hermes Agent skills in the `research` category: **`research-wiki`** (the full ingestion + export pipeline, mirrored in `tooling/SKILL.md`) and **`wiki-inline-links`** (the aggressive inline-link + list-formatting pass that runs on every new/enriched page before build; mirrored in `skills/research/wiki-inline-links/`). See `cron/` for the job prompts that wire them together.
