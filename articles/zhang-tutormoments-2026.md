@@ -1,7 +1,7 @@
 ---
 title: "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-08-22T01:42:07-04:00"
+updated: "2026-08-22T01:50:49-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, llm, llm-evaluation, k-12, math-education, benchmark, intelligent-tutoring, teacher-role, cognitive-offloading]
 
@@ -40,4 +40,4 @@ TutorMoments evaluates whether [[intelligent-tutoring|LM tutors]] select instruc
 
 ## Citation
 
-Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026). [When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://example.com/tutormoments-preview.pdf).
+Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026). *[When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf)*.
