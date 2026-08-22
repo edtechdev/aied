@@ -1,7 +1,7 @@
 ---
 title: Faculty Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-17T10:45:00-04:00"
+updated: "2026-08-22T17:45:00-04:00"
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high
@@ -79,3 +79,5 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+
