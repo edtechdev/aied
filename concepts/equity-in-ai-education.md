@@ -120,3 +120,5 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Metacognitive inequity and uneven access
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

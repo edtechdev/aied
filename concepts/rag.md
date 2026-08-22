@@ -48,3 +48,5 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[book-level-synthetic-textbook-organization]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

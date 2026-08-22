@@ -103,3 +103,5 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

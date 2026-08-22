@@ -80,3 +80,5 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
