@@ -1,26 +1,26 @@
 ---
 title: "Assessment Twins: An Approach for Strengthening Assessment Validity in the Age of Generative AI"
 created: "2026-08-22T17:35:00-04:00"
-updated: "2026-08-22T17:35:00-04:00"
+updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [assessment-validity, academic-integrity, authentic-assessment, generative-ai, higher-ed, assessment-design, ai-literacy]
 sources: ['raw/papers/roe-assessment-twins-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Roe, Perkins & Giray (2026) introduce **assessment twins** as a practical approach to redesigning assessment tasks for the age of [[generative-ai|generative AI]]. An assessment twin pairs a GenAI-vulnerable task (e.g., a take-home essay) with a second, less vulnerable task assessing the same learning outcomes, scheduled closely to allow cross-verification — enhancing [[assessment-validity]] without abandoning pedagogically valuable assessment formats. The paper maps GenAI threats across Messick's six strands of validity evidence and proposes a three-step design process (identify vulnerabilities, align outcomes/select the twin, develop interdependent marking). It directly addresses the [[academic-integrity]] problem of GenAI, complementing detection-focused responses with a validity-driven, pedagogy-first design strategy.
+> **Synthesis:** Roe, Perkins & Giray (2026) introduce **assessment twins** as a practical approach to redesigning assessment tasks for the age of [[generative-ai|generative AI]]. An assessment twin pairs a GenAI-vulnerable task (e.g., a take-home essay) with a second, less vulnerable task assessing the same learning outcomes, scheduled closely to allow cross-verification — enhancing [[assessment-validity]] without abandoning pedagogically valuable assessment formats. The paper maps GenAI threats across Messick's six strands of validity evidence and proposes a three-step design process (identify vulnerabilities, align outcomes/select the twin, develop interdependent marking). It directly addresses the [[academic-integrity]] problem of GenAI, complementing detection-focused responses with a validity-driven, pedagogy-first design strategy for [[ai-education|AI-mediated assessment]].
 
 ## Key Findings
 
 1. **Assessment twins as a validity-focused response to GenAI.** Two deliberately linked, interdependent components that address the same intended learning outcomes through different modes of evidence, scheduled to allow cross-checking against a known vulnerability (e.g., GenAI completion). The twin approach triangulates evidence across pedagogically valuable but GenAI-vulnerable formats.
 2. **A systematic validity mapping.** Using Messick's unified validity framework (via Shaw & Crisp's six strands — content, substantive, structural, generalisability, external, consequential), the paper shows how GenAI threatens each strand and how twinning mitigates those threats.
-3. **Retaining formative value.** Many GenAI-vulnerable tasks (take-home essays, research reports) carry substantial formative value. Rather than discarding them, twins retain the vulnerable task for learning while pairing it with a twin that supplies reliable summative evidence — the original task supports learning, the twin confirms achievement.
+3. **Retaining formative value.** Many GenAI-vulnerable tasks (take-home essays, research reports) carry substantial [[formative-assessment|formative]] value. Rather than discarding them, twins retain the vulnerable task for learning while pairing it with a twin that supplies reliable [[summative-assessment|summative]] evidence — the original task supports learning, the twin confirms achievement.
 4. **A three-step design process.** (1) Identify GenAI vulnerabilities (requiring assessor AI literacy); (2) consider learning outcomes and choose a complementary twin assessment; (3) develop an interdependent marking framework (confirmatory threshold or confirmatory weighting).
-5. **Context-dependent application.** Twins suit institutions that can support resource-intensive confirmatory tasks; in resource-limited, very large-cohort settings, a full redesign using established frameworks (e.g., the AIAS) may be more effective. Challenges include resource intensity, equity concerns, and the need for empirical validation.
+5. **Context-dependent application.** Twins suit institutions that can support resource-intensive confirmatory tasks; in resource-limited, very large-cohort settings, a full redesign using established frameworks (e.g., the AIAS) may be more effective. Challenges include resource intensity, [[equity-in-ai-education|equity]] concerns, and the need for empirical validation.
 
 ## The validity problem GenAI creates
 
-GenAI's advanced capability to produce extended works leads to GenAI-assisted plagiarism ('Aigiarism'), making it challenging to determine whether students' work is their own and compromising assessment validity — since it becomes impossible to identify whether students have met course standards. AI detection was rapidly promoted as a remedy, but detection is now "all but impossible" and surveillance-focused responses can harm the relational dimension of assessment ([[trust]] between students and institutions). Structural assessment redesign is a more robust and pragmatic response, though the literature offers few clear methods — a gap this paper addresses.
+GenAI's advanced capability to produce extended works leads to GenAI-assisted [[plagiarism-detection|plagiarism]] ('Aigiarism'), making it challenging to determine whether students' work is their own and compromising assessment validity — since it becomes impossible to identify whether students have met course standards. AI detection was rapidly promoted as a remedy, but detection is now "all but impossible" and surveillance-focused responses can harm the relational dimension of assessment ([[trust]] between students and institutions). Structural assessment redesign is a more robust and pragmatic response, though the literature offers few clear methods — a gap this paper addresses.
 
 ## The assessment twins concept
 
