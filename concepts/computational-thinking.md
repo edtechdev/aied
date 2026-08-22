@@ -75,3 +75,7 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[solving-vs-evaluating-genai-solutions]]
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review

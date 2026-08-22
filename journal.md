@@ -1,8 +1,40 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 950
+**Last updated:** 2026-08-22 | **Total entries:** 958
 
 ## 2026-08-22
+
+- ◐ [[liu-tool-tutor-crutch-programming-2026]] — raw/papers/liu-tool-tutor-crutch-programming-2026.md
+  Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education
+  #generative-ai #cs-education #cognitive-offloading #scaffolding #metacognition #self-regulated-learning #programming-education #grounded-theory
+
+- ◐ [[zhang-ct-ai-training-test-2026]] — raw/papers/zhang-ct-ai-training-test-2026.md
+  Integrating AI Into Computational Thinking: Development and Validation of an Assessment Tool for Higher Education Students
+  #computational-thinking #educational-assessment #generative-ai #higher-ed #cs-education #assessment-validity #item-response-theory #evidence-centered-design
+
+- ◐ [[chen-preservice-teachers-chatgpt-lpa-2026]] — raw/papers/chen-preservice-teachers-chatgpt-lpa-2026.md
+  Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines
+  #teacher-education #chatgpt #generative-ai #technology-acceptance-model #ai-literacy #faculty-development #stem-education #higher-ed #latent-profile-analysis
+
+- ◐ [[niri-steam-ai-literacy-review-2026]] — raw/papers/niri-steam-ai-literacy-review-2026.md
+  STEAM Education for AI Literacy: A Systematic Literature Review
+  #steam-education #ai-literacy #k-12 #systematic-review #computational-thinking #ethics #stem-education #curriculum-design
+
+- ◐ [[jiang-chatgpt-inquiry-steam-review-2026]] — raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md
+  The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education
+  #chatgpt #generative-ai #inquiry-based-learning #steam-education #stem-education #systematic-review #problem-based-learning #critical-thinking
+
+- ◐ [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md
+  Developing Deep Learning in Science Through an Adaptive AI-Based STEM Instructional Program: Evidence From Sixth-Grade Classrooms
+  #adaptive-learning #ai-education #stem-education #k-12 #deep-learning #personalized-learning #formative-feedback #science-education
+
+- ◐ [[dai-chatbots-problem-posing-primary-2026]] — raw/papers/dai-chatbots-problem-posing-primary-2026.md
+  Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science
+  #generative-ai #chatbot #k-12 #stem-education #inquiry-based-learning #problem-posing #network-analysis #cognitive-load #problem-based-learning
+
+- ◐ [[lnenicka-secondary-students-genai-stem-2026]] — raw/papers/lnenicka-secondary-students-genai-stem-2026.md
+  Navigating AI in STEM: What Secondary Students Actually Do With Generative AI-Driven Tools
+  #generative-ai #k-12 #stem-education #ai-literacy #student-experience #cognitive-offloading #educational-policy-ai #governance #secondary-education #chatgpt
 
 - ◐ [[conversational-agents-novice-programmers-scoping-2025]] — raw/papers/conversational-agents-novice-programmers-scoping-2025.md
   Exploring Conversational Agents for Novice Programmers: A Scoping Review

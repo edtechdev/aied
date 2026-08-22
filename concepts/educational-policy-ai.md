@@ -72,3 +72,5 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+
+- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
