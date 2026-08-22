@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-22T07:25:00-04:00"
+updated: "2026-08-22T17:10:00-04:00"
 type: concept
 tags: [philosophy-of-education, learning-theory, ethics, agency, posthumanism, epistemology, human-ai-collaboration, ai-education]
 confidence: high
@@ -53,3 +53,5 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+

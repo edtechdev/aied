@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 156 concepts and 811 articles.
+> Complete text of 156 concepts and 812 articles.
 
 # Concepts
 
@@ -1011,6 +1011,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -1313,6 +1314,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -4101,6 +4103,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -4577,6 +4580,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -4657,6 +4661,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -5395,6 +5400,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -5526,6 +5532,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -5818,6 +5825,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -5912,6 +5920,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -7102,6 +7111,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -8776,6 +8786,7 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Ecological learning-sciences framing of GenAI
 - [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -10762,6 +10773,7 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[learnlm-improving-gemini-learning]] — LearnLM: scenario-guided learner-AI tutoring conversations
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
 ---
 
@@ -11444,6 +11456,7 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 - **Epistemic AI literacy (EAIL).** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemic AI Literacy]] reframes AI literacy as a process-oriented epistemic competence centered on how knowledge is constructed and justified when students co-program with generative AI.
 - **Cognitive stewardship.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] theorizes the institutional responsibility for protecting knowledge and learning in AI-pervasive assessment contexts.
 - **Co-regulation and epistemic proactivity.** [[ai-cognitive-partner-co-regulation-learning|AI as a cognitive partner in co-regulation]] integrates executive function, [[metacognition]], distributed cognition, and sociocultural development into a developmental model; [[epistemic-proactivity-math|epistemic proactivity]] theorizes students' agentic stance toward AI in mathematics.
+- **Human-GAI engagement paradigms.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] addresses the field's "theory deficit" by grounding seven enacted human-GAI engagement paradigms (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, equity) in Schommer's multidimensional model of personal epistemological beliefs — an epistemological, rather than tool-focused, theory of how individuals differently position themselves relative to AI.
 
 ## Advancing established theory
 
@@ -11482,6 +11495,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[credential-cognitive-stewardship-ai-assessment]] — Credential and cognitive stewardship
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulation
 - [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
+- [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms grounded in epistemological beliefs
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
@@ -45893,6 +45907,83 @@ This study provides empirical evidence on how LLM-generated feedback structure a
 ## Citation
 
 Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026). [The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance](https://arxiv.org/abs/2605.16933).
+
+---
+
+## [Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices](https://edtechdev.github.io/aied/articles/strydom-human-gai-paradigms-2026/)
+
+> **Synthesis:** Strydom (2026) introduces seven **human–generative-AI (GAI) engagement paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organisation, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for teaching, assessment, professional development, and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the wiki's foundational strand.
+
+## Key Findings
+
+1. **A theory-building response to the "theory deficit."** The paper argues that educational-technology and GAI research suffers from limited theory development, and responds with a conceptual framework — grounding human-GAI engagement in Schommer's multidimensional model of personal epistemological beliefs rather than in tool-evaluation or common-sense deduction.
+
+2. **Seven enacted paradigms.** The framework theorises seven human-GAI engagement paradigms — **possibility-focused** (Optimist), **pioneering** (Dreamer), **augmented** (Enhancer), **symbiotic** (Collaborator), **guarded** (Guardian), **values-based** (Defender), and **equity** (Advocate) — each examined against the five epistemological dimensions.
+
+3. **Paradigms are enacted, not possessed.** Individuals are not fixed in a single paradigm; they move between them across contexts or adopt hybrid positions. This has direct consequences for practice — shifting engagement requires changing the socio-technical environment, not just beliefs.
+
+4. **A continuum from optimism to caution.** The paradigms span from optimistic (possibility-focused, pioneering) and capability-enhancing (augmented, symbiotic) positions to cautious (guarded), ethical (values-based), and equity-critical (equity) orientations — reflecting the full range of the field's discourse on GAI.
+
+5. **Exploratory and falsifiable by design.** The framework is explicitly untested — it cannot yet establish paradigm prevalence, stability, movement over time, or whether implied interventions work. It is offered as a heuristic and a stimulus for empirical research rather than a complete account.
+
+## The epistemological grounding
+
+The paper builds on Schommer's multidimensional model of personal epistemological beliefs, differentiating among five dimensions:
+- **Source of knowledge** — whether knowledge originates externally or is constructed by the knower
+- **Certainty of knowledge** — whether knowledge is fixed or evolving
+- **Organisation of knowledge** — whether knowledge is compartmentalised or integrated
+- **Control of knowledge acquisition** — whether learning is controlled by the learner or external forces
+- **Speed of knowledge acquisition** — whether learning is quick/all-or-nothing or gradual
+
+Strydom contends these dimensions offer a productive lens on how individuals differently position themselves relative to GAI — explaining why the same tool is engaged very differently across people and contexts.
+
+## The seven paradigms in detail
+
+- **Possibility-focused (Optimist):** An optimistic epistemological stance acknowledging GAI's power to synthesise, organise, and identify patterns across large literatures. Uncertainties are viewed as sites of productivity, provided the source of knowledge is appropriately distributed between human and machine, with humans retaining final interpretive judgement.
+- **Pioneering (Dreamer):** Views GAI as a *participant* in knowledge creation rather than a means. Grapples with the philosophical implication that if innovation can be attributed to human-machine co-production, the origin of knowledge becomes an open matter. Associated with accelerating [[peer-review]], but raises speed-vs-rigour trade-offs.
+- **Augmented (Enhancer):** Views GAI as an embedded tool that becomes part of individual reasoning by changing the *organisation* of knowledge. Extends the extended-mind thesis toward an "amplified mind" — individuals actively contribute to a dynamic cognitive space while retaining interpretive agency.
+- **Symbiotic (Collaborator):** A relational, posthumanist orientation viewing human and machine cognition as permeable and entangled; knowledge is co-created via the relationship itself, with agency distributed across the human-machine dyad rather than retained individually.
+- **Guarded (Guardian):** Foregrounds epistemic vigilance — interrogation of who makes knowledge claims, on what grounds, and their reliability before acceptance. Reflects concerns about detection accuracy, [[academic-integrity|academic integrity]], authorship, and techno-solutionism; not resistance but deliberate, slower verification.
+- **Values-based (Defender):** Prioritises ethical AI use and the ethics of knowledge creation — fairness, transparency, accountability, [[privacy]]. Asks not just whether claims are true but how they were arrived at responsibly.
+- **Equity (Advocate):** Foregrounds power, ideology, and equity. Recognises GAI's democratising potential while attending to digital inequality and bias — GAI trained on English-language, Western academic sources risks reproducing hierarchies of whose knowledge counts; technology is not neutral.
+
+## Implications for AI in education
+
+The framework reframes the human-GAI relationship from a tool-usage question into an epistemological one — how individuals *enact knowledge and learning* within human-GAI assemblages. This connects directly to the wiki's [[human-ai-collaboration]], [[student-ai-interaction]], and [[philosophy-of-ai-in-education|philosophy of AI]] threads. Practically:
+
+- **Teaching and assessment:** paradigms imply differentiated approaches — e.g., pioneering/possibility-focused alignments could be encouraged to experiment with alternative [[assessment]] formats rather than polished-product-only evidence.
+- **Professional development:** guarded orientations are not mere resistance but a coherent epistemological position requiring targeted staff development; the framework offers a diagnostic vocabulary for differentiated development.
+- **Governance and policy:** the lens can inform [[governance]] frameworks and [[educational-policy-ai|educational policy]] in multidisciplinary and professional contexts, echoing how epistemological stances shape institutional responses.
+
+The framework sits alongside other [[theory-development-aied|theory-building]] work in the corpus (epistemic co-agency, generativism, the absent cognitive baseline) in theorising how learners' relationship to AI-shaped cognition develops, while explicitly positioning itself as an exploratory heuristic requiring empirical validation.
+
+## Connected Concepts
+
+- [[theory-development-aied]]
+- [[human-ai-collaboration]]
+- [[generative-ai]]
+- [[student-ai-interaction]]
+- [[ai-literacy]]
+- [[philosophy-of-ai-in-education]]
+- [[learning-theories]]
+- [[metacognition]]
+- [[governance]]
+- [[educational-policy-ai]]
+- [[equity-in-ai-education]]
+- [[ethics]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a theory of learning with machines
+- [[generativism-learning-theory]] — Generativism as a new learning theory
+- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline (ACB)
+- [[epistemic-proactivity-math]] — Epistemic proactivity in student-AI math interaction
+
+## Citation
+
+Strydom, S. (2026). [Framing human-AI dynamics: An epistemological perspective on generative AI practices. *Journal of Applied Learning & Teaching*, 9(2)](https://doi.org/10.37074/jalt.2026.9.2.11).
 
 ---
 

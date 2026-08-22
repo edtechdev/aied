@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-22T17:10:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 confidence: high
@@ -47,3 +47,5 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[learnlm-improving-gemini-learning]] — LearnLM: scenario-guided learner-AI tutoring conversations
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+

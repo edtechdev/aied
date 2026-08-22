@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 967
+**Last updated:** 2026-08-22 | **Total entries:** 968
 
 ## 2026-08-22
+
+- ◐ [[strydom-human-gai-paradigms-2026]] — raw/papers/strydom-human-gai-paradigms-2026.md
+  Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices
+  #generative-ai #higher-ed #human-ai-collaboration #ai-literacy #educational-theory #ai-education #theory-development-aied #student-ai-interaction
 
 - ● [[theory-development-aied]] — 
   Theory Development in AI in Education
