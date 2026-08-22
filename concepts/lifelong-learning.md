@@ -48,4 +48,5 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 - [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
 - [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
