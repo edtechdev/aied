@@ -118,3 +118,5 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

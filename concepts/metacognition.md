@@ -133,3 +133,5 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[agentic-ai-pedagogical-best-practice-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

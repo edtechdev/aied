@@ -330,6 +330,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`collaborative-learning`** — Collaborative Learning
 - **`computational-thinking`** — Computational Thinking
 - **`constructivist`** — Constructivism
+- **`conversational-ai`** — Conversational AI
 - **`creativity`** — Creativity
 - **`critical-pedagogy`** — Critical Pedagogy
 - **`critical-thinking`** — Critical Thinking
