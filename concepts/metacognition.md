@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-21T14:58:18-04:00"
+updated: "2026-08-22T01:07:28-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -67,6 +67,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 AI may alter the **metacognitive threshold** for deciding one knows enough to answer: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] found that mere access to AI advice suppressed people's willingness to suspend judgment under uncertainty, even with wrong advice and accuracy incentives — an effect that survived unsolicited AI output and monetary stakes.
 
+Proactive agentic AI can displace the learner's own metacognitive loop: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] argue that when agents pre-fetch, initiate, and self-correct, the agent's planning, monitoring, and evaluation replace the learner's, removing the retrieval practice and self-monitoring that desirable difficulties and metacognitive training depend on.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -130,3 +132,4 @@ AI may alter the **metacognitive threshold** for deciding one knows enough to an
 - [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[agentic-ai-pedagogical-best-practice-2026]]
