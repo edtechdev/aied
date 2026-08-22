@@ -22,7 +22,7 @@ confidence: high
 - Systematic literature review following PRISMA 2020 (Identification → Screening → Eligibility → Inclusion), starting from 3,500 records and yielding 50 peer-reviewed articles (2015–2024).
 - Databases searched: Web of Science, Scopus, IEEE Xplore, SpringerLink, Taylor & Francis Online, Elsevier (ScienceDirect), Consensus, and Google Scholar, using Boolean (AND/OR) and truncation operators.
 - Thematic analysis of the 50 studies using NVivo 14 with two independent coders (inter-rater reliability κ = 0.82).
-- Results framed around an HCI lens (usability, explainability, cognitive load, decision autonomy) and three thematic codes: educators' perceptions/challenges in AI adoption, AI's effectiveness in supporting PBL, and AI's impact on learning outcomes and SDG 4 equity.
+- Results framed around an HCI lens (usability, explainability, cognitive load, decision autonomy) and three thematic codes: educators' perceptions/challenges in AI adoption, AI's effectiveness in supporting PBL, and AI's impact on [[learning-gains|learning outcomes]] and SDG 4 equity.
 
 ## Implications for AI in Education
 - Educators need structured AI usability and literacy training to interpret AI-generated feedback, personalize learning pathways, and retain instructional control.

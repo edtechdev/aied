@@ -36,7 +36,7 @@ The study directly addresses a structural problem of [[collaborative-learning]] 
 
 ## Limitations
 
-- The design principles have not yet been implemented in and evaluated against real educational settings; the authors call for studies that build chatbots from the principles and test their effect on collaborative learning outcomes to assess generalizability.
+- The design principles have not yet been implemented in and evaluated against real educational settings; the authors call for studies that build chatbots from the principles and test their effect on collaborative [[learning-gains|learning outcomes]] to assess generalizability.
 - The principles are general rather than context-specific; project-based, maker, and discussion-based learning each have distinct characteristics that may require optimized or additional design principles.
 - The usability test used a small, relatively homogeneous sample of eight participants, and expert validation involved a small expert group with limited diversity of perspectives, potentially biasing the results; broader stakeholder samples and iterative testing cycles are recommended.
 

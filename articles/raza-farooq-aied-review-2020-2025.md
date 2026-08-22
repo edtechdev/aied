@@ -22,7 +22,7 @@ This review organizes AIED research into three interrelated layers:
 
 - **100+ peer-reviewed articles** examined, covering empirical and analytical studies
 - **Three forward trends:** (1) human-AI co-orchestration as default classroom pattern; (2) privacy-preserving, edge/federated AI; (3) authentic multimodal assessment via [[generative-ai]] simulations
-- **Effects summarized** on learning outcomes, engagement, teacher workload, and institutional adoption
+- **Effects summarized** on [[learning-gains|learning outcomes]], engagement, teacher workload, and institutional adoption
 - **Actionable guidance** for researchers, practitioners, and system leaders
 
 ## Implications

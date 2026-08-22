@@ -42,7 +42,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 | Scale | Strategies |
 |-------|-----------|
 | **Individual** | Workshops on creative multimodal tasks; prompt crafting practice; reflective assignments documenting AI use |
-| **Module** | Embed GenAI literacy into learning outcomes; optional multimodal tasks with clear rubrics; creative/reflective critique components |
+| **Module** | Embed GenAI literacy into [[learning-gains|learning outcomes]]; optional multimodal tasks with clear rubrics; creative/reflective critique components |
 | **Programme** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, creativity, digital fluency) |
 | **Institutional** | Clear policies with checklists; vetted tools; data privacy protocols enforced; avoid rigid mandates in favor of flexible guidance |
 

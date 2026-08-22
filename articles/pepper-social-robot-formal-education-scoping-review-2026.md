@@ -13,7 +13,7 @@ confidence: high
 - **Concentration in primary education** (38.5%), with 30.8% in higher education, 15.4% in early-years, and 7.7% each in secondary and mixed primary/secondary; 69.2% of studies were European (Italy, Germany, Netherlands, Sweden), 30.8% US.
 - **Predominance of qualitative approaches** (61.5%) with small samples; 23.1% mixed-methods, 15.4% quantitative experimental designs. No large-scale longitudinal studies identified; 61.5% of samples had fewer than 50 participants.
 - **Pepper is primarily used to support tutoring, collaborative learning, and mediation in inclusive educational settings** (including pupils with autism spectrum disorder, the focus of 23.1% of studies), and its operation requires **constant teacher supervision**.
-- **Reported benefits:** increased motivation, participation, engagement, and development of social skills, with some studies reporting improvements in learning outcomes or attitudes.
+- **Reported benefits:** increased motivation, participation, engagement, and development of social skills, with some studies reporting improvements in [[learning-gains|learning outcomes]] or attitudes.
 - **Main limitations:** technical constraints (voice recognition, software glitches), insufficient curricular integration, cost, reliance on technical support, privacy, and lack of longitudinal research.
 - **The pedagogical dimension is a determining factor** — Pepper's contribution depends on instructional design, activity purpose, student profile, technical stability, and teacher mediation, not the technology alone.
 ## Study Design & Method

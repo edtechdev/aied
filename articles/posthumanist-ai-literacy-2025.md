@@ -28,7 +28,7 @@ The article reframes [[ai-literacy]] in [[writing-education]] away from tool-com
 
 ## Limitations
 
-The study is a small qualitative case study of two students in one institutional context, bounding generalizability. The posthumanist theoretical framing is interpretive and does not offer measurable learning outcomes. The authors acknowledge a posthumanist approach is not an all-encompassing framework and must be situated within broader unresolved debates about AI's societal and ethical implications. The case-study design emphasizes depth of understanding over breadth.
+The study is a small qualitative case study of two students in one institutional context, bounding generalizability. The posthumanist theoretical framing is interpretive and does not offer measurable [[learning-gains|learning outcomes]]. The authors acknowledge a posthumanist approach is not an all-encompassing framework and must be situated within broader unresolved debates about AI's societal and ethical implications. The case-study design emphasizes depth of understanding over breadth.
 
 ## Connected Concepts
 

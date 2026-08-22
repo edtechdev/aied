@@ -15,7 +15,7 @@ confidence: high
 
 ## Summary
 
-In an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater meta-cognitive load — resulting in worse learning outcomes, particularly for higher-order critical thinking. The study identifies two key distortions in ChatGPT-mediated information access: output bias toward solution-oriented artifacts over principled knowledge, and a conversational interaction paradigm that reduces exploration of the broader knowledge space.
+In an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater meta-cognitive load — resulting in worse [[learning-gains|learning outcomes]], particularly for higher-order critical thinking. The study identifies two key distortions in ChatGPT-mediated information access: output bias toward solution-oriented artifacts over principled knowledge, and a conversational interaction paradigm that reduces exploration of the broader knowledge space.
 
 ## Key Findings
 

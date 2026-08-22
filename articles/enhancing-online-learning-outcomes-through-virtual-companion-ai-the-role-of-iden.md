@@ -8,7 +8,7 @@ sources: []
 confidence: high
 ---
 
-> **Synthesis:** Grounded in social presence theory, this study introduces the concept of identity anthropomorphism and adopts multimodal learning analytics (MMLA) combining questionnaires, EEG and eye tracking to examine its effects on learning outcomes. With 70 participants across three conditions, results indicated that identity-anthropomorphised AI significantly improved learning outcomes compared to non-anthropomorphised AI and performed comparably to human companionship. Social presence and positive emotions sequentially mediated this effect.
+> **Synthesis:** Grounded in social presence theory, this study introduces the concept of identity anthropomorphism and adopts multimodal learning analytics (MMLA) combining questionnaires, EEG and eye tracking to examine its effects on [[learning-gains|learning outcomes]]. With 70 participants across three conditions, results indicated that identity-anthropomorphised AI significantly improved learning outcomes compared to non-anthropomorphised AI and performed comparably to human companionship. Social presence and positive emotions sequentially mediated this effect.
 
 ## Key Findings
 

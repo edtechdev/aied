@@ -48,7 +48,7 @@ Studies consistently show AI tools improve:
 - **Reflective thinking** and independent inquiry
 - **Self-regulation** and strategic monitoring (planning, monitoring, evaluation)
 - **Motivation and reasoning** (especially for low-achieving and underrepresented groups)
-- **Academic performance** in mathematics, science, chemistry, physics
+- **[[learning-gains|Academic performance]]** in mathematics, science, chemistry, physics
 
 ### 4. Ethical Concerns and Pitfalls
 

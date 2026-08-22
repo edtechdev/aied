@@ -27,7 +27,7 @@ The paper demonstrates how [[project-based-learning]] can address the theory-pra
 
 ## Limitations
 
-The paper presents a framework and a case example rather than a rigorous comparative evaluation of learning outcomes; empirical evidence of effectiveness is not comprehensively reported in the abstract. The approach is specific to one applied computer science degree program and context, so generalizability to other programs and levels is limited.
+The paper presents a framework and a case example rather than a rigorous comparative evaluation of [[learning-gains|learning outcomes]]; empirical evidence of effectiveness is not comprehensively reported in the abstract. The approach is specific to one applied computer science degree program and context, so generalizability to other programs and levels is limited.
 
 ## Connected Concepts
 

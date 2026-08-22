@@ -8,7 +8,7 @@ sources: ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This SEM-based study tested whether students' perception of ChatGPT (knowledge, willingness to use, and concerns) shapes online learning engagement across behavioral, emotional, and cognitive dimensions, and whether engagement in turn drives academic performance. Using survey data from 305 graduate students in Iran, the authors found that ChatGPT perception accounts for 19.2% of variance in engagement, while perception plus engagement together explain 40.4% of variance in academic performance. Online learning engagement significantly mediates the perception→performance link, underscoring its pivotal role in translating AI adoption into academic gains.
+> **Synthesis:** This SEM-based study tested whether students' perception of ChatGPT (knowledge, willingness to use, and concerns) shapes online learning engagement across behavioral, emotional, and cognitive dimensions, and whether engagement in turn drives [[learning-gains|academic performance]]. Using survey data from 305 graduate students in Iran, the authors found that ChatGPT perception accounts for 19.2% of variance in engagement, while perception plus engagement together explain 40.4% of variance in academic performance. Online learning engagement significantly mediates the perception→performance link, underscoring its pivotal role in translating AI adoption into academic gains.
 
 ## Key Findings
 

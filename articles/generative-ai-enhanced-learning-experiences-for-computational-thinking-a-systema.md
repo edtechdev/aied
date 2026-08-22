@@ -8,7 +8,7 @@ sources: []
 confidence: high
 ---
 
-> **Synthesis:** This systematic scoping review examines the use of GenAI to support the teaching of computational thinking skills. Results reveal a young but rapidly growing research field, with most interventions focusing on undergraduate students and basic programming tasks. GenAI is typically used as a coder, tutor, debugger, or ideator, with mixed effects on learning outcomes. A key challenge is the tension between overreliance by beginners and under-utilization by advanced learners. Seven design guidelines are derived to effectively integrate GenAI for CT while minimizing risks.
+> **Synthesis:** This systematic scoping review examines the use of GenAI to support the teaching of computational thinking skills. Results reveal a young but rapidly growing research field, with most interventions focusing on undergraduate students and basic programming tasks. GenAI is typically used as a coder, tutor, debugger, or ideator, with mixed effects on [[learning-gains|learning outcomes]]. A key challenge is the tension between overreliance by beginners and under-utilization by advanced learners. Seven design guidelines are derived to effectively integrate GenAI for CT while minimizing risks.
 
 ## Key Findings
 

@@ -25,7 +25,7 @@ The review synthesizes a decade (2014–2024) of research on AI-enhanced collabo
 
 ## Key Results
 
-- **Academic performance:** predictive analytics and machine learning support early identification of at-risk students and continuous feedback loops that improve collaborative performance and satisfaction; AI-driven feedback systems appear across the reviewed studies as a core intervention type.
+- **[[learning-gains|Academic performance]]:** predictive analytics and machine learning support early identification of at-risk students and continuous feedback loops that improve collaborative performance and satisfaction; AI-driven feedback systems appear across the reviewed studies as a core intervention type.
 - **Engagement and motivation:** multimodal AI approaches that track emotional and physiological responses (e.g., heart rate, facial expressions, electrodermal activity) give instructors real-time insight into engagement, supporting timely interventions to maintain motivation.
 - **Task design and assessment:** effective tasks balance challenge and accessibility; AI can dynamically adjust task difficulty based on group performance, monitor participation, and enforce equitable contribution so dominant members cannot take over and reserved students are not left behind.
 - **Social presence and emotion:** AI tools that increase social presence and emotional engagement make learners feel more connected to the learning process, improving collaborative outcomes.

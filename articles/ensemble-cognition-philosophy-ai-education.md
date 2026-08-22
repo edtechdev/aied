@@ -18,7 +18,7 @@ confidence: high
 
 - **Functional agency without consciousness.** AI systems exhibit adaptive responsiveness, contextual sensitivity, and generative capacity that place them in an intermediate category between passive instruments and conscious agents. This is functional agency—genuine causal efficacy in cognitive processes that does not require self-reflection, intentionality, or phenomenal consciousness.
 
-- **Functional agency ≠ moral responsibility.** The framework's central distinction addresses anthropomorphisation concerns: AI can influence learning outcomes without bearing moral responsibility for them. Responsibility remains with human agents who design, deploy, and oversee AI systems in educational contexts.
+- **Functional agency ≠ moral responsibility.** The framework's central distinction addresses anthropomorphisation concerns: AI can influence [[learning-gains|learning outcomes]] without bearing moral responsibility for them. Responsibility remains with human agents who design, deploy, and oversee AI systems in educational contexts.
 
 - **Five features of ensemble cognition.** (1) **Distributed agency**—no single actor monopolises cognition; (2) **dynamic centrality**—cognitive leadership shifts by task demands, shaped even by how users craft prompts; (3) **cognitive orchestration**—coordinated integration of diverse cognitive resources toward coherent outcomes; (4) **multi-representational integration**—integration of linguistic, visual, and mathematical resources (distinct from neuroscientific multimodality); (5) **context-sensitive switching**—cognitive systems adapt their organisation to situational demands, and different AI architectures generate qualitatively distinct collaborative dynamics.
 

@@ -21,7 +21,7 @@ The review addresses a gap: most AI-in-education research examines generic effec
 ## AI tools and applications
 
 - AI is used most in **science education** (n=11), followed by **[[chemistry-education|chemistry education]]** (n=5) and **[[stem-education|STEM education]]** (n=2).
-- **ChatGPT and conversational [[educational-robotics|robots]]** predominate; machine learning algorithms appear in two studies and the DALL-E image tool in one.
+- **ChatGPT and conversational [[educational-robotics|robots]]** predominate; machine [[learning-gains|learning]] algorithms appear in two studies and the DALL-E image tool in one.
 - Applications include AI-supported games and [[simulation|simulations]], [[simulation|virtual laboratories]], [[automated-assessment|AI-based evaluation tools]], and AI chatbots embedded as tutors or even as research participants.
 
 ## Effects on learning outcomes

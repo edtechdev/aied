@@ -28,7 +28,7 @@ The results demonstrate the **feasibility and promise of teaching fundamental ML
 
 ## Limitations
 
-The authors identify several design constraints: the one-group pre-/post-test design lacks a control group, so external factors cannot be entirely ruled out; the use of identical test items for both assessments may have introduced testing effects that inflated post-test scores; variation in instructional duration (six to eight hours across schools) created an inconsistent intervention "dose," potentially affecting the depth of conceptual development; and the reliance on retrospective focus group interviews limits understanding of engagement to student perceptions rather than real-time behavioral data.
+The authors identify several design constraints: the one-group pre-/post-test design lacks a control group, so external factors cannot be entirely ruled out; the use of identical test items for both assessments may have introduced testing effects that inflated post-[[learning-gains|test scores]]; variation in instructional duration (six to eight hours across schools) created an inconsistent intervention "dose," potentially affecting the depth of conceptual development; and the reliance on retrospective focus group interviews limits understanding of engagement to student perceptions rather than real-time behavioral data.
 
 ## Connected Concepts
 

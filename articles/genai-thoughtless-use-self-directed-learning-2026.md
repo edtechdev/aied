@@ -41,7 +41,7 @@ The study links the risk of [[cognitive-offloading|unreflective AI reliance]] to
 
 ## Connected Articles
 
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI use and learning outcomes
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI use and [[learning-gains|learning outcomes]]
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
 - [[chatgpt-perception-online-learning-engagement-2026]] — ChatGPT perception and online learning engagement
 

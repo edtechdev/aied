@@ -45,7 +45,7 @@ confidence: high
 
 - [[llm-facilitation-timing-online-discussions]] — LLM Facilitation Timing in Online Discussions
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and [[learning-gains|Academic Performance]] in an Object-Oriented Programming Course
 - [[curiobot-llm-tutoring-exploratory-learning]] — CurioBot: LLM Tutoring for Exploratory Learning
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
 

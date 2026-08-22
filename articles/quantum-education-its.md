@@ -10,7 +10,7 @@ confidence: high
 
 > **ITAS (Intelligent Teaching Assistant System)** — Elhaimeur & Chrisochoides (2026) describe a multi-agent, knowledge-graph-augmented tutoring system for quantum computing education that bridges the gap between dense mathematical formalism and limited qualified instructors. Building on an earlier knowledge-graph-augmented prototype with two specialized LLM agents (a Teaching Agent and a Lesson Planning Agent), ITAS scales this into a production-grade system with four contributions: a five-module QIS curriculum grounded in an information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, production cloud infrastructure, and a conversational analytics layer. Piloted in a real quantum computing course at Old Dominion University.
 
-Quantum education faces a compounding problem: quantum concepts are counterintuitive, the mathematical formalism is dense, and qualified faculty are scarce outside a small number of well-resourced institutions. ITAS addresses all three by combining a structured [[knowledge-graph|knowledge-graph]] representation of quantum concepts with specialized AI agents, making [[intelligent-tutoring|intelligent tutoring]] viable in a technically demanding domain.
+Quantum education faces a compounding problem: quantum concepts are counterintuitive, the mathematical formalism is dense, and qualified faculty are scarce outside a small number of well-resourced institutions. ITAS addresses all three by combining a structured [[knowledge-graph]] representation of quantum concepts with specialized AI agents, making [[intelligent-tutoring|intelligent tutoring]] viable in a technically demanding domain.
 
 ## System Architecture
 

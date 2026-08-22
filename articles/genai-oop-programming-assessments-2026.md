@@ -43,7 +43,7 @@ The results support the view that contemporary GenAI can outperform the average 
 - [[cognitive-offloading]]
 
 ## Connected Articles
-- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
+- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education [[learning-gains|learning outcomes]] (Jošt et al. 2024)
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews
 - [[llm-automated-grading-programming-comparison-2026]] — Systematic comparison of LLMs for automated grading of programming
 - [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids

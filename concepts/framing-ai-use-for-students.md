@@ -50,7 +50,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 ## Practical guidance
 
 - **Position AI as a productive resource** by explicitly teaching *when* and *how* to use it, rather than banning or ignoring it — integrated framing beats both condemnation and laissez-faire.
-- **Message expectations repeatedly and from every "site"** — syllabus, assignment prompts, [[feedback|feedback]], and peer norms should tell a consistent story so students don't invent their own rationalizations.
+- **Message expectations repeatedly and from every "site"** — syllabus, assignment prompts, [[feedback]], and peer norms should tell a consistent story so students don't invent their own rationalizations.
 - **Channel anxiety into evaluation.** Frame uncertainty about accuracy as a reason to verify and revise, not as a reason to avoid or cheat.
 - **Use honest, targeted messages** (e.g., inoculation and fallibility warnings) that build calibrated caution rather than blanket trust or distrust.
 - **Sell the purpose.** Connect AI use to durable learning and learner [[agency]], and pair messages with the support that converts intent into take-up.

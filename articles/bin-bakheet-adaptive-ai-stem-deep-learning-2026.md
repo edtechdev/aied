@@ -12,7 +12,7 @@ confidence: medium
 
 ## Key Findings
 
-1. **Adaptive AI-based STEM program supports deep learning.** The program — personalizing content, adjusting task difficulty, and providing real-time feedback over eight weeks, with rule-based mastery governing adaptive pathways — produced statistically significant differences favoring the experimental group across all deep-learning dimensions.
+1. **Adaptive AI-based STEM program supports deep [[learning-gains|learning]].** The program — personalizing content, adjusting task difficulty, and providing real-time feedback over eight weeks, with rule-based mastery governing adaptive pathways — produced statistically significant differences favoring the experimental group across all deep-learning dimensions.
 
 2. **Large within-sample effect sizes.** Explanation, interpretation, application, and idea generation showed substantial rank separation, though classroom-level confounding and baseline differences cannot be fully ruled out in a two-cluster design.
 

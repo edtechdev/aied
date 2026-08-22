@@ -15,7 +15,7 @@ confidence: medium
 - **Large critical thinking gains.** Overall critical thinking scores rose from 60.3 (SD 9.7) to 73.5 (SD 10.4), t(119) = 9.64, p < .001, d = 1.00 — a large effect — with notable gains in analysis, inference, and bias detection.
 - **Four qualitative patterns.** ChatGPT supported idea exploration, strengthened students' verification habits, enhanced reflection and [[metacognition|metacognitive monitoring]], and — crucially — did not lead to passive dependence when embedded in structured PBL.
 - **ChatGPT as adaptive scaffolding.** The educational value of ChatGPT depends on how it is used: it functions as a [[pedagogical-agent|learning partner]] when embedded in structured [[problem-based-learning|PBL]] and guided by teachers, rather than as a standalone answer machine.
-- **Personalized learning support.** The framework used ChatGPT to tailor scaffolding to individual student needs, supporting [[personalized-learning|personalized learning]] within a [[problem-based-learning|problem-based]] format.
+- **Personalized [[learning-gains|learning]] support.** The framework used ChatGPT to tailor scaffolding to individual student needs, supporting [[personalized-learning|personalized learning]] within a [[problem-based-learning|problem-based]] format.
 - **Agency preserved.** The study offers practical evidence that ChatGPT can be integrated in secondary classrooms without reducing [[agency|student agency]].
 
 ## Study Design & Method

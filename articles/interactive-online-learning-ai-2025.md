@@ -40,7 +40,7 @@ The DMO-GRU framework illustrates a growing pattern in the wiki's domain: combin
 
 ## Connected Articles
 
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI and learning outcomes
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI and [[learning-gains|learning outcomes]]
 - [[tam-critical-use-genai-engineering-2026]] — Technology acceptance in AI-assisted learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — AI cocreation and just-in-time support
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — AI in formative assessment and instructor roles

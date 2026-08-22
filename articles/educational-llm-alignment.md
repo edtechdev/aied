@@ -18,7 +18,7 @@ Hardy & Kim (2026) identify a **cascading proxy** problem in AI-for-education ev
 
 1. **Benchmark alignment** (MMLU, pedagogical knowledge tests) — what models are typically evaluated on.
 2. **Downstream task alignment** (expert human ratings of teaching quality) — what models are asked to do.
-3. **Intended impact alignment** (student learning gains / VAMs) — what actually matters.
+3. **Intended impact alignment** (student [[learning-gains|learning gains]] / VAMs) — what actually matters.
 
 The paper demonstrates these three layers are not just loosely coupled — they can be **negatively correlated**.
 

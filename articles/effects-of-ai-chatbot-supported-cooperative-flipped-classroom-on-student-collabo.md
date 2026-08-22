@@ -8,7 +8,7 @@ sources: []
 confidence: high
 ---
 
-> **Synthesis:** Based on mastery learning theory, this study employed a quasi-experimental design to examine how an AI chatbot-supported cooperative flipped classroom influences students' collaboration, self-regulated learning and academic performance. Involving 154 junior students over an 11-week period, results showed the experimental group demonstrated significantly higher posttest scores in collaboration, self-regulated learning and academic performance compared to the control group. Epistemic Network Analysis revealed that students with lower prior knowledge exhibited denser collaboration networks, while those with higher prior knowledge showed stronger self-regulated learning connections.
+> **Synthesis:** Based on mastery learning theory, this study employed a quasi-experimental design to examine how an AI chatbot-supported cooperative flipped classroom influences students' collaboration, self-regulated learning and [[learning-gains|academic performance]]. Involving 154 junior students over an 11-week period, results showed the experimental group demonstrated significantly higher posttest scores in collaboration, self-regulated learning and academic performance compared to the control group. Epistemic Network Analysis revealed that students with lower prior knowledge exhibited denser collaboration networks, while those with higher prior knowledge showed stronger self-regulated learning connections.
 
 ## Key Findings
 
