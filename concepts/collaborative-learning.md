@@ -92,3 +92,5 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
 - [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review

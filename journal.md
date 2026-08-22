@@ -1,8 +1,36 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 959
+**Last updated:** 2026-08-22 | **Total entries:** 966
 
 ## 2026-08-22
+
+- ◐ [[doyle-scaling-complex-thinking-ai-ibl-2026]] — raw/papers/doyle-scaling-complex-thinking-ai-ibl-2026.md
+  Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning
+  #inquiry-based-learning #metacognition #scaffolding #generative-ai #critical-thinking #ai-education #higher-ed #conceptual-framework
+
+- ● [[inquiry-based-learning]] — 
+  Inquiry-Based Learning and AI
+  #inquiry-based-learning #problem-based-learning #active-learning #critical-thinking #metacognition #self-regulated-learning #generative-ai #stem-education #scaffolding
+
+- ◐ [[ba-ai-agents-cscl-review-2026]] — raw/papers/ba-ai-agents-cscl-review-2026.md
+  Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
+  #collaborative-learning #agentic-ai #pedagogical-agent #systematic-review #community-of-inquiry #learning-outcomes #scaffolding #cscl
+
+- ◐ [[zhao-genai-higher-order-thinking-meta-2026]] — raw/papers/zhao-genai-higher-order-thinking-meta-2026.md
+  Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments
+  #generative-ai #higher-order-thinking #critical-thinking #meta-analysis-systematic-review #self-regulated-learning #problem-solving #creativity #ai-education
+
+- ◐ [[luo-ibl-patterns-llm-bloom-2026]] — raw/papers/luo-ibl-patterns-llm-bloom-2026.md
+  Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective
+  #inquiry-based-learning #llm #chatgpt #critical-thinking #metacognition #self-efficacy #higher-ed #self-regulated-learning
+
+- ◐ [[botes-ai-oep-ibl-underresourced-2026]] — raw/papers/botes-ai-oep-ibl-underresourced-2026.md
+  Transforming STEM Education in Under-Resourced Contexts: A Conceptual Framework for AI-Supported OEP/RS and Inquiry-Based Learning
+  #inquiry-based-learning #generative-ai #stem-education #equity-in-ai-education #k-12 #open-source #multilingual-learning #lesson-design
+
+- ◐ [[mujib-ai-ibl-creative-math-2026]] — raw/papers/mujib-ai-ibl-creative-math-2026.md
+  Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics
+  #inquiry-based-learning #generative-ai #math-education #k-12 #critical-thinking #creativity #cognitive-offloading #active-learning
 
 - ◐ [[li-dbagent-llm-educational-agent-cs-2026]] — raw/papers/li-dbagent-llm-educational-agent-cs-2026.md
   The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education
@@ -26,7 +54,7 @@
 
 - ◐ [[jiang-chatgpt-inquiry-steam-review-2026]] — raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md
   The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education
-  #chatgpt #generative-ai #inquiry-based-learning #steam-education #stem-education #systematic-review #problem-based-learning #critical-thinking
+  #chatgpt #generative-ai #inquiry-based-learning #steam-education #stem-education #systematic-review #critical-thinking
 
 - ◐ [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md
   Developing Deep Learning in Science Through an Adaptive AI-Based STEM Instructional Program: Evidence From Sixth-Grade Classrooms
@@ -34,7 +62,7 @@
 
 - ◐ [[dai-chatbots-problem-posing-primary-2026]] — raw/papers/dai-chatbots-problem-posing-primary-2026.md
   Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science
-  #generative-ai #chatbot #k-12 #stem-education #inquiry-based-learning #problem-posing #network-analysis #cognitive-load #problem-based-learning
+  #generative-ai #chatbot #k-12 #stem-education #inquiry-based-learning #problem-posing #network-analysis #cognitive-load
 
 - ◐ [[lnenicka-secondary-students-genai-stem-2026]] — raw/papers/lnenicka-secondary-students-genai-stem-2026.md
   Navigating AI in STEM: What Secondary Students Actually Do With Generative AI-Driven Tools

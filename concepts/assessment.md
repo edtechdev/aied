@@ -125,3 +125,5 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
