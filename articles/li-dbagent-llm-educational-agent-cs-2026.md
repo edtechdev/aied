@@ -13,15 +13,10 @@ confidence: high
 ## Key Findings
 
 1. **Improved learning achievement.** The agent-powered context significantly outperformed traditional instruction; the top experimental class beat the control on both tasks (Z = 3.49, Z = 5.15, p < .001), with the largest effect on complex problem-solving (Task 2).
-
 2. **A shift from social inhibition to psychological safety.** Student-agent interactions were dominated by lower-order cognitive activity (~54.5%) because the agent provided a judgment-free environment that encouraged [[help-seeking]] — interpreted as psychological safety rather than mere dependency.
-
 3. **The "Query-Evaluation-Query" verification loop.** LSA identified a significant QR-EA-QR loop: students offload recall/understanding to the agent, then transition into Evaluation of its output — an "offload-evaluate cycle" distinct from the linear confusion-to-understanding path of human-instructor interaction.
-
 4. **But lower-order lock-in.** Strong self-transition loops within lower-order states (Understand z = 49.08; Application z = 51.48) show learners get "locked" in routine processing, with only 3.92% reaching higher-order cognition — attributed to the agent's unwavering compliance lacking pedagogical friction.
-
 5. **Perceptions drive engagement via satisfaction.** SEM confirmed learners' positive perceptions of the agent promoted sustained [[student-engagement|engagement]] through the mediating role of satisfaction.
-
 6. **The "prompt engineering gap."** Efficacy was moderated by domain-specific digital readiness — a Geoscience-major class underperformed CS cohorts on Task 2, suggesting non-technical students need targeted scaffolding to bridge the [[prompt-engineering]] gap.
 
 ## Implications

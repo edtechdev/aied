@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **14 interaction patterns across Bloom's cognitive levels.** Students interacted with LLMs in 14 distinct patterns, varying by level of prior knowledge.
-
 2. **Prior knowledge shapes interaction.** Students at different prior-knowledge levels used LLMs differently during the IBL process, affecting how they progressed through cognitive stages.
-
 3. **Self-efficacy and metacognitive monitoring matter.** These factors significantly influenced learning behavior in the LLM-driven environment — and their absence correlates with reliance on AI.
-
 4. **Design implication: scaffolding for higher-order thinking.** Educators should design cognitive scaffolding targeting specific higher-order thinking stages; instructional designers should build planning frameworks that mitigate over-reliance while fostering metacognitive monitoring.
-
 5. **Policy: critical evaluation training.** Policymakers should implement training to enhance students' critical evaluation skills within LLM-driven environments.
 
 ## Implications

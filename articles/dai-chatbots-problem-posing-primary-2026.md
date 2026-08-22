@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Chatbots beat search engines for problem posing.** The experimental chatbot group outperformed the search-engine control on problem quality (t = 2.47, p = 0.015) and total problem posing ability (t = 3.07, p = 0.003), with no significant difference in the number or category of posed questions.
-
 2. **More integrated cognitive networks.** Epistemic network analysis (ENA) showed the chatbot group developed a broad, high-density, integrated network (e.g., applying → scientific-question contexts), whereas the control group exhibited local clustering.
-
 3. **Lower cognitive load, higher acceptance.** The chatbot group reported lower cognitive load and higher technology acceptance than the search-engine group.
-
 4. **Three rounds of progressive inquiry.** Following three rounds of progressive problem-based inquiry [[learning-gains|learning]], students' problem posing ability increased significantly in both groups (number and quality dimensions), with chatbots amplifying the effect.
 
 ## Implications

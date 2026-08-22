@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **125 studies, PRISMA 2020.** The review synthesizes empirical evidence across 125 peer-reviewed studies following PRISMA 2020 guidelines, covering Scopus, Web of Science, ERIC, IEEE, and Google Scholar.
-
 2. **Exponential GenAI adoption.** Student GenAI usage reached 92% by 2025, reflecting exponential growth since ChatGPT's release in November 2022.
-
 3. **Four primary application domains.** Applications cluster into automated feedback and assessment, personalised learning support, critical skill development, and research assistance.
-
 4. **Balanced benefits and challenges.** Benefits include enhanced learning efficiency, accessibility, and personalisation; challenges include academic integrity, algorithmic bias, hallucination rates, faculty readiness gaps, and digital equity concerns.
 
 ## Implications

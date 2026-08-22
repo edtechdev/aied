@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Skills-based training fails for GenAI.** Technical training works for software adoption but not for GenAI, because faculty are not asking "how do I use this tool safely?" but "what is the point of teaching in a GenAI world? Have I been made redundant?" The gap is ontological, not technical.
-
 2. **GenAI is a threshold concept.** It exhibits all five of Meyer and Land's threshold characteristics: *transformative* (reconstructs assumptions about assessment validity, pedagogy, professional role), *troublesome* (violates beliefs about originality, human agency, and the effort–achievement relationship), *irreversible* (once grasped, no return to naive assumptions), *integrative* (connects technology, pedagogy, epistemology, assessment, identity), and *bounded* (creates new academic communities/hierarchies around GenAI fluency).
-
 3. **Faculty resistance is productive, not a deficit.** Anxiety, resistance, and confusion are necessary parts of liminal threshold crossing. Principled non-adoption reflecting legitimate disciplinary values should be respected, distinct from fear-based hesitation that warrants support.
-
 4. **Identity support beats instrumental training.** Academic developers should create spaces for identity questions, facilitate discipline-specific cohorts, and honor different transformation timelines — opening sessions with identity questions rather than technical demonstrations.
 
 ## Implications

@@ -13,9 +13,7 @@ confidence: medium
 ## Key Findings
 
 1. **A construct-validity crisis.** GenAI severs the inference from a student-produced artifact to the student's own knowledge and skill, whether or not any policy was violated. Detection is unreliable, prohibition is unenforceable, and redesigning assignments to resist GenAI is an arms race — none of which answers what a GenAI-integrated artifact is evidence of.
-
 2. **Production as a fourth attribute.** Production is defined as the capability to deliver work of professional standard by directing tools and other people, with three components: direction, evaluation and integration, and warranting.
-
 3. **Complements the two-lane architecture.** Production supplies the missing interpretation for the "open lane" of two-lane assessment, where secure conditions certify knowledge and skills while the open lane assesses production.
 
 ## Implications

@@ -19,7 +19,6 @@ An et al. conducted a multi-semester observational study of 999 K–12 students 
 The paper identifies and validates two computationally straightforward behavioral indicators from fine-grained interaction logs:
 
 1. **Premature hint requests** — requesting hints before making any solution attempt. Even when students are uncertain, attempting a solution first before seeking help is more beneficial for learning.
-
 2. **Superficial hint reading** — advancing through hints too rapidly to reasonably read them (flagged using a 4 words/second reading-speed benchmark), often skipping directly to the bottom-out hint that reveals the answer.
 
 ## Key Findings

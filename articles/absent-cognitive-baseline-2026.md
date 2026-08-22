@@ -13,16 +13,13 @@ confidence: high
 ## Key Findings
 
 1. **ACB is a structural, not individual, condition.** The gap follows from the *conditions* under which learning experience accumulates, not from any learner's effort or ability. "A student does not reach an absent baseline through carelessness — the baseline is absent because the conditions that would have built it were displaced." ACB operates as a **gradient, not a binary**: the more formative academic experience is mediated substitutively, the fewer independent reference points exist for self-calibration.
-
 2. **Three dimensions of ACB.** The construct manifests across three analytically distinct planes that may co-occur or interact:
    - **Unknowability of one's own cognitive boundary** (epistemic plane): the learner cannot reliably determine where their own ability ends and where AI-generated capacity begins.
    - **False calibration of the sense of understanding** (phenomenological plane): a subjective sense of understanding grounded in the fluency of AI output rather than the learner's own cognitive representation.
    - **De-normalization of cognitive struggle** (normative-interpretive plane): struggle loses its status as a meaningful learning signal and is reinterpreted as inefficiency.
 
 3. **Three groups of moderating variables.** ACB is most likely to emerge when three conditions co-occur: substitutive and frequent AI use during the formative years, limited prior knowledge and underdeveloped self-regulated learning, and an environment providing little structured guidance for AI use. **Use-level** moderators include the mode of interaction (substitutive vs. complementary) and frequency; **learner-level** include prior knowledge (strong learners benefit, weak learners are harmed) and SRL capacity; **environment-level** include guided vs. unguided AI architectures.
-
 4. **Distinct from adjacent constructs.** ACB differs from [[cognitive-offloading]] (a momentary strategy; ACB is the cumulative condition that may result from extended offloading), metacognitive laziness (a process *during* AI use; ACB persists even when AI is absent), and the Dunning-Kruger effect (which predicts overconfidence; a student with ACB lacks the experiential record to ground *any* self-assessment, whether confident or cautious).
-
 5. **The central shift in analytical level.** Most AI-education research asks whether AI improves or harms performance. ACB asks whether sustained AI use during formative years may alter a learner's *ability to assess their own learning*: "generative AI may change not only what students can do academically, but the conditions under which they come to know what they can do."
 
 ## Theoretical foundations

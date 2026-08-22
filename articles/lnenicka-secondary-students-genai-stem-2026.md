@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **A stratified, divergent adoption model across subjects.** [[cs-education|Computer science]] (51.2% see AI as an integrated legitimate tool; only 8.2% prohibit) and economics normalize AI use, while mathematics (65.9%) and basic natural sciences (55.3%) report high prohibition (Kruskal-Wallis H = 360.15, p < .001). Institutional AI [[governance]] reflects localized disciplinary cultures rather than a unified policy.
-
 2. **A transparency gap in restrictive subjects.** Mathematics and natural sciences are perceived as *highly restrictive but poorly defined* (37.3% and 40.9% report complete lack of clarity); rule clarity is significantly discipline-dependent (χ² = 101.65, df = 12, p < .001). Restrictive subjects combine de facto prohibition with unclear guidelines, fueling uncertainty and inequities from implicit norms.
-
 3. **AI is predominantly an instrumental scaffold, not a substitute.** Most students use AI for step-by-step theory explanations (n = 265), checking their own solutions (n = 225), and task/solution analysis (n = 202) — rarely as a full substitute (significant replacement < 10% across cohorts). ChatGPT dominates (n = 364), near-universal regardless of cohort.
-
 4. **A behavioral asymmetry: operational prompting overshadows epistemic verification.** Though students frequently encounter incorrect/hallucinated outputs (especially in mathematics, n = 170), systematic cross-verification with external sources is reported at low frequencies. Prompt refinement dominates, so the operational phase of the workflow overshadows the epistemic verification phase — shifting behavior toward rapid [[cognitive-offloading|cognitive offloading]].
-
 5. **Evolutionary, not disruptive, integration.** A cross-cohort shift from task substitution (first-year students) toward strategic augmentation and advisory/verification modes (third/fourth years) indicates AI functions as a *cognitive mediator* that accelerates workflow while fostering "operational dependency."
 
 ## Implications

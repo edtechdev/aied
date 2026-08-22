@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **AI pass rate tracks student performance.** In a synchronous eight-problem final exam where ten models solved alongside 120 students, AI pass rate correlated positively with student pass rate (Spearman *rho* = 0.866), and a solving-based composite difficulty index correlated negatively with it (*rho* = −0.905).
-
 2. **Strong problem-level calibration across exams.** Across 79 problems from 11 parallel-class final exams, AI overall difficulty correlated with problem-level pass rate at *rho* = −0.871 and with non-attempt rate at *rho* = 0.800; a 26-problem longitudinal data-structures sample gave −0.829 and 0.883.
-
 3. **Boundary condition in introductory courses.** A 106-problem CS101 sample marked the limit: problem-level correlation weakened to *rho* = −0.552 and exam-level correlation across 16 exams was near zero, with cohort composition dominating exam-level outcomes. Exposure-discount and duplicate-problem perturbation tests did not change the direction of findings.
-
 4. **Explicit use-and-abstention boundaries.** The single-reviewer design, unverifiable model identity, and review-output instability mean AI difficulty scales are suitable for problem validation, parallel-class fairness discussion, and longitudinal quality tracking — but must not drive individual student evaluation or automatic grade adjustment.
 
 ## Implications

@@ -13,9 +13,7 @@ confidence: medium
 ## Key Findings
 
 1. **Changing professional identity.** Generative AI tools, intelligent visualization platforms, and AI-native residential developments (e.g., AI Living at i-City) are altering design processes, client expectations, and market dynamics in Malaysia.
-
 2. **New designer role.** Practicing designers are shifting from primary form-generators toward critical mediators and curators of machine outputs, while retaining essential contextual and ethical judgment.
-
 3. **Curriculum and regulation needs.** Universities must develop curricula that combine technical proficiency with critical and ethical judgment so graduates can evaluate AI suggestions rather than rely on them uncritically, and the profession faces emerging needs for regulation as AI becomes embedded in practice.
 
 ## Implications

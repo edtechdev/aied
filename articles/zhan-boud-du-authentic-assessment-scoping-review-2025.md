@@ -31,15 +31,10 @@ Generative AI makes traditional workplace-replication AA newly vulnerable: any t
 This scoping review of 37 empirical AA studies (2000–2024) proposes six design dimensions, moving beyond earlier frameworks (Gulikers et al., 2004; Villarroel et al., 2018):
 
 1. **Authenticity in assessment** — multiple meanings: assessment authenticity (portfolios, projects, concept maps), professional authenticity (workplace scenarios), digital authenticity (Twitter, podcasts, YouTube, LMS), self-authenticity (student identity, well-being), and social authenticity (citizenship, sustainability, ethics). Only **3 of 37 studies** addressed social authenticity — a critical gap.
-
 2. **Cognitive challenges** — knowledge construction (n=29), professional skills (n=22), and 21st-century skills (n=29, led by critical thinking n=17, communication n=13). Digital literacy: only **n=5**.
-
 3. **Assessment criteria** — rubric use was common (n=22) but most students were **passive recipients** rather than co-authors. Only 3 studies co-designed rubrics with students; only 7 involved students as assessors via self/peer assessment.
-
 4. **Feedback** — formative feedback dominated (n=23), summative was common (n=12), but **sustainable feedback** (transferable to future contexts) appeared in only 4 studies. This mirrors the field-wide problem that AI tools also replicate: reactive, momentary feedback rather than lifelong evaluative judgement.
-
 5. **Student agency** — choices about what/how/when/where to submit appeared in only **n=8 studies**. Self-reflection was more common but often **assigned/graded**, making it potentially **performative** (instrumental rather than genuine).
-
 6. **Social collaboration** — mostly individual tasks (n=18) or group tasks (n=16), with few mixing both (n=3). Peer collaboration strategies (peer assessment, peer discussion) appeared in n=16 studies; teacher–student collaboration in n=16, though only 3 designed *equitable* teacher–student partnership (roles were usually feedback-giver, monitor, facilitator — a power imbalance); external industry/community connections in only n=5. Social construction of assessment meaning was under-theorized but present.
 
 ## AI-Specific Implications
@@ -79,11 +74,8 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 ## Open Questions
 
 1. **AI-proof assessment types:** Which forms of authentic assessment are robust to generative AI? In-vivo demonstrations, social contribution portfolios, co-created artefacts with auditable provenance chains, and assessments requiring real-time embodied interaction may be more resilient than take-home essays or MCQs.
-
 2. **Student co-design at scale:** Zhan et al. show co-design is rare (3/37 studies). Can AI tools *enable* rubric co-design at classroom or MOOC scale, or does the paradox of machine-mediated human agency undermine the authenticity itself?
-
 3. **Sustainable feedback via LLM:** Can a language model deliver feedback that students apply months later? The CDPK and ISD benchmarks test pedagogical knowledge transfer to models, not feedback sustainability transfer to students.
-
 4. **Social authenticity deficit:** Only 3 studies addressed social issues (citizenship, sustainability, ethics). How can AI assessment tools help students contribute to societal transformation rather than merely simulate it?
 
 ## Connected Concepts

@@ -13,11 +13,8 @@ confidence: medium
 ## Key Findings
 
 1. **Adaptive AI-based STEM program supports deep [[learning-gains|learning]].** The program — personalizing content, adjusting task difficulty, and providing real-time feedback over eight weeks, with rule-based mastery governing adaptive pathways — produced statistically significant differences favoring the experimental group across all deep-learning dimensions.
-
 2. **Large within-sample effect sizes.** Explanation, interpretation, application, and idea generation showed substantial rank separation, though classroom-level confounding and baseline differences cannot be fully ruled out in a two-cluster design.
-
 3. **Teacher corroboration.** Interviews with three science teachers reported perceived improvements in analytical reasoning, conceptual integration, inquiry-based exploration, and creative scientific thinking; simulations, adaptive feedback, and hands-on STEM activities supported conceptual understanding and engagement.
-
 4. **Rule-based mastery + ML monitoring.** Adaptive learning pathways were governed by rule-based mastery mechanisms, with machine-learning components used solely for performance monitoring rather than direct trajectory modification.
 
 ## Implications

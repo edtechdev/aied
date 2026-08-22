@@ -13,11 +13,8 @@ confidence: high
 ## Key Findings
 
 1. **Intensive 8-hour PD, 163 participants.** A quasi-experimental pretest-posttest design assessed an intensive 8-hour GenAI professional development program on five core AI-PCK components.
-
 2. **Large significant effects.** The PD program was significantly effective across all five AI-PCK components (*p* < 0.001), with the highest effect size in the Rubric Assessment component (*d* = 2.19) and an overall effect size of *d* = 2.36.
-
 3. **Pre-service teachers gained more.** Pre-service teachers demonstrated a statistically higher overall PCK learning gain than experienced teachers (*p* = 0.033).
-
 4. **Design implications.** The intensive model is highly efficacious for rapid AI-PCK enhancement, but the differential learning gain highlights the need to integrate AI-PCK components into core teacher-training curricula and to design specialized support.
 
 ## Implications

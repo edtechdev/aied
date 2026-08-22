@@ -18,9 +18,7 @@ This paper proposes a principled framework grounded in Evidence-Centered Design 
 The framework articulates three context-dependent governance stances based on how GenAI interacts with the assessment's validity argument:
 
 1. **Restrict** — warranted when GenAI would contaminate the inferential chain between student work products and targeted unaided proficiency. This preserves the validity of assessments designed to measure independent competence.
-
 2. **Scaffold** — warranted when bounded GenAI support can assist with peripheral demands without revealing the target construct, preserving inferential interpretability. This aligns with [[scaffolding]] approaches in [[intelligent-tutoring]] systems.
-
 3. **Require** — warranted when the target construct is disciplinary AI interaction competency itself. Tasks elicit process artifacts (prompts, critiques, revisions) that make student reasoning observable and scorable, distinguishing it from AI-generated output.
 
 ## Empirical Validation

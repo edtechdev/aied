@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **39 studies, dual-level coding into ten AILEs.** Following PRISMA, the review maps contributions to ten AI Literacy Elements across STEAM subjects and contexts, plus subject and STEAM-cluster mappings.
-
 2. **Sharp growth from 2021 onward.** Publication on AI-as-content in STEAM increased markedly from 2021, concentrated in middle and high schools, with a geographically clustered corpus and predominantly mixed/qualitative methods using technology-enhanced instruction.
-
 3. **An uneven AI-literacy landscape.** Technical foundations (Fundamental AI Concepts, Computational Thinking, Data Literacy) dominate, while Ethical Awareness, Creative Imagination, Creating with AI, Managing AI, and Designing AI are comparatively underrepresented.
-
 4. **Discipline-based contributions differ.** Technology disciplines (computer science, data science) lead; science, mathematics, engineering, arts, and integrated STEAM have thinner coverage. Arts/humanities primarily support impact and ethics.
-
 5. **A revised AI-literacy framework.** The review proposes an evidence-informed framework aligning TIECD with ten elements, recommending curriculum and assessment broadening so learners can not only use AI but shape it responsibly.
 
 ## Implications

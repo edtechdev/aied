@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **46 studies, post-secondary emphasis.** Most research is set in post-secondary settings, with mixed-methods designs most common; AI agents typically facilitate small-group collaboration and problem-solving through text-based online platforms.
-
 2. **Three agent functions.** AI agents perform cognitive scaffolding, social facilitation, and instructional orchestration, with recent developments enabling more adaptive and participatory roles.
-
 3. **Domain-aligned effects.** The alignment between agent functions and learning outcomes is strongest within the same domain, though important cross-domain influences are also evident.
-
 4. **Cognitive gains consistent, other outcomes context-dependent.** Cognitive gains are consistently reported, but behavioral, social, and emotional outcomes appear context-dependent — highlighting the need for nuanced agent design.
-
 5. **Need for equity and context-sensitive deployment.** The review underscores equitable access, expanded conceptual frameworks, and context-sensitive deployment for meaningful, responsible AI-agent integration in CSCL.
 
 ## Implications

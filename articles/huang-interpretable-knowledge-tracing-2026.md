@@ -20,9 +20,7 @@ Existing dialogue-based Knowledge Tracing (KT) systems suffer from two fundament
 Huang et al. propose an **interpretable difficulty-aware conversational KT framework** built on Llama-3.1-8B-Instruct. The architecture has three modules:
 
 1. **Knowledge Estimator** — Extracts next-token logits for vocabulary tokens "GOOD" and "BAD" from the LLM's output layer after processing the dialogue history. Student ability θ = z^GOOD − z^BAD, producing a scalar that represents the model's latent assessment of the student's current knowledge state.
-
 2. **Difficulty Estimator** — Similarly extracts logits for "HARD" and "EASY" to compute tutor-turn difficulty d = z^HARD − z^EASY. This captures how challenging the current tutor utterance is, independent of the student's ability.
-
 3. **IRT-based Predictor** — Combines θ and d using a 1PL (Rasch) model with a learnable scalar α: p(correct) = 1 / (1 + exp(−α(θ − d))). This mirrors classical [[item-response-theory]] formulations where the probability of a correct response depends on the difference between ability and difficulty.
 
 The framework was evaluated on two datasets: **QATD2k** (real-world dialogues from the Eedi math tutoring platform, 1,573 train / 393 test) and **MathDial** (simulated dialogues with GPT-3.5 students and crowd-sourced tutors, 2,235 train / 588 test). It was compared against five deep learning baselines (DKT, DKVMN, SAINT, AKT, simpleKT) and one LLM-based baseline (LLMKT).

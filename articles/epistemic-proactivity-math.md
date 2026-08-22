@@ -13,13 +13,9 @@ confidence: high
 ## Key Findings
 
 1. **Static measures don't predict learning.** Whole-session summaries of AI use — prompt functions, request types, modeling stages, and behavioral diversity (Shannon entropy) — did not predict AI-free post-test performance after controlling for prior knowledge. What a student does on average tells you little about whether they learned.
-
 2. **Temporal trajectory predicts learning.** Three temporal indicators captured whether interaction shifted toward proactive or reactive orientations from the early to the late phase of the session. The **help-seeking (HS) proactivity shift** (β = .250, p = .009) and **mathematical proactivity shift** (β = .209, p = .031) significantly predicted post-test performance beyond prior knowledge (β = .435), in a model with R²adj = .300. The regulation shift showed a positive but non-significant trend (β = .154, p = .090).
-
 3. **Direction, not magnitude, matters.** A sensitivity check using absolute values of the temporal shifts found them non-significant — post-test performance was associated with the *direction* of students' temporal development (toward proactive vs. reactive), not the amount of behavioral change.
-
 4. **Reactive drift is common.** Across the session, students moved away from understanding-oriented activity toward task work and answer verification: UNDERSTAND fell from 63% to 26% while WORK rose 25%→38% and VALIDATE rose 1%→12%. Help-seeking shifted toward verification (χ² = 17.6, p = .041).
-
 5. **Trajectory groups differ in learning.** A median split on the all-productive composite yielded two groups statistically indistinguishable at baseline (pre-test p = .306) but significantly different on post-test (p = .014): students whose interaction shifted toward proactive orientations (more monitoring, understanding-oriented help-seeking, constructive math work) performed better; those who stayed answer-requesting and moved toward verification/validation performed worse.
 
 ## Study design
