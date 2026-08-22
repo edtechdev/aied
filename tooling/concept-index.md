@@ -283,6 +283,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: student-AI interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; learner-AI interaction; interactions with AI
     - phrases: summative assessment; final exam; examination; high-stakes test; oral exam; proctored exam; closed-book exam
     - phrases: systematic review; meta-analysis; literature review; PRISMA; scoping review
+    - phrases: network analysis; epistemic network analysis; social network analysis; transition network analysis; ENA; SNA; TNA
     - phrases: teacher AI competency; teacher AI competence; teacher AI readiness; teacher digital competence
     - phrases: teacher education; teacher training; preservice teacher education
     - phrases: teacher role; teacher; teacher agency; educator role
