@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -161,3 +161,5 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+

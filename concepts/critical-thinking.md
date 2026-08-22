@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T20:28:43-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -84,3 +84,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+

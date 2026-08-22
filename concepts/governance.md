@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [policy, ethics, higher-ed, institutional-change, privacy, responsible-ai, regulation, ai-education]
 confidence: high
@@ -38,6 +38,8 @@ AI governance operates at multiple levels — from **national/regulatory** (gove
 ### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to institutional change and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
+
+**Governing the cognitive commons.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) frames expertise regeneration as a profession-level collective-action problem requiring Ostrom-style governance (boundary definition, monitoring, graduated sanctions, collective choice). AI governance is thus not only about tool regulation but about sustaining the shared expertise pool professions need — at organizational, professional-association, and policy levels.
 
 ## Connected Concepts
 
@@ -83,3 +85,5 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+

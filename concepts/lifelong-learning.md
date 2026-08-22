@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning and AI
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [lifelong-learning, personalized-learning, professional-training, llm, intelligent-tutoring, higher-ed, generative-ai, adaptive-learning, scaffolding, k-12]
 confidence: medium
@@ -47,3 +47,5 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation in AI-mediated learning
 - [[ai-lifelong-learning-policy]] — AI in lifelong learning: opportunities and challenges in adult-education policy
 - [[community-centered-ai-education-adults]] — Co-designing community-centered AI education for adults
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+
