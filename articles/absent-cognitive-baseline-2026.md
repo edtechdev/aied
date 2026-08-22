@@ -1,14 +1,14 @@
 ---
 title: "The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-08-22T17:00:00-04:00"
+updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [metacognition, generative-ai, cognitive-offloading, self-regulated-learning, student-experience, higher-ed, ai-education, k-12]
 sources: ['raw/papers/absent-cognitive-baseline-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the wiki's foundational strand. Students entering college in 2026–27 are among the first cohorts to have completed most of their secondary schooling under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the formative high-school window reduces the independent cognitive encounters on which academic self-assessment depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
+> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the wiki's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the formative high-school window reduces the independent cognitive encounters on which academic [[assessment|self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
 
 ## Key Findings
 
@@ -18,7 +18,7 @@ confidence: high
    - **False calibration of the sense of understanding** (phenomenological plane): a subjective sense of understanding grounded in the fluency of AI output rather than the learner's own cognitive representation.
    - **De-normalization of cognitive struggle** (normative-interpretive plane): struggle loses its status as a meaningful learning signal and is reinterpreted as inefficiency.
 
-3. **Three groups of moderating variables.** ACB is most likely to emerge when three conditions co-occur: substitutive and frequent AI use during the formative years, limited prior knowledge and underdeveloped self-regulated learning, and an environment providing little structured guidance for AI use. **Use-level** moderators include the mode of interaction (substitutive vs. complementary) and frequency; **learner-level** include prior knowledge (strong learners benefit, weak learners are harmed) and SRL capacity; **environment-level** include guided vs. unguided AI architectures.
+3. **Three groups of moderating variables.** ACB is most likely to emerge when three conditions co-occur: substitutive and frequent AI use during the formative years, limited [[prior-knowledge|prior knowledge]] and underdeveloped self-regulated learning, and an environment providing little structured guidance for AI use. **Use-level** moderators include the mode of interaction (substitutive vs. complementary) and frequency; **learner-level** include prior knowledge (strong learners benefit, weak learners are harmed) and SRL capacity; **environment-level** include guided vs. unguided AI architectures.
 4. **Distinct from adjacent constructs.** ACB differs from [[cognitive-offloading]] (a momentary strategy; ACB is the cumulative condition that may result from extended offloading), metacognitive laziness (a process *during* AI use; ACB persists even when AI is absent), and the Dunning-Kruger effect (which predicts overconfidence; a student with ACB lacks the experiential record to ground *any* self-assessment, whether confident or cautious).
 5. **The central shift in analytical level.** Most AI-education research asks whether AI improves or harms performance. ACB asks whether sustained AI use during formative years may alter a learner's *ability to assess their own learning*: "generative AI may change not only what students can do academically, but the conditions under which they come to know what they can do."
 
@@ -31,7 +31,7 @@ The paper is careful to distinguish **AI availability from AI substitution** —
 ## The three dimensions in detail
 
 - **Dimension One — Unknowability of the cognitive boundary:** In traditional environments, students develop a rough sense of their limits through repeated encounters with tasks they can and cannot complete. When a large portion of academic output is AI-produced or shaped, the learner has fewer data points from which to infer the contours of their own ability.
-- **Dimension Two — False calibration:** Processing fluency routinely misleads judgment of learning (Bjork et al. 2013). In AI-saturated environments this shifts qualitatively: fluency is delivered as a property of the AI's output, not generated by the learner's engagement. A student who reads a well-structured AI explanation may *feel* they understand, but the feeling reflects the received text, not the state of their own cognitive representation.
+- **Dimension Two — False calibration:** Processing fluency routinely misleads judgment of learning (Bjork et al. 2013). In AI-saturated environments this shifts qualitatively: fluency is delivered as a property of the AI's output, not generated by the learner's engagement. A student who reads a well-structured AI explanation may *feel* they understand, but the feeling reflects the received text, not the state of their own cognitive representation — a [[metacognition|metacognitive]] miscalibration.
 - **Dimension Three — De-normalization of struggle:** With pervasive AI, unresolved cognitive difficulty decreases because the tool resolves it before the student fully engages. The risk is that struggle becomes read as inefficiency rather than a normal feature of learning — a weak baseline that had limited opportunity to develop.
 
 Plausible feedback paths connect the dimensions: sustained absence of struggle may reduce the independent encounters needed to map one's boundaries; a persistent false sense of understanding may reduce motivation to seek struggle.
