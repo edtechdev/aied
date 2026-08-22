@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-22T17:35:00-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -85,4 +85,5 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 

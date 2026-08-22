@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T20:28:43-04:00"
+updated: "2026-08-22T17:35:00-04:00"
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
@@ -122,3 +122,5 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+

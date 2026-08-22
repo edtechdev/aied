@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 968
+**Last updated:** 2026-08-22 | **Total entries:** 969
 
 ## 2026-08-22
+
+- ◐ [[roe-assessment-twins-2026]] — raw/papers/roe-assessment-twins-2026.md
+  Assessment Twins: An Approach for Strengthening Assessment Validity in the Age of Generative AI
+  #assessment-validity #academic-integrity #authentic-assessment #generative-ai #higher-ed #assessment-design #ai-literacy
 
 - ◐ [[strydom-human-gai-paradigms-2026]] — raw/papers/strydom-human-gai-paradigms-2026.md
   Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices

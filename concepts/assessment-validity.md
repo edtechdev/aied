@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T10:44:23-04:00"
+updated: "2026-08-22T17:35:00-04:00"
 type: concept
 tags: [authentic-assessment, automated-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
 
@@ -65,3 +65,5 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+
