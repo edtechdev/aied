@@ -4037,9 +4037,17 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 
 The wiki documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[faculty-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
 
+**The boundary–evidence gap in assessment policy.** A 30-university audit of public GenAI assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
+
 ### Policy vs. governance
 
-While policy sets the formal rules and principles, [[governance]] encompasses the institutional structures, norms, and accountability mechanisms that implement and enforce them. Policy is what is decided; governance is how it is carried out. Both are needed: policy without governance is unenforced; governance without policy lacks direction.
+Policy and governance are closely related but distinct, and keeping them apart matters for understanding the wiki's research.
+
+- **Policy is the *content* — what is decided.** A policy is a formal rule, principle, or statement: what AI use is allowed, prohibited, or required; what must be disclosed; what assessment formats are permitted. It exists as a documented artifact (legislation, institutional guideline, syllabus statement) and answers *"what are the rules?"*
+- **Governance is the *machinery* — how it is decided, implemented, and enforced.** Governance encompasses the institutional structures, norms, and accountability mechanisms that produce, carry out, and monitor policy: who sets the rules, how they are communicated and resourced, how compliance is enforced and challenged, and how they are revised as AI evolves. It answers *"who decides, and how do the rules actually take effect?"*
+- **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The wiki's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without fairness (see [[governance|AI governance]]).
+
+The practical test that separates them: a policy can be read on paper, but governance is observed in whether the rule is implemented, enforced, and adapted. This is why [[governance]] extends [[regulation]] and policy into institutions, and why the wiki treats assessment-format choices ([[summative-assessment]]) as *policy* decisions that only become effective through *governance* structures like review boards, declaration frameworks, and appeal routes.
 
 ### Connections
 
@@ -4063,6 +4071,8 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+
+- [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment (30-university policy audit)
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[fekete-ethical-ai-literacy-gaps-2026]]
@@ -5466,6 +5476,10 @@ AI governance operates at multiple levels — from **national/regulatory** (gove
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to institutional change and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
 
 **Governing the cognitive commons.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) frames expertise regeneration as a profession-level collective-action problem requiring Ostrom-style governance (boundary definition, monitoring, graduated sanctions, collective choice). AI governance is thus not only about tool regulation but about sustaining the shared expertise pool professions need — at organizational, professional-association, and policy levels.
+
+### Relationship to educational policy
+
+Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, this page focuses on the *structures and practices* that make rules real — steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
 ## Connected Concepts
 
@@ -14401,8 +14415,8 @@ The paper argues that developmental psychology has lacked a theoretical framewor
 
 ## Four roles of AI in cognitive regulation
 
-1. **Scaffold for cognitive performance** — AI systems (e.g., [[intelligent-tutoring|intelligent tutoring systems]]) enable learners to work beyond their independent capability, offering 24-hour support, real-time feedback, and dynamically adjusted difficulty, extending traditional [[scaffolding]].
-2. **Metacognitive support** — conversational AI prompts users to rethink answers, generate alternative explanations, and validate their reasoning, supporting [[self-regulated-learning|self-regulated learning]].
+1. **Scaffold for cognitive performance** — AI systems (e.g., [[intelligent-tutoring|intelligent tutoring systems]]) enable learners to work beyond their independent capability, offering 24-hour support, real-time [[feedback]], and dynamically adjusted difficulty, extending traditional [[scaffolding]].
+2. **Metacognitive support** — [[conversational-ai|conversational AI]] prompts users to rethink answers, generate alternative explanations, and validate their reasoning, supporting [[self-regulated-learning|self-regulated learning]].
 3. **External memory and cognitive offloading system** — AI stores, retrieves, and generates information, offloading working-memory load in line with [[cognitive-offloading]] research.
 4. **Decision partner** — recommendation and conversational systems participate in planning and decision-making, framing AI as a collaborator rather than a tool.
 
@@ -14412,7 +14426,7 @@ The framework is stage-sensitive: it is most directly applicable to middle child
 
 ## Benefits and risks
 
-AI-assisted co-regulation can improve performance, reduce cognitive load, and extend memory through beneficial offloading. However, the authors warn of the risks of excessive [[cognitive-offloading]], [[cognitive-offloading|Over-Reliance]] on external advice, and reduced effortful processing and independent reasoning — outcomes that can undermine the development of self-regulation and critical-thinking skills, especially in younger learners.
+AI-assisted co-regulation can improve performance, reduce cognitive load, and extend memory through beneficial offloading. However, the authors warn of the risks of excessive [[cognitive-offloading]], [[cognitive-offloading|Over-Reliance]] on external advice, and reduced effortful processing and independent reasoning — outcomes that can undermine the development of self-regulation and [[critical-thinking]] skills, especially in younger learners.
 
 ## Key Findings
 
@@ -23555,11 +23569,11 @@ The framework uses five recurring delegation types: **access support** (translat
 
 ## Audit method
 
-The audit scored public institutional policy packages (the set of official sources through which each university tells students how GenAI may be used in assessed work) across the UK (11), Australia (5), New Zealand (2), Canada (5), and the US (7). A pre-specified, source-grounded scoring codebook was applied by four open-weight [[llm|LLMs]] as structured coders, with scores averaged to dampen single-model bias. The audit treated public guidance as a reader-facing artifact — what a student, instructor, or reviewer can see about claim, boundary, evidence, and safeguard. Between-model agreement was a sensitivity measure, not validation, so exact score levels are exploratory descriptions.
+The audit scored public [[educational-policy-ai|institutional policy]] packages (the set of official sources through which each university tells students how GenAI may be used in assessed work) across the UK (11), Australia (5), New Zealand (2), Canada (5), and the US (7). A pre-specified, source-grounded scoring codebook was applied by four open-weight [[llm|LLMs]] as structured coders, with scores averaged to dampen single-model bias. The audit treated public guidance as a reader-facing artifact — what a student, instructor, or reviewer can see about claim, boundary, evidence, and safeguard. Between-model agreement was a sensitivity measure, not validation, so exact score levels are exploratory descriptions.
 
 ## Implications for AI in education
 
-The takeaway is that **permission categories are necessary but insufficient**: universities need policies that make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions will protect fair evidence rather than merely monitor AI use. This shifts the [[assessment-validity]] question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim.
+The takeaway is that **permission categories are necessary but insufficient**: universities need [[educational-policy-ai|policies]] that make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions will protect fair evidence rather than merely monitor AI use. This shifts the [[assessment-validity]] question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim.
 
 Cognitive stewardship is a [[governance]] arrangement, not merely an assessment technique. It matters that disclosure and monitoring can make students *more visible* to the institution without making assessment *fairer*, and that surveillance harms may fall unevenly on racialized, disabled, low-income, international, and linguistically marginalized learners — [[privacy]] and accessibility are therefore conditions of stewardship, not exceptions: the relevant question is whether assistance bypasses the learning claim or enables access to it. The framework also cautions against relying on today's AI weaknesses (hallucination, bias) as the stable foundation for educational policy — the stronger question is which human capacities should remain visible even when task performance can be delegated. This connects to the wiki's [[theory-development-aied|theory-building]] thread and complements [[ai-assessment-scale-reform]] and [[universities-ai-era-rethinking]] on redesigning credentials for [[ai-education|AI-mediated education]].
 
@@ -23569,6 +23583,7 @@ Cognitive stewardship is a [[governance]] arrangement, not merely an assessment 
 - [[academic-integrity]]
 - [[authentic-assessment]]
 - [[cognitive-offloading]]
+- [[educational-policy-ai]]
 - [[ethics]]
 - [[generative-ai]]
 - [[governance]]

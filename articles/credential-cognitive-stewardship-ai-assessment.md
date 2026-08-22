@@ -38,11 +38,11 @@ The framework uses five recurring delegation types: **access support** (translat
 
 ## Audit method
 
-The audit scored public institutional policy packages (the set of official sources through which each university tells students how GenAI may be used in assessed work) across the UK (11), Australia (5), New Zealand (2), Canada (5), and the US (7). A pre-specified, source-grounded scoring codebook was applied by four open-weight [[llm|LLMs]] as structured coders, with scores averaged to dampen single-model bias. The audit treated public guidance as a reader-facing artifact — what a student, instructor, or reviewer can see about claim, boundary, evidence, and safeguard. Between-model agreement was a sensitivity measure, not validation, so exact score levels are exploratory descriptions.
+The audit scored public [[educational-policy-ai|institutional policy]] packages (the set of official sources through which each university tells students how GenAI may be used in assessed work) across the UK (11), Australia (5), New Zealand (2), Canada (5), and the US (7). A pre-specified, source-grounded scoring codebook was applied by four open-weight [[llm|LLMs]] as structured coders, with scores averaged to dampen single-model bias. The audit treated public guidance as a reader-facing artifact — what a student, instructor, or reviewer can see about claim, boundary, evidence, and safeguard. Between-model agreement was a sensitivity measure, not validation, so exact score levels are exploratory descriptions.
 
 ## Implications for AI in education
 
-The takeaway is that **permission categories are necessary but insufficient**: universities need policies that make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions will protect fair evidence rather than merely monitor AI use. This shifts the [[assessment-validity]] question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim.
+The takeaway is that **permission categories are necessary but insufficient**: universities need [[educational-policy-ai|policies]] that make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions will protect fair evidence rather than merely monitor AI use. This shifts the [[assessment-validity]] question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim.
 
 Cognitive stewardship is a [[governance]] arrangement, not merely an assessment technique. It matters that disclosure and monitoring can make students *more visible* to the institution without making assessment *fairer*, and that surveillance harms may fall unevenly on racialized, disabled, low-income, international, and linguistically marginalized learners — [[privacy]] and accessibility are therefore conditions of stewardship, not exceptions: the relevant question is whether assistance bypasses the learning claim or enables access to it. The framework also cautions against relying on today's AI weaknesses (hallucination, bias) as the stable foundation for educational policy — the stronger question is which human capacities should remain visible even when task performance can be delegated. This connects to the wiki's [[theory-development-aied|theory-building]] thread and complements [[ai-assessment-scale-reform]] and [[universities-ai-era-rethinking]] on redesigning credentials for [[ai-education|AI-mediated education]].
 
@@ -52,6 +52,7 @@ Cognitive stewardship is a [[governance]] arrangement, not merely an assessment 
 - [[academic-integrity]]
 - [[authentic-assessment]]
 - [[cognitive-offloading]]
+- [[educational-policy-ai]]
 - [[ethics]]
 - [[generative-ai]]
 - [[governance]]

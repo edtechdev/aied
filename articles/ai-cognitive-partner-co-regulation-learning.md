@@ -18,8 +18,8 @@ The paper argues that developmental psychology has lacked a theoretical framewor
 
 ## Four roles of AI in cognitive regulation
 
-1. **Scaffold for cognitive performance** — AI systems (e.g., [[intelligent-tutoring|intelligent tutoring systems]]) enable learners to work beyond their independent capability, offering 24-hour support, real-time feedback, and dynamically adjusted difficulty, extending traditional [[scaffolding]].
-2. **Metacognitive support** — conversational AI prompts users to rethink answers, generate alternative explanations, and validate their reasoning, supporting [[self-regulated-learning|self-regulated learning]].
+1. **Scaffold for cognitive performance** — AI systems (e.g., [[intelligent-tutoring|intelligent tutoring systems]]) enable learners to work beyond their independent capability, offering 24-hour support, real-time [[feedback]], and dynamically adjusted difficulty, extending traditional [[scaffolding]].
+2. **Metacognitive support** — [[conversational-ai|conversational AI]] prompts users to rethink answers, generate alternative explanations, and validate their reasoning, supporting [[self-regulated-learning|self-regulated learning]].
 3. **External memory and cognitive offloading system** — AI stores, retrieves, and generates information, offloading working-memory load in line with [[cognitive-offloading]] research.
 4. **Decision partner** — recommendation and conversational systems participate in planning and decision-making, framing AI as a collaborator rather than a tool.
 
@@ -29,7 +29,7 @@ The framework is stage-sensitive: it is most directly applicable to middle child
 
 ## Benefits and risks
 
-AI-assisted co-regulation can improve performance, reduce cognitive load, and extend memory through beneficial offloading. However, the authors warn of the risks of excessive [[cognitive-offloading]], [[cognitive-offloading|Over-Reliance]] on external advice, and reduced effortful processing and independent reasoning — outcomes that can undermine the development of self-regulation and critical-thinking skills, especially in younger learners.
+AI-assisted co-regulation can improve performance, reduce cognitive load, and extend memory through beneficial offloading. However, the authors warn of the risks of excessive [[cognitive-offloading]], [[cognitive-offloading|Over-Reliance]] on external advice, and reduced effortful processing and independent reasoning — outcomes that can undermine the development of self-regulation and [[critical-thinking]] skills, especially in younger learners.
 
 ## Key Findings
 
