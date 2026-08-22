@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-22 | **Total pages:** 945
+**Last updated:** 2026-08-22 | **Total pages:** 947
 ---
 ## Concepts
 
@@ -98,6 +98,7 @@
 - [[motivation]] — Motivation
 - [[multilingual-learning]] — Multilingual Learning
 - [[multimodal]] — Multimodal AI
+- [[network-analysis]] — Network Analysis
 - [[neurodiversity]] — Neurodiversity
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[open-source]] — Open Source
@@ -752,6 +753,7 @@
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
 - [[pedlow-genai-selfassessment-2026]] — Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education
+- [[penny-transition-network-analysis-efl-writing-2026]] — Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study

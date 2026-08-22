@@ -1,7 +1,7 @@
 ---
 title: "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing"
 created: "2026-06-02T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-education, scaffolding, agentic-workflows, metacognition, curriculum-design]
 sources: ['raw/papers/2606.00040.md']
@@ -35,7 +35,8 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 - [[metacognition]]
 - [[agentic-ai]]
 - [[learning-analytics]]
-- [[writing-education]]
+- [[writing-education]]- [[network-analysis]]
+
 ## Connected Articles
 
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline

@@ -1,8 +1,16 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 910
+**Last updated:** 2026-08-22 | **Total entries:** 912
 
 ## 2026-08-22
+
+- ● [[network-analysis]] — 
+  Network Analysis
+  #network-analysis #research-methods #methodology #epistemic-network-analysis #social-network-analysis #transition-network-analysis #learning-analytics #knowledge-graph
+
+- ◐ [[penny-transition-network-analysis-efl-writing-2026]] — raw/papers/penny-transition-network-analysis-efl-writing-2026.md
+  Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing
+  #transition-network-analysis #learning-analytics #english-education #written-corrective-feedback #chatbot #generative-ai #student-modeling #scaffolding #ai-literacy
 
 - ● [[prior-knowledge]] — 
   Prior Knowledge

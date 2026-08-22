@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 152 concepts and 793 articles.
+> Complete text of 153 concepts and 794 articles.
 
 # Concepts
 
@@ -6417,6 +6417,8 @@ Learning analytics has evolved through three generations in the wiki: descriptiv
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the ethical constraint), and [[edtech-platform]] (where analytics are deployed).
 
+Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in chatbot-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-AI interaction rather than only its product.^[[penny-transition-network-analysis-efl-writing-2026]]^[[tracing-genai-literacy-interaction-patterns]]
+
 ## Connected Concepts
 
 - [[knowledge-tracing]]
@@ -7467,6 +7469,68 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
+
+---
+
+## [Network Analysis](https://edtechdev.github.io/aied/concepts/network-analysis/)
+
+> **Network analysis** — the family of research methods that model entities (people, concepts, actions, or codes) as **nodes** connected by **edges** representing relationships or transitions, then analyze the structure and dynamics of the resulting network to reveal patterns invisible to frequency counts or pairwise comparisons. In AI-in-education research, network analysis is used to map interaction patterns between learners and AI tools, model how knowledge or discourse elements co-occur, and trace temporal sequences of behavior. It includes distinct variants — **Epistemic Network Analysis** (ENA, modeling the co-occurrence of codes/constructs), **Social Network Analysis** (SNA, modeling relationships between people), and **Transition Network Analysis** (TNA, modeling temporal sequences of states) — each of which operationalizes "learning as connection" in a different way.^[[tracing-genai-literacy-interaction-patterns]]^[[penny-transition-network-analysis-efl-writing-2026]]^[[misiejuk-cognitive-offloading-prompting-2026]]
+
+Network analysis methods share a core premise: that the structure of connections — not just their presence or frequency — carries meaning. Rather than asking "how much of X occurred," they ask "how are elements connected, and what does that connectivity reveal about cognition, collaboration, or learning processes?" This makes them especially valuable in AI-in-education, where researchers increasingly want to understand the *process* of learner–AI interaction (how learners navigate feedback, dialogue, and revision) rather than only the product (final scores, error rates).
+
+## Variants used in the wiki's corpus
+
+- **Epistemic Network Analysis (ENA)** — the most common variant in the wiki (discussed in ~24 articles). ENA models the co-occurrence of codes or constructs within segments of discourse or activity, producing networks that show which ideas, skills, or epistemic actions tend to be connected in a given context. It is used to compare how different groups (e.g., high- vs. low-literacy learners, human vs. AI collaborators) structure their cognition.^[[tracing-genai-literacy-interaction-patterns]]^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **Social Network Analysis (SNA)** — models relationships between people (learners, teachers, agents) to reveal collaboration structures, influence, centrality, and community. Useful for studying collaborative and peer learning.^[[misiejuk-cognitive-offloading-prompting-2026]]
+- **Transition Network Analysis (TNA)** — models temporal sequences of discrete states (e.g., learner actions in a tutoring session) as a directed network, quantifying the probability of moving between states. TNA is used to reveal behavioral loops, pathways, and uptake dynamics in learner–AI interaction.^[[penny-transition-network-analysis-efl-writing-2026]]
+
+These differ from a **[[knowledge-graph]]**, which is a data structure for representing and reasoning over facts (an ontology/triple store), not an analytical method for studying process or relationship structure.
+
+## Network analysis in AI-in-education research
+
+Network methods are used across the wiki's evidence base to answer questions that aggregate metrics cannot:
+
+- **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in chatbot-scaffolded writing) rather than just final output.^[[penny-transition-network-analysis-efl-writing-2026]]
+- **Compare cognitive structuring across groups.** ENA shows how different groups connect constructs differently — e.g., how metacognition co-occurs with delegation vs. human reasoning in human–AI collaboration, revealing different collaboration modes.^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of LLM use (iterative strategic refinement vs. linear commands), distinguishing learner proficiency and development.^[[tracing-genai-literacy-interaction-patterns]]
+- **Analyze discourse and framing.** ENA is applied to qualitative and multimodal data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse.^[[youtube-frames-chatgpt-education]]
+- **Complement self-report and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the wiki's feedback-uptake literature.
+
+## Methodological considerations
+
+- **Coding is the foundation.** All network variants depend on reliably coding raw data (utterances, events, relationships) into discrete nodes/codes; automated LLM-based coding is increasingly used but requires human validation (e.g., Fleiss' κ of 0.70–0.71 in TNA studies).^[[penny-transition-network-analysis-efl-writing-2026]]
+- **Network-level metrics summarize structure.** Density, reciprocity, centralization, and in-/out-strength describe whether interaction is random or organized around "gravitational" hubs, and how reciprocal the exchange is.
+- **Statistical comparison is needed for group differences.** Chi-squared tests or permutation testing are used to establish that observed network differences (e.g., by proficiency) are not due to chance.
+- **Interpret with care.** Node granularity (e.g., a coarse "chat" node) can obscure intent; automated classification carries some ambiguity; and cross-sectional network structure does not establish causality.
+
+## Implications for AI-in-education research
+
+1. **Prefer process methods over product-only metrics.** To evaluate whether AI tools support learning, model how learners actually engage (uptake, dialogue, revision) with sequence/network methods rather than relying on final scores alone.
+2. **Use ENA to compare cognitive structuring.** When asking how different learners or modes (human vs. AI) structure their reasoning, ENA provides a direct, visual comparison of co-occurrence networks.
+3. **Validate automated coding.** With large log datasets, LLM-based classification is powerful but must be checked against human coding (report inter-rater agreement) before interpreting network structure.
+4. **Design for differentiation.** Network analysis often reveals that the *same* AI tool produces different interaction patterns across learner subgroups — informing adaptive design rather than one-size-fits-all evaluation.
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[knowledge-graph]]
+- [[meta-analysis-systematic-review]]
+- [[student-modeling]]
+- [[student-engagement]]
+- [[collaborative-learning]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[scaffolding]]
+- [[feedback]]
+
+## Connected Articles
+
+- [[penny-transition-network-analysis-efl-writing-2026]] — TNA of learner-chatbot interactions in scaffolded EFL writing
+- [[tracing-genai-literacy-interaction-patterns]] — ENA of GenAI literacy interaction patterns
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — ENA of human-AI collaborative problem solving
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting (SNA/network methods)
+- [[youtube-frames-chatgpt-education]] — ENA of YouTube frames of ChatGPT in education
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
 
 ---
 
@@ -12085,7 +12149,8 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 - [[critical-thinking]]
 - [[equity-in-ai-education]]
 
-- [[generative-ai]]
+- [[generative-ai]]- [[network-analysis]]
+
 ## Connected Articles
 
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
@@ -29946,6 +30011,7 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 - [[learning-analytics]]
 - [[higher-ed]]
 - [[ai-education]]
+- [[network-analysis]]
 
 ## Connected Articles
 
@@ -36797,6 +36863,7 @@ The study is context-specific (a social network analysis course, LLM-based datas
 - [[scaffolding]]
 - [[learning-analytics]]
 - [[self-regulated-learning]]
+- [[network-analysis]]
 
 ## Connected Articles
 
@@ -39561,6 +39628,59 @@ This study contributes to scholarship on [[ethics|ethical]] GenAI use by demonst
 
 ## Citation
 Pedlow, M., & Maldon, J. (2026). [*Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education*](https://doi.org/10.53761/39ey1895). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/39ey1895. CC BY-ND 4.0.
+
+---
+
+## [Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing](https://edtechdev.github.io/aied/articles/penny-transition-network-analysis-efl-writing-2026/)
+
+# Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing
+
+## Core Finding
+
+Using **Transition Network Analysis (TNA)**, this study opens the "black box" of learner-chatbot interaction in scaffolded [[english-education|EFL writing]], modeling how 119 Japanese junior-high learners moved between writing, requesting feedback, revising, and chatting across 4,651 sessions and 21,061 interactions with "Penny," a GPT-4o-powered writing chatbot. Two dominant behavioral loops emerged — a **"Revision Loop"** (feedback → successful error correction) and a **"Chat Loop"** (feedback → sustained dialogue → more feedback) — revealing that AI-scaffolded writing is a **non-linear, dialogic process**, not a linear submit-and-correct cycle. Critically, [[ai-literacy|English proficiency]] significantly shaped interaction: **high-proficiency learners engaged more in open dialogue and negotiation of meaning**, while **low-proficiency learners relied more heavily on repetitive corrective-feedback cycles** (using the "check my writing" button rather than clarifying or negotiating). This highlights the need for differentiated chatbot design that moves beyond simple error correction to foster deeper cognitive engagement for all learners.
+
+## Key Findings
+
+- **The revision-dialogue divergence.** Following chatbot feedback, learner behavior split almost evenly: **revise_writing** (43.8%) and **user_chat** dialogue (37.3%). This dual pathway shows learners use the chatbot both as a corrective tool and as a partner for negotiating meaning.
+- **Effective revision when chosen.** When learners chose to revise, the transition to **successful_uptake** was 69% — the chatbot reliably facilitated error repair. Successful uptake (7.25% of events) was observed significantly more often than unsuccessful (1.66%) or no uptake (1.55%).
+- **The Chat Loop.** Dialogue often looped back: user_chat → penny_feedback (0.44) or → penny_chat non-corrective talk (0.56), creating sustained feedback-and-response cycles. This aligns with interactionist SLA theories where "pushed output" and dialogue facilitate hypothesis testing.
+- **Proficiency shapes strategy.** A chi-squared test (χ²=25.4, p<.003) showed interaction frequencies differ by proficiency. High-proficiency learners showed significant over-representation in conversational states (user_chat) and under-use of check_button; low-proficiency learners were the inverse — over-using check_button and under-engaging in dialogue, often triggering further corrective feedback (the chatbot functioned more as a persistent corrector than a partner for them).
+- **Network structure.** The TNA network (10 nodes, 26 directed edges, density 0.29, reciprocity 0.31) had strong "gravitational" hubs (penny_feedback), showing learners favored specific behavioral sequences rather than transitioning randomly.
+- **LLM-based classification was validated.** Chatbot responses and learner uptake were auto-coded with gpt-4o-mini and validated against human coders with substantial inter-rater agreement (Fleiss' κ = 0.70 and 0.71).
+
+## Why this matters for education
+
+This study is a model demonstration of [[network-analysis|Transition Network Analysis]] applied to AI-in-education log data — treating the learner-chatbot interaction as a process to be modeled temporally rather than judged by product (final essay score). For [[english-education|language learning]] and AI tutoring generally, it shows that **learners of different proficiency levels interact with the same chatbot in qualitatively different ways**, and that the pedagogical value of AI feedback depends on how learners actually engage with it. The finding that lower-proficiency learners get trapped in a corrective loop while higher-proficiency learners negotiate meaning suggests that **AI writing tools may inadvertently widen proficiency gaps** unless designed to actively scaffold negotiation and dialogue for less-advanced learners — a directly actionable implication for [[scaffolding]] and [[student-modeling|adaptive chatbot design]].
+
+## Practical Implications
+
+- **Design chatbots to break the corrective loop.** For lower-proficiency learners, encourage clarification, negotiation, and metalinguistic dialogue rather than repeated "check my writing" cycles — for example, by prompting learners to explain *why* a correction is needed or to propose their own fix before revealing the answer.
+- **Model the process, not just the product.** Use [[network-analysis|transition network analysis]] (and related sequence/temporal methods) on interaction logs to reveal how learners actually use AI tools, rather than relying solely on output metrics or self-reports — which can diverge from real revision behavior.
+- **Differentiate support by proficiency.** Because high- and low-proficiency learners engage the same chatbot differently, adapt the interaction design (scaffolding, feedback framing, dialogue prompts) to each learner's level and metacognitive readiness.
+- **Open the black box for evaluation.** Temporal methods like TNA let researchers and educators see whether feedback leads to genuine uptake, dialogue, or disengagement — informing better evaluation of AI writing tools than error-rate or final-score metrics alone.
+
+## Connected Concepts
+
+- [[network-analysis]]
+- [[learning-analytics]]
+- [[english-education]]
+- [[language-learning]]
+- [[feedback]]
+- [[scaffolding]]
+- [[student-modeling]]
+- [[ai-literacy]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting
+- [[tracing-genai-literacy-interaction-patterns]] — Epistemic Network Analysis of LLM literacy interaction patterns
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Epistemic Network Analysis of human-AI collaborative problem solving
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing
+
+## Citation
+
+Woollaston, S., Flanagan, B., Toyokawa, Y., & Ogata, H. (2026). *[Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing](https://arxiv.org/abs/2607.14575)* (arXiv:2607.14575). LAK '26 Transition Network Analysis Workshop.
 
 ---
 
@@ -46853,7 +46973,8 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 - [[metacognition]]
 - [[agentic-ai]]
 - [[learning-analytics]]
-- [[writing-education]]
+- [[writing-education]]- [[network-analysis]]
+
 ## Connected Articles
 
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
@@ -48554,7 +48675,7 @@ Arthars, N., Yang, H., Hill, M., Liu, D., & Markauskaite, L. (2026). [Young peop
 
 ## [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://edtechdev.github.io/aied/articles/youtube-frames-chatgpt-education/)
 
-Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumbnails, comments) to show how different creator groups frame ChatGPT use in education, revealing divergent narratives around learning support versus academic-integrity risk. The work connects to broader debates about how [[generative-ai]] systems reshape [[student-experience]] and the conditions under which AI support [[scaffolding|scaffolds]] rather than undermines learning. It has direct implications for [[pedagogy-ai-mistakes]] and the risk of [[cognitive-offloading|Over-Reliance]] when assistants absorb too much of the cognitive load. Findings also bear on [[ai-literacy]] and [[self-regulated-learning]], and on how institutions should govern [[student-experience]] and [[academic-integrity]]. Practitioners in [[higher-ed]] and [[teacher-role|teachers]] can use the evidence to calibrate when to deploy [[llm]]-based help and how to pair it with [[feedback|feedback]] that preserves learning gains.
+Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumbnails, comments) to show how different creator groups frame ChatGPT use in education, revealing divergent narratives around learning support versus academic-integrity risk. The work connects to broader debates about how [[generative-ai]] systems reshape [[student-experience]] and the conditions under which AI support [[scaffolding|scaffolds]] rather than undermines learning. It has direct implications for [[pedagogy-ai-mistakes]] and the risk of [[cognitive-offloading|Over-Reliance]] when assistants absorb too much of the cognitive load. Findings also bear on [[ai-literacy]] and [[self-regulated-learning]], and on how institutions should govern [[student-experience]] and [[academic-integrity]]. Practitioners in [[higher-ed]] and [[teacher-role|teachers]] can use the evidence to calibrate when to deploy [[llm]]-based help and how to pair it with [[feedback]] that preserves learning gains.
 
 ## Connected Concepts
 
@@ -48569,7 +48690,8 @@ Uses epistemic network analysis of multimodal YouTube metadata (transcripts, tit
 - [[teacher-role]]
 - [[llm]]
 - [[feedback]]
-- [[multimodal]]
+- [[multimodal]]- [[network-analysis]]
+
 ## Connected Articles
 
 - [[pedagogy-ai-mistakes]]
