@@ -3,12 +3,12 @@ title: "The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-B
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
-tags: [chatgpt, generative-ai, inquiry-based-learning, steam-education, stem-education, systematic-review, problem-based-learning, critical-thinking]
+tags: [chatgpt, generative-ai, inquiry-based-learning, steam-education, stem-education, systematic-review, critical-thinking]
 sources: ['raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This systematic review of 24 empirical studies maps ChatGPT-supported [[problem-based-learning|inquiry-based learning]] in STEAM education across the five inquiry phases. ChatGPT was primarily used during conceptualization, investigation, and discussion — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], engagement, and motivation. But learner-level challenges (over-reliance, hallucination, superficial conclusions) and educator/institutional challenges (curricular misalignment, reduced instructional depth, [[academic-integrity]]) persist. An integrated framework synthesizes ChatGPT's roles, advantages, and challenges across the inquiry phases.
+> **Synthesis:** This systematic review of 24 empirical studies maps ChatGPT-supported [[inquiry-based-learning|inquiry-based learning]] in STEAM education across the five inquiry phases. ChatGPT was primarily used during conceptualization, investigation, and discussion — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], engagement, and motivation. But learner-level challenges (over-reliance, hallucination, superficial conclusions) and educator/institutional challenges (curricular misalignment, reduced instructional depth, [[academic-integrity]]) persist. An integrated framework synthesizes ChatGPT's roles, advantages, and challenges across the inquiry phases.
 
 ## Key Findings
 
@@ -29,7 +29,7 @@ For [[stem-education|STEAM]] and inquiry-based learning, this review positions C
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[problem-based-learning]]
+- [[inquiry-based-learning]]
 - [[stem-education]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]

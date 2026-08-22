@@ -126,3 +126,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review

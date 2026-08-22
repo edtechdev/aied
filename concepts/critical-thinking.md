@@ -74,3 +74,13 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework

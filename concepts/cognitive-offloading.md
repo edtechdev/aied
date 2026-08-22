@@ -174,3 +174,11 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
