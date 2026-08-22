@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies"
 created: "2026-08-09T20:37:26-04:00"
-updated: "2026-08-13"
+updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm, cognitive-offloading]
 
@@ -42,6 +42,7 @@ The study is context-specific (a social network analysis course, LLM-based datas
 - [[scaffolding]]
 - [[learning-analytics]]
 - [[self-regulated-learning]]
+- [[network-analysis]]
 
 ## Connected Articles
 
