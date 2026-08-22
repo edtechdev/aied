@@ -95,3 +95,5 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education

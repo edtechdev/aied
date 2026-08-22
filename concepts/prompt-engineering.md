@@ -67,3 +67,5 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following vs prompt engineering
 - [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education

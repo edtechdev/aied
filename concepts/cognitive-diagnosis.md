@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-22T05:22:00-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 confidence: high
@@ -20,6 +20,15 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 ### Why it matters
 
 Accurate diagnosis lets instruction target the actual gaps rather than a global "ability" score — enabling [[automated-assessment]] that explains *why* a student erred and [[feedback|Feedback Loop]] systems that remediate specific [[student-modeling|knowledge states]]. Poor diagnosis produces the inverse: instruction aimed at the wrong concepts. This is why [[psychometrically-aware-ai]] emphasizes diagnostic validity alongside prediction accuracy.
+
+### Relationship to knowledge tracing and intelligent tutoring
+
+Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architecture and is the assessment-side counterpart of [[knowledge-tracing]]:
+
+- **Diagnosis vs. tracing — complementary temporal views.** [[knowledge-tracing|Knowledge tracing]] tracks the *temporal dynamics* of mastery — estimating how a scalar knowledge state evolves across exercises and predicting the next response. Cognitive diagnosis produces the *static, fine-grained snapshot* of which knowledge components, skills, or misconceptions a learner currently holds. A tutor needs both: knowledge tracing to sequence what to teach next, cognitive diagnosis to know *what* is actually wrong. [[item-response-theory|IRT]]- and [[educational-measurement|measurement]]-based diagnostic models, and cognitive-diagnosis models that map items to multiple components, instantiate the diagnostic side.
+- **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the pedagogical action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
+- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
+- **Separating diagnosis from feedback is a design principle.** LLM tutors reliably confirm correct steps but over-reject valid reasoning and over-validate errors — and accurate diagnosis does not reliably yield actionable [[feedback]]. ITS design should therefore separate a diagnostic component from the feedback/scaffolding component ([[yasir-llm-tutoring-agents-2026]]).
 
 ### Connections
 
@@ -44,6 +53,15 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[llm-student-misconception-identification]] — LLM identification of student misconceptions
 - [[student-math-competence-clustering]] — Clustering for Modelling Student Mathematical Competence
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM concept trees + hierarchical proficiency inference
+- [[yasir-llm-tutoring-agents-2026]] — Separating diagnosis from feedback in LLM tutors
+- [[skill-acquisition-without-temporal-info]] — Diagnosing skill acquisition without temporal information
+- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
