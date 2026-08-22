@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-22T04:44:37-04:00"
+updated: "2026-08-22T04:55:40-04:00"
 type: concept
 tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-interaction, ai-literacy]
 confidence: medium
@@ -20,6 +20,18 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 **Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared regulation, and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work.
 
 **Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[plagiarism-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses.
+
+## Relationship to pedagogical agents and intelligent tutoring
+
+Conversational AI is best understood as an **interaction modality** that overlaps — but does not coincide with — two more established constructs in the wiki: [[pedagogical-agent|pedagogical agents]] and [[intelligent-tutoring|intelligent tutoring systems (ITS)]].
+
+**Conversational AI as the medium, not the pedagogy.** CAI names *how* the agent communicates (natural-language dialogue, spoken or text). It says little on its own about *what* the agent is built to do. Pedagogical agents, by contrast, are defined by their **instructional role** — an AI component that engages learners through dialogue, questions, or prompts to support [[metacognition|metacognitive processes]], [[feedback]], and [[scaffolding]]. [[intelligent-tutoring|Intelligent tutoring systems]] are defined by their **architecture and modeling** — a diagnostic backbone of [[knowledge-tracing]], [[student-modeling|student modeling]], and pedagogical decision logic that tracks what the learner knows and adapts instruction. A single agent can be all three at once: e.g. a [[conversational-ai-tutors-framework|conversational AI tutor]] is a CAI agent (dialogue interface) that functions as a pedagogical agent (tutoring strategies) built on an ITS foundation (student modeling). The distinction matters because a CAI agent need not be pedagogically grounded at all — a plain FAQ chatbot is conversational AI without being a pedagogical agent or a tutor.
+
+**The pedagogical-agent lens.** Pedagogical agents use the conversational medium to enact teaching strategies — eliciting self-assessments, Socratic questioning, role-specialized facilitation in [[agentic-ai|multi-agent]] designs (Teacher, Assistant, Classmate, Analyzer). Not every CAI agent is a pedagogical agent, but the two heavily overlap: the umbrella review of CAI agents found teaching and learning support (97.1%) and metacognitive development (88.2%) dominate CAI applications, meaning most education-focused CAI agents function pedagogically. The [[conversational-agents-novice-programmers-scoping-2025|novice-programmer scoping review]] sharpens this: only 4 of 23 conversational agents explicitly grounded design in learning theory — most were pedagogical in intent but not in foundation.
+
+**The ITS lens.** Intelligent tutoring contributes the *cognitive diagnostic machinery* that raw conversational models lack. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues proven ITS technologies should anchor generative tutors: knowledge tracing, affect detection, and student modeling supply the structure, while [[generative-ai]] and [[llm|LLMs]] supply flexible dialogue. This is the key design tension — conversational AI provides natural, scalable interaction, but without ITS-style structure it risks [[cognitive-offloading|over-scaffolding]], hallucination, or bypassing the learner's productive struggle. Research such as [[measuring-llm-tutors-teach-vs-solve]] and [[tutoring-specific-vs-general-ai]] shows that pedagogy-oriented criteria (guiding questions, calibrated hints) must be designed in explicitly.
+
+**In short:** conversational AI is the **interface/medium**, pedagogical agents are the **role**, and intelligent tutoring is the **underlying modeling and instructional logic**. Educationally valuable CAI agents sit at the intersection of all three — conversational in interface, pedagogical in intent, and tutor-like in their modeling of the learner.
 
 ## Practical guidance
 
