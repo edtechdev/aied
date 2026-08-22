@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-22T06:25:00-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 confidence: high
@@ -77,7 +77,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[math-education]]
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice

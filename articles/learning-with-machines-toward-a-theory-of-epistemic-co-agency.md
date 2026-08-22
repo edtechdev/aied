@@ -1,7 +1,7 @@
 ---
 title: "Learning with machines: Toward a theory of epistemic co-agency"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-13"
+updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [epistemic-agency, ai-literacy, critical-thinking, human-ai-interaction, metacognition, generative-ai, higher-ed, assessment]
 sources: ['raw/papers/10.1016_j.caeai.2026.100573.md']
@@ -39,7 +39,7 @@ As a conceptual paper, the framework has not been empirically tested; the author
 - [[formative-assessment]]
 - [[scaffolding]]
 - [[higher-ed]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy

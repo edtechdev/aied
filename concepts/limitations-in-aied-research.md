@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, methodology, reproducibility, validity, educational-measurement, open-science, ai-ed-evaluation, theory, benchmark]
 confidence: high
@@ -71,7 +71,7 @@ The purpose of this wiki is to help close that gap — to make it easier to keep
 - [[llm]]
 - [[generative-ai]]
 - [[cognitive-offloading]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation

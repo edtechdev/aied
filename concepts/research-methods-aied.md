@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-08-22T06:12:00-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [ai-education, educational-measurement, efficacy-study, rct, benchmark, methodology, evaluation, higher-ed]
 confidence: high
@@ -110,7 +110,7 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - [[higher-ed]]
 - [[limitations-in-aied-research]]
 - [[learning-gains]]
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring

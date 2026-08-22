@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-19T18:13:28-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
@@ -78,7 +78,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[critical-pedagogy]]
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 

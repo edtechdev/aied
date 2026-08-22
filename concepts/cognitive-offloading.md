@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T04:44:37-04:00"
+updated: "2026-08-22T07:08:19-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -97,7 +97,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[formative-assessment]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
+- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[learn-framework-responsible-genai-pbl-2026]]
