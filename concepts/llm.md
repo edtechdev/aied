@@ -74,3 +74,5 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

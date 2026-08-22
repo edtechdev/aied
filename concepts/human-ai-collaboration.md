@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-21T10:45:29-04:00"
+updated: "2026-08-22T04:44:37-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -34,6 +34,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **The mediational agent as a hybrid form of participation.** Rather than a midpoint between tool and collaborator, generative AI is conceptualized as a mediational agent that mediates action while generating contingent, non-accountable contributions — a distinct category that redirects design from technological capability to habits of participation (supervisory agency, epistemic vigilance).^[[mediational-agent-genai-sociocultural-2026]]
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 - **Data-driven trait discovery:** [[principal-trait-analysis-human-ai-skills-2026|Principal Trait Analysis (PTA)]] automates the derivation of interaction "traits" from large LLM-conversation corpora — a PCA-inspired, four-stage pipeline that extracts behavior observations, clusters them into candidate traits, scores each collaborator, and selects the most distinguishing traits. Evaluated on a student–AI-tutor corpus and a developer–coding-agent corpus, PTA finds traits that explain and predict outcomes (e.g. deep conceptual engagement positively, task delegation negatively, in the educational setting), and — because they do not yet generalize across semesters/settings or show learning-curve trajectories — the authors argue the traits are not yet interpretable as "skills." This offers a scalable, objective complement to [[ai-literacy]] frameworks and self-report measures, directly informing how educators teach "AI use skills."
+- **The human–AI relationship as the most persistent concern across CAI generations.** The umbrella review of [[conversational-ai|conversational AI agents]] (Ganguly et al. 2025, 34 reviews) finds human–AI relationship concerns — over-reliance, social isolation, depersonalization, emotional dependency, transparency, accountability — are the most frequently discussed ethical issue across all CAI generations, predating GenAI. This positions the "preserve vs. substitute" question at the very center of CAI ethics and reinforces that collaboration's value is determined by design (who generates, who decides, how responsibility is shared).^[[conversational-ai-agents-umbrella-review-2026]]
 
 ### Connections
 
@@ -90,3 +91,5 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

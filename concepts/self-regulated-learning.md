@@ -142,3 +142,5 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[agentic-ai-pedagogical-best-practice-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

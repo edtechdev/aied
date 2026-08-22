@@ -141,3 +141,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

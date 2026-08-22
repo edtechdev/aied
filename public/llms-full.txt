@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 153 concepts and 794 articles.
+> Complete text of 154 concepts and 795 articles.
 
 # Concepts
 
@@ -116,6 +116,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -1099,6 +1101,8 @@ A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students t
 
 AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical educators and families.
 
+**AI literacy as a core gap in conversational-AI frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.^[[conversational-ai-agents-umbrella-review-2026]]
+
 ### Critical AI literacy: beyond skills to power and resistance
 
 A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
@@ -1274,6 +1278,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -2458,6 +2464,7 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer.
 
 - **Metacognitive training reduces reminder bias (direct empirical evidence):** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the first clear demonstration that a brief intervention can make offloading measurably more optimal. Two preregistered experiments (N=164, N=416) found that **just five practice trials pairing a performance prediction with veridical, trial-by-trial feedback** improved metacognitive calibration and reduced reminder bias. The four-group additive design isolated the mechanism: **predictions alone were ineffective; adding performance feedback drove the improvement; explicitly labeling over-/under-confidence added nothing further**. The effect appeared on *absolute* (not signed) bias — training corrected individual miscalibration in both directions. This empirically validates the beliefs-vs-experiences framework above: it is *experience-targeting feedback*, not beliefs or prediction alone, that changes offloading behavior. The authors attribute success to financial incentive tied to offloading optimality plus immediate veridical feedback.
+- **Over-reliance is the leading ethical concern across all conversational-AI generations.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) reports that human–AI relationship concerns — including over-reliance and the diminution of social interaction — are the **most frequently discussed ethical issue across all CAI generations**, predating GenAI. It also lists educational impact and cognitive concerns (including overreliance and degraded critical thinking) as the second most-discussed challenge category, underscoring that offloading's harm is a persistent, cross-generation theme rather than a GenAI-specific novelty.^[[conversational-ai-agents-umbrella-review-2026]]
 
 ### Over-reliance: when offloading becomes harmful
 
@@ -2581,6 +2588,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -2839,6 +2848,60 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+
+---
+
+## [Conversational AI](https://edtechdev.github.io/aied/concepts/conversational-ai/)
+
+> **Conversational AI (CAI) agents** — AI-driven speech- or text-based agents that simulate and automate conversations, from rule-based chatbots to NLP/ML and multimodal LLM-based assistants — are among the most widely used AI interfaces in education, valued for teaching, psychological, and metacognitive support even as technical, cognitive, and ethical concerns persist.
+
+Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on spoken or written dialogue, most commonly realized as chatbots and, more recently, [[generative-ai|generative]] [[llm|LLM]]-based assistants such as ChatGPT, Claude, and multimodal educational avatars. Modern CAI agents fall into machine-learning-based, NLP-based, and hybrid categories, with text-based agents the most prevalent in education. As learning tools they function as [[intelligent-tutoring|intelligent tutors]], [[feedback]] providers, [[student-ai-interaction|interaction partners]], and administrative assistants — overlapping with [[pedagogical-agent|pedagogical agents]] while spanning a broader set of applications.
+
+## How conversational AI appears in the wiki
+
+**An umbrella-review synthesis.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of CAI agents]] (34 review articles) shows CAI utilization is concentrated in teaching and learning support (97.1% of reviews), psychological and motivational support (91.2%), and [[metacognition|metacognitive]] and personal development (88.2%), while administrative support, research management, and healthcare education lag. The review documents that human–AI relationship concerns persist across all CAI generations, with [[academic-integrity]] and data [[privacy]] emerging as newer ethical issues, and calls for HCI-grounded, evidence-based design and stronger [[ai-literacy]] support.
+
+**From chatbots to tutoring agents.** The wiki traces CAI's evolution from rule-based FAQ chatbots toward [[intelligent-tutoring|tutoring-focused]] [[pedagogical-agent|agents]]. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues proven ITS technologies ([[knowledge-tracing]], affect detection, [[student-modeling|student modeling]]) should anchor generative tutors while [[generative-ai]] supplies flexible dialogue. Research on [[measuring-llm-tutors-teach-vs-solve|whether LLM tutors teach or solve]] and [[tutoring-specific-vs-general-ai|tutoring-specific vs general AI]] shows pedagogically designed guardrails matter: raw general chatbots can short-circuit reasoning while structured tutors preserve [[desirable-difficulties|productive struggle]].
+
+**Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared regulation, and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work.
+
+**Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[plagiarism-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses.
+
+## Practical guidance
+
+Choose conversational agents to support teaching, [[motivation]], and [[metacognition]] rather than merely to answer questions, and design for HCI-grounded, participatory, user-centered interaction. Guard against [[cognitive-offloading|over-reliance]] by pairing CAI with [[ai-literacy]] instruction and [[feedback]] that keeps the learner cognitively productive. Evaluate CAI on pedagogical outcomes — not just task completion — and plan for equity and accessibility from the start rather than as an afterthought.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[pedagogical-agent]]
+- [[generative-ai]]
+- [[llm]]
+- [[human-ai-collaboration]]
+- [[student-ai-interaction]]
+- [[ai-literacy]]
+- [[cognitive-offloading]]
+- [[feedback]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[language-learning]]
+- [[academic-integrity]]
+- [[hallucination-risk]]
+- [[equity-in-ai-education]]
+- [[reducing-ai-misuse]]
+
+## Connected Articles
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
+- [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
+
+## Citation
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
 
 ---
 
@@ -5149,6 +5212,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating LLM-generated math diagrams
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
 ---
 
 ## [Global South](https://edtechdev.github.io/aied/concepts/global-south/)
@@ -5584,6 +5649,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 - **The mediational agent as a hybrid form of participation.** Rather than a midpoint between tool and collaborator, generative AI is conceptualized as a mediational agent that mediates action while generating contingent, non-accountable contributions — a distinct category that redirects design from technological capability to habits of participation (supervisory agency, epistemic vigilance).^[[mediational-agent-genai-sociocultural-2026]]
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 - **Data-driven trait discovery:** [[principal-trait-analysis-human-ai-skills-2026|Principal Trait Analysis (PTA)]] automates the derivation of interaction "traits" from large LLM-conversation corpora — a PCA-inspired, four-stage pipeline that extracts behavior observations, clusters them into candidate traits, scores each collaborator, and selects the most distinguishing traits. Evaluated on a student–AI-tutor corpus and a developer–coding-agent corpus, PTA finds traits that explain and predict outcomes (e.g. deep conceptual engagement positively, task delegation negatively, in the educational setting), and — because they do not yet generalize across semesters/settings or show learning-curve trajectories — the authors argue the traits are not yet interpretable as "skills." This offers a scalable, objective complement to [[ai-literacy]] frameworks and self-report measures, directly informing how educators teach "AI use skills."
+- **The human–AI relationship as the most persistent concern across CAI generations.** The umbrella review of [[conversational-ai|conversational AI agents]] (Ganguly et al. 2025, 34 reviews) finds human–AI relationship concerns — over-reliance, social isolation, depersonalization, emotional dependency, transparency, accountability — are the most frequently discussed ethical issue across all CAI generations, predating GenAI. This positions the "preserve vs. substitute" question at the very center of CAI ethics and reinforces that collaboration's value is determined by design (who generates, who decides, how responsibility is shared).^[[conversational-ai-agents-umbrella-review-2026]]
 
 ### Connections
 
@@ -5640,6 +5706,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -5995,7 +6063,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Use iterative live evaluation to keep improving.** Because LLMs are opaque, treat evaluation as the engine of improvement: instrument a small set of quality and [[student-engagement|engagement metrics]], run live experiments on models, prompting, personalization, and agents, and let data drive changes — the same discipline Khan Academy applies to its K-12 tutor (Khanmigo).^[[ai-tutoring-quality-k12-methodologies-2026]]
 
-**Support the learner's autonomy, competence, and relatedness.** AI tutors work best when they feel like a safe, structured practice space rather than an answer machine. Provide immediate, nonjudgmental [[feedback|feedback]]; scope the tutor to the learner's level so competence is achievable; and preserve learner agency by keeping the tutor a complement to (not a substitute for) other instruction.^[[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
+**Support the learner's autonomy, competence, and relatedness.** AI tutors work best when they feel like a safe, structured practice space rather than an answer machine. Provide immediate, nonjudgmental [[feedback]]; scope the tutor to the learner's level so competence is achievable; and preserve learner agency by keeping the tutor a complement to (not a substitute for) other instruction.^[[instructor-designed-ai-tutors-foreign-language-sdt-2026]]
 
 **Guard against answer disclosure.** The central failure mode of LLM tutoring is giving the answer away, which inflates immediate performance while undermining durable learning. Use Socratic prompting, calibrated hints, and non-disclosive scaffolding — and measure outcomes on unassisted, [[transfer-of-learning|transfer]] tasks, not just in-tool performance.^[[measuring-llm-tutors-teach-vs-solve]]^[[socratic-method]]
 
@@ -6087,6 +6155,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -6893,6 +6963,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
 ---
 
 ## [Math Education](https://edtechdev.github.io/aied/concepts/math-education/)
@@ -7271,6 +7343,8 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[agentic-ai-pedagogical-best-practice-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -7747,7 +7821,7 @@ Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-
 
 > **Synthesis**: Pedagogical agents are AI-driven conversational interfaces embedded in learning environments that use pedagogical strategies (eliciting, telling, scaffolding) to support learner engagement, reflection, and metacognition. Designs vary from simple information providers to interactive dialogue partners that adapt to learner states.
 
-A pedagogical agent is an interactive AI component within a learning system that engages learners through dialogue, questions, or prompts to support cognitive and [[metacognition|metacognitive processes]]. Unlike passive dashboards or static feedback, pedagogical agents employ evidence-based tutoring strategies — such as eliciting learner self-assessments before providing [[feedback|feedback]], or [[scaffolding]] problem-solving through Socratic dialogue. The umbrella now covers everything from a single conversational [[intelligent-tutoring|intelligent tutor]] to fleets of role-specialized [[agentic-ai|agents]] that lecture, mentor, facilitate collaboration, and even orchestrate course generation, all grounded in decades of intelligent-tutoring-systems research.
+A pedagogical agent is an interactive AI component within a learning system that engages learners through dialogue, questions, or prompts to support cognitive and [[metacognition|metacognitive processes]]. Unlike passive dashboards or static feedback, pedagogical agents employ evidence-based tutoring strategies — such as eliciting learner self-assessments before providing [[feedback]], or [[scaffolding]] problem-solving through Socratic dialogue. The umbrella now covers everything from a single conversational [[intelligent-tutoring|intelligent tutor]] to fleets of role-specialized [[agentic-ai|agents]] that lecture, mentor, facilitate collaboration, and even orchestrate course generation, all grounded in decades of intelligent-tutoring-systems research.
 
 ## How pedagogical agents are studied in the wiki
 
@@ -7756,6 +7830,8 @@ A pedagogical agent is an interactive AI component within a learning system that
 **Teaching versus solving behavior.** A central empirical finding is that answer-production is not learning support. [[measuring-llm-tutors-teach-vs-solve|Measuring whether LLM tutors teach or solve]] shows solving and pedagogy scores on tutoring benchmarks correlate only weakly (r = 0.421 across eight models), arguing that benchmarks must report pedagogy-oriented criteria — guiding questions, calibrated hints, non-disclosive scaffolding — separately. This aligns with [[tutoring-specific-vs-general-ai|tutoring-specific vs general AI]] evidence: pedagogically designed tutors with guardrails mitigate the exam-score drops and suppressed reasoning that raw general-purpose chatbots produce, preserving desirable difficulties and productive struggle rather than short-circuiting them. Yet benchmarks can overestimate how well even scaffolded tutors work in the wild. [[rethinking-scaffolding-llm-tutors|Rethinking scaffolding in LLM tutors]] finds that real students frequently bypass a chatbot's pedagogical framing, a rational response to a mismatch between the agent's goals and the learner's own — so uptake must be evaluated, not assumed.
 
 **Role in tutoring and collaboration.** Agents are increasingly positioned not as answer-givers but as facilitators and mediators. [[niari-ai-pedagogical-mediator-collaborative-learning|Niari's pedagogical mediator framework]] reconsiders AI in [[collaborative-learning|collaborative learning]] as an interactional, epistemic, and regulatory mediator — scaffolding participation and shared regulation without displacing teacher or learner agency. Concretely, [[collaborative-ai-tutoring|collaborative AI tutoring (ProPACT)]] treats collaboration itself as the object of instruction, forecasting dyadic breakdowns up to 30 seconds ahead and delivering minimally intrusive scaffolds that preserve [[metacognition]]. [[embodied-inquiry-ai-facilitator-physics-2026|Embodied inquiry with AI as facilitator]] shows an AI can complement hands-on model-building by facilitating application of a constructed model, while [[robot-assisted-language-learning-meta-analysis-2026|robot-assisted language learning meta-analysis]] finds outcomes track how a robotic agent is positioned in instruction (group-based interaction) more than its technical sophistication.
+
+**Where conversational agents are (and aren't) used — the umbrella-review picture.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) quantifies CAI utilization: teaching and learning support (97.1% of reviews), psychological and motivational support (91.2%), and metacognitive and personal development (88.2%) lead, while administrative support (50%), research and information management (52.9%), and healthcare/medical support (41.2%) trail. It also flags that [[conversational-ai|CAI]] research lacks end-to-end design guidance, CAI-specific usability methods, and concrete classroom-orchestration strategies for the teacher's role — reinforcing that pedagogical-agent design must be HCI-grounded, evidence-based, and attentive to [[ai-literacy]].^[[conversational-ai-agents-umbrella-review-2026]]
 
 **Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[eduagentbench-agent-teaching-benchmark|EduAgentBench]] evaluates agents across professional pedagogical judgment, situated multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
 
@@ -7814,6 +7890,8 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 - [[agents-that-teach-incidental-learning]]
 - [[ai-tutor-authoring-promptdecipher]]
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -9611,6 +9689,8 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[agentic-ai-pedagogical-best-practice-2026]]
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ---
 
@@ -22310,6 +22390,59 @@ This AIED 2026 LBR paper identifies a pernicious feedback loop in educational hu
 ## Citation
 
 D, A.K.C.G.S.O. & Results), V.A.L. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372)
+
+---
+
+## [Conversational AI Agents in Education: An Umbrella Review](https://edtechdev.github.io/aied/articles/conversational-ai-agents-umbrella-review-2026/)
+
+> **Synthesis:** This umbrella review (34 review articles, PRISMA 2020) maps how [[conversational-ai|conversational AI (CAI) agents]] are used across education — concentrated in teaching, psychological, and [[metacognition|metacognitive]] support while administrative and research functions lag — and documents that [[human-ai-collaboration|human–AI relationship]] concerns persist across all CAI generations while [[academic-integrity]] and data [[privacy]] emerge as newer ethical issues. It surfaces gaps in CAI frameworks (no end-to-end design guidance, weak CAI-specific usability, unclear classroom implementation) and proposes an ethical-and-responsible-use roadmap grounded in [[ai-literacy]], participatory design, and continuous evaluation.
+
+## Key Findings
+
+1. **A synthesis across a fragmented field.** The umbrella review systematically integrates 34 prior review articles on conversational AI agents in education across five databases, bridging older rule-based chatbot research with the newer [[generative-ai|GenAI]]/[[llm|LLM]] literature to form a cohesive state-of-the-art.
+
+2. **Utilization is heavily pedagogical.** Teaching and learning support (97.1%), psychological/motivational support (91.2%), and metacognitive and personal development (88.2%) dominate, while administrative support (50%), research and information management (52.9%), and healthcare/medical support (41.2%) remain underexplored — pointing to opportunities beyond instructional contexts.
+
+3. **Technical and cognitive concerns dominate.** The most-discussed challenges are technical limitations (97.1%), educational impact and cognitive concerns (91.2%), and interaction/usability challenges (85.3%). As agents shift to GenAI/LLM-based, emphasis moves toward [[hallucination-risk|hallucination]], bias, privacy, and [[plagiarism-detection|plagiarism]] — with accessibility and cultural inclusivity staying secondary.
+
+4. **Human–AI relationship is the persistent ethical thread.** Human–AI relationship concerns (over-reliance, social isolation, depersonalization, transparency, accountability) are the most frequently discussed ethical concern across all CAI generations. [[academic-integrity]] is discussed in only 35.3% of articles, signaling it as a comparatively newer concern.
+
+5. **Framework gaps and a roadmap.** Reviews lack end-to-end design guidance, CAI-specific usability methods, clear classroom implementation and [[teacher-role]] strategies, and AI-literacy support. The proposed roadmap centers foundational [[ai-literacy|AI literacy]] assessment, participatory (HCI-grounded) design, ethical-use guidelines, and continuous evaluation of cognitive impact.
+
+## Implications
+
+For [[intelligent-tutoring]] and [[pedagogical-agent|pedagogical agents]], this review reinforces the finding that conversational agents are valued for teaching and metacognitive support, and that design must be grounded in HCI and empirical evidence rather than fragmented technical implementation. The persistence of [[cognitive-offloading|over-reliance]] concerns as the leading ethical issue connects directly to the wiki's over-reliance and human-AI-collaboration threads, and the call for stronger AI-literacy support aligns with [[ai-literacy]] frameworks and [[reducing-ai-misuse]].
+
+The roadmap's emphasis on participatory design, ethical [[governance]], and continuous cognitive-impact evaluation offers a practical scaffolding for [[educational-policy-ai|policy]] and course/module design. The identified gaps — notably weak CAI-specific usability and unclear classroom orchestration — point to design opportunities for tutors, [[feedback]] systems, and teacher-role integration.
+
+## Connected Concepts
+
+- [[conversational-ai]]
+- [[intelligent-tutoring]]
+- [[pedagogical-agent]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[cognitive-offloading]]
+- [[academic-integrity]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[feedback]]
+- [[equity-in-ai-education]]
+- [[hallucination-risk]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
+- [[ai-student-engagement-online-learning-review-2025]] — AI and student engagement online learning review
+- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-formative assessment
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
+
+## Citation
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions for ethical and responsible use*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
 
 ---
 
