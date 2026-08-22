@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 156 concepts and 815 articles.
+> Complete text of 156 concepts and 816 articles.
 
 # Concepts
 
@@ -652,6 +652,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -1322,6 +1323,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -1387,6 +1389,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
 - [[ssaho-ai-academic-integrity-review-2025]] — AI misuse in academic writing and integrity breaches
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -2682,6 +2685,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -3186,6 +3190,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -5424,6 +5429,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -6051,6 +6057,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -7344,6 +7351,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -7745,6 +7753,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -11534,6 +11543,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -11778,6 +11788,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
 ---
 
@@ -44527,6 +44538,66 @@ Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"
 ## Citation
 
 Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hill, H., & Kasneci, E. (2026). *[From scoring to explanations: Evaluating SHAP and LLM rationales for rubric-based teaching quality assessment](https://arxiv.org/abs/2606.05180)* (arXiv:2606.05180). Findings of ACL 2026.
+
+---
+
+## [Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender](https://edtechdev.github.io/aied/articles/shaw-nave-cognitive-surrender-2026/)
+
+> **Synthesis:** Shaw & Nave (2026) introduce **Tri-System Theory**, extending dual-process accounts of reasoning (System 1 intuition, System 2 deliberation) with **System 3 — artificial cognition that operates outside the brain**. A key prediction is **cognitive surrender**: adopting AI outputs with minimal scrutiny, overriding intuition and deliberation. Across three preregistered experiments (N = 1,372; 9,593 trials), participants consulted an AI assistant on a majority of trials; accuracy rose +25 pp when AI was accurate and fell −15 pp when it erred, and engaging System 3 increased confidence even after errors. This is a foundational [[theory-development-aied|theory-building]] contribution that distinguishes cognitive surrender from [[cognitive-offloading]], and reframes the wiki's [[ai-misuse-learning-harm|over-reliance]] and [[critical-thinking]] threads by showing a distinct, deeper abdication of evaluative control to AI.
+
+## Key Findings
+
+1. **System 3 (artificial cognition) extends the dual-process model.** Tri-System Theory posits a third cognitive system — external, automated, data-driven reasoning from AI — that can supplement, supplant, or suppress System 1 and System 2, placing decision-making in a triadic cognitive ecology.
+2. **Cognitive surrender is the uncritical adoption of AI outputs.** Distinct from strategic [[cognitive-offloading]], surrender is a deeper abdication of critical evaluation where the user adopts the AI's judgment as their own. Across incorrect-AI trials, 73.2% showed surrender vs. 19.7% offloading.
+3. **AI access shifts accuracy and confidence together.** Accuracy rose +25 pp with accurate AI and fell −15 pp with faulty AI (Cohen's h = 0.81); System 3 engagement also increased confidence even after errors.
+4. **Surrender persists across situational moderators.** Time pressure and incentives+feedback shifted baselines but did not eliminate the large gap between accurate and faulty AI advice (OR = 14.28 / 11.05).
+5. **Susceptibility varies by individual differences.** Higher [[trust|trust in AI]] increased surrender (OR = 2.81); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) were protective.
+
+## Tri-System Theory
+
+Dual-process theories (System 1 = fast, intuitive, affective; System 2 = slow, deliberative, analytical) presume cognition is confined to the biological mind. Tri-System Theory introduces **System 3**: external, automated, data-driven reasoning originating from algorithmic systems, operating through statistical inference, pattern recognition, and machine learning. System 3 is an active participant in cognition — supplying fast answers (suppressing System 1), circumventing effortful thinking (short-circuiting System 2), and scaffolding reasoning (feeding candidate options into System 2 or flagging contradictions for re-evaluation). Decision-making thus unfolds in a triadic cognitive ecology where external algorithmic cognition can supplant, suppress, or augment internal processes.
+
+## Cognitive surrender vs. cognitive offloading
+
+**Cognitive surrender** is the decision-maker no longer constructing an answer but adopting one generated by an external system — relinquishing cognitive control and adopting the AI's judgment as their own. It is conceptually distinct from **[[cognitive-offloading]]** (strategically outsourcing a discrete task, e.g., using a calculator). Surrender reflects passive trust and uncritical evaluation of external information; offloading involves strategic delegation during deliberation. On incorrect-AI trials across studies: 73.2% surrender, 19.7% offloading, 7.1% failed overrides. Incentives + feedback increased offloading to 37.1% and reduced surrender to 57.9%; time pressure cut offloading to 6.2%.
+
+## Experimental findings
+
+Three preregistered experiments used an adapted Cognitive Reflection Test with AI accuracy randomized via hidden seed prompts (N = 1,372; 9,593 trials):
+- Participants consulted the AI on a majority of trials (>50%).
+- Trial-level synthesis: correct responding was over 16× greater when System 3 was correct (OR = 16.07); Cohen's h values were large (0.83, 0.86, 0.78).
+- Time pressure reduced accuracy across conditions; incentives + feedback improved it. Neither eliminated cognitive surrender (the AI-Accurate vs. AI-Faulty gap persisted).
+- Individual differences: higher trust in AI → more surrender (OR = 2.81) and more surrender over offloading (OR = 4.36); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) → more resistance and offloading.
+
+## Implications for AI in education
+
+The paper reframes the wiki's understanding of AI-related cognitive risk. It distinguishes **cognitive surrender** (uncritical adoption) from **[[cognitive-offloading]]** (strategic delegation) and from the momentary "over-reliance" captured elsewhere — offering a more precise vocabulary for [[ai-misuse-learning-harm|AI misuse harm]] and [[critical-thinking]] erosion. It connects to [[absent-cognitive-baseline-2026|the absent cognitive baseline]] (both theorize how AI reshapes independent cognition) and to [[epistemic-proactivity-math|epistemic proactivity]] (which values learners' active, self-directed engagement over passive acceptance). The authors frame the vulnerabilities as a **design and education challenge**: [[feedback]], incentives, confidence scores, and uncertainty indicators can help users engage deliberate reasoning (System 2) without losing System 3's efficiency gains. For [[ai-literacy|AI and digital literacy]], the implication is teaching users when and how to trust — and when to override — AI outputs, rather than simply teaching tool use, a central concern for [[ai-education|AI-mediated education]].
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[trust]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[ai-misuse-learning-harm]]
+- [[generative-ai]]
+- [[llm]]
+- [[agency]]
+- [[human-in-the-loop-ai]]
+- [[theory-development-aied]]
+
+## Connected Articles
+
+- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency-gain illusion and AI overreliance
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+- [[absent-cognitive-baseline-2026]] — The absent cognitive baseline
+- [[epistemic-proactivity-math]] — Epistemic proactivity in AI-supported math learning
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion with GenAI
+
+## Citation
+
+Shaw, S. D., & Nave, G. (2026). [Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender. *SSRN Working Paper*](https://ssrn.com/abstract=6097646).
 
 ---
 
