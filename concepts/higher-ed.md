@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T09:21:26-04:00"
+updated: "2026-08-21T20:28:43-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -149,4 +149,3 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning

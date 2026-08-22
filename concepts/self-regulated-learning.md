@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-21T10:44:03-04:00"
+updated: "2026-08-21T20:28:43-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -139,4 +139,3 @@ For example:
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[student-perceptions-ai-study-tools-2026]] — Students' Perceptions of AI Tools for Study Productivity and Learning
