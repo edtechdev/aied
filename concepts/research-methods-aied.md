@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-22T06:12:00-04:00"
 type: concept
 tags: [ai-education, educational-measurement, efficacy-study, rct, benchmark, methodology, evaluation, higher-ed]
 confidence: high
@@ -45,11 +45,13 @@ Mixed-methods studies combine quantitative and qualitative strands — often seq
 
 ### Design-based research (DBR)
 
-DBR iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice. It is prominent in the wiki for developing AI learning environments and pedagogical models.
+DBR iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice. It is prominent in the wiki for developing AI learning environments and pedagogical models. A canonical AIEd example is the AI-Assisted Collaborative Learning model study ([[ai-assisted-collaborative-learning-model-dbr|Putra et al.]]), which ran a four-phase DBR cycle — needs analysis, model design, eight-week classroom implementation, and model refinement — iterating on a four-stage learning cycle (problem identification → AI-assisted collaborative inquiry → collaborative problem-solving → reflection and presentation). Other exemplars develop AI-literacy teacher training ([[genai-literacy-training-teacher-education-dbr-2026]]) and GenAI scaffolding for critical thinking ([[critical-thinking-genai-scaffolding]]).
 
-- **Strengths:** high ecological validity and practical relevance; produces both usable artifacts and theory; responsive to the complexity of real classrooms and evolving AI tools.
-- **Limitations:** weak internal validity; findings are context-bound and hard to generalize; long timelines; difficult to isolate which design element caused an outcome.
-- **Exemplars:** [[ai-assisted-collaborative-learning-model-dbr]], [[genai-literacy-training-teacher-education-dbr-2026]], [[critical-thinking-genai-scaffolding]].
+- **Strengths:** high ecological validity and practical relevance; produces both usable artifacts and theory; responsive to the complexity of real classrooms and evolving AI tools; well-suited to developing a model and refining it based on authentic implementation evidence.
+- **Limitations:** weak internal validity (few/no control groups); findings are context-bound and hard to generalize; long timelines; difficult to isolate which design element caused an outcome — DBR demonstrates feasibility and improvement but cannot attribute learning gains to a specific mechanism.
+- **Exemplars:** [[ai-assisted-collaborative-learning-model-dbr]], [[genai-literacy-training-teacher-education-dbr-2026]], [[critical-thinking-genai-scaffolding]], [[human-centered-ai-teacher-educators-2026]].
+
+DBR trades the causal control of [[rct|experiments]] for ecological authenticity and iterative refinement: it is the right tool for "how do we design this AI learning environment to work in practice?" questions, and its evidence is strongest as proof-of-concept and design guidance rather than causal efficacy. Reading DBR learning gains requires the same [[limitations-in-aied-research|caution]] as other designs — without an unassisted, controlled outcome measure, gains can reflect the same AI-inflated-performance confound documented under [[learning-gains|learning gains]].
 
 ### Systematic reviews and meta-analyses
 
@@ -107,6 +109,7 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - [[ai-education]]
 - [[higher-ed]]
 - [[limitations-in-aied-research]]
+- [[learning-gains]]
 
 ## Connected Articles
 
