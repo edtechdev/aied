@@ -139,3 +139,5 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

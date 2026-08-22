@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 154 concepts and 795 articles.
+> Complete text of 154 concepts and 796 articles.
 
 # Concepts
 
@@ -836,6 +836,8 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ---
 
@@ -2591,6 +2593,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Collaborative Learning](https://edtechdev.github.io/aied/concepts/collaborative-learning/)
@@ -2752,6 +2756,8 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[game-based-gamified-robotics-education-review-2026]]
 - [[solving-vs-evaluating-genai-solutions]]
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Constructivism](https://edtechdev.github.io/aied/concepts/constructivist/)
@@ -2898,6 +2904,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
 - [[rethinking-scaffolding-llm-tutors]] — Rethinking scaffolding in LLM tutors
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ## Citation
 
@@ -3067,6 +3074,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 ### AI in CS education
 
 - **Code generation and completion:** [[code-review-genai-cs1|CS1 code review]], [[dura-llm-cs2|DURA for CS2]], and [[prompt-problems-nl-programming-mistakes|NL programming mistakes]] examine how students use AI for code generation and what they learn from it.
+- **Conversational agents for novices (scoping review):** [[conversational-agents-novice-programmers-scoping-2025|Barzanji & Loitsch (2025)]] map 23 studies (2019–June 2024) of [[conversational-ai|conversational agents]] for novice programmers, documenting a shift from rule-based chatbots to [[llm|LLM]]- and [[rag|RAG]]-based agents (with [[rag|retrieval-augmented generation]] reducing hallucination) and personalized tutoring support (e.g., InfoBot, ProbSol-Bot, Lint Bot, Profe Alex). Notably, only 4 of 23 studies ground design in learning theory, and 17 of 23 prototypes are English-only despite most research originating outside English-speaking countries — flagging weak pedagogical grounding and an inclusivity gap for future CA design in introductory programming.
 - **Debugging support:** [[debugtracker-classroom-debugging|Debugging tools]], [[chat-debugging-human-ai-collaboration-circuits|human-AI debugging collaboration]], and [[golrang-propact-pair-programming-2026|dyadic pair-programming modeling]] leverage AI for error identification and repair.
 - **Automated assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]], [[llm-automated-grading-programming-comparison-2026|a large-scale 18-model grading comparison]], and [[llm-intervention-design-cs-review|LLM intervention review]] evaluate automated code assessment.
 - **AI-generated learning media:** [[ai-generated-traces-novice-programmers|Generated Animated Traces]] show that AI-generated visualizations can aid immediate learning but must be personalized — mid-engagement students experienced a performance decrement consistent with the expertise-reversal effect.
@@ -3198,6 +3206,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ai-engineering-computing-workforce-grey-literature-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ---
 
@@ -4427,6 +4437,8 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Ethics in AI Education](https://edtechdev.github.io/aied/concepts/ethics/)
@@ -4828,6 +4840,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Formative Assessment in AI Education](https://edtechdev.github.io/aied/concepts/formative-assessment/)
@@ -5213,6 +5227,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ---
 
@@ -6158,6 +6174,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Item Response Theory](https://edtechdev.github.io/aied/concepts/item-response-theory/)
@@ -6965,6 +6983,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Math Education](https://edtechdev.github.io/aied/concepts/math-education/)
@@ -7346,6 +7366,8 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Motivation](https://edtechdev.github.io/aied/concepts/motivation/)
@@ -7552,6 +7574,8 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ---
 
@@ -7892,6 +7916,8 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ---
 
@@ -8944,6 +8970,8 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [RCT](https://edtechdev.github.io/aied/concepts/rct/)
@@ -9424,6 +9452,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
 ---
 
 ## [Self-Determination Theory](https://edtechdev.github.io/aied/concepts/self-determination-theory/)
@@ -9691,6 +9721,8 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[agentic-ai-pedagogical-best-practice-2026]]
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 ---
 
@@ -22390,6 +22422,60 @@ This AIED 2026 LBR paper identifies a pernicious feedback loop in educational hu
 ## Citation
 
 D, A.K.C.G.S.O. & Results), V.A.L. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372)
+
+---
+
+## [Exploring Conversational Agents for Novice Programmers: A Scoping Review](https://edtechdev.github.io/aied/articles/conversational-agents-novice-programmers-scoping-2025/)
+
+> **Synthesis:** This PRISMA-ScR scoping review (23 studies, 2019–June 2024) maps [[conversational-ai|conversational agents]] for novice programmers, finding the field shifting from rule-based chatbots toward [[llm|LLM]]- and [[rag|RAG]]-based agents — yet only 4 of 23 studies ground design in [[scaffolding|learning theory]]. It flags a major [[equity-in-ai-education|inclusivity]] gap (17 of 23 prototypes English-only despite most research originating outside English-speaking countries) and weak, non-standardized evaluation, and offers design recommendations for [[cs-education|introductory programming education]].
+
+## Key Findings
+
+1. **23 studies, PRISMA-ScR.** The review screened 743 citations to select 23 studies on educational conversational agents for novice programmers (January 2019–June 2024), with research peaking in 2022.
+
+2. **A technological shift toward LLMs and RAG.** Prototypes moved from rule-based/scripted systems (n=9) to LLM-based (n=8) and retrieval-augmented/hybrid (n=2) architectures — integrating open-source models, [[rag|retrieval-augmented generation]] to reduce [[hallucination-risk|hallucination]], and flexible pipelines that align technical sophistication with pedagogical adaptability.
+
+3. **Sparse [[learning-theories|pedagogical grounding]].** Only 4 of 23 studies explicitly apply [[learning-theories|learning theories]] (Vygotskian dialogue, the 4C/ID model, [[scaffolding]] techniques, gamification). Without theory-informed design, these tools risk bypassing critical and [[computational-thinking|algorithmic thinking]] development — surfacing a persistent gap between CA development and [[pedagogy]].
+
+4. **Weak and heterogeneous evaluation.** 15 of 23 studies used experimental designs, but most relied on subjective post-usage surveys/interviews; only three used objective pre/post-test designs. Quality was mostly Moderate (none of 17 quasi-experimental studies rated High), limiting causal claims.
+
+5. **English-only dominance creates an inclusivity barrier.** Though most studies originated outside English-speaking countries, 17 of 23 prototypes were English-only; multilingual support (Pynar, Pyo, Profe Alex) remains rare, and only 2 of 23 studies addressed gender representation.
+
+## Implications
+
+For [[cs-education|introductory programming education]], this review shows conversational agents are increasingly viable as [[intelligent-tutoring|personalized tutors]] offering [[feedback]] and adaptive guidance, but their effectiveness hinges on grounding in [[scaffolding|pedagogical theory]] rather than technical novelty alone. The recommendation to integrate [[instructional-design|instructional-design principles]], [[cognitive-offloading|cognitive-load]] management, and formative feedback into modular, educator-customizable templates connects directly to the wiki's [[pedagogical-agent]] and [[conversational-ai]] threads.
+
+The inclusivity findings reinforce that [[equity-in-ai-education|language and gender equity]] must be designed-in — multilingual support and gender-neutral, inclusive interaction — rather than treated as afterthoughts. The call for standardized evaluation frameworks (usability + long-term learning outcomes + cognitive engagement) and for interdisciplinary collaboration (education, CS, HCI, psychology) aligns with [[ai-ed-evaluation]] concerns across the wiki. The "vibe coding" collaborative pattern connects to [[gaide-vibe-coding-k12-teachers|vibe coding]] work.
+
+## Connected Concepts
+
+- [[conversational-ai]]
+- [[pedagogical-agent]]
+- [[intelligent-tutoring]]
+- [[cs-education]]
+- [[scaffolding]]
+- [[feedback]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
+- [[multimodal]]
+- [[equity-in-ai-education]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[gaide-vibe-coding-k12-teachers]] — Vibe coding framework for K-12 teachers
+- [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+## Citation
+
+Barzanji, C., & Loitsch, C. (2025). [*Exploring conversational agents for novice programmers: a scoping review*](https://doi.org/10.1007/s44163-025-00521-4). *Discover Artificial Intelligence*, 5, 271.
 
 ---
 

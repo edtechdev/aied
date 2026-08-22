@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-22 | **Total pages:** 949
+**Last updated:** 2026-08-22 | **Total pages:** 950
 ---
 ## Concepts
 
@@ -263,6 +263,7 @@
 - [[constructivist]] — Constructivism
 - [[context-based-ai-secondary-chemistry-2026]] — Using Context-Based and AI-Enhanced Approaches to Improve Student Engagement and Achievement in Secondary Chemistry Education
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
+- [[conversational-agents-novice-programmers-scoping-2025]] — Exploring Conversational Agents for Novice Programmers: A Scoping Review
 - [[conversational-ai]] — Conversational AI
 - [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
 - [[conversational-ai-informal-learning]] — Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning

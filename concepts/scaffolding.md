@@ -74,3 +74,5 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers

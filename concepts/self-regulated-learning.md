@@ -144,3 +144,5 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[agentic-ai-pedagogical-best-practice-2026]]
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
