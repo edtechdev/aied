@@ -60,6 +60,8 @@ For each new relevant paper:
 
 5. **Run the inline-link pass (mandatory, HARD GATE)** — Load the `wiki-inline-links` skill and run the full linking pass on every newly created/enriched article and concept page: aggressively link every concept mention in the narrative body (including conceptually-similar phrases — e.g. "critical analysis"→`[[critical-thinking]]`, "AI tutors"→`[[intelligent-tutoring]]`, "human oversight"→`[[human-in-the-loop-ai]]`, "teachers"/"educators"→`[[teacher-role]]`) to the matching concept page, and clean up self-links, links inside `##` headings, and same-text links `[[slug|slug]]`. Verify 0 self-links, 0 heading links, balanced brackets, and 0 broken links before proceeding. **This is a BLOCKING PREREQUISITE — do NOT build/commit/push/deploy until the linking pass is run AND verified on every newly created/enriched page. A green build does NOT substitute for this editorial step.**
 
+5b. **Run the list-formatting check (mandatory, HARD GATE)** — Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` and fix every reported page by removing the blank line between consecutive ordered-list items (blank-line-separated items render each as `1.`). Verify 0 defects before proceeding. A green build does NOT catch this.
+
 6. **Append to log.md** — date, sources, paper list, tags
 
 7. **Regenerate journal.md** — extract frontmatter from all article pages, group by `created`, newest first
