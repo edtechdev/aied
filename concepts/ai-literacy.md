@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-22T04:44:37-04:00"
+updated: "2026-08-22T17:10:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -222,3 +222,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+

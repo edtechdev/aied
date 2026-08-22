@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-22 | **Total pages:** 967
+**Last updated:** 2026-08-22 | **Total pages:** 968
 ---
 ## Concepts
 
@@ -851,6 +851,7 @@
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results
 - [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
+- [[strydom-human-gai-paradigms-2026]] — Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks
 - [[student-ai-interaction]] — Student-AI Interaction
 - [[student-cheat-sheets-make-or-take]] — Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets

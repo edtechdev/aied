@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-08-22T07:25:00-04:00"
+updated: "2026-08-22T17:10:00-04:00"
 type: concept
 tags: [theory, learning-theories, theory-building, conceptual-framework, ai-education, limitations-in-aied-research, research-methods-aied]
 confidence: medium
@@ -23,6 +23,7 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 - **Epistemic AI literacy (EAIL).** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Epistemic AI Literacy]] reframes AI literacy as a process-oriented epistemic competence centered on how knowledge is constructed and justified when students co-program with generative AI.
 - **Cognitive stewardship.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] theorizes the institutional responsibility for protecting knowledge and learning in AI-pervasive assessment contexts.
 - **Co-regulation and epistemic proactivity.** [[ai-cognitive-partner-co-regulation-learning|AI as a cognitive partner in co-regulation]] integrates executive function, [[metacognition]], distributed cognition, and sociocultural development into a developmental model; [[epistemic-proactivity-math|epistemic proactivity]] theorizes students' agentic stance toward AI in mathematics.
+- **Human-GAI engagement paradigms.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] addresses the field's "theory deficit" by grounding seven enacted human-GAI engagement paradigms (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, equity) in Schommer's multidimensional model of personal epistemological beliefs — an epistemological, rather than tool-focused, theory of how individuals differently position themselves relative to AI.
 
 ## Advancing established theory
 
@@ -61,6 +62,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[credential-cognitive-stewardship-ai-assessment]] — Credential and cognitive stewardship
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulation
 - [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
+- [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms grounded in epistemological beliefs
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI

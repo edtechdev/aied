@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-08-22T17:10:00-04:00"
 type: concept
 tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
@@ -97,3 +97,5 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[videla-embodied-ai-education-choreography]]
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+
