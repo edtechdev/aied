@@ -50806,11 +50806,10 @@ Zhu, H., Jiang, X., Zhang, X., Xu, H., Su, D., Chen, Z., & Zhu, X. (2026). [*Fos
 
 ## Key Findings
 
-1. **Four polycentric power centers shape instructor perceptions.** Instructors' views and practices are not uniform but shaped by orientation to four centers: the global trend of GenAI, the university and department, colleagues, and students.
-2. **The global trend is seen as inescapable.** All instructors recognized GenAI as "the reality" — inevitable and "never going away" — motivating them to adjust teaching and "stay a step ahead" of students, though views differed on its effectiveness and [[ethics]].
-3. **Institutional and disciplinary variation.** Departments varied from having general [[educational-policy-ai|AI policies]] (requiring syllabus AI statements, allowing instructor-specific design) to having no policy at all. Disciplinary differences emerged: liberal-arts and [[business-education|business schools]] were more open to GenAI; psychology was less interested. Contingent/adjunct faculty felt constrained by limited autonomy.
-4. **Students are the direct driver.** All instructors observed student GenAI use (some estimating 80–90% of students), creating pressure to "be on top of [[ai-literacy|AI literacy]]." Concerns included difficulty evaluating real [[writing-education|writing]] proficiency, student "laziness"/over-reliance, the widening [[digital-divide]], and whether assignments evaluated writing or digital literacy.
-5. **Instructors updated practices to retain authority and promote accountability.** Common strategies included emphasizing the writing process over the final product (reflections, more conferences, multiple revisions), open conversations about GenAI's limitations, and clarifying how GenAI may be used in each class.
+1. **Four polycentric power centers shape instructor perceptions.** Instructors' views and practices are not uniform but shaped by their orientation to four centers of authority: the global impact of GenAI, the university/department, colleagues, and students — each explored in detail below.
+2. **The global trend is seen as inescapable.** All instructors recognized GenAI as "the reality" — inevitable and "never going away" — motivating them to adjust teaching and "stay a step ahead" of students, though views differed on its effectiveness and ethics.
+3. **Instructors updated practices to retain authority and promote accountability.** Across the four centers, instructors responded by emphasizing the writing process over the final product (reflections, more conferences, multiple revisions), holding open conversations about GenAI's limitations, and clarifying how GenAI may be used in each class.
+4. **The shift is from detection toward teaching acceptable use.** Rather than relying on detection, instructors moved toward guiding responsible GenAI use and promoting student accountability — while flagging persistent equity concerns (the digital divide).
 
 ## Theoretical framing: scale and polycentricity
 
