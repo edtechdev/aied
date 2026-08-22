@@ -1,6 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-21 | **Total entries:** 909
+**Last updated:** 2026-08-22 | **Total entries:** 910
+
+## 2026-08-22
+
+- ● [[prior-knowledge]] — 
+  Prior Knowledge
+  #prior-knowledge #learning-theory #cognitive-load #constructivist #personalized-learning #scaffolding #student-modeling #instructional-design #metacognition
 
 ## 2026-08-21
 
