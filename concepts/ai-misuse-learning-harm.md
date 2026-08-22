@@ -68,4 +68,5 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
 - [[ssaho-ai-academic-integrity-review-2025]] — AI misuse in academic writing and integrity breaches
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
