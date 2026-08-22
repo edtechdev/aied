@@ -8,28 +8,28 @@ sources: ['raw/papers/agentic-ai-pedagogical-best-practice-2026.md']
 confidence: high
 ---
 
-> Education AI is shifting from passive chatbots to **proactive agents** that initiate and pursue goals. This offers personalisation but risks undermining **learner agency and cognitive effort**. The paper walks each of six pedagogical principles through what agentic initiative does to it:
+> Education AI is shifting from passive chatbots to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers personalisation but risks undermining **learner [[agency]] and cognitive effort**. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it:
 
-> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
+> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
 
 ## The tension: automation vs. learning
 
-Education AI is shifting from passive chatbots to **proactive agents** that initiate and pursue goals. This offers personalisation but risks undermining **learner agency and cognitive effort**. The paper walks each of six pedagogical principles through what agentic initiative does to it:
+Education AI is shifting from passive chatbots to **proactive agents** that initiate and pursue goals. This offers [[personalized-learning|personalisation]] but risks undermining **learner agency and cognitive effort**. The paper walks each of six pedagogical principles through what agentic initiative does to it:
 
 | Principle | Agentic-AI risk |
 |---|---|
 | Prior knowledge activation | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge |
-| Collaborative learning | Agent initiative crowds out peer negotiation and role-taking |
-| Problem-based learning | Goal-directed agents resolve problems before learners grapple with them |
-| Formative assessment | Agent-generated feedback pre-empts learners' own self-assessment loops |
+| [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
+| [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
+| Formative assessment | Agent-generated [[feedback]] pre-empts learners' own self-assessment loops |
 | Scaffolding | Automated scaffolds stay static instead of being dynamically withdrawn |
-| Metacognition | Agent initiation displaces the learner's own planning, monitoring, evaluation |
+| [[metacognition]] | Agent initiation displaces the learner's own planning, monitoring, evaluation |
 
 ## Design recommendations
 
 1. **Intentional friction** — deliberately preserve productive struggle instead of maximising smoothness (cf. [[desirable-difficulties]]: difficulty that supports learning)
-2. **Dynamic scaffolding** — scaffolds that adapt and fade as competence grows
-3. **Human-in-the-loop oversight** — learners and educators retain control over agent initiation
+2. **Dynamic scaffolding** — [[scaffolding|scaffolds]] that adapt and fade as competence grows (cf. [[self-regulated-learning|self-regulation]])
+3. **Human-in-the-loop oversight** — learners and educators retain control over agent initiation ([[human-in-the-loop-ai]])
 4. **Considered AI utilisation** — purposeful, pedagogically justified agent use rather than maximal automation
 
 ## Connected Concepts
