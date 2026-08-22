@@ -23530,13 +23530,9 @@ Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). [CourseGraph
 ## Key Findings
 
 1. **The boundary–evidence asymmetry.** Across 30 audited university policy packages, the mean **delegation-boundary score was 2.47/4** but the mean **evidence-standard score was only 1.89/4** — 22 policies scored higher on boundary than evidence, 3 tied, and only 5 reversed the gap. Public guidance draws lines around what AI *may* do more often than it explains what evidence of learning must *remain*.
-
 2. **Safeguards are present but sparse.** Packages contained a mean of **2.75 of 8 possible safeguards**: privacy was most visible (67%), followed by detection caution (47%), accessibility (42%), appeal/due process (33%), tool-access equity (32%), vendor governance (29%), non-AI alternatives (22%), and workload/proportionality (4%). Institutions ask for disclosure more often than they provide protection, recourse, or alternatives.
-
 3. **Policies are clearest for final-output substitution.** Substitution averaged **2.49/4** actionability with clear answers in **83%** of packages, while the other five scenarios (access, [[feedback]] support, process, output-verification, programming workflow) ranged from 1.17 to 2.32. Guidance is strongest when AI use resembles cheating and weakest when it resembles learning support or authentic professional workflow.
-
 4. **Output-verification support is the thinnest scenario.** Only **23%** of packages directly covered the capacity to inspect, challenge, and correct AI output — arguably one of the strongest reasons to teach with AI. Only **31%** required evidence connecting access support back to the assessed claim.
-
 5. **Four policy archetypes.** Nine packages were higher-clarity (connecting permission to evidence and safeguards), four were boundary-forward (visible AI-use categories with thin evidence/safeguards), eight had limited evidence visibility, and nine were partially connected. The framework identifies a design gradient, not a compliant/noncompliant binary.
 
 ## The educational delegation problem
