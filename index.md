@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-21 | **Total pages:** 944
+**Last updated:** 2026-08-22 | **Total pages:** 945
 ---
 ## Concepts
 
@@ -110,6 +110,7 @@
 - [[philosophy-of-ai-in-education]] — Philosophy of AI in Education
 - [[physics-education]] — Physics Education
 - [[plagiarism-detection]] — AI Plagiarism Detection
+- [[prior-knowledge]] — Prior Knowledge
 - [[privacy]] — Privacy in AI Education
 - [[problem-based-learning]] — Problem-Based Learning
 - [[professional-training]] — Professional Training and AI
