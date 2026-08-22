@@ -135,10 +135,11 @@ Want to set up your own automated research wiki for a different domain? Everythi
 - **`tooling/SCHEMA.md`** — Domain, tag taxonomy, and page conventions
 - **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
-- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan), each enforcing the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy)
+- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan), each enforcing the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy) and the **list-formatting HARD GATE** (run `check_list_formatting.py` before build)
 - **`tooling/example/`** — Starter wiki files to get going quickly
 - **`tooling/config.example.yaml`** — Scan configuration for customization
+- **`skills/research/wiki-inline-links/`** — Mirrored Hermes skill: term→slug scanner (`inline_link_scan.py`) + list-formatting checker (`check_list_formatting.py`)
 
-The repo's **AGENTS.md** documents the page-structure rules and the inline-link HARD GATE that agents must follow on every ingestion. The **`wiki-inline-links`** skill (term→slug dictionary + scanner) enforces aggressive concept-linking in every new/enriched page's narrative before the site is built.
+The repo's **AGENTS.md** documents the page-structure rules and the inline-link HARD GATE that agents must follow on every ingestion. The **`wiki-inline-links`** skill (term→slug dictionary + scanner + `check_list_formatting.py`) enforces aggressive concept-linking in every new/enriched page's narrative — and catches the recurring numbered-list blank-line bug — before the site is built.
 
-Just copy the `tooling/` directory into a new repo, follow the README, and you'll have your own research wiki in ~15 minutes. No API keys required.
+Just copy the `tooling/` **and `skills/`** directories into a new repo, follow the README, and you'll have your own research wiki in ~15 minutes. No API keys required.

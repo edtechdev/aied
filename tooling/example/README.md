@@ -23,6 +23,8 @@ Then replace the placeholder dates and content with your own.
 
 After creating/enriching any page, run the inline-link pass (see the `wiki-inline-links` skill): hyperlink every concept mentioned in the body narrative to its concept page, and verify 0 self-links / 0 heading links / balanced brackets / 0 broken links **before** `npm run build`. A green build does not substitute for this pass.
 
+Also run the **list-formatting check** (`python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all`) and fix any page whose ordered-list items are separated by blank lines (they render as repeated `1.`). A green build does not catch this.
+
 ## Site build
 
 The wiki is published as an Astro static site. After adding content:
