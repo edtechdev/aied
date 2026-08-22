@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-08-22T07:15:00-04:00"
+updated: "2026-08-22T16:45:00-04:00"
 type: concept
 tags: [policy, ethics, higher-ed, institutional-change, privacy, responsible-ai, regulation, ai-education]
 confidence: high
@@ -40,6 +40,10 @@ AI governance operates at multiple levels — from **national/regulatory** (gove
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to institutional change and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
 
 **Governing the cognitive commons.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) frames expertise regeneration as a profession-level collective-action problem requiring Ostrom-style governance (boundary definition, monitoring, graduated sanctions, collective choice). AI governance is thus not only about tool regulation but about sustaining the shared expertise pool professions need — at organizational, professional-association, and policy levels.
+
+### Relationship to educational policy
+
+Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, this page focuses on the *structures and practices* that make rules real — steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
 ## Connected Concepts
 
