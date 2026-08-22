@@ -7194,6 +7194,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 AI may alter the **metacognitive threshold** for deciding one knows enough to answer: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] found that mere access to AI advice suppressed people's willingness to suspend judgment under uncertainty, even with wrong advice and accuracy incentives — an effect that survived unsolicited AI output and monetary stakes.
 
+Proactive agentic AI can displace the learner's own metacognitive loop: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] argue that when agents pre-fetch, initiate, and self-correct, the agent's planning, monitoring, and evaluation replace the learner's, removing the retrieval practice and self-monitoring that desirable difficulties and metacognitive training depend on.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -7257,6 +7259,7 @@ AI may alter the **metacognitive threshold** for deciding one knows enough to an
 - [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[agentic-ai-pedagogical-best-practice-2026]]
 
 ---
 
@@ -9163,6 +9166,8 @@ Equally important is reading any single study with awareness of the **cross-cutt
 
 Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
 
+Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for agentic AI.
+
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -9204,6 +9209,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[agentic-ai-pedagogical-best-practice-2026]]
 
 ---
 
@@ -9398,6 +9404,8 @@ For example:
 
 
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
+Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -9467,6 +9475,7 @@ For example:
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[agentic-ai-pedagogical-best-practice-2026]]
 
 ---
 
@@ -12208,28 +12217,28 @@ Wang, N., Zou, D., Xie, H., & Qin, S. J. (2026). [*A scoping review of generativ
 
 ## [Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning](https://edtechdev.github.io/aied/articles/agentic-ai-pedagogical-best-practice-2026/)
 
-> Education AI is shifting from passive chatbots to **proactive agents** that initiate and pursue goals. This offers personalisation but risks undermining **learner agency and cognitive effort**. The paper walks each of six pedagogical principles through what agentic initiative does to it:
+> Education AI is shifting from passive chatbots to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers personalisation but risks undermining **learner [[agency]] and cognitive effort**. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it:
 
-> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
+> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
 
 ## The tension: automation vs. learning
 
-Education AI is shifting from passive chatbots to **proactive agents** that initiate and pursue goals. This offers personalisation but risks undermining **learner agency and cognitive effort**. The paper walks each of six pedagogical principles through what agentic initiative does to it:
+Education AI is shifting from passive chatbots to **proactive agents** that initiate and pursue goals. This offers [[personalized-learning|personalisation]] but risks undermining **learner agency and cognitive effort**. The paper walks each of six pedagogical principles through what agentic initiative does to it:
 
 | Principle | Agentic-AI risk |
 |---|---|
 | Prior knowledge activation | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge |
-| Collaborative learning | Agent initiative crowds out peer negotiation and role-taking |
-| Problem-based learning | Goal-directed agents resolve problems before learners grapple with them |
-| Formative assessment | Agent-generated feedback pre-empts learners' own self-assessment loops |
+| [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
+| [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
+| Formative assessment | Agent-generated [[feedback]] pre-empts learners' own self-assessment loops |
 | Scaffolding | Automated scaffolds stay static instead of being dynamically withdrawn |
-| Metacognition | Agent initiation displaces the learner's own planning, monitoring, evaluation |
+| [[metacognition]] | Agent initiation displaces the learner's own planning, monitoring, evaluation |
 
 ## Design recommendations
 
 1. **Intentional friction** — deliberately preserve productive struggle instead of maximising smoothness (cf. [[desirable-difficulties]]: difficulty that supports learning)
-2. **Dynamic scaffolding** — scaffolds that adapt and fade as competence grows
-3. **Human-in-the-loop oversight** — learners and educators retain control over agent initiation
+2. **Dynamic scaffolding** — [[scaffolding|scaffolds]] that adapt and fade as competence grows (cf. [[self-regulated-learning|self-regulation]])
+3. **Human-in-the-loop oversight** — learners and educators retain control over agent initiation ([[human-in-the-loop-ai]])
 4. **Considered AI utilisation** — purposeful, pedagogically justified agent use rather than maximal automation
 
 ## Connected Concepts
@@ -12916,7 +12925,7 @@ Instead of designing AI agents to agree and expand, this study built an **antago
 - **Agent enactment produced more revision than guidance alone.** Both the Stepwise and Interactive groups reported significantly higher self-reconsideration and made more improvements than Self Reflection. But the Interactive Engagement group uniquely supported both **revisions and enhancements** (e.g., 3.6× more edits than baseline; revisions significant only for the agent condition), whereas Stepwise Guidance primarily produced enhancements. The antagonistic agent introduced more conflictual perspectives and generated/discarded more ideas.
 - **Self Reflection is marked by design fixation.** Participants who reviewed their own work without structure never revised or deleted any ideas — even though deletion was explicitly allowed. Prior research on design fixation and psychological ownership explains this: self-generated ideas are hard to move away from. The agent countered this by making the *stakeholder costs* of keeping an idea visible.
 - **The agent functioned as an interactive checklist for stakeholder concerns.** It surfaced topics (accessibility, privacy, reluctance toward automation, alternative reporting channels) that the other groups did not reach on their own — a wider range than any single human designer could enumerate, helping novices realize tensions from stakeholders they had not considered.
-- **Productive friction, not just frustration.** Participants rated the agent's pushback as contributing to the design (M=5.33) and raised points they "would not have thought of independently." Even so, reactions were mixed — one participant felt discouraged ("they criticize me in every aspect I think of") — and the synthetic pushback lacked the *emotional* weight of real antagonists.
+- **[[desirable-difficulties|Productive friction]], not just frustration.** Participants rated the agent's pushback as contributing to the design (M=5.33) and raised points they "would not have thought of independently." Even so, reactions were mixed — one participant felt discouraged ("they criticize me in every aspect I think of") — and the synthetic pushback lacked the *emotional* weight of real antagonists.
 - **Self-perception gap.** Agent and guidance participants rated their own designs no higher (sometimes lower) on serving diverse users, yet actually considered a broader set of stakeholders — being prompted to consider diverse users made them aware the range was wider and harder to address than assumed.
 - **A subtractive, not just expansive, role.** The agent sharpened existing ideas more than it expanded the idea space. In civic design, a better design often comes from recognizing how one feature privileges some stakeholders while creating problems for others — so the agent's value lay in helping designers recognize what to *revise and constrain*, not just add.
 

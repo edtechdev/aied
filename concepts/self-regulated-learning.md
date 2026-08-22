@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-21T20:28:43-04:00"
+updated: "2026-08-22T01:07:28-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -70,6 +70,8 @@ For example:
 
 
 - **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
+Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
+
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -139,3 +141,4 @@ For example:
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
+- [[agentic-ai-pedagogical-best-practice-2026]]

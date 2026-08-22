@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-22T01:07:28-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -26,6 +26,8 @@ confidence: high
 ### Connections
 
 Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
+
+Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for agentic AI.
 
 ## Connected Concepts
 
@@ -68,3 +70,4 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+- [[agentic-ai-pedagogical-best-practice-2026]]
