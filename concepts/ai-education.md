@@ -159,3 +159,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework

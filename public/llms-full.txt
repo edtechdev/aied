@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 154 concepts and 805 articles.
+> Complete text of 155 concepts and 811 articles.
 
 # Concepts
 
@@ -281,6 +281,8 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 
 ---
 
@@ -738,6 +740,8 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+
 ---
 
 ## [AI Ed Evaluation](https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/)
@@ -1000,6 +1004,10 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 
 ---
 
@@ -1695,6 +1703,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 
 ---
 
@@ -2645,6 +2655,14 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+
 ---
 
 ## [Collaborative Learning](https://edtechdev.github.io/aied/concepts/collaborative-learning/)
@@ -2734,6 +2752,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
 - [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 
 ---
 
@@ -2972,6 +2992,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 
 ## Citation
 
@@ -3133,6 +3154,16 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 
 ---
 
@@ -4522,6 +4553,10 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+
 ---
 
 ## [Ethics in AI Education](https://edtechdev.github.io/aied/concepts/ethics/)
@@ -5331,6 +5366,14 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+
 ---
 
 ## [Global South](https://edtechdev.github.io/aied/concepts/global-south/)
@@ -5743,6 +5786,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+
 ---
 
 ## [Human AI Collaboration](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/)
@@ -5833,6 +5880,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 
 ---
 
@@ -6050,6 +6099,60 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 
 ---
 
+## [Inquiry-Based Learning and AI](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/)
+
+> **Inquiry-based learning (IBL)** — a learner-centered pedagogy in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor scaffolding rather than lecturing. In the AI era, IBL's question-driven, exploration-centred structure has become a focal point: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
+
+Inquiry-based learning centers on student-driven questions and the inquiry process itself, typically moving through phases (orientation → conceptualization → investigation → discussion → conclusion). It is the broader family under which [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] are often nested: IBL emphasizes the *questioning and discovery process*, PBL the ill-structured *problem*, and project-based learning the tangible *artefact*.
+
+## How inquiry-based learning appears in the wiki
+
+**AI as co-inquirer.** A systematic review of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) found ChatGPT used mainly in the conceptualization, investigation, and discussion phases — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], engagement, and motivation, while posing risks of over-reliance, hallucination, and superficial conclusions when output is treated as authoritative.
+
+**Problem posing as the starting point.** A quasi-experiment with 97 third-graders ([[dai-chatbots-problem-posing-primary-2026]]) showed GenAI chatbots significantly outperformed search engines for science problem posing, improving question quality and producing more integrated epistemic [[network-analysis|networks]] while lowering cognitive load.
+
+**Cognitive-level patterns in LLM-driven IBL.** An exploratory study of 117 interview transcripts and interaction records ([[luo-ibl-patterns-llm-bloom-2026|Luo et al.]]) identified 14 interaction patterns across Bloom's cognitive levels, showing how students' prior knowledge shapes LLM use and highlighting the need for scaffolding that targets higher-order thinking stages and mitigates over-reliance.
+
+**Outcomes evidence is mixed.** An AI-supported IBL experiment in mathematics ([[mujib-ai-ibl-creative-math-2026|Mujib et al.]]) improved creative mathematical performance and attitudes but not critical problem-solving skills — suggesting AI-IBL mainly supports creativity and affective development. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al.]]) found GenAI has a moderate positive effect on higher-order thinking, strongest for problem-solving and with 8–16 week interventions and higher self-regulated-learning learners benefiting most.
+
+**Scaling IBL with AI as a metacognitive coach.** A conceptual framework ([[doyle-scaling-complex-thinking-ai-ibl-2026|Doyle & Swisher]]) uses AI as a [[scaffolding]] layer that transitions "from an output generator to a metacognitive coach," mapping AI interactions onto IBL's stages to scale scaffolding to large cohorts while shifting assessment from content mastery to complex-thinking skills.
+
+**Equity and context.** A conceptual framework ([[botes-ai-oep-ibl-underresourced-2026|Botes et al.]]) bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, multilingual, contextually relevant simulations.
+
+## Why inquiry-based learning matters for AI integration
+
+IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The wiki's evidence converges on a core tension — AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[metacognition|reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
+
+## Connected Concepts
+
+- [[problem-based-learning]]
+- [[project-based-learning]]
+- [[active-learning]]
+- [[critical-thinking]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
+- [[cognitive-offloading]]
+- [[generative-ai]]
+- [[llm]]
+- [[stem-education]]
+- [[collaborative-learning]]
+- [[higher-ed]]
+- [[k-12]]
+
+## Connected Articles
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM (systematic review)
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
+
+---
+
 ## [Instructional Design with AI](https://edtechdev.github.io/aied/concepts/instructional-design/)
 
 > **Instructional Design** — the systematic process of creating effective learning experiences through the analysis of learning needs and the design, development, implementation, and evaluation of instructional materials and activities. AI is transforming instructional design by automating content creation, enabling [[adaptive-learning|adaptive learning]] paths, supporting data-driven iteration, and augmenting — rather than replacing — the instructional designer's role.
@@ -6143,6 +6246,8 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 
 ---
 
@@ -6440,6 +6545,10 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 
 ---
 
@@ -6820,6 +6929,8 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+
 ---
 
 ## [Learning Theories](https://edtechdev.github.io/aied/concepts/learning-theories/)
@@ -7114,6 +7225,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
 ---
 
 ## [Math Education](https://edtechdev.github.io/aied/concepts/math-education/)
@@ -7195,6 +7308,8 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[genai-runaway-object-math-higher-ed]]
 - [[generative-ai-reduced-study-time-math]] — ALEKS mastery platform: text-based problems most AI-susceptible
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic pipeline for educational math diagram evaluation
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 
 ---
 
@@ -7362,6 +7477,8 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
 - [[student-llm-interaction-taxonomy-review-2026]]
 
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
 ---
 
 ## [Metacognition](https://edtechdev.github.io/aied/concepts/metacognition/)
@@ -7501,6 +7618,14 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+
 ---
 
 ## [Motivation](https://edtechdev.github.io/aied/concepts/motivation/)
@@ -7607,6 +7732,8 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
 - [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
 - [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 
 ---
 
@@ -8053,6 +8180,8 @@ Pedagogical agents sit at the intersection of [[intelligent-tutoring]] (their di
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 
 ---
 
@@ -9601,6 +9730,14 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+
 ---
 
 ## [Self-Determination Theory](https://edtechdev.github.io/aied/concepts/self-determination-theory/)
@@ -9726,6 +9863,8 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 
 ---
 
@@ -9874,6 +10013,10 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 
 ---
 
@@ -10443,6 +10586,8 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
+
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 
 ---
 
@@ -19019,6 +19164,49 @@ Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI
 
 ---
 
+## [Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review](https://edtechdev.github.io/aied/articles/ba-ai-agents-cscl-review-2026/)
+
+> **Synthesis:** This systematic literature review of 46 empirical studies (2014–2025) analyzes the roles and impacts of [[agentic-ai|AI agents]] within [[collaborative-learning|computer-supported collaborative learning (CSCL)]]. Guided by the community of inquiry model and learning engagement theory, it finds AI agents most frequently facilitate small-group collaboration and problem-solving via text-based online platforms, with functions spanning cognitive [[scaffolding]], social facilitation, and instructional orchestration. While cognitive gains are consistently reported, effects on behavioral, social, and emotional outcomes are context-dependent.
+
+## Key Findings
+
+1. **46 studies, post-secondary emphasis.** Most research is set in post-secondary settings, with mixed-methods designs most common; AI agents typically facilitate small-group collaboration and problem-solving through text-based online platforms.
+
+2. **Three agent functions.** AI agents perform cognitive scaffolding, social facilitation, and instructional orchestration, with recent developments enabling more adaptive and participatory roles.
+
+3. **Domain-aligned effects.** The alignment between agent functions and learning outcomes is strongest within the same domain, though important cross-domain influences are also evident.
+
+4. **Cognitive gains consistent, other outcomes context-dependent.** Cognitive gains are consistently reported, but behavioral, social, and emotional outcomes appear context-dependent — highlighting the need for nuanced agent design.
+
+5. **Need for equity and context-sensitive deployment.** The review underscores equitable access, expanded conceptual frameworks, and context-sensitive deployment for meaningful, responsible AI-agent integration in CSCL.
+
+## Implications
+
+This review is the non-IBL companion paper, contributing to the wiki's [[agentic-ai|agent]] and [[collaborative-learning]] threads. It maps how AI agents (beyond chatbots) orchestrate and scaffold collaborative learning, connecting to [[pedagogical-agent|pedagogical agents]] and the community-of-inquiry model. For designers, the domain-alignment finding implies agent functions should be matched to intended outcomes, and cognitive scaffolding functions can reliably boost learning while social/emotional effects need contextual tuning. It connects to [[human-ai-collaboration]] and equity concerns.
+
+## Connected Concepts
+
+- [[collaborative-learning]]
+- [[agentic-ai]]
+- [[pedagogical-agent]]
+- [[scaffolding]]
+- [[human-ai-collaboration]]
+- [[learning-gains]]
+- [[equity-in-ai-education]]
+- [[conversational-ai]]
+
+## Connected Articles
+
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent in CS education
+- [[genai-counter-learner-groupthink-2025]] — GenAI agent counters groupthink in PBL
+
+## Citation
+
+Ba, S., Shi, X., Wu, S., & Lu, G. (2026). [*Artificial intelligence agents in computer-supported collaborative learning: a systematic literature review*](https://doi.org/10.1016/j.caeai.2026.100579). *Computers and Education: Artificial Intelligence*, 10, 100579.
+
+---
+
 ## [AICoFE: AI-Powered Feedback System](https://edtechdev.github.io/aied/articles/becerra-aicofe-feedback-2026/)
 
 > **AICoFE** (AI-based Collaborative Feedback) is a multi-LLM feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving pedagogical authority through Learning Analytics dashboards.
@@ -19672,6 +19860,48 @@ For educational applications of [[llm]]s, the results indicate that the structur
 ## Citation
 
 Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). [Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training](https://arxiv.org/abs/2607.28109). arXiv:2607.28109. cs.AI.
+
+---
+
+## [Transforming STEM Education in Under-Resourced Contexts: A Conceptual Framework for AI-Supported OEP/RS and Inquiry-Based Learning](https://edtechdev.github.io/aied/articles/botes-ai-oep-ibl-underresourced-2026/)
+
+> **Synthesis:** This conceptual paper examines design-based practices for implementing AI-supported open educational resources and practices (OEP/RS) to promote inquiry-led STEM teaching in under-resourced contexts. Anchored in the [[inquiry-based-learning|IBL]] model and the 5E instructional framework, it presents three adaptable teaching scenarios (natural science, technology, mathematics) showing how [[generative-ai|generative AI]] creates curriculum-aligned, multilingual, contextually relevant digital simulations — transforming abstract concepts into interactive experiences and helping overcome infrastructural, linguistic, and contextual constraints in rural classrooms.
+
+## Key Findings
+
+1. **A conceptual framework bridging generative-AI co-design and open pedagogy.** The paper establishes a novel framework for using AI-supported OEP/RS to enable inquiry-led STEM teaching without requiring advanced programming.
+
+2. **Three adaptable teaching scenarios.** Natural science, technology, and mathematics scenarios demonstrate how generative AI tools create curriculum-aligned, multilingual, contextually relevant digital simulations.
+
+3. **Overcoming under-resourced constraints.** AI-generated simulations transform abstract concepts into interactive experiences, addressing infrastructural, linguistic, and contextual barriers in rural classrooms.
+
+4. **A scalable, cost-effective path to equity.** The framework offers a pathway for digital inclusion and equitable [[stem-education|STEM education]], with actionable guidelines for educators to design localized learning objects.
+
+## Implications
+
+This paper connects AI-supported [[inquiry-based-learning|inquiry]] directly to [[equity-in-ai-education|equity]] in under-resourced contexts. For [[k-12|rural and under-resourced]] settings, generative AI can lower the cost and skill barrier to producing localized, multilingual inquiry materials — a practical route to digital inclusion. It complements the wiki's AI-in-IBL evidence by focusing on the *context* and *infrastructure* dimension, and links open educational practices to responsible, context-sensitive AI deployment.
+
+## Connected Concepts
+
+- [[inquiry-based-learning]]
+- [[generative-ai]]
+- [[stem-education]]
+- [[equity-in-ai-education]]
+- [[k-12]]
+- [[multilingual-learning]]
+- [[instructional-design]]
+- [[critical-thinking]]
+
+## Connected Articles
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
+- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
+
+## Citation
+
+Botes, W., Kgosi, A., Neethling, S., Mahlo, L., & Zondi, M. F. (2026). [*Transforming STEM education in under-resourced contexts: a conceptual framework for AI-supported OEP/RS and inquiry-based learning*](https://doi.org/10.58418/ijeqqr.v5i1.189). *International Journal of Educational Qualitative Quantitative Research*, 5(1), 1–14.
 
 ---
 
@@ -23892,7 +24122,7 @@ Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writin
 
 ## [Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science](https://edtechdev.github.io/aied/articles/dai-chatbots-problem-posing-primary-2026/)
 
-> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[problem-based-learning|inquiry-based learning]]. Chatbots significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced cognitive load while raising technology acceptance.
+> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. Chatbots significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced cognitive load while raising technology acceptance.
 
 ## Key Findings
 
@@ -23906,7 +24136,7 @@ Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writin
 
 ## Implications
 
-This provides empirical evidence for introducing [[generative-ai|GenAI]] tools into [[problem-based-learning|inquiry-based learning]] in primary science. The chatbot's advantage — improving question *quality* and integrating cognitive networks while reducing cognitive load — positions conversational AI as a scaffold for [[metacognition|inquiry]] and questioning rather than a mere answer-provider. For [[k-12|primary STEM education]], it shows GenAI can support the generative, questioning dimension of inquiry that has been underemphasized.
+This provides empirical evidence for introducing [[generative-ai|GenAI]] tools into [[inquiry-based-learning|inquiry-based learning]] in primary science. The chatbot's advantage — improving question *quality* and integrating cognitive networks while reducing cognitive load — positions conversational AI as a scaffold for [[metacognition|inquiry]] and questioning rather than a mere answer-provider. For [[k-12|primary STEM education]], it shows GenAI can support the generative, questioning dimension of inquiry that has been underemphasized.
 
 ## Connected Concepts
 
@@ -23914,7 +24144,7 @@ This provides empirical evidence for introducing [[generative-ai|GenAI]] tools i
 - [[conversational-ai]]
 - [[k-12]]
 - [[stem-education]]
-- [[problem-based-learning]]
+- [[inquiry-based-learning]]
 - [[network-analysis]]
 - [[metacognition]]
 - [[student-experience]]
@@ -24424,6 +24654,52 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 ## Citation
 
 Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041). arXiv:2605.29041.
+
+---
+
+## [Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning](https://edtechdev.github.io/aied/articles/doyle-scaling-complex-thinking-ai-ibl-2026/)
+
+> **Synthesis:** This conceptual framework paper integrates [[inquiry-based-learning|inquiry-based learning]] with [[generative-ai|AI]] to solve IBL's scalability problem. It positions AI as a [[scaffolding]] layer that transitions "from an output generator to a [[metacognition|metacognitive]] coach," mapping AI interactions onto IBL's stages (orientation, conceptualization, investigation, conclusion, discussion). The framework's sustainability depends on shifting assessment from content mastery to measurable complex-thinking skills — with implications for teacher training and technological governance.
+
+## Key Findings
+
+1. **IBL's scalability problem.** IBL scaffolding requires instructors to continually assess and tailor support per student — time-intensive and hard to scale to large cohorts. AI is proposed as the mechanism to scale that scaffolding.
+
+2. **AI as a scaffolding layer, not an output generator.** The framework maps AI interactions onto the stages of IBL, positioning AI as a metacognitive coach: in the question phase AI critique compels clarification; in Investigate/Create it prompts self-evaluation; in Discuss/Reflect it introduces conflict to challenge assumptions.
+
+3. **AI vs. teacher scaffolding.** AI provides instant, in-task, individualized intervention, whereas teacher scaffolding is post-task and cohort-balanced — a timing-and-scale distinction.
+
+4. **Complex thinking as the goal.** Complex thinking synthesizes critical, creative, and systematic thinking, with metacognition as its backbone — and IBL, scaffolded by AI, is positioned as the pedagogy to develop it.
+
+5. **Institutional conditions.** Sustainability depends on shifting assessment from content mastery to measurable complex-thinking skills, plus teacher training and technological governance.
+
+## Implications
+
+This paper contributes a design-oriented framework to the wiki's [[inquiry-based-learning]] cluster: it articulates *how* AI should scaffold inquiry at scale while preserving metacognition — directly addressing the over-reliance risk the cluster documents. The AI-as-metacognitive-coach framing (vs. output generator) operationalizes the "co-inquirer vs. answer machine" distinction, and the call to assess complex-thinking skills (rather than content mastery) connects to [[assessment]] and [[ai-education]] concerns. It complements the empirical and review evidence in the cluster with a scalable design vision.
+
+## Connected Concepts
+
+- [[inquiry-based-learning]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[generative-ai]]
+- [[critical-thinking]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[assessment]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
+- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+
+## Citation
+
+Doyle, L. B., & Swisher, J. L. (2026). [*Scaling complex thinking: a conceptual framework for AI-supported inquiry-based learning*](https://doi.org/10.58297/edu.2026.3.3.e183). *Educational Point*, 3(3), e183.
 
 ---
 
@@ -32616,7 +32892,7 @@ Jeon, Y., Kim, S., Son, H., Lee, S., Jeong, Y., & Lee, U. (2026). [*ISD-Agent-Be
 
 ## [The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education](https://edtechdev.github.io/aied/articles/jiang-chatgpt-inquiry-steam-review-2026/)
 
-> **Synthesis:** This systematic review of 24 empirical studies maps ChatGPT-supported [[problem-based-learning|inquiry-based learning]] in STEAM education across the five inquiry phases. ChatGPT was primarily used during conceptualization, investigation, and discussion — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], engagement, and motivation. But learner-level challenges (over-reliance, hallucination, superficial conclusions) and educator/institutional challenges (curricular misalignment, reduced instructional depth, [[academic-integrity]]) persist. An integrated framework synthesizes ChatGPT's roles, advantages, and challenges across the inquiry phases.
+> **Synthesis:** This systematic review of 24 empirical studies maps ChatGPT-supported [[inquiry-based-learning|inquiry-based learning]] in STEAM education across the five inquiry phases. ChatGPT was primarily used during conceptualization, investigation, and discussion — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], engagement, and motivation. But learner-level challenges (over-reliance, hallucination, superficial conclusions) and educator/institutional challenges (curricular misalignment, reduced instructional depth, [[academic-integrity]]) persist. An integrated framework synthesizes ChatGPT's roles, advantages, and challenges across the inquiry phases.
 
 ## Key Findings
 
@@ -32637,7 +32913,7 @@ For [[stem-education|STEAM]] and inquiry-based learning, this review positions C
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[problem-based-learning]]
+- [[inquiry-based-learning]]
 - [[stem-education]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
@@ -36683,6 +36959,52 @@ Luo, J., & Eaton, S. E. (2026). [*Is It Ethical for Teachers to Use AI for Stude
 
 ---
 
+## [Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective](https://edtechdev.github.io/aied/articles/luo-ibl-patterns-llm-bloom-2026/)
+
+> **Synthesis:** This exploratory study of students interacting with [[llm|LLMs]] during an [[inquiry-based-learning|inquiry-based learning]] data-science writing task used Bloom's taxonomy to analyze behavioral patterns across cognitive levels. Thematic analysis of 117 interview transcripts, 370 interaction records, and 1,694 minutes of screen recordings identified **14 interaction patterns** at different levels of [[prior-knowledge|prior knowledge]]. The study highlights how [[self-efficacy]] and [[metacognition|metacognitive]] monitoring shape LLM use in IBL and calls for guiding planning frameworks and [[scaffolding]] to mitigate AI reliance.
+
+## Key Findings
+
+1. **14 interaction patterns across Bloom's cognitive levels.** Students interacted with LLMs in 14 distinct patterns, varying by level of prior knowledge.
+
+2. **Prior knowledge shapes interaction.** Students at different prior-knowledge levels used LLMs differently during the IBL process, affecting how they progressed through cognitive stages.
+
+3. **Self-efficacy and metacognitive monitoring matter.** These factors significantly influenced learning behavior in the LLM-driven environment — and their absence correlates with reliance on AI.
+
+4. **Design implication: scaffolding for higher-order thinking.** Educators should design cognitive scaffolding targeting specific higher-order thinking stages; instructional designers should build planning frameworks that mitigate over-reliance while fostering metacognitive monitoring.
+
+5. **Policy: critical evaluation training.** Policymakers should implement training to enhance students' critical evaluation skills within LLM-driven environments.
+
+## Implications
+
+This study is a core piece of the wiki's [[inquiry-based-learning]] cluster, directly examining *how* students use LLMs across the cognitive levels of inquiry. The finding that students' prior knowledge and [[metacognition|metacognitive]] skills determine whether LLM use deepens or bypasses inquiry reinforces the wiki's central design principle: AI in IBL requires explicit [[scaffolding]], planning frameworks, and [[critical-thinking|critical evaluation]] training to convert interaction into higher-order learning rather than [[cognitive-offloading|over-reliance]]. It complements the IBL cluster's outcome evidence ([[mujib-ai-ibl-creative-math-2026]], [[zhao-genai-higher-order-thinking-meta-2026]]).
+
+## Connected Concepts
+
+- [[inquiry-based-learning]]
+- [[llm]]
+- [[critical-thinking]]
+- [[metacognition]]
+- [[self-efficacy]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
+- [[higher-ed]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
+- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+
+## Citation
+
+Luo, Y. T., Liu, T., Pang, P., McKay, D., Chang, S., & Buchanan, G. (2026). [*Inquiry-based learning patterns in large language model-driven learning environments: an exploratory study from Bloom's perspective*](https://doi.org/10.14742/ajet.9051). *Australasian Journal of Educational Technology*, 42(2), 38–57.
+
+---
+
 ## [Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation](https://edtechdev.github.io/aied/articles/machines-misread-pedagogical-quality/)
 
 Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest question evaluation — a critical bottleneck for scalable AI-assisted assessment. Their AI-assisted workflow combines automated generation, rubric-based evaluation, and iterative selection. Through a 2×2 experimental design varying rubric operationalization and evaluation mode, they find that human-machine disagreements are systematic rather than random, rubric revision has a larger effect on alignment than rationale-first evaluation, and the two interventions are complementary. The core insight is that scalable AI-assisted pretesting depends not only on generation capability but crucially on how pedagogical quality is operationalized for machine interpretation. This work contributes to [[ai-ed-evaluation]] by providing empirical evidence for aligning [[llm]] judgment with human pedagogical standards in [[formative-assessment]] contexts, and has direct implications for [[automated-assessment|Automated Grading]] and [[assessment]] system design.
@@ -37977,6 +38299,50 @@ The study is quasi-experimental (non-random assignment) with a five-day learning
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 ## Citation
 Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*](https://arxiv.org/abs/2601.01218). arXiv:2601.01218.
+
+---
+
+## [Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics](https://edtechdev.github.io/aied/articles/mujib-ai-ibl-creative-math-2026/)
+
+> **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical problem-solving skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports creativity and affective development, with limited effect on problem-solving.
+
+## Key Findings
+
+1. **Creative performance and attitudes improved.** AI-supported IBL significantly improved creative mathematical performance and attitudes toward mathematics compared with traditional instruction.
+
+2. **Critical problem-solving did not improve significantly.** The intervention did not produce a statistically significant improvement in critical problem-solving skills — a cautionary result for claims that AI + IBL automatically strengthens higher-order reasoning.
+
+3. **Positive inter-correlations.** Correlation analysis showed positive relationships among creative performance, problem-solving, and attitudes in both groups; multivariate analysis confirmed a significant overall group effect.
+
+4. **Efficiency mechanism.** The authors suggest AI-supported IBL may improve instructional efficiency through guided exploration, [[scaffolding|adaptive feedback]], and reduced [[cognitive-offloading|cognitive load]].
+
+## Implications
+
+This study tempers the enthusiasm for AI-in-IBL: it shows [[generative-ai|AI]]-supported [[inquiry-based-learning|inquiry]] can reliably boost creativity and engagement but does not automatically transfer to critical problem-solving. For [[math-education|mathematics]] and [[k-12|secondary]] instruction, it reinforces that AI-supported inquiry needs deliberate [[critical-thinking|problem-solving]] scaffolds — the very finding the wiki's AI-in-IBL cluster surfaces across studies. It connects to the broader [[cognitive-offloading|performance-learning gap]] literature: AI can elevate performance and affect while learning of transferable skills lags.
+
+## Connected Concepts
+
+- [[inquiry-based-learning]]
+- [[generative-ai]]
+- [[math-education]]
+- [[k-12]]
+- [[critical-thinking]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[active-learning]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[generative-ai-reduced-study-time-math]] — GenAI and reduced study time in math
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty in secondary students
+
+## Citation
+
+Mujib, M., Suherman, S., & Mardiyah, M. (2026). [*Evaluating the impact of AI-supported inquiry-based learning on students' creative mathematical performance, critical problem-solving skills, and attitudes toward mathematics*](https://doi.org/10.7160/eriesj.2026.190204). *Journal on Efficiency and Responsibility in Education and Science*, 19(2), 142–153.
 
 ---
 
@@ -49938,6 +50304,49 @@ This paper reframes the core evaluation question for AI tutors: **not "does the 
 ## Citation
 
 Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026). *[When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://tutormoments.allen.ai/static/paper/tutormoments-preview.pdf)*.
+
+---
+
+## [Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments](https://edtechdev.github.io/aied/articles/zhao-genai-higher-order-thinking-meta-2026/)
+
+> **Synthesis:** This meta-analysis integrates 29 experimental and quasi-experimental studies to quantify the overall effect of [[generative-ai|generative AI]] on learners' higher-order thinking (HOT) and examine moderators. GenAI exerts a **moderate positive effect** on HOT, strongest for **problem-solving**, followed by **critical thinking**, with a relatively limited effect on **creativity**. Effects are significantly moderated by intervention duration (strongest at 8–16 weeks) and learners' [[self-regulated-learning|self-regulated learning]] abilities (higher SRL → more benefit).
+
+## Key Findings
+
+1. **Moderate overall positive effect on higher-order thinking.** Across 29 studies, GenAI improved learners' HOT to a moderate degree.
+
+2. **Problem-solving > critical thinking > creativity.** The most significant improvement was in problem-solving abilities, followed by critical thinking, while the effect on creativity was relatively limited.
+
+3. **Duration matters.** Effects were strongest when interventions lasted 8–16 weeks — medium- to long-term integration is recommended.
+
+4. **Self-regulated learning amplifies benefit.** Learners with higher SRL capacities benefited more substantially, suggesting dynamic, personalized scaffolding of SRL maximizes GenAI's educational potential.
+
+## Implications
+
+This meta-analysis provides quantitative grounding for the wiki's AI-and-thinking threads: [[generative-ai|GenAI]] can improve [[critical-thinking|higher-order thinking]], but the effect is moderate, uneven across HOT sub-dimensions, and conditional on duration and [[self-regulated-learning|SRL]]. It directly informs [[inquiry-based-learning|inquiry-based learning]] and AI-integration guidance: GenAI should be systematically integrated as a targeted instructional tool, with medium-term (8–16 week) interventions and SRL scaffolding, while creative thinking needs explicit pedagogical support within existing frameworks. It connects to [[ai-education]] and the performance-vs-learning literature.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[critical-thinking]]
+- [[meta-analysis-systematic-review]]
+- [[self-regulated-learning]]
+- [[inquiry-based-learning]]
+- [[ai-education]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
+- [[metacognition]] — Metacognition and AI
+
+## Citation
+
+Zhao, Y., Yue, Y., Sun, Z., Jiang, Q., & Li, G. (2025). [*Does generative artificial intelligence improve students' higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments*](https://doi.org/10.3390/jintelligence13120160). *Journal of Intelligence*, 13, 160.
 
 ---
 

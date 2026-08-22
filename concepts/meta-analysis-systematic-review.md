@@ -115,3 +115,5 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[human-autonomy-agency-hri-review-2025]] — Review of human autonomy and agency in human-robot interaction
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
 - [[student-llm-interaction-taxonomy-review-2026]]
+
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis

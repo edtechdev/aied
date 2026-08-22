@@ -68,3 +68,5 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+
+- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review

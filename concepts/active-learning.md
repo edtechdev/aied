@@ -86,3 +86,5 @@ Active learning is deeply connected to [[collaborative-learning]] (much active l
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+
+- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
