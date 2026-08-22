@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-22 | **Total pages:** 970
+**Last updated:** 2026-08-22 | **Total pages:** 971
 ---
 ## Concepts
 
@@ -620,6 +620,7 @@
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching: An exploratory study with genAI novices in higher education
 - [[lnenicka-secondary-students-genai-stem-2026]] — Navigating AI in STEM: What Secondary Students Actually Do With Generative AI-Driven Tools
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
 - [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement

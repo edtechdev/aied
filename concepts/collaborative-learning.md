@@ -94,3 +94,5 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+
