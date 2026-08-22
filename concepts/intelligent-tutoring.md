@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T02:17:06-04:00"
+updated: "2026-08-22T05:22:00-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -29,6 +29,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and misconceptions a learner holds; the assessment-side counterpart to knowledge tracing that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
@@ -73,6 +74,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 
 - [[scaffolding]]
 - [[adaptive-learning]]
+- [[cognitive-diagnosis]]
 - [[llm]]
 - [[student-modeling]]
 - [[knowledge-tracing]]
@@ -145,3 +147,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education

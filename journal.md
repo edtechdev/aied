@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 958
+**Last updated:** 2026-08-22 | **Total entries:** 959
 
 ## 2026-08-22
+
+- ◐ [[li-dbagent-llm-educational-agent-cs-2026]] — raw/papers/li-dbagent-llm-educational-agent-cs-2026.md
+  The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education
+  #llm #agentic-ai #cs-education #intelligent-tutoring #cognitive-diagnosis #cognitive-offloading #student-ai-interaction #higher-ed #learning-analytics
 
 - ◐ [[liu-tool-tutor-crutch-programming-2026]] — raw/papers/liu-tool-tutor-crutch-programming-2026.md
   Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education
