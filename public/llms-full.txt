@@ -8732,9 +8732,14 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 
 The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like [[tpack|TPACK]] and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
 
+### Relationship to theory development
+
+Philosophy of AI in education and [[theory-development-aied|theory development in AIEd]] are complementary but distinct. Philosophy asks the ontological and epistemological questions — what mind, knowledge, and the learner fundamentally are under AI-mediated conditions — while theory development produces and empirically tests the *mechanisms* that operationalize answers to those questions (generativism, epistemic co-agency, the absent cognitive baseline). The two are mutually informing: philosophy clarifies the presuppositions that theories carry (e.g., [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] presumes a distributed, non-individualist model of cognition), while theory development gives philosophical positions testable, falsifiable form. The field's most foundational articles do both at once, sitting at the boundary between the two concepts.
+
 ## Connected Concepts
 
 - [[learning-theories]]
+- [[theory-development-aied]]
 - [[distributed-cognition]]
 - [[ethics]]
 - [[agency]]
@@ -11434,9 +11439,14 @@ Other work extends existing theory into the AI context rather than founding new 
 
 The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in AIEd research]] documents that AIEd studies frequently use theory weakly or uncritically — a recurring methodological weakness alongside reproducibility and measurement gaps. Reviews find many AIEd papers apply theory superficially or not at all (e.g., [[llm-critical-thinking-teamwork-review|literature reviews]] noting few studies ground interventions in learning theory). This makes theory *development* — and theory *use* — a quality concern as much as a scholarly output, connecting to [[research-methods-aied|research methods]] and [[ai-ed-evaluation]].
 
+## Relationship to the philosophy of AI in education
+
+Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in education]] are complementary but distinct strands of the wiki's foundational work. **Theory development** produces and empirically tests the *mechanisms* of learning-with-AI — named theories and frameworks such as generativism, epistemic co-agency, and the absent cognitive baseline that explain and predict how learners and AI interact. **Philosophy** interrogates the *presuppositions* those mechanisms rest on: what counts as knowledge, who counts as a knower, and what the learner fundamentally is. A theory like [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] proposes a mechanism while implicitly adopting philosophical commitments about distributed cognition and [[agency]]; philosophy makes those commitments explicit and contestable. Where theory development asks whether a framework explains learning well, philosophy asks whether it captures what learning and mind really are — the two strands meet in the field's most foundational articles, which often do both at once.
+
 ## Connected Concepts
 
 - [[learning-theories]]
+- [[philosophy-of-ai-in-education]]
 - [[limitations-in-aied-research]]
 - [[research-methods-aied]]
 - [[generative-ai]]

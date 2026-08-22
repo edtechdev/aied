@@ -1,7 +1,7 @@
 ---
 title: Philosophy of AI in Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-22T07:25:00-04:00"
 type: concept
 tags: [philosophy-of-education, learning-theory, ethics, agency, posthumanism, epistemology, human-ai-collaboration, ai-education]
 confidence: high
@@ -23,9 +23,14 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 
 The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like [[tpack|TPACK]] and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
 
+### Relationship to theory development
+
+Philosophy of AI in education and [[theory-development-aied|theory development in AIEd]] are complementary but distinct. Philosophy asks the ontological and epistemological questions — what mind, knowledge, and the learner fundamentally are under AI-mediated conditions — while theory development produces and empirically tests the *mechanisms* that operationalize answers to those questions (generativism, epistemic co-agency, the absent cognitive baseline). The two are mutually informing: philosophy clarifies the presuppositions that theories carry (e.g., [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]] presumes a distributed, non-individualist model of cognition), while theory development gives philosophical positions testable, falsifiable form. The field's most foundational articles do both at once, sitting at the boundary between the two concepts.
+
 ## Connected Concepts
 
 - [[learning-theories]]
+- [[theory-development-aied]]
 - [[distributed-cognition]]
 - [[ethics]]
 - [[agency]]
