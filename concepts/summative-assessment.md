@@ -1,7 +1,7 @@
 ---
 title: Summative Assessment
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-08-19T17:30:00-04:00"
+updated: "2026-08-22T17:35:00-04:00"
 type: concept
 tags: [summative-assessment, assessment, examination, authentic-assessment, academic-integrity, higher-ed, k-12, evaluation]
 confidence: high
@@ -74,3 +74,5 @@ The wiki's assessment literature consistently emphasizes that [[assessment]] is 
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on object-oriented programming assessments
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+

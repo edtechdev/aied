@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-20T09:30:00-04:00"
+updated: "2026-08-22T17:35:00-04:00"
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
 confidence: high
@@ -88,3 +88,5 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 - [[ssaho-ai-academic-integrity-review-2025]] — Multiple assessment methods to counter AI misconduct
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+
