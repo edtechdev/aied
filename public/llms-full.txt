@@ -23525,29 +23525,71 @@ Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). [CourseGraph
 
 ## [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://edtechdev.github.io/aied/articles/credential-cognitive-stewardship-ai-assessment/)
 
-Generative AI undermines a basic premise of educational assessment: that submitted work reliably evidences the human capacities a credential certifies. This paper proposes *cognitive stewardship*, a framework linking four elements \u2014 the learning claim, the delegation boundary, the evidence standard, and safeguards \u2014 to reason about what remains inferable about learning once cognitive work is delegated to AI. It then audits verified public GenAI assessment guidance from 30 universities using a pre-specified scoring codebook applied by four open-weight LLMs as structured coders, with scores averaged to dampen single-model bias.\n\nThe audit's headline finding is a governance gap already visible in [[genai-assessment-governance]] and [[genai-policies-higher-ed-computing]]: institutional policies are getting better at *classifying* AI use but not at explaining what evidence of learning remains valid under each class. The framework sharpens the wiki's [[assessment-validity]] thread \u2014 shifting the question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim \u2014 and complements [[ai-assessment-scale-reform]] and [[universities-ai-era-rethinking]] on redesigning credentials for AI-mediated education.
+> **Synthesis:** [[generative-ai|Generative AI]] undermines a basic premise of educational assessment: that submitted work reliably evidences the human capacities a credential certifies. Yao (2026) develops **cognitive stewardship**, a framework linking four elements — the learning claim, the delegation boundary, the evidence standard, and safeguards — to reason about what remains inferable about learning once cognitive work is delegated to AI. The paper then audits verified public GenAI assessment guidance from 30 universities across five English-speaking systems, finding that institutions are getting better at *classifying* AI use than at explaining what evidence of learning remains valid under each class.
+
+## Key Findings
+
+1. **The boundary–evidence asymmetry.** Across 30 audited university policy packages, the mean **delegation-boundary score was 2.47/4** but the mean **evidence-standard score was only 1.89/4** — 22 policies scored higher on boundary than evidence, 3 tied, and only 5 reversed the gap. Public guidance draws lines around what AI *may* do more often than it explains what evidence of learning must *remain*.
+
+2. **Safeguards are present but sparse.** Packages contained a mean of **2.75 of 8 possible safeguards**: privacy was most visible (67%), followed by detection caution (47%), accessibility (42%), appeal/due process (33%), tool-access equity (32%), vendor governance (29%), non-AI alternatives (22%), and workload/proportionality (4%). Institutions ask for disclosure more often than they provide protection, recourse, or alternatives.
+
+3. **Policies are clearest for final-output substitution.** Substitution averaged **2.49/4** actionability with clear answers in **83%** of packages, while the other five scenarios (access, [[feedback]] support, process, output-verification, programming workflow) ranged from 1.17 to 2.32. Guidance is strongest when AI use resembles cheating and weakest when it resembles learning support or authentic professional workflow.
+
+4. **Output-verification support is the thinnest scenario.** Only **23%** of packages directly covered the capacity to inspect, challenge, and correct AI output — arguably one of the strongest reasons to teach with AI. Only **31%** required evidence connecting access support back to the assessed claim.
+
+5. **Four policy archetypes.** Nine packages were higher-clarity (connecting permission to evidence and safeguards), four were boundary-forward (visible AI-use categories with thin evidence/safeguards), eight had limited evidence visibility, and nine were partially connected. The framework identifies a design gradient, not a compliant/noncompliant binary.
+
+## The educational delegation problem
+
+The paper names the core problem **educational delegation**: not whether AI touched the work, but *which cognitive operations moved from the learner to the system* and which remained. One student may use AI feedback while retaining problem formulation, source evaluation, revision judgment, and final responsibility; another may delegate topic selection, evidence search, argument structure, drafting, and citation. Both involve AI, but they support very different educational inferences.
+
+Assessment validity asks whether a task produces evidence for a learning claim; credential validity asks whether accumulated evidence justifies an institutional claim about the learner. Artifact-centered [[assessment]] is fragile because a final product can look excellent while revealing little about which operations the learner performed — and detection does not solve this, since even perfect AI-detection would not show whether the use was educationally appropriate or displaced the target capacity.
+
+## The cognitive stewardship framework
+
+Cognitive stewardship links four elements:
+- **The learning claim** being certified
+- **The delegation boundary** specifying what AI may do
+- **The evidence standard** showing what observable work, explanation, verification, or defense remains
+- **The safeguards** protecting privacy, accessibility, proportionality, equity, and appeal
+
+Its unit of analysis is not an individual competency checklist but the **warrant behind a course, program, or credential**. A policy is under-specified when any element is missing — a course can clearly permit AI and still fail to say what it can certify, or prohibit AI and still fail to protect access or due process. The main design rule: **start with the certified claim, not the tool**. If delegation would remove the operation being certified, the boundary should be restrictive or the task redesigned; if delegation supports the claim but changes the evidence, the policy should add process evidence, explanation, verification, or defense.
+
+The framework uses five recurring delegation types: **access support** (translation, speech-to-text, assistive scaffolding), **feedback support** (critique while the learner retains judgment), **process support** (planning, drafting, debugging), **substitution** (AI performs the operation being assessed), and **output-verification support** (treating checking AI-mediated work as a taught, assessed capability). These are role descriptions, not moral labels — the same use can be access support in one task and substitution in another.
+
+## Audit method
+
+The audit scored public institutional policy packages (the set of official sources through which each university tells students how GenAI may be used in assessed work) across the UK (11), Australia (5), New Zealand (2), Canada (5), and the US (7). A pre-specified, source-grounded scoring codebook was applied by four open-weight [[llm|LLMs]] as structured coders, with scores averaged to dampen single-model bias. The audit treated public guidance as a reader-facing artifact — what a student, instructor, or reviewer can see about claim, boundary, evidence, and safeguard. Between-model agreement was a sensitivity measure, not validation, so exact score levels are exploratory descriptions.
+
+## Implications for AI in education
+
+The takeaway is that **permission categories are necessary but insufficient**: universities need policies that make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions will protect fair evidence rather than merely monitor AI use. This shifts the [[assessment-validity]] question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim.
+
+Cognitive stewardship is a [[governance]] arrangement, not merely an assessment technique. It matters that disclosure and monitoring can make students *more visible* to the institution without making assessment *fairer*, and that surveillance harms may fall unevenly on racialized, disabled, low-income, international, and linguistically marginalized learners — [[privacy]] and accessibility are therefore conditions of stewardship, not exceptions: the relevant question is whether assistance bypasses the learning claim or enables access to it. The framework also cautions against relying on today's AI weaknesses (hallucination, bias) as the stable foundation for educational policy — the stronger question is which human capacities should remain visible even when task performance can be delegated. This connects to the wiki's [[theory-development-aied|theory-building]] thread and complements [[ai-assessment-scale-reform]] and [[universities-ai-era-rethinking]] on redesigning credentials for [[ai-education|AI-mediated education]].
 
 ## Connected Concepts
 
 - [[assessment-validity]]
 - [[academic-integrity]]
+- [[authentic-assessment]]
+- [[cognitive-offloading]]
+- [[ethics]]
 - [[generative-ai]]
 - [[governance]]
-- [[cognitive-offloading]]
+- [[theory-development-aied]]
 - [[trust]]
-- [[authentic-assessment]]
-- [[ethics]]
-- [[theory-development-aied]] — Theory Development in AI in Education
+
 ## Connected Articles
 
-- [[genai-assessment-governance]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-assessment-scale-reform]]
-- [[universities-ai-era-rethinking]]
-- [[genai-declaration-frameworks-higher-education]]
+- [[genai-assessment-governance]] — Generative AI assessment governance
+- [[genai-policies-higher-ed-computing]] — GenAI policies in higher-ed computing
+- [[ai-assessment-scale-reform]] — AI assessment scale reform
+- [[universities-ai-era-rethinking]] — Rethinking universities in the AI era
+- [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks in higher education
+
 ## Citation
 
-Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://arxiv.org/abs/2607.19988). arXiv:2607.19988. arXiv preprint (cs.CY).
+Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://arxiv.org/abs/2607.19988). arXiv:2607.19988 (cs.CY). Accepted at AIES 2026.
 
 ---
 
@@ -23983,7 +24025,9 @@ Lin, J., & Al-Hada, N. M. (2026). [*The critical-thinking paradox in generative 
 
 ## [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://edtechdev.github.io/aied/articles/cross-cultural-student-perceptions-genai-computing/)
 
-A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical institutional policies, Canadian students were consistently and significantly more likely to rate GenAI use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.\n\nThe result complicates the wiki's [[academic-integrity]] thread: policy harmonization does not produce perception harmonization, so multi-national or culturally diverse cohorts will interpret the same rules differently \u2014 an [[equity-in-ai-education]] concern for enforcement and grading. It extends [[student-perception-ai-use-collaboration]] and [[genai-impact-chinese-students-hss]] with direct cross-national comparison in computing education, and argues that [[genai-policies-higher-ed-computing]] need culturally aware communication, worked examples, and scenario-based clarification rather than abstract rule statements.
+A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical institutional policies, Canadian students were consistently and significantly more likely to rate GenAI use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.
+
+The result complicates the wiki's [[academic-integrity]] thread: policy harmonization does not produce perception harmonization, so multi-national or culturally diverse cohorts will interpret the same rules differently — an [[equity-in-ai-education]] concern for enforcement and grading. It extends [[student-perception-ai-use-collaboration]] and [[genai-impact-chinese-students-hss]] with direct cross-national comparison in computing education, and argues that [[genai-policies-higher-ed-computing]] need culturally aware communication, worked examples, and scenario-based clarification rather than abstract rule statements.
 
 ## Connected Concepts
 
@@ -24340,9 +24384,9 @@ Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). [*Inquiry
 
 ## [Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking](https://edtechdev.github.io/aied/articles/data-annotations-pedagogical-hints/)
 
-Machine learning courses typically hand students pre-labeled datasets, hiding the subjectivity baked into human annotation and cultivating an overly trusting view of AI data pipelines. This two-university study (Fontys, Netherlands and IT University Copenhagen; N=43) had students annotate skin-lesion images for hair coverage on a 3-point scale, then surveyed their understanding of annotation ambiguity, data quality, bias, and fairness. Self-reported familiarity with these concepts rose substantially across the board, and most students came to recognise that personal interpretation shapes labels \u2014 positioning hands-on annotation as a lightweight, transferable exercise for building [[ai-literacy]] and the kind of data skepticism central to [[critical-thinking-genai-scaffolding]].
+Machine learning courses typically hand students pre-labeled datasets, hiding the subjectivity baked into human annotation and cultivating an overly trusting view of AI data pipelines. This two-university study (Fontys, Netherlands and IT University Copenhagen; N=43) had students annotate skin-lesion images for hair coverage on a 3-point scale, then surveyed their understanding of annotation ambiguity, data quality, bias, and fairness. Self-reported familiarity with these concepts rose substantially across the board, and most students came to recognise that personal interpretation shapes labels — positioning hands-on annotation as a lightweight, transferable exercise for building [[ai-literacy]] and the kind of data skepticism central to [[critical-thinking-genai-scaffolding]].
 
-The pedagogical claim is that interpretive diversity in labeling is itself a teachable object: rather than treating disagreement as noise to be resolved, instructors can surface it to teach [[bias-mitigation]] and fairness reasoning within [[cs-education]]. This complements wiki threads on [[student-experience]] and epistemic vigilance by targeting the data layer \u2014 students who have personally wrestled with ambiguous labels are less likely to treat model outputs as ground truth.
+The pedagogical claim is that interpretive diversity in labeling is itself a teachable object: rather than treating disagreement as noise to be resolved, instructors can surface it to teach [[bias-mitigation]] and fairness reasoning within [[cs-education]]. This complements wiki threads on [[student-experience]] and epistemic vigilance by targeting the data layer — students who have personally wrestled with ambiguous labels are less likely to treat model outputs as ground truth.
 
 ## Connected Concepts
 
@@ -26636,7 +26680,41 @@ Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026)
 
 ## [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://edtechdev.github.io/aied/articles/epistemic-proactivity-math/)
 
-Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' interactions with AI math tutors evolve over time, identifying a trajectory from superficial prompting ('tell me the answer') to what they term 'epistemic proactivity' — the active, self-directed pursuit of conceptual understanding through AI dialogue. This developmental framework is a significant contribution to [[ai-literacy]] research, as it suggests that productive AI use is not a binary skill but a capacity that matures through scaffolded practice. The temporal analysis reveals that students who receive metacognitive prompting show faster transitions to epistemic proactivity, directly linking to [[metacognition]] and [[self-regulated-learning]] theories. The study has implications for [[stem-education]] and [[k-12]] classrooms, where AI tools are increasingly used as math tutors. It challenges the assumption that students intuitively know how to learn with AI, arguing instead that deliberate scaffolding is essential — a finding that resonates across [[student-experience]] research in AI-mediated learning environments.
+> **Synthesis:** Abdelghani, Kaiser & Murayama (2026) trace how 112 Grade-9 students' interactions with a general-purpose [[llm|LLM]] math tutor evolve over a practice session, identifying a trajectory from superficial prompting toward what they term **epistemic proactivity** — the active, self-directed pursuit of conceptual understanding through AI dialogue. The key contribution is temporal: **static** summaries of AI use (whole-session prompt functions, request types, modeling stages, behavioral diversity) did *not* predict AI-free post-test performance, but **temporal** shifts toward epistemically proactive interaction *did*. This developmental framework is a significant contribution to [[ai-literacy]] research, reframing productive AI use not as a binary skill but as a capacity that matures through scaffolded practice.
+
+## Key Findings
+
+1. **Static measures don't predict learning.** Whole-session summaries of AI use — prompt functions, request types, modeling stages, and behavioral diversity (Shannon entropy) — did not predict AI-free post-test performance after controlling for prior knowledge. What a student does on average tells you little about whether they learned.
+
+2. **Temporal trajectory predicts learning.** Three temporal indicators captured whether interaction shifted toward proactive or reactive orientations from the early to the late phase of the session. The **help-seeking (HS) proactivity shift** (β = .250, p = .009) and **mathematical proactivity shift** (β = .209, p = .031) significantly predicted post-test performance beyond prior knowledge (β = .435), in a model with R²adj = .300. The regulation shift showed a positive but non-significant trend (β = .154, p = .090).
+
+3. **Direction, not magnitude, matters.** A sensitivity check using absolute values of the temporal shifts found them non-significant — post-test performance was associated with the *direction* of students' temporal development (toward proactive vs. reactive), not the amount of behavioral change.
+
+4. **Reactive drift is common.** Across the session, students moved away from understanding-oriented activity toward task work and answer verification: UNDERSTAND fell from 63% to 26% while WORK rose 25%→38% and VALIDATE rose 1%→12%. Help-seeking shifted toward verification (χ² = 17.6, p = .041).
+
+5. **Trajectory groups differ in learning.** A median split on the all-productive composite yielded two groups statistically indistinguishable at baseline (pre-test p = .306) but significantly different on post-test (p = .014): students whose interaction shifted toward proactive orientations (more monitoring, understanding-oriented help-seeking, constructive math work) performed better; those who stayed answer-requesting and moved toward verification/validation performed worse.
+
+## Study design
+
+The study examined Grade-9 students using a web-based LLM tutor on a **mathematical-modeling (MM)** task — an open-ended practice setting where the goal was to improve understanding and prepare for a later independent assessment, not to complete a specific task. 112 students participated; 97 completed both AI-free pre- and post-tests. Pre- and post-test items were drawn from the IQB VERA mathematics item pool, targeting the same modeling concepts with different items to avoid practice effects. Average post-test performance was M = 53.20% (SD = 26.40%).
+
+Student turns were coded along three dimensions hypothesized to capture epistemically proactive AI use: **self-regulated learning (SRL) functions** (plan/monitor/evaluate vs. request), **help-seeking content** (conceptual/procedural vs. verification/answer-seeking), and **mathematical-modeling activity** (understand/structure/mathematize/work vs. interpret/validate). Each turn was assigned a normalized within-session position (turn index ÷ total turns), splitting into early (< .5) and late (≥ .5) phases.
+
+## The epistemic proactivity construct
+
+The paper defines **epistemically proactive AI use** as the ability to sustain higher-level learning behaviors in AI-supported environments: using [[metacognition|metacognitive]] knowledge and monitoring, strategically allocating cognitive effort, and applying pragmatic knowledge of [[help-seeking]] strategies — leading to more agentic, effortful, and learning-oriented engagement with AI. This goes beyond operational prompting skills (writing clear instructions, specifying output formats, asking sophisticated questions) that dominate AI training in education. A well-formed prompt can still elicit an answer poorly aligned with the learner's understanding, reduce cognitive engagement, or replace agency with passive information seeking.
+
+The construct connects GenAI use to established theories of [[self-regulated-learning|SRL]] and help-seeking. SRL theory emphasizes setting goals, monitoring understanding, evaluating progress, and adapting behavior over time; short-circuiting this by moving directly to task implementation may compromise learning. Help-seeking research distinguishes high-quality forms (requesting explanations or hints while preserving responsibility) from answer-oriented forms that bypass learning-relevant effort. In AI-supported learning, these processes become visible in students' conversational traces.
+
+The work is a [[theory-development-aied|theory-building]] contribution, offering a domain-specific, process-sensitive account of how students regulate AI use — moving beyond the aggregate/survey approaches that dominate GenAI-in-education research.
+
+## Implications for AI tutor design and classrooms
+
+**For AI tutor design,** systems should monitor how learner interaction develops *over time*, not only whether individual prompts are high quality. Tutors could detect reactive trajectories (repeated requesting, increasing verification, validation without further math work) and trigger targeted [[scaffolding]]. Crucially, a temporal perspective prevents premature scaffolding: isolated answer-seeking or verification is not necessarily problematic if embedded in a broader trajectory that includes conceptual, procedural, or constructive work. Scaffolding should respond to patterns of interaction, not single prompts out of context. This requires modeling the domain's knowledge components and epistemic practices — the study used Blum's framework for mathematical modeling.
+
+**For classroom practice,** teachers should guide students in remaining epistemically proactive while using AI: identifying knowledge gaps before starting, explaining AI responses in their own words, checking whether a response addresses their original uncertainty, and completing transfer steps without AI support. Teachers should help students distinguish tasks that can be safely delegated to AI from those requiring preserved epistemic responsibility — for example, delegating routine computation is less problematic once students have engaged with underlying concepts, but relying on AI to validate answers may reduce opportunities for monitoring and evaluating one's own reasoning. Student–AI interactions can also become a source of diagnostic information for teachers, revealing how learning strategies develop, where students seek support, and which domain-specific steps they engage with or avoid.
+
+The study is correlational (temporal indicators are not causal mechanisms), and the interaction was short, but it offers a process-sensitive complement to the wiki's [[cognitive-offloading|over-reliance]] and [[student-ai-interaction]] threads — showing that *how* AI use unfolds over time matters for learning as much as *whether* or *how much* it occurs.
 
 ## Connected Concepts
 
@@ -26650,15 +26728,18 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[help-seeking]]
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[learning-analytics]]
+- [[student-ai-interaction]]
+- [[theory-development-aied]]
+
 ## Connected Articles
 
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
+- [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: affective math tutoring
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning in elementary fractions
 
 ## Citation
 
-Rania Abdelghani, Peter Kaiser, Kou Murayama (2026). [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://arxiv.org/abs/2606.28472). arXiv:2606.28472. cs.CY.
+Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://arxiv.org/abs/2606.28472). arXiv:2606.28472 (cs.CY).
 
 ---
 
@@ -37792,7 +37873,9 @@ Shapiro, H., Souto-Otero, M., & Watermeyer, R. (2026). [*Metacognitive AI litera
 
 ## [Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning](https://edtechdev.github.io/aied/articles/metacognitive-awareness-experiential-vs-instructional/)
 
-A quasi-experimental, short-term longitudinal study with 126 first-year engineering students comparing two ways of teaching students how to learn with generative AI: an experiential, hands-on session versus a classical instructional lecture. Metacognitive awareness \u2014 both knowledge of cognition (understanding effective AI-use strategies) and regulation of cognition (applying that knowledge in practice) \u2014 was measured before and after a two-hour session and tracked longitudinally. The design directly addresses a gap flagged across the wiki's [[metacognition]] thread: interventions that build awareness of one's own AI-assisted thinking, rather than just policing AI use.\n\nThe study speaks to the [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] literature by testing whether metacognitive skills for AI-assisted learning are better acquired by doing (experiencing GenAI's strengths and failure modes firsthand) or by being told. It extends [[ai-metacognition-stem-review]] with primary quasi-experimental evidence in an engineering-course context and connects to [[self-regulated-learning]] as a proximal training target for durable, transferable AI-use strategies.
+A quasi-experimental, short-term longitudinal study with 126 first-year engineering students comparing two ways of teaching students how to learn with generative AI: an experiential, hands-on session versus a classical instructional lecture. Metacognitive awareness — both knowledge of cognition (understanding effective AI-use strategies) and regulation of cognition (applying that knowledge in practice) — was measured before and after a two-hour session and tracked longitudinally. The design directly addresses a gap flagged across the wiki's [[metacognition]] thread: interventions that build awareness of one's own AI-assisted thinking, rather than just policing AI use.
+
+The study speaks to the [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] literature by testing whether metacognitive skills for AI-assisted learning are better acquired by doing (experiencing GenAI's strengths and failure modes firsthand) or by being told. It extends [[ai-metacognition-stem-review]] with primary quasi-experimental evidence in an engineering-course context and connects to [[self-regulated-learning]] as a proximal training target for durable, transferable AI-use strategies.
 
 ## Connected Concepts
 
@@ -37806,7 +37889,7 @@ A quasi-experimental, short-term longitudinal study with 126 first-year engineer
 - [[ai-metacognition-stem-review]]
 ## Citation
 
-Benazet i Montobbio, P., Rotter, J., & Hern\u00e1ndez-Leo, D. (2026). [Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning](https://arxiv.org/abs/2607.20047). arXiv:2607.20047. arXiv preprint (cs.CY/cs.HC).
+Benazet i Montobbio, P., Rotter, J., & Hernández-Leo, D. (2026). [Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning](https://arxiv.org/abs/2607.20047). arXiv:2607.20047. arXiv preprint (cs.CY/cs.HC).
 
 ---
 
