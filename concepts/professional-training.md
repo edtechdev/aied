@@ -1,7 +1,7 @@
 ---
 title: Professional Training and AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-19T08:58:32-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high
@@ -21,6 +21,8 @@ confidence: high
 ### Distinct from academic education
 
 Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[adult-learning]] principles inform professional AI training design.
+
+**Expertise regeneration as a training concern.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) argues that HRD must move beyond organizational reskilling to profession-level stewardship: eliminating entry-level developmental positions in AI-exposed sectors can deplete the shared expertise pool on which all organizations depend, with a time-delayed effect that appears only after 5–20 years. This reframes professional training from individual competency development to collective commons maintenance.
 
 ### Connections
 
@@ -55,3 +57,5 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+

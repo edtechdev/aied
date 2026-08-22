@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-19T09:42:57-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [cognitive-offloading, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
 
@@ -67,3 +67,5 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[cognitive-shift-ai-education]] — Cognitive Shift in AI Education
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
 - [[ssaho-ai-academic-integrity-review-2025]] — AI misuse in academic writing and integrity breaches
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+

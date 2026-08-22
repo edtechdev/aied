@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-08-22T07:15:00-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -62,6 +62,8 @@ The wiki's research documents over-reliance as one of the most consequential ris
 ### The CLT framework
 
 Cognitive Load Theory (Sweller) provides a contested theoretical lens on working memory and instruction: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving students with completed tasks and empty learning. Note that the theory's claims are contested in the wider literature, but its framing remains influential in how offloading effects are discussed.
+
+**The profession-level stakes of offloading.** The Cognitive Commons framework ([[cognitive-commons-ai-expertise-regeneration|Lovett 2026]]) extends offloading from an individual to a collective level: when AI lets junior workers skip the cognitive struggle that builds deep expertise, it can deplete a profession's shared expertise pool over time — the "Validation Tether" means effective AI oversight depends on the very mastery that AI adoption may undermine. This reframes individual-level offloading and skill-decay as a systems-level regeneration problem with governance implications.
 
 ### Connections to related concepts
 
@@ -182,3 +184,5 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+
