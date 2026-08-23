@@ -2,8 +2,8 @@
 
 > Relevant open-access **AI-in-education** journal articles identified from RSS feeds that have **not yet been ingested** into the wiki. The maintainer downloads the PDFs from the linked article pages and sends them for full-text ingestion. Sorted by journal.
 
-**Last updated:** 2026-08-18
-**Total backlog:** 86 articles
+**Last updated:** 2026-08-23
+**Total backlog:** 91 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -68,6 +68,8 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 - [Enhancing AI literacy course satisfaction through empowerment in AI problem-solving and ethical awareness: Development and validation of an AI project-based learning scale](https://www.sciencedirect.com/science/article/pii/S2666920X2600086X) — [DOI: 10.1016/j.caeai.2026.100624](https://doi.org/10.1016/j.caeai.2026.100624)
 - [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
 - [Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — [DOI: 10.1016/j.caeai.2026.100654](https://doi.org/10.1016/j.caeai.2026.100654)
+- [AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study](https://www.sciencedirect.com/science/article/pii/S2666920X2600127X) — [DOI: 10.1016/j.caeai.2026.100665](https://doi.org/10.1016/j.caeai.2026.100665)
+- [Automatic discourse relation classification and feedback optimization in English teaching based on transformer BERT model](https://www.sciencedirect.com/science/article/pii/S2666920X26001244) — [DOI: 10.1016/j.caeai.2026.100662](https://doi.org/10.1016/j.caeai.2026.100662)
 
 ## Computers and Education Open (CEAO)
 
@@ -99,6 +101,9 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 - [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://www.sciencedirect.com/science/article/pii/S2666557326000649) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
 - [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
 - [Junior high school student perspectives on the use of ChatGPT in music education](https://www.sciencedirect.com/science/article/pii/S2666557326000583) — [DOI: 10.1016/j.caeo.2026.100387](https://doi.org/10.1016/j.caeo.2026.100387)
+- [Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems](https://www.sciencedirect.com/science/article/pii/S2666557326000765) — [DOI: 10.1016/j.caeo.2026.100405](https://doi.org/10.1016/j.caeo.2026.100405)
+- [Temporal dynamics of online learning interactions: A learning analytics study within the CoI framework](https://www.sciencedirect.com/science/article/pii/S2666557326000698) — [DOI: 10.1016/j.caeo.2026.100398](https://doi.org/10.1016/j.caeo.2026.100398)
+- [A systematic review of student engagement research in adaptive learning platforms](https://www.sciencedirect.com/science/article/pii/S2666557326000327) — [DOI: 10.1016/j.caeo.2026.100360](https://doi.org/10.1016/j.caeo.2026.100360)
 
 ## Frontiers in Psychology
 

@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 
@@ -94,3 +94,5 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI

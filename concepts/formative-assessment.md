@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment in AI Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-22T17:35:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 
@@ -126,3 +126,5 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback

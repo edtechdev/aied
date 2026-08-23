@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -77,3 +77,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
