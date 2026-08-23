@@ -1,19 +1,16 @@
 ---
 title: "MedEasy: Designing AI Standardized Patients for Clinical Consultation Training"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [intelligent-tutoring, generative-ai, higher-ed, active-learning, feedback, adaptive-virtual-patient-psychotherapy-training, professional-training]
-
 sources: ['raw/papers/2606.17512.md']
 confidence: high
 ---
 
-MedEasy multi-agent system simulates standardized patients with varying conditions for medical consultation training; outperforms script-based approaches in realism and adaptability.
+> **Synthesis:** Gao et al. (2026) present MedEasy, a multi-agent system that simulates standardized patients with varying conditions for medical consultation training. By organizing virtual-patient practice through patient dialogue, clinical actions, decision submission, documentation and feedback, it outperforms script-based approaches in realism and adaptability — supporting [[professional-training|clinical]] [[simulation|training]] with [[feedback]]-rich [[active-learning|practice]].
 
-## Synthesis
-
-MedEasy: Designing AI Standardized Patients for Clinical Consultation Training investigates medeasy multi-agent system simulates standardized patients with varying conditions for medical consultation training; outperforms script-based approaches in realism and adaptability. This work connects to existing research on accessible-learning by demonstrating that Abstract:AI standardized patients are becoming a setting for professional training in clinical consultation. This paper presents MedEasy, a multi-agent system that organizes virtual-patient practice through patient dialogue, clinical actions, decision submission, documentation, and feedback. We firs....
+MedEasy multi-agent system simulates standardized patients with varying conditions for medical consultation training, outperforming script-based approaches in realism and adaptability. AI standardized patients are becoming a setting for professional training in clinical consultation. This paper presents MedEasy, a multi-agent system that organizes virtual-patient practice through patient dialogue, clinical actions, decision submission, documentation, and feedback. Its realism and adaptability make it a valuable tool for [[intelligent-tutoring|AI-guided]] [[help-seeking|clinical]] [[lifelong-learning|learning]], connecting to [[affective-tutoring|affective]] and [[equity-in-ai-education|equity]] considerations in [[higher-ed|medical education]].
 
 ## Connected Concepts
 

@@ -1,14 +1,16 @@
 ---
 title: Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [intelligent-tutoring, edtech-platform, higher-ed, stem-education, personalized-learning, learning-analytics, student-experience, rag, llm]
 sources: ['raw/papers/2606.15572.md']
 confidence: medium
 ---
 
-Team-based projects are a cornerstone of engineering and computing courses, but unstructured team formation often leads to poor project outcomes due to misaligned student interests and inadequate skill coverage. This paper introduces a novel, three-stage methodology for creating effective student teams by integrating student preferences with project skill requirements. Students complete a survey, an LLM analyzes project descriptions to extract skills, and a dynamic assignment algorithm matches students to projects. Preliminary evaluations show higher skill coverage and preference satisfaction compared to random or manual assignment, overcoming limitations of CATME Team-Maker.
+> **Synthesis:** Pardi et al. (2026) introduce a three-stage methodology for dynamic student team formation that integrates student preferences with project skill requirements. Students complete a survey, an [[llm|LLM]] analyzes project descriptions to extract skills, and a dynamic assignment algorithm matches students to projects. Preliminary evaluations show higher skill coverage and preference satisfaction than random or manual assignment, overcoming limitations of CATME Team-Maker — addressing a core problem in [[collaborative-learning|team-based]] [[stem-education|engineering and computing]] education.
+
+Team-based projects are a cornerstone of engineering and computing courses, but unstructured team formation often leads to poor project outcomes due to misaligned student interests and inadequate skill coverage. This paper introduces a novel, three-stage methodology for creating effective student teams by integrating student preferences with project skill requirements. Students complete a survey, an [[llm|LLM]] analyzes project descriptions to extract skills, and a dynamic assignment algorithm matches students to projects. Preliminary evaluations show higher [[student-experience|skill coverage and preference satisfaction]] compared to random or manual assignment, overcoming limitations of CATME Team-Maker.
 
 - LLM-driven team formation outperforms CATME Team-Maker for skill coverage and preference alignment in capstone courses.
 

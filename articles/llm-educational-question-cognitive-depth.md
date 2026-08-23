@@ -1,19 +1,16 @@
 ---
 title: "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [llm, generative-ai, automated-assessment, assessment, writing-education, ai-literacy-assessment-misalignment, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]
-
 sources: ['raw/papers/2606.18257.md']
 confidence: high
 ---
 
-LLM-generated educational questions show varying cognitive depth; models excel at factual recall but struggle with higher-order thinking questions per Bloom's taxonomy.
+> **Synthesis:** Wang et al. (2026) evaluate the cognitive depth of [[llm|LLM]]-generated educational questions through a Bloom's Taxonomy lens. Across six widely-used LLMs, they find that models excel at factual recall but struggle to generate questions that stimulate [[critical-thinking|higher-order thinking]] — a key limitation for [[automated-question-generation]] and [[formative-assessment]] in [[higher-ed|education]], with implications for [[ai-literacy|how AI is used]] in assessment.
 
-## Synthesis
-
-From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions investigates llm-generated educational questions show varying cognitive depth; models excel at factual recall but struggle with higher-order thinking questions per bloom's taxonomy. This work connects to existing research on a4l-analytics-pipeline by demonstrating that Abstract:While LLMs show promise in automating educational content creation, their ability to generate questions that stimulate higher-order thinking remains understudied. This work evaluates six widely-used LLMs through a Bloom&#39;s Taxonomy lens, focusing on their capacity to transcend rote memor....
+LLM-generated educational questions show varying cognitive depth; models excel at factual recall but struggle with higher-order thinking questions per Bloom's taxonomy. While LLMs show promise in automating educational content creation, their ability to generate questions that stimulate higher-order thinking remains understudied. This work evaluates six widely-used LLMs through a Bloom's Taxonomy lens, focusing on their capacity to transcend rote memorization. The findings inform [[automated-question-generation]] and [[automated-assessment|assessment]] design, connecting to [[critical-thinking]] and [[cognitive-diagnosis]].
 
 ## Connected Concepts
 

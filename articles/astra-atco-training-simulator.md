@@ -1,18 +1,16 @@
 ---
 title: "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, professional-training, active-learning, llm, adaptive-virtual-patient-psychotherapy-training]
 sources: ['raw/papers/2606.18319.md']
 confidence: medium
 ---
 
-ASTRA uses autonomous AI sim-pilots for scalable air traffic control training; reduces dependency on human role-players while maintaining realistic scenario complexity.
+> **Synthesis:** ASTRA uses autonomous AI sim-pilots to deliver scalable air traffic control (ATCO) training, reducing reliance on human role-players while maintaining realistic scenario complexity. By replacing specialized human trainers ("simpilots") who must role-play both pilots and ATCOs, the system increases training capacity and uses [[llm|LLM]]-driven simulation to support [[professional-training|professional]] [[simulation|training]] at scale.
 
-## Synthesis
-
-ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots investigates astra uses autonomous ai sim-pilots for scalable air traffic control training; reduces dependency on human role-players while maintaining realistic scenario complexity. This work connects to existing research on intelligent-tutoring-systems by demonstrating that Abstract:Air Traffic Control Operators (ATCOs) are vital in ensuring the safe, orderly, and efficient flow of air traffic, yet training capacity is constrained by reliance on specialized human trainers known as simpilots, who must role-play both pilots and ATCOs in a simulated airspace. Existing aut....
+ASTRA uses autonomous AI sim-pilots for scalable air traffic control training, reducing dependency on human role-players while maintaining realistic scenario complexity. Air Traffic Control Operators (ATCOs) are vital to the safe, orderly, and efficient flow of air traffic, yet training capacity is constrained by reliance on specialized human trainers known as simpilots, who must role-play both pilots and ATCOs in a simulated airspace. ASTRA's autonomous sim-pilots remove this bottleneck, enabling scalable [[adaptive-learning|adaptive]] [[active-learning|practice]] in a [[simulation|simulated environment]], with implications for [[intelligent-tutoring|AI tutoring]] and [[professional-training|training-system]] design.
 
 ## Connected Concepts
 

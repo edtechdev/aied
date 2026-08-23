@@ -1,19 +1,16 @@
 ---
 title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [generative-ai, llm, higher-ed, active-learning, feedback, adaptive-virtual-patient-psychotherapy-training, professional-training]
-
 sources: ['raw/papers/2606.17786.md']
 confidence: high
 ---
 
-AI-driven interactive patient avatars for psychotherapy training provide accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques.
+> **Synthesis:** Riachi et al. (2026) introduce AI-driven interactive patient avatars for psychotherapy training, providing accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. Because opportunities for safe, standardized training are limited by ethical, logistical and resource constraints, the system enables trainees to practice evidence-based interventions such as Acceptance and Commitment Therapy (ACT) with meaningful [[feedback]] and measurable skill gains — extending [[simulation|simulated]] [[professional-training|professional training]] to psychotherapy.
 
-## Synthesis
-
-Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars investigates ai-driven interactive patient avatars for psychotherapy training provide accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. This work connects to existing research on accessible-learning by demonstrating that Abstract:Training psychotherapists in evidence-based interventions such as Acceptance and Commitment Therapy (ACT) requires repeated practice with meaningful feedback, yet opportunities for safe, standardized training are limited by ethical, logistical, and resource constraints. We introduce a syste....
+AI-driven interactive patient avatars for psychotherapy training provide accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. Training psychotherapists in evidence-based interventions such as Acceptance and Commitment Therapy (ACT) requires repeated practice with meaningful feedback, yet opportunities for safe, standardized training are limited by ethical, logistical, and resource constraints. The system introduces interactive patient avatars that give trainees accessible, repeatable [[active-learning|practice]] with measurable improvement, supporting [[affective-tutoring|affective]] and [[formative-assessment|formative]] dimensions of [[higher-ed|professional]] [[feedback|training feedback]].
 
 ## Connected Concepts
 
