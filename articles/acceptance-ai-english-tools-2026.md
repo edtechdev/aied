@@ -1,7 +1,7 @@
 ---
 title: "Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [language-learning, generative-ai, motivation, self-regulated-learning, higher-ed, teacher-role, engagement-metrics, personalized-learning]
 sources: ['raw/papers/10.3389_fpsyg.2026.1806457.md']
@@ -24,7 +24,7 @@ The study surveyed 210 undergraduates from a Chinese university, with balanced d
 
 ## Implications for AI in Education
 
-The findings argue that acceptance of AI-assisted [[language-learning]] tools is not purely a matter of perceived usefulness or ease of use — it is shaped by learners' psychological resources ([[motivation]], [[self-regulated-learning|self-efficacy]]), affective states (anxiety), and evaluative judgments (risk perception), which vary descriptively across disciplines and proficiency levels. For practitioners, this supports designing AI-assisted English learning that builds learner confidence and motivation rather than merely optimizing usability, and tailoring support to disciplinary norms and proficiency groups. It also cautions against simplistic assumptions that anxiety always blocks or risk perception always deters AI adoption. The study grounds a learner-centered extension of TAM for [[generative-ai]] English learning, complementing system-centered technology acceptance accounts.
+The findings argue that acceptance of AI-assisted [[language-learning]] tools is not purely a matter of perceived usefulness or ease of use — it is shaped by learners' psychological resources ([[motivation]], [[self-efficacy]]), affective states (anxiety), and evaluative judgments (risk perception), which vary descriptively across disciplines and proficiency levels. For practitioners, this supports designing AI-assisted English learning that builds learner confidence and motivation rather than merely optimizing usability, and tailoring support to disciplinary norms and proficiency groups. It also cautions against simplistic assumptions that anxiety always blocks or risk perception always deters AI adoption. The study grounds a learner-centered extension of TAM for [[generative-ai]] English learning, complementing system-centered technology acceptance accounts.
 
 ## Limitations
 
