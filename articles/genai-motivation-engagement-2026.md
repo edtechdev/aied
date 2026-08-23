@@ -1,7 +1,7 @@
 ---
 title: "Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-08-13"
+updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [generative-ai, motivation, self-determination-theory, engagement-metrics, higher-ed, personalized-learning, student-experience, ai-education]
 sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']
@@ -24,7 +24,7 @@ A quantitative research design was used with data from 297 undergraduate and pos
 
 ## Implications for AI in Education
 
-The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[student-engagement|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-experience|student engagement]] in higher education.
+The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[student-engagement|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-engagement|student engagement]] in higher education.
 
 ## Limitations
 

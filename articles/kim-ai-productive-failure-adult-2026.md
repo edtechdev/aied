@@ -1,7 +1,7 @@
 ---
 title: "Designing AI Systems to Support Productive-Failure-Based Learning"
 created: "2026-08-23T08:00:00-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, adult-learning, instructional-design, llm, human-in-the-loop-ai, higher-ed]
 sources: ['raw/papers/kim-ai-productive-failure-adult-2026.md']
@@ -16,7 +16,7 @@ Generative AI can support productive-failure-based learning across problem explo
 
 ## The productive failure framework
 
-Productive Failure (PF), grounded in [[learning-theories|constructivist principles]], engages learners with problems targeting concepts they have not yet learned, struggling to generate solutions BEFORE receiving direct instruction (Kapur, 2008; Kapur & Bielaczyc, 2012). Because learners generate solutions without cognitive support, they rely on [[prior-knowledge|prior knowledge]] and produce suboptimal or incorrect solutions. The initial struggle and failure is a powerful catalyst: it activates and differentiates prior knowledge and prepares learners to learn better from subsequent instruction. PF benefits include enhanced [[transfer-of-learning|knowledge transfer]], durable skills ([[critical-thinking]], resilience, communication), reduced fear of mistakes, increased engagement, and positive attitudes toward lifelong learning.
+Productive Failure (PF), grounded in [[constructivist|constructivist principles]], engages learners with problems targeting concepts they have not yet learned, struggling to generate solutions BEFORE receiving direct instruction (Kapur, 2008; Kapur & Bielaczyc, 2012). Because learners generate solutions without cognitive support, they rely on [[prior-knowledge|prior knowledge]] and produce suboptimal or incorrect solutions. The initial struggle and failure is a powerful catalyst: it activates and differentiates prior knowledge and prepares learners to learn better from subsequent instruction. PF benefits include enhanced [[transfer-of-learning|knowledge transfer]], durable skills ([[critical-thinking]], resilience, communication), reduced fear of mistakes, increased engagement, and positive attitudes toward lifelong learning.
 
 ## How AI supports each PF phase (adult-learner perceptions)
 
