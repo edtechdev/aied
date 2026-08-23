@@ -8,9 +8,7 @@ sources: ['raw/papers/farrokhnia-genai-feedback-student-revisions-2026.md']
 confidence: high
 ---
 
-# Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
-
-> **Synthesis:** Farrokhnia et al. (2026) run a randomized three-group experiment with 70 university students to compare teacher feedback against ChatGPT feedback produced with two prompting techniques — Zero-shot and chain-of-thought (CoT) — for argumentative essay writing in Persian. They find that CoT prompting yields significantly higher-quality feedback than both Zero-shot prompting and a human teacher, but that this quality advantage does not translate into greater essay revision gains. Teacher feedback, rated lower in quality, produces comparable improvement in revised essays. The authors conclude that feedback quality alone is insufficient; students' [[student-engagement|engagement]] with and uptake of feedback are the decisive factors, motivating a hybrid model in which teachers help students interpret and apply GenAI feedback.
+> **Synthesis:** Farrokhnia et al. (2026) run a randomized three-group experiment with 70 university students to compare teacher feedback against ChatGPT feedback produced with two prompting techniques — Zero-shot and chain-of-thought (CoT) — for argumentative essay writing in Persian. They find that CoT prompting yields significantly higher-quality feedback than both Zero-shot prompting and a human teacher, but that this quality advantage does not translate into greater essay revision gains. Teacher feedback, rated lower in quality, produces comparable improvement in revised essays. The authors conclude that feedback quality alone is insufficient; students' [[student-engagement|engagement]] with and uptake of feedback are the decisive factors, motivating a hybrid model in which teachers help students interpret and apply [[generative-ai|GenAI]] feedback.
 
 ## Core Finding
 
@@ -22,7 +20,7 @@ The study directly interrogates [[prompt-engineering]] as a determinant of GenAI
 
 ## Why Quality Did Not Translate into Revision Gains
 
-The finding that teacher feedback — rated lower in quality — produced comparable revision improvements highlights the critical role of [[feedback-literacy]] and student [[agency]]. The authors note that high-quality feedback should be specific and actionable, but its effect depends on students' willingness and ability to implement it. Notably, GenAI feedback quality was significantly associated with students' initial essay quality, whereas teacher feedback quality showed no such association — meaning GenAI responded differently depending on how strong the initial draft was, while the teacher calibrated more consistently. The study's Persian-language setting also extends GenAI-feedback research beyond English-dominant contexts, testing generalizability in a linguistically underrepresented language.
+The finding that teacher feedback — rated lower in quality — produced comparable revision improvements highlights the critical role of [[feedback-literacy]] and student [[agency]]. The authors note that high-quality feedback should be specific and actionable, but its effect depends on students' willingness and ability to implement it. Notably, GenAI feedback quality was significantly associated with students' initial essay quality, whereas teacher feedback quality showed no such association — meaning GenAI responded differently depending on how strong the initial draft was, while the teacher calibrated more consistently. The study's Persian-language setting also extends GenAI-feedback research beyond [[language-learning|English]]-dominant contexts, testing generalizability in a linguistically underrepresented language.
 
 ## Implications for Practice
 

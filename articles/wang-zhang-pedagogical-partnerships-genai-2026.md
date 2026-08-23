@@ -8,9 +8,7 @@ sources: ['raw/papers/wang-zhang-pedagogical-partnerships-genai-2026.md']
 confidence: high
 ---
 
-# Pedagogical partnerships with generative AI in [[higher-ed|higher education]]: how dual cognitive pathways paradoxically enable transformative learning
-
-> **Synthesis:** Wang and Zhang (2026) use a four-study mixed-methods design across China, Europe, and the United States (N=912) to examine how students' framing of GenAI as a [[pedagogy|pedagogical]] partner affects transformative learning through two simultaneous cognitive pathways — vigilance (critical evaluation) and offloading (strategic delegation). Their central, counterintuitive finding is that strategic [[cognitive-offloading|cognitive offloading]], contrary to traditional assumptions, can enhance transformative learning by liberating mental resources for higher-order reflection once it exceeds certain thresholds. Efficiency orientation, rather than undermining learning, acts as an amplifier of both vigilance and offloading. The study reconceptualizes student-AI dynamics from zero-sum competition to synergistic [[collaborative-learning|collaboration]].
+> **Synthesis:** Wang and Zhang (2026) use a four-study mixed-methods design across China, Europe, and the United States (N=912) to examine how students' framing of [[generative-ai|GenAI]] as a [[pedagogy|pedagogical]] partner affects transformative learning through two simultaneous cognitive pathways — vigilance (critical evaluation) and offloading (strategic delegation). Their central, counterintuitive finding is that strategic [[cognitive-offloading|cognitive offloading]], contrary to traditional assumptions, can enhance transformative learning by liberating mental resources for higher-order reflection once it exceeds certain thresholds. Efficiency orientation, rather than undermining learning, acts as an amplifier of both vigilance and offloading. The study reconceptualizes student-AI dynamics from zero-sum competition to synergistic [[collaborative-learning|collaboration]].
 
 ## Core Finding
 
