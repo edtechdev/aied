@@ -8,7 +8,7 @@ sources: ['raw/papers/scaffolding-systematic-reviews-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Wang et al. (2026) treat systematic reviews (SRs) in Learning Design and Technology (LDT) as **intentional learning experiences** rather than mere methodological procedures. Drawing on their interdisciplinary team of novice and experienced researchers, they reflect on the realities of each SR stage, showing how [[scaffolding|scaffolding through mentoring]], peer collaboration, and judicious AI integration helped manage ambiguity, foster team consistency, and sustain methodological rigor. Automation tools (chiefly screening) reduced procedural burdens, but interpretive decisions required substantial human oversight — a clear instance of [[human-in-the-loop-ai]].
+> **Synthesis:** Wang et al. (2026) treat [[scaffolding|systematic reviews]] (SRs) in Learning Design and Technology (LDT) as **intentional learning experiences** rather than mere methodological procedures. Drawing on their interdisciplinary team of novice and experienced researchers, they reflect on the realities of each SR stage, showing how [[scaffolding|scaffolding through mentoring]], peer collaboration, and judicious AI integration helped manage ambiguity, foster team consistency, and sustain methodological rigor. Automation tools (chiefly screening) reduced procedural burdens, but interpretive decisions required substantial [[human-in-the-loop-ai|human oversight]] — a clear instance of [[human-in-the-loop-ai]].
 
 ## Core Finding
 
@@ -55,4 +55,4 @@ This paper significantly contributes to the wiki's [[scaffolding]] and [[human-i
 
 ## Citation
 
-Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [*Scaffolding systematic reviews in learning design and technology through mentoring and AI integration*](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*. DOI: 10.1007/s11423-026-10629-8.
+Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [*Scaffolding systematic reviews in learning design and technology through mentoring and AI integration*](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*.

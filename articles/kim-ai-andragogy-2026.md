@@ -12,7 +12,7 @@ confidence: high
 
 ## Core Finding
 
-Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *collaborative learning agent* that helps them solve complex problems, share knowledge, deepen understanding, and hone higher-order thinking. For [[instructional-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
+Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *[[collaborative-learning|collaborative learning agent]]* that helps them solve complex problems, share knowledge, deepen understanding, and hone [[critical-thinking|higher-order thinking]]. For [[instructional-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
 
 ## AI as a collaborative learning agent
 
@@ -38,7 +38,7 @@ AI supports **relevance** through goal orientation — real-time progress monito
 
 **Human-in-the-loop (HITL):** Learners want systems that build [[human-in-the-loop-ai|shared mental models]] with them — human-interpretable decision-making so they can understand and anticipate system behavior while the AI continuously learns their expectations, preferences, and goals. They also demand **human-AI co-creation**: *"It's not the system that decides what to offer for my learning journey. I'd like to take part in deciding…"* (P20), letting learners influence generative parameters and model choices as co-creators rather than passive users. This is a direct call to honor [[agency|learner agency]].
 
-**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and anxiety. This emotional attunement supports [[well-being]] and self-regulation in learning.
+**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and anxiety. This emotional attunement supports [[well-being]] and [[self-regulated-learning|self-regulation]] in learning.
 
 **Adaptability:** AI should keep learning from new interactions after deployment rather than remaining frozen on static datasets, graduating from closed problem-solving to varied real-world problems. It should also be **interoperable**, moving and exchanging data seamlessly across platforms and tools — even enabling [[conversational-ai|multi-agent]] collaboration.
 
@@ -82,4 +82,4 @@ This paper is the companion to the wiki's [[kim-ai-productive-failure-adult-2026
 
 ## Citation
 
-Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Adult learners' perspectives of AI applications in supporting andragogy*](https://doi.org/10.1007/s11423-026-10621-2). *Educational Technology Research & Development*. DOI: 10.1007/s11423-026-10621-2.
+Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Adult learners' perspectives of AI applications in supporting andragogy*](https://doi.org/10.1007/s11423-026-10621-2). *Educational Technology Research & Development*.

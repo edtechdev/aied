@@ -11,7 +11,7 @@ confidence: high
 
 ## Core Finding
 
-A hybrid ITS that combines a structured graph-based domain model (EKSG), a relational database for real-time activity/knowledge tracking, and a generative-AI content-creation assistant is feasible and pedagogically effective in a dynamic domain. In the algorithm comparison, the **Bayesian knowledge propagation algorithm yielded the highest measured learning gains** (BN +24% vs KST +5%, WDDI +1%), and it also had the lowest prediction error alongside a graph-neural-network baseline — supporting it as the strongest adaptive algorithm in this coarse-grained curriculum setting.
+A hybrid [[intelligent-tutoring|ITS]] that combines a structured graph-based domain model (EKSG), a relational database for real-time activity/knowledge tracking, and a generative-AI content-creation assistant is feasible and pedagogically effective in a dynamic domain. In the [[adaptive-learning|adaptive algorithm]] comparison, the **Bayesian knowledge propagation algorithm yielded the highest measured learning gains** (BN +24% vs KST +5%, WDDI +1%), and it also had the lowest prediction error alongside a graph-neural-network baseline — supporting it as the strongest adaptive algorithm in this coarse-grained [[curriculum-design|curriculum]] setting.
 
 ## What the System Is
 
@@ -25,10 +25,10 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 ## How Adaptation Works
 
 - Learner assessment responses are mapped to **IFL mastery values** per knowledge unit (truth/falsity/hesitation on an adapted Atanassov IFL triangle).
-- These observed values are **propagated through the knowledge graph** using one of three algorithms (BN, KST, or WDDI) to estimate mastery of related (unassessed) units.
+- These observed values are **propagated through the [[knowledge-graph|knowledge graph]]** using one of three algorithms (BN, KST, or WDDI) to estimate mastery of related (unassessed) units.
 - The system recommends the next knowledge unit: units outside the "KNOWS" region are ranked by proximity to the "knows" vertex.
 - **Forgetting** is modeled as a vector shift toward "unknown" using the Ebbinghaus forgetting curve, driven by elapsed time and repetitions; units most vulnerable to decay are prioritized for review.
-- Learners **may follow or override recommendations**, supporting agency and self-regulated learning.
+- Learners **may follow or override recommendations**, supporting [[agency]] and [[self-regulated-learning|self-regulated learning]].
 
 ## Results
 
@@ -44,7 +44,7 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 
 ## Relevance to the wiki
 
-This is a development article that demonstrates a complete, implemented pipeline from a knowledge-graph domain model through adaptive algorithms and real-time learning analytics to generative content creation — an integration rarely reported end-to-end. Its empirical comparison of multiple adaptive algorithms (with the **Bayesian algorithm showing the highest knowledge gains**) is directly relevant to comparative ITS design, while its explicit modeling of forgetting, IFL-based uncertainty, and log-driven self-regulated-learning analysis connects several core wiki themes. The GenAI content-generation component with teacher-in-the-loop validation offers an applied example of generative AI in instructional design.
+This is a development article that demonstrates a complete, implemented pipeline from a [[knowledge-graph|knowledge-graph domain model]] through adaptive algorithms and real-time [[learning-analytics|learning analytics]] to generative content creation — an integration rarely reported end-to-end. Its empirical comparison of multiple adaptive algorithms (with the **Bayesian algorithm showing the highest knowledge gains**) is directly relevant to comparative ITS design, while its explicit modeling of forgetting, IFL-based uncertainty, and log-driven [[self-regulated-learning|self-regulated-learning analysis]] connects several core wiki themes. The GenAI content-generation component with teacher-in-the-loop validation offers an applied example of generative AI in instructional design.
 
 ## Connected Concepts
 
@@ -72,4 +72,4 @@ This is a development article that demonstrates a complete, implemented pipeline
 
 ## Citation
 
-Csépányi-Fürjes, L., & Kovács, L. (2026). [Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting](https://doi.org/10.1007/s11423-026-10639-6). *Educational Technology Research and Development*. https://doi.org/10.1007/s11423-026-10639-6
+Csépányi-Fürjes, L., & Kovács, L. (2026). [Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting](https://doi.org/10.1007/s11423-026-10639-6). *Educational Technology Research and Development*.
