@@ -4,7 +4,7 @@ Everything you need to run your own automated research wiki — a static site th
 
 **What this tooling does:**
 - **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph) and EdArXiv for new papers in your domain
-- **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, BJET — see `config.example.yaml`)
+- **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE — see `config.example.yaml`)
 - Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, with cross-links and a tag taxonomy
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt`/`llms-full.txt`
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
