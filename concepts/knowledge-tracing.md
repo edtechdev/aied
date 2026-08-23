@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-08-18T14:55:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 confidence: medium
@@ -54,3 +54,5 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]- [[trace-course-grade-prediction-2026]]
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+

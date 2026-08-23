@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-19T14:15:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [educational-robotics, robots-in-education, social-robots, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, embodied-learning]
 confidence: high
@@ -36,6 +36,7 @@ Two strands shape the social side of robotics in education.
 
 A defining theme is that robots are effective when they support genuine learning goals — not as isolated technical exercises. The value of a robot depends on the pedagogical context: teaching computational thinking ([[computational-thinking]]), supporting [[stem-education|STEAM]], building [[cs-education|programming]] skills, motivating learners ([[motivation]], [[student-engagement|engagement]]), or supporting [[social-emotional-learning]] and [[equity-in-ai-education|inclusion]]. Robotics also connects to [[project-based-learning]], [[game-based-learning]], and [[experiential-learning]]. Key design considerations include preserving learner [[agency]], building [[trust]], supporting [[self-efficacy]], and grounding learning in [[embodied-learning|embodied interaction]]. In [[language-learning]], [[robot-assisted-language-learning-meta-analysis-2026|meta-analytic evidence]] points to the effectiveness of embodied robot-assisted language learning.
 
+- **Pathways to learning AI-powered robotics.** [[educational-robotics-pathways-2026|A qualitative study]] of high school students in a robotics+AI curriculum found learning through real-world practice, designing, and playful creative expression (constructionist, epistemological-pluralist lens).
 ## Connected Concepts
 
 - [[computational-thinking]]
@@ -81,3 +82,5 @@ A defining theme is that robots are effective when they support genuine learning
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+

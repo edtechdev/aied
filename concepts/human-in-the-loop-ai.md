@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
@@ -56,6 +56,7 @@ Human-in-the-loop design has become central to the wiki's [[agentic-ai|agentic A
 
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allocation strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value. The most effective HITL systems concentrate scarce human expertise where automated systems are weakest (distractor design, explanatory feedback, edge-case adjudication, ethical judgment) and automate the rest — preserving quality, safety, and trust while scaling production.
 
+- **Human oversight persists in AI-assisted work.** [[scaffolding-systematic-reviews-2026|Systematic-review research]] found AI automation tools reduced procedural burdens (e.g. screening) but interpretive decisions still required substantial human oversight; [[kim-ai-andragogy-2026|andragogy research]] makes human-in-the-loop (shared mental models, co-creation) a core AI design principle.
 ## Connected Concepts
 
 - [[formative-assessment]]
@@ -108,4 +109,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
+- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 

@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-22T17:45:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high
@@ -96,4 +96,5 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 

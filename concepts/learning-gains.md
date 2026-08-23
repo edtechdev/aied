@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 confidence: high
@@ -115,4 +115,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[social-emotional-learning]] — Social-Emotional Learning
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 

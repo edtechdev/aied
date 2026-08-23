@@ -1,7 +1,7 @@
 ---
 title: Student Modeling
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring]
 confidence: high
@@ -69,3 +69,5 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+

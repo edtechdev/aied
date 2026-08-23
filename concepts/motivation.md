@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-19T10:47:32-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [motivation, student-experience, engagement-metrics, affective-computing, self-determination-theory, ai-education]
 confidence: high
@@ -56,4 +56,5 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[social-emotional-learning]] — Social-Emotional Learning
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
