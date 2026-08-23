@@ -59,6 +59,7 @@ This is a landmark historical piece that anchors the wiki's developing **history
 
 ## Connected Concepts
 
+- [[history-of-aied]] — History of AI in Education (this article anchors this concept)
 - [[intelligent-tutoring]]
 - [[constructivist]]
 - [[agency]]

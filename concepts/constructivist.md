@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T13:30:00-04:00"
+updated: "2026-08-23T13:45:00-04:00"
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -19,6 +19,17 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 - **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[student-misconceptions-ai]] and to AI tutors that adapt to the learner.
 - **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally situated activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
 - **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" engagement above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
+
+## Constructionism
+
+**Constructionism** is the branch of constructivism associated with Seymour Papert that adds a specific claim: learning happens most powerfully when learners construct *external, shareable artifacts* — physical or digital objects they design, build, and debug. Where Piagetian constructivism focuses on the internal mental construction of knowledge, constructionism holds that this construction is best supported and made visible through making something tangible (Harel & Papert, 1991). In [[history-of-aied|AIED history]], constructionism stands as the "agency" pole of the field's central control-vs-agency tension, set against Anderson's structured cognitive tutors.
+
+- **Logo and microworlds.** Papert co-developed Logo (1967) with its iconic "turtle" — a programming microworld where children explore geometry and other powerful ideas by commanding and debugging a visible agent. Debugging is reframed as a natural, valuable part of learning, not failure.^[[mishra-control-vs-agency-history-2025]]
+- **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that teaching is the efficient transfer of knowledge — and instead positions learners as autonomous agents who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
+- **Lineage into modern edtech.** Logo's emphasis on creative, hands-on construction underpins [[game-based-learning]], [[project-based-learning]], [[educational-robotics|robotics]] (LEGO Mindstorms, Scratch, programmable bricks), and the broader maker movement.
+- **The constructionist legacy in AI.** Constructionism implies AI tools should serve as **materials to build with** — thinking tools and creative co-constructors that the learner directs — rather than as answer-providing instructors. This is the direct ancestor of the wiki's [[genai-mindtool-generative-learning|mindtool]] framing of generative AI and of design commitments that preserve [[agency|learner agency]] over the learning process.^[[educational-robotics-pathways-2026]]
+
+Constructionism is thus both a learning theory and a critique: it insists that the purpose of education is not to reproduce existing knowledge structures but to empower learners to construct and transform them — a stance with clear implications for whether AI in education reinforces or challenges established hierarchies.
 
 ## Constructivism and AI in education
 
