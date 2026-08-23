@@ -33,7 +33,12 @@ For each NEW article, fetch the article page URL using `web_extract`.
 
 **Save full text when available** to `raw/papers/<doi-slug>.md` with frontmatter (source_url, ingested_date, doi). Reference it in the article's `sources:` field ONLY — never put `raw/` paths in the article body (`^[raw/...]` footnotes and `[local](raw/...)` links render as broken literal text on the live site; the Astro renderer doesn't process them and `raw/` isn't deployed).
 
-**If the article is open access but full text CANNOT be retrieved** (e.g., the publisher blocks scraping with CAPTCHA/bot protection, as ScienceDirect does; or the fetch times out after retries): still create the article page from the abstract (the pipeline works fine from an abstract), save the abstract into `raw/papers/<doi-slug>.md` with the same frontmatter, and ADD the article to a running `FULL_TEXT_PENDING` list with: article slug, full title, DOI, and publisher page URL. The wiki maintainer will manually download the PDF and send it to complete the full text.
+**If the article is open access but full text CANNOT be retrieved** (e.g., the publisher blocks scraping with CAPTCHA/bot protection, as ScienceDirect does; or the fetch times out after retries): **DO NOT create an article page in the wiki.** Instead:
+1. Add the article to `/home/doug/wiki/AIED-BACKLOG.md` under its journal's section (follow the existing format: `- [Title](article-url) — [DOI: xxx](doi-url)`).
+2. Include it in a **FULL_TEXT_PENDING** list in your final report with: article title, DOI, and publisher page URL — formatted so the maintainer can click through and download the PDF.
+3. Update the backlog's `**Total backlog:** N` count and `**Last updated:**` date.
+
+The maintainer will manually download each PDF and send it for full-text ingestion. Do NOT ingest an abstract-only article into the wiki when full text is unavailable.
 
 ### 4. Write article files
 Create `articles/<slug>.md` with:
