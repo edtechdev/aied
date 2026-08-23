@@ -1,14 +1,14 @@
 ---
 title: AI-accelerated End-to-End Framework for Rapid Professional Upskilling
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [professional-training, upskilling, workforce-development, llm, multi-agent, ai-tutors, assessment-development, content-generation, knowledge-acquisition, verification]
 sources: ['raw/papers/2607.14044.md']
 confidence: high
 ---
 
-> **Synthesis:** The Crew Scaler framework applies AI acceleration across all five stages of professional upskilling—knowledge acquisition, content development, content review and verification, AI-tutor coaching, and assessment development—with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, spaced review, misconception-keyed distractors, 16 tutoring protocols).
+> **Synthesis:** The Crew Scaler framework applies AI acceleration across all five stages of [[professional-training|professional upskilling]]—[[llm|knowledge acquisition]], content development, content review and verification, AI-tutor coaching, and [[formative-assessment|assessment development]]—with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, spaced review, misconception-keyed distractors, 16 tutoring protocols).
 
 ## The Five-Stage Pipeline
 
@@ -16,10 +16,10 @@ The Crew Scaler framework organizes rapid upskilling as an end-to-end AI-acceler
 
 | Stage | AI Acceleration | Learning Efficiency | Quality Control |
 |---|---|---|---|
-| Knowledge Acquisition | LLM-assisted domain exploration & extraction | Prerequisite-ordered 4-level hierarchy | Blueprint coverage checks |
+| Knowledge Acquisition | [[llm|LLM]]-assisted domain exploration & extraction | Prerequisite-ordered 4-level hierarchy | Blueprint coverage checks |
 | Content Development | AI-drafted chapters; condensation passes | One-new-element pacing; 70/20/10 review | Fixed templates; six-pass revision |
-| Content Review & Verification | Automated hallucination & faithfulness checks | Defects caught before learners study | SME audit; immutable audit trail |
-| AI-Tutor Coaching | Scalable one-to-one protocolized tutoring | Intent- and affect-adaptive protocols | Integrity guardrails; grounded RAG |
+| Content Review & Verification | Automated [[hallucination-risk|hallucination]] & faithfulness checks | Defects caught before learners study | SME audit; immutable audit trail |
+| AI-Tutor Coaching | Scalable one-to-one protocolized [[intelligent-tutoring|tutoring]] | Intent- and affect-adaptive protocols | Integrity guardrails; grounded [[rag|RAG]] |
 | Assessment Development | AI-generated items & distractors | Misconception-targeted diagnostic distractors | Blueprint tagging; difficulty distribution |
 
 Humans retain high-judgment roles (blueprint design, SME review, misconception authoring, item rating) while AI absorbs volume work, keeping human expertise in the *multiplier* regime.
@@ -27,7 +27,7 @@ Humans retain high-judgment roles (blueprint design, SME review, misconception a
 ## Key Design Features
 
 - **Knowledge hierarchy**: content organized into 4 levels—foundational, building blocks, integrated concepts, advanced—with strict dependency chains
-- **16 tutoring protocols**: including Socratic questioning, worked examples, hint escalation, spaced retrieval, productive failure, and affective support (prioritizing boredom over frustration)
+- **16 tutoring protocols**: including [[socratic-method|Socratic questioning]], worked examples, hint escalation, spaced retrieval, productive failure, and [[affective-tutoring|affective support]] (prioritizing boredom over frustration)
 - **Misconception-keyed distractors**: every assessment item traces to an atomic knowledge item with documented misconceptions; distractors engineered from misconceptions, not invented ad-hoc
 - **Hallucination verification**: four-type taxonomy (factual, reasoning, contextual, true fabrications) with RAGAS-adapted accuracy standards
 - **530-question assessment bank** tagged to a 10-domain, 53-skill blueprint
@@ -43,8 +43,8 @@ Three independent, externally checkable signals:
 ## Gap Analysis
 
 The paper identifies four gaps in existing frameworks:
-- **Fragmentation**: no framework covers end-to-end from knowledge acquisition through industry assessment
-- **Missing verification**: hallucination detection (~60% rate on post-cutoff questions) is absent from education pipelines
+- **Fragmentation**: no framework covers end-to-end from knowledge acquisition through industry [[formative-assessment|assessment]]
+- **Missing verification**: [[hallucination-risk|hallucination detection]] (~60% rate on post-cutoff questions) is absent from education pipelines
 - **Shallow pedagogy**: default LLM tutoring achieves only 52–70% correct actions
 - **Self-referential validation**: most frameworks generate their own success measures rather than facing external standards
 

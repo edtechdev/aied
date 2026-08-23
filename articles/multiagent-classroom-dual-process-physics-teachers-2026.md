@@ -1,7 +1,7 @@
 ---
 title: "A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers"
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [multi-agent, physics-education, teacher-training, simulation, stem-education, higher-ed]
 
@@ -9,9 +9,9 @@ sources: ['raw/papers/2608.05820.md']
 confidence: medium
 ---
 
-> **Synthesis:** Tufino (2026) pilots a simulated multi-agent AI classroom where five AI students each enact distinct dual-process theory (DPT) reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. Fifteen graduate students showed significant improvement in diagnostic scores (p=0.014, r=0.79), but during the simulation itself used predominantly uniform guiding questions — revealing a knowing-doing gap on the developmental trajectory toward responsive teaching.
+> **Synthesis:** Tufino (2026) pilots a simulated [[agentic-ai|multi-agent]] AI classroom where five AI students each enact distinct dual-process theory (DPT) reasoning hazards, giving prospective [[physics-education|physics]] teachers rare practice in responding to authentic student reasoning. Fifteen graduate students showed significant improvement in diagnostic scores (p=0.014, r=0.79), but during the [[simulation]] itself used predominantly uniform guiding questions — revealing a knowing-doing gap on the developmental trajectory toward responsive [[pedagogy|teaching]].
 
-Responding productively to authentic student reasoning is among the most difficult teaching skills to develop, and prospective teachers get few opportunities to practice it. This pilot study created a simulated class of five AI students, each consistently enacting a distinct dual-process theory reasoning hazard. Fifteen graduate students in a physics teacher preparation course diagnosed vignettes before/after interacting with the simulated class, showing significant diagnostic improvement — but their actual questioning during the simulation revealed a gap between knowing DPT vocabulary and applying it in real-time.
+Responding productively to authentic student reasoning is among the most difficult [[teacher-role|teaching]] skills to develop, and prospective teachers get few opportunities to practice it. This pilot study created a [[simulation|simulated]] class of five AI students, each consistently enacting a distinct dual-process theory reasoning hazard. Fifteen graduate students in a [[physics-education|physics]] [[teacher-education|teacher preparation]] course diagnosed vignettes before/after interacting with the simulated class, showing significant diagnostic improvement — but their actual questioning during the simulation revealed a gap between knowing DPT vocabulary and applying it in real-time.
 
 - Diagnostic scores improved significantly (Wilcoxon p=0.014, r=0.79)
 - During simulation, participants used predominantly uniform guiding questions

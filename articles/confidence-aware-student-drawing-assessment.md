@@ -1,7 +1,7 @@
 ---
 title: Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 created: "2026-06-19T04:33:04-04:00"
-updated: "2026-08-14"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [automated-grading, stem-education, formative-assessment, k-12, efficacy-study, assessment-validity]
 sources: ['raw/papers/2606.20264.md']
@@ -12,15 +12,15 @@ confidence: high
 
 ## Overview
 
-A Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-drawn scientific models on six NGSS-aligned middle school assessment items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling **selective automation**: high-confidence responses are auto-scored, uncertain cases are deferred for human review. Improves scoring reliability while supporting a practical trade-off between automated coverage and scoring risk.
+A Vision Transformer (ViT) with LoRA adaptation for [[automated-assessment|automated scoring]] of student-drawn scientific models on six NGSS-aligned middle school [[k-12|assessment]] items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling **selective automation**: high-confidence responses are auto-scored, uncertain cases are deferred for human review. Improves [[assessment-validity|scoring reliability]] while supporting a practical trade-off between automated coverage and scoring risk.
 
 ## Key Findings
 
 - **Problem:** Automated scoring of student-drawn scientific models lacks reliability indicators, leaving teachers unable to decide when to trust scores.
 - **Method:** Vision Transformer (ViT) with LoRA + confidence-aware framework using test-time perturbations.
-- **Dataset:** Six NGSS-aligned middle school assessment items (477-816 responses each, scored Beginning/Developing/Proficient).
+- **Dataset:** Six NGSS-aligned middle school [[k-12|assessment]] items (477-816 responses each, scored Beginning/Developing/Proficient).
 - **Key innovation:** Response-level confidence enables selective automation — high-confidence auto-scored, uncertain cases deferred for human review.
-- **Implication:** confidence-aware assessment enables practical triage between automation and human oversight in educational assessment.
+- **Implication:** confidence-aware [[formative-assessment|assessment]] enables practical triage between automation and human oversight in educational assessment.
 
 ## Connected Concepts
 

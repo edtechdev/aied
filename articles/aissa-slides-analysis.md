@@ -1,7 +1,7 @@
 ---
 title: "AISSA: AI-based Student Slides Analysis Tool for Academic Presentations"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [automated-assessment, learning-analytics, formative-assessment, higher-ed, llm, human-in-the-loop-ai, slidesqaqa-pedagogical-question-generation]
 
@@ -9,12 +9,12 @@ sources: ['raw/papers/2605.04729.md']
 confidence: medium
 ---
 
-> A web-based system that uses LLMs and Learning Analytics dashboards to provide automated, rubric-based feedback on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely formative feedback in large university courses.
+> A web-based system that uses [[llm|LLMs]] and [[learning-analytics|Learning Analytics]] dashboards to provide [[automated-assessment|automated, rubric-based feedback]] on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely [[formative-assessment|formative feedback]] in large university courses.
 
 # AISSA: AI Slides Analysis Tool
 
 ## Definition
-A web-based system that uses LLMs and Learning Analytics dashboards to provide automated, rubric-based feedback on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely formative feedback in large university courses.
+A web-based system that uses [[llm|LLMs]] and [[learning-analytics|Learning Analytics]] dashboards to provide [[automated-assessment|automated, rubric-based feedback]] on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely [[formative-assessment|formative feedback]] in large university courses.
 
 ## How It Works
 1. Students upload slide decks before presenting
@@ -23,7 +23,7 @@ A web-based system that uses LLMs and Learning Analytics dashboards to provide a
 4. Results displayed via interactive dashboards for both students and teachers
 
 ## Pilot Results
-Tested with 46 undergraduate students in a real academic setting. Findings: technically reliable, economically feasible, and perceived by students as useful for iterative slide improvement.
+Tested with 46 undergraduate students in a real academic setting. Findings: technically reliable, economically feasible, and perceived by students as useful for iterative slide improvement, with teachers reviewing output through a [[human-in-the-loop-ai|human-in-the-loop]] workflow.
 
 ## Connected Concepts
 

@@ -1,14 +1,14 @@
 ---
 title: Multi-Agent Systems for Instructional Design
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety, agentic-ai-ecosystems-higher-education, human-in-the-loop-ai, faculty-development-genai, metacognition]
 sources: ['raw/papers/2508.16659.md']
 confidence: high
 ---
 
-> Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.
+> Embedding the Knowledge–Learning–Instruction (KLI) framework into [[agentic-ai|multi-agent systems]] to act as sophisticated [[instructional-design|instructional designers]] for [[k-12|K-12]] educators.
 
 ## The Prompting Gap in K-12 Education
 
@@ -17,7 +17,7 @@ confidence: high
 ### The Problem
 - **Commercial LLMs** (ChatGPT, Gemini) lack embedded pedagogical theory
 - **Simple prompts** produce shallow, misaligned, or inconsistent materials ("a mile high and an inch deep")
-- **Advanced prompt engineering** requires time/expertise most teachers don't have
+- **Advanced [[prompt-engineering|prompt engineering]]** requires time/expertise most teachers don't have
 
 ### The Solution
 Shift pedagogical expertise from **user's prompt** to **LLM's internal architecture** by embedding learning sciences principles directly into multi-agent systems.
@@ -73,7 +73,7 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - **Complementary:** Principled AI sets the framework; this paper implements it via MAS
 
 ### vs. Agentic Workflows
-- **Multi-agent collaboration:** MAS-CMD's conquer-merge discussion exemplifies agentic **planning + reflection**
+- **Multi-agent collaboration:** MAS-CMD's conquer-merge discussion exemplifies agentic **planning + [[metacognition|reflection]]**
 - **Teacher as beneficiary:** Unlike agentic tutoring (where students interact with agents), here agents serve *teachers* as instructional design assistants
 - **Scalability:** MAS offers "scalable path for creating high-quality educational content"
 

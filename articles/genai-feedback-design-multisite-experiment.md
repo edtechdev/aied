@@ -1,18 +1,18 @@
 ---
 title: "Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation"
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, feedback-design, higher-ed, scientific-argumentation, self-regulated-learning, peer-feedback, multisite-experiment, transfer, epistemic-agency, rag]
 sources: ['raw/papers/genai-feedback-design-multisite-experiment.md']
 confidence: high
 ---
 
-> **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four feedback designs for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free transfer. Findings suggest that GenAI's educational value depends less on AI access than on preserving student agency, evaluative judgment, and ownership during revision.
+> **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four [[feedback]] designs for scientific argumentation: peer-only, direct [[generative-ai|GenAI]], reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free [[transfer-of-learning|transfer]]. Findings suggest that GenAI's educational value depends less on AI access than on preserving student [[agency]], evaluative judgment, and ownership during revision.
 
 ## Study Design
 
-Ateş conducted a multisite, cluster-randomized, longitudinal field experiment in introductory university science courses:
+Ateş conducted a multisite, cluster-randomized, longitudinal field experiment in introductory university [[higher-ed|science courses]]:
 
 - **1,176 first-year undergraduates** from 48 course sections across 4 universities
 - **3 science domains** — biology, chemistry, physics
@@ -28,13 +28,13 @@ Ateş conducted a multisite, cluster-randomized, longitudinal field experiment i
 |---|---|---|---|
 | Immediate argument-quality gain | Better than peer | — | **Highest** |
 | Feedback uptake | — | Stronger | Stronger |
-| Self-regulated learning | — | Stronger | Stronger |
+| [[self-regulated-learning|Self-regulated learning]] | — | Stronger | Stronger |
 | Conceptual learning | — | Positive (n.s.) | **Clearest advantage** |
 | Delayed AI-free transfer | — | **Outperformed direct** | **Outperformed direct** |
 
 - **Direct GenAI** improved immediate argument quality over peer feedback but showed weaker transfer
-- **Reflective and hybrid designs** produced stronger feedback uptake and self-regulated learning
-- **Hybrid condition** showed the clearest advantage on conceptual learning
+- **Reflective and hybrid designs** produced stronger feedback uptake and [[self-regulated-learning|self-regulated learning]]
+- **[[feedback|Hybrid]] condition** showed the clearest advantage on conceptual learning
 - **Both reflective and hybrid** outperformed direct on delayed AI-free transfer
 - **Multilevel mediation**: feedback uptake and self-regulated learning partially explained these advantages
 
@@ -47,9 +47,11 @@ The paper argues that feedback becomes educationally valuable not through commen
 3. Judge its relevance
 4. Use it to improve subsequent work
 
-Direct GenAI feedback may encourage passive uptake — students outsource evaluative judgment to the system. Reflective and hybrid designs preserve **epistemic agency**: the student must first evaluate their own work, compare peer/AI inputs, and decide how to revise.
+Direct GenAI [[feedback]] may encourage passive uptake — students outsource evaluative judgment to the system. Reflective and hybrid designs preserve **[[agency|epistemic agency]]**: the student must first evaluate their own work, compare peer/AI inputs, and decide how to revise.
 
 The core insight: **GenAI's educational value depends less on AI access per se than on whether feedback environments preserve student agency, evaluative judgment, and ownership during revision.**
+
+g revision.**
 
 ## Connected Concepts
 

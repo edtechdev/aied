@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, educational-theory, ai-literacy-assessment-misalignment, metacognition]
 
@@ -9,7 +9,7 @@ sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 ---
 
-A correlational study (N = 67 undergraduate psychology students, Bielefeld University) testing two **protective factors against uncritical GenAI overreliance**: (1) **knowledge about genAI** and (2) the **disposition to engage in critical thinking** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of AI literacy and both are trainable, motivating intervention recommendations.
+A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, Bielefeld University) testing two **protective factors against uncritical GenAI [[cognitive-offloading|overreliance]]**: (1) **knowledge about genAI** and (2) the **disposition to engage in [[critical-thinking|critical thinking]]** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of [[ai-literacy|AI literacy]] and both are trainable, motivating intervention recommendations.
 
 ## Method highlights
 
@@ -40,7 +40,7 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 ## Implications
 
 - Institutions should move **beyond basic tool training**: target conceptual misconceptions (e.g. via refutation texts), foster epistemic orientation and intellectual values (video-based interventions shown effective in prior Hefter work), and consider NFC when designing interventions (low-NFC learners may need extra incentives like feedback/interactivity).
-- Knowledge about **human learning** (metacognitive understanding of cognitive offloading costs) is proposed as an additional "meta-knowledge" predictor worth studying.
+- Knowledge about **human learning** ([[metacognition|metacognitive]] understanding of [[cognitive-offloading|cognitive offloading]] costs) is proposed as an additional "meta-knowledge" predictor worth studying.
 - Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behaviour logs, and experimental/longitudinal designs.
 
 ## Connected Concepts
@@ -76,7 +76,7 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 - [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-literacy-assessment-misalignment]]

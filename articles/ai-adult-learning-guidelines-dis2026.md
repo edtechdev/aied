@@ -1,25 +1,25 @@
 ---
 title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation, rag]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for Adult Learning and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
+> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for [[adult-learning|Adult Learning]] and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
 
 ## Context and Motivation
 
-AI-powered educational technologies have demonstrated benefits but are predominantly designed and evaluated in K-12 contexts. Adult learners differ motivationally and contextually: they are often self-directed, goal-oriented (career advancement, reskilling), and must balance education with employment and family responsibilities. Existing systems inherit design patterns from K-12 that are poorly aligned with adult learning constraints.
+AI-powered educational technologies have demonstrated benefits but are predominantly designed and evaluated in [[k-12|K-12]] contexts. Adult learners differ motivationally and contextually: they are often [[self-directed-learning|self-directed]], goal-oriented (career advancement, reskilling), and must balance education with employment and family responsibilities. Existing systems inherit design patterns from K-12 that are poorly aligned with [[adult-learning|adult learning]] constraints.
 
 This paper examines seven AI-powered technologies deployed within **AI-ALOE**, a US National AI Institute:
 
-- **Apprentice Tutors** — web-based ITS for adult math/STEM practice
-- **iTELL** — Intelligent Texts for Enhanced Lifelong Learning
+- **Apprentice Tutors** — web-based [[intelligent-tutoring|ITS]] for adult math/STEM practice
+- **iTELL** — Intelligent Texts for Enhanced [[lifelong-learning|Lifelong Learning]]
 - **Ivy** — interactive video-based AI coaching for procedural skills
-- **Jill Watson** — RAG-powered Q&A agent for online courses
+- **Jill Watson** — [[rag|RAG]]-powered Q&A agent for online courses
 - **SAMI** — social agent for online discussion forums
 - **SMART** — Student Mental Model Analyzer for Research and Teaching
 - **VERA** — conceptual modeling tool for guided inquiry
@@ -34,20 +34,20 @@ The guidelines span four categories:
 
 ### Cognitive Presence
 - **G2:** AI tools should be accessible and fit into the busy lives of adult learners (mobile-friendly, offline-capable, affordable)
-- **G3:** AI tools should be informed by learning science and learning theories
+- **G3:** AI tools should be informed by learning science and [[learning-theories|learning theories]]
 - **G4:** AI tools should be easy to understand and frictionless to use
 
 ### Teaching Presence
-- **G7:** AI tools should support learner motivation and engagement
+- **G7:** AI tools should support learner [[motivation]] and engagement
 - **G8:** AI tools should align with established instructional best practices
 - **G9:** AI tools should support diverse pedagogical strategies
-- **G11:** AI tools should personalize the learning experience
+- **G11:** AI tools should [[personalized-learning|personalize]] the learning experience
 - **G13:** AI tools should provide substantive educational support (not just surface-level assistance)
 - **G16:** AI tools should align with instructors' personal instructional approach
-- **G17:** AI tools should provide meaningful feedback and explanations
+- **G17:** AI tools should provide meaningful [[feedback]] and explanations
 
 ### Social Presence
-- **G18:** AI tools should scaffold and support learners in developing their social competencies
+- **G18:** AI tools should [[scaffolding|scaffold]] and support learners in developing their social competencies
 - **G19:** AI tools should foster social connection and community
 
 ### Cross-Cutting
@@ -104,7 +104,7 @@ The guidelines span four categories:
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
@@ -122,4 +122,4 @@ The guidelines span four categories:
 
 ## Citation
 
-13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102). Designing Interactive Systems Conference (DIS ’26), June 13–17
+13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102). Designing Interactive Systems Conference (DIS '26), June 13–17
