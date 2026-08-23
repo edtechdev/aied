@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-22T05:22:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 confidence: high
@@ -17,7 +17,10 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
 - **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
-### Why it matters
+#
+- **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
+
+## Why it matters
 
 Accurate diagnosis lets instruction target the actual gaps rather than a global "ability" score — enabling [[automated-assessment]] that explains *why* a student erred and [[feedback|Feedback Loop]] systems that remediate specific [[student-modeling|knowledge states]]. Poor diagnosis produces the inverse: instruction aimed at the wrong concepts. This is why [[psychometrically-aware-ai]] emphasizes diagnostic validity alongside prediction accuracy.
 
@@ -65,3 +68,4 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths

@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
@@ -113,3 +113,4 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
