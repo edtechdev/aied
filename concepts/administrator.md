@@ -1,7 +1,7 @@
 ---
 title: AI from the Administrator Perspective
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [administrator, policy-maker, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 confidence: medium
@@ -36,6 +36,8 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making

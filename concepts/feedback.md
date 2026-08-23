@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [feedback, feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 
@@ -12,7 +12,9 @@ confidence: high
 
 This is the umbrella concept for the wiki's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The wiki treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
 
-### The feedback system
+#- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from GenAI feedback — a crucial qualifier for feedback effectiveness claims.
+
+## The feedback system
 
 Feedback is best understood not as a single event but as a connected system of interacting parts, each of which the wiki documents as its own concept:
 
@@ -85,6 +87,9 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]

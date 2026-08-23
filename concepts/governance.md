@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [policy, ethics, higher-ed, institutional-change, privacy, responsible-ai, regulation, ai-education]
 confidence: high
@@ -11,7 +11,9 @@ confidence: high
 
 AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the role of educators as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
 
-### How AI governance appears in the research
+#- **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** scoping review frames AI governance in higher education through anticipatory-governance and leadership lenses.
+
+## How AI governance appears in the research
 
 - **Institutional adoption at scale:** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|The AIDA study at the Open University]] shows how an institution designed, implemented, and evaluated a GenAI assistant, identifying that responsible system-level deployment requires governance structures (AI Steering Group), senior leadership sponsorship, and alignment with institutional strategy — not just technical capability.
 
@@ -65,6 +67,8 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[enright-staff-perspectives-genai-2026]]
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]

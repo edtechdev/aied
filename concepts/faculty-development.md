@@ -1,7 +1,7 @@
 ---
 title: Faculty Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T17:45:00-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high
@@ -9,7 +9,9 @@ confidence: high
 
 > **Faculty development** — the processes, programs, and institutional supports that help educators develop the skills and confidence to teach effectively with AI. Faculty development spans individual training, curriculum redesign, and institutional policy change.
 
-### Faculty development in the AI era
+#- **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** design-based research develops faculty standards for technology (incl. AI) integration in higher education institutions.
+
+## Faculty development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
 - **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. faculty-development programs must address all four.
@@ -59,6 +61,8 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
 - [[alharbi-ethical-genai-eap-2026]]
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[espino-ai-business-education-review-2026]]
