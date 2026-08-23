@@ -1,0 +1,49 @@
+---
+// Three muted pill buttons (View Source / View Changes / Edit) linking to the
+// markdown source of this page in the GitHub repository. Placed at the bottom
+// of article and concept pages, before the site footer.
+// Mirrors the "edit this page" affordance in Blume (blume -> generate.ts).
+const { filePath } = Astro.props; // e.g. "articles/absent-cognitive-baseline-2026.md"
+const owner = 'edtechdev';
+const repo = 'aied';
+const branch = 'main';
+const base = `https://github.com/${owner}/${repo}`;
+const blob = `${base}/blob/${branch}/${filePath}`;
+const commits = `${base}/commits/${branch}/${filePath}`;
+const edit = `${base}/edit/${branch}/${filePath}`;
+---
+<div class="source-buttons" style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--card-border-color);">
+  <a class="source-pill" href={blob} target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><polyline points="13 2 13 9 20 9"/></svg>
+    View Source
+  </a>
+  <a class="source-pill" href={commits} target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M3 12h6"/><path d="M15 12h6"/><path d="M12 3v6"/><path d="M12 15v6"/></svg>
+    View Changes
+  </a>
+  <a class="source-pill" href={edit} target="_blank" rel="noopener noreferrer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>
+    Edit
+  </a>
+</div>
+
+<style>
+  .source-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.85rem;
+    color: var(--muted-color);
+    background: color-mix(in srgb, var(--muted-color) 10%, transparent);
+    border: 1px solid var(--muted-border-color);
+    border-radius: 999px;
+    text-decoration: none;
+    transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+  }
+  .source-pill:hover {
+    color: var(--primary);
+    border-color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 12%, transparent);
+  }
+</style>
