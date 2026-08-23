@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T15:30:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity]
 confidence: high
@@ -43,6 +43,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[english-education]]
 
 ## Connected Articles
+- [[bert-discourse-english-teaching-2026]] — BERT discourse classification for English teaching
 - [[alharbi-ethical-genai-eap-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
