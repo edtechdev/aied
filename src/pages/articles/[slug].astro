@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import SourceButtons from '../../components/SourceButtons.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -168,5 +169,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={renderMarkdown(body, title)} />
     </div>
+
+    <SourceButtons filePath={`articles/${article.id}.md`} />
   </article>
 </BaseLayout>
