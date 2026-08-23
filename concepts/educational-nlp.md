@@ -1,7 +1,7 @@
 ---
 title: Educational NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-23T15:30:00-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -38,6 +38,7 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[educational-policy-ai]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[bert-discourse-english-teaching-2026]] — Automatic discourse relation classification with BERT for English teaching
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-generated-interactive-fiction-education-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T15:30:00-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -47,6 +47,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[simon-student-engagement-adaptive-learning-2026]] — Systematic review of student engagement in adaptive learning platforms
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
