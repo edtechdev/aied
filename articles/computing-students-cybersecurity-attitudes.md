@@ -1,20 +1,16 @@
 ---
 title: "Confident yet Concerned: Inconsistencies in Computing Students'' Attitudes on Cybersecurity"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:25:00-04:00"
 type: article
 tags: [higher-ed, student-experience, ai-literacy, academic-integrity, engagement-metrics]
 sources: ['raw/papers/2606.18541.md']
 confidence: medium
 ---
 
-# Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity
+> **Synthesis:** This study examines inconsistencies in [[cs-education|computing students']] attitudes toward cybersecurity: students report confidence in their cybersecurity knowledge but do not always translate this into safe practices. Because today's young adults are the most immersed in technology — yet also report feelings of powerlessness in managing online [[privacy]] across platforms and are particularly susceptible to phishing — the paper argues educational interventions are needed to close the gap between confidence and behavior.
 
-Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap.
-
-## Synthesis
-
-Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity investigates computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap. This work connects to existing research on student-experience by demonstrating that Abstract:Today&#39;s young adults are most immersed in technology, leading in feelings of powerlessness in managing online privacy across many platforms, and particularly susceptible to phishing attacks. This raises questions about their general, wide-ranging attitudes towards and management of cybe....
+Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap. Today's young adults are the most immersed in technology, leading in feelings of powerlessness in managing online privacy across many platforms, and particularly susceptible to phishing attacks. This raises questions about their general, wide-ranging attitudes toward and management of cybersecurity, motivating educational interventions that connect [[student-experience|student attitudes]] to actual practice in [[higher-ed|higher education]].
 
 ## Connected Concepts
 
@@ -33,4 +29,4 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 
 ## Citation
 
-Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026). [Confident yet Concerned: Inconsistencies in Computing Students&#39; Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541). arXiv:2606.18541.
+[Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541). arXiv:2606.18541.

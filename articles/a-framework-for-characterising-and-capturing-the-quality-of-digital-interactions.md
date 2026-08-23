@@ -12,7 +12,9 @@ confidence: high
 
 ## Key Findings
 
-This study introduces a Digital Interactions Quality (DigIQ) framework and scale as a protocol to observe and index the quality of interactions and experiences involving digital technologies with children in Early Childhood Education and Care (ECEC) settings. Observations in 50 pre-school classrooms validated the framework, revealing that quality ratings were higher when learning intentions drove activity and digital technologies enhanced or transformed the learning experience rather than merely replicating non-digital activities.
+- **A new observation protocol:** The DigIQ framework and scale provide a structured way to observe and index the quality of digital interactions and experiences with children in Early Childhood Education and Care settings.
+- **Learning intentions drive quality:** Quality ratings were higher when learning intentions drove activity.
+- **Enhancement over replication:** Digital technologies scored higher when they enhanced or transformed the learning experience rather than merely replicating non-digital activities — a contribution to [[ai-education|technology quality]] and [[edtech-platform|edtech]] evaluation in [[k-12|early childhood education]].
 
 ## Connected Concepts
 
