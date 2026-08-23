@@ -51,3 +51,5 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+

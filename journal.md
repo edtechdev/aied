@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-22 | **Total entries:** 972
+**Last updated:** 2026-08-22 | **Total entries:** 973
 
 ## 2026-08-22
+
+- ◐ [[bassett-ai-detectors-education-2026]] — raw/papers/bassett-ai-detectors-education-2026.md
+  Heads We Win, Tails You Lose: AI Detectors in Education
+  #plagiarism-detection #academic-integrity #generative-ai #higher-ed #assessment-validity #trust #writing-education #authentic-assessment #educational-policy-ai #governance
 
 - ◐ [[shaw-nave-cognitive-surrender-2026]] — raw/papers/shaw-nave-cognitive-surrender-2026.md
   Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender

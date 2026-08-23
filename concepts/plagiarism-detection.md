@@ -71,3 +71,5 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
 - [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+
