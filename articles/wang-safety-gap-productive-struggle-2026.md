@@ -1,7 +1,7 @@
 ---
 title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI"
 created: "2026-08-23T08:15:00-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, cognitive-offloading, generative-ai, scaffolding, socratic-method, medical-education, student-experience, trust]
 sources: ['raw/papers/wang-safety-gap-productive-struggle-2026.md']
@@ -12,7 +12,7 @@ confidence: medium
 
 ## The paradox of the helpful machine
 
-The more helpful an AI tool, the more it risks eroding the cognitive processes essential for deep learning. Meaningful learning depends not only on correct answers but on productive struggle, schema construction, and scaffolding that preserves rather than bypasses learner effort. This is especially acute for novices, whose understanding is still developing and for whom premature answer delivery may replace the generative processes through which durable knowledge is formed.
+The more helpful an AI tool, the more it risks eroding the cognitive processes essential for deep learning. Meaningful learning depends not only on correct answers but on productive struggle, schema construction, and [[scaffolding]] that preserves rather than bypasses learner effort. This is especially acute for novices, whose understanding is still developing and for whom premature answer delivery may replace the generative processes through which durable knowledge is formed. The authors write from a [[medical-education|medical education]] perspective, where clinical competency is non-negotiable.
 
 ## The Safety Gap
 
@@ -20,9 +20,9 @@ Defined as the widening chasm between the **surface-level competence** a student
 
 ## Design prescription
 
-- Educational AI should be designed not merely to maximize convenience or answer completion, but to support **cognitive engagement and independent judgment**.
-- Withhold direct solutions; introduce **constructive cognitive friction**.
-- Prioritize **process-based assessment** over final outputs.
+- **Educational AI should be designed** not merely to maximize convenience or answer completion, but to support **cognitive engagement and independent judgment**.
+- Withhold direct solutions; introduce **constructive cognitive friction** ([[desirable-difficulties]]).
+- Prioritize **process-based [[assessment]]** over final outputs.
 - Use **Socratic and Adversarial AI architectures** that preserve productive struggle.
 
 ## Relevance to the wiki

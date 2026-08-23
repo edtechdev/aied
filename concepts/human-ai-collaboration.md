@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -97,4 +97,5 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+- [[productive-failure]]
 

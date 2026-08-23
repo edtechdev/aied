@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: concept
 tags: [medical-education, health-professions, higher-ed, clinical, simulation, assessment, adaptive-learning, teacher-role]
 confidence: high
@@ -55,3 +55,5 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+
