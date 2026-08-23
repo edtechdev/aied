@@ -36,6 +36,13 @@ FEEDS = {
         "url": "https://www.frontiersin.org/journals/psychology/rss",
         "max_age_days": 30,
     },
+    "ijethel": {
+        "name": "International Journal of Educational Technology in Higher Education",
+        "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=41239",
+        "max_age_days": 90,
+        "journal": "International Journal of Educational Technology in Higher Education",
+        "doi_prefix": "ijethel",
+    },
 }
 
 def clean(text):
@@ -271,6 +278,61 @@ def parse_frontiers(root, cutoff):
 
     return articles
 
+def parse_springer(root, cutoff, journal_name='International Journal of Educational Technology in Higher Education'):
+    """Parse Springer Link RSS (IJETHE). Items: title, description (abstract),
+    link (with DOI), pubDate (YYYY-MM-DD), guid (DOI)."""
+    articles = []
+    seen = set()
+
+    for item in root.findall('.//item'):
+        title_el = item.find('title')
+        link_el = item.find('link')
+        desc_el = item.find('description')
+        pubdate_el = item.find('pubDate')
+        guid_el = item.find('guid')
+
+        title = clean(title_el.text) if title_el is not None and title_el.text else ''
+        link = clean(link_el.text) if link_el is not None and link_el.text else ''
+
+        # Skip corrections
+        if not title or any(w in title.lower() for w in ['correction', 'retraction', 'erratum']):
+            continue
+        if title in seen:
+            continue
+        seen.add(title)
+
+        # Date
+        date_str = clean(pubdate_el.text) if pubdate_el is not None else ''
+        parsed_date = parse_date(date_str)
+        if parsed_date and cutoff and parsed_date < cutoff:
+            continue
+
+        # DOI from link or guid
+        doi = clean(guid_el.text) if guid_el is not None and guid_el.text else ''
+        if not doi:
+            doi_match = re.search(r'(10\.\d{4,}/[^\s"<>]+)', link)
+            if doi_match:
+                doi = doi_match.group(1)
+
+        # Abstract from description
+        abstract = ''
+        if desc_el is not None and desc_el.text:
+            abstract = clean(desc_el.text)[:2000]
+
+        articles.append({
+            'title': title,
+            'url': link,
+            'abstract': abstract,
+            'authors': [],
+            'doi': doi,
+            'date': parsed_date.strftime('%Y-%m-%d') if parsed_date else date_str[:10],
+            'journal': journal_name,
+            'source': 'ijethel',
+            'open_access': True,  # IJETHE is fully open access
+        })
+
+    return articles
+
 def main():
     all_articles = []
     
@@ -295,6 +357,8 @@ def main():
                 )
             elif key == 'frontiers':
                 articles = parse_frontiers(root, cutoff)
+            elif key == 'ijethel':
+                articles = parse_springer(root, cutoff, journal_name=feed.get('journal', 'International Journal of Educational Technology in Higher Education'))
             else:
                 articles = parse_bjet(root, cutoff)
             
