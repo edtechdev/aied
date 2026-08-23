@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T08:40:00-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -77,6 +77,7 @@ AI dependency is not simply a product of technical skill: [[student-dependency-o
 
 The effect is partly a **change in the threshold to respond, not in capacity**: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] show that merely having access to AI advice nearly eliminated people's willingness to say "I don't know" — even when the advice was wrong — while nearly doubling confidence and cutting accuracy to a third; incentives restored accuracy (by reducing reliance) but not suspension.
 
+- **The Safety Gap as the cost of offloading struggle.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the divergence between a student's AI-assisted performance and their unassisted capability as the "Safety Gap" — the epistemic risk when AI does the cognitive work and the learner cannot reproduce it. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] and [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show productive-failure design (withholding answers, preserving struggle) is the countermeasure.
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -194,4 +195,6 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle (Wang & Shan 2026)
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design (Rhaimi et al. 2025)
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning (Lukešová & Jennings 2026)
 

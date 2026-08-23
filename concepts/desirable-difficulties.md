@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T08:40:00-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, cognitive-offloading, learning-science, scaffolding, metacognition]
 
@@ -21,6 +21,8 @@ Three related constructs describe the zone in which desirable difficulties opera
 - **Confusion** — a learning *epistemic emotion* (see [[affective-computing]] and [[epistemic-emotions-collaborative-problem-solving]]) that signals a gap between a learner's mental model and incoming information. Confusion is not uniformly bad: when resolved through productive inquiry it can drive deep processing, but when unaddressed it can decay into frustration or disengagement. AI systems increasingly detect confusion (e.g. capture buttons, affective sensing) to anchor [[personalized-learning|personalized support]] — as in [[knowloop-confusion-to-consolidation-2026]], where marked confusion points become review anchors and teach-back prompts surface conceptual gaps.
 - **Cognitive friction** — the deliberate resistance a learning environment places between a learner and an easy answer, forcing them to think before receiving help. AI tools that answer instantly remove this friction; designs that withhold, hint, or scaffold preserve it. [[generative-refusal-ai-tools-for-thought]], [[sequenced-ai-feedback-learning]], and [[critical-thinking-genai-scaffolding]] each examine how intentionally preserved friction supports reasoning.
 - **Productive struggle** — the effortful phase of problem solving in which a learner wrestles with a challenge before (or while) receiving support. The wiki's evidence base documents both its value and its cost: [[generative-ai-reduced-study-time-math]] shows removing struggle reduced study time but impaired learning, while [[curiobot-llm-tutoring-exploratory-learning]] and [[rethinking-scaffolding-llm-tutors]] explore how tutors can keep learners in the productive-struggle zone rather than collapsing to answer-giving.
+
+Productive failure is the structured, theory-driven version of this idea: [[productive-failure|Kapur's productive failure]] (PF) formalizes productive struggle as a two-phase design (generation & exploration *before* instruction, then consolidation & knowledge assembly). The AI-era PF literature gives the wiki a concrete design vocabulary for preserving desirable difficulty — [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (human-AI collaboration, reflective design, non-directive support) that keep AI from erasing the struggle; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold solutions and elicit multiple attempts; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the "Safety Gap" — the divergence between AI-assisted performance and unassisted capability — as the cost of removing struggle; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to lower the burden of designing PF problems. These show that desirable-difficulty principles translate into concrete AI design choices.
 
 ## Desirable Difficulties vs. Cognitive Friction vs. Productive Friction
 
@@ -95,4 +97,8 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 - [[productive-failure]] — Productive Failure
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle (Wang & Shan 2026)
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design (Rhaimi et al. 2025)
 

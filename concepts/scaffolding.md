@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T08:40:00-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -31,6 +31,7 @@ Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-
 
 Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-2026|Zhang et al. (2026)]] introduce TutorMoments, which evaluates whether LM tutors scaffold only when support is needed, push for rigor when the student is ready, and avoid over-scaffolding (reducing cognitive demand more than the situation requires). Minimally prompted frontier models default to over-scaffolding at the expense of productive struggle.
 
+- **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, human-in-the-loop) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -94,4 +95,5 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning (Lukešová & Jennings 2026)
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle (Wang & Shan 2026)
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design (Rhaimi et al. 2025)
 
