@@ -1,7 +1,7 @@
 ---
 title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, generative-ai, research-methods, teacher-ai-collaboration, teacher-ai-competency, human-ai-collaboration]
 sources: ['raw/papers/2607.28889.md']
@@ -11,13 +11,13 @@ confidence: high
 > **Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He** — arXiv preprint (2026).
 ## Synthesis
 
-A multi-phase human-LLM collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generative AI platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.
+A multi-phase human-[[llm|LLM]] collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between [[k-12|K-12 educators]] and a [[generative-ai|generative AI]] platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.
 
-LLMs generated candidate labels and structured annotations at scale across three phases, while human researchers retained conceptual authority over category definitions, merging decisions, and interpretive frameworks.
+LLMs generated candidate labels and structured annotations at scale across three phases, while human researchers retained conceptual authority over category definitions, merging decisions, and interpretive frameworks — a [[human-in-the-loop-ai|human-in-the-loop]] division of labor.
 
 The resulting 72-item codebook was validated through systematic human coding of an independent 2,560-message sample, with reliability established via set-valued agreement measures; human coders extended the instrument with five codes the LLM-assisted phases had not surfaced.
 
-The article provides a procedural account (what LLMs can do, in which phases, under what safeguards) directly relevant to AIED research methodology and to conceptualizing how educators actually use generative AI platforms.
+The article provides a procedural account (what LLMs can do, in which phases, under what safeguards) directly relevant to [[ai-ed-evaluation|AIED research methodology]] and to conceptualizing [[teacher-ai-competency|how educators actually use]] generative AI platforms.
 
 ## Connected Concepts
 

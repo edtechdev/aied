@@ -1,7 +1,7 @@
 ---
 title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automated-grading, human-in-the-loop, ai-literacy-assessment-misalignment, human-in-the-loop-ai, llm-cognitive-diagnosis-handwritten-math]
 sources: ['raw/papers/2603.29141.md']
@@ -10,12 +10,12 @@ confidence: high
 
 ## Core Argument
 
-The AIED community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the evidence base of labeled AIED datasets.
+The AIED community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the [[assessment-validity|validity]] and reliability of the evidence base of labeled AIED datasets.
 
 ## The Problem
 
 ### Noise vs. Bias in Educational Labeling
-Human judgment is subject to both **noise** (random variability) and **bias** (systematic directional error). While bias and fairness have received extensive attention, noise is an underexamined obstacle in AIED. Education is inherently noisy — assigning grades, defining engagement, and identifying giftedness all involve subjective interpretation.
+Human judgment is subject to both **noise** (random variability) and **bias** (systematic directional error). While [[bias-mitigation|bias]] and fairness have received extensive attention, noise is an underexamined obstacle in AIED. Education is inherently noisy — assigning grades, defining engagement, and identifying giftedness all involve subjective interpretation.
 
 ### Why κ Alone Fails
 Educational settings present specific challenges that undermine threshold-based IRR heuristics:
@@ -47,7 +47,7 @@ Require thorough documentation of:
 
 ### 3. Mitigate LLM Annotation Risks
 - **Bias audits** on LLM annotators before deployment
-- **Verification workflows** with human-in-the-loop checks
+- **Verification workflows** with [[human-in-the-loop-ai|human-in-the-loop]] checks
 - Guard against automation bias and circular validation through independent evaluation
 
 ### 4. Complement Agreement with Validity Evidence

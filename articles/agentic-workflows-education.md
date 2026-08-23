@@ -1,34 +1,34 @@
 ---
 title: Agentic Workflows in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring, pedagogical-llm-training, human-in-the-loop-ai, persistent-ai-agents-academic-research, adaptive-learning-systems]
 sources: ['raw/papers/kamalov-agentic-workflows-education-2026.md']
 confidence: medium
 ---
 
-> A design framework for educational AI systems structured around four agentic paradigms: **reflection**, **planning**, **tool use**, and **multi-agent collaboration**. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.
+> A design framework for educational AI systems structured around four [[agentic-ai|agentic]] paradigms: **reflection**, **planning**, **tool use**, and **multi-agent collaboration**. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.
 
-A design framework for educational AI systems structured around four agentic paradigms: **reflection**, **planning**, **tool use**, and **multi-agent collaboration**. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.
+A design framework for [[ai-education|educational AI]] systems structured around four [[agentic-ai|agentic]] paradigms: **reflection**, **planning**, **tool use**, and **multi-agent collaboration**. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.
 
 ## Four Paradigms
 
 ### 1. Reflection
-Agents evaluate their own outputs against criteria before delivering feedback to learners. Reduces immediate error propagation but adds latency and requires internal evaluators.
+Agents evaluate their own outputs against criteria before delivering [[feedback]] to learners. Reduces immediate error propagation but adds latency and requires internal evaluators.
 
 ### 2. Planning
-Agents decompose educational goals into sub-goals and sequence pedagogical actions. Enables structured tutoring but risks rigidity when learner states diverge from expected trajectories.
+Agents decompose educational goals into sub-goals and sequence pedagogical actions. Enables structured [[intelligent-tutoring|tutoring]] but risks rigidity when learner states diverge from expected trajectories.
 
 ### 3. Tool Use
-Agents invoke external resources (calculators, code interpreters, knowledge bases) to ground responses in verified information. Critical for STEM domains where hallucination tolerance is low.
+Agents invoke external resources (calculators, code interpreters, knowledge bases) to ground responses in verified information. Critical for [[stem-education|STEM]] domains where [[hallucination-risk|hallucination]] tolerance is low.
 
 ### 4. Multi-Agent Collaboration
-Multiple specialized agents (e.g., question generator, validator, explainer) coordinate to produce holistic tutoring experiences. Improves consistency over stand-alone LLMs but introduces orchestration complexity and interpretability challenges.
+Multiple specialized agents (e.g., question generator, validator, explainer) coordinate to produce holistic tutoring experiences. Improves consistency over stand-alone [[llm|LLMs]] but introduces orchestration complexity and interpretability challenges.
 
 ## Proof of Concept: MASS
 
-Kamalov et al. implemented a **multi-agent framework for automated essay scoring** (MASS) as a demonstration. Preliminary results suggest improved consistency compared to single-model approaches, though the authors flag the need for deeper research into interpretability and trustworthiness.
+Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scoring|automated essay scoring]]** (MASS) as a demonstration. Preliminary results suggest improved consistency compared to single-model approaches, though the authors flag the need for deeper research into interpretability and trustworthiness.
 
 ## Challenges
 

@@ -1,31 +1,31 @@
 ---
 title: "A New Direction for Students in an AI World: Prosper, Prepare, Protect"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [policy-maker, k-12, student-experience, regulation, ai-literacy, llm]
 sources: ['raw/papers/brookings-ai-students-report.md']
 confidence: high
 ---
 
-> A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining generative AI's risks and benefits for students. Based on 500+ interviews across 50 countries, 400+ studies reviewed, and a Delphi panel.
+> A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining [[generative-ai|generative AI]]'s risks and benefits for students. Based on 500+ interviews across 50 countries, 400+ studies reviewed, and a Delphi panel.
 
 # Brookings Report: AI and Students (Prosper, Prepare, Protect)
 
 ## Definition
-A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining generative AI's risks and benefits for students. Based on 500+ interviews across 50 countries, 400+ studies reviewed, and a Delphi panel.
+A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining [[generative-ai|generative AI]]'s risks and benefits for [[student-experience|students]]. Based on 500+ interviews across 50 countries, 400+ studies reviewed, and a Delphi panel.
 
 ## Central Finding
-**At this point in AI's trajectory, the risks of utilizing generative AI in children's education overshadow its benefits.** This is because risks strike at foundational child development and may block realization of AI's potential benefits.
+**At this point in AI's trajectory, the risks of utilizing [[generative-ai|generative AI]] in [[k-12|children's education]] overshadow its benefits.** This is because risks strike at foundational [[student-experience|child development]] and may block realization of AI's potential benefits.
 
 ## Two Paths
-1. **AI-enriched learning** — well-designed AI tools with sound pedagogy can offer significant benefits
-2. **AI-diminished learning** — overreliance threatens learning ability, social-emotional wellbeing, teacher-peer relationships, and student safety/privacy
+1. **AI-enriched learning** — well-designed AI tools with sound [[pedagogy]] can offer significant benefits
+2. **AI-diminished learning** — [[cognitive-offloading|overreliance]] threatens learning ability, [[well-being|social-emotional wellbeing]], teacher-peer relationships, and student [[privacy|safety/privacy]]
 
 ## Three Action Pillars + 12 Recommendations
 - **Prosper:** Design AI that expands student potential; co-create with educators and communities; use tools that teach not tell
-- **Prepare:** Holistic AI literacy for all stakeholders; prepare teachers to teach with and through AI; clear vision for ethical use
-- **Protect:** Comprehensive regulatory frameworks; privacy and safety in procurement; break engagement addiction; support families
+- **Prepare:** Holistic [[ai-literacy|AI literacy]] for all stakeholders; prepare [[teacher-role|teachers]] to teach with and through AI; clear vision for [[ethics|ethical use]]
+- **Protect:** Comprehensive [[regulation|regulatory frameworks]]; [[privacy]] and safety in procurement; break engagement addiction; support families
 
 ## Connected Concepts
 

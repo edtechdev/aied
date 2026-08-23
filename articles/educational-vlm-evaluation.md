@@ -1,20 +1,20 @@
 ---
 title: Educational VLM Evaluation
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [assessment, multimodal, benchmark, pedagogical-safety, stem-education, ai-education, pedagogical-llm-training, formative-assessment, rag, llm]
 sources: ['raw/papers/li-drawedumath-vlm-misdiagnosis-2026.md']
 confidence: medium
 ---
 
-> Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners and those making errors. Traditional AI benchmarks measure expertise; educational benchmarks must measure pedagogical responsiveness.
+> [[benchmark|Benchmarking]] [[multimodal|vision-language models (VLMs)]] not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners and those making errors. Traditional AI benchmarks measure expertise; educational benchmarks must measure pedagogical responsiveness.
 
-Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners and those making errors. Traditional AI benchmarks measure expertise; educational benchmarks must measure pedagogical responsiveness.
+Benchmarking [[multimodal|vision-language models (VLMs)]] not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners and those making errors. Traditional AI benchmarks measure expertise; educational benchmarks must measure pedagogical responsiveness.
 
 ## The DrawEduMath Gap
 
-Li Lucy et al. (2026) evaluated 11 VLMs on DrawEduMath, a benchmark of real students' handwritten, hand-drawn math responses. All models showed a consistent pattern:
+Li Lucy et al. (2026) evaluated 11 [[multimodal|VLMs]] on DrawEduMath, a benchmark of real students' handwritten, hand-drawn [[math-education|math]] responses. All models showed a consistent pattern:
 
 - **Better on expert-level work** — VLMs perform adequately when evaluating polished student work
 - **Worse on struggling-student work** — Performance drops sharply for students who require more pedagogical help
@@ -25,11 +25,11 @@ This pattern suggests that current VLM optimization for *math problem-solving* e
 ## Why This Matters
 
 A VLM that can solve a math problem may still be pedagogically useless or harmful if it:
-- Misdiagnoses a student's specific misconception
-- Provides a solution when the student needs a scaffold
+- Misdiagnoses a student's specific [[student-misconceptions-ai|misconception]]
+- Provides a solution when the student needs a [[scaffolding|scaffold]]
 - Fails to recognize partial understanding in messy handwritten work
 
-The gap between *capability* and *pedagogical utility* is analogous to the LLM misalignment documented by Hardy & Kim (2026), but specifies it for the multimodal, handwritten-work domain.
+The gap between *capability* and *pedagogical utility* is analogous to the [[llm|LLM]] misalignment documented by Hardy & Kim (2026), but specifies it for the [[multimodal]], handwritten-work domain.
 
 ## Implications for Development
 

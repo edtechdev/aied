@@ -1,18 +1,18 @@
 ---
 title: "Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-10"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, policy, technology-adoption, ai-education, ai-tutoring]
 sources: []
 confidence: high
 ---
 
-> **Synthesis:** By adopting the Will, Skill, Tool (WST) model, this study explores how EMI students' intentions to use GenAI for academic writing are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China found that will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor (AI literacy) were significant antecedents of students' intentions, whereas the tool component (facilitating conditions) was not. The model explained 56% of the variance in students' behavioural intentions.
+> **Synthesis:** By adopting the Will, Skill, Tool (WST) model, this study explores how EMI students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China found that will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor ([[ai-literacy|AI literacy]]) were significant antecedents of students' intentions, whereas the tool component (facilitating conditions) was not. The model explained 56% of the variance in students' behavioural intentions.
 
 ## Key Findings
 
-By adopting the Will, Skill, Tool (WST) model, this study explores how EMI students' intentions to use GenAI for academic writing are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China found that will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor (AI literacy) were significant antecedents of students' intentions, whereas the tool component (facilitating conditions) was not. The model explained 56% of the variance in students' behavioural intentions.
+By adopting the Will, Skill, Tool (WST) model, this study explores how EMI students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China found that will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor ([[ai-literacy|AI literacy]]) were significant antecedents of students' intentions, whereas the tool component (facilitating conditions) was not. The model explained 56% of the variance in students' behavioural intentions.
 
 ## Connected Concepts
 - [[generative-ai]]

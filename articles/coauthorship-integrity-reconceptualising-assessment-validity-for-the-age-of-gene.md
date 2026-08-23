@@ -1,18 +1,18 @@
 ---
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-10"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, assessment, conversational-agents, assessment-validity, academic-integrity, ai-education, ai-tutoring]
 sources: []
 confidence: high
 ---
 
-> **Synthesis:** This paper addresses concerns that students use GenAI to submit texts they do not understand, adopting an assessment validity lens. It proposes Coauthorship Integrity as a new conceptual source of validity evidence—violated when students submit AI-generated content they do not understand. The paper reports progress on an "AI Viva," a conversational agent engaging students in hybrid viva voce with comprehension questions of controllable type and complexity.
+> **Synthesis:** This paper addresses concerns that students use [[generative-ai|GenAI]] to submit texts they do not understand, adopting an [[assessment-validity|assessment validity]] lens. It proposes [[academic-integrity|Coauthorship Integrity]] as a new conceptual source of validity evidence—violated when students submit AI-generated content they do not understand. The paper reports progress on an "AI Viva," a [[agentic-ai|conversational agent]] engaging students in hybrid viva voce with comprehension questions of controllable type and complexity.
 
 ## Key Findings
 
-This paper addresses concerns that students use GenAI to submit texts they do not understand, adopting an assessment validity lens. It proposes Coauthorship Integrity as a new conceptual source of validity evidence—violated when students submit AI-generated content they do not understand. The paper reports progress on an "AI Viva," a conversational agent engaging students in hybrid viva voce with comprehension questions of controllable type and complexity. Contributions are threefold: conceptual (Coauthorship Integrity), technical (LLM-generated questions of controllable difficulty), and empirical (preliminary expert evaluation).
+This paper addresses concerns that students use [[generative-ai|GenAI]] to submit texts they do not understand, adopting an [[assessment-validity|assessment validity]] lens. It proposes [[academic-integrity|Coauthorship Integrity]] as a new conceptual source of validity evidence—violated when students submit AI-generated content they do not understand. The paper reports progress on an "AI Viva," a [[agentic-ai|conversational agent]] engaging students in hybrid viva voce with comprehension questions of controllable type and complexity. Contributions are threefold: conceptual (Coauthorship Integrity), technical (LLM-generated questions of controllable difficulty), and empirical (preliminary expert evaluation).
 
 ## Connected Concepts
 - [[generative-ai]]

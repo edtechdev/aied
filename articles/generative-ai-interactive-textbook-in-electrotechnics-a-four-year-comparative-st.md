@@ -1,18 +1,18 @@
 ---
 title: "Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-10"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, assessment, equity, ai-tutoring, ai-education, educational-technology]
 sources: []
 confidence: high
 ---
 
-> **Synthesis:** This four-year comparative study presents results of implementing a Generative-AI Interactive Textbook built on GPT-4, integrated into an Electrical Engineering course. With a sample of 736 students, results suggest effects vary by assessment type: statistically significant improvement in mid-term assessment was consistently observed in multi-year analyses, while final assessment results showed more variable patterns. The study presents a practical method for implementing intelligent textbooks including targeted prompts, didactic anchoring to higher levels of Bloom's taxonomy, and principles to ensure GenAI develops cognitive abilities rather than replacing them.
+> **Synthesis:** This four-year comparative study presents results of implementing a [[generative-ai|Generative-AI Interactive Textbook]] built on GPT-4, integrated into an [[engineering-education|Electrical Engineering]] course. With a sample of 736 students, results suggest effects vary by [[assessment|assessment type]]: statistically significant improvement in mid-term assessment was consistently observed in multi-year analyses, while final assessment results showed more variable patterns. The study presents a practical method for implementing [[intelligent-tutoring|intelligent textbooks]] including targeted [[prompt-engineering|prompts]], didactic anchoring to higher levels of Bloom's taxonomy, and principles to ensure [[generative-ai|GenAI]] develops cognitive abilities rather than replacing them.
 
 ## Key Findings
 
-This four-year comparative study presents results of implementing a Generative-AI Interactive Textbook built on GPT-4, integrated into an Electrical Engineering course. With a sample of 736 students, results suggest effects vary by assessment type: statistically significant improvement in mid-term assessment was consistently observed in multi-year analyses, while final assessment results showed more variable patterns. The study presents a practical method for implementing intelligent textbooks including targeted prompts, didactic anchoring to higher levels of Bloom's taxonomy, and principles to ensure GenAI develops cognitive abilities rather than replacing them.
+This four-year comparative study presents results of implementing a [[generative-ai|Generative-AI Interactive Textbook]] built on GPT-4, integrated into an [[engineering-education|Electrical Engineering]] course. With a sample of 736 students, results suggest effects vary by [[assessment|assessment type]]: statistically significant improvement in mid-term assessment was consistently observed in multi-year analyses, while final assessment results showed more variable patterns. The study presents a practical method for implementing [[intelligent-tutoring|intelligent textbooks]] including targeted [[prompt-engineering|prompts]], didactic anchoring to higher levels of Bloom's taxonomy, and principles to ensure [[generative-ai|GenAI]] develops cognitive abilities rather than replacing them.
 
 ## Connected Concepts
 - [[generative-ai]]

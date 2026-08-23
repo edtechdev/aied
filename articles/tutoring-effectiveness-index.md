@@ -1,20 +1,19 @@
 ---
 title: "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"
 created: "2026-06-01T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, benchmark, efficacy-study, automated-grading, formative-assessment, reinforcement-learning]
 sources: ['raw/papers/2605.30666.md']
 confidence: high
 ---
-
 > **Authors:** Shim Jaechang, Unggi Lee (2026) — CIKM 2026
 
 # The Tutoring Effectiveness Index (TEI)
 
 ## What It Is
 
-TEI is a **training-free, judge-free index** that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversation signals — no RL training, no external judge model, no reward model required.
+TEI is a **training-free, judge-free index** that selects the best [[intelligent-tutoring|tutoring]] response from multiple [[llm|LLM]] candidate outputs using only four internal conversation signals — no [[reinforcement-learning|RL]] training, no external judge model, no reward model required.
 
 ## How It Works
 
@@ -27,7 +26,7 @@ TEI combines four signals computed during decoding with fixed weights:
 
 Formula: `TEI(y) = 1.0·V + 0.75·M̃ - 1.0·Q + 0.5·1[DTR ≥ 0.4]`
 
-The signs matter more than magnitudes: reward verification and math content, penalize ending with questions, small bonus for deep reasoning.
+The signs matter more than magnitudes: [[reinforcement-learning|reward]] verification and math content, penalize ending with questions, small bonus for deep reasoning.
 
 ## Key Results
 
@@ -38,21 +37,23 @@ The signs matter more than magnitudes: reward verification and math content, pen
 
 ## The Alignment Tax
 
-The paper quantifies severe degradation from pedagogical GRPO fine-tuning:
+The paper quantifies severe degradation from pedagogical [[pedagogical-llm-training|GRPO fine-tuning]]:
 - Thinking length drops from 1,764 to 119 words/turn (−93%)
 - Content-Knowledge accuracy falls by −71% relative
 - Pedagogical-Knowledge accuracy falls by −80% relative
-- Student Δ Solve Rate crosses from +0.180 to **−0.012** — the aligned tutor becomes detrimental
+- Student Δ Solve Rate crosses from +0.180 to **−0.012** — the [[intelligent-tutoring|aligned tutor]] becomes detrimental
 
 ## Why It Matters
 
-TEI demonstrates that simple lexical and structural signals can effectively steer a frozen LLM to be a much better math tutor without any training. This is especially valuable when RL fine-tuning is shown to catastrophically degrade tutoring quality. The approach is cost-effective and immediately deployable on frozen models.
+TEI demonstrates that simple lexical and structural signals can effectively steer a frozen LLM to be a much better [[intelligent-tutoring|math tutor]] without any training. This is especially valuable when [[reinforcement-learning|RL fine-tuning]] is shown to catastrophically degrade tutoring quality. The approach is cost-effective and immediately deployable on frozen models.
 
 ## Open Questions
 
 - Does TEI generalize to non-math tutoring domains (writing, science, language)?
 - Can the fixed weights be optimized per-domain without losing the training-free property?
 - How does TEI interact with different base model architectures and sizes?
+
+es and sizes?
 
 ## Connected Concepts
 

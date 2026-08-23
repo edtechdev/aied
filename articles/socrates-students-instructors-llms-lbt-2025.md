@@ -1,7 +1,7 @@
 ---
 title: "Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-08-14"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [learning-by-teaching, teachable-agents, generative-ai, cs-education, programming-education, active-learning, cognitive-offloading, llm]
 
@@ -9,11 +9,11 @@ sources: ['raw/papers/raw-yang-socrates-lbt.md']
 confidence: high
 ---
 
-> **Synthesis:** Yang, Pujara, and Li (2025) present a pedagogical paradigm that **inverts the virtual-tutor model**: instead of an LLM tutoring students, students act as instructors who must teach an LLM to solve problems. They develop strategies for designing questions with engineered knowledge gaps that only a student can bridge, and introduce **Socrates**, a system deploying this method with minimal overhead. Evaluated in an undergraduate course, the approach led to statistically significant improvements in student performance compared to historical cohorts.
+> **Synthesis:** Yang, Pujara, and Li (2025) present a pedagogical paradigm that **inverts the virtual-tutor model**: instead of an [[llm|LLM]] tutoring students, students act as instructors who must teach an LLM to solve problems. They develop strategies for designing questions with engineered knowledge gaps that only a student can bridge, and introduce **Socrates**, a system deploying this method with minimal overhead. Evaluated in an undergraduate course, the approach led to statistically significant improvements in student performance compared to historical cohorts.
 
 ## Inverting the Tutor–Student Relationship
 
-LLMs are often used as virtual tutors in computer science education, but this approach can foster passive learning and over-reliance — the student receives answers rather than constructing them. This work inverts the model: the student teaches the LLM, forcing active construction of explanations and the identification of knowledge gaps.
+[[llm|LLMs]] are often used as virtual tutors in [[cs-education|computer science education]], but this approach can foster passive learning and [[cognitive-offloading|over-reliance]] — the student receives answers rather than constructing them. This work inverts the model: the student teaches the LLM, forcing active construction of explanations and the identification of knowledge gaps.
 
 ## The Approach: Engineered Knowledge Gaps
 
@@ -21,9 +21,9 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 
 ## Key Findings
 
-- **Statistically significant improvements.** The active-learning method led to significant improvements in student performance compared to historical cohorts in an undergraduate course.
+- **Statistically significant improvements.** The [[active-learning]] method led to significant improvements in student performance compared to historical cohorts in an undergraduate course.
 - **Practical and cost-effective.** Socrates demonstrates a low-overhead framework for using LLMs to deepen student engagement and mastery.
-- **Addresses over-reliance.** By making students the instructors, the paradigm counters the passive learning and over-reliance associated with LLM-as-tutor use.
+- **Addresses over-reliance.** By making students the instructors, the paradigm counters the passive learning and [[cognitive-offloading|over-reliance]] associated with LLM-as-tutor use.
 
 ## Implications
 

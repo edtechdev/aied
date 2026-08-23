@@ -1,28 +1,28 @@
 ---
 title: Higher Education Must Bridge the AI Gap
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [higher-ed, equity, ai-literacy, policy-maker, regulation, equity-in-ai-education, agentic-ai-ecosystems-higher-education, persistent-ai-agents-academic-research, llm]
 sources: ['raw/papers/ai-higher-ed-bridge-gap.md']
 confidence: medium
 ---
 
-> A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that higher education has a narrow window to shape AI's distribution equitably. Proposes a three-pillar AI literacy framework: practical fluency, critical understanding, and ethical/professional use.
+> A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that [[higher-ed|higher education]] has a narrow window to shape AI's distribution equitably. Proposes a three-pillar [[ai-literacy|AI literacy]] framework: practical fluency, critical understanding, and ethical/professional use.
 
 ## Definition
-A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that higher education has a narrow window to shape AI's distribution equitably. Proposes a three-pillar AI literacy framework: practical fluency, critical understanding, and ethical/professional use.
+A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that [[higher-ed|higher education]] has a narrow window to shape AI's distribution equitably. Proposes a three-pillar [[ai-literacy|AI literacy]] framework: practical fluency, critical understanding, and ethical/professional use.
 
 ## The Urgency Argument
 AI's unprecedented speed, scale, and portability compress the time institutions have to respond. Historical technological revolutions widened divides — AI risks repeating this pattern. Institutions serving low-income and first-generation students face especially urgent pressure to act at AI's pace.
 
 ## Three Pillars of AI Literacy
-1. **Practical Fluency** — prompt design, AI workflow integration, human-AI collaboration
-2. **Critical Understanding** — LLMs don't reason or access truth; they predict patterns; training data can be manipulated; cross-checking with human expertise is essential
+1. **Practical Fluency** — prompt design, AI workflow integration, [[human-ai-collaboration|human-AI collaboration]]
+2. **Critical Understanding** — [[llm|LLMs]] don't reason or access truth; they predict patterns; training data can be manipulated; cross-checking with human expertise is essential
 3. **Ethical and Professional Use** — when to acknowledge AI use, distinguishing AI strengths from failures, aligning with professional standards
 
 ## Cross-Sector Response
-An eLetter response argued universities cannot bridge the gap alone — commercial LLMs are structurally opaque. Proposed cross-sector ecosystems (universities + research centers + industry) for algorithmic transparency. Cited China's "AI + Education" Action Plan (April 2026) and the Xiaoya platform deployed across 3,500+ universities.
+An eLetter response argued universities cannot bridge the gap alone — commercial [[llm|LLMs]] are structurally opaque. Proposed cross-sector ecosystems (universities + research centers + industry) for algorithmic transparency. Cited China's "AI + Education" Action Plan (April 2026) and the Xiaoya platform deployed across 3,500+ universities.
 
 ## Connected Concepts
 

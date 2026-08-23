@@ -1,7 +1,7 @@
 ---
 title: Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
 created: "2026-06-01T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [learning-analytics, teacher-role, higher-ed, student-experience, feedback, ai-literacy, help-seeking]
 
@@ -15,7 +15,7 @@ confidence: medium
 
 ## What It Is
 
-An **interpretable decision layer** that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal assessments.
+An **interpretable decision layer** that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal [[assessment|assessments]].
 
 ## How It Works
 
@@ -34,15 +34,15 @@ Output is a ranked set of topic priorities with per-topic decision records expla
 - **Instructor alignment**: Top-5 mediated topics overlapped with instructor concerns on 3/5 topics; Spearman ρ = 0.80
 - **Student difficulty alignment**: ρ = 0.46 (p = .048) — captures something beyond simple difficulty surveys
 - **Isolated learner detection**: Multi-signal integration AUC = 0.96 vs. 0.91 for gap prevalence alone — identified 2 isolated learners not detected by any single signal
-- **Construct validity**: Reflective thinking, help-seeking, and self-efficacy aligned with topic understanding scores
+- **Construct validity**: Reflective thinking, [[help-seeking]], and [[self-efficacy]] aligned with topic understanding scores
 
 ## Why It Matters
 
-This is one of the first systems to operationalize **human-AI co-agency** in classroom settings. The interpretable outputs help teachers trust and act on AI-provided priorities when grades are not yet available. By combining multiple weak signals, the system surfaces students who would otherwise be invisible — a critical capability for equitable instruction.
+This is one of the first systems to operationalize **[[human-ai-collaboration|human-AI co-agency]]** in classroom settings. The interpretable outputs help teachers [[trust]] and act on AI-provided priorities when grades are not yet available. By combining multiple weak signals, the system surfaces students who would otherwise be invisible — a critical capability for [[equity-in-ai-education|equitable instruction]].
 
 ## Limitations
 
-- Single graduate CS course (n=279 surveys, n=5 instructor interviews)
+- Single graduate [[cs-education|CS]] course (n=279 surveys, n=5 instructor interviews)
 - Preliminary findings — not yet generalizable across diverse contexts
 - Weights set by researcher co-design, not learned from data
 
