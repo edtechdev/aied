@@ -8,7 +8,7 @@ sources: ['raw/papers/reconceptualizing-community-inquiry-generative-ai.md']
 confidence: high
 ---
 
-> **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[higher-ed|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
+> **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[community-of-inquiry|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
 
 ## Key Findings
 
@@ -42,6 +42,7 @@ A two-axis heuristic (degree of GenAI involvement; strength of human accountabil
 CoI remains theoretically valuable but its operationalizations need refinement: existing coding schemes and surveys risk over-attributing presence based on surface features of text. The paper sets a research agenda of refining CoI instruments for GenAI-mediated environments, testing the configuration-based hypothesis across real human-GenAI assemblages, and examining simulation-based training mechanisms. It is a conceptual analysis rather than an empirical study, so its claims are theoretically grounded propositions for future investigation, developed mainly with higher-education, text-based inquiry contexts in mind.
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry
 
 - [[generative-ai]]
 - [[llm]]
