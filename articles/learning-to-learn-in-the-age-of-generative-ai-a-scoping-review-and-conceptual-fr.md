@@ -13,7 +13,9 @@ confidence: high
 
 ## Key Findings
 
-This paper presents a scoping review of learning-to-learn (L2L) definitions within pedagogical and psychological literature, identifying 21 relevant publications via PRISMA-ScR. It proposes a novel three-layered framework organized by conceptual broadness: Dimensions (cognitive and metacognitive skills), Processes (self-regulation), and Tools (retrieval practice). The framework maps L2L components to GenAI application use cases in higher education, positioning L2L as key to reducing GenAI overreliance and fostering learner agency.
+- **A scoping review of learning-to-learn (L2L):** Identifies 21 relevant publications via PRISMA-ScR, mapping how L2L is defined across [[metacognition|pedagogical and psychological]] literature.
+- **A three-layered framework:** Organized by conceptual broadness — Dimensions ([[critical-thinking|cognitive and metacognitive]] skills), Processes ([[self-regulated-learning|self-regulation]]), and Tools ([[desirable-difficulties|retrieval practice]]).
+- **Mapping L2L to GenAI use cases:** The framework maps L2L components to GenAI application use cases in [[higher-ed|higher education]], positioning L2L as key to reducing [[cognitive-offloading|GenAI overreliance]] and fostering [[agency|learner agency]] — a contribution to [[ai-education|AI-mediated learning]] and [[ai-literacy|AI literacy]].
 
 ## Connected Concepts
 

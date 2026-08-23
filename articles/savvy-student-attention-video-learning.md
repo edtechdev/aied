@@ -9,15 +9,16 @@ confidence: high
 ---
 
 > **Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou** — arXiv preprint (2026).
-## Synthesis
+
+> **Synthesis:** SAVVY is an interactive visual analytics system for video-based learning that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos, connecting AI-based attention estimation to instructional-design practice.
+
+## Key Findings
 
 SAVVY is an interactive visual analytics system for video-based learning that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos.
 
-A novel attention modeling framework based on multimodal brain signals enables stable tracking of student attention in real-world environments, addressing the noise susceptibility of existing attention quantification algorithms.
-
-The system supports teachers in analyzing pilot cohorts' attention before releasing videos, reducing the guesswork of empirical revision by making attention patterns interpretable at scale.
-
-The work connects AI-based attention estimation to instructional design practice, giving teachers an evidence base for when and where videos lose student engagement.
+- A novel attention modeling framework based on multimodal brain signals enables stable tracking of student attention in real-world environments, addressing the noise susceptibility of existing attention quantification algorithms.
+- The system supports teachers in analyzing pilot cohorts' attention before releasing videos, reducing the guesswork of empirical revision by making attention patterns interpretable at scale.
+- The work connects AI-based attention estimation to instructional design practice, giving teachers an evidence base for when and where videos lose [[student-experience|student engagement]] — a contribution to [[learning-analytics]] and [[multimodal|multimodal learning analytics]] in [[higher-ed|education]].
 
 ## Connected Concepts
 
