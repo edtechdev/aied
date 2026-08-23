@@ -1,7 +1,7 @@
 ---
 title: Technology Acceptance Model
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
 confidence: high
@@ -9,7 +9,9 @@ confidence: high
 
 The **Technology Acceptance Model (TAM)**, proposed by Davis (1989), explains and predicts users' adoption of new technologies through two core beliefs: **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)**, which shape users' **Attitude (ATT)** toward the technology. Attitude then predicts **Behavioral Intention (BI)** to use it, which ultimately influences actual usage behavior. Grounded in information systems theory, TAM has become the dominant framework for studying [[generative-ai|generative AI]] adoption in education.
 
-### Core Structure
+#- **[[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]]** use clustering to identify distinct GenAI adoption personas (e.g. Cautious Achievers, Engaged Enthusiasts), revealing hidden user heterogeneity beyond variable-centered models.
+
+## Core Structure
 
 The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
 
@@ -42,6 +44,9 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
+- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
 
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students

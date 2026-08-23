@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [motivation, student-experience, engagement-metrics, affective-computing, self-determination-theory, ai-education]
 confidence: high
@@ -11,7 +11,9 @@ confidence: high
 
 Motivation is a foundational construct in education research, and the rise of AI in education has made it more consequential: AI tools can remove friction and make learning more accessible, but they can also reduce the cognitive effort and struggle that support intrinsic motivation and deep learning. The articles in this wiki explore motivation across learner-facing AI tools, teacher-facing AI systems, and the psychological mechanisms — [[self-determination-theory|self-determination]], [[self-efficacy-tutoring-learning|self-efficacy]], emotions — through which AI shapes motivated behavior.
 
-### Key research themes
+#- **[[lee-wu-gender-motivation-genai-achievement-2026|Lee & Wu]]** show gender and motivation drive differential engagement with GenAI, with distinct achievement trajectories.
+
+## Key research themes
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile chatbot journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in engineering education.
 
@@ -41,6 +43,8 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender, motivation, and GenAI achievement trajectories
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]

@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -15,6 +15,8 @@ Metacognition in education refers to learners' awareness, monitoring, and regula
 - **Metacognitive regulation:** Planning, monitoring, and evaluating one's own learning in real time
 
 Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+
+- **[[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]]** find that student motivation and interaction role shape metacognitive engagement with GenAI, linking metacognition to AI use.
 
 ## How AI Tools Affect Metacognition
 
@@ -91,6 +93,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[learning-theories]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
 - [[benali-genai-academic-writing-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[oby-chatgpt-use-learning-framework-2026]]

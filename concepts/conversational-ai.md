@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-interaction, ai-literacy]
 confidence: medium
@@ -10,6 +10,8 @@ confidence: medium
 > **Conversational AI (CAI) agents** — AI-driven speech- or text-based agents that simulate and automate conversations, from rule-based chatbots to NLP/ML and multimodal LLM-based assistants — are among the most widely used AI interfaces in education, valued for teaching, psychological, and metacognitive support even as technical, cognitive, and ethical concerns persist.
 
 Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on spoken or written dialogue, most commonly realized as chatbots and, more recently, [[generative-ai|generative]] [[llm|LLM]]-based assistants such as ChatGPT, Claude, and multimodal educational avatars. Modern CAI agents fall into machine-learning-based, NLP-based, and hybrid categories, with text-based agents the most prevalent in education. As learning tools they function as [[intelligent-tutoring|intelligent tutors]], [[feedback]] providers, [[student-ai-interaction|interaction partners]], and administrative assistants — overlapping with [[pedagogical-agent|pedagogical agents]] while spanning a broader set of applications.
+
+- **[[colbran-student-perspectives-genai-chatbots-2026|Colbran et al.]]** human-centred mixed-methods study details how students actually perceive and use GenAI chatbots in higher education.
 
 ## How conversational AI appears in the wiki
 
@@ -57,6 +59,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[reducing-ai-misuse]]
 
 ## Connected Articles
+- [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[conversational-ai-tutors-framework]] — Conversational AI tutors framework

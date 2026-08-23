@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 160 concepts and 845 articles.
+> Complete text of 160 concepts and 862 articles.
 
 # Concepts
 
@@ -384,6 +384,8 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
@@ -867,7 +869,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 AI in education is the umbrella that all other concept pages collectively define. The wiki organizes the field into the major strands below, each linking to the relevant concept pages.
 
-A landmark historical perspective, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** trace AIED from cybernetics and the 1956 Dartmouth conference through cognitive tutors and Papert's constructionism, arguing that today's GenAI debates re-enact the field's foundational control-vs-agency tension.
+A landmark [[history-of-aied|historical]] perspective, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** trace AIED from cybernetics and the 1956 Dartmouth conference through [[intelligent-tutoring|cognitive tutors]] and Papert's [[constructivist|constructionism]], arguing that today's [[generative-ai|GenAI]] debates re-enact the field's foundational control-vs-[[agency]] tension.
 
 ## How the wiki is organized: the umbrella pages
 
@@ -1967,6 +1969,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-decision-support-online-learning-assessment-2026]]
@@ -2009,7 +2012,9 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 
-### Key research themes
+#- **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES uses reward alignment to make LLM essay scoring both accurate and consistent, addressing a core AES validity concern.
+
+## Key research themes
 
 **Prompting-based AES** has emerged as the most accessible approach. The **[[choi-anchor-aes-prompting-2025|Choi et al. anchor paper study]]** shows that including exemplar essays in prompts brings LLM-human agreement close to human-human reliability, with GPT-4o mini achieving comparable results to GPT-4o at lower cost. This connects to broader [[prompt-engineering]] research and makes AES feasible for teacher use.
 
@@ -2036,6 +2041,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Connected Articles
+- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
 
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
@@ -2975,6 +2981,17 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 - **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally situated activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
 - **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" engagement above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
 
+## Constructionism
+
+**Constructionism** is the branch of constructivism associated with Seymour Papert that adds a specific claim: learning happens most powerfully when learners construct *external, shareable artifacts* — physical or digital objects they design, build, and debug. Where Piagetian constructivism focuses on the internal mental construction of knowledge, constructionism holds that this construction is best supported and made visible through making something tangible (Harel & Papert, 1991). In [[history-of-aied|AIED history]], constructionism stands as the "agency" pole of the field's central control-vs-agency tension, set against Anderson's structured cognitive tutors.
+
+- **Logo and microworlds.** Papert co-developed Logo (1967) with its iconic "turtle" — a programming microworld where children explore geometry and other powerful ideas by commanding and debugging a visible agent. Debugging is reframed as a natural, valuable part of learning, not failure.^[[mishra-control-vs-agency-history-2025]]
+- **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that teaching is the efficient transfer of knowledge — and instead positions learners as autonomous agents who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
+- **Lineage into modern edtech.** Logo's emphasis on creative, hands-on construction underpins [[game-based-learning]], [[project-based-learning]], [[educational-robotics|robotics]] (LEGO Mindstorms, Scratch, programmable bricks), and the broader maker movement.
+- **The constructionist legacy in AI.** Constructionism implies AI tools should serve as **materials to build with** — thinking tools and creative co-constructors that the learner directs — rather than as answer-providing instructors. This is the direct ancestor of the wiki's [[genai-mindtool-generative-learning|mindtool]] framing of generative AI and of design commitments that preserve [[agency|learner agency]] over the learning process.^[[educational-robotics-pathways-2026]]
+
+Constructionism is thus both a learning theory and a critique: it insists that the purpose of education is not to reproduce existing knowledge structures but to empower learners to construct and transform them — a stance with clear implications for whether AI in education reinforces or challenges established hierarchies.
+
 ## Constructivism and AI in education
 
 ### AI for constructivist learning
@@ -3068,6 +3085,8 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 
 Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on spoken or written dialogue, most commonly realized as chatbots and, more recently, [[generative-ai|generative]] [[llm|LLM]]-based assistants such as ChatGPT, Claude, and multimodal educational avatars. Modern CAI agents fall into machine-learning-based, NLP-based, and hybrid categories, with text-based agents the most prevalent in education. As learning tools they function as [[intelligent-tutoring|intelligent tutors]], [[feedback]] providers, [[student-ai-interaction|interaction partners]], and administrative assistants — overlapping with [[pedagogical-agent|pedagogical agents]] while spanning a broader set of applications.
 
+- **[[colbran-student-perspectives-genai-chatbots-2026|Colbran et al.]]** human-centred mixed-methods study details how students actually perceive and use GenAI chatbots in higher education.
+
 ## How conversational AI appears in the wiki
 
 **An umbrella-review synthesis.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of CAI agents]] (34 review articles) shows CAI utilization is concentrated in teaching and learning support (97.1% of reviews), psychological and motivational support (91.2%), and [[metacognition|metacognitive]] and personal development (88.2%), while administrative support, research management, and healthcare education lag. The review documents that human–AI relationship concerns persist across all CAI generations, with [[academic-integrity]] and data [[privacy]] emerging as newer ethical issues, and calls for HCI-grounded, evidence-based design and stronger [[ai-literacy]] support.
@@ -3114,6 +3133,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[reducing-ai-misuse]]
 
 ## Connected Articles
+- [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
@@ -4171,7 +4192,9 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 
 > **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the wiki spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
 
-### Policy levels
+#- **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in higher education.
+
+## Policy levels
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
 - **Government policy:** [[state-policy-teacher-ai|State teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
@@ -4216,6 +4239,8 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
 
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment (30-university policy audit)
 - [[adarkwah-genai-unesco-policy-2026]]
@@ -4741,7 +4766,9 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 > **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. AI education ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
 
-### Ethical dimensions
+#- **[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]** surface faculty and student perceptions of AI's ethical dimensions, informing ethics-education and policy design.
+
+## Ethical dimensions
 
 - **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
@@ -4776,6 +4803,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[benali-genai-academic-writing-2026]]
 - [[ying-genai-journalism-assessment-2026]]
@@ -4871,7 +4899,9 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 
 > **Faculty development** — the processes, programs, and institutional supports that help educators develop the skills and confidence to teach effectively with AI. Faculty development spans individual training, curriculum redesign, and institutional policy change.
 
-### Faculty development in the AI era
+#- **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** design-based research develops faculty standards for technology (incl. AI) integration in higher education institutions.
+
+## Faculty development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
 - **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. faculty-development programs must address all four.
@@ -4921,6 +4951,8 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
 - [[alharbi-ethical-genai-eap-2026]]
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[espino-ai-business-education-review-2026]]
@@ -5032,7 +5064,9 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 
 This is the umbrella concept for the wiki's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The wiki treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
 
-### The feedback system
+#- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from GenAI feedback — a crucial qualifier for feedback effectiveness claims.
+
+## The feedback system
 
 Feedback is best understood not as a single event but as a connected system of interacting parts, each of which the wiki documents as its own concept:
 
@@ -5105,6 +5139,9 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
+- [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
@@ -5639,7 +5676,9 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the role of educators as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
 
-### How AI governance appears in the research
+#- **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** scoping review frames AI governance in higher education through anticipatory-governance and leadership lenses.
+
+## How AI governance appears in the research
 
 - **Institutional adoption at scale:** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|The AIDA study at the Open University]] shows how an institution designed, implemented, and evaluated a GenAI assistant, identifying that responsible system-level deployment requires governance structures (AI Steering Group), senior leadership sponsorship, and alignment with institutional strategy — not just technical capability.
 
@@ -5693,6 +5732,8 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
+- [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[enright-staff-perspectives-genai-2026]]
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
@@ -8008,6 +8049,8 @@ Metacognition in education refers to learners' awareness, monitoring, and regula
 
 Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
 
+- **[[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]]** find that student motivation and interaction role shape metacognitive engagement with GenAI, linking metacognition to AI use.
+
 ## How AI Tools Affect Metacognition
 
 ### The Suppression Risk (Stanford SCALE, 2026)
@@ -8083,6 +8126,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[learning-theories]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
 - [[benali-genai-academic-writing-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[oby-chatgpt-use-learning-framework-2026]]
@@ -8164,7 +8208,9 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 Motivation is a foundational construct in education research, and the rise of AI in education has made it more consequential: AI tools can remove friction and make learning more accessible, but they can also reduce the cognitive effort and struggle that support intrinsic motivation and deep learning. The articles in this wiki explore motivation across learner-facing AI tools, teacher-facing AI systems, and the psychological mechanisms — [[self-determination-theory|self-determination]], [[self-efficacy-tutoring-learning|self-efficacy]], emotions — through which AI shapes motivated behavior.
 
-### Key research themes
+#- **[[lee-wu-gender-motivation-genai-achievement-2026|Lee & Wu]]** show gender and motivation drive differential engagement with GenAI, with distinct achievement trajectories.
+
+## Key research themes
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile chatbot journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in engineering education.
 
@@ -8194,6 +8240,8 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender, motivation, and GenAI achievement trajectories
 - [[oby-chatgpt-use-learning-framework-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
@@ -9024,6 +9072,7 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[k-12]]
 
 ## Connected Articles
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
 
 - [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]
@@ -9816,6 +9865,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
 - [[benali-genai-academic-writing-2026]]
 - [[ying-genai-journalism-assessment-2026]]
 - [[enright-staff-perspectives-genai-2026]]
@@ -10593,6 +10643,8 @@ SRL is the process whereby learners actively manage their own learning through t
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
 
+- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior.
+
 ## Digital Support for SRL
 
 ### Learning Journals
@@ -10675,6 +10727,7 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
 - [[benali-genai-academic-writing-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]
@@ -12087,7 +12140,9 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 
 The **Technology Acceptance Model (TAM)**, proposed by Davis (1989), explains and predicts users' adoption of new technologies through two core beliefs: **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)**, which shape users' **Attitude (ATT)** toward the technology. Attitude then predicts **Behavioral Intention (BI)** to use it, which ultimately influences actual usage behavior. Grounded in information systems theory, TAM has become the dominant framework for studying [[generative-ai|generative AI]] adoption in education.
 
-### Core Structure
+#- **[[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]]** use clustering to identify distinct GenAI adoption personas (e.g. Cautious Achievers, Engaged Enthusiasts), revealing hidden user heterogeneity beyond variable-centered models.
+
+## Core Structure
 
 The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
 
@@ -12120,6 +12175,9 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
+- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
 
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
@@ -12203,6 +12261,8 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 
 > **Technological Pedagogical Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[faculty-development|professional development]].
 
+- **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** DBR operationalizes faculty technology-integration standards that extend the TPACK framework into institutional practice.
+
 ## The Framework
 
 TPACK holds that effective technology integration is not the sum of separate knowledge domains but the product of their **dynamic interplay**. The framework comprises three base domains and four intersections:
@@ -12250,6 +12310,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[teacher-education]]
 
 ## Connected Articles
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 
@@ -20346,6 +20407,57 @@ Ba, S., Shi, X., Wu, S., & Lu, G. (2026). [*Artificial intelligence agents in co
 
 ---
 
+## [Anticipatory governance and leadership for AI implementation in higher education: A scoping review](https://edtechdev.github.io/aied/articles/baroudi-anticipatory-governance-ai-higher-ed-2026/)
+
+# Anticipatory governance and leadership for AI implementation in higher education: A scoping review
+
+> **Synthesis:** This scoping review of 19 sources (2020–2025) examines how [[governance|anticipatory governance]] and [[administrator|leadership]] are conceptualized and operationalized for [[generative-ai|AI]] implementation in [[higher-ed|higher education]]. It finds that institutions must shift from reactive to proactive, foresight-driven leadership emphasizing stakeholder [[student-engagement|engagement]], data literacy, [[collaborative-learning|collaboration]], and inclusive policy frameworks. Empowering and distributive leadership styles increase AI adoption, yet formal senior AI roles remain rare. A persistent theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure, especially in the Global South. The review identifies a lack of non-Western research and an absence of longitudinal or causal evidence as key gaps.
+
+## Core Finding
+
+Effective [[governance|AI governance]] in higher education depends on adopting **anticipatory models** — proactive, participatory, adaptive decision-making using foresight tools and stakeholder co-creation — rather than reactive crisis management. Realizing transformative change requires going beyond managerial rationales to participatory and inclusive leadership that is data-literate and forward-thinking.
+
+## Leadership and Governance Themes
+
+The dominant theme is a shift from reactive to proactive leadership. Empowering and distributive leadership styles were associated with higher faculty engagement, willingness to innovate, and openness to change. Senior AI roles (e.g., Chief AI Officer, AI policy officers) are emerging enablers but remain rare: only 7% of institutions created senior AI leadership roles despite 49% viewing AI as a strategic priority. AI leadership is becoming increasingly distributed across executives, faculty, managers, instructional designers, and AI specialists rather than centralized in senior administration.
+
+## Institutional Readiness and Upskilling
+
+Many institutions remain at an early stage of preparedness. Aligning vision, mission, and curricula with the Fourth Industrial Revolution, investing in [[ai-literacy|AI literacy]] and hands-on training for [[teacher-role|faculty and staff]], and addressing technophobia are emphasized. Change-management models (Valente's contagion model; Rieber & Welliver's five-stage framework) and cross-functional AI task forces support system-level change.
+
+## Equity and the Global South
+
+A notable theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure in the Global South, including the Arab world, Sub-Saharan Africa, and Southeast Asia. Western-centric governance models often do not fit these realities. The review notes limited non-Western research, dominance of conceptual or self-reported evidence, and an absence of longitudinal or causal studies as key gaps.
+
+## Relevance to the wiki
+
+This paper strengthens the wiki's treatment of [[governance]] and [[educational-policy-ai|AI policy]] in [[higher-ed|higher education]]. It connects institutional [[administrator|leadership]] to [[ethics|ethical]] and equitable AI adoption, and it complements empirical adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a systemic, futures-oriented governance lens. Its emphasis on stakeholder engagement, faculty upskilling, and Global South [[equity-in-ai-education|equity]] aligns with the wiki's coverage of [[teacher-role|teacher roles]], [[ai-literacy]], and context-sensitive AI integration. It informs [[educational-policy-ai|policy]] discourse by framing governance as an anticipatory, participatory process rather than a compliance exercise.
+
+## Connected Concepts
+
+- [[governance]]
+- [[educational-policy-ai]]
+- [[administrator]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[teacher-role]]
+- [[ethics]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[ai-uk-higher-education-policy-2026]]
+- [[ai-ethics-bibliometric-2026]]
+- [[adarkwah-genai-unesco-policy-2026]]
+- [[genai-assessment-governance]]
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
+
+## Citation
+
+Baroudi, S. (2026). [*Anticipatory governance and leadership for AI implementation in higher education: A scoping review*](https://doi.org/10.1186/s41239-026-00616-7). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [Heads We Win, Tails You Lose: AI Detectors in Education](https://edtechdev.github.io/aied/articles/bassett-ai-detectors-education-2026/)
 
 > **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[plagiarism-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognises AI's role in learning.
@@ -20932,6 +21044,58 @@ This study examines the critical influence of technical and structural factors o
 
 ## Citation
 Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). *British Journal of Educational Technology.*
+
+---
+
+## [Understanding ethical dimensions of AI in higher education: insights from faculty members and students](https://edtechdev.github.io/aied/articles/bilgic-sever-ethical-dimensions-ai-higher-ed-2026/)
+
+# Understanding Ethical Dimensions of AI in Higher Education
+
+> **Synthesis:** Bilgiç and Sever used an explanatory sequential mixed-methods design to examine faculty and student views on the ethical use of AI in higher education, surveying 971 students and 135 faculty members followed by semi-structured interviews with 23 students and 14 faculty. Both groups expressed supportive views toward ethical AI use, but in different forms across individual, technological, institutional, and societal levels: faculty emphasized ethical principles while flagging a lack of institutional guidelines, whereas students valued AI's learning benefits but voiced uncertainty about the sharing of ethical responsibilities. Qualitative analysis surfaced six themes exposing a multidimensional ethical structure, with shared concern that excessive AI use could weaken cognitive skills. The authors call for faculty [[faculty-development|professional development]], ethics courses in curricula, clear institutional guidelines, and interdisciplinary [[collaborative-learning|collaboration]].
+
+## Core Finding
+
+Faculty members and students hold supportive yet distinctly shaped views on AI ethics in higher education, with faculty focused on principles and institutional support gaps and students on learning benefits and uncertain ethical responsibility. Both groups pragmatically accept AI while aware of its risks, and both worry that overuse erodes cognitive skills — a shared concern that frames ethical AI integration not merely as technology adoption but as preserving students' cognitive and professional development.
+
+## Faculty Perspectives
+
+Faculty survey responses scored highest on the Equality, inclusiveness, and justice dimension (M=4.10) and lowest on Institutional support (M=3.81). Notably, faculty strongly supported institutional measures to prevent unethical AI use (M=4.59) while rating the adequacy of institutional guidelines lowest (M=2.99), revealing that a high level of individual ethical responsibility does not always align with sufficient structural support. Faculty expressed limited knowledge of data privacy and cultural inclusivity in AI-supported materials, and some were hesitant to intervene in students' AI use out of respect for student autonomy — underscoring the need for institutional frameworks that translate individual ethical awareness into a sustainable ethical culture.
+
+## Student Perspectives
+
+Students scored highest on Ethical awareness and responsible use (M=3.95) and lowest on Academic integrity (M=3.72). Their top item was recognizing AI results as recommendations with ultimate responsibility belonging to oneself (M=4.20), yet they were less likely to actively check whether tools had ethical guidelines. Students tended to interpret ethics through flexible, individual frameworks — contextual responsibility and subjective truths — attributing output ownership or errors to AI, a reflection of legal uncertainties that leave room for their own ethical reasoning. This is better read as a conflict between ethical paradigms than a simple ethical deficiency, pointing to the need for clear institutional policies.
+
+## A Multidimensional Ethical Structure
+
+Qualitative analysis revealed six themes spanning data ethics, algorithm ethics, and [[pedagogy|pedagogical]] ethics, consistent with the framework in which AI ethics in education forms an interconnected causal chain from fundamental principles (transparency, accountability, fairness, autonomy) to behavioral outcomes. Both groups shared concerns that AI could weaken cognitive skills long-term, that curricula must be updated, and that professional-life uncertainties have arisen. The bottom-up risk-management process that emerged — faculty sharing usage criteria, students verifying content — falls short without an institutional roadmap, and the contrast between faculty's perception of students' "ethical inadequacy" and students' "acceptance of ethical responsibility" complicates governance. Concerns about overuse strengthening superficial learning habits and weakening critical thinking connect directly to cognitive offloading and AI-misuse harms.
+
+## Relevance to the wiki
+
+This paper grounds the wiki's treatment of [[ethics]] in [[higher-ed]] with a dual-stakeholder, mixed-methods account of how faculty and students actually reason about AI, bridging [[ai-education]] with [[governance]] and [[educational-policy-ai|institutional policy]]. Its emphasis on faculty professional development, [[curriculum-design|curriculum]] reform, and clear guidelines offers concrete levers for [[teacher-role|educators]] and administrators. The documented risk that excessive AI use may weaken [[critical-thinking]] and cognitive skills connects the paper to the wiki's coverage of [[cognitive-offloading]] and [[ai-misuse-learning-harm]], while its privacy and academic-integrity themes align with [[privacy]] and [[academic-integrity]] concerns.
+
+## Connected Concepts
+
+- [[ethics]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[governance]]
+- [[academic-integrity]]
+- [[privacy]]
+- [[student-experience]]
+- [[teacher-role]]
+- [[critical-thinking]]
+- [[agency]]
+
+## Connected Articles
+
+- [[ai-ethics-bibliometric-2026]]
+- [[principled-ai-education]]
+- [[shin-ai-policies-sld-2026]]
+- [[moral-panic-genai-classroom]]
+
+## Citation
+
+Bilgiç, B., & Sever, D. (2026). [*Understanding ethical dimensions of AI in higher education: insights from faculty members and students*](https://doi.org/10.1186/s41239-026-00601-0). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
@@ -21689,6 +21853,63 @@ Both sham calls were correctly classified as having **no material difference**. 
 ## Citation
 
 Ma, Y., Li, S., & Shi, S. (2026). [*Benchmarking Multimodal Large Language Models for Educational Slide Auditing*](https://osf.io/preprints/edarxiv/4y8xk_v1). EdArXiv preprint.
+
+---
+
+## [Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning](https://edtechdev.github.io/aied/articles/chang-genai-peer-feedback-collaborative-argumentation-2026/)
+
+# Leveraging generative AI to facilitate [[peer-review|peer feedback]] in collaborative argumentation learning
+
+> **Synthesis:** Chang et al. (2026) compare three peer-feedback conditions in collaborative argumentation learning — peer feedback (PF), peer feedback with GenAI (GenAI-PF), and peer feedback with GenAI supported by prompt scaffolding (PS-GenAI-PF) — with 45 student [[teacher-role|teachers]] in 12 groups. The GenAI-supported groups achieved better argumentation performance, and the prompt-scaffolded group performed best on advanced elements like "rebuttal data and warrant" and "addressing the opposing view." GenAI-supported feedback contained more explanations, suggestions, and neutral/negative feedback, and [[network-analysis|epistemic network]] analysis showed the scaffolded group paired negative emotions with higher-order feedback content (identification-suggestion, explanation-suggestion). The study offers concrete implications for designing GenAI-supported peer feedback.
+
+## Core Finding
+
+**Prompt-scaffolded GenAI support improves both argumentation performance and the higher-order quality of peer feedback in collaborative argumentation learning.** The GenAI-supported peer-feedback groups (GenAI-PF and PS-GenAI-PF) outperformed the plain peer-feedback group on argumentation performance (Kruskal-Wallis H test), with the prompt-scaffolded group excelling on advanced argumentation elements — "rebuttal data and warrant" and "addressing the opposing view." The GenAI-supported groups also produced higher-quality feedback (more explanations and suggestions) and more neutral/negative (as opposed to purely positive) feedback. Critically, prompt scaffolding appears to convert students' interaction with GenAI from passive reliance into a more critical, higher-order evaluative process.
+
+## The Role of Prompt Scaffolding
+
+The study's key design innovation is prompt scaffolding — structured prompts (context, objective, role) that guide students' dialogue with GenAI during peer feedback. Because students often experience [[cognitive-offloading|over-reliance]] on GenAI-generated content and struggle to phrase questions, scaffolding helps them engage in cognitive and metacognitive processes. The PS-GenAI-PF group showed strong associations between negative emotions and higher-order feedback content (identification-suggestion and explanation-suggestion), suggesting scaffolded students critically evaluated rather than merely accepted AI output. This directly engages the wiki's [[scaffolding]] and [[prompt-engineering]] concepts and shows how structured prompts can transform GenAI from answer-provider into learning facilitator.
+
+## Methodology
+
+- Participants: 45 student teachers (16 male, 29 female), third-year undergraduates in Educational Technology at a central China university.
+- 12 groups of 3–4 students, randomly assigned to three conditions (PF, GenAI-PF, PS-GenAI-PF), four groups each; four rounds of collaborative argumentation across four topics in a 16-week course.
+- Tools: Tencent QQ (organization), Tencent Meeting (discussion/feedback), Boardmix (collaborative editing), and ERNIE Bot (GenAI conversational partner).
+- GenAI served as a cognitive/evaluative scaffold (evaluating structure/coherence, evidence sufficiency, counterarguments, and generating suggestions). GenAI-PF groups generated their own prompts; PS-GenAI-PF received prompt scaffolding.
+- Analysis: Kruskal-Wallis H tests for argumentation performance and feedback-quality differences; epistemic network analysis (ENA) for associations between feedback content and emotion.
+- Feedback quality assessed on elements (descriptive comments, identification, explanations, suggestions) and affective tone (positive, neutral, negative).
+
+## Implications for Practice
+
+The study supports using GenAI to scaffold peer feedback in [[collaborative-learning]] and argumentation — areas where students often struggle to produce rebuttals, treat criticism as personal attack, or repeat others' ideas. Structured prompt scaffolding can help students overcome these difficulties and develop [[critical-thinking]] and self-[[regulation]]. The finding that scaffolded students produced higher-order feedback while experiencing (and productively managing) negative affect suggests that instructional design should deliberately pair GenAI support with prompt guidance to realize its benefits and mitigate the cognitive-offloading risks of uncritical reliance.
+
+## Relevance to the Wiki
+
+This article contributes empirical evidence to the wiki's [[feedback]], [[collaborative-learning]], and [[scaffolding]] clusters. It connects [[prompt-engineering]] to peer feedback and argumentation, and links GenAI support to [[self-regulated-learning]], [[metacognition]], and [[critical-thinking]]. It also provides a useful model of [[human-ai-collaboration]] where GenAI acts as an evaluative scaffold within a student-centered, collaborative [[pedagogy]], relevant to [[instructional-design]] and [[assessment]] in [[higher-ed]].
+
+## Connected Concepts
+
+- [[collaborative-learning]]
+- [[feedback]]
+- [[scaffolding]]
+- [[prompt-engineering]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[critical-thinking]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[student-ai-interaction]]
+
+## Connected Articles
+
+- [[reconceptualizing-community-inquiry-generative-ai]]
+- [[genai-simulate-patient-history-pbl-2026]]
+- [[feedback-futures-genai]]
+- [[learner-centered-feedback-ai]]
+
+## Citation
+
+Chang, Y., Liu, Q., Lu, Y., & Miao, E. (2026). [*Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning*](https://doi.org/10.1186/s41239-026-00586-w). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
@@ -23486,6 +23707,57 @@ Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rod
 
 ---
 
+## [Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education](https://edtechdev.github.io/aied/articles/colbran-student-perspectives-genai-chatbots-2026/)
+
+# Understanding Student Perspectives on Generative AI Chatbots in Higher Education
+
+> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system analytics with a mixed-methods survey (n=121) around the "Jordan Chatbot," a human-centred [[pedagogy|pedagogical]] [[agentic-ai|agent]] built on GPT-4o within a learning management system. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centred design, explicit AI policies and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
+
+## Core Finding
+
+Students see generative AI chatbots as valuable supplementary tools that complement rather than replace human instruction, valuing their [[accessibility]], rapid responses, and unit-specific support while maintaining robust support for academic-integrity rules — yet adoption hinges more on AI literacy and user experience than on technical capability alone. The significant gap between high general technological literacy and lower AI familiarity, and the finding that users had greater prior chatbot exposure, suggest that targeted training and exposure can close adoption gaps.
+
+## Design and Deployment
+
+The Jordan Chatbot was designed as a human-centred pedagogical agent grounded in [[constructivist]] and socio-cultural learning theory, built on GPT-4o and integrating system instructions, a curated knowledge base of disciplinary and [[governance|institutional]] materials, and an embedded LMS interface. Situated within authentic disciplinary contexts (Australian criminal law), the design aligns with [[situated-learning|situated learning]] theory and Vygotsky's zone of proximal development, positioning the chatbot as a mediating tool that extends, but does not replace, teacher guidance. Transparent policies, [[ethics|ethical]] parameters, and user control reflect human-centred design principles and responsible AI frameworks, with restrictions on answering assessment-related questions to safeguard academic integrity.
+
+## Student Attitudes and Usage
+
+Students reported generally positive attitudes toward chatbots and perceived gains in knowledge and understanding, though they did not see chatbots as producing better results than students could on their own. Intermediate-level English language speakers were more favorable toward chatbot use than advanced speakers, suggesting chatbots particularly support language-learners navigating complex content. Females reported greater prior chatbot exposure and a more positive attitude, while males were more likely to believe chatbots could improve study grades. Usage analytics confirmed the value of 24/7 availability, with over a third of interactions occurring after hours — a key affordance for online and distance learners.
+
+## Barriers and User Experience
+
+Five significant reasons for non-use emerged: lack of training, concerns about [[trust]]ed/accurate/safe/helpful responses, a preference for asking teaching staff, fear of breaching academic integrity, and no interest. Qualitative analysis of non-user comments (reflexive thematic analysis) surfaced usability as the largest theme (23%), with students disliking the intrusive pop-up design; other themes included preference for humans or search engines, lack of perceived usefulness, AI concerns, unawareness, and time pressure. Users valued helpfulness for information and navigation (24%), availability and accessibility (21%), and subject-specific learning support (18%), while reporting occasional inaccuracies and requesting better integration of reliable links, chat history, and more teacher-like responses.
+
+## Relevance to the wiki
+
+This paper gives the wiki rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the wiki's coverage of reducing AI misuse, while its human-centred design recommendations inform [[instructional-design]] and the conditions under which chatbots equitably complement human instruction.
+
+## Connected Concepts
+
+- [[conversational-ai]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[ai-literacy]]
+- [[academic-integrity]]
+- [[pedagogical-agent]]
+- [[student-ai-interaction]]
+- [[instructional-design]]
+- [[trust]]
+
+## Connected Articles
+
+- [[scheu-mobile-chatbot-journaling-motivation-2026]]
+- [[conversational-agents-novice-programmers-scoping-2025]]
+- [[ai-generated-feedback-higher-ed]]
+
+## Citation
+
+Colbran, S., Jha, M., & Schiavone, C. (2026). [*Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education*](https://doi.org/10.1186/s41239-026-00605-w). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights](https://edtechdev.github.io/aied/articles/cold-start-knowledge-tracing-safeinsights/)
 
 **Jiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan** — cs.HC
@@ -25140,6 +25412,116 @@ Lin, J., & Al-Hada, N. M. (2026). [*The critical-thinking paradox in generative 
 
 ---
 
+## [Designing faculty standards for technology integration in higher education institutions: a design-based research study](https://edtechdev.github.io/aied/articles/crompton-faculty-technology-integration-standards-2026/)
+
+# Designing faculty standards for technology integration in [[higher-ed|higher education]] institutions: a design-based research study
+
+> **Synthesis:** Crompton, Burke, and Nickel (2026) use design-based research across two iterative macro cycles and 114 participants to develop a framework of six faculty technology standards covering the full teaching/research/service scope of higher education work: Instructor, Coordinator, Leader, Researcher, Learner, and Contributor. Each standard is paired with practical indicators for effective, [[ethics|ethical]], and contextually relevant technology use. The study addresses a genuine gap — existing frameworks (TPACK, RAT, SAMR, SETI) and standards (ISTE, UNESCO, DigCompEdu) target K-12 educators or only the teaching portion of faculty roles. The standards are meant to guide faculty development, inform institutional planning, and align with accreditation.
+
+## Core Finding
+
+**Higher education faculty lack a comprehensive set of technology standards that cover all three of their core responsibilities — teaching, research, and service — and this design-based research study produces one, consisting of six standards (Instructor, Coordinator, Leader, Researcher, Learner, Contributor) with practical indicators.** Existing frameworks and standards are inadequate: theoretical frameworks provide overarching guidance but no granular [[benchmark]]s, while extant educator standards (ISTE, UNESCO, DigCompEdu, HeDiCom, Quality Matters) target K-12 teachers or address only the teaching dimension. The new framework fills this gap and is usable by faculty, administrators, and academic support staff (Deans, Provosts, accreditation leads, instructional designers, researchers, curriculum developers) to guide [[faculty-development]], institutional planning, and accreditation alignment.
+
+## The Six Faculty Standards
+
+The framework spans teaching, research, and service, reordered to mirror a faculty member's responsibilities:
+
+1. **Instructor** — designing, implementing, and evaluating teaching with technology (revised to include "implementing," which was initially absent).
+2. **Coordinator** — managing programs and courses; renamed from "Administrator" after participants noted the term was confused with Deans and other non-faculty leadership roles.
+3. **Leader** — leading technology integration and innovation.
+4. **Researcher** — using technology in scholarly inquiry and research.
+5. **Learner** — engaging in ongoing professional learning about technology.
+6. **Contributor** — contributing to the university, profession, and community through technology.
+
+Each standard carries practical indicators illustrating examples of effective implementation, supporting effective, ethical, and contextually relevant technology use.
+
+## Methodological Approach
+
+The study uses design-based research (Gravemeijer & van Eerde, 2009), which is situated in real educational contexts, iterative, and [[collaborative-learning|collaborative]]. Two macro cycles each included instructional design, experiment/mini-cycle analysis, and retrospective analysis, with the standards treated as a conjectured theory of ontological innovation. Participants (114 total) included US faculty from 28 institutions across five Carnegie types, international faculty from 11 countries, Centers for Teaching directors, accreditation coordinators, and representatives of educational technology, accrediting, and global organizations. Data came from surveys (Likert + open text) and semi-structured interviews, coded with grounded theory/constant comparative method (four researchers, 100% agreement on revisions).
+
+## Context and Rationale
+
+The study responds to calls from scholars, organizations, and institutions to address the gap in scholarly knowledge about HE faculty technology standards. The COVID-19 pandemic exposed gaps in faculty preparedness for digital teaching, research, and service. The research questions ask what standards faculty should demonstrate and what indicators exemplify meeting them. A notable participant-driven refinement was the renaming of the "Administrator" standard to "Coordinator," reflecting the social and organizational meaning of terms in academic settings — a useful insight for [[administrator]] and [[teacher-role]] concepts.
+
+## Relevance to the Wiki
+
+This article is central to the wiki's [[faculty-development]] and [[teacher-role]] clusters. It provides a concrete, evidence-based framework for how institutions can benchmark and support faculty technology integration across teaching, research, and service, and it connects to [[instructional-design]], [[curriculum-design]], and institutional [[governance]]/accreditation. It also complements [[ai-literacy]] by framing technology competence as a structured, standards-based institutional concern rather than an individual add-on.
+
+## Connected Concepts
+
+- [[faculty-development]]
+- [[teacher-role]]
+- [[instructional-design]]
+- [[curriculum-design]]
+- [[higher-ed]]
+- [[administrator]]
+- [[pedagogy]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[guillen-curriculum-genai-teacher-competence-2026]]
+- [[kibar-ilgaz-ai-instructional-design-review-2026]]
+- [[kim-ai-andragogy-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+
+## Citation
+
+Crompton, H., Burke, D., & Nickel, C. (2026). [*Designing faculty standards for technology integration in higher education institutions: a design-based research study*](https://doi.org/10.1186/s41239-026-00584-y). *International Journal of Educational Technology in Higher Education*.
+
+---
+
+## [Governing generative AI in higher education: a global Delphi study on policy and practice](https://edtechdev.github.io/aied/articles/crompton-governing-genai-higher-ed-delphi-2026/)
+
+# Governing Generative AI in Higher Education
+
+> **Synthesis:** Crompton and a large international panel used a Delphi technique and collective [[writing-education|writing]] to gather expert perspectives from 22 countries/locations across six continents, producing a consensus-driven higher education GenAI policy framework with eight core areas: academic integrity, ethical and responsible use, privacy and protection, equitable access, GenAI literacy, integration strategy, human oversight and accountability, and institutional support and infrastructure. A complementary six-part mechanism — a dedicated GenAI committee, scheduled policy reviews, ongoing [[faculty-development|professional development]], stakeholder communication, impact evaluation, and monitoring of external developments — is proposed to keep policies current. Grounded in the Socio-Ecological Technology Integration (SETI) framework, the study positions policies as enabling structures within an interconnected institutional ecosystem rather than isolated rules.
+
+## Core Finding
+
+Effective GenAI governance in higher education requires a coordinated, consensus-driven framework that integrates policy, pedagogy, ethics, and infrastructure, with academic integrity as a central regulatory anchor whose practical implementation depends on GenAI literacy and ethical reasoning. Policies alone accomplish little without institutional support, so universities should move beyond reactive, localized restrictions toward proactive, adaptable governance that treats GenAI literacy as a cross-cutting capability.
+
+## The Eight-Part Governance Framework
+
+The panel converged on eight core areas that collectively function as an interconnected institutional ecosystem. Academic integrity operates as a central regulatory anchor, with strong consensus on pairing a strict policy backbone with educational guidelines. Ethical and responsible use (referenced by two-thirds of panelists) extends beyond integrity into honesty, transparency, fairness, and broader societal impacts, while privacy and data protection emerged as critical themes for over half the panel, aligned with standards such as GDPR and FERPA. Equitable access (one-third of panelists) addresses digital divides and algorithmic bias, and GenAI literacy (over half of responses) is framed as a foundational graduate capability that empowers critical and responsible use.
+
+## Integration, Human Oversight, and Institutional Support
+
+Panelists strongly advocated proactive integration of GenAI into teaching and learning — "support, not replace" — favoring process-focused and oral [[assessment]]s that assess higher-order skills rather than outputs a model could generate. Roughly 40% of panelists discussed [[pedagogy|pedagogical]] strategies or assessment in the context of GenAI. Human oversight and accountability must remain central, with half the panel insisting that significant GenAI outputs be reviewed and validated by a human and that accountability never be abdicated to an algorithm. Institutional support and infrastructure serve as the foundational enabler, with panelists recommending dedicated GenAI committees or support offices, senior leadership endorsement, and iterative investment in infrastructure.
+
+## Keeping Policies Current
+
+A six-part review mechanism ensures policies remain current as GenAI evolves: a dedicated multidisciplinary GenAI governance committee (recommended by over 50% of panelists), scheduled policy review cycles (half the panel), ongoing professional development, communication with all [[stakeholders]], evaluation of effectiveness and impact, and monitoring of external developments. These processes treat policy maintenance as an ongoing institutional mechanism with clear ownership rather than a one-time task.
+
+## Relevance to the wiki
+
+This paper provides the wiki's most authoritative, globally consensus-driven account of [[governance]] and [[educational-policy-ai]] for [[generative-ai]] in [[higher-ed]], offering a concrete blueprint that connects [[academic-integrity]], [[ethics]], [[privacy]], and [[ai-literacy]]. Its insistence on [[human-in-the-loop-ai|human oversight]] directly informs the wiki's treatment of human [[agency]] and accountability, while the [[equity-in-ai-education|equity]] dimension speaks to the wiki's concern with fair and inclusive adoption. For practitioners, the eight-area framework and six-part review mechanism are actionable templates for institutional policy design.
+
+## Connected Concepts
+
+- [[governance]]
+- [[educational-policy-ai]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[academic-integrity]]
+- [[ai-literacy]]
+- [[ethics]]
+- [[privacy]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[shin-ai-policies-sld-2026]]
+- [[bassett-ai-detectors-education-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[ai-ethics-bibliometric-2026]]
+
+## Citation
+
+Crompton, H., Burke, D., Nickel, C., Bozkurt, A., Miao, F., Sharples, M., et al. (2026). [*Governing generative AI in higher education: a global Delphi study on policy and practice*](https://doi.org/10.1186/s41239-026-00602-z). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://edtechdev.github.io/aied/articles/cross-cultural-student-perceptions-genai-computing/)
 
 A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical institutional policies, Canadian students were consistently and significantly more likely to rate GenAI use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.
@@ -25290,6 +25672,63 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 ## Citation
 
 Lane, H. C., & Kageler, B. (2026). [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571). arXiv:2607.05571.
+
+---
+
+## [How motivation and roles influence metacognitive engagement in student-GenAI interaction](https://edtechdev.github.io/aied/articles/cui-motivation-roles-metacognitive-genai-2026/)
+
+# How motivation and roles influence metacognitive [[student-engagement|engagement]] in student-GenAI interaction
+
+> **Synthesis:** This qualitative study analyzes 120 authentic [[student-ai-interaction|student-GenAI interaction]] logs and retrospective interviews from 24 Chinese undergraduates to examine how [[motivation|motivational orientations]] and perceived GenAI roles shape [[metacognition|metacognitive engagement]]. Using [[network-analysis|epistemic network]] and lag sequential analysis, the authors find that intrinsically motivated students predominantly positioned GenAI as an [[teacher-role|instructor]] or collaborator, while extrinsically motivated students treated it as a replacement tool. Intrinsic motivation and collaborator framing were associated with higher-order metacognitive engagement (evaluation, elaboration) and a complete metacognitive chain, whereas replacement-tool use produced no higher-order metacognitive connections. The authors conclude that the metacognitive consequences of [[generative-ai|GenAI]] use are conditioned by motivation and role perception rather than inherent to the technology.
+
+## Core Finding
+
+The quality and structure of metacognitive engagement during GenAI interaction is systematically conditioned by students' motivational orientation and the role they assign to the tool. [[metacognition|Metacognitive]] effects of GenAI are **not uniform or inherent** — they depend on whether students are intrinsically or extrinsically motivated and whether they frame GenAI as an instructor, enhancement tool, replacement tool, or collaborator.
+
+## Motivation and GenAI Role (RQ1)
+
+Drawing on [[self-determination-theory|self-determination theory]], the study adopts a binary intrinsic–extrinsic contrast. Intrinsically motivated students predominantly positioned GenAI as an instructor or collaborator; extrinsically motivated students overwhelmingly treated it as a replacement tool. This difference is not merely attitudinal but unfolds turn-by-turn in how students structure authentic interactions. Extrinsically motivated students were more likely to use GenAI for task completion and cognitive offloading.
+
+## Metacognitive Engagement by Motivation (RQ2)
+
+Intrinsic motivation was associated with significantly higher engagement in higher-order metacognitive dimensions — [[critical-thinking|evaluation]] and elaboration — forming reflective-iterative co-occurrence networks. Extrinsic motivation produced task-completion-oriented patterns concentrated in lower-order processing (orientation, planning, monitoring), where students submitted prompts and monitored outputs for usability but rarely interrogated, critiqued, or extended them. This suggests the [[ai-misuse-learning-harm|cognitive offloading]] risk is more pronounced among extrinsically motivated students.
+
+## GenAI Roles Map to Metacognitive Profiles (RQ3)
+
+- **Collaborator:** the only role with a complete sequential chain spanning all six metacognitive categories (Orientation→Elaboration) plus an Elaboration self-loop, reflecting iterative knowledge construction. Present in only 7.5% of logs.
+- **Enhancement Tool:** a partial higher-order chain (M4→M5→M6); the student retains cognitive ownership while using GenAI as a supplement.
+- **Instructor:** a receptive comprehension-checking pattern (Orientation-Monitoring, Execution-Monitoring) with near-absent evaluation and elaboration.
+- **Replacement Tool:** only self-loops with no higher-order connections and entirely absent Evaluation/Elaboration — cognitive closure.
+
+The augmentation–automation distinction is supported: retaining [[agency]] over one's thinking yields substantially richer metacognitive engagement than full delegation.
+
+## Relevance to the wiki
+
+This study contributes process-level empirical evidence to the wiki's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[pedagogy|instructional design]] for [[higher-ed|higher education]].
+
+## Connected Concepts
+
+- [[motivation]]
+- [[metacognition]]
+- [[student-ai-interaction]]
+- [[self-regulated-learning]]
+- [[agency]]
+- [[human-ai-collaboration]]
+- [[ai-misuse-learning-harm]]
+- [[critical-thinking]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[shaw-nave-cognitive-surrender-2026]]
+- [[agency-gap-ai-writing]]
+- [[metacognitively-discordant-completion-genai-2026]]
+- [[genai-performance-vs-learning]]
+- [[metacognitive-training-optimal-cognitive-offloading-2026]]
+
+## Citation
+
+Cui, Y., Yan, W., Chiu, T. K. F., & Nakajima, T. (2026). [*How motivation and roles influence metacognitive engagement in student-GenAI interaction*](https://doi.org/10.1186/s41239-026-00610-z). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
@@ -28356,6 +28795,59 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 ## Citation
 
 Evangelista, E., & Bukhari, S. M. S. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643).
+
+---
+
+## [Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions](https://edtechdev.github.io/aied/articles/farrokhnia-genai-feedback-student-revisions-2026/)
+
+# Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
+
+> **Synthesis:** Farrokhnia et al. (2026) run a randomized three-group experiment with 70 university students to compare teacher feedback against ChatGPT feedback produced with two prompting techniques — Zero-shot and chain-of-thought (CoT) — for argumentative essay writing in Persian. They find that CoT prompting yields significantly higher-quality feedback than both Zero-shot prompting and a human teacher, but that this quality advantage does not translate into greater essay revision gains. Teacher feedback, rated lower in quality, produces comparable improvement in revised essays. The authors conclude that feedback quality alone is insufficient; students' [[student-engagement|engagement]] with and uptake of feedback are the decisive factors, motivating a hybrid model in which teachers help students interpret and apply GenAI feedback.
+
+## Core Finding
+
+**Higher-quality AI feedback does not automatically produce better student revisions — what matters is whether and how students engage with and act on the feedback.** In a randomized experiment, chain-of-thought prompting produced objectively higher-quality feedback on argumentative essays than both Zero-shot prompting and an experienced human teacher, yet the CoT group did not revise its essays significantly more than the teacher-feedback group, which saw comparable gains. This decoupling of feedback quality from [[learning-gains|learning gains]] is the paper's central and somewhat counterintuitive result: it challenges the assumption that improving the "quality" of generated feedback is sufficient to improve writing outcomes, and redirects attention to students' active [[feedback|feedback uptake]] and interpretation.
+
+## Prompt Engineering and Feedback Quality
+
+The study directly interrogates [[prompt-engineering]] as a determinant of GenAI feedback quality. The Zero-shot prompt gave ChatGPT a direct instruction to generate feedback from an argumentation rubric, while the CoT prompt guided the model through a step-by-step evaluation with an elaborated example. One-way ANOVA (F(2,67) = 6.09, p = .004, ηp² = 0.15) showed CoT feedback (M=12.90) significantly outperformed both Zero-shot (M=11.25, p=.01) and teacher feedback (M=11.20, p=.008), with no significant difference between Zero-shot and teacher. The authors interpret this as CoT's stepwise reasoning aligning GenAI outputs more closely with the cognitive demands of argumentative writing — and frame prompt design within explainable AI principles. This is a valuable empirical contribution to the wiki's [[prompt-engineering]] and [[ai-feedback-quality]] concepts.
+
+## Why Quality Did Not Translate into Revision Gains
+
+The finding that teacher feedback — rated lower in quality — produced comparable revision improvements highlights the critical role of [[feedback-literacy]] and student [[agency]]. The authors note that high-quality feedback should be specific and actionable, but its effect depends on students' willingness and ability to implement it. Notably, GenAI feedback quality was significantly associated with students' initial essay quality, whereas teacher feedback quality showed no such association — meaning GenAI responded differently depending on how strong the initial draft was, while the teacher calibrated more consistently. The study's Persian-language setting also extends GenAI-feedback research beyond English-dominant contexts, testing generalizability in a linguistically underrepresented language.
+
+## Implications for Practice
+
+The authors advocate for **hybrid intelligent feedback systems** in which teachers [[scaffolding|scaffold]] students' interpretation and application of GenAI feedback, rather than treating AI as a standalone replacement for the instructor. This aligns the paper with the wiki's [[human-ai-collaboration]] and [[teacher-role]] concepts, and with [[writing-education]] practice: GenAI can generate rich, structured, scalable feedback, but the human teacher remains essential for helping students engage with it meaningfully. For [[assessment]] and [[formative-assessment]], the result cautions against assuming better AI feedback automatically yields better learning.
+
+## Relevance to the Wiki
+
+This is a tightly controlled experimental contribution to the wiki's feedback cluster. It provides causal, comparative evidence that links [[ai-feedback-quality]], [[prompt-engineering]], and learning outcomes in [[higher-ed]], and it resonates strongly with the wiki's existing coverage of AI-generated feedback, essay scoring, and teacher-vs-AI comparisons. It also gives concrete guidance for [[instructional-design]]: prompt technique matters for feedback quality, but [[pedagogy]] (scaffolding uptake) matters for learning.
+
+## Connected Concepts
+
+- [[feedback]]
+- [[ai-feedback-quality]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[writing-education]]
+- [[assessment]]
+- [[higher-ed]]
+- [[formative-assessment]]
+- [[student-ai-interaction]]
+- [[teacher-role]]
+- [[trust]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]]
+- [[genai-teacher-feedback-comparison]]
+- [[llms-do-not-grade-essays-like-humans-2026]]
+- [[ai-assisted-instructor-supervised-grading-feedback]]
+
+## Citation
+
+Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). [*Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions*](https://doi.org/10.1186/s41239-026-00579-9). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
@@ -36315,6 +36807,57 @@ Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson (2
 
 ---
 
+## [Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories](https://edtechdev.github.io/aied/articles/lee-wu-gender-motivation-genai-achievement-2026/)
+
+# Differential [[student-engagement|engagement]] with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories
+
+> **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[conversational-ai|RAG-based GenAI chatbot]] (StatBot) for statistics learning reveals that engagement with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[pedagogical-agent|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.
+
+## Core Finding
+
+GenAI efficacy in [[higher-ed|higher education]] depends less on universal access and more on learner-specific engagement: **autonomous motivation and achievement trajectory shape both the frequency and the quality of AI interaction**. GenAI tools can amplify growth for some learners while remaining underutilized by others, so the benefits are not distributed equally across student subpopulations.
+
+## Significant Non-Participation
+
+More than one-quarter of students did not use the chatbot at all. This meaningful non-participation challenges the assumption of universal AI adoption and highlights that engagement is not guaranteed by providing a tool. Higher-performing students were less likely to abstain from use, suggesting that prior success correlates with readiness to engage AI support.
+
+## Determinants of Engagement Frequency
+
+The zero-inflated negative binomial model showed that engagement frequency was shaped by learner differences: female students, those with stronger autonomous motivation, lower prior knowledge, and higher course performance interacted more frequently. Notably, the gender difference (female students engaging more) and the role of [[self-regulated-learning|autonomous motivation]] suggest that motivational quality — not just access — drives who benefits from [[personalized-learning|AI-supported learning]].
+
+## Inquiry Quality and Achievement Trajectories
+
+Engagement was not merely a matter of frequency but of inquiry quality and diversity. k-means clustering identified distinct achievement profiles. "Growing Achievers" — students who began with weaker achievement but demonstrated substantial performance gains — posed more diverse and conceptually oriented questions, leve[[rag]]ing the chatbot for genuine [[learning-gains|learning gains]]. In contrast, "Declining Performers" engaged minimally and focused on narrower procedural inquiries despite stronger initial knowledge. The predominance of Initial Inquiry behaviors (70.3%, especially Definition and Copy queries) indicates that many students used the chatbot primarily for [[cognitive-offloading|cognitive offloading]] of basic concepts rather than higher-order reasoning.
+
+## Relevance to the wiki
+
+This paper contributes directly to the wiki's understanding of [[student-ai-interaction]], [[motivation]], and the [[equity-in-ai-education|equity]] of [[generative-ai|GenAI]] in [[higher-ed|higher education]]. It shows that engagement is patterned by gender, motivation, prior knowledge, and achievement trajectory — a differentiated, non-uniform picture that refines simplistic "AI improves learning" claims. It connects to [[learning-gains|achievement]] research, [[conversational-ai|chatbot]] design, [[personalized-learning|personalization]], and the goal of shared [[human-ai-collaboration|human-AI agency]]. Its finding that concept-focused scaffolding and autonomous motivation matter most informs [[instructional-design|instructional design]] and aligns with [[agency]]-oriented frameworks on the wiki.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[conversational-ai]]
+- [[motivation]]
+- [[student-ai-interaction]]
+- [[personalized-learning]]
+- [[learning-gains]]
+- [[self-regulated-learning]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[scheu-mobile-chatbot-journaling-motivation-2026]]
+- [[genai-tutor-engagement-patterns]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[kutti-ai-voice-first-learning-companion]]
+- [[genai-student-experiences-uk-he-survey-2026]]
+
+## Citation
+
+Lee, Y.-H., & Wu, J.-Y. (2026). [*Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories*](https://doi.org/10.1186/s41239-026-00615-8). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work](https://edtechdev.github.io/aied/articles/less-deliberate-teams-llm/)
 
 > **Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal** — ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
@@ -39908,6 +40451,7 @@ This is a landmark historical piece that anchors the wiki's developing **history
 
 ## Connected Concepts
 
+- [[history-of-aied]] — History of AI in Education (this article anchors this concept)
 - [[intelligent-tutoring]]
 - [[constructivist]]
 - [[agency]]
@@ -45669,6 +46213,65 @@ Rudolph, J., Ismail, F., Tan, S., & Seah, P. (2025). [*Don't believe the hype. A
 
 ---
 
+## [Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach](https://edtechdev.github.io/aied/articles/saihi-ahmed-genai-adoption-personas-higher-ed-2026/)
+
+# Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach
+
+> **Synthesis:** Saihi and Ahmed (2026) apply a person-centered, clustering-based approach to uncover distinct adoption personas for GenAI [[pedagogical-agent|chatbot]]s in higher education, moving beyond the aggregate, average-effect assumptions of traditional TAM/UTAUT models. Using hierarchical clustering followed by k-means on 192 validated observations (107 students, 85 educators), they identify a four-persona solution — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that reflects diverse configurations of trust, usefulness, efficiency, ethical comfort, and satisfaction. The study argues that understanding this latent user heterogeneity is essential for designing inclusive, context-aware AI interventions rather than one-size-fits-all deployments.
+
+## Core Finding
+
+**GenAI chatbot users in higher education are not homogeneous; they cluster into four distinct adoption personas — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that traditional variable-centered models obscure.** While TAM and UTAUT estimate average structural relationships across an entire population (assuming user homogeneity), the person-centered analysis reveals that perceptual, experiential, contextual, and demographic indicators combine differently across user subgroups. A four-cluster solution was selected as optimal using internal validation indices (Silhouette, Calinski-Harabasz, Davies-Bouldin). These personas matter because attitudes like [[trust]], perceived usefulness, ethical comfort, and satisfaction configure differently across roles and contexts — for instance, an educator concerned with [[academic-integrity]] may assess chatbots very differently than a student focused on task efficiency.
+
+## From Variable-Centered to Person-Centered Adoption
+
+The paper's central methodological contribution is shifting from variable-centered technology-adoption modeling to a person-centered lens. Traditional frameworks like the [[technology-acceptance-model]] (TAM) and UTAUT identify average predictors of adoption intention but cannot discover naturally occurring user profiles. The study repurposes a validated survey dataset (previously analyzed with structural equation modeling) and applies unsupervised machine learning — hierarchical clustering followed by k-means — to perceptual and experiential indicators (ease of navigation, trust in AI, data-[[privacy]] concerns, perceived efficiency, user satisfaction, perceived learning performance). This complements rather than replaces the earlier SEM model, offering a richer depiction of user diversity within the same theoretical framework.
+
+## The Four Personas and What Drives Them
+
+The identified personas reflect distinct configurations of adoption-related perceptions:
+
+- **Engaged Enthusiasts** — high trust, usefulness, and satisfaction; active, exploratory [[student-engagement|engagement]] with [[conversational-ai]].
+- **Cautious Achievers** — reasonably positive but guarded; achievement-oriented with moderated trust.
+- **Skeptical Utilitarians** — value functional utility/efficiency but hold skeptical or ethical reservations.
+- **Disengaged Doubters** — low trust, low satisfaction, limited engagement.
+
+The personas are profiled using demographic and contextual characteristics (role, tech-savviness, study field, gender, age, education level). Role distinctions matter: students tend to prioritize immediate [[feedback]] and user-friendly interfaces, while educators are more concerned with content accuracy, instructional alignment, and academic integrity. Technological proficiency and disciplinary culture (e.g., humanities vs. STEM) further shape perceptions and engagement.
+
+## Implications for Design and Deployment
+
+The study offers actionable guidance for tailoring chatbot onboarding, training, and support to specific user needs rather than assuming uniform adoption. By equipping institutions with a data-driven segmentation tool, it supports more inclusive, human-centered [[ai-education]] integration strategies. The authors emphasize that without understanding user diversity, even advanced AI technologies may fail to deliver value or exacerbate existing inequalities in digital readiness and inclusion — a point that ties the work to [[ai-literacy]], [[student-experience]], and [[ethics]] in institutional AI deployment.
+
+## Relevance to the Wiki
+
+This article provides an empirical, person-centered complement to the wiki's coverage of AI adoption and acceptance in [[higher-ed]]. It directly engages the [[technology-acceptance-model]] concept and connects it to [[trust]], [[conversational-ai]], and [[student-ai-interaction]]. It also speaks to [[faculty-development]] and [[teacher-role]] by highlighting how educators and students differ in their concerns and support needs, and to [[governance]] by informing differentiated deployment strategies.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[higher-ed]]
+- [[technology-acceptance-model]]
+- [[trust]]
+- [[student-experience]]
+- [[conversational-ai]]
+- [[ai-literacy]]
+- [[human-ai-collaboration]]
+- [[ethics]]
+- [[teacher-role]]
+- [[student-ai-interaction]]
+
+## Connected Articles
+
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
+- [[acceptance-ai-english-tools-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+
+## Citation
+
+Saihi, A., & Ahmed, V. (2026). [*Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach*](https://doi.org/10.1186/s41239-026-00583-z). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts](https://edtechdev.github.io/aied/articles/same-ai-different-pathways/)
 
 > **Synthesis:** Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
@@ -47562,6 +48165,68 @@ ring systems?
 ## Citation
 
 Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). [Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://arxiv.org/abs/2605.30670). arXiv:2605.30670.
+
+---
+
+## [Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions](https://edtechdev.github.io/aied/articles/sposato-ai-educational-leadership-taxonomy-2025/)
+
+# Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions
+
+> **Synthesis:** Sposato (2025) develops a ten-domain taxonomy of AI applications specifically tailored to educational leadership, filling a gap between AI research and how institutional leaders understand, evaluate, and implement AI. Built from a systematic literature review and inductive analysis of 314 publications (2017–2024), the taxonomy spans Administrative Efficiency, Personalized Learning, Enhancing Teaching Practices, Decision-Making and Policy Formulation, Student Support Services, Organizational Leadership and Strategic Planning, Governance and Compliance, Community Engagement and Communication, Ethical AI Leadership, and Diversity, Equity, and Inclusion. The framework gives leaders a common language for strategic AI integration while foregrounding ethical and [[equity-in-ai-education|equity]] concerns. It is primarily a conceptual/organizing contribution rather than an empirical test of outcomes.
+
+## Core Finding
+
+**Educational leaders lack a comprehensive, structured framework for categorizing, evaluating, and implementing AI in their institutions, and this study supplies one: a validated ten-domain taxonomy of AI applications in educational leadership.** Because AI adoption in higher education is fragmented and poorly understood at the leadership level, leaders need a conceptual map that spans operational automation through ethical governance. The taxonomy is grounded in three theoretical frameworks — transformative leadership theory, the adaptive organizational framework, and an ethical AI implementation framework — and is designed to apply across K-12, [[higher-ed]], vocational, and continuing education contexts. The study explicitly argues for a balanced approach that leverages technological advances while actively managing [[ethics]] and [[accessibility|equity]] concerns.
+
+## The Ten-Domain Taxonomy
+
+The taxonomy organizes the full spectrum of AI in educational leadership into ten interrelated domains, each with key components and practical examples:
+
+- **Administrative Efficiency** — automated scheduling, data-driven decision support, HR/enrollment analytics, budget forecasting, dropout-risk prediction. AI scheduling has been reported to cut administrative workload by up to 40%, and enrollment systems to predict patterns with >85% accuracy.
+- **Personalized Learning** — [[adaptive-learning]] platforms, [[intelligent-tutoring]] systems, [[learning-analytics]], virtual tutors that adjust content difficulty in real time.
+- **Enhancing Teaching Practices** — AI in [[curriculum-design]], teacher professional development, intelligent classroom management, and real-time [[feedback]] on classroom dynamics.
+- **Decision-Making and Policy Formulation** — predictive analytics, sentiment analysis, ethical/equity decision support, and bias [[plagiarism-detection|detection]], supporting [[educational-policy-ai]].
+- **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[pedagogical-agent|chatbots]].
+- **Organizational Leadership and Strategic Planning** — strategic resource allocation, trend forecasting, and risk/crisis management.
+- **Governance and Compliance** — regulatory compliance monitoring, fraud detection, and data integrity, tied to [[governance]].
+- **Community Engagement and Communication** — communication tools, feedback analytics, and social media monitoring.
+- **Ethical AI Leadership and Governance** — [[bias-mitigation|bias mitigation]], [[privacy]]/data security, and transparent AI-use policies.
+- **Diversity, Equity, and Inclusion (DEI) Initiatives** — AI-driven equity audits, inclusive curriculum design, and [[special-education]] support.
+
+## Methodological Approach
+
+The study uses a general inductive approach to synthesize literature from IEEE Xplore, ACM Digital Library, ERIC, and Scopus (1,247 papers screened down to 314 for detailed review). Two independent researchers coded publications in NVivo, and the emerging categories were consolidated and validated through three rounds of refinement. The author acknowledges limitations: reliance on published literature may miss the newest developments, and restricting to English-language publications may exclude relevant cross-cultural insights.
+
+## Relevance to the Wiki
+
+This article is directly relevant to the wiki's coverage of how [[ai-education]] is governed and led at the institutional level. It connects several concept clusters that otherwise appear in scattered [[generative-ai]] and [[personalized-learning]] articles: [[governance]], [[educational-policy-ai]], [[faculty-development]], and [[administrator]] roles. For leaders, it reframes AI not as a classroom-only concern but as an institution-wide strategic and ethical matter spanning teaching, research, and service. It also complements empirical adoption studies by providing the organizational [[scaffolding]] those studies implicitly assume.
+
+## Connected Concepts
+
+- [[governance]]
+- [[administrator]]
+- [[higher-ed]]
+- [[educational-policy-ai]]
+- [[ethics]]
+- [[ai-education]]
+- [[human-ai-collaboration]]
+- [[faculty-development]]
+- [[ai-literacy]]
+- [[trust]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[learning-analytics]]
+
+## Connected Articles
+
+- [[enright-staff-perspectives-genai-2026]]
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
+- [[ai-ethics-bibliometric-2026]]
+- [[kibar-ilgaz-ai-instructional-design-review-2026]]
+
+## Citation
+
+Sposato, M. (2025). [*Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions*](https://doi.org/10.1186/s41239-025-00517-1). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
@@ -50529,6 +51194,55 @@ Mohammadi, M., Berahmand, K., Sadiq, S., & Khosravi, H. (2026). [Augmenting know
 
 ---
 
+## [Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study](https://edtechdev.github.io/aied/articles/tian-genai-learning-adoption-pathways-2026/)
+
+# Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study
+
+> **Synthesis:** This multi-method study of 842 students in Lesotho's low-resource [[higher-ed|higher education]] system integrates [[technology-acceptance-model|UTAUT3]] and Keller's ARCS motivation model to explain [[generative-ai|GenAI]] adoption. Using PLS-SEM, fsQCA, and importance-performance mapping, the authors find that cognitive beliefs (performance expectancy, effort expectancy, social influence, hedonic motivation, habit) explain intention, while ARCS motivational dimensions are stronger determinants of actual use. Multiple equifinal configurational pathways lead to high adoption, with motivation, enjoyment, and habit as core conditions. The study advances a hybrid logic of adoption — cognitive beliefs enable acceptance, motivational experiences sustain engagement, and habit normalizes use — and highlights the contextual sensitivity of acceptance theory in resource-constrained settings.
+
+## Core Finding
+
+GenAI adoption follows a **hybrid logic**: cognitive-instrumental beliefs enable acceptance and intention formation, while motivational-affective experiences sustain actual use, and habitual interaction normalizes continued engagement. Both symmetric (net-effects) and asymmetric (configurational) pathways are needed to explain adoption, and this logic holds differently in low-resource contexts than in the well-resourced settings where most adoption theory was developed.
+
+## Dual-Layer Model: Acceptance vs. Engagement
+
+The integrated framework posits a two-layer explanation. [[technology-acceptance-model|UTAUT3]] constructs — performance expectancy, effort expectancy, social influence, hedonic motivation, and habit — predict behavioral intention, capturing the cognitive-instrumental side. Keller's [[motivation|ARCS motivation model]] (Attention, Relevance, Confidence, Satisfaction) predicts actual use and sustained engagement. This addresses the limitation of dominant adoption theories that focus primarily on cognitive evaluations of usefulness and ease of use while neglecting motivational design factors and contextual constraints.
+
+## Configurational Pathways to Adoption
+
+fsQCA revealed multiple equifinal configurations leading to high behavioral intention, with [[motivation]], enjoyment, and habit serving as core conditions across most pathways. This asymmetric (configurational) logic complements the net-effects PLS-SEM findings, showing that distinct combinations of conditions — not isolated predictors — jointly produce adoption. Some pathways functioned even with absent social influence, underscoring the equifinality of adoption routes.
+
+## Contextual Sensitivity in Low-Resource Settings
+
+In Lesotho, structural constraints — unstable connectivity, limited digital infrastructure, and uneven [[ai-literacy|digital literacy]] — create a markedly different adoption environment. Personal innovativeness and motivational moderation effects were weak, underscoring contextual sensitivity. IPMA identified habit as the most influential driver of intention but with only moderate performance, suggesting the largest practical gains come from routinizing GenAI use. The study argues the benefits of GenAI observed in well-resourced systems cannot be assumed to transfer directly to developing contexts.
+
+## Relevance to the wiki
+
+This paper directly extends the wiki's coverage of [[technology-acceptance-model|technology acceptance]] and AI adoption in [[higher-ed|higher education]]. It complements organizational adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a student-level, low-resource perspective, and it connects [[motivation]] to sustained [[student-engagement|engagement]] with [[generative-ai|GenAI]]. Its hybrid acceptance–motivation–habit model informs [[ai-education|AI education]] practice by arguing for motivation-centered design and context-responsive policy rather than uniform technology rollout. It is relevant to [[educational-policy-ai|AI policy]] and to the wiki's growing set of adoption-pathway articles.
+
+## Connected Concepts
+
+- [[technology-acceptance-model]]
+- [[motivation]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[student-engagement]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[alrahmi-org-drivers-ai-adoption-he-2026]]
+- [[genai-motivation-engagement-2026]]
+- [[acceptance-ai-english-tools-2026]]
+- [[ai-acceptance-preservice-science-teachers-2026]]
+
+## Citation
+
+Tian, X., Ayanwale, M. A., Molefi, R. R., Manchanda, P., Gençel, N., & Ogunjoun, B. O. (2026). [*Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study*](https://doi.org/10.1186/s41239-026-00613-w). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions](https://edtechdev.github.io/aied/articles/tibetcpr-ai-training-feedback/)
 
 **Yibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding** — Accepted at MobileHCI 2026 — cs.HC
@@ -51943,6 +52657,63 @@ Wang, H., & Shan, W. (2026). [*The safety gap: restoring productive struggle thr
 
 ---
 
+## [Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning](https://edtechdev.github.io/aied/articles/wang-zhang-pedagogical-partnerships-genai-2026/)
+
+# Pedagogical partnerships with generative AI in [[higher-ed|higher education]]: how dual cognitive pathways paradoxically enable transformative learning
+
+> **Synthesis:** Wang and Zhang (2026) use a four-study mixed-methods design across China, Europe, and the United States (N=912) to examine how students' framing of GenAI as a [[pedagogy|pedagogical]] partner affects transformative learning through two simultaneous cognitive pathways — vigilance (critical evaluation) and offloading (strategic delegation). Their central, counterintuitive finding is that strategic [[cognitive-offloading|cognitive offloading]], contrary to traditional assumptions, can enhance transformative learning by liberating mental resources for higher-order reflection once it exceeds certain thresholds. Efficiency orientation, rather than undermining learning, acts as an amplifier of both vigilance and offloading. The study reconceptualizes student-AI dynamics from zero-sum competition to synergistic [[collaborative-learning|collaboration]].
+
+## Core Finding
+
+**Framing GenAI as a pedagogical partner simultaneously activates two cognitive pathways — critical vigilance and strategic offloading — and, paradoxically, both can contribute to transformative learning.** The study rejects the binary view that trust/skepticism and delegation/depth are opposing poles. Partnership orientation triggers vigilance (students critically evaluate AI outputs because they share accountability for co-created work) and, at the same time, legitimizes offloading routine cognitive tasks as collaborative efficiency. Against the classic assumption that delegation erodes learning depth, strategic offloading — above a threshold — frees cognitive capacity for higher-order reflection, enhancing the [[metacognition]] and perspective transformation central to transformative learning. Efficiency orientation is recast from a barrier into an amplifier, strengthening both pathways through pragmatic risk management.
+
+## Dual Cognitive Pathways
+
+The theoretical model integrates two cognitive responses available to students interacting with GenAI:
+
+- **Cognitive vigilance** — systematic critical evaluation of AI content (error [[plagiarism-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
+- **Cognitive offloading** — strategic delegation of cognitive tasks (summarization, synthesis, drafting, data analysis) to the AI, grounded in metacognitive frameworks of external cognition. Partnership reframes this from intellectual abdication to strategic resource management.
+
+The findings show both pathways positively associate with transformative learning, resolving the theoretical tension between delegation-as-erosion and [[student-engagement|engagement]]-as-enhancement. Efficiency orientation positively moderates the partnership→offloading link and (in this configurational analysis) does not uniformly suppress vigilance.
+
+## Methodology
+
+The study uses a rigorous mixed-methods design with four complementary studies: (1) PLS-SEM to test the mediation/moderation architecture; (2) importance–performance map analysis (IPMA) to translate findings into pedagogical priorities; (3) fuzzy-set qualitative comparative analysis (fsQCA) for configurational, equifinal pathways; and (4) semi-structured interviews with 45 business students for process-level triangulation. A three-wave, time-lagged survey across three cultural contexts minimizes common method bias. Constructs (Human-GenAI Pedagogical Partnership, Cognitive Vigilance, Cognitive Offloading, Transformative Learning Experience, Efficiency Orientation) were validated through an expert panel, a 90-respondent pre-test (α>0.700), back-translation, and convergent/discriminant validity checks (HTMT<0.850).
+
+## Implications for Practice
+
+The findings offer a nuanced framework for [[teacher-role|educators]]: rather than forbidding or encouraging AI use wholesale, institutions should help students develop partnership orientations in which delegation is strategic and paired with vigilance. This preserves human [[agency]] while leveraging GenAI's strengths, supporting [[self-regulated-learning]] and [[critical-thinking]]. The work aligns with [[human-ai-collaboration]] and [[student-ai-interaction]] and speaks directly to debates about whether AI use "makes us stupid" by reframing offloading as potentially productive rather than inherently harmful.
+
+## Relevance to the Wiki
+
+This article is a strong theoretical and empirical anchor for the wiki's coverage of [[human-ai-collaboration]] and the cognitive dynamics of [[student-ai-interaction]]. It engages the [[agency]], [[trust]], [[metacognition]], and [[critical-thinking]] concepts, and offers a constructive counterpoint to articles focused on AI-induced cognitive decline or [[academic-integrity|academic dishonesty]]. It also informs [[educational-policy-ai]] and [[instructional-design]] by providing evidence-based guidance on how to integrate GenAI in ways that support rather than erode deep learning.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[higher-ed]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[trust]]
+- [[metacognition]]
+- [[critical-thinking]]
+- [[student-ai-interaction]]
+- [[self-regulated-learning]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[lodge-loble-cognitive-offloading-2026]]
+- [[shaw-nave-cognitive-surrender-2026]]
+- [[teachers-reflective-regulators-cognition-offloading]]
+- [[ai-making-us-stupid]]
+
+## Citation
+
+Wang, S., & Zhang, H. (2026). [*Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning*](https://doi.org/10.1186/s41239-026-00585-x). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions](https://edtechdev.github.io/aied/articles/white-wu-robotics-ai-education-2026/)
 
 > **Synthesis:** White & Wu (2026) critically examine the integration of AI and robotics into education, arguing that while transformative potential exists at all levels, effective integration requires sustained investment, coherent policy, rigorous teacher preparation, and ethical practice. The review finds research remains geographically concentrated, methodologically short-term, and insufficiently attentive to equity.
@@ -52184,6 +52955,56 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 
 ---
 
+## [Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education](https://edtechdev.github.io/aied/articles/xiao-llm-consortium-blockchain-education-2026/)
+
+# Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education
+
+> **Synthesis:** This technical paper proposes a framework that pairs [[llm|LLM]]-powered intelligent services with a permissioned consortium blockchain to deliver [[personalized-learning|personalized]] and verifiable [[online-teaching-and-learning|online education]] in [[higher-ed|higher education]]. The LLM provides the intelligent interface (conversational tutoring, dynamic content generation, [[automated-assessment|automated assessment]]), while the blockchain acts as a secure, tamper-proof ledger that immutably records learning data, academic credentials, and AI outputs. This design mitigates LLM [[hallucination-risk|hallucinations]] and output inconsistency by creating an auditable trail that enables accountability for AI-caused deficiencies. The authors implemented a Hyperledger Fabric prototype with 4 peer nodes, evaluated six LLMs on the RiceChem [[benchmark]], and illustrated applications in decentralized degree programs and continuous skill certification.
+
+## Core Finding
+
+LLM-based educational services can be made reliable and accountable for [[online-teaching-and-learning|online education]] by anchoring them to a **consortium blockchain ledger** that immutably logs AI outputs and grading decisions. This creates a verifiable, tamper-proof audit trail that establishes responsibility for errors — addressing the [[hallucination-risk|hallucination]], domain-validity, and inconsistency weaknesses that otherwise undermine [[trust]] in AI-mediated learning.
+
+## LLM Limitations Addressed
+
+Widespread adoption of LLMs in education is hampered by inherent limitations: susceptibility to hallucinations, insufficient domain-specific knowledge validation, and output inconsistency, which can produce misleading or erroneous content with negative learning outcomes. A core challenge is ensuring such errors are immutably logged and traceable, establishing accountability among entities deploying LLM services. The blockchain answers this by making every grading decision auditable and attributable.
+
+## Architecture and Smart Contracts
+
+The synergistic architecture comprises an LMS application front-end, an LLM-based educational service module, a consortium blockchain network, and an off-chain database. Smart contracts automate key workflows: **Enrollment contract** (logs enrollments), **Assessment contract** (records submissions, scores, and grader identity, requiring [[teacher-role|instructor]] co-signatures for AI grading), **Identity/permission contract** (manages roles via DID), and **Certification contract** (issues verifiable credentials as NFTs upon completion). Personal data and large content are stored off-chain via IPFS, with the blockchain holding hashes — preserving [[privacy]] while guaranteeing integrity.
+
+## Model Evaluation and Case Studies
+
+The prototype evaluated six LLMs on the RiceChem ALAG benchmark; GLM-4-9B-chat led (Accuracy 0.6492, F1 0.6054), with model-specific thresholding biases highlighting the need to consider F1 alongside error tolerance. Two case studies illustrate applications: a decentralized multi-university degree program issuing joint, globally verifiable credentials, and continuous skill certification with AI coaching that logs assistance records to ensure learners did sufficient independent work.
+
+## Relevance to the wiki
+
+This paper extends the wiki's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[plagiarism-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the wiki's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
+
+## Connected Concepts
+
+- [[llm]]
+- [[personalized-learning]]
+- [[online-teaching-and-learning]]
+- [[assessment]]
+- [[trust]]
+- [[privacy]]
+- [[hallucination-risk]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-online-education-engagement-satisfaction-2026]]
+- [[llms-do-not-grade-essays-like-humans-2026]]
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+- [[ai-decision-support-online-learning-assessment-2026]]
+
+## Citation
+
+Xiao, F., Huang, J., Huang, J.-X., Ren, H., & Li, L. (2026). [*Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education*](https://doi.org/10.1186/s41239-026-00618-5). *International Journal of Educational Technology in Higher Education*.
+
+---
+
 ## [HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis](https://edtechdev.github.io/aied/articles/xie-hillm-cd-2026/)
 
 > **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A multi-agent LLM pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
@@ -52286,6 +53107,108 @@ Yasir et al. (2026) benchmark seven [[llm|LLM]] [[feedback]] agents as step-leve
 ## Citation
 
 Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). [*Confirming correct, missing the rest: LLM tutoring agents struggle where feedback matters most*](https://arxiv.org/abs/2605.16207v1). arXiv:2605.16207.
+
+---
+
+## [ARPG+: a simulation-based study of real-time coaching for educational LLM prompting](https://edtechdev.github.io/aied/articles/ye-arpg-real-time-coaching-llm-prompting-2026/)
+
+# ARPG+: Real-Time Coaching for Educational LLM Prompting
+
+> **Synthesis:** Ye and colleagues present ARPG+, a real-time coaching system that teaches students how to prompt [[llm|large language models]] (LLMs) effectively, grounding its design in cognitive load theory and the zone of proximal development. The system senses when learners struggle, delivers calibrated just-in-time interventions, and fades support as skills develop, tracking learner capability with uncertainty quantification and diagnosing prompt quality across six dimensions. Evaluation with LLM-based simulated learners showed prompt quality increases 143% beyond unguided practice and independence reaches 91% of final interactions versus 59% under fixed support, generalizing to other domains without retraining. The authors are explicit that all results are [[simulation]]-based and that classroom validation is the necessary next step.
+
+## Core Finding
+
+Prompting is a learnable, transferable metacognitive skill, and principled real-time coaching can improve prompt quality, accelerate learning, prevent cognitive overload, and foster durable autonomy — but effective [[scaffolding]] must be able to stop helping, fading support as competence emerges to avoid dependency and metacognitive laziness. The design directly responds to the "autonomy paradox" in which generative-AI support that never withdraws hollows out the self-[[regulation]] that makes learning durable.
+
+## Operationalizing Learning Theory
+
+ARPG+ converts abstract [[pedagogy|pedagogical]] constructs into calibratable, real-time decision variables. Cognitive load theory is instantiated through proxies for intrinsic, extraneous, and germane load aggregated into a bounded overload-risk signal; the zone of proximal development becomes a dynamic ability estimate with an uncertainty-aware moving boundary; and a normalized Struggle Index quantifies interactional friction from editing and pausing behaviours. Prompt quality is represented as a six-dimensional vector — structural completeness, semantic clarity, contextual grounding, task specificity, constraint explicitness, and output conventions — enabling fine-grained diagnosis and longitudinal tracking rather than holistic scoring.
+
+## Dual-Process Architecture and Scaffolding
+
+A lightweight-deep dual architecture ensures fast responsiveness for routine interactions (50ms fast path) while reserving richer analysis for critical moments (300ms deep path). Coaching is cast as a constrained sequential decision process in which an information-theoretic selector optimizes [[feedback]] content and granularity to maximize expected uncertainty reduction while bounding cognitive overload risk. A dynamic scaffolding-density schedule with exponential decay and periodic skill probes prevents pseudo-mastery: ablations show removing scaffolding drops independence from 0.915 to 0.662, and removing reinforcement primarily harms retention.
+
+## Simulated Evidence and Limitations
+
+Across simulated learners, ARPG+ improved prompt quality by 143% beyond unguided practice, achieved 91% independence in late-session interactions versus 59% under fixed support and 71% under linear decay, and generalized across five additional domains (code writing, data analysis, [[creativity|creative]] design, [[writing-education|academic writing]], business communication) with 93.8% average retention. The authors are careful to frame this as system feasibility and simulation-based performance, not educational effectiveness, noting that simulated agents lack the affective, motivational, and interpersonal dynamics of real students and that [[equity-in-ai-education|equity]]-relevant dimensions (first-generation status, second-[[language-learning|language learning]], neurodivergence, cultural variation in [[help-seeking]]) remain unaddressed. A three-phase classroom validation agenda is laid out.
+
+## Relevance to the wiki
+
+This paper advances the wiki's understanding of [[prompt-engineering]] as a teachable skill rather than a mere technique, and its treatment of fading support directly addresses the wiki's concerns about [[cognitive-offloading]] and [[ai-misuse-learning-harm|AI-driven autonomy erosion]]. By operationalizing [[self-regulated-learning]], [[metacognition]], and [[instructional-design]] in a real-time coaching loop, it demonstrates how [[human-ai-collaboration]] can be engineered to build rather than erode learner [[agency]]. Its explicit honesty about simulation-based limits is a model for evaluating [[generative-ai]] learning tools.
+
+## Connected Concepts
+
+- [[prompt-engineering]]
+- [[llm]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[instructional-design]]
+- [[agency]]
+
+## Connected Articles
+
+- [[prompting-teachability-novice-personas-lbt-2026]]
+- [[prompt-privilege-equitable-ai-access-2026]]
+- [[think-first-chatgpt-later-2026]]
+- [[jost-llm-programming-education-learning-outcomes]]
+
+## Citation
+
+Ye, P.-G., Mo, K., Long, Y., Liu, M., Sang, H., & Zheng, J. (2026). [*ARPG+: a simulation-based study of real-time coaching for educational LLM prompting*](https://doi.org/10.1186/s41239-026-00606-9). *International Journal of Educational Technology in Higher Education*.
+
+---
+
+## [Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback](https://edtechdev.github.io/aied/articles/yilmaz-genai-feedback-srl-online-higher-ed-2026/)
+
+# Supporting Self-Regulated Learning through Generative AI Feedback in Online Higher Education
+
+> **Synthesis:** Yilmaz and colleagues compared generative AI (GenAI) [[feedback]], informed by student trace data and [[learning-analytics|learning analytics]], against tutor-generated feedback in an online [[higher-ed|higher education]] statistics module, using a mixed-methods design with 46 blinded students. Students rated GenAI feedback more positively than tutor feedback, with a statistically significant edge on the Genuineness dimension, and the GenAI group showed significant improvement in the Task Strategies dimension of self-regulated learning (SRL). Qualitative insights revealed varied student awareness of the feedback source, with many adopting a content-first orientation while a subset indicated their attitudes might have shifted had they known the provider. The study concludes that GenAI can scale SRL feedback in online learning, but that student perceptions of the feedback source must be carefully managed for the expected impact to materialize.
+
+## Core Finding
+
+Personalized, trace-informed GenAI feedback can match or exceed tutor feedback in perceived quality and measurably improve specific self-regulated learning behaviors (Task Strategies) in online higher education — yet its impact is conditional on how students perceive the source of the feedback, not merely its content. The significant gain in Genuineness under blind conditions, alongside a content-first attitude among many learners, shows that perceived value can outweigh concerns about origin when feedback is timely, tailored, and performance-specific.
+
+## GenAI Feedback vs. Tutor Feedback
+
+Feedback is widely recognized as critical to learning, but providing timely, personalized feedback at scale remains a key challenge in large, diverse online cohorts where feedback gaps diminish [[motivation]] and meaningful [[student-engagement|engagement]]. The study adapts Nazaretsky et al.'s (2024) framework of feedback perception — objectivity, usefulness, genuineness, and credibility of the provider. Under blind review, students rated GenAI feedback more favorably overall, with a statistically significant difference only on Genuineness, suggesting that the AI's consistent, supportive, and empathetic tone was interpreted as sincerity and care. The remaining dimensions (Objectivity, Usefulness, Credibility) showed higher GenAI means but no significant differences, echoing prior work (Henderson et al., 2025) that positions GenAI feedback as complementary to, not a replacement for, human feedback.
+
+## Self-Regulated Learning in Online Contexts
+
+Online learning increases learner autonomy while reducing direct [[teacher-role|instructor]] presence, demanding advanced self-regulated learning skills. The study operationalizes SRL using the Ye and Pennisi (2022) evidence-centred framework, mapping roughly 48,000 MOODLE trace records to six proxies — goal setting, task strategies, environment structuring, time management, [[help-seeking]], and self-evaluation. The GenAI treatment group showed significant improvement in Task Strategies, while the control group showed a lowered trend in Task Strategies and Time Management, consistent with prior findings that lower-SRL students are more prone to disengagement under inconsistent support. This demonstrates the value of trace-based indicators explicitly aligned to SRL constructs, rather than raw click counts.
+
+## Feedback Source Awareness
+
+Students varied in whether they recognized the feedback as AI-generated, and awareness itself did not uniformly reduce favorability — a divergence from earlier disclosure studies. Many learners prioritized alignment with performance goals and practical value over origin, a pragmatic, content-first orientation; others indicated they would have scrutinized the feedback more critically had they known it was GenAI. These contrasting views reflect individual differences in academic proficiency, self-[[regulation]] level, and prior AI experience. The finding underscores that source perception is a socio-emotional determinant of feedback adoption that must be designed for, and it aligns with cautions about [[metacognition|metacognitive]] laziness and cognitive offloading when AI support is used uncritically.
+
+## Relevance to the wiki
+
+This paper contributes empirical, ecologically valid evidence on how [[generative-ai]] feedback shapes [[self-regulated-learning]] in [[online-teaching-and-learning]], directly informing the wiki's understanding of [[ai-feedback-quality]] and the conditions under which AI feedback is adopted and acted upon. Its emphasis on [[student-ai-interaction]] and source perception connects the technical promise of scaling feedback with the relational and socio-emotional realities of adoption. For practitioners, it argues that GenAI feedback should complement, not replace, [[human-ai-collaboration|human feedback]], and that trace-based design can target specific regulatory behaviors while avoiding the pitfalls of over-reliance and [[cognitive-offloading|metacognitive laziness]].
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[feedback]]
+- [[generative-ai]]
+- [[ai-feedback-quality]]
+- [[online-teaching-and-learning]]
+- [[higher-ed]]
+- [[student-ai-interaction]]
+- [[metacognition]]
+- [[trust]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]]
+- [[genai-feedback-design-multisite-experiment]]
+- [[liu-deris-ai-feedback-literacy-uptake]]
+- [[tubino-adachi-ai-automated-feedback-literacy]]
+
+## Citation
+
+Yilmaz, M., Temur, H. B., Emmungil, L., Çelik, E., Gauthier, A., & Cukurova, M. (2026). [*Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback*](https://doi.org/10.1186/s41239-026-00592-y). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
@@ -52929,6 +53852,55 @@ This instrument advances [[assessment]] of [[computational-thinking]] in the [[g
 ## Citation
 
 Zhang, S., & Zhang, S. (2026). [*Integrating AI into computational thinking: development and validation of an assessment tool for higher education students*](https://doi.org/10.1186/s40594-026-00623-0). *International Journal of STEM Education*, 13, 49.
+
+---
+
+## [RACES: reward-aligned consistent essay scoring with large language models](https://edtechdev.github.io/aied/articles/zhang-races-consistent-essay-scoring-llms-2026/)
+
+# RACES: Reward-Aligned Consistent Essay Scoring with Large Language Models
+
+> **Synthesis:** Zhang and colleagues propose RACES (Reward-Aligned Consistent Essay Scoring), a unified framework for automated essay scoring (AES) that integrates LoRA-based parameter-efficient fine-tuning, reward modeling, and proximal [[educational-policy-ai|policy]] optimization (PPO) [[reinforcement-learning|reinforcement learning]]. The framework establishes an offline inference–[[feedback]]–optimization pipeline, optimizing toward proxy preference signals simulated via LLM-generated feedback while constraining policy drift through KL regularization. On the ASAP 2.0 dataset, RACES improved Quadratic Weighted Kappa (QWK) and auxiliary SimCSE metrics compared with evaluated pretrained and fine-tuned configurations, converging rapidly with limited training iterations. The framework is explicitly positioned as an auxiliary scoring tool for consistent preliminary scoring rather than a replacement for human raters.
+
+## Core Finding
+
+Reward-guided optimization with consistency regularization can improve both scoring alignment and output stability in LLM-based automated essay scoring, achieving competitive human-model agreement (QWK up to 82.7%) on ASAP 2.0 with limited training iterations — but the alignment is proxy-based (derived from LLM-generated feedback rather than directly from human raters) and the framework is designed for human-supervised, auxiliary use rather than autonomous deployment.
+
+## From Feature Engineering to Reward-Aligned LLMs
+
+AES has evolved from handcrafted feature-engineering systems (E-rater, BETSY) through deep neural models (LSTM, CNN, BERT) to LLM-based approaches. While LLMs offer deep semantic understanding and natural-language explanatory feedback, they still struggle with alignment to human scoring standards and output consistency, and [[prompt-engineering]] methods are sensitive to template design while supervised fine-tuning (SFT) relies on static annotated data. RACES addresses this by replacing one-shot SFT with an iterative inference–feedback–optimization procedure guided by a reward model.
+
+## Framework Architecture
+
+RACES combines LoRA-based parameter-efficient fine-tuning, reward modeling, and PPO with a KL-based consistency regularization mechanism. In the offline training pipeline, the policy model's outputs are evaluated by a reward model and optimized through reinforcement learning, with harder negative samples (near-miss scores, model-generated incorrect predictions, plausible but inconsistent feedback) used to train finer-grained preference distinctions. KL regularization constrains policy drift, supporting smooth and stable output distributions and a transition from static fitting to reward-guided iterative optimization.
+
+## Results and Validation
+
+On the ASAP 2.0 [[benchmark]] (≈24,000 argumentative essays, 1–6 scale), all four policy–reward configurations achieved competitive QWK scores (up to 82.7%), with LLaMA2-7B slightly outperforming Qwen2.5-Instruct-7B and stronger reward models (Mistral-7B over GPT2-XL) yielding better results. Reward models converged rapidly (around 50 training steps), and auxiliary SimCSE semantic similarity reached 81.3% (LLaMA2-7B) and 79.3% (Qwen2.5-Instruct-7B) after PPO. The authors caution that results lack confidence intervals and significance testing, that feedback signals are synthetic proxy rather than authentic human feedback, and that direct consistency tests (repeated scoring, paraphrase and prompt-perturbation robustness, subgroup-level stability) and broader matched comparisons remain for future work.
+
+## Relevance to the wiki
+
+This paper extends the wiki's coverage of [[automated-essay-scoring]] and [[automated-assessment]] by showing how reward modeling and reinforcement learning can push LLM-based scoring toward both accuracy and consistency, addressing the [[assessment-validity]] concern of aligning machine scores with human standards. Its explicit framing as a [[human-in-the-loop-ai|human-supervised]] auxiliary tool that flags borderline essays for review reinforces the wiki's emphasis on keeping humans accountable in [[assessment]]. The proxy-based feedback caveat connects to the wiki's interest in [[ai-feedback-quality]] and the integrity of AI-mediated evaluation.
+
+## Connected Concepts
+
+- [[automated-essay-scoring]]
+- [[automated-assessment]]
+- [[assessment]]
+- [[llm]]
+- [[generative-ai]]
+- [[human-in-the-loop-ai]]
+- [[assessment-validity]]
+- [[feedback]]
+
+## Connected Articles
+
+- [[llms-do-not-grade-essays-like-humans-2026]]
+- [[ai-assisted-instructor-supervised-grading-feedback]]
+- [[ai-generated-feedback-higher-ed]]
+
+## Citation
+
+Zhang, Z., Ding, Z., Liu, M., & Sang, H. (2026). [*RACES: reward-aligned consistent essay scoring with large language models*](https://doi.org/10.1186/s41239-026-00607-8). *International Journal of Educational Technology in Higher Education*.
 
 ---
 
