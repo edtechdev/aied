@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-22 | **Total pages:** 973
+**Last updated:** 2026-08-23 | **Total pages:** 973
 ---
 ## Concepts
 

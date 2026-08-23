@@ -290,6 +290,7 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -1175,6 +1176,7 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 
 AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI self-efficacy and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and self-regulated-learning scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
 
+- **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
 ## Connected Concepts
 
 - [[business-education]]
@@ -1327,6 +1329,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -2696,6 +2699,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -3136,6 +3140,7 @@ The wiki's articles explore critical thinking through design-based and empirical
 
 Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
+- **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalises Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -3201,6 +3206,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -7026,6 +7032,7 @@ The wiki's corpus — meta-analyses, RCTs, quasi-experiments, and field studies 
 
 Learning gains connect to [[assessment-validity]] — if assessments fail to capture deeper understanding, learning gain measures are misleading. They also intersect with [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], where apparent performance improvements may mask learning losses, and with [[rct]] (randomized trials as the gold-standard design for detecting causal learning gains), and with [[meta-analysis-systematic-review]] (pooling effect sizes across studies to establish the field's efficacy evidence).
 
+- **Significant pre/post gains from mistake-based AI pedagogy:** [[pedagogy-ai-mistakes|Hosseini (2026)]]'s database design course (n=13) showed large, significant learning gains on identical pre/post items (mean 4.25→6.83/7, Cohen's *d*=1.49, *p*<.001), with gains uncorrelated with prior AI or database confidence — the AI-integrated critique-refinement design benefited students regardless of initial perceptions.
 ## Connected Concepts
 
 - [[rct]]
@@ -7071,6 +7078,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolded self-regulated feedback gains
 - [[learner-ai-interaction-patterns-oop]] — Interaction patterns and learning gains in OOP
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -7690,6 +7698,7 @@ AI may alter the **metacognitive threshold** for deciding one knows enough to an
 
 Proactive agentic AI can displace the learner's own metacognitive loop: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] argue that when agents pre-fetch, initiate, and self-correct, the agent's planning, monitoring, and evaluation replace the learner's, removing the retrieval practice and self-monitoring that desirable difficulties and metacognitive training depend on.
 
+- **Mistake-based pedagogy as metacognitive training:** [[pedagogy-ai-mistakes|Hosseini (2026)]] shows that deliberately exposing students to AI-generated errors in a database design course activates metacognitive monitoring — students inspected outputs, identified errors, and revised designs rather than accepting AI output at face value. Self-reported AI literacy correlated weakly and negatively with objective competency (*r*=−0.39), a calibration gap the critique-refinement cycle is designed to narrow.
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -7774,6 +7783,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -8945,6 +8955,20 @@ Research consistently cautions against standalone reliance on detection:
 - **Notable error rates and trust erosion:** unreliable detection undermines student [[trust]] and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
 
+## Why not to use (or try to use) AI detectors
+
+[[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue that generative AI detection should **not be used in education at all**, on grounds that go beyond "be careful" to "this is conceptually unsound." Their case consolidates the reasons against relying on AI detectors:
+
+1. **Unverifiable probabilistic estimates.** AI detectors output a probability that text was AI-generated, based on linguistic markers (perplexity, burstiness). Unlike other probabilistic tools (spam filters, medical diagnostics), their results **cannot be independently verified**: in real-world conditions, no ground truth exists for whether a flagged text was actually AI-generated, so validation reduces to circular reasoning. Signal-detection metrics (false-positive/negative rates) only apply in controlled tests, not real submissions.
+2. **Questionable training and test data.** Detectors are trained and validated on pre-generative-AI human writing (e.g., Turnitin tested on 700,000 pre-2019 papers). The assumption that such text reflects contemporary student writing — which students now produce having been shaped by AI — is unverified, and performance shifts with model, prompt, and platform.
+3. **Mutually-exclusive-linguistic-markers is a flawed assumption.** There is no principled reason a human cannot write with the linguistic features attributed to AI (or an AI with human ones), so the marker foundation itself is shaky.
+4. **The false dichotomy.** Classifying text as human- vs AI-generated ignores the reality that students' work is frequently created *with*, not *by*, AI — a hybrid continuum. The binary is not merely inadequate but meaningless, making detection conceptually flawed from the outset.
+5. **Procedural unfairness and evidential insufficiency.** Academic-integrity investigations must meet the balance-of-probabilities standard; AI-detector scores — alone or combined with linguistic markers, style comparisons, LLM claims, or student silence — do not reach it. Students under investigation also retain a right to silence, which detection-driven processes erode.
+6. **Security and privacy risks.** Detectors store student work on servers (sometimes overseas with weaker privacy protections), creating breach, misuse, and commercial-exploitation risks.
+7. **Detection undermines integrity rather than safeguarding it.** Reliance on detectors and surveillance fosters a climate of suspicion, eroding student [[trust]] and the integrity of assessment itself.
+
+Bassett et al. conclude that AI detection is an unworkable solution to a problem that cannot be solved through surveillance and punishment: the focus must move to [[assessment|assessment design]] that recognises AI's role in learning and the reality that unsupervised assessments cannot be secured. This consolidates the wiki's [[beyond-detection-authentic-assessment-ai-2025|beyond-detection]] stance with a direct, evidence-based argument for retiring detection tools.
+
 ## Beyond detection: assessment redesign
 
 A key theme in the wiki is that detection should be a **limited, situational tool — not a strategy of first resort**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] argue that surveillance and detection **misdiagnose the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic design-for-learning patterns that position AI as a collaborator rather than a cheating application. This connects detection to [[authentic-assessment]], [[assessment-validity]], [[responsible-assessment-ai-era-stanford-2026|responsible assessment]], and [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|coauthorship integrity]].
@@ -9322,6 +9346,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -9905,6 +9930,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 ---
 
@@ -19497,7 +19523,7 @@ AI detection raises security concerns around data storage and retention (includi
 
 ## Implications for AI in education
 
-This paper is a strong argument in the wiki's [[plagiarism-detection]] and [[academic-integrity]] thread for retiring AI-detection tools, positioning them as methodologically and procedurally unsound. It connects to [[beyond-detection-authentic-assessment-ai-2025|beyond-detection work]] on [[authentic-assessment|authentic assessment]] and to [[assessment-validity|assessment validity]] — if AI detectors cannot be validated, their use undermines rather than protects [[assessment]]. It also speaks to [[educational-policy-ai|policy]] and [[governance]] in [[higher-ed|higher education]], and to [[writing-education]] by recognising AI-assisted writing as a legitimate, hybrid practice. Its emphasis on moving from surveillance toward [[ai-education|assessment design]] that recognises AI's role aligns with [[ai-literacy]] and human-centred [[generative-ai|GenAI]] integration.
+This paper is a strong argument in the wiki's [[plagiarism-detection]] and [[academic-integrity]] thread for retiring AI-detection tools, positioning them as methodologically and procedurally unsound. It connects to [[beyond-detection-authentic-assessment-ai-2025|beyond-detection work]] on [[authentic-assessment|authentic assessment]] and to [[assessment-validity|assessment validity]] — if AI detectors cannot be validated, their use undermines rather than protects [[assessment]]. It also speaks to [[educational-policy-ai|policy]] and [[governance]] in [[higher-ed|higher education]], and to [[writing-education]] by recognising AI-assisted writing as a legitimate, hybrid practice. Its emphasis on moving from surveillance toward [[assessment|assessment design]] that recognises AI's role aligns with [[ai-literacy]] and human-centred [[generative-ai|GenAI]] integration.
 
 ## Connected Concepts
 
@@ -41072,31 +41098,47 @@ Rahimi, A.O.O.N. (2026). [*Pedagogical Safety in Educational Reinforcement Learn
 
 ## [The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking](https://edtechdev.github.io/aied/articles/pedagogy-ai-mistakes/)
 
-> An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided, this pedagogy treats them as cognitive provocations that demand analysis, evaluation, and reflection from students. Proposed by Hosseini (2026) in a database design course context.
-
-# Pedagogy of AI Mistakes
+> **Synthesis:** Hosseini (2026) presents a design-oriented study reframing AI errors, hallucinations, and limitations as pedagogical opportunities rather than flaws. In an undergraduate database design course, an AI-integrated syllabus deliberately leveraged AI-generated mistakes to foster higher-order thinking aligned with Bloom's taxonomy. A mixed-methods study (n=13) found that structured interaction with AI errors supported metacognitive engagement, reinforced disciplinary rigor, and produced significant [[learning-gains|learning gains]] in subject-matter competency (pre/post mean 4.25→6.83, Cohen's *d*=1.49, *p*<.001).
 
 ## Definition
-An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided, this pedagogy treats them as cognitive provocations that demand analysis, evaluation, and reflection from students. Proposed by Hosseini (2026) in a database design course context.
+
+An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided, this [[pedagogy|pedagogical]] approach treats them as cognitive provocations that demand analysis, evaluation, and reflection from students. Proposed by Hosseini (2026) in a database design course context, where AI is framed as a "learning companion" whose imperfect outputs prompt deeper engagement with course content.
 
 ## Mechanism
+
 Students interact with AI-generated outputs that contain intentional or known errors. They must:
+
 1. **Analyze** the output for correctness against disciplinary standards
 2. **Evaluate** where and why the AI went wrong
 3. **Reflect** on what the error reveals about both the domain and AI limitations
 
-This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, Create) and engages metacognitive processes central to [[metacognition]].
+This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, Create) and engages metacognitive processes central to [[metacognition]]. The design uses a weekly AI Module structured as an iterative **critique-refinement cycle**: prompting strategies (application level), failure-mode analysis (analysis/evaluation), and a recurring case study (creation), so that AI's imperfect outputs serve as catalysts for evaluation — positioning critique as the central mechanism driving higher-order cognition.
 
-## Relationship to Existing Approaches
-- Complements [[socratic-method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation
-- Extends [[ai-literacy]]: students learn not just to use AI but to critically evaluate its outputs
-- Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable
-- Contrasts with [[tutoring-specific-vs-general-ai]]: here the AI's imperfection is the feature, not the bug
+## Findings from the database design course
 
-## Open Questions
+The course (n=13, asynchronously delivered undergraduate database design) embedded prompt engineering, error-analysis exercises, and themed case studies across each module. Key results:
+
+- **Significant subject-matter learning gains.** A pre/post assessment of seven identical questions (pre mean 4.25/7, SD 1.57; post mean 6.83/7, SD ≈0.39) improved significantly (*t*(12)≈5.10, *p*<.001), with a large effect size (Cohen's *d*=1.49) — supporting the [[learning-gains|Learning Gains]] connection.
+- **AI competency gaps.** Objective AI competency scores varied by domain (conceptual knowledge 75%, prompt engineering 62.5%, model adaptation 75%). Self-reported AI literacy correlated weakly and negatively with objective competency (*r*=−0.39, *p*≈0.21), suggesting students may overestimate their AI abilities — a calibration gap relevant to [[ai-literacy]].
+- **Metacognitive reflection.** Qualitative evidence showed students inspecting AI outputs, identifying errors, and revising designs using database principles — reflecting metacognitive monitoring as they evaluated AI suggestions against task goals rather than accepting them at face value.
+- **Engagement and positivity.** Weekly page views averaged 63.9 (SD 33.1), and student feedback was strongly positive, though complex concepts and LLM [[hallucination-risk|hallucinations]] highlighted the need for stronger [[scaffolding]] in both subject-matter and [[ai-literacy|AI literacy]].
+
+## Relationship to existing approaches
+
+- Complements [[socratic-method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation.
+- Extends [[ai-literacy]]: students learn not just to use AI but to critically evaluate its outputs, aided by [[prompt-engineering|prompting strategies]] and critique exercises.
+- Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable.
+- Contrasts with [[tutoring-specific-vs-general-ai]]: here the AI's imperfection is the feature, not the bug.
+- Aligns with [[active-learning]]: students learn more effectively by actively critiquing and revising solutions than by passively receiving feedback.
+- Situated in [[self-directed-learning]] (common in online education) and [[self-regulated-learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
+- Connects to [[cognitive-offloading]]: the pedagogy counters over-reliance on AI by making its errors the subject of scrutiny, rather than allowing students to passively accept AI output.
+
+## Open questions
+
 - Does mistake-based pedagogy transfer across disciplines beyond STEM?
 - What is the optimal error difficulty — too obvious vs. too subtle?
 - How does this approach affect trust in AI tools long-term?
+- Would larger, multi-institution, controlled studies confirm the directional learning gains observed here?
 
 ## Connected Concepts
 
@@ -41105,13 +41147,24 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 - [[ai-literacy]]
 - [[critical-thinking]]
 - [[hallucination-risk]]
+- [[learning-gains]]
+- [[active-learning]]
+- [[prompt-engineering]]
+- [[self-directed-learning]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[cs-education]]
+- [[higher-ed]]
+- [[student-experience]]
+
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]
 - [[tutoring-specific-vs-general-ai]]
+
 ## Citation
 
-Hosseini, A.H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking*](https://arxiv.org/abs/2605.05472)
+Hosseini, H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking*](https://arxiv.org/abs/2605.05472). arXiv:2605.05472. Accepted to AIED-2026.
 
 ---
 
