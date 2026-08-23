@@ -15,7 +15,7 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 
 **AI-mediated peer collaboration** examines how AI [[scaffolding|scaffolds]] human-to-human collaboration. **[[collaborative-ai-tutoring]]** and **[[agent-voice-accents-k12-group-learning]]** explore how AI agent characteristics affect group dynamics. **[[ai-agents-peer-learning-discourse]]** documents how AI agents teaching each other produce discourse patterns resembling human peer learning.
 
-**Neurodivergent perspectives on collaboration** reveal critical design requirements. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent students need structured assignments, small consistent teams with explicitly defined roles, and predictable interaction patterns — requirements that AI collaboration tools must accommodate. This connects collaborative learning to [[accessible-learning]] and [[neurodiversity]].
+**Neurodivergent perspectives on collaboration** reveal critical design requirements. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent students need structured assignments, small consistent teams with explicitly defined roles, and predictable interaction patterns — requirements that AI collaboration tools must accommodate. This connects collaborative learning to [[inclusive-learning]] and [[neurodiversity]].
 
 **Teacher-AI collaboration** examines how teachers and AI work together. **[[teacher-student-agency-orchestration]]** and **[[teacher-ai-teaming-five-levels]]** explore frameworks for human-AI collaborative teaching, connecting to [[teacher-role]] and [[human-in-the-loop-ai]].
 
@@ -56,7 +56,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[k-12]]
 - [[higher-ed]]
 - [[cs-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[neurodiversity]]
 - [[learning-theories]]
 - [[distributed-cognition]]

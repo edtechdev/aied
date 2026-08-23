@@ -24,7 +24,7 @@ confidence: high
 - [[socratic-method]]
 - [[math-education]]
 - [[higher-ed]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[human-in-the-loop-ai]]
 
 ## Connected Articles

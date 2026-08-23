@@ -3,13 +3,13 @@ title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
-tags: [accessible-learning, equity, special-education, instructional-design, student-experience, inclusive-design]
+tags: [inclusive-learning, equity, special-education, instructional-design, student-experience, inclusive-design]
 confidence: high
 ---
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of engagement, representation, and action/expression, rather than retrofitting accommodations for individuals.
 
-UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[accessible-learning]], [[equity-in-ai-education]], and [[special-education]].
+UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[inclusive-learning]], [[equity-in-ai-education]], and [[special-education]].
 
 ### The three principles
 
@@ -23,11 +23,11 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### Connections
 
-UDL connects to [[accessible-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
+UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
 
 ## Connected Concepts
 
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[special-education]]
 - [[instructional-design]]

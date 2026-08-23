@@ -22,7 +22,7 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 - [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[student-experience]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[k-12]]
 ## Connected Articles
 

@@ -36,7 +36,7 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 - [[ai-education]]
 - [[higher-ed]]
 - [[privacy]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[english-education]]
 
 ## Connected Articles

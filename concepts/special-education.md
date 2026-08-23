@@ -3,7 +3,7 @@ title: Special Education
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-21T09:18:31-04:00"
 type: concept
-tags: [special-education, accessible-learning, equity, neurodiversity, ai-education, k-12, higher-ed]
+tags: [special-education, inclusive-learning, equity, neurodiversity, ai-education, k-12, higher-ed]
 confidence: high
 ---
 
@@ -11,7 +11,7 @@ confidence: high
 
 Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, AI tutors can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this wiki span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 
-**Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for [[accessible-learning|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led embodied design. These connect to [[accessible-learning]] and [[neurodiversity]].
+**Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for [[accessibility|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led embodied design. These connect to [[inclusive-learning]] and [[neurodiversity]].
 
 **Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[instructional-design]] and [[universal-design-for-learning]].
 
@@ -28,7 +28,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 
 ## Connected Concepts
 
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[neurodiversity]]
 - [[universal-design-for-learning]]

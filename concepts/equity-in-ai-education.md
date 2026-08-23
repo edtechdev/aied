@@ -3,13 +3,13 @@ title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
 updated: "2026-08-22T17:45:00-04:00"
 type: concept
-tags: [equity, accessible-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
+tags: [equity, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
 ---
 
 > **Equity in AI education** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the pedagogical (culturally relevant teaching).
 
-Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessible-learning|accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
+Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 
 ## Access and infrastructure equity
 
@@ -36,11 +36,11 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - **Language:** Most AI tools prioritize English, marginalizing multilingual learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
 - **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
-- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|accessible educational materials]] are illustrative.
+- **Disability and neurodiversity:** [[inclusive-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|accessible educational materials]] are illustrative.
 
 ## Special populations and global equity
 
-- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
+- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
 - **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
 - **Global capacity:** [[ai-education-global-capacity|Global capacity for AI education]] documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 
@@ -57,9 +57,11 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[remote-proctoring]]
 - [[digital-divide]]
 - [[bias-mitigation]]
+- [[accessibility]]
+- [[assistive-technology]]
 - [[culturally-relevant-pedagogy]]
 - [[language-learning]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[universal-design-for-learning]]
 - [[neurodiversity]]
 - [[special-education]]
