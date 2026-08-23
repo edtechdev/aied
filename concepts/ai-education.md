@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T13:45:00-04:00"
+updated: "2026-08-23T15:30:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -81,6 +81,7 @@ The wiki reflects a field in rapid evolution — from early intelligent tutoring
 AI in education connects to every concept in the wiki — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry
 
 - [[business-education]]
 - [[ai-literacy]]
@@ -129,6 +130,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[business-education]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: AI integration in educational ecosystems
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[espino-ai-business-education-review-2026]]

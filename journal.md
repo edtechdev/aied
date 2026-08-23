@@ -1,8 +1,28 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 1022
+**Last updated:** 2026-08-23 | **Total entries:** 1027
 
 ## 2026-08-23
+
+- ● [[community-of-inquiry]] — 
+  Community of Inquiry
+  #online-teaching-and-learning #higher-ed #generative-ai #pedagogy #critical-thinking
+
+- ◐ [[fostering-collaborative-futures-ai-ecosystems-2026]] — raw/papers/fostering-collaborative-futures-ai-ecosystems-2026.md
+  Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems
+  #generative-ai #llm #governance #educational-policy-ai #ai-education #ethics #learning-analytics
+
+- ◐ [[simon-student-engagement-adaptive-learning-2026]] — raw/papers/simon-student-engagement-adaptive-learning-2026.md
+  A systematic review of student engagement research in adaptive learning platforms
+  #adaptive-learning #student-engagement #personalized-learning #intelligent-tutoring #motivation #online-teaching-and-learning
+
+- ◐ [[bert-discourse-english-teaching-2026]] — raw/papers/bert-discourse-english-teaching-2026.md
+  Automatic discourse relation classification and feedback optimization in English teaching based on transformer BERT model
+  #automated-assessment #llm #feedback #formative-assessment #educational-nlp #language-learning
+
+- ◐ [[ai-mediated-cognitive-divergence-2026]] — raw/papers/ai-mediated-cognitive-divergence-2026.md
+  AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study
+  #generative-ai #llm #higher-ed #ai-education #cognitive-offloading #critical-thinking
 
 - ◐ [[crompton-faculty-technology-integration-standards-2026]] — raw/papers/crompton-faculty-technology-integration-standards-2026.md
   Designing faculty standards for technology integration in higher education institutions: a design-based research study
@@ -156,39 +176,39 @@
   Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
   #productive-failure #language-learning #generative-ai #metacognition #self-regulated-learning #feedback #cognitive-load #higher-ed
 
-- ◐ [[reconceptualizing-community-inquiry-generative-ai]]
+- ◐ [[reconceptualizing-community-inquiry-generative-ai]] — raw/papers/reconceptualizing-community-inquiry-generative-ai.md
   Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
   #generative-ai #llm #critical-thinking #higher-ed #ai-education #assessment
 
-- ◐ [[motivation-shape-future-education-ai-switzerland-china]]
+- ◐ [[motivation-shape-future-education-ai-switzerland-china]] — raw/papers/motivation-shape-future-education-ai-switzerland-china.md
   Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China
   #motivation #teacher-education #generative-ai #higher-ed #ai-education
 
-- ◐ [[harmogen-ai-assessment-rubric-generation]]
+- ◐ [[harmogen-ai-assessment-rubric-generation]] — raw/papers/harmogen-ai-assessment-rubric-generation.md
   A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course
   #automated-assessment #formative-assessment #llm #generative-ai #cs-education #assessment
 
-- ◐ [[chatgpt-english-language-learning-malaysia]]
+- ◐ [[chatgpt-english-language-learning-malaysia]] — raw/papers/chatgpt-english-language-learning-malaysia.md
   Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution
   #language-learning #generative-ai #self-determination-theory #higher-ed #motivation #pedagogical-agent
 
-- ◐ [[ai-assisted-instructor-supervised-grading-feedback]]
+- ◐ [[ai-assisted-instructor-supervised-grading-feedback]] — raw/papers/ai-assisted-instructor-supervised-grading-feedback.md
   AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
   #automated-assessment #llm #feedback #formative-assessment #higher-ed #human-in-the-loop-ai
 
-- ◐ [[preferred-scaffolding-ai-mathematical-modelling]]
+- ◐ [[preferred-scaffolding-ai-mathematical-modelling]] — raw/papers/preferred-scaffolding-ai-mathematical-modelling.md
   Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
   #scaffolding #math-education #generative-ai #pedagogical-agent #student-engagement
 
-- ◐ [[bayesian-cognitive-diagnosis-personalized-learning-paths]]
+- ◐ [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — raw/papers/bayesian-cognitive-diagnosis-personalized-learning-paths.md
   Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
   #cognitive-diagnosis #personalized-learning #adaptive-learning #learning-analytics
 
-- ◐ [[teachers-reflective-regulators-cognition-offloading]]
+- ◐ [[teachers-reflective-regulators-cognition-offloading]] — raw/papers/teachers-reflective-regulators-cognition-offloading.md
   Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice
   #cognitive-offloading #generative-ai #teacher-role #metacognition #ai-literacy #higher-ed #reflective-practice
 
-- ◐ [[irt-human-genai-mcq-responses]]
+- ◐ [[irt-human-genai-mcq-responses]] — raw/papers/irt-human-genai-mcq-responses.md
   Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
   #item-response-theory #academic-integrity #generative-ai #llm #assessment
 

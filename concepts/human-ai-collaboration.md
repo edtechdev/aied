@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T15:45:00-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -41,6 +41,7 @@ This makes human-AI collaboration a *pedagogical* construct as much as a technic
 Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agentic-ai]] (autonomy), [[teacher-role]] (teachers' changing work), [[scaffolding]] and [[metacognition]] (how collaboration supports learning), and [[cognitive-offloading|Over-Reliance]] (the failure mode when collaboration becomes substitution). It is a core theme across [[ai-literacy]], [[self-regulated-learning]], and [[student-experience]].
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry (presences as human-GenAI sociotechnical accomplishments)
 
 - [[student-ai-interaction]]
 - [[generative-ai]]

@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 146
+**Total concepts:** 147
 
 ## Canonical concepts
 
@@ -330,6 +330,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`cognitive-diagnosis`** — Cognitive Diagnosis
 - **`cognitive-offloading`** — Cognitive Offloading
 - **`collaborative-learning`** — Collaborative Learning
+- **`community-of-inquiry`** — Community of Inquiry
 - **`computational-thinking`** — Computational Thinking
 - **`constructivist`** — Constructivism
 - **`conversational-ai`** — Conversational AI

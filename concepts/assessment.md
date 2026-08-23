@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T15:45:00-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -50,6 +50,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 - **AI-mediated assessment is diversifying.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] shows an LLM-augmented conversational agent reduced student anxiety during performance-based assessments; [[asynchronous-oral-assessment-2026|Pentland (2026)]] finds asynchronous oral assessments offered higher engagement and were perceived as professionally relevant; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] uses adaptive knowledge-state tracking to inform assessment.
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry (process-based CoI assessment under GenAI)
 
 - [[business-education]]
 - [[eportfolio]]

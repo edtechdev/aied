@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-08-21T09:21:26-04:00"
+updated: "2026-08-23T15:45:00-04:00"
 type: concept
 tags: [online-education, online-learning, distance-learning, mooc, blended-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 confidence: high
@@ -60,7 +60,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Collaborative and discussion-based learning.** Structure online discussions and group work deliberately; use [[collaborative-learning]] activities and, when AI participates, calibrate its facilitation and its role as a peer.
 - **Authentic, process-revealing assessment.** Shift toward [[authentic-assessment|authentic assessment]] and assessments that capture process — drafts, oral defenses, self-explanation, reflective portfolios — which are more AI-resistant and reveal genuine understanding.
 - **Personalized and adaptive paths.** Use AI-enabled [[personalized-learning|personalization]] and [[adaptive-learning|adaptive]] activities to tailor pacing and difficulty, while keeping personalization deep (task sequencing, difficulty calibration) rather than merely surface-level (custom examples).
-- **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] (companion AI, synchronous check-ins, peer interaction), since online isolation is a key barrier to [[student-engagement|engagement]] and belonging.
+- **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] — the core of the [[community-of-inquiry|Community of Inquiry]] framework — through companion AI, synchronous check-ins, and peer interaction, since online isolation is a key barrier to [[student-engagement|engagement]] and belonging.
 - **Blended design thinking.** For hybrid formats, apply [[instructional-design]] principles to decide what is best done synchronously vs. asynchronously and online vs. in person, and how AI supports each.
 - **Human-in-the-loop governance.** Keep educators and [[teacher-role|instructors]] in the loop over AI tools, grounded in [[tpack|pedagogical content knowledge]], so pedagogical intent — not the tool's default — drives design.
 
@@ -76,6 +76,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Use analytics to support, not replace, teaching.** Leverage [[learning-analytics]] to forecast engagement and target support, but keep [[human-in-the-loop-ai|human oversight]] central.
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry
 
 - [[remote-proctoring]]
 - [[pedagogy]]
@@ -103,6 +104,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[authentic-assessment]]
 
 ## Connected Articles
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
 
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[academic-dishonesty-automated-proctoring-ai-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T15:45:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, engagement-metrics]
 confidence: high
@@ -48,6 +48,7 @@ A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools for operationalizing the dimensions above. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
 
 - [[eportfolio]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning

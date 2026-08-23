@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T13:45:00-04:00"
+updated: "2026-08-23T15:45:00-04:00"
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -65,6 +65,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 4. **Study learner agency and transfer.** Constructivist commitments imply evaluating not just immediate test gains but whether learners can transfer and independently apply their constructed understanding.^[[research-methods-aied]]
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
 
 - [[active-learning]]
 - [[learning-by-teaching]]
