@@ -62,4 +62,4 @@ The paper reframes the wiki's understanding of AI-related cognitive risk. It dis
 
 ## Citation
 
-Shaw, S. D., & Nave, G. (2026). [Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender. *SSRN Working Paper*](https://ssrn.com/abstract=6097646).
+Shaw, S. D., & Nave, G. (2026). [Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender](https://ssrn.com/abstract=6097646). *SSRN Working Paper*.

@@ -62,4 +62,4 @@ This paper is a significant empirical contribution to the wiki's [[assessment]],
 
 ## Citation
 
-Pentland, S. J., Lowenthal, P. R., & Krier, K. (2026). [Asynchronous oral assessments: Enhancing integrity, engagement, and communication in the AI era. *Educational Technology Research and Development*](https://doi.org/10.1007/s11423-026-10677-0).
+Pentland, S. J., Lowenthal, P. R., & Krier, K. (2026). [Asynchronous oral assessments: Enhancing integrity, engagement, and communication in the AI era](https://doi.org/10.1007/s11423-026-10677-0). *Educational Technology Research and Development*.

@@ -75,4 +75,4 @@ Strengths include a controlled factorial design with process data (decision shee
 
 ## Citation
 
-Dai, Z. (2026). Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development. *Frontiers in Psychology* 17:1829268. DOI: 10.3389/fpsyg.2026.1829268. (CC BY)
+Dai, Z. (2026). [*Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development*](https://doi.org/10.3389/fpsyg.2026.1829268). *Frontiers in Psychology*, 17:1829268.

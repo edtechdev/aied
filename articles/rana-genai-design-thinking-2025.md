@@ -55,4 +55,4 @@ The study adopted a mixed-methods paradigm guided by a constructivist epistemolo
 
 ## Citation
 
-Rana, V., Verhoeven, B., & Sharma, M. (2025). Generative AI in design thinking pedagogy: Enhancing creativity, critical thinking, and ethical reasoning in higher education. *Journal of University Teaching and Learning Practice*, 22(4). https://doi.org/10.53761/tjse2f36 (CC BY).
+Rana, V., Verhoeven, B., & Sharma, M. (2025). [*Generative AI in design thinking pedagogy: Enhancing creativity, critical thinking, and ethical reasoning in higher education*](https://doi.org/10.53761/tjse2f36). *Journal of University Teaching and Learning Practice*, 22(4).

@@ -77,4 +77,4 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Citation
 
-Balalle, H., & Pannilage, S. (2025). *Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity*. *Social Sciences & Humanities Open, 11*, 101299. https://doi.org/10.1016/j.ssaho.2025.101299
+Balalle, H., & Pannilage, S. (2025). [*Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity*](https://doi.org/10.1016/j.ssaho.2025.101299). *Social Sciences & Humanities Open*, 11, 101299.

@@ -94,4 +94,4 @@ The XAI-ED framework has become a foundational reference in AIED, cited across t
 - [[ai-tutor-safety-harms]]
 ## Citation
 
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). Explainable Artificial Intelligence in education. [*Computers and Education: Artificial Intelligence, 3*](https://doi.org/10.1016/j.caeai.2022.100074), 100074
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074

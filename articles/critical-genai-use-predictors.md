@@ -82,4 +82,4 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - [[ai-literacy-assessment-misalignment]]
 ## Citation
 
-Hefter, M. H., Paaßen, B., & Berthold, K. (2026). GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use. [*AI Educ.*](https://doi.org/10.3390/aieduc2030027), 2, 27
+Hefter, M. H., Paaßen, B., & Berthold, K. (2026). [*GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use*](https://doi.org/10.3390/aieduc2030027). *AI Educ.*, 2, 27

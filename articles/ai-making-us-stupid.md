@@ -74,4 +74,4 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 
 ## Citation
 
-Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? [*Trends in Cognitive Sciences*](https://doi.org/10.1016/j.tics.2026.06.004)
+Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). [*Is AI making us stupid*](https://doi.org/10.1016/j.tics.2026.06.004). *Trends in Cognitive Sciences*

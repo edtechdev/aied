@@ -56,4 +56,4 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 
 ## Citation
 
-Jošt, G., Taneski, V., & Karakatič, S. (2024). The impact of large language models on programming education and student learning outcomes. *Applied Sciences*, *14*(4115). https://doi.org/10.3390/app14104115
+Jošt, G., Taneski, V., & Karakatič, S. (2024). [*The impact of large language models on programming education and student learning outcomes*](https://doi.org/10.3390/app14104115). *Applied Sciences*, 14(4115).
