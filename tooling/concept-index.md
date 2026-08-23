@@ -405,6 +405,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`plagiarism-detection`** — AI Plagiarism Detection
 - **`privacy`** — Privacy in AI Education
 - **`problem-based-learning`** — Problem-Based Learning
+- **`productive-failure`** — Productive Failure
 - **`inquiry-based-learning`** — Inquiry-Based Learning and AI
 - **`professional-training`** — Professional Training and AI
 - **`project-based-learning`** — Project-Based Learning

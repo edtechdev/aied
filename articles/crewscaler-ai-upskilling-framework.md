@@ -1,7 +1,7 @@
 ---
 title: AI-accelerated End-to-End Framework for Rapid Professional Upskilling
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-08-23T08:30:00-04:00"
 type: article
 tags: [professional-training, upskilling, workforce-development, llm, multi-agent, ai-tutors, assessment-development, content-generation, knowledge-acquisition, verification]
 sources: ['raw/papers/2607.14044.md']
@@ -61,7 +61,7 @@ The paper identifies four gaps in existing frameworks:
 - [[professional-training]]
 - [[prompt-engineering]]
 - [[rag]]
-
+- [[productive-failure]]
 ## Connected Articles
 
 - [[skill-diversity-worker-resilience]] — Navigating the skill diversity frontier: How skill complexity explains worker resilience
