@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T08:40:00-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
 confidence: high
@@ -30,6 +30,11 @@ PBL is closely related to [[project-based-learning|project-based learning]] — 
 ## Why PBL matters for AI integration
 
 Because PBL foregrounds process, collaboration, and demonstrated understanding over artefact production, it is a natural home for [[ai-literacy|responsible AI use]]: students learn *with* AI as a partner rather than *from* AI as a substitute. The facilitator's role and the design of the problem become the levers that determine whether AI supports learning or displaces it — the same [[human-in-the-loop-ai|human oversight]] and assessment-design concerns that recur across the wiki.
+
+### Productive failure and PBL
+
+[[productive-failure|Productive failure (PF)]] shares PBL's constructivist core — learners engage problems before instruction — but differs in structure: PF deliberately withholds instruction and scaffolds until *after* learners struggle to generate solutions, whereas PBL embeds facilitation throughout. The AI-era PF literature directly informs how AI should behave inside problem-based settings: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show AI should preserve productive struggle with non-directive support across PF phases; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrate LLM tutors can be steered to withhold answers and elicit multiple solution attempts; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to help design high-quality PF/PBL-style problems. The design question — when AI should give a problem, a hint, or an answer — is shared across both pedagogies.
+
 
 ## Connected Concepts
 
@@ -62,4 +67,7 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 - [[productive-failure]] — Productive Failure
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design (Rhaimi et al. 2025)
 
