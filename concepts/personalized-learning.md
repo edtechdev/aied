@@ -1,13 +1,15 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T13:30:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
 ---
 
 Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
+
+- **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's teaching machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
 
 ## Architectures for AI-Driven Personalization
 
@@ -60,6 +62,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[nguyen-genai-global-south-review-2026]]
 - [[espino-ai-business-education-review-2026]]

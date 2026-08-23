@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T13:30:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -11,6 +11,8 @@ confidence: high
 > **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the wiki's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, learning science, computer science, [[educational-policy-ai|educational policy]], [[ethics]], and [[equity-in-ai-education|equity]]. This page is an introduction to the field and a map to every concept the wiki covers.
 
 AI in education is the umbrella that all other concept pages collectively define. The wiki organizes the field into the major strands below, each linking to the relevant concept pages.
+
+A landmark historical perspective, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** trace AIED from cybernetics and the 1956 Dartmouth conference through cognitive tutors and Papert's constructionism, arguing that today's GenAI debates re-enact the field's foundational control-vs-agency tension.
 
 ## How the wiki is organized: the umbrella pages
 
@@ -127,6 +129,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[business-education]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[espino-ai-business-education-review-2026]]
 - [[oby-chatgpt-use-learning-framework-2026]]

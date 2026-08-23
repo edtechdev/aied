@@ -1,8 +1,16 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 1003
+**Last updated:** 2026-08-23 | **Total entries:** 1005
 
 ## 2026-08-23
+
+- ● [[history-of-aied]] — 
+  History of AI in Education
+  #history-of-aied #ai-education #intelligent-tutoring #constructivist #agency #learning-theories #generative-ai
+
+- ◐ [[mishra-control-vs-agency-history-2025]] — raw/papers/mishra-control-vs-agency-history-2025.md
+  Control vs. Agency: Exploring the History of AI in Education
+  #ai-education #history-of-aied #intelligent-tutoring #constructivist #agency #generative-ai
 
 - ● [[assistive-technology]] — 
   Assistive Technology
