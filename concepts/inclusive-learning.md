@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:43:26-04:00"
+updated: "2026-08-23T12:15:00-04:00"
 type: concept
 tags: [inclusive-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high
