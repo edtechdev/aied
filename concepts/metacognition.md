@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T08:40:00-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -70,6 +70,7 @@ AI may alter the **metacognitive threshold** for deciding one knows enough to an
 Proactive agentic AI can displace the learner's own metacognitive loop: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] argue that when agents pre-fetch, initiate, and self-correct, the agent's planning, monitoring, and evaluation replace the learner's, removing the retrieval practice and self-monitoring that desirable difficulties and metacognitive training depend on.
 
 - **Mistake-based pedagogy as metacognitive training:** [[pedagogy-ai-mistakes|Hosseini (2026)]] shows that deliberately exposing students to AI-generated errors in a database design course activates metacognitive monitoring — students inspected outputs, identified errors, and revised designs rather than accepting AI output at face value. Self-reported AI literacy correlated weakly and negatively with objective competency (*r*=−0.39), a calibration gap the critique-refinement cycle is designed to narrow.
+- **Productive failure engages metacognitive monitoring.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show productive-failure-based learning activates reflection on one's own attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks require learners to diagnose and correct their own errors — a metacognitive activity where AI gives clues rather than answers.
 ## Connected Concepts
 
 - [[eportfolio]]
@@ -157,4 +158,6 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[productive-failure]] — Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning (Lukešová & Jennings 2026)
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
 
