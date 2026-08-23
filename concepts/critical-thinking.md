@@ -21,6 +21,7 @@ The wiki's articles explore critical thinking through design-based and empirical
 
 Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
+- **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalises Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -86,4 +87,5 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
