@@ -57,4 +57,4 @@ This work reframes debates about AI feedback from mere access to *actionable lit
 
 ## Citation
 
-Liu, K., & Deris, F. D. (2025). AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake. *Assessment & Evaluation in Higher Education*. https://doi.org/10.1080/02602938.2025.2587924
+Liu, K., & Deris, F. D. (2025). [*AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake*](https://doi.org/10.1080/02602938.2025.2587924). *Assessment & Evaluation in Higher Education*.

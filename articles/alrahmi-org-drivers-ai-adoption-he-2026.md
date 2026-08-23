@@ -55,4 +55,4 @@ confidence: medium
 
 ## Citation
 
-Al-Rahmi, W. (2026). Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education. *Journal of University Teaching and Learning Practice, 23*(6). https://doi.org/10.53761/fskfah39 (CC BY-ND 4.0, open access).
+Al-Rahmi, W. (2026). [*Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education*](https://doi.org/10.53761/fskfah39). *Journal of University Teaching and Learning Practice*, 23(6).

@@ -83,4 +83,4 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 
 ## Citation
 
-Fried, M. (2026). *AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently*. Ithaka S+R. https://sr.ithaka.org/publications/ai-skills-for-college-graduates/
+Fried, M. (2026). [*AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently*](https://sr.ithaka.org/publications/ai-skills-for-college-graduates/). Ithaka S+R.

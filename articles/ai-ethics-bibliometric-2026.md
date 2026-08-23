@@ -63,4 +63,4 @@ This bibliometric paper provides field-level empirical grounding for the wiki's 
 
 ## Citation
 
-Mazlan, C. A. N., Othman, M. A., Md Noor, A. R., Jamnongsarn, S., & Hidayatullah, R. (2026). [From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement. *Educational Technology Research and Development*](https://doi.org/10.1007/s11423-026-10630-1).
+Mazlan, C. A. N., Othman, M. A., Md Noor, A. R., Jamnongsarn, S., & Hidayatullah, R. (2026). [From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement](https://doi.org/10.1007/s11423-026-10630-1). *Educational Technology Research and Development*.

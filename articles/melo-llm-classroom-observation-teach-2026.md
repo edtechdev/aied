@@ -59,4 +59,4 @@ Melo, de la Maza and Recabarren (2026) empirically validate whether [[llm|large 
 
 ## Citation
 
-Melo, C., de la Maza, J., & Recabarren, M. (2026). Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment. [*Computers and Education: Artificial Intelligence*, 10, 100612](https://doi.org/10.1016/j.caeai.2026.100612).
+Melo, C., de la Maza, J., & Recabarren, M. (2026). [*Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment*](https://doi.org/10.1016/j.caeai.2026.100612). *Computers and Education: Artificial Intelligence*

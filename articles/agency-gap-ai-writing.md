@@ -87,4 +87,4 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 
 ## Citation
 
-Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning. [*Computers and Education: Artificial Intelligence*](https://doi.org/10.1016/j.caeai.2026.100655). Advance online publication
+Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). [*The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning*](https://doi.org/10.1016/j.caeai.2026.100655). *Computers and Education: Artificial Intelligence*. Advance online publication

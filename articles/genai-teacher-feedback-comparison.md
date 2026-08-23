@@ -81,4 +81,4 @@ The two most frequent comparison themes were the nature of the feedback **inform
 
 ## Citation
 
-Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2026). Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2502582), 51(5), 863–878
+Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2026). [*Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness*](https://doi.org/10.1080/02602938.2025.2502582). *Assessment & Evaluation in Higher Education*, 51(5), 863–878

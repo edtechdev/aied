@@ -57,4 +57,4 @@ The study used an exploratory cross-sectional design with an online survey (host
 
 ## Citation
 
-Enright, H., Horvath, D., Petrovic, K., & Šarkić, B. (2026). "AI should help them learn, not learn for them": University staff perspectives on the role of Generative AI in education. *Journal of University Teaching and Learning Practice*, 23(7). https://doi.org/10.53761/d5n2yh02 (CC BY-ND).
+Enright, H., Horvath, D., Petrovic, K., & Šarkić, B. (2026). [*"AI should help them learn, not learn for them": University staff perspectives on the role of Generative AI in education*](https://doi.org/10.53761/d5n2yh02). *Journal of University Teaching and Learning Practice*, 23(7).

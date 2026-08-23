@@ -105,4 +105,4 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 
 ## Citation
 
-Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). Artificial intelligence and feedback in university education: effectiveness and student perceptions. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962). https://doi.org/10.1080/02602938.2026.2697962
+Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). [*Artificial intelligence and feedback in university education: effectiveness and student perceptions*](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962). *Assessment & Evaluation in Higher Education*.

@@ -60,4 +60,4 @@ This paper is a strong argument in the wiki's [[plagiarism-detection]] and [[aca
 
 ## Citation
 
-Bassett, M. A., Bradshaw, W., Bornsztejn, H., Hogg, A., Murdoch, K., Pearce, B., & Webber, C. (2026). [Heads we win, tails you lose: AI detectors in education. *Journal of Higher Education Policy and Management*](https://doi.org/10.1080/1360080X.2026.2622146).
+Bassett, M. A., Bradshaw, W., Bornsztejn, H., Hogg, A., Murdoch, K., Pearce, B., & Webber, C. (2026). [Heads we win, tails you lose: AI detectors in education](https://doi.org/10.1080/1360080X.2026.2622146). *Journal of Higher Education Policy and Management*.

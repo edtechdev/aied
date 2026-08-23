@@ -70,4 +70,4 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 
 ## Citation
 
-Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727). https://doi.org/10.1080/02602938.2026.2686727
+Krebsbach, J. M., & Cross, V. L. (2026). [*Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption*](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727). *Assessment & Evaluation in Higher Education*.

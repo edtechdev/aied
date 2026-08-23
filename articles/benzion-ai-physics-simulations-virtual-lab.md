@@ -64,4 +64,4 @@ tific fields.
 
 ## Citation
 
-Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. *The Physics Teacher*, 63, 424–427. https://doi.org/10.1119/5.0252343
+Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). [*Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab*](https://doi.org/10.1119/5.0252343). *The Physics Teacher*, 63, 424–427.
