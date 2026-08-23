@@ -1,14 +1,14 @@
 ---
 title: "Heads We Win, Tails You Lose: AI Detectors in Education"
 created: "2026-08-22T19:50:00-04:00"
-updated: "2026-08-22T19:50:00-04:00"
+updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [plagiarism-detection, academic-integrity, generative-ai, higher-ed, assessment-validity, trust, writing-education, authentic-assessment, educational-policy-ai, governance]
 sources: ['raw/papers/bassett-ai-detectors-education-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[plagiarism-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[authentic-assessment|assessment design]] that recognises AI's role in learning.
+> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[plagiarism-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognises AI's role in learning.
 
 ## Key Findings
 
