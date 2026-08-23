@@ -53,6 +53,7 @@ CoI remains theoretically valuable but its operationalizations need refinement: 
 - [[metacognition]]
 - [[online-teaching-and-learning]]
 - [[human-ai-collaboration]]
+- [[theory-development-aied]]
 
 ## Connected Articles
 
