@@ -12,8 +12,9 @@ const articles = await getCollection('articles');
 const article = articles.find(a => a.id.replace('.md', '') === slug);
 if (!article) return Astro.redirect('/aied/');
 
-const { title, tags, confidence, created } = article.data;
+const { title, tags, confidence, created, updated } = article.data;
 const createdDisplay = (created || '').split('T')[0];
+const updatedDisplay = (updated || created || '').split('T')[0];
 const body = article.body || '';
 
 function splitTableCells(line: string): string[] {
@@ -157,7 +158,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">📄 Research Article</p>
       <h1>{title}</h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
-        {confIcon} {confidence} · {createdDisplay}
+        {confIcon} {confidence} · created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
           <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
         ))}
