@@ -23,13 +23,41 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### Connections
 
-UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
+UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a K-12 term), it is often the right page to link for college and university disabled-learner research.
+
+## Implications and examples for instructors and instructional designers
+
+UDL turns "fix the learner" into "fix the design." For instructors and designers working with AI, the three principles translate into concrete moves:
+
+**Engagement — offer multiple ways to spark and sustain motivation.**
+- Let learners choose how they engage: problem-based, game-based, discussion, or self-paced options.
+- Use AI to surface relevance — personalized examples, real-world connections, or choice of topic — rather than a single generic task.
+- *Example:* A course uses AI to generate varied worked examples tied to different learner interests (business, health, arts), letting students pick the context that motivates them.
+
+**Representation — present information in multiple formats.**
+- Offer the same content as text, audio, video, and interactive — AI can auto-generate captions, transcripts, summaries, and alternative explanations at different reading levels.
+- *Example:* An instructor uses an AI assistant to produce a plain-language summary and an audio version of a dense reading, so learners can choose their entry point. Pair with [[accessibility]] (captions, alt text) so every format is usable.
+
+**Action and expression — let learners show what they know in varied ways.**
+- Provide choice of assessment product (essay, presentation, video, diagram, code) aligned to the same learning outcome.
+- *Example:* A project allows submission as a written report, an AI-assisted video explainer, or a live demonstration — with AI scaffolds supporting each mode. In [[assessment]] design, this parallels [[authentic-assessment]]'s representational fairness.
+
+**Design for AI-literacy and agency.**
+- Teach students how and when to use AI, and build checkpoints that keep the learner (not the tool) accountable — see [[ai-literacy]] and [[reducing-ai-misuse]].
+- *Example:* A UDL-aligned assignment lets students use AI to draft but requires a metacognitive reflection on their own contribution, preserving the engagement and agency principles.
+
+**Use AI to remove barriers, not add them.**
+- Deploy AI to close performance gaps (e.g., AI-segmented videos with pauses helped ADHD learners) and to lower the cost of accessible formats.
+- Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility]], [[equity-in-ai-education]], and [[neurodiversity]].
 
 ## Connected Concepts
 
 - [[inclusive-learning]]
+- [[accessibility]]
+- [[assistive-technology]]
 - [[equity-in-ai-education]]
 - [[special-education]]
+- [[neurodiversity]]
 - [[instructional-design]]
 - [[personalized-learning]]
 - [[culturally-relevant-pedagogy]]
