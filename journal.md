@@ -4,6 +4,14 @@
 
 ## 2026-08-23
 
+- ● [[assistive-technology]] — 
+  Assistive Technology
+  #assistive-technology #accessibility #special-education #inclusive-learning #equity-in-ai-education #instructional-design
+
+- ● [[accessibility]] — 
+  Accessibility
+  #accessibility #inclusive-learning #special-education #universal-design-for-learning #assistive-technology #equity-in-ai-education #instructional-design
+
 - ◐ [[zhang-ai-students-disabilities-meta-analysis-2024]] — raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md
   Let's Chat About Artificial Intelligence for Students With Disabilities: A Meta-Analysis
   #special-education #inclusive-learning #accessibility #learning-gains #educational-robotics
@@ -15,14 +23,6 @@
 - ◐ [[ikram-ai-personalized-learning-review-2026]] — raw/papers/ikram-ai-personalized-learning-review-2026.md
   Artificial Intelligence in Education: A Systematic Review of Personalized Learning Trends and Future Directions
   #personalized-learning #adaptive-learning #ai-education #generative-ai #systematic-review
-
-- ● [[assistive-technology]] — 
-  Assistive Technology
-  #assistive-technology #accessibility #special-education #inclusive-learning #equity-in-ai-education #instructional-design
-
-- ● [[accessibility]] — 
-  Accessibility
-  #accessibility #inclusive-learning #special-education #universal-design-for-learning #assistive-technology #equity-in-ai-education #instructional-design
 
 - ◐ [[guillen-curriculum-genai-teacher-competence-2026]] — raw/papers/guillen-curriculum-genai-teacher-competence-2026.md
   Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence
@@ -80,39 +80,39 @@
   Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
   #productive-failure #language-learning #generative-ai #metacognition #self-regulated-learning #feedback #cognitive-load #higher-ed
 
-- ◐ [[reconceptualizing-community-inquiry-generative-ai]] — 
+- ◐ [[reconceptualizing-community-inquiry-generative-ai]]
   Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
   #generative-ai #llm #critical-thinking #higher-ed #ai-education #assessment
 
-- ◐ [[motivation-shape-future-education-ai-switzerland-china]] — 
+- ◐ [[motivation-shape-future-education-ai-switzerland-china]]
   Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China
   #motivation #teacher-education #generative-ai #higher-ed #ai-education
 
-- ◐ [[harmogen-ai-assessment-rubric-generation]] — 
+- ◐ [[harmogen-ai-assessment-rubric-generation]]
   A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course
   #automated-assessment #formative-assessment #llm #generative-ai #cs-education #assessment
 
-- ◐ [[chatgpt-english-language-learning-malaysia]] — 
+- ◐ [[chatgpt-english-language-learning-malaysia]]
   Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution
   #language-learning #generative-ai #self-determination-theory #higher-ed #motivation #pedagogical-agent
 
-- ◐ [[ai-assisted-instructor-supervised-grading-feedback]] — 
+- ◐ [[ai-assisted-instructor-supervised-grading-feedback]]
   AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
   #automated-assessment #llm #feedback #formative-assessment #higher-ed #human-in-the-loop-ai
 
-- ◐ [[preferred-scaffolding-ai-mathematical-modelling]] — 
+- ◐ [[preferred-scaffolding-ai-mathematical-modelling]]
   Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
   #scaffolding #math-education #generative-ai #pedagogical-agent #student-engagement
 
-- ◐ [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — 
+- ◐ [[bayesian-cognitive-diagnosis-personalized-learning-paths]]
   Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
   #cognitive-diagnosis #personalized-learning #adaptive-learning #learning-analytics
 
-- ◐ [[teachers-reflective-regulators-cognition-offloading]] — 
+- ◐ [[teachers-reflective-regulators-cognition-offloading]]
   Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice
   #cognitive-offloading #generative-ai #teacher-role #metacognition #ai-literacy #higher-ed #reflective-practice
 
-- ◐ [[irt-human-genai-mcq-responses]] — 
+- ◐ [[irt-human-genai-mcq-responses]]
   Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
   #item-response-theory #academic-integrity #generative-ai #llm #assessment
 
@@ -158,6 +158,10 @@
   Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning
   #inquiry-based-learning #metacognition #scaffolding #generative-ai #critical-thinking #ai-education #higher-ed #conceptual-framework
 
+- ● [[inquiry-based-learning]] — 
+  Inquiry-Based Learning and AI
+  #inquiry-based-learning #problem-based-learning #active-learning #critical-thinking #metacognition #self-regulated-learning #generative-ai #stem-education #scaffolding
+
 - ◐ [[ba-ai-agents-cscl-review-2026]] — raw/papers/ba-ai-agents-cscl-review-2026.md
   Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
   #collaborative-learning #agentic-ai #pedagogical-agent #systematic-review #community-of-inquiry #learning-outcomes #scaffolding #cscl
@@ -177,10 +181,6 @@
 - ◐ [[mujib-ai-ibl-creative-math-2026]] — raw/papers/mujib-ai-ibl-creative-math-2026.md
   Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics
   #inquiry-based-learning #generative-ai #math-education #k-12 #critical-thinking #creativity #cognitive-offloading #active-learning
-
-- ● [[inquiry-based-learning]] — 
-  Inquiry-Based Learning and AI
-  #inquiry-based-learning #problem-based-learning #active-learning #critical-thinking #metacognition #self-regulated-learning #generative-ai #stem-education #scaffolding
 
 - ◐ [[li-dbagent-llm-educational-agent-cs-2026]] — raw/papers/li-dbagent-llm-educational-agent-cs-2026.md
   The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education
@@ -222,13 +222,13 @@
   Exploring Conversational Agents for Novice Programmers: A Scoping Review
   #conversational-ai #chatbot #cs-education #intelligent-tutoring #scaffolding #feedback #generative-ai #llm #equity-in-ai-education #multimodal #scoping-review
 
-- ◐ [[conversational-ai-agents-umbrella-review-2026]] — raw/papers/conversational-ai-agents-umbrella-review-2026.md
-  Conversational AI Agents in Education: An Umbrella Review
-  #conversational-ai #chatbot #intelligent-tutoring #generative-ai #ai-literacy #academic-integrity #ethics #umbrella-review #pedagogical-agent #human-ai-interaction
-
 - ● [[conversational-ai]] — 
   Conversational AI
   #conversational-ai #chatbot #intelligent-tutoring #generative-ai #llm #pedagogical-agent #human-ai-interaction #ai-literacy
+
+- ◐ [[conversational-ai-agents-umbrella-review-2026]] — raw/papers/conversational-ai-agents-umbrella-review-2026.md
+  Conversational AI Agents in Education: An Umbrella Review
+  #conversational-ai #chatbot #intelligent-tutoring #generative-ai #ai-literacy #academic-integrity #ethics #umbrella-review #pedagogical-agent #human-ai-interaction
 
 - ● [[network-analysis]] — 
   Network Analysis
@@ -486,6 +486,10 @@
   Online Teaching and Learning
   #online-education #online-learning #distance-learning #mooc #blended-learning #pedagogy #instructional-design #generative-ai #higher-ed #academic-integrity #cognitive-offloading #ai-literacy
 
+- ● [[student-ai-interaction]] — 
+  Student-AI Interaction
+  #student-ai-interaction #generative-ai #llm #prompt-engineering #student-experience #learning-analytics #intelligent-tutoring #cognitive-offloading #higher-ed
+
 - ◐ [[learnai-just-in-time-ai-cocreation-university-2026]] — raw/papers/2608.19164.md
   LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University
   #ai-literacy #higher-ed #curriculum-design #instructional-design #generative-ai #human-in-the-loop-ai #agency #self-efficacy #prompt-engineering #faculty-development
@@ -493,10 +497,6 @@
 - ◐ [[student-ai-inquiry-types-cs2-2026]] — raw/papers/2608.17919.md
   Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks
   #student-ai-interaction #cs-education #llm #prompt-engineering #higher-ed #student-experience #learning-analytics #generative-ai #intelligent-tutoring #cognitive-offloading
-
-- ● [[student-ai-interaction]] — 
-  Student-AI Interaction
-  #student-ai-interaction #generative-ai #llm #prompt-engineering #student-experience #learning-analytics #intelligent-tutoring #cognitive-offloading #higher-ed
 
 ## 2026-08-19
 
@@ -618,6 +618,14 @@
   AI Sycophancy
   #ai-sycophancy #generative-ai #llm #ethics #trust #pedagogical-safety #cognitive-offloading #feedback #affective-computing #ai-literacy #hallucination-risk
 
+- ● [[global-south]] — 
+  Global South
+  #global-south #equity-in-ai-education #generative-ai #higher-ed #k-12 #culturally-relevant-pedagogy #ai-literacy
+
+- ● [[technology-acceptance-model]] — 
+  Technology Acceptance Model
+  #technology-acceptance-model #generative-ai #student-experience #higher-ed #ai-literacy #research-methods-aied #adoption
+
 - ◐ [[tam-critical-use-genai-engineering-2026]] — raw/papers/10.1016_j.caeai.2026.100618.md
   Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use
   #technology-acceptance-model #generative-ai #higher-ed #student-experience #cs-education #engineering-education #ai-literacy #critical-thinking #ethics #reliance
@@ -637,14 +645,6 @@
 - ◐ [[llm-question-generation-deaf-hard-of-hearing-2026]] — raw/papers/10.1016_j.caeai.2026.100615.md
   Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners
   #llm #generative-ai #special-education #inclusive-learning #automated-question-generation #online-learning #equity #k-12 #higher-ed #student-experience
-
-- ● [[global-south]] — 
-  Global South
-  #global-south #equity-in-ai-education #generative-ai #higher-ed #k-12 #culturally-relevant-pedagogy #ai-literacy
-
-- ● [[technology-acceptance-model]] — 
-  Technology Acceptance Model
-  #technology-acceptance-model #generative-ai #student-experience #higher-ed #ai-literacy #research-methods-aied #adoption
 
 - ◐ [[assessment-latent-structure-human-llm-2026]] — raw/papers/assessment-latent-structure-human-llm-2026.md
   Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
@@ -734,6 +734,10 @@
   Principal Trait Analysis: Towards Deriving 'Skills' in Human-AI Collaboration
   #human-ai-collaboration #llm #prompt-engineering #agentic-ai #intelligent-tutoring #self-regulated-learning #learning-analytics #ai-literacy
 
+- ● [[teacher-education]] — 
+  Teacher Education
+  #teacher-education #preservice-teachers #professional-development #teacher-role #tpack #ai-literacy #k-12
+
 - ◐ [[llm-formative-feedback-systematic-review-2026]] — raw/papers/llm-formative-feedback-systematic-review-2026.md
   LLM-generated formative feedback in education: A qualitative systematic literature review
   #feedback #formative-assessment #llm #generative-ai #feedback-literacy #self-regulated-learning
@@ -818,10 +822,6 @@
   Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust
   #teacher-education #tpack #intelligent-tpack #ethics #trust #k-12 #ai-literacy
 
-- ● [[teacher-education]] — 
-  Teacher Education
-  #teacher-education #preservice-teachers #professional-development #teacher-role #tpack #ai-literacy #k-12
-
 - ◐ [[critical-thinking-paradox-genai-learning-2026]] — raw/papers/critical-thinking-paradox-genai-learning-2026.md
   The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth — a differentiated framework and testable propositions
   #critical-thinking #cognitive-offloading #metacognition #desirable-difficulties #generative-ai #ai-literacy #transfer-of-learning
@@ -857,6 +857,30 @@
 - ● [[discipline-specific-aied]] — 
   AIEd in the Disciplines
   #ai-education #discipline-specific #stem-education #math-education #physics-education #cs-education #language-learning #writing-education #medical-education #humanities-education #business-education
+
+- ● [[critical-pedagogy]] — 
+  Critical Pedagogy
+  #critical-pedagogy #equity #critical-thinking #ai-literacy #feminist #social-justice #agency #ethics #reducing-ai-misuse
+
+- ● [[philosophy-of-ai-in-education]] — 
+  Philosophy of AI in Education
+  #philosophy-of-education #learning-theory #ethics #agency #posthumanism #epistemology #human-ai-collaboration #ai-education
+
+- ● [[medical-education]] — 
+  Medical and Health Professions Education
+  #medical-education #health-professions #higher-ed #clinical #simulation #assessment #adaptive-learning #teacher-role
+
+- ● [[situated-learning]] — 
+  Situated Learning
+  #situated-learning #experiential-learning #constructivist #learning-theories #communities-of-practice #contextual-knowledge #instructional-design #ai-education
+
+- ● [[humanities-education]] — 
+  Humanities and Social Science Education
+  #humanities #social-science #history #philosophy #critical-thinking #ai-literacy #higher-ed #interpretation
+
+- ● [[distributed-cognition]] — 
+  Distributed Cognition
+  #distributed-cognition #learning-theory #human-ai-collaboration #cognitive-offloading #metacognition #embodied-learning #situated-learning #agency
 
 - ◐ [[vargas-situated-learning-ai-review-2024]] — raw/papers/vargas-situated-learning-ai-review-2024.md
   Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature
@@ -918,32 +942,9 @@
   Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning
   #ai-literacy #situated-learning #curriculum-design #instructional-design #k-12 #experiential-learning #generative-ai
 
-- ◐ [[li-ai-science-situated-learning-teachers-2025]] — 
+- ◐ [[li-ai-science-situated-learning-teachers-2025]]
   Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives
-
-- ● [[critical-pedagogy]] — 
-  Critical Pedagogy
-  #critical-pedagogy #equity #critical-thinking #ai-literacy #feminist #social-justice #agency #ethics #reducing-ai-misuse
-
-- ● [[philosophy-of-ai-in-education]] — 
-  Philosophy of AI in Education
-  #philosophy-of-education #learning-theory #ethics #agency #posthumanism #epistemology #human-ai-collaboration #ai-education
-
-- ● [[medical-education]] — 
-  Medical and Health Professions Education
-  #medical-education #health-professions #higher-ed #clinical #simulation #assessment #adaptive-learning #teacher-role
-
-- ● [[situated-learning]] — 
-  Situated Learning
-  #situated-learning #experiential-learning #constructivist #learning-theories #communities-of-practice #contextual-knowledge #instructional-design #ai-education
-
-- ● [[humanities-education]] — 
-  Humanities and Social Science Education
-  #humanities #social-science #history #philosophy #critical-thinking #ai-literacy #higher-ed #interpretation
-
-- ● [[distributed-cognition]] — 
-  Distributed Cognition
-  #distributed-cognition #learning-theory #human-ai-collaboration #cognitive-offloading #metacognition #embodied-learning #situated-learning #agency
+  #- situated-learning
 
 - ◐ [[genai-educational-outcomes-meta-analysis]] — raw/papers/genai-educational-outcomes-meta-analysis.md
   Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches
@@ -970,6 +971,14 @@
   #behaviorism #learning-theory #instructional-design #adaptive-learning #intelligent-tutoring #generative-ai #higher-ed
 
 ## 2026-08-15
+
+- ● [[feedback]] — 
+  Feedback
+  #feedback #feedback #ai-feedback-quality #feedback-literacy #formative-assessment #peer-review #automated-assessment #assessment
+
+- ● [[feedback-literacy]] — 
+  Feedback Literacy
+  #feedback-literacy #feedback #ai-feedback-quality #formative-assessment #self-regulated-learning #ai-literacy #peer-review #writing-education
 
 - ◐ [[jin-genai-learning-analytics-feedback-literacy]] — raw/papers/jin-genai-learning-analytics-feedback-literacy.md
   Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective
@@ -1011,14 +1020,6 @@
   Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
   #feedback #ai-feedback-quality #self-regulated-learning #formative-assessment #writing-education #ai-literacy #higher-ed
 
-- ● [[feedback]] — 
-  Feedback
-  #feedback #feedback #ai-feedback-quality #feedback-literacy #formative-assessment #peer-review #automated-assessment #assessment
-
-- ● [[feedback-literacy]] — 
-  Feedback Literacy
-  #feedback-literacy #feedback #ai-feedback-quality #formative-assessment #self-regulated-learning #ai-literacy #peer-review #writing-education
-
 - ◐ [[coach-not-crutch-ai-writing]] — raw/papers/coach-not-crutch-ai-writing.md
   Coach not crutch: Evidence that AI can improve writing skill despite reducing effort
   #writing-education #cognitive-offloading #cognitive-offloading #self-regulated-learning #ai-feedback-quality #learning-gains #ai-literacy
@@ -1039,8 +1040,9 @@
   Don't believe the hype. AI myths and the need for a critical approach in higher education
   #generative-ai #higher-ed #ai-literacy #critical-thinking #academic-integrity #digital-divide #ai-misuse-learning-harm #governance #faculty-development #regulation
 
-- ◐ [[benzion-ai-physics-simulations-virtual-lab]] — 
+- ◐ [[benzion-ai-physics-simulations-virtual-lab]]
   Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
+  #- generative-ai
 
 - ◐ [[beck-genai-literacy-economics-hands-on]] — raw/papers/beck-genai-literacy-economics-hands-on.md
   Fostering Generative AI Literacy in Economics: A Hands-on Approach
@@ -1050,8 +1052,9 @@
   AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
   #intelligent-tutoring #math-education #intelligent-tutoring #adaptive-learning #personalized-learning #multi-agent #llm #generative-ai #socratic-method #rag #student-modeling #agentic-ai
 
-- ◐ [[jost-llm-programming-education-learning-outcomes]] — 
+- ◐ [[jost-llm-programming-education-learning-outcomes]]
   The Impact of Large Language Models on Programming Education and Student Learning Outcomes
+  #- llm
 
 - ◐ [[jin-glat-genai-literacy-assessment]] — raw/papers/jin-glat-genai-literacy-assessment.md
   GLAT: The Generative AI Literacy Assessment Test
@@ -1119,6 +1122,10 @@
   Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis
   #educational-robotics #social-robots #human-robot-interaction #language-learning #embodied-learning #multimodal #meta-analysis #learning-gains
 
+- ● [[learning-by-teaching]] — 
+  Learning by Teaching
+  #learning-by-teaching #teachable-agents #peer-tutoring #generative-ai #active-learning #explanation-effect #scaffolding #self-regulated-learning #cs-education
+
 - ◐ [[chatgpt-teachable-agent-programming-lbt-2024]] — raw/papers/raw-chen-lbt-chatgpt.md
   Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education
   #learning-by-teaching #teachable-agents #generative-ai #programming-education #cs-education #self-regulated-learning #scaffolding #active-learning
@@ -1139,17 +1146,13 @@
   Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Student to Perform Learning by Teaching in Vocabulary Acquisition
   #learning-by-teaching #teachable-agents #generative-ai #language-learning #vocabulary #llm #student-experience
 
-- ● [[learning-by-teaching]] — 
-  Learning by Teaching
-  #learning-by-teaching #teachable-agents #peer-tutoring #generative-ai #active-learning #explanation-effect #scaffolding #self-regulated-learning #cs-education
+- ● [[tpack]] — 
+  Technological Pedagogical Content Knowledge (TPACK)
+  #tpack #ai-tpack #teacher-ai-competency #faculty-development #pedagogical-content-knowledge #generative-ai #teacher-role #instructional-design #curriculum
 
 - ◐ [[edurev-100741-tpack-genai-review]] — raw/papers/edurev-100741-tpack-genai-review.md
   Integrating Generative Artificial Intelligence into Student Learning: A Systematic Review from a TPACK Perspective
   #generative-ai #tpack #ai-tpack #student-experience #higher-ed #k-12 #instructional-design #assessment #ai-literacy #meta-analysis #systematic-review #teacher-ai-competency #faculty-development
-
-- ● [[tpack]] — 
-  Technological Pedagogical Content Knowledge (TPACK)
-  #tpack #ai-tpack #teacher-ai-competency #faculty-development #pedagogical-content-knowledge #generative-ai #teacher-role #instructional-design #curriculum
 
 - ◐ [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — raw/papers/higheredu-05-00078.md
   Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
@@ -1208,6 +1211,42 @@
 - ◐ [[pepper-social-robot-formal-education-scoping-review-2026]] — raw/papers/10.1007_s44322-026-00072-1.md
   Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review
   #social-robots #educational-robotics #human-robot-interaction #k-12 #higher-ed #scoping-review #teacher-role #inclusive-education
+
+- ● [[agency]] — 
+  Learner Agency
+  #agency #self-regulated-learning #motivation #student-experience #human-ai-collaboration #ethics #cognitive-offloading
+
+- ● [[embodied-learning]] — 
+  Embodied Learning
+  #embodied-learning #educational-robotics #social-robots #computational-thinking #active-learning #situated-learning
+
+- ● [[experiential-learning]] — 
+  Experiential Learning
+  #experiential-learning #active-learning #higher-ed #project-based-learning #embodied-learning #learning-by-doing
+
+- ● [[educational-robotics]] — 
+  Robots in Education
+  #educational-robotics #robots-in-education #social-robots #human-robot-interaction #computational-thinking #stem-education #k-12 #higher-ed #programming-education #embodied-learning
+
+- ● [[project-based-learning]] — 
+  Project-Based Learning
+  #project-based-learning #active-learning #collaborative-learning #educational-robotics #higher-ed #k-12
+
+- ● [[self-efficacy]] — 
+  Self-Efficacy
+  #self-efficacy #motivation #confidence #self-regulated-learning #student-experience #ai-literacy
+
+- ● [[trust]] — 
+  Trust in AI
+  #trust #ai-literacy #social-robots #human-robot-interaction #epistemic-trust #critical-thinking #intelligent-tutoring
+
+- ● [[game-based-learning]] — 
+  Game-Based Learning
+  #game-based-learning #gamification #engagement #educational-robotics #motivation #active-learning
+
+- ● [[storytelling-in-education]] — 
+  Storytelling in Education
+  #storytelling #engagement #motivation #social-robots #creativity #language-learning #k-12
 
 - ◐ [[motibo-digital-storytelling-robots-motivation-2026]] — raw/papers/fung-motibo-storytelling-robots-motivation-2026.md
   MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory
@@ -1269,42 +1308,6 @@
   What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI
   #social-robots #human-robot-interaction #trust #educational-robotics #higher-ed #social-cognitive
 
-- ● [[agency]] — 
-  Learner Agency
-  #agency #self-regulated-learning #motivation #student-experience #human-ai-collaboration #ethics #cognitive-offloading
-
-- ● [[embodied-learning]] — 
-  Embodied Learning
-  #embodied-learning #educational-robotics #social-robots #computational-thinking #active-learning #situated-learning
-
-- ● [[experiential-learning]] — 
-  Experiential Learning
-  #experiential-learning #active-learning #higher-ed #project-based-learning #embodied-learning #learning-by-doing
-
-- ● [[educational-robotics]] — 
-  Robots in Education
-  #educational-robotics #robots-in-education #social-robots #human-robot-interaction #computational-thinking #stem-education #k-12 #higher-ed #programming-education #embodied-learning
-
-- ● [[project-based-learning]] — 
-  Project-Based Learning
-  #project-based-learning #active-learning #collaborative-learning #educational-robotics #higher-ed #k-12
-
-- ● [[self-efficacy]] — 
-  Self-Efficacy
-  #self-efficacy #motivation #confidence #self-regulated-learning #student-experience #ai-literacy
-
-- ● [[trust]] — 
-  Trust in AI
-  #trust #ai-literacy #social-robots #human-robot-interaction #epistemic-trust #critical-thinking #intelligent-tutoring
-
-- ● [[game-based-learning]] — 
-  Game-Based Learning
-  #game-based-learning #gamification #engagement #educational-robotics #motivation #active-learning
-
-- ● [[storytelling-in-education]] — 
-  Storytelling in Education
-  #storytelling #engagement #motivation #social-robots #creativity #language-learning #k-12
-
 - ● [[well-being]] — 
   Well-Being
   #student-experience #social-emotional-learning #ethics #ai-literacy #higher-ed #mental-health #motivation
@@ -1325,6 +1328,10 @@
   GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course
   #ai-feedback-quality #writing-education #ai-literacy #student-experience #peer-review #multilingual-writing #professional-writing #self-regulated-learning #metacognition #equity
 
+- ● [[peer-review]] — 
+  Peer Review
+  #writing-education #formative-assessment #ai-feedback-quality #student-experience #collaboration #self-regulated-learning #metacognition
+
 - ◐ [[pairr-ai-peer-review-2025]] — raw/papers/10.1016_j.compcom.2025.102921.md
   Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment
   #ai-feedback-quality #writing-education #formative-assessment #ai-literacy #student-experience #peer-review #self-regulated-learning #academic-integrity #metacognition
@@ -1332,10 +1339,6 @@
 - ◐ [[posthumanist-ai-literacy-2025]] — raw/papers/10.1016_j.compcom.2025.102933.md
   A Posthumanist Approach to AI Literacy
   #ai-literacy #writing-education #student-experience #agency-gap #generative-ai #multilingual-writing #language-learning #academic-integrity
-
-- ● [[peer-review]] — 
-  Peer Review
-  #writing-education #formative-assessment #ai-feedback-quality #student-experience #collaboration #self-regulated-learning #metacognition
 
 - ◐ [[ai-literacy-heptagon-2026]] — raw/papers/10.1016_j.caeai.2026.100540.md
   The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education
@@ -1439,6 +1442,10 @@
 
 ## 2026-08-12
 
+- ● [[simulating-students]] — 
+  Simulating Students
+  #simulation #student-modeling #knowledge-tracing #cognitive-diagnosis #agentic-ai #pedagogical-agent #intelligent-tutoring #generative-ai #llm #teacher-role
+
 - ◐ [[valid-student-simulation-llm-2026]] — raw/papers/2601.05473.md
   Towards Valid Student Simulation with Large Language Models
   #simulating-students #llm #student-modeling #epistemic-state #evaluation #generative-ai #adaptive-learning #ethical-ai
@@ -1454,10 +1461,6 @@
 - ◐ [[agentschool-multi-agent-simulation-education-2026]] — raw/papers/2605.30144.md
   AgentSchool: An LLM-Powered Multi-Agent Simulation for Education
   #simulating-students #agentic-ai #multi-agent #adaptive-learning #sociocultural-learning #knowledge-graph #intelligent-tutoring #llm
-
-- ● [[simulating-students]] — 
-  Simulating Students
-  #simulation #student-modeling #knowledge-tracing #cognitive-diagnosis #agentic-ai #pedagogical-agent #intelligent-tutoring #generative-ai #llm #teacher-role
 
 - ◐ [[chatgpt-hints-human-tutor-learning-gains-2024]] — raw/papers/pardos-bhandari-chatgpt-hints-2024.md
   ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
@@ -1623,7 +1626,7 @@
   Teacher education for artificial intelligence literacy through a self-determination theory perspective
   #ai-literacy #teacher-ai-competency #faculty-development #professional-training #motivation #self-determination-theory #higher-ed #k-12
 
-- ◐ [[genai-literacy-training-teacher-education-dbr-2026]] — 
+- ◐ [[genai-literacy-training-teacher-education-dbr-2026]]
   Development and evaluation of artificial intelligence literacy training for teacher education students
   #ai-literacy #teacher-ai-competency #faculty-development #pedagogical-llm-training #higher-ed #k-12
 
@@ -1651,19 +1654,19 @@
   New systems of learning for distance learning institutions? A six-study review of implementing AIDA
   #generative-ai #higher-ed #distance-learning #design-based-research #ai-chatbots #governance #technology-adoption #learning-analytics #privacy
 
-- ◐ [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]] — 
+- ◐ [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
   The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning
   #agent #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
-- ◐ [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]] — 
+- ◐ [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]]
   Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism
   #affective-computing #agent #learning-analytics #multimodal #ai-education #ai-tutoring
 
-- ◐ [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — 
+- ◐ [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]]
   Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
   #generative-ai #ai-literacy #higher-ed #policy #technology-adoption #ai-education #ai-tutoring
 
-- ◐ [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]] — 
+- ◐ [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
   From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach
   #affective-computing #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
@@ -1671,7 +1674,7 @@
   Learning with machines: Toward a theory of epistemic co-agency
   #epistemic-agency #ai-literacy #critical-thinking #human-ai-interaction #metacognition #generative-ai #higher-ed #assessment
 
-- ◐ [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — 
+- ◐ [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
   Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning
   #affective-computing #language-learning #ai-education #ai-tutoring #educational-technology #edtech-platform
 
@@ -1679,7 +1682,7 @@
   Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study
   #generative-ai #student-experience #self-regulated-learning #ai-literacy #academic-integrity #learning-analytics #motivation #cognitive-offloading #critical-thinking #metacognition #privacy
 
-- ◐ [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — 
+- ◐ [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]]
   Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors
   #generative-ai #feedback-design #higher-ed #design-thinking #privacy #ai-education #ai-tutoring
 
@@ -1687,19 +1690,19 @@
   Leveraging complex systems: Leading for transformative change
   #generative-ai #higher-ed #leadership #institutional-change #learning-analytics #governance #educational-technology #policy
 
-- ◐ [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — 
+- ◐ [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
   Face value: How avatar identity shapes epistemic trust in AI-mediated learning
   #algorithmic-bias #agent #language-learning #epistemic-agency #ai-education #ai-tutoring
 
-- ◐ [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — 
+- ◐ [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
   Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence
   #generative-ai #assessment #conversational-agents #assessment-validity #academic-integrity #ai-education #ai-tutoring
 
-- ◐ [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — 
+- ◐ [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]]
   Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
   #generative-ai #higher-ed #computational-thinking #ai-tutoring #systematic-review #design-guidelines #ai-education
 
-- ◐ [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]] — 
+- ◐ [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]]
   A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education
   #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation #efficacy-study
 
@@ -1711,31 +1714,31 @@
   The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
   #ai-literacy #curriculum-design #digital-divide #scaffolding #ai-education #equity #framework #ai-tutoring
 
-- ◐ [[generative-ai-interactive-textbook-in-electrotechnics-a-four-year-comparative-st]] — 
+- ◐ [[generative-ai-interactive-textbook-in-electrotechnics-a-four-year-comparative-st]]
   Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion
   #generative-ai #assessment #equity #ai-tutoring #ai-education #educational-technology
 
-- ◐ [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 
+- ◐ [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
   Learning-to-learn in the age of generative AI: A scoping review and conceptual framework
   #generative-ai #higher-ed #self-regulated-learning #language-learning #systematic-review #epistemic-agency #ai-education #intelligent-tutoring
 
-- ◐ [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — 
+- ◐ [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]]
   Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
   #higher-ed #self-regulated-learning #collaborative-learning #ai-education #ai-tutoring #educational-technology
 
-- ◐ [[not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa]] — 
+- ◐ [[not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa]]
   Not all collaboration benefits from competition: Collaboration modes in a computational thinking game
   #computational-thinking #collaborative-learning #ai-education #ai-tutoring #educational-technology #edtech-platform
 
-- ◐ [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — 
+- ◐ [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
   Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms
   #engagement-metrics #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
-- ◐ [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]] — 
+- ◐ [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]]
   Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective
   #self-regulated-learning #collaborative-learning #chatbot #epistemic-agency #ai-education #ai-tutoring
 
-- ◐ [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — 
+- ◐ [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]]
   Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement
   #higher-ed #collaborative-learning #engagement-metrics #creativity #ai-education #ai-tutoring
 
@@ -2541,6 +2544,7 @@
 
 - ● [[educational-nlp]] — 
   Educational NLP
+  
 
 - ● [[item-response-theory]] — 
   Item Response Theory
@@ -3010,7 +3014,7 @@
   Knowledge Tracing
   #knowledge-tracing #learning-analytics #intelligent-tutoring #adaptive-learning #student-modeling #personalized-learning #student-experience #llm
 
-- ◐ [[bridging-instructional-design-framework-math]] — 
+- ◐ [[bridging-instructional-design-framework-math]]
   WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
   #teacher-role #k-12 #stem-education #scaffolding #ai-literacy #higher-ed #generative-ai #llm #student-experience #intelligent-tutoring
 
@@ -3234,23 +3238,23 @@
 
 ## 2026-06-10
 
-- ◐ [[ai-lms-middle-school-longitudinal]] — 
+- ◐ [[ai-lms-middle-school-longitudinal]]
   AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
   #k-12 #adaptive-learning #personalized-learning #formative-assessment #intelligent-tutoring #edtech-platform #llm #higher-ed #generative-ai #student-experience
 
-- ◐ [[edumirror-educational-social-dynamics]] — 
+- ◐ [[edumirror-educational-social-dynamics]]
   EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
   #intelligent-tutoring #student-experience #llm #higher-ed #scaffolding #generative-ai #ai-literacy #k-12 #stem-education #learning-analytics
 
-- ◐ [[adaptive-virtual-patient-psychotherapy-training]] — 
+- ◐ [[adaptive-virtual-patient-psychotherapy-training]]
   The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
   #professional-training #llm #generative-ai #intelligent-tutoring #student-experience #higher-ed #ai-literacy #scaffolding #k-12 #stem-education
 
-- ◐ [[tibetcpr-ai-training-feedback]] — 
+- ◐ [[tibetcpr-ai-training-feedback]]
   TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
   #professional-training #llm #formative-assessment #student-experience #edtech-platform #higher-ed #generative-ai #intelligent-tutoring #scaffolding #k-12
 
-- ◐ [[cold-start-knowledge-tracing-safeinsights]] — 
+- ◐ [[cold-start-knowledge-tracing-safeinsights]]
   Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
   #knowledge-tracing #learning-analytics #student-modeling #benchmark #higher-ed #llm #generative-ai #student-experience #ai-literacy #stem-education
 
@@ -3258,27 +3262,27 @@
   Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
   #edtech-platform #active-learning #student-experience #higher-ed #engagement-metrics #generative-ai #llm #ai-literacy #stem-education #scaffolding
 
-- ◐ [[ai-team-teaching-talk-analytics]] — 
+- ◐ [[ai-team-teaching-talk-analytics]]
   AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
   #active-learning #ai-education #higher-ed #learning-analytics #teacher-role #generative-ai #llm #student-experience #ai-literacy #stem-education
 
-- ◐ [[reshaping-cs-education-genai]] — 
+- ◐ [[reshaping-cs-education-genai]]
   Reshaping Undergraduate Computer Science Education in the Generative AI Era
   #cs-education #generative-ai #curriculum-design #higher-ed #llm #student-experience #ai-literacy #scaffolding #intelligent-tutoring #stem-education
 
-- ◐ [[genai-academic-search-workshop]] — 
+- ◐ [[genai-academic-search-workshop]]
   Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
   #generative-ai #llm #ai-literacy #policy-maker #higher-ed #student-experience #intelligent-tutoring #scaffolding #k-12 #stem-education
 
-- ◐ [[cognitive-offloading-llm-synthesis-writing]] — 
+- ◐ [[cognitive-offloading-llm-synthesis-writing]]
   Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
   #writing-education #llm #student-experience #higher-ed #ai-literacy #generative-ai #intelligent-tutoring #scaffolding #k-12 #stem-education
 
-- ◐ [[hybrid-e-assessment-semi-automated-grading]] — 
+- ◐ [[hybrid-e-assessment-semi-automated-grading]]
   Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
   #automated-assessment #assessment #higher-ed #generative-ai #formative-assessment #llm #student-experience #ai-literacy #scaffolding #stem-education
 
-- ◐ [[knowledge-gap-detection-ai-tas]] — 
+- ◐ [[knowledge-gap-detection-ai-tas]]
   Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
   #knowledge-tracing #llm #student-modeling #higher-ed #learning-analytics #generative-ai #student-experience #intelligent-tutoring #ai-literacy #scaffolding
 
@@ -3426,7 +3430,7 @@
 
 ## 2026-05-31
 
-- ◐ [[llm-cognitive-diagnosis-handwritten-math]] — 
+- ◐ [[llm-cognitive-diagnosis-handwritten-math]]
   Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
   #ai-ed-evaluation #knowledge-tracing #multimodal #benchmark #human-in-the-loop #critical-thinking #hallucination-risk #k-12 #llm #generative-ai #math-education
 
@@ -3442,6 +3446,7 @@
 
 - ● [[human-ai-collaboration]] — 
   Human AI Collaboration
+  
 
 - ● [[ai-ed-evaluation]] — 
   AI Ed Evaluation
@@ -3499,19 +3504,19 @@
 
 ## 2026-05-27
 
-- ◐ [[persistent-ai-agents-academic-research]] — 
+- ◐ [[persistent-ai-agents-academic-research]]
   Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
   #llm #generative-ai #higher-ed #agentic-ai #faculty-development #learning-analytics #student-experience #intelligent-tutoring #ai-literacy #scaffolding
 
-- ◐ [[student-misconceptions-conditionals-loops-taxonomy]] — 
+- ◐ [[student-misconceptions-conditionals-loops-taxonomy]]
   How Students (Mis)understand Conditionals and Loops -- A Taxonomy
   #cs-education #stem-education #student-experience #higher-ed #benchmark #llm #generative-ai #ai-literacy #scaffolding #intelligent-tutoring
 
-- ◐ [[genai-minoritized-knowledges-disability]] — 
+- ◐ [[genai-minoritized-knowledges-disability]]
   Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
   #generative-ai #higher-ed #special-education #equity #bias-mitigation #llm #student-experience #ai-literacy #scaffolding #stem-education
 
-- ◐ [[slidesqaqa-pedagogical-question-generation]] — 
+- ◐ [[slidesqaqa-pedagogical-question-generation]]
   Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
   #prompt-engineering #generative-ai #llm #higher-ed #scaffolding #formative-assessment #multimodal #student-experience #ai-literacy #intelligent-tutoring
 

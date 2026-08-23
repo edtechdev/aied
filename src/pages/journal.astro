@@ -16,6 +16,10 @@ allItems.forEach(item => {
   const d = item.data.created.split('T')[0];
   (byDate[d] ||= []).push(item);
 });
+// Within each day, sort reverse-chronologically by created timestamp (string compare works because timestamps are full ISO)
+Object.values(byDate).forEach(list => {
+  list.sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''));
+});
 const dates = Object.keys(byDate).sort().reverse();
 ---
 
