@@ -8,8 +8,6 @@ sources: ['raw/papers/yilmaz-genai-feedback-srl-online-higher-ed-2026.md']
 confidence: high
 ---
 
-# Supporting Self-Regulated Learning through Generative AI Feedback in Online Higher Education
-
 > **Synthesis:** Yilmaz and colleagues compared generative AI (GenAI) [[feedback]], informed by student trace data and [[learning-analytics|learning analytics]], against tutor-generated feedback in an online [[higher-ed|higher education]] statistics module, using a mixed-methods design with 46 blinded students. Students rated GenAI feedback more positively than tutor feedback, with a statistically significant edge on the Genuineness dimension, and the GenAI group showed significant improvement in the Task Strategies dimension of self-regulated learning (SRL). Qualitative insights revealed varied student awareness of the feedback source, with many adopting a content-first orientation while a subset indicated their attitudes might have shifted had they known the provider. The study concludes that GenAI can scale SRL feedback in online learning, but that student perceptions of the feedback source must be carefully managed for the expected impact to materialize.
 
 ## Core Finding

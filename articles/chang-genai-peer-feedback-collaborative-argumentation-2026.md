@@ -8,9 +8,7 @@ sources: ['raw/papers/chang-genai-peer-feedback-collaborative-argumentation-2026
 confidence: high
 ---
 
-# Leveraging generative AI to facilitate [[peer-review|peer feedback]] in collaborative argumentation learning
-
-> **Synthesis:** Chang et al. (2026) compare three peer-feedback conditions in collaborative argumentation learning — peer feedback (PF), peer feedback with GenAI (GenAI-PF), and peer feedback with GenAI supported by prompt scaffolding (PS-GenAI-PF) — with 45 student [[teacher-role|teachers]] in 12 groups. The GenAI-supported groups achieved better argumentation performance, and the prompt-scaffolded group performed best on advanced elements like "rebuttal data and warrant" and "addressing the opposing view." GenAI-supported feedback contained more explanations, suggestions, and neutral/negative feedback, and [[network-analysis|epistemic network]] analysis showed the scaffolded group paired negative emotions with higher-order feedback content (identification-suggestion, explanation-suggestion). The study offers concrete implications for designing GenAI-supported peer feedback.
+> **Synthesis:** Chang et al. (2026) compare three peer-feedback conditions in collaborative argumentation learning — [[peer-review|peer feedback]] (PF), peer feedback with [[generative-ai|GenAI]] (GenAI-PF), and peer feedback with GenAI supported by prompt scaffolding (PS-GenAI-PF) — with 45 student [[teacher-role|teachers]] in 12 groups. The GenAI-supported groups achieved better argumentation performance, and the prompt-scaffolded group performed best on advanced elements like "rebuttal data and warrant" and "addressing the opposing view." GenAI-supported feedback contained more explanations, suggestions, and neutral/negative feedback, and [[network-analysis|epistemic network]] analysis showed the scaffolded group paired negative emotions with higher-order feedback content (identification-suggestion, explanation-suggestion). The study offers concrete implications for designing GenAI-supported peer feedback.
 
 ## Core Finding
 
