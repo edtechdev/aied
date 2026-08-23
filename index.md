@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-23 | **Total pages:** 994
+**Last updated:** 2026-08-23 | **Total pages:** 1003
 ---
 ## Concepts
 
@@ -44,7 +44,7 @@
 - [[ai-acceptance-preservice-science-teachers-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say \
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource
@@ -52,11 +52,12 @@
 - [[ai-assessment-scale-reform]] — 'A bit of chaos and madness: The AI Assessment Scale and the work of assessment reform'
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline
 - [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 - [[ai-autonomous-learning-accomplishment-2026]] — AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in Vocational Higher Education: The Mediating Role of Hardiness
-- [[ai-availability-student-motivation]] — 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
+- [[ai-availability-student-motivation]] — 'Why Put in This Much Effort?
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbot design principles to enhance the collective efficacy in collaborative learning
@@ -185,6 +186,7 @@
 - [[awareness-technological-isomorphism]] — Awareness of Technological Isomorphism: AI in Elementary Math
 - [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
 - [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
 - [[beck-genai-literacy-economics-hands-on]] — Fostering Generative AI Literacy in Economics: A Hands-on Approach
 - [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
@@ -220,6 +222,7 @@
 - [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
 - [[chatgpt-academic-writing-quality-ownership-2026]] — Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[chatgpt-english-language-learning-malaysia]] — Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
 - [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
@@ -368,7 +371,7 @@
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
 - [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 - [[engineering-education]] — Engineering Education
-- [[engineering-faculty-metaphors-ai-understanding-2026]] — It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — It's Like \
 - [[english-education]] — English Education (EAP / EFL / ESL)
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement
 - [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]] — Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism
@@ -452,7 +455,7 @@
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
 - [[genai-simulate-patient-history-pbl-2026]] — 'Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study'
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
-- [[genai-student-experiences-uk-he-survey-2026]] — \"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison
+- [[genai-student-experiences-uk-he-survey-2026]] — \
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
@@ -484,6 +487,7 @@
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[hallucination-risk]] — Hallucination Risk
 - [[hao-human-ai-collaborative-problem-solving-cognition]] — Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective
+- [[harmogen-ai-assessment-rubric-generation]] — A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges
 - [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot
 - [[hawkins-feedback-literacy-ai-essay-writing]] — Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
@@ -505,7 +509,7 @@
 - [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 - [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
 - [[humanities-education]] — Humanities and Social Science Education
-- [[humanlike-ai-collaborative-writing]] — 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
+- [[humanlike-ai-collaborative-writing]] — 'It Felt a Bit Eerie
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 - [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
 - [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors
@@ -534,6 +538,7 @@
 - [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
 - [[interactive-online-learning-ai-2025]] — 'Interactive Online Learning Method for Students Based on Artificial Intelligence'
 - [[international-students-conversational-ai-adaptation]] — Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
+- [[irt-human-genai-mcq-responses]] — Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
 - [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
 - [[item-response-theory]] — Item Response Theory
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
@@ -675,6 +680,7 @@
 - [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory
 - [[motivation]] — Motivation
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China
 - [[mujib-ai-ibl-creative-math-2026]] — Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics
 - [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
@@ -694,7 +700,7 @@
 - [[musical-education-ai-digital-transformation-2026]] — Challenges for Musical Education in the Age of AI and Digital Transformation
 - [[network-analysis]] — Network Analysis
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[neurodivergent-computing-students]] — 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
+- [[neurodivergent-computing-students]] — 'I can''t read your mind
 - [[neurodiversity]] — Neurodiversity
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New systems of learning for distance learning institutions? A six-study review of implementing AIDA
 - [[nguyen-genai-global-south-review-2026]] — Perceptions of Generative AI in Global South: A Scoping Review
@@ -743,12 +749,13 @@
 - [[physics-education]] — Physics Education
 - [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
 - [[plagiarism-detection]] — AI Plagiarism Detection
-- [[polished-artifacts-fragile-engagement-2026]] — '"Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"'
+- [[polished-artifacts-fragile-engagement-2026]] — '
 - [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
 - [[post-instrumental-learning-capacity-dissolution]] — When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
 - [[prezenski-human-centered-ai-aided-learning]] — How Human-Centered Is AI-Aided Learning in Education?
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: Towards Deriving 'Skills' in Human-AI Collaboration
 - [[principled-ai-education]] — Principled AI in Education
@@ -782,6 +789,7 @@
 - [[rana-genai-design-thinking-2025]] — Generative AI in Design Thinking Pedagogy: Enhancing Creativity, Critical Thinking, and Ethical Reasoning in Higher Education
 - [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rct]] — RCT
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
 - [[reducing-ai-misuse]] — Reducing AI Misuse
 - [[regulating-ai-tutor-adolescent-srl]] — Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use
 - [[regulation]] — AI Regulation in Education
@@ -830,7 +838,7 @@
 - [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
 - [[self-regulated-learning]] — Self-Regulated Learning
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
-- [[shame-guilt-ai-regulation-computing-education]] — 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education'
+- [[shame-guilt-ai-regulation-computing-education]] — 'Stuck in a Spiral
 - [[shap-llm-rationales-teaching-quality-assessment]] — From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment
 - [[shaw-nave-cognitive-surrender-2026]] — Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources
@@ -888,12 +896,12 @@
 - [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
 - [[student-modeling]] — Student Modeling
 - [[student-perception-ai-use-collaboration]] — Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
-- [[student-rationalization-ai-writing]] — 'It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing'
+- [[student-rationalization-ai-writing]] — 'It''s OK Because...
 - [[student-regulatory-awareness-genai]] — Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study
 - [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course
-- [[suacode-african-students-motivations]] — 'Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course'
+- [[suacode-african-students-motivations]] — 'Why SuaCode?
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
 - [[summative-assessment]] — Summative Assessment
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
@@ -919,6 +927,7 @@
 - [[teacher-role]] — Teacher Role in AI-Enhanced Education
 - [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
 - [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice
 - [[teaching-ai-vocabulary-lbt-llms-2026]] — Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Student to Perform Learning by Teaching in Vocabulary Acquisition
 - [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
@@ -963,9 +972,9 @@
 - [[vargas-situated-learning-ai-review-2024]] — Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
 - [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
-- [[vibe-coding-programming-process-visualizer]] — 'From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs'
+- [[vibe-coding-programming-process-visualizer]] — 'From Idea to Classroom in Days: Using
 - [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-
-- [[videla-embodied-ai-education-choreography]] — \"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education
+- [[videla-embodied-ai-education-choreography]] — \
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
 - [[vismatic-secure-sandbox-cs-education]] — VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
@@ -997,4 +1006,4 @@
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop
 - [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
-- [[zuo-instructor-power-genai-writing-2026]] — \"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI
+- [[zuo-instructor-power-genai-writing-2026]] — \

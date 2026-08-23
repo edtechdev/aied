@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 159 concepts and 835 articles.
+> Complete text of 159 concepts and 844 articles.
 
 # Concepts
 
@@ -124,6 +124,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
+
+- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 
 ---
 
@@ -346,6 +348,8 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 
 ---
 
@@ -1017,6 +1021,9 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+
 ---
 
 ## [AI Feedback Quality](https://edtechdev.github.io/aied/concepts/ai-feedback-quality/)
@@ -1327,6 +1334,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[social-emotional-learning]] — Social-Emotional Learning
+
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 
 ---
 
@@ -1735,6 +1744,9 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+
 ---
 
 ## [Assistive Technology](https://edtechdev.github.io/aied/concepts/assistive-technology/)
@@ -1913,7 +1925,10 @@ A central design goal within automated assessment is **confidence awareness**: A
 - **Improves measurement validity:** confidence-aware scoring strengthens [[educational-measurement]] and [[assessment-validity]] by making uncertainty explicit.
 - **Fairness and defensibility:** flagging low-confidence cases for review reduces the risk of confidently wrong scores, especially for atypical or underrepresented responses.
 
-### Quality and fairness
+#
+- **Rubric generation and instructor-supervised grading pipelines:** [[harmogen-ai-assessment-rubric-generation|Mendonça et al. (2026)]] show that LLM-generated assessment rubrics (HARMOGEN-R) can match human-created rubrics for technical content within a ±5-point equivalence margin, with structured generation giving greater cross-model consistency. [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] evaluate an end-to-end GPT-4o grading pipeline where AI grades fell within 0.5 points of the instructor in 83% of 362 submissions (MAE 0.31) — best framed as a scalable supplement to, not a replacement for, instructor judgement.
+
+## Quality and fairness
 
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
 
@@ -1977,6 +1992,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 
 ---
 
@@ -2509,7 +2526,10 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
 - **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
-### Why it matters
+#
+- **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
+
+## Why it matters
 
 Accurate diagnosis lets instruction target the actual gaps rather than a global "ability" score — enabling [[automated-assessment]] that explains *why* a student erred and [[feedback|Feedback Loop]] systems that remediate specific [[student-modeling|knowledge states]]. Poor diagnosis produces the inverse: instruction aimed at the wrong concepts. This is why [[psychometrically-aware-ai]] emphasizes diagnostic validity alongside prediction accuracy.
 
@@ -2557,6 +2577,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 
 ---
 
@@ -2597,7 +2618,10 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **Metacognitive laziness and a new metacognitive equity gap:** [[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]], a sector report for Australian schooling, argues the core risk of GenAI is cognitive offloading rather than plagiarism. They adopt **metacognitive laziness** (Fan et al. 2024) — the convenience of AI undermining learners' engagement in essential self-regulatory processes, so learners abdicate metacognitive responsibility to the tool — and introduce a **metacognitive equity gap** (a "Matthew Effect with AI"): because leveraging AI productively requires prior knowledge and metacognition, already-advantaged students benefit more while those who need the practice most are most likely to delegate the learning, widening existing divides. Their proposed remedy is **teacher augmentation** (giving the tool to expert teachers to scale their practice, supported by studies showing teacher-facing AI improves outcomes at far lower cost) rather than student-facing AI tutors, alongside Load Reduction Instruction and metacognitive prompts.
 - **Over-reliance is the leading ethical concern across all conversational-AI generations.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) reports that human–AI relationship concerns — including over-reliance and the diminution of social interaction — are the **most frequently discussed ethical issue across all CAI generations**, predating GenAI. It also lists educational impact and cognitive concerns (including overreliance and degraded critical thinking) as the second most-discussed challenge category, underscoring that offloading's harm is a persistent, cross-generation theme rather than a GenAI-specific novelty.^[[conversational-ai-agents-umbrella-review-2026]]
 
-### Over-reliance: when offloading becomes harmful
+#
+- **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, framing AI as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented teaching and administration.
+
+## Over-reliance: when offloading becomes harmful
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
 
@@ -2752,6 +2776,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 
 ---
 
@@ -3267,6 +3293,8 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[productive-failure]]
 
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+
 ---
 
 ## [CS Education and AI](https://edtechdev.github.io/aied/concepts/cs-education/)
@@ -3418,6 +3446,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 
 ---
 
@@ -5112,6 +5142,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+
 ---
 
 ## [Formative Assessment in AI Education](https://edtechdev.github.io/aied/concepts/formative-assessment/)
@@ -5233,6 +5265,9 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 
 ---
 
@@ -5537,6 +5572,12 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 
 ---
 
@@ -6181,6 +6222,8 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+
 ---
 
 ## [Humanities and Social Science Education](https://edtechdev.github.io/aied/concepts/humanities-education/)
@@ -6307,10 +6350,10 @@ Inclusive learning is the **umbrella** concept; the pages below sit inside it, e
 | **[[inclusive-learning|Inclusive Learning]]** *(this page)* | How do we design education so all learners can meaningfully participate? | The broad design of instruction across learner variability |
 | **[[accessibility]]** | Can everyone perceive and operate the *format/medium*? | Captions, alt text, transcripts, contrast, keyboard/screen-reader compat, WCAG |
 | **[[assistive-technology]]** | What tools/equipment bridge an individual's access gap? | Screen readers, TTS/STT, braille/tactile, captioning, AI accommodations |
-| **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring |
+| **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring — **primarily a K-12 term (IDEA/entitlement)** |
 | **[[universal-design-for-learning]]** | How do we proactively build in flexibility from the start? | Multiple means of engagement, representation, action/expression |
 
-In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities; and **inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
+In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities — and it is primarily a **K-12** term, whereas in **higher education** (and increasingly K-12 too) the more common framing is [[universal-design-for-learning|Universal Design for Learning]]. **Inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
 
 Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
 
@@ -6722,6 +6765,9 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 - **Knowledge tracing and student modeling:** IRT is closely related to [[knowledge-tracing]] and [[student-modeling]] — models that track learner knowledge over time — sharing the goal of estimating unobservable learner states from observable responses.
 - **Bayesian hierarchical field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a Bayesian hierarchical 2PL IRT model (with pre-test anchor items to place 1,686 students on a common θ scale) to show that AI-generated questions match expert-written standardized-exam items in difficulty and discrimination — a large-scale demonstration of IRT as the validation backbone for [[automated-question-generation]].
 
+
+- **Separating human from GenAI responses with person-fit statistics:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] apply person-fit statistics (PFS) within IRT to distinguish human from generative-AI responses on multiple-choice assessments. PFS flag GenAI responses as 'aberrant' responders in two authentic contexts (a chemistry test and a national exam), show that different chatbots produce distinct response patterns (a heterogeneous group of 'intelligences'), and reveal that newer GenAI versions become more human-like — positioning IRT as a robust framework for [[academic-integrity|integrity]] screening in high-stakes testing.
+
 ### Connections
 
 IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], underpins [[adaptive-learning]] (adaptive item selection) and [[student-modeling]], and connects to [[psychometrically-aware-ai]] (AI assessment aligned with measurement theory) and [[knowledge-tracing]]. It features in [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] for programming assessment.
@@ -6749,6 +6795,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
+- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 
 ---
 
@@ -7045,6 +7092,8 @@ Language learning has emerged as a significant AI in education domain because la
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+
 ---
 
 ## [Learning Analytics](https://edtechdev.github.io/aied/concepts/learning-analytics/)
@@ -7111,6 +7160,8 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 
 ---
 
@@ -7607,6 +7658,9 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+
 ---
 
 ## [Math Education](https://edtechdev.github.io/aied/concepts/math-education/)
@@ -7692,6 +7746,8 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
+
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 
 ---
 
@@ -8020,6 +8076,9 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+
 ---
 
 ## [Motivation](https://edtechdev.github.io/aied/concepts/motivation/)
@@ -8036,7 +8095,10 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 **Teacher motivation and persistence** examines motivation among educators. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studies teacher persistence with AI tools, and **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** found need-supportive professional development fosters sustained behavioral engagement in professional learning communities.
 
-### Connections to related concepts
+#
+- **Cross-cultural motivation of future teachers:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al. (2026)]] validated the (D)FIT-Choice scale with 416 student teachers in Switzerland and China, finding Swiss teachers report stronger social utility and intrinsic motivation while Chinese teachers show higher perceived digital competence and enthusiasm for integrating AI — highlighting how cultural and systemic factors shape motivation to shape the future of education with AI.
+
+## Connections to related concepts
 
 Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[student-engagement]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing productive struggle), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
 
@@ -8074,6 +8136,9 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
+
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 
 ---
 
@@ -8585,6 +8650,9 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+
 ---
 
 ## [Training Pedagogical LLMs for Tutoring](https://edtechdev.github.io/aied/concepts/pedagogical-llm-training/)
@@ -9046,6 +9114,8 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 
 ---
 
@@ -10209,7 +10279,10 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 - **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and ethics.
 
-### The ZPD connection
+#
+- **Preferred scaffolding is not always the most effective:** [[preferred-scaffolding-ai-mathematical-modelling|Zhu, Yang and Yang (2026)]] found in a within-subjects experiment that students performed best with Peer and Teaching Assistant AI roles (which foster [[collaborative-learning|collaborative]] reasoning) yet preferred the more directive Tutor and Excellent Student roles — a divergence between preference and performance that cautions against equating learner preference with effective scaffolding in AI-supported mathematical modelling.
+
+## The ZPD connection
 
 [[sociocultural-learning|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
 
@@ -10289,6 +10362,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+
 ---
 
 ## [Self-Determination Theory](https://edtechdev.github.io/aied/concepts/self-determination-theory/)
@@ -10305,7 +10380,10 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 **SDT in affective computing** applies the theory to emotionally intelligent AI agents. **[[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|Zheng et al.]]** developed EmoAgent, an SDT-based emotional agent that proactively detects students' emotional states and provides emotion regulation strategies. An 8-week quasi-experiment with 173 sixth graders showed the SDT-based approach significantly outperformed conventional agents in academic achievement, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on success.
 
-### Connections to related concepts
+#
+- **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
+
+## Connections to related concepts
 
 SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[faculty-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
 
@@ -10330,6 +10408,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[ai-availability-student-motivation]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 
 ---
 
@@ -11016,6 +11095,8 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 > **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. AI in education research in this wiki explores how AI tools can support diverse learner needs through personalization, [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
 
+> ⚠️ **Special Education is primarily a K-12 term.** It is rooted in the U.S. Individuals with Disabilities Education Act (IDEA) and the entitlement-based system of Individualized Education Programs (IEPs) that governs special-education services in primary and secondary schooling. In higher education — and increasingly in K-12 as well — the more common framing is **[[universal-design-for-learning|Universal Design for Learning]]** (a proactive design framework that benefits all learners) alongside [[accessibility]] and [[assistive-technology]] rather than "special education." A K-12 special-education article and a college UDL piece are about overlapping but distinct contexts; the wiki keeps both because the research literature spans both. When a source concerns higher education and disabled learners, it is usually better linked to [[universal-design-for-learning]], [[accessibility]], or [[inclusive-learning]] than to special-education.
+
 Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, AI tutors can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this wiki span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 
 **Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for [[accessibility|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led embodied design. These connect to [[inclusive-learning]] and [[neurodiversity]].
@@ -11386,6 +11467,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[productive-failure]]
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
+
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 
 ---
 
@@ -11823,6 +11906,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 
 ---
 
@@ -11913,6 +11997,9 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
+
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 
 ---
 
@@ -12300,13 +12387,41 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### Connections
 
-UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
+UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a K-12 term), it is often the right page to link for college and university disabled-learner research.
+
+## Implications and examples for instructors and instructional designers
+
+UDL turns "fix the learner" into "fix the design." For instructors and designers working with AI, the three principles translate into concrete moves:
+
+**Engagement — offer multiple ways to spark and sustain motivation.**
+- Let learners choose how they engage: problem-based, game-based, discussion, or self-paced options.
+- Use AI to surface relevance — personalized examples, real-world connections, or choice of topic — rather than a single generic task.
+- *Example:* A course uses AI to generate varied worked examples tied to different learner interests (business, health, arts), letting students pick the context that motivates them.
+
+**Representation — present information in multiple formats.**
+- Offer the same content as text, audio, video, and interactive — AI can auto-generate captions, transcripts, summaries, and alternative explanations at different reading levels.
+- *Example:* An instructor uses an AI assistant to produce a plain-language summary and an audio version of a dense reading, so learners can choose their entry point. Pair with [[accessibility]] (captions, alt text) so every format is usable.
+
+**Action and expression — let learners show what they know in varied ways.**
+- Provide choice of assessment product (essay, presentation, video, diagram, code) aligned to the same learning outcome.
+- *Example:* A project allows submission as a written report, an AI-assisted video explainer, or a live demonstration — with AI scaffolds supporting each mode. In [[assessment]] design, this parallels [[authentic-assessment]]'s representational fairness.
+
+**Design for AI-literacy and agency.**
+- Teach students how and when to use AI, and build checkpoints that keep the learner (not the tool) accountable — see [[ai-literacy]] and [[reducing-ai-misuse]].
+- *Example:* A UDL-aligned assignment lets students use AI to draft but requires a metacognitive reflection on their own contribution, preserving the engagement and agency principles.
+
+**Use AI to remove barriers, not add them.**
+- Deploy AI to close performance gaps (e.g., AI-segmented videos with pauses helped ADHD learners) and to lower the cost of accessible formats.
+- Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility]], [[equity-in-ai-education]], and [[neurodiversity]].
 
 ## Connected Concepts
 
 - [[inclusive-learning]]
+- [[accessibility]]
+- [[assistive-technology]]
 - [[equity-in-ai-education]]
 - [[special-education]]
+- [[neurodiversity]]
 - [[instructional-design]]
 - [[personalized-learning]]
 - [[culturally-relevant-pedagogy]]
@@ -14544,6 +14659,38 @@ The study demonstrates that **AI functions most effectively as a collaborative l
 ## Citation
 
 Putra, A. D., Wijanarko, F., & Safitri, N. (2026). [*Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education*](https://educationresourcescenter.com/jel/article/view/59).
+
+---
+
+## [AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline](https://edtechdev.github.io/aied/articles/ai-assisted-instructor-supervised-grading-feedback/)
+
+> **Synthesis:** Cruz, da Silva, and Mamede (2026) presented the design, deployment, and evaluation of a GPT-4o-based grading and feedback pipeline for a Master's-level Information Systems Project Management course, developed using Design Science Research. The artefact orchestrates submission collection, rubric-based scoring with rubric-linked qualitative feedback, and analytics storage across six case-study assignments, with the AI grader supplementing rather than replacing [[teacher-role|instructor]] grading. Across 362 submissions from 66 students, the AI reproduced the instructor's mark within a pre-specified 0.5-point tolerance in 83% of cases (MAE 0.31). The pipeline operated at EUR 0.55 per student per assignment and delivered feedback within 24 hours, supporting LLMs as scalable assistants for [[formative-assessment]].
+
+## Key Findings
+
+- Across 362 submissions from 66 students, the AI reproduced the instructor's mark within the 0.5-point tolerance in 83% of cases, with a mean absolute error of 0.31 points and small systematic bias of −0.16.
+- Chance-corrected agreement (ICC 0.49) was moderate at best, spanning the poor-to-moderate range, indicating limits on grading reliability.
+- Among 112 survey responses (31% response rate), about 80% rated the feedback useful and 77% accurate.
+- The pipeline operated at EUR 0.55 per student per assignment and delivered feedback within 24 hours, deployed as an instructor supplement under GDPR safeguards.
+
+## Connected Concepts
+
+- [[automated-assessment]]
+- [[llm]]
+- [[feedback]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT formative assessment
+- [[llm-formative-feedback-systematic-review-2026]] — LLM formative feedback systematic review
+
+## Citation
+
+Cruz, L. F., da Silva, M. M., & Mamede, H. S. (2026). [AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline](https://doi.org/10.1016/j.caeo.2026.100411). Computers and Education Open, 100411.
 
 ---
 
@@ -20177,6 +20324,37 @@ Bassett, M. A., Bradshaw, W., Bornsztejn, H., Hogg, A., Murdoch, K., Pearce, B.,
 
 ---
 
+## [Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions](https://edtechdev.github.io/aied/articles/bayesian-cognitive-diagnosis-personalized-learning-paths/)
+
+> **Synthesis:** Feng and Huang (2026) proposed and validated a [[personalized-learning|personalized learning]] path optimization framework that integrates Bayesian cognitive diagnosis, knowledge space theory, and cognitive load theory to address the sparsity of large-scale educational data and the lack of empirical testing of the psychological mechanism behind personalized paths. In the first phase, a Bayesian DINA model was trained on the EdNet public dataset (N=5,000) with a shortest remediation path algorithm; in the second phase, a dataset of 120 students validated the algorithm's effectiveness. The framework demonstrates how Bayesian [[cognitive-diagnosis]] can optimize [[adaptive-learning|adaptive learning]] paths while making the underlying [[cognitive-offloading|cognitive load]] mechanism empirically testable.
+
+## Key Findings
+
+- The framework integrates Bayesian cognitive diagnosis, knowledge space theory, and cognitive load theory to optimize personalized learning paths.
+- A Bayesian DINA model was trained on the EdNet public dataset (N=5,000) and paired with a shortest remediation path algorithm.
+- A second-phase dataset of 120 students validated the algorithm's effectiveness in guiding personalized remediation.
+- The study addresses both the sparsity convergence problem of traditional DINA models and the untested psychological mechanism (cognitive load) underlying personalized path effectiveness.
+
+## Connected Concepts
+
+- [[cognitive-diagnosis]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[learning-analytics]]
+- [[math-education]]
+
+## Connected Articles
+
+- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
+- [[xie-hillm-cd-2026]] — HI-LLM for cognitive diagnosis
+- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
+
+## Citation
+
+Feng, Z., & Huang, K. (2026). [Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions](https://doi.org/10.3389/fpsyg.2026.1879982). Frontiers in Psychology, 17, 1879982.
+
+---
+
 ## [AICoFE: AI-Powered Feedback System](https://edtechdev.github.io/aied/articles/becerra-aicofe-feedback-2026/)
 
 > **AICoFE** (AI-based Collaborative Feedback) is a multi-LLM feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving pedagogical authority through Learning Analytics dashboards.
@@ -21736,6 +21914,38 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 ## Citation
 
 Li, C., Cui, H., & Hagedorn, L. S. (2026). [*The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes*](https://www.sciencedirect.com/science/article/pii/S2666920X26000330). *Computers and Education: Artificial Intelligence*.
+
+---
+
+## [Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution](https://edtechdev.github.io/aied/articles/chatgpt-english-language-learning-malaysia/)
+
+> **Synthesis:** Annamalai and colleagues (2026) conducted a qualitative thematic analysis with 25 students from a Malaysian higher education institution to understand their [[motivation]] for using ChatGPT in [[language-learning|English language learning]]. Grounded in [[self-determination-theory|Self-Determination Theory]] (SDT), the results demonstrated that ChatGPT contributes positively to English language competence, social connections, and independent learning processes. ChatGPT emerged as a helpful resource for enhancing grammar, [[writing-education|writing]], and conversational tasks, supporting learners' autonomy, relatedness, and competence. The study suggests ChatGPT allows [[teacher-role|educators]] to prioritize [[critical-thinking|higher-order thinking]] abilities and intricate areas of language training.
+
+## Key Findings
+
+- ChatGPT contributes positively to English language competence, social connections, and independent learning processes for Malaysian university students.
+- The tool emerged as a helpful resource for enhancing grammar, writing, and conversational tasks in English learning.
+- ChatGPT supports learners' autonomy, relatedness, and competence—the three key components of Self-Determination Theory.
+- By handling foundational language tasks, ChatGPT allows educators to prioritize higher-order thinking and intricate areas of language training.
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[generative-ai]]
+- [[self-determination-theory]]
+- [[higher-ed]]
+- [[motivation]]
+- [[pedagogical-agent]]
+
+## Connected Articles
+
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
+- [[genai-pronunciation-feedback-wtc-2026]] — GenAI pronunciation feedback and willingness to communicate
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+
+## Citation
+
+Annamalai, N., Nasor, M., Din Eak, A., & Alkubaisy, A. A. A. (2026). [Students' experiences of using ChatGPT for English language learning: A qualitative study in a Malaysian higher education institution](https://doi.org/10.3389/fpsyg.2026.1875727). Frontiers in Psychology, 17, 1875727.
 
 ---
 
@@ -32113,6 +32323,38 @@ Hao, Z., Liu, X., Fan, J., Long, Y., Yu, J., Chen, W., & Zhang, Y. (2026). [*Unp
 
 ---
 
+## [A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course](https://edtechdev.github.io/aied/articles/harmogen-ai-assessment-rubric-generation/)
+
+> **Synthesis:** Mendonça and colleagues (2026) introduced HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning), a framework that uses reasoning-enhanced [[llm|Large Language Models]] for initial assessment rubric generation and standard models for synthesis. Using a within-subjects design, they compared four AI-generated rubrics with a human-created baseline across 308 open-ended responses from three [[formative-assessment|formative]] programming assignments in an [[higher-ed|undergraduate]] [[cs-education|computer science]] course. When applied by human evaluators, all AI-generated rubrics met pooled equivalence within an operational ±5-point margin, with correlations from 0.948 to 0.973. The findings indicate that AI-generated rubrics can achieve scoring comparability with human-created rubrics for technical content, supporting scalable [[formative-assessment]].
+
+## Key Findings
+
+- All AI-generated rubrics met pooled equivalence within a ±5-point margin when used by human evaluators (correlations 0.948–0.973, quadratic weighted kappa 0.929–0.988).
+- At the assignment and question-type level, five cells exceeded the margin, and OpenAI Structured was the only source meeting equivalence across all assignments.
+- In automated evaluation, equivalence depended on the evaluator model: DeepSeek V3 met equivalence for all rubric sources, whereas GPT-4.1 and GPT-4o showed systematic negative deviations.
+- Structured rubric generation showed higher cross-model consistency than free-form, and DeepSeek- and OpenAI-generated rubrics were broadly equivalent in most conditions.
+
+## Connected Concepts
+
+- [[automated-assessment]]
+- [[formative-assessment]]
+- [[llm]]
+- [[generative-ai]]
+- [[assessment]]
+- [[cs-education]]
+
+## Connected Articles
+
+- [[llm-automated-assessment-student-self-explanations]] — LLM automated assessment of student self-explanations
+- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid e-assessment with semi-automated grading
+- [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments
+
+## Citation
+
+Mendonça, P. C., Quintal, F., Figueiredo, M., Baras, K., & Mendonça, F. (2026). [A hybrid reasoning framework for artificial intelligence assessment rubric generation in human and automated contexts: Evidence from an undergraduate programming course](https://doi.org/10.1016/j.caeai.2026.100663). Computers and Education: Artificial Intelligence, 100663.
+
+---
+
 ## [Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges](https://edtechdev.github.io/aied/articles/harnessing-ai-preservice-teachers-scoping-2026/)
 
 > **Synthesis:** Ziying, Yongchun, and Qiaoping (2026) conduct a PRISMA-ScR scoping review of 55 empirical studies (2020–2025) examining how artificial intelligence is applied in the [[teacher-education]] of preservice teachers. Following Arksey and O'Malley's five-stage framework and reflexive thematic analysis, they searched Web of Science, ScienceDirect, and EBSCOhost, screening 1,688 records down to 55 studies involving 3,098 preservice teachers across 18 countries. They map a diverse landscape of AI applications, technologies, and subject distributions, finding that AI acts as both a *cognitive partner* and a *practice simulator* across six application scenarios. AI enhances [[instructional-design]], subject-specific instruction, practical teaching skills, evaluation efficiency, reflective practice, [[critical-thinking]], technology integration ([[tpack]]), and pedagogical innovation. However, the integration is a "dual-edged force": alongside the benefits sit four categories of challenges — technical limitations, the risk of [[cognitive-offloading|Over-Reliance]], ethical and social concerns, and implementation barriers — underscoring the need for ethical and pedagogical grounding in teacher preparation.
@@ -34007,6 +34249,37 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 ## Citation
 
 Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). [Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation](https://arxiv.org/abs/2605.15127). arXiv:2605.15127.
+
+---
+
+## [Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments](https://edtechdev.github.io/aied/articles/irt-human-genai-mcq-responses/)
+
+> **Synthesis:** Strugatski and Alexandron (2026) established a theoretical and empirical foundation for using [[item-response-theory|Item Response Theory]] to separate [[generative-ai|generative AI]] and human responses to multiple-choice assessments. They investigated whether person-fit statistics (PFS), which evaluate how well an examinee's response pattern fits IRT model expectations, can distinguish between GenAI and human responses. Using data from two [[authentic-assessment|authentic assessment]] contexts—a high-school chemistry test and a national university entrance exam, each with roughly 1000 human respondents—they demonstrated that PFS reveal significant differences between human responses and those generated by advanced chatbots, which appear as 'aberrant' responders. The study positions IRT as a robust framework for characterizing and separating human and GenAI response patterns, supporting [[academic-integrity]] in high-stakes testing.
+
+## Key Findings
+
+- Person-fit statistics reveal significant differences between human responses and those generated by advanced chatbots (ChatGPT, Claude, Gemini), which appear as 'aberrant' responders.
+- Different chatbots present significantly different response patterns, so they should be treated as a heterogeneous group of 'intelligences' rather than a single one.
+- Newer GenAI versions not only improve in performance but also become more 'human-like' in their response patterns, complicating detection.
+- The work positions IRT as a robust framework for characterizing and separating human and GenAI response patterns in MCQ assessments.
+
+## Connected Concepts
+
+- [[item-response-theory]]
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[llm]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[automated-online-exam-proctoring-decade-review-2026]] — Automated online exam proctoring review
+- [[multimodal-item-parameter-estimation-2026]] — Multimodal item parameter estimation
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI evaluate assessment
+
+## Citation
+
+Strugatski, A., & Alexandron, G. (2026). [Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments](https://doi.org/10.1016/j.caeai.2026.100668). Computers and Education: Artificial Intelligence, 100668.
 
 ---
 
@@ -39911,6 +40184,37 @@ Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital
 
 ---
 
+## [Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China](https://edtechdev.github.io/aied/articles/motivation-shape-future-education-ai-switzerland-china/)
+
+> **Synthesis:** Martínez-Moreno and colleagues (2026) cross-culturally validated the (D)FIT-Choice (Digital Factors Influencing Teaching Choice) scale and examined [[motivation|motivational]] differences among 416 student teachers in Switzerland and China. Swiss student teachers reported stronger social utility values and intrinsic motivations, while Chinese student teachers showed higher perceived digital teaching competence and greater enthusiasm for integrating AI into education. The results reveal different levels of willingness to shape the future of education with AI, highlighting how cultural and systemic factors influence the motivation of student teachers. The study emphasizes adapting [[teacher-education]] to local contexts to prepare future teachers for the digital transformation of education.
+
+## Key Findings
+
+- The (D)FIT-Choice scale received partial cross-cultural validation, with several higher-order factors showing acceptable to strong internal consistency but limitations in model fit for some factors.
+- Swiss student teachers reported stronger social utility values and intrinsic motivations than their Chinese counterparts.
+- Chinese student teachers showed higher perceived digital teaching competence and greater enthusiasm for integrating AI into education.
+- The results highlight how sociocultural, economic, and technological contexts shape the motivations of future teachers and their willingness to shape the future of education with AI.
+
+## Connected Concepts
+
+- [[motivation]]
+- [[teacher-education]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions and motivation among students and teachers
+- [[mathematics-teachers-chatbot-motivation-2026]] — Mathematics teachers' chatbot motivation
+- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education
+
+## Citation
+
+Martínez-Moreno, J., Zhou, X., Petko, D., & Chiu, T. K. F. (2026). [Motivation to shape the future of education with artificial intelligence: An international comparison between Switzerland and China](https://doi.org/10.1016/j.caeo.2025.100327). Computers and Education Open, 10, 100327.
+
+---
+
 ## [Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics](https://edtechdev.github.io/aied/articles/mujib-ai-ibl-creative-math-2026/)
 
 > **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical problem-solving skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports creativity and affective development, with limited effect on problem-solving.
@@ -42942,6 +43246,38 @@ Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision
 
 ---
 
+## [Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling](https://edtechdev.github.io/aied/articles/preferred-scaffolding-ai-mathematical-modelling/)
+
+> **Synthesis:** Zhu, Yang, and Yang (2026) investigated how different AI interaction roles function as [[scaffolding]] strategies in AI-assisted mathematical modelling. In a randomized within-subjects experiment with 26 university students, they compared five AI roles—Tutor, Teaching Assistant, Peer, Excellent Student, and Struggling Student—on modelling competency, role preference, and learning experience. Students demonstrated higher modelling competency with the Peer and Teaching Assistant roles, which fostered [[collaborative-learning|collaborative]] reasoning, yet expressed stronger preferences for the Tutor and Excellent Student roles offering explicit guidance. The study reveals a notable divergence between learning performance and role preference, highlighting the importance of balancing cognitive scaffolding with collaborative sense-making in mathematics education.
+
+## Key Findings
+
+- Students demonstrated higher modelling competency when interacting with the Peer and Teaching Assistant roles, which fostered [[collaborative-learning|collaborative]] reasoning and co-construction of ideas.
+- Despite lower performance, students expressed stronger preferences for the Tutor and Excellent Student roles, which provided more explicit guidance and structured explanations.
+- The Struggling Student role was consistently perceived as least supportive across both performance and preference measures.
+- The findings highlight a divergence between performance and pedagogical role preference, informing design of adaptive, learner-centered AI-supported modelling environments.
+
+## Connected Concepts
+
+- [[scaffolding]]
+- [[math-education]]
+- [[generative-ai]]
+- [[pedagogical-agent]]
+- [[student-engagement]]
+- [[adaptive-learning]]
+
+## Connected Articles
+
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL with ChatGPT scaffolding
+- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding for independent learning
+- [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
+
+## Citation
+
+Zhu, W., Yang, Y., & Yang, Y. (2026). [Preferred scaffolding does not lead to better learning performance: Empirical evidence from AI-supported mathematical modelling](https://doi.org/10.1016/j.caeai.2026.100669). Computers and Education: Artificial Intelligence, 100669.
+
+---
+
 ## [How Human-Centered Is AI-Aided Learning in Education?](https://edtechdev.github.io/aied/articles/prezenski-human-centered-ai-aided-learning/)
 
 ## Summary
@@ -44116,6 +44452,39 @@ This review provides a structured map of the AIED landscape during the LLM era (
 ## Citation
 
 Raza, S. H., & Farooq, A. (2025). [*Review of Artificial Intelligence in Education from 2020 to 2025*](https://doi.org/10.35542/osf.io/6bnez_v1). EdArXiv. doi:10.35542/osf.io/6bnez_v1.
+
+---
+
+## [Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence](https://edtechdev.github.io/aied/articles/reconceptualizing-community-inquiry-generative-ai/)
+
+> **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[higher-ed|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and instructors. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an epistemic condition that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
+
+## Key Findings
+
+- GenAI can produce fluent discourse resembling strong cognitive, social, or teaching presence without reflecting learners' actual thinking, relationships, or regulatory intentions.
+- The paper reinterprets cognitive, social, and teaching presence as sociotechnical accomplishments of human-GenAI assemblages rather than purely human activity.
+- It proposes a configuration-based heuristic suggesting the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
+- CoI evaluation needs process-sensitive evidence (prompting and revision traces, disclosure and attribution practices, verification moves, interaction logs) rather than inference from polished final texts.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[llm]]
+- [[critical-thinking]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[assessment]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
+- [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
+- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with GenAI
+
+## Citation
+
+Ba, S., Gašević, D., Lim, C.-P., & Anderson, T. (2026). [Reconceptualizing community of inquiry in the age of generative artificial intelligence](https://doi.org/10.1016/j.caeai.2026.100671). Computers and Education: Artificial Intelligence, 100671.
 
 ---
 
@@ -49273,6 +49642,38 @@ Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026). [Ba
 ## Citation
 
 Velander, J. (2026). [*Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning*](https://doi.org/10.1016/j.caeo.2026.100371). *Computers and Education Open*, 100371. https://doi.org/10.1016/j.caeo.2026.100371
+
+---
+
+## [Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice](https://edtechdev.github.io/aied/articles/teachers-reflective-regulators-cognition-offloading/)
+
+> **Synthesis:** Ho and Chen (2026) investigated how in-service teachers perceive, manage, and reflect on the cognitive implications of integrating [[generative-ai|generative AI]] into their professional practice. Using a collective case-study design, they interviewed 18 [[teacher-role|teachers]] in mainland Chinese and Hong Kong settings and applied the [[cognitive-offloading]] framework to guide data collection and thematic coding. Teachers generally framed GenAI not as a substitute for thinking but as a partner in cognitive regulation shaped by institutional and [[ethics|ethical]] contexts. Building on Risko and Gilbert's framework, the study proposes a *[[metacognition|metacognitive ecology]]* lens for understanding how cognitive monitoring, [[pedagogy|pedagogical]] interpretation, ethical boundary-setting, and institutional conditions shape GenAI-mediated cognitive redistribution.
+
+## Key Findings
+
+- Three interrelated processes emerged: recognising and evaluating the need to use GenAI, redistributing cognition between human and machine systems, and reflectively re-engaging after use.
+- Teachers treated GenAI as a reflective partner in cognition rather than a replacement, emphasising the evolving interplay between human judgment and automation.
+- The study extends cognitive offloading theory to professional AI judgment, identifying 'professional drift' as a risk in AI-mediated teaching.
+- [[ai-literacy|AI literacy]] was reframed as the reflective and ethical regulation of cognition, linking cognition, ethics, and identity in what the authors call a metacognitive ecology.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[generative-ai]]
+- [[teacher-role]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[cognitive-offloading-metacognitive-review-2026]] — Cognitive offloading and metacognition review
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading and critical thinking
+- [[lodge-loble-cognitive-offloading-2026]] — Cognitive offloading and learning
+
+## Citation
+
+Ho, C. S. M., & Chen, J. (2026). [Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice](https://doi.org/10.1016/j.caeai.2026.100670). Computers and Education: Artificial Intelligence, 11, 100670.
 
 ---
 

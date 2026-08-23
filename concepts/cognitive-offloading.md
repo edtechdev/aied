@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -42,7 +42,10 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **Metacognitive laziness and a new metacognitive equity gap:** [[lodge-loble-cognitive-offloading-2026|Lodge & Loble (2026)]], a sector report for Australian schooling, argues the core risk of GenAI is cognitive offloading rather than plagiarism. They adopt **metacognitive laziness** (Fan et al. 2024) — the convenience of AI undermining learners' engagement in essential self-regulatory processes, so learners abdicate metacognitive responsibility to the tool — and introduce a **metacognitive equity gap** (a "Matthew Effect with AI"): because leveraging AI productively requires prior knowledge and metacognition, already-advantaged students benefit more while those who need the practice most are most likely to delegate the learning, widening existing divides. Their proposed remedy is **teacher augmentation** (giving the tool to expert teachers to scale their practice, supported by studies showing teacher-facing AI improves outcomes at far lower cost) rather than student-facing AI tutors, alongside Load Reduction Instruction and metacognitive prompts.
 - **Over-reliance is the leading ethical concern across all conversational-AI generations.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) reports that human–AI relationship concerns — including over-reliance and the diminution of social interaction — are the **most frequently discussed ethical issue across all CAI generations**, predating GenAI. It also lists educational impact and cognitive concerns (including overreliance and degraded critical thinking) as the second most-discussed challenge category, underscoring that offloading's harm is a persistent, cross-generation theme rather than a GenAI-specific novelty.^[[conversational-ai-agents-umbrella-review-2026]]
 
-### Over-reliance: when offloading becomes harmful
+#
+- **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, framing AI as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented teaching and administration.
+
+## Over-reliance: when offloading becomes harmful
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
 
@@ -198,3 +201,4 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition

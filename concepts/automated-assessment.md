@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-21T19:04:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -49,7 +49,10 @@ A central design goal within automated assessment is **confidence awareness**: A
 - **Improves measurement validity:** confidence-aware scoring strengthens [[educational-measurement]] and [[assessment-validity]] by making uncertainty explicit.
 - **Fairness and defensibility:** flagging low-confidence cases for review reduces the risk of confidently wrong scores, especially for atypical or underrepresented responses.
 
-### Quality and fairness
+#
+- **Rubric generation and instructor-supervised grading pipelines:** [[harmogen-ai-assessment-rubric-generation|Mendonça et al. (2026)]] show that LLM-generated assessment rubrics (HARMOGEN-R) can match human-created rubrics for technical content within a ±5-point equivalence margin, with structured generation giving greater cross-model consistency. [[ai-assisted-instructor-supervised-grading-feedback|Cruz et al. (2026)]] evaluate an end-to-end GPT-4o grading pipeline where AI grades fell within 0.5 points of the instructor in 83% of 362 submissions (MAE 0.31) — best framed as a scalable supplement to, not a replacement for, instructor judgement.
+
+## Quality and fairness
 
 Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
 
@@ -113,3 +116,5 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback

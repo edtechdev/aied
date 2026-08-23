@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-15T03:36:31-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 confidence: high
@@ -19,7 +19,10 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 **SDT in affective computing** applies the theory to emotionally intelligent AI agents. **[[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|Zheng et al.]]** developed EmoAgent, an SDT-based emotional agent that proactively detects students' emotional states and provides emotion regulation strategies. An 8-week quasi-experiment with 173 sixth graders showed the SDT-based approach significantly outperformed conventional agents in academic achievement, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on success.
 
-### Connections to related concepts
+#
+- **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
+
+## Connections to related concepts
 
 SDT connects directly to [[motivation]] as its parent construct, to [[affective-computing]] and [[affective-tutoring]] for emotion-aware AI design, and to [[student-experience]] for how learners experience AI-mediated environments. The theory's emphasis on autonomy connects to [[self-regulated-learning]], while its competence dimension connects to [[self-efficacy-tutoring-learning]] and [[teacher-ai-competency]]. SDT is particularly relevant to [[professional-training]] and [[faculty-development]] because need-supportive design is a transferable principle for preparing educators to use AI.
 
@@ -44,3 +47,4 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[ai-availability-student-motivation]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning

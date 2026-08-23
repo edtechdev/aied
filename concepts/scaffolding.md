@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -19,7 +19,10 @@ confidence: high
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 - **"Scaffold, do not substitute" as a design principle:** [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al. (2026)]] argue that the central risk of AI in education is misalignment — AI that substitutes for human effort erodes the capacities education is meant to build — and derive a single design principle, *scaffold, do not substitute*. Scaffolding must be a first-class capability of AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. Their analysis of student essays shows learners themselves converge on this — asking for AI that "does not provide any solutions for you, you still learn as you have to find the correct answer yourself." The principle positions scaffolding as the alternative to a self-reinforcing harm cycle of substitution across cognition, agency, emotion, and ethics.
 
-### The ZPD connection
+#
+- **Preferred scaffolding is not always the most effective:** [[preferred-scaffolding-ai-mathematical-modelling|Zhu, Yang and Yang (2026)]] found in a within-subjects experiment that students performed best with Peer and Teaching Assistant AI roles (which foster [[collaborative-learning|collaborative]] reasoning) yet preferred the more directive Tutor and Excellent Student roles — a divergence between preference and performance that cautions against equating learner preference with effective scaffolding in AI-supported mathematical modelling.
+
+## The ZPD connection
 
 [[sociocultural-learning|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
 
@@ -99,3 +102,4 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling

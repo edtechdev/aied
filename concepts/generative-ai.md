@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T08:07:04-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -177,3 +177,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+- [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
