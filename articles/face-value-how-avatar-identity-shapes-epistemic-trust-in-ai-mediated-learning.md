@@ -21,7 +21,7 @@ Two experiments examined how avatar race, gender, and age shape [[trust]] in [[a
 - [[socratic-method]]
 - [[math-education]]
 - [[higher-ed]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 

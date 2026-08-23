@@ -14,11 +14,11 @@ confidence: high
 
 LUDIA is a no-cost, private, multilingual AI thought partner that connects educators with the Universal Design for Learning (UDL) framework. This statement describes the August 2026 relaunch rebuilt for privacy (no accounts, no cookies, no data collection), accessibility (WCAG 2.2 Level AA), and scale (13 languages, public-good architecture). The tool is positioned as a thought partner rather than content generator, and is evaluated against four 2026 guides from UNICEF, the European Commission, the EdTech Quality Collaborative, and the European EdTech Alliance.
 
-The work contributes to understanding of [[universal-design-for-learning]] in educational contexts, with implications for [[accessible-learning]], [[professional-training]].
+The work contributes to understanding of [[universal-design-for-learning]] in educational contexts, with implications for [[inclusive-learning]], [[professional-training]].
 
 ## Connected Concepts
 - [[universal-design-for-learning]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[professional-training]]
 - [[instructional-design]]
 - [[equity-in-ai-education]]

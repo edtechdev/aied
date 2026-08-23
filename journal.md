@@ -1,8 +1,28 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 989
+**Last updated:** 2026-08-23 | **Total entries:** 994
 
 ## 2026-08-23
+
+- ● [[assistive-technology]] — 
+  Assistive Technology
+  #assistive-technology #accessibility #special-education #inclusive-learning #equity-in-ai-education #instructional-design
+
+- ● [[accessibility]] — 
+  Accessibility
+  #accessibility #inclusive-learning #special-education #universal-design-for-learning #assistive-technology #equity-in-ai-education #instructional-design
+
+- ◐ [[zhang-ai-students-disabilities-meta-analysis-2024]] — raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md
+  Let's Chat About Artificial Intelligence for Students With Disabilities: A Meta-Analysis
+  #special-education #inclusive-learning #accessibility #learning-gains #educational-robotics
+
+- ◐ [[shin-ai-policies-sld-2026]] — raw/papers/shin-ai-policies-sld-2026.md
+  Addressing the Void of AI Policies in Education for Students With Specific Learning Disabilities
+  #special-education #inclusive-learning #accessibility #educational-policy-ai #equity-in-ai-education
+
+- ◐ [[ikram-ai-personalized-learning-review-2026]] — raw/papers/ikram-ai-personalized-learning-review-2026.md
+  Artificial Intelligence in Education: A Systematic Review of Personalized Learning Trends and Future Directions
+  #personalized-learning #adaptive-learning #ai-education #generative-ai #systematic-review
 
 - ◐ [[guillen-curriculum-genai-teacher-competence-2026]] — raw/papers/guillen-curriculum-genai-teacher-competence-2026.md
   Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence
@@ -534,11 +554,11 @@
 
 - ● [[multilingual-learning]] — 
   Multilingual Learning
-  #multilingual-learning #language-learning #equity-in-ai-education #global-south #digital-divide #culturally-relevant-pedagogy #accessible-learning #llm
+  #multilingual-learning #language-learning #equity-in-ai-education #global-south #digital-divide #culturally-relevant-pedagogy #inclusive-learning #llm
 
 - ◐ [[multilingual-adaptive-learning-nigeria-2026]] — raw/papers/2608.15738.md
   An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria
-  #adaptive-learning #multilingual-learning #global-south #llm #equity-in-ai-education #personalized-learning #culturally-relevant-pedagogy #digital-divide #accessible-learning
+  #adaptive-learning #multilingual-learning #global-south #llm #equity-in-ai-education #personalized-learning #culturally-relevant-pedagogy #digital-divide #inclusive-learning
 
 - ◐ [[sc2r-counterfactual-recourse-educational-2026]] — raw/papers/2608.17618.md
   From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support
@@ -588,7 +608,7 @@
 
 - ◐ [[llm-question-generation-deaf-hard-of-hearing-2026]] — raw/papers/10.1016_j.caeai.2026.100615.md
   Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners
-  #llm #generative-ai #special-education #accessible-learning #automated-question-generation #online-learning #equity #k-12 #higher-ed #student-experience
+  #llm #generative-ai #special-education #inclusive-learning #automated-question-generation #online-learning #equity #k-12 #higher-ed #student-experience
 
 - ◐ [[assessment-latent-structure-human-llm-2026]] — raw/papers/assessment-latent-structure-human-llm-2026.md
   Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
@@ -650,7 +670,7 @@
 
 - ◐ [[prompt-privilege-equitable-ai-access-2026]] — raw/papers/2608.08942.md
   Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access
-  #equity-in-ai-education #ai-literacy #prompt-engineering #digital-divide #llm #bias-mitigation #accessible-learning
+  #equity-in-ai-education #ai-literacy #prompt-engineering #digital-divide #llm #bias-mitigation #inclusive-learning
 
 - ◐ [[think-first-chatgpt-later-2026]] — raw/papers/10.1007_s10648-026-10118-7.md
   Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity
@@ -1104,7 +1124,7 @@
 
 - ◐ [[bilingual-llm-lecture-companion-srl-2026]] — raw/papers/bilingual-llm-lecture-companion-srl-2026.md
   A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol
-  #llm #self-regulated-learning #language-learning #multilingual-learning #accessible-learning #mobile-learning #higher-ed #generative-ai #inclusive-education #global-south
+  #llm #self-regulated-learning #language-learning #multilingual-learning #inclusive-learning #mobile-learning #higher-ed #generative-ai #inclusive-education #global-south
 
 - ◐ [[academic-league-of-ai-2026]] — raw/papers/2608.13447.md
   Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension
@@ -1420,7 +1440,7 @@
 
 - ● [[universal-design-for-learning]] — 
   Universal Design for Learning
-  #accessible-learning #equity #special-education #instructional-design #student-experience #inclusive-design
+  #inclusive-learning #equity #special-education #instructional-design #student-experience #inclusive-design
 
 - ● [[trust-calibration]] — 
   Trust Calibration
@@ -1436,7 +1456,7 @@
 
 - ● [[neurodiversity]] — 
   Neurodiversity
-  #special-education #accessible-learning #student-experience #equity #inclusive-design #neurodiversity
+  #special-education #inclusive-learning #student-experience #equity #inclusive-design #neurodiversity
 
 - ● [[reducing-ai-misuse]] — 
   Reducing AI Misuse
@@ -1836,10 +1856,6 @@
   Math Education
   #math-education #stem-education #intelligent-tutoring #intelligent-tutoring #k-12 #generative-ai #higher-ed #student-experience #scaffolding
 
-- ● [[accessible-learning]] — 
-  Accessible Learning
-  #accessible-learning #equity #special-education #instructional-design #neurodiversity #universal-design-for-learning #ai-education #higher-ed
-
 - ● [[ai-feedback-quality]] — 
   AI Feedback Quality
   #ai-feedback-quality #formative-assessment #automated-assessment #feedback #generative-ai #ai-literacy
@@ -1884,6 +1900,10 @@
   Language Learning
   #language-learning #ai-education #generative-ai #writing-education #higher-ed #k-12 #equity
 
+- ● [[inclusive-learning]] — 
+  Inclusive Learning
+  #inclusive-learning #equity #special-education #instructional-design #neurodiversity #universal-design-for-learning #ai-education #higher-ed
+
 - ● [[multimodal]] — 
   Multimodal AI
   #ai-education #generative-ai #multimodal #llm #intelligent-tutoring #ai-literacy #assessment #educational-measurement #stem-education #higher-ed
@@ -1894,7 +1914,7 @@
 
 - ● [[special-education]] — 
   Special Education
-  #special-education #accessible-learning #equity #neurodiversity #ai-education #k-12 #higher-ed
+  #special-education #inclusive-learning #equity #neurodiversity #ai-education #k-12 #higher-ed
 
 - ● [[faculty-development]] — 
   Faculty Development
@@ -2134,7 +2154,7 @@
 
 - ◐ [[behaviorally-adaptive-visual-diversion-assessment-2026]] — raw/papers/2608.03531.md
   Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
-  #assessment #accessible-learning #privacy #academic-integrity #equity #adaptive-learning #higher-ed
+  #assessment #inclusive-learning #privacy #academic-integrity #equity #adaptive-learning #higher-ed
 
 ## 2026-08-04
 
@@ -2536,7 +2556,7 @@
 
 - ◐ [[adhd-video-segmentation-computing-education]] — raw/papers/2607.24612.md
   Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
-  #accessible-learning #cs-education #instructional-design #neurodiversity #llm
+  #inclusive-learning #cs-education #instructional-design #neurodiversity #llm
 
 - ◐ [[student-cheat-sheets-make-or-take]] — raw/papers/2607.24736.md
   Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets
@@ -3908,7 +3928,7 @@
 
 - ● [[equity-in-ai-education]] — 
   Equity in AI Education
-  #equity #accessible-learning #culturally-relevant-pedagogy #digital-divide #bias-mitigation #ai-literacy #higher-ed #k-12 #generative-ai #student-experience #teacher-role #intelligent-tutoring #language-learning #neurodiversity
+  #equity #inclusive-learning #culturally-relevant-pedagogy #digital-divide #bias-mitigation #ai-literacy #higher-ed #k-12 #generative-ai #student-experience #teacher-role #intelligent-tutoring #language-learning #neurodiversity
 
 - ● [[teacher-ai-competency]] — 
   Teacher AI Competency

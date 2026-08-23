@@ -37,7 +37,7 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[special-education]]
 - [[ai-literacy]]
 - [[ethics]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[culturally-relevant-pedagogy]]
 ## Connected Articles
 
