@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -164,4 +164,8 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 

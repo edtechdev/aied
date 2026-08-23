@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-22T17:35:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
 confidence: high
@@ -91,4 +91,5 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 

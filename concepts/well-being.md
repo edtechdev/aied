@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, mental-health, motivation]
 confidence: high
@@ -48,3 +48,5 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
 - [[sovereign-hive-titl-further-education-2026]]
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+

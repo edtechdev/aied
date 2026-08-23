@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -96,4 +96,6 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
+- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 

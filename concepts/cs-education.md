@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T04:52:33-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -153,3 +153,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+

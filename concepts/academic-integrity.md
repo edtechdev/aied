@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T17:45:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
@@ -125,4 +125,5 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 

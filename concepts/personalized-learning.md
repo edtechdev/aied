@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
@@ -102,3 +102,5 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
 
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
