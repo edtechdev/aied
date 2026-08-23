@@ -20,7 +20,7 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - [[student-experience]]
 - [[collaborative-learning]]
 - [[neurodiversity]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[active-learning]]
 - [[scaffolding]]
 ## Connected Articles

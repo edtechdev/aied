@@ -27,7 +27,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[ai-education]]
 - [[intelligent-tutoring]]
 - [[equity-in-ai-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[special-education]]
 - [[universal-design-for-learning]]
 - [[neurodiversity]]

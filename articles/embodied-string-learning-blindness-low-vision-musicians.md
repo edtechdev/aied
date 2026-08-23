@@ -10,7 +10,7 @@ confidence: high
 
 Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
 
-The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[accessible-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
+The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[inclusive-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
 
 ## Key Findings
 
@@ -21,12 +21,12 @@ The work extends [[special-education]] and special-education-ai by centring disa
 
 ## Implications
 
-This design study exemplifies [[embodied-learning]] and the principle that inclusive instruction is best designed with disabled learners, not merely adapted for them. It connects to [[universal-design-for-learning]] and [[accessible-learning]] frameworks, and suggests that AI or multimodal support for one-on-one performance training should preserve tactile and kinesthetic channels rather than defaulting to visual feedback.
+This design study exemplifies [[embodied-learning]] and the principle that inclusive instruction is best designed with disabled learners, not merely adapted for them. It connects to [[universal-design-for-learning]] and [[inclusive-learning]] frameworks, and suggests that AI or multimodal support for one-on-one performance training should preserve tactile and kinesthetic channels rather than defaulting to visual feedback.
 
 ## Connected Concepts
 
 - [[special-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[embodied-learning]]

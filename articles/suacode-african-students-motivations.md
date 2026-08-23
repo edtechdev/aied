@@ -8,7 +8,7 @@ sources: ['raw/papers/2607.22940.md']
 confidence: high
 ---
 
-Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI teaching assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[accessible-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
+Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI teaching assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[inclusive-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ Studying why learners enroll grounds course design in actual learner needs, conn
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[cs-education]]
 - [[ai-literacy]] — building foundational skills for the AI era
 - [[motivation]] — understanding enrollment drivers

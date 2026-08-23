@@ -55,7 +55,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[educational-nlp]]
 - [[llm]]
 ## Connected Articles

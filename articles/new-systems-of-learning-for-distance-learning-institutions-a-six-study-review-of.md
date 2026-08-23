@@ -24,7 +24,7 @@ This is a six-study, 18-month Design-Based Research (DBR) programme conducted at
 
 ## Implications for AI in Education
 
-The study offers practical guidance for higher education (especially distance learning) institutions seeking to adopt GenAI ethically, transparently, and at scale. It demonstrates that purpose-built, contextually tuned AI assistants embedded within the learning environment (as opposed to generic external chatbots) can enhance engagement and perceived value, provided development is participatory (co-designed with students and staff) and integration aligns with institutional strategy. It highlights the unique position of distance learning institutions — where 70% of "students" are already in/at work and where in-person invigilation for academic integrity is unfeasible — making responsible, human-centred GenAI design a particular priority. It connects to [[higher-ed]], [[generative-ai]], [[privacy]], [[human-in-the-loop-ai]], [[learning-analytics]], [[adult-learning]], and [[accessible-learning]], and cautions against over-reliance on tools without organisational readiness and [[governance]].
+The study offers practical guidance for higher education (especially distance learning) institutions seeking to adopt GenAI ethically, transparently, and at scale. It demonstrates that purpose-built, contextually tuned AI assistants embedded within the learning environment (as opposed to generic external chatbots) can enhance engagement and perceived value, provided development is participatory (co-designed with students and staff) and integration aligns with institutional strategy. It highlights the unique position of distance learning institutions — where 70% of "students" are already in/at work and where in-person invigilation for academic integrity is unfeasible — making responsible, human-centred GenAI design a particular priority. It connects to [[higher-ed]], [[generative-ai]], [[privacy]], [[human-in-the-loop-ai]], [[learning-analytics]], [[adult-learning]], and [[inclusive-learning]], and cautions against over-reliance on tools without organisational readiness and [[governance]].
 
 ## Limitations
 
@@ -39,7 +39,7 @@ The RCT (Study 6) was exploratory: students were asked to explore the OpenLearn 
 - [[human-in-the-loop-ai]]
 - [[learning-analytics]]
 - [[rag]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[intelligent-tutoring]]
 
 ## Connected Articles

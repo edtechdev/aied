@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 157 concepts and 832 articles.
+> Complete text of 159 concepts and 835 articles.
 
 # Concepts
 
@@ -127,80 +127,60 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 ---
 
-## [Accessible Learning](https://edtechdev.github.io/aied/concepts/accessible-learning/)
+## [Accessibility](https://edtechdev.github.io/aied/concepts/accessibility/)
 
-> **Accessible Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, accessible learning research examines both how AI tools can remove barriers for disabled and neurodivergent learners and how AI systems themselves must be designed to avoid creating new accessibility gaps.
+> **Accessibility** — the design of educational technology, content, and interfaces so that they can be perceived, operated, and understood by people with disabilities and diverse needs. In AI in education, accessibility covers concrete, operational barriers to the *medium* of learning: video captions, alt text, transcripts, screen-reader and keyboard compatibility, color contrast, text simplification, tactile output, sign-language support, and compatibility with assistive technologies.
 
-Accessible learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]]. Unlike narrow accommodations that retrofit access onto existing systems, the accessible learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
+Accessibility is distinct from, but closely related to, three neighboring concepts in this wiki. **[[inclusive-learning]]** is the broader umbrella for designing education for all learner variability (physical, cognitive, sensory, situational). **[[special-education]]** is the instructional domain for learners with diagnosed disabilities, including individualized accommodations. **[[universal-design-for-learning]]** is the proactive design framework (multiple means of engagement, representation, action/expression). **Accessibility** sits inside this constellation as the *technical and procedural layer*: removing barriers to perceiving and operating the format, rather than redesigning the pedagogy. The two can be separated on a spectrum — accessibility asks "can everyone access this content and tool?" while supporting students with disabilities asks "does instruction meaningfully serve each learner, including accommodations and disability-specific support?" Both matter, and AI intersects both.
+
+### Why the distinction matters
+
+A video with accurate captions and a properly tagged transcript is *accessible*; a course that structures discussion to include a Deaf learner's communication preferences is *supporting that learner*. They overlap — accessible media is a prerequisite for inclusive instruction — but they require different design moves and draw on different evidence. Accessibility is anchored in standards and law (WCAG, the U.S. [[educational-policy-ai|Assistive Technology Act]] and IDEA), while accessible learning and special education are anchored in pedagogy and learner experience.
 
 ### Key research themes
 
-**AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how [[collaborative-learning|collaborative learning]] structures affect neurodivergent comfort. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for Deaf and Hard of Hearing learners, introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video — while revealing the persistent mismatch between text-based AI prompts and DHH learners' sign-based first languages, underscoring the need for language- and culture-aware AI design. **[[text-simplification-its|MuTSE]]** tackles a complementary barrier — reading level — by evaluating LLM-based text simplification for [[intelligent-tutoring]], matching content complexity to each learner's current level via a human-in-the-loop evaluation framework rather than relying on linguistic metrics that miss pedagogical quality.
+**Format accessibility: captions, transcripts, and text.** **[[adhd-video-segmentation-computing-education|AI-segmented instructional videos]]** with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — accessibility as a catalyst that benefits everyone. **[[text-simplification-its|MuTSE]]** evaluates LLM-based [[intelligent-tutoring|text simplification]] to match content complexity to each learner's reading level, a human-in-the-loop accessibility layer. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** build LLM question generation for Deaf and Hard of Hearing learners, confronting the mismatch between text-based AI prompts and sign-based first languages.
 
-**Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, multilingual answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[educational-robotics]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning.
+**Sensory access: non-visual and tactile output.** **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary modality for visually impaired children, removing visual dependency. **[[tactile-statistical-graphs-accessibility|Tactile 3D-printed graphs]]** turn visual statistical data into touchable output for blind and low-vision students. **[[pepper-robot-sign-language-lis-2025|Sign-language robots]]** extend [[educational-robotics]] into communicative accessibility for Deaf learners.
 
-**Inclusive assessment design** grapples with the tension between security and accessibility. **[[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]** proposes a theoretical framework for adaptive visual diversion that resists screen-capture cheating while accommodating learners with visual-processing needs — explicitly modeling the trade-off between anti-cheating measures and accessible-learning principles. This connects to broader [[academic-integrity]] and [[assessment]] concerns.
+**Policy and accommodations for students with disabilities.** **[[shin-ai-policies-sld-2026|Shin et al.]]** analyze U.S. AI policy documents to reveal a void in guidance for students with specific learning disabilities, proposing accommodations and [[educational-policy-ai|policy]] recommendations grounded in the Assistive Technology Act and IDEA. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** meta-analyze 29 studies of AI-based interventions for students with disabilities, finding a medium positive effect on [[learning-gains|learning outcomes]] (g = 0.588) — and argue AI must do more than ensure accessibility: it must enable [[agency|agentic]] participation.
 
-**Neurodivergent learner experiences** center the voices of disabled and neurodivergent students. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — preferences that [[intelligent-tutoring|AI tutoring]] and collaboration tools must accommodate. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed dyslexic learners' forum discussions, revealing that while they value AI for literacy support, they face significant accessibility barriers from inconsistent output quality and lack of equitable accommodations. Both connect to [[special-education]] and [[student-experience]].
+**The limits of accessibility alone.** **[[genai-minoritized-knowledges-disability|Critical work]]** warns that AI trained on Anglophone, Western-centric data can marginalize disability-centered ways of knowing. Accessible formats do not guarantee inclusive or just instruction — reinforcing that accessibility is necessary but not sufficient, and must connect to [[equity-in-ai-education]].
 
-**Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+## Implications for practice
 
-**Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led embodied design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends reinforcement learning to model cognitive and communicative diversity across disability profiles.
-
-### Connections to related concepts
-
-Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]], [[educational-robotics]], and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
-
-## Implications for instructors designing accessible learning
-
-- **Design for the excluded modality first, not last.** Building for blind/low-vision users from the start ([[kutti-ai-voice-first-learning-companion|Kutti AI]], [[tactile-statistical-graphs-accessibility|tactile graphs]]) produces tools that also work offline and in low-resource settings — accessibility as a catalyst, not a retrofit.
-- **Co-design with the target community.** [[pepper-robot-sign-language-lis-2025|Sign-language robots]] and [[llm-question-generation-deaf-hard-of-hearing-2026|DHH question generation]] show community involvement surfaces barriers (e.g., sign-based first languages) designers can't anticipate — involve learners and communities in design.
-- **Evaluate pedagogical quality, not just linguistic metrics.** [[text-simplification-its|MuTSE]] shows LLM output variability requires human-in-the-loop evaluation so that simplification helps rather than oversimplifies.
-- **Use AI to close performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes.
-- **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs — weigh integrity against access.
-- **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Disability-centered critique]] warns that Anglophone, Western-centric training data marginalizes disabled ways of knowing — audit AI tools for epistemic justice alongside [[equity-in-ai-education]].
+- **Prioritize the format barrier first.** Captions, transcripts, alt text, contrast, and keyboard operability are the gatekeeping layer — without them nothing else matters for learners who need them.
+- **Use AI to automate accessibility at scale.** AI can generate captions, simplify text, produce tactile/audio alternatives, and adapt presentation — but evaluate output quality with human-in-the-loop checks.
+- **Treat accessibility as necessary but not sufficient.** An accessible tool is not automatically an inclusive or disability-just tool; pair accessibility with [[inclusive-learning]] design and [[special-education]] support.
+- **Ground accommodations in law and policy.** Reference standards (WCAG) and statutes (Assistive Technology Act, IDEA) when designing or procuring AI tools.
 
 ## Connected Concepts
 
+- [[inclusive-learning]] — broader umbrella for designing education across learner variability
+- [[special-education]] — instructional domain for learners with diagnosed disabilities
+- [[universal-design-for-learning]] — proactive design framework
 - [[equity-in-ai-education]]
-- [[special-education]]
-- [[instructional-design]]
-- [[universal-design-for-learning]]
+- [[educational-policy-ai]]
 - [[neurodiversity]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[k-12]]
-- [[cs-education]]
-- [[assessment]]
-- [[academic-integrity]]
-- [[privacy]]
+- [[assistive-technology]]
+- [[instructional-design]]
 - [[generative-ai]]
-- [[ai-education]]
 - [[educational-robotics]]
-- [[educational-nlp]]
-- [[sociocultural-learning]]
+- [[intelligent-tutoring]]
 - [[adaptive-learning]]
+- [[agency]]
 
 ## Connected Articles
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
-- [[adhd-video-segmentation-computing-education]]
-- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
-- [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
-- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: voice-first companion for visually-impaired children
+- [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
+- [[adhd-video-segmentation-computing-education]] — AI-segmented videos with fixed pauses
+- [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
+- [[kutti-ai-voice-first-learning-companion]] — Voice-first companion for visually impaired children
 - [[tactile-statistical-graphs-accessibility]] — Tactile 3D-printed statistical graphs
-- [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language communication
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[neurodivergent-computing-students]]
-- [[genai-minoritized-knowledges-disability]]
-- [[embodied-string-learning-blindness-low-vision-musicians]]
-- [[suacode-african-students-motivations]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[special-r1-rl-special-education]]
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language
+- [[genai-minoritized-knowledges-disability]] — Critical perspective on AI and disability-centered knowledge
 
 ---
 
@@ -427,7 +407,7 @@ Rooted in Knowles's andragogical model, adult learning assumes learners are self
 
 ## Connections to related concepts
 
-Adult learning sits at the intersection of several closely linked concepts in this wiki. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[accessible-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
+Adult learning sits at the intersection of several closely linked concepts in this wiki. [[higher-ed]] supplies the institutional context in which much adult and distance learning occurs, while [[professional-training]] covers its workforce and [[lifelong-learning]] its continuous-education dimension. [[online-teaching-and-learning|Online teaching and learning]] is the dominant delivery medium for adult learners — who often study at work or at home — so its affordances (24/7 access, asynchronous support) and risks ([[academic-integrity|integrity]], [[cognitive-offloading|offloading]]) are central to adult-learning design. [[self-regulated-learning]] and [[agency]] name the learner capacities that AI must protect rather than erode, and [[cognitive-offloading]] captures the mechanism by which AI can either support or undermine them. [[inclusive-learning]] and [[equity-in-ai-education]] frame the equity obligations of adult AI tools, [[human-in-the-loop-ai]] names the design pattern that keeps humans accountable, and [[scaffolding]] describes the graduated support such tools should provide.
 
 ## Implications for adult-education instructors and designers
 
@@ -448,7 +428,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[higher-ed]]
 - [[professional-training]]
 - [[lifelong-learning]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[agency]]
 - [[self-regulated-learning]]
 - [[generative-ai]]
@@ -929,7 +909,7 @@ AI in education changes the roles of every stakeholder. The wiki's [[stakeholder
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking]], and [[well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
-- **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
+- **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[inclusive-learning|inclusive learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
 
 ## Emergent and cross-cutting themes
 
@@ -1757,6 +1737,48 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 ---
 
+## [Assistive Technology](https://edtechdev.github.io/aied/concepts/assistive-technology/)
+
+> **Assistive Technology** — devices, software, and services that help people with disabilities perceive, operate, communicate, and participate in learning and daily life. In AI in education, assistive technology spans screen readers, speech-to-text and text-to-speech, captioning, braille and tactile output, sign-language tools, and increasingly AI-powered accommodations that adapt content and interaction to individual needs.
+
+Assistive technology is the concrete *tool layer* of [[accessibility]]. Where accessibility is the design property of an environment (can everyone access it?), assistive technology is the specific equipment and software that individuals use to bridge access gaps. It is foundational to [[special-education]] and [[inclusive-learning]] — students with specific learning disabilities, visual or hearing impairments, and motor challenges rely on assistive tools to access the curriculum. In the U.S., the [[educational-policy-ai|Assistive Technology Act (2004)]] and the Individuals with Disabilities Education Improvement Act (IDEA, 2004) provide the legal basis for providing these tools to students with disabilities.
+
+### Key research themes
+
+**AI is expanding assistive technology.** Generative AI and LLMs are transforming assistive tools — [[text-simplification-its|LLM-based text simplification]] adapts reading level in [[intelligent-tutoring]], [[kutti-ai-voice-first-learning-companion|voice-first AI]] removes visual dependency for blind and low-vision learners, and [[tactile-statistical-graphs-accessibility|AI-generated tactile graphs]] convert visual data to touchable output. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** find AI-based interventions (robots, software, intelligent VR) yield a medium positive effect on the learning outcomes of students with disabilities (g = 0.588).
+
+**Policy and provision.** **[[shin-ai-policies-sld-2026|Shin et al.]]** document that U.S. AI policy documents largely fail to address assistive technology and accommodations for students with specific learning disabilities, calling for policy guidance grounded in the Assistive Technology Act and IDEA.
+
+**The limits of assistive tools.** Assistive technology enables access but does not by itself ensure inclusive instruction or learner [[agency]]. **[[genai-minoritized-knowledges-disability|Critical research]]** and the push for [[agency|agentic]] roles for students with disabilities remind us that access must pair with meaningful participation.
+
+## Implications for practice
+
+- **Match the tool to the learner and task.** Screen readers, captions, speech, and tactile output each address different barriers — choose based on the individual's needs and the content format.
+- **Leverage AI to lower the cost of assistive adaptations.** AI can auto-caption, simplify text, and generate alternatives, but evaluate output quality for pedagogical accuracy.
+- **Ground provision in policy.** Reference the Assistive Technology Act, IDEA, and WCAG when procuring or building AI tools.
+
+## Connected Concepts
+
+- [[accessibility]] — the design property that assistive technology operationalizes
+- [[inclusive-learning]]
+- [[special-education]]
+- [[universal-design-for-learning]]
+- [[equity-in-ai-education]]
+- [[educational-policy-ai]]
+- [[neurodiversity]]
+- [[instructional-design]]
+
+## Connected Articles
+
+- [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
+- [[kutti-ai-voice-first-learning-companion]] — Voice-first AI for visually impaired children
+- [[tactile-statistical-graphs-accessibility]] — AI-generated tactile statistical graphs
+- [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
+
+---
+
 ## [Authentic Assessment](https://edtechdev.github.io/aied/concepts/authentic-assessment/)
 
 > **Authentic assessment** — the design of assessments that examine student performance on worthy, realistic intellectual tasks, rather than isolated, standardized test items. Originating with Wiggins (1990) as a counterbalance to standardized tests, authentic assessment has evolved from replicating workplace tasks toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. Generative AI has made authentic assessment newly essential: any task a [[llm|language model]] can credibly simulate in a take-home setting loses its validity as evidence of original student competence, so authentic forms must be redesigned around what AI cannot credibly counterfeit.
@@ -2016,7 +2038,7 @@ The wiki's research illustrates several approaches:
 - **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.
 - **Cognitive-depth-aware generation:** [[llm-educational-question-cognitive-depth|Evaluating the cognitive depth of LLM-generated questions]] examines whether generated items tap higher-order thinking (creation, evaluation) or only memorization, connecting to Bloom's taxonomy and [[educational-measurement]].
 - **Pedagogical pipelines:** [[slidesqaqa-pedagogical-question-generation|Slide-deck Q&A generation]] uses a multi-stage pipeline for pedagogically sound question generation from course materials.
-- **Accessibility-aware generation:** [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]] design an LLM-powered question-generation system for [[accessible-learning|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video, and iteratively refining questions with the target community to ensure linguistic accessibility.
+- **Accessibility-aware generation:** [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]] design an LLM-powered question-generation system for [[inclusive-learning|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video, and iteratively refining questions with the target community to ensure linguistic accessibility.
 - **RAG-based, human-in-the-loop systems:** [[code-gen|CODE-GEN]] combines [[rag|retrieval-augmented generation]] with [[human-in-the-loop-ai|human-in-the-loop]] review for generating [[automated-assessment|multiple-choice assessments]].
 - **Benchmarks and evaluation:** [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] provides a benchmark of scientific/mathematical riddles for evaluating question-generation and reasoning systems.
 
@@ -2743,7 +2765,7 @@ Collaborative learning is grounded in [[sociocultural-learning|sociocultural the
 
 **AI-mediated peer collaboration** examines how AI [[scaffolding|scaffolds]] human-to-human collaboration. **[[collaborative-ai-tutoring]]** and **[[agent-voice-accents-k12-group-learning]]** explore how AI agent characteristics affect group dynamics. **[[ai-agents-peer-learning-discourse]]** documents how AI agents teaching each other produce discourse patterns resembling human peer learning.
 
-**Neurodivergent perspectives on collaboration** reveal critical design requirements. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent students need structured assignments, small consistent teams with explicitly defined roles, and predictable interaction patterns — requirements that AI collaboration tools must accommodate. This connects collaborative learning to [[accessible-learning]] and [[neurodiversity]].
+**Neurodivergent perspectives on collaboration** reveal critical design requirements. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent students need structured assignments, small consistent teams with explicitly defined roles, and predictable interaction patterns — requirements that AI collaboration tools must accommodate. This connects collaborative learning to [[inclusive-learning]] and [[neurodiversity]].
 
 **Teacher-AI collaboration** examines how teachers and AI work together. **[[teacher-student-agency-orchestration]]** and **[[teacher-ai-teaming-five-levels]]** explore frameworks for human-AI collaborative teaching, connecting to [[teacher-role]] and [[human-in-the-loop-ai]].
 
@@ -2784,7 +2806,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[k-12]]
 - [[higher-ed]]
 - [[cs-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[neurodiversity]]
 - [[learning-theories]]
 - [[distributed-cognition]]
@@ -4547,7 +4569,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 > **Equity in AI education** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the pedagogical (culturally relevant teaching).
 
-Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessible-learning|accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
+Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 
 ## Access and infrastructure equity
 
@@ -4574,11 +4596,11 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - **Language:** Most AI tools prioritize English, marginalizing multilingual learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
 - **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
-- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|accessible educational materials]] are illustrative.
+- **Disability and neurodiversity:** [[inclusive-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|accessible educational materials]] are illustrative.
 
 ## Special populations and global equity
 
-- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
+- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
 - **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
 - **Global capacity:** [[ai-education-global-capacity|Global capacity for AI education]] documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 
@@ -4595,9 +4617,11 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[remote-proctoring]]
 - [[digital-divide]]
 - [[bias-mitigation]]
+- [[accessibility]]
+- [[assistive-technology]]
 - [[culturally-relevant-pedagogy]]
 - [[language-learning]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[universal-design-for-learning]]
 - [[neurodiversity]]
 - [[special-education]]
@@ -5542,7 +5566,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[k-12]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[technology-acceptance-model]]
 - [[benchmark]]
 
@@ -6270,6 +6294,99 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 
 ---
 
+## [Inclusive Learning](https://edtechdev.github.io/aied/concepts/inclusive-learning/)
+
+> **Inclusive Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, inclusive learning research examines both how AI tools can remove barriers for disabled and neurodivergent learners and how AI systems themselves must be designed to avoid creating new accessibility gaps.
+
+## How the related concepts fit together
+
+Inclusive learning is the **umbrella** concept; the pages below sit inside it, each answering a different question. They overlap but are not interchangeable — knowing which one a claim belongs to keeps the wiki precise:
+
+| Concept | Core question it answers | Typical focus |
+|---|---|---|
+| **[[inclusive-learning|Inclusive Learning]]** *(this page)* | How do we design education so all learners can meaningfully participate? | The broad design of instruction across learner variability |
+| **[[accessibility]]** | Can everyone perceive and operate the *format/medium*? | Captions, alt text, transcripts, contrast, keyboard/screen-reader compat, WCAG |
+| **[[assistive-technology]]** | What tools/equipment bridge an individual's access gap? | Screen readers, TTS/STT, braille/tactile, captioning, AI accommodations |
+| **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring |
+| **[[universal-design-for-learning]]** | How do we proactively build in flexibility from the start? | Multiple means of engagement, representation, action/expression |
+
+In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities; and **inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
+
+Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
+
+### Key research themes
+
+**AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how [[collaborative-learning|collaborative learning]] structures affect neurodivergent comfort. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for Deaf and Hard of Hearing learners, introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video — while revealing the persistent mismatch between text-based AI prompts and DHH learners' sign-based first languages, underscoring the need for language- and culture-aware AI design. **[[text-simplification-its|MuTSE]]** tackles a complementary barrier — reading level — by evaluating LLM-based text simplification for [[intelligent-tutoring]], matching content complexity to each learner's current level via a human-in-the-loop evaluation framework rather than relying on linguistic metrics that miss pedagogical quality.
+
+**Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, multilingual answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[educational-robotics]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning.
+
+**Inclusive assessment design** grapples with the tension between security and accessibility. **[[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]** proposes a theoretical framework for adaptive visual diversion that resists screen-capture cheating while accommodating learners with visual-processing needs — explicitly modeling the trade-off between anti-cheating measures and inclusive-learning principles. This connects to broader [[academic-integrity]] and [[assessment]] concerns.
+
+**Neurodivergent learner experiences** center the voices of disabled and neurodivergent students. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — preferences that [[intelligent-tutoring|AI tutoring]] and collaboration tools must accommodate. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed dyslexic learners' forum discussions, revealing that while they value AI for literacy support, they face significant accessibility barriers from inconsistent output quality and lack of equitable accommodations. Both connect to [[special-education]] and [[student-experience]].
+
+**Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+
+**Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led embodied design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends reinforcement learning to model cognitive and communicative diversity across disability profiles.
+
+### Connections to related concepts
+
+Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[accessibility]] as its concrete access layer and [[assistive-technology]] as the tool layer, to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. Work on sign-language robots and tactile tools links accessibility to [[educational-robotics]] and [[educational-nlp]], while text simplification connects it to [[sociocultural-learning]] and [[adaptive-learning]]. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+
+## Implications for instructors designing inclusive learning
+
+- **Design for the excluded modality first, not last.** Building for blind/low-vision users from the start ([[kutti-ai-voice-first-learning-companion|Kutti AI]], [[tactile-statistical-graphs-accessibility|tactile graphs]]) produces tools that also work offline and in low-resource settings — accessibility as a catalyst, not a retrofit.
+- **Co-design with the target community.** [[pepper-robot-sign-language-lis-2025|Sign-language robots]] and [[llm-question-generation-deaf-hard-of-hearing-2026|DHH question generation]] show community involvement surfaces barriers (e.g., sign-based first languages) designers can't anticipate — involve learners and communities in design.
+- **Evaluate pedagogical quality, not just linguistic metrics.** [[text-simplification-its|MuTSE]] shows LLM output variability requires human-in-the-loop evaluation so that simplification helps rather than oversimplifies.
+- **Use AI to close performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes.
+- **Treat the security/accessibility trade-off explicitly.** [[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]] models how anti-cheating measures can inadvertently exclude learners with visual-processing needs — weigh integrity against access.
+- **Guard against AI reproducing exclusion.** [[genai-minoritized-knowledges-disability|Disability-centered critique]] warns that Anglophone, Western-centric training data marginalizes disabled ways of knowing — audit AI tools for epistemic justice alongside [[equity-in-ai-education]].
+
+## Connected Concepts
+
+- [[equity-in-ai-education]]
+- [[accessibility]] — the concrete access layer (captions, alt text, assistive-tech compatibility)
+- [[assistive-technology]] — the tool layer students use to access content
+- [[special-education]]
+- [[instructional-design]]
+- [[universal-design-for-learning]]
+- [[neurodiversity]]
+- [[student-experience]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[k-12]]
+- [[cs-education]]
+- [[assessment]]
+- [[academic-integrity]]
+- [[privacy]]
+- [[generative-ai]]
+- [[ai-education]]
+- [[educational-robotics]]
+- [[educational-nlp]]
+- [[sociocultural-learning]]
+- [[adaptive-learning]]
+
+## Connected Articles
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
+
+- [[adhd-video-segmentation-computing-education]]
+- [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
+- [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
+- [[kutti-ai-voice-first-learning-companion]] — Kutti AI: voice-first companion for visually-impaired children
+- [[tactile-statistical-graphs-accessibility]] — Tactile 3D-printed statistical graphs
+- [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language communication
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
+- [[dyslexlens-dyslexic-learners-ai]]
+- [[neurodivergent-computing-students]]
+- [[genai-minoritized-knowledges-disability]]
+- [[embodied-string-learning-blindness-low-vision-musicians]]
+- [[suacode-african-students-motivations]]
+- [[ludia-udl-ai-thought-partner-2026]]
+- [[special-r1-rl-special-education]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+
+---
+
 ## [Inquiry-Based Learning and AI](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/)
 
 > **Inquiry-based learning (IBL)** — a learner-centered pedagogy in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor scaffolding rather than lecturing. In the AI era, IBL's question-driven, exploration-centred structure has become a focal point: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
@@ -6345,7 +6462,7 @@ Instructional design bridges AI capabilities and effective pedagogy. Where [[cur
 
 **Pedagogically grounded AI tutoring** applies instructional design principles to AI system design. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** built a didactically-driven [[llm|LLM]] teacher assistant where tutoring strategy is encoded in an explicit external layer — making content selection and didactic structuring traceable and reproducible, directly addressing opacity concerns in [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demonstrated that a five-step prompting framework grounded in Generative Learning Theory significantly improved higher-order cognitive outcomes, showing that instructional guidance — not just AI access — determines learning effectiveness. Both connect to [[scaffolding]] and [[intelligent-tutoring]].
 
-**Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate human-in-the-loop design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[accessible-learning]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activate–Inquire–Reflect) is a task-structuring framework for cognitively activated AI use that bounds the AI's contribution so that prediction, interpretation, and evaluation remain the learner's — an AI-specific adaptation of inquiry cycles grounded in [[self-regulated-learning]], Cognitive Load Theory, and [[human-ai-collaboration]].
+**Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate human-in-the-loop design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[inclusive-learning]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activate–Inquire–Reflect) is a task-structuring framework for cognitively activated AI use that bounds the AI's contribution so that prediction, interpretation, and evaluation remain the learner's — an AI-specific adaptation of inquiry cycles grounded in [[self-regulated-learning]], Cognitive Load Theory, and [[human-ai-collaboration]].
 
 **AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
 
@@ -6392,7 +6509,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[higher-ed]]
 - [[k-12]]
 - [[agentic-ai]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[universal-design-for-learning]]
 - [[learning-theories]]
 - [[learning-gains]]
@@ -6879,7 +6996,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.
 
-**Accessibility for language learners** connects to [[accessible-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
+**Accessibility for language learners** connects to [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 
 ## Implications for language instructors
 
@@ -6896,7 +7013,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[equity-in-ai-education]]
 - [[assessment-validity]]
 - [[bias-mitigation]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[special-education]]
 - [[intelligent-tutoring]]
 - [[generative-ai]]
@@ -7998,7 +8115,7 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 - [[global-south]]
 - [[digital-divide]]
 - [[culturally-relevant-pedagogy]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[generative-ai]]
 
 ## Connected Articles
@@ -8053,7 +8170,7 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 
 ## Multimodal AI for language and accessible learning
 
-Multimodal systems also expand access and personalization. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.^[[ai-guided-learning-audiovideo-2026]] Multimodal knowledge graphs reason across images and text for educational tasks,^[[multimodal-knowledge-graph-educational-reasoning]] and multimodal representations improve [[accessible-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,^[[llm-cognitive-diagnosis-handwritten-math]] affective tutoring with multimodal signals,^[[multimodal-affective-its-presentation]]^[[kar-mathbuddy-affective-math-tutoring-2025]] text-to-image learning in specialized fields,^[[nuclear-diffusion-text-to-image-learning-2026]] and privacy-aware multimodal classroom sensing.^[[privacy-aware-classroom-incident-recognition-2026]]
+Multimodal systems also expand access and personalization. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.^[[ai-guided-learning-audiovideo-2026]] Multimodal knowledge graphs reason across images and text for educational tasks,^[[multimodal-knowledge-graph-educational-reasoning]] and multimodal representations improve [[inclusive-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,^[[llm-cognitive-diagnosis-handwritten-math]] affective tutoring with multimodal signals,^[[multimodal-affective-its-presentation]]^[[kar-mathbuddy-affective-math-tutoring-2025]] text-to-image learning in specialized fields,^[[nuclear-diffusion-text-to-image-learning-2026]] and privacy-aware multimodal classroom sensing.^[[privacy-aware-classroom-incident-recognition-2026]]
 
 ## Challenges and design implications
 
@@ -8086,7 +8203,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[privacy]]
 - [[edtech-platform]]
 - [[stem-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
@@ -8186,7 +8303,7 @@ Network methods are used across the wiki's evidence base to answer questions tha
 
 > **Neurodiversity** — the framing that neurological differences such as autism, ADHD, dyslexia, and dyspraxia are natural variations in human cognition rather than deficits to be corrected. In education, a neurodiversity-affirming approach designs learning environments that accommodate and leverage these differences rather than forcing conformity to a single cognitive norm.
 
-The neurodiversity paradigm shifts the goal of [[special-education]] and accessibility work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[accessible-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
+The neurodiversity paradigm shifts the goal of [[special-education]] and accessibility work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[inclusive-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
 
 ### Neurodiversity in the AI era
 
@@ -8194,12 +8311,12 @@ The neurodiversity paradigm shifts the goal of [[special-education]] and accessi
 
 ### Connections
 
-Neurodiversity connects to [[special-education]], [[accessible-learning]], [[universal-design-for-learning]], and [[equity-in-ai-education]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability.
+Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], and [[equity-in-ai-education]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability.
 
 ## Connected Concepts
 
 - [[special-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[universal-design-for-learning]]
 - [[equity-in-ai-education]]
 - [[student-experience]]
@@ -8702,7 +8819,7 @@ The wiki documents a rich set of individual teaching strategies and pedagogies, 
 - **Structured and guided approaches.** [[scaffolding]] (temporary, fading support), [[instructional-design]] (systematic design of instruction), [[self-regulated-learning]] (learners directing their own learning), and [[sociocultural-learning]] (including structured, teacher-guided sociocultural support).
 - **Online and distance pedagogies.** [[online-teaching-and-learning|Online teaching and learning]] is itself a pedagogical context, not just a delivery channel: the medium shapes which strategies are viable ([[active-learning]] rethought for asynchronous forums, [[collaborative-learning]] via digital discussion, [[intelligent-tutoring|tutoring agents]] replacing face-to-face interaction). In this medium, AI raises both new opportunities (scalable personalization, always-on support) and new risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]), making pedagogical intent decisive.
 - **Motivation and engagement approaches.** [[game-based-learning]] (learning through games), [[self-determination-theory]] (supporting autonomy, competence, relatedness), and [[motivation]]-oriented strategies.
-- **[[equity-in-ai-education|equity]]-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[accessible-learning]] ensure strategies serve diverse learners.
+- **[[equity-in-ai-education|equity]]-conscious pedagogies.** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]], [[universal-design-for-learning|Universal Design for Learning]], [[critical-pedagogy]], and [[inclusive-learning]] ensure strategies serve diverse learners.
 
 ## How pedagogy appears in AI in education
 
@@ -10901,7 +11018,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, AI tutors can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this wiki span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 
-**Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for [[accessible-learning|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led embodied design. These connect to [[accessible-learning]] and [[neurodiversity]].
+**Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for [[accessibility|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led embodied design. These connect to [[inclusive-learning]] and [[neurodiversity]].
 
 **Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[instructional-design]] and [[universal-design-for-learning]].
 
@@ -10918,7 +11035,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 
 ## Connected Concepts
 
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[neurodiversity]]
 - [[universal-design-for-learning]]
@@ -12169,7 +12286,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of engagement, representation, and action/expression, rather than retrofitting accommodations for individuals.
 
-UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[accessible-learning]], [[equity-in-ai-education]], and [[special-education]].
+UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[inclusive-learning]], [[equity-in-ai-education]], and [[special-education]].
 
 ### The three principles
 
@@ -12183,11 +12300,11 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### Connections
 
-UDL connects to [[accessible-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
+UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
 
 ## Connected Concepts
 
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[special-education]]
 - [[instructional-design]]
@@ -12359,7 +12476,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[socratic-method]]
 - [[math-education]]
 - [[higher-ed]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[human-in-the-loop-ai]]
 
 ## Connected Articles
@@ -13035,7 +13152,7 @@ Adarkwah, M. A., Ercan, A. M., Schneider, K., & Bayar, E. (2026). Generative art
 
 ## [Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education](https://edtechdev.github.io/aied/articles/adhd-video-segmentation-computing-education/)
 
-Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention that segments instructional videos into single-instruction chunks with fixed pauses, reducing extraneous cognitive load for learners with ADHD. In a within-participants study (17 ADHD, 10 non-ADHD), the intervention improved everyone but had an equalizing effect: ADHD participants' errors and hesitations fell to parity with non-ADHD peers. This is strong evidence for Universal Design for Learning via automated content transformation — a task well-suited to AI pipelines. It extends [[neurodivergent-computing-students]] and [[accessible-learning]], complements simulation work like [[llm-educational-simulation-adhd]], informs video-based learning design in [[engagement-assessment-video]] and [[instructional-design]], within [[cs-education]].
+Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention that segments instructional videos into single-instruction chunks with fixed pauses, reducing extraneous cognitive load for learners with ADHD. In a within-participants study (17 ADHD, 10 non-ADHD), the intervention improved everyone but had an equalizing effect: ADHD participants' errors and hesitations fell to parity with non-ADHD peers. This is strong evidence for Universal Design for Learning via automated content transformation — a task well-suited to AI pipelines. It extends [[neurodivergent-computing-students]] and [[inclusive-learning]], complements simulation work like [[llm-educational-simulation-adhd]], informs video-based learning design in [[engagement-assessment-video]] and [[instructional-design]], within [[cs-education]].
 
 ## Key Findings
 
@@ -13046,11 +13163,11 @@ Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention
 
 ## Implications
 
-Temporal segmentation demonstrates how a lightweight, post-hoc content transformation can deliver Universal Design for Learning at scale. It connects [[accessible-learning]] and Cognitive Load Theory with AI pipelines, showing that automated intervention can level outcomes for [[neurodiversity]] learners in [[cs-education]] and video-based instruction generally.
+Temporal segmentation demonstrates how a lightweight, post-hoc content transformation can deliver Universal Design for Learning at scale. It connects [[inclusive-learning]] and Cognitive Load Theory with AI pipelines, showing that automated intervention can level outcomes for [[neurodiversity]] learners in [[cs-education]] and video-based instruction generally.
 
 ## Connected Concepts
 
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[cs-education]]
 - [[instructional-design]]
 - [[neurodiversity]]
@@ -13265,7 +13382,7 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 
 ## Citation
 
-Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning. [*Computers and Education: Artificial Intelligence*](https://doi.org/10.1016/j.caeai.2026.100655). Advance online publication
+Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). [*The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning*](https://doi.org/10.1016/j.caeai.2026.100655). *Computers and Education: Artificial Intelligence*. Advance online publication
 
 ---
 
@@ -15420,7 +15537,7 @@ La Sunra, S., Amaliah, S., & Radhiyani, F. (2026). [*AI-enhanced problem-based l
 
 ## [From Abstract Ethics to Situated Practice: A Bibliometric Analysis of AI Ethics and Professional Judgement](https://edtechdev.github.io/aied/articles/ai-ethics-bibliometric-2026/)
 
-> **Synthesis:** Mazlan et al. (2026) conduct a descriptive–evaluative bibliometric analysis of 282 Scopus-indexed peer-reviewed articles (2009–2025) to map how AI [[ethics]] research has shifted from abstract normative principles toward situated, practice-based ethical reasoning. Using biblioMagika® and VOSviewer, they document a pronounced post-2021 expansion of AI ethics research and a disciplinary shift toward applied domains (social sciences, education, healthcare, management). Keyword co-occurrence networks show AI ethics increasingly framed around professional judgement, [[trust]], [[human-ai-collaboration]], and interpretive practice rather than technical compliance or regulation. Healthcare dominates citation impact, but education emerges as a conceptually important context where questions of intelligence, [[agency]], and professional responsibility are actively negotiated. Highly cited work consistently foregrounds [[human-in-the-loop-ai|human-in-the-loop]] decision-making and contextual reasoning, supporting a practice-based, [[philosophy-of-ai-in-education|philosophically grounded]] reorientation of AI ethics.
+> **Synthesis:** Mazlan et al. (2026) conduct a descriptive–evaluative bibliometric analysis of 282 Scopus-indexed peer-reviewed articles (2009–2025) to map how AI [[ethics]] research has shifted from abstract normative principles toward situated, practice-based ethical reasoning. Using biblioMagika® and VOSviewer, they document a pronounced post-2021 expansion of [[ethics|AI ethics]] research and a disciplinary shift toward applied domains (social sciences, education, healthcare, management). Keyword co-occurrence networks show AI ethics increasingly framed around professional judgement, [[trust]], [[human-ai-collaboration]], and interpretive practice rather than technical compliance or regulation. Healthcare dominates citation impact, but education emerges as a conceptually important context where questions of intelligence, [[agency]], and professional responsibility are actively negotiated. Highly cited work consistently foregrounds [[human-in-the-loop-ai|human-in-the-loop]] decision-making and contextual reasoning, supporting a practice-based, [[philosophy-of-ai-in-education|philosophically grounded]] reorientation of AI ethics.
 
 ## Core Finding
 
@@ -15475,7 +15592,7 @@ This bibliometric paper provides field-level empirical grounding for the wiki's 
 
 ## Citation
 
-Mazlan, C. A. N., Othman, M. A., Md Noor, A. R., Jamnongsarn, S., & Hidayatullah, R. (2026). [From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement. *Educational Technology Research and Development*](https://doi.org/10.1007/s11423-026-10630-1).
+Mazlan, C. A. N., Othman, M. A., Md Noor, A. R., Jamnongsarn, S., & Hidayatullah, R. (2026). [From abstract ethics to situated practice: A bibliometric analysis of AI ethics and professional judgement](https://doi.org/10.1007/s11423-026-10630-1). *Educational Technology Research and Development*.
 
 ---
 
@@ -15756,7 +15873,7 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 
 ## Citation
 
-Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). Artificial intelligence and feedback in university education: effectiveness and student perceptions. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962). https://doi.org/10.1080/02602938.2026.2697962
+Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). [*Artificial intelligence and feedback in university education: effectiveness and student perceptions*](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962). *Assessment & Evaluation in Higher Education*.
 
 ---
 
@@ -16753,7 +16870,7 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 
 ## Citation
 
-Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of [[learning-gains|Learning Outcomes]] Through High School and Beyond*](https://arxiv.org/abs/2606.07544). arXiv:2606.07544.
+Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond*](https://arxiv.org/abs/2606.07544). arXiv:2606.07544.
 
 ---
 
@@ -16824,7 +16941,7 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 
 ## Citation
 
-Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? [*Trends in Cognitive Sciences*](https://doi.org/10.1016/j.tics.2026.06.004)
+Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). [*Is AI making us stupid*](https://doi.org/10.1016/j.tics.2026.06.004). *Trends in Cognitive Sciences*
 
 ---
 
@@ -18940,7 +19057,7 @@ Cobos, A.A.B.D.G.R. & 2026, V.L.S. (2026). [*AISSA: AI-based Student Slides Anal
 
 ## [Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate](https://edtechdev.github.io/aied/articles/aivaluate-anxiety-assessment-2026/)
 
-> **Synthesis:** Yusuf, Money, and Daylamani-Zad (2026) evaluated AIvaluate, an LLM-augmented, emotionally intelligent pedagogical conversational agent designed to mediate oral performance-based assessments (PBAs). Using a counterbalanced quasi-experimental within-subjects design with 35 pre-university IBDP students comparing face-to-face viva voce with AIvaluate-mediated sessions, they found significantly LOWER self-reported anxiety during AIvaluate sessions (calmness M = 6.50 vs. 5.86, p = .028) and "good" usability (SUS 70.64 vs. 66.93). Qualitative analysis surfaced strengths (reduced social pressure, flexible pacing, ease of use) and limitations (technical issues, impersonal interaction, waiting times). Crucially, the authors caution that reduced anxiety should not be assumed to benefit learning: moderate anxiety can be facilitative (Yerkes–Dodson / IZOF), the study measured emotional and usability outcomes only, and they explicitly call for research into whether AI-mediated PBAs improve student attainment.
+> **Synthesis:** Yusuf, Money, and Daylamani-Zad (2026) evaluated AIvaluate, an LLM-augmented, emotionally intelligent [[pedagogical-agent|pedagogical conversational agent]] designed to mediate oral [[assessment|performance-based assessments]] (PBAs). Using a counterbalanced quasi-experimental within-subjects design with 35 pre-university IBDP students comparing face-to-face viva voce with AIvaluate-mediated sessions, they found significantly LOWER self-reported [[well-being|anxiety]] during AIvaluate sessions (calmness M = 6.50 vs. 5.86, p = .028) and "good" usability (SUS 70.64 vs. 66.93). Qualitative analysis surfaced strengths (reduced social pressure, flexible pacing, ease of use) and limitations (technical issues, impersonal interaction, waiting times). Crucially, the authors caution that reduced anxiety should not be assumed to benefit learning: moderate anxiety can be facilitative (Yerkes–Dodson / IZOF), the study measured emotional and usability outcomes only, and they explicitly call for research into whether AI-mediated PBAs improve student attainment.
 
 ## Core Finding
 
@@ -18948,7 +19065,7 @@ AIvaluate significantly reduced student anxiety during oral performance-based as
 
 ## The AIvaluate System
 
-AIvaluate is an emotionally intelligent, LLM-augmented pedagogical conversational agent deployed as a disembodied chatbot with three functions: (1) a conversational interface between student and teacher during oral PBAs, (2) real-time student emotional-state self-reporting (a 1–10 slider), and (3) GPT-4 LLM-augmentation that generates three emotionally intelligent suggested replies for the educator based on the student's last input, conversation history, and live anxiety rating. The virtual sessions ran through a Wizard of Oz setup (the teacher was the unseen interlocutor), and TTS/STT supported text and verbal input. This design foregrounds [[conversational-ai]] and [[pedagogical-agent]] integration within a [[affective-computing]] loop — emotional state data informs adaptive, empathetic response generation.
+AIvaluate is an emotionally intelligent, LLM-augmented pedagogical conversational agent deployed as a disembodied [[conversational-ai|chatbot]] with three functions: (1) a conversational interface between student and teacher during oral PBAs, (2) real-time student emotional-state self-reporting (a 1–10 slider), and (3) GPT-4 LLM-augmentation that generates three emotionally intelligent suggested replies for the educator based on the student's last input, conversation history, and live anxiety rating. The virtual sessions ran through a Wizard of Oz setup (the teacher was the unseen interlocutor), and TTS/STT supported text and verbal input. This design foregrounds [[conversational-ai]] and [[pedagogical-agent]] integration within a [[affective-computing]] loop — emotional state data informs adaptive, empathetic response generation.
 
 ## Study Design & Method
 
@@ -19095,7 +19212,7 @@ Alharbi, W., Hamid, S., Abbas, S., & Salieva, Z. (2026). [*Ethical Generative AI
 
 ## Citation
 
-Al-Rahmi, W. (2026). Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education. *Journal of University Teaching and Learning Practice, 23*(6). https://doi.org/10.53761/fskfah39 (CC BY-ND 4.0, open access).
+Al-Rahmi, W. (2026). [*Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education*](https://doi.org/10.53761/fskfah39). *Journal of University Teaching and Learning Practice*, 23(6).
 
 ---
 
@@ -19504,7 +19621,7 @@ Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh
 
 ## [Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era](https://edtechdev.github.io/aied/articles/asynchronous-oral-assessment-2026/)
 
-> **Synthesis:** Pentland, Lowenthal & Krier (2026) evaluate Asynchronous Oral Assessments (AOAs) — web-based assessments in which prompts are delivered just-in-time, students record brief, time-limited webcam responses that cannot be revisited, and instructors grade against embedded rubrics with auto-generated transcripts. Across two studies (intermediate accounting pilot; data analytics course), students scored higher on AOAs than on in-person multiple-choice exams (Study 2, significant; Study 1, positive but non-significant trends), with moderate cross-format correlations supporting convergent [[assessment-validity|validity]]. Students reported preparing differently for AOAs, using more active study strategies, and perceiving AOAs as professionally relevant and cognitively engaging. The paper positions AOAs as an administratively scalable complement to traditional [[assessment]] that preserves the authenticity and communication value of oral exams while addressing [[academic-integrity|integrity]] concerns in the [[generative-ai|AI]] era.
+> **Synthesis:** Pentland, Lowenthal & Krier (2026) evaluate Asynchronous Oral [[assessment|Assessments]] (AOAs) — web-based assessments in which prompts are delivered just-in-time, students record brief, time-limited webcam responses that cannot be revisited, and instructors grade against embedded rubrics with auto-generated transcripts. Across two studies (intermediate accounting pilot; data analytics course), students scored higher on AOAs than on in-person multiple-choice exams (Study 2, significant; Study 1, positive but non-significant trends), with moderate cross-format correlations supporting convergent [[assessment-validity|validity]]. Students reported preparing differently for AOAs, using more active study strategies, and perceiving AOAs as professionally relevant and cognitively engaging. The paper positions AOAs as an administratively scalable complement to traditional [[assessment]] that preserves the authenticity and communication value of oral exams while addressing [[academic-integrity|integrity]] concerns in the [[generative-ai|AI]] era.
 
 ## Core Finding
 
@@ -19512,7 +19629,7 @@ AOAs offer a scalable, [[authentic-assessment|authentic]] alternative that perfo
 
 ## Asynchronous oral assessments as a scalable assessment format
 
-Traditional oral assessments offer authentic measurement, deeper engagement, and professional communication development, but are underutilized because of logistical demands (scheduling, instructor time, space). AOAs remove these constraints by delivering questions just-in-time and collecting time-limited, non-revisitable recorded responses via standard webcams, graded against embedded rubrics with auto-generated transcripts. Both studies were administered to all enrolled students by a single instructor without scheduling constraints. The delivery mirrors asynchronous video interviews (AVIs) used in personnel selection, drawing on high-structure interviewing principles (randomized questions, short prep windows ~30 s, brief 2–3 min responses) that support reliability and reduce bias.
+Traditional oral assessments offer authentic measurement, deeper engagement, and professional communication development, but are underutilized because of logistical demands (scheduling, instructor time, space). [[authentic-assessment|Authentic]] AOAs remove these constraints by delivering questions just-in-time and collecting time-limited, non-revisitable recorded responses via standard webcams, graded against embedded rubrics with auto-generated transcripts. Both studies were administered to all enrolled students by a single instructor without scheduling constraints. The delivery mirrors asynchronous video interviews (AVIs) used in personnel selection, drawing on high-structure interviewing principles (randomized questions, short prep windows ~30 s, brief 2–3 min responses) that support reliability and reduce bias.
 
 ## Authenticity, professional communication, and engagement
 
@@ -19558,7 +19675,7 @@ This paper is a significant empirical contribution to the wiki's [[assessment]],
 
 ## Citation
 
-Pentland, S. J., Lowenthal, P. R., & Krier, K. (2026). [Asynchronous oral assessments: Enhancing integrity, engagement, and communication in the AI era. *Educational Technology Research and Development*](https://doi.org/10.1007/s11423-026-10677-0).
+Pentland, S. J., Lowenthal, P. R., & Krier, K. (2026). [Asynchronous oral assessments: Enhancing integrity, engagement, and communication in the AI era](https://doi.org/10.1007/s11423-026-10677-0). *Educational Technology Research and Development*.
 
 ---
 
@@ -20056,7 +20173,7 @@ This paper is a strong argument in the wiki's [[plagiarism-detection]] and [[aca
 
 ## Citation
 
-Bassett, M. A., Bradshaw, W., Bornsztejn, H., Hogg, A., Murdoch, K., Pearce, B., & Webber, C. (2026). [Heads we win, tails you lose: AI detectors in education. *Journal of Higher Education Policy and Management*](https://doi.org/10.1080/1360080X.2026.2622146).
+Bassett, M. A., Bradshaw, W., Bornsztejn, H., Hogg, A., Murdoch, K., Pearce, B., & Webber, C. (2026). [Heads we win, tails you lose: AI detectors in education](https://doi.org/10.1080/1360080X.2026.2622146). *Journal of Higher Education Policy and Management*.
 
 ---
 
@@ -20215,7 +20332,7 @@ Becker, E., Bauer, A., Schrader, J., Bitzenbauer, P., & Veith, J. (2026). [Pragm
 
 ## [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://edtechdev.github.io/aied/articles/behaviorally-adaptive-visual-diversion-assessment-2026/)
 
-> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity-in-ai-education]] [[adaptive-learning]]
+> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[inclusive-learning]] [[privacy]] [[academic-integrity]] [[equity-in-ai-education]] [[adaptive-learning]]
 
 Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (Diversion Field Generator, Rendering Tensor, Behavior Tensor, Multi-dimensional Entropy Model). Establishes theoretical properties for content fidelity, rendering stability, entropy boundedness, and closed-loop adaptation stability. Explicitly addresses the trade-off between accessibility and capture resistance.
 
@@ -20226,7 +20343,7 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 ## Connected Concepts
 
 - [[assessment]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[privacy]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
@@ -20362,7 +20479,7 @@ tific fields.
 
 ## Citation
 
-Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. *The Physics Teacher*, 63, 424–427. https://doi.org/10.1119/5.0252343
+Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). [*Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab*](https://doi.org/10.1119/5.0252343). *The Physics Teacher*, 63, 424–427.
 
 ---
 
@@ -20562,7 +20679,7 @@ Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical 
 
 ## [A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol](https://edtechdev.github.io/aied/articles/bilingual-llm-lecture-companion-srl-2026/)
 
-> **Synthesis:** Malhotra (2026) describes a browser-based lecture companion built for bilingual and connectivity-limited contexts, specifically the English-Hindi and 'Hinglish' mixing common in Indian classrooms. It records live lectures, transcribes them in the browser, and uses an LLM to turn transcripts into structured notes and study material, addressing conditions that most published systems ignore: tidy single-language English audio and reliable internet. The paper presents the architecture, theoretical framework, comparative and usability evaluations, and a pre-registered outcomes protocol. It advances [[self-regulated-learning]] support and [[accessible-learning]] for multilingual and resource-constrained [[higher-ed]] settings, connecting to [[language-learning]] and the [[digital-divide]].
+> **Synthesis:** Malhotra (2026) describes a browser-based lecture companion built for bilingual and connectivity-limited contexts, specifically the English-Hindi and 'Hinglish' mixing common in Indian classrooms. It records live lectures, transcribes them in the browser, and uses an LLM to turn transcripts into structured notes and study material, addressing conditions that most published systems ignore: tidy single-language English audio and reliable internet. The paper presents the architecture, theoretical framework, comparative and usability evaluations, and a pre-registered outcomes protocol. It advances [[self-regulated-learning]] support and [[inclusive-learning]] for multilingual and resource-constrained [[higher-ed]] settings, connecting to [[language-learning]] and the [[digital-divide]].
 
 ## Built for Real Classroom Conditions
 
@@ -20574,14 +20691,14 @@ The browser-based system records lectures in English, Hindi, or Hinglish (the En
 
 ## Supporting Self-Regulated Learning
 
-The companion operationalises [[self-regulated-learning]] by turning ephemeral lectures into persistent, structured learning resources that students can revisit and reorganise. Its comparative and usability evaluations, plus a pre-registered outcomes protocol, connect [[llm]] study support to [[language-learning]], [[accessible-learning]], [[accessible-learning]], and equity goals in resource-constrained [[higher-ed]], speaking directly to the [[digital-divide]].
+The companion operationalises [[self-regulated-learning]] by turning ephemeral lectures into persistent, structured learning resources that students can revisit and reorganise. Its comparative and usability evaluations, plus a pre-registered outcomes protocol, connect [[llm]] study support to [[language-learning]], [[inclusive-learning]], [[inclusive-learning]], and equity goals in resource-constrained [[higher-ed]], speaking directly to the [[digital-divide]].
 
 ## Connected Concepts
 
 - [[llm]]
 - [[self-regulated-learning]]
 - [[language-learning]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[higher-ed]]
 - [[generative-ai]]
 - [[digital-divide]]
@@ -20791,7 +20908,7 @@ The paper presents a framework and a case example rather than a rigorous compara
 
 ## Citation
 
-Geger, T., Briechle, D., & Rausch, A. (2026). *Bots and blocks: Presenting a project-based approach for robotics education*. arXiv:2603.14529.
+Geger, T., Briechle, D., & Rausch, A. (2026). [*Bots and blocks: Presenting a project-based approach for robotics education*](https://arxiv.org/abs/2603.14529). arXiv:2603.14529.
 
 ---
 
@@ -21118,7 +21235,7 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 
 ## Citation
 
-Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). The care-full craft of feedback in an age of generative AI. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2643333), 51(5), 911–927
+Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). [*The care-full craft of feedback in an age of generative AI*](https://doi.org/10.1080/02602938.2026.2643333). *Assessment & Evaluation in Higher Education*, 51(5), 911–927
 
 ---
 
@@ -21676,7 +21793,7 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 - [[ai-internal-feedback-evaluative-judgments]]
 ## Citation
 
-Zhan, Y., & Yan, Z. (2026). Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2471821), 51(5), 821–834
+Zhan, Y., & Yan, Z. (2026). [*Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence*](https://doi.org/10.1080/02602938.2025.2471821). *Assessment & Evaluation in Higher Education*, 51(5), 821–834
 
 ---
 
@@ -22324,7 +22441,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 
 ## Citation
 
-Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). Civic education in the age of AI: Should we trust AI-generated lesson plans? [*Contemporary Issues in Technology and Teacher Education*, 25(3)](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/).
+Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). [*Civic education in the age of AI: Should we trust AI-generated lesson plans*](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/). *Contemporary Issues in Technology and Teacher Education*
 
 ---
 
@@ -23350,7 +23467,7 @@ Sun, Y., Xin, H., Niu, Q., Li, S., Huang, L., & Chen, G. (2026). [Computational 
 
 ## [Exploring the Effect of Computational Thinking Levels on Students' Learning Performance, Cognition, and Behavior](https://edtechdev.github.io/aied/articles/computational-thinking-aica-2026/)
 
-> **Synthesis:** Zhao, Wang, Chen, Kang, and Lan (2026) examined how students' computational thinking (CT) levels shape learning when using an AI coding assistant (AICA) in K-12 Python instruction. In a four-week AICA-assisted coding course, 52 eighth-grade students (26 high-CT, 26 low-CT, split by validated CT pre-test) were compared on learning performance (pre/post-tests), behavior (Lag Sequential Analysis of screen recordings), and cognition (Epistemic Network Analysis of reflection journals). The high-CT group significantly outperformed the low-CT group on post-test performance (72.54 vs. 61.73, p = .031). Behaviorally, high-CT students used the AICA for code understanding, debugging, and explanation; low-CT students used it for immediate answer retrieval and code copying. Cognitively, high-CT students showed strong, well-connected self-regulatory coherence across planning, execution, and self-reflection phases, whereas low-CT students showed a sparse network dominated by help-seeking. The authors propose differentiated instruction: open-ended AICA support for high-CT students and structured SRL guidance for low-CT students.
+> **Synthesis:** Zhao, Wang, Chen, Kang, and Lan (2026) examined how students' [[computational-thinking|computational thinking]] (CT) levels shape learning when using an [[generative-ai|AI coding assistant]] (AICA) in K-12 Python instruction. In a four-week AICA-assisted coding course, 52 eighth-grade students (26 high-CT, 26 low-CT, split by validated CT pre-test) were compared on learning performance (pre/post-tests), behavior (Lag Sequential Analysis of screen recordings), and cognition (Epistemic Network Analysis of reflection journals). The high-CT group significantly outperformed the low-CT group on post-test performance (72.54 vs. 61.73, p = .031). Behaviorally, high-CT students used the AICA for code understanding, debugging, and explanation; low-CT students used it for immediate answer retrieval and code copying. Cognitively, high-CT students showed strong, well-connected self-regulatory coherence across planning, execution, and self-reflection phases, whereas low-CT students showed a sparse network dominated by help-seeking. The authors propose differentiated instruction: open-ended AICA support for high-CT students and structured SRL guidance for low-CT students.
 
 ## Core Finding
 
@@ -24473,7 +24590,7 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - [[ai-literacy-assessment-misalignment]]
 ## Citation
 
-Hefter, M. H., Paaßen, B., & Berthold, K. (2026). GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use. [*AI Educ.*](https://doi.org/10.3390/aieduc2030027), 2, 27
+Hefter, M. H., Paaßen, B., & Berthold, K. (2026). [*GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use*](https://doi.org/10.3390/aieduc2030027). *AI Educ.*, 2, 27
 
 ---
 
@@ -25794,7 +25911,7 @@ Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasek
 
 DysLexLens is a low-resource LLM framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted knowledge graph reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
 
-The research reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[accessible-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive AI education must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
+The research reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[inclusive-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive AI education must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
 
 By grounding analysis in real user discourse rather than controlled experiments, the work complements traditional [[llm-student-modeling-memory|student modeling approaches]] and provides an evidence base for designing AI tools that better serve neurodiverse learners.
 
@@ -25802,7 +25919,7 @@ By grounding analysis in real user discourse rather than controlled experiments,
 
 - [[special-education]]
 - [[ai-literacy]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[student-experience]]
 - [[language-learning]]
@@ -26078,11 +26195,11 @@ Hardy, M., & Kim, Y. (2026). [*Knowledge without Wisdom: Measuring Misalignment 
 
 ## [Pathways to Learning: Exploring High School Students' Learning of AI-Powered Educational Robotics](https://edtechdev.github.io/aied/articles/educational-robotics-pathways-2026/)
 
-> **Synthesis:** A qualitative study of 15 high school students in a semester-long, project-based robotics + AI curriculum (mBot kits + image recognition ML) reveals that students develop understanding of [[educational-robotics]] and AI through three epistemically plural pathways — engaging in real-world robotics practices (troubleshooting hardware, sensors, and physical conditions), designing (building and iterating costumes for their robots), and playful/creative expression (personalizing code and exploring AI features). Grounded in [[constructivist]] theory and epistemological pluralism, the study argues these diverse forms of engagement are legitimate ways of knowing in computing — not mere stepping stones toward "real" coding — and offers alternative entry points for broadening participation in [[k-12]] [[cs-education]].
+> **Synthesis:** A qualitative study of 15 high school students in a semester-long, [[project-based-learning|project-based]] robotics + AI curriculum (mBot kits + image recognition ML) reveals that students develop understanding of [[educational-robotics]] and AI through three epistemically plural pathways — engaging in real-world robotics practices (troubleshooting hardware, sensors, and physical conditions), designing (building and iterating costumes for their robots), and playful/creative expression (personalizing code and exploring AI features). Grounded in [[constructivist]] theory and epistemological pluralism, the study argues these diverse forms of engagement are legitimate ways of knowing in computing — not mere stepping stones toward "real" coding — and offers alternative entry points for broadening participation in [[k-12]] [[cs-education]].
 
 ## Core Finding
 
-Drawing on constructionist theory and **epistemological pluralism** (Turkle & Papert, 1992), this study reframes learning in [[educational-robotics]] and AI as an **epistemically plural endeavor**: high school students developed meaningful understandings of robotics and AI not through a single, code-centric route, but through three distinct and legitimate pathways — engagement in real-world robotics practices, designing, and playful/creative expression. The qualitative analysis (interviews, 31 hours of field notes, student artifacts, final presentations) shows students learned robotics (motion planning, programming, robot structure, sensors) and AI (machine learning, sensor-based perception) through these diverse forms of engagement, demonstrating that pluralistic approaches **do not come at the expense of disciplinary goals**.
+Drawing on [[constructivist|constructionist]] theory and **epistemological pluralism** (Turkle & Papert, 1992), this study reframes learning in [[educational-robotics]] and AI as an **epistemically plural endeavor**: high school students developed meaningful understandings of robotics and AI not through a single, code-centric route, but through three distinct and legitimate pathways — engagement in real-world robotics practices, designing, and playful/creative expression. The qualitative analysis (interviews, 31 hours of field notes, student artifacts, final presentations) shows students learned robotics (motion planning, programming, robot structure, sensors) and AI (machine learning, sensor-based perception) through these diverse forms of engagement, demonstrating that pluralistic approaches **do not come at the expense of disciplinary goals**.
 
 The study positions these three pathways not as preparatory steps toward "real" computing, but as **alternative endpoints** in computing education — arguing for expanding what counts as valued CS knowledge and offering meaningful entry points for learners who may not connect with traditional, lecture-based computer science pedagogies.
 
@@ -26908,7 +27025,7 @@ Tufino, E., & Damiani, P. (2026). [*Embodied inquiry with AI as facilitator: An 
 
 Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
 
-The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[accessible-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
+The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[inclusive-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
 
 ## Key Findings
 
@@ -26919,12 +27036,12 @@ The work extends [[special-education]] and special-education-ai by centring disa
 
 ## Implications
 
-This design study exemplifies [[embodied-learning]] and the principle that inclusive instruction is best designed with disabled learners, not merely adapted for them. It connects to [[universal-design-for-learning]] and [[accessible-learning]] frameworks, and suggests that AI or multimodal support for one-on-one performance training should preserve tactile and kinesthetic channels rather than defaulting to visual feedback.
+This design study exemplifies [[embodied-learning]] and the principle that inclusive instruction is best designed with disabled learners, not merely adapted for them. It connects to [[universal-design-for-learning]] and [[inclusive-learning]] frameworks, and suggests that AI or multimodal support for one-on-one performance training should preserve tactile and kinesthetic channels rather than defaulting to visual feedback.
 
 ## Connected Concepts
 
 - [[special-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[embodied-learning]]
@@ -27360,7 +27477,7 @@ The study used an exploratory cross-sectional design with an online survey (host
 
 ## Citation
 
-Enright, H., Horvath, D., Petrovic, K., & Šarkić, B. (2026). "AI should help them learn, not learn for them": University staff perspectives on the role of Generative AI in education. *Journal of University Teaching and Learning Practice*, 23(7). https://doi.org/10.53761/d5n2yh02 (CC BY-ND).
+Enright, H., Horvath, D., Petrovic, K., & Šarkić, B. (2026). [*"AI should help them learn, not learn for them": University staff perspectives on the role of Generative AI in education*](https://doi.org/10.53761/d5n2yh02). *Journal of University Teaching and Learning Practice*, 23(7).
 
 ---
 
@@ -27884,7 +28001,7 @@ Two experiments examined how avatar race, gender, and age shape [[trust]] in [[a
 - [[socratic-method]]
 - [[math-education]]
 - [[higher-ed]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 
@@ -28105,7 +28222,7 @@ The editors distill five recurring tensions from the special issue:
 
 ## Citation
 
-Zhan, Y., Wood, J., Carless, D., & Yan, Z. (2026). Feedback futures: beyond the limits of human and GenAI capacities. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2672830), 51(5), 811–820
+Zhan, Y., Wood, J., Carless, D., & Yan, Z. (2026). [*Feedback futures: beyond the limits of human and GenAI capacities*](https://doi.org/10.1080/02602938.2026.2672830). *Assessment & Evaluation in Higher Education*, 51(5), 811–820
 
 ---
 
@@ -28721,7 +28838,7 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 
 ## Citation
 
-Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). *Game-based and gamified robotics education: A comparative systematic review and design guidelines*. arXiv:2601.22199. doi:10.1145/3772318.3791338.
+Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). [*Game-based and gamified robotics education: A comparative systematic review and design guidelines*](https://doi.org/10.1145/3772318.3791338). arXiv:2601.22199.
 
 ---
 
@@ -29263,7 +29380,7 @@ The paper focuses on a specific cybersecurity lab context, and the described stu
 
 ## Citation
 
-Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Saber Latibari, B., Pacheco, J., Salehi, S., & Satam, P. (2025). *Integrating generative AI into cybersecurity education: A study of OCR and multimodal LLM-assisted instruction*. arXiv:2509.02998.
+Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Saber Latibari, B., Pacheco, J., Salehi, S., & Satam, P. (2025). [*Integrating generative AI into cybersecurity education: A study of OCR and multimodal LLM-assisted instruction*](https://arxiv.org/abs/2509.02998). arXiv:2509.02998.
 
 ---
 
@@ -29516,7 +29633,7 @@ g revision.**
 
 ## Citation
 
-Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation. [*International Journal of Educational Technology in Higher Education*](https://doi.org/10.1186/s41239-026-00614-9), *23*(38)
+Ateş, H. (2026). [*Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation*](https://doi.org/10.1186/s41239-026-00614-9). *International Journal of Educational Technology in Higher Education*, *23*(38)
 
 ---
 
@@ -29989,7 +30106,7 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[special-education]]
 - [[ai-literacy]]
 - [[ethics]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[culturally-relevant-pedagogy]]
 ## Connected Articles
 
@@ -30478,7 +30595,7 @@ Between-groups, mixed-methods pilot at a small community-based U.S. medical scho
 - [[genai-patient-education-transplant-handbooks]] — Generative AI for Patient Education: Grounding Content and Equity in Transplant Handbooks
 
 ## Citation
-Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based [[learning-gains|learning]] tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.
+Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based learning tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.
 
 ---
 
@@ -30630,7 +30747,7 @@ The two most frequent comparison themes were the nature of the feedback **inform
 
 ## Citation
 
-Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2026). Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2502582), 51(5), 863–878
+Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2026). [*Comparing Generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness*](https://doi.org/10.1080/02602938.2025.2502582). *Assessment & Evaluation in Higher Education*, 51(5), 863–878
 
 ---
 
@@ -31529,7 +31646,7 @@ Baicheng Lin, Lingxi Jin, Kyung-Seok Min (2026). [Comparative Validation of GPT-
 
 ## Core Finding
 
-A hybrid ITS that combines a structured graph-based domain model (EKSG), a relational database for real-time activity/knowledge tracking, and a generative-AI content-creation assistant is feasible and pedagogically effective in a dynamic domain. In the algorithm comparison, the **Bayesian knowledge propagation algorithm yielded the highest measured learning gains** (BN +24% vs KST +5%, WDDI +1%), and it also had the lowest prediction error alongside a graph-neural-network baseline — supporting it as the strongest adaptive algorithm in this coarse-grained curriculum setting.
+A hybrid [[intelligent-tutoring|ITS]] that combines a structured graph-based domain model (EKSG), a relational database for real-time activity/knowledge tracking, and a generative-AI content-creation assistant is feasible and pedagogically effective in a dynamic domain. In the [[adaptive-learning|adaptive algorithm]] comparison, the **Bayesian knowledge propagation algorithm yielded the highest measured learning gains** (BN +24% vs KST +5%, WDDI +1%), and it also had the lowest prediction error alongside a graph-neural-network baseline — supporting it as the strongest adaptive algorithm in this coarse-grained [[curriculum-design|curriculum]] setting.
 
 ## What the System Is
 
@@ -31543,10 +31660,10 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 ## How Adaptation Works
 
 - Learner assessment responses are mapped to **IFL mastery values** per knowledge unit (truth/falsity/hesitation on an adapted Atanassov IFL triangle).
-- These observed values are **propagated through the knowledge graph** using one of three algorithms (BN, KST, or WDDI) to estimate mastery of related (unassessed) units.
+- These observed values are **propagated through the [[knowledge-graph|knowledge graph]]** using one of three algorithms (BN, KST, or WDDI) to estimate mastery of related (unassessed) units.
 - The system recommends the next knowledge unit: units outside the "KNOWS" region are ranked by proximity to the "knows" vertex.
 - **Forgetting** is modeled as a vector shift toward "unknown" using the Ebbinghaus forgetting curve, driven by elapsed time and repetitions; units most vulnerable to decay are prioritized for review.
-- Learners **may follow or override recommendations**, supporting agency and self-regulated learning.
+- Learners **may follow or override recommendations**, supporting [[agency]] and [[self-regulated-learning|self-regulated learning]].
 
 ## Results
 
@@ -31562,7 +31679,7 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 
 ## Relevance to the wiki
 
-This is a development article that demonstrates a complete, implemented pipeline from a knowledge-graph domain model through adaptive algorithms and real-time learning analytics to generative content creation — an integration rarely reported end-to-end. Its empirical comparison of multiple adaptive algorithms (with the **Bayesian algorithm showing the highest knowledge gains**) is directly relevant to comparative ITS design, while its explicit modeling of forgetting, IFL-based uncertainty, and log-driven self-regulated-learning analysis connects several core wiki themes. The GenAI content-generation component with teacher-in-the-loop validation offers an applied example of generative AI in instructional design.
+This is a development article that demonstrates a complete, implemented pipeline from a [[knowledge-graph|knowledge-graph domain model]] through adaptive algorithms and real-time [[learning-analytics|learning analytics]] to generative content creation — an integration rarely reported end-to-end. Its empirical comparison of multiple adaptive algorithms (with the **Bayesian algorithm showing the highest knowledge gains**) is directly relevant to comparative ITS design, while its explicit modeling of forgetting, IFL-based uncertainty, and log-driven [[self-regulated-learning|self-regulated-learning analysis]] connects several core wiki themes. The GenAI content-generation component with teacher-in-the-loop validation offers an applied example of generative AI in instructional design.
 
 ## Connected Concepts
 
@@ -31590,7 +31707,7 @@ This is a development article that demonstrates a complete, implemented pipeline
 
 ## Citation
 
-Csépányi-Fürjes, L., & Kovács, L. (2026). [Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting](https://doi.org/10.1007/s11423-026-10639-6). *Educational Technology Research and Development*. https://doi.org/10.1007/s11423-026-10639-6
+Csépányi-Fürjes, L., & Kovács, L. (2026). [Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms with intuitionistic fuzzy logic and forgetting](https://doi.org/10.1007/s11423-026-10639-6). *Educational Technology Research and Development*.
 
 ---
 
@@ -31737,7 +31854,7 @@ Amanlou, M., Amou-Jafari, Y., Livani, M., Boloukazari, F., Bagheri, F., & Bahrak
 
 ## [Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence](https://edtechdev.github.io/aied/articles/guillen-curriculum-genai-teacher-competence-2026/)
 
-> **Synthesis:** This PLS-SEM study of 434 in-service teachers in the Dominican Republic designs and psychometrically validates an extended Technology Acceptance Model (TAM) instrument for assessing teacher digital competence in integrating [[generative-ai|generative AI]] tools into curriculum planning. All 12 hypothesized paths were supported, and **behavioural intention emerged as the main predictor of digital competence** (β = 0.479), with [[self-efficacy]] exerting the largest effect on perceived enjoyment (f² = 1.839). The model demonstrated strong reliability, convergent and discriminant validity, and good explanatory power (BI R² = 0.694; DC R² = 0.230), positioning behavioural intention as a strategic priority for [[teacher-ai-competency]] development.
+> **Synthesis:** This PLS-SEM study of 434 in-service [[teacher-role|teachers]] in the Dominican Republic designs and psychometrically validates an extended [[technology-acceptance-model|Technology Acceptance Model]] (TAM) instrument for assessing teacher digital competence in integrating [[generative-ai|generative AI]] tools into curriculum planning. All 12 hypothesized paths were supported, and **behavioural intention emerged as the main predictor of digital competence** (β = 0.479), with [[self-efficacy]] exerting the largest effect on perceived enjoyment (f² = 1.839). The model demonstrated strong reliability, convergent and discriminant validity, and good explanatory power (BI R² = 0.694; DC R² = 0.230), positioning behavioural intention as a strategic priority for [[teacher-ai-competency]] development.
 
 ## Core Finding
 
@@ -33124,6 +33241,73 @@ Wang, X., Zheng, Z., Zhang, J., Hou, X., & Zhu, Z. (2026). [*The IDEA Framework 
 
 ---
 
+## [Artificial Intelligence in Education: A Systematic Review of Personalized Learning Trends and Future Directions](https://edtechdev.github.io/aied/articles/ikram-ai-personalized-learning-review-2026/)
+
+> **Synthesis:** Ikram, Hanefar, Saleem, and Zulfiqar (2026) conducted a PRISMA-guided systematic review with a meta-literature component, drawing on 31 Scopus-indexed peer-reviewed articles (2013–2025) on [[ai-education|AI in education]] and [[personalized-learning|personalized learning]]. The review traces the field's evolution from 1970s–1980s rule-based [[intelligent-tutoring|intelligent tutoring systems]] and the 1990s emergence of [[learning-analytics]] through contemporary [[generative-ai]] and [[llm]] systems driving an "Education 5.0" vision of learner-centered, human-AI collaborative learning. Findings reveal a transition in research leadership from China, the USA, and Europe toward broader Asia (China six papers, India four), a predominance of qualitative methods (14 of 31), and interdisciplinary spread across Social Sciences (30.2%), Computer Science (26.2%), and Engineering. Six themes organize the literature: personalized learning pathways and student engagement, predictive analytics and [[assessment]] for early intervention, [[teacher-role]] and digital competence, [[ethics]] and data privacy governance, generative AI in Education 5.0, and [[equity-in-ai-education]] and socio-cultural impact. The authors stress that effective integration requires explicit alignment of AI features with [[pedagogy]] (constructivist and social learning theory), differentiated [[faculty-development|professional development]], and ethical governance frameworks addressing algorithmic bias and unequal access. Methodologically, the review is descriptive and thematic rather than a quantitative meta-analysis, and it excludes gray and non-English literature.
+
+## Core Finding
+
+AI-driven personalized learning is a maturing, interdisciplinary field whose benefits are real but conditional: AI-enabled adaptive systems show medium-to-large cognitive effects (g = 0.50–0.70), yet these are heavily moderated by implementation quality, context, learner characteristics, and study design. The review's central contribution is showing that progress has shifted from a narrow technological narrative to an integrated concern for pedagogical grounding, teacher readiness, and ethical governance. It positions [[personalized-learning]] as the flagship AIED application and identifies generative AI as the next transformative catalyst, while cautioning that its expansion — combined with persistent concerns about educational standards in developing countries — may create new institutional pressures. The field is dominated by qualitative exploration of lived experience, signaling that researchers currently privilege understanding how AI shapes learning over scalable, data-driven causal evidence.
+
+## Personalized Learning Pathways and Student Engagement
+
+The most prominent theme is AI's capacity to construct personalized learning experiences tailored to individual needs, providing real-time [[feedback]], flexibly adjusting content, and encouraging creativity and motivation. Reported outcomes include increased vocabulary retention, more accurate syntax, deeper comprehension of complex concepts, and heightened [[student-engagement]]. AI-driven gamification and continuous evaluation outperform traditional instruction. This theme grounds [[personalized-learning]] as an empirically supported pathway that benefits both academic performance and learners' motivation to take an active role in their learning.
+
+## Predictive Analytics, Assessment, and Early Intervention
+
+AI systems project academic progress, group learners by risk level, and enable early intervention strategies, including AI-supported oral assessments and simulation-based instruction that improve both [[assessment]] validity and inclusivity. Predictive algorithms and recommendation models equip educators to develop targeted strategies that reduce dropout rates and support struggling learners. This signals a broader movement toward data-driven, preventative approaches in education, linking [[learning-analytics]] and [[student-modeling]] to actionable instructional support.
+
+## Teacher Training, Digital Competence, and Pedagogical Innovation
+
+The review finds that AI's effectiveness depends heavily on pedagogical alignment rather than the technology alone. Both pre-service and practicing teachers require preparation to adopt AI for personalized education, and teacher [[agency]] and digital literacy emerge as pivotal for equitable integration. The authors argue for making pedagogical assumptions explicit, aligning system design features with constructivist and social learning principles that guide how learners actively engage, collaborate, and regulate their learning. This directly implicates [[teacher-role]], [[pedagogy]], and [[self-regulated-learning]].
+
+## Ethics, Governance, and Data Privacy
+
+A cross-cutting theme is the importance of [[ethics]] and governance in AI adoption. Recurring concerns include data privacy, algorithmic bias, unequal access, and epistemic trust. Learners voiced apprehension about inaccuracies and misuse of AI-generated information, especially in high-stakes fields such as medicine. Scholars propose robust governance structures, transparency protocols, and regular audits, and educators favor hybrid models that integrate AI with conventional methods rather than replacing them. This frames ethical practice as essential to equitable and trustworthy educational outcomes, linking to [[equity-in-ai-education]].
+
+## Generative AI and Education 5.0 Transformation
+
+The review operationalizes Education 5.0 as a learner-centered paradigm integrating advanced digital technologies, including generative AI, with humanistic values, inclusivity, and societal relevance. Generative AI is seen as pivotal in delivering adaptive instruction, personalizing content creation, and catering to learners with unique needs, including twice-exceptional and neurodivergent learners through strengths-based approaches. In professional disciplines like nursing and medicine, prompt engineering and AI tutoring strengthen analytical and clinical skills. This positions [[generative-ai]] and [[llm]] systems not merely as supportive tools but as catalysts reshaping learning design and inclusivity across [[higher-ed]] and professional education.
+
+## Relevance to the wiki
+
+This is a significant, high-confidence contribution to the wiki's [[personalized-learning]] concept, offering a systematic, PRISMA-grounded synthesis of the field's trends and future directions. It provides the scholarly framing and evidence base that connects [[personalized-learning]] to adjacent concepts including [[adaptive-learning]], [[intelligent-tutoring]], [[student-modeling]], [[learning-analytics]], [[assessment]], and [[feedback]]. The review is especially valuable as a boundary-defining source for [[ai-education]] and [[generative-ai]], articulating an explicit operationalization of generative AI and Education 5.0. It also strengthens the wiki's treatment of [[teacher-role]], [[pedagogy]], [[agency]], and [[equity-in-ai-education]] by showing that AI's success depends on pedagogical alignment and ethical governance, not just technical capability. Its geographic findings (shift toward Asia) and call for methodological diversity offer a distinctive, cross-cultural lens the wiki can use to contextualize individual empirical studies.
+
+## Connected Concepts
+
+- [[personalized-learning]] — The review's central subject; it systematically synthesizes the field's trends, pathways, and future directions, directly advancing this concept.
+- [[adaptive-learning]] — Contemporary AI personalized systems use adaptive algorithms (collaborative filtering, recommendation, deep learning) to adjust content, pacing, and delivery in real time.
+- [[intelligent-tutoring]] — Traces the evolution from 1970s–1980s rule-based ITS through to generative-AI-driven virtual tutors and conversational agents.
+- [[ai-education]] — The overarching field the review surveys, mapping research priorities, geographic spread, methods, and subject areas across AIED.
+- [[generative-ai]] — Explicitly operationalized as context-sensitive AI producing text, feedback, materials, or dialogue; a transformative catalyst in Education 5.0.
+- [[llm]] — Large language models enable contextually appropriate feedback, personalized materials, and natural-language learner interaction.
+- [[student-modeling]] — Early ITS student models track learner progress and characteristics; modern learner profiles integrate clickstream, assessment, and interaction data.
+- [[assessment]] — AI-enabled predictive analytics, AI-supported oral assessment, and continuous evaluation improve assessment validity, inclusivity, and early intervention.
+- [[feedback]] — Real-time, personalized feedback is a core mechanism of AI-driven personalized learning pathways and engagement.
+- [[learning-analytics]] — Emerged in the 1990s as a discipline focused on systematic collection, analysis, and interpretation of educational data.
+- [[teacher-role]] — Teacher readiness, digital competence, acceptance, and trust are critical factors in effective AI integration.
+- [[pedagogy]] — The review argues for explicit alignment of AI features with constructivist and social learning theories.
+- [[instructional-design]] — Adaptive content sequencing, learner-controlled pacing, and content personalization are grounded in constructivist learning design.
+- [[higher-ed]] — A dominant context of the reviewed studies; also professional disciplines such as nursing and medicine.
+- [[ethics]] — Data privacy, algorithmic bias, transparency, accountability, and epistemic trust are central cross-cutting concerns.
+- [[equity-in-ai-education]] — AI can both broaden access and perpetuate inequalities; cultural tailoring, cross-cultural validation, and equitable access are emphasized.
+- [[agency]] — Teacher agency and digital literacy emerge as pivotal factors for equitable, impactful AI integration.
+- [[self-regulated-learning]] — AI's influence on motivation, self-regulation, and metacognitive awareness is noted as an under-measured benefit of personalization.
+- [[k-12]] — Mentions early childhood education and computational/creative thinking among younger learners as future directions.
+
+## Connected Articles
+
+- [[ai-ethics-bibliometric-2026]] — Bibliometric companion examining the ethics landscape of AI in education.
+- [[scaffolding-systematic-reviews-2026]] — Methodological precedent for systematic review workflows in the wiki.
+- [[computational-thinking-aica-2026]] — Empirical K-12 study on AI coding assistants and learner characteristics complementing this field-wide review.
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — The Zhang et al. (2024) meta-analysis cited throughout this review on AI interventions for diverse learner populations.
+
+## Citation
+
+Ikram, M., Hanefar, S. B. M., Saleem, S. M. U., & Zulfiqar, F. (2026). [*Artificial intelligence in education: a systematic review of personalized learning trends and future directions*](https://doi.org/10.3389/feduc.2026.1782626). *Frontiers in Education*, 11:1782626.
+
+---
+
 ## [IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems](https://edtechdev.github.io/aied/articles/iks-instruct-dataset-indian-knowledge/)
 
 Presents a 24,795-example multilingual instruction dataset for teaching LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western pedagogical content for instruction tuning. Demonstrates that domain-specific educational datasets improve LLM performance on culturally grounded knowledge tasks.
@@ -33958,7 +34142,7 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 
 ## Citation
 
-Fried, M. (2026). *AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently*. Ithaka S+R. https://sr.ithaka.org/publications/ai-skills-for-college-graduates/
+Fried, M. (2026). [*AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently*](https://sr.ithaka.org/publications/ai-skills-for-college-graduates/). Ithaka S+R.
 
 ---
 
@@ -34222,7 +34406,7 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 
 ## Citation
 
-Jošt, G., Taneski, V., & Karakatič, S. (2024). The impact of large language models on programming education and student learning outcomes. *Applied Sciences*, *14*(4115). https://doi.org/10.3390/app14104115
+Jošt, G., Taneski, V., & Karakatič, S. (2024). [*The impact of large language models on programming education and student learning outcomes*](https://doi.org/10.3390/app14104115). *Applied Sciences*, 14(4115).
 
 ---
 
@@ -34342,7 +34526,7 @@ Across the reviewed studies, AI serves several distinct purposes in the ID proce
 - **Enhancing or assisting instructional design** (22 studies, 78.5%): AI supports pre-instructional planning, analysis, and decision-making—conceptualizing, structuring, and aligning instruction with learning objectives and learner needs, contributing to design cognition rather than media production.
 - **Supporting teaching delivery** (17 studies, 60.7%): AI generates explanations, discussion questions, activity ideas, lesson scenarios, and reflection questions, and adapts language complexity to different learner groups—mediating teacher–learner interaction rather than shaping ID decisions.
 - **Assessment design** (14 studies, 50%): AI creates quizzes, question banks, and assessment criteria, and provides instant or adaptive [[feedback]], supporting continuous assessment and the evaluation and revision of assessment strategies.
-- **Innovating in instructional strategies** (9 studies): AI enables intelligent tutoring systems, [[personalized-learning|adaptive learning environments]], learning analytics, and predictive instruction that reshape instructional models.
+- **Innovating in instructional strategies** (9 studies): AI enables [[intelligent-tutoring|intelligent tutoring systems]], [[personalized-learning|adaptive learning environments]], [[learning-analytics|learning analytics]], and predictive instruction that reshape instructional models.
 - **Multimedia content creation** (7 studies) and **facilitating accessibility and inclusivity** (4 studies): AI produces image/audio/video learning materials and reduces access barriers through transcripts and narrated descriptions of visual data.
 
 ## Reported Benefits
@@ -34355,7 +34539,7 @@ Across the reviewed studies, AI serves several distinct purposes in the ID proce
 
 ## Challenges and Limitations
 
-Challenges most frequently cited are [[pedagogy|pedagogical]] **alignment** (14 studies), **teacher/designer readiness** rooted in limited AI literacy and prompt uncertainty (12 studies), **trust and reliability** concerns (11 studies), and **prompting iteration workload** (10 studies). Additional challenges include ethical uncertainty around plagiarism and academic integrity (8 studies), organizational barriers (7 studies), contextual adaptation difficulties (5 studies), and learner engagement concerns (5 studies).
+Challenges most frequently cited are [[pedagogy|pedagogical]] **alignment** (14 studies), **teacher/designer readiness** rooted in limited AI literacy and prompt uncertainty (12 studies), **trust and reliability** concerns (11 studies), and **prompting iteration workload** (10 studies). Additional challenges include ethical uncertainty around plagiarism and [[academic-integrity|academic integrity]] (8 studies), organizational barriers (7 studies), contextual adaptation difficulties (5 studies), and learner engagement concerns (5 studies).
 
 Limitations center on **content reliability and transparency** (16 studies)—inaccurate, fabricated, or contradictory outputs, with GenAI characterized as a "black box"—followed by **technical/tool-specific limits** (12 studies), **contextual and cultural blindness** (10 studies), **low cognitive demand outputs** (7 studies), **phase-limited integration** (5 studies), and **lack of deep pedagogical reasoning** (3 studies). These findings collectively affirm a [[human-in-the-loop-ai|human-in-the-loop]] view: GenAI functions as an augmentative rather than a replacement technology, with human expertise essential for interpreting, refining, and contextualizing machine-generated content.
 
@@ -34393,7 +34577,7 @@ Kibar, P. N., & Ilgaz, H. (2026). [*The intersection of artificial intelligence 
 
 ## Core Finding
 
-Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *collaborative learning agent* that helps them solve complex problems, share knowledge, deepen understanding, and hone higher-order thinking. For [[instructional-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
+Adult learners perceive AI as supporting every facet of [[adult-learning|andragogy]] — involvement, experience, problem-centered learning, and relevance — and view it as a *[[collaborative-learning|collaborative learning agent]]* that helps them solve complex problems, share knowledge, deepen understanding, and hone [[critical-thinking|higher-order thinking]]. For [[instructional-design|design]], they do not want perfect, zero-error AI; they want systems that are [[human-in-the-loop-ai|human-in-the-loop]], emotionally attuned, and continuously adaptive. Because the study centers on perceptions rather than outcome measures, it contributes design-direction evidence rather than direct [[learning-gains|learning-gain]] claims.
 
 ## AI as a collaborative learning agent
 
@@ -34419,7 +34603,7 @@ AI supports **relevance** through goal orientation — real-time progress monito
 
 **Human-in-the-loop (HITL):** Learners want systems that build [[human-in-the-loop-ai|shared mental models]] with them — human-interpretable decision-making so they can understand and anticipate system behavior while the AI continuously learns their expectations, preferences, and goals. They also demand **human-AI co-creation**: *"It's not the system that decides what to offer for my learning journey. I'd like to take part in deciding…"* (P20), letting learners influence generative parameters and model choices as co-creators rather than passive users. This is a direct call to honor [[agency|learner agency]].
 
-**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and anxiety. This emotional attunement supports [[well-being]] and self-regulation in learning.
+**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and anxiety. This emotional attunement supports [[well-being]] and [[self-regulated-learning|self-regulation]] in learning.
 
 **Adaptability:** AI should keep learning from new interactions after deployment rather than remaining frozen on static datasets, graduating from closed problem-solving to varied real-world problems. It should also be **interoperable**, moving and exchanging data seamlessly across platforms and tools — even enabling [[conversational-ai|multi-agent]] collaboration.
 
@@ -34463,7 +34647,7 @@ This paper is the companion to the wiki's [[kim-ai-productive-failure-adult-2026
 
 ## Citation
 
-Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Adult learners' perspectives of AI applications in supporting andragogy*](https://doi.org/10.1007/s11423-026-10621-2). *Educational Technology Research & Development*. DOI: 10.1007/s11423-026-10621-2.
+Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Adult learners' perspectives of AI applications in supporting andragogy*](https://doi.org/10.1007/s11423-026-10621-2). *Educational Technology Research & Development*.
 
 ---
 
@@ -34848,7 +35032,7 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 - [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[student-experience]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[k-12]]
 ## Connected Articles
 
@@ -35270,7 +35454,7 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 
 ## Citation
 
-Aldino, A. A., Maheshi, B., Li, Y., Zhou, Y., Tsai, Y.-S., Gašević, D., & Chen, G. (2026). Enhancing learner-centered feedback with AI: Teachers' practices and perceptions. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2638920), 51(5), 892–910
+Aldino, A. A., Maheshi, B., Li, Y., Zhou, Y., Tsai, Y.-S., Gašević, D., & Chen, G. (2026). [*Enhancing learner-centered feedback with AI: Teachers' practices and perceptions*](https://doi.org/10.1080/02602938.2026.2638920). *Assessment & Evaluation in Higher Education*, 51(5), 892–910
 
 ---
 
@@ -36227,7 +36411,7 @@ This work reframes debates about AI feedback from mere access to *actionable lit
 
 ## Citation
 
-Liu, K., & Deris, F. D. (2025). AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake. *Assessment & Evaluation in Higher Education*. https://doi.org/10.1080/02602938.2025.2587924
+Liu, K., & Deris, F. D. (2025). [*AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake*](https://doi.org/10.1080/02602938.2025.2587924). *Assessment & Evaluation in Higher Education*.
 
 ---
 
@@ -37407,7 +37591,7 @@ Wenjie Zhou, Yunting Liu, Renjiao Tang, Mark Wilson (2026). [Aligning LLM-Simula
 
 ## [Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners](https://edtechdev.github.io/aied/articles/llm-question-generation-deaf-hard-of-hearing-2026/)
 
-Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnagar (2026) designed and evaluated an LLM-powered question-generation system tailored to [[accessible-learning|Deaf and Hard of Hearing (DHH) learners]] for video-based learning. The study uses Language Deprivation Theory to uncover risks in learner–LLM interactions and derive design implications.
+Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnagar (2026) designed and evaluated an LLM-powered question-generation system tailored to [[inclusive-learning|Deaf and Hard of Hearing (DHH) learners]] for video-based learning. The study uses Language Deprivation Theory to uncover risks in learner–LLM interactions and derive design implications.
 
 ## Key Findings
 
@@ -37426,7 +37610,7 @@ The study highlights the importance of considering **[[language-learning|languag
 - [[llm]]
 - [[generative-ai]]
 - [[special-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[automated-question-generation]]
 - [[personalized-learning]]
 - [[equity-in-ai-education]]
@@ -38285,11 +38469,11 @@ Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intellige
 
 LUDIA is a no-cost, private, multilingual AI thought partner that connects educators with the Universal Design for Learning (UDL) framework. This statement describes the August 2026 relaunch rebuilt for privacy (no accounts, no cookies, no data collection), accessibility (WCAG 2.2 Level AA), and scale (13 languages, public-good architecture). The tool is positioned as a thought partner rather than content generator, and is evaluated against four 2026 guides from UNICEF, the European Commission, the EdTech Quality Collaborative, and the European EdTech Alliance.
 
-The work contributes to understanding of [[universal-design-for-learning]] in educational contexts, with implications for [[accessible-learning]], [[professional-training]].
+The work contributes to understanding of [[universal-design-for-learning]] in educational contexts, with implications for [[inclusive-learning]], [[professional-training]].
 
 ## Connected Concepts
 - [[universal-design-for-learning]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[professional-training]]
 - [[instructional-design]]
 - [[equity-in-ai-education]]
@@ -38858,7 +39042,7 @@ Melo, de la Maza and Recabarren (2026) empirically validate whether [[llm|large 
 
 ## Citation
 
-Melo, C., de la Maza, J., & Recabarren, M. (2026). Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment. [*Computers and Education: Artificial Intelligence*, 10, 100612](https://doi.org/10.1016/j.caeai.2026.100612).
+Melo, C., de la Maza, J., & Recabarren, M. (2026). [*Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment*](https://doi.org/10.1016/j.caeai.2026.100612). *Computers and Education: Artificial Intelligence*
 
 ---
 
@@ -39692,7 +39876,7 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 
 ## Citation
 
-Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727). https://doi.org/10.1080/02602938.2026.2686727
+Krebsbach, J. M., & Cross, V. L. (2026). [*Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption*](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727). *Assessment & Evaluation in Higher Education*.
 
 ---
 
@@ -40030,7 +40214,7 @@ Evaluation combined automatic semantic metrics (BLEU, ROUGE-L, BERTScore, perple
 
 ## Implications
 
-The paper contributes an experimentally validated framework for adapting LLMs to low-resource languages while keeping deployment practical — a necessary condition for [[accessible-learning|educational accessibility]] and equity in the Global South. It models how to balance semantic robustness, cultural relevance, and computational efficiency, and offers a blueprint for institutions in under-resourced contexts to deploy [[llm|LLM]]-based adaptive learning without relying on massive cloud infrastructure. It also demonstrates that cultural validation by native speakers is an essential complement to automatic metrics when building educational AI for linguistically diverse populations.
+The paper contributes an experimentally validated framework for adapting LLMs to low-resource languages while keeping deployment practical — a necessary condition for [[inclusive-learning|educational accessibility]] and equity in the Global South. It models how to balance semantic robustness, cultural relevance, and computational efficiency, and offers a blueprint for institutions in under-resourced contexts to deploy [[llm|LLM]]-based adaptive learning without relying on massive cloud infrastructure. It also demonstrates that cultural validation by native speakers is an essential complement to automatic metrics when building educational AI for linguistically diverse populations.
 
 ## Connected Concepts
 
@@ -40042,7 +40226,7 @@ The paper contributes an experimentally validated framework for adapting LLMs to
 - [[personalized-learning]]
 - [[culturally-relevant-pedagogy]]
 - [[digital-divide]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[generative-ai]]
 
 ## Connected Articles
@@ -40808,7 +40992,7 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - [[student-experience]]
 - [[collaborative-learning]]
 - [[neurodiversity]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[active-learning]]
 - [[scaffolding]]
 ## Connected Articles
@@ -40844,7 +41028,7 @@ This is a six-study, 18-month Design-Based Research (DBR) programme conducted at
 
 ## Implications for AI in Education
 
-The study offers practical guidance for higher education (especially distance learning) institutions seeking to adopt GenAI ethically, transparently, and at scale. It demonstrates that purpose-built, contextually tuned AI assistants embedded within the learning environment (as opposed to generic external chatbots) can enhance engagement and perceived value, provided development is participatory (co-designed with students and staff) and integration aligns with institutional strategy. It highlights the unique position of distance learning institutions — where 70% of "students" are already in/at work and where in-person invigilation for academic integrity is unfeasible — making responsible, human-centred GenAI design a particular priority. It connects to [[higher-ed]], [[generative-ai]], [[privacy]], [[human-in-the-loop-ai]], [[learning-analytics]], [[adult-learning]], and [[accessible-learning]], and cautions against over-reliance on tools without organisational readiness and [[governance]].
+The study offers practical guidance for higher education (especially distance learning) institutions seeking to adopt GenAI ethically, transparently, and at scale. It demonstrates that purpose-built, contextually tuned AI assistants embedded within the learning environment (as opposed to generic external chatbots) can enhance engagement and perceived value, provided development is participatory (co-designed with students and staff) and integration aligns with institutional strategy. It highlights the unique position of distance learning institutions — where 70% of "students" are already in/at work and where in-person invigilation for academic integrity is unfeasible — making responsible, human-centred GenAI design a particular priority. It connects to [[higher-ed]], [[generative-ai]], [[privacy]], [[human-in-the-loop-ai]], [[learning-analytics]], [[adult-learning]], and [[inclusive-learning]], and cautions against over-reliance on tools without organisational readiness and [[governance]].
 
 ## Limitations
 
@@ -40859,7 +41043,7 @@ The RCT (Study 6) was exploratory: students were asked to explore the OpenLearn 
 - [[human-in-the-loop-ai]]
 - [[learning-analytics]]
 - [[rag]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[intelligent-tutoring]]
 
 ## Connected Articles
@@ -42284,14 +42468,14 @@ Woollaston, S., Flanagan, B., Toyokawa, Y., & Ogata, H. (2026). *[Penny: Transit
 ## Study Design & Method
 This is an **exploratory design and user-study** in human-robot interaction. The researchers co-designed 52 Italian Sign Language signs with a Deaf student and an expert interpreter, implementing them on the Pepper platform using two techniques (manual animation and MATLAB-based inverse kinematics). An exploratory user study with 12 LIS-proficient participants (both Deaf and hearing) evaluated the intelligibility of the produced signs and short signed sentences, examining the feasibility of robot-mediated sign-language communication.
 ## Implications for AI in Education
-The work extends [[educational-robotics]] into [[equity-in-ai-education]] by exploring robots' capacity to communicate in [[special-education]], which could foster more inclusive human-robot interaction in educational settings and support Deaf learners. It connects to [[educational-robotics]], [[accessible-learning]], and [[special-education]], highlighting both the potential and the technical challenges of enabling robots to produce intelligible sign language. For educators, it points toward socially assistive robots as tools for inclusive classrooms, while underscoring the need for co-design with Deaf communities.
+The work extends [[educational-robotics]] into [[equity-in-ai-education]] by exploring robots' capacity to communicate in [[special-education]], which could foster more inclusive human-robot interaction in educational settings and support Deaf learners. It connects to [[educational-robotics]], [[inclusive-learning]], and [[special-education]], highlighting both the potential and the technical challenges of enabling robots to produce intelligible sign language. For educators, it points toward socially assistive robots as tools for inclusive classrooms, while underscoring the need for co-design with Deaf communities.
 ## Limitations
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
 ## Connected Concepts
 - [[educational-robotics]]
 - [[special-education]]
 - [[equity-in-ai-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 
 ## Connected Articles
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
@@ -43306,7 +43490,7 @@ To move prompt privilege from anecdote to measurement, the authors propose the *
 
 ## Mitigating it: Prompt Equity Transformer (PET)
 
-The proposed remedy is architectural rather than instructional. The **Prompt Equity Transformer (PET)** is an LLM-based agent placed between the user and the foundation model; it automatically transforms a user's request into a semantically equivalent, accessibility-oriented prompt while preserving intent. PET thereby shifts the burden of [[prompt-engineering]] from the end user to the system, functioning as an intelligent accessibility layer. The authors argue this is preferable to asking low-literacy users to learn better prompting — a strategy that further privileges the already-skilled — and instead makes equitable output a property of the system. This aligns with system-centered accessibility and [[accessible-learning|universal design]] thinking: rather than requiring the user to adapt to the tool, the tool adapts to the user.
+The proposed remedy is architectural rather than instructional. The **Prompt Equity Transformer (PET)** is an LLM-based agent placed between the user and the foundation model; it automatically transforms a user's request into a semantically equivalent, accessibility-oriented prompt while preserving intent. PET thereby shifts the burden of [[prompt-engineering]] from the end user to the system, functioning as an intelligent accessibility layer. The authors argue this is preferable to asking low-literacy users to learn better prompting — a strategy that further privileges the already-skilled — and instead makes equitable output a property of the system. This aligns with system-centered accessibility and [[inclusive-learning|universal design]] thinking: rather than requiring the user to adapt to the tool, the tool adapts to the user.
 
 ## Findings and implications
 
@@ -43329,7 +43513,7 @@ Experiments on the **MedQA** benchmark confirm the problem and the fix:
 - [[prompt-engineering]]
 - [[digital-divide]]
 - [[bias-mitigation]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[assessment-validity]]
 
 ## Connected Articles
@@ -43880,7 +44064,7 @@ The study adopted a mixed-methods paradigm guided by a constructivist epistemolo
 
 ## Citation
 
-Rana, V., Verhoeven, B., & Sharma, M. (2025). Generative AI in design thinking pedagogy: Enhancing creativity, critical thinking, and ethical reasoning in higher education. *Journal of University Teaching and Learning Practice*, 22(4). https://doi.org/10.53761/tjse2f36 (CC BY).
+Rana, V., Verhoeven, B., & Sharma, M. (2025). [*Generative AI in design thinking pedagogy: Enhancing creativity, critical thinking, and ethical reasoning in higher education*](https://doi.org/10.53761/tjse2f36). *Journal of University Teaching and Learning Practice*, 22(4).
 
 ---
 
@@ -44405,7 +44589,7 @@ Strengths include a controlled factorial design with process data (decision shee
 
 ## Citation
 
-Dai, Z. (2026). Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development. *Frontiers in Psychology* 17:1829268. DOI: 10.3389/fpsyg.2026.1829268. (CC BY)
+Dai, Z. (2026). [*Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development*](https://doi.org/10.3389/fpsyg.2026.1829268). *Frontiers in Psychology*, 17:1829268.
 
 ---
 
@@ -44663,7 +44847,7 @@ The deployment involved 32 high school students, and detailed learning-outcome d
 
 ## Citation
 
-Li, L., Du, C., Sun, J., et al. (2026). *RoboBlockly Studio: Conversational block programming with embodied robot feedback for computational thinking*. arXiv:2605.12059. doi:10.1145/3800645.3813071.
+Li, L., Du, C., Sun, J., et al. (2026). [*RoboBlockly Studio: Conversational block programming with embodied robot feedback for computational thinking*](https://doi.org/10.1145/3800645.3813071). arXiv:2605.12059.
 
 ---
 
@@ -45278,7 +45462,7 @@ Gu, J., Chen, J., & Yan, Z. (2026). [Fostering feedback literacy by scaffolding 
 
 ## [Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration](https://edtechdev.github.io/aied/articles/scaffolding-systematic-reviews-2026/)
 
-> **Synthesis:** Wang et al. (2026) treat systematic reviews (SRs) in Learning Design and Technology (LDT) as **intentional learning experiences** rather than mere methodological procedures. Drawing on their interdisciplinary team of novice and experienced researchers, they reflect on the realities of each SR stage, showing how [[scaffolding|scaffolding through mentoring]], peer collaboration, and judicious AI integration helped manage ambiguity, foster team consistency, and sustain methodological rigor. Automation tools (chiefly screening) reduced procedural burdens, but interpretive decisions required substantial human oversight — a clear instance of [[human-in-the-loop-ai]].
+> **Synthesis:** Wang et al. (2026) treat [[scaffolding|systematic reviews]] (SRs) in Learning Design and Technology (LDT) as **intentional learning experiences** rather than mere methodological procedures. Drawing on their interdisciplinary team of novice and experienced researchers, they reflect on the realities of each SR stage, showing how [[scaffolding|scaffolding through mentoring]], peer collaboration, and judicious AI integration helped manage ambiguity, foster team consistency, and sustain methodological rigor. Automation tools (chiefly screening) reduced procedural burdens, but interpretive decisions required substantial [[human-in-the-loop-ai|human oversight]] — a clear instance of [[human-in-the-loop-ai]].
 
 ## Core Finding
 
@@ -45325,7 +45509,7 @@ This paper significantly contributes to the wiki's [[scaffolding]] and [[human-i
 
 ## Citation
 
-Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [*Scaffolding systematic reviews in learning design and technology through mentoring and AI integration*](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*. DOI: 10.1007/s11423-026-10629-8.
+Wang, X., Dadashipour, F., Basori, Maeda, Y., & Richardson, J. C. (2026). [*Scaffolding systematic reviews in learning design and technology through mentoring and AI integration*](https://doi.org/10.1007/s11423-026-10629-8). *Educational Technology Research and Development*.
 
 ---
 
@@ -45405,7 +45589,7 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 
 ## Citation
 
-Scheu, S., Loeffler, S. N., & Maedche, A. (2026). Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement. [*International Journal of Educational Technology in Higher Education*](https://doi.org/10.1186/s41239-026-00589-7), 23, 15
+Scheu, S., Loeffler, S. N., & Maedche, A. (2026). [*Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement*](https://doi.org/10.1186/s41239-026-00589-7). *International Journal of Educational Technology in Higher Education*, 23, 15
 
 ---
 
@@ -45915,7 +46099,7 @@ The paper reframes the wiki's understanding of AI-related cognitive risk. It dis
 
 ## Citation
 
-Shaw, S. D., & Nave, G. (2026). [Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender. *SSRN Working Paper*](https://ssrn.com/abstract=6097646).
+Shaw, S. D., & Nave, G. (2026). [Thinking—fast, slow, and artificial: How AI is reshaping human reasoning and the rise of cognitive surrender](https://ssrn.com/abstract=6097646). *SSRN Working Paper*.
 
 ---
 
@@ -45959,6 +46143,71 @@ This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data 
 ## Citation
 
 Shen, X., Feng, L., Hua, S., Liu, D., Xie, Z., & Liu, B. (2026). [*Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources*](https://doi.org/10.3389/fpsyg.2026.1843444). *Frontiers in Psychology*, 17, 1843444. https://doi.org/10.3389/fpsyg.2026.1843444
+
+---
+
+## [Addressing the Void of AI Policies in Education for Students With Specific Learning Disabilities](https://edtechdev.github.io/aied/articles/shin-ai-policies-sld-2026/)
+
+> **Synthesis:** Shin et al. (2026) identify the current state of AI policies in U.S. education for students with specific learning disabilities (SLD) and propose actionable policy recommendations. Combining LLM-based topic modeling (structural topic modeling + Sentence-BERT embeddings) with two rounds of Delphi surveys of 17 experts, they analyze 12 U.S. AI-in-education policy documents (2015–2025) — finding that only 2 of 12 specifically address learning disabilities and that 18 policy topics present in other-disability or general AI policy (risk assessment, data protection, legal risk management, ethical guidelines, higher-education AI) are missing from SLD policy. The study produces 36 validated policy items across five themes — inclusive and personalized learning, ethics/equity/inclusion, student empowerment and AI literacy, assessment and research, and educator preparation — with **student empowerment and AI literacy** ranked the most essential by experts. Grounded in the U.S. Assistive Technology Act (2004) and IDEA (2004), the paper frames AI as both assistive technology and a source of FAPE-related, privacy, equity, and accessibility risks, calling for AI policies that are evidence-based, [[accessibility|accessible]], and inclusive of [[neurodiversity|neurodiverse]] and multilingual learners.
+
+## Core Finding
+
+There is a **void of AI-specific policy for students with specific learning disabilities (SLD)** in U.S. education: of 12 analyzed AI-in-education policy documents, only 2 specifically address learning disabilities, and key policy topics (AI risk assessment, data protection, legal risk management, ethical guidelines) covered for other disability groups and general AI education are missing from SLD policy. Experts converge on **student empowerment and AI literacy** as the most essential policy priority, followed by inclusive and personalized learning and educator preparation — with ethics, equity, inclusion, and evidence-based assessment as supporting pillars.
+
+## The policy void and its legal context
+
+Federal law — the U.S. [[assistive-technology|Assistive Technology Act]] (2004) and the Individuals with Disabilities Education Improvement Act (IDEA, 2004) — mandates evidence-based practices and assistive-technology evaluation within each student's Individualized Education Program (IEP) and requires a free, appropriate public education (FAPE). Yet despite rapid AI adoption, no formal, evidence-based guidelines exist to help educators, practitioners, students, or families implement AI for learners with SLD. The study's document-level similarity analysis found SLD policies closer to other-disability policies (M = 0.50) than to general AI policies (M = 0.42), and identified 18 topics present elsewhere but absent from SLD policy. The case *W.A. v. Clarksville/Montgomery County School System* (2024) — in which a student was given AI as an accommodation yet graduated unable to read, with the court finding FAPE was not provided — illustrates the legal and ethical stakes of deploying AI as an [[accessibility|accommodation]] without adequate instruction.
+
+## Five themes of validated AI policy recommendations
+
+The 36 final policy items cluster into five themes:
+
+1. **Inclusive and personalized learning** (11 items, 30.56%) — AI for multiple ways of knowing, personalized/differentiated resources, neurodiverse- and ELL-specific tools, AI-driven literacy tools, OCR and read-aloud accessibility, and [[instructional-design|instructional]] models centered on individual SLD needs.
+2. **Ethics, equity, and inclusion** (9 items, 25.00%) — inclusive data representing SLD, co-design with SLD students, equity impact evaluation, data privacy protection, government risk-management guidelines, and accessibility prioritized in AI development principles.
+3. **Student empowerment and AI literacy** (6 items, 16.67%) — teaching students with SLD to use AI responsibly, ethically, and independently; avoiding overreliance and plagiarism; building self-efficacy and prompt-engineering skills.
+4. **Assessment and research** (6 items, 16.67%) — evidence-based, accessible, and adaptable AI [[assessment]] tools; digital accessibility standards; funding for SLD AI research; mandates grounded in rigorous research.
+5. **Educator preparation** (4 items, 11.11%) — AI literacy in teacher-preparation programs, accessible school–parent communication, leadership training, and an ethical statement as a first step for both general and special education.
+
+## Accessibility vs. accessible learning
+
+This paper usefully illustrates the distinction the wiki draws between narrow [[accessibility]] (captions, alt text, [[assistive-technology|assistive technology]], accommodations, OCR, read-aloud, customizable settings — the concrete "access features" called for across multiple items) and the broader [[inclusive-learning]] (multiple ways of knowing, personalized and [[universal-design-for-learning|universal design]] for learning, differentiated instruction, neurodiverse and multilingual inclusion). The policy recommendations span both: specific accessibility accommodations for tools and assessments sit alongside wider demands for inclusive, personalized, and universally designed learning experiences.
+
+## AI literacy, equity, and the digital divide
+
+Experts prioritized teaching AI literacy to students with SLD as an empowerment and [[equity-in-ai-education|equity]] measure, while flagging risks of overreliance, plagiarism, and loss of critical-thinking skills. The paper also highlights the [[digital-divide|digital divide]] (cost of advanced AI tools exacerbating disparities between wealthy and impoverished schools), [[ethics]] and bias in algorithms, and teacher-training gaps — underscoring that equitable AI benefit for SLD students requires policies addressing bias, privacy, and professional development.
+
+## Relevance to the wiki
+
+This paper is a cornerstone reference for the wiki's accessibility/disability topic, directly contributing to [[educational-policy-ai]] (a concrete, validated set of AI policy recommendations), [[special-education]] (SLD-specific needs and IEP/FAPE legal grounding), [[inclusive-learning]] (the broad inclusion agenda), and the emerging [[accessibility]] concept (specific assistive/accommodation features). It provides an evidence base for how AI policies must be written to serve students with disabilities, offers a human-in-the-loop methodology exemplar (LLM topic modeling + expert Delphi validation), and connects accessibility to ethics, equity, teacher preparation, assessment, and [[ai-literacy]].
+
+## Connected Concepts
+
+- [[accessibility]]
+- [[inclusive-learning]]
+- [[special-education]]
+- [[educational-policy-ai]]
+- [[equity-in-ai-education]]
+- [[assistive-technology]]
+- [[universal-design-for-learning]]
+- [[neurodiversity]]
+- [[ai-literacy]]
+- [[ethics]]
+- [[governance]]
+- [[teacher-role]]
+- [[assessment]]
+- [[accessibility]]
+- [[digital-divide]]
+- [[instructional-design]]
+
+## Connected Articles
+
+- [[state-policy-teacher-ai]] — State policy and teacher AI use
+- [[brookings-ai-students-report]] — Brookings report on AI and students
+- [[principled-ai-education]] — Principled approaches to AI in education
+
+## Citation
+
+Shin, M., Deniz, F., Watson, L., Dieterich, C., Ewoldt, K. B., Johnson, F., Kong, J. E., Lee, S. H., & Whitehurst, A. (2026). [Addressing the void of AI policies in education for students with specific learning disabilities](https://doi.org/10.1177/07319487251412879). *Learning Disability Quarterly, 49*(3), 134–146.
 
 ---
 
@@ -46898,7 +47147,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Citation
 
-Balalle, H., & Pannilage, S. (2025). *Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity*. *Social Sciences & Humanities Open, 11*, 101299. https://doi.org/10.1016/j.ssaho.2025.101299
+Balalle, H., & Pannilage, S. (2025). [*Reassessing academic integrity in the age of AI: A systematic literature review on AI and academic integrity*](https://doi.org/10.1016/j.ssaho.2025.101299). *Social Sciences & Humanities Open*, 11, 101299.
 
 ---
 
@@ -47171,7 +47420,7 @@ Presents **StructRAG**, a pattern-aware framework that improves how [[intelligen
 
 ## Citation
 
-Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education. [*Smart Learning Environments*](https://doi.org/10.1186/s40561-026-00459-9). Advance online publication
+Sun, Y., Liao, Y., & Ma, X. (2026). [*Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education*](https://doi.org/10.1186/s40561-026-00459-9). *Smart Learning Environments*. Advance online publication
 
 ---
 
@@ -47205,7 +47454,7 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 - [[ai-education]]
 - [[higher-ed]]
 - [[privacy]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[english-education]]
 
 ## Connected Articles
@@ -47926,7 +48175,7 @@ McNichols, H., Ikram, F., & Lan, A. (2026). [*The StudyChat Dataset: Analyzing S
 
 ## [Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course](https://edtechdev.github.io/aied/articles/suacode-african-students-motivations/)
 
-Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI teaching assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[accessible-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
+Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll in SuaCode, a smartphone-based online coding course (from the team behind the Kwame AI teaching assistant) addressing the fact that under 1% of African secondary-school leavers have fundamental coding skills. Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts. The work speaks directly to [[equity-in-ai-education]] and [[inclusive-learning]], to broadening participation in [[cs-education]], and to policy questions in [[ai-literacy-equity-programming-policy]]; outcome evidence for AI-supported programming learning connects to [[genai-meta-analysis-programming-learning]].
 
 ## Key Findings
 
@@ -47942,7 +48191,7 @@ Studying why learners enroll grounds course design in actual learner needs, conn
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[cs-education]]
 - [[ai-literacy]] — building foundational skills for the AI era
 - [[motivation]] — understanding enrollment drivers
@@ -48466,7 +48715,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[ai-education]]
 - [[intelligent-tutoring]]
 - [[equity-in-ai-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[special-education]]
 - [[universal-design-for-learning]]
 - [[neurodiversity]]
@@ -49508,7 +49757,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 - [[sociocultural-learning]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[educational-nlp]]
 - [[llm]]
 ## Connected Articles
@@ -49664,7 +49913,7 @@ The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI
 
 ## Citation
 
-Wong, S. S. H., & Qiu, S. X. (2026). [*Think First, ChatGPT Later: Guiding Human–AI Collaboration for [[learning-gains|Learning Gains]] in Independent Human Creativity*](https://doi.org/10.1007/s10648-026-10118-7). *Educational Psychology Review*, 38(45). https://doi.org/10.1007/s10648-026-10118-7
+Wong, S. S. H., & Qiu, S. X. (2026). [*Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity*](https://doi.org/10.1007/s10648-026-10118-7). *Educational Psychology Review*, 38(45).
 
 ---
 
@@ -50056,7 +50305,7 @@ Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 student
 
 ## Citation
 
-Tubino, L., & Adachi, C. (2022). Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool. In S. Wilson, N. Arthars, D. Wardak, P. Yeoman, E. Kalman, & D.Y.T. Liu (Eds.), *Reconnecting relationships through technology: Proceedings of the 39th ASCILITE Conference* (e22039). DOI: 10.14742/apubs.2022.39. (CC BY)
+Tubino, L., & Adachi, C. (2022). [*Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool*](https://doi.org/10.14742/apubs.2022.39). In S. Wilson, N. Arthars, D. Wardak, P. Yeoman, E. Kalman, & D.Y.T. Liu (Eds.), *Reconnecting relationships through technology: Proceedings of the 39th ASCILITE Conference* (e22039).
 - [[feedback-literacy]]
 
 ---
@@ -51364,7 +51613,7 @@ The XAI-ED framework has become a foundational reference in AIED, cited across t
 - [[ai-tutor-safety-harms]]
 ## Citation
 
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). Explainable Artificial Intelligence in education. [*Computers and Education: Artificial Intelligence, 3*](https://doi.org/10.1016/j.caeai.2022.100074), 100074
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074
 
 ---
 
@@ -52010,6 +52259,76 @@ Zhan, S., & Chapman, E. (2026). [Harnessing generative artificial intelligence i
 
 ---
 
+## [Let's Chat About Artificial Intelligence for Students With Disabilities: A Meta-Analysis](https://edtechdev.github.io/aied/articles/zhang-ai-students-disabilities-meta-analysis-2024/)
+
+> **Synthesis:** The first meta-analysis of AI-based interventions for [[special-education|students with disabilities]] (SWDs), synthesizing 29 (quasi-)experimental studies conducted globally and analyzed through the lens of cultural-historical activity theory (CHAT). AI-based interventions produced a statistically significant **medium overall effect on SWDs' learning outcomes (Hedge's g = 0.588)** across [[educational-robotics|robots]], computer software (speech recognition, intelligent tutoring systems, expert systems), and intelligent VR systems — operating as social-emotional coaches, instructional/learning tools, and teachable agents. Notably, no participant-, AI-, interaction-, intervention-, or methodology-related moderator was statistically significant. The paper advances [[inclusive-learning]] and [[accessibility]] by documenting that AI *works* for SWDs, and calls for a shift from ensuring mere **access** toward positioning SWDs in **agentic** roles — contributing to [[agentic-ai]] and [[agency]]. As a medium effect on SWD learning outcomes, it is a key evidence base for the [[learning-gains]] concept.
+
+## Core Finding
+
+A medium, statistically significant overall effect of AI-based interventions on SWDs' learning outcomes: **Hedge's g = 0.588** (95% CI [0.349, 0.826], p < .01), across 239 effect sizes from 41 independent samples (RVE random-effects model). Between-study heterogeneity was high (τ² = 0.52; I² = 76.17), and sensitivity analyses confirmed the estimate was robust. Effect sizes varied by subgroup — but **none of the moderators reached statistical significance**:
+
+- **By learning outcome:** Academic performance (k = 80, g = 0.929) was highest, followed by daily life/other skills (g = 0.766) and social-emotional skills (k = 144, g = 0.382) — no significant difference.
+- **By disability:** Students with SLD, IDD, or who are deaf (g = 0.952) showed a larger effect than students with ASD (k = 150, g = 0.368), though not significantly so.
+- **By AI type:** Computer software (k = 74, g = 0.959) and robots (k = 144, g = 0.509) were effective; intelligent VR (g = 0.528) was not statistically significant.
+- **By AI role:** Teachable agents (g = 1.100) and instructional/learning tools (g = 0.863) outperformed social-emotional coaches (g = 0.336), though not significantly.
+- **By interaction type:** Dyadic AI-SWD interactions (g = 0.973) were more effective than triadic AI-SWD-community interactions (g = 0.385), though not significantly.
+
+Publication bias was present (Egger's test β = 2.837, p < .001); trim-and-fill adjustment reduced the effect to g = 0.2694, which remained statistically significant.
+
+## The CHAT Theoretical Lens
+
+The authors employ second-generation cultural-historical activity theory (CHAT, after Vygotsky and Engeström) to frame AI-SWD interaction as a dynamic activity system: SWDs (subject) use AI tools (mediating tools) to pursue learning tasks (object), embedded within a community, rules, and divisions of labor. This theoretical frame — rooted in Vygotsky's sociocultural view of disability as socially constructed rather than purely biological — guides the construction of moderators across participant, AI, AI-SWD-community interaction, intervention, and methodology characteristics.
+
+## Types and Roles of AI for SWDs
+
+The meta-analysis identifies three AI types and three AI roles:
+
+- **AI types:** robots (70.0% of studies, mostly humanoid robots for students with ASD, often human-operated via the Wizard of Oz method), computer software (speech recognition, expert systems, intelligent tutoring systems), and intelligent VR systems.
+- **AI roles:** social-emotional coaches/companions (n = 19), instructional/learning tools (n = 8), and teachable agents (n = 2). Teachable agents showed the largest effect (g = 1.100) — the rare arrangement where SWDs take an active, even teacher-like, role.
+
+## From Access to Agency
+
+A central argument distinguishes **accessibility** (ensuring SWDs can access learning content and functional capabilities) from **agentic participation**. Most AI tools studied augmented one or more functional abilities needed to access learning. But only two studies (Brainin et al., 2022; Wilson, 1997) positioned AI as teachable agents that enabled SWDs to take a relatively agentic role. The authors call for AI that "not only ensures accessibility but also promotes opportunities for SWDs to take an agentic role in participating in and contributing to AI-mediated learning activities" — a strengths-based, [[agency|agentic]] reframing of SWD participation in learning.
+
+## Rules, Equity, and the Distribution of Responsibilities
+
+Consistent with CHAT, the paper foregrounds community, rules, and division of labor. Most studies (96.6%) used step-based instruction in special education or clinical settings, and most were triadic (involving community members such as therapists, educators, families). The authors note the absence of research on AI supporting collective learning among SWDs and peers in inclusive settings, and call for human-centered design, addressing algorithmic bias, and strengths-based values in AI design and deployment for SWDs.
+
+## Relevance to the Wiki
+
+This is a **landmark contribution to [[special-education]], [[inclusive-learning]], [[accessibility]], [[educational-robotics]], and [[learning-gains]]**. As the first meta-analysis of AI for SWDs, it provides the strongest quantitative evidence that AI-based interventions yield a **medium positive effect on SWD learning outcomes**, directly supporting the [[learning-gains]] concept's evidence base for [[special-education]]. It is the clearest empirical anchor for the wiki's distinction between [[accessibility]] (ensuring access) and [[agentic-ai]]/[[agency]] (agentic participation) — explicitly recommending AI that promotes SWDs' agentic roles. It also synthesizes evidence on [[educational-robotics]] (robot-assisted instruction for ASD), [[simulation|virtual reality]] (intelligent VR), [[intelligent-tutoring]] (ITS), and [[student-engagement]], with implications for [[k-12]] (all studies were PK-12) and [[equity-in-ai-education]] (cultural-historical, strengths-based, anti-deficit framing). Notably, most interventions relied on [[generative-ai|less-advanced]] rule-based AI and human-operated robots rather than modern [[generative-ai]]; the authors flag advanced AI techniques as underexplored for SWDs.
+
+## Connected Concepts
+
+- [[special-education]]
+- [[inclusive-learning]]
+- [[accessibility]]
+- [[learning-gains]]
+- [[educational-robotics]]
+- [[agentic-ai]]
+- [[agency]]
+- [[equity-in-ai-education]]
+- [[ai-education]]
+- [[intelligent-tutoring]]
+- [[simulation|virtual reality]]
+- [[student-engagement]]
+- [[k-12]]
+- [[universal-design-for-learning]]
+- [[neurodiversity]]
+- [[personalized-learning]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[educational-robotics-pathways-2026]] — AI-Powered Educational Robotics in K-12
+- [[ai-lms-middle-school-longitudinal]] — AI-Enabled LMS in Middle School
+
+## Citation
+
+Zhang, L., Carter, R. A., Jr., Liu, Y., & Peng, P. (2024). [*Let's CHAT About Artificial Intelligence for Students With Disabilities: A Systematic Literature Review and Meta-Analysis*](https://doi.org/10.3102/00346543241293424). Review of Educational Research, 96(1), 215-257.
+
+---
+
 ## [Integrating AI Into Computational Thinking: Development and Validation of an Assessment Tool for Higher Education Students](https://edtechdev.github.io/aied/articles/zhang-ct-ai-training-test-2026/)
 
 > **Synthesis:** This study develops and validates the Computational Thinking in AI Training Test (CTAT) — a 34-item multiple-choice instrument built with the Evidence-Centered Design framework and validated via expert review, cognitive interviews, and a field test with 461 higher-education students (analyzed with [[item-response-theory|IRT]]). CTAT shows robust psychometric properties for assessing [[computational-thinking]] within AI-training contexts, and reveals that students struggle most with data representation, logical-operator sequencing, and loop structures.
@@ -52268,7 +52587,7 @@ Zhao, R., Bobrov, A., Li, J., Aloisi, C., & He, Y. (2025). [LearnLens: LLM-Enabl
 
 ## Citation
 
-Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment. *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/pc04tp05
+Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). [*From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment*](https://doi.org/10.53761/pc04tp05). *Journal of University Teaching and Learning Practice*, 23(2).
 
 ---
 

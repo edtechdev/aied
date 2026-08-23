@@ -31,7 +31,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[k-12]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[technology-acceptance-model]]
 - [[benchmark]]
 

@@ -3,12 +3,12 @@ title: Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digita
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [assessment, accessible-learning, privacy, academic-integrity, equity, adaptive-learning, higher-ed]
+tags: [assessment, inclusive-learning, privacy, academic-integrity, equity, adaptive-learning, higher-ed]
 sources: ['raw/papers/2608.03531.md']
 confidence: high
 ---
 
-> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity-in-ai-education]] [[adaptive-learning]]
+> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[inclusive-learning]] [[privacy]] [[academic-integrity]] [[equity-in-ai-education]] [[adaptive-learning]]
 
 Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (Diversion Field Generator, Rendering Tensor, Behavior Tensor, Multi-dimensional Entropy Model). Establishes theoretical properties for content fidelity, rendering stability, entropy boundedness, and closed-loop adaptation stability. Explicitly addresses the trade-off between accessibility and capture resistance.
 
@@ -19,7 +19,7 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 ## Connected Concepts
 
 - [[assessment]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[privacy]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]

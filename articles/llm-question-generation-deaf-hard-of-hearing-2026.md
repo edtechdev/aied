@@ -3,12 +3,12 @@ title: "Exploring the Design of LLM-Powered Question Generation for Deaf and Har
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [llm, generative-ai, special-education, accessible-learning, automated-question-generation, online-learning, equity, k-12, higher-ed, student-experience]
+tags: [llm, generative-ai, special-education, inclusive-learning, automated-question-generation, online-learning, equity, k-12, higher-ed, student-experience]
 sources: ['raw/papers/10.1016_j.caeai.2026.100615.md']
 confidence: high
 ---
 
-Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnagar (2026) designed and evaluated an LLM-powered question-generation system tailored to [[accessible-learning|Deaf and Hard of Hearing (DHH) learners]] for video-based learning. The study uses Language Deprivation Theory to uncover risks in learner–LLM interactions and derive design implications.
+Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnagar (2026) designed and evaluated an LLM-powered question-generation system tailored to [[inclusive-learning|Deaf and Hard of Hearing (DHH) learners]] for video-based learning. The study uses Language Deprivation Theory to uncover risks in learner–LLM interactions and derive design implications.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ The study highlights the importance of considering **[[language-learning|languag
 - [[llm]]
 - [[generative-ai]]
 - [[special-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[automated-question-generation]]
 - [[personalized-learning]]
 - [[equity-in-ai-education]]

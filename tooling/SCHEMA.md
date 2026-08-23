@@ -114,7 +114,7 @@ Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; 
 
 ### Domain Areas
 - `stem-education`, `language-learning`, `writing-education`, `special-education`, `professional-training`
-- `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `online-education`, `online-learning`, `distance-learning`, `blended-learning`, `multilingual-learning`, `neurodiversity`, `accessible-learning`, `informal-learning`, `independent-learning`, `software-engineering`, `business-education`, `economics-education`, `management-education`
+- `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `online-education`, `online-learning`, `distance-learning`, `blended-learning`, `multilingual-learning`, `neurodiversity`, `inclusive-learning`, `informal-learning`, `independent-learning`, `software-engineering`, `business-education`, `economics-education`, `management-education`
 
 ### Research & Evaluation
 - `rct`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`

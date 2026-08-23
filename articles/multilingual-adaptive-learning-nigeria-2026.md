@@ -3,7 +3,7 @@ title: "An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource
 created: "2026-08-19T09:50:00-04:00"
 updated: "2026-08-19T09:50:00-04:00"
 type: article
-tags: [adaptive-learning, multilingual-learning, global-south, llm, equity-in-ai-education, personalized-learning, culturally-relevant-pedagogy, digital-divide, accessible-learning]
+tags: [adaptive-learning, multilingual-learning, global-south, llm, equity-in-ai-education, personalized-learning, culturally-relevant-pedagogy, digital-divide, inclusive-learning]
 sources: ['raw/papers/2608.15738.md']
 confidence: high
 ---
@@ -29,7 +29,7 @@ Evaluation combined automatic semantic metrics (BLEU, ROUGE-L, BERTScore, perple
 
 ## Implications
 
-The paper contributes an experimentally validated framework for adapting LLMs to low-resource languages while keeping deployment practical — a necessary condition for [[accessible-learning|educational accessibility]] and equity in the Global South. It models how to balance semantic robustness, cultural relevance, and computational efficiency, and offers a blueprint for institutions in under-resourced contexts to deploy [[llm|LLM]]-based adaptive learning without relying on massive cloud infrastructure. It also demonstrates that cultural validation by native speakers is an essential complement to automatic metrics when building educational AI for linguistically diverse populations.
+The paper contributes an experimentally validated framework for adapting LLMs to low-resource languages while keeping deployment practical — a necessary condition for [[inclusive-learning|educational accessibility]] and equity in the Global South. It models how to balance semantic robustness, cultural relevance, and computational efficiency, and offers a blueprint for institutions in under-resourced contexts to deploy [[llm|LLM]]-based adaptive learning without relying on massive cloud infrastructure. It also demonstrates that cultural validation by native speakers is an essential complement to automatic metrics when building educational AI for linguistically diverse populations.
 
 ## Connected Concepts
 
@@ -41,7 +41,7 @@ The paper contributes an experimentally validated framework for adapting LLMs to
 - [[personalized-learning]]
 - [[culturally-relevant-pedagogy]]
 - [[digital-divide]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[generative-ai]]
 
 ## Connected Articles

@@ -15,7 +15,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.
 
-**Accessibility for language learners** connects to [[accessible-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
+**Accessibility for language learners** connects to [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 
 ## Implications for language instructors
 
@@ -32,7 +32,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[equity-in-ai-education]]
 - [[assessment-validity]]
 - [[bias-mitigation]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[special-education]]
 - [[intelligent-tutoring]]
 - [[generative-ai]]

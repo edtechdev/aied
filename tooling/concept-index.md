@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 143
+**Total concepts:** 145
 
 ## Canonical concepts
 
@@ -297,7 +297,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: well-being; wellbeing; student wellbeing; mental health
     - phrases: writing education; writing; writing instruction; composition; academic writing
 - **`academic-integrity`** — Academic Integrity
-- **`accessible-learning`** — Accessible Learning
+- **`inclusive-learning`** — Accessible Learning
+- **`accessibility`** — Accessibility
 - **`active-learning`** — Active Learning
 - **`adaptive-learning`** — Adaptive Learning
 - **`administrator`** — AI from the Administrator Perspective
@@ -315,6 +316,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`ai-technologies`** — AI Technologies and Techniques in Education
 - **`assessment-validity`** — Assessment Validity in AI Education
 - **`assessment`** — Assessment
+- **`assistive-technology`** — Assistive Technology
 - **`authentic-assessment`** — Authentic Assessment
 - **`automated-assessment`** — Automated Assessment
 - **`automated-essay-scoring`** — Automated Essay Scoring

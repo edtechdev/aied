@@ -43,7 +43,7 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 
 ## Multimodal AI for language and accessible learning
 
-Multimodal systems also expand access and personalization. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.^[[ai-guided-learning-audiovideo-2026]] Multimodal knowledge graphs reason across images and text for educational tasks,^[[multimodal-knowledge-graph-educational-reasoning]] and multimodal representations improve [[accessible-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,^[[llm-cognitive-diagnosis-handwritten-math]] affective tutoring with multimodal signals,^[[multimodal-affective-its-presentation]]^[[kar-mathbuddy-affective-math-tutoring-2025]] text-to-image learning in specialized fields,^[[nuclear-diffusion-text-to-image-learning-2026]] and privacy-aware multimodal classroom sensing.^[[privacy-aware-classroom-incident-recognition-2026]]
+Multimodal systems also expand access and personalization. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.^[[ai-guided-learning-audiovideo-2026]] Multimodal knowledge graphs reason across images and text for educational tasks,^[[multimodal-knowledge-graph-educational-reasoning]] and multimodal representations improve [[inclusive-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,^[[llm-cognitive-diagnosis-handwritten-math]] affective tutoring with multimodal signals,^[[multimodal-affective-its-presentation]]^[[kar-mathbuddy-affective-math-tutoring-2025]] text-to-image learning in specialized fields,^[[nuclear-diffusion-text-to-image-learning-2026]] and privacy-aware multimodal classroom sensing.^[[privacy-aware-classroom-incident-recognition-2026]]
 
 ## Challenges and design implications
 
@@ -76,7 +76,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[privacy]]
 - [[edtech-platform]]
 - [[stem-education]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles

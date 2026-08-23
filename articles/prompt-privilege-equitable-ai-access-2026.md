@@ -3,7 +3,7 @@ title: "Same Question, Different Answer? Measuring and Mitigating Prompt Privile
 created: "2026-08-17T09:35:00-04:00"
 updated: "2026-08-17T10:00:00-04:00"
 type: article
-tags: [equity-in-ai-education, ai-literacy, prompt-engineering, digital-divide, llm, bias-mitigation, accessible-learning]
+tags: [equity-in-ai-education, ai-literacy, prompt-engineering, digital-divide, llm, bias-mitigation, inclusive-learning]
 sources: ['raw/papers/2608.08942.md']
 confidence: high
 ---
@@ -20,7 +20,7 @@ To move prompt privilege from anecdote to measurement, the authors propose the *
 
 ## Mitigating it: Prompt Equity Transformer (PET)
 
-The proposed remedy is architectural rather than instructional. The **Prompt Equity Transformer (PET)** is an LLM-based agent placed between the user and the foundation model; it automatically transforms a user's request into a semantically equivalent, accessibility-oriented prompt while preserving intent. PET thereby shifts the burden of [[prompt-engineering]] from the end user to the system, functioning as an intelligent accessibility layer. The authors argue this is preferable to asking low-literacy users to learn better prompting — a strategy that further privileges the already-skilled — and instead makes equitable output a property of the system. This aligns with system-centered accessibility and [[accessible-learning|universal design]] thinking: rather than requiring the user to adapt to the tool, the tool adapts to the user.
+The proposed remedy is architectural rather than instructional. The **Prompt Equity Transformer (PET)** is an LLM-based agent placed between the user and the foundation model; it automatically transforms a user's request into a semantically equivalent, accessibility-oriented prompt while preserving intent. PET thereby shifts the burden of [[prompt-engineering]] from the end user to the system, functioning as an intelligent accessibility layer. The authors argue this is preferable to asking low-literacy users to learn better prompting — a strategy that further privileges the already-skilled — and instead makes equitable output a property of the system. This aligns with system-centered accessibility and [[inclusive-learning|universal design]] thinking: rather than requiring the user to adapt to the tool, the tool adapts to the user.
 
 ## Findings and implications
 
@@ -43,7 +43,7 @@ Experiments on the **MedQA** benchmark confirm the problem and the fix:
 - [[prompt-engineering]]
 - [[digital-divide]]
 - [[bias-mitigation]]
-- [[accessible-learning]]
+- [[inclusive-learning]]
 - [[assessment-validity]]
 
 ## Connected Articles
