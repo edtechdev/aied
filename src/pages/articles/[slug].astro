@@ -10,8 +10,12 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const articles = await getCollection('articles');
+const concepts = await getCollection('concepts');
 const article = articles.find(a => a.id.replace('.md', '') === slug);
 if (!article) return Astro.redirect('/aied/');
+
+// For canonical wikilink routing: map slug -> canonical base path
+const conceptSlugs = new Set(concepts.map(c => c.id.replace('.md', '')));
 
 const { title, tags, confidence, created, updated } = article.data;
 const createdDisplay = (created || '').split('T')[0];
@@ -141,7 +145,8 @@ function renderInline(text: string): string {
     .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
       const page = p.replace('.md', '').trim();
       const label = l || smartTitle(page.replace(/-/g, ' '));
-      return `<a href="/aied/pages/${page}">${label}</a>`;
+      const base = conceptSlugs.has(page) ? '/aied/concepts' : '/aied/articles';
+      return `<a href="${base}/${page}">${label}</a>`;
     })
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
