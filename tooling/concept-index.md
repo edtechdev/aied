@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 145
+**Total concepts:** 146
 
 ## Canonical concepts
 
@@ -367,6 +367,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`hallucination-risk`** — Hallucination Risk
 - **`help-seeking`** — Help-Seeking
 - **`higher-ed`** — AI in Higher Education
+- **`history-of-aied`** — History of AI in Education
 - **`human-ai-collaboration`** — Human AI Collaboration
 - **`human-in-the-loop-ai`** — Human-in-the-Loop AI for Education
 - **`humanities-education`** — Humanities and Social Science Education

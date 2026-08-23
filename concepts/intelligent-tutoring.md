@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T13:30:00-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -11,7 +11,9 @@ confidence: high
 
 AI tutoring encompasses the use of artificial intelligence — particularly [[llm|large language models]] and structured Intelligent Tutoring Systems — to provide personalized, adaptive, and scalable instructional support to learners. AI tutors take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, [[adaptive-learning|adaptive learning platforms]] that personalize content sequencing, and agent-based tutors that maintain long-term [[student-modeling|learner models]]. The effectiveness of AI tutoring depends critically on pedagogical design choices — scaffolding, [[ai-feedback-quality|feedback quality]], and the balance between [[agency|autonomy]] and guidance — rather than on the underlying model alone.
 
-### ITS vs. LLM-based tutoring
+#Historically, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** locate ITS within AIED's lineage from 1960s-70s expert systems and Anderson's ACT/ACT-R cognitive tutors, whose structured control contrasted with Papert's constructionism.
+
+## ITS vs. LLM-based tutoring
 
 The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern research increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility.
 
@@ -98,6 +100,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
 - [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning

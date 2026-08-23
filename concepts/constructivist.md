@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T13:30:00-04:00"
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -10,6 +10,8 @@ confidence: high
 > **Constructivism** — the learning theory that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In AI in education, constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — prompting, questioning, and [[scaffolding]] — rather than perform the [[cognitive-offloading|cognitive work]] for them.^[[ai-vocational-education-training-review]]^[[genai-mindtool-generative-learning]]
 
 Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of generative AI in the classroom.
+
+**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** contrast Papert's constructionism (Logo, microworlds, debugging-as-learning) with Anderson's cognitive tutors as competing visions of creative agency vs. systematic control in AIED history.
 
 ## Core ideas
 
@@ -74,6 +76,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
