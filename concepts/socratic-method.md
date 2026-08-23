@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:40:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, intelligent-tutoring, metacognition, formative-assessment]
 
@@ -112,9 +112,9 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[tutoring-specific-vs-general-ai]] — Structured Socratic hints vs. open-ended general-purpose Q&A
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[productive-failure]] — Productive Failure
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle (Wang & Shan 2026)
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design (Rhaimi et al. 2025)
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning (Lukešová & Jennings 2026)
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 

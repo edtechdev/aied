@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning and AI
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-23T08:40:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 confidence: high
@@ -62,7 +62,7 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
 - [[productive-failure]] — Productive Failure
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning (Lukešová & Jennings 2026)
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 

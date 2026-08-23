@@ -1,7 +1,7 @@
 ---
-title: "Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure (Puech et al. 2025)"
+title: "Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure"
 created: "2026-08-23T08:05:00-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: article
 tags: [productive-failure, llm, intelligent-tutoring, socratic-method, generative-ai, k-12, math-education, human-in-the-loop-ai]
 sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md']

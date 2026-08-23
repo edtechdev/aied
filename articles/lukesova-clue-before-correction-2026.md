@@ -1,7 +1,7 @@
 ---
-title: "Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning (Lukešová & Jennings 2026)"
+title: "Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning"
 created: "2026-08-23T08:10:00-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: article
 tags: [productive-failure, language-learning, generative-ai, metacognition, self-regulated-learning, feedback, cognitive-load, higher-ed]
 sources: ['raw/papers/lukesova-clue-before-correction-2026.md']

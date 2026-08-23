@@ -1,7 +1,7 @@
 ---
-title: "Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)"
+title: "Designing AI Systems to Support Productive-Failure-Based Learning"
 created: "2026-08-23T08:00:00-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, adult-learning, instructional-design, llm, human-in-the-loop-ai, higher-ed]
 sources: ['raw/papers/kim-ai-productive-failure-adult-2026.md']

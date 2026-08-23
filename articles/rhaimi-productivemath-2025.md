@@ -1,7 +1,7 @@
 ---
-title: "ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching (Rhaimi et al. 2025)"
+title: "ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching"
 created: "2026-08-23T08:20:00-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, math-education, k-12, llm, teacher-role, instructional-design]
 sources: ['raw/papers/rhaimi-productivemath-2025.md']
