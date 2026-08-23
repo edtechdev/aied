@@ -1,7 +1,7 @@
 ---
 title: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-education, stem-education, curriculum-design, open-source, professional-training, llm, rag]
 sources: ['raw/papers/2608.02599.md']
@@ -14,15 +14,15 @@ confidence: high
 
 ## Synthesis
 
-Community survey of researchers and practitioners: 92% report at least one barrier before running an AI model and 94% want a power-specific hands-on course.
+Community survey of researchers and practitioners: 92% report at least one barrier before running an [[ai-education|AI]] model and 94% want a power-specific hands-on course.
 
 Framework is a progressive difficulty ladder mapping core AI concepts onto representative power-system tasks: DNN function approximation/load-curve fitting, domain-coupled CNN power-flow surrogate (5-bus), DNN-assisted optimization, DRL for battery storage control, and PINNs for the swing equation.
 
-All modules are Jupyter notebooks running locally or on Google Colab, delivered through an IEEE online course and IEEE PES webinar series.
+All modules are Jupyter notebooks running locally or on Google Colab, delivered through an [[open-source|IEEE online course]] and IEEE PES webinar series.
 
 Webinar drew 590+ live attendees (top-10 most-attended IEEE PES webinars) and 344+ repository visits within two weeks.
 
-Argues for engineering-grounded AI (EGAI): AI workflows should follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes.
+Argues for engineering-grounded AI (EGAI): AI workflows should follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes, supporting [[professional-training|professional training]] and [[curriculum-design|curriculum design]].
 
 ## Connected Concepts
 

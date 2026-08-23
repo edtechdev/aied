@@ -1,14 +1,14 @@
 ---
 title: "From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [conversational-agents, personalized-learning, higher-ed, learning-by-teaching, dual-agent, scaffolding, confusion-detection, teach-back, lecture-review, student-experience]
 sources: ['raw/papers/knowloop-confusion-to-consolidation-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (Peer scaffolds reflective teach-back). A 22-participant study shows confusion points serve as personalized review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.
+> **Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (Peer scaffolds reflective [[learning-by-teaching|teach-back]]). A 22-participant study shows confusion points serve as [[personalized-learning|personalized]] review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.
 
 ## Study Design
 
@@ -18,12 +18,12 @@ Fang and Reidsma designed KnowLoop, a dual-agent conversational system for post-
 2. **Resolve** — A Teaching Assistant agent (GPT-4o) provides clarification grounded in the marked confusion point and associated lecture transcript. Interaction is constrained to one confusion point at a time to maintain focus.
 3. **Consolidate** — A Peer agent (GPT-4o) scaffolds reflective teach-back, revisiting confusion points in order and asking learners to explain their understanding. Progression moves from confusion-point-level articulation to lecture-level summarization.
 
-The study involved 22 participants (STEM backgrounds, AI familiarity M=4.00/5, low prior knowledge of lecture content) watching an 18-minute introductory reinforcement learning lecture.
+The study involved 22 participants (STEM backgrounds, AI familiarity M=4.00/5, low [[prior-knowledge|prior knowledge]] of lecture content) watching an 18-minute introductory [[reinforcement-learning|reinforcement learning]] lecture.
 
 ## Key Findings
 
 ### Confusion Points as Personalized Anchors
-Confusion density varied substantially across participants, with no single lecture segment consistently eliciting confusion. This highlights the highly personalized nature of in-lecture breakdowns. Participants also repurposed markers to flag important concepts, not just confusion: *"It wasn't confusion—I clicked because it was an important formula to review later."*
+Confusion density varied substantially across participants, with no single lecture segment consistently eliciting confusion. This highlights the highly [[personalized-learning|personalized]] nature of in-lecture breakdowns. Participants also repurposed markers to flag important concepts, not just confusion: *"It wasn't confusion—I clicked because it was an important formula to review later."*
 
 ### Lecture-Grounded Clarification
 The Teaching Assistant provided targeted, course-aligned explanations by grounding responses in the lecture transcript: *"The biggest difference is that GPT has no idea what happened in the lecture… but this system knows the entire lecture."* The agent also actively managed instructional relevance, noting when a question was not a key point and suggesting learners move on.
@@ -39,7 +39,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 ## Design Implications
 
-1. **Anchor AI support in learners' own difficulties** — confusion points, whether marked manually or inferred, provide personalized entry points for review
+1. **Anchor AI support in learners' own difficulties** — confusion points, whether marked manually or inferred, provide [[personalized-learning|personalized]] entry points for review
 2. **Distinguish clarification from consolidation through separate agent roles** — these require qualitatively different conversational relationships
 3. **Support fluid transitions** between stages — learners experience Resolve and Consolidate as interleaved, not strictly sequential
 4. **Context-grounded AI outperforms general-purpose AI for lecture review** — knowing the lecture content enables more targeted, efficient support
@@ -81,7 +81,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 

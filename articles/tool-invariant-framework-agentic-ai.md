@@ -1,7 +1,7 @@
 ---
 title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, oral-defense, over-reliance, verification]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
@@ -18,7 +18,7 @@ confidence: high
 
 ## Summary
 
-Agentic AI — systems that *write, run, and revise* simulation code from natural-language specs — is the latest step in a centuries-long migration of mechanical work from human to tool. Engelhardt argues that **what a learner must know is tool-invariant**: across tools (fingers → pencil → calculator → Python → agent), the requirements are stable; only their *content* and *weight* shift. The paper organizes these into **five pillars**, argues that **sensemaking/verification is now the load-bearing skill** (because AI-generated artifacts are *bespoke* and *unvalidated*, unlike socially-validated libraries), and draws the assessment consequence: **when artifacts can be generated on demand, the artifact no longer certifies the student.** The proposed response: **AI-free in-class coding quizzes** (measure white-box residue) + **oral defenses of comment-stripped, AI-assisted work** (measure orchestration), with a *verification gate* that must pass regardless of total score.
+[[agentic-ai|Agentic AI]] — systems that *write, run, and revise* simulation code from natural-language specs — is the latest step in a centuries-long migration of mechanical work from human to tool. Engelhardt argues that **what a learner must know is tool-invariant**: across tools (fingers → pencil → calculator → Python → agent), the requirements are stable; only their *content* and *weight* shift. The paper organizes these into **five pillars**, argues that **sensemaking/verification is now the load-bearing skill** (because AI-generated artifacts are *bespoke* and *unvalidated*, unlike socially-validated libraries), and draws the [[assessment]] consequence: **when artifacts can be generated on demand, the artifact no longer certifies the student.** The proposed response: **AI-free in-class coding quizzes** (measure white-box residue) + **oral defenses of comment-stripped, AI-assisted work** (measure orchestration), with a *verification gate* that must pass regardless of total score.
 
 ## The five pillars (tool-invariant)
 
@@ -43,7 +43,7 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 ## Assessment design (the constructive response)
 
 - **Proxy collapse:** traditional "write code → submit report" grading died because the artifact no longer certifies the student (Goodhart's law; Kortemeyer's assessment alarm). Supervised formats survive.
-- **The product** is the student's ability to *explain and defend* artifacts in the discipline's language — certified, as at the Ph.D. level, by **oral defense**.
+- **The product** is the student's ability to *explain and defend* artifacts in the discipline's language — certified, as at the Ph.D. level, by **[[authentic-assessment|oral defense]]**.
 - **Two instruments:** (1) **AI-free in-class coding quizzes** in a lockdown browser (assess the white-box phase / coding residue); (2) **ten-minute oral defenses** of AI-assisted work, with code **comments stripped** beforehand so understanding can't be performed by reading borrowed narration. The defense probes, live and adaptively: walkthrough of uncommented code, plot interpretation, and *verification probes* ("why should I believe this?", "what did the AI decide that you didn't?").
 - **Verification gate:** the rubric scores five dimensions (code comprehension, method understanding, physics model/terminology, interpretation, verification); the verification dimension must reach "functional" for the defense to pass, regardless of total.
 - **Scalability:** honest arithmetic — ~28 contact-hours of defenses/semester for ~15 students (less than grading 15 reports, more informative); degraded modes (spot-defenses, TA-led, paired) named with costs. "It doesn't scale" is "partly the point" — a equity concern for under-resourced institutions.
@@ -52,7 +52,7 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 - **White-box, then black-box** (Buchberger): study a method transparently (hand-code the 15-line Euler integrator, watch it fail at large dt) *before* delegating. Dissolves the "must code vs. need not code" debate — both true at different rungs.
 - **Error injection:** give students subtly-wrong agent output (sign error, dt too large, wrong potential); grade the *diagnosis*. Trains reading code one didn't write.
-- **Motivation over prohibition:** a guardrailed tutor (Fall 2025) helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for motivation, not bans.
+- **Motivation over prohibition:** a guardrailed tutor helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for [[motivation]], not bans.
 - Term "**comprehension debt**" (gap between code a system contains and code its maintainers understand) imported from software engineering as a risk of AI-assisted production.
 
 ## Connected Concepts

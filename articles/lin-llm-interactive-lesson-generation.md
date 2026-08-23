@@ -1,18 +1,18 @@
 ---
 title: "Automatic Large Language Models Creation of Interactive Learning Lessons"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-15"
+updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, generative-ai, prompt-engineering, rag, instructional-design, curriculum-design, professional-training, intelligent-tutoring, math-education, human-ai-collaboration]
 sources: ['raw/papers/lin-llm-interactive-lesson-generation.md']
 confidence: high
 ---
 
-> **Synthesis:** Lin et al. (2025) explore automatic generation of interactive, scenario-based lessons designed to train novice human tutors who teach middle-school mathematics online. The system combines prompt engineering with a Retrieval-Augmented Generation (RAG) approach on GPT-4o, generating lessons in English for three tutor-training topics (Encouraging Students' Independence, Encouraging Help-Seeking Behavior, Turning on Cameras). The key finding is that a **task decomposition** prompting strategy — breaking lesson generation into segments — produced higher-rated lessons than single-step generation, with a three-segment approach scoring highest. Two human evaluators rated the lessons using a rubric informed by lesson design research (Cohen's κ = 0.72), identifying strengths (well-structured content, time-saving) and limitations (generic feedback, unclear sections, unreliable references), supporting a hybrid human–AI lesson-generation workflow.
+> **Synthesis:** Lin et al. (2025) explore automatic generation of interactive, scenario-based lessons designed to train novice human tutors who teach middle-school [[math-education|mathematics]] online. The system combines [[prompt-engineering|prompt engineering]] with a [[rag|Retrieval-Augmented Generation]] (RAG) approach on GPT-4o, generating lessons in English for three tutor-training topics (Encouraging Students' Independence, Encouraging [[help-seeking|Help-Seeking]] Behavior, Turning on Cameras). The key finding is that a **task decomposition** prompting strategy — breaking lesson generation into segments — produced higher-rated lessons than single-step generation, with a three-segment approach scoring highest. Two human evaluators rated the lessons using a rubric informed by lesson design research (Cohen's κ = 0.72), identifying strengths (well-structured content, time-saving) and limitations (generic [[feedback]], unclear sections, unreliable references), supporting a hybrid [[human-ai-collaboration|human–AI lesson-generation]] workflow.
 
 ## Context and motivation
 
-One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. Professional development programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with LLM-based automatic lesson generation.
+One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. [[professional-training|Professional development]] programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with LLM-based automatic lesson generation.
 
 ## Method
 
@@ -24,7 +24,7 @@ To explore optimal prompting, lessons were generated under five segmentation str
 
 The three-segment approach achieved the highest average rating (14.67), while the one-segment approach scored lowest (10.67), indicating that moderate task decomposition improves lesson quality. However, the five-segment approach — the highest level of decomposition — performed slightly worse than three segments, suggesting that excessive decomposition may reduce clarity and pedagogical grounding. Across the rating codes, three-segment generation was particularly strong on feedback and pedagogical grounding.
 
-Human lesson designers identified several strengths: substantial time savings in drafting scenarios and multiple-choice questions, generation of diverse and realistic scenarios, no observed biased or offensive content, and a clear foundation for iterative human–AI collaboration. Limitations included generic feedback that mostly explained the correct answer without targeted explanations of why options were wrong, inconsistent terminology (e.g., "learners" vs. "tutors") and unclear learning objectives, overly long and logically disconnected instruction sections, and non-authentic academic references that persisted even with RAG.
+Human lesson designers identified several strengths: substantial time savings in drafting scenarios and multiple-choice questions, generation of diverse and realistic scenarios, no observed biased or offensive content, and a clear foundation for iterative [[human-ai-collaboration|human–AI collaboration]]. Limitations included generic feedback that mostly explained the correct answer without targeted explanations of why options were wrong, inconsistent terminology (e.g., "learners" vs. "tutors") and unclear learning objectives, overly long and logically disconnected instruction sections, and non-authentic academic references that persisted even with RAG.
 
 ## Implications for AI in education
 
