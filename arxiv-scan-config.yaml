@@ -1,58 +1,57 @@
 # AI Ed Wiki — Daily Scan Configuration
-# Used by the daily AIED scan cron job
+# Used by the daily AIED scan cron job (job 9a44c11daec8)
+# Matches the live cron prompt (see tooling/references/daily-scan-pipeline.md and cron/daily-scan-prompt.md)
 
-schedule: "0 9 * * *"  # 9:00 AM daily (Eastern)
+schedule: "0 9 * * 1-5"  # 9:00 AM weekdays, Eastern (per live cron)
 
 search_window:
   default_days: 3  # Fallback when no prior run date in memory
   memory_key: "last_arxiv_scan_date"
 
 sources:
-  - name: arXiv cs.CY
+  # --- Source 1: arXiv CS + education ---
+  # Primary API:
+  #   http://export.arxiv.org/api/query?search_query=all:education+AND+all:artificial+intelligence&sortBy=submittedDate&max_results=20
+  # Fallback listing pages (use IMMEDIATELY on HTTP 429/503/empty/timeout):
+  #   https://arxiv.org/list/cs.CY/recent
+  #   https://arxiv.org/list/cs.HC/recent
+  #   https://arxiv.org/list/cs.CL/recent
+  #   https://arxiv.org/list/cs.AI/recent
+  - name: arXiv CS + education
     type: arxiv_api
     url: "http://export.arxiv.org/api/query"
-    categories: ["cs.CY"]
-    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school",
-               "curriculum", "pedagog", "grading", "feedback", "literacy", "assessment",
-               "metacognit"]
+    query: "all:education AND all:artificial intelligence"
     max_results: 20
     retry: {max_attempts: 3, delay_seconds: 2}
+    listing_fallback: ["https://arxiv.org/list/cs.CY/recent", "https://arxiv.org/list/cs.HC/recent",
+                       "https://arxiv.org/list/cs.CL/recent", "https://arxiv.org/list/cs.AI/recent"]
 
-  - name: arXiv cs.HC
+  # --- Source 2: arXiv Physics education ---
+  # Primary API:
+  #   http://export.arxiv.org/api/query?search_query=cat:physics.ed-ph&sortBy=submittedDate&max_results=20
+  # Fallback listing page:
+  #   https://arxiv.org/list/physics.ed-ph/recent
+  # Scope note: skip non-AI physics education papers (mechanics, lab equipment, telescopes) unless they involve AI/LLM.
+  - name: arXiv physics.ed-ph
     type: arxiv_api
     url: "http://export.arxiv.org/api/query"
-    categories: ["cs.HC"]
-    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school",
-               "curriculum", "pedagog", "grading", "feedback", "literacy", "assessment",
-               "metacognit"]
-    max_results: 10
-    retry: {max_attempts: 3, delay_seconds: 2}
-
-  - name: Semantic Scholar
-    type: semanticscholar_api
-    url: "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
-    query: "AI education OR intelligent tutoring OR LLM learning OR AI classroom"
-    fields_of_study: ["Education", "Computer Science"]
-    year: 2026
+    query: "cat:physics.ed-ph"
     max_results: 20
     retry: {max_attempts: 3, delay_seconds: 2}
+    listing_fallback: ["https://arxiv.org/list/physics.ed-ph/recent"]
 
-  - name: OpenAlex
-    type: openalex_api
-    url: "https://api.openalex.org/works"
-    query: "artificial intelligence education OR intelligent tutoring OR AI tutoring OR LLM education"
-    year: 2026
-    max_results: 10
-    retry: {max_attempts: 3, delay_seconds: 2}
-
-  - name: arXiv cs.CL + cs.AI (fallback)
-    type: arxiv_api
-    url: "http://export.arxiv.org/api/query"
-    categories: ["cs.CL", "cs.AI"]
-    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school"]
-    max_results: 10
-    trigger_when: "cs.CY + cs.HC combined < 5 new papers"
-    retry: {max_attempts: 3, delay_seconds: 2}
+  # --- Source 3: EdArXiv (Education Preprint Archive, via OSF API) ---
+  # ALWAYS pass -g (globoff) to curl so filter[provider]/filter[title] brackets aren't glob-expanded.
+  # curl -g -s "https://api.osf.io/v2/preprints/?filter[provider]=edarxiv&filter[title]=artificial+intelligence&sort=-date_modified&page[size]=10"
+  # curl -g -s "https://api.osf.io/v2/preprints/?filter[provider]=edarxiv&filter[title]=generative+AI&sort=-date_modified&page[size]=10"
+  - name: EdArXiv (OSF)
+    type: osf_api
+    url: "https://api.osf.io/v2/preprints/"
+    provider: "edarxiv"
+    title_queries: ["artificial intelligence", "generative AI"]
+    sort: "-date_modified"
+    page_size: 10
+    dedupe: "title_or_doi"  # EdArXiv preprints sometimes appear in arXiv too
 
 wiki:
   path: ./
@@ -78,12 +77,13 @@ relevance_filter:
     - General AI fairness/ethics without education context
     - Non-AI education research
     - AI detection tools without education context
+    - Non-AI physics education (mechanics, lab equipment, telescope projects)
   default_policy: "ingest"  # When uncertain, ingest
 
 deduplication:
-  method: "arxiv_id"
+  method: "arxiv_id_or_doi"
   check_path: "raw/papers/"
-  
+
 rate_limiting:
   strategy: "exponential_backoff"
   base_delay: 2  # seconds
