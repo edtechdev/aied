@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 156 concepts and 816 articles.
+> Complete text of 156 concepts and 817 articles.
 
 # Concepts
 
@@ -122,6 +122,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -1017,6 +1018,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -1600,6 +1602,7 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -1725,6 +1728,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -1813,6 +1817,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -4132,6 +4137,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -5438,6 +5444,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -5571,6 +5578,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -5868,6 +5876,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -8979,6 +8988,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[socially-fluent-ai-identity-detection]] — Socially Fluent AI Identity Detection
 - [[ssaho-ai-academic-integrity-review-2025]] — Review of AI-based plagiarism/AI-content detection reliability
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -9087,6 +9097,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -10984,6 +10995,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -11802,6 +11814,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -11974,6 +11987,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -19454,6 +19468,64 @@ This review is the non-IBL companion paper, contributing to the wiki's [[agentic
 ## Citation
 
 Ba, S., Shi, X., Wu, S., & Lu, G. (2026). [*Artificial intelligence agents in computer-supported collaborative learning: a systematic literature review*](https://doi.org/10.1016/j.caeai.2026.100579). *Computers and Education: Artificial Intelligence*, 10, 100579.
+
+---
+
+## [Heads We Win, Tails You Lose: AI Detectors in Education](https://edtechdev.github.io/aied/articles/bassett-ai-detectors-education-2026/)
+
+> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[plagiarism-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[authentic-assessment|assessment design]] that recognises AI's role in learning.
+
+## Key Findings
+
+1. **AI detection relies on unverifiable probabilistic estimates.** Detectors output a probability that text was AI-generated based on linguistic markers (perplexity, burstiness), but unlike spam filters or medical diagnostics, their results cannot be independently verified — real-world text origin is unknown, so validation relies on circular reasoning.
+2. **The false dichotomy.** Categorising text as human- or AI-generated ignores the reality of contemporary writing, where student work is frequently created *with*, not *by*, AI — a hybrid process that makes the binary approach meaningless.
+3. **Detection scores fail the evidentiary standard.** Academic integrity investigations require evidence meeting the balance-of-probabilities standard; AI detector scores, linguistic markers, style comparisons, and related indicators do not meet it.
+4. **AI detection undermines rather than safeguards integrity.** Reliance on detectors and surveillance fosters a climate of suspicion, eroding student [[trust]] and the integrity of assessment itself.
+5. **Assessment boundaries are undefined.** Policies restricting AI use "in assessment" fail to specify when an assessment begins, creating ambiguity that forces inconsistent enforcement and student self-regulation.
+
+## Unverifiable probabilistic estimates
+
+Generative AI detectors analyse a text's statistical and linguistic features and output a probability-based estimate of whether it was AI-generated. Unlike other probabilistic detection methods (spam filters, medical diagnostics) that achieve practical reliability, AI detector results cannot be independently verified: in real-world conditions, no external evidence can conclusively confirm whether a flagged text was AI-generated. Without known ground truth, validation relies on subjective interpretation or circular reasoning. Signal-detection metrics (FPR, FNR, TPR, TNR) only apply under controlled testing; real-world applications lack ground truth. Furthermore, detectors are trained and tested on pre-generative-AI human writing (e.g., Turnitin tested on 700,000 pre-2019 papers), assuming such text reflects contemporary student writing influenced by AI — an unverified assumption, especially given performance varies with underlying models, prompts, and platforms.
+
+## The false dichotomy and the boundaries of assessment
+
+The paper argues that the binary human-or-AI classification is conceptually flawed: students' work is frequently created *with*, not *by*, AI, via a hybrid process in which AI assistance is incorporated in various ways and at various stages. It also examines the undefined boundaries of assessment — policies using phrases like "in assessment" fail to specify when an assessment begins, so AI-assisted research, planning, or editing may or may not be a violation depending on interpretation. AI use exists along a continuum (citing Molenaar's hybrid human–AI intelligence model), making enforcement dependent on subjective judgement rather than principled criteria.
+
+## Procedural fairness and security
+
+AI detection raises security concerns around data storage and retention (including overseas servers with varying [[privacy]] standards), data breaches, and potential commercial exploitation of student work. It also violates procedural fairness: [[academic-integrity|academic integrity]] investigations require evidence meeting the balance-of-probabilities standard, which AI detector scores — alone or in combination with linguistic markers, style comparisons, LLM claims, or student silence — do not satisfy. Students under investigation must be afforded the right to silence; a refusal to respond does not tip the scales against them, and only requesting an oral response to verify learning outcomes is a legitimate (grading) question.
+
+## Implications for AI in education
+
+This paper is a strong argument in the wiki's [[plagiarism-detection]] and [[academic-integrity]] thread for retiring AI-detection tools, positioning them as methodologically and procedurally unsound. It connects to [[beyond-detection-authentic-assessment-ai-2025|beyond-detection work]] on [[authentic-assessment|authentic assessment]] and to [[assessment-validity|assessment validity]] — if AI detectors cannot be validated, their use undermines rather than protects [[assessment]]. It also speaks to [[educational-policy-ai|policy]] and [[governance]] in [[higher-ed|higher education]], and to [[writing-education]] by recognising AI-assisted writing as a legitimate, hybrid practice. Its emphasis on moving from surveillance toward [[ai-education|assessment design]] that recognises AI's role aligns with [[ai-literacy]] and human-centred [[generative-ai|GenAI]] integration.
+
+## Connected Concepts
+
+- [[plagiarism-detection]]
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[assessment]]
+- [[assessment-validity]]
+- [[authentic-assessment]]
+- [[trust]]
+- [[privacy]]
+- [[writing-education]]
+- [[student-experience]]
+- [[ai-education]]
+- [[educational-policy-ai]]
+- [[governance]]
+
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in the age of AI
+- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text via latent prompts
+- [[llm-detecting-llm-generated-content-education]] — LLMs detecting LLM-generated content in education
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
+
+## Citation
+
+Bassett, M. A., Bradshaw, W., Bornsztejn, H., Hogg, A., Murdoch, K., Pearce, B., & Webber, C. (2026). [Heads we win, tails you lose: AI detectors in education. *Journal of Higher Education Policy and Management*](https://doi.org/10.1080/1360080X.2026.2622146).
 
 ---
 
