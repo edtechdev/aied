@@ -48,6 +48,14 @@ journal_rss:
       url: "https://bera-journals.onlinelibrary.wiley.com/feed/14678535/most-recent"
       open_access: "check_per_article"  # hybrid journal — verify before ingesting
       max_age_days: 30
+    - name: "Frontiers in Psychology"
+      url: "https://www.frontiersin.org/journals/psychology/rss"
+      open_access: true
+      max_age_days: 30
+    - name: "International Journal of Educational Technology in Higher Education"
+      url: "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=41239"
+      open_access: true
+      max_age_days: 90
   fetcher_script: "tooling/scripts/fetch-rss-feeds.py"
 
 wiki:
