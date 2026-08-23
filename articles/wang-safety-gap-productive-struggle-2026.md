@@ -1,7 +1,7 @@
 ---
-title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI (Wang & Shan 2026)"
+title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI"
 created: "2026-08-23T08:15:00-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: article
 tags: [productive-failure, cognitive-offloading, generative-ai, scaffolding, socratic-method, medical-education, student-experience, trust]
 sources: ['raw/papers/wang-safety-gap-productive-struggle-2026.md']

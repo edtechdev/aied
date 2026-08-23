@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 
@@ -91,5 +91,5 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design (Rhaimi et al. 2025)
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 
