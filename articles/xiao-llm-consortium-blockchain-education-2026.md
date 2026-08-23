@@ -8,8 +8,6 @@ sources: ['raw/papers/xiao-llm-consortium-blockchain-education-2026.md']
 confidence: high
 ---
 
-# Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education
-
 > **Synthesis:** This technical paper proposes a framework that pairs [[llm|LLM]]-powered intelligent services with a permissioned consortium blockchain to deliver [[personalized-learning|personalized]] and verifiable [[online-teaching-and-learning|online education]] in [[higher-ed|higher education]]. The LLM provides the intelligent interface (conversational tutoring, dynamic content generation, [[automated-assessment|automated assessment]]), while the blockchain acts as a secure, tamper-proof ledger that immutably records learning data, academic credentials, and AI outputs. This design mitigates LLM [[hallucination-risk|hallucinations]] and output inconsistency by creating an auditable trail that enables accountability for AI-caused deficiencies. The authors implemented a Hyperledger Fabric prototype with 4 peer nodes, evaluated six LLMs on the RiceChem [[benchmark]], and illustrated applications in decentralized degree programs and continuous skill certification.
 
 ## Core Finding

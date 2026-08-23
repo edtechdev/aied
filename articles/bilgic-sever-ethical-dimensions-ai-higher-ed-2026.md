@@ -8,8 +8,6 @@ sources: ['raw/papers/bilgic-sever-ethical-dimensions-ai-higher-ed-2026.md']
 confidence: high
 ---
 
-# Understanding Ethical Dimensions of AI in Higher Education
-
 > **Synthesis:** Bilgiç and Sever used an explanatory sequential mixed-methods design to examine faculty and student views on the ethical use of AI in higher education, surveying 971 students and 135 faculty members followed by semi-structured interviews with 23 students and 14 faculty. Both groups expressed supportive views toward ethical AI use, but in different forms across individual, technological, institutional, and societal levels: faculty emphasized ethical principles while flagging a lack of institutional guidelines, whereas students valued AI's learning benefits but voiced uncertainty about the sharing of ethical responsibilities. Qualitative analysis surfaced six themes exposing a multidimensional ethical structure, with shared concern that excessive AI use could weaken cognitive skills. The authors call for faculty [[faculty-development|professional development]], ethics courses in curricula, clear institutional guidelines, and interdisciplinary [[collaborative-learning|collaboration]].
 
 ## Core Finding

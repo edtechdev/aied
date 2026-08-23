@@ -8,8 +8,6 @@ sources: ['raw/papers/crompton-governing-genai-higher-ed-delphi-2026.md']
 confidence: high
 ---
 
-# Governing Generative AI in Higher Education
-
 > **Synthesis:** Crompton and a large international panel used a Delphi technique and collective [[writing-education|writing]] to gather expert perspectives from 22 countries/locations across six continents, producing a consensus-driven higher education GenAI policy framework with eight core areas: academic integrity, ethical and responsible use, privacy and protection, equitable access, GenAI literacy, integration strategy, human oversight and accountability, and institutional support and infrastructure. A complementary six-part mechanism — a dedicated GenAI committee, scheduled policy reviews, ongoing [[faculty-development|professional development]], stakeholder communication, impact evaluation, and monitoring of external developments — is proposed to keep policies current. Grounded in the Socio-Ecological Technology Integration (SETI) framework, the study positions policies as enabling structures within an interconnected institutional ecosystem rather than isolated rules.
 
 ## Core Finding

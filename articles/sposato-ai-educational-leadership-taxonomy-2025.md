@@ -8,13 +8,11 @@ sources: ['raw/papers/sposato-ai-educational-leadership-taxonomy-2025.md']
 confidence: high
 ---
 
-# Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions
-
 > **Synthesis:** Sposato (2025) develops a ten-domain taxonomy of AI applications specifically tailored to educational leadership, filling a gap between AI research and how institutional leaders understand, evaluate, and implement AI. Built from a systematic literature review and inductive analysis of 314 publications (2017–2024), the taxonomy spans Administrative Efficiency, Personalized Learning, Enhancing Teaching Practices, Decision-Making and Policy Formulation, Student Support Services, Organizational Leadership and Strategic Planning, Governance and Compliance, Community Engagement and Communication, Ethical AI Leadership, and Diversity, Equity, and Inclusion. The framework gives leaders a common language for strategic AI integration while foregrounding ethical and [[equity-in-ai-education|equity]] concerns. It is primarily a conceptual/organizing contribution rather than an empirical test of outcomes.
 
 ## Core Finding
 
-**Educational leaders lack a comprehensive, structured framework for categorizing, evaluating, and implementing AI in their institutions, and this study supplies one: a validated ten-domain taxonomy of AI applications in educational leadership.** Because AI adoption in higher education is fragmented and poorly understood at the leadership level, leaders need a conceptual map that spans operational automation through ethical governance. The taxonomy is grounded in three theoretical frameworks — transformative leadership theory, the adaptive organizational framework, and an ethical AI implementation framework — and is designed to apply across K-12, [[higher-ed]], vocational, and continuing education contexts. The study explicitly argues for a balanced approach that leverages technological advances while actively managing [[ethics]] and [[accessibility|equity]] concerns.
+**Educational leaders lack a comprehensive, structured framework for categorizing, evaluating, and implementing AI in their institutions, and this study supplies one: a validated ten-domain taxonomy of AI applications in educational leadership.** Because AI adoption in higher education is fragmented and poorly understood at the leadership level, leaders need a conceptual map that spans operational automation through ethical governance. The taxonomy is grounded in three theoretical frameworks — transformative leadership theory, the adaptive organizational framework, and an ethical AI implementation framework — and is designed to apply across [[k-12]], [[higher-ed]], vocational, and continuing education contexts. The study explicitly argues for a balanced approach that leverages technological advances while actively managing [[ethics]] and [[accessibility|equity]] concerns.
 
 ## The Ten-Domain Taxonomy
 
@@ -33,7 +31,7 @@ The taxonomy organizes the full spectrum of AI in educational leadership into te
 
 ## Methodological Approach
 
-The study uses a general inductive approach to synthesize literature from IEEE Xplore, ACM Digital Library, ERIC, and Scopus (1,247 papers screened down to 314 for detailed review). Two independent researchers coded publications in NVivo, and the emerging categories were consolidated and validated through three rounds of refinement. The author acknowledges limitations: reliance on published literature may miss the newest developments, and restricting to English-language publications may exclude relevant cross-cultural insights.
+The study uses a general inductive approach to synthesize literature from IEEE Xplore, ACM Digital Library, ERIC, and Scopus (1,247 papers screened down to 314 for detailed review). Two independent researchers coded publications in NVivo, and the emerging categories were consolidated and validated through three rounds of refinement. The author acknowledges limitations: reliance on published literature may miss the newest developments, and restricting to [[language-learning|English]]-language publications may exclude relevant cross-cultural insights.
 
 ## Relevance to the Wiki
 

@@ -8,8 +8,6 @@ sources: ['raw/papers/zhang-races-consistent-essay-scoring-llms-2026.md']
 confidence: high
 ---
 
-# RACES: Reward-Aligned Consistent Essay Scoring with Large Language Models
-
 > **Synthesis:** Zhang and colleagues propose RACES (Reward-Aligned Consistent Essay Scoring), a unified framework for automated essay scoring (AES) that integrates LoRA-based parameter-efficient fine-tuning, reward modeling, and proximal [[educational-policy-ai|policy]] optimization (PPO) [[reinforcement-learning|reinforcement learning]]. The framework establishes an offline inference–[[feedback]]–optimization pipeline, optimizing toward proxy preference signals simulated via LLM-generated feedback while constraining policy drift through KL regularization. On the ASAP 2.0 dataset, RACES improved Quadratic Weighted Kappa (QWK) and auxiliary SimCSE metrics compared with evaluated pretrained and fine-tuned configurations, converging rapidly with limited training iterations. The framework is explicitly positioned as an auxiliary scoring tool for consistent preliminary scoring rather than a replacement for human raters.
 
 ## Core Finding

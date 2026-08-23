@@ -8,8 +8,6 @@ sources: ['raw/papers/ye-arpg-real-time-coaching-llm-prompting-2026.md']
 confidence: high
 ---
 
-# ARPG+: Real-Time Coaching for Educational LLM Prompting
-
 > **Synthesis:** Ye and colleagues present ARPG+, a real-time coaching system that teaches students how to prompt [[llm|large language models]] (LLMs) effectively, grounding its design in cognitive load theory and the zone of proximal development. The system senses when learners struggle, delivers calibrated just-in-time interventions, and fades support as skills develop, tracking learner capability with uncertainty quantification and diagnosing prompt quality across six dimensions. Evaluation with LLM-based simulated learners showed prompt quality increases 143% beyond unguided practice and independence reaches 91% of final interactions versus 59% under fixed support, generalizing to other domains without retraining. The authors are explicit that all results are [[simulation]]-based and that classroom validation is the necessary next step.
 
 ## Core Finding
