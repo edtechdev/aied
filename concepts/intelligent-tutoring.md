@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-23T09:10:00-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -149,5 +149,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 
