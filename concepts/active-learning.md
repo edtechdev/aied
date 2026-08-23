@@ -92,3 +92,5 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+
