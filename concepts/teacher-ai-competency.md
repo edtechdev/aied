@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-15T10:55:19-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
 confidence: high
@@ -46,6 +46,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - **Build confidence alongside skill:** attitudes and [[self-efficacy]] shape adoption, so PD should reduce anxiety and build confidence through authentic, supported practice.
 - **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
+- **Teacher digital competence for GenAI curriculum design.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validate a TAM-based diagnostic instrument with 434 in-service teachers; behavioural intention was the main predictor of digital competence for using GenAI in curriculum planning, with self-efficacy as a root driver.
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -94,3 +95,5 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[raffaghelli-situated-ai-ethics-2026]]
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
+

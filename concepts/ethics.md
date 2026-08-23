@@ -1,7 +1,7 @@
 ---
 title: Ethics in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
@@ -25,6 +25,7 @@ The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-highe
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts.
 
+- **AI ethics is shifting toward situated practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows AI ethics discourse post-2021 increasingly frames ethics around professional judgement, trust, human-AI collaboration, and interpretive practice rather than only technical compliance — with education a conceptually important context.
 ## Connected Concepts
 
 - [[business-education]]
@@ -84,4 +85,5 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 

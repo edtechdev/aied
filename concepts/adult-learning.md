@@ -1,7 +1,7 @@
 ---
 title: Adult Learning
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium
@@ -35,6 +35,7 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - **Make transparency and community features first-class.** Data-practice transparency and social/community features are among the most neglected yet most valued dimensions of adult AI tools.
 - **Treat technical and structural reliability as a precondition.** Engagement depends as much on stable, inclusive infrastructure as on pedagogical quality — unstable or exclusionary platforms undermine otherwise sound design.
 
+- **AI design principles for andragogy.** [[kim-ai-andragogy-2026|Kim et al. (2026)]] find adult learners value AI as a collaborative learning agent and derive three AI design principles for andragogy: human-in-the-loop (shared mental models, human-AI co-creation), emotional design (calibrating AI reliance, empathetic communication), and adaptability (continuous adaptation, interoperability).
 ## Connected Concepts
 
 - [[self-directed-learning]]
@@ -76,4 +77,5 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[dot-framework-survey-2026]]
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 

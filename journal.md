@@ -1,31 +1,71 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 979
+**Last updated:** 2026-08-23 | **Total entries:** 989
 
 ## 2026-08-23
+
+- ◐ [[guillen-curriculum-genai-teacher-competence-2026]] — raw/papers/guillen-curriculum-genai-teacher-competence-2026.md
+  Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence
+  #teacher-ai-competency #instructional-design #generative-ai #self-efficacy #professional-development
+
+- ◐ [[computational-thinking-aica-2026]] — raw/papers/computational-thinking-aica-2026.md
+  Exploring the Effect of Computational Thinking Levels on Students' Learning Performance, Cognition, and Behavior
+  #computational-thinking #cs-education #self-regulated-learning #learning-gains #k-12
+
+- ◐ [[asynchronous-oral-assessment-2026]] — raw/papers/asynchronous-oral-assessment-2026.md
+  Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era
+  #assessment #authentic-assessment #academic-integrity #student-engagement #higher-ed
+
+- ◐ [[ai-ethics-bibliometric-2026]] — raw/papers/ai-ethics-bibliometric-2026.md
+  From Abstract Ethics to Situated Practice: A Bibliometric Analysis of AI Ethics and Professional Judgement
+  #ethics #ai-education #human-in-the-loop-ai #human-ai-collaboration #trust #philosophy-of-ai-in-education
+
+- ◐ [[kibar-ilgaz-ai-instructional-design-review-2026]] — raw/papers/kibar-ilgaz-ai-instructional-design-review-2026.md
+  The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review
+  #instructional-design #generative-ai #human-ai-collaboration #teacher-role #pedagogy
+
+- ◐ [[aivaluate-anxiety-assessment-2026]] — raw/papers/aivaluate-anxiety-assessment-2026.md
+  Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate
+  #assessment #conversational-ai #pedagogical-agent #affective-computing #well-being #generative-ai #llm
+
+- ◐ [[graph-its-adaptive-algorithms-2026]] — raw/papers/graph-its-adaptive-algorithms-2026.md
+  Intelligent Tutoring in Dynamic Domains: A Graph-Based System for Comparative Analysis of Adaptive Algorithms
+  #intelligent-tutoring #adaptive-learning #knowledge-graph #self-regulated-learning #generative-ai #learning-gains
+
+- ◐ [[scaffolding-systematic-reviews-2026]] — raw/papers/scaffolding-systematic-reviews-2026.md
+  Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration
+  #scaffolding #human-in-the-loop-ai #human-ai-collaboration #collaborative-learning #instructional-design
+
+- ◐ [[kim-ai-andragogy-2026]] — raw/papers/kim-ai-andragogy-2026.md
+  Adult Learners' Perspectives of AI Applications in Supporting Andragogy
+  #adult-learning #generative-ai #human-in-the-loop-ai #affective-computing #personalized-learning #ai-education #autonomy #self-directed-learning
+
+- ◐ [[educational-robotics-pathways-2026]] — raw/papers/educational-robotics-pathways-2026.md
+  Pathways to Learning: Exploring High School Students' Learning of AI-Powered Educational Robotics
+  #educational-robotics #project-based-learning #constructivist #k-12 #cs-education
 
 - ● [[productive-failure]] — 
   Productive Failure
   #learning-theories #metacognition #cognitive-offloading #scaffolding #desirable-difficulties #problem-based-learning #inquiry-based-learning #feedback #generative-ai #learning-gains
 
 - ◐ [[rhaimi-productivemath-2025]] — raw/papers/rhaimi-productivemath-2025.md
-  ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching (Rhaimi et al. 2025)
+  ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching
   #productive-failure #generative-ai #math-education #k-12 #llm #teacher-role #instructional-design
 
 - ◐ [[wang-safety-gap-productive-struggle-2026]] — raw/papers/wang-safety-gap-productive-struggle-2026.md
-  The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI (Wang & Shan 2026)
+  The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
   #productive-failure #cognitive-offloading #generative-ai #scaffolding #socratic-method #medical-education #student-experience #trust
 
 - ◐ [[lukesova-clue-before-correction-2026]] — raw/papers/lukesova-clue-before-correction-2026.md
-  Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning (Lukešová & Jennings 2026)
+  Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
   #productive-failure #language-learning #generative-ai #metacognition #self-regulated-learning #feedback #cognitive-load #higher-ed
 
 - ◐ [[puech-pedagogical-steering-llm-productive-failure-2025]] — raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md
-  Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure (Puech et al. 2025)
+  Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure
   #productive-failure #llm #intelligent-tutoring #socratic-method #generative-ai #k-12 #math-education #human-in-the-loop-ai
 
 - ◐ [[kim-ai-productive-failure-adult-2026]] — raw/papers/kim-ai-productive-failure-adult-2026.md
-  Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
+  Designing AI Systems to Support Productive-Failure-Based Learning
   #productive-failure #generative-ai #adult-learning #instructional-design #llm #human-in-the-loop-ai #higher-ed
 
 ## 2026-08-22

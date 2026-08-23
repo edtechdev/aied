@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-18T16:30:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 confidence: high
@@ -29,6 +29,7 @@ For educators, the consistent message is that CT is developed through *explicit,
 
 Computational thinking is the shared cognitive foundation beneath [[ai-literacy]] and [[critical-thinking]], the curricular core of [[cs-education]] and [[k-12]] computing, and the conceptual target that [[educational-robotics]], [[game-based-learning]], and [[project-based-learning]] are best designed to serve. It is deepened by [[llm|large language models]] and [[generative-ai]] when those are used as scaffolding tools, and it is the skill that student-misconceptions taxonomies and CT-aware assessments aim to measure. Teachers develop it through [[teacher-education]] and [[professional-training]], and it transfers across domains including [[physics-education]] and [[stem-education|STEM]] broadly.
 
+- **Computational thinking predicts AI-assistant learning.** [[computational-thinking-aica-2026|Eighth-grade students]] with high computational thinking significantly outperformed low-CT peers in an AI coding-assistant course, using the assistant for understanding rather than answer retrieval.
 ## Connected Concepts
 
 - [[cs-education]]
@@ -79,3 +80,5 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+

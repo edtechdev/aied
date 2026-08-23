@@ -1,7 +1,7 @@
 ---
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-08-20T06:35:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [self-regulated-learning, agency, motivation, self-efficacy, higher-ed, generative-ai, lifelong-learning, adult-learning]
 confidence: high
@@ -46,3 +46,5 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with GenAI and learning analytics
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
 - [[andragogy-cognitive-delegation-genai-2026]] — Andragogy and cognitive delegation with GenAI
+- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
+

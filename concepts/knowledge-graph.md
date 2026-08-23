@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-08-17T18:25:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 confidence: high
@@ -66,3 +66,5 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
 - [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst engineering scaffolds
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+

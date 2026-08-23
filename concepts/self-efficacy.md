@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-21T14:58:12-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, confidence, self-regulated-learning, student-experience, ai-literacy]
 confidence: high
@@ -45,4 +45,5 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[social-emotional-learning]] — Social-Emotional Learning
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 

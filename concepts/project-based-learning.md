@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 confidence: high
@@ -21,6 +21,7 @@ Project-based learning is closely related to — but distinct from — [[problem
 
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.
 
+- **PBL supports AI-powered robotics learning.** [[educational-robotics-pathways-2026|Pathways research]] shows project-based robotics+AI curricula let high school students learn through engagement in real-world practice, designing, and playful creative expression.
 ## Connected Concepts
 
 - [[problem-based-learning]]
@@ -44,3 +45,5 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[academic-league-of-ai-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence
+- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+

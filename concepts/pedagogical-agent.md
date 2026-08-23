@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
 confidence: medium
@@ -89,4 +89,5 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
