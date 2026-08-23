@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-23T08:30:00-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 
@@ -87,3 +87,6 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic pipeline for educational math diagram evaluation
 
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure (Puech et al. 2025)
+- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design (Rhaimi et al. 2025)
+

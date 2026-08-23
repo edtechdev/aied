@@ -1,7 +1,7 @@
 ---
 title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-23T08:30:00-04:00"
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
@@ -78,6 +78,7 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[human-ai-collaboration]]
 - [[agency]]
 - [[teacher-role]]
+- [[productive-failure]]
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

@@ -1,7 +1,7 @@
 ---
 title: Trust in AI
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-21T14:58:12-04:00"
+updated: "2026-08-23T08:30:00-04:00"
 type: concept
 tags: [trust, ai-literacy, social-robots, human-robot-interaction, epistemic-trust, critical-thinking, intelligent-tutoring]
 
@@ -50,4 +50,5 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle (Wang & Shan 2026)
 
