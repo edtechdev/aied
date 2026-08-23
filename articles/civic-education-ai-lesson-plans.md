@@ -111,4 +111,4 @@ Civic education is a uniquely high-stakes domain for AI application because:
 
 ## Citation
 
-Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). Civic education in the age of AI: Should we trust AI-generated lesson plans? [*Contemporary Issues in Technology and Teacher Education*, 25(3)](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/).
+Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). [*Civic education in the age of AI: Should we trust AI-generated lesson plans*](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/). *Contemporary Issues in Technology and Teacher Education*

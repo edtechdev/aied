@@ -48,4 +48,4 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 
 ## Citation
 
-Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). *Game-based and gamified robotics education: A comparative systematic review and design guidelines*. arXiv:2601.22199. doi:10.1145/3772318.3791338.
+Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). [*Game-based and gamified robotics education: A comparative systematic review and design guidelines*](https://doi.org/10.1145/3772318.3791338). arXiv:2601.22199.

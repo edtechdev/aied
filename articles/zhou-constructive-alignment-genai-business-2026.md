@@ -53,5 +53,5 @@ confidence: medium
 
 ## Citation
 
-Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment. *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/pc04tp05
+Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). [*From experimentation to integration: Embedding generative artificial intelligence in business higher education through the lens of constructive alignment*](https://doi.org/10.53761/pc04tp05). *Journal of University Teaching and Learning Practice*, 23(2).
 

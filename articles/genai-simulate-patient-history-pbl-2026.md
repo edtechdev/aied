@@ -42,4 +42,4 @@ Between-groups, mixed-methods pilot at a small community-based U.S. medical scho
 - [[genai-patient-education-transplant-handbooks]] — Generative AI for Patient Education: Grounding Content and Equity in Transplant Handbooks
 
 ## Citation
-Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based [[learning-gains|learning]] tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.
+Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using generative AI to simulate patient history-taking in a problem-based learning tutorial*](https://doi.org/10.1007/s10758-025-09929-4). *Technology, Knowledge and Learning*.

@@ -73,4 +73,4 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 
 ## Citation
 
-Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). The care-full craft of feedback in an age of generative AI. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2643333), 51(5), 911–927
+Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). [*The care-full craft of feedback in an age of generative AI*](https://doi.org/10.1080/02602938.2026.2643333). *Assessment & Evaluation in Higher Education*, 51(5), 911–927

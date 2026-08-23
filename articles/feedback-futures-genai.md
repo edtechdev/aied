@@ -87,4 +87,4 @@ The editors distill five recurring tensions from the special issue:
 
 ## Citation
 
-Zhan, Y., Wood, J., Carless, D., & Yan, Z. (2026). Feedback futures: beyond the limits of human and GenAI capacities. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2672830), 51(5), 811–820
+Zhan, Y., Wood, J., Carless, D., & Yan, Z. (2026). [*Feedback futures: beyond the limits of human and GenAI capacities*](https://doi.org/10.1080/02602938.2026.2672830). *Assessment & Evaluation in Higher Education*, 51(5), 811–820

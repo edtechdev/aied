@@ -67,5 +67,5 @@ Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 student
 
 ## Citation
 
-Tubino, L., & Adachi, C. (2022). Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool. In S. Wilson, N. Arthars, D. Wardak, P. Yeoman, E. Kalman, & D.Y.T. Liu (Eds.), *Reconnecting relationships through technology: Proceedings of the 39th ASCILITE Conference* (e22039). DOI: 10.14742/apubs.2022.39. (CC BY)
+Tubino, L., & Adachi, C. (2022). [*Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool*](https://doi.org/10.14742/apubs.2022.39). In S. Wilson, N. Arthars, D. Wardak, P. Yeoman, E. Kalman, & D.Y.T. Liu (Eds.), *Reconnecting relationships through technology: Proceedings of the 39th ASCILITE Conference* (e22039).
 - [[feedback-literacy]]

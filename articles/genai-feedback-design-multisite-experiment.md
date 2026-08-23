@@ -93,4 +93,4 @@ g revision.**
 
 ## Citation
 
-Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation. [*International Journal of Educational Technology in Higher Education*](https://doi.org/10.1186/s41239-026-00614-9), *23*(38)
+Ateş, H. (2026). [*Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation*](https://doi.org/10.1186/s41239-026-00614-9). *International Journal of Educational Technology in Higher Education*, *23*(38)

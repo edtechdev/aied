@@ -82,4 +82,4 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 
 ## Citation
 
-Scheu, S., Loeffler, S. N., & Maedche, A. (2026). Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement. [*International Journal of Educational Technology in Higher Education*](https://doi.org/10.1186/s41239-026-00589-7), 23, 15
+Scheu, S., Loeffler, S. N., & Maedche, A. (2026). [*Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement*](https://doi.org/10.1186/s41239-026-00589-7). *International Journal of Educational Technology in Higher Education*, 23, 15
