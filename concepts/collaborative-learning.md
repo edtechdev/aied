@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: concept
 tags: [collaborative-learning, cscl, ai-education, student-experience, scaffolding, equity, k-12, higher-ed]
 confidence: high
@@ -95,4 +95,5 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 
