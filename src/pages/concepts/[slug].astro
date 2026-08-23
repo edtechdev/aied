@@ -18,8 +18,12 @@ if (CONCEPT_REDIRECTS[slug]) {
   return Astro.redirect(`/aied/concepts/${CONCEPT_REDIRECTS[slug]}/`, 301);
 }
 const allConcepts = await getCollection('concepts');
+const articles = await getCollection('articles');
 const concept = allConcepts.find(c => c.id.replace('.md', '') === slug);
 if (!concept) return Astro.redirect('/aied/');
+
+// For canonical wikilink routing: map slug -> canonical base path
+const articleSlugs = new Set(articles.map(a => a.id.replace('.md', '')));
 
 const { title, tags, confidence, created, updated } = concept.data;
 const createdDisplay = (created || '').split('T')[0];
@@ -151,7 +155,8 @@ function renderInline(text: string): string {
     .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
       const page = p.replace('.md', '').trim();
       const label = l || smartTitle(page.replace(/-/g, ' '));
-      return `<a href="/aied/pages/${page}">${label}</a>`;
+      const base = articleSlugs.has(page) ? '/aied/articles' : '/aied/concepts';
+      return `<a href="${base}/${page}">${label}</a>`;
     })
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.+?)\*/g, '<em>$1</em>')
