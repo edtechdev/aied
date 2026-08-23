@@ -156,4 +156,5 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[social-emotional-learning]] — Social-Emotional Learning
 

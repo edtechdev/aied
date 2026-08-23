@@ -114,4 +114,5 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[learner-ai-interaction-patterns-oop]] — Interaction patterns and learning gains in OOP
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+- [[social-emotional-learning]] — Social-Emotional Learning
 

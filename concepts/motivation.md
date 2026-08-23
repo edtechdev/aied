@@ -55,3 +55,5 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
+- [[social-emotional-learning]] — Social-Emotional Learning
+

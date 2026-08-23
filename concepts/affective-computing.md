@@ -49,3 +49,5 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[sycophantic-ai-social-interaction-2026]]
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[social-emotional-learning]] — Social-Emotional Learning
+
