@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning and AI
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-22T05:55:16-04:00"
+updated: "2026-08-23T08:30:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 confidence: high
@@ -56,3 +56,5 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
+- [[productive-failure]] — Productive Failure
+

@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-22T02:17:06-04:00"
+updated: "2026-08-23T08:30:00-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, cognitive-offloading, learning-science, scaffolding, metacognition]
 
@@ -94,4 +94,5 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[productive-failure]] — Productive Failure
 

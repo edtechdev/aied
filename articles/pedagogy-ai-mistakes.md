@@ -1,7 +1,7 @@
 ---
 title: "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-22T20:10:00-04:00"
+updated: "2026-08-23T08:30:00-04:00"
 type: article
 tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-method, rag, llm, ai-tutoring]
 sources: ['raw/papers/2605.05472.md']
@@ -66,7 +66,7 @@ The course (n=13, asynchronously delivered undergraduate database design) embedd
 - [[cs-education]]
 - [[higher-ed]]
 - [[student-experience]]
-
+- [[productive-failure]]
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]

@@ -1,6 +1,32 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 973
+**Last updated:** 2026-08-23 | **Total entries:** 979
+
+## 2026-08-23
+
+- ● [[productive-failure]] — 
+  Productive Failure
+  #learning-theories #metacognition #cognitive-offloading #scaffolding #desirable-difficulties #problem-based-learning #inquiry-based-learning #feedback #generative-ai #learning-gains
+
+- ◐ [[rhaimi-productivemath-2025]] — raw/papers/rhaimi-productivemath-2025.md
+  ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching (Rhaimi et al. 2025)
+  #productive-failure #generative-ai #math-education #k-12 #llm #teacher-role #instructional-design
+
+- ◐ [[wang-safety-gap-productive-struggle-2026]] — raw/papers/wang-safety-gap-productive-struggle-2026.md
+  The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI (Wang & Shan 2026)
+  #productive-failure #cognitive-offloading #generative-ai #scaffolding #socratic-method #medical-education #student-experience #trust
+
+- ◐ [[lukesova-clue-before-correction-2026]] — raw/papers/lukesova-clue-before-correction-2026.md
+  Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning (Lukešová & Jennings 2026)
+  #productive-failure #language-learning #generative-ai #metacognition #self-regulated-learning #feedback #cognitive-load #higher-ed
+
+- ◐ [[puech-pedagogical-steering-llm-productive-failure-2025]] — raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md
+  Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure (Puech et al. 2025)
+  #productive-failure #llm #intelligent-tutoring #socratic-method #generative-ai #k-12 #math-education #human-in-the-loop-ai
+
+- ◐ [[kim-ai-productive-failure-adult-2026]] — raw/papers/kim-ai-productive-failure-adult-2026.md
+  Designing AI Systems to Support Productive-Failure-Based Learning (Kim et al. 2026)
+  #productive-failure #generative-ai #adult-learning #instructional-design #llm #human-in-the-loop-ai #higher-ed
 
 ## 2026-08-22
 
