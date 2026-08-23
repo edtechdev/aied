@@ -1,8 +1,76 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 1005
+**Last updated:** 2026-08-23 | **Total entries:** 1022
 
 ## 2026-08-23
+
+- ◐ [[crompton-faculty-technology-integration-standards-2026]] — raw/papers/crompton-faculty-technology-integration-standards-2026.md
+  Designing faculty standards for technology integration in higher education institutions: a design-based research study
+  #faculty-development #teacher-role #instructional-design #curriculum-design #higher-ed #administrator #pedagogy #ai-literacy
+
+- ◐ [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md
+  Anticipatory governance and leadership for AI implementation in higher education: A scoping review
+  #governance #educational-policy-ai #administrator #higher-ed #ai-education #ethics
+
+- ◐ [[tian-genai-learning-adoption-pathways-2026]] — raw/papers/tian-genai-learning-adoption-pathways-2026.md
+  Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study
+  #technology-acceptance-model #motivation #generative-ai #higher-ed #ai-education #student-engagement
+
+- ◐ [[colbran-student-perspectives-genai-chatbots-2026]] — raw/papers/colbran-student-perspectives-genai-chatbots-2026.md
+  Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education
+  #conversational-ai #student-experience #generative-ai #higher-ed #ai-literacy #academic-integrity #pedagogical-agent #student-ai-interaction #instructional-design
+
+- ◐ [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — raw/papers/bilgic-sever-ethical-dimensions-ai-higher-ed-2026.md
+  Understanding ethical dimensions of AI in higher education: insights from faculty members and students
+  #ethics #ai-education #higher-ed #governance #academic-integrity #privacy #student-experience #teacher-role
+
+- ◐ [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — raw/papers/chang-genai-peer-feedback-collaborative-argumentation-2026.md
+  Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
+  #collaborative-learning #feedback #scaffolding #prompt-engineering #generative-ai #higher-ed #critical-thinking #self-regulated-learning #metacognition
+
+- ◐ [[zhang-races-consistent-essay-scoring-llms-2026]] — raw/papers/zhang-races-consistent-essay-scoring-llms-2026.md
+  RACES: reward-aligned consistent essay scoring with large language models
+  #automated-essay-scoring #automated-assessment #assessment #llm #generative-ai #human-in-the-loop-ai #assessment-validity
+
+- ◐ [[sposato-ai-educational-leadership-taxonomy-2025]] — raw/papers/sposato-ai-educational-leadership-taxonomy-2025.md
+  Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions
+  #governance #administrator #higher-ed #educational-policy-ai #ethics #ai-education #human-ai-collaboration #faculty-development #ai-literacy #trust
+
+- ◐ [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — raw/papers/yilmaz-genai-feedback-srl-online-higher-ed-2026.md
+  Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback
+  #self-regulated-learning #feedback #generative-ai #ai-feedback-quality #online-teaching-and-learning #higher-ed #student-ai-interaction #metacognition
+
+- ◐ [[wang-zhang-pedagogical-partnerships-genai-2026]] — raw/papers/wang-zhang-pedagogical-partnerships-genai-2026.md
+  Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning
+  #generative-ai #higher-ed #human-ai-collaboration #agency #trust #metacognition #critical-thinking #student-ai-interaction #self-regulated-learning
+
+- ◐ [[lee-wu-gender-motivation-genai-achievement-2026]] — raw/papers/lee-wu-gender-motivation-genai-achievement-2026.md
+  Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories
+  #generative-ai #motivation #student-ai-interaction #personalized-learning #higher-ed #learning-gains #self-regulated-learning
+
+- ◐ [[farrokhnia-genai-feedback-student-revisions-2026]] — raw/papers/farrokhnia-genai-feedback-student-revisions-2026.md
+  Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
+  #feedback #ai-feedback-quality #generative-ai #prompt-engineering #writing-education #assessment #higher-ed #formative-assessment #student-ai-interaction
+
+- ◐ [[cui-motivation-roles-metacognitive-genai-2026]] — raw/papers/cui-motivation-roles-metacognitive-genai-2026.md
+  How motivation and roles influence metacognitive engagement in student-GenAI interaction
+  #motivation #metacognition #student-ai-interaction #generative-ai #self-regulated-learning #agency #higher-ed
+
+- ◐ [[crompton-governing-genai-higher-ed-delphi-2026]] — raw/papers/crompton-governing-genai-higher-ed-delphi-2026.md
+  Governing generative AI in higher education: a global Delphi study on policy and practice
+  #governance #educational-policy-ai #generative-ai #higher-ed #academic-integrity #ai-literacy #ethics #privacy #human-in-the-loop-ai
+
+- ◐ [[ye-arpg-real-time-coaching-llm-prompting-2026]] — raw/papers/ye-arpg-real-time-coaching-llm-prompting-2026.md
+  ARPG+: a simulation-based study of real-time coaching for educational LLM prompting
+  #prompt-engineering #llm #metacognition #cognitive-offloading #self-regulated-learning #generative-ai #instructional-design #human-ai-collaboration
+
+- ◐ [[xiao-llm-consortium-blockchain-education-2026]] — raw/papers/xiao-llm-consortium-blockchain-education-2026.md
+  Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education
+  #llm #personalized-learning #online-teaching-and-learning #assessment #trust #higher-ed #privacy
+
+- ◐ [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — raw/papers/saihi-ahmed-genai-adoption-personas-higher-ed-2026.md
+  Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach
+  #generative-ai #higher-ed #technology-acceptance-model #trust #student-experience #conversational-ai #ai-literacy #ethics #human-ai-collaboration
 
 - ● [[history-of-aied]] — 
   History of AI in Education

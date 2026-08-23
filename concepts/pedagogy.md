@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high
@@ -80,6 +80,7 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[k-12]]
 
 ## Connected Articles
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
 
 - [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]

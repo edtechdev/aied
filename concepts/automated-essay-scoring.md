@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-19T10:13:51-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12, automated-assessment]
 
@@ -12,7 +12,9 @@ confidence: high
 
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 
-### Key research themes
+#- **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES uses reward alignment to make LLM essay scoring both accurate and consistent, addressing a core AES validity concern.
+
+## Key research themes
 
 **Prompting-based AES** has emerged as the most accessible approach. The **[[choi-anchor-aes-prompting-2025|Choi et al. anchor paper study]]** shows that including exemplar essays in prompts brings LLM-human agreement close to human-human reliability, with GPT-4o mini achieving comparable results to GPT-4o at lower cost. This connects to broader [[prompt-engineering]] research and makes AES feasible for teacher use.
 
@@ -39,6 +41,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[ai-literacy]]
 - [[assessment-validity]]
 ## Connected Articles
+- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
 
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]

@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -16,6 +16,8 @@ SRL is the process whereby learners actively manage their own learning through t
 3. **Self-reflection:** Self-evaluation, causal attribution, adaptation
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+
+- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior.
 
 ## Digital Support for SRL
 
@@ -99,6 +101,7 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
 - [[benali-genai-academic-writing-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[genai-thoughtless-use-self-directed-learning-2026]]

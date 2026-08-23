@@ -1,7 +1,7 @@
 ---
 title: Ethics in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-23T14:30:00-04:00"
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
@@ -9,7 +9,9 @@ confidence: high
 
 > **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. AI education ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
 
-### Ethical dimensions
+#- **[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]** surface faculty and student perceptions of AI's ethical dimensions, informing ethics-education and policy design.
+
+## Ethical dimensions
 
 - **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
@@ -44,6 +46,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[benali-genai-academic-writing-2026]]
 - [[ying-genai-journalism-assessment-2026]]
