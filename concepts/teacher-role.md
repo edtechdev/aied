@@ -90,4 +90,5 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 

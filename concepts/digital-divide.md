@@ -53,3 +53,5 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+

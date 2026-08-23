@@ -132,4 +132,5 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 
