@@ -1,7 +1,7 @@
 ---
 title: "Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning"
 created: "2026-08-23T08:10:00-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, language-learning, generative-ai, metacognition, self-regulated-learning, feedback, cognitive-load, higher-ed]
 sources: ['raw/papers/lukesova-clue-before-correction-2026.md']
@@ -12,13 +12,13 @@ confidence: high
 
 ## Core design: clue before correction
 
-Unlike traditional chatbot use for direct error correction (which positions learners as passive recipients), this activity is intentionally structured to require **active problem-solving**: students are prompted to infer correct solutions from guided hints. This is a concrete instance of learning from errors/mistakes — the learner is pushed to diagnose and correct their own errors with clue-based scaffolding rather than being told the answer.
+Unlike traditional chatbot use for direct error correction (which positions learners as passive recipients), this activity is intentionally structured to require **active problem-solving**: students are prompted to infer correct solutions from guided hints. This is a concrete instance of learning from errors/mistakes — the learner is pushed to diagnose and correct their own errors with clue-based [[scaffolding]] rather than being told the answer.
 
 ## Findings
 
-- **Reduced cognitive load:** ChatGPT provided structured, adaptive feedback that reduced cognitive load and supported personalized revision pathways, particularly for more proficient learners (those with sufficient prior knowledge).
+- **Reduced cognitive load:** ChatGPT provided structured, adaptive feedback that reduced cognitive load and supported personalized revision pathways, particularly for more proficient learners (those with sufficient [[prior-knowledge|prior knowledge]]).
 - **Prompting matters:** learner prompting behavior strongly influenced feedback quality and depth — prompting is itself a skill learners develop over time, so outcomes vary with proficiency, prompting ability, and model interpretation.
-- **Learning-gains framing:** the paper cites that elaborative feedback produces significantly higher learning gains than verification-only feedback (Hattie & Timperley), and that feedback timing matters — supporting the value of clue-based (elaborative) over direct-corrective feedback.
+- **Learning-gains framing:** the paper cites that elaborative [[feedback]] produces significantly higher [[learning-gains|learning gains]] than verification-only feedback (Hattie & Timperley), and that feedback timing matters — supporting the value of clue-based (elaborative) over direct-corrective feedback.
 - **ICAP-ME framework:** a new pedagogical framework extending ICAP to include metacognitive and affective dimensions, used to analyze AI-mediated learning engagement.
 
 ## Design principles

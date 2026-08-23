@@ -1,7 +1,7 @@
 ---
 title: "Designing AI Systems to Support Productive-Failure-Based Learning"
 created: "2026-08-23T08:00:00-04:00"
-updated: "2026-08-23T09:20:00-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, adult-learning, instructional-design, llm, human-in-the-loop-ai, higher-ed]
 sources: ['raw/papers/kim-ai-productive-failure-adult-2026.md']
@@ -12,16 +12,16 @@ confidence: high
 
 ## Core Finding
 
-Generative AI can support productive-failure-based learning across problem exploration, solution generation, collaborative problem-solving, comparison/contrast, knowledge reorganization, and knowledge transfer — provided it is designed to preserve struggle and give non-directive help. Five design principles emerge for AI systems serving [[adult-learning|adult learners]] engaged in productive failure.
+Generative AI can support productive-failure-based learning across problem exploration, solution generation, [[collaborative-learning|collaborative]] problem-solving, comparison/contrast, knowledge reorganization, and knowledge transfer — provided it is designed to preserve struggle and give non-directive help. Five design principles emerge for AI systems serving [[adult-learning|adult learners]] engaged in productive failure.
 
 ## The productive failure framework
 
-Productive Failure (PF), grounded in [[constructivist|constructivist principles]], engages learners with problems targeting concepts they have not yet learned, struggling to generate solutions BEFORE receiving direct instruction (Kapur, 2008; Kapur & Bielaczyc, 2012). Because learners generate solutions without cognitive support, they rely on [[prior-knowledge|prior knowledge]] and produce suboptimal or incorrect solutions. The initial struggle and failure is a powerful catalyst: it activates and differentiates prior knowledge and prepares learners to learn better from subsequent instruction. PF benefits include enhanced [[transfer-of-learning|knowledge transfer]], durable skills ([[critical-thinking]], resilience, communication), reduced fear of mistakes, increased engagement, and positive attitudes toward lifelong learning.
+Productive Failure (PF), grounded in [[constructivist|constructivist principles]], engages learners with problems targeting concepts they have not yet learned, struggling to generate solutions BEFORE receiving direct instruction (Kapur, 2008; Kapur & Bielaczyc, 2012). Because learners generate solutions without cognitive support, they rely on [[prior-knowledge|prior knowledge]] and produce suboptimal or incorrect solutions. The initial struggle and failure is a powerful catalyst: it activates and differentiates prior knowledge and prepares learners to learn better from subsequent instruction. PF benefits include enhanced [[transfer-of-learning|knowledge transfer]], durable skills ([[critical-thinking]], resilience, communication), reduced fear of mistakes, increased engagement, and positive attitudes toward [[lifelong-learning|lifelong learning]].
 
 ## How AI supports each PF phase (adult-learner perceptions)
 
 **Phase 1 — Generation & exploration:**
-- **Problem exploration without indirect instruction:** AI (conversational agents like ChatGPT, Gemini, Claude) as "thinking partners" prompting learners to define success/failure conditions, adopt multiple perspectives on failure, and trace root causes of ill-structured problems. Chatbots can generate failure-based quiz questions to surface misconceptions in a safe, low-stakes space before formal instruction.
+- **Problem exploration without indirect instruction:** AI ([[conversational-ai|conversational agents]] like ChatGPT, Gemini, Claude) as "thinking partners" prompting learners to define success/failure conditions, adopt multiple perspectives on failure, and trace root causes of ill-structured problems. [[pedagogical-agent|Chatbots]] can generate failure-based quiz questions to surface misconceptions in a safe, low-stakes space before formal instruction.
 - **Solution generation via prior-knowledge activation:** AI-powered brainstorming, scenario-planning/"what-if" analysis, graphic organizers/mind maps, prototyping tools, and Socratic-style questioning that connects prior experience to new contexts.
 - **Collaborative problem-solving:** AI facilitating equitable group engagement through collaborative workspaces (Notion, Miro, Trello).
 

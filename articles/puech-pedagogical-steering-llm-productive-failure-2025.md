@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure"
 created: "2026-08-23T08:05:00-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, llm, intelligent-tutoring, socratic-method, generative-ai, k-12, math-education, human-in-the-loop-ai]
 sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md']
@@ -12,7 +12,7 @@ confidence: high
 
 ## The Pedagogical Steering problem
 
-One-to-one tutoring is among the most efficient teaching methods, but is expensive — the "Two-Sigma Problem" (Bloom, 1984). LLM-based conversational tutors aim to scale it affordably. However, current LLMs are instruction-tuned to be helpful assistants and maximize user satisfaction; a tutor's goal is to **maximize learning, not satisfaction**. These goals conflict: directly providing the solution maximizes satisfaction and is what LLMs prefer, but promoting active engagement (indirect hints, guiding questions) is more effective for learning (Freeman et al., 2014; Merrill et al., 1992). Moreover, LLM tutors are optimized/evaluated for single-turn requests, while tutoring is a multi-turn interaction using various pedagogical cues. Shifting LLMs from their user-serving goal to a pedagogically suitable one is the **Pedagogical Steering problem**.
+One-to-one tutoring is among the most efficient teaching methods, but is expensive — the "Two-Sigma Problem" (Bloom, 1984). LLM-based conversational tutors aim to scale it affordably. However, current LLMs are instruction-tuned to be helpful assistants and maximize user satisfaction; a tutor's goal is to **maximize learning, not satisfaction**. These goals conflict: directly providing the solution maximizes satisfaction and is what LLMs prefer, but promoting [[student-engagement|active engagement]] (indirect hints, guiding questions) is more effective for learning (Freeman et al., 2014; Merrill et al., 1992). Moreover, LLM tutors are optimized/evaluated for single-turn requests, while tutoring is a multi-turn interaction using various pedagogical cues. Shifting LLMs from their user-serving goal to a pedagogically suitable one is the **Pedagogical Steering problem**.
 
 ## StratL
 
