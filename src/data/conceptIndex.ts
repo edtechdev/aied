@@ -55,7 +55,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Emergent and cross-cutting themes',
     blurb: 'Concepts that span the field, from AI literacy to human–AI collaboration and design approaches.',
     groups: [
-      { label: 'Cross-cutting', items: ['ai-education', 'ai-literacy', 'prompt-engineering', 'human-ai-collaboration', 'agentic-ai', 'computational-thinking', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'philosophy-of-ai-in-education'] },
+      { label: 'Cross-cutting', items: ['ai-education', 'history-of-aied', 'ai-literacy', 'prompt-engineering', 'human-ai-collaboration', 'agentic-ai', 'computational-thinking', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'philosophy-of-ai-in-education'] },
     ],
   },
 ];

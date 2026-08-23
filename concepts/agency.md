@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-21T14:58:12-04:00"
+updated: "2026-08-23T13:30:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -12,7 +12,9 @@ confidence: high
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
-### How agency appears in the wiki's research
+#**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's generative AI — making learner agency the enduring axis of the field's debates.
+
+## How agency appears in the wiki's research
 
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in computational thinking; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to well-being and governance debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] research examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
@@ -37,6 +39,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
 - [[ying-genai-journalism-assessment-2026]]
 - [[pedlow-genai-selfassessment-2026]]
 - [[dollinger-equitable-assessment-ai-2026]]

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 159 concepts and 844 articles.
+> Complete text of 160 concepts and 845 articles.
 
 # Concepts
 
@@ -594,7 +594,9 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
-### How agency appears in the wiki's research
+#**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's generative AI — making learner agency the enduring axis of the field's debates.
+
+## How agency appears in the wiki's research
 
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in computational thinking; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to well-being and governance debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] research examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
@@ -619,6 +621,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
 - [[ying-genai-journalism-assessment-2026]]
 - [[pedlow-genai-selfassessment-2026]]
 - [[dollinger-equitable-assessment-ai-2026]]
@@ -864,6 +867,8 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 AI in education is the umbrella that all other concept pages collectively define. The wiki organizes the field into the major strands below, each linking to the relevant concept pages.
 
+A landmark historical perspective, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** trace AIED from cybernetics and the 1956 Dartmouth conference through cognitive tutors and Papert's constructionism, arguing that today's GenAI debates re-enact the field's foundational control-vs-agency tension.
+
 ## How the wiki is organized: the umbrella pages
 
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
@@ -979,6 +984,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[business-education]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[espino-ai-business-education-review-2026]]
 - [[oby-chatgpt-use-learning-framework-2026]]
@@ -2960,6 +2966,8 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of generative AI in the classroom.
 
+**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** contrast Papert's constructionism (Logo, microworlds, debugging-as-learning) with Anderson's cognitive tutors as competing visions of creative agency vs. systematic control in AIED history.
+
 ## Core ideas
 
 - **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with prior knowledge, and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
@@ -3023,6 +3031,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
@@ -6016,6 +6025,71 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ---
 
+## [History of AI in Education](https://edtechdev.github.io/aied/concepts/history-of-aied/)
+
+> **History of AI in Education** — the study of how artificial intelligence and education have co-evolved since the mid-20th century, and how past conceptual, terminological, and design choices continue to shape today's debates about AI in learning. Rather than treating generative AI as a sudden, unprecedented force, a historical lens reveals recurring tensions — control vs. agency, standardization vs. creativity, automation vs. augmentation — that have structured AI in education since its origins.
+
+The field's history is not a linear progression but a series of contingent decisions whose effects still echo. Understanding this history guards against "chronocentrism" (the bias of treating current developments as uniquely revolutionary), helps avoid repeating past mistakes, and reveals how choices about framing and terminology — not just technology — steer the trajectory of AI in education.
+
+### Key historical threads
+
+**From cybernetics to "artificial intelligence."** When John McCarthy planned the 1956 Dartmouth Summer Research Project, he deliberately chose the term *artificial intelligence* over *cybernetics* — partly to distance the field from Norbert Wiener and his focus on analog feedback. This naming decision framed machine capabilities in direct comparison to human cognition (anthropomorphic framing), steering research priorities, public perception, and ethical debate for decades. Had the field kept the cybernetic framing, the article imagines we might now speak of "cybernetic learning systems" emphasizing feedback and interconnection rather than "AI tutors" positioning the machine as an independent source of intelligence.
+
+**The cognitive revolution and the roots of ITS.** Early pioneers — Herbert Simon, Allen Newell, Marvin Minsky, John Anderson — were not merely modeling cognition; they were investigating fundamental questions about learning and instruction. Their work produced information-processing models of human cognition that became foundational to educational psychology, and led to [[intelligent-tutoring|Intelligent Tutoring Systems (ITS)]], rooted in the heuristic-search and expert-systems paradigms of 1960s–70s AI. These systems aligned naturally with existing structures of assessment and standardization, and eventually coalesced into the AIED community.
+
+**Control vs. agency: Anderson and Papert.** Two competing visions emerged, embodied in John Anderson and Seymour Papert. **Anderson's** [[intelligent-tutoring|cognitive tutors]] (ACT/ACT-R theory) decomposed knowledge into production rules, provided precise individualized feedback, and reinforced traditional educational structures — a vision of AI as a tool for optimizing instruction. **Papert's** [[constructivist|constructionism]] (Logo, "microworlds," debugging-as-learning) saw computers as environments where children construct knowledge through creative experimentation — a vision of AI as an instrument of intellectual empowerment that challenged institutional hierarchies. This "essential tension" between control and agency is the through-line of the field's history.
+
+**Two forms of personalization.** [[personalized-learning|Personalization]] has two distinct interpretations that map onto these visions. The first maintains uniform outcomes while varying the path (rooted in Skinner's teaching machines; the Khan Academy vision of tutoring to mastery). The second embraces diverse outcomes — learners pursuing individual interests and talents, unconstrained by standard curriculum boundaries (Zhao, 2024). The ITS model supports the former; constructionism the latter.
+
+**Lessons for the GenAI era.** Today's debates about generative AI closely mirror these historical tensions. GenAI is often positioned as a next-generation intelligent tutor (extending Anderson), raising concerns about surveillance, data collection, and standardization. Alternatively it can be a tool for creative agency (extending Papert), requiring us to rethink assessment and accept more ambiguous outcomes. As [[mishra-control-vs-agency-history-2025|Mishra et al.]] conclude, institutional forces repeatedly favor approaches that reinforce existing structures — and the language and metaphors we choose will shape future possibilities.
+
+## The recent impact of generative AI
+
+The arrival of [[generative-ai|generative AI]] — a broad family that includes [[llm|large language models]] (text), plus image, audio, and video generators — marks the most consequential inflection point in AIED history since the field's founding. LLMs are the most prominent member of this family and the driver of most classroom impact, but generative AI as a whole (capable of producing novel text, images, sound, and code) is the broader force reshaping education. It is best understood against AIED history rather than as a clean break. Several features make the generative-AI era distinctive:
+
+**Scale and reach.** Unlike the cognitive tutors and ITS of earlier decades, which operated in controlled lab and classroom settings, LLMs reached hundreds of millions of learners and educators within months of release, entering everyday writing, homework, and instruction almost immediately. The GenAI debate moved from specialist journals to classrooms, boardrooms, and legislatures with unprecedented speed.
+
+**A new kind of capability.** Earlier AIED systems modeled cognition and delivered structured instruction (the Anderson tradition). LLMs perform open-ended generation — producing essays, explanations, code, and dialogue — which foregrounds learner agency and creativity (the Papert tradition) in ways earlier ITS could not. This is why the current moment re-ignites the control-vs-agency tension so sharply: the same tool can be deployed as a next-generation intelligent tutor (controlling outcomes) or as a creative co-writer and thinking partner (amplifying agency).
+
+**A reversal of the access equation.** Historically, personalized tutoring was scarce and expensive; GenAI made adaptive one-on-one support nearly free and universal — dramatically lowering the accessibility and cost barriers that shaped earlier AIED. But it also introduced new risks: algorithmic bias, hallucination, surveillance, data collection, and the de-skilling of educators.
+
+**Renewed concern about AI literacy and misuse.** The generative-AI era made [[ai-literacy]] urgent and reframed [[academic-integrity]] debates (detection vs. dialog), while reviving long-standing concerns about automation, standardization, and epistemic dependence. These are the modern expressions of the field's original tensions.
+
+**Chronocentrism's risk.** As [[mishra-control-vs-agency-history-2025|Mishra et al.]] warn, the hype around generative AI often lacks historical awareness, letting tech evangelists dominate the conversation. Understanding that today's GenAI debates echo the Anderson–Papert divide and the 1955 cybernetics naming decision helps us make deliberate choices rather than treating the present as inevitable. The real question is not what generative-AI tools can do, but what we want them to do — a decision shaped by where we have been.
+
+## Implications
+
+- **Read hype historically.** Recognize that each new AI wave is framed as revolutionary; historical awareness reveals continuity and helps resist corporate dominance of the conversation.
+- **See design choices as value choices.** Technical decisions about AI in education embed ideological positions about learning's purpose — surface and interrogate them.
+- **Weigh control against agency deliberately.** Whether AI should optimize toward standard outcomes or enable diverse, learner-directed outcomes is a genuine choice with institutional and political consequences, not a technical given.
+- **Preserve learner agency.** The recurring resistance to standardization and control in favor of open-ended, learner-centered approaches is a durable thread worth defending.
+
+## Connected Concepts
+
+- [[ai-education]]
+- [[intelligent-tutoring]]
+- [[constructivist]]
+- [[agency]]
+- [[personalized-learning]]
+- [[generative-ai]]
+- [[learning-theories]]
+- [[adaptive-learning]]
+- [[ai-literacy]]
+- [[creativity]]
+- [[teacher-role]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
+- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning (engages Anderson's legacy)
+- [[cognitive-commons-ai-expertise-regeneration]] — Cognitive commons and AI expertise (historical framing)
+- [[programming-its]] — Programming Intelligent Tutoring Systems
+- [[lak2026-hint-button-unproductive-use]] — Revisiting the hint button in cognitive tutors
+- [[socrates-students-instructors-llms-lbt-2025]] — Learning-by-teaching with LLMs (Papert's constructionism lineage)
+
+---
+
 ## [Human AI Collaboration](https://edtechdev.github.io/aied/concepts/human-ai-collaboration/)
 
 > **Human-AI collaboration** — the division of cognitive labor between people and models — is the wiki's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]). The defining question is whether the partnership **preserves or replaces** the learner's own cognitive work — the same arrangement can support learning or substitute for it depending on how responsibility is shared.
@@ -6608,7 +6682,9 @@ For instructional designers, course developers, and engineers building AI-assist
 
 AI tutoring encompasses the use of artificial intelligence — particularly [[llm|large language models]] and structured Intelligent Tutoring Systems — to provide personalized, adaptive, and scalable instructional support to learners. AI tutors take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, [[adaptive-learning|adaptive learning platforms]] that personalize content sequencing, and agent-based tutors that maintain long-term [[student-modeling|learner models]]. The effectiveness of AI tutoring depends critically on pedagogical design choices — scaffolding, [[ai-feedback-quality|feedback quality]], and the balance between [[agency|autonomy]] and guidance — rather than on the underlying model alone.
 
-### ITS vs. LLM-based tutoring
+#Historically, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** locate ITS within AIED's lineage from 1960s-70s expert systems and Anderson's ACT/ACT-R cognitive tutors, whose structured control contrasted with Papert's constructionism.
+
+## ITS vs. LLM-based tutoring
 
 The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern research increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility.
 
@@ -6695,6 +6771,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
 - [[ai-decision-support-online-learning-assessment-2026]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -9020,6 +9097,8 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 
 Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
+- **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's teaching machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
+
 ## Architectures for AI-Driven Personalization
 
 ### Longitudinal Memory (PersonaVLM → Education)
@@ -9071,6 +9150,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[nguyen-genai-global-south-review-2026]]
 - [[espino-ai-business-education-review-2026]]
@@ -39772,6 +39852,92 @@ For [[writing-education]], this represents a paradigm shift. Traditional automat
 ## Citation
 
 Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026). [MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing](https://arxiv.org/abs/2605.23535). arXiv:2605.23535. IJCAI 2026.
+
+---
+
+## [Control vs. Agency: Exploring the History of AI in Education](https://edtechdev.github.io/aied/articles/mishra-control-vs-agency-history-2025/)
+
+> **Synthesis:** Mishra, Henriksen, Woo and Oster (2025) trace the history of [[ai-education|AI in education]] from cybernetics and the 1956 Dartmouth conference through the cognitive revolution and [[intelligent-tutoring|Intelligent Tutoring Systems]] to today's [[generative-ai|GenAI]], arguing that a seemingly mundane 1955 naming decision—John McCarthy choosing "artificial intelligence" over "cybernetics"—shaped the field's trajectory for decades. The paper frames the field's evolution as an "essential tension" between **control** and **agency**, embodied in the contrast between John Anderson's structured cognitive tutors and Seymour Papert's [[constructivist|constructionist]] approach emphasizing creative learner agency. This tension recurs with each new technology wave and now resurfaces in debates about whether GenAI will reinforce traditional structures or promote greater learner agency and creativity.
+
+## Core Finding
+
+The history of AI in education is not a story of technical inevitability but of contingent choices—most pivotally McCarthy's decision to name the new field "artificial intelligence" rather than "cybernetics." AI and education have been "inextricably intertwined since the 1940s," with early pioneers (Simon, Newell, Minsky, Anderson) investigating fundamental questions about learning and instruction. From this history two contrasting visions emerged: Anderson's [[intelligent-tutoring|cognitive tutors]] (AI to optimize instruction through precise modeling of knowledge and skills) and Papert's [[constructivist|constructionism]] (computers as instruments of intellectual empowerment). These represent an "essential tension" (after Kuhn) between **control** and **agency** that manifests across knowledge and learning, roles and relationships, and political-institutional structures—and that recurs with each new technological wave, including GenAI today.
+
+## The 1955 naming decision: cybernetics vs. artificial intelligence
+
+In the summer of 1955, as John McCarthy planned the Dartmouth Summer Research Project that would formally launch AI, he faced what seemed like a simple administrative choice: what to call the nascent field. The natural option was **cybernetics**, Norbert Wiener's term for the study of control and communication in machines and living things. But McCarthy rejected it for practical, not philosophical, reasons: *"One of the reasons for inventing the term 'artificial intelligence' was to escape association with 'cybernetics.' Its concentration on analog feedback seemed misguided, and I wished to avoid having to accept Norbert Wiener as a guru or having to argue with him"* (Nilsson, 2010, p. 78). While cybernetics emphasized systems, feedback loops, and interconnections, "artificial intelligence" framed machine capabilities in direct comparison to human cognition—an anthropomorphic framing that shaped research priorities, public perceptions, ethical debates, policy, and development priorities. The paper argues this choice, driven by institutional politics rather than philosophy, is now widely treated as natural and inevitable rather than a contingent historical decision.
+
+## The long, intertwined history of AI and education
+
+The relationship between [[ai-education|AI and educational theory]] is rich and multifaceted—from information processing to cognitive theories, from [[constructivist|constructivism]] to constructionism. Even before the 1956 Dartmouth Workshop, Simon and Newell pursued questions that reshaped both domains: How do minds work? What is learning? How can we represent knowledge? Their research program advanced both information-processing psychology and symbolic AI, establishing fundamental links between human and machine cognition. The concept of human cognition as information processing—now fundamental to educational psychology—emerged from this work, epitomized in the cognitive revolution (Gardner, 1987). Newell outlined "12 aspects of intelligence... embodied in a meaningful teaching agent," advocating for automating "the essential intellectual operations involved" (Doroudi, 2023, p. 892).
+
+This theoretical work led to practical applications: [[intelligent-tutoring|Intelligent Tutoring Systems (ITS)]], rooted in "heuristic search and expert systems paradigms of AI research of the 1960s and 1970s" (Kelkar, 2022, p. 20). ITS tracked student progress and generated targeted interventions, and were readily accepted in educational institutions because they aligned naturally with existing structures of assessment and standardization—the language of 'calculating learning interventions' reinforced traditional educational hierarchies and measurement-driven approaches. As the AIED community formed and funding priorities shifted, focus moved from foundational questions about intelligence and learning toward application-focused technical questions (optimizing learning models, refining [[adaptive-learning|adaptive]] algorithms), a shift that was "not merely technical but institutional."
+
+## Two visions: Anderson vs. Papert (control vs. agency)
+
+Both Anderson and Papert built on the cognitive revolution but took radically different paths—one reinforcing traditional structures, the other challenging them.
+
+**Anderson's cognitive tutors (control):** Anderson developed the ACT (Adaptive Control of Thought) theory, later ACT-R, structured as a series of production rules—a cognitive architecture designed to model human thought processes with precision and the foundational framework for his ITS. His Cognitive Tutors for LISP programming and geometry decomposed knowledge into explicit production rules, systematically presented instruction, and gave precise individualized feedback based on detailed models of cognitive processes, emphasizing learning-by-doing. Though Anderson's primary goal seemed to be validating his cognitive theory rather than building a learning tool, the tutors evolved into practical systems—and, crucially, his team shifted to align design with educators' priorities and curriculum standards rather than strictly following their theoretical framework. This adaptation revealed how educational technologies tend to "conform to existing structures rather than disrupt them."
+
+**Papert's constructionism (agency):** Papert's vision emerged from his collaboration with Jean Piaget (who gave him insights about how children actively construct understanding—constructivism) and his AI research with Marvin Minsky at MIT (whose *Society of Mind* explored how intelligence emerges from interacting simple processes). Papert synthesized these into **constructionism**, which goes beyond Piaget's constructivism by emphasizing external artifacts—physical or digital objects that learners manipulate—as essential to learning. This was practically expressed in **Logo**, a programming language co-developed in 1967 with Wally Feurzeig and Cynthia Solomon, whose iconic 'turtle' interface created a 'microworld' where children could explore geometric concepts through programming. Logo embodied debugging-as-learning: finding and fixing errors as a natural, valuable part of learning rather than failure. Papert laid out this vision in *Mindstorms* (1980), arguing Logo was a medium for discovering powerful ideas across geometry, physics, and art—laying groundwork for Scratch, LEGO Mindstorms, and the maker movement, while challenging traditional education as "instructionism" that rejects children's natural learning processes.
+
+## Control vs. Agency: an essential tension
+
+The tension between control and agency is what Kuhn called an "essential tension"—a fundamental, irreconcilable polarity shaping any domain concerned with human development. The contrast between ITS and constructionism manifests in three crucial dimensions:
+
+- **Knowledge and learning:** ITS breaks knowledge into discrete, manageable components with learning as step-by-step progression through sequenced material; constructionism embraces organic, project-based engagement where powerful ideas emerge from hands-on experience. ITS relies on formal production rules and explicit knowledge representation (enabling systematic assessment but feeling mechanical); constructionism emphasizes intuitive understanding developed through active engagement.
+- **Roles and relationships:** In ITS, the system serves as an intelligent guide providing precise feedback and interventions, with the teacher as a facilitator of this structured environment. Constructionism recasts both teacher and technology as enablers of discovery—teachers work alongside students as co-learners, and technology serves as a tool for investigation and creation rather than an instructor.
+- **Political and institutional implications:** ITS aligns naturally with traditional institutions' emphasis on standardization and assessment—a conservative vision prioritizing predetermined objectives, data collection, and algorithmic optimization, integrating seamlessly with learning analytics and [[personalized-learning|personalization]] algorithms. Constructionism represents a more open-ended, learner-driven vision that resists easy quantification and challenges core assumptions about how learning should be organized and measured. This tension mirrors broader societal debates about control versus autonomy, standardization versus creativity, and whether education should serve existing structures or help transform them.
+
+## Control vs. Agency in the age of GenAI: personalization's two forms
+
+Today's debates about [[generative-ai|GenAI]] in education closely mirror the historical ITS-vs-constructionism tension. In many cases, GenAI is positioned as a next-generation intelligent tutor—extending Anderson's ITS philosophy into the modern era with natural language dialogue, detailed explanations, targeted feedback, and adaptation to individual learning patterns. Central to this vision is the word 'personalization,' which has two distinct interpretations:
+
+- **Uniform outcomes, varied path:** adapts pace, difficulty, and teaching methods but ultimately guides all learners toward mastering the same predetermined curriculum. Rooted in Skinner's (1958) teaching machines and embedded in many ITS, this view is best captured by Sal Khan's TED Talk: one-on-one GenAI tutoring "could take your average student and turn them into an exceptional student."
+- **Diverse outcomes:** supports students in developing unique talents and pursuing individual directions, rather than diverse paths to similar outcomes. Zhao (2024) argues AI tools, unconstrained by traditional academic boundaries, enable students to pursue learning based on individual interests rather than conventional school subjects.
+
+The ITS-as-tutor approach, while promising efficiency and accessibility, raises concerns about surveillance, data collection, and standardization, fitting comfortably within existing educational structures and corporate interests. A more transformative vision of GenAI offers possibilities for student empowerment and creativity but requires rethinking assessment, accepting ambiguous outcomes, and tolerating greater uncertainty—threatening established hierarchies. Who decides how these tools are used, and whose interests are served, are governance questions: the ITS model aligns with corporate and institutional interests in measuring, tracking, and optimizing learning, while the constructionist model suggests a more democratic and potentially disruptive approach.
+
+## Lessons for GenAI: the cybernetic counterfactual
+
+Looking across the history, several patterns emerge: technical decisions consistently reflect deeper ideological positions; institutional forces repeatedly favor approaches that reinforce existing structures over transformative alternatives; and educators and researchers have consistently pushed back against dominant technological paradigms. The paper concludes by imagining the counterfactual—how different the educational technology landscape might look had McCarthy maintained Wiener's cybernetic framing. Instead of 'AI tutors,' we might speak of 'cybernetic learning systems' highlighting continuous feedback between learner and system; instead of 'personalized AI learning,' 'cybernetic adaptation' focusing on system-learner adjustment; the 'AI teaching assistant' might be a 'cybernetic learning mediator' facilitating connections rather than replacing human roles. These are not merely semantic differences: a cybernetic framing could emphasize interconnection over isolation, feedback over prediction, adaptation over optimization, and self-regulation over external control, steering away from the fantasy of machines replicating human intelligence toward technologies that support human learning in more systemic, ecological ways.
+
+## Relevance to the wiki
+
+This is a landmark historical piece that anchors the wiki's developing **history-of-aied** theme, providing essential intellectual context for the many contemporary [[intelligent-tutoring]] and [[generative-ai]] article entries. It offers the field's canonical origin story (the cybernetics-to-AI naming decision, the cognitive revolution) and its enduring conceptual framework (control vs. agency), which illuminates a wide range of wiki topics—from [[personalized-learning]]'s two forms to the pedagogical-agent-vs-tool debate, and from [[adaptive-learning]]'s alignment with institutional structures to constructionist tensions in [[ai-education]]. It connects directly to [[learning-theories]] (constructivism/constructionism, information-processing), [[agency]] (the essential tension), [[constructivist|constructionism]], [[creativity]], [[teacher-role]], and the ethics of [[ai-education|AI in education]]. Its cybernetic counterfactual is a distinctive theoretical contribution useful across the wiki.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[constructivist]]
+- [[agency]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[learning-theories]]
+- [[creativity]]
+- [[teacher-role]]
+- [[ethics]]
+- [[cs-education]]
+- [[ai-literacy]]
+- [[k-12]]
+- [[higher-ed]]
+- [[productive-failure]]
+- [[learning-by-teaching]]
+
+## Connected Articles
+
+- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive review of intelligent tutoring systems, the ITS lineage this history traces
+- [[graph-its-adaptive-algorithms-2026]] — Contemporary adaptive-algorithm ITS, illustrating the "control" lineage extended into modern systems
+- [[text-simplification-its]] — ITS for text simplification, a modern application of structured tutoring
+- [[ikram-ai-personalized-learning-review-2026]] — Systematic review of AI personalized learning, touching the two-form personalization distinction
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning with AI
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Modern personalized e-learning knowledge architectures in the ITS tradition
+
+## Citation
+
+Mishra, P., Henriksen, D., Woo, L. J., & Oster, N. (2025). [*Control vs. Agency: Exploring the History of AI in Education*](https://doi.org/10.1007/s11528-025-01064-2). *TechTrends*.
 
 ---
 
