@@ -89,3 +89,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL framework for GenAI content creation in higher ed
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

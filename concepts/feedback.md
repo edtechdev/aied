@@ -115,3 +115,5 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study

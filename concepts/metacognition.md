@@ -120,3 +120,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI code
 - [[ai-learning-companions-framework]] — Building AI companions that prioritise learning over performance
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator

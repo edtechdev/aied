@@ -115,3 +115,5 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors

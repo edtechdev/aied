@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -59,6 +59,8 @@ Automated assessment quality depends on [[assessment-validity]] and [[bias-mitig
 ### Connections
 
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
+
+- **Large-scale AI grading of handwritten physics (2026):** A multimodal model (GPT-5.5) graded 10,364 scanned pages across a national Physics Olympiad theory exam, selection camp, and university quantum-mechanics exam, achieving total-score correlations of 0.91–0.97 with official marks and recovering the same top-five Olympiad team. Revised page-by-page, evidence-location instructions improved agreement — evidence that multimodal AI can support high-stakes summative grading with careful rubric and prompt engineering ([[ai-grading-handwritten-physics-2026]]).
 
 ## Connected Concepts
 
@@ -119,3 +121,6 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

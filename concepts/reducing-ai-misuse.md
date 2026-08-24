@@ -95,3 +95,4 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system

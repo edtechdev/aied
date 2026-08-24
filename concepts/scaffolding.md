@@ -82,3 +82,5 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[productive-failure]] — Productive Failure
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

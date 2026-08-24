@@ -95,3 +95,4 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[special-r1-rl-special-education]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription

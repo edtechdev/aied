@@ -48,3 +48,4 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-availability-student-motivation]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
