@@ -5,7 +5,7 @@
 import { getCollection } from 'astro:content';
 import { conceptIndex } from '../data/conceptIndex';
 
-const { title = 'AI Ed Wiki', description = 'AI in Education Wiki' } = Astro.props;
+const { title = 'AI Ed Wiki', description = 'AI in Education Wiki', hideHeaderSearch = false } = Astro.props;
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
@@ -547,10 +547,12 @@ const recentConcepts = concepts
         <img src="/aied/logo.svg" alt="AI Ed Wiki logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
         <span>AI Ed Wiki</span>
       </a>
-      <div class="header-search">
-        <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
-        <pagefind-searchbox placeholder="Search articles & concepts..."></pagefind-searchbox>
-      </div>
+      {!hideHeaderSearch && (
+        <div class="header-search">
+          <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
+          <pagefind-searchbox placeholder="Search articles & concepts..."></pagefind-searchbox>
+        </div>
+      )}
       <nav class="header-icons" aria-label="Wiki tools">
         <a href="/aied/ai" class="header-icon" title="Chat with AI" aria-label="Chat with AI">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
