@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning and AI
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-24T18:00:00-04:00"
+updated: "2026-08-24T18:30:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 confidence: high
@@ -21,7 +21,6 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 **Outcomes evidence is mixed.** An AI-supported IBL experiment in mathematics ([[mujib-ai-ibl-creative-math-2026|Mujib et al.]]) improved creative mathematical performance and attitudes but not critical problem-solving skills — suggesting AI-IBL mainly supports creativity and affective development. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al.]]) found GenAI has a moderate positive effect on higher-order thinking, strongest for problem-solving and with 8–16 week interventions and higher self-regulated-learning learners benefiting most. A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) using an 8-week AI-supported guided inquiry program (integrating problem- and design-based learning) found significant group-by-time gains in conceptual understanding of photosynthesis and cellular respiration, but *no* significant effect on AI literacy or self-perceived computational thinking — evidence that AI-IBL can deepen domain understanding while the development of AI/CT competencies requires more explicit, targeted design.
 
-**Scaling IBL with AI as a metacognitive coach.** A conceptual framework ([[doyle-scaling-complex-thinking-ai-ibl-2026|Doyle & Swisher]]) uses AI as a [[scaffolding]] layer that transitions "from an output generator to a metacognitive coach," mapping AI interactions onto IBL's stages to scale scaffolding to large cohorts while shifting assessment from content mastery to complex-thinking skills.
 
 **Equity and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, multilingual, contextually relevant simulations.
 
@@ -58,7 +57,6 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning

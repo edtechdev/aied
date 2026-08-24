@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T10:20:00-04:00"
+updated: "2026-08-24T18:30:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -58,7 +58,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and college students' self-directed learning
 - [[genai-counter-learner-groupthink-2025]] — Countering learner groupthink with GenAI-introduced controversy in PBL
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL with ChatGPT adaptive scaffolding for critical thinking
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 - [[ai-tools-academic-work-cheating-2026]] — Student perceptions of AI tools, ethics, and impact on critical thinking

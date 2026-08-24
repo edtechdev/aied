@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 888 articles, and 4 FAQs.
+> Complete text of 166 concepts, 886 articles, and 4 FAQs.
 
 # Concepts
 
@@ -975,7 +975,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
 - [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
@@ -3146,7 +3145,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and college students' self-directed learning
 - [[genai-counter-learner-groupthink-2025]] — Countering learner groupthink with GenAI-introduced controversy in PBL
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL with ChatGPT adaptive scaffolding for critical thinking
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 - [[ai-tools-academic-work-cheating-2026]] — Student perceptions of AI tools, ethics, and impact on critical thinking
@@ -6296,7 +6294,6 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 **Outcomes evidence is mixed.** An AI-supported IBL experiment in mathematics ([[mujib-ai-ibl-creative-math-2026|Mujib et al.]]) improved creative mathematical performance and attitudes but not critical problem-solving skills — suggesting AI-IBL mainly supports creativity and affective development. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al.]]) found GenAI has a moderate positive effect on higher-order thinking, strongest for problem-solving and with 8–16 week interventions and higher self-regulated-learning learners benefiting most. A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) using an 8-week AI-supported guided inquiry program (integrating problem- and design-based learning) found significant group-by-time gains in conceptual understanding of photosynthesis and cellular respiration, but *no* significant effect on AI literacy or self-perceived computational thinking — evidence that AI-IBL can deepen domain understanding while the development of AI/CT competencies requires more explicit, targeted design.
 
-**Scaling IBL with AI as a metacognitive coach.** A conceptual framework ([[doyle-scaling-complex-thinking-ai-ibl-2026|Doyle & Swisher]]) uses AI as a [[scaffolding]] layer that transitions "from an output generator to a metacognitive coach," mapping AI interactions onto IBL's stages to scale scaffolding to large cohorts while shifting assessment from content mastery to complex-thinking skills.
 
 **Equity and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, multilingual, contextually relevant simulations.
 
@@ -6333,7 +6330,6 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
@@ -8268,8 +8264,7 @@ Online teaching and learning takes several related forms that share the medium b
 
 - **Scalable personalization.** Traditional MOOCs excel at reach but struggle to adapt — "one video for N students." LLM-driven agent systems ([[mooc-to-maic|MAIC]]) invert this to "N agents for 1 student," using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver [[adaptive-learning|adaptive instruction]], personalized feedback, and dynamic learning paths at MOOC scale. Systems like [[learnmate2-llm-adaptive-learning|LearnMate²]] address the "personalization gap" in open online learning with personalized study plans, real-time contextual assistance, and [[adaptive-learning|adaptive]] activities.
 - **Always-on, context-embedded support.** In distance and [[adult-learning|adult learning]] contexts where learners study at work or at home, 24/7 support embedded in the course is a major benefit. The [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Open University's AIDA assistant]] found purpose-built, in-environment GenAI support increased [[student-engagement|engagement]] (doubled usage time in an exploratory trial), with 96% of students wanting it in their formal studies.
-- **Social presence and companionship.** Online learning often lacks the social warmth of a classroom. Identity-anthropomorphised virtual companion AI ([[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden|Xia, Tan & Guo 2026]]) improved online learning outcomes to levels comparable to human companionship, mediated by increased social presence and positive [[affective-computing|emotion]] — evidence that AI can partly counter the isolation of online study.
-- **Conversational, dialogic tutoring at scale.** Conversational AI tutors built on proven [[intelligent-tutoring|intelligent tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and misconceptions — that is far more scalable than human tutoring.
+- - **Conversational, dialogic tutoring at scale.** Conversational AI tutors built on proven [[intelligent-tutoring|intelligent tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and misconceptions — that is far more scalable than human tutoring.
 - **Facilitation and analytics.** AI can support [[collaborative-learning|online discussions]] and [[learning-analytics|learning analytics]], forecasting engagement, and helping instructors allocate attention.
 - **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~$25K/60 hours to under $2/30 minutes.
 
@@ -8360,7 +8355,6 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
-- [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]] — Enhancing online learning outcomes through virtual companion AI
 - [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
@@ -12137,7 +12131,7 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 
 ## Advancing established theory
 
-Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates cognitive-load theory with load-reduction instruction into a three-level framework; [[doyle-scaling-complex-thinking-ai-ibl-2026|complex-thinking scaffolding]] extends [[inquiry-based-learning|IBL]] theory with an AI-scaffolding layer; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and teaching presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
+Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates cognitive-load theory with load-reduction instruction into a three-level framework; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and teaching presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
 
 ## The theory-use problem in AIEd
 
@@ -12175,7 +12169,6 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[epistemic-proactivity-math]] — Epistemic proactivity in mathematics
 - [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms grounded in epistemological beliefs
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical thinking paradox
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
@@ -28217,47 +28210,6 @@ Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behav
 
 ---
 
-## [Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning](https://edtechdev.github.io/aied/articles/doyle-scaling-complex-thinking-ai-ibl-2026/)
-
-> **Synthesis:** This conceptual framework paper integrates [[inquiry-based-learning|inquiry-based learning]] with [[generative-ai|AI]] to solve IBL's scalability problem. It positions AI as a [[scaffolding]] layer that transitions "from an output generator to a [[metacognition|metacognitive]] coach," mapping AI interactions onto IBL's stages (orientation, conceptualization, investigation, conclusion, discussion). The framework's sustainability depends on shifting assessment from content mastery to measurable complex-thinking skills — with implications for teacher training and technological governance.
-
-## Key Findings
-
-1. **IBL's scalability problem.** IBL scaffolding requires instructors to continually assess and tailor support per student — time-intensive and hard to scale to large cohorts. AI is proposed as the mechanism to scale that scaffolding.
-2. **AI as a scaffolding layer, not an output generator.** The framework maps AI interactions onto the stages of IBL, positioning AI as a metacognitive coach: in the question phase AI critique compels clarification; in Investigate/Create it prompts self-evaluation; in Discuss/Reflect it introduces conflict to challenge assumptions.
-3. **AI vs. teacher scaffolding.** AI provides instant, in-task, individualized intervention, whereas teacher scaffolding is post-task and cohort-balanced — a timing-and-scale distinction.
-4. **Complex thinking as the goal.** Complex thinking synthesizes critical, creative, and systematic thinking, with metacognition as its backbone — and IBL, scaffolded by AI, is positioned as the pedagogy to develop it.
-5. **Institutional conditions.** Sustainability depends on shifting assessment from content mastery to measurable complex-thinking skills, plus teacher training and technological governance.
-
-## Implications
-
-This paper contributes a design-oriented framework to the wiki's [[inquiry-based-learning]] cluster: it articulates *how* AI should scaffold inquiry at scale while preserving metacognition — directly addressing the over-reliance risk the cluster documents. The AI-as-metacognitive-coach framing (vs. output generator) operationalizes the "co-inquirer vs. answer machine" distinction, and the call to assess complex-thinking skills (rather than content mastery) connects to [[assessment]] and [[ai-education]] concerns. It complements the empirical and review evidence in the cluster with a scalable design vision.
-
-## Connected Concepts
-
-- [[inquiry-based-learning]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[critical-thinking]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[assessment]]
-- [[cognitive-offloading]]
-
-## Connected Articles
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-
-## Citation
-
-Doyle, L. B., & Swisher, J. L. (2026). [*Scaling complex thinking: a conceptual framework for AI-supported inquiry-based learning*](https://doi.org/10.58297/edu.2026.3.3.e183). *Educational Point*, 3(3), e183.
-
----
-
 ## [The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors](https://edtechdev.github.io/aied/articles/drawedumath-vlm-struggling-students-2026/)
 
 # The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
@@ -30027,29 +29979,6 @@ This study informs the design of [[educational-robotics|human–robot–LLM]] co
 ## Citation
 
 Liu, Y., & Song, Y. (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). *British Journal of Educational Technology*, 57, 1320–1347.
-
----
-
-## [Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism](https://edtechdev.github.io/aied/articles/enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden/)
-
-> **Synthesis:** Grounded in social presence theory, this study introduces the concept of identity anthropomorphism and adopts multimodal learning analytics (MMLA) combining questionnaires, EEG and eye tracking to examine its effects on [[learning-gains|learning outcomes]]. With 70 participants across three conditions, results indicated that identity-anthropomorphised AI significantly improved learning outcomes compared to non-anthropomorphised AI and performed comparably to human companionship. Social presence and positive emotions sequentially mediated this effect.
-
-## Key Findings
-
-Grounded in social presence theory, this study introduces the concept of identity anthropomorphism and adopts multimodal learning analytics (MMLA) combining questionnaires, EEG and eye tracking to examine its effects on learning outcomes. With 70 participants across three conditions, results indicated that identity-anthropomorphised AI significantly improved learning outcomes compared to non-anthropomorphised AI and performed comparably to human companionship. Social presence and positive emotions sequentially mediated this effect.
-
-## Connected Concepts
-- [[affective-computing]]
-- [[learning-analytics]]
-
-## Connected Articles
-- [[multimodal-ai-feedback-learning]]
-- [[kutti-ai-voice-first-learning-companion]]
-- [[ai-in-the-wild-college]]
-- [[ai-assisted-learning-modes-eeg]]
-
-## Citation
-Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism*](https://doi.org/10.1111/bjet.70072). *British Journal of Educational Technology.*
 
 ---
 

@@ -344,7 +344,6 @@
   Theory Development in AI in Education
   #theory #learning-theories #theory-building #conceptual-framework #ai-education #limitations-in-aied-research #research-methods-aied
 
-- ◐ [[doyle-scaling-complex-thinking-ai-ibl-2026]] — 'raw/papers/doyle-scaling-complex-thinking-ai-ibl-2026.md'
   Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning
   #inquiry-based-learning #metacognition #scaffolding #generative-ai #critical-thinking #ai-education #higher-ed #conceptual-framework
 
@@ -1846,7 +1845,6 @@
   The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning
   #agent #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
-- ◐ [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]]
   Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism
   #affective-computing #agent #learning-analytics #multimodal #ai-education #ai-tutoring
 
