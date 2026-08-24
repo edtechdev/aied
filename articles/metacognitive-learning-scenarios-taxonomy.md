@@ -1,7 +1,7 @@
 ---
 title: "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints"
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [metacognition, professional-training, adaptive-learning, lifelong-learning, scaffolding, self-regulated-learning, llm]
 sources: ['raw/papers/2605.24142.md']
@@ -39,7 +39,6 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - [[instructional-design]]
 ## Connected Articles
 
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
