@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T10:55:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -69,7 +69,6 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[educators-engagement-ai-pbl-review-2026]]
 - [[best-response-student-ai-dialog-2026]]
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
-- [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
 

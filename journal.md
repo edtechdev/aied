@@ -1710,7 +1710,6 @@
   \"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison
   #student-experience #higher-ed #generative-ai #academic-integrity #equity #ethics #policy #survey
 
-- ◐ [[ai-acceptance-preservice-science-teachers-2026]] — 'raw/papers/ai-acceptance-preservice-science-teachers-2026.md'
   Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
   #teacher-ai-competency #teacher-role #ai-literacy #higher-ed #stem-education #survey #equity #global-south
 

@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines"
 created: "2026-08-22T05:12:36-04:00"
-updated: "2026-08-24T16:40:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [teacher-education, chatgpt, generative-ai, technology-acceptance-model, ai-literacy, faculty-development, stem-education, higher-ed, latent-profile-analysis]
 sources: ['raw/papers/chen-preservice-teachers-chatgpt-lpa-2026.md']
@@ -35,7 +35,6 @@ For [[teacher-education|teacher education]] and [[faculty-development]], this st
 
 ## Connected Articles
 
-- [[ai-acceptance-preservice-science-teachers-2026]] — AI acceptance of pre-service science teachers
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education AI literacy
 - [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education
 - [[ai-changing-teaching-workflows]] — AI changing teaching workflows

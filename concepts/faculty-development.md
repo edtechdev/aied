@@ -1,7 +1,7 @@
 ---
 title: Faculty Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high
@@ -68,7 +68,6 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[espino-ai-business-education-review-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[ai-acceptance-preservice-science-teachers-2026]]
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]
