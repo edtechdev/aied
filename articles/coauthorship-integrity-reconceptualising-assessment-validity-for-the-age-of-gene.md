@@ -1,7 +1,7 @@
 ---
 title: "Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T19:00:00-04:00"
+updated: "2026-08-24T19:30:00-04:00"
 type: article
 tags: [generative-ai, assessment, conversational-agents, assessment-validity, academic-integrity, ai-education, ai-tutoring, agentic-ai, llm]
 sources: ['raw/papers/coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene.md']
@@ -41,7 +41,6 @@ This paper reframes the AI-detection debate for [[assessment|assessment]] design
 
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Student acceptance of GenAI for academic writing
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — GenAI overuse and learner agency
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Differential effects of AI on learners
 - [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks in higher ed
 
 ## Citation

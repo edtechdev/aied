@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 885 articles, and 4 FAQs.
+> Complete text of 166 concepts, 884 articles, and 4 FAQs.
 
 # Concepts
 
@@ -4464,7 +4464,7 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 
 - **EAP-specific:** [[alharbi-ethical-genai-eap-2026|Ethical GenAI integration in EAP]], [[feedback-literacy-scripts-eap-writing|GenAI EAP writing revision]], [[genai-differentiated-eap-reading-materials-2026|EAP reading-material adaptation]].
 - **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|TACT ESL tutoring]], [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT EFL e-portfolio speaking]], [[irwin-muller-efl-peer-feedback-literacy|EFL peer-feedback literacy]], [[ai-vs-human-assessment-efl-tpck-2026|AI vs human EFL assessment]], [[acceptance-ai-english-tools-2026|acceptance of AI English tools]], [[ai-tools-arab-english-classrooms|AI in Arab English classrooms]].
-- **L2 English writing/assessment:** [[self-referential-l2-writing-llm-assessment|self-referential L2 writing assessment]], [[ai-interlocutor-l2-spoken-dialogue|L2 spoken-dialogue interlocutors]], [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|emotional AI and L2 pre-service teachers]].
+- **L2 English writing/assessment:** [[self-referential-l2-writing-llm-assessment|self-referential L2 writing assessment]], [[ai-interlocutor-l2-spoken-dialogue|L2 spoken-dialogue interlocutors]].
 - **Linguistic equity / World Englishes:** [[genai-linguistic-diversity-academic-writing|GenAI and linguistic diversity in academic writing]], [[governing-unseen-ai-literacy-language-teachers-2026|AI literacy among language teachers]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages in AI infrastructure]].
 
 ## Why it matters
@@ -4509,7 +4509,6 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
 - [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Not a Universal Benefit: Emotional AI and L2 Pre-Service Teachers
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
@@ -7933,7 +7932,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile chatbot journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in engineering education.
 
-**Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with epistemic network analysis to study engagement with [[generative-ai|generative AI]]. **[[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|Wang & Pang]]** found the motivational effects of emotional AI on L2 pre-service teachers are not universal — they vary by individual and context.
+**Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with epistemic network analysis to study engagement with [[generative-ai|generative AI]].
 
 **Teacher motivation and persistence** examines motivation among educators. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studies teacher persistence with AI tools, and **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** found need-supportive professional development fosters sustained behavioral engagement in professional learning communities.
 
@@ -7972,7 +7971,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-availability-student-motivation]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[teacher-education-ai-literacy-sdt-2026]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
@@ -10437,7 +10435,6 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[ai-availability-student-motivation]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 
@@ -10863,7 +10860,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Treat SEL as a first-class design goal, not an add-on.** Integrate social-emotional competencies into [[ai-literacy]] curricula (per [[sec-ai-literacy-narrative-review-2026|Palmquist et al.]]), so students learn not just *how* to use AI but *when* and *why* — with attention to their own emotions, effort, and relationships.
 - **Design for self-efficacy and agency.** Because skill-based AI literacy can *increase* dependency while [[self-efficacy]] and effort regulation protect against it, instruction should deliberately build students' confidence and self-management alongside technical skill — e.g., scaffolded practice, low-stakes successes, and prompts that require students to verify and own AI output.
 - **Use AI to support, not supplant, relational learning.** AI tools should complement [[collaborative-learning|teacher-student and student-student relationships]], and [[teacher-role|educators]] should retain the relational role — monitoring affect and belonging — rather than delegating it entirely.
-- **Emotion-aware and affect-sensitive design.** [[affective-computing|Affect-aware systems]] can detect and respond to emotional states (anxiety, frustration, confusion), but evidence on [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|emotional AI]] shows benefits are **not universal** — moderating by learner proficiency and profile — so emotional design must be tailored, not assumed.
+- **Emotion-aware and affect-sensitive design.** [[affective-computing|Affect-aware systems]] can detect and respond to emotional states (anxiety, frustration, confusion), but evidence shows benefits are **not universal** — moderating by learner proficiency and profile — so emotional design must be tailored, not assumed.
 - **Address the emotional side of AI use.** Design against shame/guilt spirals and AI anxiety by normalizing discussion of AI use, fostering transparency, and reducing surveillance-based responses that erode trust and agency.
 - **Support persistence and productive struggle.** [[scaffolding|Scaffold]] rather than substitute (per [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]), so AI deepens rather than bypasses effortful learning — aligning with [[metacognition]] and [[desirable-difficulties|productive difficulty]].
 - **Prepare teachers' SEL competency.** Educators need both technological skill and emotional intelligence ([[teacher-ai-competency]]); teacher [[faculty-development|professional development]] should build capacity to support students' SEL in AI-mediated settings.
@@ -10873,7 +10870,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Direct SEL→achievement link.** [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|The EmoAgent study]] demonstrated that an emotion-regulating agent significantly improved academic achievement ([[learning-gains]]) over a conventional agent and moderated the negative effect of negative emotions on success — strong evidence that SEL supports, not competes with, cognitive outcomes.
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favourability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
-- **Effects are conditional, not universal.** [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|Emotional AI research]] cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
+- **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
 - **The harm side of the ledger.** The [[brookings-ai-students-report|Brookings premortem]] cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional wellbeing, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
 
 ### Connections to related concepts
@@ -16703,7 +16700,6 @@ The three-stage Consume–Understand–Imitate framing offers a reusable model f
 - [[ai-assisted-learning-modes-eeg]] — AI-assisted learning modes (EEG)
 - Lecture Review — Lecture review with AI
 - [[ai-generated-instructional-videos-computing-ed]] — AI-generated instructional videos
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Emotional AI on L2 learning
 - [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 
 ## Citation
@@ -24287,7 +24283,6 @@ This paper reframes the AI-detection debate for [[assessment|assessment]] design
 
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Student acceptance of GenAI for academic writing
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — GenAI overuse and learner agency
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Differential effects of AI on learners
 - [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks in higher ed
 
 ## Citation
@@ -34136,7 +34131,6 @@ This four-year comparative study presents results of implementing a [[generative
 
 ## Connected Articles
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 
 ## Citation
@@ -45457,30 +45451,6 @@ Niri, G., Chiu, T. K. F., Ombid, A. M. O., Ybañez, D. L. J. B., Dennerlein, S. 
 
 ---
 
-## [Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning](https://edtechdev.github.io/aied/articles/not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2/)
-
-> **Synthesis:** This study challenges the assumption that emotional design in educational AI provides universal benefits, investigating when, for whom and how it impacts [[english-education|L2]] vocabulary learning. A quasi-experiment with 147 pre-service teachers found no overall difference in vocabulary acquisition, but a nuanced pattern emerged: the [[agentic-ai|regular agent]] preserved significantly better learning attitudes and intrinsic motivation for learners with lower baseline proficiency. Qualitative analysis identified four distinct learner archetypes, suggesting [[affective-computing|emotional AI]] efficacy may be moderated by these profiles.
-
-## Key Findings
-
-This study challenges the assumption that emotional design in educational AI provides universal benefits, investigating when, for whom and how it impacts [[english-education|L2]] vocabulary learning. A quasi-experiment with 147 pre-service teachers found no overall difference in vocabulary acquisition, but a nuanced pattern emerged: the [[agentic-ai|regular agent]] preserved significantly better learning attitudes and intrinsic motivation for learners with lower baseline proficiency. Qualitative analysis identified four distinct learner archetypes, suggesting [[affective-computing|emotional AI]] efficacy may be moderated by these profiles.
-
-## Connected Concepts
-- [[affective-computing]]
-- [[agentic-ai]]
-- [[english-education]]
-
-## Connected Articles
-- [[ai-in-the-wild-college]]
-- [[ai-adult-learning-guidelines-dis2026]]
-- [[test-driven-ai-assisted-learning]]
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
-
-## Citation## Citation
-Wang, Z., & Pang, H. (2026). [*Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning*](https://doi.org/10.1111/bjet.70078). *British Journal of Educational Technology*.
-
----
-
 ## [Not all collaboration benefits from competition: Collaboration modes in a computational thinking game](https://edtechdev.github.io/aied/articles/not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa/)
 
 > **Synthesis:** This study investigated different collaboration modes and how they interact with competition to influence [[computational-thinking|computational thinking]] learning, group metacognition and in-game behaviours. In a quasi-experimental 3×2 factorial design with 148 seventh-grade students, results revealed significant main effects of collaboration mode and an interaction effect between collaboration and competition. The cooperative group with competition achieved the highest CT outcomes, while competition undermined the collaborative turn-taking mode.
@@ -56355,7 +56325,6 @@ This study employed a three-layer analytical method combining cluster analysis, 
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 
 ## Citation## Citation
 He, T., Wu, X., Li, M., Xia, T., & Cao, X. (2026). [*Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning*](https://doi.org/10.1111/bjet.70082). *British Journal of Educational Technology*.

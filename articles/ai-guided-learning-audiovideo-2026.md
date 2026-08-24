@@ -1,7 +1,7 @@
 ---
 title: "AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T09:15:00-04:00"
+updated: "2026-08-24T19:30:00-04:00"
 type: article
 tags: [personalized-learning, language-learning, feedback, self-regulated-learning, multimodal, student-modeling, learning-analytics, lifelong-learning]
 
@@ -71,7 +71,6 @@ The three-stage Consume–Understand–Imitate framing offers a reusable model f
 - [[ai-assisted-learning-modes-eeg]] — AI-assisted learning modes (EEG)
 - Lecture Review — Lecture review with AI
 - [[ai-generated-instructional-videos-computing-ed]] — AI-generated instructional videos
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Emotional AI on L2 learning
 - [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 
 ## Citation

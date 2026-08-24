@@ -732,7 +732,6 @@
 - [[nicola-richmond-programwide-assessment-genai-2025]] — It Takes a Village... Program-Wide Approaches to Redesigning Assessment in a Time of Generative Artificial Intelligence (GenAI)
 - [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalization for AI Tutors
 - [[niri-steam-ai-literacy-review-2026]] — STEAM Education for AI Literacy: A Systematic Literature Review
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning
 - [[not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa]] — Not all collaboration benefits from competition: Collaboration modes in a computational thinking game
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization
