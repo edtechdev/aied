@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-24T19:30:00-04:00"
 type: concept
 tags: [english-education, language-learning, writing-education, higher-ed, k-12, generative-ai, ai-feedback-quality, automated-assessment, equity-in-ai-education, academic-integrity]
 confidence: high
@@ -50,7 +50,7 @@ Many writing-education articles are English-first (e.g., [[marked-pedagogies-lin
 
 - **EAP-specific:** [[alharbi-ethical-genai-eap-2026|Ethical GenAI integration in EAP]], [[feedback-literacy-scripts-eap-writing|GenAI EAP writing revision]], [[genai-differentiated-eap-reading-materials-2026|EAP reading-material adaptation]].
 - **EFL/ESL/L2:** [[tact-pedagogically-adaptive-esl-tutoring|TACT ESL tutoring]], [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT EFL e-portfolio speaking]], [[irwin-muller-efl-peer-feedback-literacy|EFL peer-feedback literacy]], [[ai-vs-human-assessment-efl-tpck-2026|AI vs human EFL assessment]], [[acceptance-ai-english-tools-2026|acceptance of AI English tools]], [[ai-tools-arab-english-classrooms|AI in Arab English classrooms]].
-- **L2 English writing/assessment:** [[self-referential-l2-writing-llm-assessment|self-referential L2 writing assessment]], [[ai-interlocutor-l2-spoken-dialogue|L2 spoken-dialogue interlocutors]], [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|emotional AI and L2 pre-service teachers]].
+- **L2 English writing/assessment:** [[self-referential-l2-writing-llm-assessment|self-referential L2 writing assessment]], [[ai-interlocutor-l2-spoken-dialogue|L2 spoken-dialogue interlocutors]].
 - **Linguistic equity / World Englishes:** [[genai-linguistic-diversity-academic-writing|GenAI and linguistic diversity in academic writing]], [[governing-unseen-ai-literacy-language-teachers-2026|AI literacy among language teachers]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages in AI infrastructure]].
 
 ## Why it matters
@@ -95,7 +95,6 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
 - [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? L2 Spoken Dialogue
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Not a Universal Benefit: Emotional AI and L2 Pre-Service Teachers
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure

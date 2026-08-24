@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **62 wiki articles were ingested before the full text was available** — a violation of the
+These **61 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 62 prematurely-ingested articles
+## The 61 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -78,7 +78,6 @@ the key.
 | llm-difficulty-calibration-programming-exams-2026 | — |
 | luo-ibl-patterns-llm-bloom-2026 | 10.14742/ajet.9051 |
 | mujib-ai-ibl-creative-math-2026 | 10.7160/eriesj.2026.190204 |
-| not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2 | 10.1111/bjet.70078 |
 | not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa | 10.1111/bjet.70081 |
 | oatutor-open-source-adaptive-tutor-2023 | 10.1145/3544548.3581574 |
 | persistent-ai-agents-academic-research | — |

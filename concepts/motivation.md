@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T19:30:00-04:00"
 type: concept
 tags: [motivation, student-experience, engagement-metrics, affective-computing, self-determination-theory, ai-education]
 confidence: high
@@ -17,7 +17,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 **AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile chatbot journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in engineering education.
 
-**Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with epistemic network analysis to study engagement with [[generative-ai|generative AI]]. **[[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|Wang & Pang]]** found the motivational effects of emotional AI on L2 pre-service teachers are not universal — they vary by individual and context.
+**Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with epistemic network analysis to study engagement with [[generative-ai|generative AI]].
 
 **Teacher motivation and persistence** examines motivation among educators. **[[framing-5-percent-problem-teachers-persistence|Framing the 5 Percent Problem]]** studies teacher persistence with AI tools, and **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** found need-supportive professional development fosters sustained behavioral engagement in professional learning communities.
 
@@ -56,7 +56,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-availability-student-motivation]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[teacher-education-ai-literacy-sdt-2026]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
