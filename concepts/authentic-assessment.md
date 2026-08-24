@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T19:00:00-04:00"
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
 confidence: high
@@ -66,6 +66,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 
 - [[benali-genai-academic-writing-2026]]
 - [[ying-genai-journalism-assessment-2026]]
