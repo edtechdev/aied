@@ -1,7 +1,7 @@
 ---
 title: Ethics in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-24T10:20:00-04:00"
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
@@ -47,46 +47,31 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 
 ## Connected Articles
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[alharbi-ethical-genai-eap-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[fekete-ethical-ai-literacy-gaps-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[drummond-genai-business-schools-framework-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[critical-media-literacy-education-2026]]
-
-- [[ai-ethics-education-public-discourse]]
-- [[ethical-ai-higher-ed-game-theory]]
-- [[cost-of-ethics-crisis-cs-ethics-education]]
+- [[ai-ethics-education-public-discourse]] — Longitudinal analysis of public discourse on AI ethics in education
+- [[ethical-ai-higher-ed-game-theory]] — Game theory framework for ethical AI use in higher education
+- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-ethics crisis in the job searches of CS students
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
-- [[xai-education-framework]]
-- [[ai-tutor-safety-harms]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[prezenski-human-centered-ai-aided-learning]]
-- [[raffaghelli-situated-ai-ethics-2026]]
+- [[xai-education-framework]] — Explainable AI in education (XAI-ED)
+- [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy and institutional decision making
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of opportunities and challenges
+- [[prezenski-human-centered-ai-aided-learning]] — How human-centered is AI-aided learning in education?
+- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical framework for education
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[ssaho-ai-academic-integrity-review-2025]] — Culture of academic integrity as the ethical response to AI
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
+- [[adarkwah-genai-unesco-policy-2026]] — UNESCO generative AI policy framework analysis
+- [[luo-eaton-ai-student-feedback-ethics-2026]] — Is it ethical for teachers to use AI for student feedback?
+- [[enright-staff-perspectives-genai-2026]] — University staff perspectives on the role of generative AI in education
+- [[fekete-ethical-ai-literacy-gaps-2026]] — Bridging ethical AI literacy gaps across students, educators, and policy
+- [[alharbi-ethical-genai-eap-2026]] — Ethical generative AI integration in English for Academic Purposes
+- [[ai-tools-academic-work-cheating-2026]] — Is using AI tools for academic work cheating? Student perceptions and ethics
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: human-centered AI metacognitive learning model
+- [[genai-student-experiences-uk-he-survey-2026]] — Student experiences navigating the generative AI landscape in UK higher education
+- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy
+- [[drummond-genai-business-schools-framework-2026]] — Student-informed conceptual framework for GenAI in business schools
+- [[rana-genai-design-thinking-2025]] — Generative AI in design thinking pedagogy: creativity, critical thinking, ethical reasoning
 
