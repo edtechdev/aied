@@ -17,7 +17,7 @@ confidence: medium
 - **Positive confirmation of GenAI collaboration** significantly influences students' intentions to collaborate (β = 0.587, p < .001), which in turn positively impacts their behavior (β = 0.513, p < .001); the model explains 50.2% of the variance in performance expectation, 55.3% in confirmation, 47.2% in collaboration intention, and 31.2% in collaboration behavior.
 - **GenAI distrust negatively moderates** two key links: (1) the relationship between effort expectation and performance expectation (β = −0.169, p < .01), and (2) the relationship between expectation confirmation and intentions to collaborate with GenAI (β = −0.099, p < .05); it did not significantly moderate the other three hypothesized paths.
 - Perceived drawbacks center on the **risk of plagiarism (72.2% agree or strongly agree)**, **inaccuracy of responses (70.6%)**, and **flawed referencing (58.0%)**, while **time saving (89.0%)**, user-friendliness (79.2%), and enhanced productivity (76.7%) dominate perceived benefits — evidence that benefit and drawback perceptions coexist rather than exclude each other.
-- The work **extends the theoretical boundaries of ECT** into the human-AI collaboration context and clarifies the distinct role of distrust in educational technology adoption.
+- The work **extends the theoretical boundaries of ECT** into the human-AI collaboration context and clarifies the distinct role of distrust in educational [[technology-acceptance-model|technology adoption]].
 
 ## Study Design & Method
 

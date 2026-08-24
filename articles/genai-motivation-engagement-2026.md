@@ -8,7 +8,7 @@ sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']
 confidence: high
 ---
 
-> **Synthesis:** Ahmed and Sultan (2026) investigated how perceived autonomy, competence, relatedness, expectancy, and value influence autonomy support for AI use, autonomous motivation, and ultimately student motivation and engagement in GenAI-supported learning. Integrating Self-Determination Theory, Expectancy-Value Theory, and the Technology Acceptance Model, and analyzing data from 297 undergraduates and postgraduates at King Saud University (Saudi Arabia) with PLS-SEM, they found that autonomy support and autonomous motivation significantly increased student motivation, which emerged as the strongest predictor of student engagement. Perceived expectancy showed no significant influence, and perceived competence did not significantly affect autonomy support.
+> **Synthesis:** Ahmed and Sultan (2026) investigated how perceived autonomy, competence, relatedness, expectancy, and value influence autonomy support for AI use, autonomous motivation, and ultimately student motivation and engagement in GenAI-supported learning. Integrating Self-Determination Theory, Expectancy-Value Theory, and the [[technology-acceptance-model|Technology Acceptance Model]], and analyzing data from 297 undergraduates and postgraduates at King Saud University (Saudi Arabia) with PLS-SEM, they found that autonomy support and autonomous motivation significantly increased student motivation, which emerged as the strongest predictor of student engagement. Perceived expectancy showed no significant influence, and perceived competence did not significantly affect autonomy support.
 
 ## Key Findings
 
