@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T10:40:00-04:00"
+updated: "2026-08-24T13:45:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -82,83 +82,53 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI [[self-efficacy]] and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and [[self-regulated-learning]] scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
 
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
+
 ## Connected Concepts
 
-- [[academic-integrity]]
-- [[active-learning]]
-- [[agency]]
-- [[ai-education]]
-- [[ai-sycophancy]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[critical-pedagogy]]
-- [[critical-thinking]]
-- [[curriculum-design]]
-- [[digital-divide]]
-- [[educational-measurement]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[faculty-development]]
-- [[feedback]]
-- [[framing-ai-use-for-students]]
-- [[generative-ai]]
-- [[governance]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[icap-framework]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[llm]]
-- [[metacognition]]
-- [[privacy]]
-- [[professional-training]]
-- [[prompt-engineering]]
-- [[reducing-ai-misuse]]
-- [[regulation]]
-- [[scaffolding]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[situated-learning]]
-- [[student-engagement]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[trust]]
-- [[trust-calibration]]
-
-
-
-
+- [[generative-ai]] — the technology AI literacy targets
+- [[llm]] — the systems at the heart of AI literacy
+- [[cognitive-offloading]] — the over-reliance risk literacy counters
+- [[critical-thinking]] — core evaluative disposition
+- [[prompt-engineering]] — core practical competence
+- [[reducing-ai-misuse]] — literacy's behavioral payoff
+- [[icap-framework]] — engagement taxonomy for designing literacy instruction
+- [[metacognition]] — literacy as metacognitive social practice
+- [[self-regulated-learning]] — self-regulation as a literacy resource
+- [[academic-integrity]] — knowing what constitutes appropriate AI use
+- [[ai-education]] — the broader field
+- [[teacher-ai-competency]] — educator preparedness
+- [[faculty-development]] — building educator literacy
+- [[equity-in-ai-education]] — fair distribution of literacy
+- [[digital-divide]] — the access/skills/outcomes gap
+- [[ethics]] — ethical awareness dimension
+- [[governance]] — institutional-level literacy
+- [[educational-policy-ai]] — policy framing
+- [[privacy]] — ethical/institutional concern
+- [[agency]] — human agency vs machine shift
+- [[ai-sycophancy]] — literacy skill of detecting agreement
+- [[trust-calibration]] — calibrating appropriate trust
+- [[k-12]] — school-level literacy
+- [[higher-ed]] — university-level literacy
 
 ## Connected Articles
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
+
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
+- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
-- [[sec-ai-literacy-narrative-review-2026]] — Narrative review of AI literacy
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy: power, resistance, agency
-- [[possibility-ai-literacy-critical-editorial]] — A critical editorial on the possibility of AI literacy
-- [[ai-literacy-power-knowledge]] — AI literacy, power and knowledge
 - [[panciroli-ai-literacy-episodes-situated-learning]] — Episodes of Situated Learning for AI literacy
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
 - [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy as an AI literacy intervention
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor-employer AI skills gap
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Ethical AI literacy gaps
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher-education AI literacy (SDT)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[zha-ai-literacy-biology-case-study]] — Integrating AI literacy education in a biology class
-- [[beck-genai-literacy-economics-hands-on]] — Hands-on GenAI literacy in economics
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
