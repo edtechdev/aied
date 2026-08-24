@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
+import JsonLd from '../../components/JsonLd.astro';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -166,6 +167,15 @@ function renderInline(text: string): string {
 ---
 
 <BaseLayout title={title}>
+  <JsonLd
+    type="faq"
+    slug={slug}
+    title={title}
+    created={created}
+    updated={updated}
+    tags={tags}
+    body={body}
+  />
   <article data-pagefind-filter="page_type:faq">
     <div class="page-header">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">❓ FAQ</p>

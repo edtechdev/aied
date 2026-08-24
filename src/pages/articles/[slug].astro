@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
+import JsonLd from '../../components/JsonLd.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -28,6 +29,12 @@ const { title, tags, confidence, created, updated } = article.data;
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = article.body || '';
+
+// Connected concept slugs for JSON-LD about/mentions (from body Connected Concepts section)
+const connectedConceptSlugs = (body.match(/^## Connected Concepts\s*\n([\s\S]*?)(?=^## |\Z)/m)?.[1] || '')
+  .split('\n')
+  .map(l => l.match(/\[\[([^\]|]+)/)?.[1])
+  .filter(Boolean);
 
 function splitTableCells(line: string): string[] {
   const cells: string[] = [];
@@ -166,6 +173,17 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
 ---
 
 <BaseLayout title={title}>
+  <JsonLd
+    type="article"
+    slug={slug}
+    title={title}
+    created={created}
+    updated={updated}
+    tags={tags}
+    body={body}
+    sources={article.data.sources}
+    connectedConceptSlugs={connectedConceptSlugs}
+  />
   <article data-pagefind-filter="page_type:article">
     <div class="page-header">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">📄 Research Article</p>
