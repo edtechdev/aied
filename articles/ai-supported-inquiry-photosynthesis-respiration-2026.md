@@ -1,7 +1,7 @@
 ---
 title: "AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education"
-created: "2026-08-24T14:30:00-04:00"
-updated: "2026-08-24T10:40:00-04:00"
+created: "2026-08-24T08:46:00-04:00"
+updated: "2026-08-24T08:46:00-04:00"
 type: article
 tags: [inquiry-based-learning, teacher-education, science-education, computational-thinking, ai-literacy, biology-education, generative-ai]
 sources: ['raw/papers/ai-supported-inquiry-photosynthesis-respiration-2026.md']
