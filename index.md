@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1031
+**Last updated:** 2026-08-24 | **Total pages:** 1032
 ---
 ## Concepts
 
@@ -325,6 +325,7 @@
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[design-based-research]] — Design-Based Research
 - [[design-thinking]] — Design Thinking
 - [[designing-ai-professional-development-itpack-2026]] — Designing effective AI professional development: A framework grounded in intelligent-TPACK
 - [[desirable-difficulties]] — Desirable Difficulties
