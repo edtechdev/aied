@@ -45,6 +45,9 @@ export function firstParagraph(body: string): string {
 export function conceptId(slug: string): string {
   return `${SITE}/concepts/${slug}/#concept`;
 }
+export function faqId(slug: string): string {
+  return `${SITE}/faqs/${slug}/#faq`;
+}
 export function articleId(slug: string): string {
   return `${SITE}/articles/${slug}/#summary`;
 }
