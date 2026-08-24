@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T10:15:00-04:00"
+updated: "2026-08-24T17:10:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -95,6 +95,8 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[llm]]
 
 ## Connected Articles
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
+- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
