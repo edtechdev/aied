@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T10:20:00-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -36,74 +36,49 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 - **AI that scaffolds productive struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles (non-directive support, reflective design, human-in-the-loop) that keep scaffolding in the productive-struggle zone rather than collapsing to answer-giving; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to give help only when strictly necessary — scaffolding that preserves the learner's own effort.
 ## Connected Concepts
-
-- [[problem-based-learning]]
-- [[learning-by-teaching]]
-- [[sociocultural-learning]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-- [[metacognition]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[higher-ed]]
-- [[learning-theories]]
+- [[problem-based-learning]] — PBL embeds fading scaffolds around ill-structured problems
+- [[learning-by-teaching]] — Scaffolding knowledge building through explanation
+- [[sociocultural-learning]] — Vygotskian foundation: ZPD and socially mediated learning
+- [[cognitive-offloading]] — Scaffolding that never fades creates over-reliance
+- [[feedback]] — Scaffolding delivers formative feedback as support fades
+- [[ai-literacy]] — Recognizing when scaffolding supports vs. displaces learning
+- [[intelligent-tutoring]] — ITSs adapt scaffold intensity to mastery estimates
+- [[socratic-method]] — Questioning that withholds direct answers
+- [[metacognition]] — Scaffolds that build self-monitoring and self-regulation
+- [[adaptive-learning]] — Adaptive systems modulate support within the learner's ZPD
+- [[instructional-design]] — Scaffolding is a core instructional-design strategy
+- [[help-seeking]] — Scaffolding shapes when and how learners request help
+- [[teacher-role]] — Teachers scaffold, then fade as competence grows
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
-- [[ying-genai-journalism-assessment-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
+- [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
+- [[scaffolding-critical-engagement-genai-minority-students]] — Culturally responsive critical-engagement scaffolding with GenAI
+- [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors
+- [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst scaffolds for conceptual change
+- [[correct-answer-trap-ai-tutor]] — When hints help vs. when they encourage over-reliance
+- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with GenAI
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Scaffolded narrative drafting with Veriforge
+- [[ai-cognitive-partner-co-regulation-learning]] — AI cognitive partner supporting co-regulation of learning
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+- [[agentic-ai-pedagogical-best-practice-2026]] — Dynamic (fading) scaffolds as a guardrail for agentic AI
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
-
-- [[guided-llm-scaffolding-independent-learning]]
-- [[scaffolding-critical-engagement-genai-minority-students]]
-- [[rethinking-scaffolding-llm-tutors]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[correct-answer-trap-ai-tutor]]
-- [[critical-thinking-genai-scaffolding]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[ai-cognitive-partner-co-regulation-learning]]
-
 - [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose task completion
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Guardrailed GenAI tools as scaffolds vs answer sources
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[agentic-ai-pedagogical-best-practice-2026]]
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[productive-failure]] — Productive Failure
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
+- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-- [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
-
-- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[productive-failure]] — Productive Failure
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)

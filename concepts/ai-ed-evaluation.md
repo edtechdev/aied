@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-08-24T10:20:00-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -48,25 +48,22 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 ## Connected Concepts
 
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[benchmark]]
-- [[automated-assessment]]
-- [[formative-assessment]]
-- [[authentic-assessment]]
-- [[human-in-the-loop-ai]]
-- [[hallucination-risk]]
-- [[trust-calibration]]
-- [[intelligent-tutoring]]
-- [[agentic-ai]]
-- [[teacher-role]]
-- [[assessment]]
-- [[llm]]
-- [[limitations-in-aied-research]]
+- [[assessment-validity]] — Validity of interpretation in AI-ed evaluation
+- [[educational-measurement]] — Measurement theory for assessing learning
+- [[psychometrically-aware-ai]] — Applying psychometrics to AI-based assessment
+- [[benchmark]] — Standardized benchmarks for evaluating AI systems
+- [[automated-assessment]] — AI-based grading and scoring systems
+- [[learning-analytics]] — Data-driven analysis of learning behavior
+- [[research-methods-aied]] — Research methods for AI in education
+- [[learning-gains]] — Measuring learning gains from AI tools
+- [[formative-assessment]] — Ongoing assessment to guide instruction
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
-- [[learning-gains]]
-- [[game-based-learning]]
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[authentic-assessment]] — Assessment of real-world, transferable performance
+- [[human-in-the-loop-ai]] — Human oversight of AI evaluation
+- [[trust-calibration]] — Calibrating trust in AI systems
+- [[hallucination-risk]] — Risk of fabricated content in AI outputs
+- [[intelligent-tutoring]] — Evaluating AI tutoring systems
+- [[agentic-ai]] — Evaluating autonomous AI agent behavior
 ## Connected Articles
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
@@ -76,7 +73,6 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation validation: reliability vs accuracy (Melo et al. 2026)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
-
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations
 - [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
@@ -95,19 +91,8 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
 - [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
-- [[elbench-education-llm-benchmark-2026]]
-- [[teaching-monster-pck-benchmark-2026]]
-- [[genai-educational-outcomes-meta-analysis]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
-- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of math diagrams
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of generative AI educational outcomes
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-- [[productive-failure]]
+- [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
+- [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK benchmark
 

@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment in AI Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-24T10:20:00-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 
@@ -68,13 +68,14 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 ## Connected Concepts
 
-- [[eportfolio]]
 - [[assessment]]
+- [[educational-measurement]]
 - [[automated-assessment]]
 - [[automated-question-generation]]
 - [[assessment-validity]]
 - [[feedback]]
 - [[ai-feedback-quality]]
+- [[feedback-literacy]]
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
@@ -82,26 +83,14 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[self-regulated-learning]]
 - [[human-in-the-loop-ai]]
 - [[intelligent-tutoring]]
-- [[student-experience]]
 - [[ai-ed-evaluation]]
-- [[generative-ai]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[privacy]]
-- [[ai-education]]
-- [[feedback-literacy]]
-- [[behaviorism]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-
+- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
+- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development with AI-assisted portfolio assessment
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
@@ -117,16 +106,12 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[code-gen]] — CODE-GEN: validated MCQ generation
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
-- [[ai-changing-teaching-workflows]] — AI and changing teaching workflows
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+
