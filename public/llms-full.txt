@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 161 concepts and 866 articles.
+> Complete text of 165 concepts and 866 articles.
 
 # Concepts
 
@@ -1226,6 +1226,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[educational-measurement]] — Measurement instruments for AI literacy and related constructs
 
 ## Connected Articles
 - [[benali-genai-academic-writing-2026]]
@@ -4155,19 +4156,64 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 
 > **Educational measurement** — the psychometric theory and methods for quantifying and validating learning and its constructs — runs through the wiki's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages. The LLM era forces measurement to reconcile classical psychometrics with new AI-generated response streams: automated scoring, AI-predicted difficulty, and multimodal traces must be validated against established measurement principles to preserve reliability and validity.
 
-Educational measurement is the discipline of turning observations about learning — responses, behaviors, scores — into defensible quantitative claims. It encompasses construct definition, item/test design, scaling, reliability, and validity. In AI in education, measurement questions are everywhere: does a [[benchmark|benchmark score]] measure what we think? Is an AI-generated grade reliable and valid? Do AI-predicted item difficulties agree with empirically estimated ones?
+Educational measurement is the discipline of turning observations about learning — responses, behaviors, scores — into defensible quantitative claims. It encompasses construct definition, item/test design, scaling, reliability, and validity. In [[ai-education|AI in education]], measurement questions are everywhere: does a [[benchmark|benchmark score]] measure what we think? Is an AI-generated grade reliable and valid? Do AI-predicted item difficulties agree with empirically estimated ones?
 
-### How educational measurement appears in the research
+## How educational measurement appears in the research
 
 - **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]).
-- **Psychometric awareness in AI assessment:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
+- **Psychometric awareness in AI [[assessment]]:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
 - **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
 - **Latent-structure comparison:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] extend educational measurement to the LLM setting by testing whether assessment instruments show the *same factor structure* for humans and LLMs. Using EFA, factor congruence, and resampling, they show LLM–human latent structures systematically diverge across chemistry and quantitative-reasoning instruments, implying the constructs measured differ across populations — a necessary check before human validity evidence is assumed to transfer to AI.
 
-### Connections
+## Measurement instruments in the wiki
 
-Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field.
+A central function of educational measurement is the development, validation, and use of **instruments** — the concrete scales, tests, and coding schemes that operationalize constructs. The wiki's articles document a wide range of instruments for AI-in-education constructs, which can be categorized by what they measure and by their measurement approach.
+
+### AI / GenAI literacy instruments
+
+AI literacy is the construct with the richest instrument coverage in the wiki. Two broad families exist: **performance-based tests** (objective, less susceptible to self-report bias) and **self-report scales** (subjective, capturing perceived competence).
+
+- **Performance-based (objective) measures.** The flagship is [[jin-glat-genai-literacy-assessment|GLAT (Generative AI Literacy Assessment Test)]], a 20-item multiple-choice instrument built on a 25-concept blueprint across four dimensions (Know & Understand, Use & Apply, Evaluate & Create, [[ethics]]) and validated with CTT + 2PL IRT on 355 students (RMSEA = 0.03, CFI = 0.97, α = 0.80, ω = 0.81). Critically, GLAT scores predicted AI-assisted task performance where self-report did not — evidence that **performance-based measurement outperforms self-report** for AI literacy. Related work in [[ai-literacy-assessment-misalignment]] quantifies the gap between self-reported and performance-based AI literacy (teachers overestimate by ~40%), and [[tracing-genai-literacy-interaction-patterns]] traces actual student–AI interaction patterns rather than relying on reported use.
+- **Self-report scales.** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]] operationalizes AI literacy across three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) and four scaffolded levels; [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] structures seven dimensions (technical, application, [[critical-thinking|critical thinking]], ethics, social impact, integration, legal/regulatory) with four Bloom-aligned proficiency levels. [[genai-skill-bypass-literacy]] maps divergent AI-literacy pathways for students vs. staff, and [[panciroli-ai-literacy-episodes-situated-learning]] grounds literacy assessment in [[situated-learning|situated learning]] episodes.
+- **Domain-specific AI literacy.** [[teacher-education-ai-literacy-sdt-2026]] develops teacher AI-literacy measures within a self-determination-theory framework (382 teachers, factor-validated); [[conceptualizing-preservice-teachers-ai-readiness-2026]] measures pre-service teacher AI readiness via intelligent-[[tpack]]; [[ai-literacy-career-adaptability-business-2026]] assesses student AI readiness and career adaptability in business education; and [[llm-critical-thinking-teamwork-review]] reviews instruments for LLM-supported critical-thinking and teamwork outcomes.
+
+### Attitudes, acceptance, and motivation instruments
+
+- **Technology acceptance.** Instruments grounded in TAM/UTAUT measure perceived usefulness, ease of use, and behavioral intention to use AI. See [[technology-acceptance-model]] and its application in [[acceptance-ai-english-tools-2026]] (AI-assisted English learning tools, psychometric validation across disciplinary/proficiency groups) and [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]].
+- **Self-efficacy and motivation.** [[self-efficacy]] instruments and motivation scales (e.g., SDT-based measures of autonomy/competence/relatedness in [[teacher-education-ai-literacy-sdt-2026]]) capture the motivational antecedents and consequences of AI use. These connect to [[student-engagement]] and [[prior-knowledge]] measurement.
+
+### Assessment-quality and validity instruments
+
+- **Automated scoring and rubric instruments.** [[harmogen-ai-assessment-rubric-generation|HARMOGEN-R]] generates assessment rubrics; [[ai-assisted-instructor-supervised-grading-feedback]] evaluates AI-grading quality against Elaborated-[[feedback]] criteria; [[ai-assessment-scale-reform]] addresses how AI disrupts traditional assessment scales.
+- **Validity-strengthening designs.** [[roe-assessment-twins-2026|assessment twins]] pair a GenAI-vulnerable task with a less-vulnerable equivalent assessing the same outcomes, mapping threats across Messick's six strands of validity evidence.
+- **Discourse and engagement coding.** [[icap-cognitive-engagement-llm-agents]] extends the [[icap-framework|ICAP]] framework into a 7-point cognitive-engagement coding scheme, comparing human annotation (κ = 0.906–0.998) with LLM-based labeling (κ = 0.541–0.609) — a measurement-instrument study showing automated coding still trails trained humans.
+- **Skills extraction.** [[principal-trait-analysis-human-ai-skills-2026]] derives "skills" in human–AI collaboration via principal-trait analysis — a data-driven measurement of collaboration competency.
+
+### Measurement approach matters
+
+The wiki's evidence repeatedly shows that **how** a construct is measured changes the conclusions. Self-reported AI literacy diverges sharply from performance-based measures ([[ai-literacy-assessment-misalignment]]); LLM annotation of engagement diverges from trained human coding ([[icap-cognitive-engagement-llm-agents]]); and latent structures differ between humans and LLMs ([[assessment-latent-structure-human-llm-2026]]). Rigorous instrument validation — reliability, structural validity, external/predictive validity — is therefore not a formality but the foundation of trustworthy AI-in-education evidence, connecting to [[assessment-validity]] and [[psychometrically-aware-ai]].
+
+## Issues and limitations: what measurement can miss or get wrong
+
+Educational measurement is powerful but fallible. Understanding its failure modes is essential to reading AI-in-education evidence critically — and to recognizing where an apparent learning gain or construct claim may be an artifact of measurement rather than a real effect.
+
+- **Reliability limits.** Measurement is never perfectly reliable; error variance is always present. When instruments have low internal consistency or test–retest stability, observed differences may be noise. In AI contexts, new failure modes compound this: LLM-generated responses can be scored with high machine agreement yet diverge from human scoring ([[icap-cognitive-engagement-llm-agents]]), and automated scoring can be *internally* consistent while systematically wrong — precision without validity. The [[limitations-in-aied-research|measurement limitations]] of AIEd research document unreliable instruments as a cross-cutting weakness.
+- **Validity — measuring the wrong thing.** Validity asks whether an instrument measures the construct it claims to. Common failures include **construct under-representation** (an AI-literacy test that samples only technical knowledge, missing ethics) and **construct-irrelevant variance** (an item that rewards reading fluency rather than the target skill). [[ai-scoring-language-bias-physics|AI scoring and language bias]] shows how surface features — language, phrasing, style — can drive automated scores in ways unrelated to the intended construct. [[assessment-validity]] is the guardrail against these threats.
+- **The self-report gap.** Self-report measures capture *perceived* competence, not actual competence. The wiki repeatedly shows self-reported AI literacy diverging sharply from performance-based measures ([[ai-literacy-assessment-misalignment]], ~40% overestimation by teachers) and that self-report fails to predict real AI-assisted performance where performance tests succeed ([[jin-glat-genai-literacy-assessment|GLAT]]). Measures that rely on self-report can systematically overstate constructs and conceal true skill gaps.
+- **Constructs that don't transfer across populations.** [[assessment-latent-structure-human-llm-2026|Strugatski et al.]] show assessment instruments can have a *different factor structure* for humans and LLMs — meaning the same items may not measure the same latent construct across populations. Even within humans, instruments validated on one group (e.g., Western, resourced [[higher-ed]]) may not generalize to others ([[global-south]]), a concern for the generalizability of AI-in-education measures.
+- **What measurement can miss.** Some of the constructs most central to AI-in-education learning are the hardest to measure well — and therefore the most easily missed or distorted by instruments:
+  - **Process and strategy.** Standard outcome measures capture the *product* of learning, not the *process*. They can miss how students actually engage with AI — [[cognitive-offloading|over-reliance]], unreflective acceptance, or critical verification. [[tracing-genai-literacy-interaction-patterns]] uses interaction traces precisely because self-report and outcome tests miss these dynamics.
+  - **Longitudinal and durable learning.** A single post-test may show inflated performance from AI assistance while missing the erosion of durable, unassisted knowledge (the [[genai-performance-vs-learning|performance–learning gap]]). Measurement at one time point can be actively misleading about learning.
+  - **Equity and access.** Instruments that assume uniform device/connectivity access, or that are normed on privileged samples, can miss — or systematically under-measure — the capabilities of [[equity-in-ai-education|under-resourced]] learners, misattributing access gaps to ability gaps.
+  - **Affective and motivational states.** Engagement, motivation, and self-efficacy are often measured by self-report, inheriting the self-report gap above; they may not capture the situated, momentary dynamics that drive learning.
+- **Automated measurement can be confidently wrong.** The combination of high machine confidence and opaque scoring is a distinctive AI-era risk: an LLM grader or annotator can produce highly self-consistent scores that are systematically biased, and the appearance of rigor (large N, high inter-LLM agreement) can mask invalidity. The [[ai-ed-evaluation]] and [[psychometrically-aware-ai]] frameworks are the antidote — requiring calibration, uncertainty awareness, and validity evidence before automated measures are trusted.
+
+In short, educational measurement can **miss** what it does not sample (process, durability, access, affect) and can **get wrong** what it samples poorly (self-perception, surface features, cross-population constructs). Reading AI-in-education findings therefore requires asking not just *what* was measured but *how* — and what the instrument may have failed to capture.
+
+## Connections
+
+Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field. For the constructs it measures, it intersects with [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]], and [[student-engagement]].
 
 ## Connected Concepts
 
@@ -4181,12 +4227,22 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[ai-ed-evaluation]]
 - [[automated-assessment]]
 - [[limitations-in-aied-research]]
+- [[ai-literacy]]
+- [[technology-acceptance-model]]
+- [[self-efficacy]]
+- [[benchmark]]
 
 ## Connected Articles
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)
+- [[icap-cognitive-engagement-llm-agents]] — Measuring cognitive engagement with an extended ICAP framework
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity under GenAI
+- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
+- [[ai-literacy-assessment-misalignment]] — Self-reported vs performance AI literacy misalignment
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
+- [[acceptance-ai-english-tools-2026]] — AI acceptance measures for English learning tools
 
 - [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
 - [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
@@ -4486,7 +4542,7 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] systematically review empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/equity/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal wellbeing.
 - **Embodied and multimodal assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with LLM analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
 - **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics]] and [[governance]], and skill-based credentials for emerging roles.
-- **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use GenAI and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with UTAUT to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
+- **Student adoption and reliance:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extend the Technology Acceptance Model with *critical use* to model how engineering/CS students form intentions to use GenAI and how that intention predicts reliance across understanding, assessment, programming, and engineering-project tasks — finding moderate, appropriate reliance and heavy use for understanding-related tasks but limited use for full assessment writing. [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrate TAM with [[technology-acceptance-model|UTAUT]] to model Bangladeshi engineering students' adoption, explaining 64% of usage variance and highlighting job relevance, result demonstrability, and subjective norms as key drivers.
 
 ## Signature concerns
 
@@ -8258,6 +8314,56 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 ---
 
+## [Mixed-Methods Research](https://edtechdev.github.io/aied/concepts/mixed-methods-research/)
+
+> **Mixed-methods research** — the design and practice of intentionally combining [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] strands within a single study so that their strengths complement and their weaknesses offset each other. In [[ai-education|AI in education]], mixed-methods designs are widely used because AI effects are simultaneously measurable ([[learning-gains|learning gains]], [[student-engagement|engagement]]) and meaning-laden (trust, [[agency]], identity) — and neither a survey nor an interview alone captures both.
+
+Mixed-methods designs integrate the breadth, precision, and causal power of quantitative methods with the depth, context, and meaning of qualitative methods. The value proposition is **triangulation**: when independent strands converge on the same conclusion, confidence increases; when they diverge, the discrepancy itself is informative.
+
+## Common design patterns
+
+- **Sequential explanatory (QUAN → qual).** Quantitative data are collected first, then qualitative data explain or contextualize surprising or significant quantitative findings. [[genai-over-reliance-learning-2026|A mixed-method study of GenAI and sustainable learning]] pairs three-wave surveys with educator interviews to explain the quantitative pattern of enhancement-to-over-reliance.
+- **Sequential exploratory (QUAL → quan).** Qualitative work builds theory, generates hypotheses, or informs instrument design that is then tested quantitatively. [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] yields categories that can inform later survey design.
+- **Convergent/parallel.** Quantitative and qualitative strands run simultaneously and are integrated in analysis. [[t2i-competence-paradox-2026|The competence-paradox study]] uses instructor focus groups, a student survey, and follow-up interviews in parallel; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]] combines survey and interview evidence on physics students' AI adoption.
+
+## How mixed methods appear in the wiki
+
+- **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
+- **Complementing outcome data with experience.** [[ai-tutor-safety-harms|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of pedagogical harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
+- **Design and evaluation.** [[genai-feedback-design-multisite-experiment|A multisite experiment on GenAI feedback design]] combines experimental outcome measurement with qualitative feedback from learners, integrating quantitative effect estimation with design guidance.
+
+## Strengths and limitations
+
+- **Strengths:** triangulation increases confidence; quantitative breadth plus qualitative depth; can explain unexpected results and bridge mechanism and magnitude; produces both effects and meaning; well-suited to complex, contextual AI-in-education phenomena.
+- **Limitations:** complex, resource-intensive, and methodologically demanding; integration can be shallow if strands are merely reported side-by-side rather than genuinely merged; still inherits the weaknesses of each strand (e.g., self-report bias in surveys, researcher dependence in interviews); requires proficiency in both methodological traditions.
+
+## Relationship to the broader methods landscape
+
+Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] traditions, drawing on the strengths of each while adding the design discipline of intentional integration. It is a methodological response to the recognition that AI-in-education phenomena are both effectful and meaning-laden — and that the field advances fastest when breadth and depth are combined (see [[research-methods-aied]]). It connects to [[educational-measurement]] (quantitative instruments), [[theory-development-aied]] (qualitative theory-building), and [[ai-ed-evaluation]] (integrating outcome and experience evidence).
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[qualitative-research]]
+- [[quantitative-research]]
+- [[educational-measurement]]
+- [[learning-gains]]
+- [[theory-development-aied]]
+- [[ai-ed-evaluation]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (surveys + interviews)
+- [[t2i-competence-paradox-2026]] — The competence paradox (focus groups + survey + interviews)
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
+- [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
+- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
+- [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
+- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
+
+---
+
 ## [Motivation](https://edtechdev.github.io/aied/concepts/motivation/)
 
 > **Motivation** — the psychological processes that initiate, direct, and sustain goal-directed behavior. In AI in education, motivation research examines how AI tools affect learners' and teachers' motivation — whether AI [[scaffolding|scaffolds]] or undermines persistence, curiosity, and intrinsic engagement — and how motivational states shape the effectiveness of AI-mediated learning.
@@ -9995,6 +10101,155 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 
 ---
 
+## [Qualitative Research](https://edtechdev.github.io/aied/concepts/qualitative-research/)
+
+> **Qualitative research** — the family of empirical methods that study how people *experience, interpret, and make meaning* of phenomena, typically through words, observations, and artifacts rather than numbers. In [[ai-education|AI in education]], qualitative methods reveal *how* students and teachers actually experience [[generative-ai|AI tools]] — the meanings, tensions, harms, and mechanisms that standardized measures miss. Because AI-in-education is fast-moving and its effects are often mediated by context, perception, and contested constructs like [[trust]] and [[agency]], qualitative work is essential alongside quantitative designs (see [[research-methods-aied]]).
+
+Qualitative research is not a single method but a family organized by *what* they study and *how* evidence is gathered and analyzed. What unites them is an emphasis on meaning-making, context, and depth over breadth and causal control. Qualitative findings are typically **not** generalizable in the statistical sense, but they are often *conceptually generalizable* — revealing mechanisms, categories, and dynamics that transfer to other settings. In the wiki's corpus, qualitative work is prominent for studying AI acceptance, trust, harm, teaching practice, and learning processes.
+
+## Major qualitative approaches
+
+### Thematic analysis
+Thematic analysis identifies, codes, and interprets patterns ("themes") across qualitative data — typically interview or focus-group transcripts, open-ended survey responses, or documents. It is the most widely used approach in the wiki's qualitative studies. [[fouad-bentley-trust-utility-gap-physics-2026|A study of the trust–utility gap in physics]] uses thematic analysis of student interview data to surface domain-specific skepticism and adoption preferences; [[genai-teacher-feedback-comparison|a comparison of GenAI vs. teacher feedback]] analyzes student perceptions of usefulness and trustworthiness; and [[ai-adult-learning-guidelines-dis2026|guidelines for adult AI learning]] derive design principles from thematic coding of expert and learner input. [[ai-changing-teaching-workflows|How AI changes teaching workflows]] relies on thematic analysis of educator accounts.
+
+### Grounded theory
+Grounded theory builds a theory *from the data* rather than testing an a priori framework, using iterative coding (open → axial → selective) until theoretical saturation. It is ideal for constructing new theory about emergent AI-in-education phenomena. [[liu-tool-tutor-crutch-programming-2026|Liu et al.]] develop a grounded theory of *tool, tutor, or crutch* — a three-mode typology of how students cognitively scaffold or offload onto AI in programming education — directly theorizing [[cognitive-offloading]]. [[favero-critical-ai-tutors-empower-enslave-2025|A grounded-theory study of critical AI tutors]] examines whether such tutors empower or enslave learners. [[genai-feedback-design-multisite-experiment|Human-centered GenAI feedback design]] uses grounded analysis across a multisite study. See also [[theory-development-aied]] for how such grounded theories feed the field's theory building.
+
+### Phenomenology and phenomenography
+Phenomenological approaches study the *lived experience* of a phenomenon — what it is like to learn with AI — while phenomenography studies the *qualitatively different ways* people experience and understand a phenomenon (producing "categories of description"). [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] draws on students' lived experiences of self-assessment under AI to theorize a structural gap; [[metacognitively-discordant-completion-genai-2026|a phenomenological study]] captures the experience of completing work with AI while knowingly not understanding it; and [[genai-runaway-object-math-higher-ed|a socio-cultural, interpretive study]] analyzes how GenAI becomes a "runaway object" in mathematics academic practice.
+
+### Discourse analysis
+Discourse analysis examines how language-in-use constructs meaning, identities, and power — analyzing classroom talk, written text, or interactional sequences. [[nspa-neuro-symbolic-pedagogical-alignment-2026|NSPA]] conducts long-horizon classroom *discourse analysis* (here computationally assisted) to mitigate dialect bias in understanding classroom interaction; [[scaffolding-critical-engagement-genai-minority-students|a study of ethnic-minority preparatory students]] analyzes collaborative *discourse* in prompt-engineering tasks. Discourse analysis bridges qualitative interpretation with computational methods when combined with [[educational-nlp]].
+
+### Observations and ethnography
+Observation studies watch behavior in context; ethnography extends this to sustained, immersive study of a setting, often with the researcher as participant-observer. [[trio-ethnography-llm-programming-education|A trio-ethnography]] of LLM-supported programming education traces how students' interpretations evolve; [[zha-ai-literacy-biology-case-study|a classroom case study]] observes AI-literacy integration in biology. Observational methods capture *actual* behavior (what learners do with AI) rather than reported behavior — complementing the self-report surveys that dominate [[educational-measurement|quantitative measurement]] of attitudes.
+
+### Case studies
+A case study is an in-depth investigation of a bounded case (a course, an institution, a single learner) using multiple data sources. [[drummond-genai-business-schools-framework-2026|A business-school case study]] generates a student-informed teaching and learning framework for GenAI; [[zha-ai-literacy-biology-case-study|a biology case study]] documents AI-literacy integration. Case studies trade breadth for depth and are strong for theory generation and transferable insight rather than generalization.
+
+### Interviews and focus groups
+Semi-structured **interviews** and **focus groups** are the primary data-collection instruments across all the above approaches. They elicit rich, contextual accounts. The wiki's qualitative corpus is built substantially on interviews (e.g., [[genai-expertise-pathways-sysadmin|expertise pathways]], [[ai-education-global-capacity|youth leaders across five countries]]) and focus groups (e.g., [[t2i-competence-paradox-2026|the text-to-image competence paradox]], [[ai-adult-learning-guidelines-dis2026]]). Quality depends on careful question design, sampling for variation, and rigorous analysis.
+
+## How qualitative research appears in the wiki
+
+- **Mechanism and process.** Qualitative work reveals *why* AI helps or harms. [[same-ai-different-pathways]] uses qualitative strands to unpack mechanisms of AI-mediated learning across contexts; [[ai-tutor-safety-harms|AI tutor safety]] documents the specific [[pedagogy|pedagogical]] harms that quantitative outcome measures miss.
+- **Trust, agency, and identity.** Contested, subjective constructs are often best studied qualitatively. [[t2i-competence-paradox-2026]] surfaces how art-and-design students negotiate ease, risk, and creative identity; [[genai-runaway-object-math-higher-ed]] captures AI's role in reshaping academic identity and practice.
+- **Equity and under-represented voices.** Qualitative work centers perspectives often excluded from large surveys — [[scaffolding-critical-engagement-genai-minority-students|ethnic-minority students]], [[ai-education-global-capacity|youth leaders across the Global South]], [[becker-chatgpt-typology-physics-2026|skeptical nonusers]]. This connects to [[equity-in-ai-education]].
+- **Typology and taxonomy building.** [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] distinguishes pragmatic users from skeptical nonusers — categories that inform later survey instrument design.
+
+## AI and qualitative analysis
+
+A distinctive recent development is using [[llm|LLMs]] to assist qualitative coding. The wiki's evidence is cautionary: [[human-vs-llm-ordered-coding]] shows LLM and human coding diverge, with errors cascading through temporal analysis; [[agreement-not-quality-llm-coding-verification|Agreement Is Not Quality]] shows that human–LLM coding *agreement* is not the same as coding *quality* when human consensus is not ground truth. LLM-assisted coding can scale and accelerate qualitative analysis, but its outputs require verification against human judgment — an important intersection of qualitative research with [[educational-nlp]] and [[ai-ed-evaluation]].
+
+## Strengths and limitations
+
+- **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building (see [[theory-development-aied]]); captures meaning, context, and contested constructs; centers under-represented perspectives; strong for studying fast-moving phenomena where standardized measures lag.
+- **Limitations:** limited statistical generalizability; interpretive and researcher-dependent (reliability concerns); small samples; weaker support for causal claims; findings can be hard to synthesize across studies; time- and labor-intensive.
+
+Qualitative and quantitative methods are complements, not rivals — see [[research-methods-aied]] for how they contrast and triangulate, and [[mixed-methods-research|mixed methods]] for designs that combine them.
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[mixed-methods-research]]
+- [[quantitative-research]]
+- [[theory-development-aied]]
+- [[educational-measurement]]
+- [[educational-nlp]]
+- [[ai-ed-evaluation]]
+- [[equity-in-ai-education]]
+- [[trust]]
+- [[agency]]
+- [[cognitive-offloading]]
+
+## Connected Articles
+
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
+- [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
+- [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
+- [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
+- [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
+- [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
+- [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
+- [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
+- [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students
+- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data
+- [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
+- [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
+- [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
+- [[ai-education-global-capacity]] — Youth leaders across five countries on what AIED needs next
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
+- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
+
+---
+
+## [Quantitative Research](https://edtechdev.github.io/aied/concepts/quantitative-research/)
+
+> **Quantitative research** — the family of empirical methods that collect and analyze *numerical* data to describe patterns, test relationships, and estimate causal effects. In [[ai-education|AI in education]], quantitative methods quantify whether and how AI tools affect [[learning-gains|learning outcomes]], [[student-engagement|engagement]], [[motivation]], and [[self-efficacy]], and model the psychological and behavioral mechanisms of AI use. They provide the breadth, precision, and causal inferential power that [[qualitative-research|qualitative methods]] trade away for depth and context.
+
+Quantitative research spans descriptive designs (measuring prevalence and patterns), correlational/observational designs (testing relationships among variables), and experimental and quasi-experimental designs (estimating causal effects). What unifies them is the systematic reduction of observations to numbers, analyzed with statistics, and the priority placed on **reliability, validity, and generalizability** — the core concerns of [[educational-measurement]].
+
+## Major quantitative approaches
+
+### Survey and correlational research
+Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the wiki's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
+
+- **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
+- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
+
+### Experimental and quasi-experimental research
+Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
+
+- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
+- **Limitations:** costly and slow; artificial conditions reduce ecological validity; fast-changing AI tools date experiments quickly; small samples underpower detection of effects; ethical constraints on withholding helpful tools.
+
+### Longitudinal research
+Longitudinal designs track the same learners over time, capturing change, growth, and durable learning that single-time-point measurement misses. [[ai-lms-middle-school-longitudinal|A longitudinal LMS study]] tracks students across a school year. Longitudinal designs are essential for distinguishing AI-inflated performance from [[genai-performance-vs-learning|durable learning]].
+
+### Computational and psychometric quantification
+Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The wiki's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
+
+## How quantitative research appears in the wiki
+
+- **Efficacy and causal claims.** RCTs and quasi-experiments test whether AI tools improve learning ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
+- **Mechanism modeling.** SEM/PLS-SEM tests mediators and moderators of AI adoption and learning ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
+- **Measurement and scale development.** The wiki documents quantitative instrument development and validation ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
+
+## Strengths and limitations
+
+- **Strengths:** precision and statistical power; generalizability to defined populations; causal inference (with experimental designs); efficient large-sample coverage; cumulative and comparable across studies.
+- **Limitations:** captures what is measurable, often missing process, meaning, and context (see [[qualitative-research]]); self-report bias; instruments can measure the wrong construct (see [[educational-measurement|measurement issues]]); correlation without causation; can be artificial and slow relative to AI change.
+
+Quantitative and [[qualitative-research|qualitative]] methods are complements — quantitative work provides breadth and causal power, qualitative work provides depth and meaning. [[mixed-methods-research|Mixed-methods designs]] combine them. See [[research-methods-aied]] for the full method comparison and the contrasts among experimental, survey, qualitative, and other designs.
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[qualitative-research]]
+- [[mixed-methods-research]]
+- [[educational-measurement]]
+- [[item-response-theory]]
+- [[rct]]
+- [[learning-gains]]
+- [[student-engagement]]
+- [[self-efficacy]]
+- [[technology-acceptance-model]]
+
+## Connected Articles
+
+- [[access-not-enough-ai-tutoring-2026]] — A randomized field study of human support plus AI tutoring
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-assisted English learning tools
+- [[tian-genai-learning-adoption-pathways-2026]] — GenAI adoption pathways (PLS-SEM, fsQCA)
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
+- [[jin-glat-genai-literacy-assessment]] — GLAT: an IRT-validated GenAI literacy test
+- [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
+- [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (mixed-method)
+- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
+
+---
+
 ## [RAG (Retrieval-Augmented Generation)](https://edtechdev.github.io/aied/concepts/rag/)
 
 > **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables curriculum-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].
@@ -10353,7 +10608,7 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 ### Qualitative methods
 
-Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[ai-tutor-safety-harms|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence.
+Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[ai-tutor-safety-harms|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. See the dedicated [[qualitative-research]] concept page for the full treatment of qualitative approaches — thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups — each with wiki exemplars.
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, autonomy, and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.
@@ -10421,6 +10676,45 @@ Method choice follows the research question. Causal-effect questions favor exper
 
 Equally important is reading any single study with awareness of the **cross-cutting limitations** that affect AIED research as a whole — methodological constraints, the fast pace of AI change versus slow publication, reproducibility and FAIR-practice gaps, reliance on proprietary tools, and weak or uncritical theory use. See [[limitations-in-aied-research]].
 
+## Contrasting the major research traditions
+
+The three major research traditions — [[quantitative-research|quantitative]], [[qualitative-research|qualitative]], and experimental — differ fundamentally in what they can claim, what they sacrifice, and when each is appropriate. Understanding these contrasts is essential for both designing and reading AI-in-education research.
+
+### What each tradition establishes
+
+| Dimension | Quantitative / survey | Qualitative | Experimental |
+|---|---|---|---|
+| Core question | How much? How related? | What does it mean? How is it experienced? | Does X cause Y? |
+| Primary data | Numbers, scales, self-report | Words, observations, artifacts | Outcome measures across assigned conditions |
+| Inference target | Patterns, correlations, mediation | Meaning, mechanisms, categories | Causal effects |
+| Internal validity | Weak (correlational) | Weak (no control) | Strong (random assignment) |
+| External validity | Strong (large samples) | Limited (small, context-bound) | Moderate (controlled conditions) |
+| Ecological validity | Moderate | High | Lower (artificial conditions) |
+
+- **[[quantitative-research|Quantitative research]]** measures and models relationships among variables — surveys, SEM/PLS-SEM, measurement, longitudinal tracking. It provides breadth, precision, and generalizability but cannot establish causation from cross-sectional data and inherits [[educational-measurement|measurement]] limitations (including self-report bias).
+- **[[qualitative-research|Qualitative research]]** interprets meaning and experience — interviews, focus groups, thematic analysis, grounded theory, phenomenography, discourse analysis, observation/ethnography, case studies. It provides depth, mechanism, and theory-building (see [[theory-development-aied]]) but limited generalizability and weak causal support.
+- **Experimental and quasi-experimental designs** (see [[rct]]) estimate causal effects via random assignment or matched comparison — the gold standard for internal validity, at the cost of cost, speed, and ecological validity.
+
+### The measurement and mixed-methods links
+
+Quantitative work depends on [[educational-measurement]] — reliable, valid instruments for the constructs being studied. Qualitative work reveals the mechanisms and meanings those instruments may miss. **Experimental** work estimates whether an intervention *causes* the outcomes the instruments measure. The three are complementary layers: instruments quantify constructs, experiments establish causality, and qualitative work explains the *how and why* behind the numbers.
+
+[[mixed-methods-research|Mixed-methods designs]] intentionally combine quantitative and qualitative strands so their strengths offset each other's weaknesses — quantitative breadth plus qualitative depth, with triangulation increasing confidence.
+
+### Usability and HCI research
+
+A distinct methodological strand — [[usability-research|usability and HCI research]] — evaluates how users interact with an AI system: its usability, usefulness, learnability, and user experience, using think-aloud protocols, structured user studies, interviews, and observation. It is the closest to [[ai-ed-evaluation]] and answers a *prerequisite* question: even a pedagogically sound tool fails if it is unusable. Usability research shares data-collection methods with qualitative research but aims at evaluating an artifact rather than interpreting meaning.
+
+### Benefits and limitations across traditions
+
+- **Quantitative/survey:** benefits — large samples, broad coverage, tests complex mediators, efficient. Limitations — no causation, self-report bias, convenience sampling, instruments may measure the wrong construct.
+- **Qualitative:** benefits — deep insight, surfaces unexpected phenomena and harms, essential for theory-building, centers under-represented voices. Limitations — limited generalizability, researcher dependence, small samples, weak causal support, hard to synthesize.
+- **Experimental:** benefits — strongest causal inference, clean outcome measurement, effect-size estimation. Limitations — costly/slow, artificial conditions, fast-changing AI dates results, underpowered small samples, ethical constraints.
+- **Mixed-methods:** benefits — triangulation, breadth + depth, explains unexpected results. Limitations — complex, resource-intensive, integration can be shallow, inherits each strand's weaknesses.
+- **Usability/HCI:** benefits — identifies adoption barriers, actionable design guidance, fast and cheap. Limitations — does not establish learning effects, small samples, self-report satisfaction can mislead.
+
+In practice, AI-in-education research rarely falls cleanly into one tradition. The strongest evidence triangulates: a computational or usability evaluation establishes that a system works, an experiment establishes that it causes learning, quantitative instruments measure the constructs, and qualitative work reveals the mechanisms and meanings — together answering both *whether* a tool helps learning and *how and why*.
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -10435,6 +10729,10 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - [[limitations-in-aied-research]]
 - [[learning-gains]]
 - [[theory-development-aied]] — Theory Development in AI in Education
+- [[qualitative-research]] — Qualitative Research
+- [[quantitative-research]] — Quantitative Research
+- [[mixed-methods-research]] — Mixed-Methods Research
+- [[usability-research]] — Usability Research
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
@@ -12195,27 +12493,41 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 
 ---
 
-## [Technology Acceptance Model](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/)
+## [Technology Adoption Models](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/)
 
-The **Technology Acceptance Model (TAM)**, proposed by Davis (1989), explains and predicts users' adoption of new technologies through two core beliefs: **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)**, which shape users' **Attitude (ATT)** toward the technology. Attitude then predicts **Behavioral Intention (BI)** to use it, which ultimately influences actual usage behavior. Grounded in information systems theory, TAM has become the dominant framework for studying [[generative-ai|generative AI]] adoption in education.
+**Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The wiki treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
 
-#- **[[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]]** use clustering to identify distinct GenAI adoption personas (e.g. Cautious Achievers, Engaged Enthusiasts), revealing hidden user heterogeneity beyond variable-centered models.
+## The model family
 
-## Core Structure
+### Technology Acceptance Model (TAM)
+Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
 
-The classic TAM posits that PU and PEOU jointly determine attitude, which drives behavioral intention and, in turn, actual use. In educational GenAI research, TAM is frequently extended with additional predictors — including [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** — to capture the complexity of AI acceptance beyond simple uptake.
+### UTAUT / UTAUT2 / UTAUT3
+The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The wiki applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA).
 
-### Applications in the Wiki
+### Theory of Planned Behavior (TPB)
+TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE (Fairness, Accountability, Transparency, Ethics) framework to model the behavioral and ethical drivers of student ChatGPT adoption.
 
-TAM is applied across the wiki to model student and [[teacher-role|teacher]] adoption of AI tools:
+### Diffusion of Innovation (DOI)
+Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the wiki's institutional-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organisation–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
 
-- **Critical use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with the construct of *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention, which then predicts reliance across understanding, assessment, programming, and engineering-project domains — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
-- **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT to model engineering students' GenAI adoption in Bangladesh, showing that job relevance, result demonstrability, and subjective norms shape acceptance (explaining 64% of usage variance).
-- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — framing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
+### Technology–Organisation–Environment (TOE)
+TOE frames adoption as shaped by technological, organizational, and environmental contexts — a complement to individual-level TAM/UTAUT for studying institutional adoption (see [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
-### Limits and Extensions
+## Applications in the wiki
 
-While TAM is effective for predicting uptake, it is less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with frameworks such as UTAUT and Self-Determination Theory, and the addition of post-adoption constructs like critical use, reliance, and evaluative judgment.
+Adoption models are applied across the wiki to model student and [[teacher-role|teacher]] uptake of AI tools:
+
+- **Critical-use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
+- **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh (explaining 64% of usage variance).
+- **Person-centered profiles:** Rather than variable-centered models, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] cluster GenAI-adoption personas, and [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] use latent profile analysis to identify four ChatGPT-acceptance profiles among pre-service teachers — showing the field's move beyond single-model, linear accounts.
+- **Cross-cultural validation:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]] cross-culturally validate adoption-related motivation constructs across Switzerland and China.
+- **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, self-efficacy, anxiety, and risk perception to acceptance of AI-assisted English learning.
+- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
+
+## Limits and extensions
+
+While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters (Global South vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
 ## Connected Concepts
 
@@ -12235,19 +12547,22 @@ While TAM is effective for predicting uptake, it is less well suited to explaini
 
 ## Connected Articles
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption
+- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
 
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model for engineering education
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[genai-reliance-types-scale]] — GenAI reliance types scale
 - [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
 - [[ai-acceptance-preservice-science-teachers-2026]] — AI acceptance among preservice science teachers
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
+- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
+- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
+- [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
 
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 
 ---
 
@@ -12273,7 +12588,7 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 
 ## Advancing established theory
 
-Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates cognitive-load theory with load-reduction instruction into a three-level framework; [[doyle-scaling-complex-thinking-ai-ibl-2026|complex-thinking scaffolding]] extends [[inquiry-based-learning|IBL]] theory with an AI-scaffolding layer; and [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. Much of this is conceptual-framework work ([[botes-ai-oep-ibl-underresourced-2026|OEP/RS]], [[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
+Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates cognitive-load theory with load-reduction instruction into a three-level framework; [[doyle-scaling-complex-thinking-ai-ibl-2026|complex-thinking scaffolding]] extends [[inquiry-based-learning|IBL]] theory with an AI-scaffolding layer; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and teaching presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[botes-ai-oep-ibl-underresourced-2026|OEP/RS]], [[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
 
 ## The theory-use problem in AIEd
 
@@ -12296,6 +12611,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[learning-gains]]
 - [[ai-education]]
 - [[ai-ed-evaluation]]
+- [[community-of-inquiry]]
 
 ## Connected Articles
 
@@ -12313,6 +12629,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
 
 ---
 
@@ -12636,6 +12953,59 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+
+---
+
+## [Usability Research](https://edtechdev.github.io/aied/concepts/usability-research/)
+
+> **Usability research** — the empirical study of how users interact with a software system, and of its usability, usefulness, and user experience (UX). Drawn from human–computer interaction (HCI), usability research evaluates whether an AI educational tool is usable, learnable, efficient, and satisfying — the qualities that determine whether learners actually adopt and benefit from it. It is distinct from, but complementary to, [[qualitative-research|qualitative inquiry]] into learning phenomena and [[quantitative-research|quantitative efficacy]]: usability research focuses on the *interaction between person and system*, not on learning outcomes per se.
+
+Usability and UX research answer questions like: Can students figure out how to use this AI tutor? Is the AI tool confusing, frustrating, or error-prone? Does it fit the workflow of teachers or learners? These questions are a prerequisite for — and sometimes the hidden cause of — the [[learning-gains|learning gains]] (or lack thereof) measured in efficacy studies. An AI tool that is pedagogically sound but unusable will fail in practice; usability evidence explains why.
+
+## Core methods
+
+- **Think-aloud protocols.** Users verbalize their thoughts while performing tasks, revealing comprehension, confusion, and mental models in real time. [[code-anchor-multi-view-visualization|A study of multi-view code visualizations]] and [[learn-framework-responsible-genai-pbl-2026|the LEARN framework]] use think-aloud to understand how learners make sense of AI-assisted tools; [[feedback-futures-genai|feedback futures]] examines how learners process AI-generated feedback.
+- **User studies.** Structured task-based evaluations measure efficiency, error rates, satisfaction, and completion. [[rhaimi-productivemath-2025|ProductiveMath]] evaluates a generative-AI app's usability in supporting productive-failure teaching; [[supplynet-visual-exploratory-learning|SupplyNet]] runs a user study of a visual exploratory learning tool; [[llm-chatbots-cs-multiple-choice|LLM chatbots for CS multiple-choice]] assess interaction quality.
+- **Interviews and observation.** Qualitative usability interviews and observation capture user experience, preferences, and pain points. [[icub-humanoid-storytelling-llm-hri-2025|A usability study of a storytelling humanoid robot]] uses structured evaluation to ask whether parents would let the robot interact with a child; [[genai-architectural-design-studios|AI in design studios]] observes and interviews students using AI in authentic design work.
+- **Systematic usability evaluation.** Heuristic evaluation, cognitive walkthrough, and questionnaire-based UX measures (e.g., SUS) systematically assess usability against established criteria.
+
+## How usability research appears in the wiki
+
+- **AI learning tool evaluation.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]], and [[anvil-ai-educational-animations|educational animations]] are evaluated for usability and UX.
+- **Human–robot and [[conversational-ai|conversational AI]] interaction.** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] is an explicit usability study of [[llm]]-powered interaction; [[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] identifies usability and interaction quality as a recurring theme.
+- **Design and refinement.** Usability findings feed iterative design (see [[design-thinking]] and [[instructional-design]]), improving tools before or alongside efficacy testing.
+
+## Relationship to other research families
+
+Usability research shares data-collection methods with [[qualitative-research|qualitative research]] (interviews, observation, think-aloud) but differs in *aim*: qualitative research interprets meaning and experience to build understanding and theory, whereas usability research evaluates an artifact against usability/UX criteria. It also overlaps with [[ai-ed-evaluation]] (assessing whether a system works) and with [[educational-measurement|measurement]] (quantifying usability constructs). The wiki treats usability as a distinct but connected methodological strand — relevant to [[human-ai-collaboration]], [[student-experience]], and the design of effective AI learning tools. See [[research-methods-aied]] for how it fits the broader methods landscape.
+
+## Strengths and limitations
+
+- **Strengths:** directly identifies usability barriers that block adoption and learning; produces actionable design guidance; complements efficacy and qualitative research by explaining *why* a tool works or fails in use; relatively fast and cheap compared to large experiments.
+- **Limitations:** usability findings do not establish learning effects (a usable tool can still fail to teach); small samples and task-specific settings limit generalizability; self-report satisfaction can diverge from objective performance; researcher and task-design dependence.
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[qualitative-research]]
+- [[human-ai-collaboration]]
+- [[student-experience]]
+- [[ai-ed-evaluation]]
+- [[instructional-design]]
+- [[design-thinking]]
+- [[intelligent-tutoring]]
+
+## Connected Articles
+
+- [[icub-humanoid-storytelling-llm-hri-2025]] — A usability study of an LLM-powered storytelling humanoid
+- [[rhaimi-productivemath-2025]] — ProductiveMath: usability of a generative-AI app
+- [[supplynet-visual-exploratory-learning]] — SupplyNet user study
+- [[anvil-ai-educational-animations]] — Usability of AI-generated educational animations
+- [[code-anchor-multi-view-visualization]] — Think-aloud study of multi-view code visualizations
+- [[learn-framework-responsible-genai-pbl-2026]] — LEARN framework and think-aloud evaluation
+- [[feedback-futures-genai]] — How learners process AI-generated feedback
+- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS multiple-choice questions
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
 
 ---
 
@@ -13216,7 +13586,7 @@ Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., et al. (2026). [AcademiClaw: Wh
 
 ## [Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups](https://edtechdev.github.io/aied/articles/acceptance-ai-english-tools-2026/)
 
-> **Synthesis:** Wu et al. (2026) examined how learning motivation, self-efficacy, anxiety, and risk perception relate to acceptance of AI-assisted English language learning in a Chinese higher-education context, building on the Technology Acceptance Model (TAM). Drawing on survey data from 210 undergraduates (STEM = 91, Humanities = 119; English proficiency Low = 77, Intermediate = 103, High = 30), they found that learning motivation and self-efficacy were consistently and positively associated with acceptance-related indicators (perceived usefulness, perceived ease of use, behavioral intention, and satisfaction), while anxiety and risk perception showed more nuanced, generally weaker patterns that must be interpreted cautiously. The study provides a learner-centered account emphasizing psychological correlates and descriptive group-level differences rather than causal claims.
+> **Synthesis:** Wu et al. (2026) examined how learning motivation, self-efficacy, anxiety, and risk perception relate to acceptance of AI-assisted English language learning in a Chinese higher-education context, building on the [[technology-acceptance-model|Technology Acceptance Model]] (TAM). Drawing on survey data from 210 undergraduates (STEM = 91, Humanities = 119; English proficiency Low = 77, Intermediate = 103, High = 30), they found that learning motivation and self-efficacy were consistently and positively associated with acceptance-related indicators (perceived usefulness, perceived ease of use, behavioral intention, and satisfaction), while anxiety and risk perception showed more nuanced, generally weaker patterns that must be interpreted cautiously. The study provides a learner-centered account emphasizing psychological correlates and descriptive group-level differences rather than causal claims.
 
 ## Key Findings
 
@@ -21257,7 +21627,7 @@ Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical 
 
 ## Core Finding
 
-Faculty members and students hold supportive yet distinctly shaped views on AI ethics in higher education, with faculty focused on principles and institutional support gaps and students on learning benefits and uncertain ethical responsibility. Both groups pragmatically accept AI while aware of its risks, and both worry that overuse erodes cognitive skills — a shared concern that frames ethical AI integration not merely as technology adoption but as preserving students' cognitive and professional development.
+Faculty members and students hold supportive yet distinctly shaped views on AI ethics in higher education, with faculty focused on principles and institutional support gaps and students on learning benefits and uncertain ethical responsibility. Both groups pragmatically accept AI while aware of its risks, and both worry that overuse erodes cognitive skills — a shared concern that frames ethical AI integration not merely as [[technology-acceptance-model|technology adoption]] but as preserving students' cognitive and professional development.
 
 ## Faculty Perspectives
 
@@ -22720,7 +23090,7 @@ Elizondo-García, M. E., Hernández-De la Cerda, H., Benavides-García, I. G., C
 ## Study Design & Method
 
 - **Design:** Cross-sectional, self-report questionnaire using a five-point Likert scale (1 = strongly disagree to 5 = strongly agree); stratified sampling across master's and PhD levels for representativeness.
-- **Theoretical grounding:** Integrated the Technology Acceptance Model (TAM; Davis, 1989) and Bandura's Social Cognitive Theory (SCT, 1986) to frame how personal, behavioral, and environmental factors shape ChatGPT adoption and engagement.
+- **Theoretical grounding:** Integrated the [[technology-acceptance-model|Technology Acceptance Model]] (TAM; Davis, 1989) and Bandura's Social Cognitive Theory (SCT, 1986) to frame how personal, behavioral, and environmental factors shape ChatGPT adoption and engagement.
 - **Perception of ChatGPT** (adapted from Chan & Hu, 2023): three subscales — Knowledge of Generative AI Technology (KGAT, 6 items), Willingness to Use Generative AI Technologies (WUGAT, 8 items), and Concerns About Generative AI Technologies (CGAT, 4 items); Cronbach's α = 0.711.
 - **Online learning engagement** (adapted from Kuo et al., 2021): 14 items across behavioral (3), emotional (5), and cognitive (6) engagement dimensions; Cronbach's α = 0.921.
 - **Academic performance** (adapted from Yu et al., 2010): four items; Cronbach's α = 0.889.
@@ -30252,7 +30622,7 @@ Sungu, Lira & Duckworth (2026). [*Generative AI Can Harm Teaching*](https://ssrn
 
 ## [Generative AI in higher education: Ethical and behavioral factors influencing students' intentions to use ChatGPT](https://edtechdev.github.io/aied/articles/genai-chatgpt-adoption-ethics-students-2026/)
 
-> **Synthesis:** Rizun, Bordean, Nikiforova, Beleiu, and Revina (2026) investigate the behavioral and ethical considerations shaping students' adoption of ChatGPT for academic tasks. By integrating the Fairness, Accountability, Transparency & [[ethics]] in AI (FATE) framework with the Technology Acceptance Model (TAM), the Theory of Planned Behavior (TPB), and UTAUT, they developed and tested an integrated model with 17 constructs and 23 hypotheses using Partial Least Squares Structural Equation Modeling (PLS-SEM) on survey data from 344 students across four European countries (Estonia, Germany, Poland, Romania). The findings reveal that explainability and [[privacy]] are the strongest predictors of [[trust]] in ChatGPT, yet trust does not directly influence intention to use it — instead trust operates indirectly through perceived performance. Meanwhile, social influence from university professors and perceived behavioral control emerge as the strongest behavioral drivers of adoption, highlighting that ChatGPT must be both user-friendly and ethically sound in [[higher-ed]].
+> **Synthesis:** Rizun, Bordean, Nikiforova, Beleiu, and Revina (2026) investigate the behavioral and ethical considerations shaping students' adoption of ChatGPT for academic tasks. By integrating the Fairness, Accountability, Transparency & [[ethics]] in AI (FATE) framework with the [[technology-acceptance-model|Technology Acceptance Model]] (TAM), the Theory of Planned Behavior (TPB), and UTAUT, they developed and tested an integrated model with 17 constructs and 23 hypotheses using Partial Least Squares Structural Equation Modeling (PLS-SEM) on survey data from 344 students across four European countries (Estonia, Germany, Poland, Romania). The findings reveal that explainability and [[privacy]] are the strongest predictors of [[trust]] in ChatGPT, yet trust does not directly influence intention to use it — instead trust operates indirectly through perceived performance. Meanwhile, social influence from university professors and perceived behavioral control emerge as the strongest behavioral drivers of adoption, highlighting that ChatGPT must be both user-friendly and ethically sound in [[higher-ed]].
 
 ## Key Findings
 
@@ -31159,7 +31529,7 @@ Tali-Otmani, F. (2026). [*Generative artificial intelligence and the marginaliza
 
 ## [Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education](https://edtechdev.github.io/aied/articles/genai-motivation-engagement-2026/)
 
-> **Synthesis:** Ahmed and Sultan (2026) investigated how perceived autonomy, competence, relatedness, expectancy, and value influence autonomy support for AI use, autonomous motivation, and ultimately student motivation and engagement in GenAI-supported learning. Integrating Self-Determination Theory, Expectancy-Value Theory, and the Technology Acceptance Model, and analyzing data from 297 undergraduates and postgraduates at King Saud University (Saudi Arabia) with PLS-SEM, they found that autonomy support and autonomous motivation significantly increased student motivation, which emerged as the strongest predictor of student engagement. Perceived expectancy showed no significant influence, and perceived competence did not significantly affect autonomy support.
+> **Synthesis:** Ahmed and Sultan (2026) investigated how perceived autonomy, competence, relatedness, expectancy, and value influence autonomy support for AI use, autonomous motivation, and ultimately student motivation and engagement in GenAI-supported learning. Integrating Self-Determination Theory, Expectancy-Value Theory, and the [[technology-acceptance-model|Technology Acceptance Model]], and analyzing data from 297 undergraduates and postgraduates at King Saud University (Saudi Arabia) with PLS-SEM, they found that autonomy support and autonomous motivation significantly increased student motivation, which emerged as the strongest predictor of student engagement. Perceived expectancy showed no significant influence, and perceived competence did not significantly affect autonomy support.
 
 ## Key Findings
 
@@ -33756,7 +34126,7 @@ Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite
 - **Positive confirmation of GenAI collaboration** significantly influences students' intentions to collaborate (β = 0.587, p < .001), which in turn positively impacts their behavior (β = 0.513, p < .001); the model explains 50.2% of the variance in performance expectation, 55.3% in confirmation, 47.2% in collaboration intention, and 31.2% in collaboration behavior.
 - **GenAI distrust negatively moderates** two key links: (1) the relationship between effort expectation and performance expectation (β = −0.169, p < .01), and (2) the relationship between expectation confirmation and intentions to collaborate with GenAI (β = −0.099, p < .05); it did not significantly moderate the other three hypothesized paths.
 - Perceived drawbacks center on the **risk of plagiarism (72.2% agree or strongly agree)**, **inaccuracy of responses (70.6%)**, and **flawed referencing (58.0%)**, while **time saving (89.0%)**, user-friendliness (79.2%), and enhanced productivity (76.7%) dominate perceived benefits — evidence that benefit and drawback perceptions coexist rather than exclude each other.
-- The work **extends the theoretical boundaries of ECT** into the human-AI collaboration context and clarifies the distinct role of distrust in educational technology adoption.
+- The work **extends the theoretical boundaries of ECT** into the human-AI collaboration context and clarifies the distinct role of distrust in educational [[technology-acceptance-model|technology adoption]].
 
 ## Study Design & Method
 
@@ -45488,7 +45858,7 @@ Raza, S. H., & Farooq, A. (2025). [*Review of Artificial Intelligence in Educati
 
 ## [Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence](https://edtechdev.github.io/aied/articles/reconceptualizing-community-inquiry-generative-ai/)
 
-> **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[higher-ed|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
+> **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[community-of-inquiry|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
 
 ## Key Findings
 
@@ -45522,6 +45892,7 @@ A two-axis heuristic (degree of GenAI involvement; strength of human accountabil
 CoI remains theoretically valuable but its operationalizations need refinement: existing coding schemes and surveys risk over-attributing presence based on surface features of text. The paper sets a research agenda of refining CoI instruments for GenAI-mediated environments, testing the configuration-based hypothesis across real human-GenAI assemblages, and examining simulation-based training mechanisms. It is a conceptual analysis rather than an empirical study, so its claims are theoretically grounded propositions for future investigation, developed mainly with higher-education, text-based inquiry contexts in mind.
 
 ## Connected Concepts
+- [[community-of-inquiry]] — Community of Inquiry
 
 - [[generative-ai]]
 - [[llm]]
@@ -45532,6 +45903,7 @@ CoI remains theoretically valuable but its operationalizations need refinement: 
 - [[metacognition]]
 - [[online-teaching-and-learning]]
 - [[human-ai-collaboration]]
+- [[theory-development-aied]]
 
 ## Connected Articles
 
