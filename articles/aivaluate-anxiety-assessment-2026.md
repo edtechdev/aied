@@ -1,7 +1,7 @@
 ---
 title: "Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-08-24T17:20:00-04:00"
 type: article
 tags: [assessment, conversational-ai, pedagogical-agent, affective-computing, well-being, generative-ai, llm]
 sources: ['raw/papers/aivaluate-anxiety-assessment-2026.md']
@@ -60,7 +60,6 @@ This article adds an evidence-based, within-subjects study of an emotionally int
 - [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
 - [[roe-assessment-twins-2026]] — Assessment twins: An approach for strengthening assessment validity in the age of generative AI
-- [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]] — The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning
 
 ## Citation
 
