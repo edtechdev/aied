@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-08-24T02:20:00-04:00"
 type: concept
 tags: [ai-education, educational-measurement, efficacy-study, rct, benchmark, methodology, evaluation, higher-ed]
 confidence: high
@@ -29,7 +29,7 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 
 ### Qualitative methods
 
-Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[ai-tutor-safety-harms|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence.
+Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[ai-tutor-safety-harms|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. See the dedicated [[qualitative-research]] concept page for the full treatment of qualitative approaches — thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups — each with wiki exemplars.
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, autonomy, and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.
@@ -97,6 +97,45 @@ Method choice follows the research question. Causal-effect questions favor exper
 
 Equally important is reading any single study with awareness of the **cross-cutting limitations** that affect AIED research as a whole — methodological constraints, the fast pace of AI change versus slow publication, reproducibility and FAIR-practice gaps, reliance on proprietary tools, and weak or uncritical theory use. See [[limitations-in-aied-research]].
 
+## Contrasting the major research traditions
+
+The three major research traditions — [[quantitative-research|quantitative]], [[qualitative-research|qualitative]], and experimental — differ fundamentally in what they can claim, what they sacrifice, and when each is appropriate. Understanding these contrasts is essential for both designing and reading AI-in-education research.
+
+### What each tradition establishes
+
+| Dimension | Quantitative / survey | Qualitative | Experimental |
+|---|---|---|---|
+| Core question | How much? How related? | What does it mean? How is it experienced? | Does X cause Y? |
+| Primary data | Numbers, scales, self-report | Words, observations, artifacts | Outcome measures across assigned conditions |
+| Inference target | Patterns, correlations, mediation | Meaning, mechanisms, categories | Causal effects |
+| Internal validity | Weak (correlational) | Weak (no control) | Strong (random assignment) |
+| External validity | Strong (large samples) | Limited (small, context-bound) | Moderate (controlled conditions) |
+| Ecological validity | Moderate | High | Lower (artificial conditions) |
+
+- **[[quantitative-research|Quantitative research]]** measures and models relationships among variables — surveys, SEM/PLS-SEM, measurement, longitudinal tracking. It provides breadth, precision, and generalizability but cannot establish causation from cross-sectional data and inherits [[educational-measurement|measurement]] limitations (including self-report bias).
+- **[[qualitative-research|Qualitative research]]** interprets meaning and experience — interviews, focus groups, thematic analysis, grounded theory, phenomenography, discourse analysis, observation/ethnography, case studies. It provides depth, mechanism, and theory-building (see [[theory-development-aied]]) but limited generalizability and weak causal support.
+- **Experimental and quasi-experimental designs** (see [[rct]]) estimate causal effects via random assignment or matched comparison — the gold standard for internal validity, at the cost of cost, speed, and ecological validity.
+
+### The measurement and mixed-methods links
+
+Quantitative work depends on [[educational-measurement]] — reliable, valid instruments for the constructs being studied. Qualitative work reveals the mechanisms and meanings those instruments may miss. **Experimental** work estimates whether an intervention *causes* the outcomes the instruments measure. The three are complementary layers: instruments quantify constructs, experiments establish causality, and qualitative work explains the *how and why* behind the numbers.
+
+[[mixed-methods-research|Mixed-methods designs]] intentionally combine quantitative and qualitative strands so their strengths offset each other's weaknesses — quantitative breadth plus qualitative depth, with triangulation increasing confidence.
+
+### Usability and HCI research
+
+A distinct methodological strand — [[usability-research|usability and HCI research]] — evaluates how users interact with an AI system: its usability, usefulness, learnability, and user experience, using think-aloud protocols, structured user studies, interviews, and observation. It is the closest to [[ai-ed-evaluation]] and answers a *prerequisite* question: even a pedagogically sound tool fails if it is unusable. Usability research shares data-collection methods with qualitative research but aims at evaluating an artifact rather than interpreting meaning.
+
+### Benefits and limitations across traditions
+
+- **Quantitative/survey:** benefits — large samples, broad coverage, tests complex mediators, efficient. Limitations — no causation, self-report bias, convenience sampling, instruments may measure the wrong construct.
+- **Qualitative:** benefits — deep insight, surfaces unexpected phenomena and harms, essential for theory-building, centers under-represented voices. Limitations — limited generalizability, researcher dependence, small samples, weak causal support, hard to synthesize.
+- **Experimental:** benefits — strongest causal inference, clean outcome measurement, effect-size estimation. Limitations — costly/slow, artificial conditions, fast-changing AI dates results, underpowered small samples, ethical constraints.
+- **Mixed-methods:** benefits — triangulation, breadth + depth, explains unexpected results. Limitations — complex, resource-intensive, integration can be shallow, inherits each strand's weaknesses.
+- **Usability/HCI:** benefits — identifies adoption barriers, actionable design guidance, fast and cheap. Limitations — does not establish learning effects, small samples, self-report satisfaction can mislead.
+
+In practice, AI-in-education research rarely falls cleanly into one tradition. The strongest evidence triangulates: a computational or usability evaluation establishes that a system works, an experiment establishes that it causes learning, quantitative instruments measure the constructs, and qualitative work reveals the mechanisms and meanings — together answering both *whether* a tool helps learning and *how and why*.
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -111,6 +150,10 @@ Equally important is reading any single study with awareness of the **cross-cutt
 - [[limitations-in-aied-research]]
 - [[learning-gains]]
 - [[theory-development-aied]] — Theory Development in AI in Education
+- [[qualitative-research]] — Qualitative Research
+- [[quantitative-research]] — Quantitative Research
+- [[mixed-methods-research]] — Mixed-Methods Research
+- [[usability-research]] — Usability Research
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring

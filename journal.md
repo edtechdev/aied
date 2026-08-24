@@ -1,6 +1,24 @@
 # Journal
 
-**Last updated:** 2026-08-23 | **Total entries:** 1027
+**Last updated:** 2026-08-24 | **Total entries:** 1031
+
+## 2026-08-24
+
+- ● [[usability-research]] — 
+  Usability Research
+  #usability-research #hci #user-experience #user-study #think-aloud #educational-software-evaluation
+
+- ● [[mixed-methods-research]] — 
+  Mixed-Methods Research
+  #mixed-methods-research #research-methods-aied #qualitative-research #quantitative-research #triangulation
+
+- ● [[quantitative-research]] — 
+  Quantitative Research
+  #quantitative-research #research-methods-aied #educational-measurement #survey-research #experimental-research
+
+- ● [[qualitative-research]] — 
+  Qualitative Research
+  #qualitative-research #research-methods-aied #thematic-analysis #grounded-theory #interviews #discourse-analysis #case-study #phenomenography
 
 ## 2026-08-23
 
@@ -719,8 +737,8 @@
   #global-south #equity-in-ai-education #generative-ai #higher-ed #k-12 #culturally-relevant-pedagogy #ai-literacy
 
 - ● [[technology-acceptance-model]] — 
-  Technology Acceptance Model
-  #technology-acceptance-model #generative-ai #student-experience #higher-ed #ai-literacy #research-methods-aied #adoption
+  Technology Adoption Models
+  #technology-acceptance-model #technology-adoption #utaut #generative-ai #student-experience #higher-ed #ai-literacy #research-methods-aied #adoption
 
 - ◐ [[tam-critical-use-genai-engineering-2026]] — raw/papers/10.1016_j.caeai.2026.100618.md
   Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use
@@ -2668,7 +2686,7 @@
 
 - ● [[educational-measurement]] — 
   Educational Measurement
-  #item-response-theory #assessment-validity #educational-nlp #learning-analytics #psychometrically-aware-ai #knowledge-tracing
+  #item-response-theory #assessment-validity #educational-nlp #learning-analytics #psychometrically-aware-ai #knowledge-tracing #ai-literacy
 
 - ◐ [[epistemic-emotions-collaborative-problem-solving]] — raw/papers/2607.23317.md
   Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving
