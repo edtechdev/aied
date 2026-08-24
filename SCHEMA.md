@@ -11,7 +11,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - When updating a page, always bump the `updated` date+time (see Frontmatter above)
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md` (local-only, gitignored like `raw/` — not committed; persists on the local repo for scan-complete anchors)
-- **Two page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper.
+- **Three page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers, and `faqs/<slug>.md` for curated question-and-answer pages. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper; a FAQ answers a specific question and connects to concepts/articles via `connected_faqs` (below).
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
@@ -27,12 +27,19 @@ frontmatter are ignored at build time, so keep to this list.
 title: Page Title
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
-type: article | concept
+type: article | concept | faq
 tags: [from taxonomy below]
 sources: [raw/papers/source-name.md]   # articles only
+connected_faqs: [faq-slug-1, faq-slug-2]  # concepts + articles only (optional)
 confidence: high | medium | low        # how well-supported the claims are
 ---
 ```
+
+`connected_faqs` (concepts and articles only, optional) lists FAQ slugs the page should link to in a
+**Connected FAQs** section at the bottom of the page. The section renders only when at least one
+listed FAQ exists. FAQs are wiki-linked from concept/article narratives and from other FAQs like any
+other page (inline `[[wikilink]]`), and a FAQ's own narrative can link to concepts, articles, and
+other FAQs.
 
 **`created` / `updated` MUST store full quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates. Reasons:
 - The right sidebar ("Recently Added Articles" / "Recently Updated Concepts") and RSS sort by these fields via **string comparison** — date-only values tie within a day and fall back to alphabetical order. Full timestamps give correct reverse-chronological ordering.
@@ -81,6 +88,27 @@ Theme descriptions with [[wikilinks]] to related articles
 - [[article-slug]]
 ```
 (No citation section — concepts synthesize multiple sources.)
+
+### FAQ page body structure (`faqs/<slug>.md`)
+```
+---
+title: "Question being answered?"
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+type: faq
+tags: [relevant tags]
+---
+
+# Question being answered?
+
+Narrative answer with [[wikilinks]] to concepts, articles, and other FAQs
+(mirror the aggressive inline-link convention of articles/concepts).
+```
+FAQ pages have **no** Connected Concepts/Connected Articles/Citation sections and **no** `sources`
+field (they are curated answers, not paper summaries). They are indexed in `llms.txt`/`llms-full.txt`,
+appear on the journal page (❓ badge), and are listed in concept/article "Connected FAQs" sections
+via `connected_faqs`. Numbered lists inside a FAQ must be written as ONE contiguous block (no blank
+lines between items) so they don't render as repeated `1.` (see the list-formatting HARD GATE).
 
 ### raw/ Frontmatter
 
@@ -163,8 +191,9 @@ When new information conflicts with existing content:
 4. Flag for user review in the lint report
 
 ## Journal (`journal.md`)
-- Reverse chronological index of all ingested articles/papers.
-- Automatically regenerated: sorted by `created` date in article frontmatter, newest first.
-- Shows: confidence icon (●/◐/○), wikilink to article page, source reference, full title, and tags.
+- Reverse chronological index of all ingested articles/papers/concepts/FAQs.
+- Automatically regenerated: sorted by `created` date in frontmatter, newest first.
+- Shows: type badge (📄 article / 🏷️ concept / ❓ FAQ), wikilink to page, source reference, full title, and tags.
 - Excludes low-confidence stubs with no sources.
 - Regenerate after every ingestion batch to keep current.
+- FAQs appear with a ❓ badge; concepts (that aren't low-confidence stubs) appear with a 🏷️ badge.

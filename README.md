@@ -25,12 +25,15 @@ The site is built with **Astro 7** (static site generator) and deployed via GitH
 wiki/
 ├── articles/          # Article pages (one markdown file per paper)
 ├── concepts/          # Synthesized concept pages (topic overviews)
+├── faqs/              # Curated FAQ pages (question-and-answer)
 ├── raw/
 │   └── papers/        # Raw source text (arXiv, PDFs, RSS abstracts) — gitignored, not committed
 ├── src/
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer, Pico CSS + custom styles)
-│   ├── pages/         # Astro pages: index, journal, search, ai, rss, articles/[slug], concepts/[slug]
-│   └── content.config.ts  # Content-collection schema (articles, concepts) — required `sources` field
+│   ├── lib/jsonld.ts  # JSON-LD schema.org generation helpers
+│   ├── components/    # JsonLd.astro, SourceButtons.astro
+│   ├── pages/         # Astro pages: index, journal, search, faq, ai, rss, articles/[slug], concepts/[slug], faqs/[slug]
+│   └── content.config.ts  # Content-collection schema (articles, concepts, faqs) — required `sources` field
 ├── public/
 │   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
 │   ├── llms-full.txt  # Full text of every page
@@ -67,18 +70,21 @@ The built site lands in `dist/` and is deployed to GitHub Pages via the GitHub A
 
 - **Article pages** — frontmatter (title, created/updated with full quoted date+time timestamps, type, tags, **sources**, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title. Every article frontmatter must include a `sources:` field (required by the Astro 7 content schema) pointing to the raw source file.
 - **Concept pages** — frontmatter → synthesis → research themes with wikilinks to related articles → Connected Concepts → Connected Articles
-- All inter-page links use `[[wikilink]]` syntax which the Astro templates render as hyperlinks
+- **FAQ pages** (`faqs/`) — frontmatter → question heading → narrative answer with wikilinks. Curated answers to common questions; no sources/citation. Each FAQ is searchable, listed on the journal page (❓ badge), included in llms files, and can be linked to from concept/article pages via a **Connected FAQs** section (frontmatter `connected_faqs`).
+- All inter-page links use `[[wikilink]]` syntax which the Astro templates render as hyperlinks (FAQs included — a FAQ's narrative can link to concepts, articles, and other FAQs)
 - Tags are comma-delimited in frontmatter and rendered as plain tag chips in the page header (not clickable links)
 - Styling: **Pico CSS** (v1, loaded via CDN in `BaseLayout.astro`) plus a small block of custom CSS (accent color, header/nav/footer) — no build-time CSS framework dependency
+- **Structured data:** every page emits schema.org **JSON-LD** (a linked `@graph` with WebSite + Organization + WebPage + BreadcrumbList, plus per-type entities: articles → `Article` about a `ScholarlyArticle`; concepts → `DefinedTerm` in a `DefinedTermSet` + `Article`; FAQs → `FAQPage`). Generated automatically from frontmatter/body by `src/lib/jsonld.ts` + `src/components/JsonLd.astro` — see `docs/json-ld.md`.
 
 ## Agent-Ready Features
 
 Beyond the human-facing site, the wiki is structured for AI agents and crawlers:
 
-- **`llms.txt`** — complete catalog (every article and concept with one-line descriptions)
+- **`llms.txt`** — complete catalog (every article, concept, and FAQ with one-line descriptions)
 - **`llms-full.txt`** — full text of every page
 - **`robots.txt`** — search-engine indexing plus Content-Signal (`ai-train`, `ai-input`) and Schemamap entries
 - **`schema/`** — Schema.org JSON-LD metadata
+- **JSON-LD structured data** — a linked schema.org `@graph` on every page (see `docs/json-ld.md`)
 - **RSS + sitemap** — `rss.xml` and `sitemap-index.xml` (base `/aied`)
 - **Pagefind** — full-text search, rebuilt on every `npm run build`
 
