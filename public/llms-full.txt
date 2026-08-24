@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 892 articles, and 4 FAQs.
+> Complete text of 166 concepts, 893 articles, and 4 FAQs.
 
 # Concepts
 
@@ -303,6 +303,9 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[learning-context-framework-context-aware-ai-education-2026]]
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
+- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[simon-student-engagement-adaptive-learning-2026]] — Systematic review of student engagement in adaptive learning platforms
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
@@ -397,7 +400,6 @@ Rooted in Knowles's andragogical model, adult learning assumes learners are self
 
 - **Adult, distance, and lifelong learning contexts.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Rienties et al.]] show how the Open University designed and evaluated an embedded AI assistant (AIDA) through six design-based-research studies; students using it spent twice as long on the course, though the study warns that technical capability must be matched by [[governance]] and organizational readiness. [[ai-lifelong-learning-policy|Theodora and Tselios]] frame AI's dual role in adult and [[lifelong-learning]] as both an enabler of personalized, scalable education and a source of equity and governance risk, calling for inclusive, human-centered policy. [[community-centered-ai-education-adults|A Midwestern case study]] co-designed an AI-literacy program for 54 adults in an underserved community, finding that equity-oriented adult AI education must address foundational [[ai-literacy|digital literacy]] gaps, build [[trust]] around data privacy, and connect to lived experience. [[sovereign-hive-titl-further-education-2026|Herron's "Sovereign Hive" / Tutor-in-the-Loop framework]] treats GenAI equity in Further Education as atmospheric regulation rather than mere tool access, positioning the educator as the locus of relational and cognitive care for marginalized and [[neurodiversity|neurodivergent]] adult learners.
 
-- **Technical and structural factors in adult learning platforms.** [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions|The DigIQ framework]] shows that quality ratings for digital interactions are higher when learning intentions drive activity and technology transforms rather than replicates non-digital learning. [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|Ogunsakin et al.]] analyzed 226,000 user reviews across six MOOC and online platforms, finding that technical instability, limited offline functionality, unclear pricing, and regional payment restrictions depress engagement, retention, and inclusivity — reinforcing that adult learners in low-resource settings need accessible, reliable infrastructure.
 
 ## Connections to related concepts
 
@@ -409,7 +411,6 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
 - **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
-- **Match capability with governance and reliability.** Technical capability must be matched by [[governance]] and organizational readiness ([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), and stable, reliable infrastructure is a precondition for engagement and retention ([[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|technical factors]]).
 - **Ground AI in learning science and andragogy, and prefer deep personalization.** Apply andragogical theory and connect content to real-world problems; favor deep personalization (task sequencing, difficulty calibration) over surface-level adaptation.
 - **Make transparency and community features first-class.** Data-practice transparency and social/community features are among the most neglected yet most valued dimensions of adult AI tools.
 - **Treat technical and structural reliability as a precondition.** Engagement depends as much on stable, inclusive infrastructure as on pedagogical quality — unstable or exclusionary platforms undermine otherwise sound design.
@@ -447,8 +448,6 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
 - [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
-- [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]] — A Framework for Characterising and Capturing the Quality of Digital Interactions
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: How Technical and Structural Factors Shape Learner Engagement, Retention and Inclusivity
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
 - [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning
@@ -946,6 +945,8 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
 ## Connected Articles
+- [[learning-context-framework-context-aware-ai-education-2026]]
+- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
 - [[raza-farooq-aied-review-2020-2025]] — A comprehensive review of AIED research
 - [[liang-genai-systematic-review-human-ai-2026]] — GenAI in education: systematic review
@@ -3877,7 +3878,7 @@ Distributed cognition provides both a design lens and an evaluation lens. For de
 
 ## [Edtech Platform](https://edtechdev.github.io/aied/concepts/edtech-platform/)
 
-> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]^[[oatutor-open-source-adaptive-tutor-2023]]
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[oatutor-open-source-adaptive-tutor-2023]]
 
 The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
 
@@ -3897,10 +3898,6 @@ Platforms in AI in education perform several distinct functions:
 
 A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.^[[access-not-enough-ai-tutoring-2026]]
 
-### Platform design and structure shape engagement, retention, and inclusivity
-
-Analysis of 226,000+ user reviews across six major platforms (Coursera, edX, Udemy, Alison, uLesson, Khan Academy) found that **technical instability, limited offline functionality, and unclear pricing structures** negatively affect learner engagement and retention, while regional payment restrictions disproportionately disadvantage learners in low-resource settings. Platform architecture is therefore an equity and engagement variable, not just a technical one.^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
-
 ### The platform model matters: open vs. proprietary
 
 - **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
@@ -3917,7 +3914,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 ## Implications for design and research
 
 1. **Design for take-up, not just capability.** A platform's effectiveness depends on whether learners actually engage with it; support structures, onboarding, and scheduling matter as much as the AI itself.^[[access-not-enough-ai-tutoring-2026]]
-2. **Treat platform structure as an equity lever.** Technical instability, offline access, pricing, and regional payment restrictions all affect who benefits — platform design must be examined through an [[equity-in-ai-education]] lens.^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
+2. **Treat platform structure as an equity lever.** Who benefits from a platform depends on access, infrastructure, and engagement constraints — platform design must be examined through an [[equity-in-ai-education]] lens.^[[access-not-enough-ai-tutoring-2026]]
 3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.^[[oatutor-open-source-adaptive-tutor-2023]]
 4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.^[[ai-lms-middle-school-longitudinal]]
 
@@ -3952,7 +3949,6 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 
 - [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Technical and structural platform factors shape engagement, retention, and inclusivity
 - [[oatutor-open-source-adaptive-tutor-2023]] — An open-source adaptive tutoring platform for replicable research
 - [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
 - [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support
@@ -4936,6 +4932,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[higher-ed]]
 
 ## Connected Articles
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
@@ -5039,6 +5036,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation
@@ -6544,6 +6542,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[pedagogical-safety]]
 
 ## Connected Articles
+- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -8268,7 +8267,6 @@ The rise of generative AI lands directly in this context. Online learners alread
 
 Online teaching and learning takes several related forms that share the medium but differ in reach and structure:
 
-- **Massive Open Online Courses (MOOC).** Large-scale courses designed for open, unlimited participation, typically delivered through a platform to thousands of learners. MOOCs excel at reach and scalability but have historically struggled to [[personalized-learning|personalize]] instruction. Generative AI and [[agentic-ai|agentic AI]] systems (see [[mooc-to-maic|MAIC]]) are being explored as a way to combine MOOC scalability with [[adaptive-learning|adaptive]], personalized support, shifting from "one video for N students" toward "N agents for 1 student." MOOC learners' [[academic-integrity|academic integrity]] and [[cognitive-offloading|cognitive offloading]] risks are heightened by the self-paced, often unproctored nature of the medium. Technical and structural factors — instability, limited offline functionality, unclear pricing, regional payment restrictions — also shape [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|engagement, retention, and inclusivity]] across online platforms.
 - **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[instructional-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions.
 - **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient.
 
@@ -8370,7 +8368,6 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
 - [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]] — Enhancing online learning outcomes through virtual companion AI
 - [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: Learner engagement, retention, inclusivity
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
@@ -8938,6 +8935,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 
 ## Connected Articles
+- [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[deeptutor]] — Agent-native personalization substrate for tutoring
@@ -10638,6 +10636,8 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[llm]]
 
 ## Connected Articles
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
+- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
@@ -11665,6 +11665,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[higher-ed]]
 - [[ai-education]]
 ## Connected Articles
+- [[learning-context-framework-context-aware-ai-education-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
@@ -12712,38 +12713,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 ---
 
 # Articles
-
-## [A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education](https://edtechdev.github.io/aied/articles/a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions/)
-
-> **Synthesis:** This study introduces a Digital Interactions Quality (DigIQ) framework and scale as a protocol to observe and index the quality of interactions and experiences involving digital technologies with children in Early Childhood Education and Care (ECEC) settings. Observations in 50 pre-school classrooms validated the framework, revealing that quality ratings were higher when learning intentions drove activity and digital technologies enhanced or transformed the learning experience rather than merely replicating non-digital activities.
-
-## Key Findings
-
-- **A new observation protocol:** The DigIQ framework and scale provide a structured way to observe and index the quality of digital interactions and experiences with children in Early Childhood Education and Care settings.
-- **Learning intentions drive quality:** Quality ratings were higher when learning intentions drove activity.
-- **Enhancement over replication:** Digital technologies scored higher when they enhanced or transformed the learning experience rather than merely replicating non-digital activities — a contribution to [[ai-education|technology quality]] and [[edtech-platform|edtech]] evaluation in [[k-12|early childhood education]].
-
-## Connected Concepts
-
-- [[rag]]
-- [[intelligent-tutoring]]
-- [[adult-learning]]
-- [[socratic-method]]
-- [[math-education]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[xai-education-framework]]
-- [[tech-enhanced-tabletop-cybersecurity-education]]
-- [[precision-education-student-digital-twins-2026]]
-
-## Citation
-Howard, S. J., Lewis, K., Day, N., Peach, L., & Kervin, L. K. (2026). [*A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education*](https://doi.org/10.1111/bjet.70063). *British Journal of Educational Technology.*
-
----
 
 ## [Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains](https://edtechdev.github.io/aied/articles/a4l-analytics-pipeline/)
 
@@ -21517,6 +21486,47 @@ Ba, S., Shi, X., Wu, S., & Lu, G. (2026). [*Artificial intelligence agents in co
 
 ---
 
+## [A systematic mapping review at the intersection of artificial intelligence and self-regulated learning](https://edtechdev.github.io/aied/articles/banihashem-ai-srl-systematic-mapping-review-2025/)
+
+> **Synthesis:** Banihashem, Bond, Bergdahl, Khosravi, and Noroozi systematically map the intersection of AI and [[self-regulated-learning|self-regulated learning (SRL)]], reviewing 84 studies via a systematic mapping review across Web of Science, Scopus, IEEE Xplore, ACM Digital, EBSCOHost, Google Scholar, and OpenAlex. Using the "Who–What–How–Why" framework (stakeholders, theory, methods, objectives), they find AI–SRL research predominantly targets [[higher-ed|higher education]] students with minimal attention to primary education and educators. AI is implemented primarily as an intervention — through adaptive systems and [[personalized-learning|personalization]], prediction and profiling, [[intelligent-tutoring|intelligent tutoring systems]], and assessment and evaluation. The direct impact of AI on SRL focuses mainly on the [[metacognition|metacognitive]] and cognitive aspects, while the **motivational aspect of SRL remains underexplored**, and over one-third of studies did not specify an SRL theory.
+
+## Key Findings
+
+- **84 studies mapped across six years.** The review covers AI–SRL research growth over roughly 2019–2025, examining study levels, participant demographics, and geographical distribution.
+- **Higher-ed dominance, primary-ed gap.** AI–SRL research predominantly focuses on higher education students; there is minimal attention to primary education and to educators as stakeholders.
+- **AI as intervention, in four main forms.** AI is primarily implemented as an intervention to support students' SRL and learning processes: (1) adaptive systems and personalization, (2) prediction and profiling, (3) [[intelligent-tutoring|intelligent tutoring systems]], and (4) [[assessment|assessment and evaluation]].
+- **Metacognitive and cognitive focus, motivational gap.** The direct impact of AI on SRL is concentrated on the metacognitive and cognitive aspects, while the **motivational aspect of SRL remains underexplored** — a key research gap.
+- **Theory often unspecified.** Over one-third of the AI–SRL studies did not specify an SRL theory, pointing to a need for stronger theoretical grounding.
+- **A holistic research-and-practice agenda.** The review identifies both research and practical gaps in the AI–SRL nexus to guide future work.
+
+## Implications
+
+This mapping review is a central reference for the wiki's [[self-regulated-learning]] thread in the AI era. It clarifies who AI–SRL research targets (mostly higher-ed students, not younger learners or educators), how AI is deployed to support SRL (as adaptive/personalized systems, predictive tools, tutors, and assessment), and where the gaps lie — most notably the **underexplored motivational dimension** and the frequent lack of explicit SRL theory. For designers and researchers, it argues for building AI support that addresses not just the cognitive and [[metacognition|metacognitive]] [[regulation]] of learning but also learners' [[motivation]], [[self-efficacy]], and [[student-engagement|engagement]], and for grounding interventions in explicit SRL frameworks. It connects directly to [[adaptive-learning]], [[feedback]], and [[ai-education]] concepts.
+
+## Connected Concepts
+
+- [[self-regulated-learning]] — the core construct under study
+- [[ai-education]] — the umbrella field
+- [[higher-ed]] — the dominant research context
+- [[adaptive-learning]] — a primary AI implementation form
+- [[intelligent-tutoring]] — AI as tutoring to support SRL
+- [[metacognition]] — the SRL aspect most studied
+- [[motivation]] — the underexplored SRL aspect
+- [[feedback]] — AI-delivered feedback supporting SRL
+- [[student-modeling]] — prediction and profiling of learners
+- [[assessment]] — AI-based assessment and evaluation
+
+## Connected Articles
+
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Adaptive learning technology, differentiated feedback, and SRL phases
+- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared vs. self-regulated learning patterns
+
+## Citation
+
+Banihashem, S. K., Bond, M., Bergdahl, N., Khosravi, H., & Noroozi, O. (2025). [*A systematic mapping review at the intersection of artificial intelligence and self-regulated learning*](https://doi.org/10.1186/s41239-025-00548-8). *International Journal of Educational Technology in Higher Education*, 22, 50.
+
+---
+
 ## [Anticipatory governance and leadership for AI implementation in higher education: A scoping review](https://edtechdev.github.io/aied/articles/baroudi-anticipatory-governance-ai-higher-ed-2026/)
 
 > **Synthesis:** This scoping review of 19 sources (2020–2025) examines how [[governance|anticipatory governance]] and [[administrator|leadership]] are conceptualized and operationalized for [[generative-ai|AI]] implementation in [[higher-ed|higher education]]. It finds that institutions must shift from reactive to proactive, foresight-driven leadership emphasizing stakeholder [[student-engagement|engagement]], data literacy, [[collaborative-learning|collaboration]], and inclusive policy frameworks. Empowering and distributive leadership styles increase AI adoption, yet formal senior AI roles remain rare. A persistent theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure, especially in the [[global-south|Global South]]. The review identifies a lack of non-Western research and an absence of longitudinal or causal evidence as key gaps.
@@ -22192,36 +22202,6 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 ## Citation
 
 Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). [*Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World*](https://doi.org/10.3390/educsci15111537). *Education Sciences*, 15(11), 1537. DOI 10.3390/educsci15111537.
-
----
-
-## [Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms](https://edtechdev.github.io/aied/articles/beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten/)
-
-> **Synthesis:** This study examines the critical influence of technical and structural factors on learner Engagement, Retention and Inclusivity (ERI) in MOOCs and other large-scale [[online-teaching-and-learning|online learning platforms]]. Using a novel mixed-methods 2TS method, analysis of over 226,000 user reviews from six platforms (Coursera, edX, Udemy, Alison, uLesson, Khan Academy) found that technical instability, limited offline functionalities and unclear pricing structures negatively impact [[student-engagement|learner engagement]]. Regional payment restrictions disproportionately disadvantage learners in [[global-south|low-resource settings]].
-
-## Key Findings
-
-This study examines the critical influence of technical and structural factors on learner Engagement, Retention and Inclusivity (ERI) in MOOCs and other large-scale [[online-teaching-and-learning|online learning platforms]]. Using a novel mixed-methods 2TS method, analysis of over 226,000 user reviews from six platforms (Coursera, edX, Udemy, Alison, uLesson, Khan Academy) found that technical instability, limited offline functionalities and unclear pricing structures negatively impact [[student-engagement|learner engagement]]. Regional payment restrictions disproportionately disadvantage learners in [[global-south|low-resource settings]].
-
-## Connected Concepts
-
-- [[motivation]]
-- [[learning-analytics]]
-- [[rag]]
-- [[intelligent-tutoring]]
-- [[adult-learning]]
-- [[socratic-method]]
-- [[math-education]]
-- [[higher-ed]]
-
-## Connected Articles
-- [[learning-by-chatting-genai-impact]]
-- [[genai-meta-analysis-programming-learning]]
-- [[ai-in-the-wild-college]]
-- [[agents-that-teach-incidental-learning]]
-
-## Citation
-Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). *British Journal of Educational Technology.*
 
 ---
 
@@ -39256,6 +39236,45 @@ Mittal, S., Blodgett, S. L., & Liao, Q. V. (2026). [Learning by Chatting? Invest
 
 ---
 
+## [Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education](https://edtechdev.github.io/aied/articles/learning-context-framework-context-aware-ai-education-2026/)
+
+> **Synthesis:** Liu, Bradford, Hatchett, Diaz, Luzi, Wang, Basu Mallick, and Baraniuk (Rice University, OpenStax, SafeInsights, Adobe Research) introduce a unified **Learning Context (LC)** framework to move AI-based education from "context-blind mimicry" toward a principled, holistic understanding of the learner. This white paper provides a multidisciplinary roadmap for making teaching and learning systems context-aware by encoding **cognitive, [[affective-computing|affective]], and [[sociocultural-learning|sociocultural]] factors** over the short, medium, and long term. It proposes operationalizing LC theory into an interoperable computational data structure, leveraging the **Model Context Protocol (MCP)** to enable a wide range of AI tools to share and act on learner context.
+
+## Key Findings
+
+- **A unified Learning Context (LC) framework.** The paper proposes encoding cognitive, affective, and sociocultural factors about the learner across short-, medium-, and long-term timescales — moving beyond single-feature or single-moment personalization.
+- **From context-blind to context-aware AI.** The framework targets the transition of AI-based education from "context-blind mimicry" to a holistic, principled understanding of the learner.
+- **An interoperable computational data structure.** A central proposal is operationalizing LC theory into a shared, interoperable data structure for learner context.
+- **Leveraging the Model Context Protocol (MCP).** By building on MCP, a wide range of AI tools could share and act on learner context, enabling cross-tool context awareness.
+- **A multidisciplinary roadmap.** The white paper lays out concrete steps across cognitive, affective, and sociocultural dimensions for making teaching and learning systems context-aware.
+
+## Implications
+
+This framework bears on the wiki's [[student-modeling]] and [[personalized-learning]] threads by arguing that effective AI in education needs a **holistic, context-aware model of the learner** — integrating cognitive, affective, and sociocultural factors — rather than relying on narrow or decontextualized signals. It connects to [[adaptive-learning]], [[ai-education]], and [[human-ai-collaboration]], and its focus on encoding long-term learner context speaks to concerns about [[cognitive-offloading]] and shallow personalization. The use of MCP as an interoperability standard is a concrete technical roadmap that could make context-aware AI practical across diverse educational tools and platforms.
+
+## Connected Concepts
+
+- [[ai-education]] — the umbrella field
+- [[student-modeling]] — the learner-modeling foundation
+- [[personalized-learning]] — the goal context-aware AI serves
+- [[adaptive-learning]] — a downstream application of learner context
+- [[human-ai-collaboration]] — context-aware AI as a collaborative partner
+- [[learning-analytics]] — the data layer for learner context
+- [[cognitive-offloading]] — a risk context-aware design should mitigate
+- [[motivation]] — an affective factor encoded in LC
+- [[self-regulated-learning]] — long-term learner context for regulation
+
+## Connected Articles
+
+- [[banihashem-ai-srl-systematic-mapping-review-2025]] — AI and self-regulated learning mapping
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Adaptive learning and feedback for SRL
+
+## Citation
+
+Liu, N., Bradford, B., Hatchett, J., Diaz, G., Luzi, L., Wang, Z., Basu Mallick, D., & Baraniuk, R. (2026). [*Learning context: A unified framework and roadmap for context-aware AI in education*](https://arxiv.org/abs/2512.24362). arXiv:2512.24362.
+
+---
+
 ## [Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System](https://edtechdev.github.io/aied/articles/learning-engagement-assistant-lea/)
 
 LEA (Learning Engagement Assistant) is an **agentic AI tutoring system** that couples course-specific retrieval-augmented generation (RAG) with structured [[knowledge-tracing]] / Knowledge Component (KC) models across integrated Chat, Tutor, and Quiz modes. This paper reports the first real-student classroom deployment of LEA (n = 8, STEM course CMP511) and the first empirical test of its cross-course scalability, extending a prior simulation-only validation that used synthetic learner agents.
@@ -43026,6 +43045,45 @@ The mediational-agent framing offers a principled theoretical vocabulary for dis
 ## Citation
 
 Warschauer, M., Tate, T., & Ritchie, D. (2026). [*Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory*](https://osf.io/preprints/edarxiv/wcpj5_v2). EdArXiv preprint.
+
+---
+
+## [Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback](https://edtechdev.github.io/aied/articles/mejeh-fromm-srl-adaptive-learning-feedback-2026/)
+
+> **Synthesis:** Mejeh and Fromm investigate how differentiated feedback types — **directive, informative, and transformative** — delivered through an [[adaptive-learning|adaptive learning technology (ALT)]] and taken up by learners relate to [[self-regulated-learning|self-regulated learning (SRL)]] across its pre-actional, actional, and post-actional phases. In a study of 194 students in a stochastics course using an ALT over eight weeks, analyzed with self-report + trace data via hierarchical linear modeling, they find that task value, [[self-efficacy]], goal orientation, and positive emotions in the pre-actional phase positively influence regulatory behavior in the actional phase, while negative emotions hinder it. However, adaptive feedback's moderating effects were **limited and sometimes negative** — transformative feedback may contribute to [[cognitive-offloading|cognitive overload]] — underscoring that feedback effectiveness is context-dependent and must be tailored to learners' needs.
+
+## Key Findings
+
+- **Pre-actional factors drive actional [[regulation]].** Task value, self-efficacy, goal orientation, and positive emotions in the pre-actional phase positively influenced regulatory behavior in the actional phase; negative emotions hindered it.
+- **Post-actional reflection feeds forward.** Post-actional satisfaction was positively associated with motivation, metacognitive activity, and positive emotions in the subsequent pre-actional phase — evidence of the cyclical nature of SRL.
+- **Adaptive feedback's effects are limited and context-dependent.** Feedback's moderating effects were limited and, in some cases, negatively affected regulatory outcomes; **transformative feedback may contribute to cognitive overload**.
+- **Differentiated feedback types matter.** Directive, informative, and transformative feedback delivered through ALT are taken up differently by learners, with variable effects on SRL components across phases.
+- **Design implication.** While ALT feedback can promote SRL, its effectiveness requires tailoring to learners' needs; future work should optimize feedback design and address individual differences in SRL development.
+
+## Implications
+
+This study contributes directly to the wiki's [[self-regulated-learning]] and [[adaptive-learning]] threads by showing that **how feedback is designed and taken up through adaptive technology shapes its effect on SRL** — more is not always better. The finding that transformative feedback can impose [[cognitive-offloading|cognitive load]] rather than support regulation echoes broader concerns about feedback density and [[feedback-literacy]]. It reinforces the point that effective adaptive learning systems must tailor feedback to learners' regulatory needs and states, connecting to [[feedback]], [[metacognition]], [[motivation]], and [[self-efficacy]]. The use of trace data alongside self-report also highlights the value of [[learning-analytics]] in studying SRL in authentic technology-mediated settings.
+
+## Connected Concepts
+
+- [[self-regulated-learning]] — the construct the ALT aims to foster
+- [[adaptive-learning]] — the technology delivering personalized feedback
+- [[feedback]] — the differentiated feedback under study
+- [[feedback-literacy]] — learners' capacity to engage with feedback
+- [[metacognition]] — a key SRL component supported/studied
+- [[motivation]] — pre-actional driver of regulatory behavior
+- [[self-efficacy]] — a pre-actional factor influencing regulation
+- [[learning-analytics]] — trace-data methodology
+- [[cognitive-offloading]] — the cognitive-load risk of transformative feedback
+- [[higher-ed]] — the study context (stochastics course)
+
+## Connected Articles
+
+- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Mapping review of AI and self-regulated learning
+
+## Citation
+
+Mejeh, M., & Fromm, Y. M. (2026). [*Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback*](https://doi.org/10.1016/j.learninstruc.2026.102394). *Learning and Instruction*, 105, 102394.
 
 ---
 
