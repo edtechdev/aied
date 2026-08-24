@@ -88,6 +88,7 @@ ALIASES = {
     'technology-acceptance-model': ['technology acceptance model', 'technology adoption model', 'technology adoption', 'utaut', 'diffusion of innovation', 'technology organisation environment', 'theory of planned behavior'],
     'hallucination-risk': ['hallucination risk', 'hallucinations'],
     'educational-robotics': ['robotics', 'robotic tasks', 'educational robotics', 'robots'],
+    'community-of-inquiry': ['community of inquiry', 'coi', 'cognitive presence', 'social presence', 'teaching presence', 'community of inquiry framework'],
     'curriculum-design': ['curriculum', 'curriculum design'],
     'human-ai-collaboration': ['human-ai collaboration', 'human-ai interaction',
                                'human-computer interaction', 'human collaboration'],
