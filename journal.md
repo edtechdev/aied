@@ -1859,7 +1859,6 @@
   Learning with machines: Toward a theory of epistemic co-agency
   #epistemic-agency #ai-literacy #critical-thinking #human-ai-interaction #metacognition #generative-ai #higher-ed #assessment
 
-- ◐ [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
   Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning
   #affective-computing #language-learning #ai-education #ai-tutoring #educational-technology #edtech-platform
 

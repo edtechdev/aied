@@ -1,7 +1,7 @@
 ---
 title: "Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T17:20:00-04:00"
+updated: "2026-08-24T19:30:00-04:00"
 type: article
 tags: [generative-ai, assessment, equity, ai-tutoring, ai-education, educational-technology]
 sources: []
@@ -19,7 +19,6 @@ This four-year comparative study presents results of implementing a [[generative
 
 ## Connected Articles
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 
 ## Citation
