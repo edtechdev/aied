@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 885 articles, and 3 FAQs.
+> Complete text of 166 concepts, 892 articles, and 3 FAQs.
 
 # Concepts
 
@@ -842,6 +842,8 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech
+- [[xiong-ai-educational-measurement-review-2026]] — AI's role across scoring, psychometrics, assessment
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analytic evaluation of AI literacy outcomes
 
 ---
 
@@ -1091,6 +1093,8 @@ AI literacy also needs developmentally appropriate forms for the youngest learne
 
 **AI literacy as a core gap in conversational-AI frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.^[[conversational-ai-agents-umbrella-review-2026]]
 
+**Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective pedagogies (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this wiki.
+
 ### Critical AI literacy: beyond skills to power and resistance
 
 A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
@@ -1195,6 +1199,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 
 ---
 
@@ -1408,6 +1413,7 @@ The technical strand is inseparable from the wiki's other themes:
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Factors in adopting AI tools
 
 ---
 
@@ -1476,6 +1482,7 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[xiong-ai-educational-measurement-review-2026]] — Construct validity as a central challenge
 
 ---
 
@@ -1577,6 +1584,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[astor-computational-thinking-meta-review-2026]] — Assessment as one of five dominant CT themes
+- [[xiong-ai-educational-measurement-review-2026]] — AI reshaping assessment practice
 
 ---
 
@@ -2725,6 +2734,14 @@ The wiki's connected articles converge on a central claim: computational thinkin
 
 - **CT across K-12, teacher education, and assessment redesign.** CT spans the whole [[k-12]] to [[higher-ed]] spectrum and is reshaping assessment. At the early-childhood end, AI-Play extends CT and AI literacy to Pre-K–K2 learners and non-technical families; at the university end, the [[genai-oop-programming-assessments-2026|OOP assessment study]] found 2026 GenAI systems outperform the average student on authentic programming exams yet still fail on interfaces, abstract classes, and inheritance — recurring conceptual gaps that mark exactly where CT remains hard to automate. [[solving-vs-evaluating-genai-solutions|A randomized A/B crossover study]] showed that evaluation-and-critique tasks produce comparable outcomes to generation, suggesting CT can be exercised through judging flawed AI solutions, though gains require deliberate scaffolding. Underpinning all of this is the teacher: the microbit study links CT instruction directly to [[teacher-education]], and [[hashmi-socratic-physics-chatbot-2025|Socratic chatbot research]] ties the precise problem formulation that CT demands to measurable course performance.
 
+### CT and the shift from AI consumers to producers, creators, and designers
+
+A central goal for CT in the AI era is moving students and instructors beyond *passive consumption* of AI outputs toward *creating, building, and designing* with and for AI — an agenda that aligns CT with constructionist learning (learning-by-making). The wiki's connected articles increasingly make this producer/creator/designer turn explicit. [[ai-writes-code-student-writes-model-2026|Model-authorship research]] reframes learning-by-construction with GenAI as a measurable "model authorship" process — students author, debug, and iterate on AI models rather than just consuming AI-generated code or answers. [[code-to-learn-genai-artifact-construction-2026|The CtL-GenAI framework]] operationalizes this as constructionism for the GenAI age, treating artifacts students build with AI as the engine of CT development. [[computational-thinking-ai-agent-creation|CT through AI-agent creation]] shows that designing, not merely using, AI agents exercises decomposition, abstraction, and algorithmic reasoning directly.
+
+The new meta-analytic evidence sharpens this picture. [[astor-computational-thinking-meta-review-2026|A meta-review of 128 CT systematic reviews]] finds the field converging on a unified definition of CT as reasoning with abstract models that use computational steps and algorithms to solve problems — precisely the kind of model-building (rather than answer-consuming) thinking that production-oriented learning demands. [[tsingidou-ct-robotics-kindergarten-2026|CT-kindergarten robotics research]] shows even early-childhood learners become producers through play-based building with robots, using problem-based learning, storytelling, and scaffolding — a developmental first step toward seeing technology as something one constructs, not just operates. And [[solving-vs-evaluating-genai-solutions|evaluation-and-critique research]] demonstrates that CT can be exercised through judging and debugging flawed AI solutions — a producer stance toward AI output that resists the passive-consumption trap.
+
+The practical upshot is that CT instruction should be designed so learners *make things with AI* — authoring models, building agents, constructing artifacts, and critiquing AI output — rather than receiving finished solutions. This both deepens CT and builds [[ai-literacy]] as participatory and creative rather than merely conceptual. Teachers, in turn, need support to move from using AI tools to designing AI-enhanced learning activities (see [[teacher-role]] and [[professional-training]]).
+
 ### Practical guidance
 
 For educators, the consistent message is that CT is developed through *explicit, scaffolded, observable* engagement rather than passive AI use. Pair robotics with explicit CT-concept mapping to the curriculum; use LLMs for [[simulation]], natural-language control, and scalable assessment of CT growth while reserving human judgment for constructs like Systems Thinking; and redesign assessments to emphasize evaluation and diagnosis of AI output over raw generation. Whatever the setting — unplugged play in early childhood, robots in secondary [[stem-education]], or Virtual Tutors in [[higher-ed]] — structure the activity so students must reason about decomposition, pattern, abstraction, and algorithm rather than receive finished solutions.
@@ -2788,6 +2805,8 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
 
 ---
 
@@ -3265,6 +3284,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[astor-computational-thinking-meta-review-2026]] — Meta-review situating CT in CS education
 
 ---
 
@@ -3962,6 +3982,7 @@ Educational measurement is the discipline of turning observations about learning
 
 ## How educational measurement appears in the research
 
+- **AI's decade-long reshaping of the field:** [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] map AI's impact across three eras (Formative 2015–2018, Expansion 2019–2022, Generative 2023–present) via an Efficiency–Enhancement–Transformation framework, spanning AI on scoring and item generation, psychometric modeling, assessment innovation and process data, and fairness/ethics/equity. They argue for a new paradigm integrating measurement theory with AI methods and for reconceptualizing constructs in the context of human–AI interaction — the same boundary that [[assessment-latent-structure-human-llm-2026|latent-structure comparison]] probes empirically.
 - **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]).
 - **Psychometric awareness in AI [[assessment]]:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
@@ -4056,6 +4077,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement
 
 ---
 
@@ -4274,6 +4296,8 @@ A defining theme is that robots are effective when they support genuine learning
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Robot-mediated CT in kindergarten
+
 ---
 
 ## [Embodied Learning](https://edtechdev.github.io/aied/concepts/embodied-learning/)
@@ -4396,6 +4420,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
+- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 
 ---
 
@@ -4493,6 +4518,7 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
+- [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
 
 ---
 
@@ -5376,6 +5402,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Finds no advantage for generative over first-gen adaptive tools
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — GenAI-supported AI literacy tools
+- [[liu-emerging-tech-tefl-review-2026]] — AI-powered EFL tools
 
 ---
 
@@ -5744,6 +5772,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Tertiary students' AI adoption
+- [[isaza-chatgpt-engineering-prompting-2026]] — Engineering students' ChatGPT use
 
 ---
 
@@ -6546,6 +6576,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
+- [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
 
 ---
 
@@ -6693,6 +6724,8 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[astor-computational-thinking-meta-review-2026]] — Notes CT integration concentrated in K-12
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Early-childhood CT development
 
 ---
 
@@ -6831,6 +6864,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 ## Implications for language instructors
 
+- **Emerging technologies yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
 - **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
 - **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and culturally responsive design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
@@ -6879,6 +6913,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 
 ---
 
@@ -8794,6 +8829,7 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
 
 ---
 
@@ -9520,6 +9556,8 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
+- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
+
 ---
 
 ## [Prompt Engineering](https://edtechdev.github.io/aied/concepts/prompt-engineering/)
@@ -9541,6 +9579,8 @@ Prompt engineering is central to effective [[generative-ai]] use in education. U
 ### Connections to broader concepts
 
 Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
+
+- **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven Problem-Solving (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
 
 ## Connected Concepts
 
@@ -9590,6 +9630,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
 
 ---
 
@@ -10367,6 +10408,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Scaffolding is a dominant CT learning strategy
 
 ---
 
@@ -11264,6 +11306,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 
 - [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+- [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
 
 ---
 
@@ -11347,6 +11390,7 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors
 
 ---
 
@@ -11520,6 +11564,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Post-secondary adoption perspective
 
 ---
 
@@ -12009,6 +12054,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 
 **Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The wiki treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
 
+**Meta-analytic evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
+
 ## The model family
 
 ### Technology Acceptance Model (TAM)
@@ -12075,6 +12122,7 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
 
 ---
 
@@ -20895,6 +20943,48 @@ The work situates team problem-solving assessment within [[cs-education]] and br
 ## Citation
 
 Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026). [Assessment in Team Problem-Solving Exercises in Computing Education](https://arxiv.org/abs/2607.19209). arXiv:2607.19209. arXiv:2607.19209 [cs.CY].
+
+---
+
+## [Computational Thinking: A Meta-Review of Systematic Reviews and Meta-Analyses](https://edtechdev.github.io/aied/articles/astor-computational-thinking-meta-review-2026/)
+
+> **In brief:** Astor, Rönnlund, Fawcett and Gredebäck synthesize the 128 systematic reviews and meta-analyses written in the broad field of computational thinking (CT) to clarify the concept's foundations and map research trends. They identify Education (primarily K-12), Programming, Tools, [[pedagogy|Pedagogical]] approaches, and Assessment as the dominant themes, show CT review research is concentrated among authors from China, the US, Turkey, Brazil, and Hong Kong, and flag a recent surge of only-loosely-cross-referenced reviews as emerging redundancy. Their central finding is that the CT literature is **conceptually fragmented** — yet the differing definitions remain fundamentally aligned, allowing a coherent unified definition of CT as reasoning with *abstract models that use computational steps and algorithms to solve problems*.
+
+The meta-review spans the full CT field rather than any single intervention or technology. It uses content analysis of 128 systematic reviews and meta-analyses to examine definitional coherence, global distribution, potential review inflation, and thematic coverage. The authors find that CT research is increasingly recognized as a critical 21st-century skill comparable to reading, writing, and mathematics, with strong integration into [[curriculum-design|curricula]] across all levels of education but a heavy emphasis on [[k-12]]. Five themes dominate the review literature: Education (primarily K-12), Programming, Tools, Pedagogical approaches, and Assessment.
+
+A distinctive contribution is the paper's treatment of the CT definition problem. While the literature offers many definitions that differ in breadth and character, the authors argue they remain "fundamentally aligned" and converge on a coherent unified definition: computational thinking is reasoning that uses **abstract models**, **computational steps**, and **algorithms** to solve problems. This definition is offered as a common reference frame for the fragmented field. The meta-review also documents a recent surge in CT reviews with limited cross-referencing between them — a sign of emerging redundancy — though it does not yet rise to a critical level.
+
+## Key Findings
+
+- **128 systematic reviews and meta-analyses** now constitute the broad CT literature; the meta-review synthesizes all of them.
+- **Five dominant themes:** Education (primarily K-12), Programming, Tools, Pedagogical approaches, and Assessment.
+- **Geographic concentration:** CT review research is dominated by authors from China, the United States, Turkey, Brazil, and Hong Kong.
+- **Conceptual fragmentation is the field's greatest challenge:** definitions differ in character, but remain fundamentally aligned, permitting a unified definition of CT as abstract modeling with computational steps and algorithms to solve problems.
+- **Emerging redundancy, not yet critical:** a recent surge in CT reviews with limited cross-referencing suggests the field is beginning to repeat itself.
+- Offers a **common reference frame** for a fragmented literature — valuable for researchers and for curriculum/[[cs-education]] integration.
+
+## Connected Concepts
+
+- [[computational-thinking]] — the concept the meta-review defines and maps
+- [[cs-education]] — the curricular home of much CT research
+- [[k-12]] — where CT integration is most emphasized
+- [[stem-education]] — the broader context for CT
+- [[assessment]] — one of the five dominant CT research themes
+- [[ai-literacy]] — CT as the cognitive foundation for engaging with AI
+- [[educational-robotics]] — a dominant CT-learning vehicle in the review corpus
+
+## Connected Articles
+
+- [[tsingidou-ct-robotics-kindergarten-2026]] — companion systematic review of CT via robotics in kindergarten
+- [[computational-thinking-ai-agent-creation]] — CT applied to building AI agents
+- [[llm-computational-thinking-physics-2026]] — CT assessment across large-enrollment physics courses
+- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — GenAI-enhanced CT learning
+- [[ai-pbl-computational-thinking-2026]] — project-based learning and CT
+- [[computational-thinking-aica-2026]] — CT levels and AI coding assistants
+
+## Citation
+
+Astor, K., Rönnlund, J., Fawcett, C., & Gredebäck, G. (2026). [*Computational thinking: A meta-review of systematic reviews and meta-analyses*](https://doi.org/10.1016/j.edurev.2026.100794). Educational Research Review, 52, 100794.
 
 ---
 
@@ -37585,6 +37675,45 @@ Irwin, B., & Muller, T. (2026). [*Positioning generative AI in EFL peer feedback
 
 ---
 
+## [An Empirical Study of ChatGPT Use in Engineering Education: Prompting and Performance](https://edtechdev.github.io/aied/articles/isaza-chatgpt-engineering-prompting-2026/)
+
+> **In brief:** Isaza Dominguez, Robles-Gómez, and Pastor-Vargas study how prompting behaviors influence the academic performance of 128 fourth-year engineering students using ChatGPT across a 16-week semester with rotating task types (case analysis, engineering design, multi-step problem-solving, experimental data analysis). AI Query Efficiency (how effectively students crafted clear, well-structured prompts) and AI-Driven Problem-Solving (how strategically they integrated AI output into their reasoning) were the strongest predictors of academic success — even after accounting for cumulative GPA.
+
+This empirical study connects prompting behavior to learning outcomes in engineering education. Using a Python-based interface connecting students to ChatGPT-4o via the API, the researchers logged all interactions and implemented stratified randomization of AI access across the semester. Ten metrics captured student behaviors — eight focusing on prompting (AI Query Count, Query Depth and Structure, Query Efficiency, Prompt Refinement Depth, Response Utility, Response Complexity, Response Reliance, AI-Driven Problem-Solving) and two assessing writing quality (Structural Complexity Score, Content Richness and Information Density). Written assignments were used for both grading and analyzing AI content integration.
+
+The core finding is that **how** students prompt and integrate AI output matters more than how much they use it. AI Query Efficiency and AI-Driven Problem-Solving were the strongest predictors of academic success, supported by Mann–Whitney U tests comparing AI and non-AI groups, Spearman correlations, Random Forest regressors, partial dependence plots, principal component analysis, and mixed-effects modeling — and remained significant after accounting for cumulative GPA. The results suggest prompting strategy plays a meaningful role in shaping how effectively students use AI in engineering education, linking directly to the [[prompt-engineering|prompt-engineering]] skill.
+
+## Key Findings
+
+- **128 fourth-year engineering students** across four programs, 16-week semester, rotating task types.
+- **AI Query Efficiency** (clear, well-structured prompts) and **AI-Driven Problem-Solving** (strategic integration of AI output into reasoning) were the **strongest predictors of academic success**.
+- Findings robust across multiple methods (Mann–Whitney U, Spearman, Random Forest, PCA, mixed-effects) and remained significant **after controlling for cumulative GPA**.
+- Prompting strategy matters more than raw usage volume in shaping effective AI use.
+- Demonstrates the value of teaching [[prompt-engineering]] as a transferable skill in [[engineering-education]] and [[higher-ed]].
+
+## Connected Concepts
+
+- [[prompt-engineering]] — the core skill under study
+- [[higher-ed]] — the educational context
+- [[engineering-education]] — the discipline
+- [[generative-ai]] — the ChatGPT technology
+- [[student-ai-interaction]] — the interaction behaviors measured
+- [[learning-analytics]] — the logged interaction data
+
+## Connected Articles
+
+- [[learning-to-prompt-adaptive-tutoring]] — learning to prompt in adaptive tutoring
+- [[prompt-problems-nl-programming-mistakes]] — prompting problems in programming
+- [[voice-text-prompt-problems-computing-education]] — prompt problems in computing education
+- [[aaai2026-prompting-literacy-k12]] — prompting literacy in K-12
+- [[chatgpt-english-language-learning-malaysia]] — ChatGPT in language learning
+
+## Citation
+
+Isaza Dominguez, L. G., Robles-Gómez, A., & Pastor-Vargas, R. (2026). [*An empirical study of ChatGPT use in engineering education: Prompting and performance*](https://doi.org/10.1016/j.iheduc.2026.101105). The Internet and Higher Education, 71, 101105.
+
+---
+
 ## [AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently](https://edtechdev.github.io/aied/articles/ithaka-sr-ai-skills-college-graduates-2026/)
 
 > **Ithaka S+R's AI Skills for College Graduates report** surveys 500 US four-year-college instructors (April 2026) on how they prioritize 26 AI-related skills from the HiBob AI Skills Framework, and compares their ratings to a panel of US employers surveyed by HiBob. The headline finding is a **systematic skills-prioritization gap**: instructors and employers agree on the importance of only one skill (setting realistic expectations for AI-augmented work), with instructors favoring a *critical, responsible-use* orientation (limits of AI, attribution, human accountability) while employers favor *workflow, automation, and human–AI teaming* skills. Instructors also report their institutions lack both a consensus on what AI skills look like and an assessment framework for them — an infrastructure gap that parallels [[ai-literacy]] debates. 
@@ -39950,6 +40079,48 @@ Lin, J., Rao, J., Zhao, S. Y., Wang, Y., Gurung, A., Barany, A., Ocumpaugh, J., 
 
 ---
 
+## [AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators](https://edtechdev.github.io/aied/articles/liu-ai-literacy-interventions-meta-analysis-2026/)
+
+> **In brief:** Liu, Lin, Ng, Yang, and Dai conduct a three-level meta-analysis of 59 empirical studies (172 effect sizes, 7,211 participants) on AI literacy interventions. They find a large, statistically significant overall effect (g = 0.837, p < .001) with substantial heterogeneity; moderator analyses show interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. They conclude AI literacy education should move beyond knowledge toward skills, practices, [[ethics]], and attitudes, supported by integrated and reflective pedagogies and GenAI-supported tools.
+
+This meta-analysis answers the question of how — and under what conditions — AI literacy interventions support student development. Synthesizing 172 effect sizes from 59 studies and 7,211 participants, it estimates a large overall effect (g = 0.837) but with a wide 95% prediction interval [−0.292, 1.966], indicating effectiveness varies considerably across settings. Moderator analyses identify geographical region and learning-outcome focus as significant: interventions in East Asia and Europe yielded stronger effects than North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics.
+
+The paper's central argument is that AI literacy education should move beyond knowledge and conceptual understanding toward skills, practices, ethics, and attitudes. This shift is best supported, the authors suggest, by integrated pedagogies that combine conceptual learning, hands-on making, reflection, and GenAI-supported tools — including constructionist and [[constructivist|socio-constructivist]] approaches such as project- and [[problem-based-learning]], inquiry-based learning, and [[experiential-learning]] environments. The geographic variation highlights the need for culturally relevant, context-sensitive interventions that respond to local educational priorities, technological conditions, and learner needs.
+
+## Key Findings
+
+- **59 studies, 172 effect sizes, 7,211 participants** synthesized via a three-level meta-analysis.
+- **Large overall effect:** g = 0.837, p < .001, with a wide prediction interval [−0.292, 1.966] indicating considerable variation.
+- **Geography matters:** interventions in East Asia and Europe yielded stronger effects than those in North America.
+- **Knowledge-focused interventions outperformed** those targeting skills, attitudes, or ethics.
+- Larger (nonsignificant) effects were observed for mixed or reflective pedagogies, generative AI tools, and performance tasks.
+- **Conclusion:** AI literacy education should move beyond knowledge toward skills, practices, ethics, and attitudes, via integrated and reflective pedagogies.
+
+## Connected Concepts
+
+- [[ai-literacy]] — the target of the interventions
+- [[ai-ed-evaluation]] — meta-analytic evaluation of AI literacy outcomes
+- [[pedagogy]] — the instructional approaches examined
+- [[assessment]] — the performance-task outcomes
+- [[generative-ai]] — the GenAI-supported tools
+- [[higher-ed]] — a common intervention setting
+- [[k-12]] — a common intervention setting
+- [[project-based-learning]] — an integrated pedagogy found effective
+
+## Connected Articles
+
+- [[xiong-ai-educational-measurement-review-2026]] — companion on AI in educational measurement
+- [[panciroli-ai-literacy-episodes-situated-learning]] — AI literacy in situated learning
+- [[hingle-collaborative-ai-literacy-2025]] — collaborative AI literacy
+- [[tracing-genai-literacy-interaction-patterns]] — GenAI literacy interaction patterns
+- [[sec-ai-literacy-narrative-review-2026]] — narrative review of AI literacy
+
+## Citation
+
+Liu, S., Lin, Z., Ng, O. L., Yang, Y., & Dai, Y. (2026). [*AI literacy interventions in education: A meta-analysis of effects and moderators*](https://doi.org/10.1016/j.edurev.2026.100813). Educational Research Review, 52, 100813.
+
+---
+
 ## [AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake](https://edtechdev.github.io/aied/articles/liu-deris-ai-feedback-literacy-uptake/)
 
 # AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake
@@ -40001,6 +40172,46 @@ This work reframes debates about AI feedback from mere access to *actionable lit
 ## Citation
 
 Liu, K., & Deris, F. D. (2025). [*AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake*](https://doi.org/10.1080/02602938.2025.2587924). *Assessment & Evaluation in Higher Education*.
+
+---
+
+## [A Systematic Review of Emerging Technology Applications for Teaching English as a Foreign Language Across Different Educational Levels](https://edtechdev.github.io/aied/articles/liu-emerging-tech-tefl-review-2026/)
+
+> **In brief:** Liu, Hashim, and Sulaiman systematically review and meta-analyze 33 experimental and quasi-experimental studies (N = 3,181) on emerging technologies for teaching English as a foreign language (TEFL) across primary, secondary, and tertiary education. They find a small-to-moderate positive overall effect (Hedges' g = 0.38, 95% CI [0.26, 0.50]) with substantial heterogeneity; effect sizes rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44) and were largest for VR/AR, with productive skills (speaking, writing) showing greater gains than receptive skills.
+
+This systematic review and meta-analysis examines the applications, effectiveness, and challenges of emerging technologies for TEFL. The technologies investigated span mobile-assisted language learning apps, AI-powered tools ([[pedagogical-agent|chatbots]], automated writing evaluation, [[intelligent-tutoring|intelligent tutoring systems]]), virtual and augmented reality environments, gamification platforms, and social media tools. Following PRISMA 2020 guidelines, 33 studies (N = 3,181) from Web of Science, Scopus, and ERIC (2015–2024) were analyzed with a random-effects meta-analysis.
+
+The overall effect is small-to-moderate (g = 0.38) with substantial heterogeneity (I² = 90.14%). Subgroup analyses show effect sizes increasing with educational level — primary (g = 0.29), secondary (g = 0.35), tertiary (g = 0.44) — and VR/AR yielding the largest effects among technology types. Across skill domains, productive skills (speaking and writing) showed greater gains than receptive skills (reading and listening), while vocabulary and grammar also improved significantly. The larger tertiary-level effects likely reflect greater learner autonomy and more sophisticated technological infrastructure. Trim-and-fill adjustment for publication bias was applied.
+
+## Key Findings
+
+- **33 experimental/quasi-experimental studies (N = 3,181)**, 2015–2024, across primary, secondary, and tertiary education.
+- **Small-to-moderate overall effect:** Hedges' g = 0.38, 95% CI [0.26, 0.50], p < 0.001, with substantial heterogeneity (I² = 90.14%).
+- **Effect sizes rose with educational level:** primary g = 0.29, secondary g = 0.35, tertiary g = 0.44.
+- **VR/AR yielded the largest effects** among technology types.
+- **Productive skills (speaking, writing) showed greater gains** than receptive skills (reading, listening); vocabulary and grammar also improved significantly.
+- Tertiary effects likely reflect greater learner autonomy and more sophisticated technological infrastructure.
+
+## Connected Concepts
+
+- [[language-learning]] — the learning domain
+- [[english-education]] — the EFL context
+- [[generative-ai]] — AI-powered chatbots and automated writing evaluation
+- [[intelligent-tutoring]] — one of the AI tool categories
+- [[k-12]] — primary and secondary settings
+- [[higher-ed]] — tertiary settings
+- [[game-based-learning]] — gamification platforms
+
+## Connected Articles
+
+- [[acceptance-ai-english-tools-2026]] — acceptance of AI tools for English
+- [[chatgpt-english-language-learning-malaysia]] — ChatGPT in English language learning
+- [[ai-tools-arab-english-classrooms]] — AI tools in Arabic English classrooms
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI vs human assessment in EFL
+
+## Citation
+
+Liu, M., Hashim, H., & Sulaiman, N. A. (2026). [*A systematic review of emerging technology applications for teaching English as a foreign language across different educational levels*](https://doi.org/10.1016/j.edurev.2026.100795). Educational Research Review, 52, 100795.
 
 ---
 
@@ -55117,6 +55328,45 @@ Zhan et al. (2026). [Temporal Smoothness Doubly Robust Learning for Debiased Kno
 
 ---
 
+## [Factors Associated with Students' Adoption of Artificial Intelligence Technology in Tertiary Education: A Meta-Analytic Review](https://edtechdev.github.io/aied/articles/teo-ai-adoption-tertiary-meta-analysis-2026/)
+
+> **In brief:** Teo, Scherer, Fung, and Fung meta-analyze 233 correlations from 32 studies (N = 16,977) to synthesize the factors shaping post-secondary students' adoption of AI. A three-level model yields moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors — no single category dominates — with usage intentions the strongest specific predictor (r = 0.64). The review argues the field over-relies on traditional technology acceptance models (TAM, UTAUT) and neglects AI-specific factors such as anthropomorphism and ethics.
+
+This meta-analysis addresses the scattered evidence on why tertiary students adopt AI for learning. Synthesizing 233 correlations from 32 studies across 16,977 participants, the authors group predictors into individual, contextual, and technological factors and use a three-level correlated-effects model. The result is a balanced picture: individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors all matter moderately, with usage intentions the single strongest predictor (r = 0.64). Notably, perceived risks and [[trust]] showed weaker associations than expected. Large heterogeneity (I² > 98%) was partly explained by construct diversity and students' prior experience with AI.
+
+The review's theoretical contribution is its critique of the field's reliance on [[technology-acceptance-model|traditional technology acceptance models]] (TAM, UTAUT) that predate modern intelligent systems. It argues these frameworks miss AI-specific factors — such as anthropomorphism, ethics, and the adaptive/human-like nature of modern AI — and that addressing this gap matters for advancing theory and evidence-based [[educational-policy-ai|policy]]. For practice, it recommends targeting specific constructs (learning objectives, intentions) and adapting integration to students' experience levels.
+
+## Key Findings
+
+- **233 correlations from 32 studies (N = 16,977)** synthesized via a three-level correlated-effects meta-analysis.
+- **Moderate positive correlations** for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors — no single category dominates.
+- **Usage intentions are the strongest predictor** (r = 0.64); perceived risks and trust showed weaker associations.
+- **Large heterogeneity (I² > 98%)**, partly explained by construct diversity and students' AI experience.
+- **The field over-relies on TAM/UTAUT** and neglects AI-specific factors (anthropomorphism, ethics).
+- Practice implication: target specific constructs and adapt integration to students' experience levels.
+
+## Connected Concepts
+
+- [[technology-acceptance-model]] — the frameworks the review critiques and builds on
+- [[higher-ed]] — the tertiary education context
+- [[student-experience]] — the adoption perspective
+- [[ai-technologies]] — the tools being adopted
+- [[generative-ai]] — a modern driver of adoption
+- [[ai-adoption-training-public-sector|ai-adoption]] — related adoption research
+
+## Connected Articles
+
+- [[tam-critical-use-genai-engineering-2026]] — TAM applied to critical GenAI use in engineering
+- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — GenAI acceptance among Chinese university students
+- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance among science teachers
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas in higher ed
+
+## Citation
+
+Teo, T., Scherer, R., Fung, A. S. K., & Fung, C. S. L. (2026). [*Factors associated with students' adoption of artificial intelligence technology in tertiary education: A meta-analytic review*](https://doi.org/10.1016/j.edurev.2026.100804). Educational Research Review, 52, 100804.
+
+---
+
 ## [Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests](https://edtechdev.github.io/aied/articles/test-driven-ai-assisted-learning/)
 
 Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign of a Theory of Computation course at HKUST (Guangzhou). The course replaced all lectures with self-directed, AI-assisted learning and weekly closed-book tests serving as high-frequency quality gates. AI agents helped the instructor prepare learning paths, course websites, test drafting, grading workflows, and content repairs — all managed through a version-controlled agent workspace. Student survey data (N=18), weekly scores, and git history suggest the model preserved individual accountability while making material production and marking scalable with human oversight. The work contributes a reusable design pattern for [[ai-changing-teaching-workflows]] that integrates [[active-learning]] principles with [[llm]]-powered scaffolding, and offers practical implications for [[assessment]] design in [[higher-ed]] contexts. The approach connects to broader conversations about [[automated-assessment|Automated Grading]] and [[llm-student-modeling-memory]] as enablers of scalable personalized education.
@@ -55765,6 +56015,46 @@ Ren, McDowell & Zhou (2026). [Beyond Perspectives: A Trio-Ethnography of Interpr
 ## Citation
 
 Pitts, G., Rani, N., & Mildort, W. (2026). [Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators](https://arxiv.org/abs/2604.01114). arXiv:2604.01114. AIED 2026.
+
+---
+
+## [Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment](https://edtechdev.github.io/aied/articles/tsingidou-ct-robotics-kindergarten-2026/)
+
+> **In brief:** Tsingidou and Sapounidis systematically review 53 of 2,306 studies (2015–March 2026, 7 databases) on robot-mediated computational thinking (CT) development in kindergarten. Problem-based learning, storytelling, and scaffolding are the most frequently used learning strategies; most studies do not specify a CT framework; CT concepts and practices are most frequently examined while CT perspectives remain underexplored; and Total CT, sequencing, debugging, and algorithmic design are the most-assessed CT skills. TechCheck-K is the most widely used assessment tool, though many tools are developed ad hoc without formal validation.
+
+This systematic review documents how educational robotics is used to foster CT in the earliest formal education setting. Across 53 included studies, the authors categorize the learning strategies, CT frameworks, CT skills, and assessment tools employed in kindergarten robotics activities. They find that [[problem-based-learning]], storytelling, and scaffolding are the most frequently employed strategies in robot-mediated CT learning — aligning with the age-appropriate, play-based, and [[scaffolding]]-rich ways young children engage with [[educational-robotics]].
+
+Methodologically, the review notes that although several CT frameworks exist in the broader literature, most kindergarten robotics studies do not specify any framework, and CT concepts and practices are examined far more often than CT perspectives (the affective/dispositional dimension of CT). Assessment is dominated by measures of Total CT, sequencing, debugging, and algorithmic design; TechCheck-K is the most widely used validated tool, but many studies develop their own instruments ad hoc without formal validation. The review's classification of assessment tools for the kindergarten-robotics context is its distinctive contribution.
+
+## Key Findings
+
+- **Problem-based learning, storytelling, and scaffolding** are the most frequently employed learning strategies in robot-mediated CT in kindergarten.
+- **Most studies specify no CT framework**; CT **concepts and practices** are most frequently examined while CT **perspectives** remain underexplored.
+- **Total CT, sequencing, debugging, and algorithmic design** are the most-assessed CT skills at the kindergarten level.
+- **TechCheck-K** is the most widely used CT assessment tool, though many tools are developed ad hoc without formal validation.
+- Confirms educational robotics as a viable, age-appropriate vehicle for early CT development in [[k-12|early childhood]].
+
+## Connected Concepts
+
+- [[computational-thinking]] — the skill being fostered
+- [[educational-robotics]] — the mediating technology
+- [[k-12]] — the kindergarten / early-childhood setting
+- [[scaffolding]] — one of the dominant learning strategies
+- [[project-based-learning]] — related to problem-based learning strategy
+- [[stem-education]] — the curricular context
+- [[assessment]] — the tools used to measure CT
+
+## Connected Articles
+
+- [[astor-computational-thinking-meta-review-2026]] — the CT meta-review companion
+- [[computational-thinking-educational-robotics-secondary-2026]] — CT via robotics in secondary school
+- [[game-based-gamified-robotics-education-review-2026]] — broader robotics/CT review
+- [[microbit-robotics-machine-learning-teacher-training-2026]] — robotics + ML in teacher education
+- [[edusim-llm-robotic-simulation-education-2026]] — LLM-robotics simulation for beginners
+
+## Citation
+
+Tsingidou, S., & Sapounidis, T. (2026). [*Fostering computational thinking through robotics in kindergarten: A systematic review of learning strategies, frameworks, and assessment*](https://doi.org/10.1016/j.edurev.2026.100829). Educational Research Review, 52, 100829.
 
 ---
 
@@ -57483,6 +57773,44 @@ HiLLM-CD advances [[knowledge-tracing]] and [[student-modeling]] by making cogni
 ## Citation
 
 Xie, Y., Yang, W., Zhang, B., Li, Z., Wang, L., Yang, M., & Gao, Y. (2026). [*HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis*](https://doi.org/10.1145/3770855.3817769). In *Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26)*. ACM. doi:10.1145/3770855.3817769.
+
+---
+
+## [A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement](https://edtechdev.github.io/aied/articles/xiong-ai-educational-measurement-review-2026/)
+
+> **In brief:** Xiong and Li map a decade (2015–present) of AI's impact on educational measurement through a thematic review that integrates five major international conference trends with peer-reviewed literature. They identify three evolutionary eras — the Formative Era (2015–2018), the Expansion Era (2019–2022), and the ongoing Generative Era (2023–present) — and organize AI's progression from an operational tool to a co-designer of assessment and learning through an Efficiency–Enhancement–Transformation framework, spanning four themes: AI on scoring and item generation, psychometric modeling, assessment innovation and process data, and fairness/ethics/equity.
+
+This review traces how educational measurement has undergone a "computational turn" over the past decade, moving from its historical grounding in Classical Test Theory (CTT) and [[item-response-theory|Item Response Theory (IRT)]] toward AI-integrated methods. The authors analyze conference trends (NCME, AERA, IAFOR, ASCILITE, and others) alongside the peer-reviewed corpus to quantify the rising proportion of AI-related measurement papers and to assign topics via Latent Dirichlet Allocation topic modeling. Their Efficiency–Enhancement–Transformation framework captures AI's evolving role: from efficiency gains in scoring and item generation, to enhancement of psychometric modeling, to transformation of assessment through process data and new paradigms that integrate measurement theory with AI methods.
+
+The review surfaces both opportunities and challenges. Opportunities include scalability and richer diagnostic inference; challenges include interpretability, algorithmic bias, and construct validity. A key forward-looking conclusion is the need to reconceptualize educational constructs in the context of human–AI interaction and to adopt AI in educational measurement responsibly, with emphasis on transparency and equity.
+
+## Key Findings
+
+- **Three evolutionary eras:** Formative (2015–2018), Expansion (2019–2022), and Generative (2023–present).
+- **Efficiency–Enhancement–Transformation framework** organizes AI's progression from an operational tool to a co-designer of assessment and learning.
+- **Four key themes:** (a) AI on scoring and item generation, (b) AI on psychometric modeling, (c) AI on assessment innovation and process data, and (d) AI on fairness, [[ethics]], and [[equity-in-ai-education|equity]].
+- **Opportunities:** scalability and richer diagnostic inference from AI-integrated measurement.
+- **Challenges:** interpretability, algorithmic bias, and construct validity.
+- Argues for a **new paradigm integrating measurement theory with AI methods** and for reconceptualizing constructs in the context of human–AI interaction.
+
+## Connected Concepts
+
+- [[educational-measurement]] — the domain under review
+- [[ai-ed-evaluation]] — evaluation of AI-enabled assessment
+- [[assessment]] — the practice AI is reshaping
+- [[generative-ai]] — the driving technology of the Generative Era
+- [[assessment-validity]] — construct validity is a central challenge
+- [[automated-assessment]] — AI on scoring and item generation
+
+## Connected Articles
+
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — companion on AI literacy interventions and assessment
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — LLM-based assessment evaluation
+- [[genai-oop-programming-assessments-2026]] — GenAI on authentic programming exams
+
+## Citation
+
+Xiong, J., & Li, F. (2026). [*A decade of reflection and thematic review on artificial intelligence's impact on educational measurement*](https://doi.org/10.1016/j.edurev.2026.100789). Educational Research Review, 51, 100789.
 
 ---
 

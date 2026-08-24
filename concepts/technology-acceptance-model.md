@@ -1,13 +1,15 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-23T17:00:00-04:00"
+updated: "2026-08-24T12:50:00-04:00"
 type: concept
 tags: [technology-acceptance-model, technology-adoption, utaut, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
 confidence: high
 ---
 
 **Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The wiki treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
+
+**Meta-analytic evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
 
 ## The model family
 
@@ -75,3 +77,4 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT

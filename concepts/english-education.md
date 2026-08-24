@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [english-education, language-learning, writing-education, higher-ed, k-12, generative-ai, ai-feedback-quality, automated-assessment, equity-in-ai-education, academic-integrity]
 confidence: high
@@ -99,3 +99,4 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing and Publishing
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: AI Literacy among Language Teachers
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
+- [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
