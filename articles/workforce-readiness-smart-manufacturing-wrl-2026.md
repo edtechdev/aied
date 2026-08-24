@@ -1,7 +1,7 @@
 ---
 title: "A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era"
 created: "2026-08-17T09:40:00-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [stem-education, professional-training, ai-literacy, human-ai-collaboration, higher-ed, curriculum-design, experiential-learning]
 sources: ['raw/papers/2608.11540.md']
@@ -83,7 +83,6 @@ The work connects to broader conversations about how AI is reshaping [[higher-ed
 - [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
 - [[ase-26-agentic-software-engineering-curriculum]] — Agentic Software Engineering Curriculum (ASE-26)
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — AI-Assisted SE Curriculum Syllabus Analysis
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid Intelligence Feedback Systems in Design Thinking
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[mixed-reality-engineering-learning]] — Mixed Reality in Engineering Learning
 

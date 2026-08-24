@@ -1865,7 +1865,6 @@
   Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study
   #generative-ai #student-experience #self-regulated-learning #ai-literacy #academic-integrity #learning-analytics #motivation #cognitive-offloading #critical-thinking #metacognition #privacy
 
-- ◐ [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]]
   Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors
   #generative-ai #feedback-design #higher-ed #design-thinking #privacy #ai-education #ai-tutoring
 
