@@ -1,5 +1,5 @@
 # AI in Education Wiki
-> A comprehensive wiki of 166 concepts and 884 research articles covering AI in education — frameworks, methodologies, and papers.
+> A comprehensive wiki of 166 concepts, 884 research articles, and 1 FAQs covering AI in education — frameworks, methodologies, and papers.
 
 ## Concepts
 
@@ -1056,3 +1056,7 @@
 - [From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment](https://edtechdev.github.io/aied/articles/zhou-constructive-alignment-genai-business-2026/): **Synthesis:** Zhou, Chai, Chilukuri, and Quach (2026) present a qualitative case study of generative-ai (GenAI) adoption across 17 cases of business-module integration at a UK Russell Group university during the first year of implementation. Drawing on semi-structured interviews with academic staff spanning 24 undergraduate and postgraduate business modules, the study identifies three patterns of
 - [Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era](https://edtechdev.github.io/aied/articles/zhu-e3-hot-embodied-intelligence-sustainable-learning/): **Synthesis:** Zhu et al. (2026) address the risk that AI-assisted learning fosters cognitive outsourcing and learning detached from authentic contexts by proposing E3-HOT, a conceptual framework that leverages embodied-learning to sustain learners' cognitive agency and higher-order thinking for sustainable learning, aligned with SDG 4. Three embodied pathways — situational embedding, embodied par
 - [\"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI](https://edtechdev.github.io/aied/articles/zuo-instructor-power-genai-writing-2026/): **Synthesis:** Zuo, Xu & Dunning (2026) present an instrumental case study of 33 college instructors (10 interviewed in depth) exploring how their perceptions of generative-ai as a tool for writing-education are shaped by four **polycentric power centers**: the global impact of AI, the university/department, colleagues, and students. Framed by Blommaert's notions of scale and polycentricity, the s
+
+## FAQs
+
+- [What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): Across the wiki's synthesis of current research, the most important message for college instructors is not simply "use AI" or "ban AI." **How AI is embedded in the learning activity determines whether it amplifies thinking or replaces it.** The evidence is also uneven: many GenAI studies are recent, short-term, and context-specific, so these are best read as high-value findings rather than settled
