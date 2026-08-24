@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1031
+**Last updated:** 2026-08-24 | **Total entries:** 1032
 
 ## 2026-08-24
+
+- ● [[design-based-research]] — 
+  Design-Based Research
+  #design-based-research #research-methods-aied #iterative-design #intervention-development #ecological-validity
 
 - ● [[usability-research]] — 
   Usability Research

@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 150
+**Total concepts:** 151
 
 ## Canonical concepts
 
@@ -341,6 +341,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy
 - **`curriculum-design`** — Curriculum Design
 - **`design-thinking`** — Design Thinking
+- **`design-based-research`** — Design-Based Research
 - **`desirable-difficulties`** — Desirable Difficulties
 - **`digital-divide`** — Digital Divide
 - **`discipline-specific-aied`** — AIEd in the Disciplines
