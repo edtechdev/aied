@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-22T20:30:00-04:00"
+updated: "2026-08-24T20:00:00-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
 confidence: high
@@ -32,7 +32,7 @@ A core SEL competency (self-awareness/self-management) that strongly conditions 
 Motivation intersects with SEL's responsible-decision-making and self-management. Research on [[ai-availability-student-motivation|AI availability and student motivation]] and [[ai-perceptions-students-teachers-motivation-2026|student/teacher motivation and self-efficacy]] shows that the mere availability of AI can reshape students' motivational orientation and perceived effort — relevant to how AI might undermine or support intrinsic motivation. [[student-dependency-on-ai-literacy-self-efficacy-2026|Self-efficacy research]] frames effort regulation as the counterweight to AI dependency.
 
 ### Emotion regulation and affective support
-Emotional regulation is a key SEL competency with direct learning consequences. [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|An SDT-based emotional agent study (EmoAgent)]] with 173 sixth-graders found that an emotional agent that detects emotional states and offers regulation strategies **significantly improved academic achievement** over a conventional agent, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on success. This is a direct SEL→[[learning-gains|achievement]] link. Related: [[affective-computing]] tools like [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] that model student emotions to shape pedagogical responses, and [[ai-campus-wellbeing-tools|AI campus well-being tools]] (e.g., PsychoGPT, AURA) spanning prevention and intervention.
+Emotional regulation is a key SEL competency with direct learning consequences, forming a direct SEL→[[learning-gains|achievement]] link. [[affective-computing]] tools like [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] model student emotions to shape pedagogical responses, and [[ai-campus-wellbeing-tools|AI campus well-being tools]] (e.g., PsychoGPT, AURA) span prevention and intervention.
 
 ### Shame, guilt, and emotional responses to AI use
 Emotions regulate *how* students make AI use visible. [[shame-guilt-ai-regulation-computing-education|"Stuck in a Spiral"]] (19 computing students) found that shame and guilt act as social regulators of AI use, driving hiding behaviours and selective disclosure and creating cycles of reduced agency. [[ai-anxiety-strategic-regulation-writing-2026|AI anxiety]] can be transformed into strategic regulation of AI as a learning resource. These connect SEL's social awareness and self-management to [[academic-integrity]] and responsible AI use.
@@ -55,7 +55,6 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 
 ## Connections to learning gains and other measures
 
-- **Direct SEL→achievement link.** [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|The EmoAgent study]] demonstrated that an emotion-regulating agent significantly improved academic achievement ([[learning-gains]]) over a conventional agent and moderated the negative effect of negative emotions on success — strong evidence that SEL supports, not competes with, cognitive outcomes.
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favourability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
@@ -91,7 +90,6 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[brookings-ai-students-report]] — Brookings Report on AI and Students
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]] — EmoAgent: Emotion Regulation and Academic Success
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
 - [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use

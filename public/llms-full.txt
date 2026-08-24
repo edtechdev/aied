@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 884 articles, and 4 FAQs.
+> Complete text of 166 concepts, 883 articles, and 4 FAQs.
 
 # Concepts
 
@@ -7975,7 +7975,6 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[social-emotional-learning]] — Social-Emotional Learning
@@ -10409,7 +10408,6 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 **SDT in AI-mediated learning engagement** examines how generative AI tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with epistemic network analysis to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion.
 
-**SDT in affective computing** applies the theory to emotionally intelligent AI agents. **[[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|Zheng et al.]]** developed EmoAgent, an SDT-based emotional agent that proactively detects students' emotional states and provides emotion regulation strategies. An 8-week quasi-experiment with 173 sixth graders showed the SDT-based approach significantly outperformed conventional agents in academic achievement, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on success.
 
 #
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
@@ -10436,7 +10434,6 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[ai-availability-student-motivation]]
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
@@ -10848,7 +10845,7 @@ A core SEL competency (self-awareness/self-management) that strongly conditions 
 Motivation intersects with SEL's responsible-decision-making and self-management. Research on [[ai-availability-student-motivation|AI availability and student motivation]] and [[ai-perceptions-students-teachers-motivation-2026|student/teacher motivation and self-efficacy]] shows that the mere availability of AI can reshape students' motivational orientation and perceived effort — relevant to how AI might undermine or support intrinsic motivation. [[student-dependency-on-ai-literacy-self-efficacy-2026|Self-efficacy research]] frames effort regulation as the counterweight to AI dependency.
 
 ### Emotion regulation and affective support
-Emotional regulation is a key SEL competency with direct learning consequences. [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|An SDT-based emotional agent study (EmoAgent)]] with 173 sixth-graders found that an emotional agent that detects emotional states and offers regulation strategies **significantly improved academic achievement** over a conventional agent, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on success. This is a direct SEL→[[learning-gains|achievement]] link. Related: [[affective-computing]] tools like [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] that model student emotions to shape pedagogical responses, and [[ai-campus-wellbeing-tools|AI campus well-being tools]] (e.g., PsychoGPT, AURA) spanning prevention and intervention.
+Emotional regulation is a key SEL competency with direct learning consequences, forming a direct SEL→[[learning-gains|achievement]] link. [[affective-computing]] tools like [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] model student emotions to shape pedagogical responses, and [[ai-campus-wellbeing-tools|AI campus well-being tools]] (e.g., PsychoGPT, AURA) span prevention and intervention.
 
 ### Shame, guilt, and emotional responses to AI use
 Emotions regulate *how* students make AI use visible. [[shame-guilt-ai-regulation-computing-education|"Stuck in a Spiral"]] (19 computing students) found that shame and guilt act as social regulators of AI use, driving hiding behaviours and selective disclosure and creating cycles of reduced agency. [[ai-anxiety-strategic-regulation-writing-2026|AI anxiety]] can be transformed into strategic regulation of AI as a learning resource. These connect SEL's social awareness and self-management to [[academic-integrity]] and responsible AI use.
@@ -10871,7 +10868,6 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 
 ## Connections to learning gains and other measures
 
-- **Direct SEL→achievement link.** [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|The EmoAgent study]] demonstrated that an emotion-regulating agent significantly improved academic achievement ([[learning-gains]]) over a conventional agent and moderated the negative effect of negative emotions on success — strong evidence that SEL supports, not competes with, cognitive outcomes.
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favourability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
@@ -10907,7 +10903,6 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[brookings-ai-students-report]] — Brookings Report on AI and Students
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]] — EmoAgent: Emotion Regulation and Academic Success
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management
 - [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
@@ -31410,27 +31405,6 @@ The findings push back on the assumption that withholding answers is always the 
 ## Citation
 
 Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692). arXiv:2607.01692.
-
----
-
-## [From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach](https://edtechdev.github.io/aied/articles/from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em/)
-
-> **Synthesis:** Emotion regulation has been recognized as a key factor affecting students' academic success. This study proposed a self-determination theory (SDT)-based emotional agent framework, implementing an emotional agent (EmoAgent) capable of proactively detecting students' emotional states and providing emotional regulation strategies. An 8-week quasi-experiment with 173 sixth graders found that the SDT-based emotional agent-mediated approach significantly outperformed the conventional agent approach in academic [[learning-gains|achievement]], engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on academic success.
-
-## Key Findings
-
-Emotion regulation has been recognized as a key factor affecting students' academic success. This study proposed a self-determination theory (SDT)-based emotional agent framework, implementing an emotional agent (EmoAgent) capable of proactively detecting students' emotional states and providing emotional regulation strategies. An 8-week quasi-experiment with 173 sixth graders found that the SDT-based emotional agent-mediated approach significantly outperformed the conventional agent approach in academic achievement, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on academic success.
-
-## Connected Concepts
-- [[affective-computing]]
-- [[agentic-ai]]
-
-## Connected Articles
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
-- [[ai-in-the-wild-college]]
-
-## Citation
-Zheng, X.-L., Lyu, Z.-Y., Wang, S.-Y., Wang, F., Kong, X., Hwang, G.-J., et al. (2026). [*From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach*](https://doi.org/10.1111/bjet.70083). *British Journal of Educational Technology.*
 
 ---
 
@@ -56340,7 +56314,6 @@ This study employed a three-layer analytical method combining cluster analysis, 
 
 ## Connected Articles
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 
 ## Citation## Citation
