@@ -1,7 +1,7 @@
 ---
 title: "Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI"
-created: "2026-08-24T14:30:00-04:00"
-updated: "2026-08-24T14:30:00-04:00"
+created: "2026-08-24T05:31:00-04:00"
+updated: "2026-08-24T05:31:00-04:00"
 type: article
 tags: [assessment, generative-ai, authentic-assessment, learning-analytics, educational-measurement, formative-assessment, higher-ed, ai-literacy, academic-integrity]
 sources: ['raw/papers/assessing-student-drive-framework-2025.md']
