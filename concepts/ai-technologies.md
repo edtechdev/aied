@@ -1,7 +1,7 @@
 ---
 title: AI Technologies and Techniques in Education
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [ai-technologies, generative-ai, llm, rag, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, prompt-engineering, agentic-ai]
 confidence: high
@@ -77,3 +77,4 @@ The technical strand is inseparable from the wiki's other themes:
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Factors in adopting AI tools

@@ -1,7 +1,7 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high
@@ -100,3 +100,4 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions

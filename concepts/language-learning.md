@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T12:55:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity]
 confidence: high
@@ -19,6 +19,7 @@ Language learning has emerged as a significant AI in education domain because la
 
 ## Implications for language instructors
 
+- **Emerging technologies yield small-to-moderate, level-dependent gains.** A [[liu-emerging-tech-tefl-review-2026|meta-analysis of 33 TEFL studies]] (N = 3,181) finds an overall effect of Hedges' g = 0.38 that rises with educational level (primary 0.29, secondary 0.35, tertiary 0.44), with VR/AR yielding the largest effects and productive skills (speaking, writing) gaining more than receptive skills — supporting the use of emerging tech, especially at tertiary level, while keeping expectations realistic.
 - **Use AI to extend communicative practice, not replace it.** [[ai-interlocutor-l2-spoken-dialogue|AI interlocutors]] and [[tact-pedagogically-adaptive-esl-tutoring|adaptive ESL tutors]] expand interactional practice at scale — pair them with human interaction so fluency and uptake transfer to real conversation.
 - **Be alert to scoring and feedback bias against learners.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native patterns; [[genai-linguistic-diversity-academic-writing|linguistic-diversity research]] warns AI privileges standard English — use self-referential or human-moderated evaluation.
 - **Support the full spectrum of learners.** [[dyslexlens-dyslexic-learners-ai|Dyslexia and accessibility studies]] and culturally responsive design ([[ai-tools-arab-english-classrooms|Arab-English contexts]]) show AI must be adapted to diverse learner needs, not assumed universal.
@@ -67,3 +68,4 @@ Language learning has emerged as a significant AI in education domain because la
 
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL

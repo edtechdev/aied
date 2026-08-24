@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [authentic-assessment, automated-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
 
@@ -71,3 +71,4 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[xiong-ai-educational-measurement-review-2026]] — Construct validity as a central challenge

@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T10:15:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -103,3 +103,5 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[astor-computational-thinking-meta-review-2026]] — Assessment as one of five dominant CT themes
+- [[xiong-ai-educational-measurement-review-2026]] — AI reshaping assessment practice

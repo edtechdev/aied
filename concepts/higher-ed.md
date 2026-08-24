@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T11:10:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
@@ -94,3 +94,5 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Tertiary students' AI adoption
+- [[isaza-chatgpt-engineering-prompting-2026]] — Engineering students' ChatGPT use

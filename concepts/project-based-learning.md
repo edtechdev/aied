@@ -1,7 +1,7 @@
 ---
 title: Project-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]
 confidence: high
@@ -47,3 +47,4 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
+- [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy

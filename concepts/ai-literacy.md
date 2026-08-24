@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T11:10:00-04:00"
+updated: "2026-08-24T12:50:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
@@ -33,6 +33,8 @@ A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students t
 AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical [[teacher-role|educators]] and families.
 
 **AI literacy as a core gap in conversational-AI frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.^[[conversational-ai-agents-umbrella-review-2026]]
+
+**Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective pedagogies (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this wiki.
 
 ### Critical AI literacy: beyond skills to power and resistance
 
@@ -138,3 +140,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects

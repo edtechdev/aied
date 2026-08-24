@@ -1,7 +1,7 @@
 ---
 title: Student Experience with AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, cognitive-offloading, equity, k-12]
 
@@ -70,3 +70,4 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Post-secondary adoption perspective
