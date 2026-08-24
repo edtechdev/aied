@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T13:30:00-04:00"
+updated: "2026-08-24T06:10:52-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -84,77 +84,41 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[feedback]]
 - [[ai-feedback-quality]]
 - [[socratic-method]]
-- [[learning-analytics]]
-- [[equity-in-ai-education]]
 - [[personalized-learning]]
-- [[student-experience]]
 - [[self-regulated-learning]]
 - [[generative-ai]]
 - [[ai-education]]
 - [[metacognition]]
 - [[pedagogical-safety]]
-- [[learning-by-teaching]]
-- [[behaviorism]]
-- [[assessment-validity]]
-- [[k-12]]
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
 - [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[yasir-llm-tutoring-agents-2026]] — Benchmarking LLM feedback agents with KG ground truth (Yasir et al. 2026)
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education (Self-Determination Theory)
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[codify-socratic-programming-tutor]] — Codify Socratic programming tutor
 - [[codify-socratic-tutoring-programming]] — Codify: Socratic tutoring in programming
-- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient psychotherapy training
-- [[agent-voice-accents-k12-group-learning]] — Agent voice and accents in K-12 group learning
-- [[ai-coaching-rl-skill-development]] — RL-based AI coaching for skill development
-- [[ai-enabled-serious-games]] — AI-enabled serious games
-- [[ai-interlocutor-l2-spoken-dialogue]] — AI interlocutor in L2 spoken dialogue
-- [[ai-lifelong-learning-policy]] — AI and lifelong learning policy
-- [[ai-lms-middle-school-longitudinal]] — AI LMS in middle school (longitudinal)
-- [[ai-metacognition-stem-review]] — AI and metacognition in STEM
-- [[ai-pedagogical-accompaniment-amico]] — AI pedagogical accompaniment (AMICO)
-- [[ai-stem-bibliometric-trends]] — Bibliometric trends in AI and STEM
-- [[automated-presentation-coaching]] — Automated presentation coaching
-- [[child-safety-genai]] — Child safety and GenAI
-- [[clara-collaboration-literacy-dashboard]] — CLARA collaboration literacy dashboard
-- [[prezenski-human-centered-ai-aided-learning]] — Human-centered AI-aided learning
-- [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress-testing of role-playing agents
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors and pedagogical safety
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy affective math tutoring
-- [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM long-term personalization
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook
-- [[representation-robustness-llm-math-problem-solving]] — Representation robustness in LLM math problem solving
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT pedagogically adaptive ESL tutoring
-- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation in brachytherapy training
-- [[residencyrl-clinical-rl-training-2026]] — ResidencyRL clinical RL training
-- [[li-ai-science-situated-learning-teachers-2025]] — AI in science situated learning
-
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
-- [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
-
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT pedagogically adaptive ESL tutoring
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[ai-pedagogical-accompaniment-amico]] — AI pedagogical accompaniment (AMICO)
+- [[ai-metacognition-stem-review]] — AI and metacognition in STEM
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
