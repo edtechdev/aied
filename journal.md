@@ -304,7 +304,7 @@
 
 - ◐ [[irt-human-genai-mcq-responses]] — 'raw/papers/irt-human-genai-mcq-responses.md'
   Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments
-  #item-response-theory #academic-integrity #generative-ai #llm #assessment
+ #item-response-theory #academic-integrity #generative-ai #llm #assessment
 
 - ◐ [[puech-pedagogical-steering-llm-productive-failure-2025]] — 'raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md'
   Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure
@@ -1704,7 +1704,7 @@
 
 - ◐ [[multimodal-item-parameter-estimation-2026]] — 'raw/papers/2608.10154.md'
   Multimodal Item Parameter Estimation using Simulated Response Probabilities
-  #item-response-theory #educational-measurement #student-modeling #llm #multimodal #automated-assessment #psychometrically-aware-ai
+ #item-response-theory #educational-measurement #student-modeling #llm #multimodal #automated-assessment #psychometrically-aware-ai
 
 - ◐ [[genai-student-experiences-uk-he-survey-2026]] — 'raw/papers/genai-student-experiences-uk-he-survey-2026.md'
   \"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison
@@ -1902,11 +1902,9 @@
   Learning-to-learn in the age of generative AI: A scoping review and conceptual framework
   #generative-ai #higher-ed #self-regulated-learning #language-learning #systematic-review #epistemic-agency #ai-education #intelligent-tutoring
 
-- ◐ [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]]
   Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
   #higher-ed #self-regulated-learning #collaborative-learning #ai-education #ai-tutoring #educational-technology
 
-- ◐ [[not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa]]
   Not all collaboration benefits from competition: Collaboration modes in a computational thinking game
   #computational-thinking #collaborative-learning #ai-education #ai-tutoring #educational-technology #edtech-platform
 
@@ -2660,7 +2658,7 @@
 
 - ◐ [[huang-interpretable-knowledge-tracing-2026]] — 'raw/papers/huang-interpretable-knowledge-tracing-2026.md'
   Interpretable Knowledge Tracing
-  #knowledge-tracing #interpretability #student-modeling #cold-start-knowledge-tracing-safeinsights #item-response-theory #intelligent-tutoring #rag
+  #knowledge-tracing #interpretability #student-modeling #item-response-theory #intelligent-tutoring #rag
 
 - ◐ [[zerkouk-comprehensive-review-its-2025]] — 'raw/papers/zerkouk-comprehensive-review-its-2025.md'
   Comprehensive Review of Intelligent Tutoring Systems
@@ -2750,7 +2748,7 @@
 
 - ● [[educational-measurement]]
   Educational Measurement
-  #item-response-theory #assessment-validity #educational-nlp #learning-analytics #psychometrically-aware-ai #knowledge-tracing #ai-literacy
+ #item-response-theory #assessment-validity #educational-nlp #learning-analytics #psychometrically-aware-ai #knowledge-tracing #ai-literacy
 
 - ◐ [[epistemic-emotions-collaborative-problem-solving]] — 'raw/papers/2607.23317.md'
   Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving
@@ -3432,7 +3430,6 @@
   TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
   #professional-training #llm #formative-assessment #student-experience #edtech-platform #higher-ed #generative-ai #intelligent-tutoring #scaffolding #k-12
 
-- ◐ [[cold-start-knowledge-tracing-safeinsights]]
   Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
   #knowledge-tracing #learning-analytics #student-modeling #benchmark #higher-ed #llm #generative-ai #student-experience #ai-literacy #stem-education
 

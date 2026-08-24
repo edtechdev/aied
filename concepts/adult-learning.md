@@ -1,7 +1,7 @@
 ---
 title: Adult Learning
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-24T17:05:00-04:00"
+updated: "2026-08-24T21:10:00-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium
@@ -68,7 +68,6 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[dot-framework-survey-2026]]

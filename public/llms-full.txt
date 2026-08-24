@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 880 articles, and 4 FAQs.
+> Complete text of 166 concepts, 877 articles, and 4 FAQs.
 
 # Concepts
 
@@ -450,7 +450,6 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
-- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[dot-framework-survey-2026]]
@@ -5674,7 +5673,6 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
 - [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
 - [[surfacing-isolated-learners]] — Using AI to surface learners who need help, mediating teacher-student feedback
-- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared regulation and help-seeking patterns
 - [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI and access to help
 
 ---
@@ -6798,7 +6796,6 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[difficulty-aware-dialogue-kt]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference
-- **Cold-start problem:** [[cold-start-knowledge-tracing-safeinsights]] examines model accuracy when students begin learning new skills
 
 ### Relationship to other concepts
 
@@ -11648,7 +11645,6 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[multimodal-item-parameter-estimation-2026]]
 
 - [[at-risk-students-ml-prediction]]
-- [[cold-start-knowledge-tracing-safeinsights]]
 - [[correct-answer-trap-misconceptions]]
 - [[cross-subject-validity-delayed-start]]
 - [[educlaw-bench-pedagogical-llm-agents-2026]]
@@ -18716,7 +18712,6 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
-- [[cold-start-knowledge-tracing-safeinsights]] — Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
 - [[engagement-assessment-video]] — Video-based assessment of student engagement
@@ -21362,7 +21357,6 @@ This mapping review is a central reference for the wiki's [[self-regulated-learn
 ## Connected Articles
 
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Adaptive learning technology, differentiated feedback, and SRL phases
-- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared vs. self-regulated learning patterns
 
 ## Citation
 
@@ -25018,34 +25012,6 @@ This paper gives the wiki rich, real-world evidence on [[student-ai-interaction]
 ## Citation
 
 Colbran, S., Jha, M., & Schiavone, C. (2026). [*Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education*](https://doi.org/10.1186/s41239-026-00605-w). *International Journal of Educational Technology in Higher Education*.
-
----
-
-## [Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights](https://edtechdev.github.io/aied/articles/cold-start-knowledge-tracing-safeinsights/)
-
-**Jiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan** — cs.HC
-
-This paper replicates and extends prior work on the cold-start problem in knowledge tracing — the challenge of making accurate predictions when a student begins practicing a new skill. Using a more recent ASSISTments dataset (FoundationalASSIST), the study evaluates KT model performance across both practice trajectories and four problem types: fill-in-the-blank, multiple-choice select-one, multiple-choice select-all, and order/sort. Results show that KT model performance varies across both dimensions, with deep-learning-based models maintaining advantages during early practice but with context-dependent consistency. The study also serves as a proof of concept for SafeInsights, a privacy-preserving research infrastructure designed to facilitate reproducible educational data mining research. This work extends [[knowledge-tracing-irt]] findings by demonstrating that problem type — not just skill — moderates model performance, with implications for [[student-modeling]] in adaptive learning systems.
-
-## Connected Concepts
-
-- [[student-modeling]]
-- [[knowledge-tracing]]
-- [[benchmark]]
-- [[privacy]]
-- [[learning-analytics]]
-- [[adaptive-learning]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-## Connected Articles
-
-- [[knowledge-tracing-irt]]
-- [[stanbkt-bayesian-knowledge-tracing]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-
-## Citation
-
-Zhang, J., Baker, R. S., Basu Mallick, D., Heffernan, C., & Heffernan, N. (2026). [*A Case Study Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights, an Education Research Infrastructure*](https://arxiv.org/abs/2606.11004). arXiv:2606.11004.
 
 ---
 
@@ -35525,7 +35491,7 @@ This work bridges a critical gap between the predictive power of LLMs and the in
 
 The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on [[knowledge-tracing-irt]] that uses IRT to add structure to neural KT models.
 
-The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[cold-start-knowledge-tracing-safeinsights]] and [[neural-symbolic-knowledge-tracing]].
+The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[neural-symbolic-knowledge-tracing]].
 
 For practical deployment, the framework's interpretability enables several downstream applications: tutors can receive real-time alerts when student ability drops below a threshold; difficulty estimates can guide adaptive scaffolding decisions; and longitudinal θ trajectories can track learning over multiple sessions. The explicit difficulty model also supports better [[ai-tutor-authoring-promptdecipher]] by helping content creators understand which tutor utterances are most effective at different ability levels.
 
@@ -35566,7 +35532,6 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-- [[cold-start-knowledge-tracing-safeinsights]]
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)
@@ -38603,7 +38568,6 @@ The absence of performance differences across usage clusters underscores the nee
 
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[cold-start-knowledge-tracing-safeinsights]] — Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
@@ -45322,31 +45286,6 @@ Niri, G., Chiu, T. K. F., Ombid, A. M. O., Ybañez, D. L. J. B., Dennerlein, S. 
 
 ---
 
-## [Not all collaboration benefits from competition: Collaboration modes in a computational thinking game](https://edtechdev.github.io/aied/articles/not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa/)
-
-> **Synthesis:** This study investigated different collaboration modes and how they interact with competition to influence [[computational-thinking|computational thinking]] learning, group metacognition and in-game behaviours. In a quasi-experimental 3×2 factorial design with 148 seventh-grade students, results revealed significant main effects of collaboration mode and an interaction effect between collaboration and competition. The cooperative group with competition achieved the highest CT outcomes, while competition undermined the collaborative turn-taking mode.
-
-## Key Findings
-
-- **Collaboration mode matters:** Different collaboration modes (cooperative vs. turn-taking) significantly affected computational thinking outcomes, group metacognition, and in-game behaviour.
-- **Competition interacts with collaboration:** Competition boosted the cooperative group's CT outcomes (the highest overall) but undermined the collaborative turn-taking mode — showing that not all collaboration benefits from competition.
-- The findings inform how [[collaborative-learning|collaboration]] and competition should be designed together in [[computational-thinking|computational thinking]] games for [[k-12|seventh-grade]] [[ai-education|learners]].
-
-## Connected Concepts
-- [[collaborative-learning]]
-- [[computational-thinking]]
-
-## Connected Articles
-- [[llm-computational-thinking-physics-2026]]
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
-- [[computational-thinking-ai-agent-creation]]
-- [[ai-in-the-wild-college]]
-
-## Citation## Citation
-Chen, C.-H., & Huang, K. (2026). [*Not all collaboration benefits from competition: Collaboration modes in a computational thinking game*](https://doi.org/10.1111/bjet.70081). *British Journal of Educational Technology*.
-
----
-
 ## [NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models](https://edtechdev.github.io/aied/articles/nsmq-riddles-science-math-benchmark/)
 
 > Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's **National Science and Maths Quiz** — a live TV competition for senior secondary school students. This is one of the first AI benchmarks originating from the **Global South** for educational evaluation.
@@ -45518,7 +45457,6 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Generated Help vs. Human Tutor Help
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start in Knowledge Tracing
 - [[adaptive-pretesting-retention]] — Adaptive Pretesting and Retention
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
@@ -55208,7 +55146,6 @@ THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and p
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Meta-Behavioral Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian Knowledge Tracing
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start Knowledge Tracing
 - [[knowledge-tracing-irt]] — Knowledge Tracing and IRT
 
 ## Citation
@@ -55426,7 +55363,6 @@ TRACE reframes next-semester academic prediction as a joint course-set and grade
 ## Connected Articles
 
 - [[at-risk-students-ml-prediction]]
-- [[cold-start-knowledge-tracing-safeinsights]]
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[stanbkt-bayesian-knowledge-tracing]]
 - [[mbp-kt-meta-behavioral-knowledge-tracing]]
@@ -56176,27 +56112,6 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 ## Citation
 
 Binkowski, K. P., & Hopkins, A. (2026). [*The University AI Didn't Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056). arXiv:2605.07056.
-
----
-
-## [Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning](https://edtechdev.github.io/aied/articles/unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l/)
-
-> **Synthesis:** This study employed a three-layer analytical method combining cluster analysis, content analysis and complex network analysis to investigate how [[self-regulated-learning|socially shared regulation of learning (SSRL)]] patterns evolve in relation to individual [[self-regulated-learning|self-regulated learning (SRL)]] profiles. Data from 60 undergraduates in a 16-week course with over 16,000 trace entries revealed three SRL profiles based on time investment, study regularity and help-seeking behaviours. Groups with higher SSRL interaction displayed more diverse and balanced role composition, and distinct SSRL patterns emerged across SRL profiles over time.
-
-## Key Findings
-
-This study employed a three-layer analytical method combining cluster analysis, content analysis and complex network analysis to investigate how [[self-regulated-learning|socially shared regulation of learning (SSRL)]] patterns evolve in relation to individual [[self-regulated-learning|self-regulated learning (SRL)]] profiles. Data from 60 undergraduates in a 16-week course with over 16,000 trace entries revealed three SRL profiles based on time investment, study regularity and help-seeking behaviours. Groups with higher SSRL interaction displayed more diverse and balanced role composition, and distinct SSRL patterns emerged across SRL profiles over time.
-
-## Connected Concepts
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-
-## Connected Articles
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-
-## Citation## Citation
-He, T., Wu, X., Li, M., Xia, T., & Cao, X. (2026). [*Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning*](https://doi.org/10.1111/bjet.70082). *British Journal of Educational Technology*.
 
 ---
 
@@ -57335,7 +57250,6 @@ HiLLM-CD advances [[knowledge-tracing]] and [[student-modeling]] by making cogni
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start Knowledge Tracing
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS Review
 

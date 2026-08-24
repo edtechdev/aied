@@ -1,7 +1,7 @@
 ---
 title: Jointly Predicting Courses and Grades Using a Transformer-Based Model (TRACE)
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [learning-analytics, student-modeling, predictive-modeling, knowledge-tracing, higher-ed, personalized-learning, educational-measurement, ai-ed-evaluation, data-driven]
 sources: ['raw/papers/2608.13409.md']
@@ -64,7 +64,6 @@ TRACE reframes next-semester academic prediction as a joint course-set and grade
 ## Connected Articles
 
 - [[at-risk-students-ml-prediction]]
-- [[cold-start-knowledge-tracing-safeinsights]]
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[stanbkt-bayesian-knowledge-tracing]]
 - [[mbp-kt-meta-behavioral-knowledge-tracing]]

@@ -1,7 +1,7 @@
 ---
 title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research"
 created: "2026-08-12T21:26:01-04:00"
-updated: "2026-08-12"
+updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, intelligent-tutoring, personalized-learning, edtech-platform]
 
@@ -59,7 +59,6 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Generated Help vs. Human Tutor Help
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start in Knowledge Tracing
 - [[adaptive-pretesting-retention]] — Adaptive Pretesting and Retention
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors

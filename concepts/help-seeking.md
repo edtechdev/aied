@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-08-17T18:05:00-04:00"
+updated: "2026-08-24T21:10:00-04:00"
 type: concept
 tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding, self-regulated-learning]
 confidence: high
@@ -96,5 +96,4 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
 - [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
 - [[surfacing-isolated-learners]] — Using AI to surface learners who need help, mediating teacher-student feedback
-- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared regulation and help-seeking patterns
 - [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI and access to help

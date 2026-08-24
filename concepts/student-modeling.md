@@ -1,7 +1,7 @@
 ---
 title: Student Modeling
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T17:10:00-04:00"
+updated: "2026-08-24T21:10:00-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring]
 confidence: high
@@ -50,7 +50,6 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[multimodal-item-parameter-estimation-2026]]
 
 - [[at-risk-students-ml-prediction]]
-- [[cold-start-knowledge-tracing-safeinsights]]
 - [[correct-answer-trap-misconceptions]]
 - [[cross-subject-validity-delayed-start]]
 - [[educlaw-bench-pedagogical-llm-agents-2026]]
