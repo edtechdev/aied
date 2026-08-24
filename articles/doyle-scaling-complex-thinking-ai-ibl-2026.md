@@ -1,7 +1,7 @@
 ---
 title: "Scaling Complex Thinking: A Conceptual Framework for AI-Supported Inquiry-Based Learning"
 created: "2026-08-22T05:58:52-04:00"
-updated: "2026-08-22T05:58:52-04:00"
+updated: "2026-08-24T18:00:00-04:00"
 type: article
 tags: [inquiry-based-learning, metacognition, scaffolding, generative-ai, critical-thinking, ai-education, higher-ed, conceptual-framework]
 sources: ['raw/papers/doyle-scaling-complex-thinking-ai-ibl-2026.md']
@@ -39,7 +39,6 @@ This paper contributes a design-oriented framework to the wiki's [[inquiry-based
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: cognitive scaffolding vs offloading
-- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 
 ## Citation

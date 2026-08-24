@@ -1,7 +1,7 @@
 ---
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-08-21T09:21:26-04:00"
+updated: "2026-08-24T18:00:00-04:00"
 type: concept
 tags: [multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, llm]
 confidence: medium
@@ -57,4 +57,3 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 - [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
 - [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
 
-- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts

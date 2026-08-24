@@ -1,7 +1,7 @@
 ---
 title: Inquiry-Based Learning and AI
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-24T10:35:00-04:00"
+updated: "2026-08-24T18:00:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 confidence: high
@@ -23,7 +23,7 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 **Scaling IBL with AI as a metacognitive coach.** A conceptual framework ([[doyle-scaling-complex-thinking-ai-ibl-2026|Doyle & Swisher]]) uses AI as a [[scaffolding]] layer that transitions "from an output generator to a metacognitive coach," mapping AI interactions onto IBL's stages to scale scaffolding to large cohorts while shifting assessment from content mastery to complex-thinking skills.
 
-**Equity and context.** A conceptual framework ([[botes-ai-oep-ibl-underresourced-2026|Botes et al.]]) bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, multilingual, contextually relevant simulations.
+**Equity and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, multilingual, contextually relevant simulations.
 
 ## Why inquiry-based learning matters for AI integration
 
@@ -58,7 +58,6 @@ IBL's question-driven, process-focused structure is the natural home for product
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy
 - [[productive-failure]] — Productive Failure
