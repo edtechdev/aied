@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T10:20:00-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
@@ -91,3 +91,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ecnuclaw-k12-personalized-companion]] — K-12 personalized learning companion
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
