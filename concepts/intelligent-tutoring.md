@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T17:10:00-04:00"
+updated: "2026-08-24T18:15:00-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -22,7 +22,6 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS research
 
 - **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** evaluates pedagogical LLM agents using simulated learners grounded in knowledge tracing, finding that tutoring quality depends on both the base model and adapter design.
-- **[[codify-socratic-tutoring-programming|Codify]]** applies Socratic ITS principles to programming education, guiding students through incremental questions rather than providing solutions.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully open-source agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated question generation.
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
@@ -62,7 +61,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Design for learning, not just performance.** The strongest causal finding is that unguarded AI tutors raise assisted practice performance but *reduce* unassisted learning — the [[ai-misuse-learning-harm|performance–learning gap]]. Guardrail against answer-copying by scaffolding **hints instead of answers** (require a student attempt before revealing output), and verify gains on unassisted, closed-book measures rather than in-tool performance.^[[generative-ai-guardrails-harm-learning]]^[[genai-performance-vs-learning]]
 
-**Make hints genuinely productive, not bypassable.** Classic hint designs can enable "button-through" strategies that skip learning. Prefer hints that reveal reasoning steps incrementally (Socratic prompting — see [[codify-socratic-tutoring-programming|Codify]]) over hints that directly supply the next answer, and preserve productive struggle rather than over-helping.^[[lak2026-hint-button-unproductive-use]]^[[rethinking-scaffolding-llm-tutors]]
+**Make hints genuinely productive, not bypassable.** Classic hint designs can enable "button-through" strategies that skip learning. Prefer hints that reveal reasoning steps incrementally (Socratic prompting) over hints that directly supply the next answer, and preserve productive struggle rather than over-helping.^[[lak2026-hint-button-unproductive-use]]^[[rethinking-scaffolding-llm-tutors]]
 
 **Keep the human in the loop.** Let teachers author or curate the problem sets and misconception prompts the tutor draws on, and surface the tutor's reasoning so its decisions are auditable. Interpretable knowledge tracing and explicit, external didactic layers make LLM tutor behavior traceable and reproducible.^[[huang-interpretable-knowledge-tracing-2026]]^[[didactical-teacher-assistant-dimensional-modeling]]
 
@@ -100,7 +99,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education (Self-Determination Theory)
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[codify-socratic-tutoring-programming]] — Codify: Socratic tutoring in programming
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)

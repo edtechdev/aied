@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 889 articles, and 4 FAQs.
+> Complete text of 166 concepts, 888 articles, and 4 FAQs.
 
 # Concepts
 
@@ -6470,7 +6470,6 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS research
 
 - **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** evaluates pedagogical LLM agents using simulated learners grounded in knowledge tracing, finding that tutoring quality depends on both the base model and adapter design.
-- **[[codify-socratic-tutoring-programming|Codify]]** applies Socratic ITS principles to programming education, guiding students through incremental questions rather than providing solutions.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully open-source agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated question generation.
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
@@ -6510,7 +6509,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Design for learning, not just performance.** The strongest causal finding is that unguarded AI tutors raise assisted practice performance but *reduce* unassisted learning — the [[ai-misuse-learning-harm|performance–learning gap]]. Guardrail against answer-copying by scaffolding **hints instead of answers** (require a student attempt before revealing output), and verify gains on unassisted, closed-book measures rather than in-tool performance.^[[generative-ai-guardrails-harm-learning]]^[[genai-performance-vs-learning]]
 
-**Make hints genuinely productive, not bypassable.** Classic hint designs can enable "button-through" strategies that skip learning. Prefer hints that reveal reasoning steps incrementally (Socratic prompting — see [[codify-socratic-tutoring-programming|Codify]]) over hints that directly supply the next answer, and preserve productive struggle rather than over-helping.^[[lak2026-hint-button-unproductive-use]]^[[rethinking-scaffolding-llm-tutors]]
+**Make hints genuinely productive, not bypassable.** Classic hint designs can enable "button-through" strategies that skip learning. Prefer hints that reveal reasoning steps incrementally (Socratic prompting) over hints that directly supply the next answer, and preserve productive struggle rather than over-helping.^[[lak2026-hint-button-unproductive-use]]^[[rethinking-scaffolding-llm-tutors]]
 
 **Keep the human in the loop.** Let teachers author or curate the problem sets and misconception prompts the tutor draws on, and surface the tutor's reasoning so its decisions are auditable. Interpretable knowledge tracing and explicit, external didactic layers make LLM tutor behavior traceable and reproducible.^[[huang-interpretable-knowledge-tracing-2026]]^[[didactical-teacher-assistant-dimensional-modeling]]
 
@@ -6548,7 +6547,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education (Self-Determination Theory)
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[codify-socratic-tutoring-programming]] — Codify: Socratic tutoring in programming
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
@@ -8623,7 +8621,6 @@ Because tutoring requires corrective friction — challenging a student's incorr
 
 - [[ai-tutor-effectiveness-review]]
 - [[civic-education-ai-lesson-plans]]
-- [[codify-socratic-tutoring-programming]]
 - [[cognitive-agent-compilation]]
 - [[contextual-sycophancy-ai-literacy]]
 - [[educational-llm-alignment]]
@@ -11030,8 +11027,6 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 
 The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provides empirical evidence that the Socratic method can be operationalized through generative AI at scale, serving simultaneously as a teaching tool and data-collection instrument for [[learning-analytics]]. Unlike rule-based Socratic systems of the past, LLM-based approaches can adapt question sequences dynamically based on student responses.
 
-**[[codify-socratic-tutoring-programming|Codify]]** applies the Socratic method specifically to programming education, building an [[intelligent-tutoring|intelligent tutoring system]] that guides students through problem-solving with incremental questions rather than code solutions — connecting to [[scaffolding]] and [[computational-thinking]].
-
 **[[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]]** enact constructive conflict — a Socratic variant — prompting novice designers to reconsider their assumptions, leading to more design iterations and higher-rated final work. This connects Socratic questioning to [[design-thinking]] and [[critical-thinking]].
 
 **[[syal-multimodal-dialogue-stem-2026|Multimodal dialogue systems]]** extend Socratic tutoring to visual domains, using a zero-retraining intervention protocol that asks models to describe, reason, and self-correct — a multimodal Socratic scaffold.
@@ -11078,7 +11073,6 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[physics-chatbot-epistemological-beliefs-2026]]
-- [[codify-socratic-tutoring-programming]]
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
 - [[retrieval-augmented-tutoring-algorithm-kite]]
@@ -13123,7 +13117,6 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
 - [[lets-chat-chatbot-outreach-2026]] — Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance
@@ -24652,64 +24645,6 @@ Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelli
 
 ---
 
-## [Codify: An Intelligent Socratic Tutoring System for Programming Education](https://edtechdev.github.io/aied/articles/codify-socratic-tutoring-programming/)
-
-## System Overview
-
-Codify (also referred to as "AI Tutor") is a web-based [[intelligent-tutoring]] platform for programming education that integrates conversational AI, adaptive assessment, and learning analytics. It leverages **LLMs deployed via AWS Bedrock** with a **Socratic teaching methodology** that promotes discovery-based learning over direct answer generation — students are guided through questions and hints rather than given solutions outright.
-
-## Architecture and Components
-
-The system comprises five integrated components:
-
-1. **Conversational AI Tutor**: Built on [[llm]] technology with LangChain and [[retrieval-augmented-tutoring-algorithm-kite|Retrieval-Augmented Generation (RAG)]] for contextual memory and response coherence. Uses Socratic questioning rather than answer provision.
-2. **Practice Question Engine**: Automatically generates programming exercises at three difficulty levels (beginner, intermediate, advanced), dynamically tailored to student competency.
-3. **Competency Tracking**: Maintains topic-level competency scores (0–100) per student, updated continuously based on interactions, quiz performance, and problem-solving. Incorporates **resistance curves** — mastery becomes progressively harder as proficiency increases.
-4. **Code Analysis & Feedback**: Performs syntax validation, logic analysis, style feedback, and debugging assistance. Critically, the system **does not correct code directly** — it provides educational hints that encourage self-discovery, aligning with [[scaffolding]] best practices.
-5. **Adaptive Learning & Gamification**: Features XP, daily streaks, competitive leagues (Bronze → Diamond), and multiple leaderboards for engagement.
-
-## Positioning in the ITS Landscape
-
-Codify represents a modern instantiation of the [[conversational-ai-tutors-framework]] paradigm, combining LLM-powered dialogue with structured competency tracking — bridging the gap between open-ended chatbot tutoring and traditional [[automated-assessment|Automated Grading]] systems. Unlike purely conversational approaches (e.g., [[learnmate2-llm-adaptive-learning]]), Codify integrates formal assessment, gamification, and adaptive difficulty scaling into a single platform.
-
-The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|KITE]], which also uses RAG for algorithmic tutoring, though Codify adopts a much broader scope covering all programming education domains. The Socratic methodology directly connects to the [[socratic-method]] approach and the [[pedagogical-llm-training]] literature on training LLMs for guided inquiry rather than answer provision.
-
-## Preliminary Evidence
-
-Initial deployment in programming courses showed promising results for student engagement and perceived learning support. Students particularly valued the 24/7 availability and conversational style as a supplement to traditional instruction. However, the paper reports preliminary observations rather than a controlled efficacy-study, and the evidence base remains early-stage.
-
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[automated-assessment]]
-- [[game-based-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[pedagogical-llm-training]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[student-engagement]]
-
-## Connected Articles
-
-- [[conversational-ai-tutors-framework]] — The path to conversational AI tutors
-- [[eduagentbench-agent-teaching-benchmark]] — Are agents ready to teach?
-- [[moodle-ai-tutoring-deep-learning]] — A grounded AI tutoring system for Moodle
-- [[programming-its]] — Programming intelligent tutoring systems
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: a GenAI programming tutor for K-12
-- [[structured-llm-feedback-programming]] — Effects of structured LLM feedback on programming performance
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-augmented tutoring for algorithm tracing
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-
-## Citation
-
-Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. [The International FLAIRS Conference Proceedings](https://doi.org/10.32473/flairs.39.1.141554), *39*(1). https://doi.org/10.32473/flairs.39.1.141554
-
----
-
 ## [CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution](https://edtechdev.github.io/aied/articles/cogevolution-student-cognitive-evolution-agent-2026/)
 
 > Zhang et al. (2026) propose **CogEvolution**, a [[generative-ai|generative]] educational [[pedagogical-agent|agent]] that simulates a student's **cognitive evolution** rather than merely cloning observable behavior. It couples three components — an ICAP-based [[icap-framework|cognitive depth perceptron]] that quantifies cognitive engagement, an [[item-response-theory|IRT]]-driven memory retrieval module that simulates the assimilation of new and prior knowledge, and an evolutionary-algorithm state update mechanism constrained by the [[scaffolding|Zone of Proximal Development]] — to model the dynamic transition from "static persona" to "dynamic cognitive flow." On a new CogMath-948 dataset of 1,245 real eighth-grade students, CogEvolution outperforms static persona and [[knowledge-tracing]] baselines on behavioral fidelity and learning-curve fitting (R²LC = 0.92), reproduces plausible cognitive evolutionary paths consistent with educational psychology, and offers a more interpretable paradigm for [[simulating-students|student simulation]].
@@ -26240,7 +26175,6 @@ The keep/change/center/study framework gives researchers and developers a discip
 ## Connected Articles
 
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
@@ -39397,7 +39331,6 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -45918,7 +45851,7 @@ Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models 
 - **JeepyTA**: AI teaching assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
 
-The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[codify-socratic-tutoring-programming]].
+The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]].
 
 ## Tutoring: The 9-Percentage-Point Effect
 
@@ -45968,7 +45901,6 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 - [[digital-divide]]
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]] — Codify: an intelligent Socratic tutoring system for programming
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning with GenAI
 - [[hybrid-human-ai-tutoring-differentiated]] — Differentiating human tutor roles in hybrid human-AI tutoring
@@ -51869,7 +51801,7 @@ Mikhelson, I. (2026). [The theoretical foundation of Socratic tests: Dynamic, mu
 Socratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.
 
 ## Synthesis
-> SocratiCode demonstrates a [[design-based-research|participatory design]] evolution from a directive AI tutor to a Socratic [[intelligent-tutoring|learning companion]] for K-12 [[cs-education|programming]] instruction. Over four weeks with two [[k-12]] Python learners, the system shifted from flexible tutorial generation toward dialogic support: guided questioning instead of answers, reflection prompts, misconception checks, incremental hints, and mandatory pauses requiring learner input. This Socratic shift improved [[learning-gains|explanation clarity]] and problem-solving [[student-engagement|engagement]]. The findings directly reinforce the [[codify-socratic-tutoring-programming]] approach of discovery-based learning over direct answer generation, but extend it to the K-12 context where [[cognitive-offloading|cognitive load]] concerns are particularly acute. The emphasis on mandatory pauses and reflection aligns with [[metacognition]] and [[self-regulated-learning]] [[scaffolding]] strategies. The authors argue that AI tutoring is most effective as a companion within a human-guided framework, not an answer engine — a principle that resonates with the [[human-in-the-loop-ai]] architecture and the findings from [[structured-llm-feedback-programming]] that less guided feedback may be more effective.
+> SocratiCode demonstrates a [[design-based-research|participatory design]] evolution from a directive AI tutor to a Socratic [[intelligent-tutoring|learning companion]] for K-12 [[cs-education|programming]] instruction. Over four weeks with two [[k-12]] Python learners, the system shifted from flexible tutorial generation toward dialogic support: guided questioning instead of answers, reflection prompts, misconception checks, incremental hints, and mandatory pauses requiring learner input. This Socratic shift improved [[learning-gains|explanation clarity]] and problem-solving [[student-engagement|engagement]]. The findings directly reinforce a [[socratic-method|Socratic]] discovery-based approach over direct answer generation, but extend it to the K-12 context where [[cognitive-offloading|cognitive load]] concerns are particularly acute. The emphasis on mandatory pauses and reflection aligns with [[metacognition]] and [[self-regulated-learning]] [[scaffolding]] strategies. The authors argue that AI tutoring is most effective as a companion within a human-guided framework, not an answer engine — a principle that resonates with the [[human-in-the-loop-ai]] architecture and the findings from [[structured-llm-feedback-programming]] that less guided feedback may be more effective.
 
 ## Key Findings
 1. Adaptive [[generative-ai]] that shifts from directive tutorial generation toward [[socratic-method|Socratic questioning]]—guided questioning, reflection prompts, misconception checks, incremental hints, and mandatory pauses—improves explanation clarity and sustained engagement for K-12 beginners.
@@ -51909,7 +51841,6 @@ The study implies that generative AI in K-12 [[cs-education|programming educatio
 - [[scaffolding]]
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]]
 - [[structured-llm-feedback-programming]]
 ## Citation
 
@@ -52668,7 +52599,7 @@ Geng, S., Lallos-Harrell, H., Ashar, J., McKenna, T. J., Dasgupta, A., Farny, C.
 
 ## Synthesis
 
-> This study provides empirical evidence on how the *structure* of LLM-generated feedback shapes programming students' problem-solving efficiency. In an online introductory Web Development course, three LLM feedback types varying in guidance level (General, Single-Issue, Diagnostic) were compared against a compiler-error-only baseline using mixed-effects models on time-to-solution and attempts-to-success. All LLM feedback conditions led to faster time-to-solution, but counterintuitively the less guided formats showed stronger effects: constraining feedback to fewer issues or to diagnostic identification alone generally produced more efficient progress than more directive, explanation-heavy variants. This aligns with [[socratic-method]] questioning and the [[desirable-difficulties]] framework — too much hand-holding may short-circuit productive struggle — and echoes the discovery-based logic of the [[codify-socratic-tutoring-programming]] approach. Effects did not differ significantly by expertise, and guidance-heavy feedback degraded on course content released after the model's training cutoff, surfacing [[hallucination-risk]]. Combined with [[ai-tutor-behavioral-evaluation]], which found behavioral engagement metrics outweigh feedback-quality ratings, this paper strengthens the case for LLM feedback that prompts student action rather than passive consumption, and motivates [[adaptive-learning]] feedback calibrated to task, history, and behavior.
+> This study provides empirical evidence on how the *structure* of LLM-generated feedback shapes programming students' problem-solving efficiency. In an online introductory Web Development course, three LLM feedback types varying in guidance level (General, Single-Issue, Diagnostic) were compared against a compiler-error-only baseline using mixed-effects models on time-to-solution and attempts-to-success. All LLM feedback conditions led to faster time-to-solution, but counterintuitively the less guided formats showed stronger effects: constraining feedback to fewer issues or to diagnostic identification alone generally produced more efficient progress than more directive, explanation-heavy variants. This aligns with [[socratic-method]] questioning and the [[desirable-difficulties]] framework — too much hand-holding may short-circuit productive struggle — and echoes the discovery-based logic of [[socratic-method|Socratic]] tutoring. Effects did not differ significantly by expertise, and guidance-heavy feedback degraded on course content released after the model's training cutoff, surfacing [[hallucination-risk]]. Combined with [[ai-tutor-behavioral-evaluation]], which found behavioral engagement metrics outweigh feedback-quality ratings, this paper strengthens the case for LLM feedback that prompts student action rather than passive consumption, and motivates [[adaptive-learning]] feedback calibrated to task, history, and behavior.
 
 ## Key Findings
 
@@ -52728,7 +52659,6 @@ Assignment–user pairs are non-independent because students saw different hint 
 - [[formative-assessment]]
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[knowledge-tracing-irt]]
 - [[programming-its]]
@@ -53999,7 +53929,6 @@ The authors are explicit that next-turn response quality is not the same as long
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 
 ## Citation
 

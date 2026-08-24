@@ -1,7 +1,7 @@
 ---
 title: The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [llm, generative-ai, feedback, higher-ed, scaffolding, efficacy-study, stem-education, socratic-questioning, desirable-difficulties, rag]
 
@@ -11,7 +11,7 @@ confidence: high
 
 ## Synthesis
 
-> This study provides empirical evidence on how the *structure* of LLM-generated feedback shapes programming students' problem-solving efficiency. In an online introductory Web Development course, three LLM feedback types varying in guidance level (General, Single-Issue, Diagnostic) were compared against a compiler-error-only baseline using mixed-effects models on time-to-solution and attempts-to-success. All LLM feedback conditions led to faster time-to-solution, but counterintuitively the less guided formats showed stronger effects: constraining feedback to fewer issues or to diagnostic identification alone generally produced more efficient progress than more directive, explanation-heavy variants. This aligns with [[socratic-method]] questioning and the [[desirable-difficulties]] framework — too much hand-holding may short-circuit productive struggle — and echoes the discovery-based logic of the [[codify-socratic-tutoring-programming]] approach. Effects did not differ significantly by expertise, and guidance-heavy feedback degraded on course content released after the model's training cutoff, surfacing [[hallucination-risk]]. Combined with [[ai-tutor-behavioral-evaluation]], which found behavioral engagement metrics outweigh feedback-quality ratings, this paper strengthens the case for LLM feedback that prompts student action rather than passive consumption, and motivates [[adaptive-learning]] feedback calibrated to task, history, and behavior.
+> This study provides empirical evidence on how the *structure* of LLM-generated feedback shapes programming students' problem-solving efficiency. In an online introductory Web Development course, three LLM feedback types varying in guidance level (General, Single-Issue, Diagnostic) were compared against a compiler-error-only baseline using mixed-effects models on time-to-solution and attempts-to-success. All LLM feedback conditions led to faster time-to-solution, but counterintuitively the less guided formats showed stronger effects: constraining feedback to fewer issues or to diagnostic identification alone generally produced more efficient progress than more directive, explanation-heavy variants. This aligns with [[socratic-method]] questioning and the [[desirable-difficulties]] framework — too much hand-holding may short-circuit productive struggle — and echoes the discovery-based logic of [[socratic-method|Socratic]] tutoring. Effects did not differ significantly by expertise, and guidance-heavy feedback degraded on course content released after the model's training cutoff, surfacing [[hallucination-risk]]. Combined with [[ai-tutor-behavioral-evaluation]], which found behavioral engagement metrics outweigh feedback-quality ratings, this paper strengthens the case for LLM feedback that prompts student action rather than passive consumption, and motivates [[adaptive-learning]] feedback calibrated to task, history, and behavior.
 
 ## Key Findings
 
@@ -71,7 +71,6 @@ Assignment–user pairs are non-independent because students saw different hint 
 - [[formative-assessment]]
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[knowledge-tracing-irt]]
 - [[programming-its]]
