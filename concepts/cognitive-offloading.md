@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T11:15:00-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -140,3 +140,4 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Documents effort-substitution harm from unguarded AI access

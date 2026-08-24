@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, research-methods-aied, efficacy-study]
 confidence: high
@@ -38,3 +38,4 @@ For the fuller treatment of experimental design in AI in education — including
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
+- [[burneo-can-edtech-close-learning-gaps-2026]] — World Bank meta-analysis of 14 EdTech RCTs

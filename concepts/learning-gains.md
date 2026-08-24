@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-24T11:15:00-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -18,6 +18,7 @@ Key findings from the wiki:
 - **[[genai-meta-analysis-programming-learning|Meta-analyses of GenAI in programming]]** find positive learning gains from structured AI use but negative effects from unguided reliance — a key distinction between productivity and durable learning.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.
+- **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]** pools 191 effect sizes from 14 RCTs to estimate that adaptive and AI-enabled EdTech raises learning by ~0.125 sd on average — above the median for education RCTs — while finding no advantage for generative AI over earlier adaptive tools.
 
 ### The AI-era measurement problem
 
@@ -120,3 +121,4 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 884 articles, and 3 FAQs.
+> Complete text of 166 concepts, 885 articles, and 3 FAQs.
 
 # Concepts
 
@@ -281,7 +281,10 @@ Generative AI has expanded what adaptive systems can do — conversational [[age
 
 Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
 
+- **Meta-analytic evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 RCTs pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
+
 - **Adaptive algorithms compared in dynamic domains.** [[graph-its-adaptive-algorithms-2026|Graph-based ITS research]] compares multiple adaptive learning algorithms (including Bayesian knowledge propagation and intuitionistic fuzzy logic) in a graph-based knowledge representation framework for dynamic curricula.
+
 ## Connected Concepts
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -334,6 +337,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs
 
 ---
 
@@ -837,6 +841,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evaluation of adaptive + AI EdTech
 
 ---
 
@@ -2555,6 +2560,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Documents effort-substitution harm from unguarded AI access
 
 ---
 
@@ -4635,6 +4641,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics for education
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Highlights absence of low-income-country evidence
 
 ---
 
@@ -5368,6 +5375,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Finds no advantage for generative over first-gen adaptive tools
 
 ---
 
@@ -6537,6 +6545,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[ai-metacognition-stem-review]] — AI and metacognition in STEM
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
 
 ---
 
@@ -7030,6 +7039,7 @@ Key findings from the wiki:
 - **[[genai-meta-analysis-programming-learning|Meta-analyses of GenAI in programming]]** find positive learning gains from structured AI use but negative effects from unguided reliance — a key distinction between productivity and durable learning.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.
+- **[[burneo-can-edtech-close-learning-gaps-2026|World Bank meta-analysis]]** pools 191 effect sizes from 14 RCTs to estimate that adaptive and AI-enabled EdTech raises learning by ~0.125 sd on average — above the median for education RCTs — while finding no advantage for generative AI over earlier adaptive tools.
 
 ### The AI-era measurement problem
 
@@ -7132,6 +7142,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
 
 ---
 
@@ -8921,6 +8932,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[ecnuclaw-k12-personalized-companion]] — K-12 personalized learning companion
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
 
 ---
 
@@ -9850,6 +9862,7 @@ For the fuller treatment of experimental design in AI in education — including
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
+- [[burneo-can-edtech-close-learning-gaps-2026]] — World Bank meta-analysis of 14 EdTech RCTs
 
 ---
 
@@ -9944,6 +9957,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Guardrails removed harm without improving exam scores
 
 ---
 
@@ -22595,6 +22609,54 @@ As generative AI becomes central to software development, CS education is shifti
 ## Citation
 
 Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026). [When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code](https://arxiv.org/abs/2607.05068). arXiv:2607.05068. arXiv:2607.05068 [cs.SE, cs.CY].
+
+---
+
+## [Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions](https://edtechdev.github.io/aied/articles/burneo-can-edtech-close-learning-gaps-2026/)
+
+> **In brief:** A World Bank systematic review and meta-analysis pools 191 effect sizes from 14 randomized trials across ten economies to estimate that adaptive and AI-enabled educational technology raises student learning by an average of **0.125 standard deviations** relative to traditional instruction — above the median effect for education RCTs and within the range Kraft (2020) calls "large" for field experiments. Crucially, the newer generative-AI tools show **no advantage over the adaptive software that preceded them**, and gains are driven less by which technology is used than by whether it is embedded in a sound instructional strategy.
+
+The review brings two "generations" of adaptive educational technology into a common framework under common inclusion criteria and on a common effect-size scale: first-generation tools that select from content authored in advance ([[adaptive-learning|adaptive computer-assisted learning]], [[intelligent-tutoring|intelligent tutoring systems]] such as Mindspark), and second-generation [[generative-ai|generative AI]] tools that generate instructional content at the point of use (Rori in Ghana, GPT-based tutors in Türkiye). Using robust variance estimation (RVE) meta-regression, the authors retain every extracted outcome per study rather than one estimate each — a methodological choice that matters because within-study variation across outcome measures is as wide as variation across studies.
+
+The pooled learning effect of 0.125 sd holds at primary and [[k-12|secondary]] levels, in high- and middle-income countries, across tutoring systems, computer-assisted learning platforms, and teacher-facing tools, and across both technological generations. The estimated differential for generative over first-generation tools is only 0.022 sd (SE 0.075), an interval wide enough to bound rather than resolve the comparison: the experimental record to date shows **no advantage for the newer technology**. Gains on socio-emotional outcomes are positive but roughly a quarter the size (0.029 sd, from only five papers), and the review cannot reject the null for teaching practices (three studies). Among AI-powered tutoring interventions specifically, the average effect is 0.12 sd — below the 0.288 sd Nickow et al. (2024) report for human tutoring, but at a small fraction of its cost.
+
+Two features of the evidence base sharply limit what these estimates can justify. The sample is narrow: no included study was conducted in a low-income country, researchers were involved in implementing 16 of 19 interventions, and none was implemented by a government alone — so behavior under public delivery at scale is essentially unobserved. And only two or three studies report per-student costs on a comparable basis, so the field's motivating claim that personalization can be delivered at a fraction of the cost of human tutoring has almost never been measured alongside the effects it is meant to justify.
+
+## Key Findings
+
+- **Adaptive and AI-enabled EdTech raises learning by ~0.125 sd** on average across 191 effect sizes from 14 RCTs in ten economies — above the median (0.10 sd) for education interventions evaluated by randomized trial, and within the range Kraft (2020) reads as large for broad-achievement field experiments.
+- **Generative AI shows no advantage over earlier adaptive software.** The differential for second-generation tools is 0.022 sd (SE 0.075), an interval [−0.15, 0.19] wide enough to bound the comparison rather than resolve it; the experimental record to date shows no advantage for the newer technology.
+- **Effects are consistent across education levels and income contexts** — primary (0.137 sd) and secondary (0.135 sd) are nearly identical, and high- vs. middle-income differences are not statistically significant.
+- **AI-powered tutoring averages 0.12 sd**, below the 0.288 sd pooled effect for human tutoring (Nickow et al., 2024) but at a small fraction of its cost; the strongest results come from tutoring embedded in a broader instructional strategy with clear objectives, [[curriculum-design|curriculum]] alignment, and safeguards against misuse.
+- **Gains do not extend equally to other outcomes:** socio-emotional/behavioral effects are ~0.029 sd (a quarter of the learning effect, five papers), and teaching-practice effects are indistinguishable from zero (three studies).
+- **The evidence base is narrow and [[educational-policy-ai|policy]]-relevant gaps remain:** no low-income-country study, researcher-heavy implementation, no government-alone implementation, and cost data in only ~2–3 of 14 studies.
+- **Dosage does not order the estimates** — cumulative exposure varies over two orders of magnitude without mapping onto the ranking of effects; within-study measure choice shifts an estimate as much as the study chosen (one ITS's four estimates spanned 0.60 sd).
+
+## Connected Concepts
+
+- [[learning-gains]] — the primary outcome domain and the review's organizing metric
+- [[adaptive-learning]] — the shared feature of all included interventions
+- [[intelligent-tutoring]] — first-generation adaptive tutors and the AI-tutoring subgroup
+- [[generative-ai]] — the second-generation tools whose differential is estimated
+- [[rct]] — the inclusion criterion and evidence hierarchy
+- [[personalized-learning]] — the personalization promise motivating the literature
+- [[cognitive-offloading]] — the "effort substitution" mechanism behind the Türkiye harm finding
+- [[reducing-ai-misuse]] — the guardrails that removed the harm without improving scores
+- [[equity-in-ai-education]] — the digital-divide and no-low-income-setting limitation
+- [[digital-divide]] — infrastructure requirements that bind in the settings with largest deficits
+- [[k-12]] — the preK–12 study population
+- [[ai-ed-evaluation]] — meta-analytic evaluation of AI education tools
+- [[educational-measurement]] — standardized effect-size aggregation and RVE methodology
+
+## Connected Articles
+
+- [[genai-educational-outcomes-meta-analysis]] — a complementary meta-analysis comparing traditional vs. AI-driven approaches
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — an experiment on virtual tutoring with computer-assisted learning
+- [[genai-meta-analysis-programming-learning]] — meta-analytic evidence on GenAI in a disciplinary context
+
+## Citation
+
+Burneo, A., Dinarte-Diaz, L., Lopez, C., & Molina, E. (2026). [*Can EdTech close learning gaps? Global evidence from digital interventions*](https://documents.worldbank.org/). World Bank Policy Research Working Paper.
 
 ---
 
