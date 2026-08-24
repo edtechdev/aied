@@ -1,7 +1,7 @@
 ---
 title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T12:30:00-04:00"
+updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [tutoring, tutoring-systems, scaffolding, intelligent-tutoring, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]
 
@@ -72,7 +72,6 @@ The authors are explicit that next-turn response quality is not the same as long
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 
 ## Citation
 

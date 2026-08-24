@@ -1,7 +1,7 @@
 ---
 title: OECD Digital Education Outlook 2026
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-24T17:25:00-04:00"
+updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [generative-ai, pedagogy, tutoring, teacher-support, assessment, policy, oecd, higher-ed, k-12, ai-literacy]
 sources: ['raw/papers/oecd-digital-education-outlook-2026.md']
@@ -23,7 +23,7 @@ Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models 
 - **JeepyTA**: AI teaching assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
 
-The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[codify-socratic-tutoring-programming]].
+The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]].
 
 ## Tutoring: The 9-Percentage-Point Effect
 
@@ -73,7 +73,6 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 - [[digital-divide]]
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]] — Codify: an intelligent Socratic tutoring system for programming
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning with GenAI
 - [[hybrid-human-ai-tutoring-differentiated]] — Differentiating human tutor roles in hybrid human-AI tutoring

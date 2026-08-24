@@ -1,7 +1,7 @@
 ---
 title: "AcademiClaw: When Students Set Challenges for AI Agents"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [benchmark, higher-ed, llm, generative-ai, student-experience, pedagogical-llm-training, automated-grading, ai-tutoring, open-source]
 sources: ['raw/papers/2605.02661.md']
@@ -76,7 +76,6 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
 - [[lets-chat-chatbot-outreach-2026]] — Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance

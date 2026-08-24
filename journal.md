@@ -3893,7 +3893,6 @@
   A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
   #affective-computing #student-experience #higher-ed #learning-analytics #affective-tutoring #llm
 
-- ◐ [[codify-socratic-tutoring-programming]] — 'raw/papers/codify-socratic-tutoring-programming.md'
   Codify: An Intelligent Socratic Tutoring System for Programming Education
   #generative-ai #higher-ed #intelligent-tutoring #llm #programming-its #scaffolding #socratic-method #pedagogical-llm-training #automated-assessment #agentic-ai-ecosystems-higher-education
 

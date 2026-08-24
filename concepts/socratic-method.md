@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-24T18:15:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, intelligent-tutoring, metacognition, formative-assessment]
 
@@ -47,8 +47,6 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 ## Research in the wiki
 
 The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provides empirical evidence that the Socratic method can be operationalized through generative AI at scale, serving simultaneously as a teaching tool and data-collection instrument for [[learning-analytics]]. Unlike rule-based Socratic systems of the past, LLM-based approaches can adapt question sequences dynamically based on student responses.
-
-**[[codify-socratic-tutoring-programming|Codify]]** applies the Socratic method specifically to programming education, building an [[intelligent-tutoring|intelligent tutoring system]] that guides students through problem-solving with incremental questions rather than code solutions — connecting to [[scaffolding]] and [[computational-thinking]].
 
 **[[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]]** enact constructive conflict — a Socratic variant — prompting novice designers to reconsider their assumptions, leading to more design iterations and higher-rated final work. This connects Socratic questioning to [[design-thinking]] and [[critical-thinking]].
 
@@ -96,7 +94,6 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[physics-chatbot-epistemological-beliefs-2026]]
-- [[codify-socratic-tutoring-programming]]
 - [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
 - [[retrieval-augmented-tutoring-algorithm-kite]]
