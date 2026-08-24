@@ -3709,7 +3709,6 @@
   It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent
   #generative-ai #writing-education #student-experience #llm #higher-ed
 
-- ◐ [[codify-socratic-programming-tutor]] — 'raw/papers/codify-socratic-programming-tutor.md'
   Codify: An Intelligent Socratic Tutoring System for Programming Education
   #intelligent-tutoring #llm #stem-education #higher-ed #adaptive-learning #self-regulated-learning #scaffolding #metacognition #rag
 

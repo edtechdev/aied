@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 882 articles, and 4 FAQs.
+> Complete text of 166 concepts, 881 articles, and 4 FAQs.
 
 # Concepts
 
@@ -7861,7 +7861,6 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner: human-AI co-regulation in learning
-- [[codify-socratic-programming-tutor]] — Codify: an intelligent Socratic tutoring system for programming education
 - [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI code
 - [[ai-learning-companions-framework]] — Building AI companions that prioritise learning over performance
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
@@ -18153,7 +18152,6 @@ AICoFe represents a **human-centered AI** paradigm for education: AI augments ra
 
 - [[becerra-aicofe-feedback-2026]]
 - [[aicode-collaborative-feedback-system]]
-- [[codify-socratic-programming-tutor]]
 - [[humanlike-ai-collaborative-writing]]
 - [[llm-reasoning-traces-metacognition]]
 - [[mindcopilot-llm-co-writing]]
@@ -18534,7 +18532,6 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 ## Connected Articles
 
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
@@ -24537,74 +24534,6 @@ Gousopoulos, D. (2026). [*Code to Learn with Generative AI: A Theoretically Grou
 
 ---
 
-## [Codify: An Intelligent Socratic Tutoring System for Programming Education](https://edtechdev.github.io/aied/articles/codify-socratic-programming-tutor/)
-
-# Codify: Socratic Programming Tutor
-
-📄 DOI: 10.32473/flairs.39.1.141554
-
-Codify (also called AI Tutor) is an [[intelligent-tutoring]] system that leverages [[llm|LLMs]], competency tracking, and adaptive assessment to provide Socratic, discovery-based programming education. Rather than giving direct answers, it guides students through dialogue designed to elicit their own reasoning.
-
-## System Architecture
-The platform includes:
-- **Conversational tutoring** using Socratic methodology
-- **Automated practice generation** adapting to student needs
-- **Competency modeling** with topic-level mastery tracking
-- **Code analysis** for evaluating student submissions
-- **Gamified engagement** mechanisms for motivation
-
-Students interact through a chat-based interface, and the system dynamically adjusts question difficulty and [[scaffolding]] based on real-time competency estimates. This approach aligns with research on [[knowledge-tracing-irt|knowledge tracing]] and [[adaptive-learning]], though as a conference poster, empirical evaluation of [[learning-gains|learning outcomes]] is preliminary.
-
-## Positioning in the ITS Landscape
-Codify represents the trend toward LLM-powered tutoring systems that combine conversational AI with structured pedagogical frameworks. Unlike [[ai-peer-feedback-systems|AI feedback systems]] that provide targeted critique, Codify emphasizes discovery learning — a Socratic approach that connects to questions about [[metacognition]] and [[self-regulated-learning]]. Future work could benefit from incorporating findings from [[llm-reasoning-traces-metacognition|research on reasoning traces and metacognitive calibration]], as the Socratic dialogue format may face similar challenges of inflating student confidence without improving performance.
-
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[llm]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-
-- [[higher-ed]]
-- [[rag]]
-- [[intelligent-tutoring]]
-- [[cs-education]]
-- [[socratic-method]]
-- [[knowledge-tracing]]
-## Connected Articles
-
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
-- [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-
-## Citation
-
-Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. [The International FLAIRS Conference Proceedings](https://doi.org/10.32473/flairs.39.1.141554), *39*(1). https://doi.org/10.32473/flairs.39.1.141554
-
----
-
 ## [CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution](https://edtechdev.github.io/aied/articles/cogevolution-student-cognitive-evolution-agent-2026/)
 
 > Zhang et al. (2026) propose **CogEvolution**, a [[generative-ai|generative]] educational [[pedagogical-agent|agent]] that simulates a student's **cognitive evolution** rather than merely cloning observable behavior. It couples three components — an ICAP-based [[icap-framework|cognitive depth perceptron]] that quantifies cognitive engagement, an [[item-response-theory|IRT]]-driven memory retrieval module that simulates the assimilation of new and prior knowledge, and an evolutionary-algorithm state update mechanism constrained by the [[scaffolding|Zone of Proximal Development]] — to model the dynamic transition from "static persona" to "dynamic cognitive flow." On a new CogMath-948 dataset of 1,245 real eighth-grade students, CogEvolution outperforms static persona and [[knowledge-tracing]] baselines on behavioral fidelity and learning-curve fitting (R²LC = 0.92), reproduces plausible cognitive evolutionary paths consistent with educational psychology, and offers a more interpretable paradigm for [[simulating-students|student simulation]].
@@ -25036,7 +24965,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
 
 ## Citation
@@ -26148,7 +26076,7 @@ Kirk Vanacore et al. (2026). [The Path to Conversational AI Tutors: Integrating 
 
 ## [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://edtechdev.github.io/aied/articles/correct-answer-trap-ai-tutor/)
 
-**Catching the Correct Answer Trap** — accepted at AIED 2026 — exposes a critical blind spot in [[intelligent-tutoring]] systems: they systematically fail to detect misconceptions when students arrive at correct answers through flawed reasoning. Using real student data from the Eedi mathematics platform, the authors characterize the 'Correct Answer Trap' (CAT), showing that 71% of failures concentrate in just two question types where erroneous reasoning accidentally produces the correct numerical answer. Even a frontier [[llm]] achieves only 84% detection accuracy while generating roughly 4 false alarms per genuine detection — making standalone automated screening impractical. This finding has profound implications for [[automated-assessment|Automated Grading]] and [[formative-assessment]] systems: high overall accuracy metrics can mask catastrophic failures in reasoning assessment. The work connects to [[llm-student-misconception-identification]] research on the gap between answer checking and reasoning evaluation, and to [[codify-socratic-programming-tutor]] findings that even Socratic AI tutors can miss deep misconceptions. The paper reinforces calls for [[human-in-the-loop-ai]] approaches in [[intelligent-tutoring]] and suggests that [[scaffolding]] designs should explicitly account for reasoning assessment, not just answer verification. The concentration of failures in predictable question types also suggests targeted improvements are possible.
+**Catching the Correct Answer Trap** — accepted at AIED 2026 — exposes a critical blind spot in [[intelligent-tutoring]] systems: they systematically fail to detect misconceptions when students arrive at correct answers through flawed reasoning. Using real student data from the Eedi mathematics platform, the authors characterize the 'Correct Answer Trap' (CAT), showing that 71% of failures concentrate in just two question types where erroneous reasoning accidentally produces the correct numerical answer. Even a frontier [[llm]] achieves only 84% detection accuracy while generating roughly 4 false alarms per genuine detection — making standalone automated screening impractical. This finding has profound implications for [[automated-assessment|Automated Grading]] and [[formative-assessment]] systems: high overall accuracy metrics can mask catastrophic failures in reasoning assessment. The work connects to [[llm-student-misconception-identification]] research on the gap between answer checking and reasoning evaluation, and to findings that even Socratic AI tutors can miss deep misconceptions. The paper reinforces calls for [[human-in-the-loop-ai]] approaches in [[intelligent-tutoring]] and suggests that [[scaffolding]] designs should explicitly account for reasoning assessment, not just answer verification. The concentration of failures in predictable question types also suggests targeted improvements are possible.
 
 ## Connected Concepts
 
@@ -26163,7 +26091,6 @@ Kirk Vanacore et al. (2026). [The Path to Conversational AI Tutors: Integrating 
 ## Connected Articles
 
 - [[llm-student-misconception-identification]]
-- [[codify-socratic-programming-tutor]]
 ## Citation
 
 Moiz Imran, Sahan Bulathwela (2026). [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://arxiv.org/abs/2605.23925). arXiv:2605.23925. AIED 2026.
@@ -27313,7 +27240,6 @@ Ganganath et al. (2026) introduce CURIOBOT, a framework that operationalizes Ber
 
 ## Connected Articles
 
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
 - [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
@@ -43017,7 +42943,6 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - [[instructional-design]]
 ## Connected Articles
 
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
@@ -48092,7 +48017,6 @@ Reinforcement learning is usually introduced through the Bellman update, yet the
 - [[experiential-learning]]
 ## Connected Articles
 
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio

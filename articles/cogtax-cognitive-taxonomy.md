@@ -1,7 +1,7 @@
 ---
 title: "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [llm, formative-assessment, stem-education, scaffolding, higher-ed, llm-in-education, rag]
 sources: ['raw/papers/2607.00140.md']
@@ -36,7 +36,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
 
 ## Citation

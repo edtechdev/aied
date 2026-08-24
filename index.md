@@ -252,7 +252,6 @@
 - [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 - [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise

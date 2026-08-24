@@ -1,7 +1,7 @@
 ---
 title: "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior"
 created: "2026-06-23T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [llm, intelligent-tutoring, metacognition, scaffolding, active-learning, self-regulated-learning]
 sources: ['raw/papers/2606.22349.md']
@@ -21,7 +21,6 @@ Ganganath et al. (2026) introduce CURIOBOT, a framework that operationalizes Ber
 
 ## Connected Articles
 
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
 - [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
