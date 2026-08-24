@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-24T10:36:00-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -19,6 +19,7 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 - **Applications and benefits.** A scoping review of 55 studies shows AI enhances pre-service teachers' instructional design, subject instruction, practical teaching skills, evaluation, reflective practice, [[critical-thinking|critical thinking]], technology integration, and pedagogical innovation.^[[harnessing-ai-preservice-teachers-scoping-2026]]
 - **Educational robotics and ML.** Initial teacher training embeds coding, robotics, and machine-learning activities (e.g., micro:bit) to build [[computational-thinking|computational thinking]] in future teachers.^[[microbit-robotics-machine-learning-teacher-training-2026]]
 - **Authentic assessment and metacognition.** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive AI feedback, and [[metacognition|metacognitive reflection]] in pre-service programs.^[[aaiwa-ai-authentic-assessment-metacognition-2026]]
+- **AI-supported inquiry in science education.** A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrated problem- and design-based learning into an 8-week AI-supported guided inquiry program on photosynthesis and respiration. It produced significant gains in conceptual understanding of the two biological processes, but *no* significant effect on AI literacy or self-perceived [[computational-thinking|computational thinking]] — a reminder that AI-IBL can deepen subject-matter understanding in teacher candidates without automatically building their AI/CT competencies, which require explicit, targeted design.
 
 ### In-service professional development
 
@@ -78,3 +79,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+- [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
