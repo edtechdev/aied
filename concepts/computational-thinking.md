@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T12:50:00-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 confidence: high
@@ -20,6 +20,14 @@ The wiki's connected articles converge on a central claim: computational thinkin
 - **LLMs as tools for CT assessment and development.** [[generative-ai|Generative AI]] offers scalable ways to measure and scaffold CT. [[llm-computational-thinking-physics-2026|Physics CT assessment research]] showed LLMs can mirror human raters in scoring growth in Data Practices and Computational Problem-Solving Practices across large-enrollment [[physics-education]] courses — while both humans and the LLM struggled with the more complex Systems Thinking construct, marking a clear boundary for automation. [[visual-query-tracer-declarative-logic-learning|Visual query tracing]] shows how visualization can scaffold abstract computation, building intuition that supports CT development. [[student-misconceptions-conditionals-loops-taxonomy|A taxonomy of conditionals-and-loops misconceptions]] provides fine-grained targets for [[scaffolding]] and for automated misconception detection, connecting to [[student-misconceptions-ai]]. These tools work best, however, when pedagogical design leads: [[llm-intervention-design-cs-review|the CS review]] found semester-long "Virtual Tutor" designs with scaffolded feedback consistently improved CT, whereas unstructured tool access increased frustration.
 
 - **CT across K-12, teacher education, and assessment redesign.** CT spans the whole [[k-12]] to [[higher-ed]] spectrum and is reshaping assessment. At the early-childhood end, AI-Play extends CT and AI literacy to Pre-K–K2 learners and non-technical families; at the university end, the [[genai-oop-programming-assessments-2026|OOP assessment study]] found 2026 GenAI systems outperform the average student on authentic programming exams yet still fail on interfaces, abstract classes, and inheritance — recurring conceptual gaps that mark exactly where CT remains hard to automate. [[solving-vs-evaluating-genai-solutions|A randomized A/B crossover study]] showed that evaluation-and-critique tasks produce comparable outcomes to generation, suggesting CT can be exercised through judging flawed AI solutions, though gains require deliberate scaffolding. Underpinning all of this is the teacher: the microbit study links CT instruction directly to [[teacher-education]], and [[hashmi-socratic-physics-chatbot-2025|Socratic chatbot research]] ties the precise problem formulation that CT demands to measurable course performance.
+
+### CT and the shift from AI consumers to producers, creators, and designers
+
+A central goal for CT in the AI era is moving students and instructors beyond *passive consumption* of AI outputs toward *creating, building, and designing* with and for AI — an agenda that aligns CT with constructionist learning (learning-by-making). The wiki's connected articles increasingly make this producer/creator/designer turn explicit. [[ai-writes-code-student-writes-model-2026|Model-authorship research]] reframes learning-by-construction with GenAI as a measurable "model authorship" process — students author, debug, and iterate on AI models rather than just consuming AI-generated code or answers. [[code-to-learn-genai-artifact-construction-2026|The CtL-GenAI framework]] operationalizes this as constructionism for the GenAI age, treating artifacts students build with AI as the engine of CT development. [[computational-thinking-ai-agent-creation|CT through AI-agent creation]] shows that designing, not merely using, AI agents exercises decomposition, abstraction, and algorithmic reasoning directly.
+
+The new meta-analytic evidence sharpens this picture. [[astor-computational-thinking-meta-review-2026|A meta-review of 128 CT systematic reviews]] finds the field converging on a unified definition of CT as reasoning with abstract models that use computational steps and algorithms to solve problems — precisely the kind of model-building (rather than answer-consuming) thinking that production-oriented learning demands. [[tsingidou-ct-robotics-kindergarten-2026|CT-kindergarten robotics research]] shows even early-childhood learners become producers through play-based building with robots, using problem-based learning, storytelling, and scaffolding — a developmental first step toward seeing technology as something one constructs, not just operates. And [[solving-vs-evaluating-genai-solutions|evaluation-and-critique research]] demonstrates that CT can be exercised through judging and debugging flawed AI solutions — a producer stance toward AI output that resists the passive-consumption trap.
+
+The practical upshot is that CT instruction should be designed so learners *make things with AI* — authoring models, building agents, constructing artifacts, and critiquing AI output — rather than receiving finished solutions. This both deepens CT and builds [[ai-literacy]] as participatory and creative rather than merely conceptual. Teachers, in turn, need support to move from using AI tools to designing AI-enhanced learning activities (see [[teacher-role]] and [[professional-training]]).
 
 ### Practical guidance
 
@@ -84,3 +92,5 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten

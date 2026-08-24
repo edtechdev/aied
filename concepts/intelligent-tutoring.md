@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -124,3 +124,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
+- [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies

@@ -1,7 +1,7 @@
 ---
 title: STEM Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-22T05:12:36-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 
@@ -89,3 +89,4 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 
 - [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
+- [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM

@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-22T17:10:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 confidence: high
@@ -51,3 +51,4 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[isaza-chatgpt-engineering-prompting-2026]] — Logged prompting and integration behaviors

@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [educational-robotics, robots-in-education, social-robots, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, embodied-learning]
 confidence: high
@@ -84,3 +84,4 @@ A defining theme is that robots are effective when they support genuine learning
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
+- [[tsingidou-ct-robotics-kindergarten-2026]] — Robot-mediated CT in kindergarten

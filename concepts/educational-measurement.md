@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-24T11:10:00-04:00"
+updated: "2026-08-24T12:50:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence]
@@ -14,6 +14,7 @@ Educational measurement is the discipline of turning observations about learning
 
 ## How educational measurement appears in the research
 
+- **AI's decade-long reshaping of the field:** [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] map AI's impact across three eras (Formative 2015–2018, Expansion 2019–2022, Generative 2023–present) via an Efficiency–Enhancement–Transformation framework, spanning AI on scoring and item generation, psychometric modeling, assessment innovation and process data, and fairness/ethics/equity. They argue for a new paradigm integrating measurement theory with AI methods and for reconceptualizing constructs in the context of human–AI interaction — the same boundary that [[assessment-latent-structure-human-llm-2026|latent-structure comparison]] probes empirically.
 - **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]).
 - **Psychometric awareness in AI [[assessment]]:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
@@ -108,3 +109,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement

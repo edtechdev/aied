@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-24T12:40:00-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, faculty-development, professional-training, assessment, ethics, higher-ed]
 confidence: high
@@ -66,3 +66,4 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
+- [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
