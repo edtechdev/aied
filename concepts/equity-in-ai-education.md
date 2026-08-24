@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-24T06:11:39-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [equity, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -102,3 +102,4 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics for education
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Highlights absence of low-income-country evidence

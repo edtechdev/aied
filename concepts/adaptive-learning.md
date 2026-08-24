@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -28,7 +28,10 @@ Generative AI has expanded what adaptive systems can do — conversational [[age
 
 Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
 
+- **Meta-analytic evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 RCTs pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
+
 - **Adaptive algorithms compared in dynamic domains.** [[graph-its-adaptive-algorithms-2026|Graph-based ITS research]] compares multiple adaptive learning algorithms (including Bayesian knowledge propagation and intuitionistic fuzzy logic) in a graph-based knowledge representation framework for dynamic curricula.
+
 ## Connected Concepts
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -81,3 +84,4 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis pooling adaptive + AI-enabled tools across 14 RCTs

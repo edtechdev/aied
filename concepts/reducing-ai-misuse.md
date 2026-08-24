@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-21T14:58:12-04:00"
+updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -96,3 +96,4 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[burneo-can-edtech-close-learning-gaps-2026]] — Guardrails removed harm without improving exam scores
