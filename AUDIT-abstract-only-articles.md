@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **66 wiki articles were ingested before the full text was available** — a violation of the
+These **64 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 66 prematurely-ingested articles
+## The 64 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -56,10 +56,8 @@ the key.
 | cold-start-knowledge-tracing-safeinsights | — |
 | cong-confidence-asag-2026 | — |
 | cotal-formative-assessment-scoring-2026 | — |
-| doyle-scaling-complex-thinking-ai-ibl-2026 | 10.58297/edu.2026.3.3.e183 |
 | educational-vlm-evaluation | — |
 | edumirror-educational-social-dynamics | — |
-| enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden | 10.1111/bjet.70072 |
 | face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning | 10.1016/j.caeai.2026.100610 |
 | favero-critical-ai-tutors-empower-enslave-2025 | — |
 | fouad-bentley-trust-utility-gap-physics-2026 | 10.1103/bdl1-6bn4 |
