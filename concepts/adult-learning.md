@@ -1,7 +1,7 @@
 ---
 title: Adult Learning
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T17:05:00-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium
@@ -18,7 +18,6 @@ Rooted in Knowles's andragogical model, adult learning assumes learners are self
 
 - **Adult, distance, and lifelong learning contexts.** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Rienties et al.]] show how the Open University designed and evaluated an embedded AI assistant (AIDA) through six design-based-research studies; students using it spent twice as long on the course, though the study warns that technical capability must be matched by [[governance]] and organizational readiness. [[ai-lifelong-learning-policy|Theodora and Tselios]] frame AI's dual role in adult and [[lifelong-learning]] as both an enabler of personalized, scalable education and a source of equity and governance risk, calling for inclusive, human-centered policy. [[community-centered-ai-education-adults|A Midwestern case study]] co-designed an AI-literacy program for 54 adults in an underserved community, finding that equity-oriented adult AI education must address foundational [[ai-literacy|digital literacy]] gaps, build [[trust]] around data privacy, and connect to lived experience. [[sovereign-hive-titl-further-education-2026|Herron's "Sovereign Hive" / Tutor-in-the-Loop framework]] treats GenAI equity in Further Education as atmospheric regulation rather than mere tool access, positioning the educator as the locus of relational and cognitive care for marginalized and [[neurodiversity|neurodivergent]] adult learners.
 
-- **Technical and structural factors in adult learning platforms.** [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions|The DigIQ framework]] shows that quality ratings for digital interactions are higher when learning intentions drive activity and technology transforms rather than replicates non-digital learning. [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|Ogunsakin et al.]] analyzed 226,000 user reviews across six MOOC and online platforms, finding that technical instability, limited offline functionality, unclear pricing, and regional payment restrictions depress engagement, retention, and inclusivity — reinforcing that adult learners in low-resource settings need accessible, reliable infrastructure.
 
 ## Connections to related concepts
 
@@ -30,7 +29,6 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - **Fit into busy adult lives.** Make tools asynchronous, mobile, and offline-capable, and connect content to real-world problems ([[ai-adult-learning-guidelines-dis2026|AI-ALOE guidelines]]).
 - **Keep a human in the loop.** Position the educator as the locus of relational and cognitive care, especially for marginalized and [[neurodiversity|neurodivergent]] adult learners ([[sovereign-hive-titl-further-education-2026|Tutor-in-the-Loop]]).
 - **Address foundational digital literacy and data trust.** Build [[ai-literacy]] and [[trust]] around data privacy before expecting adoption ([[community-centered-ai-education-adults|community AI education]]).
-- **Match capability with governance and reliability.** Technical capability must be matched by [[governance]] and organizational readiness ([[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]), and stable, reliable infrastructure is a precondition for engagement and retention ([[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|technical factors]]).
 - **Ground AI in learning science and andragogy, and prefer deep personalization.** Apply andragogical theory and connect content to real-world problems; favor deep personalization (task sequencing, difficulty calibration) over surface-level adaptation.
 - **Make transparency and community features first-class.** Data-practice transparency and social/community features are among the most neglected yet most valued dimensions of adult AI tools.
 - **Treat technical and structural reliability as a precondition.** Engagement depends as much on stable, inclusive infrastructure as on pedagogical quality — unstable or exclusionary platforms undermine otherwise sound design.
@@ -68,8 +66,6 @@ Adult learning sits at the intersection of several closely linked concepts in th
 - [[sovereign-hive-titl-further-education-2026]] — The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
 - [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New Systems of Learning for Distance Learning Institutions? A Six-Study Review of Implementing AIDA
-- [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]] — A Framework for Characterising and Capturing the Quality of Digital Interactions
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: How Technical and Structural Factors Shape Learner Engagement, Retention and Inclusivity
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
 - [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning

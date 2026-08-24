@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **78 wiki articles were ingested before the full text was available** — a violation of the
+These **77 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,11 +28,10 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 78 prematurely-ingested articles
+## The 77 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
-| a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions | 10.1111/bjet.70063 |
 | access-not-enough-ai-tutoring-2026 | 10.26300/pz7p-p388 |
 | adaptive-virtual-patient-psychotherapy-training | — |
 | agentic-ai-pedagogical-best-practice-2026 | — |
@@ -50,7 +49,6 @@ the key.
 | becerra-aicofe-feedback-2026 | — |
 | becker-chatgpt-typology-physics-2026 | 10.1103/gd1w-1637 |
 | benzion-ai-physics-simulations-virtual-lab | 10.1119/5.0252343 |
-| beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten | 10.1111/bjet.70066 |
 | botes-ai-oep-ibl-underresourced-2026 | 10.58418/ijeqqr.v5i1.189 |
 | bridging-instructional-design-framework-math | — |
 | brookings-ai-students-report | — |

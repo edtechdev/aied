@@ -1,13 +1,13 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:24:06-04:00"
+updated: "2026-08-24T16:50:00-04:00"
 type: concept
 tags: [edtech-platform, ai-education, lms, online-education, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity]
 confidence: high
 ---
 
-> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]^[[oatutor-open-source-adaptive-tutor-2023]]
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[oatutor-open-source-adaptive-tutor-2023]]
 
 The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
 
@@ -27,10 +27,6 @@ Platforms in AI in education perform several distinct functions:
 
 A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.^[[access-not-enough-ai-tutoring-2026]]
 
-### Platform design and structure shape engagement, retention, and inclusivity
-
-Analysis of 226,000+ user reviews across six major platforms (Coursera, edX, Udemy, Alison, uLesson, Khan Academy) found that **technical instability, limited offline functionality, and unclear pricing structures** negatively affect learner engagement and retention, while regional payment restrictions disproportionately disadvantage learners in low-resource settings. Platform architecture is therefore an equity and engagement variable, not just a technical one.^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
-
 ### The platform model matters: open vs. proprietary
 
 - **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
@@ -47,7 +43,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 ## Implications for design and research
 
 1. **Design for take-up, not just capability.** A platform's effectiveness depends on whether learners actually engage with it; support structures, onboarding, and scheduling matter as much as the AI itself.^[[access-not-enough-ai-tutoring-2026]]
-2. **Treat platform structure as an equity lever.** Technical instability, offline access, pricing, and regional payment restrictions all affect who benefits — platform design must be examined through an [[equity-in-ai-education]] lens.^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
+2. **Treat platform structure as an equity lever.** Who benefits from a platform depends on access, infrastructure, and engagement constraints — platform design must be examined through an [[equity-in-ai-education]] lens.^[[access-not-enough-ai-tutoring-2026]]
 3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.^[[oatutor-open-source-adaptive-tutor-2023]]
 4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.^[[ai-lms-middle-school-longitudinal]]
 
@@ -82,7 +78,6 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 
 - [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Technical and structural platform factors shape engagement, retention, and inclusivity
 - [[oatutor-open-source-adaptive-tutor-2023]] — An open-source adaptive tutoring platform for replicable research
 - [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
 - [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support

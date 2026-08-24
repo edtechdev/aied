@@ -1892,7 +1892,6 @@
   Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
   #generative-ai #higher-ed #computational-thinking #ai-tutoring #systematic-review #design-guidelines #ai-education
 
-- ◐ [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]]
   A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education
   #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation #efficacy-study
 
@@ -1920,7 +1919,6 @@
   Not all collaboration benefits from competition: Collaboration modes in a computational thinking game
   #computational-thinking #collaborative-learning #ai-education #ai-tutoring #educational-technology #edtech-platform
 
-- ◐ [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
   Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms
   #engagement-metrics #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 

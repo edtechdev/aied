@@ -4,7 +4,6 @@
 ---
 ## Concepts
 
-- [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]] — A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model
@@ -207,7 +206,6 @@
 - [[best-response-student-ai-dialog-2026]] — The Best Response to Student AI Use Is Not Detection, It Is Dialog
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms
 - [[bias-mitigation]] — Bias Mitigation
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Understanding ethical dimensions of AI in higher education: insights from faculty members and students
 - [[bilingual-llm-lecture-companion-srl-2026]] — A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol

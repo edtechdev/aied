@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-24T10:20:00-04:00"
+updated: "2026-08-24T17:10:00-04:00"
 type: concept
 tags: [feedback, feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 
@@ -86,6 +86,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and self-regulated learning: perceived source matters
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — GenAI-assisted peer feedback in collaborative argumentation

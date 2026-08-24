@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-08-23T15:45:00-04:00"
+updated: "2026-08-24T16:50:00-04:00"
 type: concept
 tags: [online-education, online-learning, distance-learning, mooc, blended-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 confidence: high
@@ -17,7 +17,6 @@ The rise of generative AI lands directly in this context. Online learners alread
 
 Online teaching and learning takes several related forms that share the medium but differ in reach and structure:
 
-- **Massive Open Online Courses (MOOC).** Large-scale courses designed for open, unlimited participation, typically delivered through a platform to thousands of learners. MOOCs excel at reach and scalability but have historically struggled to [[personalized-learning|personalize]] instruction. Generative AI and [[agentic-ai|agentic AI]] systems (see [[mooc-to-maic|MAIC]]) are being explored as a way to combine MOOC scalability with [[adaptive-learning|adaptive]], personalized support, shifting from "one video for N students" toward "N agents for 1 student." MOOC learners' [[academic-integrity|academic integrity]] and [[cognitive-offloading|cognitive offloading]] risks are heightened by the self-paced, often unproctored nature of the medium. Technical and structural factors — instability, limited offline functionality, unclear pricing, regional payment restrictions — also shape [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten|engagement, retention, and inclusivity]] across online platforms.
 - **Blended and hybrid learning.** Models that combine in-person and online components, intentionally integrating digital activities, materials, and interactions with face-to-face teaching. Blended formats ask instructors to decide what is best done synchronously vs. asynchronously and online vs. in person — decisions that [[instructional-design]] principles organize and that AI both supports and complicates. In the blended context, AI tools offer opportunities for [[personalized-learning|personalization]] and always-on support while raising integrity and offloading risks that span both the online and in-person portions.
 - **Distance education.** Programs designed for learners who study remotely, often at scale and across regions (e.g., the Open University's 200K+ learners). Distance learning is where 24/7, context-embedded AI support and the impossibility of in-person invigilation are most salient.
 
@@ -119,7 +118,6 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
 - [[enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden]] — Enhancing online learning outcomes through virtual companion AI
 - [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
-- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Beyond MOOCs: Learner engagement, retention, inclusivity
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Human-Centered GenAI Virtual Tutors
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University

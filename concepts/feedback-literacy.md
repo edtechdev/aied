@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-24T17:10:00-04:00"
 type: concept
 tags: [feedback-literacy, feedback, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, peer-review, writing-education]
 
@@ -64,6 +64,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[higher-ed]]
 
 ## Connected Articles
+- [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
