@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T10:15:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 
@@ -81,98 +81,57 @@ The wiki reflects a field in rapid evolution — from early intelligent tutoring
 AI in education connects to every concept in the wiki — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
-- [[community-of-inquiry]] — Community of Inquiry
-
-- [[business-education]]
-- [[ai-literacy]]
-- [[ai-technologies]]
-- [[behaviorism]]
-- [[learning-theories]]
-- [[intelligent-tutoring]]
-- [[generative-ai]]
-- [[llm]]
-- [[ai-ed-evaluation]]
-- [[pedagogy]]
-- [[research-methods-aied]]
-- [[limitations-in-aied-research]]
-- [[assessment]]
-- [[feedback]]
-- [[feedback-literacy]]
-- [[ai-feedback-quality]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[stakeholders]]
-- [[summative-assessment]]
-- [[teacher-role]]
-- [[teacher-ai-competency]]
-- [[human-ai-collaboration]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[educational-robotics]]
-- [[distributed-cognition]]
-- [[situated-learning]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
-- [[technology-acceptance-model]]
-- [[global-south]]
-- [[medical-education]]
-- [[humanities-education]]
-- [[teacher-education]]
-- [[english-education]]
-- [[discipline-specific-aied]]
-- [[problem-based-learning]]
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[eportfolio]]
-- [[business-education]]
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[ai-literacy]] — AI literacy
+- [[ai-technologies]] — AI technologies and techniques
+- [[intelligent-tutoring]] — Intelligent tutoring systems
+- [[generative-ai]] — Generative AI
+- [[llm]] — Large language models
+- [[ai-ed-evaluation]] — AI ed evaluation
+- [[pedagogy]] — Pedagogies and teaching strategies
+- [[research-methods-aied]] — Efficacy research methods
+- [[limitations-in-aied-research]] — Limitations of the AIED evidence base
+- [[assessment]] — Assessment
+- [[feedback]] — Feedback
+- [[learning-analytics]] — Learning analytics
+- [[personalized-learning]] — Personalized learning
+- [[adaptive-learning]] — Adaptive learning
+- [[stakeholders]] — People and audiences in AI education
+- [[teacher-role]] — Teacher role
+- [[teacher-ai-competency]] — Teacher AI competency
+- [[human-ai-collaboration]] — Human-AI collaboration
+- [[equity-in-ai-education]] — Equity in AI education
+- [[ethics]] — AI ethics
+- [[governance]] — AI governance
+- [[educational-policy-ai]] — Educational AI policy
+- [[educational-robotics]] — Robots in education
 ## Connected Articles
-- [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: AI integration in educational ecosystems
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[espino-ai-business-education-review-2026]]
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[interactive-online-learning-ai-2025]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[raza-farooq-aied-review-2020-2025]] — A comprehensive review of AIED research
 - [[liang-genai-systematic-review-human-ai-2026]] — GenAI in education: systematic review
 - [[brookings-ai-students-report]] — AI and the future of students
+- [[institutional-change-framework-ai]] — Institutional change framework for AI
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+- [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: AI integration in educational ecosystems
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Exploring organisational drivers of AI adoption in higher education
+- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: impact on learner engagement and satisfaction
+- [[ai-decision-support-online-learning-assessment-2026]] — AI-driven decision support for online learning and assessment
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-mediated learning and the restructuring of interpretive cognition
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
 - [[genai-policies-higher-ed-computing]] — GenAI policy in computing
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discord in GenAI completion
-- [[ai-interior-design-malaysia-2026]] — AI in design education
-- [[academic-league-of-ai-2026]]
-- [[prezenski-human-centered-ai-aided-learning]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[li-mroziak-reorienting-critical-ai-literacy]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[videla-embodied-ai-education-choreography]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
-
+- [[academic-league-of-ai-2026]] — Academic League of AI: teaching, research, and extension
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[kim-ai-andragogy-2026]] — AI applications in supporting andragogy (Kim et al. 2026)
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-augmented assessment of student anxiety (2026)
+- [[educational-robotics-pathways-2026]] — Pathways to learning AI-powered educational robotics (2026)
+- [[ai-ethics-bibliometric-2026]] — AI ethics and professional judgement: a bibliometric analysis (Mazlan et al. 2026)
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical and ecological framework for education
+- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
+- [[prezenski-human-centered-ai-aided-learning]] — How human-centered is AI-aided learning?
+- [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
+- [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
+- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
-
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI

@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-24T06:12:00-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -75,95 +75,48 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - **Productive failure engages metacognitive monitoring.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show productive-failure-based learning activates reflection on one's own attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks require learners to diagnose and correct their own errors — a metacognitive activity where AI gives clues rather than answers.
 ## Connected Concepts
 
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[self-directed-learning]]
 - [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[scaffolding]]
 - [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[student-experience]]
-- [[formative-assessment]]
-- [[prompt-engineering]]
+- [[scaffolding]]
 - [[agentic-ai]]
+- [[formative-assessment]]
+- [[self-directed-learning]]
+- [[ai-literacy]]
+- [[problem-based-learning]]
+- [[intelligent-tutoring]]
 - [[human-in-the-loop-ai]]
+- [[adaptive-learning]]
 - [[authentic-assessment]]
+- [[student-experience]]
 - [[learning-theories]]
-- [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
-- [[benali-genai-academic-writing-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[learn-framework-responsible-genai-pbl-2026]]
-- [[ai-communities-of-inquiry-2026]]
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-
-- [[ai-adoption-training-public-sector]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-learning-companions-framework]]
-- [[ai-making-us-stupid]]
-- [[ai-metacognition-stem-review]]
-- [[ai-powered-materials-discovery-ai-literacy]]
-- [[ai-tutor-safety-harms]]
-- [[aied-unfinished-mission-bypass]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[buggy-genai-code-student-responses]]
-- [[chatgpt-critical-creative-thinking-review]]
-- [[code-review-genai-cs1]]
-- [[codify-socratic-programming-tutor]]
-- [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
-
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
-- [[ai-cognitive-partner-co-regulation-learning]]
-- [[ensemble-cognition-philosophy-ai-education]]
-- [[genai-educational-outcomes-meta-analysis]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — HAIML: a human-centered AI metacognitive learning model (agency & reflective learning)
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion and aware pass-through of non-understanding
+- [[ai-metacognition-stem-review]] — AI tools scaffolding metacognition in STEM
+- [[ai-making-us-stupid]] — Is AI making us stupid? critique of cognitive offloading
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 education
 - [[tutoring-specific-vs-general-ai]] — General-purpose AI suppresses metacognition by completing reasoning
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
 - [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[agentic-ai-pedagogical-best-practice-2026]]
-
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
-- [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
-
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses willingness to say "I don't know", even with wrong advice and accuracy incentives
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and pedagogical best practice: the tension between automation and learning
+- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[productive-failure]] — Productive Failure
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-
+- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT critical and creative thinking: systematic review
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner: human-AI co-regulation in learning
+- [[codify-socratic-programming-tutor]] — Codify: an intelligent Socratic tutoring system for programming education
+- [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI code
+- [[ai-learning-companions-framework]] — Building AI companions that prioritise learning over performance
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI

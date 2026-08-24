@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-24T06:11:49-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -78,7 +78,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 ## Connected Concepts
 
 - [[computational-thinking]]
-- [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-assessment]]
 - [[prompt-engineering]]
@@ -88,74 +87,41 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[human-ai-collaboration]]
 - [[higher-ed]]
 - [[k-12]]
-- [[professional-training]]
 - [[educational-robotics]]
 - [[game-based-learning]]
-- [[project-based-learning]]
-- [[embodied-learning]]
-- [[llm]]
 - [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
-- [[collaborative-learning]]
-- [[discipline-specific-aied]]
 - [[teacher-education]]
 
 ## Connected Articles
-- [[zhan-chapman-genai-cs-education-2026]]
+- [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
+- [[code-review-genai-cs1]] — CS1 code review of AI-generated code
+- [[dura-llm-cs2]] — DURA: LLM assistants for CS2
+- [[reshaping-cs-education-genai]] — reshaping undergraduate CS curricula for GenAI
+- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26 agentic-software-engineering curriculum
+- [[test-driven-ai-assisted-learning]] — Test-Driven AI-Assisted Learning
 - [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
-
-- [[code-review-genai-cs1]]
-- [[dura-llm-cs2]]
-- [[debugtracker-classroom-debugging]]
-- [[llm-intervention-design-cs-review]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[reshaping-cs-education-genai]]
-- [[critical-engagement-code-completion]]
-- [[ai-generated-traces-novice-programmers]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[trust-reliance-ai-education-2026]]
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]]
-- [[chatgpt-teachable-agent-programming-lbt-2024]]
-- [[llm-programming-support-governance-cs-education]]
-- [[llm-automated-grading-programming-comparison-2026]]
-- [[golrang-propact-pair-programming-2026]]
-- [[suacode-african-students-motivations]]
-- [[neurodivergent-computing-students]]
-- [[cross-cultural-student-perceptions-genai-computing]]
-- [[student-perception-ai-use-collaboration]]
-- [[cost-of-ethics-crisis-cs-ethics-education]]
-- [[llm-computational-thinking-physics-2026]]
-- [[test-driven-ai-assisted-learning]]
-- [[prompt-coach-agentic-tutor-prompt-engineering]]
-- [[roboblockly-conversational-block-robotics-ct-2026]]
-- [[edusim-llm-robotic-simulation-education-2026]]
-- [[computational-thinking-educational-robotics-secondary-2026]]
-- [[game-based-gamified-robotics-education-review-2026]]
-- [[bots-blocks-project-based-robotics-education-2026]]
-- [[jost-llm-programming-education-learning-outcomes]]
-- [[genai-meta-analysis-programming-learning]]
-- [[microbit-robotics-machine-learning-teacher-training-2026]]
-- [[cstutorbench-slm-tutors]]
-- [[jeon-isd-agent-bench-2026]]
-- [[ai-engineering-computing-workforce-grey-literature-2026]]
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[educasim-cs1-instructional-practice]] — EducaSim: interactive simulacra for CS1 instructional practice
-
+- [[trust-reliance-ai-education-2026]] — trust vs. appropriate reliance during Python problem-solving
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — epistemic AI literacy in student-AI co-programming
+- [[chatgpt-teachable-agent-programming-lbt-2024]] — learning-by-teaching with ChatGPT
+- [[llm-programming-support-governance-cs-education]] — PEA framework for bounding LLM assistance
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[debugtracker-classroom-debugging]] — DebugTracker classroom debugging
+- [[llm-automated-grading-programming-comparison-2026]] — 18-model automated grading comparison
+- [[ai-generated-traces-novice-programmers]] — AI-generated animated traces
+- [[student-misconceptions-conditionals-loops-taxonomy]] — conditionals/loops misconception taxonomy
+- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming learning outcomes (Jošt et al.)
+- [[genai-meta-analysis-programming-learning]] — meta-analysis of GenAI and programming learning
+- [[golrang-propact-pair-programming-2026]] — dyadic pair-programming modeling
+- [[critical-engagement-code-completion]] — critical engagement with code completion
+- [[suacode-african-students-motivations]] — SuaCode smartphone-based coding in Africa
+- [[cross-cultural-student-perceptions-genai-computing]] — cross-cultural perceptions of AI-assisted coding
+- [[neurodivergent-computing-students]] — neurodivergent computing students
+- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit + ML in teacher training
+- [[computational-thinking-educational-robotics-secondary-2026]] — computational thinking and educational robotics
+- [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly embodied block programming
+- [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM natural-language robot control
+- [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction

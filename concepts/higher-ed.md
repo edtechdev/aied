@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-24T10:15:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -37,78 +37,23 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Concepts
 
-- [[business-education]]
-- [[eportfolio]]
-- [[problem-based-learning]]
-- [[self-directed-learning]]
-- [[remote-proctoring]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[generative-ai]]
-- [[llm]]
-- [[student-experience]]
-- [[faculty-development]]
-- [[academic-integrity]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[educational-policy-ai]]
-- [[regulation]]
-- [[professional-training]]
-- [[discipline-specific-aied]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[generative-ai]] — Generative AI technologies and models
+- [[llm]] — Large language models
+- [[student-experience]] — Student experience with AI in higher ed
+- [[faculty-development]] — Faculty development and AI readiness
+- [[academic-integrity]] — Academic integrity in an AI-capable student body
+- [[ai-literacy]] — AI literacy for students and faculty
+- [[assessment-validity]] — Assessment validity in the age of GenAI
+- [[educational-policy-ai]] — Educational policy on AI
+- [[regulation]] — Regulation of AI in education
+- [[remote-proctoring]] — Remote proctoring and automated exam integrity
+- [[self-directed-learning]] — Self-directed learning with AI
+- [[problem-based-learning]] — Problem-based learning with AI
+- [[teacher-role]] — Evolving teacher role in AI classrooms
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[alharbi-ethical-genai-eap-2026]]
-- [[rook-plumb-genai-curricula-student-insights-2026]]
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[luo-eaton-ai-student-feedback-ethics-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[nguyen-genai-global-south-review-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[fekete-ethical-ai-literacy-gaps-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[espino-ai-business-education-review-2026]]
-- [[drummond-genai-business-schools-framework-2026]]
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[pbl-biomedical-engineering-genai-2026]]
-- [[educators-engagement-ai-pbl-review-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[best-response-student-ai-dialog-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
-- [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed (Rudolph et al. 2025)
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-acceptance-preservice-science-teachers-2026]]
-- [[competency-based-education-genai-production-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[critical-media-literacy-education-2026]]
-- [[ai-generated-interactive-fiction-education-2026]]
-
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
@@ -118,54 +63,29 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-higher-ed-workforce-survey]] — AI in Higher Education Workforce Survey
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[academic-league-of-ai-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[ensemble-cognition-philosophy-ai-education]]
-- [[vargas-situated-learning-ai-review-2024]]
-- [[prezenski-human-centered-ai-aided-learning]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[vargas-ai-catalyst-situated-learning-2026]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[videla-embodied-ai-education-choreography]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI in higher education
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher ed
+- [[luo-eaton-ai-student-feedback-ethics-2026]] — AI in student feedback: ethics
+- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment with AI
+- [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
+- [[genai-student-experiences-uk-he-survey-2026]] — GenAI experiences among UK higher-education students (survey)
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity in higher education
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors vs. employers on AI skills for college graduates
 - [[generative-ai-reduced-study-time-math]] — 26.9% study-time decline among college students
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
+- [[ai-uk-higher-education-policy-2026]] — UK higher-education AI policy
+- [[ai-distance-education-systematic-review-2026]] — Systematic review of AI in distance education
+- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: engagement and satisfaction
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and automated proctoring
+- [[automated-online-exam-proctoring-decade-review-2026]] — Decade review of automated online exam proctoring
+- [[ai-tools-academic-work-cheating-2026]] — AI tools, academic work, and cheating
+- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
-
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use in self-directed learning
+- [[pchl-he-framework-genai-content-creation-2026]] — PCHL framework for GenAI content creation in higher ed
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
