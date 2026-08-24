@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-24T10:20:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -24,70 +24,47 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - **AI errors as provocations for higher-order thinking:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalises Bloom's higher-order levels (Analyze, Evaluate, Create) by having students interrogate AI-generated mistakes in a database course, with significant pre/post gains (Cohen's *d*=1.49) in subject-matter competency.
 ## Connected Concepts
 
-- [[problem-based-learning]]
-- [[student-experience]]
 - [[metacognition]]
-- [[faculty-development]]
 - [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[teacher-role]]
-- [[privacy]]
-- [[pedagogical-safety]]
-- [[regulation]]
+- [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[problem-based-learning]]
+- [[intelligent-tutoring]]
+- [[faculty-development]]
+- [[teacher-role]]
+- [[student-experience]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
-- [[benali-genai-academic-writing-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[rana-genai-design-thinking-2025]]
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[learn-framework-responsible-genai-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[genai-counter-learner-groupthink-2025]]
-- [[ai-tools-academic-work-cheating-2026]]
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
-
-- [[critical-media-literacy-education-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[li-mroziak-reorienting-critical-ai-literacy]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-- [[fowlin-operationalizing-learning-principles-ai]]
-- [[videla-embodied-ai-education-choreography]]
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses "I don't know" judgment even when the advice is wrong
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-mediated learning and the restructuring of interpretive cognition in SSH
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-
-- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
-
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[productive-failure]]
-
+- [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
+- [[videla-embodied-ai-education-choreography]] — Embodied cognition and AI in education
+- [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy
+- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
+- [[panciroli-ai-literacy-episodes-situated-learning]] — AI literacy via Episodes of Situated Learning
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing age-old learning principles with AI
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and college students' self-directed learning
+- [[genai-counter-learner-groupthink-2025]] — Countering learner groupthink with GenAI-introduced controversy in PBL
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL with ChatGPT adaptive scaffolding for critical thinking
+- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
+- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
+- [[ai-tools-academic-work-cheating-2026]] — Student perceptions of AI tools, ethics, and impact on critical thinking
+- [[probing-ai-generated-physics-solutions-2026]] — Preparing students to critique AI-generated physics solutions
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
+- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry

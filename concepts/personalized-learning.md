@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T13:30:00-04:00"
+updated: "2026-08-24T10:20:00-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
@@ -45,67 +45,49 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 
 ## Connected Concepts
 
+- [[adaptive-learning]] — Adaptive systems that tailor content, pacing, and difficulty to the learner in real time
+- [[intelligent-tutoring]] — Tutoring systems that model the learner and deliver individualized instruction
+- [[student-modeling]] — Representing learner knowledge, skills, and states that drive adaptation
+- [[knowledge-tracing]] — Inferring mastery of knowledge components from performance over time
+- [[cognitive-diagnosis]] — Diagnosing latent learner knowledge and attributes from responses
+- [[scaffolding]] — Support and fading calibrated to individual learner needs
+- [[student-experience]] — The learner's lived experience of personalization
+- [[learning-analytics]] — Data-driven measurement of learning that informs adaptation
+- [[formative-assessment]] — Ongoing assessment that signals what to adapt next
+- [[summative-assessment]] — Endpoint assessment whose comparability personalization complicates
+- [[generative-ai]] — LLM-based conversational personalization
+- [[edtech-platform]] — Platforms that deliver personalized learning at scale
+- [[higher-ed]] — Higher-education context for personalization
 - [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[adaptive-learning]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[formative-assessment]]
-- [[summative-assessment]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[stem-education]]
-- [[generative-ai]]
-- [[edtech-platform]]
-- [[ai-literacy]]
-- [[learning-analytics]]
-- [[teacher-role]]- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[nguyen-genai-global-south-review-2026]]
-- [[espino-ai-business-education-review-2026]]
-- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[interactive-online-learning-ai-2025]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
-- [[ai-guided-learning-audiovideo-2026]]
-
-- [[a4l-analytics-pipeline]]
-- [[adaptive-pretesting-retention]]
-- [[ai-adult-learning-guidelines-dis2026]]
-- [[ai-coaching-rl-skill-development]]
-- [[ai-generated-traces-novice-programmers]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[ai-learning-tools-engineering-education-needs]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[antiskillbench-persona-skills-privacy-2026]]
-- [[automated-presentation-coaching]]
-- [[cognitive-agent-compilation]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[ecnuclaw-k12-personalized-companion]]
-- [[empathy-coaching-chatbot]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[self-directed-growth-generative-ai-learning-analytics]]
-- [[vargas-situated-learning-ai-review-2024]]
-- [[prezenski-human-centered-ai-aided-learning]]
-- [[fowlin-operationalizing-learning-principles-ai]]
+- [[deeptutor]] — Agent-native personalization substrate for tutoring
+- [[learnmate2-llm-adaptive-learning]] — LLM-based adaptive learning tutor
+- [[chudziak-ai-math-tutoring-platform]] — Multi-agent adaptive math tutoring platform
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Personalized adaptive learning for elementary fractions
+- [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
+- [[ai-coaching-rl-skill-development]] — Reinforcement-learning coaching for skill development
+- [[courseblueprint-adaptive-video-generation]] — Adaptive video generation from course blueprints
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
-
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-
+- [[ai-lms-middle-school-longitudinal]] — Longitudinal adaptive learning in a middle-school LMS
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Lifelong learning graph framework
+- [[a4l-analytics-pipeline]] — Analytics pipeline for adaptive learning
+- [[trace-course-grade-prediction-2026]] — Course-grade prediction from learning traces
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with generative-AI learning analytics
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in personalized automated feedback
+- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support for online-learning assessment
+- [[ai-guided-learning-audiovideo-2026]] — AI-guided learning from audio and video
+- [[genai-higher-education-systematic-review-2026]] — Systematic review of generative AI in higher education
+- [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — AI-enhanced PBL with ChatGPT scaffolding
+- [[interactive-online-learning-ai-2025]] — Interactive online learning with AI
+- [[ecnuclaw-k12-personalized-companion]] — K-12 personalized learning companion
+- [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
+- [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
