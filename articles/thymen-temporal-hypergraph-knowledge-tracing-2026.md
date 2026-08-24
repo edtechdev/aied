@@ -1,7 +1,7 @@
 ---
 title: "Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Concept Interactions: A Temporal Hypergraph Memory Network"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-18"
+updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [knowledge-tracing, student-modeling, adaptive-learning, learning-analytics, educational-nlp, llm, formative-assessment, intelligent-tutoring]
 sources: ['raw/papers/10.1016_j.caeai.2026.100616.md']
@@ -42,7 +42,6 @@ THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and p
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Meta-Behavioral Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian Knowledge Tracing
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start Knowledge Tracing
 - [[knowledge-tracing-irt]] — Knowledge Tracing and IRT
 
 ## Citation

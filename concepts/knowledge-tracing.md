@@ -18,7 +18,6 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[difficulty-aware-dialogue-kt]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference
-- **Cold-start problem:** [[cold-start-knowledge-tracing-safeinsights]] examines model accuracy when students begin learning new skills
 
 ### Relationship to other concepts
 

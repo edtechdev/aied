@@ -1,7 +1,7 @@
 ---
 title: "A systematic mapping review at the intersection of artificial intelligence and self-regulated learning"
 created: "2026-08-24T17:00:00-04:00"
-updated: "2026-08-24T17:00:00-04:00"
+updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [self-regulated-learning, ai-education, systematic-review, higher-ed, adaptive-learning, metacognition, intelligent-tutoring, feedback, motivation]
 sources: ['raw/papers/banihashem-ai-srl-systematic-mapping-review-2025.md']
@@ -39,7 +39,6 @@ This mapping review is a central reference for the wiki's [[self-regulated-learn
 ## Connected Articles
 
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Adaptive learning technology, differentiated feedback, and SRL phases
-- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared vs. self-regulated learning patterns
 
 ## Citation
 
