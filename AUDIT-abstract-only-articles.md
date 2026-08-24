@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **57 wiki articles were ingested before the full text was available** — a violation of the
+These **56 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 57 prematurely-ingested articles
+## The 56 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -55,7 +55,6 @@ the key.
 | educational-vlm-evaluation | — |
 | edumirror-educational-social-dynamics | — |
 | favero-critical-ai-tutors-empower-enslave-2025 | — |
-| from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em | 10.1111/bjet.70083 |
 | genai-academic-search-workshop | — |
 | genai-minoritized-knowledges-disability | — |
 | generative-ai-interactive-textbook-in-electrotechnics-a-four-year-comparative-st | 10.1016/j.caeai.2026.100611 |

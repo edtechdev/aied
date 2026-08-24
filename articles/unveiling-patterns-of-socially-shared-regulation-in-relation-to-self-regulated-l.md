@@ -1,7 +1,7 @@
 ---
 title: "Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T19:30:00-04:00"
+updated: "2026-08-24T20:00:00-04:00"
 type: article
 tags: [higher-ed, self-regulated-learning, collaborative-learning, ai-education, ai-tutoring, educational-technology]
 sources: []
@@ -20,7 +20,6 @@ This study employed a three-layer analytical method combining cluster analysis, 
 
 ## Connected Articles
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 
 ## Citation## Citation
