@@ -183,6 +183,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
     body={body}
     sources={article.data.sources}
     connectedConceptSlugs={connectedConceptSlugs}
+    connectedFaqSlugs={connectedFaqs.map((f: any) => f.id.replace('.md', ''))}
   />
   <article data-pagefind-filter="page_type:article">
     <div class="page-header">

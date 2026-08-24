@@ -9,9 +9,9 @@
 //   body: string (markdown body)
 //   sources: string[] (article frontmatter sources)
 //   connectedConceptSlugs?: string[] (concept slugs for about/mentions)
-import { SITE, ORG_ID, WEBSITE_ID, doiFromSources, urlFromText, firstParagraph, conceptId } from '../lib/jsonld';
+import { SITE, ORG_ID, WEBSITE_ID, doiFromSources, urlFromText, firstParagraph, conceptId, faqId } from '../lib/jsonld';
 
-const { type, slug, title, created = '', updated = '', tags = [], body = '', sources = [], connectedConceptSlugs = [] } = Astro.props as {
+const { type, slug, title, created = '', updated = '', tags = [], body = '', sources = [], connectedConceptSlugs = [], connectedFaqSlugs = [] } = Astro.props as {
   type: 'article' | 'concept' | 'faq';
   slug: string;
   title: string;
@@ -21,6 +21,7 @@ const { type, slug, title, created = '', updated = '', tags = [], body = '', sou
   body?: string;
   sources?: string[];
   connectedConceptSlugs?: string[];
+  connectedFaqSlugs?: string[];
 };
 
 const pageUrl = `${SITE}/${type === 'faq' ? 'faqs' : type === 'article' ? 'articles' : 'concepts'}/${slug}/`;
@@ -49,6 +50,12 @@ const webPage = {
   "breadcrumb": { "@id": `${pageUrl}#breadcrumb` },
   "about": type === 'concept' ? { "@id": `${pageUrl}#concept` } : undefined
 };
+
+// mentions = connected concepts + connected FAQs as graph references
+const mentions = [
+  ...(connectedConceptSlugs || []).map(s => ({ "@id": conceptId(s) })),
+  ...(connectedFaqSlugs || []).map(s => ({ "@id": faqId(s) }))
+];
 
 // --- Article page graph ---
 function articleGraph() {
@@ -89,9 +96,9 @@ function articleGraph() {
 
   graph.push(scholarly);
 
-  // Connect to concepts the article is about
-  if (connectedConceptSlugs.length) {
-    graph[0].mentions = connectedConceptSlugs.map(s => ({ "@id": conceptId(s) }));
+  // Connect to concepts and FAQs the article is about
+  if (mentions.length) {
+    graph[0].mentions = mentions;
   }
 
   return graph;
@@ -99,6 +106,19 @@ function articleGraph() {
 
 // --- Concept page graph ---
 function conceptGraph() {
+  const conceptArticle: any = {
+    "@type": "Article",
+    "@id": `${pageUrl}#article`,
+    "url": pageUrl,
+    "headline": title,
+    "description": summary || undefined,
+    "about": { "@id": `${pageUrl}#concept` },
+    "publisher": { "@id": ORG_ID },
+    "keywords": keywords.length ? keywords : undefined,
+    "inLanguage": "en"
+  };
+  if (mentions.length) conceptArticle.mentions = mentions;
+
   return [
     {
       "@type": "DefinedTerm",
@@ -108,17 +128,7 @@ function conceptGraph() {
       "url": pageUrl,
       "inDefinedTermSet": { "@id": `${SITE}/concepts/#vocabulary` }
     },
-    {
-      "@type": "Article",
-      "@id": `${pageUrl}#article`,
-      "url": pageUrl,
-      "headline": title,
-      "description": summary || undefined,
-      "about": { "@id": `${pageUrl}#concept` },
-      "publisher": { "@id": ORG_ID },
-      "keywords": keywords.length ? keywords : undefined,
-      "inLanguage": "en"
-    }
+    conceptArticle
   ];
 }
 
