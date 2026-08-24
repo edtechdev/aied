@@ -21480,19 +21480,19 @@ Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI
 
 ## [Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review](https://edtechdev.github.io/aied/articles/ba-ai-agents-cscl-review-2026/)
 
-> **Synthesis:** This systematic literature review of 46 empirical studies (2014–2025) analyzes the roles and impacts of [[agentic-ai|AI agents]] within [[collaborative-learning|computer-supported collaborative learning (CSCL)]]. Guided by the community of inquiry model and learning engagement theory, it finds AI agents most frequently facilitate small-group collaboration and problem-solving via text-based online platforms, with functions spanning cognitive [[scaffolding]], social facilitation, and instructional orchestration. While cognitive gains are consistently reported, effects on behavioral, social, and emotional outcomes are context-dependent.
+> **Synthesis:** This systematic [[meta-analysis-systematic-review|literature review]] of 46 empirical studies (2014–2025) analyzes the roles and impacts of [[agentic-ai|AI agents]] within [[collaborative-learning|computer-supported collaborative learning (CSCL)]]. Guided by the [[community-of-inquiry|community of inquiry]] model and learning [[student-engagement|engagement]] theory, it finds AI agents most frequently facilitate small-group collaboration and problem-solving via text-based online platforms, with functions spanning cognitive [[scaffolding]], social facilitation, and instructional orchestration. While cognitive gains are consistently reported, effects on behavioral, social, and emotional outcomes are context-dependent.
 
 ## Key Findings
 
-1. **46 studies, post-secondary emphasis.** Most research is set in post-secondary settings, with mixed-methods designs most common; AI agents typically facilitate small-group collaboration and problem-solving through text-based online platforms.
+1. **46 studies, [[higher-ed|post-secondary]] emphasis.** Most research is set in post-secondary settings, with [[mixed-methods-research|mixed-methods]] designs most common; AI agents typically facilitate small-group collaboration and problem-solving through text-based online platforms.
 2. **Three agent functions.** AI agents perform cognitive scaffolding, social facilitation, and instructional orchestration, with recent developments enabling more adaptive and participatory roles.
-3. **Domain-aligned effects.** The alignment between agent functions and learning outcomes is strongest within the same domain, though important cross-domain influences are also evident.
+3. **Domain-aligned effects.** The alignment between agent functions and [[learning-gains|learning outcomes]] is strongest within the same domain, though important cross-domain influences are also evident.
 4. **Cognitive gains consistent, other outcomes context-dependent.** Cognitive gains are consistently reported, but behavioral, social, and emotional outcomes appear context-dependent — highlighting the need for nuanced agent design.
 5. **Need for equity and context-sensitive deployment.** The review underscores equitable access, expanded conceptual frameworks, and context-sensitive deployment for meaningful, responsible AI-agent integration in CSCL.
 
 ## Implications
 
-This review is the non-IBL companion paper, contributing to the wiki's [[agentic-ai|agent]] and [[collaborative-learning]] threads. It maps how AI agents (beyond chatbots) orchestrate and scaffold collaborative learning, connecting to [[pedagogical-agent|pedagogical agents]] and the community-of-inquiry model. For designers, the domain-alignment finding implies agent functions should be matched to intended outcomes, and cognitive scaffolding functions can reliably boost learning while social/emotional effects need contextual tuning. It connects to [[human-ai-collaboration]] and equity concerns.
+This review is the non-IBL companion paper, contributing to the wiki's [[agentic-ai|agent]] and [[collaborative-learning]] threads. It maps how AI agents (beyond chatbots) orchestrate and scaffold collaborative learning, connecting to [[pedagogical-agent|pedagogical agents]] and the community-of-inquiry model. For designers, the domain-alignment finding implies agent functions should be matched to intended outcomes, and cognitive scaffolding functions can reliably boost learning while social/emotional effects need contextual tuning. It connects to [[human-ai-collaboration]] and [[equity-in-ai-education|equity concerns]].
 
 ## Connected Concepts
 
@@ -23590,13 +23590,13 @@ Zhan, Y., & Yan, Z. (2026). [*Students' engagement with ChatGPT feedback: Implic
 
 ## [ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills](https://edtechdev.github.io/aied/articles/chatgpt-hints-human-tutor-learning-gains-2024/)
 
-> Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing ChatGPT-generated hints to human tutor-authored hints and a no-help control across four mathematics subject areas. Only the ChatGPT condition produced statistically significant learning gains versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.
+> Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing ChatGPT-generated hints to human tutor-authored hints and a no-help control across four [[math-education|mathematics]] subject areas. Only the ChatGPT condition produced statistically significant [[learning-gains|learning gains]] versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.
 
 Authoring help content for educational technologies is labor-intensive and costly — a full-time employee may take a year to produce a textbook's worth of material. If LLMs can generate hints with sufficiently low error and sufficient learning efficacy, they could alleviate the most time- and cost-intensive component of tutoring-system development and enable scaling to many domains. This study evaluates whether ChatGPT-generated worked-solution hints can do so.
 
 ## Study design
 
-A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk workers, all MTurk Masters with at least a high-school degree). Participants were randomly assigned to one of three hint conditions — **control** (no hints), **human tutor**, or **ChatGPT** — paired with one of four mathematics subjects drawn from OpenStax CC BY textbooks: Elementary Algebra, Intermediate Algebra, College Algebra, or Statistics. Each participant completed a 3-item pre-test, a 5-item acquisition phase in the OATutor platform, and a 3-item post-test (same questions as pre-test). ChatGPT hints were single worked-solution hints generated by prompting ChatGPT 3.5 with each problem's text; human hints came from the existing OATutor content library authored by UC Berkeley undergraduates.
+A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk workers, all MTurk Masters with at least a high-school degree). Participants were randomly assigned to one of three hint conditions — **control** (no hints), **human tutor**, or **ChatGPT** — paired with one of four mathematics subjects drawn from OpenStax CC BY textbooks: Elementary Algebra, Intermediate Algebra, College Algebra, or Statistics. Each participant completed a 3-item pre-test, a 5-item acquisition phase in the OATutor platform, and a 3-item post-test (same questions as pre-test). ChatGPT hints were single worked-solution hints generated by [[prompt-engineering|prompting]] ChatGPT 3.5 with each problem's text; human hints came from the existing OATutor content library authored by UC Berkeley undergraduates.
 
 ## Key findings
 
@@ -23616,7 +23616,7 @@ A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk work
 
 ## Implications for AI in education
 
-The findings suggest that **LLM-generated worked solutions can be as effective as human-authored tutoring content** while being produced in a fraction of the time (roughly 1/20th), opening the door to autonomous generation of effective mathematics tutoring content from arbitrary educational resources. However, the authors are explicit about caution: at a 32% raw error rate, **ChatGPT should not be used to give feedback the way a teacher or TA would** unless in a domain verified to have near-zero error. Where error mitigation cannot achieve near-zero rates, designers should frame LLM feedback as coming from an "imperfect robot" or peer-like source so students consider it critically. The error-reduction via [[hallucination-risk|self-consistency]] is central, and the findings ground the [[genai-performance-vs-learning|performance-vs-learning]] distinction by demonstrating genuine learning gains, not just performance.
+The findings suggest that **[[llm]]-generated worked solutions can be as effective as human-authored tutoring content** while being produced in a fraction of the time (roughly 1/20th), opening the door to autonomous generation of effective mathematics tutoring content from arbitrary educational resources. However, the authors are explicit about caution: at a 32% raw error rate, **ChatGPT should not be used to give feedback the way a teacher or TA would** unless in a domain verified to have near-zero error. Where error mitigation cannot achieve near-zero rates, designers should frame LLM feedback as coming from an "imperfect robot" or peer-like source so students consider it critically. The error-reduction via [[hallucination-risk|self-consistency]] is central, and the findings ground the [[genai-performance-vs-learning|performance-vs-learning]] distinction by demonstrating genuine learning gains, not just performance.
 
 ## Connected Concepts
 
@@ -24058,7 +24058,7 @@ Doğru, M. S., & Faulconer, E. K. (2026). [ChatGPT as a virtual laboratory teach
 
 ## [Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines](https://edtechdev.github.io/aied/articles/chen-preservice-teachers-chatgpt-lpa-2026/)
 
-> **Synthesis:** This person-centered latent profile analysis (LPA) of N = 128 Taiwanese pre-service teachers (68 STEM, 60 non-STEM) identifies four distinct ChatGPT-acceptance profiles — Pragmatic Evaluators (47.66%), Technology Pioneers (26.56%), Resistant Skeptics (14.06%), and Environmental Observers (11.72%) — and shows that disciplinary background strongly shapes profile membership (Cramer's V = 0.532). Critically, Resistant Skeptics report high perceived ease of use but very low behavioral intention, proving technical ease does not guarantee adoption. The study proposes a differentiated [[ai-literacy]] training framework for [[teacher-education|teacher education]].
+> **Synthesis:** This person-centered latent profile analysis (LPA) of N = 128 Taiwanese pre-service teachers (68 [[stem-education|STEM]], 60 non-STEM) identifies four distinct ChatGPT-acceptance profiles — Pragmatic Evaluators (47.66%), Technology Pioneers (26.56%), Resistant Skeptics (14.06%), and Environmental Observers (11.72%) — and shows that disciplinary background strongly shapes profile membership (Cramer's V = 0.532). Critically, Resistant Skeptics report high perceived ease of use but very low behavioral intention, proving technical ease does not guarantee adoption. The study proposes a differentiated [[ai-literacy]] training framework for [[teacher-education|teacher education]].
 
 ## Key Findings
 
@@ -27795,7 +27795,7 @@ Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writin
 
 ## [Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science](https://edtechdev.github.io/aied/articles/dai-chatbots-problem-posing-primary-2026/)
 
-> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. Chatbots significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced cognitive load while raising technology acceptance.
+> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. [[pedagogical-agent|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising technology acceptance.
 
 ## Key Findings
 
@@ -27806,7 +27806,7 @@ Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writin
 
 ## Implications
 
-This provides empirical evidence for introducing [[generative-ai|GenAI]] tools into [[inquiry-based-learning|inquiry-based learning]] in primary science. The chatbot's advantage — improving question *quality* and integrating cognitive networks while reducing cognitive load — positions conversational AI as a scaffold for [[metacognition|inquiry]] and questioning rather than a mere answer-provider. For [[k-12|primary STEM education]], it shows GenAI can support the generative, questioning dimension of inquiry that has been underemphasized.
+This provides empirical evidence for introducing [[generative-ai|GenAI]] tools into [[inquiry-based-learning|inquiry-based learning]] in primary science. The chatbot's advantage — improving question *quality* and integrating cognitive networks while reducing cognitive load — positions conversational AI as a [[scaffolding|scaffold]] for [[metacognition|inquiry]] and questioning rather than a mere answer-provider. For [[k-12|primary STEM education]], it shows GenAI can support the generative, questioning dimension of inquiry that has been underemphasized.
 
 ## Connected Concepts
 
@@ -34349,24 +34349,53 @@ Cruces, G., Fernandez Meijide, D., Galiani, S., Galvez, R., & Lombardi, M. (2026
 
 ## [Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines](https://edtechdev.github.io/aied/articles/generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema/)
 
-> **Synthesis:** This systematic scoping review examines the use of GenAI to support the teaching of computational thinking skills. Results reveal a young but rapidly growing research field, with most interventions focusing on undergraduate students and basic programming tasks. GenAI is typically used as a coder, tutor, debugger, or ideator, with mixed effects on [[learning-gains|learning outcomes]]. A key challenge is the tension between overreliance by beginners and under-utilization by advanced learners. Seven design guidelines are derived to effectively integrate GenAI for CT while minimizing risks.
+> **Synthesis:** Ouaazki, Shibani, Knight, and Holzer conduct a systematic [[meta-analysis-systematic-review|scoping review]] of studies (screened from 1,198 initial results) examining how [[generative-ai|Generative AI]] is used to support the teaching of [[computational-thinking|computational thinking]] (CT), and derive design guidelines. The field is young but rapidly growing: most interventions target undergraduate students on basic programming tasks, often using off-the-shelf tools with limited integration. GenAI typically plays one of four roles — **coder, tutor, debugger, or ideator** — with mixed effects on [[learning-gains|learning outcomes]]. A central challenge is the tension between **overreliance by beginners**, who may offload thinking to GenAI, and **under-utilization by advanced learners** in complex projects. Seven design guidelines distill how to integrate GenAI for CT effectively while minimizing risks.
 
 ## Key Findings
 
-This systematic scoping review examines the use of GenAI to support the teaching of computational thinking skills. Results reveal a young but rapidly growing research field, with most interventions focusing on undergraduate students and basic programming tasks. GenAI is typically used as a coder, tutor, debugger, or ideator, with mixed effects on learning outcomes. A key challenge is the tension between overreliance by beginners and under-utilization by advanced learners. Seven design guidelines are derived to effectively integrate GenAI for CT while minimizing risks.
+- **Young but rapidly growing field.** From 1,198 articles screened in October 2024, the included studies show most GenAI-for-CT interventions focus on undergraduate students and basic programming tasks, frequently using off-the-shelf tools with limited integration into the course.
+- **Four recurring GenAI roles.** GenAI is typically used as a **coder**, **tutor**, **debugger**, or **ideator**, with mixed (sometimes null) effects on learning outcomes depending on how the tool is configured and scaffolded.
+- **The overreliance–under-utilization tension.** Beginners tend to over-rely on GenAI, offloading their thinking (see [[cognitive-offloading]]), while advanced learners may under-use it in complex projects — a two-sided design problem that no single configuration solves.
+- **Coding assistance can support or supplant learning.** Using GenAI to generate or debug code can enhance learning when combined with [[computational-thinking]] concepts in open-ended projects, but can undermine skill acquisition when it bypasses the learner's own algorithmic thinking.
+- **Seven design guidelines** (below) provide actionable direction for educators and system designers.
+
+## The seven design guidelines
+
+1. **Guide GenAI use for beginners** — explain the risks and promote tutor-style [[prompt-engineering|prompting]] to support students in using GenAI as-is, while protecting against uncritical acceptance.
+2. **Confine GenAI interactions for novice and young learners** — for teenagers and beginners, use GenAI in a controlled, limited manner.
+3. **Combine GenAI with CT concepts in open-ended projects** — expand GenAI's role beyond solution generation to include coding, debugging, and ideation within tasks that require students to engage CT concepts themselves.
+4. **Explore advanced learning-experience integration** — leverage GenAI in more advanced roles (e.g., as a pair-programmer) to promote higher-order [[student-engagement|engagement]] and [[self-regulated-learning|self-regulated learning]] (e.g., [[socratic-method|Socratic]]-style prompting).
+5. **Measure outcomes for reflection** — embed mechanisms that promote both learner and instructor reflection on GenAI use, since the review finds outcome measurement is often weak.
+6. **Design learning experiences with digital [[ethics]] and integrity in mind** — address privacy, bias, and [[academic-integrity|academic integrity]] concerns, mitigating issues by design (e.g., privacy-by-design).
+7. **Rethink targeted skills for CT** — evaluate which skills students should actually acquire in CT education, balancing instruction between algorithmic thinking and other CT dimensions.
+
+## Implications
+
+This review gives educators and [[ai-education|AI-in-education]] designers a roadmap for using GenAI to teach CT without sacrificing the underlying [[computational-thinking]] skills. The overreliance/under-utilization tension means the same tool needs different [[scaffolding]] for different learner levels — guidance and tutor-style prompting for beginners, richer open-ended integration for advanced learners. The seven guidelines align with the broader shift from seeing [[generative-ai|GenAI]] as an answer-provider to treating it as a scaffolded partner in [[cs-education|CS education]] and CT, and echo the wiki's emphasis on distinguishing genuine [[learning-gains|learning]] from mere performance (see [[genai-performance-vs-learning]]).
 
 ## Connected Concepts
-- [[generative-ai]]
-- [[computational-thinking]]
+
+- [[generative-ai]] — the technology under review
+- [[computational-thinking]] — the skill GenAI is used to teach
+- [[ai-education]] — the umbrella field
+- [[cs-education]] — CT's disciplinary home
+- [[learning-gains]] — the outcome most reviews find mixed
+- [[cognitive-offloading]] — the overreliance risk for beginners
+- [[self-regulated-learning]] — supported via advanced GenAI roles
+- [[academic-integrity]] — an ethical guideline target
 
 ## Connected Articles
+
 - [[liang-genai-systematic-review-human-ai-2026]]
 - [[learning-by-chatting-genai-impact]]
 - [[genai-usage-design-students-survey]]
 - [[genai-mindtool-generative-learning]]
+- [[computational-thinking-ai-agent-creation]]
+- [[astor-computational-thinking-meta-review-2026]]
 
 ## Citation
-Ouaazki, A., Shibani, A., Knight, S., & Holzer, A. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). *Computers and Education: Artificial Intelligence.*
+
+Ouaazki, A., Shibani, A., Knight, S., & Holzer, A. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). *Computers and Education: Artificial Intelligence*, 10, 100608.
 
 ---
 
@@ -38016,7 +38045,7 @@ Jin, Y., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2025). [*GLAT: The ge
 
 ## Summary
 
-Jošt, Taneski, and Karakatič (2024) conducted a ten-week experiment with 32 second-year undergraduate students learning React to examine how informal (unrestricted but not explicitly encouraged) use of large language models (LLMs) such as ChatGPT and Copilot relates to learning outcomes in programming education. Students used LLMs freely across four assignments over nine weeks, then completed a controlled-phase assignment in week ten in which LLM use was prohibited (Google and official React documentation were allowed). Reported LLM use was captured via a post-grade questionnaire on a five-point Likert scale, and performance was measured by final assignment grade. Using one-sided non-parametric Spearman's correlation tests with bootstrap confidence intervals, the authors found a significant negative correlation between overall average LLM use and final grades (rho = −0.347, p = 0.026). Breaking usage down by task, reliance on LLMs for code generation (rho = −0.305, p = 0.045) and for debugging (rho = −0.360, p = 0.021) were both significantly negatively associated with grades, whereas use for seeking additional explanations was not significantly correlated (rho = −0.201, p = 0.135). The authors conclude that LLMs serve best as supplementary learning aids and that their use for critical-thinking-intensive tasks can undermine the independent problem-solving skills central to programming education.
+Jošt, Taneski, and Karakatič (2024) conducted a ten-week experiment with 32 second-year undergraduate students learning React to examine how informal (unrestricted but not explicitly encouraged) use of [[llm|large language models (LLMs)]] such as ChatGPT and Copilot relates to learning outcomes in [[cs-education|programming education]]. Students used LLMs freely across four assignments over nine weeks, then completed a controlled-phase assignment in week ten in which LLM use was prohibited (Google and official React documentation were allowed). Reported LLM use was captured via a post-grade questionnaire on a five-point Likert scale, and performance was measured by final assignment grade. Using one-sided non-parametric Spearman's correlation tests with bootstrap confidence intervals, the authors found a significant negative correlation between overall average LLM use and final grades (rho = −0.347, p = 0.026). Breaking usage down by task, reliance on LLMs for code generation (rho = −0.305, p = 0.045) and for debugging (rho = −0.360, p = 0.021) were both significantly negatively associated with grades, whereas use for seeking additional explanations was not significantly correlated (rho = −0.201, p = 0.135). The authors conclude that LLMs serve best as supplementary learning aids and that their use for [[critical-thinking]]-intensive tasks can undermine the independent problem-solving skills central to programming education.
 
 ## Key Findings
 
@@ -38030,7 +38059,7 @@ Jošt, Taneski, and Karakatič (2024) conducted a ten-week experiment with 32 se
 
 ## Implications
 
-The study provides empirical evidence that how LLMs are used—not merely whether they are used—matters for [[learning-gains|learning outcomes]] in programming education. When students lean on LLMs to generate code or to debug for them, their independent problem-solving ability appears to suffer, as reflected in lower final grades even on an LLM-free, controlled assignment. In contrast, using LLMs to obtain explanations appears comparatively benign and potentially supportive. This suggests educators should not treat LLMs as uniformly beneficial or harmful, but should design instruction that constrains reliance on LLMs for tasks where the learning objective is the skill itself, while permitting their use for supplementary explanation and understanding. The finding that "the tool can do the task" does not mean the learner acquires the skill resonates with concerns about over-reliance and cognitive offloading in AI-mediated learning. A balanced integration—delaying LLM exposure until foundational principles are mastered and pairing AI assistance with human guidance—emerges as a practical pedagogical strategy. The modest sample also underscores the need for larger, longer-term replication before strong policy conclusions are drawn.
+The study provides empirical evidence that how LLMs are used—not merely whether they are used—matters for [[learning-gains|learning outcomes]] in programming education. When students lean on LLMs to generate code or to debug for them, their independent problem-solving ability appears to suffer, as reflected in lower final grades even on an LLM-free, controlled assignment. In contrast, using LLMs to obtain explanations appears comparatively benign and potentially supportive. This suggests educators should not treat LLMs as uniformly beneficial or harmful, but should design instruction that constrains reliance on LLMs for tasks where the learning objective is the skill itself, while permitting their use for supplementary explanation and understanding. The finding that "the tool can do the task" does not mean the learner acquires the skill resonates with concerns about over-reliance and [[cognitive-offloading|cognitive offloading]] in AI-mediated learning. A balanced integration—delaying LLM exposure until foundational principles are mastered and pairing AI assistance with human guidance—emerges as a practical [[pedagogy|pedagogical]] strategy. The modest sample also underscores the need for larger, longer-term replication before strong policy conclusions are drawn.
 
 ## Connected Concepts
 
@@ -39260,7 +39289,7 @@ Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026). [Learning Eng
 
 ## [Learning-to-learn in the age of generative AI: A scoping review and conceptual framework](https://edtechdev.github.io/aied/articles/learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr/)
 
-> **Synthesis:** This paper presents a scoping review of learning-to-learn (L2L) definitions within pedagogical and psychological literature, identifying 21 relevant publications via PRISMA-ScR. It proposes a novel three-layered framework organized by conceptual broadness: Dimensions (cognitive and metacognitive skills), Processes (self-regulation), and Tools (retrieval practice). The framework maps L2L components to GenAI application use cases in higher education, positioning L2L as key to reducing GenAI overreliance and fostering learner agency.
+> **Synthesis:** This paper presents a [[meta-analysis-systematic-review|scoping review]] of learning-to-learn (L2L) definitions within [[pedagogy|pedagogical]] and psychological literature, identifying 21 relevant publications via PRISMA-ScR. It proposes a novel three-layered framework organized by conceptual broadness: Dimensions (cognitive and metacognitive skills), Processes (self-[[regulation]]), and Tools (retrieval practice). The framework maps L2L components to [[generative-ai|GenAI]] application use cases in higher education, positioning L2L as key to reducing GenAI overreliance and fostering learner agency.
 
 ## Key Findings
 
@@ -40217,7 +40246,7 @@ Liu, M., Hashim, H., & Sulaiman, N. A. (2026). [*A systematic review of emerging
 
 ## [Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education](https://edtechdev.github.io/aied/articles/liu-tool-tutor-crutch-programming-2026/)
 
-> **Synthesis:** This [[constructivist]] grounded-theory study (N = 24 AI-enabled + 17 contrast undergraduates in Java programming) builds a process-level model of how learners navigate the tension between "Domain Mastery" (conceptualization, explanation, evaluation) and "Tool Mastery" (procedural efficiency with AI) through two recurrent loops — **Scaffolding** and **Offloading** — interpreted through cognitive load theory and [[self-determination-theory|self-determination theory]]. It explains how performance and affect gains can co-occur with thinner germane processing and attenuated [[metacognition|metacognitive calibration]] under routine offloading.
+> **Synthesis:** This [[constructivist]] grounded-theory study (N = 24 AI-enabled + 17 contrast undergraduates in Java programming) builds a process-level model of how learners navigate the tension between "Domain Mastery" (conceptualization, explanation, evaluation) and "Tool Mastery" (procedural efficiency with AI) through two recurrent loops — **[[scaffolding]]** and **Offloading** — interpreted through cognitive load theory and [[self-determination-theory|self-determination theory]]. It explains how performance and affect gains can co-occur with thinner germane processing and attenuated [[metacognition|metacognitive calibration]] under routine offloading.
 
 ## Key Findings
 
@@ -40225,7 +40254,7 @@ Liu, M., Hashim, H., & Sulaiman, N. A. (2026). [*A systematic review of emerging
 2. **Two recurrent loops: Scaffolding and Offloading.** The tension model centers on a Scaffolding Loop (AI support that preserves learning) and an Offloading Loop (routine delegation that reduces germane processing), with boundary conditions (time pressure, task complexity/familiarity, scaffolding design) shaping movement between them.
 3. **Trust-but-Can't-Verify and a Boilerplate Blindspot.** Novices struggle to verify AI output; more experienced students develop a blindspot for boilerplate/generic code — two distinct evaluation challenges.
 4. **Attenuated metacognitive calibration.** A mismatch between perceived readiness and independent capability co-occurs with sustained [[cognitive-offloading|offloading]], echoing [[ai-making-us-stupid|overconfidence]] research.
-5. **Concrete instructional strategies.** The model proposes dedicated 'critique-the-AI' phases, planned fading of AI assistance through offline tasks, verification journals, and contrastive prompting — shifting the debate from 'use or ban' to *how and when* the tool aligns with learning goals.
+5. **Concrete instructional strategies.** The model proposes dedicated 'critique-the-AI' phases, planned fading of AI assistance through offline tasks, verification journals, and contrastive [[prompt-engineering|prompting]] — shifting the debate from 'use or ban' to *how and when* the tool aligns with learning goals.
 
 ## Implications
 
@@ -58581,7 +58610,7 @@ Zhang, L., Carter, R. A., Jr., Liu, Y., & Peng, P. (2024). [*Let's CHAT About Ar
 
 ## Implications
 
-This instrument advances [[assessment]] of [[computational-thinking]] in the [[generative-ai|AI]] era at the higher-education level, giving [[cs-education|CS and AI programs]] a validated measure grounded in Evidence-Centered Design and IRT. The diagnostic profile of common difficulties (data representation, operator sequencing, loop structures) provides concrete pedagogical targets for introductory text-based programming and AI training curricula.
+This instrument advances [[assessment]] of [[computational-thinking]] in the [[generative-ai|AI]] era at the higher-education level, giving [[cs-education|CS and AI programs]] a validated measure grounded in Evidence-Centered Design and IRT. The diagnostic profile of common difficulties (data representation, operator sequencing, loop structures) provides concrete [[pedagogy|pedagogical]] targets for introductory text-based programming and AI training curricula.
 
 ## Connected Concepts
 
@@ -58708,18 +58737,18 @@ Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, 
 
 ## [Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments](https://edtechdev.github.io/aied/articles/zhao-genai-higher-order-thinking-meta-2026/)
 
-> **Synthesis:** This meta-analysis integrates 29 experimental and quasi-experimental studies to quantify the overall effect of [[generative-ai|generative AI]] on learners' higher-order thinking (HOT) and examine moderators. GenAI exerts a **moderate positive effect** on HOT, strongest for **problem-solving**, followed by **critical thinking**, with a relatively limited effect on **creativity**. Effects are significantly moderated by intervention duration (strongest at 8–16 weeks) and learners' [[self-regulated-learning|self-regulated learning]] abilities (higher SRL → more benefit).
+> **Synthesis:** This [[meta-analysis-systematic-review|meta-analysis]] integrates 29 experimental and quasi-experimental studies to quantify the overall effect of [[generative-ai|generative AI]] on learners' higher-order thinking (HOT) and examine moderators. GenAI exerts a **moderate positive effect** on HOT, strongest for **problem-solving**, followed by **critical thinking**, with a relatively limited effect on **creativity**. Effects are significantly moderated by intervention duration (strongest at 8–16 weeks) and learners' [[self-regulated-learning|self-regulated learning]] abilities (higher SRL → more benefit).
 
 ## Key Findings
 
 1. **Moderate overall positive effect on higher-order thinking.** Across 29 studies, GenAI improved learners' HOT to a moderate degree.
 2. **Problem-solving > critical thinking > creativity.** The most significant improvement was in problem-solving abilities, followed by critical thinking, while the effect on creativity was relatively limited.
 3. **Duration matters.** Effects were strongest when interventions lasted 8–16 weeks — medium- to long-term integration is recommended.
-4. **Self-regulated learning amplifies benefit.** Learners with higher SRL capacities benefited more substantially, suggesting dynamic, personalized scaffolding of SRL maximizes GenAI's educational potential.
+4. **Self-regulated learning amplifies benefit.** Learners with higher SRL capacities benefited more substantially, suggesting dynamic, personalized [[scaffolding]] of SRL maximizes GenAI's educational potential.
 
 ## Implications
 
-This meta-analysis provides quantitative grounding for the wiki's AI-and-thinking threads: [[generative-ai|GenAI]] can improve [[critical-thinking|higher-order thinking]], but the effect is moderate, uneven across HOT sub-dimensions, and conditional on duration and [[self-regulated-learning|SRL]]. It directly informs [[inquiry-based-learning|inquiry-based learning]] and AI-integration guidance: GenAI should be systematically integrated as a targeted instructional tool, with medium-term (8–16 week) interventions and SRL scaffolding, while creative thinking needs explicit pedagogical support within existing frameworks. It connects to [[ai-education]] and the performance-vs-learning literature.
+This meta-analysis provides [[quantitative-research|quantitative]] grounding for the wiki's AI-and-thinking threads: [[generative-ai|GenAI]] can improve [[critical-thinking|higher-order thinking]], but the effect is moderate, uneven across HOT sub-dimensions, and conditional on duration and [[self-regulated-learning|SRL]]. It directly informs [[inquiry-based-learning|inquiry-based learning]] and AI-integration guidance: GenAI should be systematically integrated as a targeted instructional tool, with medium-term (8–16 week) interventions and SRL scaffolding, while [[creativity|creative thinking]] needs explicit [[pedagogy|pedagogical]] support within existing frameworks. It connects to [[ai-education]] and the performance-vs-learning literature.
 
 ## Connected Concepts
 
