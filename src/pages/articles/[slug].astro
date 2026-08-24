@@ -11,11 +11,18 @@ export async function getStaticPaths() {
 const { slug } = Astro.params;
 const articles = await getCollection('articles');
 const concepts = await getCollection('concepts');
+const faqs = await getCollection('faqs');
 const article = articles.find(a => a.id.replace('.md', '') === slug);
 if (!article) return Astro.redirect('/aied/');
 
 // For canonical wikilink routing: map slug -> canonical base path
 const conceptSlugs = new Set(concepts.map(c => c.id.replace('.md', '')));
+const faqById = new Map(faqs.map(f => [f.id.replace('.md', ''), f]));
+
+// Connected FAQs: slugs in frontmatter `connected_faqs`
+const connectedFaqs = (article.data.connected_faqs || [])
+  .map(s => faqById.get(s))
+  .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
 const { title, tags, confidence, created, updated } = article.data;
 const createdDisplay = (created || '').split('T')[0];
@@ -174,6 +181,21 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={renderMarkdown(body, title)} />
     </div>
+
+    {connectedFaqs.length > 0 && (
+      <section style="margin-top:2.5rem;">
+        <h2 style="border-bottom:2px solid var(--primary);padding-bottom:0.5rem;">Connected FAQs</h2>
+        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
+          {connectedFaqs.map(f => (
+            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
+              <a href={`/aied/faqs/${f.id.replace('.md', '')}`} style="font-weight:500;color:var(--primary);text-decoration:none;">
+                ❓ {f.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
 
     <SourceButtons filePath={`articles/${article.id}.md`} />
   </article>

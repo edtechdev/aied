@@ -1,0 +1,32 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const faqs = await getCollection('faqs');
+const sorted = faqs.slice().sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''));
+---
+
+<BaseLayout title="FAQ">
+  <h1>❓ Frequently Asked Questions</h1>
+  <p style="color:var(--muted-color);margin-bottom:1.5rem;">
+    Answers to common questions about AI in education, distilled from the wiki's research synthesis.
+  </p>
+
+  {sorted.length === 0 && <p>No FAQs yet.</p>}
+
+  <ul class="faq-list" style="list-style:none;padding:0;margin:0;">
+    {sorted.map(f => {
+      const href = `/aied/faqs/${f.id.replace('.md', '')}`;
+      return (
+        <li style="padding:0.75rem 0;border-bottom:1px solid var(--card-border-color);">
+          <a href={href} style="font-weight:600;color:var(--primary);text-decoration:none;font-size:1.05rem;">
+            {f.data.title}
+          </a>
+          <div style="color:var(--muted-color);font-size:0.8rem;margin-top:0.25rem;">
+            {(f.data.created || '').split('T')[0]}
+          </div>
+        </li>
+      );
+    })}
+  </ul>
+</BaseLayout>
