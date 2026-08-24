@@ -82,3 +82,5 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction

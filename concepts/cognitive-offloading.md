@@ -202,3 +202,5 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)

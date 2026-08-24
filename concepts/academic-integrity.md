@@ -128,3 +128,4 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)

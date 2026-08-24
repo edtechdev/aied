@@ -93,3 +93,4 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution

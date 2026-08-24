@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T15:45:00-04:00"
+updated: "2026-08-24T14:00:00-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -40,6 +40,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])
 - **Coauthorship and declaration** as part of the assessment contract
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
+- **Assessing the interaction process, not just the artifact** — the [[assessing-student-drive-framework-2025|DRIVE framework]] (Directive Reasoning Interaction + Visible Expertise) treats the quality of a student's *engagement with GenAI* as the assessed construct. It distinguishes surface consumption from deep, reflective interaction by looking at whether students steer prompts strategically (DRI) and integrate and develop their own disciplinary ideas through the exchange (VE), grounding process-focused criteria in theories of self-directed learning and cognitive engagement along the lines of the [[icap-framework|ICAP]] hierarchy. This makes DRIVE an example of *AI-mediated authentic assessment* — a rubric for evaluating how learners partner with GenAI rather than a detection tool.
 
 ## Implications for AI in education
 
@@ -136,3 +137,6 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
