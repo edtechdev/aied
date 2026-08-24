@@ -1,14 +1,14 @@
 ---
 title: "Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science"
 created: "2026-08-22T05:12:36-04:00"
-updated: "2026-08-22T05:12:36-04:00"
+updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [generative-ai, chatbot, k-12, stem-education, inquiry-based-learning, problem-posing, network-analysis, cognitive-load]
 sources: ['raw/papers/dai-chatbots-problem-posing-primary-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. Chatbots significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced cognitive load while raising technology acceptance.
+> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. [[pedagogical-agent|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising technology acceptance.
 
 ## Key Findings
 
@@ -19,7 +19,7 @@ confidence: high
 
 ## Implications
 
-This provides empirical evidence for introducing [[generative-ai|GenAI]] tools into [[inquiry-based-learning|inquiry-based learning]] in primary science. The chatbot's advantage — improving question *quality* and integrating cognitive networks while reducing cognitive load — positions conversational AI as a scaffold for [[metacognition|inquiry]] and questioning rather than a mere answer-provider. For [[k-12|primary STEM education]], it shows GenAI can support the generative, questioning dimension of inquiry that has been underemphasized.
+This provides empirical evidence for introducing [[generative-ai|GenAI]] tools into [[inquiry-based-learning|inquiry-based learning]] in primary science. The chatbot's advantage — improving question *quality* and integrating cognitive networks while reducing cognitive load — positions conversational AI as a [[scaffolding|scaffold]] for [[metacognition|inquiry]] and questioning rather than a mere answer-provider. For [[k-12|primary STEM education]], it shows GenAI can support the generative, questioning dimension of inquiry that has been underemphasized.
 
 ## Connected Concepts
 

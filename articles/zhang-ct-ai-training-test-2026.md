@@ -1,7 +1,7 @@
 ---
 title: "Integrating AI Into Computational Thinking: Development and Validation of an Assessment Tool for Higher Education Students"
 created: "2026-08-22T05:12:36-04:00"
-updated: "2026-08-22T05:12:36-04:00"
+updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [computational-thinking, educational-assessment, generative-ai, higher-ed, cs-education, assessment-validity, item-response-theory, evidence-centered-design]
 sources: ['raw/papers/zhang-ct-ai-training-test-2026.md']
@@ -19,7 +19,7 @@ confidence: high
 
 ## Implications
 
-This instrument advances [[assessment]] of [[computational-thinking]] in the [[generative-ai|AI]] era at the higher-education level, giving [[cs-education|CS and AI programs]] a validated measure grounded in Evidence-Centered Design and IRT. The diagnostic profile of common difficulties (data representation, operator sequencing, loop structures) provides concrete pedagogical targets for introductory text-based programming and AI training curricula.
+This instrument advances [[assessment]] of [[computational-thinking]] in the [[generative-ai|AI]] era at the higher-education level, giving [[cs-education|CS and AI programs]] a validated measure grounded in Evidence-Centered Design and IRT. The diagnostic profile of common difficulties (data representation, operator sequencing, loop structures) provides concrete [[pedagogy|pedagogical]] targets for introductory text-based programming and AI training curricula.
 
 ## Connected Concepts
 
