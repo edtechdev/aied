@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-24T06:13:02-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -83,124 +83,54 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - **The Safety Gap as the cost of offloading struggle.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the divergence between a student's AI-assisted performance and their unassisted capability as the "Safety Gap" — the epistemic risk when AI does the cognitive work and the learner cannot reproduce it. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] and [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show productive-failure design (withholding answers, preserving struggle) is the countermeasure.
 ## Connected Concepts
 
-- [[problem-based-learning]]
-- [[self-directed-learning]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[trust-calibration]]
-- [[scaffolding]]
-- [[prompt-engineering]]
-- [[agency]]
-- [[critical-thinking]]
-- [[student-experience]]
-- [[generative-ai]]
-- [[academic-integrity]]
-- [[teacher-role]]
-- [[regulation]]
-- [[behaviorism]]
-- [[distributed-cognition]]
-- [[embodied-learning]]
-- [[formative-assessment]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
+- [[agency]] — Diminished when AI substitutes for the learner's cognition
+- [[critical-thinking]] — Degraded by uncalibrated offloading
+- [[distributed-cognition]] — The efficiency–regulation trade-off of delegation
+- [[embodied-learning]] — Situated cognition as the alternative to outsourcing
+- [[generative-ai]] — The tool context of AI-mediated offloading
+- [[metacognition]] — Calibrating when to offload vs. engage
+- [[online-teaching-and-learning]] — A medium vulnerable to the "ask for the answer" shortcut
+- [[prompt-engineering]] — The primary mechanism of offloading in LLM use
+- [[scaffolding]] — Reducing load without eliminating cognitive demand
+- [[self-directed-learning]] — Eroded by thoughtless AI use
+- [[self-regulated-learning]] — Regulating offloading decisions
+- [[trust-calibration]] — Knowing when to trust and when to question AI
+
 ## Connected Articles
+
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
-- [[oby-chatgpt-use-learning-framework-2026]]
-- [[learn-framework-responsible-genai-pbl-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-- [[coach-not-crutch-ai-writing]] — AI can work less and learn more (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
+- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Co-occurrence network analysis of prompt patterns
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
+- [[ai-making-us-stupid]] — Research on AI's cognitive effects and learning displacement
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[jost-llm-programming-education-learning-outcomes]] — LLM reliance correlates negatively with grades in coding
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Agency and Motivation
 - [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[agentic-literacy-debt]] — Agentic Literacy Debt
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: Synthesis-Analysis Reciprocity
-- [[ai-assisted-learning-modes-eeg]] — AI-Assisted Learning Modes (EEG Study)
-- [[genai-performance-vs-learning]] — Distinguishing Performance from Learning
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as Cognitive Partner in Co-Regulated Learning
-- [[sovereign-hive-titl-further-education-2026]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
-- [[andragogy-cognitive-delegation-genai-2026]]
-- [[ensemble-cognition-philosophy-ai-education]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[prezenski-human-centered-ai-aided-learning]]
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-making-us-stupid]]
-- [[buggy-genai-code-student-responses]]
-- [[code-review-genai-cs1]]
-- [[cognitive-offloading-speedup-illusion]]
-- [[critical-thinking-genai-scaffolding]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[genai-availability-grades-satisfaction]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[generative-ai-reduced-study-time-math]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[metacognitive-awareness-experiential-vs-instructional]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tzirides-thinking-through-ai-2025]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[ethical-ai-higher-ed-game-theory]]
-
-- [[tutoring-specific-vs-general-ai]] — General-purpose AI completes reasoning, displacing cognitive work
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Surrender-offloading-agency continuum for GenAI
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless AI use erodes self-directed learning
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy, and dependency
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses "I don't know"
+- [[generative-ai-guardrails-harm-learning]] — High-school math RCTs on unguarded GenAI
+- [[generative-ai-reduced-study-time-math]] — Reduced study time correlates with reduced learning
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
-- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
-
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-
-- [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
-
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-- [[productive-failure]] — Productive Failure
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Delegated reasoning and reduced self-regulation
+- [[ai-fatigue-academic-contexts]] — AI fatigue and cognitive burden paradox
+- [[coach-not-crutch-ai-writing]] — AI can work less and learn more (Lira et al. 2025)
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: Synthesis-Analysis Reciprocity
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — AI tutors: empowering vs. enslaving modes
+- [[metacognitive-awareness-experiential-vs-instructional]] — Recognizing offloading vs. learning
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education

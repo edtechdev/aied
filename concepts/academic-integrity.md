@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-24T06:11:50-04:00"
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
@@ -52,9 +52,6 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 ## Connected Concepts
 
-- [[business-education]]
-- [[remote-proctoring]]
-- [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[assessment-validity]]
 - [[ai-literacy]]
 - [[plagiarism-detection]]
@@ -71,61 +68,35 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[generative-ai]]
 - [[higher-ed]]
 - [[k-12]]
-- [[framing-ai-use-for-students]]
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-- [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[alharbi-ethical-genai-eap-2026]]
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[nguyen-genai-global-south-review-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[espino-ai-business-education-review-2026]]
-- [[drummond-genai-business-schools-framework-2026]]
-- [[learn-framework-responsible-genai-pbl-2026]]
-- [[best-response-student-ai-dialog-2026]]
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-
-- [[student-rationalization-ai-writing]] — It's OK Because… Student Rationalization of AI Use
+- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[ai-tools-academic-work-cheating-2026]] — Student cheating behaviour with AI tools in academic work
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — Academic dishonesty and automated proctoring in the AI era
+- [[automated-online-exam-proctoring-decade-review-2026]] — Decade review of automated online exam proctoring
+- [[generative-ai-reduced-study-time-math]] — Proctored retention decline (25%) shows AI inflates non-proctored performance
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
 - [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
+- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[genai-policies-higher-ed-computing]] — Institutional AI Policies in Computing Education
+- [[adarkwah-genai-unesco-policy-2026]] — GenAI in education policy: UNESCO guidance on AI
+- [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI in higher education
+- [[student-rationalization-ai-writing]] — It's OK Because… Student Rationalization of AI Use
 - [[ethical-ai-higher-ed-game-theory]] — Coordination Game Framework for Ethical AI Use
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and Guilt as Social Regulators of AI Use
 - [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Perceptions of AI Use
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and the AI Viva
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive Stewardship for AI-Mediated Assessment
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
-- [[genai-policies-higher-ed-computing]] — Institutional AI Policies in Computing Education
-- [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and the AI Viva
 - [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences: UK HE Survey
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion
-- [[pchl-he-framework-genai-content-creation-2026]] — PCHL Framework for GenAI Content Creation
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: Systematic Review
-- [[competency-based-education-genai-production-2026]] — Competency-Based Education and GenAI Production
-- [[avraamidou-ai-colonization-science-education]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review: AI as threat and detection tool for academic integrity
-- [[generative-ai-reduced-study-time-math]] — Proctored retention decline (25%) shows AI inflates non-proctored performance
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
-- [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-
-- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[best-response-student-ai-dialog-2026]] — Mandernach 2026: from policing to dialog via learning verification

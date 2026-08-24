@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-24T10:15:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -77,94 +77,51 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - **Self-regulation shapes AI coding-assistant use.** [[computational-thinking-aica-2026|A study of AI coding assistants]] found high-computational-thinking students showed stronger self-regulatory coherence (planning-execution-self-reflection) and used AICA for code understanding, while low-CT students used it for immediate answer retrieval.
 ## Connected Concepts
 
-- [[eportfolio]]
-- [[self-directed-learning]]
-- [[learning-by-teaching]]
 - [[metacognition]]
-- [[ai-literacy]]
+- [[self-efficacy]]
 - [[scaffolding]]
+- [[feedback]]
+- [[feedback-literacy]]
+- [[help-seeking]]
+- [[motivation]]
 - [[cognitive-offloading]]
-- [[intelligent-tutoring]]
-- [[student-experience]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[self-directed-learning]]
 - [[adaptive-learning]]
 - [[formative-assessment]]
+- [[learning-by-teaching]]
+- [[intelligent-tutoring]]
 - [[llm]]
-- [[teacher-role]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[authentic-assessment]]
-- [[feedback-literacy]]
-- [[feedback]]
-- [[learning-theories]]
-- [[behaviorism]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
-- [[benali-genai-academic-writing-2026]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[genai-thoughtless-use-self-directed-learning-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[ai-communities-of-inquiry-2026]]
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
-- [[haiml-human-centered-ai-metacognitive-model-2026]]
-- [[metacognitively-discordant-completion-genai-2026]]
-- [[ai-guided-learning-audiovideo-2026]]
-
-- [[agents-that-teach-incidental-learning]]
-- [[ai-fatigue-academic-contexts]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[ai-learning-companions-framework]]
-- [[ai-making-us-stupid]]
-- [[ai-tutor-safety-harms]]
-- [[aied-unfinished-mission-bypass]]
-- [[bloom-aligned-educational-control-llms]]
-- [[codify-socratic-programming-tutor]]
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[critical-thinking-genai-scaffolding]]
-- [[cross-subject-validity-delayed-start]]
-- [[curiobot-llm-tutoring-exploratory-learning]]
-- [[ecnuclaw-k12-personalized-companion]]
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[ai-feedback-enactment-workflow-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[andragogy-cognitive-delegation-genai-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[bilingual-llm-lecture-companion-srl-2026]]
-- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
-- [[ai-cognitive-partner-co-regulation-learning]]
-- [[self-directed-growth-generative-ai-learning-analytics]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — Human-centered AI metacognitive model
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively discordant completion with GenAI
+- [[bilingual-llm-lecture-companion-srl-2026]] — SRL with a bilingual LLM lecture companion
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student dependency, AI literacy, and self-efficacy
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use vs. self-directed learning
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender as loss of self-regulated learning
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]]
-- [[agentic-ai-pedagogical-best-practice-2026]]
-
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
-- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-
-- [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+- [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
+- [[computational-thinking-aica-2026]] — Computational thinking and AI coding assistants
+- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM-assisted writing
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-- [[social-emotional-learning]] — Social-Emotional Learning
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[andragogy-cognitive-delegation-genai-2026]] — Cognitive delegation in andragogy with GenAI
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-directed growth with GenAI learning analytics
+- [[ai-learning-assistants-higher-ed-large-scale]] — AI learning assistants in higher ed at scale
+- [[ai-learning-companions-framework]] — Framework for AI learning companions
+- [[ai-making-us-stupid]] — Cognitive offloading and whether AI makes us stupid
+- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with GenAI
+- [[aied-unfinished-mission-bypass]] — AIED's unfinished mission and the SRL bypass
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
+- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
+- [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflow
+- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomy of student–LLM interactions
+- [[benali-genai-academic-writing-2026]] — GenAI in academic writing
+- [[ni-lam-multiliteracies-ai-portfolio-2026]] — Multiliteracies and AI portfolios
+- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming

@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-23T12:15:00-04:00"
+updated: "2026-08-24T06:11:39-04:00"
 type: concept
 tags: [equity, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -54,39 +54,26 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ## Connected Concepts
 
-- [[remote-proctoring]]
-- [[digital-divide]]
-- [[bias-mitigation]]
-- [[accessibility]]
-- [[assistive-technology]]
-- [[culturally-relevant-pedagogy]]
-- [[language-learning]]
-- [[inclusive-learning]]
-- [[universal-design-for-learning]]
-- [[neurodiversity]]
-- [[special-education]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[governance]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[ai-education]]
-- [[agency]]
+- [[digital-divide]] — Unequal access to AI tools and infrastructure across socioeconomic lines, regions, and nations
+- [[bias-mitigation]] — Methods for detecting and correcting bias in AI tutors, scorers, and recommenders
+- [[accessibility]] — Design that makes AI learning tools usable by learners with disabilities
+- [[assistive-technology]] — Tools that support learners with disabilities in AI-mediated settings
+- [[culturally-relevant-pedagogy]] — Teaching that reflects learners' cultural contexts rather than imposing dominant norms
+- [[language-learning]] — Linguistic inclusion of multilingual and underrepresented-language learners
+- [[inclusive-learning]] — Accessible and equitable learning for all learners
+- [[universal-design-for-learning]] — Designing for learner variability from the outset
+- [[neurodiversity]] — Supporting neurodivergent learners in AI education
+- [[special-education]] — Meeting the needs of learners with disabilities in AI system design
+- [[ai-literacy]] — The skills learners need to benefit from AI equitably
+- [[educational-policy-ai]] — Institutional policy embedding equity as a guiding principle
+- [[governance]] — Oversight and accountability for equitable AI
+- [[agency]] — Ensuring AI empowers rather than replaces student voice
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[nguyen-genai-global-south-review-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in AI-mediated education
+- [[nguyen-genai-global-south-review-2026]] — GenAI in the Global South: systematic review
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
-
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
@@ -102,37 +89,15 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Scaffolded AI literacy (SAIL) framework for equitable learning
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough
 - [[community-centered-ai-education-adults]] — Community-centered AI education for adults
-
-- [[ai-literacy-equity-programming-policy]]
-- [[elementary-writing-genai-systematic-review-2026]]
-- [[ai-uk-higher-education-policy-2026]]
-- [[genai-policies-higher-ed-computing]]
-
-- [[paternalistic-filter-llm-history-education]]
-- [[connected-ai-lesson-planning-vietnam]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[amponsah-ai-acceptance-science-teachers-2026]]
-- [[ground-truth-reliability-aied]]
-- [[sovereign-hive-titl-further-education-2026]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[raffaghelli-situated-ai-ethics-2026]]
-- [[avraamidou-ai-colonization-science-education]]
-- [[li-mroziak-reorienting-critical-ai-literacy]]
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Metacognitive inequity and uneven access
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[ai-literacy-equity-programming-policy]] — AI literacy, equity, and programming policy
+- [[ai-uk-higher-education-policy-2026]] — UK higher-education AI policy
+- [[genai-policies-higher-ed-computing]] — GenAI policies in higher-education computing
+- [[paternalistic-filter-llm-history-education]] — Paternalistic filtering in LLM-based history education
+- [[connected-ai-lesson-planning-vietnam]] — Connected AI lesson planning in Vietnam
+- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
+- [[amponsah-ai-acceptance-science-teachers-2026]] — Ghanaian science teachers' AI acceptance
+- [[ground-truth-reliability-aied]] — Ground-truth reliability in AIED
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
-
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
-- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
-
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-
-- [[botes-ai-oep-ibl-underresourced-2026]] — AI-supported OEP/RS and IBL in under-resourced contexts
-
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics for education
 

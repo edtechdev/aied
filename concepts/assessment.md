@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T14:00:00-04:00"
+updated: "2026-08-24T10:15:00-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -51,52 +51,25 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 - **AI-mediated assessment is diversifying.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] shows an LLM-augmented conversational agent reduced student anxiety during performance-based assessments; [[asynchronous-oral-assessment-2026|Pentland (2026)]] finds asynchronous oral assessments offered higher engagement and were perceived as professionally relevant; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] uses adaptive knowledge-state tracking to inform assessment.
 ## Connected Concepts
-- [[community-of-inquiry]] — Community of Inquiry (process-based CoI assessment under GenAI)
-
-- [[business-education]]
-- [[eportfolio]]
-- [[remote-proctoring]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[automated-essay-scoring]]
-- [[automated-question-generation]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-- [[psychometrically-aware-ai]]
-- [[learning-analytics]]
-- [[feedback]]
-- [[academic-integrity]]
-- [[plagiarism-detection]]
-- [[ai-ed-evaluation]]
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[authentic-assessment]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[feedback-literacy]]
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[formative-assessment]] — Formative assessment: AI-generated, validated, adaptive items at scale
+- [[automated-assessment]] — Automated grading and scoring across assessment modalities
+- [[authentic-assessment]] — Process-based, AI-robust authentic tasks
+- [[assessment-validity]] — Validity of assessments under generative AI
+- [[educational-measurement]] — Measurement theory underpinning AI assessment
+- [[automated-essay-scoring]] — Automated essay scoring
+- [[automated-question-generation]] — Automated question generation
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
+- [[item-response-theory]] — IRT for interpreting AI-era assessment responses
+- [[psychometrically-aware-ai]] — Psychometrically aware AI scoring
+- [[learning-analytics]] — Analytics connecting assessment data to learning
+- [[feedback]] — Feedback loops closing the assessment-to-learning cycle
+- [[feedback-literacy]] — Learner feedback literacy
+- [[academic-integrity]] — Integrity and the debate over AI detection
+- [[plagiarism-detection]] — Detecting AI-generated text
+- [[ai-ed-evaluation]] — Methods and benchmarks for evaluating automated assessors
+- [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
-- [[zhan-chapman-genai-cs-education-2026]]
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[zhou-constructive-alignment-genai-business-2026]]
-- [[sutama-chatgpt-eportfolio-speaking-2026]]
-- [[nicola-richmond-programwide-assessment-genai-2025]]
-- [[ni-lam-multiliteracies-ai-portfolio-2026]]
-- [[espino-ai-business-education-review-2026]]
-- [[pbl-structural-conditions-ai-2026]]
-- [[best-response-student-ai-dialog-2026]]
-- [[ai-tools-academic-work-cheating-2026]]
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
-
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
@@ -107,36 +80,23 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid e-assessment and semi-automated grading
 - [[cotal-formative-assessment-scoring-2026]] — Formative assessment scoring
 - [[automatic-short-answer-grading]] — Automatic short-answer grading
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Automated assessment of interactive explainer content
 - [[ai-assessment-scale-reform]] — AI assessment scale reform
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Evaluate learning beyond immediate GenAI-supported performance
 - [[generative-ai-reduced-study-time-math]] — Proctored, unassisted measures essential; non-proctored inflated by AI
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based assessment
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-
-- [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
+- [[end-of-assessment-ai-disruption-transformation-2026]] — End of assessment: AI disruption and transformation of assessment
+- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI evaluate assessment? LLM meta-assessment
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment design with AI
+- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign for generative AI
