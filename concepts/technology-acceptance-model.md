@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-24T12:50:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: concept
 tags: [technology-acceptance-model, technology-adoption, utaut, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
 confidence: high
@@ -70,7 +70,6 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[genai-reliance-types-scale]] — GenAI reliance types scale
 - [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[ai-acceptance-preservice-science-teachers-2026]] — AI acceptance among preservice science teachers
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
 - [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
 - [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation

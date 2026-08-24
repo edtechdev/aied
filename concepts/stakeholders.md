@@ -1,7 +1,7 @@
 ---
 title: People and Audiences in AI Education
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-08-19T17:50:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, instructional-design, higher-ed, k-12, ai-literacy]
 confidence: high
@@ -60,7 +60,6 @@ confidence: high
 
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
-- [[ai-acceptance-preservice-science-teachers-2026]] — Preservice science teachers' AI acceptance
 - [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education

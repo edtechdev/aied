@@ -1,7 +1,7 @@
 ---
 title: "Embodied Inquiry with AI as Facilitator: An Exploratory Case Study"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [physics-education, socratic-method, pedagogical-agent, generative-ai, higher-ed, professional-training, stem-education]
 sources: ['raw/papers/2607.21349.md']
@@ -66,7 +66,6 @@ The Gem facilitated through language alone, supplemented only by the photographs
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
 - [[genai-ar-physics-simulation-prompt-2026]]
-- [[ai-acceptance-preservice-science-teachers-2026]]
 
 ## Citation
 

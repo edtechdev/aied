@@ -41,7 +41,6 @@
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: An LLM-Powered Multi-Agent Simulation for Education
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
-- [[ai-acceptance-preservice-science-teachers-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized
