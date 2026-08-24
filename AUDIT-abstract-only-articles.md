@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **75 wiki articles were ingested before the full text was available** — a violation of the
+These **69 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 75 prematurely-ingested articles
+## The 69 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -62,14 +62,12 @@ the key.
 | doyle-scaling-complex-thinking-ai-ibl-2026 | 10.58297/edu.2026.3.3.e183 |
 | educational-vlm-evaluation | — |
 | edumirror-educational-social-dynamics | — |
-| enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen | 10.1111/bjet.70071 |
 | enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden | 10.1111/bjet.70072 |
 | face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning | 10.1016/j.caeai.2026.100610 |
 | favero-critical-ai-tutors-empower-enslave-2025 | — |
 | fouad-bentley-trust-utility-gap-physics-2026 | 10.1103/bdl1-6bn4 |
 | from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em | 10.1111/bjet.70083 |
 | genai-academic-search-workshop | — |
-| genai-literacy-training-teacher-education-dbr-2026 | 10.1111/bjet.70047 |
 | genai-minoritized-knowledges-disability | — |
 | generative-ai-interactive-textbook-in-electrotechnics-a-four-year-comparative-st | 10.1016/j.caeai.2026.100611 |
 | hashmi-socratic-physics-chatbot-2025 | — |
@@ -83,7 +81,6 @@ the key.
 | learnity-graphs-lifelong-learning-framework-2026 | — |
 | lets-chat-chatbot-outreach-2026 | — |
 | li-ai-science-situated-learning-teachers-2025 | 10.4236/ce.2025.1611114 |
-| liang-genai-systematic-review-human-ai-2026 | 10.1111/bjet.70055 |
 | llm-cognitive-diagnosis-handwritten-math | — |
 | llm-difficulty-calibration-programming-exams-2026 | — |
 | luo-ibl-patterns-llm-bloom-2026 | 10.14742/ajet.9051 |
@@ -91,10 +88,8 @@ the key.
 | not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2 | 10.1111/bjet.70078 |
 | not-all-collaboration-benefits-from-competition-collaboration-modes-in-a-computa | 10.1111/bjet.70081 |
 | oatutor-open-source-adaptive-tutor-2023 | 10.1145/3544548.3581574 |
-| oecd-digital-education-outlook-2026 | 10.1787/062a7394-en |
 | persistent-ai-agents-academic-research | — |
 | reshaping-cs-education-genai | — |
-| rhaimi-productivemath-2025 | 10.1007/978-3-031-99264-3_43 |
 | slidesqaqa-pedagogical-question-generation | — |
 | spritz-ai-disciplinary-mediation-student-teams-2026 | — |
 | state-policy-teacher-ai | — |
@@ -104,5 +99,4 @@ the key.
 | trust-reliance-ai-education-2026 | — |
 | unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l | 10.1111/bjet.70082 |
 | veriforge-narrative-drafting-scaffolding-2026 | — |
-| will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for- | 10.1111/bjet.70075 |
 | zerkouk-comprehensive-review-its-2025 | — |
