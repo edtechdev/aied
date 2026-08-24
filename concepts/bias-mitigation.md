@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-08-21T08:02:47-04:00"
+updated: "2026-08-24T19:45:00-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm, fairness]
 confidence: high
@@ -77,6 +77,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[ai-education]]
 
 ## Connected Articles
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
