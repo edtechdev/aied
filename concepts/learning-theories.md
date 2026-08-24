@@ -1,11 +1,12 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-24T14:15:00-04:00"
 type: concept
 tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
 confidence: high
+connected_faqs: [research-gaps-aied]
 ---
 
 > **Learning Theories** — the family of frameworks that explain how learning happens, and the umbrella concept for the wiki's theory-related ideas. In AI in education, learning theories shape both how AI systems are designed (the pedagogy they embody) and how the field interprets whether AI "works": the same tool can be a scaffold under [[constructivist]] assumptions, a reinforcement engine under [[behaviorism]], or a cognitive-load hazard under Cognitive Load Theory.

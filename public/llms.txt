@@ -1,5 +1,5 @@
 # AI in Education Wiki
-> A comprehensive wiki of 166 concepts, 892 research articles, and 3 FAQs covering AI in education — frameworks, methodologies, and papers.
+> A comprehensive wiki of 166 concepts, 892 research articles, and 4 FAQs covering AI in education — frameworks, methodologies, and papers.
 
 ## Concepts
 
@@ -1069,4 +1069,5 @@
 
 - [What is the evidence on AI literacy interventions in higher education?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/): The evidence on **ai-literacy interventions in higher-ed is promising, but still methodologically immature**. Across the wiki, the strongest recurring finding is that AI literacy develops more effectively through **active, contextualized practice with AI—especially critique, comparison, reflection, and collaboration—than through tool demonstrations or lectures alone**. At the same time, relatively
 - [How should I incorporate AI literacy into my course?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/): The strongest approach is to treat **ai-literacy as part of disciplinary learning**, not as a standalone lesson on how to use ChatGPT. Students develop more useful AI literacy when they repeatedly **use, question, verify, critique, and make decisions about AI in authentic course tasks** rather than simply learning prompting techniques or attending a one-off orientation. Effective instruction combi
+- [What are notable gaps in the research literature on AI in Education?](https://edtechdev.github.io/aied/faqs/research-gaps-aied/): Several notable gaps recur across the AI in Education knowledge base. They are less about whether AI *can* do useful educational tasks and more about whether we have strong, generalizable evidence that particular designs improve learning, for whom, and under what conditions.
 - [What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?](https://edtechdev.github.io/aied/faqs/top-10-findings-ai-education-instructors/): Across the wiki's synthesis of current research, the most important message for college instructors is not simply "use AI" or "ban AI." **How AI is embedded in the learning activity determines whether it amplifies thinking or replaces it.** The evidence is also uneven: many GenAI studies are recent, short-term, and context-specific, so these are best read as high-value findings rather than settled
