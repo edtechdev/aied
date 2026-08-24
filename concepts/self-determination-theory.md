@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-24T19:30:00-04:00"
+updated: "2026-08-24T20:00:00-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 confidence: high
@@ -17,7 +17,6 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 **SDT in AI-mediated learning engagement** examines how generative AI tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with epistemic network analysis to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion.
 
-**SDT in affective computing** applies the theory to emotionally intelligent AI agents. **[[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em|Zheng et al.]]** developed EmoAgent, an SDT-based emotional agent that proactively detects students' emotional states and provides emotion regulation strategies. An 8-week quasi-experiment with 173 sixth graders showed the SDT-based approach significantly outperformed conventional agents in academic achievement, engaged students in positive emotional experiences, and moderated the negative effect of negative emotions on success.
 
 #
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
@@ -44,7 +43,6 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
 - [[ai-availability-student-motivation]]
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions

@@ -425,7 +425,6 @@
 - [[framing-5-percent-problem-teachers-persistence]] — Framing the 5% Problem: Teachers'' Perspectives on Persistence in Educational Technology
 - [[framing-ai-use-for-students]] — Framing AI Use for Students
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
-- [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]] — From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines
 - [[game-based-learning]] — Game-Based Learning

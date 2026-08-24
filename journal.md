@@ -1851,7 +1851,6 @@
   Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
   #generative-ai #ai-literacy #higher-ed #policy #technology-adoption #ai-education #ai-tutoring
 
-- ◐ [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
   From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach
   #affective-computing #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
