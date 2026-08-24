@@ -105,3 +105,6 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics

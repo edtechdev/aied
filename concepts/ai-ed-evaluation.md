@@ -96,3 +96,5 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
 - [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK benchmark
 
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics

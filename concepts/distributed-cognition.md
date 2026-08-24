@@ -61,3 +61,4 @@ Distributed cognition provides both a design lens and an evaluation lens. For de
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

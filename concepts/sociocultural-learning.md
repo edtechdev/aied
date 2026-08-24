@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-19T10:31:06-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [sociocultural, learning-theories, constructivist, scaffolding, agency, generative-ai, human-ai-collaboration]
 confidence: high
@@ -33,6 +33,8 @@ Sociocultural theory shapes AIED research in several distinct ways:
 
 The sociocultural strand is tightly coupled to Cognitive Load Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
 
+- **Generative AI as a mediational agent (2026):** Drawing on Vygotskian mediation, a theory paper proposes reframing generative AI not merely as a tool/mediational means but as a *mediational agent* that actively participates in learning activity, blurring the tool-vs-social-interaction boundary central to sociocultural theory ([[generative-ai-mediational-agent-sociocultural-2026]]). This positions generative models as co-participants rather than passive instruments, with implications for how mediation, [[agency]], and the learner–AI relationship are theorised in the learning sciences.
+
 ## Connected Concepts
 
 - [[scaffolding]]
@@ -60,3 +62,4 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[text-simplification-its]] — Text simplification in ITS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

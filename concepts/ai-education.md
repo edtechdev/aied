@@ -135,3 +135,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

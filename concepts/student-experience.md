@@ -69,3 +69,4 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study

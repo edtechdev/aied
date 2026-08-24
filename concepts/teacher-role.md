@@ -97,3 +97,5 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator

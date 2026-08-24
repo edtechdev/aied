@@ -72,3 +72,5 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[social-emotional-learning]] — Social-Emotional Learning
 
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

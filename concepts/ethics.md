@@ -75,3 +75,6 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed conceptual framework for GenAI in business schools
 - [[rana-genai-design-thinking-2025]] — Generative AI in design thinking pedagogy: creativity, critical thinking, ethical reasoning
 
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

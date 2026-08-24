@@ -100,3 +100,4 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
 - [[a4l-analytics-pipeline]] — A configurable analytics pipeline platform
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

@@ -122,3 +122,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

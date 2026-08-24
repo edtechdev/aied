@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-23T12:15:00-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, instructional-design]
 confidence: high
@@ -32,6 +32,8 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - **Treat accessibility as necessary but not sufficient.** An accessible tool is not automatically an inclusive or disability-just tool; pair accessibility with [[inclusive-learning]] design and [[special-education]] support.
 - **Ground accommodations in law and policy.** Reference standards (WCAG) and statutes (Assistive Technology Act, IDEA) when designing or procuring AI tools.
 
+- **Math-accessible transcription of physics videos (2026):** An AI workflow using Gemini (audio + 1 fps video sampling) and LuaLaTeX compiles instructional physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs that routinely pass accessibility validation — a practical, free path to making equation-heavy video content screen-readable for blind and low-vision students ([[gemini-lualatex-physics-video-transcription-2026]]).
+
 ## Connected Concepts
 
 - [[inclusive-learning]] — broader umbrella for designing education across learner variability
@@ -59,3 +61,4 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[tactile-statistical-graphs-accessibility]] — Tactile 3D-printed statistical graphs
 - [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language
 - [[genai-minoritized-knowledges-disability]] — Critical perspective on AI and disability-centered knowledge
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription

@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-21T14:58:12-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 
@@ -27,6 +27,8 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 
 Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately.
 
+- **Overreliance and calibration as population processes (2026):** A complex-adaptive-system model of AI reliance shows that task difficulty and AI quality set a baseline for both overreliance and calibration regret, while network connectivity and social proof shape whether reliance cascades. This suggests calibration is not only an individual trait but is modulated by the social and informational environment ([[ai-overreliance-complex-adaptive-system-2026]]).
+
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -48,3 +50,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system

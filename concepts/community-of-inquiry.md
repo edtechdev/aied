@@ -50,3 +50,4 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
 - [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
 - [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator

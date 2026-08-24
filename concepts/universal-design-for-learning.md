@@ -72,3 +72,4 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription

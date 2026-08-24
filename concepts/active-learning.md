@@ -94,3 +94,4 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions

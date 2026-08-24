@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts and 872 articles.
+> Complete text of 166 concepts and 884 articles.
 
 # Concepts
 
@@ -47,6 +47,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 - **Systematic-review synthesis.** A PRISMA review of 25 studies (Balalle & Pannilage 2025) finds AI acts as both a threat (AI-generated writing, paraphrasing tools) and a detection tool (Turnitin AI scores), that detection software is unreliable for AI-generated work, and that institutions must build a culture of academic integrity through clear policy, assessment redesign, and ethics training rather than policing alone.^[[ssaho-ai-academic-integrity-review-2025]]
 - **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine engagement, and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
+
+- **GenAI defeats autogradable homework (2026):** ChatGPT passed every one of 150 test sessions on deliberately hardened, autogradable Qiskit (quantum computing) homework designs — personalisation, hidden references, reflections, simulator execution — showing that rubric-based graders cannot reliably distinguish AI-completed from student-completed work and arguing for direct assessment of understanding ([[chatgpt-qiskit-homework-autogradable-2026]]).
 
 ## Connected Concepts
 
@@ -98,6 +100,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[ssaho-ai-academic-integrity-review-2025]] — Systematic review: AI as threat and detection tool for academic integrity
 - [[best-response-student-ai-dialog-2026]] — Mandernach 2026: from policing to dialog via learning verification
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -128,6 +132,8 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - **Treat accessibility as necessary but not sufficient.** An accessible tool is not automatically an inclusive or disability-just tool; pair accessibility with [[inclusive-learning]] design and [[special-education]] support.
 - **Ground accommodations in law and policy.** Reference standards (WCAG) and statutes (Assistive Technology Act, IDEA) when designing or procuring AI tools.
 
+- **Math-accessible transcription of physics videos (2026):** An AI workflow using Gemini (audio + 1 fps video sampling) and LuaLaTeX compiles instructional physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs that routinely pass accessibility validation — a practical, free path to making equation-heavy video content screen-readable for blind and low-vision students ([[gemini-lualatex-physics-video-transcription-2026]]).
+
 ## Connected Concepts
 
 - [[inclusive-learning]] — broader umbrella for designing education across learner variability
@@ -155,6 +161,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[tactile-statistical-graphs-accessibility]] — Tactile 3D-printed statistical graphs
 - [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language
 - [[genai-minoritized-knowledges-disability]] — Critical perspective on AI and disability-centered knowledge
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
 ---
 
@@ -246,6 +253,8 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 
 ---
 
@@ -631,6 +640,9 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[social-emotional-learning]] — Social-Emotional Learning
 
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+
 ---
 
 ## [Agentic AI in Education](https://edtechdev.github.io/aied/concepts/agentic-ai/)
@@ -727,6 +739,8 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -820,6 +834,9 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
 - [[teaching-monster-pck-benchmark-2026]] — Teaching Monster: PCK benchmark
+
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -952,6 +969,10 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[doyle-scaling-complex-thinking-ai-ibl-2026]] — Scaling complex thinking: AI-supported IBL framework
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -1115,6 +1136,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
 
+- **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
+
 ## Connected Concepts
 
 - [[generative-ai]] — the technology AI literacy targets
@@ -1165,6 +1188,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 
 ---
 
@@ -1232,6 +1257,8 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
+
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 
 ---
 
@@ -1443,6 +1470,8 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+
 ---
 
 ## [Assessment](https://edtechdev.github.io/aied/concepts/assessment/)
@@ -1540,6 +1569,9 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment design with AI
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign for generative AI
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -1582,6 +1614,7 @@ Assistive technology is the concrete *tool layer* of [[accessibility]]. Where ac
 - [[tactile-statistical-graphs-accessibility]] — AI-generated tactile statistical graphs
 - [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
 ---
 
@@ -1732,6 +1765,8 @@ Automated assessment quality depends on [[assessment-validity]] and [[bias-mitig
 
 Automated assessment connects to [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] and [[equity-in-ai-education]] (fairness), [[teacher-role]] (how automation changes instructor work), and [[ai-feedback-quality]] (grading without useful feedback has limited educational value). Confidence-aware assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai]] and a contributor to [[trust-calibration|calibrated trust]].
 
+- **Large-scale AI grading of handwritten physics (2026):** A multimodal model (GPT-5.5) graded 10,364 scanned pages across a national Physics Olympiad theory exam, selection camp, and university quantum-mechanics exam, achieving total-score correlations of 0.91–0.97 with official marks and recovering the same top-five Olympiad team. Revised page-by-page, evidence-location instructions improved agreement — evidence that multimodal AI can support high-stakes summative grading with careful rubric and prompt engineering ([[ai-grading-handwritten-physics-2026]]).
+
 ## Connected Concepts
 
 - [[remote-proctoring]]
@@ -1791,6 +1826,9 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -2037,6 +2075,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: benchmark for evaluating generated math diagrams
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -2458,6 +2497,9 @@ AI dependency is not simply a product of technical skill: [[student-dependency-o
 The effect is partly a **change in the threshold to respond, not in capacity**: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] show that merely having access to AI advice nearly eliminated people's willingness to say "I don't know" — even when the advice was wrong — while nearly doubling confidence and cutting accuracy to a third; incentives restored accuracy (by reducing reliance) but not suspension.
 
 - **The Safety Gap as the cost of offloading struggle.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the divergence between a student's AI-assisted performance and their unassisted capability as the "Safety Gap" — the epistemic risk when AI does the cognitive work and the learner cannot reproduce it. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] and [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show productive-failure design (withholding answers, preserving struggle) is the countermeasure.
+
+- **AI overreliance as a complex adaptive system (2026):** Rather than studying overreliance one user at a time, a modelling paper frames it as a population-level process in which agents update Bayesian beliefs about AI quality and, when networked, learn from peers. Social proof can turn reliance into a feedback cascade (visible unverified use suppresses verification), while social learning creates consensus rather than overreliance — a framing that shifts intervention targets from individual calibration to the networked dynamics of trust and reliance ([[ai-overreliance-complex-adaptive-system-2026]]).
+
 ## Connected Concepts
 
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
@@ -2511,6 +2553,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 ---
 
@@ -2606,6 +2650,8 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
 ---
 
 ## [Community of Inquiry](https://edtechdev.github.io/aied/concepts/community-of-inquiry/)
@@ -2653,6 +2699,7 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing CoI in the age of generative AI
 - [[ai-communities-of-inquiry-2026]] — AI in communities of inquiry
 - [[ai-online-education-engagement-satisfaction-2026]] — AI and online education engagement
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 ---
 
@@ -2855,6 +2902,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 
 ---
 
@@ -2925,7 +2973,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+
 ## Citation
 
 Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
@@ -3014,6 +3063,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 
 ---
 
@@ -3080,6 +3130,9 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 ---
 
@@ -3152,6 +3205,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - **Shift curricula toward verification and agent direction.** As GenAI automates implementation, teach understanding/verifying AI artifacts ([[reshaping-cs-education-genai|reshape curricula]]) and structured agentic-software-engineering skills ([[ase-26-agentic-software-engineering-curriculum|ASE-26]]).
 - **Structure collaboration for all learners.** Smaller consistent teams, explicit roles, and AI-use transparency support neurodivergent students and fair collaboration, especially where misaligned AI-use beliefs lower project scores.
 
+- **LLM-adaptive explanations of programming errors (2026):** A crowdsourced study (N=103) found LLM-rewritten error messages improve readability, but objective debugging performance depends on matching explanation style (pragmatic vs contingent) to programmer skill — a scaffolding insight for AI-assisted programming education ([[llm-adaptive-programming-error-explanations-2026]]).
+
 ## Connected Concepts
 
 - [[computational-thinking]]
@@ -3202,6 +3257,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 ---
 
@@ -3619,6 +3676,8 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+
 ---
 
 ## [AIEd in the Disciplines](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/)
@@ -3786,6 +3845,8 @@ Distributed cognition provides both a design lens and an evaluation lens. For de
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+
 ---
 
 ## [Edtech Platform](https://edtechdev.github.io/aied/concepts/edtech-platform/)
@@ -3883,6 +3944,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
 - [[a4l-analytics-pipeline]] — A configurable analytics pipeline platform
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -4031,6 +4093,7 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 
 - [[zerkouk-comprehensive-review-its-2025]]- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -4571,6 +4634,8 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics for education
 
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+
 ---
 
 ## [Ethics in AI Education](https://edtechdev.github.io/aied/concepts/ethics/)
@@ -4643,6 +4708,10 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed conceptual framework for GenAI in business schools
 - [[rana-genai-design-thinking-2025]] — Generative AI in design thinking pedagogy: creativity, critical thinking, ethical reasoning
 
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+
 ---
 
 ## [Experiential Learning](https://edtechdev.github.io/aied/concepts/experiential-learning/)
@@ -4688,6 +4757,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[educasim-cs1-instructional-practice]] — EducaSim: role play with simulated students for teacher training
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 
 ---
 
@@ -4770,6 +4840,8 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
+
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 ---
 
@@ -4963,6 +5035,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 ---
 
@@ -5074,6 +5148,9 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 ---
 
@@ -5284,6 +5361,13 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -5422,6 +5506,9 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -5645,6 +5732,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL framework for GenAI content creation in higher ed
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Contrast: most early GenAI research focused on higher ed
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 
 ---
 
@@ -5810,6 +5901,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+
 ---
 
 ## [Human-in-the-Loop AI for Education](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/)
@@ -5921,6 +6015,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgement: A Bibliometric Analysis (Mazlan et al. 2026)
 
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -6145,6 +6240,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[special-r1-rl-special-education]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
 ---
 
@@ -6440,6 +6536,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[ai-pedagogical-accompaniment-amico]] — AI pedagogical accompaniment (AMICO)
 - [[ai-metacognition-stem-review]] — AI and metacognition in STEM
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 ---
 
@@ -6772,6 +6869,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 
 ---
 
@@ -6796,6 +6894,8 @@ Learning analytics has evolved through three generations in the wiki: descriptiv
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the ethical constraint), and [[edtech-platform]] (where analytics are deployed).
 
 Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in chatbot-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-AI interaction rather than only its product.^[[penny-transition-network-analysis-efl-writing-2026]]^[[tracing-genai-literacy-interaction-patterns]]
+
+- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight LLM that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; simulation shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
 ## Connected Concepts
 
@@ -6843,6 +6943,7 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -7131,6 +7232,8 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+
 ---
 
 ## [Lifelong Learning and AI](https://edtechdev.github.io/aied/concepts/lifelong-learning/)
@@ -7343,6 +7446,12 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -7718,6 +7827,10 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI code
 - [[ai-learning-companions-framework]] — Building AI companions that prioritise learning over performance
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 ---
 
@@ -7833,6 +7946,8 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 ---
 
@@ -7991,6 +8106,9 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -8349,6 +8467,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 
 ---
 
@@ -8663,6 +8782,8 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+
 ---
 
 ## [Peer Review](https://edtechdev.github.io/aied/concepts/peer-review/)
@@ -8925,6 +9046,9 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 
 ---
 
@@ -9338,6 +9462,8 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
 ---
 
 ## [Project-Based Learning](https://edtechdev.github.io/aied/concepts/project-based-learning/)
@@ -9451,6 +9577,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+
 ---
 
 ## [Psychometrically Aware AI](https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/)
@@ -9489,6 +9617,7 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
 - [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 
 ---
 
@@ -9814,6 +9943,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]]
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 
 ---
 
@@ -10221,6 +10351,8 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[productive-failure]] — Productive Failure
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 
 ---
 
@@ -10267,6 +10399,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-availability-student-motivation]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 
 ---
 
@@ -10479,6 +10612,7 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Multiliteracies and AI portfolios
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 ---
 
@@ -10770,6 +10904,8 @@ Sociocultural theory shapes AIED research in several distinct ways:
 
 The sociocultural strand is tightly coupled to Cognitive Load Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
 
+- **Generative AI as a mediational agent (2026):** Drawing on Vygotskian mediation, a theory paper proposes reframing generative AI not merely as a tool/mediational means but as a *mediational agent* that actively participates in learning activity, blurring the tool-vs-social-interaction boundary central to sociocultural theory ([[generative-ai-mediational-agent-sociocultural-2026]]). This positions generative models as co-participants rather than passive instruments, with implications for how mediation, [[agency]], and the learner–AI relationship are theorised in the learning sciences.
+
 ## Connected Concepts
 
 - [[scaffolding]]
@@ -10797,6 +10933,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[text-simplification-its]] — Text simplification in ITS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 
 ---
 
@@ -10961,6 +11098,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[adhd-video-segmentation-computing-education]]
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
 ---
 
@@ -11193,6 +11331,9 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
+
 ---
 
 ## [Student Engagement](https://edtechdev.github.io/aied/concepts/student-engagement/)
@@ -11236,6 +11377,8 @@ A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement
 ### Connections to related concepts
 
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools for operationalizing the dimensions above. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
+
+- **Learner characteristics moderate TTS dialogue-based lessons (2026):** In LLM+TTS-generated teacher–student, student–student, and teacher–teacher dialogue lessons, experiential-learning style and critical-thinking disposition significantly interacted with dialogue format for ARCS-based motivation, indicating that AI-generated dialogue content is differentially motivating depending on learner profile ([[tts-dialogue-lessons-learner-characteristics-2026]]).
 
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
@@ -11294,6 +11437,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 ---
 
@@ -11359,6 +11504,8 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 ---
 
@@ -11491,6 +11638,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -11565,6 +11713,8 @@ The wiki's assessment literature consistently emphasizes that [[assessment]] is 
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
+
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 
 ---
 
@@ -11660,6 +11810,8 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
 ---
 
 ## [Teacher Education](https://edtechdev.github.io/aied/concepts/teacher-education/)
@@ -11702,6 +11854,8 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Use simulated practice to scale preparation.** [[educasim-cs1-instructional-practice|EducaSim]]-style simulated classrooms give teachers-in-training low-cost, high-frequency practice with feedback — a complement to limited live coaching.
 - **Address beliefs and trust.** [[self-efficacy|Self-efficacy]] predicts AI-TPACK while strong traditional-teaching beliefs can be a barrier, and [[trust]] is shaped by transparency/fairness — attend to these psychological factors, not just skills.
 
+- **AI as cognitive mediator in teacher reflection (2026):** A practice-based Reflective Triangle Model uses AI to mediate between individual teacher reflection and shared professional knowledge in learning communities, addressing the common failure of reflection to transform into collective professional learning ([[reflective-triangle-model-teacher-ai-2026]]).
+
 ## Connected Concepts
 
 - [[teacher-role]]
@@ -11737,6 +11891,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 ---
 
@@ -11831,6 +11986,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 ---
 
@@ -12157,6 +12314,8 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 
 Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately.
 
+- **Overreliance and calibration as population processes (2026):** A complex-adaptive-system model of AI reliance shows that task difficulty and AI quality set a baseline for both overreliance and calibration regret, while network connectivity and social proof shape whether reliance cascades. This suggests calibration is not only an individual trait but is modulated by the social and informational environment ([[ai-overreliance-complex-adaptive-system-2026]]).
+
 ## Connected Concepts
 
 - [[ai-literacy]]
@@ -12178,6 +12337,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[ai-partner-science-epistemic-vigilance]] — Epistemic Vigilance as the Key to Productive Augmentation
 - [[ai-advice-suppresses-ikt-suspension-2026]]
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 
 ---
 
@@ -12228,6 +12388,8 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 
 ---
 
@@ -12298,6 +12460,7 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+- [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 
 ---
 
@@ -16499,6 +16662,37 @@ Noviello et al. (2026). [AI-Generated Traces for Novice Programmers: Learning Ef
 
 ---
 
+## [Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes](https://edtechdev.github.io/aied/articles/ai-grading-handwritten-physics-2026/)
+
+> **Synthesis:** Pathak, Tiwary, Kadolkar, Singh, Rakestraw, Pathare & Mazumdar (2026) test whether [[multimodal]] [[llm]]-based grading can agree with official examiner scores on high-stakes handwritten physics assessments, grading 10,364 scanned pages across a national Physics Olympiad theory exam, the final Olympiad team-selection camp, and a university quantum-mechanics exam. Total-score correlations with official marks were high (0.91–0.97), and in both rounds the AI recovered the same five-student team as human grading for the International Physics Olympiad. The study argues that reliable [[automated-assessment]] of handwritten work depends on detailed, physics-specific rubrics, and positions AI as a [[assessment-validity|valid]] second reader and audit tool rather than a replacement for examiner judgment in [[summative-assessment]].
+## Study Design and High-Stakes Context
+The authors selected a deliberately mixed set of assessments to span the full spectrum of what physics examiners grade — theory, experiment, derivation, data analysis, diagrams, and conceptual reasoning. OE1 is a national Physics Olympiad theory exam used to identify a top cohort from roughly 10,000 participants, OE2 is the final selection camp (with theory and experiment components) that selects India's five-person International Physics Olympiad team, and QM is an end-of-semester university quantum-mechanics and quantum-computation exam. In total the AI processed 10,364 scanned pages from 520 handwritten submissions by 416 candidates across these three assessments. All official examiner scores were moderated (double-checked) before release and served as the reference, making the analysis a test of [[assessment-validity]] in a real [[summative-assessment]] context. Because Olympiad rankings can hinge on small score differences, rank and top-group agreement were treated as part of the grading question rather than incidental to it.
+## AI Grading Procedure and Two Rounds
+Grading ran through GPT-5.5 Thinking at high effort (with GPT-5.5 Pro runs used as stability checks), following the same official rubrics used by human examiners. During grading the AI did not see human scores, official totals, ranks, or selection status. Round I (RI) was the initial full run. After analyzing RI disagreements, the team added focused refinements to three questions (one each from QM, OE1, and OE2) and launched Round II (RII), which graded long submissions page by page, required the AI to identify where credited evidence appeared, and recorded confidence labels and review flags. The three focused refinements represented only about 3.6% of the combined rubrics, so RI–RII differences reflect the full revised workflow. RII was generally less shifted toward over-awarding, and for OE1 and QM the total-score MAD fell from 7.1% to 4.8% and 9.4% to 3.8% respectively.
+## Agreement and Selection Outcomes
+Total-score Pearson correlations were high in both rounds (RI r = 0.91–0.97; RII r = 0.93–0.96), though the AI consistently awarded slightly more than human examiners. Outcome-level agreement was the study's core contribution to [[automated-assessment]] research: for OE1 the AI recovered most of the larger top group (40 of the human top 50), and top-10 overlap improved from 3/10 in RI to 7/10 in RII. For OE2, both rounds placed the same five students in the top five as human grading, though in a different order — a result that held across AI-mode checks. For QM, RII matched 34 of 40 released course grades exactly and all 40 within one step on a nine-category grade scale. This direct test of whether AI reproduces [[summative-assessment]] decisions goes beyond average score agreement to consider the actual consequences of the scores.
+## Partial Credit, Refinements, and Human-Review Flags
+Question-part analysis provided a stricter test: across 7,058 official question parts, exact agreement rose from about 63% in RI to 70% in RII, and parts differing by more than one point fell from 13% to 7%. The hardest problem remained exact partial-credit scoring, especially in experimental and diagram-based work. Focused refinements showed that stating the physics conditions for credit explicitly substantially improved agreement — for example, OE1 Q2 MAD fell from 38% to 17% and Pearson's r rose from 0.58 to 0.83. Confidence and review flags offered a useful triage mechanism: high-confidence parts consistently had much lower MAD than medium- or low-confidence parts, though some unflagged parts still disagreed, so flags should prioritize human review rather than authorize acceptance. This supports a [[psychometrically-aware-ai]] approach that treats AI as a second reader, audit tool, and consistency check under examiner control, aligned with frameworks that treat [[assessment-validity]] as a property of the proposed use of scores.
+## Connected Concepts
+- [[automated-assessment]]
+- [[physics-education]]
+- [[assessment-validity]]
+- [[llm]]
+- [[multimodal]]
+- [[summative-assessment]]
+- [[assessment]]
+- [[ai-ed-evaluation]]
+- [[psychometrically-aware-ai]]
+## Connected Articles
+- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
+- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
+- [[multimodal-knowledge-graph-educational-reasoning]] — Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
+- [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
+## Citation
+Pathak, P., Tiwary, S., Kadolkar, C., Singh, V., Rakestraw, D., Pathare, S., & Mazumdar, A. (2026). [*Large Scale AI Grading of Handwritten Physics Assessments*](https://arxiv.org/abs/2608.20521). arXiv:2608.20521.
+
+---
+
 ## [AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques](https://edtechdev.github.io/aied/articles/ai-guided-learning-audiovideo-2026/)
 
 > **Synthesis:** This doctoral dissertation (Kazuki Kawamura, University of Tokyo) develops an **AI-guided learning** framework that supports three interconnected stages — Consume, Understand, and Imitate — with three deep-learning systems for audio/video learning. AIxSpeed adapts audio playback speed at the phoneme level using speech-recognition confidence as a proxy for listening difficulty; FastPerson produces multimodal video summaries that preserve the speaker's voice and lets learners switch between summary and full versions chapter-by-chapter; and Profy supports pronunciation practice by learning proficiency from largely unannotated speech and visualizing differences from native speakers. Evaluations show efficiency gains — up to 1.30x playback and a 53% reduction in viewing time — with no loss in [[learning-gains|learning outcomes]], and improved pronunciation intelligibility. The work frames AI as a [[human-ai-collaboration|guide]] that reduces [[cognitive-offloading|cognitive load]] at each stage while preserving learner [[agency|autonomy]].
@@ -17700,6 +17894,70 @@ The review grounds a foundation for designing future AI-enhanced [[online-teachi
 
 ## Citation
 Katalinic, A., Slavuj, V., & Jaksic, D. (2026). [*Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction*](https://doi.org/10.3390/educsci16030389). *Education Sciences*, 16(3), 389.
+
+---
+
+## [Modeling AI Overreliance as a Complex Adaptive System](https://edtechdev.github.io/aied/articles/ai-overreliance-complex-adaptive-system-2026/)
+
+> **Synthesis:** Biswas (2026) reframes AI reliance — whether people trust an [[llm|AI assistant]] when it is right and check it when it is wrong — as a **population process** rather than an individual, one-shot judgment. An agent-based model of `N` agents who repeatedly solve a task alone, accept the AI's answer unverified, or verify it, each updating a Bayesian (Dirichlet) belief about AI quality and, when networked, learning from peers, yields four linked results: the environment (task difficulty and AI quality) sets the baseline of [[cognitive-offloading|overreliance]] and calibration regret; social learning creates **consensus, not aggregate overreliance** (a mean-preservation theorem); visible social proof turns reliance into a **[[feedback]] cascade** that collapses verification; and feedback design can prevent that collapse. The paper frames AI reliance as a problem of computational social dynamics, where individual learning, peer observation, and feedback exposure jointly shape whether a population remains calibrated.
+
+The paper opens from the recurring human–AI interaction finding that model accuracy alone does not determine outcomes — calibrated reliance does, with the two failures of overreliance (accepting wrong output) and underreliance (discarding useful AI after it errs). Because users learn trust over time and observe one another, reliance becomes a coupled dynamical system in which each person's behavior is both an outcome of and an input to everyone else's. Such systems can settle into very different macro-states — broad calibration, collective [[cognitive-offloading|overreliance]], or shared skepticism — from nearly identical micro-rules, and can exhibit consensus, path-dependence, and abrupt tipping invisible at the individual level. This is why [[trust-calibration|calibrated trust]] is treated as a system-level, computational social-dynamics question rather than an individual experimental one.
+
+## The Model: Reliance as a Population Process
+
+The model is deliberately minimal, containing only the mechanisms needed to study how reliance evolves. A population of heterogeneous agents faces tasks over discrete steps, choosing among three actions that map to real user options: solve alone (S), accept the AI's answer without checking (A), or use the AI but verify it (V). Each action is driven by the [[agentic-ai|agent]]'s current belief about AI reliability, and each observed outcome updates that belief in a single `belief → action → outcome → updated belief` loop. Three modeling choices anchor it.
+
+First, the three actions separate using AI from checking it, making verification an explicit, costly behavior whose rise and fall is the central dependent variable — collective overreliance is operationally the population abandoning V for A. Second, trust is learned, and the key asymmetry — that one learns the truth about the AI only by verifying, while unverified use yields a noisier, optimism-biased signal — is built into how beliefs update rather than imposed as a fixed bias, so that algorithm aversion and appreciation emerge rather than being assumed. Third, in the networked version agents also learn from peers, and peers' visible behavior feeds back into action utilities, which is what makes the system capable of cascading. Choice follows a multinomial logit over utilities, and the networked variant distinguishes **experience-based learning** (observing exchangeable neighbor outcome signals) from **opinion dynamics** (updating toward neighbors' trust beliefs), so that influential hubs can transmit beliefs directly.
+
+## Key Findings
+
+**Result 1 — The environment sets the baseline.** Overreliance climbs with task difficulty (≈ 0.02 → 0.38), and at hard tasks AI quality moves it from 0.38 (poor AI) to 0.16 (good AI); a Morris sensitivity analysis confirms difficulty and AI quality dominate. Informatively, regret and raw overreliance diverge: high-quality AI on hard tasks has the highest regret (0.441) but not the highest overreliance, because agents over-defer and rarely [[trust|self-rely]], while low-quality AI on hard tasks has the highest overreliance but moderate regret, because the solo alternative is also poor. Regret, not raw overreliance, captures the cost of reliance error.
+
+**Result 2 — Social learning creates consensus, not aggregate overreliance.** In a 2×2 topology×tagging design (random vs. hub-heavy networks × source tagging on/off), with the social-proof channel off all cells give overreliance 0.30–0.31 within confidence intervals; with feedback on they all rise together to ≈ 0.51. Social learning sharply compresses trust dispersion while leaving the aggregate unchanged. Topology matters only when influence transmits correlated beliefs: under experience-based learning even extreme high-trust hubs leave the aggregate at baseline, whereas under opinion dynamics, influential hubs steer the consensus — high-trust hubs raise it, careful hubs lower final overreliance to 0.272.
+
+**Result 3 — Social proof turns reliance into a feedback cascade.** Engaging the verification-suppression feedback tips the population from verifying to collapsed verification: as social proof `s` rises 0 → 0.6, verification falls 0.29 → 0.002 (below the 0.01 "collapse" threshold) and overreliance rises 0.30 → 0.52. Forward and backward sweeps coincide at every `s`, showing a smooth crossover with no hysteresis in the agent-based model — the mean-field fold (a saddle-node) is the strong-coupling analogue. Overreliance here is endogenous, produced by learning dynamics rather than a worse model or worse users.
+
+**Result 4 — Feedback design can prevent verification collapse.** Against a harmful baseline (visible unverified use), making verification visible (`sV = 1.0`) triggers a beneficial counter-cascade that moves the population to near-complete verification (overreliance 0.00, regret down to 0.07). Dampening social proof gives partial recovery (overreliance 0.39), while merely reducing verification friction is the weakest lever (it does not lower regret), because cheaper checking does not counter the social pull toward unverified use. Interventions that change what users see others doing are more effective than ones that only lower the private cost of checking.
+
+## Theoretical Results
+
+The theoretical analysis provides an oracle [[benchmark]] and two proofs that structure the computational results. An **oracle** with correct expectations and infinite decisiveness selects the optimal action and attains zero expected regret up to ties, and behavioral over-/under-reliance are ex-post diagnostic proxies that need not vanish under perfect calibration — even an optimal ex-ante action can yield an unfavorable realized outcome, so regret is the primary normative metric.
+
+A **mean-preservation theorem** (Prop. 2) shows that under a DeGroot trust update with a doubly-stochastic weight matrix, the population mean trust is invariant and the cross-sectional variance is non-increasing; more generally, if peer signals are exchangeable and influence weights are independent of realized signal values, the expected mean is invariant for any weighting, including hub-dominated. The null is scoped: it holds when peer signals are exchangeable and influence is uncorrelated with systematic differences in trust, ability, or skill — when influence transmits beliefs (opinion dynamics), topology becomes a mechanism of amplification.
+
+A **cascade tipping result** (Prop. 3), building on Brock–Durlauf discrete choice with social interactions, shows that real fold points exist only when coupling `θs > 4`, and hysteresis requires the care advantage `c` to fall in a specific fold interval; outside it there is a unique stable equilibrium. In the agent-based model, heterogeneity and endogenous variation keep the system off the fold interval and smooth the transition, so collective overreliance is expected to build gradually as social proof strengthens rather than switching on at a sharp threshold.
+
+## Implications
+
+The results point to a single simple mechanism: deployment context sets the baseline, peer learning aligns beliefs, and visible unverified use can erode verification unless the feedback channel is redesigned. Three implications follow. **Deployment context dominates**, and regret (not raw overreliance) measures its cost. **Connectivity alone is not enough** to explain collective overreliance — under exchangeable signals social learning homogenizes trust without moving its aggregate, so structure bites through the opinion channel and stake/exposure heterogeneity rather than through raw connectivity. And **overreliance is a feedback phenomenon** whose levers are the cost and salience of verification and the structure of exposure: interfaces that keep verification cheap and visible, or dampen social proof for unverified use, prevent collapse.
+
+The paper's [[educational-policy-ai|policy]] implications are qualitative and conditional rather than quantitative forecasts — the model identifies which classes of intervention can work and why, and doubles as testable hypotheses for dynamic, social-reliance experiments. This connects directly to [[ai-education|AI education]] and [[human-ai-collaboration|human-AI collaboration]] design: it suggests that fostering [[metacognition|metacognitive]] verification habits and [[critical-thinking|critical evaluation]] of outputs may matter more than merely reducing friction, and that visible verification norms can counter the [[cognitive-offloading|offloading]] pull of unverified reliance. It also speaks to [[reducing-ai-misuse|reducing AI misuse]] and [[ai-misuse-learning-harm|learning-related harms]], since collective [[trust-calibration|miscalibration]] arises from feedback and peer exposure rather than from worse models or worse users. Limitations include exogenous, stationary AI quality, a fixed network, and stylized verification; future work would estimate key quantities — per-task verification rates, social-proof strength, and how trust updates after verified versus unverified use — from longitudinal traces of AI-assisted work.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[trust-calibration]]
+- [[human-ai-collaboration]]
+- [[agentic-ai]]
+- [[llm]]
+- [[reducing-ai-misuse]]
+- [[ai-misuse-learning-harm]]
+- [[trust]]
+- [[metacognition]]
+- [[critical-thinking]]
+
+## Connected Articles
+
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
+- [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say They Don't Know
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: An AI Literacy Intervention in Human-AI Collaboration
+- [[critical-genai-use-predictors]] — GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
+
+## Citation
+
+Biswas, A. (2026). [*Modeling AI Overreliance as a Complex Adaptive System*](https://arxiv.org/abs/2608.19616). arXiv:2608.19616.
 
 ---
 
@@ -23485,6 +23743,68 @@ Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysi
 
 ---
 
+## [ChatGPT Solves All Tested Qiskit Homework Assignments](https://edtechdev.github.io/aied/articles/chatgpt-qiskit-homework-autogradable-2026/)
+
+> **Synthesis:** This empirical study by Kaltchenko and Tiwana (Wilfrid Laurier University) tests whether [[cs-education|introductory quantum-computing]] homework can remain [[automated-assessment|autogradable]] while still forcing students to run, review, and interpret their own results rather than banning [[generative-ai|AI]]. Three [[assessment|Qiskit assignment packages]] were built — seeded basis-state circuits, Quantum Fourier Transform (QFT) with inverse-transform recovery, and seeded Deutsch–Jozsa — each wrapped in deterrence layers (deterministic personalization, non-palindromic bitstrings, varied measurement maps, simulator execution, machine-readable JSON submissions, hidden references, circuit metrics, reflections, optional IBM Quantum execution). For each package a single fixed student-visible instance was tested in 50 separate ChatGPT sessions (150 total); all 150 final artifacts executed and passed the grader, giving each instance zero observed ChatGPT-resiliency under the study's operational definition. The analysis explains why the defenses failed — seeds changed parameters rather than task structure, expected results stayed derivable from visible logic, [[scaffolding]] exposed key steps, and hidden grading verified consistency rather than authorship — and argues that correct artifacts must be complemented by direct assessment of understanding (supervised modification, oral defense, prediction, transfer), a core concern for [[academic-integrity]] and [[llm]] use in [[physics-education]].
+
+## Study design and the threat model
+
+The paper frames the adversary not as a sophisticated attacker but as a **minimally engaged student**: someone who provides ChatGPT the assignment text, notebook, or student-visible files; requests a complete solution and required artifacts; runs the generated code in Jupyter or Colab; returns an exact installation or runtime error; and submits the finished work. The student never receives the hidden [[teacher-role|instructor]] solution, hidden reference functions, expected answers, or grader [[feedback]]. This models direct outsourcing rather than elaborate [[prompt-engineering]] or autonomous agents.
+
+Operational resilience is defined as *completion resistance*, not [[plagiarism-detection|plagiarism detection]], authorship, or learning: for each package a, observed resiliency is Ra = 1 − Ca/Na, where Na is the number of separate ChatGPT sessions and Ca is the number yielding an executed, grader-accepted completion. A session counted as correct only when the final artifact executed and passed the corresponding grader after ordinary execution and permitted error feedback. Each fixed instance was repeated in 50 separate sessions, holding assignment content constant while resampling the model interaction, so the design tests whether completion was stable rather than a one-off response — not generalization across seeds or variants.
+
+## The three assignment packages
+
+Three package types target distinct quantum-programming difficulties. **HW1** (seeded basis-state circuits) addresses a frequent Qiskit pitfall — count keys are displayed in classical-register order, which can differ from the order students list qubits — by having students prepare a personalized basis state, apply a seeded bit-flip mask, measure through a direct or reversed qubit-to-classical-bit map, run Aer, explain count-string ordering, and export `answers.json`. **HW2** (QFT followed by inverse-QFT) moves to a recognizable algorithmic workflow where the inverse transform recovers the input (QFT⁻¹QFT|x⟩ = |x⟩), adding circuit depth and operation counts plus an optional hardware extension — but its student-facing notebook is heavily scaffolded. **HW3** (seeded Deutsch–Jozsa) requires a seed-specific oracle rather than a textbook circuit: students classify a seeded linear oracle, build the custom oracle and complete circuit, use a personalized measurement map, run Aer, and report metrics and reflections, with an optional hardware run.
+
+Across all three, deterrence layers include deterministic synthetic or student identifiers that regenerate a reproducible configuration, non-palindromic bit patterns, nonzero or custom masks, measurement-map variation, machine-readable JSON schemas, hidden deterministic instructor references (regenerating expected output without a per-student answer key), circuit and transpiler metrics, and reflections tied to individual results. The broader project also explored hidden instructions, canary markers, QPY semantic validation, and noisy-[[simulation]] grading, but these were not mandatory in the 150-session fixed-instance experiment and are not claimed as defeated controls.
+
+## Results: all 150 artifacts passed
+
+For each package, Ca = Na = 50, so Ra = 0: **150 of 150 final artifacts executed and passed the corresponding grader**, and each fixed instance had zero observed ChatGPT-resiliency. Nine sessions (three per package) were fully archived with transcripts, generated files, logs, and grader outputs under a controlled protocol — each began a new conversation, only student-visible materials were supplied, at most two follow-ups were permitted (limited to an exact runtime error or a request for an omitted required file), and the operator supplied no conceptual hint, independent code fix, expected answer, hidden reference, or grader feedback. Within those nine archived sessions every first-response artifact was already grader-passing, and no archived session required operator code edits or correction of quantum logic.
+
+The only failures were environmental. Eight notebook executions initially stopped at an optional `qc.draw("mpl")` call because the `pylatexenc` dependency was missing, and one HW2 grading environment lacked `qiskit-aer`; each resolved with a single permitted installation or rendering adjustment. These were dependency and visualization issues, not errors in the quantum algorithm, expected result, output schema, or reflection. Earlier exploratory runs on real IBM hardware (QPE on `ibm_marrakesh`, QFT and Deutsch–Jozsa on `ibm_kingston`) showed hardware supplied execution evidence — backend names, job identifiers, transpiled circuits, noisy counts — but did not eliminate the minimally engaged workflow, since ChatGPT generated the code and the operator returned execution data for interpretation.
+
+## Why the deterrence layers did not stop ChatGPT
+
+The analysis identifies four reasons the defenses failed. First, **personalization changed parameters, not the task class**: a deterministic seed prevents every student from receiving the same numeric configuration but does not create a new reasoning problem, because ChatGPT could read the visible generator, specialize the circuit to generated values, and produce a parameterized solution; non-palindromic bitstrings and reversed maps exposed careless implementations but remained explicit, rule-based transformations. Second, **scaffolding and predictability weakened execution dependence**: in HW2 the notebook exposed the complete QFT and inverse-QFT routines, the expected recovery relationship, the measurement-map calculation, and generic reflection text, so ChatGPT could complete the package without independently deriving the algorithm and could know the ideal count key before running the simulator; HW3 similarly disclosed that a zero mask is constant while a nonzero linear mask is balanced.
+
+Third, **hidden grading is not hidden problem information**: hidden deterministic references made assignments autogradable and stopped students from reading an instructor answer file, but they did not prevent ChatGPT from deriving a correct answer from the public specification — the graders checked seeded configuration fields, expected bitstrings, ideal counts, dominant outcomes, and reflection presence or length without semantically validating every circuit or establishing independent authorship or understanding. Fourth, **machine-readable JSON and reflections created no resistance**: LLMs handle structured output well when a schema or example is supplied, and generic or result-specific reflections were generated fluently after ChatGPT had calculated or received the relevant values. The observed minor failures — missing packages, outdated Runtime syntax, occasional bit-order risk — were ordinary debugging issues that a student could paste back into the same conversation, consistent with quantum-code studies showing large gains from [[generative-ai|execution feedback]].
+
+## Implications for engineering education
+
+The negative result does not imply that personalization, autograding, simulator work, or hardware laboratories should be abandoned — each remains educationally and operationally valuable. The finding is that their presence in a take-home package should not be interpreted as evidence that the student independently performed the substantive work. A human-centric response distinguishes **AI-supported production** from **verified understanding**: students may use AI for syntax, setup, or debugging, while instructors directly assess whether they can explain and adapt the result. Recommended measures include a short oral defense tied to the student's own circuit and counts, a supervised modification of a qubit mapping, oracle, or input state, prediction of a new outcome before execution, a transfer task that changes the algorithmic structure rather than only the seed, semantic validation of submitted circuits where implementation is a learning outcome, and brief in-class checks connecting code, mathematics, and observed hardware noise — a [[formative-assessment|formative]] counterweight to the take-home artifact.
+
+The study also cautions against equating more submission artifacts with stronger validity: a notebook, JSON file, transpiler statistics, QPY circuit, job identifier, and reflection can all be genuine while still assembled through an LLM-directed workflow. Assessment should specify which evidentiary claim each artifact supports — that execution occurred, that a circuit is semantically correct, or that the student understands and can transfer the concept — and correctly completed artifacts should be complemented by [[student-ai-interaction|direct assessment of conceptual understanding]]. The study is explicitly exploratory and negative, not proof that every Qiskit assignment is solvable: three fixed instances were tested at the introductory level, exact model labels and dates were preserved only for the nine archived sessions, no human participants were studied, and there was no randomized baseline or ablation isolating the effect of each deterrence layer.
+
+## Connected Concepts
+
+- [[cs-education]]
+- [[academic-integrity]]
+- [[automated-assessment]]
+- [[generative-ai]]
+- [[assessment]]
+- [[llm]]
+- [[physics-education]]
+- [[formative-assessment]]
+- [[prompt-engineering]]
+- [[student-ai-interaction]]
+
+## Connected Articles
+
+- [[zhan-chapman-genai-cs-education-2026]] — Harnessing generative AI in computer science education: pedagogical innovation, ethics, and the future of assessment
+- [[reshaping-cs-education-genai]] — Reshaping undergraduate computer science education in the generative AI era
+- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of generative AI
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching intro AI when the tools can do the homework
+- [[ai-tools-academic-work-cheating-2026]] — Is using AI tools for academic work cheating? Student perceptions and impact on academic performance
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
+
+## Citation
+
+Kaltchenko, A., & Tiwana, G. (2026). [*ChatGPT Solves All Tested Qiskit Homework Assignments*](https://arxiv.org/abs/2608.19707). arXiv:2608.19707.
+
+---
+
 ## [Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education](https://edtechdev.github.io/aied/articles/chatgpt-teachable-agent-programming-lbt-2024/)
 
 > **Synthesis:** Chen et al. (2024) investigate whether ChatGPT can serve as a **teachable agent** to support learning-by-teaching in programming education. Interacting with ChatGPT as a tutee improved students' knowledge gains and programming ability — especially writing readable, logically sound code — and boosted self-regulated learning and self-efficacy, but had limited impact on error-correction skills because ChatGPT tends to produce correct code, reducing debugging practice.
@@ -26227,6 +26547,63 @@ Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship f
 
 ---
 
+## [Credentials That Carry Their Evidence: Credential design, dynamic tiering, and approved use when AI agents can do the work](https://edtechdev.github.io/aied/articles/credentials-carry-evidence-ai-agents-2026/)
+
+> **Synthesis:** Srivastava (2026) argues that when an [[agentic-ai|AI agent]] can complete an online course on a student's behalf, a credential that says "earned" loses its meaning, and that the standard remedy — proving a human did the work through identity checks and proctoring — is fragile and targets the wrong quantity. The paper proposes that credentials retain value only if they carry **evidence of the reasoning** that produced them, captured while learning happens and inspectable by someone other than the issuing institution. It advances three design elements: the credential as a **claim plus a verifiable receipt** (an inspectable, independently verifiable record of what was observed, hashed against alteration); **dynamic tiering**, in which the same skill is certified as *unaided*, *directed*, or *attested* and can be upgraded or lapse as evidence accrues; and **declarations of approved use**, under which agent use is permitted and measured rather than prohibited and policed. The organizing principle is that a credential's value comes from what can be [[assessment|inspected]], not from who signed it.
+
+The paper opens from reporting that students in 2026 used AI agents to log into learning platforms and complete entire online courses in the background. It reframes the reaction from a [[academic-integrity|cheating problem]] to a signaling problem: a degree is valuable partly because it signals that a person spent time acquiring hard skills (Spence's signaling), and when an agent can produce the same credential without the human learning, the credential no longer separates those who learned from those who did not — an instance of Akerlof's "lemons" condition in which quality uncertainty drives good products out of the market. [[ai-education|AI-mediated education]] makes this acute at the leading edge of online assessment, but the mechanism is general.
+
+## Why identity verification cannot restore the signal
+
+The natural response is to prove a human did the work: identity checks, proctoring, agent watermarks, verifiable agent identities. Some are useful; none restore the signal. First, they are contests the verifier tends to lose over time — a student who wants to pass identity checks while an agent works can arrange to be present. Second and more fundamentally, identity is the wrong quantity: knowing a particular human was at the keyboard tells an employer nothing about whether that human can do what the credential names. The value of the credential was never that a person was present, but that a person learned. Framed through Kane's validity argument, the credential rests on a chain of inferences from observed performance to score to domain to capability to the employer's decision; agents break the first link, so repair must target the observation itself rather than the paperwork around it.
+
+Three properties make an observation hold up when agents are available: it is **contemporaneous** (captured while learning happens — predictions made, tests run, explanations given, revisions after being wrong — not inferred afterward from a finished artifact an agent could produce); **inspectable** (every claim traces to specific evidence, and the rule turning evidence into an estimate is published with reference cases so a verifier can reproduce it); and **independently verifiable** (the checking party is not the issuer nor the builder of the learning environment, mirroring the auditor/issuer separation that makes audited financial statements credible). None requires agents to be absent; they require the human's reasoning to be observed and the observation to be checkable.
+
+## A claim plus a receipt
+
+Today a credential is a claim: "this person earned this." The proposal is that a credential become a **claim plus a receipt** — a structured record of what was observed, when, and under what conditions and permissions, with the evidence chain hashed so it cannot be altered after the fact, plus a verifier any third party can run. Evidence and any estimates built on it are kept as separate chains, so a learning environment can produce evidence without producing a score, and different parties can layer their own estimates on the same evidence. The credential stays short and readable; the receipt gives it weight, so an employer, accreditor, or licensing board wanting more than the summary can ask for and check the record.
+
+The analogy is a pilot's logbook rather than a pilot's license: the license says "may fly," but the logbook records hours, aircraft, conditions, maneuvers, and sign-offs, and it is the logbook an insurer or airline actually reads. Education has issued licenses without logbooks; agents make the logbook necessary. Design consequences follow: the evidence schema must be open so receipts from different institutions and environments are readable by the same verifier; the verifier must be open too; the learner must control disclosure (the receipt exists to be presented, not harvested); and the receipt should record conditions including which tools were permitted, because a claim without its conditions cannot be interpreted.
+
+## Dynamic tiering
+
+A pass/fail credential forces one answer to a question that now has several honest ones. The proposal is that the same skill be certifiable at three strengths stated on the credential. **Unaided** means reasoning evidence was captured with no external tool or agent permitted and is inspectable — the strongest claim and most expensive to produce. **Directed** means agents or tools were permitted and the evidence shows the human directing them (choosing the approach, checking and correcting output, explaining why); a learner who drives an agent well leaves a different trace from one who is driven. **Attested** means the work was completed with no reasoning evidence captured — what most online credentials are today; naming it honestly lets the market price it rather than discounting everything.
+
+The tiering is dynamic in two directions. A credential can be **upgraded**: a learner holding an attested credential can sit an unaided or directed session later and add stronger evidence to the same record. And a credential can **lapse or be flagged for renewal**: skills not exercised decay, and a receipt recording when evidence was last observed lets an employer weigh recency rather than letting the credential pretend a years-old demonstration is current. This mirrors how professions already handle competence through currency requirements and recertification. Employers need only three words on the credential and the option to look further; institutions need only say which tier they issue.
+
+## Approved use
+
+The instinct to prohibit agents is understandable but will fail, recreating the identity contest under another name. The alternative is to declare, per assessment, which uses are permitted and to make the human's contribution inside that permission the thing that is measured. Approved use is a specification of conditions, not a loophole. Under it, the receipt records the [[educational-policy-ai|policy]] that applied as a consent-and-attestation block in the record itself, along with evidence of the human's work within it, so a verifier can check not only that reasoning happened but that it happened under the declared conditions — did the learner set the goal or accept the agent's, test the output or submit it, notice and correct errors? These observable behaviors distinguish the driver from the passenger more reliably than any attempt to detect whether an agent was present. Where safety is at stake (a licensing examination), the policy says so, the environment enforces it, and the credential is issued at that tier; where a task is better done with tools, the policy and credential say what was measured. The effect is to replace "Was an agent used?" — unanswerable at scale and beside the point — with "What did the human demonstrably do?", which is measurable, disclosable, and worth paying for.
+
+The infrastructure this requires is not exotic: learning environments that emit structured evidence of reasoning as it happens; an open evidence schema and verifier so receipts are portable and checks reproducible; institutional separation between environment, issuer, and verifier; and measurement engines that have themselves been audited against known truth, with audits published whether or not they flatter the engine. The paper also scopes what it does not solve: compromised environments can still defeat evidence capture; contemporaneous evidence is easier in [[simulation]] and interactive learning than in extended written work; observation carries [[equity-in-ai-education|equity]] and [[privacy]] costs (learner-controlled, minimal-by-default disclosure is necessary); tiering can be gamed by weak certification; and standards bodies, not vendors, should own the schema. The [[governance]] and [[ethics]] of such systems, along with the validity arguments of Messick, Kane, and others, apply with particular force — including warnings against circular validation in which one model certifies another.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[academic-integrity]]
+- [[higher-ed]]
+- [[edtech-platform]]
+- [[generative-ai]]
+- [[agentic-ai]]
+- [[governance]]
+- [[ai-education]]
+- [[automated-assessment]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
+- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
+- [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
+- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
+- [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments
+
+## Citation
+
+(2026). [*Credentials That Carry Their Evidence: Credential design, dynamic tiering, and approved use when AI agents can do the work*](https://osf.io/preprints/edarxiv/63rea_v1/). EdArXiv preprint.
+
+---
+
 ## [AI-accelerated End-to-End Framework for Rapid Professional Upskilling](https://edtechdev.github.io/aied/articles/crewscaler-ai-upskilling-framework/)
 
 > **Synthesis:** The Crew Scaler framework applies AI acceleration across all five stages of [[professional-training|professional upskilling]]—[[llm|knowledge acquisition]], content development, content review and verification, AI-tutor coaching, and [[formative-assessment|assessment development]]—with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, spaced review, misconception-keyed distractors, 16 tutoring protocols).
@@ -27763,6 +28140,61 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 ## Citation
 
 Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). [The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students](https://arxiv.org/abs/2605.26010). arXiv:2605.26010. cs.CY.
+
+---
+
+## [Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics](https://edtechdev.github.io/aied/articles/distilling-self-explaining-lm-learning-analytics-2026/)
+
+> **Synthesis:** Pan, Meng, and Suk (2026) propose a two-stage fine-tuning pipeline that distills a fitted black-box ML estimator and its post hoc interpretation into a small, open-weight [[llm|LLM]], so that one model returns both an individual-level estimate and a natural-language explanation offline on a commodity laptop. The pipeline pairs the ALE-fANOVA decomposition of a causal estimator with a "mentor" narration that a small "mentee" model learns via LoRA, and it is evaluated under a **faithfulness-first** framework that audits every narration against the attribution it claims to describe rather than trusting fluent text as correct text. A [[simulation]] study separates distillation loss from estimator loss and shows the 2B-parameter mentee achieves near-lossless recovery of the oracle effect surface (r > .90), while almost all remaining error under a realistic X-learner originates upstream. The work carries direct implications for [[trust]] and the privacy-preserving deployment of [[learning-analytics]] decision support.
+
+## A two-stage distillation pipeline
+
+The design addresses two obstacles that keep ML out of educational practice: the explainability gap (post hoc tools like SHAP and partial dependence presuppose statistical literacy) and the deployment burden (running a tree ensemble plus its preprocessing and explanation stack requires hardware and expertise that classroom and family [[stakeholders]] lack). The pipeline's first stage, **mentor construction**, fits any flexible ML estimator — a neural network, a stacked Super Learner, or a causal estimator such as an X-learner — and decomposes each individual's estimate with accumulated local effects plus functional ANOVA (ALE-fANOVA) into a grand mean, first-order covariate terms, one data-driven pairwise interaction, and a residual. A capable mentor LLM then renders each student's decomposition ledger as a structured "mentor trace" that must close arithmetically (baseline + cited contributions + residual = estimate). The second stage, **mentee distillation**, fine-tunes a small open-weight Gemma 4 E2B model (~2B active parameters) with rank-16 LoRA adapters — about 0.7% of base parameters — on roughly 7,300 accepted traces so the estimate, its decomposition, and the decision are absorbed into the mentee's weights. At deployment a single model maps a student's covariate profile to an effect estimate, an individualized explanation, and a recommended action, with no upstream estimator, interpretation tool, or network connection at inference time.
+
+Two selection rules keep the citation set honest: a global eligibility filter admits a covariate as narratable only if its average absolute contribution reaches a fixed fraction (20%) of the strongest covariate's, and within a student terms are cited in descending order of absolute contribution until they account for 90% of the attribution (capped at five). The mentor may only attach interpretive language from a small phrase pool derived from the fitted estimator itself, so it cannot explain a contribution by hallucinating a mechanism.
+
+## Faithfulness-first evaluation
+
+The paper rejects the common practice of evaluating distilled models only on task accuracy. Its faithfulness audit operates across four layers and serves as an acceptance gate at corpus construction and as the evaluation procedure for everything the mentee generates. The first layer checks arithmetic closure — that the stated decomposition sums exactly to the stated estimate and that every number in the prose traces to the decomposition. The second verifies that the cited covariates are the influential ones rather than [[hallucination-risk|hallucinations]], scored in simulation by the AUC for ranking true moderators above decoys and noise, and by the rate at which noise and false interactions are cited. The third measures decision fidelity by comparing the recommended action with the action implied by ground truth. The fourth targets the most consequential failure for [[ai-ed-evaluation|educational decision support]]: the unsafe-treatment rate, or the proportion of harmed individuals wrongly recommended for treatment.
+
+A central design insight is that fluency is no evidence of correctness. Because an LLM produces fluent narration whether or not it is true, the audit evaluates every narration against the attribution it claims to describe. The simulation study is therefore built to separate distillation loss from estimator loss by comparing an **oracle mentor** (which provides the true effect surface directly) with a **realistic X-learner mentor**, in a 2×2 design crossing severely (97.1%) and moderately (72.5%) imbalanced decision distributions.
+
+## Simulation and empirical findings
+
+Under the oracle mentor, the mentee recovers the true CATE surface closely: Pearson correlations reach **0.925 and 0.910** with slopes near 0.9, so the small model both ranks students correctly and reproduces the scale of effects rather than collapsing them toward the mean. It ranks the true moderators above decoys and noise at **AUC = 1.000**, cites no spurious covariate (**FalseCite = 0.000**), and the interaction screen lifts decomposition closure to **ρ²_dec = 0.969**. Under the realistic X-learner, mentee–mentor gaps are at most 0.074 on point fidelity, while the correlation with truth falls to about **0.72** and the slope to about **0.50** — compression already present in the estimator before any narration is written. The bottleneck is upstream estimation, not fine-tuning; indeed the mentee's point estimates are slightly *closer* to ground truth than the mentor's because the ALE decomposition and distillation smooth a noisy CATE.
+
+Applied to a nationally representative dataset (HSLS:09, n = 9,167), the pipeline estimates the effect of advanced mathematics coursework (AP/IB) on four-year college enrollment. The X-learner estimates an ATE of **0.230** with positive effects for 98.3% of students; the leading moderators are prior mathematics achievement (17% variance share) and socioeconomic status (13%), with effects declining monotonically across quartiles — so the advanced mathematics coursework most benefits students least likely to enroll in four-year college, consistent with Byun et al. (2015). On a held-out test split of 1,834 students, the mentee correlates with the mentor at r = 0.71, **98.8% of narrations pass the faithfulness audit in full**, 99.7% self-close arithmetically, and there are no fabricated quantities. The entire negative tail of the mentor's surface is truncated in distillation, so the mentee recommends treatment for all students in a severely imbalanced case — a decision-quality collapse that fluency cannot reveal.
+
+## Implications for trustworthy learning analytics
+
+The paper's central lesson is that fluency and faithfulness are distinct properties. Across every condition, the mentee produces narrations that read well, cite covariates with correct calculation, and end with confident, actionable recommendations — yet in the severely imbalanced simulation it recommends actually harmful treatment to almost all harmed individuals under the X-learner. This danger can only be surfaced in a simulation where ground truth is known by construction, and it is especially concerning in [[learning-analytics]], where parents, students, and counselors are the least equipped to notice that a well-written explanation is wrong. The upstream model therefore deserves the most scrutiny, since it mostly determines what the mentee learns.
+
+The pipeline also carries favorable [[ethics|privacy and fairness]] properties. Because student records never leave the machine and are never sent to a third-party model provider, it enables local, [[human-in-the-loop-ai|human-in-the-loop]] decision support; the deployment runs on a commodity laptop with no network access, producing an estimate and explanation in about ten seconds. For fairness, sensitive covariates can be dropped entirely in prediction tasks (fairness through unawareness) or handled at the decision stage in causal tasks, and the design extends naturally to distill multiple upstream models into one general analysis assistant. The simulation rests on only five replications and the empirical study on one dataset and outcome, and the mentee compresses effect magnitudes in every condition, so individual point estimates should be read with caution even where correlation is high — a limitation the paper exposes honestly rather than concealing behind qualitative labels.
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[llm]]
+- [[trust]]
+- [[ai-ed-evaluation]]
+- [[benchmark]]
+- [[educational-nlp]]
+- [[student-modeling]]
+- [[multimodal]]
+- [[ethics]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality assessment
+- [[xai-education-framework]] — An Explainable AI framework for education
+- [[explainable-probabilistic-kt]] — Explainable probabilistic knowledge tracing
+- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge distillation for AI tutor evaluation
+
+## Citation
+
+Pan, C., Meng, A., & Suk, Y. (2026). [*Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics*](https://arxiv.org/abs/2608.21165). arXiv:2608.21165.
 
 ---
 
@@ -31293,6 +31725,52 @@ Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-
 
 ---
 
+## [Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs](https://edtechdev.github.io/aied/articles/gemini-lualatex-physics-video-transcription-2026/)
+
+> **Synthesis:** Looney and Duston (2026) present a mostly automated workflow built from freely available tools that turns instructional physics videos into math-accessible PDF transcripts. Guided by carefully crafted system instructions, a [[multimodal]] [[generative-ai|Gemini model]] in the AI Studio environment both listens to the audio track and watches the video (sampling one frame per second), transcribing all board-written or screen-presented equations into LaTeX and weaving them into the verbal flow or descriptive segments. Gemini's output is pasted into a prewritten, SE-tagging-enabled LuaLaTeX preamble and compiled locally; the resulting PDFs routinely compile without errors and pass PDF/UA-2 and ISO 32005 validation. This addresses an [[accessibility]] gap for [[special-education|blind and low-vision students]] and supports [[inclusive-learning|inclusive]] [[physics-education]] by making equation-heavy [[llm|AI]] transcription a practical, reproducible alternative to manual accessible-math transcription.
+
+## The Accessibility Problem
+
+Well-made instructional videos expand access to mathematically intensive STEM content and enable interactive pedagogies, but they pose a major barrier for [[special-education|blind and low-vision students]]. Educational institutions face legal and [[ethics|ethical]] mandates to provide accessible materials under the Americans with Disabilities Act (ADA), the Web Content Accessibility Guidelines (WCAG), and the unified PDF/UA-2 and ISO 32005 standards. Translating a multi-channel, multi-sensory experience—in which an instructor simultaneously speaks, gestures, and writes complex mathematics—into a single-channel, screen-readable format is structurally and technically formidable. Existing tools fall short for this specific task: Mathpix Snip and Purdue's ink2html transcribe written math or images of math to LaTeX but lack audio capability; Equatio can transcribe dictation or screenshots but not both simultaneously; AudioTTo pairs Faster-Whisper speech transcription with Gemini but relies on separate slides; and VoiceMath is a human-in-the-loop application largely restricted to collaborators. The authors—who together maintain roughly 300 instructional physics videos—needed a free, widely available, mostly automated system that integrates audio and visual information, resolves gestural referents, and embeds mathematics directly into a math-accessible transcript.
+
+## The Transcription Workflow
+
+The pipeline pairs Google Gemini in the AI Studio environment with LuaLaTeX. Gemini was chosen for its generous free tier and its ability to both listen to the video's audio track and watch the video track, sampling one frame per second by default; a YouTube URL option expedites processing when creators allow embedding. The transcribing model, guided by the authors' system instructions, produces LaTeX output in which all board-written mathematical expressions are transcribed into LaTeX math and incorporated into the verbal flow or presented in descriptive segments that also describe graphs, diagrams, and pedagogically important actions. This LaTeX output is appended to a prewritten shell document whose SE-tagging-enabled preamble is compiled by a LuaLaTeX engine. Since November 2025, LuaLaTeX has stably implemented automated Structure Element (SE) tagging, allowing the same semantic and structural information found in accessible HTML plus MathML to be embedded into the PDF tagging tree. Compilation is validated using PDFix Desktop Lite, which tests for both PDF/UA-2 and ISO 32005 compliance; because fully compliant PDFs can fail out-of-date tools, an up-to-date PDF-Association-approved checker is recommended.
+
+## Evaluation and Findings
+
+The authors tested their v6m system instructions and preamble on 16 videos spanning lightboard, whiteboard, and screencast formats across introductory physics topics, produced by two [[teacher-role|faculty]] members. In 16 of 17 successive transcription tests the output compiled without errors and passed the PDFix PDFUA-2-ISO32005 validation test (video 9 required a second attempt after an improperly wrapped inline-math expression). Verbal transcription accuracy was judged very good: the expert-transcriptionist persona pushes Gemini toward lightly cleaned verbatim, while visual context helps it resolve mumbles. Mathematical accuracy was strong—Gemini often corrects obvious board-written errors (e.g., fixing closed-integral notation in Gauss's law) and can handle Dirac notation, quantum-mechanics material, and Maxwell's equations. Gemini occasionally makes nonhuman notation changes, such as using uppercase V for velocity or substituting 𝚤̂, 𝚥̂, and k̂ for unit vectors, but these are easily corrected with follow-up prompts. A detailed subscript framework distinguishes math-coded single-character subscripts from text-coded multi-letter labels so screen readers read them appropriately, and un-stacks vertically stacked board-written subscripts for robustness. Visual descriptions of graphs and diagrams were weaker, reflecting the inherently qualitative nature of such content, though the authors report a striking case where Gemini transcribed a physically correct 0.5 kg mass from visual evidence alone despite the presenter saying "5 kg." A neo-minimalist instruction-set experiment found that minimalist prompts can pass validation but proved unreliable for consistently clean output.
+
+## Significance and Implications
+
+The authors argue their workflow likely exceeds an expert human transcriber with a degree in physics and LaTeX/MathML command—and vastly exceeds what most instructors can produce manually—at a far smaller time cost. They note that LuaLaTeX-produced SE-tagged PDFs deliver the same technical mathematical accessibility as HTML plus MathML in a more stable and portable format that can be posted anywhere. The publicly available supplementary materials include the full v6m system instructions, the preamble shell document, all test LaTeX sources and compiled PDFs, and the neo-minimalist experiment files, enabling others to use, adapt, study, and extend the framework. The authors recommend modest [[governance|institutional]] investment in centralized LuaLaTeX expertise to reduce the cost of widespread accessible transcription, and envision a future one-button system producing a compiled PDF or editable LaTeX source. The work also carries practical caveats: free-tier AI Studio data may be used for model training, so protected or proprietary content must be excluded, and a local TeX Live installation is currently required because web-based Overleaf's free tier times out on the rigorous SE-tagging compilation.
+
+## Connected Concepts
+
+- [[accessibility]] — the core goal of producing screen-readable math-accessible PDFs
+- [[physics-education]] — the domain of the transcribed instructional videos
+- [[generative-ai]] — Gemini powers the transcription workflow
+- [[universal-design-for-learning]] — accessibility-by-construction framing for video-based STEM learning
+- [[multimodal]] — Gemini integrates audio and visual information from video
+- [[llm]] — the underlying transcription engine
+- [[assistive-technology]] — screen readers are the target consumers of the accessible PDFs
+- [[inclusive-learning]] — accessible transcripts support diverse learners
+- [[special-education]] — the blind and low-vision students the system is designed to support
+
+## Connected Articles
+
+- [[ludia-udl-ai-thought-partner-2026]] — UDL-aligned AI tool design in education
+- [[llm-computational-thinking-physics-2026]] — LLMs applied to physics education
+- [[hashmi-socratic-physics-chatbot-2025]] — AI chatbot for physics learning
+- [[multimodal-affective-its-presentation]] — multimodal AI in an intelligent tutoring context
+- [[learnlm-improving-gemini-learning]] — improving learning outcomes with Gemini models
+
+## Citation
+
+Looney, C. W., & Duston, C. L. (2026). [*Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs*](https://arxiv.org/abs/2608.20733). arXiv:2608.20733.
+
+---
+
 ## [Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)](https://edtechdev.github.io/aied/articles/genai-academic-search-workshop/)
 
 **Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al.** — cs.IR, cs.AI, cs.HC
@@ -33820,6 +34298,60 @@ This four-year comparative study presents results of implementing a [[generative
 
 ## Citation
 Fecko, B., Dziak, J., Vince, T., & Molnár, J. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). *Computers and Education: Artificial Intelligence.*
+
+---
+
+## [Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory](https://edtechdev.github.io/aied/articles/generative-ai-mediational-agent-sociocultural-2026/)
+
+> **Synthesis:** Warschauer, Tate, and Ritchie (2026) argue that [[generative-ai]] challenges a foundational distinction in [[sociocultural-learning|sociocultural theories of learning]]: the separation between mediational means and social interaction. Whereas traditional tools such as language, [[writing-education|writing]], and educational technologies mediate human activity while learning arises through social participation, generative AI both mediates activity and produces context-sensitive, contingent contributions that shape ongoing interaction. Because treating AI as a mere tool underestimates its interactional influence, while treating it as a collaborator wrongly attributes intentionality, accountability, and community membership, the essay proposes the concept of the **mediational [[agentic-ai|agent]]** — a responsive but non-accountable system that mediates human action while contributing explanations, critiques, questions, and suggestions. This reconceptualization shifts attention from technological capability to forms of [[agency|participation]], motivating "human-first" habits that preserve learners' judgment, agency, and responsibility in AI-mediated learning.
+
+The essay opens from nearly a century of sociocultural theory organizing learning around two complementary but analytically distinct sources: mediational means that transform human activity and social interaction that drives development through participation with [[teacher-role|teachers]], peers, and communities. Over decades this distinction has been refined rather than abandoned, as work on [[distributed-cognition|distributed cognition]] and cognitive partners showed that technologies reorganize participation and redistribute cognitive work. Yet one assumption has remained stable: technologies transform learning by mediating human activity but do not themselves contribute contingent turns to unfolding interaction. Generative AI places pressure on this assumption because large language models generate novel, context-sensitive contributions — explaining, critiquing, suggesting, questioning, and revising — that emerge dynamically rather than from scripted routines. This positions generative AI in an ambiguous space that is neither a traditional tool nor a social participant in the ordinary sense of [[learning-theories|learning theory]].
+
+The resulting conceptual responses fall into two broad camps. Some scholars extend sociocultural accounts by treating generative AI as the latest and most sophisticated mediational tool, emphasizing how it augments human cognition. Others emphasize its conversational and adaptive qualities, describing it as a collaborator, teammate, dialogic partner, or tutor. Both capture important aspects of AI-mediated activity, yet each leaves something unexplained: treating AI solely as a tool underestimates its interactional influence, while treating it as a collaborator risks attributing intentionality and accountability that remain uniquely human. The conceptual challenge, the authors argue, is not deciding whether AI is a tool or a partner but understanding how systems that simultaneously mediate and generate interactional contributions fit within a framework built on that distinction.
+
+## The Mediational Agent
+
+The paper proposes **mediational agent** as a distinct conceptual category. By this they mean a system that simultaneously mediates activity and generates context-sensitive contributions that influence the unfolding of interaction without possessing intentionality, social membership, or accountability. Like traditional mediational means, generative AI reorganizes how learners write, reason, solve problems, and communicate. Unlike them, it contributes novel utterances, explanations, critiques, questions, and suggestions that become part of the activity itself, contingent on learners' evolving inputs.
+
+At the same time, mediational agents differ fundamentally from human participants. They do not occupy positions within communities of practice, share histories, pursue goals, or assume responsibility for the consequences of their contributions; their apparent participation emerges from probabilistic language generation rather than intentional [[student-engagement|engagement]]. The concept therefore identifies a hybrid form of participation rather than a midpoint on a continuum between tools and people. Generative AI performs functions that historically belonged to opposite sides of a conceptual distinction — the novelty lies not in its intelligence but in its participation. This matters for [[pedagogy]] because activity systems that include mediational agents are organized differently: learners must continually decide whether to accept, reject, revise, interrogate, or redirect AI-generated contributions, making those judgments part of the learning activity itself.
+
+## Learning with Mediational Agents
+
+If generative AI functions as a mediational agent rather than a tool or collaborator, then the central educational challenge is not learning to use AI effectively but learning to participate productively with responsive yet non-accountable contributors. The educational question shifts from *What can AI do?* to *How should learners engage with systems that both mediate action and shape interaction?* This reflects a tension between product and process: generative AI is exceptionally effective at improving immediate performance, yet learning depends on processes such as generating ideas, wrestling with uncertainty, evaluating alternatives, and revising understanding. Systems designed to reduce cognitive effort therefore create a developmental paradox — the same capabilities that improve immediate performance can reduce opportunities for intellectual growth when they replace rather than support learners' own thinking.
+
+As a response, the essay proposes **human-first habits of participation**, framed not as a comprehensive pedagogy but as dispositions that help learners maintain authorship of meaning. These include establishing the primacy of human cognition by developing ideas before turning to AI; engaging AI purposefully to extend, challenge, or refine thinking; exercising supervisory agency by directing, constraining, and evaluating AI participation; sustaining epistemic vigilance that never confuses fluent language with truth; and cultivating reflective [[self-regulated-learning|self-regulation]] that monitors what has genuinely been learned. These habits are not generic digital competencies — their expression depends on disciplinary practice, so supervisory agency and epistemic vigilance take different forms across historical inquiry, software engineering, scientific modeling, and literary interpretation.
+
+## What Changes for the Learning Sciences
+
+Viewing generative AI as a mediational agent redirects attention toward different questions about learning itself. Rather than asking whether AI improves outcomes or increases productivity, researchers are encouraged to examine how patterns of participation change when responsive but non-accountable systems become part of everyday activity. Longstanding questions take on new forms. Studies of [[scaffolding]] have focused on support provided by teachers, peers, or designed environments, but mediational agents generate support dynamically without participating in the social relationships that historically gave scaffolding its developmental significance. Likewise, [[distributed-cognition|research on distributed cognition]] examines how cognitive work is shared across people and artifacts; generative AI raises the distinct question of how cognitive responsibility should be distributed when artifacts contribute to reasoning itself.
+
+The concept also suggests new directions for empirical work — examining how learners negotiate authority, responsibility, and judgment during interaction with mediational agents, making supervisory agency, epistemic vigilance, and reflective [[regulation]] central objects of analysis rather than [[k-12|secondary]] concerns. The paper concludes that generative AI does not require abandoning sociocultural theory but reconsidering one of its most enduring conceptual distinctions. The value of the concept will rest not on whether the term endures but on whether it helps the field notice phenomena that existing categories leave unexplained and ask productive new questions about learning in AI-mediated environments. The overarching challenge for education is ensuring that learners remain authors of meaning within environments in which technologies increasingly contribute to its production.
+
+## Connected Concepts
+
+- [[sociocultural-learning]]
+- [[learning-theories]]
+- [[generative-ai]]
+- [[constructivist]]
+- [[distributed-cognition]]
+- [[pedagogy]]
+- [[ai-education]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[vargas-situated-learning-ai-review-2024]] — Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature
+- [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
+- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
+- [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
+
+## Citation
+
+(2026). [*Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory*](https://osf.io/preprints/edarxiv/wcpj5_v2/). EdArXiv preprint.
 
 ---
 
@@ -39452,6 +39984,59 @@ Liu, D., Fan, G., & Pan, L. (2026). [*Tool, tutor, or crutch?: a grounded theory
 
 ---
 
+## [Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors](https://edtechdev.github.io/aied/articles/llm-adaptive-programming-error-explanations-2026/)
+
+> **Synthesis:** This arXiv study (Moraru, Biswas, & Gadiraju, Delft University of Technology) evaluates skill-targeted, LLM-generated rewrites of Python programming error messages through a multi-stage crowdsourced experiment (N = 103). Using a custom debugging-oriented proficiency [[assessment]], participants were categorized into lower and higher assessed proficiency groups and randomly assigned to one of three message styles: standard Python interpreter output, *pragmatic* rewrites (concise, action-oriented guidance), or *contingent* rewrites (more scaffolded explanations of the likely cause and reasoning path). The core finding is a **human-AI complementarity gap**: LLM-rewritten messages — especially pragmatic ones — were rated significantly more readable, clearer, and less cognitively demanding, yet these perceived gains did not translate into statistically significant improvements in objective debugging outcomes such as [[feedback|fix rate]], [[student-ai-interaction|attempt counts]], or time-to-fix. The authors argue that [[scaffolding|static skill-targeted rewriting]] is insufficient on its own and that future [[intelligent-tutoring|adaptive AI feedback systems]] should instead adjust explanations dynamically based on a user's real-time repair trajectory, with clear implications for [[cs-education]] and [[llm]]-based [[formative-assessment]].
+
+## Background: error messages as feedback
+
+Programming error messages are among the most frequent forms of feedback programmers receive from software, yet they remain difficult to interpret — especially for novice learners in [[cs-education]] who may lack the conceptual vocabulary to map a diagnostic to an actionable fix. Poorly designed diagnostics can slow progress, raise [[critical-thinking|cognitive load]], and undermine learner confidence. This paper frames compiler and interpreter diagnostics as a **human-AI complementarity** problem: automated systems can produce diagnostic information, but human programmers must still understand, [[trust]], and act on it.
+
+Rather than treating LLM-rewritten explanations as universally beneficial, the authors test whether different explanation styles affect debugging performance and perception differently across skill levels. Two skill-targeted styles are contrasted: **pragmatic** messages, which are concise and task-oriented (naming the error, localizing the cause, offering a short hint toward repair), and **contingent** messages, which provide more scaffolded explanatory support by adding context about likely intent, possible misconceptions, and the reasoning path. This framing draws on work in [[scaffolding]], [[cognitive-offloading|cognitive load]], and the expertise reversal effect — the idea that support helping less experienced learners can become redundant or counterproductive for more experienced ones — and connects to [[feedback]] design in programming-support systems.
+
+## Study design and methods
+
+The authors used a multi-stage crowdsourced design to calibrate both participant skill and task difficulty before the main experiment. First, they built a debugging-oriented Python proficiency assessment: a pool of 56 multiple-choice items spanning code comprehension, error-message interpretation, fault localization, and repair selection, reduced to eight items using item difficulty and point-biserial discrimination in a pilot. Second, a **formative task-selection study** rated candidate buggy snippets and standard messages; four snippets targeting common error families (NameError, TypeError, SyntaxError) were selected for being moderate in difficulty with a single primary fault.
+
+In the main [[student-ai-interaction|Prolific]] experiment, 103 valid participants completed the proficiency assessment, were assigned to lower (38) or higher (65) assessed proficiency using both assessment score and self-reported Python experience, and attempted to repair one buggy snippet in an embedded editor with up to three attempts. They received one of three message styles: standard interpreter output (35 participants), pragmatic LLM rewrite (35), or contingent LLM rewrite (33). All participant-facing rewrites were generated with llama-3.1-8B-Instruct using zero-shot prompting at temperature 0 for consistency. Objective outcomes (addressing RQ1) were fix rate, Fix@k, number of attempts, and time-to-fix; subjective outcomes (addressing RQ2) covered readability, cognitive load, and perceived tone.
+
+## Results: perception diverges from performance
+
+The results reveal a clear divergence between subjective experience and objective debugging performance. LLM-rewritten messages were rated significantly more favorably than standard interpreter messages across several perceptual measures, with **pragmatic messages** receiving the strongest subjective evaluations — participants rated them as clearer, more helpful, and less cognitively demanding. Contingent messages also showed favorable subjective patterns but less consistently than pragmatic ones.
+
+However, these perceived benefits did **not** translate into statistically significant improvements on objective debugging metrics such as fix rate, time-to-fix, or number of attempts. The authors frame this as a **human-AI complementarity gap**: explanations that users experience as clearer and more helpful do not necessarily make them more effective debuggers. This echoes a broader theme in the wiki's research on [[feedback]] and [[student-ai-interaction]], where perceived quality of AI-generated support frequently diverges from behavioral effectiveness — and reinforces that AI feedback must be judged by its effect on situated human problem solving, not only its fluency or perceived helpfulness.
+
+## Implications for adaptive AI feedback
+
+The authors argue that static skill-targeted rewriting is insufficient on its own. Because perceived gains did not align with objective repair behavior, future systems should pivot toward **dynamic, interaction-aware adaptation** that adjusts explanations based on a user's real-time repair trajectory, specific error context, and evolving interaction state — rather than relying only on prior skill classification. For [[intelligent-tutoring]] and [[pedagogical-agent]] design, this implies that feedback ought to be contingent on ongoing behavior. The work also carries implications for [[formative-assessment]]: LLM-generated diagnostics should be evaluated by whether they improve learners' eventual repair and understanding, not merely by clarity ratings. The authors stop short of evaluating a fully dynamic tutor, positioning their study as an empirical baseline demonstrating that static style differences alone are unlikely to close the gap.
+
+## Connected Concepts
+
+- [[cs-education]]
+- [[scaffolding]]
+- [[llm]]
+- [[formative-assessment]]
+- [[feedback]]
+- [[student-ai-interaction]]
+- [[intelligent-tutoring]]
+- [[pedagogical-agent]]
+- [[critical-thinking]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
+- [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model: Theory and Measurement for Learning by Construction with Generative AI
+- [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Framework for Artifact Construction in Upper-Secondary Education
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+
+## Citation
+
+Moraru, A.-R., Biswas, S., & Gadiraju, U. (2026). [*Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors*](https://arxiv.org/abs/2608.20896). arXiv:2608.20896.
+
+---
+
 ## [Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education](https://edtechdev.github.io/aied/articles/llm-automated-assessment-student-self-explanations/)
 
 This paper presents a rigorous empirical comparison between [[llm|LLM]]-based and semantic similarity methods for [[automated-assessment|automated assessment]] of student self-explanations in programming education. The task is framed as binary classification — determining whether a student's explanation of a worked-example step is correct or incorrect.
@@ -41957,6 +42542,57 @@ For the [[benchmark]] community and for AI tutor deployment, the findings argue 
 ## Citation
 
 Junyi Yao, Zihao Zheng, Baichuan Li (2026). [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](https://arxiv.org/abs/2606.16206). arXiv:2606.16206. arXiv preprint.
+
+---
+
+## [From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education](https://edtechdev.github.io/aied/articles/mechanical-compliance-human-flourishing-ai-literacy-2026/)
+
+> **Synthesis:** Rose (2026) is a literature review that reframes [[ai-literacy|AI literacy]] in [[higher-ed|higher education]] from a compliance exercise into a humanist practice, synthesizing the historical evolution of the [[digital-divide|digital divide]] with current AI literacy needs through the philosophical and [[pedagogy|pedagogical]] lenses of Erich Fromm's socialist humanism, Malcolm Knowles' [[adult-learning|andragogy]], and Jack Mezirow's transformative learning. The review argues that successful AI literacy programs must bridge technical understanding with social advocacy, environmental awareness, and psychological safety, and it identifies four research gaps — transcending functional training, establishing psychological safety, pursuing sustainable implementation, and preserving human [[agency]] — each mapped to a core tenet of the proposed framework. The central thesis is that [[ethics|ethical]], [[equity-in-ai-education|equitable]] AI education must place human flourishing, not administrative efficiency or compliance, at the center of the academic experience.
+
+The review opens by tracing how the integration of AI into universities has reshaped digital equity and academic integrity, forcing a re-evaluation of how educational tools are deployed and how students engage with cognitive tasks. It positions AI literacy as a prerequisite for purposeful, efficient, and ethical usage, warning that without specific training individuals risk marginalization in an increasingly digital economy. Its scope sits at the intersection of three domains: the digital divide as it relates to consumer AI, [[adult-learning|adult learning]] frameworks (andragogy and transformative learning), and the ethical and environmental implications of widespread AI use.
+
+## From Digital Divide to AI Literacy
+
+The [[digital-divide|digital divide]] is a long-standing concept that has shifted terminologically and conceptually since the mid-1990s. Initially defined narrowly as the gap between those with physical access to technology and those without, the concept evolved into the broader notion of [[digital-divide|digital equity]] as hardware became more pervasive. Recent scholarship argues that digital equity is now defined by four critical dimensions: digital literacy, affordability, group-sensitive content, and infrastructure availability. The rollout of consumer AI represents a "new wave" of this divide: while AI offers potential for [[personalized-learning|personalized learning]], it risks exacerbating existing inequities by favoring individuals who already possess the [[critical-thinking|critical thinking]] skills needed to audit and validate machine output. This positions [[ai-literacy]] as an equity issue as much as a technical one, since without specific training users are marginalized in the digital economy.
+
+## Institutional Tensions and the Humanist Framework
+
+Higher education institutions currently find themselves caught between competing priorities: the desire for administrative efficiency and the fear of [[academic-integrity|academic dishonesty]], an environment often characterized by "black box" technologies whose internal logic neither faculty nor students fully comprehend. A primary concern in the literature is student "overdependence" on AI, characterized not just as cheating but as a "loss of judgment" in which students substitute AI for cognitive [[student-engagement|engagement]] rather than using it as a [[collaborative-learning|collaborative]] partner. This dependency reflects what Fromm described as the "having" mode of learning — focused on possession and results — rather than the "being" mode, which requires active, productive engagement. Researchers therefore call for a shift from punitive compliance policies toward values-based guidance that integrates AI into teaching as a matter of pedagogical judgment.
+
+To move beyond a mechanized approach, the review proposes a framework grounded in Frommian [[ethics|socialist humanism]], andragogy, and transformative learning. Fromm argued that a "sane society" satisfies fundamental human needs: relatedness, unity, transcendence, a sense of identity, and a frame of orientation — needs that align in education with the andragogical principles that adult learners require autonomy and a clear sense of purpose. Bridging these with Mezirow's transformative learning theory reframes AI literacy as a tool for self and social transformation, encouraging learners to remain "biophilic" (focused on life, growth, and experience) rather than "necrophilic" (bound to the stagnant mechanical output of the machine). In practice this requires creating psychological and emotional safety within AI literacy programs, empowering students to participate in the discourse surrounding technology rather than being passive users of corporate-dictated rules — a direct challenge to dominant [[teacher-role]] and governance arrangements.
+
+## Ethics, Environment, and the Fair-Use Question
+
+A socialist humanist approach must also address the material and social realities of the technology. Environmentally, AI development is an extractive process demanding significant electricity, water, and minerals, so sustainable AI requires rethinking algorithm efficiency and data-center design. Socially, the concept of "AIgemony" describes how AI reinforces corporate power asymmetries and hegemonic control through biased datasets and social narrative control, so literacy must encompass "green advocacy" and a critical understanding of "ghost work" — the often invisible human labor required to label data and maintain the illusion of seamless AI functionality. These concerns connect directly to [[equity-in-ai-education]] and the [[digital-divide]], and the review grounds its fair-use framing in the [[ethics|ethical]] and [[governance]] dimensions of asynchronous, self-paced AI education in [[higher-ed]].
+
+## Research Gaps and Implications
+
+The review identifies four critical gaps for future research: frameworks that move beyond technical prompting to address social and environmental advocacy; programs that prioritize the psychological and emotional safety of learners; sustainable or "green" AI frameworks addressing the extractive nature of technology; and strategies for maintaining human agency in increasingly automated environments. The argument is that these gaps are not incidental shortcomings in the literature but precisely the dimensions left unaddressed when AI literacy is treated as a compliance exercise rather than a humanist practice. Each corresponds to a tenet of the proposed framework: Fromm's biophilic, growth-oriented engagement; Knowles' emphasis on learner autonomy and purpose; and Mezirow's call for transformative rather than [[adaptive-learning|adaptive learning]]. The conclusion is that institutions must resist treating AI literacy as a technical update or [[educational-policy-ai|policy]] addendum and instead understand it as a philosophical commitment placing human flourishing — neither efficiency nor compliance — at the center of education. This resonates with [[ai-education]] debates in [[critical-pedagogy|critical pedagogy]] and [[generative-ai]]-mediated learning about the purpose of [[ai-literacy]] in the academy.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[digital-divide]]
+- [[higher-ed]]
+- [[ethics]]
+- [[critical-pedagogy]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[governance]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
+- [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
+- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
+- [[prompt-privilege-equitable-ai-access-2026]] — Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access
+- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
+
+## Citation
+
+Rose, L. M. (2026). [*From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education*](https://osf.io/preprints/edarxiv/xs9ga_v2/). EdArXiv preprint.
 
 ---
 
@@ -47981,6 +48617,62 @@ Ba, S., Gašević, D., Lim, C.-P., & Anderson, T. (2026). [*Reconceptualizing co
 
 ---
 
+## [The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development](https://edtechdev.github.io/aied/articles/reflective-triangle-model-teacher-ai-2026/)
+
+> **Synthesis:** This practice-based study, presented at the Vietnam Deeper Learning Conference 2026 and authored by a doctoral candidate at TU Dresden who is also a standing member of the Olympia Schools academic board, proposes the **Reflective Triangle Model** as a way to connect individual [[metacognition|teacher reflection]] to shared professional knowledge inside learning communities. AI is framed as a **cognitive mediator** — a [[cognitive-offloading|cognitive tool]] that surfaces evidence, prompts inquiry, and enables dialogue — rather than as an evaluator that judges teaching. The model integrates three interacting dimensions — [[metacognition|self-reflection]], [[collaborative-learning|collaborative reflection]], and community reflection within a Professional Learning Community (PLC) — with AI mediating across all three levels. It is tested through a four-week illustrative case (N = 6 teachers at one school) aimed at feasibility rather than generalization, positioning AI as a supportive instrument for [[teacher-ai-competency|teacher AI competency]] and [[professional-training|professional learning]] while preserving human [[teacher-role|professional judgment]] and [[agency]].
+
+The study begins from a practical problem: post-teaching reflection in schools is often memory-dependent, subjective, and easily truncated by workload, so it rarely becomes systematic professional learning. A second problem concerns the transfer of knowledge from the individual to the collective — personal insights do not automatically become shared professional knowledge in a PLC. In this context, the paper argues that [[generative-ai|generative AI]] need not only generate materials or automate tasks, but can genuinely participate in how teachers think about their own practice, positioning AI within a [[ai-education|human-centered AI]] approach that supports rather than replaces [[teacher-education|teacher professional expertise]].
+
+## The Reflective Triangle Model
+
+The Reflective Triangle rests on three complementary theoretical foundations: professional reflection, collaborative learning in professional communities, and AI as a cognitive mediator. Professional reflection draws on the work of Schön (reflective practitioner, reflection-in-action versus reflection-on-action), Brookfield (critical reflection), and Argyris and Schön (single-loop versus double-loop learning). Learning communities build on Lave and Wenger's communities of practice and DuFour's PLC, with Timperley specifying the inquiry questions — not just "what did we do?" but "how are students learning?" and "what evidence shows it?" — that turn a PLC from a place of sharing experience into a space of professional inquiry.
+
+The model itself integrates three interactive dimensions that form a continuous [[feedback]] cycle rather than a linear sequence. **Self-reflection** begins from a classroom experience, with classroom evidence — transcripts, classroom discourse, questioning patterns, [[student-engagement|student engagement]] — as the object of reflection, and AI supporting analysis and questioning without supplying final conclusions. **Collaborative reflection** brings individual insights into the PLC, where AI becomes a shared mediating object for professional dialogue: members collectively examine data, verify claims, and propose alternative interpretations. **Community reflection** extends reflection from the group to the school's wider professional community, where insights built across many cycles can crystallize into shared principles, practices, and procedures — though whether an individual insight becomes organizational knowledge still depends on the community's social processes of verification and acceptance.
+
+## AI as a Cognitive Mediator
+
+The paper distinguishes three levels of AI mediation in education. **Task mediation** changes what teachers produce — faster lesson plans, multiple-choice questions, rubrics — answering "can AI do this for me?" **Evaluative mediation (AI-driven evaluation)** changes judgments about practice — concluding whether a lesson was good — answering "how does AI judge me?" **Epistemic mediation** neither produces artifacts nor judges practice; instead it changes how teachers approach, organize, and verify evidence so they can reach their own understanding, shifting the question from "what does AI say?" to "what does this evidence make me ask?"
+
+The Reflective Triangle locates AI at the epistemic level. Building on Vygotsky's account of mediation, the paper stresses that epistemic mediation is not neutral: by choosing which indicators to surface (e.g., teacher talking time) and which framework to use (e.g., Bloom's taxonomy), AI frames what teachers can see and therefore question. AI's three defined functions are **evidence surfacing** (making hard-to-see patterns visible), **inquiry prompting** (generating questions and alternative interpretations), and **dialogic mediation** (supplying input for dialogue with oneself and with colleagues in the PLC). Crucially, AI-generated analysis is not treated as objective evidence, and the model explicitly contrasts AI-supported reflection with AI-driven evaluation, preserving professional judgment as human-led.
+
+## The Practice-Based Case at Olympia Schools
+
+The model was examined through an illustrative practice case at one school — N = 6 teachers over four weeks — designed to investigate feasibility in a real context rather than to generalize effectiveness. Three research questions guided the study: how AI supports teacher reflection when used as a cognitive mediator (RQ1); whether bringing AI-assisted evidence into the PLC changes the quality of professional dialogue (RQ2); and what conditions, tensions, and limits arise in implementation, including teacher agency, dependence on AI, data quality, psychological safety, and [[privacy]] (RQ3). Consistent with a practice-based thematic analysis, the aim was systematic learning from a designed practice in a specific context rather than a claim of universal efficacy.
+
+The study's contribution lies not in a new technical AI capability but in an architecture of connection: it explicitly describes the mechanism by which an AI-assisted insight surfaced at the individual level moves into collaborative dialogue and is then normalized into community-level knowledge in a continuous feedback loop, rather than three separate applications. The paper situates this against prior work on AI-mediated reflection (mostly operating at a single level) and AI-enhanced PLCs (which assume data already exists without explaining how it is generated and interpreted individually before reaching the PLC).
+
+## Implications for Teacher Professional Learning
+
+The Reflective Triangle offers a systematic approach to continuous professional development in which AI mediates the relationship between individual reflection, collaborative dialogue, and the collective construction of professional knowledge. For [[faculty-development|faculty development]] and [[professional-training|professional training]], it suggests that the value of AI in teaching should be judged not only by task efficiency but by how well it supports teachers' own capacity and autonomy. Because AI-generated analysis depends on input data, prompting, model, and user interpretation, the model requires organizational conditions that protect teacher agency and professional responsibility while guiding how reflection cycles, data selection, and peer verification of AI-assisted claims are organized. It connects directly to building [[teacher-ai-competency|teacher AI competency]] and to fostering [[community-of-inquiry|communities of inquiry]] in which teachers jointly interrogate practice on an evidence basis, positioning AI as a [[scaffolding|scaffold]] for [[cognitive-offloading|offloading]] routine analysis while keeping professional judgment human-led.
+
+## Connected Concepts
+
+- [[teacher-role]]
+- [[teacher-education]]
+- [[professional-training]]
+- [[faculty-development]]
+- [[metacognition|reflection]]
+- [[cognitive-offloading]]
+- [[teacher-ai-competency]]
+- [[ai-education]]
+- [[collaborative-learning]]
+- [[community-of-inquiry]]
+
+## Connected Articles
+
+- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition: Understanding cognitive offloading in AI-augmented practice
+- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK)
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence
+- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
+- [[guillen-curriculum-genai-teacher-competence-2026]] — Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education
+
+## Citation
+
+(2026). [*The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development*](https://osf.io/preprints/edarxiv/zxtw6_v1/). EdArXiv preprint.
+
+---
+
 ## [Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use](https://edtechdev.github.io/aied/articles/regulating-ai-tutor-adolescent-srl/)
 
 Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large GenAI tutor while preparing for a math exam. Despite overwhelmingly selecting scaffolded support before the session, students' actual interactions were dominated by instrumental requests (asking for answers) with almost no explicit monitoring or evaluation of their own learning.
@@ -52495,6 +53187,70 @@ Park, M., Orozco Vasquez, I., & Conati, C. (2026). [Characterizing students' LLM
 
 ---
 
+## [Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning](https://edtechdev.github.io/aied/articles/students-perceptions-ai-tools-study-2026/)
+
+> **Synthesis:** Oladosu (2026) surveyed 26 respondents (23 current students) on their self-reported perceptions of [[generative-ai|AI tools]] for studying. Most respondents viewed AI positively — 92.3% agreed it improved their [[student-experience|understanding of subjects]] and 80.8% agreed it helped them complete assignments faster — yet only 38.5% said AI reduced their overall study time, and half reported sometimes or often relying on AI instead of learning independently. Open-ended responses praised explanations, summaries, and speed while flagging concerns about [[cognitive-offloading|overreliance]], reduced [[critical-thinking|critical thinking]], inaccurate information, and [[academic-integrity|academic dishonesty]]. Because the sample is small and self-reported, the findings are exploratory and do not establish causal effects on learning.
+
+The study situates itself in a fast-growing literature on students' use of ChatGPT and similar tools as on-demand learning assistants, drawing on systematic reviews (Albadarin et al., 2024; Lo et al., 2024a) that document both benefits — immediate feedback, explanations, personalized support — and risks such as overreliance and reduced critical engagement. It deliberately focuses on students' *perceptions* rather than objectively measured outcomes, noting that perceived improvement should not be treated as equivalent to measured academic performance. This positions the work as a small-scale complement to larger experimental syntheses (Deng et al., 2025) and as a response to calls for more attention to students' actual study habits in the [[ai-literacy|AI-in-education]] literature.
+
+## Survey Design and Sample
+
+The study used a cross-sectional, exploratory survey design administered anonymously online via Google Forms. The instrument contained five sections — basic information, AI usage, productivity, understanding, and perceived benefits and disadvantages — combining Likert-style closed questions with two open-ended items asking about the main benefit and main disadvantage of AI-assisted studying.
+
+The dataset contained 26 completed responses, of which 23 respondents (88.5%) identified as current students and three (11.5%) did not. The age distribution of the full sample was 12 respondents aged 19–25 (46.2%), 12 aged 26+ (46.2%), and 2 aged 15–18 (7.7%). Participants were recruited through non-probability convenience sampling, so findings cannot be generalized beyond the sample. Analysis was purely descriptive: frequencies and percentages for closed items, with open-ended responses grouped into recurring themes, and no inferential tests. The author notes the dataset included minors, that no [[governance|institutional]] ethics approval is claimed, and that individual-level data were not released to protect [[privacy]].
+
+## Reported Use and Frequency
+
+Twenty-three respondents (88.5%) reported using AI tools for studying, while three (11.5%) did not. Reported frequency of use was daily for nine respondents (34.6%), weekly for ten (38.5%), rarely for six (23.1%), and never for one (3.8%). This indicates that AI use was widespread in the sample, with most users engaging on at least a weekly basis, consistent with broader evidence that generative AI has become routine in [[higher-ed|higher-education]] study practices.
+
+The survey instrument captured which tools students used, listing ChatGPT, Google Gemini, Bing AI/Copilot, and an "other" option alongside a "do not use AI tools" category, though the manuscript's main analysis centers on aggregate frequency rather than tool-by-tool breakdowns. This frequency picture frames the perception results that follow: heavy and regular use coexists with a nuanced, partly ambivalent evaluation of the technology's effects.
+
+## Perceived Effects on Productivity and Understanding
+
+Respondents were strongly positive about AI's effect on assignment completion. Fourteen respondents (53.8%) strongly agreed and seven (26.9%) agreed that AI helped them complete assignments faster — 21 of 26 (80.8%) agreed or strongly agreed overall. Perceived understanding was even more positive: 17 respondents (65.4%) strongly agreed and seven (26.9%) agreed that AI improved their understanding of subjects, for a combined 24 of 26 (92.3%) who agreed or strongly agreed.
+
+Notably, these perceptions did not translate into a consensus that AI shortened total study time. Only ten respondents (38.5%) said AI reduced their study time, while thirteen (50.0%) said it did not and three (11.5%) were unsure. As the author notes, completing an individual task more quickly does not necessarily shorten the whole learning process — students may spend saved time asking more questions, exploring additional material, or verifying outputs. This distinction between task-level efficiency and overall study time is one of the study's more striking findings.
+
+## Reliance, Benefits, and Disadvantages
+
+The perceived-benefit findings sit alongside a real tension around dependence. Thirteen respondents (50.0%) reported relying on AI sometimes or often instead of trying to learn independently (two "often," eleven "sometimes"), while six (23.1%) rarely and seven (26.9%) never did. This aligns with broader concerns in the literature about [[self-regulated-learning|self-regulated learning]] and [[metacognition|metacognitive]] engagement with AI, where the value of the tool depends on whether students actively evaluate outputs rather than passively accept them.
+
+Open-ended responses framed benefits around understanding and explanation, speed and convenience, and access to information — simplifying complex material, providing explanations at an understandable level, summarizing, and offering personalized assistance. The reported disadvantages clustered around dependence or overreliance, reduced independent effort and problem-solving, reduced critical thinking, reading, focus, or memory retention, the need to verify outputs, and academic dishonesty. Several respondents reported no disadvantage or were unsure. The author stresses that the survey cannot determine whether these perceived risks actually occurred or affected academic outcomes, and that the educational value of AI likely depends on whether it supports or replaces cognitive effort — a theme tied to [[student-engagement|engagement]], [[motivation]], and [[feedback]] in study practice.
+
+## Limitations and Implications
+
+The author is explicit about the study's limits: a small (N = 26) non-probability sample, self-reported rather than objective measures, a cross-sectional descriptive design that cannot establish causation, and an instrument not validated as a psychometric scale. Recommendations follow from these constraints — students should treat AI as a learning aid rather than a substitute for reasoning, verify AI outputs against reliable sources, and [[teacher-role|educators]] should teach evaluation and [[ethics|ethical]] use; future research should pair perceptions with objective measures (pre/post tests, grades, controlled tasks) and use larger, more diverse samples.
+
+The paper's contribution is therefore modest but real: it documents, in a small exploratory dataset, that students can simultaneously perceive large benefits from AI and harbor serious concerns about dependence and critical thinking — a coexistence that mirrors larger reviews and suggests the effect of AI on learning depends heavily on how it is used. For the [[ai-literacy|AI literacy]] and [[self-regulated-learning|self-regulated learning]] literatures, it reinforces the need to study study habits and to move from perceived to measured outcomes.
+
+## Connected Concepts
+
+- [[student-experience]]
+- [[student-engagement]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[feedback]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[metacognition]]
+- [[agency]]
+
+## Connected Articles
+
+- [[genai-student-experiences-uk-he-survey-2026]] — A cross-institutional survey of UK students navigating the GenAI landscape, showing a persistent tension between use and academic integrity
+- [[generative-ai-education-productivity-gaps]] — A randomized experiment testing whether generative AI narrows education-based productivity gaps
+- [[student-llm-interaction-taxonomy-review-2026]] — A scoping review and taxonomy of learning-oriented student-LLM interactions
+- [[genai-higher-education-systematic-review-2026]] — A systematic review of GenAI opportunities, challenges, and pedagogical innovations in higher education
+- [[metacognitively-discordant-completion-genai-2026]] — How students can complete GenAI tasks while passing through non-understanding, relevant to the metacognitive risks raised here
+- [[bilingual-llm-lecture-companion-srl-2026]] — An LLM-mediated lecture companion architecture for self-regulated learning, complementing the study-habits focus of this survey
+
+## Citation
+
+Oladosu, A.-A. (2026). [*Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning*](https://osf.io/preprints/edarxiv/ur5w8_v1/). EdArXiv preprint.
+
+---
+
 ## [The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course](https://edtechdev.github.io/aied/articles/studychat-student-dialogues-chatgpt-ai-course-2026/)
 
 > **Synthesis:** McNichols, Ikram and Lan (2026) introduce **StudyChat**, a publicly available dataset capturing real-world student interactions with an [[llm]]-powered tutoring chatbot in a semester-long, university-level AI course. Across two semesters (Fall 2024, Spring 2025) at UMass Amherst, 203 consenting students (of 295 enrolled) produced 2,214 student–LLM conversations totalling 16,851 utterances across 7 programming assignments, plus 924 graded submissions from 158 students. Interactions were logged via a custom web app that replicates ChatGPT's core functionality (backed by gpt-4o-mini), and every utterance was annotated with a two-level dialogue-act (DA) schema (8 broad, 31 specific labels) validated through human and LLM agreement (Cohen's κ = 0.91 broad-level). Regression and clustering analyses find that students who prompt LLMs for conceptual understanding and coding help tend to perform better on assignments and exams, while those who use LLMs to write reports and circumvent assignment learning objectives have lower exam outcomes — providing data-driven evidence for how student LLM usage relates to [[learning-gains]].
@@ -54947,6 +55703,67 @@ Ren, McDowell & Zhou (2026). [Beyond Perspectives: A Trio-Ethnography of Interpr
 ## Citation
 
 Pitts, G., Rani, N., & Mildort, W. (2026). [Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators](https://arxiv.org/abs/2604.01114). arXiv:2604.01114. AIED 2026.
+
+---
+
+## [Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons](https://edtechdev.github.io/aied/articles/tts-dialogue-lessons-learner-characteristics-2026/)
+
+> **Synthesis:** This preprint (Watanabe et al., arXiv:2608.20822) examines how learner characteristics interact with dialogue format in **LLM- and TTS-generated dialogue-based lessons**, applying the Aptitude-Treatment Interaction (ATI) framework. Across three formats — teacher–student (TS), student–student (SS), and teacher–teacher (TT) — 222 first-year high school students rated lessons on ARCS-based [[motivation]], self-reported learning outcomes, and overall evaluation. Using linear mixed-effects models, the authors found that the effect of learners' [[experiential-learning]] style on motivation was moderated by format: the Concrete Experience (CE) factor interacted positively with the TT format, while the RCE factor (active experimentation through reflection and conceptualization) had a weaker positive effect in the TT than the TS format. Notably, the TT format raised motivation yet received a significantly lower overall evaluation than TS, a divergence the authors link to [[cognitive-offloading|intrinsic cognitive load]]. The study argues that dialogue format should be selected according to learner characteristics, supporting [[personalized-learning]] and [[conversational-ai|AI conversational instruction]] in [[generative-ai|generative AI]] education.
+
+## Study Design and Materials
+
+The lessons were delivered as part of "General Inquiry Time" in a data-driven career-education program at a public high school, covering data science content across three parts. Each part used a distinct dialogue format — TS (what data science is, ~25 min), SS (what data science can do, ~19 min), and TT (data-driven decision making, ~24 min) — for roughly 68 minutes of total viewing. Scripts were generated by an [[llm]] (Claude 3.5 Sonnet) with format-specific prompts (Expert-Novice, Peer-Peer, and Expert-Facilitator), and speech was synthesized via the Gemini TTS API with distinct prebuilt voices assigned to each speaker role.
+
+Turn counts and utterance lengths differed across formats (178 turns in TS vs 30 in SS and 37 in TT), but a Friedman test found no significant difference across formats in perceived content difficulty or clarity of delivery, supporting the equivalence of conditions. A within-subjects design had all students view TS → SS → TT in a fixed order within one session; because all six classes received lessons simultaneously, counterbalancing was not feasible, confounding format with content and order.
+
+## Measuring Learner Characteristics and Outcomes
+
+Learner characteristics were measured with a 16-item experiential learning style scale based on Kolb's theory, adopting the two-factor structure of Ikejiri et al. (CE factor: 4 items, α = .75; RCE factor: 12 items, α = .84), and the 10-item [[critical-thinking|Critical Thinking]] attitude in Inquiry (CT-I) scale (α = .78), which loaded on a single dimension. Three outcome measures were collected per format: a 4-item ARCS motivation scale (one item each for Attention, Relevance, Confidence, Satisfaction; α = .82–.89), a 2-item self-reported learning-outcomes index (α = .68–.73), and a single-item overall evaluation.
+
+Linear mixed-effects models with participant random intercepts were fit in R (lme4, lmerTest) with grand-mean-centered learner characteristics, the TS format as reference, and VIF-confirmed absence of problematic multicollinearity. The task-relevant measures tie directly to [[student-engagement]]: the RCE factor and critical-thinking disposition showed significant positive main effects on both motivation and learning outcomes, while the CE factor's weak independent main effect was interpreted as a suppression effect given its moderate correlation with RCE.
+
+## Interaction Effects on Motivation
+
+For ARCS-based [[motivation]], both the SS and TT formats elicited significantly higher motivation than the TS format, likely because a peer-to-peer exchange heightened perceived Relevance and Satisfaction. Critically, two interactions reached significance: TT × CE was positive (b = 0.162, p < .001) and TT × RCE was negative (b = −0.238, p = .002), with small-to-medium effect sizes (Cohen's f = .17 and .15). Simple-slope analysis showed the CE factor's slope shifted from negative in TS (−0.151) to near zero in TT (0.011), while the RCE factor's positive slope in TS (0.341) and SS (0.257) shrank to a non-significant 0.102 in TT.
+
+Interpreting this through ATI, the authors argue that for CE-high learners a two-expert dialogue functions as a direct source of concrete, sensory expert knowledge and raises motivation, whereas for RCE-high learners an expert-led exchange leaves little room for reflection and conceptualization — making the TT format a relatively poorer motivational fit. The interaction terms for critical-thinking disposition were not significant.
+
+## Motivation–Evaluation Divergence and Free-Response Insights
+
+For learning outcomes, interactions of format with the CE and RCE factors showed only trends toward significance (R² marginal = .129), which the authors attribute to limited power for detecting interactions and to self-reported comprehension differing from motivation's immediate response. For overall evaluation, no learner-characteristic interaction emerged; instead, the TT format received a significantly lower rating than TS (b = −0.126, p = .005). This divergence — the TT format both raising motivation and scoring lower in overall evaluation — is a central finding, interpreted via [[cognitive-offloading|Cognitive Load]] Theory as reflecting higher intrinsic load from dense, stiff expert-to-expert dialogue.
+
+The free-response analysis supports this: in the TT format, "stiffness of speech" was the most common improvement label, with difficulty of content and abundant difficult vocabulary also flagged; in the SS format, "unnatural manner of speaking" dominated, likely reflecting a mismatch between the TTS voice and the intended high-school peer register. Both SS and TT drew "unclear speaker roles" comments, suggesting extraneous cognitive load from inferring speaker relationships.
+
+## Implications and Limitations
+
+The authors argue for format selection based on learner characteristics rather than uniform delivery: prioritizing the TT format for CE-high learners to enhance motivation, while anchoring TS or SS formats for RCE-high learners to sustain stable motivation and outcomes. Practical recommendations include an LMS routing function that administers a brief experiential-learning-style pre-[[assessment]] and recommends a format, and, for the TT format, presenting an observation frame before viewing plus a post-viewing reflection activity to manage intrinsic cognitive load. This aligns with [[self-determination-theory]]-informed, [[active-learning]]-oriented design and the broader push toward [[higher-ed|personalized instruction]] with [[conversational-ai]].
+
+Limitations include self-report-only learning outcomes (no objective or retention tests), a single-school single-session sample, confounding of format with content and fixed presentation order, and abbreviated one-item-per-component ARCS and single-item overall-evaluation measures. Because all effect sizes for significant interactions were small to medium, the authors frame their results as preliminary evidence for personalized learning.
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[student-engagement]]
+- [[motivation]]
+- [[critical-thinking]]
+- [[experiential-learning]]
+- [[generative-ai]]
+- [[conversational-ai]]
+- [[self-determination-theory]]
+- [[higher-ed]]
+- [[active-learning]]
+
+## Connected Articles
+
+- [[ai-guided-learning-audiovideo-2026]] — AI-guided audio/video learning systems and learner adaptation
+- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-authored prompts for student-AI dialogue
+- [[ai-learning-companions-framework]] — Framework for AI learning companions
+- [[engagement-assessment-video]] — Assessing student engagement in video-based learning
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+
+## Citation
+
+Watanabe, F., Suko, T., Ishida, T., Kuma, Y., Kobayashi, M., Hirasawa, S., & Kumoi, G. (2026). [*Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons*](https://arxiv.org/abs/2608.20822). arXiv:2608.20822.
 
 ---
 

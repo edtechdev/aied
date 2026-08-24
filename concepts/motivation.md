@@ -67,3 +67,5 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study

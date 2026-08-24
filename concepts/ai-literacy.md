@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T13:45:00-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -83,6 +83,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
 
+- **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
+
 ## Connected Concepts
 
 - [[generative-ai]] — the technology AI literacy targets
@@ -133,3 +135,5 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use

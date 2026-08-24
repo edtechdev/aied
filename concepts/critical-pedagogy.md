@@ -47,3 +47,4 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use

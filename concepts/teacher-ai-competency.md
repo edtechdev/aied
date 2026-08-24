@@ -97,3 +97,4 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
