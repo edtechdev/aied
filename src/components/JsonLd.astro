@@ -1,0 +1,179 @@
+---
+// JsonLd.astro — emits schema.org JSON-LD for a page.
+// Props:
+//   type: 'article' | 'concept' | 'faq'
+//   slug: string
+//   title: string
+//   created, updated: string (ISO timestamps)
+//   tags: string[]
+//   body: string (markdown body)
+//   sources: string[] (article frontmatter sources)
+//   connectedConceptSlugs?: string[] (concept slugs for about/mentions)
+import { SITE, ORG_ID, WEBSITE_ID, doiFromSources, urlFromText, firstParagraph, conceptId } from '../lib/jsonld';
+
+const { type, slug, title, created = '', updated = '', tags = [], body = '', sources = [], connectedConceptSlugs = [] } = Astro.props as {
+  type: 'article' | 'concept' | 'faq';
+  slug: string;
+  title: string;
+  created?: string;
+  updated?: string;
+  tags?: string[];
+  body?: string;
+  sources?: string[];
+  connectedConceptSlugs?: string[];
+};
+
+const pageUrl = `${SITE}/${type === 'faq' ? 'faqs' : type === 'article' ? 'articles' : 'concepts'}/${slug}/`;
+const datePublished = created.split('T')[0];
+const dateModified = (updated || created).split('T')[0];
+const summary = firstParagraph(body);
+const keywords = (tags || []).filter(Boolean);
+
+// Breadcrumb list for the page
+const breadcrumb = {
+  "@type": "BreadcrumbList",
+  "@id": `${pageUrl}#breadcrumb`,
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": `${SITE}/` },
+    { "@type": "ListItem", "position": 2, "name": type === 'article' ? 'Articles' : type === 'faq' ? 'FAQ' : 'Concepts', "item": `${SITE}/${type === 'article' ? 'articles' : type === 'faq' ? 'faq' : 'concepts'}/` },
+    { "@type": "ListItem", "position": 3, "name": title }
+  ]
+};
+
+const webPage = {
+  "@type": "WebPage",
+  "@id": `${pageUrl}#webpage`,
+  "url": pageUrl,
+  "name": title,
+  "isPartOf": { "@id": WEBSITE_ID },
+  "breadcrumb": { "@id": `${pageUrl}#breadcrumb` },
+  "about": type === 'concept' ? { "@id": `${pageUrl}#concept` } : undefined
+};
+
+// --- Article page graph ---
+function articleGraph() {
+  const doi = doiFromSources(sources || []);
+  const graph: any[] = [
+    {
+      "@type": "Article",
+      "@id": `${pageUrl}#summary`,
+      "url": pageUrl,
+      "headline": title,
+      "description": summary || undefined,
+      "datePublished": datePublished,
+      "dateModified": dateModified,
+      "author": { "@id": ORG_ID },
+      "publisher": { "@id": ORG_ID },
+      "keywords": keywords.length ? keywords : undefined,
+      "inLanguage": "en"
+    }
+  ];
+
+  // ScholarlyArticle node (the original publication the summary is about)
+  const scholarly: any = {
+    "@type": "ScholarlyArticle",
+    "@id": doi ? `https://doi.org/${doi}` : `${pageUrl}#source`,
+    "name": title,
+    "datePublished": created.split('-')[0]
+  };
+  if (doi) {
+    scholarly.identifier = `https://doi.org/${doi}`;
+    scholarly.url = `https://doi.org/${doi}`;
+  }
+  const sourceUrl = urlFromText(body);
+  if (sourceUrl && !doi) scholarly.url = sourceUrl;
+
+  // Wire the summary Article to the scholarly source via about/isBasedOn
+  graph[0].about = { "@id": scholarly["@id"] };
+  graph[0].isBasedOn = { "@id": scholarly["@id"] };
+
+  graph.push(scholarly);
+
+  // Connect to concepts the article is about
+  if (connectedConceptSlugs.length) {
+    graph[0].mentions = connectedConceptSlugs.map(s => ({ "@id": conceptId(s) }));
+  }
+
+  return graph;
+}
+
+// --- Concept page graph ---
+function conceptGraph() {
+  return [
+    {
+      "@type": "DefinedTerm",
+      "@id": `${pageUrl}#concept`,
+      "name": title,
+      "description": summary || undefined,
+      "url": pageUrl,
+      "inDefinedTermSet": { "@id": `${SITE}/concepts/#vocabulary` }
+    },
+    {
+      "@type": "Article",
+      "@id": `${pageUrl}#article`,
+      "url": pageUrl,
+      "headline": title,
+      "description": summary || undefined,
+      "about": { "@id": `${pageUrl}#concept` },
+      "publisher": { "@id": ORG_ID },
+      "keywords": keywords.length ? keywords : undefined,
+      "inLanguage": "en"
+    }
+  ];
+}
+
+// --- FAQ page graph ---
+function faqGraph() {
+  const questionName = title;
+  // Use first ~600 chars of the answer body (strip markdown)
+  const answerText = firstParagraph(body);
+  return [
+    {
+      "@type": "FAQPage",
+      "@id": `${pageUrl}#faq`,
+      "url": pageUrl,
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": questionName,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": answerText || undefined
+          }
+        }
+      ]
+    }
+  ];
+}
+
+let graph: any[];
+if (type === 'article') graph = articleGraph();
+else if (type === 'concept') graph = conceptGraph();
+else graph = faqGraph();
+
+// Sitewide stable entities
+const siteEntities = [
+  {
+    "@type": "WebSite",
+    "@id": WEBSITE_ID,
+    "url": `${SITE}/`,
+    "name": "AI in Education Research Wiki"
+  },
+  {
+    "@type": "Organization",
+    "@id": ORG_ID,
+    "name": "AI in Education Research Wiki",
+    "url": `${SITE}/`
+  }
+];
+
+// Assemble full graph: sitewide + webPage + breadcrumb + page-specific
+const fullGraph = [...siteEntities, webPage, breadcrumb, ...graph];
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": fullGraph
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd, null, 2)} />
