@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-23T16:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -112,6 +112,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
+- [[educational-measurement]] — Measurement instruments for AI literacy and related constructs
 
 ## Connected Articles
 - [[benali-genai-academic-writing-2026]]
