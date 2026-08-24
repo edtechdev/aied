@@ -1,7 +1,7 @@
 ---
 title: "AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education"
 created: "2026-06-04T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T13:00:00-04:00"
 type: article
 tags: [automated-assessment, feedback, higher-ed, llm, teacher-role, rct, efficacy-study, scaffolding]
 
@@ -9,10 +9,53 @@ sources: ['raw/papers/2606.03095.md']
 confidence: high
 ---
 
-This field experiment shows that AI-generated feedback drafts can measurably increase the rate and length of feedback that teaching assistants actually deliver to students, without sacrificing perceived usefulness or instructor time-efficiency. The design keeps humans firmly in the loop: TAs could edit or discard every draft, and the intervention still produced significant gains.
-The finding connects directly to [[automated-assessment|Automated Grading]] and [[ai-feedback-quality]] debates: AI does not replace the grader here, but reduces the activation energy for starting a feedback document. TAs treated drafts as editable scaffolds rather than authority, which aligns with [[teacher-role]] research on maintaining instructor agency. The +10.8pp provision effect and +39.8-char length increase are rare quantified benchmarks for discretionary AI assistance in education.
-Because the study measured usefulness ratings alongside quantity, it also informs the [[feedback|Feedback Loop]] literature: more feedback is not automatically better feedback, yet the null result on student ratings suggests the drafts did not degrade quality. The mixed-methods design bridges efficacy-study and [[rct]] traditions in AIED evaluation.
-Practical implication: if deployed at scale, AI feedback scaffolding could be especially valuable in large-enrollment [[higher-ed]] courses where TA time is scarce but personalized feedback is pedagogically important. Future work should test whether gains persist across semesters and whether different subject domains moderate the effect.
+## Synthesis
+
+> AI assistance does not only make *required* work faster or more accurate — it can increase the amount of *optional but beneficial* work that actually gets done. In a semester-long randomized field experiment across a 300-level machine learning course, teaching assistants shown an AI-generated feedback draft after grading were significantly more likely to provide feedback (+10.81 percentage points) and produced longer comments (+39.79 characters), without spending more time per character or degrading students' usefulness ratings. Drafts acted as editable scaffolds that lowered the barrier to *initiating* feedback rather than eliminating the effort of producing it, and TAs stayed fully in control — able to use, edit, or ignore every draft. The study reframes AI's role from a productivity tool to an intervention that changes whether discretionary, socially valuable work happens at all.
+
+## Key Findings
+
+1. AI-assisted feedback drafts increased feedback **provision** by +10.81 percentage points (SE = 1.10, p < 0.001) in a setting where giving feedback was optional, not required.
+2. Feedback **length** grew by +39.79 characters (SE = 3.45, p < 0.001); because submissions without feedback were coded as zero, this estimate captures both more provision and more content per student.
+3. Time spent per character of feedback did not change significantly (0.29 s/char, SE = 0.35, p = 0.41), suggesting AI supported **task initiation** rather than removing the work of reviewing, adapting, and deciding whether to send feedback.
+4. Students rated AI-assisted and non-assisted feedback as equally useful (difference −0.01, SE = 0.06, p = 0.88), so more feedback did not degrade perceived quality or [[student-experience]].
+5. Qualitative interviews showed TAs treated drafts as editable intermediate artifacts that helped them **articulate and verify** comments they already had in mind — not as final outputs to be trusted wholesale.
+
+## Context: Feedback as Discretionary Work
+
+A large body of AI-assisted-workflow research evaluates systems on settings where the task is *required* — engineers completing assigned coding tasks, physicians producing diagnoses. But many socially valuable practices, such as mentoring, documentation, reviewing, and feedback provision, are **discretionary**: people intend to do them yet often skip them amid competing demands. Personalized feedback in [[higher-ed]] is a canonical example. It is pedagogically valuable, improving student [[motivation]], learning, and experience, but it is labor-intensive and hard to scale, so TAs provide it selectively rather than uniformly.
+
+This paper's core contribution is shifting the question from *how well* AI helps with a required task to *whether* AI makes an optional task happen at all. It situates feedback provision in a broader CSCW tradition of invisible and discretionary work, arguing that participation gaps can sometimes be closed by changing how work is surfaced, measured, or supported.
+
+## The Intervention: AI Drafts in the Grading Workflow
+
+The study ran in a 300-level undergraduate machine learning course at a private R1 university (enrollment 130–150), where feedback was historically rare because it was optional. Written work was manually graded by 11 TAs (7 GTAs, 4 UTAs) using instructor-provided rubrics, and each question was graded by a single TA.
+
+The intervention was a lightweight, LLM-backed **Chrome extension** that integrated into the course's native grading platform. It ran a two-stage design intended to limit [[trust-calibration|over-reliance]]: TAs first completed grading independently, and only after clicking a "Done Grading" button was an AI-assisted feedback draft surfaced. In the treatment condition the draft appeared; in the control condition it did not. TAs could **use, edit, or ignore** each draft at their discretion. Question-level randomization with a rotating assignment scheme across homework (HW1–HW4) meant each TA graded both treated and control submissions, with homework-question fixed effects absorbing the assigned TA, rubric, and question characteristics.
+
+The drafts were generated by **o4-mini**, selected via a formative study in which five TAs ranked feedback from four candidate LLMs and a from-scratch option using a [[ai-ed-evaluation|Bradley-Terry preference model]]. Formative results also shaped prompt design: instructors iterated on a feedback [[prompt-engineering|prompt]] that took the problem description, instructor solution, grading rubric, and student submission as inputs, and TAs preferred feedback that was specific, actionable, concise, and stylistically direct.
+
+## Findings
+
+### RQ1 — Feedback Provision Behavior
+
+The behavioral results were consistent with the two headline effects: a +10.81pp increase in feedback provision and a +39.79-character increase in feedback length, both highly significant and stable across homework assignments. Critically, time per character did not change (0.29 s/char, p = 0.41). Because the feedback-length estimate codes no-feedback submissions as zero, it bundles the "whether" and the "how much" effects together. The flat time-per-character result implies AI primarily **lowers the barrier to starting** feedback, while TAs still expend real effort reviewing, verifying, and adapting each draft — the mechanism the interviews clarify.
+
+### RQ2 — Usage Patterns
+
+Interviews with all 11 TAs revealed that drafts functioned as **editable scaffolds**. TAs frequently struggled to *articulate* feedback even when they could identify an issue; the personalized, specific drafts helped translate implicit judgments into clear comments and made it easier to phrase feedback they already wanted to give (e.g., T1: "I wouldn't know how to give them the feedback the right way... and the templates would do it in such a good way"). Drafts also supported **verification** — helping TAs confirm their interpretation of a student response and refine tone or specificity. TAs therefore treated the AI output as an intermediate artifact to be shaped, not as an authoritative final product, reflecting a human-in-the-loop relationship rather than delegation to an autonomous agent.
+
+### RQ3 — Student Experience
+
+The increased provision did not degrade downstream outcomes. Students rated AI-assisted and non-assisted feedback as similarly useful (difference −0.01, p = 0.88), and interviews with a subset of 9 students suggested they valued the increased availability of personalized feedback while generally being unable to distinguish AI-assisted from non-assisted feedback. In other words, more feedback arrived, and its perceived quality was preserved.
+
+## Implications
+
+- **AI as an initiation intervention, not just a productivity tool.** The flat time-per-character finding reframes AI assistance for discretionary work: its value lies in making beneficial work that is usually skipped happen at all, rather than in removing total effort. Designers should evaluate such systems on participation, not only efficiency or output quality.
+- **Human-in-the-loop constraints bound the effort savings.** A key limit surfaced by the study is that preserving human oversight — requiring TAs to review, adapt, and decide whether to send — means AI cannot remove as much total effort as a fully autonomous pipeline might. This is a deliberate trade-off against reliability and [[trust]].
+- **Scaffolding, not automation, maps to TA agency.** The results align with [[scaffolding]] and [[human-in-the-loop-ai]] literatures: drafts supported [[teacher-role|instructor agency]] rather than displacing it, and separating grading from feedback provision mitigated over-reliance. This design pattern (assist-then-verify) is broadly applicable to other discretionary labor such as mentoring, documentation, and review.
+- **Scaling personalized feedback in large courses.** Because gains came without extra per-unit time and without quality loss, AI-assisted feedback scaffolding could be especially valuable in large-enrollment courses where TA time is scarce but personalized feedback is pedagogically important — extending [[personalized-learning]] and [[formative-assessment]] practice.
+- **Open questions.** Future work should test whether gains persist across semesters, whether different subject domains moderate the effect, and how sustained exposure shapes TA reliance and calibration of AI drafts over time.
 
 ## Connected Concepts
 
