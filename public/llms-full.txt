@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 893 articles, and 4 FAQs.
+> Complete text of 166 concepts, 891 articles, and 4 FAQs.
 
 # Concepts
 
@@ -9236,7 +9236,6 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
 - [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
-- [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]] — Cooperative flipped classroom with AI chatbots
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 
@@ -20304,7 +20303,6 @@ This article adds an evidence-based, within-subjects study of an emotionally int
 - [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
 - [[roe-assessment-twins-2026]] — Assessment twins: An approach for strengthening assessment validity in the age of generative AI
-- [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]] — The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning
 
 ## Citation
 
@@ -29425,29 +29423,6 @@ Nanayakkara, I., & Halloluwa, T. (2026). [*Automating Learner Assessment: Benchm
 
 ---
 
-## [Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective](https://edtechdev.github.io/aied/articles/effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo/)
-
-> **Synthesis:** Based on mastery learning theory, this study employed a quasi-experimental design to examine how an AI chatbot-supported cooperative flipped classroom influences students' collaboration, self-regulated learning and [[learning-gains|academic performance]]. Involving 154 junior students over an 11-week period, results showed the experimental group demonstrated significantly higher posttest scores in collaboration, self-regulated learning and academic performance compared to the control group. Epistemic Network Analysis revealed that students with lower prior knowledge exhibited denser collaboration networks, while those with higher prior knowledge showed stronger self-regulated learning connections.
-
-## Key Findings
-
-Based on mastery learning theory, this study employed a quasi-experimental design to examine how an AI chatbot-supported cooperative flipped classroom influences students' collaboration, self-regulated learning and academic performance. Involving 154 junior students over an 11-week period, results showed the experimental group demonstrated significantly higher posttest scores in collaboration, self-regulated learning and academic performance compared to the control group. Epistemic Network Analysis revealed that students with lower prior knowledge exhibited denser collaboration networks, while those with higher prior knowledge showed stronger self-regulated learning connections.
-
-## Connected Concepts
-- [[self-regulated-learning]]
-- [[collaborative-learning]]
-
-## Connected Articles
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]]
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[ai-in-the-wild-college]]
-
-## Citation
-Wang, K., Qin, S., Shen, Y., Guo, J., Ruan, Q., & Jia, T. (2026). [*Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective*](https://doi.org/10.1111/bjet.70079). *British Journal of Educational Technology.*
-
----
-
 ## [The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks](https://edtechdev.github.io/aied/articles/efficiency-gain-illusion-ai-overreliance/)
 
 Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own [[generative-ai|AI]] usage. The authors find that people not only use AI for cognitively simple tasks even when it provides no meaningful efficiency benefit, but also systematically misperceive both how much they use AI and how much it helps them.
@@ -30227,23 +30202,42 @@ Gerhardt, M., Shiekh, K., Katz, A., & Chaback, B. E. (2026). [*It's Like "X": Ho
 
 ## [Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement](https://edtechdev.github.io/aied/articles/enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen/)
 
-> **Synthesis:** This study explores the impact of robot-[[llm|LLM]] integration on [[collaborative-learning|collaborative creative writing]], focusing on how [[embodied-learning|embodiment]] and AI [[creativity]] influence creative output. With 150 undergraduate students across five conditions, results revealed that the Human-Robot (High-Creativity LLM) condition significantly enhanced originality, while Human-Human and Human-LLM collaborations excelled in imagery and voice. An 'embodiment paradox' was identified, where robot embodiment amplified creativity in high-creativity AI conditions but human collaboration remained superior in stylistic expression.
+> **Synthesis:** Liu & Song (2026) explore the impact of robot–[[llm|LLM]] integration on [[collaborative-learning|collaborative creative writing]], focusing on how [[embodied-learning|embodiment]] and AI [[creativity]] influence creative output. With 150 undergraduate students across five collaboration conditions, they find the **Human–Robot (High-Creativity LLM)** condition significantly enhanced **originality**, while Human–Human and Human–LLM (text-based) collaborations excelled in **imagery and voice**. An **"embodiment paradox"** emerged: robot embodiment amplified creativity in high-creativity AI conditions, yet [[human-ai-collaboration|human collaboration]] remained superior in stylistic expression. Mediation analysis showed **user engagement acts as a mediator**, with embodiment compensating for low-creativity AI and amplifying the creative process with high-creativity AI.
 
 ## Key Findings
 
-This study explores the impact of robot-[[llm|LLM]] integration on [[collaborative-learning|collaborative creative writing]], focusing on how [[embodied-learning|embodiment]] and AI [[creativity]] influence creative output. With 150 undergraduate students across five conditions, results revealed that the Human-Robot (High-Creativity LLM) condition significantly enhanced originality, while Human-Human and Human-LLM collaborations excelled in imagery and voice. An 'embodiment paradox' was identified, where robot embodiment amplified creativity in high-creativity AI conditions but human collaboration remained superior in stylistic expression.
+- **Five-condition design.** 150 undergraduate students collaborated under Human–Human (HH), Human–Computer with High-Creativity LLM (HC), Human–Robot with High-Creativity LLM (HR), Human–Robot with Low-Creativity LLM (RL), and Human–Computer with Low-Creativity LLM (CL) conditions.
+- **Creativity assessed by experts + computation.** Output was rated on originality, imagery, voice, and semantic flow via expert ratings and computational analysis.
+- **Human–Robot with High-Creativity LLM boosts originality.** The HR condition significantly enhanced originality over the others.
+- **Human and text-based collaborations excel at style.** Human–Human and Human–LLM (text-based) collaborations scored highest on imagery and voice.
+- **The "embodiment paradox."** Robot embodiment amplified creativity in high-creativity AI conditions, yet human collaboration remained superior in stylistic expression — embodiment and AI creativity interact in non-obvious ways.
+- **Engagement mediates the effect.** User engagement mediated the relationship: embodiment compensates for low-creativity AI and amplifies the creative process with high-creativity AI.
+
+## Implications
+
+This study informs the design of [[educational-robotics|human–robot–LLM]] collaborative systems for creative work in education. The "embodiment paradox" and the mediating role of [[student-engagement|user engagement]] highlight that **embodiment and AI creativity must be balanced** to optimize creative outcomes: physical/robotic embodiment can compensate for lower AI creativity and boost originality when paired with high-creativity AI, but it does not replace the stylistic quality of human collaboration. For [[ai-education|AI in education]], it cautions against assuming that more capable AI or more embodied agents automatically improve collaborative creative writing — the interaction is nuanced and depends on the creative dimension (originality vs. imagery/voice) being targeted.
 
 ## Connected Concepts
-- [[collaborative-learning]]
+
+- [[collaborative-learning]] — the collaborative writing context
+- [[llm]] — the AI generating creative content
+- [[creativity]] — the outcome being enhanced
+- [[embodied-learning]] — embodiment as a design variable
+- [[educational-robotics]] — the robot embodiment
+- [[student-engagement]] — the mediating variable
+- [[higher-ed]] — the study context
+- [[ai-education]] — the umbrella field
 
 ## Connected Articles
+
 - [[humanlike-ai-collaborative-writing]]
 - [[ai-in-the-wild-college]]
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 - [[teacher-ai-teaming-five-levels]]
 
 ## Citation
-Liu, Y., & Song, Y. (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). *British Journal of Educational Technology.*
+
+Liu, Y., & Song, Y. (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). *British Journal of Educational Technology*, 57, 1320–1347.
 
 ---
 
@@ -33002,7 +32996,7 @@ Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh (2026). [G
 
 ## [Development and evaluation of artificial intelligence literacy training for teacher education students](https://edtechdev.github.io/aied/articles/genai-literacy-training-teacher-education-dbr-2026/)
 
-> **Synthesis:** Le, Huynh, Dang, Pham, Nguyen, and Nguyen (2026) develop and evaluate a design-based research (DBR) intervention providing [[generative-ai|GenAI]] [[ai-literacy|literacy]] training for [[teacher-education|teacher education]] students. Arguing that existing AI literacy programs overemphasize technical knowledge and pre-GenAI tools, the study integrates contemporary [[teacher-ai-competency|AI competency frameworks]] into a workshop prototype. The workshop was piloted with 14 master's students and evaluated with 29 [[teacher-education|teacher education]] students. Findings indicate the intervention effectively enhanced overall AI competency [[self-efficacy]], with positive emotional responses from 87.1% of participants and shifts toward critical exploration of [[generative-ai|GenAI]] tools for teaching.
+> **Synthesis:** Le, Huynh, Dang, Pham, Nguyen, and Nguyen (2026) develop and evaluate a [[design-based-research|design-based research]] (DBR) intervention providing [[generative-ai|GenAI]] [[ai-literacy|literacy]] training for [[teacher-education|teacher education]] students. Arguing that existing AI literacy programs overemphasize technical knowledge and pre-GenAI tools, the study integrates contemporary [[teacher-ai-competency|AI competency frameworks]] into a workshop prototype. The workshop was piloted with 14 master's students and evaluated with 29 [[teacher-education|teacher education]] students. Findings indicate the intervention effectively enhanced overall AI competency [[self-efficacy]], with positive emotional responses from 87.1% of participants and shifts toward critical exploration of [[generative-ai|GenAI]] tools for teaching.
 
 ## Key Findings
 
@@ -34455,7 +34449,6 @@ This four-year comparative study presents results of implementing a [[generative
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-- [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]]
 
 ## Citation
 Fecko, B., Dziak, J., Vince, T., & Molnár, J. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). *Computers and Education: Artificial Intelligence.*
@@ -40033,7 +40026,7 @@ Li, S., & Mroziak, J. (2026). [*Reorienting Critical AI Literacy: A Community-Ro
 
 ## [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://edtechdev.github.io/aied/articles/liang-genai-systematic-review-human-ai-2026/)
 
-> **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on [[generative-ai|GenAI]] in education through the AIED-HCD framework, analyzing three [[human-ai-collaboration|human–AI interaction]] modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated [[human-ai-collaboration|human–AI complementarity]].
+> **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) [[meta-analysis-systematic-review|systematically review]] 56 empirical studies on [[generative-ai|GenAI]] in education through the AIED-HCD framework, analyzing three [[human-ai-collaboration|human–AI interaction]] modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated [[human-ai-collaboration|human–AI complementarity]].
 
 This BJET review synthesizes 56 empirical studies on [[generative-ai|GenAI]] in [[ai-education|education]], uniquely applying the AIED-HCD framework which conceptualizes [[human-ai-collaboration|human–AI interaction]] along two dimensions: human control and AI automation. Three interaction modes emerge: (1) low AI automation + high human control ([[teacher-role|teacher-led]]), (2) balanced, and (3) high automation + high human control (emerging trend). A sensitivity analysis validates the robustness of findings across modes. The review identifies that while practice remains cautious toward high-automation modes, the simultaneous presence of high human control with high AI automation represents a promising direction.
 
@@ -42405,7 +42398,6 @@ This review connects [[student-engagement]] and [[student-engagement]] to the ce
 
 - [[genai-motivation-engagement-2026]] — GenAI motivation and engagement
 - [[icap-cognitive-engagement-llm-agents]] — ICAP cognitive engagement with LLM agents
-- [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]] — AI chatbot cooperative flipped classroom
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding critical engagement with GenAI
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Student engagement with GenAI and self-determination
 - [[genai-tutor-engagement-patterns]] — GenAI tutor engagement patterns
@@ -46059,17 +46051,17 @@ The framework reframes guidance on student AI use from procedural [[higher-ed|ac
 
 ## [OECD Digital Education Outlook 2026](https://edtechdev.github.io/aied/articles/oecd-digital-education-outlook-2026/)
 
-> **OECD flagship report** synthesising empirical evidence and expert insights on generative AI in education. Central finding: general-purpose AI chatbots improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
+> **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]]ai-education|AI in education]]. Central finding: general-purpose AI [[pedagogical-agent|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
 
 ## The Core Finding: Performance Is Not Learning
 
-The report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improve the *quality of student outputs* on assignments but this advantage **disappears and sometimes reverses** in exams when AI access is removed. This misalignment between task performance and genuine learning is the report's central argument for why purpose-built educational AI is necessary. When students offload cognitive tasks to chatbots, metacognitive engagement drops — the mental processes that turn answers into understanding are short-circuited. See [[genai-performance-vs-learning]] and [[cognitive-offloading|Over-Reliance]].
+The report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improve the *quality of student outputs* on assignments but this advantage **disappears and sometimes reverses** in exams when AI access is removed. This misalignment between task performance and genuine learning is the report's central argument for why purpose-built educational AI is necessary. When students offload cognitive tasks to chatbots, [[metacognition|metacognitive]] [[student-engagement|engagement]] drops — the mental processes that turn answers into understanding are short-circuited. See [[genai-performance-vs-learning]] and [[cognitive-offloading|Over-Reliance]].
 
 ## Educational GenAI: What Works
 
-Hybrid systems that combine GenAI with explicit pedagogical models show more promise than general-purpose chatbots. Examples cited include:
+Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models show more promise than general-purpose chatbots. Examples cited include:
 
-- **Socratic Playground (SPL)**: Uses Socratic questioning to develop subject knowledge, critical thinking and reflection rather than providing direct answers
+- **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and reflection rather than providing direct answers
 - **Khanmigo**: Withholds answers and guides reasoning through questioning
 - **JeepyTA**: AI teaching assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
@@ -46082,29 +46074,29 @@ A 9-percentage-point increase in student pass rates when low-experience tutors u
 
 ## Teacher Agency: Three Paradigms
 
-The report's conceptual framework (Ch.7) proposes three paradigms for teacher-AI interaction:
+The report's conceptual framework (Ch.7) proposes three paradigms for teacher-[[student-ai-interaction|AI interaction]]:
 
 1. **Replacement** — AI takes over tasks; risk of teacher deskilling
-2. **Complementarity** — Human judgment paired with machine efficiency
+2. **Complementarity** — [[human-in-the-loop-ai|Human judgment]] paired with machine efficiency
 3. **Augmentation** — Teachers and AI work in tandem, critiquing and refining each other's outputs (recommended)
 
 The augmentation paradigm preserves professional judgment while achieving the greatest instructional quality gains. See [[genai-can-harm-teaching-rct-2026]].
 
 ## Purpose-Built vs General-Purpose
 
-Chapter 8 makes the case for purpose-built educational GenAI systems co-created with teachers and students. These tools would give teachers control over AI behaviour — including setting the level of "hallucinations" — and enable monitoring of student-AI interactions. The tools should align with specific curricula rather than being generic, and maintain teacher autonomy over course design and enactment.
+Chapter 8 makes the case for purpose-built educational GenAI systems co-created with teachers and students. These tools would give teachers control over AI behaviour — including setting the level of "[[hallucination-risk|hallucinations]]" — and enable monitoring of student-AI interactions. The tools should align with specific curricula rather than being generic, and maintain teacher autonomy over course design and enactment.
 
 ## Collaborative Learning and Creativity
 
-GenAI supports [[collaborative-learning]] in four roles: information hub, personalised material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For creativity, GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
+GenAI supports [[collaborative-learning]] in four roles: information hub, personalised material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For [[creativity]], GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
 
 ## System-Level and Assessment Applications
 
-At the institutional level, GenAI enables: curriculum mapping between courses/programs, admissions and career guidance analytics, standardised assessment item generation, interactive writing and speaking assessments, and synthetic datasets for education research (Chs. 11–13).
+At the [[governance|institutional]] level, GenAI enables: [[curriculum-design|curriculum]] mapping between courses/programs, admissions and career guidance analytics, standardised assessment [[automated-question-generation|item generation]], interactive writing and speaking assessments, and synthetic datasets for education research (Chs. 11–13).
 
 ## Policy Recommendations
 
-Four pillars: (1) human-centred teaching and learning with GenAI; (2) investment in educational GenAI R&D grounded in learning science; (3) enabling policy environment for trustworthy GenAI (privacy, safety, bias testing, transparency); (4) equitable digital infrastructure including offline small language models for low-connectivity settings.
+Four pillars: (1) human-centred teaching and learning with GenAI; (2) investment in educational GenAI R&D grounded in [[learning-theories|learning science]]; (3) enabling policy environment for trustworthy GenAI (privacy, safety, bias testing, transparency); (4) [[equity-in-ai-education|equitable]] digital infrastructure including offline small language models for low-connectivity settings.
 
 ## Equity: AI Unplugged
 
@@ -49679,7 +49671,7 @@ Sabani, A., Farah, M. H., Catyanadika, P. E., Dewi, D. R. S., & Tawani, V. (2026
 
 ## [ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching](https://edtechdev.github.io/aied/articles/rhaimi-productivemath-2025/)
 
-> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure]] problems — a known challenge in PF pedagogy. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive usability perceptions and adoption intent.
+> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure]] problems — a known challenge in PF [[pedagogy]]. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive [[usability-research|usability]] perceptions and adoption intent.
 
 ## The challenge it addresses
 
@@ -49687,13 +49679,13 @@ Productive Failure engages students in problem-solving before instruction, but d
 
 ## Three studies
 
-- **Study 1:** A literature review defined high-quality PF problems and produced a rubric; GPT-4o generated and evaluated 30 problems alongside human raters.
+- **Study 1:** A [[meta-analysis-systematic-review|literature review]] defined high-quality PF problems and produced a rubric; GPT-4o generated and evaluated 30 problems alongside human raters.
 - **Study 2:** Replicated with 60 additional problems, showing strong correlations between AI and human ratings — confirming GPT-4o's capability to produce high-quality PF problems.
 - **Study 3:** Seven math teachers evaluated human- and AI-generated problems via surveys and interviews. They rated AI-generated algebra problems as high-quality, reported positive perceptions of ProductiveMath's usability, and expressed intentions to use it. Teacher feedback included adjusting problem difficulty, simplifying text, enhancing visuals, and providing additional PF support.
 
 ## Relevance to the wiki
 
-This paper connects [[productive-failure]] to [[teacher-role|teacher]] support and [[generative-ai]]: AI can lower the barrier to implementing PF by scaffolding the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
+This paper connects [[productive-failure]] to [[teacher-role|teacher]] support and [[generative-ai]]: AI can lower the barrier to implementing PF by [[scaffolding]] the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
 
 ## Connected Concepts
 
@@ -55603,28 +55595,6 @@ MacCallum, K., Parsons, D., & Mohaghegh, M. (2026). [*The Scaffolded AI literacy
 
 ---
 
-## [The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning](https://edtechdev.github.io/aied/articles/the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological/)
-
-> **Synthesis:** This study examined the effects of pedagogical agents (real vs. virtual) and metaphorical design on learners' performance, attention, comprehension, and psychological distance in a 2x2 between-subjects design with 129 learners. Results showed both virtual pedagogical agents and metaphorical design improved learning performance and reduced psychological distance. Metaphorical design specifically increased cognitive effort and enhanced virtual agents' perceived human-likeness. Spatial and hypothetical distances mediated the effects on learning performance.
-
-## Key Findings
-
-This study examined the effects of pedagogical agents (real vs. virtual) and metaphorical design on learners' performance, attention, comprehension, and psychological distance in a 2x2 between-subjects design with 129 learners. Results showed both virtual pedagogical agents and metaphorical design improved [[learning-gains|learning]] performance and reduced psychological distance. Metaphorical design specifically increased cognitive effort and enhanced virtual agents' perceived human-likeness. Spatial and hypothetical distances mediated the effects on learning performance.
-
-## Connected Concepts
-- [[agentic-ai]]
-
-## Connected Articles
-- [[savvy-student-attention-video-learning]]
-- [[nuclear-diffusion-text-to-image-learning-2026]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[icap-cognitive-engagement-llm-agents]]
-
-## Citation## Citation
-Xu, K., Zhang, Q., Zhang, Y., Xu, H., Pi, Z., & Yang, J. (2026). [*The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning*](https://doi.org/10.1111/bjet.70064). *British Journal of Educational Technology*.
-
----
-
 ## [Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity](https://edtechdev.github.io/aied/articles/think-first-chatgpt-later-2026/)
 
 > **Synthesis:** Wong and Qiu (2026) ask whether ChatGPT's boost to [[creativity|creative performance]] translates into durable learning, or only inflates assisted output. University students (N = 196) solved a product-improvement task either independently (human-only), using ChatGPT freely (general-AI), or with a guided **"think first, ChatGPT later"** approach (regulated-AI) in which they first generated their own ideas, then collaborated with ChatGPT to improve, develop, and evaluate them. On the assisted task the general-AI group produced more creative solutions — but this advantage vanished on a later, harder invention task completed without ChatGPT, where their creativity fell back to human-only levels. In striking contrast, the regulated-AI group, despite no immediate gains, outperformed both other groups in *independent* creativity afterward. Process analyses showed the regulated-AI group used far more [[human-ai-collaboration|collaborative]] prompts aimed at improving their own initial ideas, and this greater use mediated their later advantage in independent originality.
@@ -57531,24 +57501,40 @@ White, A. R., & Wu, Z. (2026). [*Robotics and Artificial Intelligence in Educati
 
 ## [Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings](https://edtechdev.github.io/aied/articles/will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-/)
 
-> **Synthesis:** By adopting the Will, Skill, Tool (WST) model, this study explores how EMI students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China found that will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor ([[ai-literacy|AI literacy]]) were significant antecedents of students' intentions, whereas the tool component (facilitating conditions) was not. The model explained 56% of the variance in students' behavioural intentions.
+> **Synthesis:** Yang & Huang (2026) adopt the **Will, Skill, Tool (WST)** model to explore how English-medium-instruction (EMI) students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China, modeled with SEM, explained **56% of the variance** in behavioural intentions. **Will-related factors** (attitudes, perceived risks, perceived importance of policy) and the **skill factor** ([[ai-literacy|AI literacy]]) were significant antecedents, whereas the **tool component** (facilitating conditions) was **not** significant. Attitudes and perceived risks served as significant indirect pathways linking perceived-importance-of-policy and AI literacy to behavioural intentions.
 
 ## Key Findings
 
-By adopting the Will, Skill, Tool (WST) model, this study explores how EMI students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China found that will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor ([[ai-literacy|AI literacy]]) were significant antecedents of students' intentions, whereas the tool component (facilitating conditions) was not. The model explained 56% of the variance in students' behavioural intentions.
+- **The WST model applied to EMI + GenAI.** The Will, Skill, Tool framework captures how EMI students' academic-writing AI adoption is driven more by willingness and capability than by technical access.
+- **Will and skill predict intention; tool does not.** Will-related factors (attitudes, perceived risks, perceived importance of policy) and the skill factor (AI literacy) were significant antecedents of behavioural intention, while the tool component (facilitating conditions) was not — a notable departure from models that emphasize infrastructure.
+- **56% of variance explained.** The structural equation model accounted for a substantial share of variance in EMI students' behavioural intentions.
+- **Indirect pathways via attitudes and perceived risk.** Perceived importance of policy and AI literacy operated through attitudes and perceived risks to influence intention.
+- **Beyond the formal classroom.** The study addresses GenAI use for academic writing in informal settings, not just formal classroom tasks.
+
+## Implications
+
+This study reinforces the wiki's [[ai-literacy]] and [[technology-acceptance-model|technology acceptance]] threads by showing that **AI adoption for academic writing depends on willingness ("will") and capability ("skill") more than on tool access ("tool")** — infrastructure/facilitating conditions were not significant, while attitudes, perceived risks, policy salience, and AI literacy were. For [[educational-policy-ai|policy]] and [[pedagogy]], this implies interventions should target learners' attitudes, risk perceptions, and AI literacy rather than simply providing tools, and that clear [[governance|institutional]] [[educational-policy-ai|policy]] signals matter for shaping acceptance. It connects to [[writing-education]], [[higher-ed]], and [[generative-ai]].
 
 ## Connected Concepts
-- [[generative-ai]]
-- [[ai-literacy]]
+
+- [[generative-ai]] — the technology under study
+- [[ai-literacy]] — the "skill" antecedent
+- [[writing-education]] — the academic-writing context
+- [[technology-acceptance-model]] — the broader acceptance framework
+- [[educational-policy-ai]] — perceived importance of policy
+- [[higher-ed]] — the EMI university context
+- [[ai-education]] — the umbrella field
 
 ## Connected Articles
+
 - [[generative-refusal-ai-tools-for-thought]]
 - [[generative-ai-reduced-study-time-math]]
 - [[genai-usage-design-students-survey]]
 - [[genai-linguistic-diversity-academic-writing]]
 
-## Citation## Citation
-Yang, P., & Huang, W. (2026). [*Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). *British Journal of Educational Technology*.
+## Citation
+
+Yang, P., & Huang, W. (2026). [*Will, skill, not tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). *British Journal of Educational Technology*, 57.
 
 ---
 

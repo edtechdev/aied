@@ -1,14 +1,14 @@
 ---
 title: "A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [systematic-review, generative-ai, human-ai-interaction, ai-literacy, higher-ed, efficacy-study]
-sources: ['raw/papers/liang-genai-systematic-review-2026.md']
+sources: ['raw/papers/liang-genai-systematic-review-human-ai-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on [[generative-ai|GenAI]] in education through the AIED-HCD framework, analyzing three [[human-ai-collaboration|human–AI interaction]] modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated [[human-ai-collaboration|human–AI complementarity]].
+> **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) [[meta-analysis-systematic-review|systematically review]] 56 empirical studies on [[generative-ai|GenAI]] in education through the AIED-HCD framework, analyzing three [[human-ai-collaboration|human–AI interaction]] modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated [[human-ai-collaboration|human–AI complementarity]].
 
 This BJET review synthesizes 56 empirical studies on [[generative-ai|GenAI]] in [[ai-education|education]], uniquely applying the AIED-HCD framework which conceptualizes [[human-ai-collaboration|human–AI interaction]] along two dimensions: human control and AI automation. Three interaction modes emerge: (1) low AI automation + high human control ([[teacher-role|teacher-led]]), (2) balanced, and (3) high automation + high human control (emerging trend). A sensitivity analysis validates the robustness of findings across modes. The review identifies that while practice remains cautious toward high-automation modes, the simultaneous presence of high human control with high AI automation represents a promising direction.
 

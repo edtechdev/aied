@@ -8,7 +8,7 @@ sources: ['raw/papers/rhaimi-productivemath-2025.md']
 confidence: medium
 ---
 
-> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure]] problems — a known challenge in PF pedagogy. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive usability perceptions and adoption intent.
+> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure]] problems — a known challenge in PF [[pedagogy]]. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive [[usability-research|usability]] perceptions and adoption intent.
 
 ## The challenge it addresses
 
@@ -16,13 +16,13 @@ Productive Failure engages students in problem-solving before instruction, but d
 
 ## Three studies
 
-- **Study 1:** A literature review defined high-quality PF problems and produced a rubric; GPT-4o generated and evaluated 30 problems alongside human raters.
+- **Study 1:** A [[meta-analysis-systematic-review|literature review]] defined high-quality PF problems and produced a rubric; GPT-4o generated and evaluated 30 problems alongside human raters.
 - **Study 2:** Replicated with 60 additional problems, showing strong correlations between AI and human ratings — confirming GPT-4o's capability to produce high-quality PF problems.
 - **Study 3:** Seven math teachers evaluated human- and AI-generated problems via surveys and interviews. They rated AI-generated algebra problems as high-quality, reported positive perceptions of ProductiveMath's usability, and expressed intentions to use it. Teacher feedback included adjusting problem difficulty, simplifying text, enhancing visuals, and providing additional PF support.
 
 ## Relevance to the wiki
 
-This paper connects [[productive-failure]] to [[teacher-role|teacher]] support and [[generative-ai]]: AI can lower the barrier to implementing PF by scaffolding the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
+This paper connects [[productive-failure]] to [[teacher-role|teacher]] support and [[generative-ai]]: AI can lower the barrier to implementing PF by [[scaffolding]] the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
 
 ## Connected Concepts
 
