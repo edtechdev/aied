@@ -2167,6 +2167,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[ai-education]]
 
 ## Connected Articles
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[zhan-chapman-genai-cs-education-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
@@ -6255,6 +6256,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[adaptive-learning]]
 
 ## Connected Articles
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
 - [[adhd-video-segmentation-computing-education]]
@@ -8460,6 +8462,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[teacher-role]]
 
 ## Connected Articles
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[genai-counter-learner-groupthink-2025]]
@@ -10751,6 +10754,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
 
@@ -12365,6 +12369,8 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pedagogical-safety]]
 
 ## Connected Articles
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
@@ -21641,11 +21647,11 @@ Beck, S., & Brodersen, D. (2025). [*Fostering Generative AI Literacy in Economic
 
 ## [Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education](https://edtechdev.github.io/aied/articles/becker-chatgpt-typology-physics-2026/)
 
-> **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from [[physics-education|physics]] students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for [[scaffolding]] despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over [[cognitive-offloading|overreliance]] concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for [[pedagogy|differentiated pedagogy]].
+> **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from [[physics-education|physics]] students using [[qualitative-research|qualitative]] content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for [[scaffolding]] despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over [[cognitive-offloading|overreliance]] concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all [[educational-policy-ai|AI policies]] and calling for [[pedagogy|differentiated pedagogy]].
 
 ## Summary
 
-This study develops a data-driven typology of [[physics-education|physics]] students' ChatGPT use through qualitative content analysis of 1,189 survey responses and latent class analysis (LCA). Two profiles emerge: Pragmatic Users (70%) who are aware of AI's inaccuracies but use it for conceptual clarification and problem-solving [[scaffolding|scaffolds]], and Skeptical Non-Users (30%) who avoid the tool over concerns about [[cognitive-offloading|overreliance]] and its potential to hinder independent problem-solving. Both groups demonstrate calculated risk-utility trade-offs rather than uncritical adoption or blanket rejection — challenging institutional one-size-fits-all AI policies.
+This study develops a data-driven typology of [[physics-education|physics]] students' ChatGPT use through qualitative content analysis of 1,189 survey responses and latent class analysis (LCA). Two profiles emerge: Pragmatic Users (70%) who are aware of AI's inaccuracies but use it for conceptual clarification and problem-solving [[scaffolding|scaffolds]], and Skeptical Non-Users (30%) who avoid the tool over concerns about [[cognitive-offloading|overreliance]] and its potential to hinder independent problem-solving. Both groups demonstrate calculated risk-utility trade-offs rather than uncritical adoption or blanket rejection — challenging [[governance|institutional]] one-size-fits-all AI policies.
 
 ## Key Findings
 
@@ -21782,7 +21788,7 @@ Benali Taouis, H., & Díaz García, A. (2026). [Teaching with generative artific
 
 ## Summary
 
-Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical approach to using [[llm|large language models]] (LLMs) to rapidly generate interactive [[physics-education|physics]] [[simulation|simulations]] for education — effectively "building your own virtual lab." The paper argues that while existing simulation platforms such as PhET are valuable and widely used, they do not cover all teaching needs, and modifying or developing simulations has traditionally required programming expertise and significant time. Using [[llm|LLMs]] such as ChatGPT (OpenAI) and Claude (Anthropic), the authors show that educators and students can generate and iteratively refine HTML/JavaScript physics simulations through structured textual [[prompt-engineering|prompts]], with no programming background required. The paper provides a reusable prompt template, a worked example (a simple pendulum), a two-part validation strategy, and preliminary evidence from a pilot course. The authors position AI-generated simulations as complementary to, not replacements for, established educational resources. **Not open access** (AIP journal article in *The Physics Teacher*).
+Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical approach to using [[llm|large language models]] (LLMs) to rapidly generate interactive [[physics-education|physics]] [[simulation|simulations]] for education — effectively "building your own virtual lab." The paper argues that while existing simulation platforms such as PhET are valuable and widely used, they do not cover all teaching needs, and modifying or developing simulations has traditionally required programming expertise and significant time. Using [[llm|LLMs]] such as ChatGPT (OpenAI) and Claude (Anthropic), the authors show that educators and students can generate and iteratively refine HTML/JavaScript physics simulations through structured textual [[prompt-engineering|prompts]], with no programming background required. The paper provides a reusable prompt template, a worked example (a simple pendulum), a two-part validation strategy, and preliminary evidence from a pilot course. The authors position AI-generated simulations as complementary to, not replacements for, established educational resources. **Not [[open-source|open access]]** (AIP journal article in *The Physics Teacher*).
 
 ## Key Findings
 
@@ -21791,7 +21797,7 @@ Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical a
 - **Worked example: simple pendulum.** Generated with OpenAI's o1 or Claude 3.5 Sonnet, the simulation overlays the analytical small-angle solution on the numerical solution (Runge-Kutta), with adjustable mass, length, angle, and angular velocity. An enhanced version added friction/damping, pendulum tension, and energy-distribution visualizations.
 - **Two-part validation.** Technical validation checks behavior under parameter changes; physical validation compares results to known analytical solutions and physical laws. Bugs are fixed iteratively through targeted re-prompting.
 - **Positive preliminary pilot.** In an algebra-based mechanics course at Bar-Ilan University, 53 students in 26 pairs created and refined free-fall simulations, rating enjoyment 4.1/5 and contribution to physics understanding 3.9/5.
-- **Documented limitations.** [[hallucination-risk|Hallucinations]], a lack of productive constraints, and no embedded pedagogical content knowledge mean AI-generated simulations should complement — not replace — established resources.
+- **Documented limitations.** [[hallucination-risk|Hallucinations]], a lack of productive constraints, and no embedded [[pedagogy|pedagogical]] content knowledge mean AI-generated simulations should complement — not replace — established resources.
 
 ## Implications
 
@@ -21799,9 +21805,7 @@ Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical a
 - Shifts the [[teacher-role|educator role]] toward pedagogical judgment (validating accuracy, adding constraints, aligning with research-based teaching) rather than programming.
 - Introduces students to AI as a tool for scientific exploration, but requires oversight because AI output can be physically inaccurate.
 - Supports [[active-learning|active]] and exploratory learning: students can create, refine, and test simulations, promoting [[critical-thinking|critical thinking]] and awareness of model limitations.
-- The prompt-and-refine workflow has potential to generalize beyond physics to other scientific fields.
-
-tific fields.
+- The prompt-and-refine workflow has potential to generalize beyond physics to other scien
 
 ## Connected Concepts
 
@@ -30538,29 +30542,42 @@ Wang, C., Petrie, C., Stouras, M., Ettlin, N., George, A., Mejia-Domenzain, P., 
 
 ## [Face value: How avatar identity shapes epistemic trust in AI-mediated learning](https://edtechdev.github.io/aied/articles/face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning/)
 
-> **Synthesis:** Two experiments examined how avatar race, gender, and age shape [[trust]] in [[ai-education|AI-mediated education]]. Study 1 (N=102) used a within-subjects laboratory design; Study 2 (N=294) adopted a between-subjects online design. Across both studies, social identity cues strongly influenced evaluations and behavior: White avatars and Asian male avatars in [[stem-education|STEM]] contexts were rated more credible and competent, while older Black female avatars faced compounded penalties. Domain moderated these effects, with STEM tasks amplifying [[bias-mitigation|bias]] while reflective tasks attenuated it.
+> **Synthesis:** Anthis & Kyriakidou-Zacharoudiou investigate how avatar identity cues (race, gender, age) shape [[trust-calibration|epistemic trust]] and enacted reliance in [[ai-education|AI-mediated learning]]. Two experiments isolated these effects: Study 1 (N=102) used a within-subjects laboratory design with tightly controlled avatars; Study 2 (N=294) used a between-subjects online design across varied instructional domains. Across both studies, social identity cues strongly influenced evaluations and behavior: **White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent**, while **older Black female avatars faced compounded penalties** on all measures. Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise. Domain moderated effects, with **STEM and procedural tasks amplifying bias** while reflective and interpersonal tasks attenuated it.
 
 ## Key Findings
 
-Two experiments examined how avatar race, gender, and age shape [[trust]] in [[ai-education|AI-mediated education]]. Study 1 (N=102) used a within-subjects laboratory design; Study 2 (N=294) adopted a between-subjects online design. Across both studies, social identity cues strongly influenced evaluations and behavior: White avatars and Asian male avatars in [[stem-education|STEM]] contexts were rated more credible and competent, while older Black female avatars faced compounded penalties. Domain moderated these effects, with STEM tasks amplifying [[bias-mitigation|bias]] while reflective tasks attenuated it.
+- **Avatar identity shapes trust and uptake.** Anthropomorphic avatars designed to increase [[student-engagement|engagement]] also activate social heuristics that reproduce offline patterns of bias — influencing who is trusted and who is ignored.
+- **Four outcomes + behavioral uptake.** The studies measured credibility, warmth, competence, and willingness to act, alongside a behavioral index of epistemic uptake (incorporating AI guidance into learners' own work).
+- **Perceptual hierarchies.** White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent; older Black female avatars faced compounded penalties across all measures.
+- **Ingroup alignment drives adoption.** Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise.
+- **Domain moderation.** STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it — bias is context-dependent, not uniform.
+- **[[trust|Trust in AI]]intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
+
+## Implications
+
+This study demonstrates that **the "face" of an AI tutor is a consequential equity variable** in [[ai-education]]. Avatar identity cues activate [[bias-mitigation|social biases]] that shape epistemic trust and whether learners actually adopt AI guidance — with older Black female avatars facing compounded penalties and ingroup alignment driving uptake. For designers, this implies careful attention to avatar representation, identity-neutral design options, and [[bias-mitigation]] in [[pedagogy|pedagogical]] agents, especially in [[stem-education|STEM]] and procedural domains where bias is amplified. It connects to [[trust-calibration]], [[pedagogical-agent|pedagogical agents]], [[human-ai-collaboration]], and [[equity-in-ai-education]].
 
 ## Connected Concepts
 
-- [[language-learning]]
-- [[intelligent-tutoring]]
-- [[socratic-method]]
-- [[math-education]]
-- [[higher-ed]]
-- [[inclusive-learning]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
+- [[trust-calibration]] — epistemic trust in AI tutors
+- [[ai-education]] — the umbrella field
+- [[bias-mitigation]] — the bias activated by identity cues
+- [[pedagogical-agent]] — the avatar-based AI tutors
+- [[inclusive-learning]] — the equity concern
+- [[equity-in-ai-education]] — who is trusted vs ignored
+- [[human-ai-collaboration]] — learner uptake of AI guidance
+- [[stem-education]] — a domain amplifying bias
+- [[intelligent-tutoring]] — the intelligent-tutoring context
 
 ## Connected Articles
+
 - [[social-robot-study-companions]]
 - [[multi-agent-llm-social-learning]]
+- [[agent-voice-accents-k12-group-learning]] — How agent voice accents shape human-AI collaboration
 
 ## Citation
-Anthis, Z., & Kyriakidou-Zacharoudiou, A. (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). *Computers and Education: Artificial Intelligence.*
+
+Anthis, Z., & Kyriakidou-Zacharoudiou, A. (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). *Computers and Education: Artificial Intelligence*, 10, 100610.
 
 ---
 
@@ -31189,12 +31206,12 @@ Majumdar, R., Ifenthaler, D., Schumacher, C., Donlon, E., Hsu, H.-P., Zagami, J.
 
 > **Synthesis:** Fouad & Bentley (2026) survey 81 introductory [[physics-education|physics]] students and find a striking 50-percentage-point [[trust-calibration|trust-utility gap]]: 91% use AI for coursework but only 41% [[trust]] AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in [[physics-education|physics]] (visual-spatial reasoning, circuits, abstract reasoning), aligning with known [[benchmark|benchmarks]]. 65% prefer optional over mandatory AI integration.
 
-A mixed-methods survey of 81 introductory [[physics-education|physics]] undergraduates reveals a 50-point [[trust-calibration|trust-utility gap]]: 91% [95% CI: 83%–96%] use AI for physics coursework, but only 41% [95% CI: 30%–52%] [[trust]] AI-generated physics explanations. Thematic analysis identified eight themes; the most distinctive finding was that 40% of qualitative respondents spontaneously articulated where AI fails — visual-spatial reasoning, circuit analysis, and abstract physical reasoning — aligning with known benchmarks. Students show [[trust-calibration|domain-calibrated skepticism]] rather than uncritical adoption, and 65% prefer optional AI integration.
+A [[mixed-methods-research|mixed-methods]] survey of 81 introductory [[physics-education|physics]] undergraduates reveals a 50-point [[trust-calibration|trust-utility gap]]: 91% [95% CI: 83%–96%] use AI for physics coursework, but only 41% [95% CI: 30%–52%] [[trust]] AI-generated physics explanations. Thematic analysis identified eight themes; the most distinctive finding was that 40% of [[qualitative-research|qualitative]] respondents spontaneously articulated where AI fails — visual-spatial reasoning, circuit analysis, and abstract physical reasoning — aligning with known benchmarks. Students show [[trust-calibration|domain-calibrated skepticism]] rather than uncritical adoption, and 65% prefer optional AI integration.
 
 - 91% use AI for physics, only 41% trust it — 50-point [[trust-calibration|trust-utility gap]]
-- Students show domain-specific skepticism, not naive acceptance
+- Students show [[discipline-specific-aied|domain-specific]] skepticism, not naive acceptance
 - 40% spontaneously identified AI failure modes: visual-spatial reasoning, circuits, abstract physics
-- Student [[trust-calibration|trust calibration]] tracks AI competence boundaries (consistent with Kortemeyer benchmarks)
+- Student [[trust-calibration|trust calibration]] tracks [[ai-literacy|AI competence]] boundaries (consistent with Kortemeyer benchmarks)
 - 65% prefer optional over mandatory AI integration
 - Verification gap identified: self-reported vs actual verification behavior
 

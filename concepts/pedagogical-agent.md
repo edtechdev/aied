@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-24T19:45:00-04:00"
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
 confidence: medium
@@ -58,6 +58,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[teacher-role]]
 
 ## Connected Articles
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[genai-counter-learner-groupthink-2025]]

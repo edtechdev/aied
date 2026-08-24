@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-24T09:15:00-04:00"
+updated: "2026-08-24T19:45:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 
@@ -42,6 +42,8 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pedagogical-safety]]
 
 ## Connected Articles
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education

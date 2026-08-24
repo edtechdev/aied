@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T12:15:00-04:00"
+updated: "2026-08-24T19:45:00-04:00"
 type: concept
 tags: [inclusive-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high
@@ -77,6 +77,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[adaptive-learning]]
 
 ## Connected Articles
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
 - [[adhd-video-segmentation-computing-education]]
