@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts and 866 articles.
+> Complete text of 166 concepts and 871 articles.
 
 # Concepts
 
@@ -126,6 +126,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -351,6 +352,8 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -1196,86 +1199,57 @@ AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding 
 AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI [[self-efficacy]] and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and [[self-regulated-learning]] scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
 
 - **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
+
 ## Connected Concepts
 
-- [[academic-integrity]]
-- [[active-learning]]
-- [[agency]]
-- [[ai-education]]
-- [[ai-sycophancy]]
-- [[assessment]]
-- [[cognitive-offloading]]
-- [[collaborative-learning]]
-- [[critical-pedagogy]]
-- [[critical-thinking]]
-- [[curriculum-design]]
-- [[digital-divide]]
-- [[educational-measurement]]
-- [[educational-policy-ai]]
-- [[equity-in-ai-education]]
-- [[ethics]]
-- [[faculty-development]]
-- [[feedback]]
-- [[framing-ai-use-for-students]]
-- [[generative-ai]]
-- [[governance]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[icap-framework]]
-- [[intelligent-tutoring]]
-- [[k-12]]
-- [[llm]]
-- [[metacognition]]
-- [[privacy]]
-- [[professional-training]]
-- [[prompt-engineering]]
-- [[reducing-ai-misuse]]
-- [[regulation]]
-- [[scaffolding]]
-- [[self-efficacy]]
-- [[self-regulated-learning]]
-- [[situated-learning]]
-- [[student-engagement]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[trust]]
-- [[trust-calibration]]
-
-
-
-
+- [[generative-ai]] — the technology AI literacy targets
+- [[llm]] — the systems at the heart of AI literacy
+- [[cognitive-offloading]] — the over-reliance risk literacy counters
+- [[critical-thinking]] — core evaluative disposition
+- [[prompt-engineering]] — core practical competence
+- [[reducing-ai-misuse]] — literacy's behavioral payoff
+- [[icap-framework]] — engagement taxonomy for designing literacy instruction
+- [[metacognition]] — literacy as metacognitive social practice
+- [[self-regulated-learning]] — self-regulation as a literacy resource
+- [[academic-integrity]] — knowing what constitutes appropriate AI use
+- [[ai-education]] — the broader field
+- [[teacher-ai-competency]] — educator preparedness
+- [[faculty-development]] — building educator literacy
+- [[equity-in-ai-education]] — fair distribution of literacy
+- [[digital-divide]] — the access/skills/outcomes gap
+- [[ethics]] — ethical awareness dimension
+- [[governance]] — institutional-level literacy
+- [[educational-policy-ai]] — policy framing
+- [[privacy]] — ethical/institutional concern
+- [[agency]] — human agency vs machine shift
+- [[ai-sycophancy]] — literacy skill of detecting agreement
+- [[trust-calibration]] — calibrating appropriate trust
+- [[k-12]] — school-level literacy
+- [[higher-ed]] — university-level literacy
 
 ## Connected Articles
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
+
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
+- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
-- [[sec-ai-literacy-narrative-review-2026]] — Narrative review of AI literacy
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy: power, resistance, agency
-- [[possibility-ai-literacy-critical-editorial]] — A critical editorial on the possibility of AI literacy
-- [[ai-literacy-power-knowledge]] — AI literacy, power and knowledge
 - [[panciroli-ai-literacy-episodes-situated-learning]] — Episodes of Situated Learning for AI literacy
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
 - [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy as an AI literacy intervention
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor-employer AI skills gap
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-- [[fekete-ethical-ai-literacy-gaps-2026]] — Ethical AI literacy gaps
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
-- [[teacher-education-ai-literacy-sdt-2026]] — Teacher-education AI literacy (SDT)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[zha-ai-literacy-biology-case-study]] — Integrating AI literacy education in a biology class
-- [[beck-genai-literacy-economics-hands-on]] — Hands-on GenAI literacy in economics
-- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -1591,6 +1565,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])
 - **Coauthorship and declaration** as part of the assessment contract
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
+- **Assessing the interaction process, not just the artifact** — the [[assessing-student-drive-framework-2025|DRIVE framework]] (Directive Reasoning Interaction + Visible Expertise) treats the quality of a student's *engagement with GenAI* as the assessed construct. It distinguishes surface consumption from deep, reflective interaction by looking at whether students steer prompts strategically (DRI) and integrate and develop their own disciplinary ideas through the exchange (VE), grounding process-focused criteria in theories of self-directed learning and cognitive engagement along the lines of the [[icap-framework|ICAP]] hierarchy. This makes DRIVE an example of *AI-mediated authentic assessment* — a rubric for evaluating how learners partner with GenAI rather than a detection tool.
 
 ## Implications for AI in education
 
@@ -1687,6 +1662,9 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 
 ---
 
@@ -1819,6 +1797,8 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
+
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -2523,6 +2503,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 ---
 
@@ -2723,6 +2704,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -2945,6 +2928,9 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+
 ---
 
 ## [Constructivism](https://edtechdev.github.io/aied/concepts/constructivist/)
@@ -2970,6 +2956,8 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 - **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that teaching is the efficient transfer of knowledge — and instead positions learners as autonomous agents who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
 - **Lineage into modern edtech.** Logo's emphasis on creative, hands-on construction underpins [[game-based-learning]], [[project-based-learning]], [[educational-robotics|robotics]] (LEGO Mindstorms, Scratch, programmable bricks), and the broader maker movement.
 - **The constructionist legacy in AI.** Constructionism implies AI tools should serve as **materials to build with** — thinking tools and creative co-constructors that the learner directs — rather than as answer-providing instructors. This is the direct ancestor of the wiki's [[genai-mindtool-generative-learning|mindtool]] framing of generative AI and of design commitments that preserve [[agency|learner agency]] over the learning process.^[[educational-robotics-pathways-2026]]
+
+- **Constructionism in the GenAI era: learn by writing the model, not the code.** The arrival of code-generating AI has *renewed* constructionism as a design response rather than weakening it. Gousopoulos's **Code-to-Learn with Generative AI (CtL-GenAI)** framework synthesizes constructionism, cognitive-load theory, [[self-regulated-learning]], the [[icap-framework|ICAP]] engagement model, productive failure, and sociocultural scaffolding for upper-secondary students building software with AI. Its organizing claim — **"the AI writes the code, but the student writes the model"** — reframes the construction target: when GenAI does the syntactic work of writing code, the learner's construction shifts to building and debugging the *conceptual model* the code expresses. CtL-GenAI defines model authorship as a construct with four facets and ordered levels carrying observable indicators, and formalizes a partial-credit, falsifiable measurement model to test whether such learning actually occurs.^[[code-to-learn-genai-artifact-construction-2026]]^[[ai-writes-code-student-writes-model-2026]] This is constructionism's classic "make something shareable and debug it" updated so that the artifact the student makes and reflects on is a mental model made visible, not merely source code — and it couples the theory to an explicit measurement programme so the claim becomes empirically testable.
 
 Constructionism is thus both a learning theory and a critique: it insists that the purpose of education is not to reproduce existing knowledge structures but to empower learners to construct and transform them — a stance with clear implications for whether AI in education reinforces or challenges established hierarchies.
 
@@ -3031,6 +3019,8 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
 - [[mishra-control-vs-agency-history-2025]] — Positions constructionism (Papert) against cognitive tutors in AIED history
+- [[code-to-learn-genai-artifact-construction-2026]] — Code-to-Learn with GenAI: constructionism framework for artifact construction
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory and measurement programme for learning-by-construction with GenAI
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
@@ -3058,6 +3048,8 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[productive-failure]]
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
+
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 ---
 
@@ -3460,6 +3452,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 
 ---
 
@@ -3600,6 +3594,8 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 
 ---
 
@@ -4242,6 +4238,8 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -5289,6 +5287,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 
 ---
 
@@ -5414,6 +5413,8 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -5724,6 +5725,10 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -6164,6 +6169,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+
 ---
 
 ## [History of AI in Education](https://edtechdev.github.io/aied/concepts/history-of-aied/)
@@ -6525,6 +6532,18 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 
 Although ICAP describes a hierarchy, the most consequential shift for learning is the jump from *Active* to *Constructive* modes (Chi & Boucher, 2023). Active engagement (applying knowledge to similar-but-non-identical scenarios) prepares learners, but it is Constructive engagement — generating explanations, summaries, or new artifacts — that equips them to create new knowledge. This is the crux for AI in education: a tool that keeps learners in the Active mode (e.g., clicking through adaptive practice) may look productive but never pushes them into the constructive generation that yields durable understanding. Collaborative and literacy-focused interventions that deliberately scaffold the Active→Constructive leap tend to show the strongest gains.^[[hingle-collaborative-ai-literacy-2025]]
 
+### ICAP as an adaptive-scaffolding signal in ITS
+
+ICAP's modes can be operationalized as *target states* that an adaptive tutor selects among to scaffold cognitive engagement based on an evolving student model. In a logic ITS, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] dynamically chose between an *Active* "Guided" worked-example mode and a *Constructive* "Buggy" example mode. Comparing Bayesian Knowledge Tracing (BKT) against Deep Reinforcement Learning (DRL) and a non-adaptive baseline over 113 students, both adaptive policies improved posttest performance — but in a differentiated way: BKT gave the largest gains to low-prior-knowledge students (helping them catch up), while DRL produced the highest posttest scores among high-prior-knowledge students. This is a concrete demonstration that effectively *personalizing* the ICAP mode of an intelligent tutor depends on modeling the learner's current knowledge — and that no single mode or adaptive method suits every learner. It connects the ICAP hierarchy directly to [[adaptive-learning]] and [[knowledge-tracing]] design.
+
+### ICAP as a model of cognitive state for generating human-like agents
+
+Beyond selecting task modes, ICAP has been embedded directly into the *cognitive model* of a generative educational agent. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] builds an ICAP-based "cognitive depth perceptron" that maps inputs to a probability distribution across the four ICAP levels, fusing this with evolutionary-inspired state updates and item-response-theory memory retrieval to simulate a student's cognitive evolution (including transitions such as confusion → insight). Ablations show that removing the ICAP perception module collapses the agent's ability to distinguish shallow from deep learning — evidence that the ICAP taxonomy can serve as a fine-grained, internal measure of cognitive engagement for [[simulating-students|student simulation]], not merely an external evaluation lens.
+
+### ICAP anchors assessment of reflective GenAI interaction
+
+ICAP's emphasis on generative, process-level engagement has been adopted by assessment frameworks that evaluate *how* students learn with generative AI. [[assessing-student-drive-framework-2025|The DRIVE framework]] explicitly aligns its core construct — deep reflective interaction with GenAI output — with the kind of generative engagement ICAP identifies as leading to deeper learning, and uses it to distinguish surface consumption from effortful, reflective reworking of AI-generated content. This positions ICAP as a theoretical anchor for designing and measuring meaningful [[generative-ai|GenAI]] learning interactions rather than merely tracking usage.
+
 ## Implications for design and research
 
 1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.^[[multimodal-learning-genai]]
@@ -6554,6 +6573,10 @@ Although ICAP describes a hierarchy, the most consequential shift for learning i
 - [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
 - [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — ICAP cognitive-depth model in a generative student-simulation agent
+- [[assessing-student-drive-framework-2025]] — ICAP-anchored assessment of reflective GenAI interaction
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 
 ---
 
@@ -6820,6 +6843,8 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+
 ---
 
 ## [Intelligent Tutoring](https://edtechdev.github.io/aied/concepts/intelligent-tutoring/)
@@ -6973,6 +6998,9 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+
 ---
 
 ## [Item Response Theory](https://edtechdev.github.io/aied/concepts/item-response-theory/)
@@ -7019,6 +7047,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 ---
 
@@ -7135,6 +7164,8 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 
 ---
 
@@ -7253,6 +7284,9 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[xie-hillm-cd-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]- [[trace-course-grade-prediction-2026]]
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -7386,6 +7420,8 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -7572,6 +7608,8 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
+
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -8305,6 +8343,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 
 ---
 
@@ -8935,6 +8974,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 ---
 
@@ -9403,6 +9443,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -10515,6 +10556,7 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 - [[q-learning-lab-rl-teaching]]
 - [[singh-eduqwen-pedagogical-rl-2026]]- [[residencyrl-clinical-rl-training-2026]]
 - [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -10844,6 +10886,10 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -11142,6 +11188,10 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
 
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+
 ---
 
 ## [Simulating Students](https://edtechdev.github.io/aied/concepts/simulating-students/)
@@ -11204,6 +11254,7 @@ Two 2026 threads sharpen the practical value of simulation. First, **authentic-d
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 
 ---
 
@@ -11954,6 +12005,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modelling
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -12148,6 +12200,9 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
+
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 
 ---
 
@@ -12485,6 +12540,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 
 ---
 
@@ -12625,6 +12681,8 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment under GenAI
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
+
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 
 ---
 
@@ -12878,6 +12936,8 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 
 ---
 
@@ -13767,6 +13827,84 @@ Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptiv
 ## Citation
 
 Mahir Akgun, Sacip Toker (2026). [Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study](https://arxiv.org/abs/2606.22328). arXiv:2606.22328. 27th International Conference on AI in Education
+
+---
+
+## [Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System](https://edtechdev.github.io/aied/articles/adaptive-scaffolding-cognitive-engagement-its/)
+
+> **Sutapa Dey Tithi, Nazia Alam, Tahreem Yasir, Yang Shi, Xiaoyi Tian, Min Chi, and Tiffany Barnes** — arXiv preprint (2026).
+
+## Synthesis
+
+This study operationalizes the [[icap-framework|ICAP framework]] within an intelligent logic tutor by dynamically selecting worked examples that elicit different levels of [[student-engagement|cognitive engagement]]: *Guided* examples (active engagement, completing missing justifications) and *Buggy* examples (constructive engagement, identifying and repairing inserted errors). Two adaptive policies — a [[knowledge-tracing|Bayesian Knowledge Tracing (BKT)]] heuristic and a Deep [[reinforcement-learning|Reinforcement Learning (DRL)]] policy — are compared against a non-adaptive random baseline in a classroom study with 113 students. Both adaptive policies significantly improved posttest performance relative to control (effect size A = .58 for each), while inducing strikingly different scaffolding distributions: DRL strongly favored active Guided examples (~60% of training problems), whereas BKT's problem-type mix resembled control. The two adaptive methods diverged by prior knowledge: BKT produced the largest posttest gains for low prior-knowledge students and narrowed the achievement gap by 77.1%, while DRL yielded significantly higher posttest scores among high prior-knowledge students. The authors conclude that adapting the *type* of cognitive engagement is an effective instructional strategy, though the interpretability gap between BKT and DRL is a practical consideration.
+
+## Key Findings
+
+1. **Both adaptive policies outperform non-adaptive instruction.** On posttest problems, BKT (mean 72.3) and DRL (mean 72.5) both significantly outperformed the Control group (mean 65.7) with comparable effect sizes (A = .58), while the two adaptive conditions did not differ from each other — suggesting the benefit stems largely from adaptation itself rather than the specific algorithm.
+2. **BKT most helped low prior-knowledge students.** Low-prior-knowledge students in the BKT condition significantly outperformed their Control counterparts (β = 9.4, p = .001), and BKT narrowed the pre-to-post achievement gap by the largest margin (77.1%, from 23.8 to 5.4).
+3. **DRL most helped high prior-knowledge students.** Students in High-DRL scored significantly higher than High-Control (β = 6.81, p = .008), while High-BKT did not significantly differ from High-Control.
+4. **DRL overwhelmingly preferred active Guided examples.** The DRL policy assigned ~60% Guided, 35% PS, and only 4% Buggy training problems — a distribution significantly different from both Control and BKT — while its reward function optimized for both learning and time efficiency.
+5. **Adaptive policies were more time-efficient.** BKT students completed posttest problems significantly faster than Control (10.8 vs 11.8 min), and DRL produced marginally more optimal (fewer-step) solutions.
+
+## Background: cognitive engagement, ICAP, and adaptive scaffolding
+
+Effective [[scaffolding]] in [[intelligent-tutoring|intelligent tutoring systems]] depends on learners' [[student-engagement|cognitive engagement]]. The [[icap-framework|ICAP framework]] organizes engagement into four hierarchical modes — Passive, Active, Constructive, and Interactive — in order of increasing engagement and learning, providing a theoretically grounded foundation for designing scaffolding that varies the type of cognitive activity a student performs. Prior work shows consistent learning improvements with increased engagement, but higher engagement levels may demand more prior knowledge or additional scaffolding.
+
+Intelligent tutors commonly use [[problem-based-learning|problem solving (PS)]], where students construct solutions independently, or worked examples, where tutors present step-by-step solutions. While worked examples reduce cognitive load for novices, detailed guidance becomes redundant as expertise develops — the expertise reversal effect — so more cognitively engaging activities benefit high-expertise students while explicit guidance helps low-expertise students. This motivates the central question of the paper: can learning be optimized by *adaptively* scaffolding cognitive engagement based on evolving student knowledge?
+
+The authors draw on two data-driven approaches to [[personalized-learning|personalize]] this choice. [[knowledge-tracing|Bayesian Knowledge Tracing (BKT)]], a foundational [[student-modeling]] approach, estimates rule-level mastery from observed performance and is widely used to guide [[instructional-design|instructional decisions]]. Deep [[reinforcement-learning|Reinforcement Learning (DRL)]], by contrast, induces pedagogical policies by optimizing a reward signal, capturing complex temporal dependencies in [[adaptive-learning|adaptive environments]] at the cost of interpretability.
+
+## Method
+
+**Tutor.** The tutor is deployed in an undergraduate discrete-math course where students build multi-step propositional-logic proofs in a three-panel interface (workspace, domain-rule buttons, instructions). Students complete an introduction, a pretest, five training levels (levels 2–6, each with four problems, the last a level-end test), and a challenging posttest with isomorphic and transfer problems. Problem scores are composites (0–100) of rule accuracy, solution length, and completion time, and normalized learning gain is computed from pretest and posttest averages.
+
+**ICAP-inspired problem types.** Three problem representations operationalize the ICAP modes. Problem Solving (PS) — independently deriving all proof steps — is treated as the interactive level, since students receive explicit stepwise accuracy feedback and can request hints. Guided worked examples present partially completed solutions organized into meaningful subgoals (following Renkl), requiring students to complete missing justifications and representing *active* engagement. Buggy worked examples present solutions with expert-inserted errors that students must identify and correct, representing *constructive* engagement.
+
+**Adaptive policies.** The BKT-based heuristic routes lower-mastery students to Guided examples (step-by-step scaffolding) and higher-mastery students to Buggy examples (greater cognitive demand), comparing rule-specific mastery scores against thresholds computed from 721 prior students. The DRL policy is an offline Double Deep Q-Network (DDQN) formalized as a Markov Decision Process over a 74-dimensional state (mastery, temporal, and help-seeking features), with actions Buggy/Guided/PS and a reward `TestScore · (1 − ProblemTime)` that jointly optimizes learning and time efficiency; it was trained offline on 1,570 transitions from 103 prior students.
+
+**Experiment.** In a controlled between-subjects classroom study (N = 113), students were assigned to Control (random problem type), BKT, or DRL after completing the pretest, using stratified random sampling. Analysis restricted to students completing all seven levels (36 Control, 35 BKT, 42 DRL). Because data were non-normal, the authors used mixed-effect regression plus non-parametric tests (Kruskal-Wallis, Mann-Whitney with Bonferroni correction) and probability-based effect sizes.
+
+## Results
+
+**RQ1 — Scaffolding distribution and time.** Total time on task was comparable across conditions (~5 hours). The DRL group's problem-type distribution differed significantly from both Control and BKT (p < .001): 35% PS, 4% Buggy, 60% Guided. Control and BKT did not differ significantly, each mixing roughly 29–44% PS, 31–33% Buggy, and 25–27% Guided.
+
+**RQ2 — Learning outcomes.** There were no pretest differences across conditions (means ≈ 68–71). Mixed-effect regression on posttest scores (problem ID as random intercept) showed a significant effect of condition (p < .001): both BKT (A = .58, p = .005) and DRL (A = .58, p = .002) significantly outperformed Control, with no significant difference between the two adaptive policies. BKT students were significantly faster on posttest problems, and DRL yielded marginally more optimal solutions; rule accuracy did not differ across groups.
+
+**RQ3 — Effects by prior knowledge.** Using a median split into High/Low prior-knowledge subgroups, Low-BKT students significantly outperformed Low-Control (β = 9.4, p = .001), while Low-DRL showed only a marginal increase (β = 4.8, p = .08). Within the High group, High-DRL significantly beat High-Control (β = 6.81, p = .008). Interaction terms were non-significant, indicating the adaptive advantage did not differ significantly by prior knowledge. All conditions narrowed the achievement gap, but BKT achieved the largest reduction (77.1%), largely because the Control condition failed to improve low prior-knowledge students.
+
+## Implications
+
+The findings demonstrate that varying the *type* of [[student-engagement|cognitive engagement]] through different problem representations can be an effective [[adaptive-learning|adaptive]] [[scaffolding]] strategy, with the [[icap-framework|ICAP framework]] supplying a principled basis for designing such adaptations. That BKT and DRL achieved comparable overall gains while adopting very different policies suggests the benefit may reside in adaptation itself rather than the specific algorithm — but the divergence raises design questions. DRL's strong preference for active (Guided) engagement over constructive (Buggy) and interactive (PS) modes, despite equivalent outcomes, questions when the cognitive cost of constructive or interactive engagement is worth it; the authors note that constructive and interactive activities may promote deeper, more [[transfer-of-learning|transferable]] learning that their time-weighted reward did not capture, potentially representing a missed pedagogical opportunity. For [[intelligent-tutoring|tutoring]] and [[instructional-design]] practice, BKT's interpretable mastery estimates let teachers and learners understand why a particular scaffolding type was chosen, whereas DRL's learned policy is opaque — an interpretability gap worth weighing in settings where system decisions should be explainable. In [[student-modeling]] and policy-induction research, the study supports treating engagement level as a legitimate, adaptive intervention dimension rather than a fixed pedagogical choice.
+
+## Limitations
+
+The DRL policy was trained on data from a single semester and may not generalize across learner populations, and the interventions were implemented in only one tutor, so results should be replicated in other problem-solving domains (science, math, programming). Although Guided and Buggy examples were designed to elicit active and constructive engagement, the actual cognitive effort and students' perceived difficulty of each example type remain under-characterized, and perceived difficulty may diverge from objective cognitive demands. The authors call for future work on adaptive methods that reward engagement or productive struggle rather than performance alone, and on whether constructive engagement yields benefits beyond immediate posttest performance.
+
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[formative-assessment]]
+- [[icap-framework]]
+- [[instructional-design]]
+- [[intelligent-tutoring]]
+- [[knowledge-tracing]]
+- [[learning-gains]]
+- [[personalized-learning]]
+- [[reinforcement-learning]]
+- [[scaffolding]]
+- [[student-engagement]]
+- [[student-modeling]]
+
+## Connected Articles
+
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred Scaffolding in AI-Assisted Mathematical Modelling
+- [[pedagogical-safety-rl]] — Pedagogical Safety in Reinforcement Learning for Tutoring
+- [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Student Engagement
+
+## Citation
+
+Dey Tithi, S., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., & Barnes, T. (2026). [Adaptive scaffolding for cognitive engagement in an intelligent tutoring system](https://arxiv.org/abs/2602.07308). arXiv preprint arXiv:2602.07308.
 
 ---
 
@@ -20017,6 +20155,90 @@ Nourashrafi, F. K., Alavinia, P., & Darvishi, S. (2026). [*AI-Generated versus H
 
 ---
 
+## [The AI Writes the Code, the Student Writes the Model: A Theory and Measurement Programme for Learning by Construction with Generative AI](https://edtechdev.github.io/aied/articles/ai-writes-code-student-writes-model-2026/)
+
+> **Synthesis:** This theoretical paper develops **Code-to-Learn with Generative AI (CtL-GenAI)**, a framework for upper-secondary students (roughly fifteen to eighteen) who build software with generative AI and are meant to learn the *subject the software models* — physics, chemistry, a real problem — rather than to learn coding itself. Its organising claim is that the AI may write the code while the student must write the model. To make that slogan testable, the paper defines a **model authorship** construct (four facets × four ordered levels, with observable indicators and a partial-credit measurement model), partitions the outcome space into supported performance, unsupported performance and delayed transfer (defining the **assistance-removal gap**), recasts verification of AI output as a signal-detection problem (separating sensitivity from response criterion), audits twenty-four studies, and states six hypotheses with designs, measures and falsification criteria.
+
+## Key Findings
+
+1. **The performance–learning dissociation.** Three recent randomised studies (Bastani et al., 2025; Fan et al., 2025; Liu et al., 2026) converge on the same shape: AI assistance raises measured performance while available, then lowers (or fails to raise) it once withdrawn — in mathematics, writing, and reasoning/reading, across roughly 2,300 participants. The manipulation that raises supported performance and lowers unsupported performance is a pattern the field has not named; the paper calls it the performance–learning dissociation.
+2. **The unit of analysis should be the task, not the tool.** Whether generative AI helps or harms learning turns on how the task is designed, since the same tool yields opposite outcomes under different task structures. The central prediction is a *moderation* of the assistance-removal gap by task design — not a main effect of the tool.
+3. **The field has been measuring the wrong outcome.** Across the twenty-four audited studies, the overwhelming majority measured performance while the AI remained available; one reported a transfer-oriented sub-measure; none reported performance after assistance was withdrawn. Most of the corpus therefore cannot in principle detect the dissociation.
+4. **Model authorship is a measurable construct.** Defined as the degree to which a learner, rather than the system, originates and retains responsibility for the domain-level content of an artifact, it has four facets (specification, conceptual model, verification, interpretation), four ordered levels (delegated, shepherded, co-constructed, authored) with observable indicators, and a specified partial-credit measurement model whose unidimensionality, cumulativity and invariance are refutable assumptions.
+
+## The performance–learning dissociation
+
+The paper opens from the phenomenon it is built against. Writing a small program is no longer a barrier for most students — a learner describes what they want and a large language model returns running code. Schools have responded mostly with permission rules, and the AI-literacy literature asks what students should understand about the systems. Neither tells a teacher how to arrange a lesson so that building with AI leaves the student knowing more physics or more about a local environmental problem.
+
+The empirical record has grown blunt about the risk. In a field experiment with nearly a thousand Turkish high-school mathematics students, access to a standard GPT interface raised practice performance sharply (a gain on the order of 48% relative to control) but left the same students about 17% worse on an exam taken without the tool; a guardrailed version removed the deficit without removing the benefit (Bastani et al., 2025). A randomised study of 117 university writers found the ChatGPT group improved essay scores most while gaining no more knowledge and transferring no better, a discrepancy the authors traced to bypassed metacognitive processes they named **metacognitive laziness** (Fan et al., 2025). A series of RCTs with 1,222 participants found assistance improved in-the-moment performance yet left people significantly worse and less persistent once it was withdrawn, with effects emerging after roughly ten minutes (Liu et al., 2026). Three populations, three domains, one shape: what a learner can do with the machine and what they can do afterwards have come apart.
+
+The paper is careful about what the dissociation does *not* show. It is a finding about particular assistance designs, not about generative AI as such — in each study a differently structured condition reduced or avoided it. Supported performance is not worthless: there are legitimate goals (motivation, access for students who would otherwise produce nothing, authentic participation in tool-mediated practice) for which performance with the tool is the right outcome; the error lies in reporting it and drawing conclusions about learning. And none of the three studies examined construction tasks of the kind this framework addresses, where the artifact is a model of something and the learning target lies in the domain rather than in the artifact.
+
+## Theoretical foundations
+
+The framework rests on six theories, each introduced with the specific design question it answers and the prediction it licenses — rather than cited decoratively. [[constructivist|Constructionism]] (Papert) supplies the premise that understanding is built most robustly when learners make something public and personally meaningful, and answers why students should write code rather than converse with a chatbot; generative AI changes the economics of construction by lowering entry cost, provided construction stays with the learner. **Productive failure** (Kapur) provides the warrant for placing specification before prompting — a meta-analysis of 166 experimental comparisons (Sinha & Kapur, 2021) found problem-solving-before-instruction outperformed instruction-first designs on conceptual understanding and transfer (mean d = 0.36), and the number of distinct solutions a learner generates predicts learning. [[cognitive-offloading|Cognitive load theory]] yields a sorting rule — *delegate the incidental, protect the essential* — since offloading syntax frees working memory while offloading the processing that constitutes learning is corrosive; the author deliberately avoids quantifying load numerically because the intrinsic–extraneous–germane partition has proved hard to measure. [[self-regulated-learning|Self-regulated learning]] and [[metacognition|metacognitive monitoring]] frame prompting, judging output and deciding to revise as forethought, monitoring and reflection, with the key mechanism plausibly monitoring *accuracy* rather than motivation: fluent, well-formed output invites learners to mistake processing ease for comprehension. The [[self-regulated-learning|ICAP model]] (Chi & Wylie) ranks engagement from passive through active, constructive to interactive, giving a vocabulary for the difference between copying AI output unchanged and critiquing or arguing with the model. Finally, [[scaffolding|scaffolding theory]] (Vygotsky's zone of proximal development, Wood, Bruner & Ross) frames the AI as a more capable partner whose help must be calibrated and withdrawn — support that never recedes produces dependence rather than competence — and the [[assessment|evaluative judgement]] literature names what fading is meant to leave behind: the capability to make decisions about the quality of work against standards.
+
+The synthesis states the organising principle: *the AI writes the code, the student writes the model.* Writing the model means retaining the specification, the conceptual structure, the verification against the world, and the interpretation of results. Constructionism explains why retaining authorship matters, productive failure why specification precedes the artifact, cognitive load theory which parts are safe to delegate, SRL and ICAP how to keep the learner cognitively active and why fluent output threatens that, and evaluative judgement plus scaffolding why the AI's contribution must shrink over time.
+
+## Model authorship and the measurement model
+
+Model authorship is defined deliberately narrowly in two respects. It concerns *domain-level* content — a student who writes every line of code while holding no view about the physics scores low — and it is a property of a *particular artifact and task* (an episode of work), not a trait of a person, which distinguishes it from dispositional constructs like AI self-efficacy or trust in automation and from Molenaar's (2022) automation levels, which characterise the configuration of an environment rather than the content of a learner's contribution within it. The four facets are specification, conceptual model, verification, and interpretation, each scored on four ordered levels — delegated, shepherded, co-constructed, authored — where the level names inherit vocabulary from Prather et al. (2023), and each cell carries an observable indicator. Level 3 (authored) requires a verifiable specification that precedes and constrains the first prompt, rejection of output on domain grounds with a stated reason, and interpretation that goes beyond the artifact's own report of itself.
+
+The paper confronts the framework's most obvious vulnerability head-on: is a natural-language specification really modelling? The objection is that the value of programming in the constructionist tradition is bound up with the unforgiving nature of the machine — a sentence can be vague in ways an executable program cannot. The answer has three parts: the specification must be verifiable (it must generate a prediction) rather than merely descriptive; the confrontation with precision is relocated, not removed, from compile-time to a validation phase where a prediction meets the artifact's behaviour; and, empirically, comprehension does not in fact arrive with the natural-language framing — novices explaining LLM-generated code succeeded on roughly a third of tasks, with [[generative-ai|automation bias]] among the causes (Nguyen et al., 2025). This both supports the framework's insistence on glass-box prompting and verification and sets a real limit, treated as a boundary condition.
+
+Treating each facet as a polytomous item, the natural measurement model is Masters' (1982) partial credit model, and specifying it makes three assumptions explicitly refutable: **unidimensionality** (the facets claim to measure one thing — a principal-components analysis of residuals could split authoring facets from evaluating facets, refining rather than destroying the framework), **cumulativity** (the four levels are ordered — checked via ordered thresholds or Mokken scalability, H ≥ 0.30 weak, H ≥ 0.50 strong), and **invariance** across domains and tasks (via differential item functioning). Reliable person estimates require multiple tasks (three tasks per learner give twelve observations), coding from at least three sources by two raters on ≥20% of cases with a target weighted kappa ≥ 0.70, or else a sum-score composite from 0 to 12 with the caveat that its assumptions are then untested.
+
+## The outcome space and the assistance-removal gap
+
+The paper formalises the outcome the field has been conflating. Domain competence is assessed under three regimes: supported performance (with the AI available), unsupported performance (an equivalent assessment immediately after, without the AI), and delayed transfer (related but non-identical problems after at least two weeks, without the AI). The **assistance-removal gap** is their difference, expressed in a common standardised metric — a quantity the literature has almost never reported because the two terms are rarely both collected. Three claims follow precisely: the dissociation is a *sign pattern* (positive effect on supported performance, null or negative on unsupported) that reporting a single coefficient makes undetectable; the central prediction is that the gap decreases as model authorship increases — an interaction between design condition and assessment regime, not a main effect; and the direction matters, because the gap could in principle be reduced by depressing supported performance, whereas the framework predicts it is reduced from below (by raising unsupported performance and delayed transfer). Estimation uses a mixed model with regime as a within-subject factor and design condition between-subject, with counterbalanced, equivalent assessment forms, pre-test as covariate, and classroom as a random intercept.
+
+## Verification as a signal-detection problem
+
+The framework's fourth principle asks students to judge whether an artifact is correct on domain grounds, which is formally a detection task: over a series of outputs, some flawed, the learner accepts or rejects, and sensitivity (d′) measures the ability to discriminate correct from flawed output while the criterion (c) measures where the learner sets the threshold for rejection, independently. The decomposition resolves several things at once. It separates two phenomena the literature runs together: **over-reliance** factors into a discrimination problem (d′ near zero — the learner genuinely cannot tell) and a criterion problem (d′ adequate but the learner accepts anyway), which have different remedies — exhortations, checklists and hallucination warnings shift c, while domain instruction, worked comparisons and seeded-error practice raise d′. It gives a precise reading of the prior-knowledge boundary: verification instruction is only educative where d′ can exceed zero, which requires the learner already to command enough of the domain to distinguish correct from incorrect output — below that threshold the Validate phase degenerates into criterion-setting and the framework should not be expected to work. And it connects the framework to the appropriate-reliance literature without importing its ambiguity: sensitivity and criterion are exactly the two parameters appropriate reliance requires, and trust measures do not deliver them. Appendix C supplies a seeded-error verification task (twenty items, eight containing a domain-level error) suitable for estimating both parameters in a classroom.
+
+## Design principles, the cycle, and the evidence audit
+
+Six design principles operationalise the mechanism: *problem or concept first* (every artifact serves a prior question — "build an app" is never the task); *student as specifier* (the learner articulates the logic in their own words, in a form from which a prediction can be derived, before any code — with the solution-count finding making more than one candidate specification a dosage variable); *glass-box prompting* (prompts require explanation as well as code, enforced because self-explanation cannot be assumed); *verify against the world* (the artifact is judged by domain criteria rather than by whether it runs); *productive friction* (reserve moments where the AI is withheld — predict before you run, change a parameter by hand, form a hypothesis about a bug — which is especially valuable in physics where fast intuitive heuristics override knowledge); and *scaffold fading and reflection* (AI support is reduced across a unit, with each cycle closing in structured reflection on what the learner did, the AI did, and what is now understood). These are enacted through an iterative five-phase cycle — Frame, Specify, Co-construct, Validate, Reflect and Share — where validation routinely sends a class back to re-specify, and an [[self-regulated-learning|ICAP-based]] check lets teachers read engagement in the moment. A worked illustration uses a ninth-grade hydrangea-colour chemistry activity (Chen, 2025): the AI wrote the simulation code while the students held the chemistry and specified and verified the behaviour — Level 3 on the rubric — and a physics analogue makes the fading explicit across a unit on Newton's second law.
+
+The evidence audit of twenty-four studies (2021–2026, Scopus, integrative-review method with best-fit framework synthesis) is deliberately positioned as a gap-locating audit, not a systematic review: it searched a single database, excluded conference proceedings, screened single-author with twenty per cent double-screened, and conducted no formal quality appraisal — adequate for locating gaps, inadequate for estimating effects, so no pooled estimate is offered. Three findings emerge. First, the field has been measuring supported performance, and a large share of screened records concerned what the AI can produce rather than what students learn — the dominant research question has been about the tool. Second, the same tool yields opposite outcomes and task design decides which: a ChatGPT group with a conventional setup ended significantly lower in achievement, self-efficacy and flow (Yang, Hsu & Wu, 2025), while a different configuration with question-chain task sheets, verification requirements and error-reflection modules showed markedly higher engagement and stronger higher-order thinking (Zhang, Jiang, Xiong & Zhao, 2025), and a Socratic-constrained chatbot outperformed both a conventional ChatGPT interface and a no-chatbot control (Kholis et al., 2026). Third, where studies protected student cognition — prohibiting the AI from performing the algorithmic thinking, requiring causal self-explanation, externalising a plan before generating code — engagement and understanding rose; where assistance was unstructured, the shepherding and drifting that ICAP predicts will not produce learning appeared. The science strand is small but telling, showing the mechanism operating outside computer science: students whose engineering-design or physics-experiment projects were LLM-supported, with the AI mapped onto each practice while students retained the disciplinary reasoning, significantly outgained controls in scientific knowledge, computational thinking and problem-solving (Guo et al., 2025; Wang et al., 2026). The clearest instantiation of the whole cycle comes from engineering, where buggy AI-generated code became the occasion for elaboration and students reported feeling they were teaching the model — while learners without sufficient prior knowledge struggled to debug, marking the boundary (Vieira et al., 2025). Every design principle has a theoretical warrant and most have descriptive support, but the column that matters for distinguishing learning from supported performance is empty throughout; scaffold fading (Principle 6) is the least tested, with a single suggestive signal from a progressive mind-map condition.
+
+## Implications
+
+For [[assessment]], the paper's central implication is that if the AI can produce the artifact, the artifact cannot be the assessment. Evaluation relocates to the specification, the validation reasoning and the interpretation — precisely the facets the AI cannot supply on the student's behalf. This favours specification documents, predict-then-test records, oral defences and process portfolios over submitted code, and defuses much of the [[academic-integrity]] anxiety around generative AI because what is assessed is what could not have been delegated. The point is not abstract: a benchmark found generative AI answering secondary-level physics items at over eighty per cent accuracy while often sounding plausible when wrong (Yeadon & Hardy, 2024), so non-invigilated artifacts are both easy to fake and unsafe to trust, and the capability that protects a student is evaluative judgement rather than prohibition. Relocating assessment also changes what [[feedback]] can do — a specification, a prediction record and a validation log give a teacher the task/process/self-regulation surfaces that feedback is most effective on, which submitted code does not — and, because the authorship rubric is scored from materials classrooms already generate (specifications, interaction logs, short interviews), the same instrument serves as both formative assessment and a research measure.
+
+For [[curriculum-design]] and [[cs-education|computing education]] practice, the framework relocates the design problem from "how much AI to allow" to "which parts of a construction task must remain with the learner, and why," positioning programming as the medium through which a science concept or real problem is learned rather than an end in itself. It connects to [[computational-thinking]] (decomposition, abstraction, modelling, systematic debugging as the dispositions involved) and to [[teacher-role|teacher capacity]]: the framework reassigns the teacher from syntax instructor to designer of specification and validation, a more demanding role that requires professional learning, with [[inquiry-based-learning|prompt-engineering skill]] emerging as a precondition for adoption.
+
+For [[educational-measurement]] and [[theory-development-aied|theory development in AIED]], the paper's contribution is a measurement programme: a construct with facets, levels and a refutable partial-credit model; an outcome space that separates what a learner can do with the machine from what they can do without it; a detection-theoretic account of what verification builds and when it cannot; and six hypotheses (specification-before-prompting, dosage of specification, predict-before-run, fading and the assistance-removal gap, verification sensitivity and its prerequisite, and authorship predicting durable learning), each with designs, measures, competing explanations and explicit falsification criteria. Five boundary conditions are stated as part of the theory rather than caveats about it: domains must furnish an external criterion (physics, chemistry, ecology and epidemiology supply one; history, literature and ethics largely do not); prior domain knowledge must let d′ exceed zero; the fifteen-to-eighteen age range is best read as a statement about required scaffolding rather than capability; access to devices must be reliable or the framework can widen gaps; and teacher capacity is an assumption rather than a demonstrated result. As a theoretical proposal, none of its six hypotheses has yet been tested in the form stated, and the measurement model is specified but not yet calibrated.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[constructivist]]
+- [[computational-thinking]]
+- [[self-regulated-learning]]
+- [[assessment]]
+- [[educational-measurement]]
+- [[curriculum-design]]
+- [[scaffolding]]
+- [[metacognition]]
+- [[theory-development-aied]]
+- [[cs-education]]
+- [[feedback]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[competency-based-education-genai-production-2026]] — Knowledge, skills, attitudes, production: competency-based education after generative AI
+- [[ai-assessment-scale-reform]] — AI assessment scale reform
+- [[agency-gap-ai-writing]] — The agency gap in AI writing
+- [[pchl-he-framework-genai-content-creation-2026]] — A framework for generative AI content creation in higher education
+
+## Citation
+
+Gousopoulos, D. (2026). [*The AI writes the code, the student writes the model: A theory and measurement programme for learning by construction with generative AI*](https://doi.org/10.20944/preprints202608.0072.v1). Preprints.org.
+
+---
+
 ## [From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership](https://edtechdev.github.io/aied/articles/ai-writing-support-stage-ownership-2026/)
 
 # AI Writing Support and Ownership by Stage
@@ -20889,6 +21111,79 @@ Mikael Gorsky (2026). [ASE-26: A Curriculum for Agentic Software Engineering as 
 ## Citation
 
 Isley, C., Gilbert, J., Kassos, E., Kocher, M., Nie, A., Brunskill, E., Domingue, B., Hofman, J., Legewie, J., Svoronos, T., Tuminelli, C., & Goel, S. (2025). [*Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study*](https://arxiv.org/abs/2508.08314). arXiv:2508.08314 [cs.CY]. https://doi.org/10.48550/arXiv.2508.08314
+
+---
+
+## [Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI](https://edtechdev.github.io/aied/articles/assessing-student-drive-framework-2025/)
+
+> **Synthesis:** Oliveira, Zednik, Bombaerts, Sadowski and Conijn (2025) propose DRIVE (Directive Reasoning Interaction and Visible Expertise), a conceptual framework and practice-oriented taxonomy for [[assessment|evaluating]] student learning from their interactions with [[generative-ai|generative AI]] chatbots in authentic, high-stakes classroom writing. Because the final essay is an increasingly ambiguous signal of learning when GenAI can produce indistinguishable text, the framework shifts assessment focus from the final product to the observable learning process — specifically how students steer the dialogue (Directive Reasoning Interaction, DRI) and how they make acquired course knowledge visible within it (Visible Expertise, VE). In a multi-methods analysis of 1,450 annotated GenAI interactions from 70 graded essays across three STEM philosophy and ethics courses, process-focused interaction-quality scores correlated strongly with traditional essay scores (r = 0.54), validating the approach, and the taxonomy revealed distinct interaction profiles — a "targeted improvement partnership" behind high essay scores, a "collaborative intellectual partnership" behind high interaction scores, and "basic information retrieval"/"passive task delegation" profiles behind below-average performance. The findings demonstrate how the choice of assessment method (output vs. process focus) shapes and rewards different types of student engagement with AI.
+
+## Key Findings
+
+**DRIVE defines two assessable components of learning.** Directive Reasoning Interaction (DRI) captures how actively and purposefully a student steers the interaction with AI — strategic steering, critical questioning of AI output, and taking a leading role in the human–machine dialogue — grounded in heutagogy, the ICAP cognitive-engagement hierarchy, and "active human agency." Visible Expertise (VE) captures the extent to which a student makes acquired, course-specific knowledge visible in the dialogue, resonating with Harvard Project Zero's "Making Thinking Visible" and research linking insightful questioning to expertise. It is the combination of high DRI and high VE, with both defined against an educator's specific learning objectives, that makes the learning process and critical thinking assessable.
+
+**Process-focused assessment is empirically validated.** Across 70 annotated essays, the GenAI interaction-quality score correlated strongly and positively with traditional essay scores (Pearson r = 0.54, 95% CI [0.34, 0.68], p < .001; Spearman rho = 0.54, p < .001), providing initial evidence that analyzing the interaction process is a valid approach to assessing learning in [[higher-ed|higher education]] and that simply using GenAI was not itself associated with essay performance (no significant essay-score difference between AI users and non-users).
+
+**Distinct GenAI interaction profiles emerge.** High essay scores were linked to a "targeted improvement partnership" focused on systematic text refinement (Writing_Improve), critical engagement with AI content (Content_Critical), and relating concepts (Argument_Relate). High interaction scores were linked to a "collaborative intellectual partnership" centered on idea development — conceptual clarity, relating concepts, and bringing original ideas to the AI (Content_Idea). Below-average scores were associated with "basic information retrieval" (Content_Research, Content_Example) and "passive task delegation" (Writing_Instructions, Writing_Summarize, Writing_AutoComplete), where students outsourced cognitive work rather than collaborating.
+
+**Assessment method shapes and rewards GenAI usage.** Confidence-interval overlap was high (21 of 22 classifications agreed), but paired comparisons revealed systematic differences: process-focused evaluation rewarded conceptualization-related work (Argument_ConceptualClarity, Content_Idea) and flexible prompting, while output-focused essay evaluation relatively preferred structured task specification (Writing_Instructions) and compensatory information-seeking (Content_Research). Traditional assessment can reinforce text optimization, whereas process-focused evaluation may reward an exploratory intellectual partnership with AI.
+
+**A practice-oriented taxonomy operationalizes the framework.** A 35-subcategory taxonomy (13 Writing, 10 Content, 12 Argument) was developed through iterative Design-Based Research by teachers and teaching assistants, with moderate average inter-rater agreement (Cohen's κ = 0.44). Writing interactions dominated (41.3%), followed by Content (28.7%) and Argument (22.3%). The taxonomy gives educators a concrete, tool-agnostic analytical instrument for detecting evidence of learning in student-GenAI dialogue.
+
+## The DRIVE framework
+
+The emergence of [[generative-ai|generative AI]] in [[higher-ed|higher education]] has fundamentally disrupted traditional [[assessment]], especially in academic writing, where AI can produce text increasingly indistinguishable from human work. When the final product no longer provides a clear signal of a student's knowledge or skills, conventional output-focused assessment becomes an unreliable measure of learning, and the focus must shift to the learning process itself. Analyzing the dialogue between a student and a GenAI system provides a more transparent record of that process, allowing educators to observe both how students actively steer the AI (evidence of directive reasoning) and how they make acquired domain-specific knowledge visible through how they deploy it in these interactions.
+
+DRIVE was developed using an approach aligned with Design-Based Research principles, working in a setting with high ecological validity: university courses where students used GenAI to complete graded assignments and submitted their interaction logs as a formally assessed component. The initial impetus came from teachers who, during early ungraded experiments, recognized the need for a structured method to move beyond intuitive judgments when analyzing student learning in chatbot interaction logs. The framework is deliberately flexible: what counts as high-quality DRI and VE is not universal but is defined by an educator's specific learning objectives, positioning the educator's pedagogical goals as the ultimate benchmark for what counts as meaningful evidence of learning in a student-GenAI interaction.
+
+DRI is grounded in long-standing educational theory — heutagogy (self-determined learning), constructivism, and the ICAP framework, which differentiates cognitive engagement from passive reception through to constructive and interactive engagement. A high DRI profile reflects "active human agency," serving as a cognitive safeguard against automation bias and the skill atrophy associated with [[cognitive-offloading]], through which a person reduces cognitive effort by delegating a task to AI. VE, in turn, is grounded in the idea that thinking must be made observable to be understood, directed, and assessed; a prompt can signal the nature of the asker's knowledge structure, since more knowledgeable individuals are better able to identify gaps in information and formulate the specific questions needed to fill them. This visibility offers a window into the student's learning process and is essential for accountability and [[trust]] in the classroom.
+
+## The interaction taxonomy
+
+To operationalize DRI and VE and systematically analyze interactions, the authors developed a detailed interaction taxonomy with three main categories aligned with argumentative writing theory (Toulmin; Wingate): **Writing** (mechanical and structural aspects of composition), **Content** (knowledge construction and understanding, with emphasis on course-specific material), and **Argument** (logical and analytical aspects of writing). The taxonomy was built through an iterative, practitioner-led process combining a top-down component based on pedagogical goals with a bottom-up analysis of actual student-GenAI interaction logs, yielding 35 subcategories. Annotators classified each student prompt with the best-fitting taxonomy item(s); interactions fitting more than one category were labeled "Mixed."
+
+The taxonomy serves as the analytical tool for classifying the specific prompts that, viewed holistically, provide evidence of a student's DRI and VE profile. It is designed to be tool-agnostic: the evaluation focuses on the quality and nature of the students' prompts as indicators of their learning and agency, independent of the specific capabilities of the AI model. This addresses a core challenge in [[assessment]] with GenAI — the need to distinguish between general [[ai-literacy]] and domain-specific learning — by evaluating whether the content of a student's prompts reveals their unique, acquired knowledge of course material, which is critical for [[authentic-assessment]].
+
+## Study design and method
+
+The study was conducted at a STEM university across three Bachelor's or Master's level courses on philosophy and ethics during the 2023–2024 and 2024–2025 academic years. Of 445 enrolled students, 103 (23.2%) chose to use GenAI under the condition that they submit their interaction logs for assessment; a subset of 70 essays and their corresponding interaction logs were annotated, yielding 1,450 annotated prompts. ChatGPT was the most common tool (68.6%). Student performance was assessed using two measures: a traditional output-focused essay score and a novel process-focused GenAI interaction-quality score, both standardized into z-scores within each course. A grading policy specified that the final grade for GenAI users was a weighted average (2/3 essay, 1/3 interaction).
+
+Inter-grader reliability was high, with low weighted mean absolute deviation (Weighted MADs = 0.035 for essays, 0.209 for interactions). Notably, teachers observed a marked decrease in students willingly adopting GenAI after they began formally grading interactions — students may have perceived the traditional essay-only path as less demanding or lower risk. The interaction-quality rubric integrated three criteria — "AI for Writing," "AI for Argumentation," and "AI for Course Content" — aligned with the taxonomy and linking to the DRIVE framework by focusing on agentic cognitive engagement (DRI) and visible knowledge integration (VE). This design situates the work within the broader program of [[learning-analytics]], using process data (interaction logs) as evidence of learning, and connects to [[educational-measurement]] by demonstrating how a novel process-focused measure can be validated against an established learning outcome.
+
+## Interaction profiles and what they reward
+
+The taxonomy descriptives revealed that most interactions clustered around average mastery — 77% of essay classifications and 82% of interaction classifications were average — underscoring that only a few specific prompting strategies are connected with very high and very low quality on each measure. High essay mastery was characterized by a "targeted improvement partnership": students engaged GenAI as a tool to systematically refine their own input work through critical evaluation and conceptual integration rather than seeking comprehensive assistance. High interaction mastery was characterized by a "collaborative intellectual partnership": students engaged GenAI as an intellectual collaborator, bringing original, well-motivated ideas (Content_Idea), seeking conceptual clarity, and critically evaluating AI outputs. By contrast, below-average essay mastery showed a "basic information retrieval" profile (asking the AI to define ideas, find related concepts, or supply examples), and below-average interaction mastery showed a "passive task delegation" profile (specifying tasks by copy-pasting assignment instructions, asking the AI to summarize or auto-complete) — behaviors that outsource cognitive work and show minimal DRI and VE.
+
+The systematic, though modest, differences between assessment methods highlight that each approach offers a particular perspective from which to evaluate student work. Because the focus of the assessment — grading the process (interaction log) or the product (essay) — can interact with the writing task to shape what types of GenAI interactions are ultimately recognized and rewarded, the findings connect to ongoing discussions in [[formative-assessment]] and assessment in technology-enhanced learning. The framework also offers a granular lens on the "performance versus learning" paradox, distinguishing interactions that primarily leverage AI for a high-quality output from those showing the student actively thinking with and through the tool. This is directly relevant to [[academic-integrity]] conversations: by making the student's intellectual contribution visible within the interaction, process-focused assessment provides a more transparent basis for attributing work than the ambiguous final product alone.
+
+## Implications
+
+For educators in writing-intensive courses where GenAI use is permitted, the findings suggest that combining traditional writing assessment with interaction-log evaluation captures complementary aspects of student work: traditional assessment identified strengths in text refinement and conceptual integration, while interaction-log evaluation revealed critical-thinking processes and sophisticated AI-collaboration strategies not always evident in the final text. Teachers designing assessments for AI-integrated writing should consider how the evaluation focus shapes and rewards different GenAI-usage patterns, and AI-related grading rubrics should distinguish between different types of interaction patterns based on course learning goals, recognizing that exploratory, conceptual development is rewarded by process-focused evaluation even when it does not directly raise output quality. Because the adoption rate dropped when interactions became a graded component, understanding student perspectives about process-focused assessment is valuable before implementation. While automated classification may eventually assist with log evaluation, human oversight remains essential for accurately assessing sophisticated collaboration — a caution relevant to [[learning-analytics]] pipelines. The framework positions the educator's pedagogical goals as the benchmark for meaningful learning evidence, offering a practical design for [[authentic-assessment]] that captures learning in AI-integrated classrooms.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[learning-analytics]]
+- [[authentic-assessment]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[higher-ed]]
+- [[trust]]
+- [[educational-measurement]]
+- [[formative-assessment]]
+- [[ai-literacy]]
+- [[academic-integrity]]
+
+## Connected Articles
+
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — Authentic AI-assisted assessment and metacognition
+- [[agency-gap-ai-writing]] — Student agency in AI-assisted writing
+- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
+
+## Citation
+
+Oliveira, M., Zednik, C., Bombaerts, G., Sadowski, B., & Conijn, R. (2025). [*Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI*](https://doi.org/10.1016/j.caeai.2025.100497). *Computers and Education: AI*, 9, 100497.
 
 ---
 
@@ -24544,6 +24839,75 @@ Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026). [
 
 ---
 
+## [Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education](https://edtechdev.github.io/aied/articles/code-to-learn-genai-artifact-construction-2026/)
+
+> **Synthesis.** Gousopoulos (2026) proposes Code-to-Learn with Generative AI (CtL-GenAI), a conceptual framework for upper-secondary students aged roughly 15 to 18 who build software with AI to learn a domain (physics, environmental science) rather than to learn programming itself. It deliberately synthesises [[constructivist|constructionism]], cognitive load theory, [[self-regulated-learning|self-regulated learning]], the ICAP model of cognitive engagement, and sociocultural [[scaffolding]]. Its organising claim is that *the AI writes the code, but the student writes the model* — the student retains authorship of the specification, the conceptual structure, verification against the world, and interpretation of results, while delegating only syntax and boilerplate. This is operationalised as six design principles and a five-phase instructional cycle (Frame, Specify, Co-construct, Validate, Reflect and Share), with an ICAP-based diagnostic for classifying student–AI interaction.
+
+## Key Findings
+
+1. Existing policy, [[ai-education|AI-literacy]], and computing-education frameworks tell schools *how much* AI to allow, *what* to know about AI, or *how* AI affects learning to program — but none tells a science or technology teacher how to design a single task in which a student builds software with AI and learns the domain. CtL-GenAI occupies that gap.
+2. Five theories converge on one mechanism: constructionism justifies why building matters, cognitive load theory specifies which parts are safe to delegate (incidental/syntax) and which must be protected (germane), [[self-regulated-learning|self-regulated learning]] and ICAP explain how to keep the learner cognitively active, and [[scaffolding]] explains why AI support must fade over time.
+3. The framework yields six design principles — Problem or Concept First, Student as Specifier, Glass-Box Prompting, Verify Against the World, Productive Friction, and Scaffold Fading and Reflection — enacted through a five-phase cycle where Specify and Validate carry most of the conceptual (germane) load.
+4. When the AI can produce the artifact, the artifact cannot be the assessment: evaluation relocates to the specification, the validation reasoning, and the reflection — evidence of the student's model rather than the product — which also defuses academic-integrity anxiety.
+
+## The Framing Problem: From Prohibiting AI to Designing With It
+
+The paper opens by rejecting the dominant question — whether students may use AI in school — in favour of a design question: how a lesson can be arranged so that building something with AI leaves the student knowing more physics, or more about a local problem, than before. This framing is motivated by field evidence that unguarded AI access raises short-term performance but leaves learners worse off once the tool is withdrawn (the "crutch effect" of Bastani et al., 2025), alongside studies of novice programmers showing faster completion but signs of over-reliance and weaker transfer without the tool. The author's argument is that AI neither inherently helps nor harms learning; whether it helps depends almost entirely on how the activity around it is designed — and this is true for [[k-12|K–12]] students learning a subject through [[generative-ai|GenAI]]-assisted construction, a group distinct from the computer-science students on whom the "vibe coding" literature has concentrated.
+
+## Theoretical Foundations
+
+The framework grounds each design decision in a specific theory rather than citing theories decoratively:
+
+- **[[constructivist|Constructionism]]** answers why students build code at all: understanding is constructed most robustly when learners make something public and personally meaningful (Papert, 1980). GenAI changes the economics of construction by lowering the entry cost, but the artifact teaches only to the extent the learner retains authorship of the underlying model.
+- **Cognitive load theory** distinguishes intrinsic, extraneous, and germane load, yielding a sorting rule — *delegate the incidental, protect the germane*. Offloading syntax frees working memory, but offloading the processing that constitutes learning is corrosive.
+- **[[self-regulated-learning|Self-regulated learning]]** frames prompting, judging output adequacy, and revising as acts of forethought, monitoring, and reflection — making AI-assisted tasks a natural site for self-regulation, but only if metacognitive support is designed in.
+- **The ICAP framework** provides a precise vocabulary to rank cognitive engagement from passive (copying output) through active and constructive to interactive (critiquing, generating alternatives, arguing with the model), with observable indicators teachers can use in the moment.
+- **[[scaffolding]] and the zone of proximal development** frame the AI as a more-capable partner whose help is calibrated and, crucially, withdrawn — the theoretical answer to the crutch effect, treating fading as a design requirement rather than an afterthought.
+
+## The CtL-GenAI Framework
+
+The framework has three layers: the theoretical synthesis and its central mechanism; six design principles; and a five-phase instructional cycle. The organising mechanism is a functional division of labour — the AI may generate syntax, boilerplate, and translate a specification into a running program, while the student must own four things: state the specification in their own terms, hold the conceptual model (equations, rules, causal story), verify the artifact against domain knowledge, and interpret the result.
+
+**Six design principles:**
+
+1. **Problem or Concept First** — every artifact serves a prior real problem or curricular concept; "build an app" is never the task. This draws on constructionism and [[project-based-learning|problem-based learning]].
+2. **Student as Specifier** — the student articulates the logic in natural language (equations, rules, a labelled plan) before any code is requested, externalising the mental model so the germane work happens in the student.
+3. **Glass-Box Prompting** — prompts require explanation, not only code, drawing on the [[self-regulated-learning|self-explanation]] effect to resist the passivity ICAP warns against.
+4. **Verify Against the World** — the artifact is judged by domain criteria (does the body accelerate as Newton's second law predicts?), not by whether it runs, recruiting the monitoring phase of self-regulation.
+5. **Productive Friction** — the design deliberately withholds AI at reserved moments (predict before you run, change a parameter by hand), using desirable difficulties that improve retention and lift engagement from passive toward constructive. Prediction is especially valuable in physics, where intuitive heuristics override prior knowledge.
+6. **Scaffold Fading and Reflection** — AI support is reduced across a unit and each cycle closes with structured reflection (what did I do, what did the AI do, what do I now understand?).
+
+**The five-phase instructional cycle** — Frame, Specify, Co-construct, Validate, Reflect and Share — is iterative rather than strictly linear; validation routinely sends a class back to re-specify. Specify and Validate are the germane phases where AI is withheld; Co-construct is where the AI absorbs extraneous load while the student steers. Two worked scenarios (an environmental monitoring application in the problem-solving strand, and a simulation of Newton's laws in the concept-learning strand) show how the framework discriminates productive from unproductive AI use.
+
+## Implications
+
+The framework reassigns the teacher from syntax instructor to designer of specification and validation, a more demanding but more rewarding role that aligns with cognitive-apprenticeship accounts and the [[feedback]] literature. For assessment, since the AI can produce the artifact, evaluation relocates to the specification documents, predict-then-test records, oral defences, and process portfolios — precisely what the AI cannot supply. Boundary conditions are named explicitly: reliable access to tools is assumed (uneven access can widen equity gaps), the design targets ages 15–18 who can meet the self-regulatory demands of Specify and Validate, hallucinated code is caught only if students have enough domain knowledge to detect error, and the framework asks more of teachers, so without professional learning it risks degenerating into the unguided AI use shown to harm learning. The paper closes with four testable propositions (specify-first transfer, productive-friction conceptual gains, ICAP engagement predicting gains, and scaffold fading reducing post-removal performance drops) intended to seed empirical work.
+
+## Citation
+
+Gousopoulos, D. (2026). [*Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education*](https://doi.org/10.20944/preprints202606.1139.v1). Preprints.org. Preprint, not peer-reviewed.
+
+## Connected Concepts
+
+- [[constructivist]] — constructionism as the framework's foundation
+- [[self-regulated-learning]] — self-regulation in AI-assisted construction
+- [[icap-framework]] — engagement taxonomy ranking student–AI interaction
+- [[computational-thinking]] — thinking through model construction
+- [[scaffolding]] — fading AI support
+- [[generative-ai]] — the tool enabling artifact construction
+- [[cognitive-offloading]] — the over-reliance risk the framework counters
+- [[k-12]] — upper-secondary context
+- [[cs-education]] — computing-education context
+- [[curriculum-design]] — designing AI-infused lessons
+- [[assessment]] — relocating evaluation to process, not artifact
+
+## Connected Articles
+
+- [[ai-writes-code-student-writes-model-2026]] — Theory + measurement programme for model authorship with GenAI
+- [[competency-based-education-genai-production-2026]] — Production as a competency in the GenAI era
+
+---
+
 ## [Codify: An Intelligent Socratic Tutoring System for Programming Education](https://edtechdev.github.io/aied/articles/codify-socratic-programming-tutor/)
 
 # Codify: Socratic Programming Tutor
@@ -24684,6 +25048,87 @@ Initial deployment in programming courses showed promising results for student e
 ## Citation
 
 Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. [The International FLAIRS Conference Proceedings](https://doi.org/10.32473/flairs.39.1.141554), *39*(1). https://doi.org/10.32473/flairs.39.1.141554
+
+---
+
+## [CogEvolution: A Human-like Generative Educational Agent to Simulate Student's Cognitive Evolution](https://edtechdev.github.io/aied/articles/cogevolution-student-cognitive-evolution-agent-2026/)
+
+> Zhang et al. (2026) propose **CogEvolution**, a [[generative-ai|generative]] educational [[pedagogical-agent|agent]] that simulates a student's **cognitive evolution** rather than merely cloning observable behavior. It couples three components — an ICAP-based [[icap-framework|cognitive depth perceptron]] that quantifies cognitive engagement, an [[item-response-theory|IRT]]-driven memory retrieval module that simulates the assimilation of new and prior knowledge, and an evolutionary-algorithm state update mechanism constrained by the [[scaffolding|Zone of Proximal Development]] — to model the dynamic transition from "static persona" to "dynamic cognitive flow." On a new CogMath-948 dataset of 1,245 real eighth-grade students, CogEvolution outperforms static persona and [[knowledge-tracing]] baselines on behavioral fidelity and learning-curve fitting (R²LC = 0.92), reproduces plausible cognitive evolutionary paths consistent with educational psychology, and offers a more interpretable paradigm for [[simulating-students|student simulation]].
+
+The paper argues that existing educational agents rely on static personas that parametrically fit a snapshot of student ability, neglecting the dynamic fluidity of knowledge internalization, transfer, and cognitive state transitions that characterize real learning.
+
+## Key Findings
+
+1. **A paradigm shift from static persona to dynamic cognitive flow.** CogEvolution is presented as the first computational agent grounded in educational psychology that focuses on the dynamic evolution of cognitive states and cognitive paths during agent learning activity, moving beyond the [[simulating-students|behavioral cloning]] that dominates prior student simulation work.
+2. **ICAP-based cognitive depth perceptron quantifies learner engagement.** The agent's cognitive adapter maps interaction features to a probability distribution across the four [[icap-framework|ICAP]] levels (passive/active/constructive/interactive) and computes a weighted continuous Cognitive Evolution Rate that determines the step size of subsequent cognitive state updates.
+3. **IRT-driven memory retrieval models assimilation.** A hybrid [[item-response-theory|IRT]]-based structural similarity (the integral distance between Item Characteristic Curves near the learner's latent ability) combined with semantic similarity lets the agent retrieve prior knowledge to solve structurally similar problems or generate "confusion"/"exploration" states when prior knowledge is insufficient.
+4. **Evolutionary update mechanism simulates cognitive change.** Following a Mutation-Selection-Update paradigm, the LLM acts as a mutation operator generating cognitive hypotheses, a fitness function penalizes leaps or stagnation deviating from the [[scaffolding|Zone of Proximal Development]], and Differential Evolution integrates the winning hypothesis into the knowledge structure at the ICAP rate.
+5. **CogMath-948 and strong empirical results.** The new dataset (1,245 eighth-grade students over six months with cognitive state annotations) shows CogEvolution matching the KT-augmented PEERS baseline on AUC (0.80 vs 0.82) while far exceeding it and static agents on Mistake Precision (76.8%) and learning-curve fit (R²LC = 0.92).
+
+## The Cognitive Dynamics Disconnect
+
+CogEvolution responds to what the authors call the "Cognitive Dynamics Disconnect" in generative agents. Mainstream architectures (e.g., the SmallVille/Stanford Town paradigm of [[generative-ai|generative agents]]) model social behavior breadth but neglect the internal cognitive architectures driving it, and in education this surfaces as two failures: **Missing Cognitive Features** and **Cognitive Path Stagnation**. Current educational agents — whether base [[llm|LLMs]] used directly or LLMs combined with deep neural networks — fit a static parametric snapshot of ability, missing the essence of learning as a continuous reconstruction of cognitive schemas through assimilation and accommodation (Piaget). This connects to the wider [[simulating-students|validity concerns]] in the student-simulation literature about models that reproduce surface behavior without epistemic fidelity.
+
+## Architecture
+
+CogEvolution comprises three tightly coupled components: the **Cognitive Adapter** (a depth perceptron serving as the agent's perception entry point), the **IRT-Driven Memory Retrieval Module**, and the **Evolutionary Algorithm-Based Cognitive State Update Mechanism**. The agent maintains both a long-term stable Knowledge Structure and a transient Cognitive State, and outputs mastery-confidence probabilities to support downstream [[knowledge-tracing]]-style assessments such as AUC/RMSE.
+
+### Cognitive Adapter
+
+The adapter extracts multimodal features from interaction logs — cognitive-semantic features (via Sentence-BERT embeddings of reflections and explanations) and behavioral-operation features (interaction type, response latency). An attention-based hierarchical mapping projects these into a probability distribution over the four [[icap-framework|ICAP]] engagement levels, from which a weighted, continuous Cognitive Evolution Rate (with constructive engagement weighted higher, e.g., 1.5) is computed via a SoftPlus transform to allow smooth state transitions.
+
+### IRT-Driven Memory Retrieval
+
+The retrieval module simulates the psychological mechanism of "connecting new and old knowledge." It computes a hybrid similarity between the current question and each memory, combining semantic similarity with an [[item-response-theory|IRT]]-based structural similarity defined as the integral distance between Item Characteristic Curves near the learner's current ability. High structural similarity triggers retrieval of the old schema (stable cognitive state); low structural similarity with high perceived engagement generates a "confusion" or "exploration" state that triggers evolutionary updates — an explicit mechanism for [[cognitive-diagnosis|cognitive state]] and [[student-modeling|misconception]] reproduction.
+
+### Evolutionary Cognitive State Update
+
+Treating the current knowledge structure as the parent individual, the system triggers mutation when cognitive conflict is perceived, using the [[llm|LLM]] as a mutation operator to generate candidate hypotheses (e.g., "Is the formula wrong?" or "Is this a new question type?"). A fitness function, incorporating Vygotsky's [[scaffolding|Zone of Proximal Development]] as an effective search radius, penalizes both excessive leaps and stagnation; tournament selection picks the best hypothesis, and a Differential Evolution step integrates it into the knowledge structure scaled by the ICAP cognitive evolution rate. A Behavior-Cognition Alignment Check then measures consistency between the generated internal state and external behavior, flagging "cognitive dissonance" (e.g., low confidence but forced answers).
+
+## CogMath-948 Dataset and Evaluation
+
+Because suitable open datasets were lacking, the authors constructed **CogMath-948** from real educational settings: learning data from 1,245 eighth-grade students over six months, with four dimensions per interaction — question/response information, reflective explanations, ICAP-based cognitive engagement labels, and fine-grained misconception classification. This makes it well suited for research on fine-grained cognitive evolution and [[cognitive-diagnosis]].
+
+Three research questions drive the evaluation: RQ1 (ability prediction accuracy and mistake fidelity vs. static persona and [[knowledge-tracing|KT]] models), RQ2 (reproduction of non-linear learning trajectories conforming to the Power Law of Practice), and RQ3 (validity of the simulated cognitive evolution and module contributions). Baselines include general LLMs (Llama 3 70B, GPT-4o), a reasoning-enhanced model (Gemini 3 Pro Think), and a reproduced PEERS (BKT+LLM) [[knowledge-tracing]]-augmented agent.
+
+## Findings in Detail
+
+On task performance (RQ1), CogEvolution's AUC (0.80) is comparable to PEERS (0.82) and both far exceed static agents (0.65–0.73), while its Mistake Precision (76.8%) is the highest — static agents produce "hallucinatory" or "logical leap" errors, whereas ICAP perception and memory retrieval let CogEvolution reproduce the typical [[student-modeling|misconceptions]] of real students. On learning dynamics (RQ2), static agents show a nearly flat trajectory (R²LC = 0.45), the KT-augmented PEERS model a downward but overly linear one (0.78), and CogEvolution a curve tightly aligned with ground truth (R²LC = 0.92) that exhibits an early steep drop followed by stabilization — replicating the novice-to-proficient transition predicted by the [[adaptive-learning|Power Law of Practice]] through early "cognitive spikes" and later fine-tuning.
+
+The ablation study (RQ3) isolates each module's contribution: removing the ICAP depth perceptron collapses R²LC to 0.58 (the agent can no longer distinguish shallow from deep learning); removing structured retrieval cuts Mistake Precision by 12.3% (knowledge assimilation is essential for reproducing misconceptions); and removing the evolutionary update falls back to static persona modeling (R²LC = 0.51, Align 0.76).
+
+## Implications
+
+CogEvolution shifts [[simulating-students|student simulation]] from surface behavioral cloning toward stateful, theory-grounded cognitive modeling — a step that directly addresses the [[simulating-students|validity]] and interpretability concerns raised across the simulation literature. For [[knowledge-tracing]] and [[cognitive-diagnosis]], the framework shows how internal cognitive state evolution can produce both accurate mastery prediction and psychologically faithful error reproduction, offering a more interpretable alternative to purely data-driven KT models. For [[adaptive-learning]] and [[intelligent-tutoring]], the ability to simulate plausible cognitive paths — including confusion, exploration, and assimilation — provides a richer testbed for evaluating [[scaffolding|instructional strategies]] and training novice teachers in low-risk settings. The explicit behavior-cognition alignment check also introduces a principled way to audit whether an educational agent's internal states match its external actions, a useful guardrail for [[student-modeling|agent interpretability]].
+
+## Connected Concepts
+
+- [[simulating-students]]
+- [[student-modeling]]
+- [[icap-framework]]
+- [[knowledge-tracing]]
+- [[cognitive-diagnosis]]
+- [[generative-ai]]
+- [[pedagogical-agent]]
+- [[item-response-theory]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[scaffolding]]
+- [[learning-analytics]]
+- [[constructivist]]
+
+## Connected Articles
+
+- [[simulating-students-diverse-cognitive-levels-2025]] — Embracing Imperfection: Simulating Diverse Cognitive Levels
+- [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
+- [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
+- [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
+- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving?
+- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Meta Behavioral Knowledge Tracing
+
+## Citation
+
+Zhang, W., Cheng, Y., Ye, Z., & Huang, K. (2026). [*CogEvolution: A human-like generative educational agent to simulate student's cognitive evolution*](https://arxiv.org/abs/2604.14786). arXiv preprint arXiv:2604.14786.
 
 ---
 

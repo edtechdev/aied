@@ -56,3 +56,5 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[zerkouk-comprehensive-review-its-2025]]- [[trace-course-grade-prediction-2026]]
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)

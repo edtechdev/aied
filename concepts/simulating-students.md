@@ -65,3 +65,4 @@ Two 2026 threads sharpen the practical value of simulation. First, **authentic-d
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
