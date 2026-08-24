@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1027
+**Last updated:** 2026-08-24 | **Total pages:** 1031
 ---
 ## Concepts
 
@@ -686,6 +686,7 @@
 - [[mindcopilot-llm-co-writing]] — MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: Exploring the History of AI in Education
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
+- [[mixed-methods-research]] — Mixed-Methods Research
 - [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
 - [[ml-literacy-primary-education]] — Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design
 - [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
@@ -796,6 +797,8 @@
 - [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
+- [[qualitative-research]] — Qualitative Research
+- [[quantitative-research]] — Quantitative Research
 - [[quantum-education-its]] — Quantum Education Intelligent Tutoring
 - [[quest-ai-inquiry-preservice-teachers]] — Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical and ecological framework for education
@@ -986,6 +989,7 @@
 - [[universal-design-for-learning]] — Universal Design for Learning
 - [[universities-ai-era-rethinking]] — The University AI Didn''t Replace: Rethinking Universities in the AI Era
 - [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
+- [[usability-research]] — Usability Research
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
 - [[vargas-ai-catalyst-situated-learning-2026]] — Connecting Education with Reality: AI as a Catalyst for Situated Learning
 - [[vargas-situated-learning-ai-review-2024]] — Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature
