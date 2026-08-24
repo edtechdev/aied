@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T15:45:00-04:00"
+updated: "2026-08-24T10:50:00-04:00"
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -60,7 +60,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 ## Implications for design and research
 
 1. **Preserve the constructive activity.** AI should scaffold the learner's own thinking — prompt, question, and support — rather than perform it. Designers should ask whether the tool increases or replaces the learner's constructive effort.^[[generative-refusal-ai-tools-for-thought]]
-2. **Use the [[icap-framework|ICAP]] lens.** Sequence instruction through passive → active → constructive → interactive engagement, and evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption.^[[hingle-collaborative-ai-literacy-2025]]
+2. **Use the [[icap-framework|ICAP]] lens.** ICAP classifies engagement into constructive, interactive, active, and passive modes — use it to evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption. Note that ICAP is a *taxonomy of engagement*, not a prescribed teaching sequence: instruction need not walk learners through the modes in a fixed order, but should favor the deeper (constructive and interactive) modes where the learning goal warrants.^[[hingle-collaborative-ai-literacy-2025]]
 3. **Align theory and implementation.** Researchers should look beyond whether AI "works" to *how* it embodies a learning theory, checking for the constructivist-in-name, behaviorist-in-practice gap.^[[ai-vocational-education-training-review]]
 4. **Study learner agency and transfer.** Constructivist commitments imply evaluating not just immediate test gains but whether learners can transfer and independently apply their constructed understanding.^[[research-methods-aied]]
 
