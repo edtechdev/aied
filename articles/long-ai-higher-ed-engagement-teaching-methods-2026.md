@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods"
 created: "2026-08-15T09:33:47-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T17:20:00-04:00"
 type: article
 tags: [student-engagement, higher-ed, ai-education, active-learning, project-based-learning, scaffolding, feedback, generative-ai, digital-divide, systematic-review]
 
@@ -41,7 +41,6 @@ This review connects [[student-engagement]] and [[student-engagement]] to the ce
 
 - [[genai-motivation-engagement-2026]] — GenAI motivation and engagement
 - [[icap-cognitive-engagement-llm-agents]] — ICAP cognitive engagement with LLM agents
-- [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]] — AI chatbot cooperative flipped classroom
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding critical engagement with GenAI
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Student engagement with GenAI and self-determination
 - [[genai-tutor-engagement-patterns]] — GenAI tutor engagement patterns

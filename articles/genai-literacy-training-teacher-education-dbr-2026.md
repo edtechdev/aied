@@ -1,14 +1,14 @@
 ---
 title: "Development and evaluation of artificial intelligence literacy training for teacher education students"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [ai-literacy, teacher-ai-competency, faculty-development, pedagogical-llm-training, higher-ed, k-12]
-sources: []
+sources: ['raw/papers/genai-literacy-training-teacher-education-dbr-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Le, Huynh, Dang, Pham, Nguyen, and Nguyen (2026) develop and evaluate a design-based research (DBR) intervention providing [[generative-ai|GenAI]] [[ai-literacy|literacy]] training for [[teacher-education|teacher education]] students. Arguing that existing AI literacy programs overemphasize technical knowledge and pre-GenAI tools, the study integrates contemporary [[teacher-ai-competency|AI competency frameworks]] into a workshop prototype. The workshop was piloted with 14 master's students and evaluated with 29 [[teacher-education|teacher education]] students. Findings indicate the intervention effectively enhanced overall AI competency [[self-efficacy]], with positive emotional responses from 87.1% of participants and shifts toward critical exploration of [[generative-ai|GenAI]] tools for teaching.
+> **Synthesis:** Le, Huynh, Dang, Pham, Nguyen, and Nguyen (2026) develop and evaluate a [[design-based-research|design-based research]] (DBR) intervention providing [[generative-ai|GenAI]] [[ai-literacy|literacy]] training for [[teacher-education|teacher education]] students. Arguing that existing AI literacy programs overemphasize technical knowledge and pre-GenAI tools, the study integrates contemporary [[teacher-ai-competency|AI competency frameworks]] into a workshop prototype. The workshop was piloted with 14 master's students and evaluated with 29 [[teacher-education|teacher education]] students. Findings indicate the intervention effectively enhanced overall AI competency [[self-efficacy]], with positive emotional responses from 87.1% of participants and shifts toward critical exploration of [[generative-ai|GenAI]] tools for teaching.
 
 ## Key Findings
 

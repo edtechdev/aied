@@ -1844,7 +1844,6 @@
   New systems of learning for distance learning institutions? A six-study review of implementing AIDA
   #generative-ai #higher-ed #distance-learning #design-based-research #ai-chatbots #governance #technology-adoption #learning-analytics #privacy
 
-- ◐ [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
   The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning
   #agent #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
@@ -1922,7 +1921,6 @@
   Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms
   #engagement-metrics #ai-education #ai-tutoring #educational-technology #edtech-platform #evaluation
 
-- ◐ [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]]
   Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective
   #self-regulated-learning #collaborative-learning #chatbot #epistemic-agency #ai-education #ai-tutoring
 

@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-24T17:20:00-04:00"
 type: concept
 tags: [prior-knowledge, learning-theory, cognitive-load, constructivist, personalized-learning, scaffolding, student-modeling, instructional-design, metacognition]
 confidence: high
@@ -60,7 +60,6 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing
 - [[bridging-instructional-design-framework-math]] — An instructional-design framework for math
 - [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
-- [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]] — Cooperative flipped classroom with AI chatbots
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 

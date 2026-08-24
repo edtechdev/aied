@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **77 wiki articles were ingested before the full text was available** — a violation of the
+These **75 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 77 prematurely-ingested articles
+## The 75 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -62,7 +62,6 @@ the key.
 | doyle-scaling-complex-thinking-ai-ibl-2026 | 10.58297/edu.2026.3.3.e183 |
 | educational-vlm-evaluation | — |
 | edumirror-educational-social-dynamics | — |
-| effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo | 10.1111/bjet.70079 |
 | enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen | 10.1111/bjet.70071 |
 | enhancing-online-learning-outcomes-through-virtual-companion-ai-the-role-of-iden | 10.1111/bjet.70072 |
 | face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning | 10.1016/j.caeai.2026.100610 |
@@ -101,7 +100,6 @@ the key.
 | state-policy-teacher-ai | — |
 | student-misconceptions-conditionals-loops-taxonomy | — |
 | sycophantic-ai-social-interaction-2026 | — |
-| the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological | 10.1111/bjet.70064 |
 | tibetcpr-ai-training-feedback | — |
 | trust-reliance-ai-education-2026 | — |
 | unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l | 10.1111/bjet.70082 |
