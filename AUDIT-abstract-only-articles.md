@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **64 wiki articles were ingested before the full text was available** — a violation of the
+These **63 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 64 prematurely-ingested articles
+## The 63 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -36,7 +36,6 @@ the key.
 | adaptive-virtual-patient-psychotherapy-training | — |
 | agentic-ai-pedagogical-best-practice-2026 | — |
 | agentic-workflows-education | — |
-| ai-acceptance-preservice-science-teachers-2026 | 10.31014/aior.1993.09.03.724 |
 | ai-education-global-capacity | — |
 | ai-higher-ed-workforce-survey | — |
 | ai-lms-middle-school-longitudinal | — |

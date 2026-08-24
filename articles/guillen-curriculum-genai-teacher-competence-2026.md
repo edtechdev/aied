@@ -1,7 +1,7 @@
 ---
 title: "Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [teacher-ai-competency, instructional-design, generative-ai, self-efficacy, professional-development]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
@@ -58,7 +58,6 @@ This paper is a significant contribution to the [[teacher-ai-competency]] concep
 
 ## Connected Articles
 
-- [[ai-acceptance-preservice-science-teachers-2026]] — AI acceptance of pre-service teachers via TAM
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education AI literacy
 - [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy training in teacher education
 - [[ai-changing-teaching-workflows]] — AI changing teaching workflows

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags:
   - situated-learning
@@ -48,7 +48,6 @@ ng abilities.
 ## Connected Articles
 
 - [[amponsah-ai-acceptance-science-teachers-2026]]
-- [[ai-acceptance-preservice-science-teachers-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-ar-physics-simulation-prompt-2026]]
 

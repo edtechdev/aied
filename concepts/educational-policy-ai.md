@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -66,7 +66,6 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [technology-acceptance-model, motivation, generative-ai, higher-ed, ai-education, student-engagement]
 sources: ['raw/papers/tian-genai-learning-adoption-pathways-2026.md']
@@ -45,7 +45,6 @@ This paper directly extends the wiki's coverage of [[technology-acceptance-model
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[genai-motivation-engagement-2026]]
 - [[acceptance-ai-english-tools-2026]]
-- [[ai-acceptance-preservice-science-teachers-2026]]
 
 ## Citation
 

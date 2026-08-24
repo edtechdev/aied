@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-24T18:50:00-04:00"
 type: concept
 tags: [ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
 confidence: high
@@ -32,7 +32,7 @@ The wiki's PD literature identifies effective approaches:
 - **Intensive, theory-grounded programs:** [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] with 163 teachers/pre-service teachers produced significant gains across all AI-PCK components, with pre-service teachers benefiting most. [[teacher-education-ai-literacy-sdt-2026|Self-determination-theory-based PD]] shows need-supportive training improves teachers' AI literacy, attitudes, and engagement while reducing anxiety.
 - **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
-- **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance; [[ai-acceptance-preservice-science-teachers-2026|acceptance research]] shows positive attitudes and strong intentions among pre-service teachers (e.g., 380 Ghanaian science teachers), with ChatGPT the most-used tool.
+- **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
 - **Institutional support:** [[faculty-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], [[ai-education-global-capacity|capacity]], [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
 ## Teacher AI competency and the transforming teacher role
@@ -88,7 +88,6 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[ai-literacy-assessment-misalignment]] — Misalignment between self-reported and performance-based AI competency
 - [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
-- [[ai-acceptance-preservice-science-teachers-2026]] — Perceptions and acceptance of AI among pre-service science teachers
 - [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
