@@ -1,7 +1,7 @@
 ---
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-18T16:30:00-04:00"
+updated: "2026-08-24T20:50:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
@@ -16,7 +16,7 @@ Design thinking sits at the intersection of creativity, craft, and critique — 
 
 - **Adversarial AI agents prompting reconsideration.** [[ai-agents-constructive-conflict-design-education-2026|Constructive conflicts with AI agents]] takes design thinking toward [[agentic-ai]], testing adversarial versus cooperative AI roles with novice interaction designers (N=48). The adversarial condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs — participants found the conflict agent frustrating but ultimately helpful. This productive-friction dynamic, echoing the [[socratic-method]] and [[scaffolding]], shows that design thinking benefits from challenge rather than mere assistance, a finding with implications for how [[student-experience]] is designed in AI-augmented studio settings.
 
-- **Design thinking as a student skill being developed.** Two studies treat design thinking itself as the measurable learning target. [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif|Hybrid intelligence feedback systems]] (within-class randomized design, 80 undergraduates) found no overall learning-gain difference between GenAI and instructor [[feedback]] but revealed stage-specific strengths: GenAI excelled in the empathise stage (superior timeliness and privacy) while human instructors anchored the prototype stage contextually. [[genai-usage-design-students-survey|GenAI usage by design students]] at Politecnico di Milano reported very frequent use concentrated in early, ideation-heavy stages — yet high adoption did not reduce perceived project ownership or creativity, directly informing [[ai-literacy]] and [[academic-integrity]] debates about authorship and process transparency.
+- **Design thinking as a student skill being developed.** [[genai-usage-design-students-survey|GenAI usage by design students]] at Politecnico di Milano reported very frequent use concentrated in early, ideation-heavy stages — yet high adoption did not reduce perceived project ownership or creativity, directly informing [[ai-literacy]] and [[academic-integrity]] debates about authorship and process transparency.
 
 - **AI in design pedagogy and educator frameworks.** Design thinking also structures how educators build AI-supported learning. [[gaide-vibe-coding-k12-teachers|GAIDE]] offers a Design-Thinking-based framework for K-12 teachers creating AI-powered tools through vibe coding, raising teachers' AI literacy and supporting learning-by-creating as [[faculty-development]] and [[professional-training]]. [[dot-framework-survey-2026|The DOT Framework survey]] (n=72) grounds design thinking in open-systems theory and found practitioners frequently use iterative prompting and content generation but underuse needs assessment and feedback loops — a practice-versus-theory gap that operationalizes AI as a fallible co-intelligent collaborator under [[human-in-the-loop-ai]] oversight. Even [[social-robot-study-companions|co-creating open social robots]] with students applied the Double Diamond (a design-thinking variant), redesigning the build around accessibility so that repairability and [[open-source]] principles become sites of continued learning.
 
@@ -58,7 +58,6 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 - [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers

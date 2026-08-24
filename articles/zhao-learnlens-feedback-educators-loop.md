@@ -1,7 +1,7 @@
 ---
 title: "LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-22T20:20:00-04:00"
+updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]
 
@@ -79,7 +79,6 @@ Strengths include a modular, component-level evaluation on authentic student ans
 - [[sequenced-ai-feedback-learning]]
 - [[care-full-feedback-genai]]
 - [[learner-centered-feedback-ai]]
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]]
 
 ## Citation
 
