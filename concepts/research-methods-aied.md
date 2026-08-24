@@ -45,7 +45,7 @@ Mixed-methods studies combine quantitative and qualitative strands — often seq
 
 ### Design-based research (DBR)
 
-DBR iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice. It is prominent in the wiki for developing AI learning environments and pedagogical models. A canonical AIEd example is the AI-Assisted Collaborative Learning model study ([[ai-assisted-collaborative-learning-model-dbr|Putra et al.]]), which ran a four-phase DBR cycle — needs analysis, model design, eight-week classroom implementation, and model refinement — iterating on a four-stage learning cycle (problem identification → AI-assisted collaborative inquiry → collaborative problem-solving → reflection and presentation). Other exemplars develop AI-literacy teacher training ([[genai-literacy-training-teacher-education-dbr-2026]]) and GenAI scaffolding for critical thinking ([[critical-thinking-genai-scaffolding]]).
+DBR iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice. It is prominent in the wiki for developing AI learning environments and pedagogical models. See the dedicated [[design-based-research]] concept page for the full DBR cycle, exemplars, and its strengths/limitations. A canonical AIEd example is the AI-Assisted Collaborative Learning model study ([[ai-assisted-collaborative-learning-model-dbr|Putra et al.]]), which ran a four-phase DBR cycle — needs analysis, model design, eight-week classroom implementation, and model refinement — iterating on a four-stage learning cycle (problem identification → AI-assisted collaborative inquiry → collaborative problem-solving → reflection and presentation). Other exemplars develop AI-literacy teacher training ([[genai-literacy-training-teacher-education-dbr-2026]]) and GenAI scaffolding for critical thinking ([[critical-thinking-genai-scaffolding]]).
 
 - **Strengths:** high ecological validity and practical relevance; produces both usable artifacts and theory; responsive to the complexity of real classrooms and evolving AI tools; well-suited to developing a model and refining it based on authentic implementation evidence.
 - **Limitations:** weak internal validity (few/no control groups); findings are context-bound and hard to generalize; long timelines; difficult to isolate which design element caused an outcome — DBR demonstrates feasibility and improvement but cannot attribute learning gains to a specific mechanism.
@@ -153,6 +153,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[qualitative-research]] — Qualitative Research
 - [[quantitative-research]] — Quantitative Research
 - [[mixed-methods-research]] — Mixed-Methods Research
+- [[design-based-research]] — Design-Based Research
 - [[usability-research]] — Usability Research
 ## Connected Articles
 
