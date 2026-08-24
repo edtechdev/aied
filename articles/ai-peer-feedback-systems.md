@@ -1,7 +1,7 @@
 ---
 title: AI Peer Feedback Systems
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [edtech-platform, feedback, formative-assessment, teacher-role, higher-ed, learning-analytics, llm, rag, intelligent-tutoring, metacognition]
 
@@ -90,7 +90,6 @@ AICoFe represents a **human-centered AI** paradigm for education: AI augments ra
 
 - [[becerra-aicofe-feedback-2026]]
 - [[aicode-collaborative-feedback-system]]
-- [[codify-socratic-programming-tutor]]
 - [[humanlike-ai-collaborative-writing]]
 - [[llm-reasoning-traces-metacognition]]
 - [[mindcopilot-llm-co-writing]]

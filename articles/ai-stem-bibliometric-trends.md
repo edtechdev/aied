@@ -1,7 +1,7 @@
 ---
 title: Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [stem-education, generative-ai, intelligent-tutoring, scaffolding, adaptive-learning, learning-analytics, llm, computational-thinking]
 sources: ['raw/papers/2607.05412.md']
@@ -26,7 +26,6 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 ## Connected Articles
 
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
