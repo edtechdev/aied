@@ -1896,7 +1896,6 @@
   The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
   #ai-literacy #curriculum-design #digital-divide #scaffolding #ai-education #equity #framework #ai-tutoring
 
-- ◐ [[generative-ai-interactive-textbook-in-electrotechnics-a-four-year-comparative-st]]
   Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion
   #generative-ai #assessment #equity #ai-tutoring #ai-education #educational-technology
 
