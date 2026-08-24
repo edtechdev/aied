@@ -1,7 +1,7 @@
 ---
 title: "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study"
 created: "2026-05-27T07:38:00-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 confidence: high
@@ -25,7 +25,7 @@ The 17-agent configuration demonstrates how [[ai-changing-teaching-workflows]] m
 
 ## Methodological Contribution: PARE-M
 
-PARE-M provides six measurement dimensions that could be adapted for [[learning-analytics]] in AI-augmented classrooms: architecture mapping, utilization tracking, artifact production metrics, resource consumption, reproducibility assessment, and governance event logging. This structured approach to measuring human-AI ecosystems addresses the [[ai-higher-ed-bridge-gap]] between technological capability and institutional adoption.
+PARE-M provides six measurement dimensions that could be adapted for [[learning-analytics]] in AI-augmented classrooms: architecture mapping, utilization tracking, artifact production metrics, resource consumption, reproducibility assessment, and governance event logging. This structured approach to measuring human-AI ecosystems addresses the gap between technological capability and institutional adoption.
 
 ## Connected Concepts
 
@@ -41,7 +41,6 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 - [[ai-productivity-moderation]]
 - [[agentic-workflows-education]]
 - [[ai-changing-teaching-workflows]]
-- [[ai-higher-ed-bridge-gap]]
 ## Citation
 
 Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*](https://arxiv.org/abs/2605.26870). arXiv:2605.26870.

@@ -1,7 +1,7 @@
 ---
 title: "The University AI Didn''t Replace: Rethinking Universities in the AI Era"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-12"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [higher-ed, teacher-role, administrator, policy-maker, regulation, teacher-ai-competency, faculty-development-genai, student-experience, assessment-validity]
 sources: ['raw/papers/2605.07056.md']
@@ -12,7 +12,7 @@ confidence: medium
 
 ## Core Argument
 
-The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions in [[ai-higher-ed-bridge-gap]] about the frameworks needed for higher education, and complements the [[ai-higher-ed-workforce-survey]] finding that most staff already use AI for work.
+The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions about the frameworks needed for higher education, and complements the [[ai-higher-ed-workforce-survey]] finding that most staff already use AI for work.
 
 ## The Four Levels of AI Adoption
 
@@ -52,7 +52,6 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[authentic-assessment]]
 ## Connected Articles
 
-- [[ai-higher-ed-bridge-gap]]
 - [[ai-higher-ed-workforce-survey]]
 - [[ai-education-global-capacity]]
 - [[ai-adult-learning-guidelines-dis2026]]

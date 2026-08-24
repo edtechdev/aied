@@ -1,7 +1,7 @@
 ---
 title: "Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T13:00:00-04:00"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [ai-education, higher-ed, regulation, policy, institutional-change, ai-literacy, survey, professional-training]
 sources: ['raw/papers/2608.03584v1.md']
@@ -62,7 +62,6 @@ The study reveals a fundamental structural challenge in [[ai-education|AI govern
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 
 ## Citation

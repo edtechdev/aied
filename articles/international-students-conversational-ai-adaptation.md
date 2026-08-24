@@ -1,7 +1,7 @@
 ---
 title: Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
 created: "2026-05-15T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [higher-ed, student-experience, generative-ai, llm, equity, culturally-relevant-pedagogy, equity-in-ai-education, human-in-the-loop-ai, rag]
 sources: ['raw/papers/2605.15127.md']
@@ -14,7 +14,7 @@ Understanding How International Students in the U.S. Are Using Conversational AI
 
 ## Summary
 
-This mixed-methods study (survey n=60, interviews n=14) investigates how international students in the U.S. adopt and perceive [[conversational-ai-tutors-framework]] tools like ChatGPT and Google Gemini for cross-cultural adaptation. The current support ecosystem — university systems and informal social networks — remains fragmented, echoing the integration gaps identified in [[ai-higher-ed-bridge-gap]].
+This mixed-methods study (survey n=60, interviews n=14) investigates how international students in the U.S. adopt and perceive [[conversational-ai-tutors-framework]] tools like ChatGPT and Google Gemini for cross-cultural adaptation. The current support ecosystem — university systems and informal social networks — remains fragmented, echoing broader integration gaps in higher education.
 
 **Key findings:**
 
@@ -37,7 +37,6 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 ## Connected Articles
 
 - [[conversational-ai-tutors-framework]]
-- [[ai-higher-ed-bridge-gap]]
 - [[ai-learning-companions-framework]]
 ## Citation
 
