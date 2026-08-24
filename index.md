@@ -212,7 +212,6 @@
 - [[biology-education]] — Biology Education
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[book-level-synthetic-textbook-organization]] — Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training
-- [[botes-ai-oep-ibl-underresourced-2026]] — Transforming STEM Education in Under-Resourced Contexts: A Conceptual Framework for AI-Supported OEP/RS and Inquiry-Based Learning
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Presenting a Project-Based Approach for Robotics Education
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators

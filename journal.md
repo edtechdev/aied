@@ -360,7 +360,6 @@
   Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective
   #inquiry-based-learning #llm #chatgpt #critical-thinking #metacognition #self-efficacy #higher-ed #self-regulated-learning
 
-- ◐ [[botes-ai-oep-ibl-underresourced-2026]] — 'raw/papers/botes-ai-oep-ibl-underresourced-2026.md'
   Transforming STEM Education in Under-Resourced Contexts: A Conceptual Framework for AI-Supported OEP/RS and Inquiry-Based Learning
   #inquiry-based-learning #generative-ai #stem-education #equity-in-ai-education #k-12 #open-source #multilingual-learning #lesson-design
 
