@@ -1,9 +1,9 @@
 ---
 title: Interpretable Knowledge Tracing
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T21:10:00-04:00"
 type: article
-tags: [knowledge-tracing, interpretability, student-modeling, cold-start-knowledge-tracing-safeinsights, item-response-theory, intelligent-tutoring, rag]
+tags: [knowledge-tracing, interpretability, student-modeling, item-response-theory, intelligent-tutoring, rag]
 
 sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
@@ -35,7 +35,7 @@ This work bridges a critical gap between the predictive power of LLMs and the in
 
 The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on [[knowledge-tracing-irt]] that uses IRT to add structure to neural KT models.
 
-The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[cold-start-knowledge-tracing-safeinsights]] and [[neural-symbolic-knowledge-tracing]].
+The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[neural-symbolic-knowledge-tracing]].
 
 For practical deployment, the framework's interpretability enables several downstream applications: tutors can receive real-time alerts when student ability drops below a threshold; difficulty estimates can guide adaptive scaffolding decisions; and longitudinal θ trajectories can track learning over multiple sessions. The explicit difficulty model also supports better [[ai-tutor-authoring-promptdecipher]] by helping content creators understand which tutor utterances are most effective at different ability levels.
 
@@ -76,7 +76,6 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-- [[cold-start-knowledge-tracing-safeinsights]]
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)
