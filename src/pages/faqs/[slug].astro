@@ -1,0 +1,184 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const faqs = await getCollection('faqs');
+  return faqs.map(f => ({ params: { slug: f.id.replace('.md', '') } }));
+}
+
+const { slug } = Astro.params;
+const faqs = await getCollection('faqs');
+const faq = faqs.find(f => f.id.replace('.md', '') === slug);
+if (!faq) return Astro.redirect('/aied/');
+
+const allArticles = await getCollection('articles');
+const allConcepts = await getCollection('concepts');
+
+// Slugs for canonical wikilink routing: article -> /articles, concept -> /concepts, faq -> /faqs
+const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
+const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
+const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
+
+const { title, tags, created, updated } = faq.data;
+const createdDisplay = (created || '').split('T')[0];
+const updatedDisplay = (updated || created || '').split('T')[0];
+const body = faq.body || '';
+
+// Connected FAQs: FAQ pages can link to other FAQ slugs in their body via [[slug]]
+// For now we render the body; Connected FAQ lists will be handled by the section below.
+
+function splitTableCells(line: string): string[] {
+  const cells: string[] = [];
+  let cur = '';
+  let inLink = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '[' && line[i + 1] === '[') inLink = true;
+    else if (ch === ']' && line[i + 1] === ']') inLink = false;
+    if (ch === '|' && !inLink) { cells.push(cur); cur = ''; }
+    else { cur += ch; }
+  }
+  cells.push(cur);
+  return cells;
+}
+
+function renderMarkdown(text: string, pageTitle: string): string {
+  let html = '';
+  let inBlockquote = false;
+  let inTable = false;
+  let inTableHead = true;
+  const listStack: { indent: number; type: string }[] = [];
+
+  const closeListsTo = (indent: number) => {
+    while (listStack.length && listStack[listStack.length - 1].indent >= indent) {
+      html += `</${listStack.pop()!.type}>`;
+    }
+  };
+  const closeAllLists = () => closeListsTo(0);
+
+  for (const line of text.split('\n')) {
+    const trimmed = line.trim();
+    const indent = line.match(/^\s*/)![0].length;
+
+    if (trimmed.startsWith('> ')) {
+      closeAllLists();
+      if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
+      if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
+      html += `<p>${renderInline(trimmed.slice(2))}</p>`;
+      continue;
+    }
+    if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+
+    // Skip H1 matching page title
+    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) { closeAllLists(); continue; }
+
+    if (trimmed.startsWith('### ')) { closeAllLists(); html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
+    if (trimmed.startsWith('## ')) { closeAllLists(); html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
+    if (trimmed.startsWith('# ')) { closeAllLists(); html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
+
+    // Tables
+    if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
+      closeAllLists();
+      const cells = splitTableCells(trimmed).slice(1, -1).map(c => c.trim());
+      if (cells.every(c => /^:?-{3,}:?$/.test(c))) {
+        inTableHead = false;
+        continue;
+      }
+      if (!inTable) {
+        html += '<table>';
+        inTable = true;
+        inTableHead = true;
+      }
+      if (inTableHead) {
+        html += '<thead><tr>' + cells.map(c => `<th>${renderInline(c)}</th>`).join('') + '</tr></thead><tbody>';
+        inTableHead = false;
+      } else {
+        html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
+      }
+      continue;
+    }
+
+    if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
+
+    // Lists (unordered: -, * | ordered: 1., 2. ...)
+    const listMatch = trimmed.match(/^([-*]|\d+\.)\s+(.*)$/);
+    if (listMatch) {
+      const marker = listMatch[1];
+      const type = /^\d/.test(marker) ? 'ol' : 'ul';
+      const content = listMatch[2];
+      if (listStack.length && indent < listStack[listStack.length - 1].indent) {
+        closeListsTo(indent);
+      }
+      if (!listStack.length || listStack[listStack.length - 1].type !== type || indent > listStack[listStack.length - 1].indent) {
+        html += `<${type}>`;
+        listStack.push({ indent, type });
+      }
+      html += `<li>${renderInline(content)}</li>`;
+      continue;
+    }
+
+    if (/^[-*]{3,}$/.test(trimmed)) { closeAllLists(); html += '<hr>'; continue; }
+    closeAllLists();
+    if (!trimmed) { html += ''; continue; }
+
+    html += `<p>${renderInline(trimmed)}</p>`;
+  }
+
+  closeAllLists();
+  if (inTable) html += '</tbody></table>';
+  if (inBlockquote) html += '</blockquote>';
+  return html;
+}
+
+function smartTitle(label: string): string {
+  const KNOWN: Record<string, string> = {
+    'ai': 'AI', 'llm': 'LLM', 'rag': 'RAG', 'nlp': 'NLP',
+    'k-12': 'K-12', 'irt': 'IRT', 'its': 'ITS', 'rct': 'RCT',
+    'stem': 'STEM', 'cs': 'CS', 'ide': 'IDE', 'api': 'API',
+    'srl': 'SRL', 'lms': 'LMS', 'mooc': 'MOOC', 'vr': 'VR',
+    'ar': 'AR', 'ui': 'UI', 'ux': 'UX', 'sdk': 'SDK',
+    'tpack': 'TPACK', 'asag': 'ASAG', 'kt': 'KT',
+    'rl': 'RL', 'ml': 'ML', 'xai': 'XAI',
+    'genai': 'GenAI', 'aied': 'AIED', 'pjbl': 'PjBL',
+    'hci': 'HCI', 'zpd': 'ZPD',
+  };
+  return label.replace(/\b\w+\b/g, w => KNOWN[w.toLowerCase()] || (w[0].toUpperCase() + w.slice(1)));
+}
+
+function renderInline(text: string): string {
+  return text
+    .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
+      const page = p.replace('.md', '').trim();
+      const label = l || smartTitle(page.replace(/-/g, ' '));
+      let base = '/aied/concepts';
+      if (articleSlugs.has(page)) base = '/aied/articles';
+      else if (faqSlugs.has(page)) base = '/aied/faqs';
+      return `<a href="${base}/${page}">${label}</a>`;
+    })
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+    .replace(/doi:(\S+)/g, '<a href="https://doi.org/$1">doi:$1</a>');
+}
+---
+
+<BaseLayout title={title}>
+  <article data-pagefind-filter="page_type:faq">
+    <div class="page-header">
+      <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">❓ FAQ</p>
+      <h1>{title}</h1>
+      <div style="color:var(--muted-color);font-size:0.9rem">
+        created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
+        {(tags || []).map((tag: string, i: number) => (
+          <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
+        ))}
+      </div>
+    </div>
+
+    <div style="line-height:1.8" data-pagefind-body>
+      <Fragment set:html={renderMarkdown(body, title)} />
+    </div>
+  </article>
+</BaseLayout>

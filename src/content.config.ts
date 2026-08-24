@@ -4,6 +4,7 @@ import { resolve } from 'path';
 
 const articlesDir = resolve(process.cwd(), 'articles');
 const conceptsDir = resolve(process.cwd(), 'concepts');
+const faqsDir = resolve(process.cwd(), 'faqs');
 
 // Keep `created`/`updated` as the ORIGINAL frontmatter string (e.g.
 // "2026-08-16T20:02:54-04:00"). We must NOT pass them through `z.date()`
@@ -26,6 +27,7 @@ const articles = defineCollection({
     confidence: z.string().catch('medium').transform(v =>
       ['high', 'medium', 'low'].includes(v) ? v : 'medium'
     ),
+    connected_faqs: z.any().transform(v => Array.isArray(v) ? v.map(String) : []).optional(),
   }),
 });
 
@@ -39,7 +41,18 @@ const concepts = defineCollection({
     confidence: z.string().catch('medium').transform(v =>
       ['high', 'medium', 'low'].includes(v) ? v : 'medium'
     ),
+    connected_faqs: z.any().transform(v => Array.isArray(v) ? v.map(String) : []).optional(),
   }),
 });
 
-export const collections = { articles, concepts };
+const faqs = defineCollection({
+  loader: glob({ pattern: '*.md', base: faqsDir }),
+  schema: z.object({
+    title: z.string(),
+    created: timeField,
+    updated: timeField.optional().transform(v => v ?? ''),
+    tags: z.any().transform(v => Array.isArray(v) ? v.map(String) : []),
+  }),
+});
+
+export const collections = { articles, concepts, faqs };

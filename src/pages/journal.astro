@@ -4,11 +4,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const articles = await getCollection('articles');
 const concepts = await getCollection('concepts');
+const faqs = await getCollection('faqs');
 
 // All pages merged for journal view
 const allItems = [
   ...articles.map(a => ({ ...a, kind: 'article' as const })),
   ...concepts.map(c => ({ ...c, kind: 'concept' as const })),
+  ...faqs.map(f => ({ ...f, kind: 'faq' as const })),
 ];
 
 const byDate: Record<string, typeof allItems> = {};
@@ -25,7 +27,7 @@ const dates = Object.keys(byDate).sort().reverse();
 
 <BaseLayout title="Journal">
   <h1>📋 Journal</h1>
-  <p>Reverse-chronological index of all {articles.length} articles and {concepts.length} concepts in the wiki.</p>
+  <p>Reverse-chronological index of all {articles.length} articles, {concepts.length} concepts, and {faqs.length} FAQs in the wiki.</p>
 
   {dates.map(date => (
     <details class="journal-day" open={date === dates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
@@ -33,10 +35,9 @@ const dates = Object.keys(byDate).sort().reverse();
         {date} — {byDate[date].length} page{byDate[date].length !== 1 ? 's' : ''}
       </summary>
       {byDate[date].map(item => {
-        const badge = item.kind === 'article' ? '📄' : '🏷️';
-        const href = item.kind === 'article'
-          ? `/aied/articles/${item.id.replace('.md', '')}`
-          : `/aied/concepts/${item.id.replace('.md', '')}`;
+        const badge = item.kind === 'article' ? '📄' : item.kind === 'faq' ? '❓' : '🏷️';
+        const base = item.kind === 'article' ? '/aied/articles' : item.kind === 'faq' ? '/aied/faqs' : '/aied/concepts';
+        const href = `${base}/${item.id.replace('.md', '')}`;
         return (
         <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
           <a href={href} style="font-weight:500;">

@@ -44,9 +44,11 @@ def first_para(md):
     return ''
 
 def collect():
-    articles, concepts = [], []
-    for d, store in [('articles', articles), ('concepts', concepts)]:
+    articles, concepts, faqs = [], [], []
+    for d, store in [('articles', articles), ('concepts', concepts), ('faqs', faqs)]:
         dirpath = os.path.join(WIKI, d)
+        if not os.path.isdir(dirpath):
+            continue
         for f in sorted(os.listdir(dirpath)):
             if not f.endswith('.md'):
                 continue
@@ -62,12 +64,12 @@ def collect():
                 'body': body,
                 'fm': fm,
             })
-    return articles, concepts
+    return articles, concepts, faqs
 
-def build_llms_txt(articles, concepts):
+def build_llms_txt(articles, concepts, faqs):
     lines = []
     lines.append("# AI in Education Wiki")
-    lines.append(f"> A comprehensive wiki of {len(concepts)} concepts and {len(articles)} research articles covering AI in education — frameworks, methodologies, and papers.")
+    lines.append(f"> A comprehensive wiki of {len(concepts)} concepts, {len(articles)} research articles, and {len(faqs)} FAQs covering AI in education — frameworks, methodologies, and papers.")
     lines.append("")
     lines.append("## Concepts")
     lines.append("")
@@ -80,12 +82,18 @@ def build_llms_txt(articles, concepts):
     for a in articles:
         desc = a['desc'].replace('\n', ' ')
         lines.append(f"- [{a['title']}]({a['url']}): {desc}")
+    lines.append("")
+    lines.append("## FAQs")
+    lines.append("")
+    for f in faqs:
+        desc = f['desc'].replace('\n', ' ')
+        lines.append(f"- [{f['title']}]({f['url']}): {desc}")
     return "\n".join(lines) + "\n"
 
-def build_llms_full(articles, concepts):
+def build_llms_full(articles, concepts, faqs):
     lines = []
     lines.append("# AI in Education Wiki — Full Content")
-    lines.append(f"> Complete text of {len(concepts)} concepts and {len(articles)} articles.")
+    lines.append(f"> Complete text of {len(concepts)} concepts, {len(articles)} articles, and {len(faqs)} FAQs.")
     lines.append("")
     lines.append("# Concepts")
     lines.append("")
@@ -107,18 +115,27 @@ def build_llms_full(articles, concepts):
         lines.append("")
         lines.append("---")
         lines.append("")
+    lines.append("# FAQs")
+    lines.append("")
+    for f in faqs:
+        lines.append(f"## [{f['title']}]({f['url']})")
+        lines.append("")
+        lines.append(f['body'])
+        lines.append("")
+        lines.append("---")
+        lines.append("")
     return "\n".join(lines) + "\n"
 
 def main():
-    articles, concepts = collect()
+    articles, concepts, faqs = collect()
     os.makedirs(OUT, exist_ok=True)
 
     with open(os.path.join(OUT, 'llms.txt'), 'w', encoding='utf-8') as fh:
-        fh.write(build_llms_txt(articles, concepts))
+        fh.write(build_llms_txt(articles, concepts, faqs))
     with open(os.path.join(OUT, 'llms-full.txt'), 'w', encoding='utf-8') as fh:
-        fh.write(build_llms_full(articles, concepts))
+        fh.write(build_llms_full(articles, concepts, faqs))
 
-    print(f"Articles: {len(articles)}, Concepts: {len(concepts)}")
+    print(f"Articles: {len(articles)}, Concepts: {len(concepts)}, FAQs: {len(faqs)}")
     print(f"llms.txt: {os.path.getsize(os.path.join(OUT, 'llms.txt'))} bytes")
     print(f"llms-full.txt: {os.path.getsize(os.path.join(OUT, 'llms-full.txt'))} bytes")
 
