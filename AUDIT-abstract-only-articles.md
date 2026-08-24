@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **67 wiki articles were ingested before the full text was available** — a violation of the
+These **66 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 67 prematurely-ingested articles
+## The 66 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -52,7 +52,6 @@ the key.
 | brookings-ai-students-report | — |
 | coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene | 10.1016/j.caeai.2026.100609 |
 | codify-socratic-programming-tutor | 10.32473/flairs.39.1.141554 |
-| codify-socratic-tutoring-programming | 10.32473/flairs.39.1.141554 |
 | cognitive-offloading-llm-synthesis-writing | — |
 | cold-start-knowledge-tracing-safeinsights | — |
 | cong-confidence-asag-2026 | — |
