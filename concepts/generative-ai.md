@@ -182,3 +182,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)

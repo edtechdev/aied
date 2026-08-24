@@ -49,3 +49,4 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 - [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution

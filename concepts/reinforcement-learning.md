@@ -44,3 +44,4 @@ RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, whe
 - [[q-learning-lab-rl-teaching]]
 - [[singh-eduqwen-pedagogical-rl-2026]]- [[residencyrl-clinical-rl-training-2026]]
 - [[learnlm-improving-gemini-learning]] — LearnLM: RLHF for pedagogical instruction following
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)

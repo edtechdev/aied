@@ -73,3 +73,5 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
+- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction

@@ -132,3 +132,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
