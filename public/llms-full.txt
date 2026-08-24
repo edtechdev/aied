@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 881 articles, and 4 FAQs.
+> Complete text of 166 concepts, 880 articles, and 4 FAQs.
 
 # Concepts
 
@@ -3506,7 +3506,7 @@ Design thinking sits at the intersection of creativity, craft, and critique — 
 
 - **Adversarial AI agents prompting reconsideration.** [[ai-agents-constructive-conflict-design-education-2026|Constructive conflicts with AI agents]] takes design thinking toward [[agentic-ai]], testing adversarial versus cooperative AI roles with novice interaction designers (N=48). The adversarial condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs — participants found the conflict agent frustrating but ultimately helpful. This productive-friction dynamic, echoing the [[socratic-method]] and [[scaffolding]], shows that design thinking benefits from challenge rather than mere assistance, a finding with implications for how [[student-experience]] is designed in AI-augmented studio settings.
 
-- **Design thinking as a student skill being developed.** Two studies treat design thinking itself as the measurable learning target. [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif|Hybrid intelligence feedback systems]] (within-class randomized design, 80 undergraduates) found no overall learning-gain difference between GenAI and instructor [[feedback]] but revealed stage-specific strengths: GenAI excelled in the empathise stage (superior timeliness and privacy) while human instructors anchored the prototype stage contextually. [[genai-usage-design-students-survey|GenAI usage by design students]] at Politecnico di Milano reported very frequent use concentrated in early, ideation-heavy stages — yet high adoption did not reduce perceived project ownership or creativity, directly informing [[ai-literacy]] and [[academic-integrity]] debates about authorship and process transparency.
+- **Design thinking as a student skill being developed.** [[genai-usage-design-students-survey|GenAI usage by design students]] at Politecnico di Milano reported very frequent use concentrated in early, ideation-heavy stages — yet high adoption did not reduce perceived project ownership or creativity, directly informing [[ai-literacy]] and [[academic-integrity]] debates about authorship and process transparency.
 
 - **AI in design pedagogy and educator frameworks.** Design thinking also structures how educators build AI-supported learning. [[gaide-vibe-coding-k12-teachers|GAIDE]] offers a Design-Thinking-based framework for K-12 teachers creating AI-powered tools through vibe coding, raising teachers' AI literacy and supporting learning-by-creating as [[faculty-development]] and [[professional-training]]. [[dot-framework-survey-2026|The DOT Framework survey]] (n=72) grounds design thinking in open-systems theory and found practitioners frequently use iterative prompting and content generation but underuse needs assessment and feedback loops — a practice-versus-theory gap that operationalizes AI as a fallible co-intelligent collaborator under [[human-in-the-loop-ai]] oversight. Even [[social-robot-study-companions|co-creating open social robots]] with students applied the Double Diamond (a design-thinking variant), redesigning the build around accessibility so that repairability and [[open-source]] principles become sites of continued learning.
 
@@ -3548,7 +3548,6 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 - [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
@@ -36029,29 +36028,6 @@ Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., B
 
 ---
 
-## [Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors](https://edtechdev.github.io/aied/articles/hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif/)
-
-> **Synthesis:** This study compares the pedagogical effects on students' design thinking and students' perceptions of feedback systems by GenAI and human instructors. A within-class randomized experimental design with 80 undergraduates revealed no significant overall difference in [[learning-gains|learning gains]] but identified respective stage-specific strengths: GenAI proved more effective during the empathise stage (superior timeliness and privacy), while human instructors excelled in the prototype stage (contextual anchoring). Comparable effects yet complementary functions were observed in other stages.
-
-## Key Findings
-
-This study compares the pedagogical effects on students' design thinking and students' perceptions of feedback systems by GenAI and human instructors. A within-class randomized experimental design with 80 undergraduates revealed no significant overall difference in learning gains but identified respective stage-specific strengths: GenAI proved more effective during the empathise stage (superior timeliness and privacy), while human instructors excelled in the prototype stage (contextual anchoring). Comparable effects yet complementary functions were observed in other stages.
-
-## Connected Concepts
-- [[generative-ai]]
-- [[design-thinking]]
-
-## Connected Articles
-- [[sequenced-ai-feedback-learning]]
-- [[multimodal-ai-feedback-learning]]
-- [[liang-genai-systematic-review-human-ai-2026]]
-- [[learning-by-chatting-genai-impact]]
-
-## Citation
-Fei, X. (2026). [*Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors*](https://doi.org/10.1111/bjet.70080). *British Journal of Educational Technology.*
-
----
-
 ## [Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game](https://edtechdev.github.io/aied/articles/hypergamification-game-engine-lms/)
 
 > **Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
@@ -38696,7 +38672,6 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[genai-feedback-design-multisite-experiment]] — GenAI feedback design in a multisite experiment
 - [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgments
 - [[ai-peer-feedback-systems]] — AI peer-feedback systems
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid-intelligence feedback systems in design thinking
 - [[care-full-feedback-genai]] — Care-full feedback with GenAI
 - [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
 
@@ -57165,7 +57140,6 @@ The work connects to broader conversations about how AI is reshaping [[higher-ed
 - [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI
 - [[ase-26-agentic-software-engineering-curriculum]] — Agentic Software Engineering Curriculum (ASE-26)
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — AI-Assisted SE Curriculum Syllabus Analysis
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid Intelligence Feedback Systems in Design Thinking
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[mixed-reality-engineering-learning]] — Mixed Reality in Engineering Learning
 
@@ -58413,7 +58387,6 @@ Strengths include a modular, component-level evaluation on authentic student ans
 - [[sequenced-ai-feedback-learning]]
 - [[care-full-feedback-genai]]
 - [[learner-centered-feedback-ai]]
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]]
 
 ## Citation
 

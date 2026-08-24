@@ -1,7 +1,7 @@
 ---
 title: "Enhancing learner-centered feedback with AI: teachers'' practices and perceptions"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [generative-ai, feedback, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, faculty-development-genai, rag]
 
@@ -65,7 +65,6 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[genai-feedback-design-multisite-experiment]] — GenAI feedback design in a multisite experiment
 - [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgments
 - [[ai-peer-feedback-systems]] — AI peer-feedback systems
-- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid-intelligence feedback systems in design thinking
 - [[care-full-feedback-genai]] — Care-full feedback with GenAI
 - [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
 
