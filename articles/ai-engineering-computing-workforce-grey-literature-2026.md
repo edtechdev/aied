@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-08-17T11:15:00-04:00"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [engineering-education, professional-training, ai-literacy, governance, curriculum-design, prompt-engineering, higher-ed, stem-education, cs-education]
 sources: ['raw/papers/ai-engineering-computing-workforce-grey-literature-2026.md']
@@ -59,7 +59,6 @@ The paper extends the wiki's coverage of AI and work, complementing empirical fr
 - [[genai-expertise-pathways-sysadmin]] — GenAI and Expertise Pathways in System Administration
 - [[skill-diversity-worker-resilience]] — Skill Diversity and Worker Resilience
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[ai-vocational-education-training-review]] — AI in Vocational Education and Training: A Systematic Review
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify?
 

@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **69 wiki articles were ingested before the full text was available** — a violation of the
+These **68 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 69 prematurely-ingested articles
+## The 68 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -38,7 +38,6 @@ the key.
 | agentic-workflows-education | — |
 | ai-acceptance-preservice-science-teachers-2026 | 10.31014/aior.1993.09.03.724 |
 | ai-education-global-capacity | — |
-| ai-higher-ed-bridge-gap | 10.1126/science.aeh5777 |
 | ai-higher-ed-workforce-survey | — |
 | ai-lms-middle-school-longitudinal | — |
 | ai-peer-feedback-systems | — |

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 891 articles, and 4 FAQs.
+> Complete text of 166 concepts, 890 articles, and 4 FAQs.
 
 # Concepts
 
@@ -13227,31 +13227,14 @@ Wu, J., Wang, Y., He, Y., Yin, X., Chen, F., & Wan, B. (2026). [*Acceptance of A
 - [[learning-gains]]
 ## Connected Articles
 
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
-- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[learner-ai-interaction-patterns-oop]] — Patterns of learner-AI interaction and academic performance
+- [[adaptive-pretesting-retention]] — Do GenAI-enabled adaptive pretesting gains persist?
+- [[ai-assessment-human-tutors]] — AI-driven assessment of human tutors
+- [[ai-coaching-rl-skill-development]] — AI coaching for accelerating human skill development
+- [[ai-availability-student-motivation]] — How AI availability shapes student motivation in programming
+- [[hybrid-human-ai-tutoring-differentiated]] — Differentiating human tutor roles in hybrid human-AI tutoring
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 
 ## Citation
 
@@ -15879,7 +15862,6 @@ While AI tools are globally available, the critical variable is local absorption
 - [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 
 ## Citation
 
@@ -15964,7 +15946,6 @@ The paper extends the wiki's coverage of AI and work, complementing empirical fr
 - [[genai-expertise-pathways-sysadmin]] — GenAI and Expertise Pathways in System Administration
 - [[skill-diversity-worker-resilience]] — Skill Diversity and Worker Resilience
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[ai-vocational-education-training-review]] — AI in Vocational Education and Training: A Systematic Review
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify?
 
@@ -16796,69 +16777,6 @@ Kawamura, K. (2026). [*AI-guided learning: Research on knowledge and skill acqui
 
 ---
 
-## [Higher Education Must Bridge the AI Gap](https://edtechdev.github.io/aied/articles/ai-higher-ed-bridge-gap/)
-
-> A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that [[higher-ed|higher education]] has a narrow window to shape AI's distribution equitably. Proposes a three-pillar [[ai-literacy|AI literacy]] framework: practical fluency, critical understanding, and ethical/professional use.
-
-## Definition
-A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that [[higher-ed|higher education]] has a narrow window to shape AI's distribution equitably. Proposes a three-pillar [[ai-literacy|AI literacy]] framework: practical fluency, critical understanding, and ethical/professional use.
-
-## The Urgency Argument
-AI's unprecedented speed, scale, and portability compress the time institutions have to respond. Historical technological revolutions widened divides — AI risks repeating this pattern. Institutions serving low-income and first-generation students face especially urgent pressure to act at AI's pace.
-
-## Three Pillars of AI Literacy
-1. **Practical Fluency** — prompt design, AI workflow integration, [[human-ai-collaboration|human-AI collaboration]]
-2. **Critical Understanding** — [[llm|LLMs]] don't reason or access truth; they predict patterns; training data can be manipulated; cross-checking with human expertise is essential
-3. **Ethical and Professional Use** — when to acknowledge AI use, distinguishing AI strengths from failures, aligning with professional standards
-
-## Cross-Sector Response
-An eLetter response argued universities cannot bridge the gap alone — commercial [[llm|LLMs]] are structurally opaque. Proposed cross-sector ecosystems (universities + research centers + industry) for algorithmic transparency. Cited China's "AI + Education" Action Plan (April 2026) and the Xiaoya platform deployed across 3,500+ universities.
-
-## Connected Concepts
-
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
-- [[regulation]]
-- [[llm]]
-- [[human-ai-collaboration]]
-- [[educational-policy-ai]]
-
-## Connected Articles
-
-- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
-- [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
-- [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
-- [[international-students-conversational-ai-adaptation]] — Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
-- [[principled-ai-education]] — Principled AI in Education
-- [[student-regulatory-awareness-genai]] — Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education
-- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[persistent-ai-agents-academic-research]]
-## Citation
-
-Miranda, M. L. (2026). [Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777). *Science*.
-
----
-
 ## [The Impact of AI on Work in Higher Education](https://edtechdev.github.io/aied/articles/ai-higher-ed-workforce-survey/)
 
 > A large-scale survey (n=1,960) by EDUCAUSE (2026) examining how AI is reshaping work in higher education institutions — attitudes, adoption patterns, institutional strategies, risks, and opportunities.
@@ -16923,7 +16841,7 @@ EDUCAUSE. (2026). [The Impact of AI on Work in Higher Education](https://www.edu
 
 ## [AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI](https://edtechdev.github.io/aied/articles/ai-in-the-wild-college/)
 
-Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date of authentic (rather than lab-based) interactions between college students and generative AI tools. By analyzing interaction logs at scale, they identify distinct patterns: some students use AI as a [[llm]]-powered learning companion for explanation and exploration, while others offload cognitive work entirely — copying outputs without comprehension. The work provides much-needed ecological validity to a literature that has largely relied on survey self-reports and controlled experiments. These findings connect directly to [[student-experience]] research, showing that the gap between AI 'use' and AI 'learning' is wide and context-dependent. The study offers actionable design implications for [[ai-higher-ed-bridge-gap]]: platforms should scaffold metacognitive engagement with AI outputs rather than optimizing for answer correctness alone. The paper also contributes to [[generative-ai]] literacy frameworks by mapping what competencies students actually display in uncontrolled settings, informing [[ai-literacy]] curriculum design.
+Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date of authentic (rather than lab-based) interactions between college students and generative AI tools. By analyzing interaction logs at scale, they identify distinct patterns: some students use AI as a [[llm]]-powered learning companion for explanation and exploration, while others offload cognitive work entirely — copying outputs without comprehension. The work provides much-needed ecological validity to a literature that has largely relied on survey self-reports and controlled experiments. These findings connect directly to [[student-experience]] research, showing that the gap between AI 'use' and AI 'learning' is wide and context-dependent. The study offers actionable design implications: platforms should scaffold metacognitive engagement with AI outputs rather than optimizing for answer correctness alone. The paper also contributes to [[generative-ai]] literacy frameworks by mapping what competencies students actually display in uncontrolled settings, informing [[ai-literacy]] curriculum design.
 
 ## Connected Concepts
 
@@ -16937,7 +16855,6 @@ Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date
 
 ## Connected Articles
 
-- [[ai-higher-ed-bridge-gap]]
 ## Citation
 
 Taelin Karidi, Ofra Amir, Ido Roll (2026). [AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI](https://arxiv.org/abs/2606.29442). arXiv:2606.29442. cs.CY (AIED 2026).
@@ -24822,31 +24739,14 @@ Initial deployment in programming courses showed promising results for student e
 
 ## Connected Articles
 
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
+- [[conversational-ai-tutors-framework]] — The path to conversational AI tutors
+- [[eduagentbench-agent-teaching-benchmark]] — Are agents ready to teach?
+- [[moodle-ai-tutoring-deep-learning]] — A grounded AI tutoring system for Moodle
+- [[programming-its]] — Programming intelligent tutoring systems
+- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: a GenAI programming tutor for K-12
+- [[structured-llm-feedback-programming]] — Effects of structured LLM feedback on programming performance
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-augmented tutoring for algorithm tracing
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participato...
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
 
 ## Citation
 
@@ -32516,7 +32416,7 @@ As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require s
 
 The paper contributes a design artifact: a framework of two task-specific declaration structures — one for writing-focused activities and one for coding assessments — developed for a Computer Science department based on an existing taxonomy of GenAI usage. By categorising AI usage across specific cognitive and developmental stages (e.g., structural planning vs. textual content generation, or code improvement vs. code generation), the framework encourages students to reflect on their own learning process and clarifies the boundary between acceptable assistance and [[academic-integrity|academic misconduct]].
 
-This domain-specific approach is proposed as a foundation for fostering more honest assessment in Computer Science and other disciplines, aiming to better prepare students for professional environments where documenting GenAI workflows might be an essential job requirement. The work connects to broader discussions about [[ai-higher-ed-bridge-gap]] and the tension between [[educational-policy-ai|institutional regulation]] and [[student-experience|student practice]].
+This domain-specific approach is proposed as a foundation for fostering more honest assessment in Computer Science and other disciplines, aiming to better prepare students for professional environments where documenting GenAI workflows might be an essential job requirement. The work connects to broader discussions about the tension between [[educational-policy-ai|institutional regulation]] and [[student-experience|student practice]].
 
 ## Connected Concepts
 
@@ -32531,7 +32431,6 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 
 ## Connected Articles
 
-- [[ai-higher-ed-bridge-gap]]
 ## Citation
 
 Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education](https://arxiv.org/abs/2606.13389). arXiv:2606.13389.
@@ -37116,7 +37015,6 @@ The study reveals a fundamental structural challenge in [[ai-education|AI govern
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 
 ## Citation
@@ -37534,7 +37432,7 @@ Understanding How International Students in the U.S. Are Using Conversational AI
 
 ## Summary
 
-This mixed-methods study (survey n=60, interviews n=14) investigates how international students in the U.S. adopt and perceive [[conversational-ai-tutors-framework]] tools like ChatGPT and Google Gemini for cross-cultural adaptation. The current support ecosystem — university systems and informal social networks — remains fragmented, echoing the integration gaps identified in [[ai-higher-ed-bridge-gap]].
+This mixed-methods study (survey n=60, interviews n=14) investigates how international students in the U.S. adopt and perceive [[conversational-ai-tutors-framework]] tools like ChatGPT and Google Gemini for cross-cultural adaptation. The current support ecosystem — university systems and informal social networks — remains fragmented, echoing broader integration gaps in higher education.
 
 **Key findings:**
 
@@ -37557,7 +37455,6 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 ## Connected Articles
 
 - [[conversational-ai-tutors-framework]]
-- [[ai-higher-ed-bridge-gap]]
 - [[ai-learning-companions-framework]]
 ## Citation
 
@@ -46116,31 +46013,14 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 - [[digital-divide]]
 ## Connected Articles
 
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
-- [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[codify-socratic-tutoring-programming]] — Codify: an intelligent Socratic tutoring system for programming
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching
+- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning with GenAI
+- [[hybrid-human-ai-tutoring-differentiated]] — Differentiating human tutor roles in hybrid human-AI tutoring
+- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
+- [[adaptive-pretesting-retention]] — Do GenAI-enabled adaptive pretesting gains persist?
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for designing AI to support adult learning
+- [[genai-declaration-frameworks-higher-education]] — Domain-specific GenAI declaration frameworks in higher ed
 
 ## Citation
 
@@ -47047,7 +46927,7 @@ The 17-agent configuration demonstrates how [[ai-changing-teaching-workflows]] m
 
 ## Methodological Contribution: PARE-M
 
-PARE-M provides six measurement dimensions that could be adapted for [[learning-analytics]] in AI-augmented classrooms: architecture mapping, utilization tracking, artifact production metrics, resource consumption, reproducibility assessment, and governance event logging. This structured approach to measuring human-AI ecosystems addresses the [[ai-higher-ed-bridge-gap]] between technological capability and institutional adoption.
+PARE-M provides six measurement dimensions that could be adapted for [[learning-analytics]] in AI-augmented classrooms: architecture mapping, utilization tracking, artifact production metrics, resource consumption, reproducibility assessment, and governance event logging. This structured approach to measuring human-AI ecosystems addresses the gap between technological capability and institutional adoption.
 
 ## Connected Concepts
 
@@ -47063,7 +46943,6 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 - [[ai-productivity-moderation]]
 - [[agentic-workflows-education]]
 - [[ai-changing-teaching-workflows]]
-- [[ai-higher-ed-bridge-gap]]
 ## Citation
 
 Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*](https://arxiv.org/abs/2605.26870). arXiv:2605.26870.
@@ -47752,7 +47631,6 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
@@ -56629,7 +56507,7 @@ Li, Y., Tolosa, L., Rivas Echeverria, F., & Marquez, R. (2026). [Translating UNE
 
 ## Core Argument
 
-The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions in [[ai-higher-ed-bridge-gap]] about the frameworks needed for higher education, and complements the [[ai-higher-ed-workforce-survey]] finding that most staff already use AI for work.
+The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions about the frameworks needed for higher education, and complements the [[ai-higher-ed-workforce-survey]] finding that most staff already use AI for work.
 
 ## The Four Levels of AI Adoption
 
@@ -56669,7 +56547,6 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[authentic-assessment]]
 ## Connected Articles
 
-- [[ai-higher-ed-bridge-gap]]
 - [[ai-higher-ed-workforce-survey]]
 - [[ai-education-global-capacity]]
 - [[ai-adult-learning-guidelines-dis2026]]

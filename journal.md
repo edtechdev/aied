@@ -4118,7 +4118,6 @@
   Building AI Companions that Prioritise Learning over Performance
   #llm #personalized-learning #adaptive-learning #metacognition #student-experience #self-regulated-learning #scaffolding
 
-- ◐ [[ai-higher-ed-bridge-gap]] — 'raw/papers/ai-higher-ed-bridge-gap.md'
   Higher Education Must Bridge the AI Gap
   #higher-ed #equity #ai-literacy #policy-maker #regulation #equity-in-ai-education #agentic-ai-ecosystems-higher-education #persistent-ai-agents-academic-research #llm
 

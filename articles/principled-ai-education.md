@@ -1,7 +1,7 @@
 ---
 title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-23T08:30:00-04:00"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
@@ -84,7 +84,6 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
