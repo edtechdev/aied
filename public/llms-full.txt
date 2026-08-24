@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 883 articles, and 4 FAQs.
+> Complete text of 166 concepts, 882 articles, and 4 FAQs.
 
 # Concepts
 
@@ -34106,26 +34106,6 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 ## Citation
 
 Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2422633122), 122(26). https://doi.org/10.1073/pnas.2422633122
-
----
-
-## [Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion](https://edtechdev.github.io/aied/articles/generative-ai-interactive-textbook-in-electrotechnics-a-four-year-comparative-st/)
-
-> **Synthesis:** This four-year comparative study presents results of implementing a [[generative-ai|Generative-AI Interactive Textbook]] built on GPT-4, integrated into an [[engineering-education|Electrical Engineering]] course. With a sample of 736 students, results suggest effects vary by [[assessment|assessment type]]: statistically significant improvement in mid-term assessment was consistently observed in multi-year analyses, while final assessment results showed more variable patterns. The study presents a practical method for implementing [[intelligent-tutoring|intelligent textbooks]] including targeted [[prompt-engineering|prompts]], didactic anchoring to higher levels of Bloom's taxonomy, and principles to ensure [[generative-ai|GenAI]] develops cognitive abilities rather than replacing them.
-
-## Key Findings
-
-This four-year comparative study presents results of implementing a [[generative-ai|Generative-AI Interactive Textbook]] built on GPT-4, integrated into an [[engineering-education|Electrical Engineering]] course. With a sample of 736 students, results suggest effects vary by [[assessment|assessment type]]: statistically significant improvement in mid-term assessment was consistently observed in multi-year analyses, while final assessment results showed more variable patterns. The study presents a practical method for implementing [[intelligent-tutoring|intelligent textbooks]] including targeted [[prompt-engineering|prompts]], didactic anchoring to higher levels of Bloom's taxonomy, and principles to ensure [[generative-ai|GenAI]] develops cognitive abilities rather than replacing them.
-
-## Connected Concepts
-- [[generative-ai]]
-
-## Connected Articles
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
-
-## Citation
-Fecko, B., Dziak, J., Vince, T., & Molnár, J. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). *Computers and Education: Artificial Intelligence.*
 
 ---
 
