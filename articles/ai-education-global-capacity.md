@@ -1,7 +1,7 @@
 ---
 title: "What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [policy-maker, equity, k-12, teacher-role, ai-literacy, teacher-ai-competency, equity-in-ai-education, faculty-development-genai, regulation]
 sources: ['raw/papers/ai-education-global-capacity.md']
@@ -69,7 +69,6 @@ While AI tools are globally available, the critical variable is local absorption
 - [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 
 ## Citation
 
