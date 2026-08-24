@@ -4,7 +4,7 @@ Updated: 2026-08-24
 
 ## Purpose
 
-These **61 wiki articles were ingested before the full text was available** — a violation of the
+These **57 wiki articles were ingested before the full text was available** — a violation of the
 maintainer's standing rule (*"do not add an article to the wiki unless you have downloaded the full
 text, and permanently save the full-text markdown under `raw/papers/`"*). Each has an article page in
 `articles/` but its `raw/papers/` source holds only the abstract, so the page could not be enriched to
@@ -28,7 +28,7 @@ the key.
 - **Send PDFs**: I'll save full text to `raw/papers/`, enrich the page from it, remove it from this list.
 - **Or decide to drop**: if a prematurely-ingested page's paper is not wanted, delete the page (returns it to the journal backlog instead).
 
-## The 61 prematurely-ingested articles
+## The 57 prematurely-ingested articles
 
 | Article page | DOI (if known) |
 |---|---|
@@ -45,8 +45,6 @@ the key.
 | ai-writing-support-stage-ownership-2026 | — |
 | automatic-short-answer-grading | — |
 | becerra-aicofe-feedback-2026 | — |
-| becker-chatgpt-typology-physics-2026 | 10.1103/gd1w-1637 |
-| benzion-ai-physics-simulations-virtual-lab | 10.1119/5.0252343 |
 | bridging-instructional-design-framework-math | — |
 | brookings-ai-students-report | — |
 | codify-socratic-programming-tutor | 10.32473/flairs.39.1.141554 |
@@ -56,9 +54,7 @@ the key.
 | cotal-formative-assessment-scoring-2026 | — |
 | educational-vlm-evaluation | — |
 | edumirror-educational-social-dynamics | — |
-| face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning | 10.1016/j.caeai.2026.100610 |
 | favero-critical-ai-tutors-empower-enslave-2025 | — |
-| fouad-bentley-trust-utility-gap-physics-2026 | 10.1103/bdl1-6bn4 |
 | from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em | 10.1111/bjet.70083 |
 | genai-academic-search-workshop | — |
 | genai-minoritized-knowledges-disability | — |
