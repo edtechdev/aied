@@ -125,3 +125,4 @@ Agentic initiative and self-regulation can be in direct tension: [[agentic-ai-pe
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Multiliteracies and AI portfolios
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study

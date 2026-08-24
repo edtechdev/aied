@@ -122,3 +122,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[ai-pedagogical-accompaniment-amico]] — AI pedagogical accompaniment (AMICO)
 - [[ai-metacognition-stem-review]] — AI and metacognition in STEM
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors

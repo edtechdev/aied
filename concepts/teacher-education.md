@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-24T10:36:00-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -45,6 +45,8 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - **Use simulated practice to scale preparation.** [[educasim-cs1-instructional-practice|EducaSim]]-style simulated classrooms give teachers-in-training low-cost, high-frequency practice with feedback — a complement to limited live coaching.
 - **Address beliefs and trust.** [[self-efficacy|Self-efficacy]] predicts AI-TPACK while strong traditional-teaching beliefs can be a barrier, and [[trust]] is shaped by transparency/fairness — attend to these psychological factors, not just skills.
 
+- **AI as cognitive mediator in teacher reflection (2026):** A practice-based Reflective Triangle Model uses AI to mediate between individual teacher reflection and shared professional knowledge in learning communities, addressing the common failure of reflection to transform into collective professional learning ([[reflective-triangle-model-teacher-ai-2026]]).
+
 ## Connected Concepts
 
 - [[teacher-role]]
@@ -80,3 +82,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator

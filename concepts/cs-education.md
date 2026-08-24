@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T06:11:49-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -75,6 +75,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - **Shift curricula toward verification and agent direction.** As GenAI automates implementation, teach understanding/verifying AI artifacts ([[reshaping-cs-education-genai|reshape curricula]]) and structured agentic-software-engineering skills ([[ase-26-agentic-software-engineering-curriculum|ASE-26]]).
 - **Structure collaboration for all learners.** Smaller consistent teams, explicit roles, and AI-use transparency support neurodivergent students and fair collaboration, especially where misaligned AI-use beliefs lower project scores.
 
+- **LLM-adaptive explanations of programming errors (2026):** A crowdsourced study (N=103) found LLM-rewritten error messages improve readability, but objective debugging performance depends on matching explanation style (pragmatic vs contingent) to programmer skill — a scaffolding insight for AI-assisted programming education ([[llm-adaptive-programming-error-explanations-2026]]).
+
 ## Connected Concepts
 
 - [[computational-thinking]]
@@ -125,3 +127,5 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors

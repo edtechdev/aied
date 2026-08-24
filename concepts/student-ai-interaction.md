@@ -49,3 +49,5 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors

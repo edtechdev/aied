@@ -42,3 +42,4 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
 - [[end-of-assessment-ai-disruption-transformation-2026]]
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)

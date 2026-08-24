@@ -100,3 +100,6 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment design with AI
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign for generative AI
+- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

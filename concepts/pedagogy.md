@@ -99,3 +99,4 @@ The key cross-cutting finding, consistent with the wiki's [[learning-gains]] res
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

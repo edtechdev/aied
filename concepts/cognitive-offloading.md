@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T06:13:02-04:00"
+updated: "2026-08-24T09:15:00-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -81,6 +81,9 @@ AI dependency is not simply a product of technical skill: [[student-dependency-o
 The effect is partly a **change in the threshold to respond, not in capacity**: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] show that merely having access to AI advice nearly eliminated people's willingness to say "I don't know" — even when the advice was wrong — while nearly doubling confidence and cutting accuracy to a third; incentives restored accuracy (by reducing reliance) but not suspension.
 
 - **The Safety Gap as the cost of offloading struggle.** [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] formalize the divergence between a student's AI-assisted performance and their unassisted capability as the "Safety Gap" — the epistemic risk when AI does the cognitive work and the learner cannot reproduce it. [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] and [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show productive-failure design (withholding answers, preserving struggle) is the countermeasure.
+
+- **AI overreliance as a complex adaptive system (2026):** Rather than studying overreliance one user at a time, a modelling paper frames it as a population-level process in which agents update Bayesian beliefs about AI quality and, when networked, learn from peers. Social proof can turn reliance into a feedback cascade (visible unverified use suppresses verification), while social learning creates consensus rather than overreliance — a framing that shifts intervention targets from individual calibration to the networked dynamics of trust and reliance ([[ai-overreliance-complex-adaptive-system-2026]]).
+
 ## Connected Concepts
 
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
@@ -134,3 +137,5 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
+- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator

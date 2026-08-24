@@ -103,3 +103,4 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent

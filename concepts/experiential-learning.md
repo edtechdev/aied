@@ -48,3 +48,4 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[educasim-cs1-instructional-practice]] — EducaSim: role play with simulated students for teacher training
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
