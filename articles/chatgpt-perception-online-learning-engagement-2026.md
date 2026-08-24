@@ -21,7 +21,7 @@ confidence: high
 ## Study Design & Method
 
 - **Design:** Cross-sectional, self-report questionnaire using a five-point Likert scale (1 = strongly disagree to 5 = strongly agree); stratified sampling across master's and PhD levels for representativeness.
-- **Theoretical grounding:** Integrated the Technology Acceptance Model (TAM; Davis, 1989) and Bandura's Social Cognitive Theory (SCT, 1986) to frame how personal, behavioral, and environmental factors shape ChatGPT adoption and engagement.
+- **Theoretical grounding:** Integrated the [[technology-acceptance-model|Technology Acceptance Model]] (TAM; Davis, 1989) and Bandura's Social Cognitive Theory (SCT, 1986) to frame how personal, behavioral, and environmental factors shape ChatGPT adoption and engagement.
 - **Perception of ChatGPT** (adapted from Chan & Hu, 2023): three subscales — Knowledge of Generative AI Technology (KGAT, 6 items), Willingness to Use Generative AI Technologies (WUGAT, 8 items), and Concerns About Generative AI Technologies (CGAT, 4 items); Cronbach's α = 0.711.
 - **Online learning engagement** (adapted from Kuo et al., 2021): 14 items across behavioral (3), emotional (5), and cognitive (6) engagement dimensions; Cronbach's α = 0.921.
 - **Academic performance** (adapted from Yu et al., 2010): four items; Cronbach's α = 0.889.

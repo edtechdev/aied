@@ -446,7 +446,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`teacher-ai-competency`** — Teacher AI Competency
 - **`teacher-education`** — Teacher Education
 - **`teacher-role`** — Teacher Role in AI-Enhanced Education
-- **`technology-acceptance-model`** — Technology Acceptance Model
+- **`technology-acceptance-model`** — Technology Adoption Models
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
 - **`transfer-of-learning`** — Transfer of Learning
 - **`trust-calibration`** — Trust Calibration

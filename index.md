@@ -955,7 +955,7 @@
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education
 - [[tech-enhanced-tabletop-cybersecurity-education]] — Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned
-- [[technology-acceptance-model]] — Technology Acceptance Model
+- [[technology-acceptance-model]] — Technology Adoption Models
 - [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 - [[test-driven-ai-assisted-learning]] — Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
 - [[text-simplification-its]] — Text Simplification for Intelligent Tutoring

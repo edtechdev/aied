@@ -12,7 +12,7 @@ confidence: high
 
 ## Core Finding
 
-Faculty members and students hold supportive yet distinctly shaped views on AI ethics in higher education, with faculty focused on principles and institutional support gaps and students on learning benefits and uncertain ethical responsibility. Both groups pragmatically accept AI while aware of its risks, and both worry that overuse erodes cognitive skills — a shared concern that frames ethical AI integration not merely as technology adoption but as preserving students' cognitive and professional development.
+Faculty members and students hold supportive yet distinctly shaped views on AI ethics in higher education, with faculty focused on principles and institutional support gaps and students on learning benefits and uncertain ethical responsibility. Both groups pragmatically accept AI while aware of its risks, and both worry that overuse erodes cognitive skills — a shared concern that frames ethical AI integration not merely as [[technology-acceptance-model|technology adoption]] but as preserving students' cognitive and professional development.
 
 ## Faculty Perspectives
 
