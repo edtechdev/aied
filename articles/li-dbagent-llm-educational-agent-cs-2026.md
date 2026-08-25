@@ -21,7 +21,7 @@ confidence: high
 
 ## Implications
 
-This study provides empirical evidence for [[intelligent-tutoring]] and [[agentic-ai|agent-based]] learning: [[agentic-ai|autonomous LLM agents]] can improve achievement and reduce social inhibition, but their psychological-safety advantage comes with a [[cognitive-offloading|cognitive offloading]] risk — lower-order tasks are offloaded and students can become locked in routine processing without [[scaffolding]] that introduces productive [[desirable-difficulties|struggle]]. The finding that only ~4% of interactions reach higher-order cognition echoes the wiki's [[measuring-llm-tutors-teach-vs-solve|teach-vs-solve]] and [[tutoring-specific-vs-general-ai]] evidence: agent compliance must be designed with pedagogical friction.
+This study provides empirical evidence for [[intelligent-tutoring]] and [[agentic-ai|agent-based]] learning: [[agentic-ai|autonomous LLM agents]] can improve achievement and reduce social inhibition, but their psychological-safety advantage comes with a [[cognitive-offloading|cognitive offloading]] risk — lower-order tasks are offloaded and students can become locked in routine processing without [[scaffolding]] that introduces productive [[desirable-difficulties|struggle]]. The finding that only ~4% of interactions reach higher-order cognition echoes the wiki's [[measuring-llm-tutors-teach-vs-solve|teach-vs-solve]] and [[stanford-evidence-base-ai-k12-2026]] evidence: agent compliance must be designed with pedagogical friction.
 
 The offload-evaluate cycle and lower-order distribution connect directly to [[cognitive-diagnosis]] (evaluating what students actually process) and [[cognitive-offloading]]. The psychological-safety mechanism and the prompt-engineering gap inform [[ai-literacy]] and [[student-ai-interaction]] — and argue for building verification and critical-evaluation scaffolds into agent design.
 
@@ -46,7 +46,7 @@ The offload-evaluate cycle and lower-order distribution connect directly to [[co
 - [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: pedagogical LLM agents
 - [[measuring-llm-tutors-teach-vs-solve]] — Whether LLM tutors teach or solve
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
 - [[deeptutor]] — DeepTutor: open-source agentic tutoring framework
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 

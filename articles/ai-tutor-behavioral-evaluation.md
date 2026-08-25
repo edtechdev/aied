@@ -23,7 +23,7 @@ A framework for evaluating AI tutoring systems that extends beyond the pedagogic
 4. **Actionable metrics:** The framework provides concrete measurements — action rate (did the student modify their submission?) and correct application rate (was the modification applied correctly?) — that jointly reveal whether feedback drives learning.
 
 ## Significance for AI in Education
-This work addresses a critical evaluation gap in [[ai-ed-evaluation]]. An AI tutor that gives perfect pedagogical feedback is worthless if students ignore it or apply it incorrectly. The behavioral axis complements pedagogical assessment to provide a complete picture of real-world effectiveness, and challenges assumptions in [[tutoring-specific-vs-general-ai]] about what makes tutoring effective.
+This work addresses a critical evaluation gap in [[ai-ed-evaluation]]. An AI tutor that gives perfect pedagogical feedback is worthless if students ignore it or apply it incorrectly. The behavioral axis complements pedagogical assessment to provide a complete picture of real-world effectiveness, and challenges assumptions in [[stanford-evidence-base-ai-k12-2026]] about what makes tutoring effective.
 
 ## How the Evaluation Works
 The study situates evaluation in the [[student-ai-interaction|student–AI tutor interaction]] within CS61A, an introductory programming course at UC Berkeley with roughly 1,000 students per semester. Students solve problems in an online environment with an [[automated-assessment|autograder]] that gives immediate feedback on passed and failed test cases; whenever a submission fails, an [[llm|LLM]]-based tutor returns natural-language feedback. The dataset spans Fall 2024 (BaselineTutor) and Fall 2025 (MisconceptionTutor), two tutor configurations built on the same [[generative-ai|LLM]] (GPT-4) that differ only in [[prompt-engineering|prompting structure]] — the latter adding explicit detection and targeting of likely [[student-misconceptions-ai|student misconceptions]] from an instructor-authored list.
@@ -71,7 +71,7 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[academiclaw-student-agent-benchmark]]
 - [[ai-pedagogical-accompaniment-amico]]
 - [[automatic-short-answer-grading]]

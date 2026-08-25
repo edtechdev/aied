@@ -1,7 +1,7 @@
 ---
 title: "NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T21:00:00-04:00"
 type: article
 tags: [benchmark, stem-education, k-12, llm, efficacy-study, pedagogical-llm-training, k-12, automated-question-generation, ai-education]
 sources: ['raw/papers/2605.07051.md']
@@ -30,7 +30,7 @@ The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, 
 
 This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[educational-vlm-evaluation]] work on DrawEduMath by providing a text-based STEM reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] research and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
 
-The finding that LLMs lag behind top human students on these riddles reinforces [[tutoring-specific-vs-general-ai]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
+The finding that LLMs lag behind top human students on these riddles reinforces [[stanford-evidence-base-ai-k12-2026]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
 
 ## Open Questions
 
@@ -54,7 +54,6 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - [[teachbench-llm-teaching-evaluation]]
 - [[educational-vlm-evaluation]]
 - [[civic-education-ai-lesson-plans]]
-- [[tutoring-specific-vs-general-ai]]
 - [[elbench-education-llm-benchmark-2026]]
 ## Citation
 

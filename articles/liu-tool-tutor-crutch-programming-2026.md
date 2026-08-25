@@ -20,7 +20,7 @@ confidence: high
 
 ## Implications
 
-This is a direct theoretical contribution to the wiki's [[cognitive-offloading]] thread in [[cs-education|programming education]], providing a *process-level* account of why performance and affect gains coexist with thinner learning — the scaffolding-vs-offloading distinction operationalizes the "coach vs. crutch" boundary the wiki documents. The proposed interventions (critique-the-AI, planned fading, verification journals) offer concrete, testable levers aligned with [[reducing-ai-misuse]] and [[ai-literacy]] — moving beyond bans toward calibrated, self-regulated AI use. The finding connects to [[measuring-llm-tutors-teach-vs-solve]] and [[tutoring-specific-vs-general-ai]].
+This is a direct theoretical contribution to the wiki's [[cognitive-offloading]] thread in [[cs-education|programming education]], providing a *process-level* account of why performance and affect gains coexist with thinner learning — the scaffolding-vs-offloading distinction operationalizes the "coach vs. crutch" boundary the wiki documents. The proposed interventions (critique-the-AI, planned fading, verification journals) offer concrete, testable levers aligned with [[reducing-ai-misuse]] and [[ai-literacy]] — moving beyond bans toward calibrated, self-regulated AI use. The finding connects to [[measuring-llm-tutors-teach-vs-solve]] and [[stanford-evidence-base-ai-k12-2026]].
 
 ## Connected Concepts
 
@@ -38,7 +38,7 @@ This is a direct theoretical contribution to the wiki's [[cognitive-offloading]]
 - [[ai-making-us-stupid]] — AI's cognitive effects / overconfidence
 - [[coach-not-crutch-ai-writing]] — AI as coach not crutch in writing
 - [[measuring-llm-tutors-teach-vs-solve]] — Whether LLM tutors teach or solve
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
 - [[jost-llm-programming-education-learning-outcomes]] — LLM reliance and grades in coding
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty
 

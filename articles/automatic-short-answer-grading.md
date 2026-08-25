@@ -62,7 +62,7 @@ Feature vector per response: `[s^verb, s^lat, s^cons, s^alea, token_length]`
 
 ## Relationship to Tutoring-Specific Design
 
-ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai|tutoring-specific feedback]]: while tutoring tools generate formative scaffolds, grading tools must manage summative uncertainty. Both require explicit epistemic humility—acknowledging when the model should defer to human judgment.^[[cong-confidence-asag-2026]]
+ASAG confidence estimation is complementary to [[stanford-evidence-base-ai-k12-2026|tutoring-specific feedback]]: while tutoring tools generate formative scaffolds, grading tools must manage summative uncertainty. Both require explicit epistemic humility—acknowledging when the model should defer to human judgment.^[[cong-confidence-asag-2026]]
 
 ## Connected Concepts
 
@@ -78,7 +78,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 ## Connected Articles
 
 - [[cong-confidence-asag-2026]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.

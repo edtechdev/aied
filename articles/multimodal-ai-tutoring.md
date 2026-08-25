@@ -45,7 +45,7 @@ This relies purely on prompt design—no model retraining, no specialized benchm
 
 ## Relationship to Tutoring-Specific Design
 
-The structured dialogue intervention is structurally similar to [[tutoring-specific-vs-general-ai|tutoring-specific guardrails]]: it forces the LLM to reason step-by-step rather than jumping to answers. It also preserves productive cognitive load by making the student (or in this case, the LLM) attend to visual structure before solving.^[[syal-multimodal-dialogue-stem-2026]]
+The structured dialogue intervention is structurally similar to [[stanford-evidence-base-ai-k12-2026|tutoring-specific guardrails]]: it forces the LLM to reason step-by-step rather than jumping to answers. It also preserves productive cognitive load by making the student (or in this case, the LLM) attend to visual structure before solving.^[[syal-multimodal-dialogue-stem-2026]]
 
 ## Implications
 
@@ -76,7 +76,7 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 ## Connected Articles
 
 - [[syal-multimodal-dialogue-stem-2026]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131)

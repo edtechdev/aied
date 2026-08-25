@@ -91,7 +91,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[critical-thinking-genai-scaffolding]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle

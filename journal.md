@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1051
+**Last updated:** 2026-08-24 | **Total entries:** 1050
 
 ## 2026-08-24
 
@@ -4303,10 +4303,6 @@
 - ◐ [[educational-llm-alignment]] — 'raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md'
   Educational LLM Alignment
   #llm #benchmark #efficacy-study #bias-mitigation #teacher-role #pedagogical-llm-training #faculty-development-genai #ai-literacy #ethics
-
-- ◐ [[tutoring-specific-vs-general-ai]] — 'raw/papers/stanford-evidence-base-ai-k12-2026.md'
-  Tutoring-Specific vs. General-Purpose AI in Education
-  #intelligent-tutoring #llm #generative-ai #personalized-learning #scaffolding #adaptive-learning #pedagogical-llm-training #self-regulated-learning #sociocultural-learning #metacognition
 
 - ◐ [[multimodal-learning-genai]] — 'raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md'
   Multimodal Learning with Generative AI

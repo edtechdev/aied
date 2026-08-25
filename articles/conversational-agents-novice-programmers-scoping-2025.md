@@ -46,7 +46,7 @@ The inclusivity findings reinforce that [[equity-in-ai-education|language and ge
 
 - [[gaide-vibe-coding-k12-teachers]] — Vibe coding framework for K-12 teachers
 - [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs general AI
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 

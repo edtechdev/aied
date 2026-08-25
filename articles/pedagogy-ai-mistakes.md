@@ -90,7 +90,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 - Complements [[socratic-method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation.
 - Extends [[ai-literacy]]: students learn not just to use AI but to critically evaluate its outputs, aided by [[prompt-engineering|prompting strategies]] and critique exercises.
 - Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable.
-- Contrasts with [[tutoring-specific-vs-general-ai]]: here the AI's imperfection is the feature, not the bug.
+- Contrasts with [[stanford-evidence-base-ai-k12-2026]]: here the AI's imperfection is the feature, not the bug.
 - Aligns with [[active-learning]]: students learn more effectively by actively critiquing and revising solutions than by passively receiving feedback.
 - Situated in [[self-directed-learning]] (common in [[online-teaching-and-learning|online education]]) and [[self-regulated-learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
 - Connects to [[cognitive-offloading]]: the pedagogy counters over-reliance on AI by making its errors the subject of scrutiny, rather than allowing students to passively accept AI output.
@@ -116,7 +116,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 
 ## Citation
 
