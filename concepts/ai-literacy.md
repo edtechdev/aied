@@ -1,10 +1,10 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T12:50:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
-connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
+connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies]
 confidence: high
 ---
 

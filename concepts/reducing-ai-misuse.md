@@ -1,7 +1,8 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
+connected_faqs: [reduce-ai-cheating, designing-ai-into-learning]
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high

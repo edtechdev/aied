@@ -1,7 +1,8 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T16:50:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
+connected_faqs: [designing-educational-ai-software]
 type: concept
 tags: [edtech-platform, ai-education, lms, online-education, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity]
 confidence: high
