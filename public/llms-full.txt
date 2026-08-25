@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 168 concepts, 877 articles, and 4 FAQs.
+> Complete text of 168 concepts, 879 articles, and 4 FAQs.
 
 # Concepts
 
@@ -102,6 +102,10 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[best-response-student-ai-dialog-2026]] — Mandernach 2026: from policing to dialog via learning verification
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+
+- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? risk perceptions and ChatGPT usage
+
+- [[qu-wang-disclose-or-not-genai-2026]] — To disclose or not to disclose: peer influence and GenAI use
 
 ---
 
@@ -824,6 +828,10 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
+
+- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Risk perception and academic-dishonesty anxiety suppress ChatGPT use
+
+- [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
 
 ---
 
@@ -45853,6 +45861,58 @@ Ivanova, T. (2026). *[Ontology-based layered hybrid AI-driven knowledge model fo
 
 ---
 
+## [Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students](https://edtechdev.github.io/aied/articles/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025/)
+
+> **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of ChatGPT are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
+
+Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[plagiarism-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
+
+## Method
+
+- **Sample:** 468 undergraduate students who completed an online survey.
+- **Constructs:** Perception of Academic Dishonesty (PAD), perceived risk of ChatGPT use, self-reported use frequency, and intention to use ChatGPT in the future.
+- **Analysis:** Regression examining direct effects of perceived risk on usage, plus mediation testing whether perceived risk transmits the effect of PAD on usage.
+
+## Key Findings
+
+- **Perceived risk → lower use.** A negative and significant relationship exists between perceived risk of ChatGPT and both current use frequency and future intention to use it.
+- **Perceived risk mediates PAD.** Perceived risk statistically mediates the relationship between Perception of Academic Dishonesty and ChatGPT usage patterns.
+- **First demonstration of the chain.** This is the first study to show that students with high PAD present higher awareness of ChatGPT's risks, which is associated with lower frequency of use and lower intention to use.
+- **The [[ethics|ethical]]-versus-convenience tension.** Students who take academic dishonesty seriously internalize the risks (accuracy, [[privacy]], [[academic-integrity|integrity]]) and self-limit their AI use accordingly — rather than simply being deterred by [[governance|institutional]] rules.
+
+## Implications
+
+- **For developers:** Users must *feel safe* using AI tools. Improvements to data protection, cybersecurity, training-data transparency, and information accuracy (e.g. citing real references) reduce perceived risk and, in turn, promote more responsible adoption.
+- **For institutions and educators:** Integrating AI responsibly means carefully considering ethical issues and students' perceptions of risk — not just prohibiting or mandating AI, but shaping the perceived-risk environment.
+- **For [[ai-anxiety-and-stress]]:** Perceived risk and the fear of committing [[academic-integrity|academic dishonesty]] are a source of student anxiety around AI use; this study quantifies how that risk perception behaviorally suppresses use. It connects the integrity and anxiety dimensions of AI use.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[plagiarism-detection]]
+- [[privacy]]
+- [[student-experience]]
+- [[ai-anxiety-and-stress]]
+- [[ethics]]
+- [[ai-literacy]]
+- [[trust]]
+
+## Connected Articles
+
+- [[ai-tools-academic-work-cheating-2026]] — whether using AI tools for academic work counts as cheating
+- [[qu-wang-disclose-or-not-genai-2026]] — peer influence and psychological factors in disclosing GenAI use
+- [[moral-panic-genai-classroom]] — moral panic and appropriate GenAI use
+- [[best-response-student-ai-dialog-2026]] — student reasoning about AI use
+- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
+
+## Citation
+
+Ortiz-Bonnin, S., & Blahopoulou, J. (2025). [*Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students*](https://doi.org/10.1007/s11218-025-10080-2). *Social Psychology of Education*, 28, 113. https://doi.org/10.1007/s11218-025-10080-2
+
+---
+
 ## [Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment](https://edtechdev.github.io/aied/articles/pairr-ai-peer-review-2025/)
 
 > **Synthesis:** Sperber et al. (2025) present the Peer and AI Review + Reflection (PAIRR) model, a human-centered approach to formative assessment that combines peer review best practices with AI review while emphasizing student agency and reflection. In the largest study of college students' use of AI feedback to date (N = 654 across 10 writing courses and three writing-intensive STEM courses at UC Davis), they found that AI feedback is most useful when combined with peer review: the majority of students preferred combined feedback, found the similarity between AI and peer feedback reassuring, valued their complementary perspectives, and developed AI literacy by critically assessing AI outputs.
@@ -48074,6 +48134,58 @@ Reinforcement learning is usually introduced through the Bellman update, yet the
 ## Citation
 
 Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis](https://arxiv.org/abs/2607.10802). arXiv:2607.10802. arXiv preprint.
+
+---
+
+## [To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence](https://edtechdev.github.io/aied/articles/qu-wang-disclose-or-not-genai-2026/)
+
+> **To disclose or not to disclose** — a [[mixed-methods-research|mixed-methods]] study of 409 Singaporean undergraduates examining why students conceal their [[generative-ai]] use despite [[governance|institutional]] disclosure mandates. Guided by Bandura's Social Cognitive Theory, it finds disclosure is primarily predicted by *relational and social* variables — perceived peer disclosure and comfort with instructors were the strongest predictors, while moral disengagement had weaker effects. Non-disclosure reflects strategic adaptation to perceived peer norms and low interpretive trust in instructors, not moral negligence.
+
+Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] as a *relationally embedded* practice rather than simple cheating. Despite mandates, students frequently conceal their GenAI use, reflecting [[ethics|ethical]] uncertainty and relational risk. The study moves the focus from compliance toward the social environments that make transparency possible.
+
+## Method
+
+- **Sample:** 409 undergraduates at a Singaporean university who reported using GenAI tools for academic purposes.
+- **Theory:** Bandura's Social Cognitive Theory — how cognitive, social, and emotional factors jointly shape disclosure willingness.
+- **Design:** Mixed-methods. [[quantitative-research|Quantitative]] hierarchical regression tested the effects of moral disengagement, perceived peer disclosure, and relational comfort with peers/instructors on self-reported disclosure likelihood. [[qualitative-research|Qualitative]] thematic analysis of open-text responses explored students' interpersonal reasoning and perceived risks.
+
+## Key Findings
+
+- **Relational and social predictors dominate.** Perceived peer disclosure and comfort with instructors were the strongest predictors of disclosure likelihood; moral disengagement showed weaker effects.
+- **Non-disclosure is strategic, not negligent.** Qualitative findings revealed non-disclosure reflected strategic adaptation to perceived peer norms and low *interpretive trust* in instructors, rather than a lack of moral concern.
+- **Transparency depends on trust.** Disclosure is a relationally embedded practice where ethical decisions are co-constructed within specific social and institutional contexts. Non-disclosure may reflect moral adaptation in environments with normative ambiguity and interpretive uncertainty.
+- **Institutional implication:** Transparency depends less on compliance and more on environments that enhance trust and positive normative climates.
+
+## Implications
+
+- **For [[academic-integrity]] policy:** mandates alone are insufficient. Institutions should build trust and constructive peer norms rather than rely on detection or punishment.
+- **For [[ai-anxiety-and-stress]]:** the "to disclose or not" dilemma — weighing honesty against relational risk and fear of misinterpretation — is a genuine source of student stress around AI use, linking integrity anxiety to social/peer pressure.
+- **For educators:** comfort with instructors and perceived peer behavior shape whether students are willing to be transparent about AI use; relational climate is a designable variable.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[trust]]
+- [[ethics]]
+- [[student-experience]]
+- [[ai-anxiety-and-stress]]
+- [[ai-literacy]]
+- [[student-engagement]]
+
+## Connected Articles
+
+- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — academic dishonesty, risk perceptions, and ChatGPT usage
+- [[ai-tools-academic-work-cheating-2026]] — whether using AI tools counts as cheating
+- [[moral-panic-genai-classroom]] — moral panic and appropriate GenAI use
+- [[best-response-student-ai-dialog-2026]] — student reasoning about AI use
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — automated proctoring and dishonesty
+- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
+
+## Citation
+
+Qu, Y., & Wang, J. (2026). [*To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence*](https://doi.org/10.1111/bjep.70086). *British Journal of Educational Psychology*. https://doi.org/10.1111/bjep.70086
 
 ---
 
