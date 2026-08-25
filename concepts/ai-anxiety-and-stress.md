@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-08-25T10:00:00-04:00"
+updated: "2026-08-25T10:10:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, mental-health]
 confidence: high
@@ -25,7 +25,7 @@ This cluster connects AI anxiety to [[privacy]], [[academic-integrity]], and [[e
 
 Beyond proctoring, AI use itself generates anxiety — about being replaced, about whether one's work is "really one's own," about competence. Crucially, this anxiety is **not purely negative**:
 
-- [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**: higher AI anxiety was positively associated with verification and revision behaviors, transforming anxious students into more deliberate, self-regulated users of [[generative-ai|generative AI]]. This reframes AI anxiety from a barrier to a potentially useful signal that encourages closer scrutiny.
+- [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**: higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01), and evaluative capacity predicted active [[student-engagement|engagement]] (β=.46, p<.001). Kim's four regulatory types (Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%) show anxiety-driven scrutiny can transform students into more deliberate, self-regulated users of [[generative-ai|generative AI]] rather than passive adopters. This reframes AI anxiety from a barrier to a potentially useful signal that encourages closer scrutiny.
 - [[acceptance-ai-english-tools-2026|Acceptance studies]] show anxiety shapes whether learners adopt AI tools, and [[teacher-education-ai-literacy-sdt-2026|teacher-education research]] links AI anxiety to motivation and [[self-regulated-learning|self-regulation]].
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]] studies student anxiety during AI-mediated [[assessment|performance-based assessments]], showing assessment anxiety persists and must be designed for.
 - **Moral panic and educator anxiety:** [[moral-panic-genai-classroom|the moral-panic framing]] shows faculty anxiety about GenAI mirrors earlier panics (calculators, search engines) — a [[teacher-role|teacher]]-side stress response that shapes classroom policy.
