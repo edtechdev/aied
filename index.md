@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1050
+**Last updated:** 2026-08-24 | **Total pages:** 1051
 ---
 ## Concepts
 
@@ -490,6 +490,7 @@
 - [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
 - [[governance]] — AI Governance
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education
+- [[guardrails]] — Guardrails (AI in Education)
 - [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring
 - [[gpt4o-mini-music-analysis-scoring]] — Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias
 - [[graph-its-adaptive-algorithms-2026]] — Intelligent Tutoring in Dynamic Domains: A Graph-Based System for Comparative Analysis of Adaptive Algorithms

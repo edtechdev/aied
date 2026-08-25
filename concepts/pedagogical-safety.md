@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-18T16:30:00-04:00"
+updated: "2026-08-25T08:30:00-04:00"
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
 
@@ -43,6 +43,7 @@ Design pedagogical safety as a measurable, discipline-aware requirement rather t
 Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[pedagogical-llm-training|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogued in [[ai-misuse-learning-harm]] and the [[ai-tutor-safety-harms|tutor harm taxonomies]].
 
 ## Connected Concepts
+- [[guardrails]] — the design mechanisms that implement safety
 
 - [[hallucination-risk]]
 - [[rag]]

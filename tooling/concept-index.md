@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 151
+**Total concepts:** 152
 
 ## Canonical concepts
 
@@ -208,6 +208,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: generative AI; GenAI; generative artificial intelligence; GAI; chatbot; ChatGPT; generative model
     - phrases: Global South; developing country; developing countries; majority world; low-resource context; non-Western context
     - phrases: governance; AI governance; governance framework
+    - phrases: guardrails; AI guardrails; safety guardrails; pedagogical guardrails; hint-not-answer; content guardrails; guardrailed tutor
     - phrases: hallucination; hallucination risk; AI hallucination; LLM hallucination
     - phrases: help-seeking; help seeking; help seeking behavior; help avoidance
     - phrases: higher education; higher-ed; university; college; HE; post-secondary
@@ -366,6 +367,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`generative-ai`** — Generative AI
 - **`global-south`** — Global South
 - **`governance`** — AI Governance
+- **`guardrails`** — Guardrails (AI in Education)
 - **`hallucination-risk`** — Hallucination Risk
 - **`help-seeking`** — Help-Seeking
 - **`higher-ed`** — AI in Higher Education

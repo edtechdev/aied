@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-25T08:30:00-04:00"
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
@@ -58,6 +58,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 - **Human oversight persists in AI-assisted work.** [[scaffolding-systematic-reviews-2026|Systematic-review research]] found AI automation tools reduced procedural burdens (e.g. screening) but interpretive decisions still required substantial human oversight; [[kim-ai-andragogy-2026|andragogy research]] makes human-in-the-loop (shared mental models, co-creation) a core AI design principle.
 ## Connected Concepts
+- [[guardrails]]
 
 - [[formative-assessment]]
 - [[automated-assessment]]
