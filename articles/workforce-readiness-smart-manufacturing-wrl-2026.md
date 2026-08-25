@@ -76,8 +76,6 @@ The work connects to broader conversations about how AI is reshaping [[higher-ed
 - [[experiential-learning]]
 
 ## Connected Articles
-
-- [[ai-higher-ed-workforce-survey]] — AI and the Higher-Ed Workforce: A Survey
 - [[ai-engineering-education-balancing-act]] — The Balancing Act in AI Engineering Education
 - [[ai-learning-tools-engineering-education-needs]] — AI Learning Tools and Engineering Education Needs
 - [[competency-based-education-genai-production-2026]] — Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI

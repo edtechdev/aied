@@ -28,7 +28,6 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 ## Connected Articles
 
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
-- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

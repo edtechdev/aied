@@ -45,7 +45,6 @@ For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative
 - [[personalized-learning]]
 - [[self-determination-theory]]
 
-
 ## Citation
 
 Dong, Y. (2026). [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://www.nature.com/articles/s41599-026-06903-y). *Humanities and Social Sciences Communications* 13, 559. https://doi.org/10.1057/s41599-026-06903-y

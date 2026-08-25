@@ -37,7 +37,6 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 - [[well-being]]
 - [[self-determination-theory]]
 
-
 ## Connected Articles
 
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education

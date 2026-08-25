@@ -37,7 +37,6 @@ The evaluation focuses on platform accessibility and usability for beginners rat
 - [[computational-thinking]]
 - [[simulation]]
 
-
 ## Connected Articles
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio: Conversational Block Programming

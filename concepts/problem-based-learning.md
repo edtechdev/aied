@@ -35,7 +35,6 @@ Because PBL foregrounds process, collaboration, and demonstrated understanding o
 
 [[productive-failure|Productive failure (PF)]] shares PBL's constructivist core — learners engage problems before instruction — but differs in structure: PF deliberately withholds instruction and scaffolds until *after* learners struggle to generate solutions, whereas PBL embeds facilitation throughout. The AI-era PF literature directly informs how AI should behave inside problem-based settings: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show AI should preserve productive struggle with non-directive support across PF phases; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] demonstrate LLM tutors can be steered to withhold answers and elicit multiple solution attempts; and [[rhaimi-productivemath-2025|ProductiveMath]] uses AI to help design high-quality PF/PBL-style problems. The design question — when AI should give a problem, a hint, or an answer — is shared across both pedagogies.
 
-
 ## Connected Concepts
 
 - [[project-based-learning]]

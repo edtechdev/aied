@@ -18,7 +18,7 @@ AI in higher education research spans every function of the university: from [[i
 
 ### Student experience at scale
 
-Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice. [[ai-higher-ed-workforce-survey|Workforce preparation surveys]] connect AI use in higher education to employment outcomes. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students.
+Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice.  connect AI use in higher education to employment outcomes. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students.
 
 ### Faculty and teaching
 
@@ -61,7 +61,6 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[institutional-change-framework-ai]] — Institutional Change in the Age of AI
 - [[genai-availability-grades-satisfaction]] — GenAI Availability and Student Satisfaction
 - [[ai-assessment-scale-reform]] — AI Assessment Scale and Reform
-- [[ai-higher-ed-workforce-survey]] — AI in Higher Education Workforce Survey
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
 - [[enright-staff-perspectives-genai-2026]] — Staff perspectives on GenAI in higher education

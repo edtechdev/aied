@@ -17,7 +17,6 @@ sources:
 confidence: high
 ---
 
-
 # Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives
 
 ## Summary

@@ -81,7 +81,6 @@ The demographic patterns carry [[equity-in-ai-education]] implications, particul
 - [[agency-gap-ai-writing]] — The agency gap in AI writing
 - [[ai-assessment-human-tutors]] — AI assessment compared with human tutors
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' engagement with GenAI (self-determination)
-- [[ai-higher-ed-workforce-survey]] — AI in higher-ed workforce survey
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
 
 ## Citation

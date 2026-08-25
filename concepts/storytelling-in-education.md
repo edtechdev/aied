@@ -28,7 +28,6 @@ Storytelling connects to [[student-engagement]], [[motivation]], [[creativity]],
 - [[language-learning]]
 - [[social-emotional-learning]]
 
-
 ## Connected Articles
 
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo

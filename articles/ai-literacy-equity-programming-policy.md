@@ -27,9 +27,7 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
-- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 

@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1068
+**Last updated:** 2026-08-24 | **Total entries:** 1063
 
 ## 2026-08-25
 
@@ -2543,10 +2543,6 @@
 - ◐ [[critical-genai-use-predictors]] — 'raw/papers/mdpi-2026-critical-genai-use-predictors.md'
   GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
   #ai-literacy #higher-ed #student-experience #cognitive-offloading #educational-theory #ai-literacy-assessment-misalignment #metacognition
-
-- ◐ [[lets-chat-chatbot-outreach-2026]] — 'raw/papers/lets-chat-chatbot-outreach-2026.md'
-  Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance
-  #higher-ed #student-experience #generative-ai #engagement-metrics #rct #rag #llm
 
 - ◐ [[scaffolding-critical-engagement-genai-minority-students]] — 'raw/papers/2607.28630.md'
   Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks

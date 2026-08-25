@@ -60,9 +60,6 @@ This paper is a cornerstone reference for the wiki's accessibility/disability to
 - [[instructional-design]]
 
 ## Connected Articles
-
-- [[state-policy-teacher-ai]] — State policy and teacher AI use
-- [[brookings-ai-students-report]] — Brookings report on AI and students
 - [[principled-ai-education]] — Principled approaches to AI in education
 
 ## Citation

@@ -115,7 +115,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
 - [[raza-farooq-aied-review-2020-2025]] — A comprehensive review of AIED research
 - [[liang-genai-systematic-review-human-ai-2026]] — GenAI in education: systematic review
-- [[brookings-ai-students-report]] — AI and the future of students
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
 - [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: AI integration in educational ecosystems

@@ -12,7 +12,7 @@ confidence: medium
 
 ## Core Argument
 
-The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions about the frameworks needed for higher education, and complements the [[ai-higher-ed-workforce-survey]] finding that most staff already use AI for work.
+The paper positions AI not as an existential threat to universities but as a **catalyst for reimagining** what universities do. Drawing on a case study of AI-enabled curriculum initiatives across several units at one institution, the authors contend that most universities remain in the early stages of adoption, where AI innovation occurs **informally and without institutional recognition**. The key institutional challenge is therefore not technological provision but **alignment**: redesigning learning around AI-supported reasoning and aligning policies, workload models, and recognition systems to support educational transformation. This connects to broader discussions about the frameworks needed for higher education, and complements the  finding that most staff already use AI for work.
 
 ## The Four Levels of AI Adoption
 
@@ -29,7 +29,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 
 ## Connections to Wiki
 
-- Shares the institutional perspective with [[ai-education-global-capacity]] on human/institutional capacity bottlenecks
+- Shares the institutional perspective with  on human/institutional capacity bottlenecks
 - Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
 - Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
 - The workload-and-recognition emphasis speaks to [[faculty-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
@@ -51,9 +51,6 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[regulation]]
 - [[authentic-assessment]]
 ## Connected Articles
-
-- [[ai-higher-ed-workforce-survey]]
-- [[ai-education-global-capacity]]
 - [[ai-adult-learning-guidelines-dis2026]]
 - [[principled-ai-education]]
 ## Citation

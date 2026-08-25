@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-08-25
-**Total backlog:** 97 articles
+**Total backlog:** 92 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -112,13 +112,7 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 > The following article pages exist in the wiki but were ingested from **abstracts only** (no full text in `raw/papers/`). They are grouped by source and need their full-text PDFs to be enriched. Send the PDF to match by DOI/title for full-text ingestion.
 
 
-### Reports & policy (5)
 
-- [A New Direction for Students in an AI World: Prosper, Prepare, Protect](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) *(abstract only)*
-- [Ai Higher Ed Workforce Survey](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education) *(abstract only)*
-- [Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance](https://www.nber.org/papers/w35397) *(abstract only)*
-- [State Policy Teacher Ai](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/) *(abstract only)*
-- [What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/) *(abstract only)*
 
 ### Journal articles & other (5)
 

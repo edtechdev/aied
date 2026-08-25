@@ -79,7 +79,6 @@ The wiki's frameworks and empirical studies converge on a set of practical guide
 
 A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The wiki's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
 
-
 ### Connections across the wiki
 
 AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.

@@ -32,13 +32,13 @@ Observation studies watch behavior in context; ethnography extends this to susta
 A case study is an in-depth investigation of a bounded case (a course, an institution, a single learner) using multiple data sources. [[drummond-genai-business-schools-framework-2026|A business-school case study]] generates a student-informed teaching and learning framework for GenAI; [[zha-ai-literacy-biology-case-study|a biology case study]] documents AI-literacy integration. Case studies trade breadth for depth and are strong for theory generation and transferable insight rather than generalization.
 
 ### Interviews and focus groups
-Semi-structured **interviews** and **focus groups** are the primary data-collection instruments across all the above approaches. They elicit rich, contextual accounts. The wiki's qualitative corpus is built substantially on interviews (e.g., [[genai-expertise-pathways-sysadmin|expertise pathways]], [[ai-education-global-capacity|youth leaders across five countries]]) and focus groups (e.g., [[t2i-competence-paradox-2026|the text-to-image competence paradox]], [[ai-adult-learning-guidelines-dis2026]]). Quality depends on careful question design, sampling for variation, and rigorous analysis.
+Semi-structured **interviews** and **focus groups** are the primary data-collection instruments across all the above approaches. They elicit rich, contextual accounts. The wiki's qualitative corpus is built substantially on interviews (e.g., [[genai-expertise-pathways-sysadmin|expertise pathways]], ) and focus groups (e.g., [[t2i-competence-paradox-2026|the text-to-image competence paradox]], [[ai-adult-learning-guidelines-dis2026]]). Quality depends on careful question design, sampling for variation, and rigorous analysis.
 
 ## How qualitative research appears in the wiki
 
 - **Mechanism and process.** Qualitative work reveals *why* AI helps or harms. [[same-ai-different-pathways]] uses qualitative strands to unpack mechanisms of AI-mediated learning across contexts; [[ai-tutor-safety-harms|AI tutor safety]] documents the specific [[pedagogy|pedagogical]] harms that quantitative outcome measures miss.
 - **Trust, agency, and identity.** Contested, subjective constructs are often best studied qualitatively. [[t2i-competence-paradox-2026]] surfaces how art-and-design students negotiate ease, risk, and creative identity; [[genai-runaway-object-math-higher-ed]] captures AI's role in reshaping academic identity and practice.
-- **Equity and under-represented voices.** Qualitative work centers perspectives often excluded from large surveys — [[scaffolding-critical-engagement-genai-minority-students|ethnic-minority students]], [[ai-education-global-capacity|youth leaders across the Global South]], [[becker-chatgpt-typology-physics-2026|skeptical nonusers]]. This connects to [[equity-in-ai-education]].
+- **Equity and under-represented voices.** Qualitative work centers perspectives often excluded from large surveys — [[scaffolding-critical-engagement-genai-minority-students|ethnic-minority students]], , [[becker-chatgpt-typology-physics-2026|skeptical nonusers]]. This connects to [[equity-in-ai-education]].
 - **Typology and taxonomy building.** [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] distinguishes pragmatic users from skeptical nonusers — categories that inform later survey instrument design.
 
 ## AI and qualitative analysis
@@ -82,6 +82,5 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[agreement-not-quality-llm-coding-verification]] — Agreement is not quality in LLM qualitative coding
 - [[same-ai-different-pathways]] — Unpacking mechanisms of AI-mediated learning across contexts
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
-- [[ai-education-global-capacity]] — Youth leaders across five countries on what AIED needs next
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics

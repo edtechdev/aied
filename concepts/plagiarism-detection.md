@@ -55,7 +55,6 @@ The constructive question shifts from "how do we prevent students from using AI?
 - **Fairness and equity:** detection tools that penalize non-native writers or produce false positives risk amplifying existing inequities.
 - **AI literacy is complementary:** helping students understand appropriate versus [[ai-misuse-learning-harm|harmful AI use]] is more productive than relying on surveillance.
 
-
 - **Detection reliability caution.** A systematic review of AI and academic integrity concludes that plagiarism/AI-detection tools cannot be relied upon for AI-generated work and should be paired with multiple assessment methods and manual review — reinforcing that detection is a limited, situational tool.^[[ssaho-ai-academic-integrity-review-2025]]
 - **Beyond detection: dialog over surveillance.** A practitioner account of Grand Canyon University's learning-verification framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues the best response to student AI use is dialog, not detection. Because detectors are unreliable (and biased against nonnative writers), GCU stopped asking "did the student use AI?" and instead asks students to demonstrate understanding in a brief conversation — an extension of [[authentic-assessment|assessment redesign]] that treats detection as a dead end and verification as good teaching.
 ## Connected Concepts

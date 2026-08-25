@@ -17,7 +17,7 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 
 - **Teachers and relational practice:** Research on [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]] and [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]] emphasizes that SEL supports the relational dimensions of learning (teacher-student and student-student relationships), which AI must complement rather than replace.
 
-- **Well-being and AI's affective impact:** [[brookings-ai-students-report|Reports on AI and students]] examine how the increasing use of generative AI affects students' socio-emotional skills, well-being, sociability, and sense of trust and empathy — concerns that motivated the OECD's call for AI literacy grounded in humanistic, social, and emotional values.
+- **Well-being and AI's affective impact:**  examine how the increasing use of generative AI affects students' socio-emotional skills, well-being, sociability, and sense of trust and empathy — concerns that motivated the OECD's call for AI literacy grounded in humanistic, social, and emotional values.
 
 - **Affective dimensions of AI:** SEL connects to [[affective-computing]] and [[well-being]] research, examining how AI systems can support or undermine emotional and relational learning.
 
@@ -58,7 +58,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favourability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
-- **The harm side of the ledger.** The [[brookings-ai-students-report|Brookings premortem]] cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional wellbeing, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
+- **The harm side of the ledger.** The  cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional wellbeing, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
 
 ### Connections to related concepts
 
@@ -88,7 +88,6 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 
 - [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
-- [[brookings-ai-students-report]] — Brookings Report on AI and Students
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Student Dependency on AI, Self-Efficacy, and Resource Management

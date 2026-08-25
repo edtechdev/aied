@@ -8,7 +8,6 @@ sources: ['raw/papers/melo-llm-classroom-observation-teach-2026.md']
 confidence: high
 ---
 
-
 # Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment
 
 ## Summary

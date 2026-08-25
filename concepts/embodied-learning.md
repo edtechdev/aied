@@ -42,7 +42,6 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[multimodal]]
 - [[assessment-validity]]
 
-
 ## Connected Articles
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)

@@ -35,7 +35,6 @@ The study used a within-subjects video-based paradigm rather than physical inter
 - [[trust]]
 - [[higher-ed]]
 
-
 ## Connected Articles
 
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education

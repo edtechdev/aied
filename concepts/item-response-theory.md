@@ -18,7 +18,6 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 - **Knowledge tracing and student modeling:** IRT is closely related to [[knowledge-tracing]] and [[student-modeling]] — models that track learner knowledge over time — sharing the goal of estimating unobservable learner states from observable responses.
 - **Bayesian hierarchical field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] uses a Bayesian hierarchical 2PL IRT model (with pre-test anchor items to place 1,686 students on a common θ scale) to show that AI-generated questions match expert-written standardized-exam items in difficulty and discrimination — a large-scale demonstration of IRT as the validation backbone for [[automated-question-generation]].
 
-
 - **Separating human from GenAI responses with person-fit statistics:** [[irt-human-genai-mcq-responses|Strugatski and Alexandron (2026)]] apply person-fit statistics (PFS) within IRT to distinguish human from generative-AI responses on multiple-choice assessments. PFS flag GenAI responses as 'aberrant' responders in two authentic contexts (a chemistry test and a national exam), show that different chatbots produce distinct response patterns (a heterogeneous group of 'intelligences'), and reveal that newer GenAI versions become more human-like — positioning IRT as a robust framework for [[academic-integrity|integrity]] screening in high-stakes testing.
 
 ### Connections
