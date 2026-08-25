@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-25T11:20:00-04:00"
+updated: "2026-08-25T13:30:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -83,6 +83,7 @@ The wiki reflects a field in rapid evolution — from early intelligent tutoring
 AI in education connects to every concept in the wiki — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education (young children)
 - [[ai-anxiety-and-stress]] — AI anxiety and stress in education
 - [[career-development-and-readiness]] — Career development and readiness
 - [[ai-literacy]] — AI literacy

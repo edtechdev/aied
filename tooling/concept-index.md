@@ -4,6 +4,10 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 **Total concepts:** 154
 
+- slug: early-childhood-elementary-ai-education
+  title: Early Childhood and Elementary AI Education
+  phrases: early childhood; elementary education; primary education; young children; AI toys; child development; kindergarten
+
 ## Canonical concepts
 
 
