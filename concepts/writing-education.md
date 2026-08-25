@@ -80,7 +80,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
 - [[care-full-feedback-genai]] — Care-Full Feedback Approaches
 - [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
 - [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding

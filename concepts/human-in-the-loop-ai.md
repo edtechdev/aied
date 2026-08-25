@@ -48,8 +48,8 @@ Human-in-the-loop design has become central to the wiki's [[agentic-ai|agentic A
 
 ## Where HITL appears in the wiki's research
 
-- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[automatic-short-answer-grading]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]).
-- **Feedback systems:** human-in-the-loop feedback design appears in [[aicode-collaborative-feedback-system|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
+- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]).
+- **Feedback systems:** human-in-the-loop feedback design appears in [[becerra-aicofe-feedback-2026|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
 - **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and scaffolding ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **Agentic and multi-agent systems:** as AI becomes more autonomous, HITL oversight is a core [[agentic-ai|design guardrail]] ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 
@@ -87,7 +87,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[ai-changing-teaching-workflows]]
 - [[ai-literacy-legal-translation-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[aicode-collaborative-feedback-system]]
+- [[becerra-aicofe-feedback-2026]]
 - [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
 - [[chatgpt-critical-creative-thinking-review]]

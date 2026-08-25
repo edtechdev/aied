@@ -80,7 +80,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ai-literacy-assessment-misalignment]] — AI literacy and assessment misalignment
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid e-assessment and semi-automated grading
 - [[cotal-formative-assessment-scoring-2026]] — Formative assessment scoring
-- [[automatic-short-answer-grading]] — Automatic short-answer grading
+- [[cong-confidence-asag-2026]] — Automatic short-answer grading
 - [[ai-assessment-scale-reform]] — AI assessment scale reform
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign

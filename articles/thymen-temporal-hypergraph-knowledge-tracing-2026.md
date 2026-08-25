@@ -42,7 +42,7 @@ THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and p
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Meta-Behavioral Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian Knowledge Tracing
-- [[knowledge-tracing-irt]] — Knowledge Tracing and IRT
+- [[huang-interpretable-knowledge-tracing-2026]] — Knowledge Tracing and IRT
 
 ## Citation
 

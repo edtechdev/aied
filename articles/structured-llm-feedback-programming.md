@@ -72,7 +72,7 @@ Assignment–user pairs are non-independent because students saw different hint 
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[programming-its]]
 - [[llm-feedback-programming-classroom]]
 ## Citation

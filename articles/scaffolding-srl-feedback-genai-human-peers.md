@@ -60,7 +60,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]]
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[care-full-feedback-genai]]
 - [[learner-centered-feedback-ai]]
 - [[chatgpt-feedback-engagement-genai]]

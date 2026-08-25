@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-08-25
-**Total backlog:** 131 articles
+**Total backlog:** 97 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -111,43 +111,6 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 
 > The following article pages exist in the wiki but were ingested from **abstracts only** (no full text in `raw/papers/`). They are grouped by source and need their full-text PDFs to be enriched. Send the PDF to match by DOI/title for full-text ingestion.
 
-
-### arXiv preprints (34)
-
-- [Ai Peer Feedback Systems](https://arxiv.org/abs/2605.04740) *(abstract only)*
-- [Ai Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1) *(abstract only)*
-- [AICoFE: AI-Powered Feedback System](https://arxiv.org/abs/2605.04740) *(abstract only)*
-- [Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot](https://arxiv.org/abs/2508.14778v1) *(abstract only)*
-- [Automatic Short Answer Grading](https://arxiv.org/abs/2605.00200) *(abstract only)*
-- [Cong Confidence Asag 2026](https://arxiv.org/abs/2605.00200) *(abstract only)*
-- [CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback](https://arxiv.org/abs/2504.02323) *(abstract only)*
-- [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878) *(abstract only)*
-- [Educational Vlm Evaluation](https://arxiv.org/abs/2603.00925) *(abstract only)*
-- [EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation](https://arxiv.org/abs/2606.07948) *(abstract only)*
-- [Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication](https://arxiv.org/abs/2608.07503) *(abstract only)*
-- [From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations](https://arxiv.org/abs/2608.07523) *(abstract only)*
-- [From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership](https://arxiv.org/abs/2604.11009) *(abstract only)*
-- [Genai Academic Search Workshop](https://arxiv.org/abs/2606.08936) *(abstract only)*
-- [Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability](https://arxiv.org/abs/2605.26769) *(abstract only)*
-- [Huang Interpretable Knowledge Tracing 2026](https://arxiv.org/abs/2605.01097) *(abstract only)*
-- [Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations](https://arxiv.org/abs/2606.08855) *(abstract only)*
-- [Jeon Isd Agent Bench 2026](https://arxiv.org/abs/2602.10620) *(abstract only)*
-- [Knowledge Gap Detection Ai Tas](https://arxiv.org/abs/2606.10736) *(abstract only)*
-- [Knowledge Tracing Irt](https://arxiv.org/abs/2605.01097) *(abstract only)*
-- [Llm Cognitive Diagnosis Handwritten Math](https://arxiv.org/abs/2504.00843) *(abstract only)*
-- [MathBuddy: Affective Math Tutoring](https://arxiv.org/abs/2508.19993v2) *(abstract only)*
-- [Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study](https://arxiv.org/abs/2605.26870) *(abstract only)*
-- [Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content](https://arxiv.org/abs/2606.10434) *(abstract only)*
-- [Reshaping Cs Education Genai](https://arxiv.org/abs/2606.07545) *(abstract only)*
-- [Rethinking Higher Education: From Fixed Curricula to Learnity Graphs](https://arxiv.org/abs/2608.08543) *(abstract only)*
-- [Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation](https://arxiv.org/abs/2605.26428) *(abstract only)*
-- [Student Misconceptions Conditionals Loops Taxonomy](https://arxiv.org/abs/2605.26966) *(abstract only)*
-- [Sycophantic Ai Social Interaction 2026](https://arxiv.org/abs/2605.07912) *(abstract only)*
-- [TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions](https://arxiv.org/abs/2606.07765) *(abstract only)*
-- [Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators](https://arxiv.org/abs/2604.01114) *(abstract only)*
-- [VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding](https://arxiv.org/abs/2608.09698) *(abstract only)*
-- [WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators](https://arxiv.org/abs/2606.20934) *(abstract only)*
-- [Zerkouk Comprehensive Review Its 2025](https://arxiv.org/abs/2507.18882v1) *(abstract only)*
 
 ### Reports & policy (5)
 

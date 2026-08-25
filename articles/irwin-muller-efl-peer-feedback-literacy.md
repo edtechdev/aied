@@ -47,7 +47,7 @@ Irwin & Muller (2026) offer a conceptual, theory-informed design framework for p
 
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]] — AI-supported peer feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI-supported peer feedback systems
 - [[care-full-feedback-genai]] — Care-full feedback in the era of generative AI
 - [[feedback-futures-genai]] — Feedback futures and generative AI
 - [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement with generative AI

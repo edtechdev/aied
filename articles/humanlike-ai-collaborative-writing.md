@@ -17,7 +17,7 @@ Three AI-assisted text editor variants were tested along two dimensions:
 - **Temporal**: synchronous (humanlike) vs. asynchronous (machinelike) suggestions
 - **Visual**: presence (humanlike) vs. absence (machinelike) of a cursor
 
-Synchronous suggestions increased efficiency but led to contextual misalignment — the AI's suggestions didn't fit the writer's intent. A visual cursor improved perceived intent understanding but evoked feelings of surveillance that participants described as "eerie." This maps onto emerging concerns in [[ai-peer-feedback-systems]] about the social dynamics of AI interaction in educational contexts.
+Synchronous suggestions increased efficiency but led to contextual misalignment — the AI's suggestions didn't fit the writer's intent. A visual cursor improved perceived intent understanding but evoked feelings of surveillance that participants described as "eerie." This maps onto emerging concerns in [[becerra-aicofe-feedback-2026]] about the social dynamics of AI interaction in educational contexts.
 
 ## Implications for AI Writing Tools
 These findings have direct relevance for [[mindcopilot-llm-co-writing|LLM co-writing tools]] and the broader ecosystem of [[generative-ai]] writing assistants. The uncanny valley effect in AI collaboration suggests that anthropomorphic design choices must be paired with careful expectation management — without the mutual alignment natural in human-human collaboration, humanlike features can backfire.
@@ -35,7 +35,7 @@ The study also connects to [[socially-fluent-ai-identity-detection|research on A
 - [[human-in-the-loop-ai]]
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[mindcopilot-llm-co-writing]]
 - [[socially-fluent-ai-identity-detection]]
 - [[agency-gap-ai-writing]]

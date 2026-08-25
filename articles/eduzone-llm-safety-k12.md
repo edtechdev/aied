@@ -36,7 +36,7 @@ EduZone is an automated evaluation framework that probes LLM safety in K-12 educ
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 
 ## Citation

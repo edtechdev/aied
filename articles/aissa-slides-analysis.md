@@ -65,7 +65,7 @@ The pilot is small and single-institution, so its results are preliminary. Futur
 
 ## Connected Articles
 
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
+- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading with LLMs
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback

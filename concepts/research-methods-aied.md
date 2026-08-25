@@ -66,11 +66,11 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 
 ### Computational and benchmark evaluation
 
-Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[automatic-short-answer-grading|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and LLM-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
+Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and LLM-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
 - **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive.
-- **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[automatic-short-answer-grading]], [[educational-vlm-evaluation]].
+- **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
 
 ### Other designs: longitudinal, case, and simulation studies
 

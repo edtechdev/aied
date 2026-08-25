@@ -22,7 +22,7 @@ The authors address a critical gap: high-quality, domain-specific datasets with 
 
 ## Connection to Wiki
 
-This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[automatic-short-answer-grading]] and [[structured-llm-feedback-programming]] by focusing on the formative, metacognitive dimension of student learning rather than summative evaluation.
+This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[cong-confidence-asag-2026]] and [[structured-llm-feedback-programming]] by focusing on the formative, metacognitive dimension of student learning rather than summative evaluation.
 
 ## Connected Concepts
 
@@ -34,12 +34,12 @@ This work extends the [[automated-assessment|Automated Grading]] landscape by ad
 - [[feedback]]
 - [[formative-assessment]]
 - [[metacognition]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 
 ## Connected Articles
 
 - [[programming-its]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[structured-llm-feedback-programming]]
 ## Citation
 
