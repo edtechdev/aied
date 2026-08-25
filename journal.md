@@ -1,8 +1,11 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1061
+**Last updated:** 2026-08-24 | **Total entries:** 1062
 
 ## 2026-08-25
+
+- ◐ [[stenalt-good-education-teacher-ai-conceptions-2026]] — 'raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md'
+  Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI
 
 - ◐ [[dag-ai-perceptions-career-anxiety-health-2026]] — 'raw/papers/dag-ai-perceptions-career-anxiety-health-2026.md'
   Artificial intelligence perceptions and career anxiety among health sciences students
