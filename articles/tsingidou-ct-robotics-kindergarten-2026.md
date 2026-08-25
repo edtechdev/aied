@@ -1,7 +1,7 @@
 ---
 title: "Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment"
 created: "2026-08-24T12:31:00-04:00"
-updated: "2026-08-24T14:35:00-04:00"
+updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [computational-thinking, educational-robotics, k-12, systematic-review, assessment, stem-education, early-childhood]
 sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
@@ -23,6 +23,7 @@ Methodologically, the review notes that although several CT frameworks exist in 
 - Confirms educational robotics as a viable, age-appropriate vehicle for early CT development in [[k-12|early childhood]].
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[computational-thinking]] — the skill being fostered
 - [[educational-robotics]] — the mediating technology

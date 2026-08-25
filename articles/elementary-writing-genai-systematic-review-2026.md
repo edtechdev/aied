@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-24T05:04:43-04:00"
+updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [writing-education, k-12, generative-ai, ai-literacy, systematic-review, creativity, assessment, llm-pedagogy]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
@@ -59,6 +59,7 @@ For [[writing-education]], the small evidence base (8 studies) underscores how n
 The integration of AI into elementary writing also raises [[equity-in-ai-education]] considerations, echoing concerns about differential access across schools and the need for critical empowerment, participatory design, and teacher-driven innovation so that AI tools are ethically responsible, culturally sustaining, and pedagogically sound for young learners.
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[ai-literacy]]
 - [[assessment]]
