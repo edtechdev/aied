@@ -1,11 +1,11 @@
 ---
 title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-08-15"
+updated: "2026-08-25T14:30:00-04:00"
 type: article
 tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform, llm, higher-ed, generative-ai, student-experience]
 confidence: medium
-sources: []
+sources: ['raw/papers/2606.07544.md']
 ---
 
 **Misan Paul Etchie, Taiwo Olutosin** — cs.CY, cs.AI, cs.HC
