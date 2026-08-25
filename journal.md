@@ -1,8 +1,14 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1058
+**Last updated:** 2026-08-24 | **Total entries:** 1060
 
 ## 2026-08-25
+
+- ◐ [[ustun-ai-anxiety-job-finding-anxiety-2026]] — 'raw/papers/ustun-ai-anxiety-job-finding-anxiety-2026.md'
+  The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students' Job Finding Anxiety
+
+- ◐ [[duan-ai-anxiety-career-decisions-college-2026]] — 'raw/papers/duan-ai-anxiety-career-decisions-college-2026.md'
+  The impact of AI anxiety on career decisions of college students
 
 - ◐ [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — 'raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md'
   The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered
