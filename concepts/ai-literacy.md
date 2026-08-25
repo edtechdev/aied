@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-25T12:20:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies]
@@ -27,6 +27,8 @@ AI literacy research in this wiki spans four interconnected dimensions:
 ### How AI literacy is developed
 
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. It is important to note that ICAP is a *taxonomy of engagement modes*, not a prescribed teaching sequence — it does not imply that instruction must move learners through passive exposure, active manipulation, constructive generation, and interactive dialogue in a fixed order. Rather, designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
+
+**Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* motivational profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
 
 A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate [[feedback]]. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
 

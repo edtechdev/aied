@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-25T12:00:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -20,6 +20,8 @@ Pre-service (initial) teacher education prepares future teachers during their ce
 - **Educational robotics and ML.** Initial teacher training embeds coding, robotics, and machine-learning activities (e.g., micro:bit) to build [[computational-thinking|computational thinking]] in future teachers.^[[microbit-robotics-machine-learning-teacher-training-2026]]
 - **Authentic assessment and metacognition.** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive AI feedback, and [[metacognition|metacognitive reflection]] in pre-service programs.^[[aaiwa-ai-authentic-assessment-metacognition-2026]]
 - **AI-supported inquiry in science education.** A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) integrated problem- and design-based learning into an 8-week AI-supported guided inquiry program on photosynthesis and respiration. It produced significant gains in conceptual understanding of the two biological processes, but *no* significant effect on AI literacy or self-perceived [[computational-thinking|computational thinking]] — a reminder that AI-IBL can deepen subject-matter understanding in teacher candidates without automatically building their AI/CT competencies, which require explicit, targeted design.
+- **Acceptance and perceptions of AI.** [[pre-service-science-teachers-ai-perceptions-2026|A study of 380 Ghanaian pre-service science teachers]] used UTAUT/TPB to examine what drives acceptance of AI in science education, highlighting how perceived usefulness, attitudes, and facilitating conditions shape prospective teachers' readiness — and how [[global-south|Global South]] contexts and [[technology-acceptance-model|technology acceptance]] frame AI adoption in teacher preparation.
+- **Generative AI for constructivist instructional design.** The [[sahab-model-genai-constructivist-id-2026|SAHAB model]] is a quasi-experimental professional-development intervention in which generative AI empowers teachers to design [[constructivist|constructivist]] instruction, with large gains (d = 1.18). It shows GenAI can scaffold [[instructional-design|instructional design]] for teacher candidates and practicing teachers alike — not just deliver content, but support the *design* of student-centered learning activities.
 
 ### In-service professional development
 
