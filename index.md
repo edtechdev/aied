@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1074
+**Last updated:** 2026-08-24 | **Total pages:** 1068
 ---
 ## Concepts
 
@@ -119,7 +119,6 @@
 - [[ai-pbl-computational-thinking-2026]] — AI-Supported Problem-Based Learning for Enhancing Computational Thinking
 - [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[ai-perceptions-students-teachers-motivation-2026]] — Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy
 - [[ai-play-framework-early-childhood-2026]] — AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment
@@ -154,7 +153,6 @@
 - [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model: A Theory and Measurement Programme for Learning by Construction with Generative AI
 - [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass
 - [[airis-cognitively-activated-ai-physics-2026]] — It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction
@@ -188,7 +186,6 @@
 - [[automated-online-exam-proctoring-decade-review-2026]] — Ensuring Academic Integrity through Automated Online Exam Proctoring: A Decade-Long Systematic Review
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
 - [[automated-question-generation]] — Automated Question Generation
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
 - [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
 - [[awareness-technological-isomorphism]] — Awareness of Technological Isomorphism: AI in Elementary Math
 - [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
@@ -340,7 +337,6 @@
 - [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation
 - [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
-- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 - [[digital-divide]] — Digital Divide
 - [[digital-literacy-illusion]] — The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students
 - [[discipline-specific-aied]] — AIEd in the Disciplines
@@ -365,7 +361,6 @@
 - [[educational-policy-ai]] — Educational AI Policy
 - [[educational-robotics]] — Robots in Education
 - [[educational-robotics-pathways-2026]] — Pathways to Learning: Exploring High School Students' Learning of AI-Powered Educational Robotics
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
 - [[educators-engagement-ai-pbl-review-2026]] — A Systematic Review of Educators'' Engagement with AI in Problem-Based Learning
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
@@ -581,7 +576,6 @@
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
 - [[knowledge-graph]] — Knowledge Graph
 - [[knowledge-tracing]] — Knowledge Tracing
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
 - [[knowloop-confusion-to-consolidation-2026]] — From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[kutti-ai-voice-first-learning-companion]] — Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children

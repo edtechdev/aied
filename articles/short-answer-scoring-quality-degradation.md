@@ -19,7 +19,7 @@ Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-as
 
 ## Key Findings
 
-The paper reveals that automated short answer scoring (ASAS) systems show significant **quality degradation in the mid-range** — exactly where teacher judgment is most needed. This connects directly to [[automatic-short-answer-grading]] research on confidence-aware LLM grading with epistemic uncertainty quantification. The finding that task-specific adaptation can mitigate this degradation provides a practical path forward.
+The paper reveals that automated short answer scoring (ASAS) systems show significant **quality degradation in the mid-range** — exactly where teacher judgment is most needed. This connects directly to [[cong-confidence-asag-2026]] research on confidence-aware LLM grading with epistemic uncertainty quantification. The finding that task-specific adaptation can mitigate this degradation provides a practical path forward.
 
 ## Significance for AIED
 
@@ -30,7 +30,7 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 ## Connections to Wiki
 
 - Extends [[automated-assessment|Automated Grading]] with quality-conditioned analysis
-- Complements [[automatic-short-answer-grading]] on confidence estimation
+- Complements [[cong-confidence-asag-2026]] on confidence estimation
 - Relevant to [[ground-truth-reliability-aied]] concerns about scoring validity
 - Connects to [[generate-then-validate-question-gen]] methodologies for AI assessment quality
 
@@ -46,7 +46,7 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[ai-feedback-quality]]
 ## Connected Articles
 
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[sequenced-ai-feedback-learning]]
 - [[ground-truth-reliability-aied]]

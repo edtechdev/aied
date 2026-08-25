@@ -40,7 +40,7 @@ A proof of concept was implemented using **Small Language Models (SLMs)**, surfa
 
 CAC connects to several threads in AI education research:
 
-- **[[knowledge-tracing-irt]]**: CAC makes knowledge tracing explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
+- **[[huang-interpretable-knowledge-tracing-2026]]**: CAC makes knowledge tracing explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
 - **[[neural-symbolic-knowledge-tracing]]**: Shares the goal of combining explicit (symbolic) knowledge representation with neural approaches for interpretable learner modeling
 - **[[agentic-workflows-education]]**: CAC is a specific agentic architecture for education, separated into knowledge, policy, and verification components
 - **[[adaptive-learning]]**: CAC enables adaptive behavior grounded in explicit, editable learner models
@@ -68,7 +68,7 @@ CAC connects to several threads in AI education research:
 
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[neural-symbolic-knowledge-tracing]]
 - [[agentic-workflows-education]]
 - [[llm-student-modeling-memory]]

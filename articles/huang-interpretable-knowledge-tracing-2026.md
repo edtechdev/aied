@@ -33,7 +33,7 @@ The key insight is that both student knowledge and task difficulty are explicitl
 
 This work bridges a critical gap between the predictive power of LLMs and the interpretability demands of real educational settings. While [[knowledge-tracing]] has traditionally used deep learning models like DKT and SAINT that trade interpretability for accuracy, Huang et al. demonstrate that LLMs can produce both — competitive or superior accuracy while yielding transparent, inspectable intermediate representations.
 
-The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on [[knowledge-tracing-irt]] that uses IRT to add structure to neural KT models.
+The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on  that uses IRT to add structure to neural KT models.
 
 The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[neural-symbolic-knowledge-tracing]].
 
@@ -53,7 +53,6 @@ Future work should extend the framework to multi-skill settings (where students 
 ## Connected Articles
 
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
 - [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
@@ -63,7 +62,6 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 - [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for [[learning-gains|Learning Outcomes]] of Delayed Start Behavior
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
-- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction

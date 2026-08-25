@@ -44,7 +44,6 @@ evement gaps.
 
 ## Connected Articles
 
-- [[educational-vlm-evaluation]] — Educational VLM evaluation
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for diagnosing students' cognitive skills from handwritten math
 
 ## Citation

@@ -55,7 +55,7 @@ CLARA was designed around the idea that learners, educators, and AI should reaso
 - [[student-modeling]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[retrieval-augmented-tutoring-algorithm-kite]]
 - [[cyberscholar-genai-writing-feedback]]
 - [[ai-tutor-behavioral-evaluation]]

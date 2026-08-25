@@ -10,7 +10,7 @@ confidence: high
 
 StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (BKT) that moves beyond traditional expectation-maximization (EM) point estimates to full Bayesian inference via Stan. The package supports **four estimation methods** (Hamiltonian Monte Carlo, variational inference, Pathfinder, and optimization), **three model variants** (standard, grouped, and hierarchical BKT), and provides posterior predictive inference with visualization utilities. Evaluated on the ASSISTments 2020 dataset, all methods achieve comparable predictive performance while trading off speed vs. posterior fidelity. A key demonstration shows how posterior inference enables **principled comparison of learning, forgetting, guessing, and slipping parameters** across experimental conditions in an educational intervention involving perceptual cue manipulations.
 
-For [[intelligent-tutoring]] systems, this represents a significant methodological advance. Traditional BKT implementations produce point estimates that obscure uncertainty and prevent reliable condition comparisons — critical for A/B testing adaptive interventions. The hierarchical modeling support is particularly valuable for [[adaptive-learning]] where student-level variation must be modeled. Compared to [[neural-symbolic-knowledge-tracing]] approaches, StanBKT preserves the interpretable hidden Markov structure of BKT while adding uncertainty quantification. For [[knowledge-tracing-irt]] comparisons, the Bayesian framework provides natural extensions unavailable in IRT. The work complements [[mbp-kt-meta-behavioral-knowledge-tracing]] by offering a complementary probabilistic modeling framework. As an [[open-source]] tool, StanBKT lowers the barrier for [[learning-analytics]] researchers to adopt Bayesian methods in educational data mining.
+For [[intelligent-tutoring]] systems, this represents a significant methodological advance. Traditional BKT implementations produce point estimates that obscure uncertainty and prevent reliable condition comparisons — critical for A/B testing adaptive interventions. The hierarchical modeling support is particularly valuable for [[adaptive-learning]] where student-level variation must be modeled. Compared to [[neural-symbolic-knowledge-tracing]] approaches, StanBKT preserves the interpretable hidden Markov structure of BKT while adding uncertainty quantification. For [[huang-interpretable-knowledge-tracing-2026]] comparisons, the Bayesian framework provides natural extensions unavailable in IRT. The work complements [[mbp-kt-meta-behavioral-knowledge-tracing]] by offering a complementary probabilistic modeling framework. As an [[open-source]] tool, StanBKT lowers the barrier for [[learning-analytics]] researchers to adopt Bayesian methods in educational data mining.
 
 ## Connected Concepts
 
@@ -24,7 +24,7 @@ For [[intelligent-tutoring]] systems, this represents a significant methodologic
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[mbp-kt-meta-behavioral-knowledge-tracing]]
 ## Citation
 

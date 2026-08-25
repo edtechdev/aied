@@ -20,7 +20,7 @@ confidence: medium
 
 ## Implications
 
-This work addresses a critical gap in [[automatic-short-answer-grading]]: the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[automated-assessment|Confidence Aware AI Assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
+This work addresses a critical gap in : the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[automated-assessment|Confidence Aware AI Assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
 
 The explicit modeling of aleatoric uncertainty is particularly important for [[automated-assessment|Automated Grading]]. In ASAG, some student responses are genuinely ambiguous even to expert human raters — this is not a model failure but a property of the task. By modeling this inherent ambiguity through semantic clustering, the framework prevents the system from overconfidently misclassifying responses that are fundamentally uncertain.
 
@@ -38,7 +38,6 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[assessment]]
 ## Connected Articles
 
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
 - [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specifi...
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
@@ -47,7 +46,7 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
+- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences

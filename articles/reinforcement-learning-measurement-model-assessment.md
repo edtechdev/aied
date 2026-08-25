@@ -18,7 +18,7 @@ The model addresses the gap between traditional static assessment models and the
 
 ## Connections to AIED
 
-This work directly extends [[knowledge-tracing-irt]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.
+This work directly extends [[huang-interpretable-knowledge-tracing-2026]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.
 
 The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as it extracts diagnostic signals from interaction data that go beyond traditional performance metrics. As a psychometric advance, it supports [[psychometrically-aware-ai]] design in which interaction traces are modeled as state-action trajectories rather than collapsed into single scores.
 
@@ -35,7 +35,7 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 - [[ai-ed-evaluation]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[llm-psychometric-calibration-cdp]]
 ## Citation
 

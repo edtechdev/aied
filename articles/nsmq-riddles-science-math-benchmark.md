@@ -28,7 +28,7 @@ The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, 
 
 ## Connections to Wiki
 
-This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[educational-vlm-evaluation]] work on DrawEduMath by providing a text-based STEM reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] research and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
+This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[drawedumath-vlm-struggling-students-2026]] work on DrawEduMath by providing a text-based STEM reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] research and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
 
 The finding that LLMs lag behind top human students on these riddles reinforces [[stanford-evidence-base-ai-k12-2026]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
 
@@ -52,7 +52,7 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[teachbench-llm-teaching-evaluation]]
-- [[educational-vlm-evaluation]]
+- [[drawedumath-vlm-struggling-students-2026]]
 - [[civic-education-ai-lesson-plans]]
 - [[elbench-education-llm-benchmark-2026]]
 ## Citation

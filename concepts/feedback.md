@@ -33,7 +33,7 @@ The feedback loop is the cyclical process where AI systems assess student work, 
 - **Assignment-level feedback:** [[formative-assessment]] systems and [[ai-feedback-quality|AI feedback quality research]] examine whether AI-generated assignment feedback improves subsequent work. [[sequenced-ai-feedback-learning|Sequenced feedback studies]] test whether the order of feedback matters.
 - **Course-level loops:** [[learning-analytics|Learning analytics dashboards]] and [[edtech-platform|educational platforms]] aggregate feedback across assignments to identify patterns and recommend interventions.
 
-The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback quality]] — accuracy, specificity, timeliness, and actionability. [[ai-peer-feedback-systems|AI peer feedback systems]] add a social dimension to the loop.
+The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback quality]] — accuracy, specificity, timeliness, and actionability. [[becerra-aicofe-feedback-2026|AI peer feedback systems]] add a social dimension to the loop.
 
 **The human in the loop:** feedback loops are not purely automated — teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an [[llm|LLM]] rephraser) find teachers use professional judgement to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/affective dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
 
@@ -55,7 +55,7 @@ The wiki's feedback research spans the full range of assessment contexts, each w
 
 - **Formative feedback** is the canonical site of feedback-for-learning — [[formative-assessment|formative assessment]] feeds [[self-regulated-learning|self-regulated learning]] through feedback that arrives while learning is still in progress ([[automated-formative-assessments-a-level-sciences|automated formative assessments]], [[ai-feedback-enactment-workflow-2026|feedback enactment]]).
 - **Summative feedback** is the feedback attached to [[summative-assessment|summative assessment]] — end-of-unit tests, oral exams, and proctored/closed-book examinations. In the AI era, the summative setting is where AI resistance matters most (see [[summative-assessment]]): feedback on a proctored oral exam or closed-book assessment tests genuine learning, whereas feedback on AI-assisted homework can be inflated. [[fenton-oral-exams-ai-authentic-assessment-2025|Oral assessments]] reframe the feedback moment as a live, interactive dialogue — feedback becomes immediate, conversational, and inseparable from the assessment itself, which is precisely why they resist AI substitution.
-- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[ai-peer-feedback-systems|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]).
+- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[becerra-aicofe-feedback-2026|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]).
 - **Automated feedback** scales delivery — [[automated-assessment|automated scoring and feedback]] from essay scoring to short-answer grading.
 
 A key cross-context insight is that **the reliability of feedback depends on the integrity of the assessment it is attached to**: feedback is only as trustworthy as the measure it responds to. In the AI era this pushes educators toward [[authentic-assessment|authentic]] and AI-resistant [[summative-assessment|summative formats]] where the feedback a student receives reflects genuine learning rather than AI-assisted output.
@@ -111,7 +111,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
 - [[sequenced-ai-feedback-learning]] — Sequenced AI feedback studies
-- [[ai-peer-feedback-systems]] — AI peer feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
 - [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback

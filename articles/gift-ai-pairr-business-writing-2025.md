@@ -45,7 +45,7 @@ As a Brief Research Report focused on one course, the study's findings are large
 ## Connected Articles
 
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization

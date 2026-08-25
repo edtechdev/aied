@@ -64,7 +64,7 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
 - [[genai-feedback-design-multisite-experiment]] — GenAI feedback design in a multisite experiment
 - [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgments
-- [[ai-peer-feedback-systems]] — AI peer-feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI peer-feedback systems
 - [[care-full-feedback-genai]] — Care-full feedback with GenAI
 - [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
 

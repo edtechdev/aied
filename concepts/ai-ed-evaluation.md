@@ -16,9 +16,9 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 - **Output reliability and ground truth:** [[ground-truth-reliability-aied|Modernizing ground truth]] argues that reliability problems in AI-ed evaluation often trace back to the reference data itself — the "ground truth" labels systems are judged against — and proposes four shifts toward improving reliability and validity. [[calibrating-trustworthiness-llm-education-2026|Calibrating trustworthiness]] co-designs evaluation metrics and visualizations with stakeholders so that trust in an AI tool rests on demonstrated, interpretable evidence.
 
-- **Automated grading and scoring:** [[automatic-short-answer-grading|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
+- **Automated grading and scoring:** [[cong-confidence-asag-2026|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
 
-- **Benchmarking and domain specificity:** [[teachbench-llm-teaching-evaluation|TeachBench]] evaluates LLM teaching ability, [[jeon-isd-agent-bench-2026|ISD Agent Benchmark]] evaluates agentic instructional-design agents, [[educational-vlm-evaluation|educational VLM evaluation]] assesses multimodal models, and [[tool-invariant-framework-agentic-ai|a tool-invariant framework]] assesses computational-method competency. These share a warning: generic benchmarks mislead, and evaluation must be tailored to the specific educational task and context.
+- **Benchmarking and domain specificity:** [[teachbench-llm-teaching-evaluation|TeachBench]] evaluates LLM teaching ability, [[jeon-isd-agent-bench-2026|ISD Agent Benchmark]] evaluates agentic instructional-design agents, [[drawedumath-vlm-struggling-students-2026|educational VLM evaluation]] assesses multimodal models, and [[tool-invariant-framework-agentic-ai|a tool-invariant framework]] assesses computational-method competency. These share a warning: generic benchmarks mislead, and evaluation must be tailored to the specific educational task and context.
 
 - **Pedagogical quality and alignment:** [[machines-misread-pedagogical-quality|Why machines misread pedagogical quality]] documents human–machine misalignment in judging what makes instruction good, and [[tutoring-effectiveness-index|the Tutoring Effectiveness Index]] predicts tutor quality from teaching behavior. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]] and [[authentic-products-authenticated-processes-2026|authenticated processes]] argue that evaluation must reach beyond correct answers to whether assessment remains authentic, valid, and defensible when AI can produce the "products" of learning.
 
@@ -78,13 +78,13 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations
 - [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading With LLMs
+- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading With LLMs
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Formative Assessment
 - [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Students' Cognitive Skills
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation With Large Language Models
 - [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids

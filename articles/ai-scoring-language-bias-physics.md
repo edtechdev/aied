@@ -23,7 +23,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
 - **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-assessment|Automated Grading]] scales.
 - **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
-- **[[automatic-short-answer-grading]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
+- **[[cong-confidence-asag-2026]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
 - **[[ai-assessment-human-tutors]]**: The parallel between AI and human scoring bias suggests that the goal should not be to replace human assessment but to understand the limitations shared by both, as also explored in the [[ai-feedback-quality]] literature.
 - **[[educational-measurement]]**: The concept of construct-irrelevant variance — where language proficiency contaminates measurement of conceptual understanding — is a fundamental [[assessment-validity]] concern that this study quantifies across AI systems.
 ## Implications
@@ -43,7 +43,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[physics-education]]
 ## Connected Articles
 - [[genai-linguistic-diversity-academic-writing]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[short-answer-scoring-quality-degradation]]
 - [[ai-assessment-human-tutors]]

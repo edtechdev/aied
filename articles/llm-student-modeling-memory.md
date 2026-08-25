@@ -8,13 +8,13 @@ sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
 ---
 
-> Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[knowledge-tracing-irt|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
+> Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
 > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.^[[nie-personavlm-long-term-personalization-2026]]
 
 ## The Challenge in Educational Contexts
 
-Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[knowledge-tracing-irt|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
+Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
 1. **Preferences shift** — A student may initially prefer worked examples, later shift to Socratic questioning, then return to examples under stress
 2. **Expertise builds** — [[self-regulated-learning|SRL skills]] develop over time, changing what scaffolding is appropriate
@@ -52,7 +52,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 ### Connection to Existing Tutoring Research
 
-- [[knowledge-tracing-irt]] provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling
+- [[huang-interpretable-knowledge-tracing-2026]] provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling
 - [[self-regulated-learning]] frameworks identify regulation phases (planning, monitoring, reflection) that could map to Core/Procedural/Episodic memory types
 - [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]] requires maintaining pedagogical guardrails even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions
 
@@ -83,7 +83,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 - [[intelligent-tutoring]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[nie-personavlm-long-term-personalization-2026]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[llm-student-simulation-misconception-faithfulness]]

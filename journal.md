@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1074
+**Last updated:** 2026-08-24 | **Total entries:** 1068
 
 ## 2026-08-25
 
@@ -2772,16 +2772,12 @@
   LLM Student Modeling and Long-Term Memory Architecture
   #llm #personalized-learning #adaptive-learning #intelligent-tutoring #generative-ai #lifelong-learning #pedagogical-llm-training #self-regulated-learning #metacognition #rag
 
-- ◐ [[knowledge-tracing-irt]] — 'raw/papers/huang-interpretable-knowledge-tracing-2026.md'
-  Interpretable Knowledge Tracing via IRT
   #adaptive-learning #intelligent-tutoring #personalized-learning #learning-analytics #k-12 #llm #item-response-theory #affective-tutoring #adaptive-learning-systems #socratic-method
 
 - ◐ [[llm-educational-simulation-adhd]] — 'raw/papers/2605.06307.md'
   LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
   #llm #student-experience #ai-education #generative-ai #benchmark #learning-analytics #adaptive-learning-systems #adaptive-learning #ai-tutoring
 
-- ◐ [[automatic-short-answer-grading]] — 'raw/papers/cong-confidence-asag-2026.md'
-  Automatic Short Answer Grading with LLMs
   #automated-assessment #llm #formative-assessment #feedback #higher-ed #learning-analytics #human-in-the-loop-ai #automated-assessment
 
 - ◐ [[multimodal-ai-tutoring]] — 'raw/papers/syal-multimodal-dialogue-stem-2026.md'
