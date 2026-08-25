@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-24T21:30:00-04:00"
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
@@ -52,6 +52,7 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM prompting as a structured learning intervention
 - [[scaffolding-critical-engagement-genai-minority-students]] — Culturally responsive critical-engagement scaffolding with GenAI
 - [[rethinking-scaffolding-llm-tutors]] — Design patterns for scaffolding in LLM tutors

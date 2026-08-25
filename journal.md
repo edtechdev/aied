@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1050
+**Last updated:** 2026-08-24 | **Total entries:** 1051
 
 ## 2026-08-24
+
+- ◐ [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — 'raw/papers/adaptive-ai-scaffold-collaborative-problem-solving-2026.md'
+  Towards an adaptive AI scaffold for developing student collaborative problem solving
+  #collaborative-learning #scaffolding #adaptive-learning #learning-analytics #k-12 #problem-solving #process-mining
 
 - ◐ [[ai-writes-code-student-writes-model-2026]] — 'raw/papers/ai-writes-code-student-writes-model-2026.md'
   The AI Writes the Code, the Student Writes the Model: A Theory and Measurement Programme for Learning by Construction with Generative AI
