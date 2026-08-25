@@ -1,11 +1,11 @@
 ---
 title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-08-24T21:10:00-04:00"
+updated: "2026-08-25T14:30:00-04:00"
 type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]
 confidence: high
-sources: []
+sources: ['raw/papers/2606.09831.md']
 ---
 
 **Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz** — AIED 2026 — cs.HC, cs.AI

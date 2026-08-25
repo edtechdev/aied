@@ -1,11 +1,11 @@
 ---
 title: The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-08-15"
+updated: "2026-08-25T14:30:00-04:00"
 type: article
 tags: [professional-training, llm, generative-ai, intelligent-tutoring, student-experience, higher-ed, ai-literacy, scaffolding, k-12, stem-education]
 confidence: high
-sources: []
+sources: ['raw/papers/2606.10051.md']
 ---
 
 **Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, Haiyi Zhu** — cs.CY, cs.HC
