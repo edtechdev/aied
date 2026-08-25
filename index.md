@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1058
+**Last updated:** 2026-08-24 | **Total pages:** 1060
 ---
 ## Concepts
 
@@ -347,6 +347,7 @@
 - [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
 - [[drummond-genai-business-schools-framework-2026]] — Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools: A Case Study
+- [[duan-ai-anxiety-career-decisions-college-2026]] — The impact of AI anxiety on career decisions of college students
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
 - [[dynamic-skill-matching-capstone-teams]] — Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
 - [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
@@ -997,6 +998,7 @@
 - [[universal-design-for-learning]] — Universal Design for Learning
 - [[universities-ai-era-rethinking]] — The University AI Didn''t Replace: Rethinking Universities in the AI Era
 - [[usability-research]] — Usability Research
+- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students' Job Finding Anxiety
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation with Large Language Models
 - [[vargas-ai-catalyst-situated-learning-2026]] — Connecting Education with Reality: AI as a Catalyst for Situated Learning
 - [[vargas-situated-learning-ai-review-2024]] — Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature
