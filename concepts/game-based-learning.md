@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-17T11:30:00-04:00"
+updated: "2026-08-25T12:00:00-04:00"
 type: concept
 tags: [game-based-learning, gamification, engagement, educational-robotics, motivation, active-learning]
 confidence: high
@@ -48,3 +48,7 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
+
+- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
+
+- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
