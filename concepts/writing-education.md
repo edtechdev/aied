@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T17:45:00-04:00"
+updated: "2026-08-25T07:50:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high
@@ -65,6 +65,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[english-education]]
 
 ## Connected Articles
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[benali-genai-academic-writing-2026]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 

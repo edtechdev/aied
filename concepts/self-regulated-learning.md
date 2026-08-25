@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-25T07:40:00-04:00"
+updated: "2026-08-25T07:50:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -96,6 +96,7 @@ For example:
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
