@@ -1,8 +1,17 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1071
+**Last updated:** 2026-08-24 | **Total entries:** 1074
 
 ## 2026-08-25
+
+- ◐ [[jiang-genai-activity-theory-disciplines-2026]] — 'raw/papers/jiang-genai-activity-theory-disciplines-2026.md'
+  Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices
+
+- ◐ [[stamatoulis-genai-use-patterns-2026]] — 'raw/papers/stamatoulis-genai-use-patterns-2026.md'
+  Same tool, different work: patterns of generative AI use and academic outcomes
+
+- ◐ [[walton-bearman-assessment-judgement-2025]] — 'raw/papers/walton-bearman-assessment-judgement-2025.md'
+  How university students work on assessment tasks with generative AI: matters of judgement
 
 - ◐ [[wang-goal-setting-ai-engagement-2026]] — 'raw/papers/wang-goal-setting-ai-engagement-2026.md'
   Explaining learning engagement in AI-assisted learning through teacher support and achievement goals

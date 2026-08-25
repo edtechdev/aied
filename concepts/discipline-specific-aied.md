@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-08-25T14:00:00-04:00"
 type: concept
 tags: [ai-education, discipline-specific, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
 confidence: high
@@ -35,6 +35,7 @@ The wiki has dedicated concept pages for several subject areas:
 
 Several threads cut across all disciplines, though they play out differently in each:
 
+- **Discipline as an activity system.** [[jiang-genai-activity-theory-disciplines-2026|Jiang et al. (2026)]] show, across 560 undergraduates in five academic domains, that disciplinary affiliation is significantly associated with students' GenAI **usage frequency and disclosure practices** — disciplines function as activity systems whose norms, policies, and role expectations shape how students engage with and disclose GenAI. This is direct evidence for the wiki's premise that AI in education is not discipline-neutral.
 - **Tutoring and feedback.** AI tutoring systems ([[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
 - **Assessment and evaluation.** [[automated-assessment]], [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
 - **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
@@ -111,3 +112,5 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-writing-support-stage-ownership-2026]] — Stage-based AI writing support and ownership
 - [[ai-engineering-education-balancing-act]] — The balancing act of AI in engineering education
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
+
+- [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory: disciplinary differences in GenAI use and disclosure (560 students)
