@@ -1,7 +1,8 @@
 ---
 title: Pedagogies and Teaching Strategies
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
+connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
 confidence: high

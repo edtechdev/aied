@@ -1,10 +1,10 @@
 ---
 title: Instructional Design with AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T18:00:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
 type: concept
 tags: [instructional-design, curriculum-design, faculty-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
-connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy]
+connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software]
 confidence: high
 ---
 
