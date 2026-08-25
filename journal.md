@@ -1,8 +1,14 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1052
+**Last updated:** 2026-08-24 | **Total entries:** 1054
 
 ## 2026-08-25
+
+- ◐ [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — 'raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md'
+  Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students
+
+- ◐ [[qu-wang-disclose-or-not-genai-2026]] — 'raw/papers/qu-wang-disclose-or-not-genai-2026.md'
+  To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence
 
 - ◐ [[ai-anxiety-and-stress]] — (concept)
   AI Anxiety and Stress

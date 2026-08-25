@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-08-25T09:40:00-04:00"
+updated: "2026-08-25T09:50:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, mental-health]
 confidence: high
@@ -81,3 +81,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
+
+- [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Risk perception and academic-dishonesty anxiety suppress ChatGPT use
+
+- [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
