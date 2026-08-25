@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-08-25T09:50:00-04:00"
+updated: "2026-08-25T10:00:00-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, mental-health]
 confidence: high
@@ -85,3 +85,5 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Risk perception and academic-dishonesty anxiety suppress ChatGPT use
 
 - [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
+
+- [[conijn-fear-big-brother-proctored-exams-2022]] — Proctored exams raise test anxiety without reducing cheating
