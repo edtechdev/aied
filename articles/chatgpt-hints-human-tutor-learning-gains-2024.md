@@ -52,7 +52,7 @@ The findings suggest that **[[llm]]-generated worked solutions can be as effecti
 ## Connected Articles
 
 - [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: Open-Source Adaptive Tutoring System
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
 - [[ai-generated-feedback-higher-ed]] — AI Feedback in University Education
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning

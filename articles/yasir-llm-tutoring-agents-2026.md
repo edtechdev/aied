@@ -47,7 +47,7 @@ Yasir et al. (2026) benchmark seven [[llm|LLM]] [[feedback]] agents as step-leve
 
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From answer generators to reasoning facilitators
 - [[llm-tutoring-feedback-diagnosis-gap]] — LLM tutoring feedback diagnosis gap
-- [[ai-tutor-effectiveness-review]] — AI tutor effectiveness review
+- [[zerkouk-comprehensive-review-its-2025]] — AI tutor effectiveness review
 - [[deeptutor]] — DeepTutor: agentic personalized tutoring
 
 ## Citation
