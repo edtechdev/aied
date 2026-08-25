@@ -18606,6 +18606,7 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 - **Accessible to families and non-technical educators:** the framework lowers the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] AI education and connecting to [[computational-thinking]] and [[cs-education]].
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[ai-literacy]]
 - [[k-12]]
@@ -18672,6 +18673,7 @@ Mei, D., Moore, K., & Sayler, B. (2026). [Preparing students for AI-powered mate
 Examines AI-powered personalized [[learning-gains|learning]] in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration.
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[math-education]]
 - [[adaptive-learning]]
@@ -19193,6 +19195,7 @@ Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Loo
 The paper brings a [[k-12|childhood-development]] perspective to the AI-in-education literature, extending the conversation beyond formal schooling into the everyday play environments where children increasingly encounter AI. Its framing of agency redistribution — distinguishing a toy that *organizes* play from one that *responds* to it — offers a design-relevant lens for [[pedagogical-agent|pedagogical agents]] and [[educational-robotics|educational robotics]] more broadly. By connecting AI toy design to child-centered development (imagination, language, attachment, trust), it foregrounds the [[agency|agency]] and [[well-being|well-being]] considerations that formal [[ai-literacy|AI literacy]] curricula rarely reach. For the wiki, it broadens the [[ai-education]] domain toward early-childhood and informal learning, and complements the literature on conversational agents and [[embodied-learning|embodied]] AI in [[k-12|education]].
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 - [[educational-robotics]]
 - [[pedagogical-agent]]
 - [[k-12]]
@@ -21627,6 +21630,7 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 **Key contribution:** Provides a grounded, theory-based framework for helping elementary students see structural parallels between their own reasoning and AI, moving beyond general computational thinking toward metacognitive awareness of structural isomorphism. Empirical validation through a concrete fifth-grade lesson on data trends and prediction.
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[stem-education]]
 - [[ai-literacy]]
@@ -29733,6 +29737,7 @@ For [[writing-education]], the small evidence base (8 studies) underscores how n
 The integration of AI into elementary writing also raises [[equity-in-ai-education]] considerations, echoing concerns about differential access across schools and the need for critical empowerment, participatory design, and teacher-driven innovation so that AI tools are ethically responsible, culturally sustaining, and pedagogically sound for young learners.
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[ai-literacy]]
 - [[assessment]]
@@ -36684,6 +36689,7 @@ The work demonstrates how **LLM-powered social robots** can support collaborativ
 ## Limitations
 The study focuses on usability and perceived quality of experience rather than measured [[learning-gains|learning outcomes]]; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 - [[educational-robotics]]
 - [[llm]]
 - [[student-engagement]]
@@ -56486,6 +56492,7 @@ Methodologically, the review notes that although several CT frameworks exist in 
 - Confirms educational robotics as a viable, age-appropriate vehicle for early CT development in [[k-12|early childhood]].
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[computational-thinking]] — the skill being fostered
 - [[educational-robotics]] — the mediating technology

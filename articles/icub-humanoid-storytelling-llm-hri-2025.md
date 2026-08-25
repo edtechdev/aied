@@ -1,7 +1,7 @@
 ---
 title: "Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [human-robot-interaction, social-robots, llm, storytelling, child-development, educational-robotics, usability]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']
@@ -20,6 +20,7 @@ The work demonstrates how **LLM-powered social robots** can support collaborativ
 ## Limitations
 The study focuses on usability and perceived quality of experience rather than measured [[learning-gains|learning outcomes]]; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 - [[educational-robotics]]
 - [[llm]]
 - [[student-engagement]]

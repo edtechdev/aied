@@ -1,7 +1,7 @@
 ---
 title: "Awareness of Technological Isomorphism: AI in Elementary Math"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [k-12, ai-literacy, stem-education, personalized-learning, metacognition, scaffolding]
 sources: ['raw/papers/2606.09598.md']
@@ -15,6 +15,7 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 **Key contribution:** Provides a grounded, theory-based framework for helping elementary students see structural parallels between their own reasoning and AI, moving beyond general computational thinking toward metacognitive awareness of structural isomorphism. Empirical validation through a concrete fifth-grade lesson on data trends and prediction.
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[stem-education]]
 - [[ai-literacy]]
