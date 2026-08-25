@@ -1,7 +1,7 @@
 ---
 title: "Generative AI without guardrails can harm learning: Evidence from high school mathematics"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-25T08:00:00-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, stem-education, k-12, rct, learning-gains, intelligent-tutoring, scaffolding, ai-assistance-reduces-persistence, student-experience]
 
@@ -11,7 +11,7 @@ confidence: high
 
 This landmark field experiment is among the first randomized controlled trials to causally demonstrate that **unguarded generative-AI tutoring can harm skill acquisition**, not merely fail to help. Conducted with **nearly 1,000 high-school math students** across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a **control** arm (textbook/notes only), **GPT Base** (a ChatGPT-like GPT-4 chat interface), and **GPT Tutor** (GPT-4 with teacher-designed guardrails — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted closed-book exam on conceptually similar problems.
 
-The core finding: access to generative AI sharply improves **performance** during practice but, without guardrails, **degrades learning** once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.
+The core finding: access to [[generative-ai|generative AI]] sharply improves **performance** during practice but, without guardrails, **degrades learning** once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.
 
 ### Performance vs. Learning Tradeoff (intention-to-treat)
 Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
@@ -27,7 +27,7 @@ Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
 ### Mechanism: Students Use GPT Base as a Crutch
 Two candidate explanations for the harm were tested — (1) GPT Base's errors mislead students, and (2) students offload thinking by copying answers. The evidence strongly favors the second:
 - **Error analysis:** When GPT Base's logical-error rate on a practice problem is higher, it hurts *practice* performance but shows **no spillover** to the corresponding unassisted exam problem — so students aren't being systematically misled into exam errors.
-- **Engagement analysis:** Students in the GPT Base arm send far fewer messages and overwhelmingly just "ask for the answer" or restate the question (superficial conversations dominate). In the GPT Tutor arm, a growing share of conversations are *substantive* (asking for help, attempting answers independently), and this improves within the very first session.
+- **[[student-engagement|Engagement]] analysis:** Students in the GPT Base arm send far fewer messages and overwhelmingly just "ask for the answer" or restate the question (superficial conversations dominate). In the GPT Tutor arm, a growing share of conversations are *substantive* (asking for help, attempting answers independently), and this improves within the very first session.
 - GPT Base answered correctly only **51% of the time** on the 57 practice problems (42% logical errors, 8% arithmetic errors) — yet students still copy its outputs.
 
 ### Students Don't Perceive the Harm
@@ -39,7 +39,7 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 - **Robustness:** Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.
 
 ## Design Lesson: What the Guardrails Did
-GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
+GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[student-misconceptions-ai|misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
 
 ## Implications
 - **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[cognitive-offloading|Over-Reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-method]] designs that preserve learning.
@@ -50,13 +50,13 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[math-education]]
-- [[intelligent-tutoring]]
+- [[cognitive-offloading]] — the crutch mechanism driving the harm
+- [[scaffolding]] — the guardrail mechanism that prevents harm
+- [[socratic-method]] — the hint-not-answer interaction mode
+- [[generative-ai]] — the technology under study (GPT-4)
+- [[learning-gains]] — the durable outcome the study measures
+- [[math-education]] — the focal subject domain
+- [[intelligent-tutoring]] — the design paradigm GPT Tutor approximates
 
 ## Connected Articles
 

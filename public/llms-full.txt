@@ -33112,41 +33112,57 @@ Talebzadeh, H. (2026). [*Efficacy of an Intensive Generative AI Professional Dev
 
 ## Core Argument
 
-This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in AIED research:
+This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in [[ai-education|AIED]] research:
 
 - **Performance gains** — immediate improvements in task completion, efficiency, or output quality when using AI tools.
-- **Learning** — durable understanding that requires deep cognitive processing (elaboration, critical analysis) and metacognitive processing (planning, monitoring, reflection).
+- **Learning** — durable understanding that requires deep cognitive processing (elaboration, [[critical-thinking|critical analysis]]) and [[metacognition|metacognitive]] processing (planning, monitoring, reflection).
 
-The authors argue that generative AI easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[ai-tutor-effectiveness-review]] research that improved task performance equals improved learning.
+The authors argue that [[generative-ai|generative AI]] easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[ai-tutor-effectiveness-review]] research that improved task performance equals improved learning.
 
 ## Implications for AIED Design
 
-This distinction has profound implications for [[scaffolding]] design. Systems that optimize for immediate performance may undermine learning. They must be designed to promote cognitive engagement — for example, through [[socratic-method]] dialogue, constrained feedback, or requiring student articulation before revealing AI output. The piece connects to [[cognitive-offloading|Over-Reliance]] research showing tha[[learning-gains|exam scores]]ance can reduce independent problem-solving and to the [[pedagogy-ai-mistakes]] paradigm that uses AI errors as learning opportunities.
+This distinction has profound implications for [[scaffolding]] design. Systems that optimize for immediate performance may undermine learning. They must be designed to promote cognitive [[student-engagement|engagement]] — for example, through [[socratic-method]] dialogue, constrained feedback, or requiring student articulation before revealing AI output. The piece connects to [[cognitive-offloading|over-reliance]] research showing that external tools can displace internal cognitive effort and reduce independent problem-solving, and to the [[pedagogy-ai-mistakes]] paradigm that uses AI errors as learning opportunities.
 
-The performance-vs-learning gap is now causally demonstrated in a field RCT: [[generative-ai-guardrails-harm-learning]] shows that an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm.
+The performance-vs-learning gap is now causally demonstrated in a field [[rct]]: [[generative-ai-guardrails-harm-learning]] shows that an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm.
 
 ## Theoretical Framework
 
 Generative AI can function as either a cognitive tool (amplifying thinking) or a cognitive crutch (replacing thinking). This maps onto the [[self-regulated-learning]] cycle — performance gains without metacognitive engagement short-circuit the planning-monitoring-evaluating loop.
 
+## Research Agenda
+
+To move beyond the performance/learning conflation, the authors propose a cognitive-psychology-informed agenda:
+
+- **Differentiate learning from performance** with process-oriented assessments — retention and transfer tests, testing effects, and delayed recall tasks rather than immediate task success.
+- **Clarify how generative AI affects encoding, consolidation, and retrieval** — e.g., the relationship between cognitive load and deep encoding remains unresolved.
+- **Study longitudinal effects** — long-term impacts on knowledge retention, skill development, and the interaction between AI-assisted learning and [[prior-knowledge|prior knowledge]].
+
+## Practical Recommendations
+
+- **Promote active metacognition** — encourage learners to critically evaluate AI-generated outputs rather than accept them passively.
+- **Balance efficiency with autonomy** — use generative AI to *support*, not replace, independent cognitive effort; blend [[ai-feedback-quality|AI feedback]] with opportunities for unaided problem-solving.
+
 ## Connected Concepts
 
-- [[scaffolding]]
-- [[socratic-method]]
-- [[cognitive-offloading]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[transfer-of-learning]]
-- [[generative-ai]]
+- [[scaffolding]] — design that preserves cognitive engagement
+- [[socratic-method]] — dialogue that promotes elaboration
+- [[cognitive-offloading]] — the displacement of internal cognitive effort
+- [[self-regulated-learning]] — the planning-monitoring-evaluating loop at risk
+- [[metacognition]] — evaluative reflection AI may bypass
+- [[transfer-of-learning]] — the durable-knowledge criterion
+- [[generative-ai]] — the technology under analysis
+- [[learning-gains]] — the outcome the performance/learning distinction refines
 - [[theory-development-aied]] — Theory Development in AI in Education
+
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
 - [[pedagogy-ai-mistakes]]
 - [[generative-ai-guardrails-harm-learning]]
+
 ## Citation
 
-Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing performance gains from learning when using generative AI. [Nature Reviews Psychology](https://arxiv.org/abs/2605.13731), 4(7), 435-436. arXiv:2605.13731.
+Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). [*Distinguishing performance gains from learning when using generative AI*](https://doi.org/10.1038/s44159-025-00467-5). *Nature Reviews Psychology*, 4, 435–436. arXiv:2605.13731.
 
 ---
 
@@ -33963,7 +33979,7 @@ Ouaazki, A., Shibani, A., Knight, S., & Holzer, A. (2026). [*Generative AI-enhan
 
 This landmark field experiment is among the first randomized controlled trials to causally demonstrate that **unguarded generative-AI tutoring can harm skill acquisition**, not merely fail to help. Conducted with **nearly 1,000 high-school math students** across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a **control** arm (textbook/notes only), **GPT Base** (a ChatGPT-like GPT-4 chat interface), and **GPT Tutor** (GPT-4 with teacher-designed guardrails — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted closed-book exam on conceptually similar problems.
 
-The core finding: access to generative AI sharply improves **performance** during practice but, without guardrails, **degrades learning** once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.
+The core finding: access to [[generative-ai|generative AI]] sharply improves **performance** during practice but, without guardrails, **degrades learning** once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.
 
 ### Performance vs. Learning Tradeoff (intention-to-treat)
 Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
@@ -33979,7 +33995,7 @@ Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
 ### Mechanism: Students Use GPT Base as a Crutch
 Two candidate explanations for the harm were tested — (1) GPT Base's errors mislead students, and (2) students offload thinking by copying answers. The evidence strongly favors the second:
 - **Error analysis:** When GPT Base's logical-error rate on a practice problem is higher, it hurts *practice* performance but shows **no spillover** to the corresponding unassisted exam problem — so students aren't being systematically misled into exam errors.
-- **Engagement analysis:** Students in the GPT Base arm send far fewer messages and overwhelmingly just "ask for the answer" or restate the question (superficial conversations dominate). In the GPT Tutor arm, a growing share of conversations are *substantive* (asking for help, attempting answers independently), and this improves within the very first session.
+- **[[student-engagement|Engagement]] analysis:** Students in the GPT Base arm send far fewer messages and overwhelmingly just "ask for the answer" or restate the question (superficial conversations dominate). In the GPT Tutor arm, a growing share of conversations are *substantive* (asking for help, attempting answers independently), and this improves within the very first session.
 - GPT Base answered correctly only **51% of the time** on the 57 practice problems (42% logical errors, 8% arithmetic errors) — yet students still copy its outputs.
 
 ### Students Don't Perceive the Harm
@@ -33991,7 +34007,7 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 - **Robustness:** Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.
 
 ## Design Lesson: What the Guardrails Did
-GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
+GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[student-misconceptions-ai|misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
 
 ## Implications
 - **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[cognitive-offloading|Over-Reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-method]] designs that preserve learning.
@@ -34002,13 +34018,13 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 
 ## Connected Concepts
 
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[generative-ai]]
-- [[learning-gains]]
-- [[math-education]]
-- [[intelligent-tutoring]]
+- [[cognitive-offloading]] — the crutch mechanism driving the harm
+- [[scaffolding]] — the guardrail mechanism that prevents harm
+- [[socratic-method]] — the hint-not-answer interaction mode
+- [[generative-ai]] — the technology under study (GPT-4)
+- [[learning-gains]] — the durable outcome the study measures
+- [[math-education]] — the focal subject domain
+- [[intelligent-tutoring]] — the design paradigm GPT Tutor approximates
 
 ## Connected Articles
 
