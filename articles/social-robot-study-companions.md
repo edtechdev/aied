@@ -35,7 +35,6 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[educational-robotics]]
 - [[higher-ed]]
 
-
 ## Connected Articles
 
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators

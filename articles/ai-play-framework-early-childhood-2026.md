@@ -60,7 +60,6 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
 - [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation
-- [[ai-education-global-capacity]] — What AI in Education Needs Next
 
 ## Citation
 

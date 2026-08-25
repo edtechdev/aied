@@ -40,7 +40,6 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 - [[collaborative-learning]]
 - [[pedagogical-agent]]
 
-
 ## Connected Articles
 
 - [[motibo-digital-storytelling-robots-motivation-2026]] — Digital storytelling robots and motivation

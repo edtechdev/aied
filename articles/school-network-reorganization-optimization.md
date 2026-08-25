@@ -60,7 +60,6 @@ As school districts worldwide face declining enrollments and budget pressures, A
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 
 ## Citation
 

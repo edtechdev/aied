@@ -58,7 +58,6 @@ The critique of the AIED research landscape connects to broader [[governance]] c
 ## Connected Articles
 
 - [[liang-genai-systematic-review-human-ai-2026]]
-- [[brookings-ai-students-report]]
 - [[raza-farooq-aied-review-2020-2025]]
 
 ## Citation

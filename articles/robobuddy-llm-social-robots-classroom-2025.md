@@ -37,7 +37,6 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 - [[k-12]]
 - [[student-engagement]]
 
-
 ## Connected Articles
 
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI With the iCub Humanoid

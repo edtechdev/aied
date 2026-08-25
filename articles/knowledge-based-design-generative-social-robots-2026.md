@@ -38,7 +38,6 @@ The findings derive from twelve interviews in a specific higher-education contex
 - [[intelligent-tutoring]]
 - [[ethics]]
 
-
 ## Connected Articles
 
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini: A Knowledge-Based Generative Social Robot

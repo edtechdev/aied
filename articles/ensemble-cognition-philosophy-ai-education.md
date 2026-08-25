@@ -44,7 +44,6 @@ EC's value lies in offering conceptual vocabulary for asking better questions ab
 - [[constructivist]]
 - [[pedagogical-agent]]
 
-
 ## Connected Articles
 
 - [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education

@@ -14,7 +14,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ## Access and infrastructure equity
 
-- **The digital divide:** [[digital-divide|Unequal access]] to AI-powered learning tools across socioeconomic lines, regions, and nations is a foundational barrier. [[ai-education-global-capacity|Global capacity research]] documents how generative AI benefits are distributed unevenly across countries and institutions.
+- **The digital divide:** [[digital-divide|Unequal access]] to AI-powered learning tools across socioeconomic lines, regions, and nations is a foundational barrier.  documents how generative AI benefits are distributed unevenly across countries and institutions.
 - **Access is not enough:** [[access-not-enough-ai-tutoring-2026|Providing AI tools without addressing structural barriers]] does not close gaps — access must be paired with skills, support, and conditions that enable genuine use.
 - **Infrastructure disadvantage:** [[structural-silence-underrepresented-language-ai-2026|Structural Silence]] shows that AI *infrastructure* — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural rather than incidental problem.
 - **Socioeconomic gradients:** [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] and [[generative-ai-education-productivity-gaps|productivity-gap experiments]] examine how AI can either narrow or widen gaps among different learner groups.
@@ -43,7 +43,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[inclusive-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
 - **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
-- **Global capacity:** [[ai-education-global-capacity|Global capacity for AI education]] documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
+- **Global capacity:**  documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 
 ## Implications for AI in education
 
@@ -80,7 +80,6 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural silence: underrepresented languages in AI infrastructure
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
-- [[ai-education-global-capacity]] — Global capacity for AI education
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 - [[neurodivergent-computing-students]] — Neurodivergent computing students
 - [[ai-lifelong-learning-policy]] — AI and lifelong-learning policy

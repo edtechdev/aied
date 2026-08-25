@@ -54,8 +54,6 @@ For educators and administrators, LIA's experience offers a concrete, replicable
 - [[ai-literacy]]
 
 ## Connected Articles
-
-- [[ai-education-global-capacity]]
 - [[community-centered-ai-education-adults]]
 - [[computational-thinking-ai-agent-creation]]
 - [[curriculum-as-code-instructional-design-2026]]

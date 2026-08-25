@@ -34,7 +34,7 @@ The wiki's PD literature identifies effective approaches:
 - **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
 - **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
 - **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, [[governance]], and quality assurance.
-- **Institutional support:** [[faculty-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], [[ai-education-global-capacity|capacity]], [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
+- **Institutional support:** [[faculty-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], , [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
 ## Teacher AI competency and the transforming teacher role
 
@@ -90,7 +90,6 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
 - [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
-- [[ai-education-global-capacity]] — Global capacity for AI education
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap

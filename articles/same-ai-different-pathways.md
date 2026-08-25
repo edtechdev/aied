@@ -67,7 +67,6 @@ The design is non-experimental, so causal claims remain tentative despite theory
 - [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 
 ## Citation
 

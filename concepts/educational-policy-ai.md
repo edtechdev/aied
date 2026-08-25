@@ -14,8 +14,8 @@ confidence: high
 ## Policy levels
 
 - **Institutional policy:** [[genai-policies-higher-ed-computing|Institutional policy analysis]] compares how universities develop AI policies. [[institutional-change-framework-ai|Institutional change frameworks]] provide models for policy development.
-- **Government policy:** [[state-policy-teacher-ai|State teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
-- **K-12 policy:** [[brookings-ai-students-report|The Brookings AI students report]] and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
+- **Government policy:**  and [[ai-lifelong-learning-policy|lifelong learning policy]] examine regulatory approaches at national and regional levels.
+- **K-12 policy:**  and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] inform K-12 AI policy.
 - **Assessment policy:** [[ai-assessment-scale-reform|Assessment reform policies]] and [[authentic-assessment]] frameworks represent policy-level responses to [[academic-integrity|AI-enabled cheating]]. The choice of summative assessment format — oral, proctored, closed-book — is itself an assessment-policy decision (see [[summative-assessment]]).
 
 ### Policy maturity gap
@@ -71,8 +71,6 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 
 - [[genai-policies-higher-ed-computing]]
 - [[institutional-change-framework-ai]]
-- [[state-policy-teacher-ai]]
-- [[brookings-ai-students-report]]
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]

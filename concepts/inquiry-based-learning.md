@@ -21,7 +21,6 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 **Outcomes evidence is mixed.** An AI-supported IBL experiment in mathematics ([[mujib-ai-ibl-creative-math-2026|Mujib et al.]]) improved creative mathematical performance and attitudes but not critical problem-solving skills — suggesting AI-IBL mainly supports creativity and affective development. A meta-analysis of 29 experiments ([[zhao-genai-higher-order-thinking-meta-2026|Zhao et al.]]) found GenAI has a moderate positive effect on higher-order thinking, strongest for problem-solving and with 8–16 week interventions and higher self-regulated-learning learners benefiting most. A quasi-experiment with 48 pre-service science teachers in Türkiye ([[ai-supported-inquiry-photosynthesis-respiration-2026|Aydın]]) using an 8-week AI-supported guided inquiry program (integrating problem- and design-based learning) found significant group-by-time gains in conceptual understanding of photosynthesis and cellular respiration, but *no* significant effect on AI literacy or self-perceived computational thinking — evidence that AI-IBL can deepen domain understanding while the development of AI/CT competencies requires more explicit, targeted design.
 
-
 **Equity and context.** A conceptual framework bridges generative-AI co-design with open educational practices to support inquiry-led STEM teaching in under-resourced contexts, using AI-generated, multilingual, contextually relevant simulations.
 
 ## Why inquiry-based learning matters for AI integration
@@ -31,7 +30,6 @@ IBL's question-driven, process-focused structure is the natural home for product
 ### Productive failure and inquiry
 
 [[productive-failure|Productive failure (PF)]] is the most structured cousin of inquiry-based learning: learners explore problems and generate solutions *before* direct instruction, then consolidate. Both share the premise that learner-generated attempts (even failed ones) activate prior knowledge and prepare learners to learn from instruction. The AI-era PF research sharpens how AI should scaffold inquiry without short-circuiting it: [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive AI design principles for preserving struggle through problem exploration and solution generation; [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be steered to withhold answers and elicit multiple attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks exemplify clue-based (vs. direct) scaffolding that keeps learners doing the reasoning. These connect inquiry and PF to the broader imperative that AI must not remove the productive struggle through which durable learning forms.
-
 
 ## Connected Concepts
 

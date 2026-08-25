@@ -68,7 +68,6 @@ Notably, the study is **qualitative** — it deliberately does not report quanti
 
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI and Authentic Assessment
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: AI Literacy Module for K-12
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
 
 ## Citation
 

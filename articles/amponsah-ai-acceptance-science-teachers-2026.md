@@ -40,7 +40,6 @@ The finding that ChatGPT dominates pre-service teacher AI use echoes broader tre
 
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
 - [[genai-usage-design-students-survey]] — A Study of GenAI Usage by Design Students
-- [[ai-higher-ed-workforce-survey]] — AI in Higher Education and the Workforce Survey
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK for Preservice Math Teachers
 - [[connected-ai-lesson-planning-vietnam]] — Connected AI Lesson Planning in Vietnam
 

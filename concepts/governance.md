@@ -80,7 +80,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[state-policy-teacher-ai]] — State Policy and Teacher AI
 - [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
 - [[ethical-ai-higher-ed-game-theory]] — Ethical AI in Higher Education

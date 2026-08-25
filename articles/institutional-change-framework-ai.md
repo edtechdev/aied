@@ -56,7 +56,7 @@ The framework was piloted through a faculty workshop series in a university phys
 - Relates to [[higher-ed]] and [[teacher-role]] — redefining instructor and institutional roles in AI-era education
 - Aligns with [[ai-literacy]] calls for faculty AI literacy as a prerequisite for meaningful institutional change
 - Contrasts with [[scaffolding]] and [[pedagogy-ai-mistakes]] — while those address classroom-level AI integration, this framework addresses the institutional conditions needed for such integration to succeed
-- Shares the systemic perspective of [[ai-education-global-capacity]] — institutional capacity is a bottleneck for AI in education globally
+- Shares the systemic perspective of  — institutional capacity is a bottleneck for AI in education globally
 
 ## Open Questions
 
@@ -85,7 +85,6 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[universities-ai-era-rethinking]]
 - [[principled-ai-education]]
 - [[pedagogy-ai-mistakes]]
-- [[ai-education-global-capacity]]
 ## Citation
 
 Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757). arXiv:2605.12757.

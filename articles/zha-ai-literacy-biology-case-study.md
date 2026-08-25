@@ -42,7 +42,6 @@ The authors also offer practical guidance for educators: activate prior subject 
 - [[active-learning]]
 - [[ai-ed-evaluation]]
 
-
 ## Citation
 
 Zha, S., Maulucci Bragdon, M., Gong, N., Wang, J., Leavesley, S., Eaton, R., & Bosarge, E. (2025). [*A case study of integrating AI literacy education in a biology class*](https://doi.org/10.1007/s40593-025-00476-8). *International Journal of Artificial Intelligence in Education*, 35, 2453–2477.
