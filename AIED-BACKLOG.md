@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-08-25
-**Total backlog:** 92 articles
+**Total backlog:** 87 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -110,14 +110,3 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 ## Abstract-only wiki pages (need full text)
 
 > The following article pages exist in the wiki but were ingested from **abstracts only** (no full text in `raw/papers/`). They are grouped by source and need their full-text PDFs to be enriched. Send the PDF to match by DOI/title for full-text ingestion.
-
-
-
-
-### Journal articles & other (5)
-
-- [Access is Not Enough: Human Support Improves Engagement with AI Tutoring](https://doi.org/10.26300/pz7p-p388) — [DOI: 10.26300/pz7p-p388](https://doi.org/10.26300/pz7p-p388) *(abstract only)*
-- [Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives](https://doi.org/10.4236/ce.2025.1611114) — [DOI: 10.4236/ce.2025.1611114](https://doi.org/10.4236/ce.2025.1611114) *(abstract only)*
-- [Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics](https://doi.org/10.7160/eriesj.2026.190204) — [DOI: 10.7160/eriesj.2026.190204](https://doi.org/10.7160/eriesj.2026.190204) *(abstract only)*
-- [Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective](https://doi.org/10.14742/ajet.9051) — [DOI: 10.14742/ajet.9051](https://doi.org/10.14742/ajet.9051) *(abstract only)*
-- [OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research](https://doi.org/10.1145/3544548.3581574) — [DOI: 10.1145/3544548.3581574](https://doi.org/10.1145/3544548.3581574) *(abstract only)*
