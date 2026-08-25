@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-08-25T17:30:00-04:00"
 type: article
 tags:
   - situated-learning
@@ -30,8 +30,6 @@ Shang Li (2025) presents a qualitative study grounding AI integration in [[k-12|
 - **AI deepens classroom interaction and social construction.** AI-enabled real-time feedback and shared data foster collaborative inquiry, role division, and critical conversation ("thinking-negotiating-optimizing"), while teachers move to facilitators, questioners, and co-investigators and take on new roles as ethical supervisors of responsible AI use.
 - **AI enables authentic, contextualized, and boundary-crossing learning.** [[simulation|Virtual labs and simulations]] let students experience distant, hazardous, or imperceptible phenomena, bridge virtual and real-world practice, and connect scientific knowledge to real-life and cross-disciplinary contexts.
 - **Teachers are optimistic yet concerned.** Teachers envision immersive, personalized AI futures but worry about being replaced and about [[cognitive-offloading|overreliance]] degrading independent thinking, hands-on experimentation, and problem-solving abilities.
-
-ng abilities.
 
 ## Connected Concepts
 
