@@ -1,7 +1,7 @@
 ---
 title: "AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions"
 created: "2026-08-25T10:20:00-04:00"
-updated: "2026-08-25T10:20:00-04:00"
+updated: "2026-08-25T11:10:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, generative-ai, well-being, privacy, ethics, ai-literacy, career, governance, regulation]
 sources: ['raw/papers/kim-ai-anxiety-comprehensive-analysis.md']
@@ -26,6 +26,7 @@ This review positions AI Anxiety as a distinct psychological phenomenon — broa
 - **For policy:** argues for [[governance]] and [[regulation|regulatory]] and ethical guidelines to mitigate AI anxiety as society enters the era of pervasive AI.
 
 ## Connected Concepts
+- [[career-development-and-readiness]] — the fear of replacement / career dimension
 
 - [[ai-anxiety-and-stress]]
 - [[generative-ai]]

@@ -1,15 +1,15 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-08-25T10:35:00-04:00"
+updated: "2026-08-25T11:10:00-04:00"
 type: concept
-tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, mental-health]
+tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, mental-health, career, career-anxiety]
 confidence: high
 ---
 
 > **AI anxiety and stress** — the negative emotional states that AI integration can induce in learners and educators (fear of being falsely accused, surveillance stress, worries about competence or [[academic-integrity|integrity]]), alongside the positive uses of AI to detect, monitor, and alleviate stress and anxiety. This concept sits within the broader [[well-being]] family and overlaps with [[social-emotional-learning]] and [[affective-computing]], but names the specific emotion-construct — and its productive as well as harmful sides — that AI-in-education research now studies directly.
 
-AI anxiety is not a single thing. It spans at least three distinct directions, each with its own evidence base: (1) **stress induced by AI proctoring and integrity surveillance**, (2) **AI anxiety as a learner emotion** that can be either a barrier or a productive signal, and (3) **AI as a tool for detecting and relieving stress and anxiety**. Recognizing all three — and the productive-anxiety finding that challenges the purely negative framing — is what distinguishes this concept from the broad [[well-being]] umbrella.
+AI anxiety is not a single thing. It spans at least four distinct directions, each with its own evidence base: (1) **stress induced by AI proctoring and integrity surveillance**, (2) **AI anxiety as a learner emotion** that can be either a barrier or a productive signal, (3) **career-related AI anxiety** — the fear that AI will displace or devalue one's professional future, and (4) **AI as a tool for detecting and relieving stress and anxiety**. Recognizing all of these — including the productive-anxiety finding that challenges the purely negative framing — is what distinguishes this concept from the broad [[well-being]] umbrella.
 
 ## Remote proctoring, false accusation, and surveillance stress
 
@@ -29,6 +29,16 @@ Beyond proctoring, AI use itself generates anxiety — about being replaced, abo
 - **Moral panic and educator anxiety:** [[moral-panic-genai-classroom|the moral-panic framing]] shows faculty anxiety about GenAI mirrors earlier panics (calculators, search engines) — a [[teacher-role|teacher]]-side stress response that shapes classroom policy.
 
 This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student-experience]], and [[self-regulated-learning]].
+
+## Career-related AI anxiety
+
+A distinct and increasingly studied dimension is **career anxiety** — the fear that AI will displace jobs, erode employability, or devalue one's professional future. Where proctoring anxiety is situational and learner-emotion anxiety is about in-task competence, career anxiety is forward-looking and identity-level, and it is tightly linked to [[career-development-and-readiness]]. The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as the primary contributor to AI anxiety, alongside uncontrolled AI growth, privacy, misinformation, and bias. A growing empirical literature now quantifies how this fear affects students:
+
+- **Career adaptability is a protective factor.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group had the highest AI anxiety.
+- **AI anxiety impairs career decisions.** [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] use structural equation modeling to show AI anxiety directly and negatively predicts career decisions, and does so largely by undermining **career adaptability** (accounting for 63.35% of the total effect); [[self-efficacy]] offered only limited buffering.
+- **AI anxiety predicts job-search anxiety at scale.** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] (1,057 students) and [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] (821 health-sciences students) find AI anxiety and negative AI attitudes predict job-finding/job-search anxiety, with women, social-science majors, and lower-income students most affected.
+
+**Practical implication:** building [[career-development-and-readiness|career readiness]] — adaptability, core self-evaluations, and employer-valued AI skills — is a validated intervention for reducing career-related AI anxiety, more than generic self-efficacy alone. Institutions should universalize [[ai-literacy]] and career-planning support, and address the [[equity-in-ai-education|equity]] patterning of career anxiety.
 
 ## AI for detecting and relieving stress and anxiety
 
