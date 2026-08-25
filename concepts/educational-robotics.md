@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-25T13:00:00-04:00"
+updated: "2026-08-25T13:30:00-04:00"
 type: concept
 tags: [educational-robotics, robots-in-education, social-robots, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, embodied-learning]
 confidence: high
@@ -40,6 +40,7 @@ A defining theme is that robots are effective when they support genuine learning
 
 - **Pathways to learning AI-powered robotics.** [[educational-robotics-pathways-2026|A qualitative study]] of high school students in a robotics+AI curriculum found learning through real-world practice, designing, and playful creative expression (constructionist, epistemological-pluralist lens).
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education
 
 - [[computational-thinking]]
 - [[cs-education]]
