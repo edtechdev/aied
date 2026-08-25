@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-25T12:00:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [game-based-learning, gamification, engagement, educational-robotics, motivation, active-learning]
 confidence: high
@@ -23,7 +23,7 @@ GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning
 Gamification is grounded in motivational theory, particularly [[self-determination-theory]] (supporting autonomy, competence, and relatedness) and behaviour-change frameworks. It has shown particular synergy with [[project-based-learning]] in applied domains like robotics. In the wiki's research:
 
 - **Robotics education:** the comparative review found gamification dominated formal classrooms in robotics education (p < .001) and strongly favored [[project-based-learning|project-based learning]] (p = .009), while game-based learning was more common in informal settings.
-- **Engagement and motivation:** gamification is used across the wiki to increase learner engagement and motivation in AI, [[cs-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest.
+- **Engagement and motivation:** gamification is used across the wiki to increase learner engagement and motivation in AI, [[cs-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest. Two 2026 studies extend this by comparing gamified and AI-supported conditions against traditional instruction: [[nasa-tlx-workload-gamified-ai-2026|a NASA-TLX study]] measured perceived workload across traditional, gamified, and AI-supported learning conditions, and [[arcs-motivational-ergonomics-gamified-ai-2026|an ARCS study]] examined motivational "ergonomics" in gamified and AI-supported learning with implications for [[professional-training|workplace training]]. Together they clarify that the motivational benefit of game-like and AI-supported designs depends on how they shape [[motivation|perceived effort]], workload, and attention (e.g., ARCS attention/relevance dimensions), not on gamification alone.
 
 GBL and gamification together connect to [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]], and [[computational-thinking]].
 

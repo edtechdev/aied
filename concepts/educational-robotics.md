@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-25T12:00:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [educational-robotics, robots-in-education, social-robots, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, embodied-learning]
 confidence: high
@@ -31,6 +31,8 @@ Two strands shape the social side of robotics in education.
 - **Autonomy and agency:** [[human-autonomy-agency-hri-review-2025|A systematic review]] synthesizes how HRI affects human autonomy and sense of agency, bridging design frameworks with regulatory demands (EU AI Act, IEEE Ethically Aligned Design). [[social-robot-study-companions|Social robots as study companions]] and [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|robot–LLM integration in creative writing]] further explore robot roles.
 
 - **Project-based and game-based approaches:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents a project-based robotics course, and [[game-based-gamified-robotics-education-review-2026|a systematic review]] compares game-based learning and gamification in robotics education.
+
+- **Child development and young learners:** [[ai-toys-child-development-2026|AI-enabled toys and child development]] shifts the lens to commercial AI toys in early childhood, examining how AI-enabled playthings affect child development and play. This extends educational robotics beyond classroom robots to the consumer toys children encounter at home, raising questions about [[pedagogical-agent|agents]] in play, [[trust-calibration|trust calibration]], [[agency]], and [[well-being]] for the youngest learners — an area where design guidance is thinner than for school-age robotics curricula.
 
 ### Embodiment and pedagogy
 

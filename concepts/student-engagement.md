@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-08-25T12:40:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, engagement-metrics]
 confidence: high
@@ -19,7 +19,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 - **Fragile and context-dependent:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find engagement varies by task, context, and learner — an AI tool that engages one student deeply may produce shallow, output-chasing behavior in another.
 
-- **Motivational antecedents:** [[ai-availability-student-motivation|AI availability and motivation]] shows that knowing AI is available can reduce the perceived value of effortful engagement, particularly for novice learners — engagement is shaped by expectancy, value, and perceived competence as much as by tool features.
+- **Motivational antecedents:** [[ai-availability-student-motivation|AI availability and motivation]] shows that knowing AI is available can reduce the perceived value of effortful engagement, particularly for novice learners — engagement is shaped by expectancy, value, and perceived competence as much as by tool features. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** extend this with a goal-setting-theory account of **758 university English learners** in AI-assisted learning, showing that **teacher support** directly enhances engagement and operates through students' **mastery-approach and performance-approach goals** (rather than avoidance goals). Engagement in AI contexts is therefore not only an individual or design outcome — it is also **socially scaffolded** by the teacher and by the goal orientations learners are encouraged to adopt.
 
 ### Measuring engagement: the metric-choice problem
 
