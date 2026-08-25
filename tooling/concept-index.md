@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 152
+**Total concepts:** 153
 
 ## Canonical concepts
 
@@ -156,6 +156,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: agentic AI; AI agent; AI agents; agent; agents; agentic; autonomous agents; AI agentic systems; agent-based AI; multi-agent
     - phrases: AI ethics; ethical AI; responsible AI; ethics of AI; AI ethics education
     - phrases: AI feedback quality; feedback quality; automated feedback; quality of AI feedback
+    - phrases: AI anxiety; AI stress; test anxiety; remote proctoring anxiety; surveillance stress; AI-induced anxiety; productive AI anxiety
     - phrases: AI in education; AIEd; AI education; artificial intelligence in education
     - phrases: AI literacy; AI competency; AI fluency; AI competence; AI skills
     - phrases: AI misuse; learning harm; AI-induced learning harm; misuse of AI; harmful AI use
@@ -309,6 +310,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`affective-tutoring`** — Affective Tutoring
 - **`agency`** — Learner Agency
 - **`agentic-ai`** — Agentic AI in Education
+- **`ai-anxiety-and-stress`** — AI Anxiety and Stress
 - **`ai-ed-evaluation`** — AI Ed Evaluation
 - **`ai-education`** — AI in Education
 - **`ai-feedback-quality`** — AI Feedback Quality

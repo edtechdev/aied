@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-25T09:40:00-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, mental-health, motivation]
 confidence: high
@@ -30,6 +30,7 @@ A recurring theme is that well-being should be a deliberate design consideration
 Well-being connects to [[student-experience]] (as a dimension of learners' overall experience), [[social-emotional-learning]] and [[affective-computing]] (the emotional competencies AI intersects with), [[ethics]] (as a core ethical consideration), [[motivation]] and [[self-regulated-learning]] (well-being supports and is supported by these), [[teacher-ai-competency]] (educators' capacity and well-being), and [[higher-ed]] and [[k-12]] as the settings where AI shapes well-being.
 
 ## Connected Concepts
+- [[ai-anxiety-and-stress]]
 
 - [[student-experience]]
 - [[social-emotional-learning]]
