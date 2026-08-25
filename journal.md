@@ -1,8 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1051
+**Last updated:** 2026-08-24 | **Total entries:** 1052
 
 ## 2026-08-25
+
+- ◐ [[ai-anxiety-and-stress]] — (concept)
+  AI Anxiety and Stress
+  #well-being #remote-proctoring #social-emotional-learning #affective-computing #academic-integrity #student-experience #mental-health
 
 - ◐ [[guardrails]] — (concept)
   Guardrails

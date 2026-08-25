@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-24T20:00:00-04:00"
+updated: "2026-08-25T09:40:00-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
 confidence: high
@@ -65,6 +65,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relational and ethical), [[affective-computing]] and [[well-being]] (the affective dimensions of AI), [[self-regulated-learning]] (self-management and effort regulation), [[self-efficacy]] and [[motivation]] (learner beliefs that moderate AI interaction), [[agency]] (protecting learner control against dependency), [[ethics]] (responsible decision-making), [[teacher-ai-competency]] (educators' capacity to support SEL), [[student-experience]] (well-being and belonging), and [[learning-gains]] (the evidence that SEL supports achievement). It relates to [[higher-ed]] and [[k-12]] as the settings where SEL-infused AI literacy is cultivated.
 
 ## Connected Concepts
+- [[ai-anxiety-and-stress]]
 
 - [[ai-literacy]]
 - [[affective-computing]]

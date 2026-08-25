@@ -1,7 +1,7 @@
 ---
 title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-25T09:40:00-04:00"
 type: concept
 tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
 
@@ -27,6 +27,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 
 - **Emotionally intelligent assessment agents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], an LLM-augmented emotionally intelligent conversational agent, reduced student anxiety and social pressure during performance-based assessments while preserving usability.
 ## Connected Concepts
+- [[ai-anxiety-and-stress]]
 
 - [[cognitive-offloading]]
 - [[student-experience]]

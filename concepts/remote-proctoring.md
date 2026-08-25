@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-08-20T05:10:00-04:00"
+updated: "2026-08-25T09:40:00-04:00"
 type: concept
 tags: [remote-proctoring, academic-integrity, summative-assessment, online-education, automated-proctoring, privacy, equity, higher-ed]
 confidence: high
@@ -42,6 +42,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - **Educate before you surveil.** Prefer fostering [[ai-literacy]] and [[reducing-ai-misuse|responsible use]] through culture and trust-building, reserving proctoring for the high-stakes cases that genuinely require it.
 
 ## Connected Concepts
+- [[ai-anxiety-and-stress]]
 
 - [[academic-integrity]]
 - [[summative-assessment]]
