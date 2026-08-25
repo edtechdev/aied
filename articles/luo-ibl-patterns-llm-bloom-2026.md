@@ -1,7 +1,7 @@
 ---
 title: "Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-22T05:55:16-04:00"
+updated: "2026-08-25T17:30:00-04:00"
 type: article
 tags: [inquiry-based-learning, llm, chatgpt, critical-thinking, metacognition, self-efficacy, higher-ed, self-regulated-learning]
 sources: ['raw/papers/luo-ibl-patterns-llm-bloom-2026.md']
