@@ -38,7 +38,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'People: learners, teachers, and institutions',
     blurb: 'AI changes the role of every stakeholder in education.',
     groups: [
-      { label: 'Learners', items: ['stakeholders', 'student-experience', 'well-being', 'social-emotional-learning', 'agency', 'creativity'] },
+      { label: 'Learners', items: ['stakeholders', 'student-experience', 'well-being', 'social-emotional-learning', 'ai-anxiety-and-stress', 'agency', 'creativity'] },
       { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'faculty-development', 'pedagogical-safety'] },
       { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'learning-analytics', 'lifelong-learning', 'professional-training', 'k-12'] },
     ],
