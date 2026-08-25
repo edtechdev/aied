@@ -80,7 +80,7 @@ For tutoring-system design, the framework demonstrates that folding [[item-respo
 - [[knowledge-tracing-irt]]
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-behavioral-evaluation]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[a4l-analytics-pipeline]]
 - [[aaai2026-prompting-literacy-k12]]
 - [[academiclaw-student-agent-benchmark]]

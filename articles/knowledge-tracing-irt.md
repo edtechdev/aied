@@ -52,7 +52,7 @@ LLM-based methods substantially outperform traditional deep learning models (∼
 
 ## Relationship to Tutoring-Specific Design
 
-This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-specific AI]]: by explicitly modeling difficulty and student readiness at each turn, the system can dynamically calibrate scaffolds rather than defaulting to full assistance. It operationalizes the insight that general-purpose LLMs can be *re-framed* as psychometric instruments through prompt design.^[[huang-interpretable-knowledge-tracing-2026]]
+This framework is an enabler for [[stanford-evidence-base-ai-k12-2026|tutoring-specific AI]]: by explicitly modeling difficulty and student readiness at each turn, the system can dynamically calibrate scaffolds rather than defaulting to full assistance. It operationalizes the insight that general-purpose LLMs can be *re-framed* as psychometric instruments through prompt design.^[[huang-interpretable-knowledge-tracing-2026]]
 
 ## Limitations
 
@@ -75,7 +75,7 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing via IRT*](https://arxiv.org/abs/2605.01097)

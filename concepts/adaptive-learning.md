@@ -77,7 +77,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[prezenski-human-centered-ai-aided-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific AI calibrated to learner readiness vs. general chatbots
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 

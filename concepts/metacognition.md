@@ -100,7 +100,7 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[ai-metacognition-stem-review]] — AI tools scaffolding metacognition in STEM
 - [[ai-making-us-stupid]] — Is AI making us stupid? critique of cognitive offloading
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 education
-- [[tutoring-specific-vs-general-ai]] — General-purpose AI suppresses metacognition by completing reasoning
+- [[stanford-evidence-base-ai-k12-2026]] — General-purpose AI suppresses metacognition by completing reasoning
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
 - [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses willingness to say "I don't know", even with wrong advice and accuracy incentives

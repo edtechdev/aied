@@ -93,7 +93,7 @@ The absence of a [[rct|control group]] means outcomes cannot be attributed causa
 - **Niche STEM domains:** Knowledge-graph augmentation enables ITS deployment in specialized fields with scarce human expertise, directly relevant to [[stem-education]] and [[discipline-specific-aied|discipline-specific AIED]].
 - **Visualization integration:** Quantum tutoring shows the importance of domain-aligned visual scaffolds (cf. [[multimodal|multimodal errors]] in STEM).
 - **Scalability and equity:** Production [[ai-technologies|cloud infrastructure]] and analytics address equity gaps between well-resourced and under-resourced institutions, touching on [[equity-in-ai-education]] and the [[digital-divide]].
-- **Agent specialization:** The move from two general agents to a Spoke-and-Wheel architecture with quantum-specialized agents provides a design lesson for scaling [[agentic-ai|agentic tutors]] from prototype to production, and informs debates about [[tutoring-specific-vs-general-ai|tutoring-specific vs. general AI]].
+- **Agent specialization:** The move from two general agents to a Spoke-and-Wheel architecture with quantum-specialized agents provides a design lesson for scaling [[agentic-ai|agentic tutors]] from prototype to production, and informs debates about [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs. general AI]].
 - **Learner engagement modes:** The discovery that graduate learners use tutors as intellectual partners rather than help-of-last-resort challenges existing ITS frameworks and connects to [[student-engagement]], [[self-regulated-learning]], and [[help-seeking]] research.
 - **Privacy-preserving analytics:** The Blind Instructor Problem and its aggregate-pattern solution offer a model for [[learning-analytics]] that respects [[privacy]] and FERPA constraints while keeping instructors informed.
 
@@ -114,7 +114,7 @@ The absence of a [[rct|control group]] means outcomes cannot be attributed causa
 
 ## Connected Articles
 
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific design vs. general-purpose AI
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific design vs. general-purpose AI
 - [[multimodal-ai-tutoring]] — Multimodal AI tutoring and multimodal errors
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[knowledge-gap-detection-ai-tas]] — Knowledge gap detection in AI teaching assistants

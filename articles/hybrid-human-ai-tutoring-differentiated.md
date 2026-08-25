@@ -20,7 +20,7 @@ This work provides evidence that differentiated human-AI instruction is a practi
 
 ## Connection to Broader AIED Research
 
-This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showing that the human component remains differentiable and valuable even alongside AI. It also connects to [[personalized-learning]] frameworks and speaks to [[equity-in-ai-education]] concerns about achievement gaps.
+This study extends the taxonomy in [[stanford-evidence-base-ai-k12-2026]] by showing that the human component remains differentiable and valuable even alongside AI. It also connects to [[personalized-learning]] frameworks and speaks to [[equity-in-ai-education]] concerns about achievement gaps.
 
 ## Connected Concepts
 
@@ -35,7 +35,7 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[tutoring-effectiveness-index]]
 ## Citation
 

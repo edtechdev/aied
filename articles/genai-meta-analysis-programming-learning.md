@@ -18,7 +18,7 @@ Maier, Gunzenhäuser & Schweisthal (2026) conduct a **meta-analysis synthesizing
 
 ## Key Findings
 
-The meta-analysis examines the **productivity-learning trade-off** that sits at the heart of [[transfer-of-learning]] debates: when AI tools boost immediate coding output, do they simultaneously undermine the development of foundational programming skills? This directly connects to the broader question of whether [[tutoring-specific-vs-general-ai]] matters — general AI coding assistants may optimize for productivity at the expense of learning.
+The meta-analysis examines the **productivity-learning trade-off** that sits at the heart of [[transfer-of-learning]] debates: when AI tools boost immediate coding output, do they simultaneously undermine the development of foundational programming skills? This directly connects to the broader question of whether [[stanford-evidence-base-ai-k12-2026]] matters — general AI coding assistants may optimize for productivity at the expense of learning.
 
 ## Significance for AIED
 
@@ -53,7 +53,7 @@ The findings have implications beyond programming — the productivity-learning 
 - [[cognitive-offloading]]
 ## Connected Articles
 
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[collaborative-ai-tutoring]]
 - [[agentic-education-coding]]
 - [[programming-its]]

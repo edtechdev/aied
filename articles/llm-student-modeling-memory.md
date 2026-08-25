@@ -54,7 +54,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 - [[knowledge-tracing-irt]] provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling
 - [[self-regulated-learning]] frameworks identify regulation phases (planning, monitoring, reflection) that could map to Core/Procedural/Episodic memory types
-- [[tutoring-specific-vs-general-ai|tutoring-specific design]] requires maintaining pedagogical guardrails even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions
+- [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]] requires maintaining pedagogical guardrails even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions
 
 ## Limitations for Education
 
@@ -85,7 +85,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 - [[knowledge-tracing-irt]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[llm-student-simulation-misconception-faithfulness]]
 - [[history-aware-student-simulation]]
 ## Citation

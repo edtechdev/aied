@@ -1,7 +1,7 @@
 ---
 title: Educational LLM Alignment
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-24T21:00:00-04:00"
 type: article
 tags: [llm, benchmark, efficacy-study, bias-mitigation, teacher-role, pedagogical-llm-training, faculty-development-genai, ai-literacy, ethics]
 sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
@@ -49,7 +49,7 @@ Choice of LLM and prompting strategy accounts for only ~15% of misalignment. The
 3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment (RLHF, prompting) misses that shared pretraining corpora embed the core misalignment. See [[pedagogical-llm-training]] for training approaches.
 4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[stanford-evidence-base-ai-k12-2026]] demands for causal evidence.
 
-This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[tutoring-specific-vs-general-ai]] finding that general-purpose AI underperforms pedagogically-designed systems.
+This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[stanford-evidence-base-ai-k12-2026]] finding that general-purpose AI underperforms pedagogically-designed systems.
 
 ## Open Questions
 
@@ -74,7 +74,6 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - [[teachbench-llm-teaching-evaluation]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-effectiveness-review]]
-- [[tutoring-specific-vs-general-ai]]
 - [[llm-fallacy-misattribution]]
 ## Citation
 
