@@ -27,7 +27,7 @@ confidence: medium
 - **Limitation noted:** the raw source file truncates before the full statistical results tables, so exact effect sizes and N-Gain values could not be reproduced here.
 
 ## Implications for AI in Education
-- **AI-PBL is a scalable pathway in under-resourced contexts:** where expert facilitators and robotics kits are scarce, [[intelligent-tutoring|intelligent tutoring]], [[pedagogical-agent|chatbots]], and adaptive feedback can substitute for limited human scaffolding and extend PBL's reach.
+- **AI-PBL is a scalable pathway in under-resourced contexts:** where expert facilitators and robotics kits are scarce, [[intelligent-tutoring|intelligent tutoring]], [[conversational-ai|chatbots]], and adaptive feedback can substitute for limited human scaffolding and extend PBL's reach.
 - **AI tools should act as cognitive scaffolds, not answer engines:** framing ChatGPT/Teachable Machine as "more capable peers" within the ZPD supports metacognition, iterative debugging, and transferable CT rather than passive consumption.
 - **Equity benefits:** the non-significant gender moderation suggests adaptive, inclusive AI features can help narrow traditional gender gaps in STEM, but only if access to AI tools is equitable — infrastructure and teacher readiness remain key barriers.
 - **Call for institutional/policy adoption:** the authors urge investment in teacher training, context-aware (localized/adaptive) AI-PBL frameworks, and further research on scalability, with implications for [[k-12|K–12]] STEM pathways as well as [[higher-ed|higher education]].
