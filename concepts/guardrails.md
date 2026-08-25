@@ -7,7 +7,7 @@ tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinfo
 confidence: high
 ---
 
-> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[pedagogical-agent|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
+> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
 
 The single most cited empirical demonstration is the [[generative-ai-guardrails-harm-learning|Bastani et al. field RCT]]: an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm. Guardrails, in other words, are what convert AI assistance from a performance crutch into a genuine learning tool.
 

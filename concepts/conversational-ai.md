@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-25T09:00:00-04:00"
 type: concept
 tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-interaction, ai-literacy]
 confidence: medium
@@ -73,6 +73,9 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
 
 ## Citation
 

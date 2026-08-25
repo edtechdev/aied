@@ -2312,7 +2312,7 @@ Chemistry education has become a fertile domain for AI-in-education research bec
 
 ### Key research themes
 
-**AI-supported laboratory and experimental design** is a distinctive strength of chemistry-education research. **[[ai-supported-experimental-design-chemistry-2026|Yim & Lui]]** integrated AI [[pedagogical-agent|chatbots]] into an upper-division undergraduate analytical chemistry lab: students used AI to **design lab manuals**, implemented them hands-on, and had them validated by certification professionals — significantly enhancing experimental confidence and [[critical-thinking]]/problem-solving skills while shifting staff roles from "cookbook" demonstration toward guidance. The [[philosophy-experimentation-ai-chemistry-2026|philosophy-of-experimentation]] strand examines how AI reshapes the epistemology, ontology (AI predictions in a "liminal" space), and methodology of chemistry experiments, and warns of **[[agency|agency shift]]** and over-reliance.
+**AI-supported laboratory and experimental design** is a distinctive strength of chemistry-education research. **[[ai-supported-experimental-design-chemistry-2026|Yim & Lui]]** integrated AI [[conversational-ai|chatbots]] into an upper-division undergraduate analytical chemistry lab: students used AI to **design lab manuals**, implemented them hands-on, and had them validated by certification professionals — significantly enhancing experimental confidence and [[critical-thinking]]/problem-solving skills while shifting staff roles from "cookbook" demonstration toward guidance. The [[philosophy-experimentation-ai-chemistry-2026|philosophy-of-experimentation]] strand examines how AI reshapes the epistemology, ontology (AI predictions in a "liminal" space), and methodology of chemistry experiments, and warns of **[[agency|agency shift]]** and over-reliance.
 
 **Context-based and inquiry-based instruction** uses AI within structured [[pedagogy|pedagogies]]. **[[context-based-ai-secondary-chemistry-2026|Abdikayumova & Madybekova]]** combined the **7E instructional model** with PhET simulations and ChatGPT tutoring for Grade 10 chemistry, finding significantly higher achievement and engagement than inquiry-only or conventional teaching — demonstrating the synergy of contextualization, structured inquiry, and adaptive AI. This connects to [[constructivist]] and [[personalized-learning]] frameworks.
 
@@ -3006,6 +3006,9 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
 
 ## Citation
 
@@ -5549,7 +5552,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 ## [Guardrails](https://edtechdev.github.io/aied/concepts/guardrails/)
 
-> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[pedagogical-agent|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
+> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
 
 The single most cited empirical demonstration is the [[generative-ai-guardrails-harm-learning|Bastani et al. field RCT]]: an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm. Guardrails, in other words, are what convert AI assistance from a performance crutch into a genuine learning tool.
 
@@ -8256,7 +8259,7 @@ These differ from a **[[knowledge-graph]]**, which is a data structure for repre
 
 Network methods are used across the wiki's evidence base to answer questions that aggregate metrics cannot:
 
-- **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[pedagogical-agent|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output.^[[penny-transition-network-analysis-efl-writing-2026]]
+- **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[conversational-ai|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output.^[[penny-transition-network-analysis-efl-writing-2026]]
 - **Compare cognitive structuring across groups.** ENA shows how different groups connect constructs differently — e.g., how [[metacognition]] co-occurs with delegation vs. human reasoning in human–AI collaboration, revealing different collaboration modes.^[[hao-human-ai-collaborative-problem-solving-cognition]]
 - **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of [[llm|LLM]] use (iterative strategic refinement vs. linear commands), distinguishing learner [[ai-literacy|proficiency]] and development.^[[tracing-genai-literacy-interaction-patterns]]
 - **Analyze discourse and framing.** ENA is applied to qualitative and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse.^[[youtube-frames-chatgpt-education]]
@@ -10680,7 +10683,7 @@ AI tools can enter this loop at different points:
 [[stanford-evidence-base-ai-k12-2026|Tutoring-specific AI]] aligns with SRL-first design: it provides graduated scaffolds that preserve [[agency|learner agency]] and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.^[[stanford-evidence-base-ai-k12-2026]]
 
 For example:
-- Bastani et al.'s tutoring-specific [[pedagogical-agent|chatbot]] preserved step-by-step reasoning (SRL demand)
+- Bastani et al.'s tutoring-specific [[conversational-ai|chatbot]] preserved step-by-step reasoning (SRL demand)
 - The general-purpose GPT variant simply provided answers (SRL bypass)
 
 ## Evidence Across Contexts
@@ -17851,7 +17854,7 @@ Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaf
 ## Key Findings
 - **Personalization drives engagement:** AI-driven adaptive pathways and personalized feedback (e.g., ChatGPT, ITS with fuzzy rule-based personalization, ALEKS, Squirrel AI, AISAR) tailor content and pacing to individual needs, increasing satisfaction and intrinsic [[motivation]] across learner populations.
 - **Emotional and cognitive support:** Emotion-aware systems, gaze tracking with AI-generated summaries, and predictive analytics enable real-time attention monitoring and early intervention for at-risk learners, supporting motivation and emotional well-being.
-- **Chatbots and AI companions:** 24/7 conversational support via [[pedagogical-agent|chatbots]], intelligent tutoring, and AI-as-mentor/companion improves accessibility, reduces frustration, and strengthens learner–instructor/community connection.
+- **Chatbots and AI companions:** 24/7 conversational support via [[conversational-ai|chatbots]], intelligent tutoring, and AI-as-mentor/companion improves accessibility, reduces frustration, and strengthens learner–instructor/community connection.
 - **Key challenges persist:** Data privacy and [[ethics]], [[bias-mitigation|algorithmic bias]] and fairness, over-reliance on automation, AI accuracy and [[hallucination-risk|hallucination]], and usability/interface limitations (e.g., ChatGPT response times) can undermine satisfaction and trust.
 - **Institutional and cost barriers:** Financing, cost of deployment, and learner motivation/learning-impact concerns temper widespread adoption of AI-enhanced systems in higher education.
 - **Methodological dominance:** Experimental/quasi-experimental designs, machine learning approaches, mixed-methods, and survey-based research are the most common ways the field assesses AI's impact.
@@ -18021,7 +18024,7 @@ Marcus Kubsch (2026). [AI as a Partner in Learning about, Doing, and Engaging wi
 - **Limitation noted:** the raw source file truncates before the full statistical results tables, so exact effect sizes and N-Gain values could not be reproduced here.
 
 ## Implications for AI in Education
-- **AI-PBL is a scalable pathway in under-resourced contexts:** where expert facilitators and robotics kits are scarce, [[intelligent-tutoring|intelligent tutoring]], [[pedagogical-agent|chatbots]], and adaptive feedback can substitute for limited human scaffolding and extend PBL's reach.
+- **AI-PBL is a scalable pathway in under-resourced contexts:** where expert facilitators and robotics kits are scarce, [[intelligent-tutoring|intelligent tutoring]], [[conversational-ai|chatbots]], and adaptive feedback can substitute for limited human scaffolding and extend PBL's reach.
 - **AI tools should act as cognitive scaffolds, not answer engines:** framing ChatGPT/Teachable Machine as "more capable peers" within the ZPD supports metacognition, iterative debugging, and transferable CT rather than passive consumption.
 - **Equity benefits:** the non-significant gender moderation suggests adaptive, inclusive AI features can help narrow traditional gender gaps in STEM, but only if access to AI tools is equitable — infrastructure and teacher readiness remain key barriers.
 - **Call for institutional/policy adoption:** the authors urge investment in teacher training, context-aware (localized/adaptive) AI-PBL frameworks, and further research on scalability, with implications for [[k-12|K–12]] STEM pathways as well as [[higher-ed|higher education]].
@@ -18661,7 +18664,7 @@ Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities 
 ## Key Findings
 
 - **Six AI applications support engagement.** The review classifies AI use into: (1) AI chatbots integrated into [[instructional-design|online course design]], (2) emotion, facial, voice recognition and eye tracking, (3) [[learning-analytics|machine learning for data analysis]], (4) teacher–student interaction support, (5) personalized [[feedback]] and recommendations, and (6) AI-powered bots in smart learning environments.
-- **Chatbots foster engagement through timely, personalized support.** AI-powered [[pedagogical-agent|chatbots]] are effective across learning domains and stages — delivering course information, interactive practice, and information retrieval — with comparative analyses finding them especially effective when deployed for personalized, on-demand assistance.
+- **Chatbots foster engagement through timely, personalized support.** AI-powered [[conversational-ai|chatbots]] are effective across learning domains and stages — delivering course information, interactive practice, and information retrieval — with comparative analyses finding them especially effective when deployed for personalized, on-demand assistance.
 - **Affective and behavioral monitoring.** Emotion recognition, facial and voice tracking, and eye tracking enable real-time assessment of behavioral, emotional, and cognitive engagement — recognizing states from boredom and confusion to interest and enjoyment using facial expressions, physiological signals, and voice data.^[[affective-computing]]
 - **Common data sources and measurement.** Studies rely on video recordings, activity logs, standardized datasets, and surveys; engagement is typically measured through multi-method approaches combining surveys, AI recognition, and coded activity data.
 - **Integration improves insight.** Combining diverse AI tools and data sources provides more accurate, real-time insight into students' cognitive, emotional, and behavioral engagement than single-source approaches.
@@ -18702,7 +18705,7 @@ Zhou, Z. (2025). [*Artificial intelligence and student engagement in online lear
 
 ## [Supporting Undergraduate Students' Learning in Practical Chemistry Courses through AI-Supported Experimental Design](https://edtechdev.github.io/aied/articles/ai-supported-experimental-design-chemistry-2026/)
 
-> **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI [[pedagogical-agent|chatbots]] into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group [[feedback]] indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
+> **Synthesis:** Yim and Lui (2026) report an authentic [[pedagogy|pedagogical]] approach integrating AI [[conversational-ai|chatbots]] into an **upper-division undergraduate analytical chemistry laboratory course**: students used AI to **design lab manuals** for analyzing real-world samples, then implemented them through hands-on experimentation, with the manuals reviewed by independent testing and certification professionals. Surveys and focus-group [[feedback]] indicated significantly enhanced **student confidence in conducting experiments and soft skills** — [[critical-thinking|critical thinking]], problem-solving, analytical abilities, and experimental design. A key finding was the **shift in staff roles** from the traditional "cookbook" demonstration model toward guiding and advising students as they address unexpected issues from student-designed lab manuals. 
 
 ## The pedagogical approach
 
@@ -26665,7 +26668,7 @@ Santos-Albardía, M., Peña-Fernández, S., & Agirreazkuenaga, I. (2025). [*Tech
 
 ## [Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education](https://edtechdev.github.io/aied/articles/critical-thinking-biological-sciences-ai-2025/)
 
-> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **[[critical-thinking|critical thinking]] in the [[biology-education|biological sciences]]** must be deliberately cultivated in [[higher-ed|higher education]]. While AI provides powerful tools for data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and [[ethics|ethical considerations]], and recommend strategically deploying AI tools (including [[pedagogical-agent|chatbots]]) within **[[active-learning|active-learning methods]]** such as problem-based learning, flipped classrooms, and online learning — while preserving direct [[human-in-the-loop-ai|human mentorship]]. 
+> **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **[[critical-thinking|critical thinking]] in the [[biology-education|biological sciences]]** must be deliberately cultivated in [[higher-ed|higher education]]. While AI provides powerful tools for data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and [[ethics|ethical considerations]], and recommend strategically deploying AI tools (including [[conversational-ai|chatbots]]) within **[[active-learning|active-learning methods]]** such as problem-based learning, flipped classrooms, and online learning — while preserving direct [[human-in-the-loop-ai|human mentorship]]. 
 
 ## The argument
 
@@ -27449,7 +27452,7 @@ Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writin
 
 ## [Inquiry-Based Learning in STEM Education: The Impact of Generative AI-Based Chatbots on Primary School Students' Problem Posing Ability in Science](https://edtechdev.github.io/aied/articles/dai-chatbots-problem-posing-primary-2026/)
 
-> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. [[pedagogical-agent|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising technology acceptance.
+> **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning|inquiry-based learning]]. [[conversational-ai|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising technology acceptance.
 
 ## Key Findings
 
@@ -37135,7 +37138,7 @@ Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2
 
 ## [Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments](https://edtechdev.github.io/aied/articles/irt-human-genai-mcq-responses/)
 
-> **Synthesis:** Strugatski and Alexandron (2026) established a theoretical and empirical foundation for using [[item-response-theory|Item Response Theory]] to separate [[generative-ai|generative AI]] and human responses to multiple-choice [[assessment]]s. They investigated whether person-fit statistics (PFS), which evaluate how well an examinee's response pattern fits IRT model expectations, can distinguish between GenAI and human responses. Using data from two [[authentic-assessment|authentic assessment]] contexts — a high-school chemistry test and a national university entrance exam, each with roughly 1,000 human respondents — they demonstrated that PFS reveal significant differences between human responses and those generated by advanced [[pedagogical-agent|chatbot]]s, which appear as 'aberrant' responders. The study positions IRT as a robust, reproducible framework for characterizing and separating human and GenAI response patterns, supporting [[academic-integrity]] in high-stakes testing.
+> **Synthesis:** Strugatski and Alexandron (2026) established a theoretical and empirical foundation for using [[item-response-theory|Item Response Theory]] to separate [[generative-ai|generative AI]] and human responses to multiple-choice [[assessment]]s. They investigated whether person-fit statistics (PFS), which evaluate how well an examinee's response pattern fits IRT model expectations, can distinguish between GenAI and human responses. Using data from two [[authentic-assessment|authentic assessment]] contexts — a high-school chemistry test and a national university entrance exam, each with roughly 1,000 human respondents — they demonstrated that PFS reveal significant differences between human responses and those generated by advanced [[conversational-ai|chatbot]]s, which appear as 'aberrant' responders. The study positions IRT as a robust, reproducible framework for characterizing and separating human and GenAI response patterns, supporting [[academic-integrity]] in high-stakes testing.
 
 ## Core Finding
 
@@ -37300,7 +37303,7 @@ The report is one of the first major efforts to vet a comprehensive AI-skills fr
 6. **Workflow evaluation and redesign** — mapping workflows, efficient human–AI handoffs, documenting decisions
 7. **Automation and technical integration** — no/low-code automations, basic coding/API capabilities
 
-The framework is designed to capture how a typical, non-technical employee uses AI tools at work — from foundational [[llm|LLM]] [[pedagogical-agent|chatbots]] to purpose-built systems.
+The framework is designed to capture how a typical, non-technical employee uses AI tools at work — from foundational [[llm|LLM]] [[conversational-ai|chatbots]] to purpose-built systems.
 
 ## Methodology
 
@@ -37885,7 +37888,7 @@ Productive Failure (PF), grounded in [[constructivist|constructivist principles]
 ## How AI supports each PF phase (adult-learner perceptions)
 
 **Phase 1 — Generation & exploration:**
-- **Problem exploration without indirect instruction:** AI ([[conversational-ai|conversational agents]] like ChatGPT, Gemini, Claude) as "thinking partners" prompting learners to define success/failure conditions, adopt multiple perspectives on failure, and trace root causes of ill-structured problems. [[pedagogical-agent|Chatbots]] can generate failure-based quiz questions to surface misconceptions in a safe, low-stakes space before formal instruction.
+- **Problem exploration without indirect instruction:** AI ([[conversational-ai|conversational agents]] like ChatGPT, Gemini, Claude) as "thinking partners" prompting learners to define success/failure conditions, adopt multiple perspectives on failure, and trace root causes of ill-structured problems. [[conversational-ai|Chatbots]] can generate failure-based quiz questions to surface misconceptions in a safe, low-stakes space before formal instruction.
 - **Solution generation via prior-knowledge activation:** AI-powered brainstorming, scenario-planning/"what-if" analysis, graphic organizers/mind maps, prototyping tools, and Socratic-style questioning that connects prior experience to new contexts.
 - **Collaborative problem-solving:** AI facilitating equitable group engagement through collaborative workspaces (Notion, Miro, Trello).
 
@@ -39239,7 +39242,7 @@ Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson (2
 
 ## [Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories](https://edtechdev.github.io/aied/articles/lee-wu-gender-motivation-genai-achievement-2026/)
 
-> **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[conversational-ai|RAG-based GenAI chatbot]] (StatBot) for statistics learning reveals that [[student-engagement|engagement]] with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[pedagogical-agent|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.
+> **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[conversational-ai|RAG-based GenAI chatbot]] (StatBot) for statistics learning reveals that [[student-engagement|engagement]] with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[conversational-ai|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.
 
 ## Core Finding
 
@@ -39784,7 +39787,7 @@ Liu, K., & Deris, F. D. (2025). [*AI feedback literacy in higher education: Unde
 
 > **In brief:** Liu, Hashim, and Sulaiman systematically review and meta-analyze 33 experimental and quasi-experimental studies (N = 3,181) on emerging technologies for teaching [[english-education|English as a foreign language]] (TEFL) across primary, secondary, and tertiary education. They find a small-to-moderate positive overall effect (Hedges' g = 0.38, 95% CI [0.26, 0.50]) with substantial heterogeneity; effect sizes rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44) and were largest for VR/AR, with productive skills (speaking, writing) showing greater gains than receptive skills.
 
-This systematic review and meta-analysis examines the applications, effectiveness, and challenges of emerging technologies for TEFL. The technologies investigated span mobile-assisted [[language-learning|language learning]] apps, AI-powered tools ([[pedagogical-agent|chatbots]], automated writing evaluation, [[intelligent-tutoring|intelligent tutoring systems]]), virtual and augmented reality environments, gamification platforms, and social media tools. Following PRISMA 2020 guidelines, 33 studies (N = 3,181) from Web of Science, Scopus, and ERIC (2015–2024) were analyzed with a random-effects meta-analysis.
+This systematic review and meta-analysis examines the applications, effectiveness, and challenges of emerging technologies for TEFL. The technologies investigated span mobile-assisted [[language-learning|language learning]] apps, AI-powered tools ([[conversational-ai|chatbots]], automated writing evaluation, [[intelligent-tutoring|intelligent tutoring systems]]), virtual and augmented reality environments, gamification platforms, and social media tools. Following PRISMA 2020 guidelines, 33 studies (N = 3,181) from Web of Science, Scopus, and ERIC (2015–2024) were analyzed with a random-effects meta-analysis.
 
 The overall effect is small-to-moderate (g = 0.38) with substantial heterogeneity (I² = 90.14%). Subgroup analyses show effect sizes increasing with educational level — primary (g = 0.29), secondary (g = 0.35), tertiary (g = 0.44) — and VR/AR yielding the largest effects among technology types. Across skill domains, productive skills (speaking and writing) showed greater gains than receptive skills (reading and listening), while vocabulary and grammar also improved significantly. The larger tertiary-level effects likely reflect greater learner autonomy and more sophisticated technological infrastructure. Trim-and-fill adjustment for publication bias was applied.
 
@@ -45563,7 +45566,7 @@ The framework reframes guidance on student AI use from procedural [[higher-ed|ac
 
 ## [OECD Digital Education Outlook 2026](https://edtechdev.github.io/aied/articles/oecd-digital-education-outlook-2026/)
 
-> **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]]ai-education|AI in education]]. Central finding: general-purpose AI [[pedagogical-agent|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
+> **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]]ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
 
 ## The Core Finding: Performance Is Not Learning
 
@@ -49581,7 +49584,7 @@ Rudolph, J., Ismail, F., Tan, S., & Seah, P. (2025). [*Don't believe the hype. A
 
 ## [Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach](https://edtechdev.github.io/aied/articles/saihi-ahmed-genai-adoption-personas-higher-ed-2026/)
 
-> **Synthesis:** Saihi and Ahmed (2026) apply a person-centered, clustering-based approach to uncover distinct adoption personas for [[generative-ai|GenAI]] [[pedagogical-agent|chatbot]]s in higher education, moving beyond the aggregate, average-effect assumptions of traditional TAM/UTAUT models. Using hierarchical clustering followed by k-means on 192 validated observations (107 students, 85 educators), they identify a four-persona solution — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that reflects diverse configurations of trust, usefulness, efficiency, ethical comfort, and satisfaction. The study argues that understanding this latent user heterogeneity is essential for designing inclusive, context-aware AI interventions rather than one-size-fits-all deployments.
+> **Synthesis:** Saihi and Ahmed (2026) apply a person-centered, clustering-based approach to uncover distinct adoption personas for [[generative-ai|GenAI]] [[conversational-ai|chatbot]]s in higher education, moving beyond the aggregate, average-effect assumptions of traditional TAM/UTAUT models. Using hierarchical clustering followed by k-means on 192 validated observations (107 students, 85 educators), they identify a four-persona solution — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that reflects diverse configurations of trust, usefulness, efficiency, ethical comfort, and satisfaction. The study argues that understanding this latent user heterogeneity is essential for designing inclusive, context-aware AI interventions rather than one-size-fits-all deployments.
 
 ## Core Finding
 
@@ -51782,7 +51785,7 @@ The taxonomy organizes the full spectrum of AI in educational leadership into te
 - **Personalized Learning** — [[adaptive-learning]] platforms, [[intelligent-tutoring]] systems, [[learning-analytics]], virtual tutors that adjust content difficulty in real time.
 - **Enhancing Teaching Practices** — AI in [[curriculum-design]], teacher professional development, intelligent classroom management, and real-time [[feedback]] on classroom dynamics.
 - **Decision-Making and Policy Formulation** — predictive analytics, sentiment analysis, ethical/equity decision support, and bias [[plagiarism-detection|detection]], supporting [[educational-policy-ai]].
-- **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[pedagogical-agent|chatbots]].
+- **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[conversational-ai|chatbots]].
 - **Organizational Leadership and Strategic Planning** — strategic resource allocation, trend forecasting, and risk/crisis management.
 - **Governance and Compliance** — regulatory compliance monitoring, fraud detection, and data integrity, tied to [[governance]].
 - **Community Engagement and Communication** — communication tools, feedback analytics, and social media monitoring.
@@ -51987,7 +51990,7 @@ Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. 
 
 **Easier Doesn't Mean Better.** Students consistently report greater enjoyment and reduced cognitive burden when using AI tools. However, reduced effort can undermine deeper learning. Kreijkes et al. (2026) found retention improved only when AI use was paired with traditional strategies like note-taking. Stadler et al. (2024) found general-purpose AI reduced cognitive load but produced lower-quality reasoning and argumentation compared to traditional search. This aligns with [[desirable-difficulties]] research: making practice easier often harms long-term retention and transfer, even when it feels better in the moment.
 
-**[[pedagogy|Pedagogical]] Design Matters.** The most actionable finding: tutoring-specific tools consistently outperform general-purpose [[pedagogical-agent|chatbots]]. Bastani et al. found that a tutoring-specific chatbot with pedagogical guardrails (hints, step-by-step reasoning, refusal to give direct answers) mitigated the exam score drop, while general-purpose GPT Base *caused* it. This suggests that [[intelligent-tutoring|AI Tutoring]] effectiveness depends critically on pedagogical design, not just model capability. The review interprets findings through a [[learning-theories|learning science]] framework spanning [[sociocultural-learning]] (general-purpose AI may operate outside the ZPD by doing work for students), the expertise reversal effect (novices need guidance, experts need independence), and [[metacognition]] (AI completing tasks reduces opportunities for students to monitor their own understanding).
+**[[pedagogy|Pedagogical]] Design Matters.** The most actionable finding: tutoring-specific tools consistently outperform general-purpose [[conversational-ai|chatbots]]. Bastani et al. found that a tutoring-specific chatbot with pedagogical guardrails (hints, step-by-step reasoning, refusal to give direct answers) mitigated the exam score drop, while general-purpose GPT Base *caused* it. This suggests that [[intelligent-tutoring|AI Tutoring]] effectiveness depends critically on pedagogical design, not just model capability. The review interprets findings through a [[learning-theories|learning science]] framework spanning [[sociocultural-learning]] (general-purpose AI may operate outside the ZPD by doing work for students), the expertise reversal effect (novices need guidance, experts need independence), and [[metacognition]] (AI completing tasks reduces opportunities for students to monitor their own understanding).
 
 **Educator Evidence.** While the student-focused causal evidence is thin, the educator evidence base is even sparser. Very few high-quality studies examine how AI affects teacher practice, workload, or [[faculty-development|professional development]] — a gap that is particularly concerning given the rapid push to deploy AI tools in classrooms and the documented [[genai-can-harm-teaching-rct-2026|risks of AI harming teaching quality]].
 
@@ -53206,7 +53209,7 @@ This convergence is striking because students' desiderata align almost exactly w
 
 ## Scaffold, do not substitute
 
-The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a [[privacy]]-preserving, environmentally sensitive educational [[pedagogical-agent|chatbot]] that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
+The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a [[privacy]]-preserving, environmentally sensitive educational [[conversational-ai|chatbot]] that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
 
 For different stakeholders, the principle translates into distinct obligations:
 
@@ -55985,7 +55988,7 @@ Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Und
 
 The authors synthesize recent (2024–2025) research into four pillars:
 
-1. **AI chemical literacy** — Students value [[pedagogical-agent|chatbots]] for [[feedback]] but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced [[critical-thinking|critical thinking]] and data-[[privacy]] risks.
+1. **AI chemical literacy** — Students value [[conversational-ai|chatbots]] for [[feedback]] but often show uncritical acceptance of errors and struggle to evaluate output validity without guidance; most students use AI and report efficiency gains while fearing reduced [[critical-thinking|critical thinking]] and data-[[privacy]] risks.
 2. **Technical accuracy and reasoning** — Frontier models (e.g., o1) can outperform average chemists on general knowledge but struggle with **spatial reasoning (NMR)** and are overconfident in wrong answers; [[llm|LLM]] perform poorly on rigorous quantitative tasks (ChemBench, QCBench), and simple notation changes degrade retrieval (ChemLMs). Direct [[llm|LLM]] queries for molecular properties often fail.
 3. **Pedagogical principles** — Unrestricted access to AI answers can bypass the **productive struggle** needed for deep conceptual learning; local [[rag|RAG]]-based [[intelligent-tutoring|tutors]] that question rather than answer show promise; students struggle to write effective prompts initially, but structured frameworks improve interaction over time.
 4. **Ethics and epistemology** — Students are optimistic about AI utility but fear labor displacement and loss of human ownership/authorship; policy ambiguity burdens students navigating ethical boundaries; generative image models could amplify demographic biases (e.g., the "white male chemist"); and **reliance on opaque data-driven models may detach inquiry from causal understanding — "epistemic drift."**

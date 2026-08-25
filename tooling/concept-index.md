@@ -179,6 +179,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: computational thinking; CT; computational skills
     - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1; block programming; block-based programming; block coding; Scratch; visual programming
     - phrases: constructivism; constructivist learning; constructionism; constructivist theory
+    - phrases: conversational AI; conversational agents; chatbots; chatbot; dialogue systems; dialogue-based tutoring
     - phrases: creativity; creative thinking; divergent thinking; creative skills
     - phrases: critical pedagogy; critical theory; critical educational theory
     - phrases: critical thinking; higher-order thinking; critical reasoning

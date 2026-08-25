@@ -8,7 +8,7 @@ sources: ['raw/papers/saihi-ahmed-genai-adoption-personas-higher-ed-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Saihi and Ahmed (2026) apply a person-centered, clustering-based approach to uncover distinct adoption personas for [[generative-ai|GenAI]] [[pedagogical-agent|chatbot]]s in higher education, moving beyond the aggregate, average-effect assumptions of traditional TAM/UTAUT models. Using hierarchical clustering followed by k-means on 192 validated observations (107 students, 85 educators), they identify a four-persona solution — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that reflects diverse configurations of trust, usefulness, efficiency, ethical comfort, and satisfaction. The study argues that understanding this latent user heterogeneity is essential for designing inclusive, context-aware AI interventions rather than one-size-fits-all deployments.
+> **Synthesis:** Saihi and Ahmed (2026) apply a person-centered, clustering-based approach to uncover distinct adoption personas for [[generative-ai|GenAI]] [[conversational-ai|chatbot]]s in higher education, moving beyond the aggregate, average-effect assumptions of traditional TAM/UTAUT models. Using hierarchical clustering followed by k-means on 192 validated observations (107 students, 85 educators), they identify a four-persona solution — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that reflects diverse configurations of trust, usefulness, efficiency, ethical comfort, and satisfaction. The study argues that understanding this latent user heterogeneity is essential for designing inclusive, context-aware AI interventions rather than one-size-fits-all deployments.
 
 ## Core Finding
 

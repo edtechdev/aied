@@ -35,7 +35,7 @@ This convergence is striking because students' desiderata align almost exactly w
 
 ## Scaffold, do not substitute
 
-The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a [[privacy]]-preserving, environmentally sensitive educational [[pedagogical-agent|chatbot]] that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
+The single design principle that emerges — **scaffold, do not substitute** — positions [[scaffolding]] as a first-class capability for AI systems: knowing *when to withhold an answer, ask a question, surface uncertainty, or present alternative perspectives*. The paper cites Maike, a [[privacy]]-preserving, environmentally sensitive educational [[conversational-ai|chatbot]] that guides learners through critical questioning and self-reflection via the [[socratic-method|Socratic method]], as an early illustration.
 
 For different stakeholders, the principle translates into distinct obligations:
 

@@ -22,7 +22,7 @@ The report is one of the first major efforts to vet a comprehensive AI-skills fr
 6. **Workflow evaluation and redesign** — mapping workflows, efficient human–AI handoffs, documenting decisions
 7. **Automation and technical integration** — no/low-code automations, basic coding/API capabilities
 
-The framework is designed to capture how a typical, non-technical employee uses AI tools at work — from foundational [[llm|LLM]] [[pedagogical-agent|chatbots]] to purpose-built systems.
+The framework is designed to capture how a typical, non-technical employee uses AI tools at work — from foundational [[llm|LLM]] [[conversational-ai|chatbots]] to purpose-built systems.
 
 ## Methodology
 

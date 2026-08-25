@@ -21,7 +21,7 @@ Productive Failure (PF), grounded in [[constructivist|constructivist principles]
 ## How AI supports each PF phase (adult-learner perceptions)
 
 **Phase 1 — Generation & exploration:**
-- **Problem exploration without indirect instruction:** AI ([[conversational-ai|conversational agents]] like ChatGPT, Gemini, Claude) as "thinking partners" prompting learners to define success/failure conditions, adopt multiple perspectives on failure, and trace root causes of ill-structured problems. [[pedagogical-agent|Chatbots]] can generate failure-based quiz questions to surface misconceptions in a safe, low-stakes space before formal instruction.
+- **Problem exploration without indirect instruction:** AI ([[conversational-ai|conversational agents]] like ChatGPT, Gemini, Claude) as "thinking partners" prompting learners to define success/failure conditions, adopt multiple perspectives on failure, and trace root causes of ill-structured problems. [[conversational-ai|Chatbots]] can generate failure-based quiz questions to surface misconceptions in a safe, low-stakes space before formal instruction.
 - **Solution generation via prior-knowledge activation:** AI-powered brainstorming, scenario-planning/"what-if" analysis, graphic organizers/mind maps, prototyping tools, and Socratic-style questioning that connects prior experience to new contexts.
 - **Collaborative problem-solving:** AI facilitating equitable group engagement through collaborative workspaces (Notion, Miro, Trello).
 
