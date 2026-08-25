@@ -73,7 +73,7 @@ Despite benefits, scholars warn of:
 ### vs. Intelligent Tutoring Systems
 - ITS identified as **key scaffolding tool** for metacognitive development
 - Combines **content mastery** (object level) with **reflective monitoring** (meta level)
-- Consistent with: [[tutoring-specific-vs-general-ai]] — domain-specific tutoring outperforms generic chatbots
+- Consistent with: [[stanford-evidence-base-ai-k12-2026]] — domain-specific tutoring outperforms generic chatbots
 
 ### vs. AI Literacy
 - **Critical finding:** AI literacy must be **integrated into teacher preparation**
@@ -131,7 +131,7 @@ Teacher ↔ AI System ↔ Student
 - [[meta-analysis-systematic-review]]
 ## Connected Articles
 
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach*](https://doi.org/10.3390/jintelligence13110148). *Journal of Intelligence*.

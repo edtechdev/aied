@@ -56,7 +56,7 @@ Post-intervention gains in JVA and JME suggest improved collaborative regulation
 
 ## Relationship to Tutoring-Specific Design
 
-ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[sociocultural-learning|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
+ProPACT exemplifies [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[sociocultural-learning|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
 
 ## Implications
 
@@ -78,7 +78,7 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 ## Connected Articles
 
 - [[golrang-propact-pair-programming-2026]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-collaborative-learning-systematic-review]]
 ## Citation
 

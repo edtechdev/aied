@@ -106,7 +106,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[generative-ai-guardrails-harm-learning]]
 - [[pedagogy-ai-mistakes]]
 
-- [[tutoring-specific-vs-general-ai]] — Structured Socratic hints vs. open-ended general-purpose Q&A
+- [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[productive-failure]] — Productive Failure
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning

@@ -42,7 +42,7 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-Specific vs. General-Purpose AI in Education
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring

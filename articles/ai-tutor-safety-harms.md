@@ -51,7 +51,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 ## Relationship to Broader Debates
 
-- [[tutoring-specific-vs-general-ai]] — SafeTutors reveals that even "helpful" general-purpose AI produces systematic tutoring harm; pedagogical design is not an add-on but a safety requirement
+- [[stanford-evidence-base-ai-k12-2026]] — SafeTutors reveals that even "helpful" general-purpose AI produces systematic tutoring harm; pedagogical design is not an add-on but a safety requirement
 - [[metacognition]] — The Metacognitive and Reflective-Critical dimensions directly map to metacognitive suppression risks
 - [[self-regulated-learning]] — Motivational-Affective harms undermine the SRL↔motivation reciprocal loop
 - [[transfer-of-learning]] — Cognitive offloading and shallow learning directly undermine transfer; SafeTutors provides a mechanistic taxonomy for why
@@ -77,7 +77,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
-- [[tutoring-specific-vs-general-ai]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[llm-fallacy-misattribution]]
 - [[pedagogical-safety-rl]]
 ## Citation

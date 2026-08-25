@@ -102,7 +102,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: evaluating AI tutors for productive struggle
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors and pedagogical safety
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy affective math tutoring
 - [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)

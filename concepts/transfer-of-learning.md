@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-24T21:00:00-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
 
@@ -36,7 +36,7 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 
 **Metacognitive displacement.** AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried. This connects to [[metacognition]] research on self-monitoring and the [[vibe-compiler-metacognition-genai-agency-2026|evidence that structured courses increase metacognitive competence while raw LLM assistants do not]].
 
-**Germane load suppression.** General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See Cognitive Load Theory and the distinction between [[tutoring-specific-vs-general-ai|tutoring-specific vs general AI]].
+**Germane load suppression.** General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See Cognitive Load Theory and the distinction between [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]].
 
 **Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties]] principle in reverse.
 
@@ -62,7 +62,7 @@ This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tuto
 
 ### Connections to related concepts
 
-Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
+Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
 
 ## Connected Concepts
 
@@ -79,7 +79,6 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[tutoring-specific-vs-general-ai]]
 - [[educational-llm-alignment]]
 - [[cognitive-offloading-speedup-illusion]]
 - [[vibe-compiler-metacognition-genai-agency-2026]]

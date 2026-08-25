@@ -51,7 +51,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[genai-educational-outcomes-meta-analysis]] — Meta-analysis of GenAI learning outcomes
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI in programming learning
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose generative AI
+- [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs. general-purpose generative AI
 - [[genai-performance-vs-learning]] — Performance vs. learning with GenAI
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender: study-time decline with GenAI
 - [[genai-thoughtless-use-self-directed-learning-2026]] — GenAI thoughtless use and self-directed learning

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1051
+**Last updated:** 2026-08-24 | **Total pages:** 1050
 ---
 ## Concepts
 
@@ -984,7 +984,6 @@
 - [[tubino-adachi-ai-automated-feedback-literacy]] — Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool
 - [[turtleai-visual-programming-benchmark]] — TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
-- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
 - [[tutors-gig-economy-automated-feedback]] — Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle
 - [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education
 - [[understanding-student-effort-response-time]] — Understanding Student Effort Using Response-Time Propensities During Problem Solving
