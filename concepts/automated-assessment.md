@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T09:15:00-04:00"
+updated: "2026-08-25T12:00:00-04:00"
 type: concept
 tags: [automated-grading, confidence-aware-ai-assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 confidence: high
@@ -124,3 +124,5 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+
+- [[multimodal-exam-obe-rubrics-2026]] — Multimodal exam dataset with OBE rubrics

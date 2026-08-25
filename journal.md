@@ -1,8 +1,32 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1062
+**Last updated:** 2026-08-24 | **Total entries:** 1070
 
 ## 2026-08-25
+
+- ◐ [[ai-toys-child-development-2026]] — 'raw/papers/ai-toys-child-development-2026.md'
+  Artificial Intelligence in Toys: Implications for Child Development and Play
+
+- ◐ [[arcs-motivational-ergonomics-gamified-ai-2026]] — 'raw/papers/arcs-motivational-ergonomics-gamified-ai-2026.md'
+  Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training
+
+- ◐ [[nasa-tlx-workload-gamified-ai-2026]] — 'raw/papers/nasa-tlx-workload-gamified-ai-2026.md'
+  Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education
+
+- ◐ [[sahab-model-genai-constructivist-id-2026]] — 'raw/papers/sahab-model-genai-constructivist-id-2026.md'
+  Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model
+
+- ◐ [[pre-service-science-teachers-ai-perceptions-2026]] — 'raw/papers/pre-service-science-teachers-ai-perceptions-2026.md'
+  Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
+
+- ◐ [[multimodal-exam-obe-rubrics-2026]] — 'raw/papers/multimodal-exam-obe-rubrics-2026.md'
+  Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment
+
+- ◐ [[soft-barriers-copying-ai-programming-2026]] — 'raw/papers/soft-barriers-copying-ai-programming-2026.md'
+  Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
+
+- ◐ [[evaluation-age-ai-output-evidence-2026]] — 'raw/papers/evaluation-age-ai-output-evidence-2026.md'
+  Evaluation in the Age of AI: Output as Evidence of Learning
 
 - ◐ [[stenalt-good-education-teacher-ai-conceptions-2026]] — 'raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md'
   Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI

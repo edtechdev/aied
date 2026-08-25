@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-25T12:00:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -130,3 +130,5 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[astor-computational-thinking-meta-review-2026]] — Meta-review situating CT in CS education
+
+- [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming

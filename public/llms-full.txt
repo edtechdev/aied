@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 169 concepts, 886 articles, and 14 FAQs.
+> Complete text of 169 concepts, 894 articles, and 14 FAQs.
 
 # Concepts
 
@@ -106,6 +106,10 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? risk perceptions and ChatGPT usage
 
 - [[qu-wang-disclose-or-not-genai-2026]] — To disclose or not to disclose: peer influence and GenAI use
+
+- [[evaluation-age-ai-output-evidence-2026]] — AI-era assessment ethics: output-as-evidence model
+
+- [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 
 ---
 
@@ -1689,6 +1693,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[astor-computational-thinking-meta-review-2026]] — Assessment as one of five dominant CT themes
 - [[xiong-ai-educational-measurement-review-2026]] — AI reshaping assessment practice
 
+- [[evaluation-age-ai-output-evidence-2026]] — AI-era assessment ethics: output-as-evidence model
+
 ---
 
 ## [Assistive Technology](https://edtechdev.github.io/aied/concepts/assistive-technology/)
@@ -1946,6 +1952,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+
+- [[multimodal-exam-obe-rubrics-2026]] — Multimodal exam dataset with OBE rubrics
 
 ---
 
@@ -3442,6 +3450,8 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[astor-computational-thinking-meta-review-2026]] — Meta-review situating CT in CS education
 
+- [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
+
 ---
 
 ## [Culturally Relevant Pedagogy](https://edtechdev.github.io/aied/concepts/culturally-relevant-pedagogy/)
@@ -4446,6 +4456,8 @@ A defining theme is that robots are effective when they support genuine learning
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Robot-mediated CT in kindergarten
+
+- [[ai-toys-child-development-2026]] — AI-enabled toys and child development
 
 ---
 
@@ -5464,6 +5476,10 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
+
+- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX workload across gamified/AI conditions
+
+- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS motivation and AI-supported gamification
 
 ---
 
@@ -12160,6 +12176,10 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian pre-service science teachers' AI perceptions (UTAUT/TPB)
+
+- [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 
 ---
 
@@ -19085,6 +19105,40 @@ Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Loo
 
 ---
 
+## [Artificial Intelligence in Toys: Implications for Child Development and Play](https://edtechdev.github.io/aied/articles/ai-toys-child-development-2026/)
+
+> **Synthesis:** Xu, Girouard, and Shi (2026) review how [[generative-ai|AI]]-enabled toys may shape key domains of children's development, including imagination, language, anthropomorphism, relationship formation, [[trust-calibration|epistemic trust]], and persuasion. They argue that AI-enabled toys **redistribute agency in play**, shifting some control over narrative, dialogue, relationship, and information from the child alone to the child-toy interaction. This redistribution may **constrain** play when the toy functions as an organizing force, but may **enable** play when the toy serves as a responsive resource for child-led imagination, inquiry, and social [[student-engagement|engagement]]. The authors conclude by outlining implications for developmental research, product evaluation, and child-centered AI design.
+
+## Key Findings
+1. AI-enabled toys are increasingly entering children's everyday play, yet their developmental implications remain poorly understood.
+2. The paper reviews potential effects across imagination, language, anthropomorphism, relationship formation, epistemic trust, and persuasion.
+3. The central mechanism proposed is a redistribution of agency in play: some control over narrative, dialogue, relationship, and information moves from the child to the child-toy interaction.
+4. Whether this redistribution is harmful or beneficial depends on the toy's role — constraining when it organizes play, enabling when it responds to child-led imagination, inquiry, and social engagement.
+5. The authors call for more developmental research, product evaluation, and child-centered AI design grounded in these mechanisms.
+
+## Discussion
+The paper brings a [[k-12|childhood-development]] perspective to the AI-in-education literature, extending the conversation beyond formal schooling into the everyday play environments where children increasingly encounter AI. Its framing of agency redistribution — distinguishing a toy that *organizes* play from one that *responds* to it — offers a design-relevant lens for [[pedagogical-agent|pedagogical agents]] and [[educational-robotics|educational robotics]] more broadly. By connecting AI toy design to child-centered development (imagination, language, attachment, trust), it foregrounds the [[agency|agency]] and [[well-being|well-being]] considerations that formal [[ai-literacy|AI literacy]] curricula rarely reach. For the wiki, it broadens the [[ai-education]] domain toward early-childhood and informal learning, and complements the literature on conversational agents and [[embodied-learning|embodied]] AI in [[k-12|education]].
+
+## Connected Concepts
+- [[educational-robotics]]
+- [[pedagogical-agent]]
+- [[k-12]]
+- [[agency]]
+- [[well-being]]
+- [[generative-ai]]
+- [[trust-calibration]]
+- [[ai-literacy]]
+
+## Connected Articles
+- [[roboblockly-conversational-block-robotics-ct-2026]] — Conversational Block Robotics and CT
+- [[ai-play-framework-early-childhood-2026]] — AI and Play in Early Childhood
+- [[educational-robotics]] — Robots in Education
+
+## Citation
+Xu, Y., Girouard, L., & Shi, Z. (2026). [*Artificial Intelligence in Toys: Implications for Child Development and Play*](https://osf.io/preprints/edarxiv/62qsn_v1/). EdArXiv preprint.
+
+---
+
 ## [Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs](https://edtechdev.github.io/aied/articles/ai-tpack-mathematics-teacher-education-2026/)
 
 > **Synthesis:** Xie and Luo (2026) develop and validate a domain-specific AI-TPACK instrument tailored to the unique pedagogical and logical demands of [[math-education]], then survey 412 Chinese mathematics [[teacher-education]] students (MTES) across seven universities (289 female, 123 male; 262 senior undergraduates, 105 first-year and 45 second-year graduate students). Their AI-TPACK readiness is currently at a preliminary stage, with all six construct means falling in the medium range (3.76–5.33 on 7-point scales): teaching beliefs were highest (M = 5.24) and AI-TK lowest (M = 4.23). A structural equation model shows that [[self-efficacy]] is a significant positive predictor of AI-TK (β = 0.69), AI-TCK (β = 0.78), and AI-TPK (β = 0.73), whereas strong traditional teaching beliefs act as a weak cognitive barrier (negative paths to AI-TCK and AI-TPK), and AI-TK's influence on AI-TPACK is fully mediated through AI-TPK and AI-TCK. The findings provide empirical evidence for redesigning mathematics teacher training to address both technical proficiency and psychological readiness.
@@ -20697,6 +20751,41 @@ ANVIL demonstrates a viable blueprint for scalable, human-grounded evaluation of
 ## Citation
 
 Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). [ANVIL: Analogies and Videos for Lecturers](https://arxiv.org/abs/2605.16295). arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].
+
+---
+
+## [Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training](https://edtechdev.github.io/aied/articles/arcs-motivational-ergonomics-gamified-ai-2026/)
+
+> **Synthesis:** Speranza (2026) examines learner [[motivation|motivation]] across two [[game-based-learning|gamified]] learning conditions in [[higher-ed|higher education]] — conventional gamification (GAM1) and gamification with conditioned progression supported by [[generative-ai|artificial intelligence]] functions (GAM2/PC-AI) — through the ARCS model (attention, relevance, confidence, satisfaction). Using valid ARCS responses from 47 students (GAM1) and 51 students (GAM2/PC-AI), Welch independent-samples t-tests found no statistically significant differences between conditions on any ARCS dimension or the overall score. Exploratory item-level analyses suggested a differentiated pattern: the AI-supported condition was perceived as stronger in feedback/support and adaptive repetition, while conventional gamification scored higher on interest, clarity, sustained attention, and emotional involvement. The author proposes ARCS as a cognitive-ergonomic lens for evaluating whether technology-mediated environments are motivationally sustainable and transferable to workplace training.
+
+## Key Findings
+1. No statistically significant differences between conventional and AI-supported gamification on attention, relevance, confidence, satisfaction, or overall ARCS score.
+2. Valid ARCS responses came from 47 students (GAM1) and 51 students (GAM2/PC-AI).
+3. Exploratory item-level analysis showed the AI-supported condition stronger on feedback/support and adaptive repetition; conventional gamification higher on interest, clarity, sustained attention, and emotional involvement.
+4. More structured or AI-supported gamification does not automatically produce a stronger motivational profile.
+5. The paper proposes ARCS as a cognitive-ergonomic lens for assessing motivational sustainability, [[usability-research|usability]], and transferability to workplace training design.
+
+## Discussion
+The paper contributes a [[research-methods-aied|methodological]] framing — treating learner motivation as a form of "cognitive ergonomics" to be measured and designed for, rather than assumed — and delivers a null result that challenges the automatic-association between AI-supported gamification and enhanced [[motivation|motivation]]. Its differentiated item-level findings are the actionable core: AI-supported progression excels at instrumental support (feedback, adaptive repetition) while conventional gamification better sustains [[affective-computing|affective]] [[student-engagement|engagement]] (interest, emotional involvement). For the wiki, it connects [[game-based-learning|gamified learning]], [[self-determination-theory|motivation theory]], and [[instructional-design|instructional design]], and pairs naturally with the author's companion NASA-TLX workload study, together illustrating standardized instrument-based [[ai-ed-evaluation|evaluation of AI]]-supported [[student-experience|learning environments]].
+
+## Connected Concepts
+- [[game-based-learning]]
+- [[motivation]]
+- [[higher-ed]]
+- [[instructional-design]]
+- [[self-determination-theory]]
+- [[student-experience]]
+- [[student-engagement]]
+- [[feedback]]
+
+## Connected Articles
+- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX Workload Study (companion study)
+- [[simon-student-engagement-adaptive-learning-2026]] — Student Engagement and Adaptive Learning
+- [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and Metacognitive Roles of GenAI
+- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation Shaping Future AI Education
+
+## Citation
+Speranza, M. (2026). [*Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training*](https://osf.io/preprints/edarxiv/g4bek_v1/). EdArXiv preprint.
 
 ---
 
@@ -30618,6 +30707,41 @@ For educators and tool builders, EE-Eval offers a diagnostic lens: instead of as
 ## Citation
 
 Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). [Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations](https://arxiv.org/abs/2606.31012). arXiv:2606.31012.
+
+---
+
+## [Evaluation in the Age of AI: Output as Evidence of Learning](https://edtechdev.github.io/aied/articles/evaluation-age-ai-output-evidence-2026/)
+
+> **Synthesis:** Chowdhury and Khan (2026) argue that the proliferation of [[generative-ai|generative AI]] — and of [[llm|large language models]] in particular — has broken the "output-as-evidence" model that has silently underwritten [[higher-ed|higher education]] [[assessment]] for a century: the assumption that a student's artifact (an essay, a proof, or a software script) is a direct reflection of their cognitive labor. Drawing on a university-level analysis and empirical survey data, they contend the core problem is not merely [[academic-integrity|academic dishonesty]] but a deeper misalignment between assessment practices and the [[learning-gains|learning outcomes]] they are meant to measure — regimes built on artificial constraints risk measuring compliance, access, or concealment rather than genuine understanding. The paper proposes [[authentic-assessment|alternative assessment models]] that emphasize process over product, aiming to preserve [[agency|student agency]] and accountability in an automated age.
+
+## Key Findings
+1. The "output-as-evidence" model of assessment historically served as a practical, scalable way to certify competence and signal employability, but it rests on a "proportional effort" assumption that LLMs have shattered.
+2. The problem extends beyond academic dishonesty to a structural misalignment: evaluation regimes that rely on artificial constraints (proctoring, detection, timed conditions) risk measuring compliance, access, or concealment instead of reasoning and judgment.
+3. Institutions' typical responses — detection tools and restrictions — are ethically fraught and address the symptom rather than the cause of outcome leakage.
+4. The authors advocate shifting the evaluative weight from the finished product to the [[student-engagement|process]] of learning, preserving student agency and accountability while recognizing that competence can no longer be inferred from easily-outsourced artifacts.
+
+## Discussion
+The paper reframes the AI-era assessment crisis as an [[ethics|ethical]] design problem rather than a purely technical one. Where much of the literature focuses on [[plagiarism-detection|detection]] and [[automated-assessment|automated scoring]], Chowdhury and Khan foreground the epistemic legitimacy of evaluation itself: what counts as evidence of learning when the artifact no longer requires the cognitive struggle it once indexed? Their proposed turn toward process-based and [[authentic-assessment|authentic]] assessment echoes the broader [[ai-literacy|critical AI literacy]] agenda, positioning the [[teacher-role|educator]] as a designer of evaluation experiences rather than a gatekeeper of outputs. The survey data grounds these normative arguments in [[student-experience|student experience]], showing the gulf between [[governance|institutional]] rules and how learners actually navigate AI-assisted work.
+
+## Connected Concepts
+- [[assessment]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[llm]]
+- [[academic-integrity]]
+- [[authentic-assessment]]
+- [[agency]]
+- [[cognitive-offloading]]
+- [[plagiarism-detection]]
+- [[ai-literacy]]
+
+## Connected Articles
+- [[ai-mediated-cognitive-divergence-2026]] — AI-Mediated Cognitive Divergence
+- [[harmogen-ai-assessment-rubric-generation]] — HarmOGEN AI Assessment Rubric Generation
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment with EEG
+
+## Citation
+Chowdhury, M. Z. U. S., & Khan, S. R. (2026). [*Evaluation in the Age of AI: Output as Evidence of Learning*](https://arxiv.org/abs/2608.22660). arXiv:2608.22660.
 
 ---
 
@@ -44744,6 +44868,39 @@ Morphew, J. W., Mehrabi, A., Bennett, J. A., & Majmundar, A. M. (2026). [*A Mult
 
 ---
 
+## [Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment](https://edtechdev.github.io/aied/articles/multimodal-exam-obe-rubrics-2026/)
+
+> **Synthesis:** Alam SM et al. (2026) present a multimodal collection of scanned examination answers paired with expert-designed Outcome-Based Education (OBE) grading metadata, intended to support [[automated-assessment|criterion-level]] assessment research. The dataset contains 485 answer submissions from 415 consenting students at four academic institutions, with eight faculty contributors supplying examination materials across nine subjects and 12 question templates. Each answer-level item links a scanned PDF to a randomized identifier, subject label, question, model answer, criterion definitions, performance-level descriptions, criterion marks, and a total mark; the 12 rubrics contain 47 criteria in total. The scans deliberately preserve realistic visual variability — handwriting, crossed-out work, equations, code, figures, and varied capture pipelines — to enable robustness and generalization studies in [[multimodal|vision-language]] document understanding and grading.
+
+## Key Findings
+1. The dataset links visual examination evidence with question context, model answers, expert-authored OBE criteria, performance descriptions, criterion marks, and total marks at the answer level — enabling criterion-level (not just holistic) assessment.
+2. Nine-subject coverage with mixed visual content (handwriting, printed text, equations, tables, code, figures, sketches, diagrams) supports research on handwritten and printed document understanding, OCR, vision-language modeling, and cross-subject generalization.
+3. Deliberate variation in illumination, contrast, orientation, compression, resolution, and handwriting (including crossed-out work and inserted corrections) provides the robustness testing ground typical of real [[educational-measurement|assessment]] pipelines.
+4. An answer-level audit confirmed 485 unique identifiers, 485 unique PDF filenames, and agreement between criterion counts and rubric definitions — ensuring data integrity for [[benchmark]] use.
+
+## Discussion
+This is a data-article contribution to the emerging field of automated grading and criterion-level assessment. By pairing raw visual evidence with expert-designed OBE rubrics, it provides the kind of ground-truth-labeled multimodal corpus needed to benchmark [[automated-assessment|AI-based evaluation]] fairly — addressing a recurring weakness in the literature where grading models are trained and evaluated on narrowly homogeneous data. The explicit OBE structure ties the technical corpus to contemporary [[higher-ed|higher education]] assessment practice, and the emphasis on realistic visual degradation supports claims about robustness that lab-clean datasets cannot. For the wiki, it connects the [[assessment]] and [[educational-measurement]] agendas with the multimodal/vision-language frontier of automated evaluation.
+
+## Connected Concepts
+- [[automated-assessment]]
+- [[assessment]]
+- [[educational-measurement]]
+- [[multimodal]]
+- [[higher-ed]]
+- [[benchmark]]
+- [[learning-analytics]]
+- [[ai-education|deep learning]]
+
+## Connected Articles
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment with EEG
+- [[ai-grading-handwritten-physics-2026]] — AI Grading of Handwritten Physics
+- [[harmogen-ai-assessment-rubric-generation]] — HarmOGEN AI Assessment Rubric Generation
+
+## Citation
+Alam SM, J., Syfullah, M. K., Ahmed, S., Mou, M. A., Rahman, A. K. Z. R., Rahman, A. K. M. M., & Ali, M. S. (2026). [*Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment*](https://arxiv.org/abs/2608.22346). arXiv:2608.22346.
+
+---
+
 ## [Multimodal Item Parameter Estimation using Simulated Response Probabilities](https://edtechdev.github.io/aied/articles/multimodal-item-parameter-estimation-2026/)
 
 > **Synthesis:** This paper fine-tunes a multimodal large language model (Qwen3.5-based) to reconstruct multiple-choice model (MCM) and three-parameter logistic (3PL) item characteristic curves. By learning to reproduce students' systematic error patterns across a range of ability levels, the LLM implicitly captures underlying response probabilities and can approximate item difficulty on held-out test items directly from predicted option probabilities.
@@ -45189,6 +45346,41 @@ The challenges are real, deep, and interconnected, and cannot be addressed by ad
 
 ## Citation
 Briot, J.-P. (2026). [*Challenges for Musical Education in the Age of AI and Digital Transformation*](https://arxiv.org/abs/2608.05176). arXiv:2608.05176.
+
+---
+
+## [Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education](https://edtechdev.github.io/aied/articles/nasa-tlx-workload-gamified-ai-2026/)
+
+> **Synthesis:** Speranza (2026) compares perceived workload across three conditions in a [[higher-ed|university]] experiment — traditional individual study, conventional gamification, and gamification with conditioned progression supported by [[generative-ai|artificial intelligence]] functions — using the NASA Task Load Index (NASA-TLX). Welch ANOVAs found no statistically significant differences between the groups on any of the six workload dimensions: mental demand was high across all conditions while physical demand remained low, as expected for a study-based digital task. An exploratory pairwise-weighting analysis revealed two significant differences (mental demand versus perceived performance, and temporal demand versus perceived performance). The author concludes that neither [[game-based-learning|gamification]] nor AI-supported progression simply increases or reduces workload; rather, cognitive sustainability depends on how the learning path is designed, paced, explained, and supervised.
+
+## Key Findings
+1. No statistically significant differences in perceived workload (NASA-TLX) were found across traditional, gamified, and AI-supported learning conditions on any of the six dimensions.
+2. Mental demand was high in all conditions; physical demand remained low — consistent with a study-based digital task.
+3. Exploratory NASA-TLX pairwise weighting revealed two significant differences involving mental demand versus perceived performance and temporal demand versus perceived performance.
+4. Results do not support a simple claim that gamification or AI-supported progression either raises or lowers workload — cognitive sustainability hinges on design, pacing, explanation, and supervision.
+5. The study reads its findings alongside NASA-TLX research in professional, industrial, and work-related technology training.
+
+## Discussion
+The paper contributes a measured, null-result perspective to the often-overenthusiastic literature on [[game-based-learning|gamified]] and AI-supported learning in [[higher-ed|higher education]]. Its value lies in complicating the assumption that adding [[student-engagement|engagement]] mechanics or AI-driven progression automatically improves the learning experience — here, workload was not reduced by either condition, and mental demand stayed uniformly high. For the wiki, it connects [[student-experience|student experience]], [[motivation|motivation]], and [[instructional-design|instructional design]] literatures, and complements findings on how the *quality* of technology-mediated environments — not their mere presence — shapes outcomes. It also illustrates the use of standardized [[learning-analytics|measurement instruments]] (NASA-TLX) to assess the cognitive ergonomics of AI-supported learning.
+
+## Connected Concepts
+- [[game-based-learning]]
+- [[higher-ed]]
+- [[motivation]]
+- [[student-experience]]
+- [[instructional-design]]
+- [[self-regulated-learning]]
+- [[learning-analytics]]
+- [[cognitive-offloading|cognitive load]]
+
+## Connected Articles
+- [[arcs-motivational-ergonomics-gamified-ai-2026]] — ARCS Motivational Ergonomics (companion study)
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment with EEG
+- [[genai-tutor-engagement-patterns]] — GenAI Tutor Engagement Patterns
+- [[simon-student-engagement-adaptive-learning-2026]] — Student Engagement and Adaptive Learning
+
+## Citation
+Speranza, M. (2026). [*Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education*](https://osf.io/preprints/edarxiv/e5bk2_v1/). EdArXiv preprint.
 
 ---
 
@@ -47363,6 +47555,42 @@ The study is a small qualitative case study of two students in one institutional
 ## Citation
 
 Wang, Z., & Wang, C. (2025). [*A posthumanist approach to AI literacy*](https://doi.org/10.1016/j.compcom.2025.102933).
+
+---
+
+## [Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers](https://edtechdev.github.io/aied/articles/pre-service-science-teachers-ai-perceptions-2026/)
+
+> **Synthesis:** Amponsah et al. (2026) examine pre-service science teachers' perceptions, acceptance, and use of [[generative-ai|artificial intelligence]] in [[stem-education|science education]] programmes in Ghana, guided by the [[technology-acceptance-model|Unified Theory of Acceptance and Use of Technology (UTAUT)]] and the Theory of Planned Behaviour. Drawing on questionnaire data from 380 pre-service science teachers, they find generally positive perceptions of AI — with participants recognizing its potential to improve teaching — favorable effort expectancy, and strong behavioural intentions to use AI in future lessons, yet only moderate actual classroom use. ChatGPT emerged as the most widely used tool (69% reported frequent use). The authors conclude that effective AI integration depends on closing the gap between favourable attitudes and actual practice, and on addressing [[teacher-education|teacher preparation]].
+
+## Key Findings
+1. Pre-service science teachers demonstrated positive attitudes, favourable effort expectancy, and strong behavioural intentions toward AI adoption, but actual classroom use remained moderate — an intention–use gap.
+2. Performance expectancy (M = 3.80), attitude, and effort expectancy all scored significantly above the neutral midpoint on one-sample t-tests, indicating a meaningful positive trend.
+3. ChatGPT was the most widely used AI tool, with 69% of respondents reporting frequent use; a small share reported never having used AI.
+4. Social influence was comparatively weaker (M = 3.66), suggesting some hesitation in fully advocating AI use among peers.
+5. The study used UTAUT and Theory of Planned Behaviour as a combined lens, and reports reliability/validity metrics (Cronbach's alpha and composite reliability above 0.70).
+
+## Discussion
+The study extends the [[technology-acceptance-model|technology adoption]] literature to the [[global-south|Ghanaian]] science-education context, where teacher readiness and perceptions are decisive for successful educational-technology implementation. Its contribution is to foreground the gap between favourable attitudes and moderate actual use — a finding that complicates simple "acceptance" narratives and points to [[teacher-ai-competency|teacher competency]] and [[governance|institutional]] support as the real levers for AI integration. For the wiki, it connects [[teacher-education|teacher education]], [[ai-literacy|AI literacy]], and technology-adoption theory, and reinforces the recurring theme that initial [[teacher-role|teacher]] enthusiasm must be matched by sustained [[faculty-development|professional development]] and facilitating conditions to translate into classroom practice.
+
+## Connected Concepts
+- [[stem-education|science education]]
+- [[teacher-education]]
+- [[technology-acceptance-model]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[global-south]]
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[technology-acceptance-model]] — Technology Adoption Models
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty Technology Integration Standards
+- [[espino-ai-business-education-review-2026]] — AI in Business Education Review
+- [[genai-pd-ai-pck-learning-gain-2026]] — GenAI Professional Development and AI-PCK
+
+## Citation
+Amponsah, K. D., Adu-Boahen, J., Commey-Mintah, P., Kumassah, E. K., Ayittey, R. F., & Nketsiah, J. (2026). [*Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers*](https://osf.io/preprints/edarxiv/7yqbe_v1/). *Education Quarterly Reviews*, 9(3), 51–65. DOI: 10.31014/aior.1993.09.03.724.
 
 ---
 
@@ -50043,6 +50271,43 @@ Rudolph, J., Ismail, F., Tan, S., & Seah, P. (2025). [*Don't believe the hype. A
 
 ---
 
+## [Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model](https://edtechdev.github.io/aied/articles/sahab-model-genai-constructivist-id-2026/)
+
+> **Synthesis:** Talebzadeh (2026) evaluates the **SAHAB** (Smart Indigenous [[pedagogy|Pedagogical]] System) model, which trains teachers to design learning units that integrate [[generative-ai|generative AI]], social [[constructivist|constructivism]], and Iran's Fundamental Reform Document (FRD) educational domains. Using a quasi-experimental single-group pretest–posttest design with all 33 eligible teachers at the Noor-e-Iman Educational Complex and a 12-hour intervention, the study found teacher competencies rose significantly from 3.05 to 4.33 (p < 0.001, Cohen's d = 1.18). [[qualitative-research|Qualitative]] thematic analysis revealed three core themes: reclamation of professional [[agency|agency]], cognitive augmentation, and the operationalization of abstract educational standards. The author argues generative AI can function as a collaborative [[scaffolding|cognitive scaffold]] rather than a replacement, substantially reducing [[cognitive-offloading|cognitive load]] and shifting teachers from passive content deliverers to active designers.
+
+## Key Findings
+1. Teacher instructional-design competencies significantly increased from M = 3.05 (pretest) to M = 4.33 (posttest), p < 0.001, with a robust Cohen's d of 1.18.
+2. Qualitative analysis surfaced three themes: reclamation of professional agency, cognitive augmentation, and operationalization of abstract educational standards.
+3. The SAHAB model integrates generative AI, social constructivism, and the six educational domains of Iran's Fundamental Reform Document into a localized, "indigenous" pedagogical system.
+4. Generative AI, positioned as a collaborative cognitive scaffold rather than a replacement, reduced teachers' cognitive load and supported their shift from content delivery toward active instructional design.
+5. The study grounds the intervention in Vygotskian social constructivism and Cognitive Load Theory, contrasting cognitive automation (machine replaces human) with cognitive augmentation (machine expands human capability).
+
+## Discussion
+The paper contributes to the [[teacher-ai-competency|teacher-AI competency]] and [[instructional-design|instructional design]] literatures by showing how generative AI can be positioned within a culturally-grounded, constructivist professional-development model rather than as a generic productivity tool. The "indigenous" SAHAB framing addresses a recurring critique that AI pedagogy models imported from Western contexts ignore local educational reform agendas. The large effect size (d = 1.18) is notable but must be read against the single-group, small-sample (N = 33) design without a control condition. For the wiki, it connects [[teacher-education|teacher education]], [[constructivist|constructivist pedagogy]], [[cognitive-offloading|cognitive augmentation]], and [[professional-training|professional development]], and reinforces the theme that AI is most effective when it scaffolds — not replaces — [[teacher-role|teacher]] professional agency.
+
+## Connected Concepts
+- [[teacher-education]]
+- [[constructivist]]
+- [[instructional-design]]
+- [[generative-ai]]
+- [[teacher-ai-competency]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[agency]]
+- [[professional-training|professional development]]
+- [[teacher-role]]
+
+## Connected Articles
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty Technology Integration Standards
+- [[genai-pd-ai-pck-learning-gain-2026]] — GenAI Professional Development and AI-PCK
+- [[mishra-control-vs-agency-history-2025]] — Control vs Agency in AIED History
+- [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical Partnerships with GenAI
+
+## Citation
+Talebzadeh, H. (2026). [*Evaluating the Effectiveness of Generative Artificial Intelligence in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model*](https://osf.io/preprints/edarxiv/dtn8y_v1/). ICELET 2026 Accepted Manuscript.
+
+---
+
 ## [Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach](https://edtechdev.github.io/aied/articles/saihi-ahmed-genai-adoption-personas-higher-ed-2026/)
 
 > **Synthesis:** Saihi and Ahmed (2026) apply a person-centered, clustering-based approach to uncover distinct adoption personas for [[generative-ai|GenAI]] [[conversational-ai|chatbot]]s in higher education, moving beyond the aggregate, average-effect assumptions of traditional TAM/UTAUT models. Using hierarchical clustering followed by k-means on 192 validated observations (107 students, 85 educators), they identify a four-persona solution — Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts — that reflects diverse configurations of trust, usefulness, efficiency, ethical comfort, and satisfaction. The study argues that understanding this latent user heterogeneity is essential for designing inclusive, context-aware AI interventions rather than one-size-fits-all deployments.
@@ -52035,6 +52300,42 @@ The study implies that generative AI in K-12 [[cs-education|programming educatio
 ## Citation
 
 preprint, A. (2026). [*Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*](https://arxiv.org/abs/2605.17857)
+
+---
+
+## [Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming](https://edtechdev.github.io/aied/articles/soft-barriers-copying-ai-programming-2026/)
+
+> **Synthesis:** Olatunji et al. (2026) reframe copy-paste in [[generative-ai|AI]]-assisted programming as an "AI code handoff" problem: the instant model-generated text crosses from a conversational chat window into an editor or committed software is a design boundary that current tools leave unmanaged. They propose **soft barriers** — mechanisms that preserve access to AI assistance while making unexamined transfer less frictionless — and instantiate the idea with Unicode output perturbations that keep text visually readable yet disrupt naive copy-paste execution. Across HumanEval and MBPP with four LLMs, they define and measure **Copy-Paste Resistance (CPR)**, finding output-level barriers can achieve high resistance but that effectiveness is highly model- and task-dependent, and an 18-participant pilot suggests soft barriers shift users from direct transfer toward editing and reconstruction.
+
+## Key Findings
+1. Copy-paste is a core, largely unmanaged "handoff" moment in AI-assisted programming, particularly salient in [[cs-education|programming education]], code review, and security-sensitive development.
+2. The authors introduce **Copy-Paste Resistance (CPR)**, the fraction of functionally correct clean solutions that become syntactically invalid after perturbation.
+3. Unicode perturbation barriers can achieve high CPR, but their effectiveness varies substantially by model and task — no universal barrier works.
+4. An exploratory 18-participant pilot found early evidence that soft barriers shift behavior from direct copy-paste toward editing and reconstruction, without blocking AI use outright.
+5. The paper positions Unicode perturbations as a "minimal probe," not a deployment-ready solution, opening a research agenda on practical, transparent, and policy-aware AI code handoff.
+
+## Discussion
+The paper's conceptual contribution is to broaden how we evaluate AI coding assistants: not only by the code they generate but by how they mediate the transfer of that code into artifacts. This shifts the [[academic-integrity|integrity]] conversation in programming education away from blunt detection-and-punish toward design interventions that shape the [[cognitive-offloading|cognitive offloading]] boundary. Soft barriers preserve the legitimate use of AI assistance while creating a friction point that forces learners to engage with the code they are adopting — a form of [[scaffolding|scaffolded]] [[student-engagement|engagement]] rather than blanket restriction. The work connects directly to debates about when [[ai-literacy|AI literacy]] should mean fluent delegation versus deliberate understanding, and offers an empirically grounded alternative to copy-paste [[plagiarism-detection|detection]].
+
+## Connected Concepts
+- [[cs-education]]
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[llm]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+- [[plagiarism-detection]]
+- [[scaffolding]]
+- [[instructional-design]]
+- [[cs-education|programming education]]
+
+## Connected Articles
+- [[reshaping-cs-education-genai]] — Reshaping CS Education for Generative AI
+- [[genai-oop-programming-assessments-2026]] — GenAI on OOP Assessments
+- [[learn-framework-responsible-genai-pbl-2026]] — LEARN Framework for Responsible GenAI
+
+## Citation
+Olatunji, I. E., Djire, A. E., Klein, J., & Bissyandé, T. F. (2026). [*Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming*](https://arxiv.org/abs/2608.22638). arXiv:2608.22638.
 
 ---
 
