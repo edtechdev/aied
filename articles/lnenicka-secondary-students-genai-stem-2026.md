@@ -44,7 +44,6 @@ For [[educational-policy-ai|policy]] and course design, the finding that subject
 - [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI learning penalty in secondary students
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education systematic review
-- [[ai-higher-ed-workforce-survey]] — AI in higher education workforce survey
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 
 ## Citation

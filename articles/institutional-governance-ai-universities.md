@@ -61,8 +61,6 @@ The study reveals a fundamental structural challenge in [[ai-education|AI govern
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
-- [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
-- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 
 ## Citation
 

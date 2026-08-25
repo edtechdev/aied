@@ -8,7 +8,6 @@ sources: ['raw/papers/cdpk-pedagogy-benchmark-llms.md']
 confidence: high
 ---
 
-
 # Benchmarking the Pedagogical Knowledge of Large Language Models
 
 ## Summary

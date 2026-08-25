@@ -56,7 +56,6 @@ The nine studies were implemented in heterogeneous learning contexts, making cro
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 
-
 ## Connected Articles
 
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
@@ -64,7 +63,6 @@ The nine studies were implemented in heterogeneous learning contexts, making cro
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
 - [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
 
 ## Citation
 

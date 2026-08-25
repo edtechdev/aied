@@ -34,7 +34,6 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[intelligent-tutoring]]
 - [[ai-sycophancy]]
 
-
 ## Connected Articles
 
 - [[best-response-student-ai-dialog-2026]]

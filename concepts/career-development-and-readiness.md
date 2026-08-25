@@ -16,7 +16,7 @@ As AI transforms occupations, education's role in career development has broaden
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA report]] documents how instructors and employers prioritize AI skills for college graduates, signaling the workforce demands shaping [[higher-ed|higher education]] curricula.
 - **Sector-specific readiness frameworks.** [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce readiness for smart manufacturing]] and [[ai-engineering-computing-workforce-grey-literature-2026|the future of the engineering/computing workforce]] translate general employability into [[discipline-specific-aied|discipline-specific]] competency frameworks.
-- **Workforce transitions.** [[ai-higher-ed-workforce-survey|Surveys of AI's impact on the higher-ed workforce]] and [[post-covid-ict-career-aspirations|ICT career aspirations]] examine how students' career intentions shift in response to technological change.
+- **Workforce transitions.**  and [[post-covid-ict-career-aspirations|ICT career aspirations]] examine how students' career intentions shift in response to technological change.
 - **Theoretical grounding.** The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as a primary driver of AI anxiety — the career dimension this concept addresses head-on.
 
 ## Career readiness as a protective and developmental goal
@@ -42,7 +42,6 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness for smart manufacturing
-- [[ai-higher-ed-workforce-survey]] — AI's impact on the higher-education workforce
 - [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the future of the engineering/computing workforce
 - [[post-covid-ict-career-aspirations]] — ICT career aspirations after COVID-19
 - [[kim-ai-anxiety-comprehensive-analysis]] — AI anxiety and the fear of replacement

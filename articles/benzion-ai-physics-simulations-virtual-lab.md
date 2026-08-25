@@ -15,7 +15,6 @@ sources:
 confidence: high
 ---
 
-
 # Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
 
 ## Summary

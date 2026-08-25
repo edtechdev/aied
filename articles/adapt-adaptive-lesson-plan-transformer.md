@@ -28,8 +28,6 @@ AdaPT uses transformers to adapt lesson plans across regional and differentiated
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
 
 ## Citation

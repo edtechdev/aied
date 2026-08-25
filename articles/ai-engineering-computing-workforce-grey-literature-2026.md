@@ -55,10 +55,8 @@ The paper extends the wiki's coverage of AI and work, complementing empirical fr
 ## Connected Articles
 
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level Framework for Smart Manufacturing
-- [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
 - [[genai-expertise-pathways-sysadmin]] — GenAI and Expertise Pathways in System Administration
 - [[skill-diversity-worker-resilience]] — Skill Diversity and Worker Resilience
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
 - [[ai-vocational-education-training-review]] — AI in Vocational Education and Training: A Systematic Review
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify?
 

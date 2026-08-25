@@ -83,7 +83,6 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[cognitive-offloading-speedup-illusion]]
 - [[vibe-compiler-metacognition-genai-agency-2026]]
 - [[ai-tutor-safety-harms]]
-- [[brookings-ai-students-report]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[genai-assisted-problem-posing-physics-2026]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Performance-learning distinction and durable transfer

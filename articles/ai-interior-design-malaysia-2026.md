@@ -60,7 +60,6 @@ The analysis also speaks to [[higher-ed]] and [[educational-policy-ai]]: institu
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
-- [[ai-education-global-capacity]] — Global capacity for AI education
 - [[ai-ethics-education-public-discourse]] — AI ethics in public discourse
 - [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework for content creation

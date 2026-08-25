@@ -42,7 +42,6 @@ As a conceptual paper, SPARK is a proposed framework that has not been empirical
 - [[institutional-change-framework-ai]] — Institutional Change Framework for AI
 - [[ai-in-the-wild-college]] — AI in the Wild: College Contexts
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[state-policy-teacher-ai]] — State Policy and Teacher AI
 - [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: A Systematic Review
 

@@ -58,8 +58,6 @@ This bibliometric paper provides field-level empirical grounding for the wiki's 
 - [[principled-ai-education]] — Principled approaches to AI in education
 - [[teacher-ai-teaming-five-levels]] — Teacher–AI teaming across five levels
 - [[ai-communities-of-inquiry-2026]] — AI and communities of inquiry
-- [[state-policy-teacher-ai]] — State policy and teacher AI use
-- [[brookings-ai-students-report]] — Brookings report on AI and students
 
 ## Citation
 

@@ -13,7 +13,7 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 
 ### Regulatory landscape
 
-- **Government policy:** [[educational-policy-ai]] research examines national and regional AI education policies. [[state-policy-teacher-ai|State-level teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
+- **Government policy:** [[educational-policy-ai]] research examines national and regional AI education policies.  and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
 - **Institutional governance:** [[governance|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules, while [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] regulate AI use in assessed work.
 - **Safety regulation:** [[pedagogical-safety]], [[child-safety-genai|child safety]], and [[eduzone-llm-safety-k12|K-12 safety frameworks]] represent de facto regulation through safety requirements.
 - **Ethics as regulation:** [[ethics]] frameworks increasingly serve regulatory functions — [[ai-ethics-education-public-discourse|public discourse on AI ethics]] shapes policy expectations, and [[league-ethical-governance-student-data-2026|ethical governance of student data]] shows how ethics principles harden into binding rules.
@@ -21,7 +21,7 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 
 ### The governance gap
 
-The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of [[ai-education-global-capacity|global AI-education capacity]] and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
+The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
 
 ### Connections
 
@@ -46,7 +46,6 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[institutional-change-framework-ai]]
 - [[genai-policies-higher-ed-computing]]
-- [[state-policy-teacher-ai]]
 - [[ai-lifelong-learning-policy]]
 - [[ai-ethics-education-public-discourse]]
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
