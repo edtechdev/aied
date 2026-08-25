@@ -1,6 +1,6 @@
 ---
 title: "The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students' Job Finding Anxiety"
-created: "2026-08-25T10:30:00-04:00"
+created: "2026-08-25T07:46:00-04:00"
 updated: "2026-08-25T10:30:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, career-development, career-anxiety, higher-ed, employability, job-finding, attitudes]

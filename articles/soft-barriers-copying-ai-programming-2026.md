@@ -1,7 +1,7 @@
 ---
 title: "Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming"
-created: "2026-08-25T09:17:08-04:00"
-updated: "2026-08-25T09:17:08-04:00"
+created: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [cs-education, academic-integrity, generative-ai, llm, cognitive-offloading, ai-literacy, instructional-design]
 sources: ['raw/papers/soft-barriers-copying-ai-programming-2026.md']

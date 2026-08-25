@@ -1,6 +1,6 @@
 ---
 title: "Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI"
-created: "2026-08-25T11:00:00-04:00"
+created: "2026-08-25T07:58:00-04:00"
 updated: "2026-08-25T11:00:00-04:00"
 type: article
 tags: [teacher-role, higher-ed, ai-literacy, curriculum-design, qualitative-research, teacher-ai-competency, pedagogy, learning-theories]

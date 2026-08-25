@@ -1,6 +1,6 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
-created: "2026-08-25T11:30:00-04:00"
+created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 tags: [agentic-ai, intelligent-tutoring, pedagogical-agent, human-in-the-loop-ai]
 ---
