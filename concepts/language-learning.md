@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T12:40:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity]
 confidence: high
@@ -16,6 +16,8 @@ Language learning has emerged as a significant AI in education domain because la
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.
 
 **Accessibility for language learners** connects to [[inclusive-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
+
+**Motivational mechanisms in AI-assisted language learning** examine why learners engage with AI for language practice. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with 758 Chinese university English learners to show that **teacher support** enhances engagement in AI-assisted learning through students' mastery-approach and performance-approach goals (not avoidance goals) — evidence that the pedagogical and social context, not just the AI tool, determines whether learners stay engaged with AI-assisted language practice. This connects language learning to [[motivation]] and [[student-engagement]].
 
 ## Implications for language instructors
 

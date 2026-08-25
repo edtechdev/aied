@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-25T12:20:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 confidence: high
@@ -15,10 +15,8 @@ SDT is increasingly used in AI in education research as a theoretical lens for b
 
 **SDT-based teacher professional development** applies the theory's need-supportive principles to prepare educators for AI. **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** studied 382 secondary school teachers, finding that need-supportive professional development grounded in SDT enhances teachers' [[ai-literacy]] and fosters sustained behavioral engagement in online professional learning communities. Qualitative analysis identified nine design strategies supporting autonomy, competence, and relatedness — bridging the gap between isolated professional development and professional learning communities.
 
-**SDT in AI-mediated learning engagement** examines how generative AI tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with epistemic network analysis to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion.
+**SDT in AI-mediated learning engagement** examines how generative AI tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with epistemic network analysis to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** extend SDT to AI learning with a latent transition analysis of **2,086 secondary students** in a year-long AI curriculum, identifying **three motivational profiles (Disengaged, Developing, Self-Determined)** that were stable across time and showing that most students maintained or advanced toward higher profiles. Crucially, students who reached or remained in the Self-Determined profile showed the **greatest [[ai-literacy]] gains** — direct longitudinal evidence that satisfying autonomy, competence, and relatedness predicts better AI-learning outcomes, and that motivation is a developmental (not fixed) learner property.
 
-
-#
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
 
 ## Connections to related concepts

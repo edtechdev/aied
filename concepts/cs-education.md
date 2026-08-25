@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T12:00:00-04:00"
+updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -46,6 +46,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 
 - **Trust ≠ appropriate reliance:** [[trust-reliance-ai-education-2026|Trust and reliance on AI (Pitts et al.)]] find that higher trust in an AI assistant predicted *worse* discrimination between correct and misleading suggestions during Python problem-solving — moderated by [[ai-literacy]] and need for cognition. Calibration, not confidence, is the goal.
 - **Epistemic AI literacy:** [[constructing-epistemic-ai-literacy-student-ai-co-programming|Wu (2026)]] shows that in student-AI co-programming, 78.8% of interactions relied on non-mastery-oriented aims and unreliable strategies (outsourcing, verification-seeking), with only 11.1% showing high epistemic engagement — genuine learning rarely emerges without deliberate design support.
+- **Structural interventions against copy-paste over-reliance:** [[soft-barriers-copying-ai-programming-2026|Soft barriers for copying in AI-assisted programming]] evaluate lightweight design interventions (e.g., mechanisms that discourage blind copy-paste of AI output) and find they can reduce over-reliance without blocking AI assistance — evidence that the [[cognitive-offloading|over-reliance]] risk in CS education is amenable to instructional-design fixes, not just learner-education or bans.
 - **Teachable agents and productive practice:** [[chatgpt-teachable-agent-programming-lbt-2024|Learning-by-teaching with ChatGPT]] improved knowledge gains and code quality but undermined error-correction practice because the agent is too competent — a design lesson: make agents *deliberately fallible* so debugging is preserved.
 - **Assistance governance:** [[llm-programming-support-governance-cs-education|a scoping review of 90 systems]] introduces the **PEA framework** (Policy, Enforcement, Authority) for bounding and controlling LLM assistance — a comparative vocabulary for designing scaffolding that limits over-reliance.
 - **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
