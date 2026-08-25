@@ -1,8 +1,17 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1055
+**Last updated:** 2026-08-24 | **Total entries:** 1058
 
 ## 2026-08-25
+
+- ◐ [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — 'raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md'
+  The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered
+
+- ◐ [[kim-ai-anxiety-comprehensive-analysis]] — 'raw/papers/kim-ai-anxiety-comprehensive-analysis.md'
+  AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions
+
+- ◐ [[career-development-and-readiness]] — (concept)
+  Career Development and Readiness
 
 - ◐ [[conijn-fear-big-brother-proctored-exams-2022]] — 'raw/papers/conijn-fear-big-brother-proctored-exams-2022.md'
   The fear of Big Brother: The potential negative side-effects of proctored exams
