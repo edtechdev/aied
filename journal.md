@@ -1,6 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1050
+**Last updated:** 2026-08-24 | **Total entries:** 1051
+
+## 2026-08-25
+
+- ◐ [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 'raw/papers/your-brain-on-chatgpt-cognitive-debt-essay-writing.md'
+  Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
+  #cognitive-offloading #generative-ai #writing #academic-integrity #student-engagement #eeg #metacognition #agency
 
 ## 2026-08-24
 
