@@ -1,7 +1,7 @@
 ---
 title: Teacher Education
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-24T09:15:00-04:00"
+updated: "2026-08-25T12:00:00-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
@@ -83,3 +83,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-supported-inquiry-photosynthesis-respiration-2026]] — AI-supported guided inquiry in science teacher education
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian pre-service science teachers' AI perceptions (UTAUT/TPB)
+
+- [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design

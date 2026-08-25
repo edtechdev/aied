@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-25T12:00:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -109,3 +109,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? risk perceptions and ChatGPT usage
 
 - [[qu-wang-disclose-or-not-genai-2026]] — To disclose or not to disclose: peer influence and GenAI use
+
+- [[evaluation-age-ai-output-evidence-2026]] — AI-era assessment ethics: output-as-evidence model
+
+- [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming

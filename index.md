@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1062
+**Last updated:** 2026-08-24 | **Total pages:** 1070
 ---
 ## Concepts
 
@@ -137,6 +137,7 @@
 - [[ai-technologies]] — AI Technologies and Techniques in Education
 - [[ai-tools-academic-work-cheating-2026]] — Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethics, and Impact on Academic Performance and Critical Thinking
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms: Looking back and forward
+- [[ai-toys-child-development-2026]] — Artificial Intelligence in Toys: Implications for Child Development and Play
 - [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs
 - [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
@@ -166,6 +167,7 @@
 - [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
 - [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
+- [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
 - [[assessing-student-drive-framework-2025]] — Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI
@@ -402,6 +404,7 @@
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review
 - [[ethics]] — Ethics in AI Education
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI: Output as Evidence of Learning
 - [[experiential-learning]] — Experiential Learning
 - [[expert-cognition-dashboard]] — Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
@@ -718,11 +721,13 @@
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 - [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
+- [[multimodal-exam-obe-rubrics-2026]] — Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
 - [[multimodal-knowledge-graph-educational-reasoning]] — Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
 - [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
 - [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting practices as epistemic work in AI literacy development
 - [[musical-education-ai-digital-transformation-2026]] — Challenges for Musical Education in the Age of AI and Digital Transformation
+- [[nasa-tlx-workload-gamified-ai-2026]] — Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education
 - [[network-analysis]] — Network Analysis
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[neurodivergent-computing-students]] — I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning
@@ -778,6 +783,7 @@
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
 - [[post-instrumental-learning-capacity-dissolution]] — When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
+- [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
 - [[prezenski-human-centered-ai-aided-learning]] — How Human-Centered Is AI-Aided Learning in Education?
@@ -846,6 +852,7 @@
 - [[rook-plumb-genai-curricula-student-insights-2026]] — Integrating Generative Artificial Intelligence into University Curricula: Student Insights
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype. AI myths and the need for a critical approach in higher education
+- [[sahab-model-genai-constructivist-id-2026]] — Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach
 - [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity
@@ -895,6 +902,7 @@
 - [[socratic-method]] — Socratic Method
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
 - [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
+- [[soft-barriers-copying-ai-programming-2026]] — Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
 - [[solving-vs-evaluating-genai-solutions]] — Is Solving Better Than Evaluating GenAI Solutions?
 - [[sovereign-hive-titl-further-education-2026]] — Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education
 - [[special-education]] — Special Education
