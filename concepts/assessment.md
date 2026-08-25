@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T12:00:00-04:00"
+updated: "2026-08-25T12:15:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
@@ -107,4 +107,3 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[astor-computational-thinking-meta-review-2026]] — Assessment as one of five dominant CT themes
 - [[xiong-ai-educational-measurement-review-2026]] — AI reshaping assessment practice
 
-- [[evaluation-age-ai-output-evidence-2026]] — AI-era assessment ethics: output-as-evidence model

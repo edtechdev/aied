@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1070
+**Last updated:** 2026-08-24 | **Total entries:** 1069
 
 ## 2026-08-25
 
@@ -24,9 +24,6 @@
 
 - ◐ [[soft-barriers-copying-ai-programming-2026]] — 'raw/papers/soft-barriers-copying-ai-programming-2026.md'
   Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
-
-- ◐ [[evaluation-age-ai-output-evidence-2026]] — 'raw/papers/evaluation-age-ai-output-evidence-2026.md'
-  Evaluation in the Age of AI: Output as Evidence of Learning
 
 - ◐ [[stenalt-good-education-teacher-ai-conceptions-2026]] — 'raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md'
   Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI
