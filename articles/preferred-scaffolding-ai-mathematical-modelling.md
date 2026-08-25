@@ -24,7 +24,7 @@ Students consistently preferred the explicit, authoritative Tutor and Excellent 
 
 ## Implications for adaptive AI learning design
 
-Because [[generative-ai|generative AI]] now produces fluent, immediate, personalized responses, there is a risk that learners become passive consumers of AI-generated solutions. The authors argue perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of scaffolding effectiveness. Instead, [[self-regulated-learning|design]] should balance clarity and efficiency with opportunities for explanation, comparison, revision, and collaborative sense-making. For [[adaptive-learning|adaptive, learner-centered]] AI-supported modelling environments, the implication is that the most popular role is not necessarily the most [[pedagogy|pedagogical]]ly effective — supporting the need for intentional scaffolding design rather than learner-driven default preferences.
+Because [[generative-ai|generative AI]] now produces fluent, immediate, personalized responses, there is a risk that learners become passive consumers of AI-generated solutions. The authors argue perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of scaffolding effectiveness. Instead, [[self-regulated-learning|design]] should balance clarity and efficiency with opportunities for explanation, comparison, revision, and collaborative sense-making. For [[adaptive-learning|adaptive, learner-centered]] AI-supported modelling environments, the implication is that the most popular role is not necessarily the most pedagogically effective — supporting the need for intentional scaffolding design rather than learner-driven default preferences.
 
 ## Connected Concepts
 

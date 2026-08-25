@@ -24,7 +24,7 @@ The zero-inflated negative binomial model showed that engagement frequency was s
 
 ## Inquiry Quality and Achievement Trajectories
 
-Engagement was not merely a matter of frequency but of inquiry quality and diversity. k-means clustering identified distinct achievement profiles. "Growing Achievers" — students who began with weaker achievement but demonstrated substantial performance gains — posed more diverse and conceptually oriented questions, leve[[rag]]ing the chatbot for genuine [[learning-gains|learning gains]]. In contrast, "Declining Performers" engaged minimally and focused on narrower procedural inquiries despite stronger initial knowledge. The predominance of Initial Inquiry behaviors (70.3%, especially Definition and Copy queries) indicates that many students used the chatbot primarily for [[cognitive-offloading|cognitive offloading]] of basic concepts rather than higher-order reasoning.
+Engagement was not merely a matter of frequency but of inquiry quality and diversity. k-means clustering identified distinct achievement profiles. "Growing Achievers" — students who began with weaker achievement but demonstrated substantial performance gains — posed more diverse and conceptually oriented questions, leveraging the chatbot for genuine [[learning-gains|learning gains]]. In contrast, "Declining Performers" engaged minimally and focused on narrower procedural inquiries despite stronger initial knowledge. The predominance of Initial Inquiry behaviors (70.3%, especially Definition and Copy queries) indicates that many students used the chatbot primarily for [[cognitive-offloading|cognitive offloading]] of basic concepts rather than higher-order reasoning.
 
 ## Relevance to the wiki
 

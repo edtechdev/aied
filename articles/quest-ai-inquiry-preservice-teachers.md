@@ -12,7 +12,7 @@ confidence: medium
 
 ## Key Findings
 
-- A 10-week quasi-experimental study with 95 preservice teachers in an educational research methods course compared two intact classes (experimental n = 52; comparison n = 43). The groups were equivalent at baseline, with no statistically significant pre-intervention differences in age (M = 20.38 vs 20.05), gender (12:40 vs 5:38 male:female), grade level, major, or AI-literacy pre[[learning-gains|test scores]] (M = 79.46 vs 80.33).
+- A 10-week quasi-experimental study with 95 preservice teachers in an educational research methods course compared two intact classes (experimental n = 52; comparison n = 43). The groups were equivalent at baseline, with no statistically significant pre-intervention differences in age (M = 20.38 vs 20.05), gender (12:40 vs 5:38 male:female), grade level, major, or AI-literacy pretest scores (M = 79.46 vs 80.33).
 - The QUEST+AI model structures AI-supported inquiry in five phases: Question, Understand, Engage, Solve, and Teach.
 - The experimental group showed higher overall [[ai-literacy]], with small but meaningful gains concentrated in applying AI, AI-supported problem solving, and emotion regulation during AI use (partial η² ≈ .05–.09). Within-group gains ran from M = 79.46 (SD = 12.22) at pretest to M = 84.94 (SD = 8.27) at posttest (t(51) = 3.66, p < .001), whereas the comparison group showed no statistically reliable change.
 - No clear group differences were found for more concept-focused or evaluative dimensions of AI literacy (concepts, detection, ethics, creation, and persuasion).
