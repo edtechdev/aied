@@ -4,8 +4,8 @@
 >
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
-**Last updated:** 2026-08-24
-**Total backlog:** 136 articles
+**Last updated:** 2026-08-25
+**Total backlog:** 131 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -112,13 +112,8 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 > The following article pages exist in the wiki but were ingested from **abstracts only** (no full text in `raw/papers/`). They are grouped by source and need their full-text PDFs to be enriched. Send the PDF to match by DOI/title for full-text ingestion.
 
 
-### arXiv preprints (39)
+### arXiv preprints (34)
 
-- [Adaptive Virtual Patient Psychotherapy Training](https://arxiv.org/abs/2606.10051) *(abstract only)*
-- [Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning](https://arxiv.org/abs/2606.04543) *(abstract only)*
-- [Agentic Workflows Education](https://arxiv.org/abs/2504.20082v2) *(abstract only)*
-- [AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design](https://arxiv.org/abs/2606.09831) *(abstract only)*
-- [AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes](https://arxiv.org/abs/2606.07544) *(abstract only)*
 - [Ai Peer Feedback Systems](https://arxiv.org/abs/2605.04740) *(abstract only)*
 - [Ai Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1) *(abstract only)*
 - [AICoFE: AI-Powered Feedback System](https://arxiv.org/abs/2605.04740) *(abstract only)*
