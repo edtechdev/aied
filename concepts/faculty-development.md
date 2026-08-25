@@ -1,7 +1,8 @@
 ---
 title: Faculty Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
+connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high

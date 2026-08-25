@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 169 concepts, 886 articles, and 4 FAQs.
+> Complete text of 169 concepts, 886 articles, and 14 FAQs.
 
 # Concepts
 
@@ -59119,6 +59119,24 @@ Zuo, Y., Xu, X., & Dunning, L. A. (2026). ["Will AI steal my glory?": Power rela
 
 # FAQs
 
+## [How Can AI Agents Support Students and Instructors?](https://edtechdev.github.io/aied/faqs/ai-agents-support-students-instructors/)
+
+# How Can AI Agents Support Students and Instructors?
+
+**AI agents can move beyond single-turn question answering** by planning, using tools, remembering relevant context, coordinating subtasks, and adapting support over a sequence of interactions. For students, plausible roles include adaptive tutoring, study planning, formative feedback, guided problem solving, practice generation, simulation, prerequisite recommendations, and reflective or metacognitive prompting. For instructors, agents can assist with material development, question generation and validation, feedback triage, course analytics, instructional-design workflows, resource retrieval, and the orchestration of specialized agents.
+
+## Recurring agentic capabilities
+
+The article [[agentic-workflows-education|Agentic Workflows in Education]] describes four recurring agentic capabilities: **reflection, planning, tool use, and multi-agent collaboration**. Each adds possibilities but also introduces interpretability, coordination, trust, latency, and oversight challenges.
+
+## The state of the evidence
+
+The evidence base is still emerging. The wiki's [[agentic-ai|Agentic AI in Education]] synthesis draws on a scoping review of 474 studies but notes substantial concentration in higher education, STEM, short-term designs, and text-based tutoring; only a minority of the reviewed work explicitly grounded its systems in educational theory, and rigorous long-term classroom validation remains limited.
+
+The key design warning is therefore not to equate greater autonomy with better learning. [[agentic-ai-pedagogical-best-practice-2026|Agentic AI and Pedagogical Best Practice]] recommends intentional friction, dynamic scaffolding, and human oversight so that agent initiative does not remove the learner's own planning, monitoring, judgment, and effort. See also [[intelligent-tutoring|Intelligent Tutoring]] and [[human-in-the-loop-ai|Human-in-the-Loop AI]].
+
+---
+
 ## [What is the evidence on AI literacy interventions in higher education?](https://edtechdev.github.io/aied/faqs/ai-literacy-evidence/)
 
 # What is the evidence on AI literacy interventions in higher education?
@@ -59205,6 +59223,178 @@ In short, current evidence supports treating AI literacy as a **discipline-embed
 
 ---
 
+## [How Can AI Save Me Time as an Instructor?](https://edtechdev.github.io/aied/faqs/ai-save-instructor-time/)
+
+# How Can AI Save Me Time as an Instructor?
+
+**AI is best suited to repeatable, lower-stakes drafting and transformation work, while consequential educational judgment remains with the instructor.** Productive uses can include first drafts of lesson materials, examples, discussion questions, formative quizzes, alternative explanations, rubrics, feedback suggestions, summaries, differentiated versions of materials, and routine administrative language.
+
+## What the evidence shows
+
+The article [[ai-changing-teaching-workflows|How AI Is Changing Teaching Workflows]] summarizes an English randomized trial involving 259 science teachers in which teachers using ChatGPT spent about 69% as much time on lesson preparation as the control group — roughly a 31% reduction — with no detectable loss in material quality according to blind expert reviewers. Teachers generally reallocated the saved time to other instructional work rather than simply eliminating work.
+
+That evidence is from K–12 science teaching, so the exact magnitude should **not** be assumed for college faculty. The safer general lesson is to use AI for a first pass and spend human time where disciplinary judgment, relationships, interpretation of student thinking, feedback prioritization, or high-stakes decisions matter most.
+
+The wiki's [[ai-feedback-quality|AI Feedback Quality]] concept likewise cautions that speed and volume of AI feedback do not guarantee pedagogical usefulness.
+
+---
+
+## [How Should AI Be Designed Into the Learning Experience?](https://edtechdev.github.io/aied/faqs/designing-ai-into-learning/)
+
+# How Should AI Be Designed Into the Learning Experience?
+
+**Start with the learning goal and the learning process — not the AI feature.** The wiki's [[pedagogy|Pedagogies and Teaching Strategies]] concept emphasizes that the same AI can function as a scaffold, Socratic interlocutor, feedback partner, simulation, or answer generator depending on the instructional design. What matters is whether the configuration preserves the activity that produces the intended learning.
+
+## A strong default pattern
+
+A strong default pattern is: **learner attempts → AI supports → learner evaluates or revises → learner demonstrates understanding.** More concretely:
+
+- Preserve productive struggle where it serves learning.
+- Ask for an initial prediction or solution before displaying AI assistance.
+- Favor questions, hints, examples, counterarguments, and feedback over immediate completion.
+- Require verification of consequential claims.
+- Incorporate opportunities for explanation and teach-back.
+- Gradually fade support as competence grows.
+- Retain some AI-free opportunities for learners to calibrate what they can do independently.
+
+The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis specifically recommends think-first/AI-second/reflect sequences and deliberate evaluation checkpoints.
+
+## The broader principle
+
+The broader principle in [[finkelstein-principled-ai-education-2025|the Principled AI Education Framework]] is that technology should augment rather than displace human capabilities that education intends to develop. See also [[instructional-design|Instructional Design]] and [[scaffolding|Scaffolding]].
+
+---
+
+## [What Are Best Practices and Tips for Designing Effective Educational AI Software?](https://edtechdev.github.io/aied/faqs/designing-educational-ai-software/)
+
+# What Are Best Practices and Tips for Designing Effective Educational AI Software?
+
+**Educational AI should be designed as an instructional system, not merely a general-purpose model with an educational interface.** A practical set of design rules derived from the knowledge base:
+
+- Align the system to explicit learning goals.
+- Scaffold rather than complete target cognitive work.
+- Ground responses in instructor-approved or authoritative content when factual reliability matters.
+- Communicate uncertainty.
+- Provide a human escalation path.
+- Design for "kind-but-correct" responses rather than agreement with the user.
+- Give instructors meaningful configuration and oversight.
+- Minimize unnecessary learner data.
+- Design accessibility from the beginning.
+- Test for unequal performance across learner populations.
+- Evaluate sustained, multi-turn interaction rather than isolated demonstration prompts.
+
+## Pedagogical safety
+
+The [[pedagogical-safety|Pedagogical Safety]] page stresses that conventional safety testing is insufficient for education. A system can avoid toxic content and still cause educational harm by over-disclosing answers, reinforcing misconceptions, suppressing reflection, promoting dependence, or drifting from instructional goals. It recommends discipline-aware, multi-turn safety evaluation, human-in-the-loop quality assurance, grounding, and alignment toward guidance rather than answer provision.
+
+## Accessibility and equity
+
+Accessibility should include concrete operational requirements such as keyboard operability, screen-reader compatibility, captions and transcripts, appropriate contrast, usable text alternatives, and compatibility with assistive technologies; AI-generated accessibility features still require quality checking. See [[accessibility|Accessibility]].
+
+Equity testing should examine the whole pipeline and disaggregate behavior across language, disability, culture, and other relevant learner characteristics rather than relying only on aggregate accuracy. See the wiki's bias-mitigation guidance summarized alongside [[equity-in-ai-education|Equity in AI Education]].
+
+---
+
+## [Does Using AI Actually Help My Students Learn?](https://edtechdev.github.io/aied/faqs/does-ai-help-students-learn/)
+
+# Does Using AI Actually Help My Students Learn?
+
+**Sometimes—but improved AI-assisted performance is not the same thing as learning.** AI appears most educationally useful when it provides feedback, hints, explanations, practice, or adaptive support **while leaving the learner responsible for the cognitive work that the learning objective requires**. When AI instead supplies the reasoning, drafting, problem solving, or answers students need to practice themselves, performance can rise while later independent performance falls.
+
+The wiki calls this the **performance–learning gap**. According to the [[ai-misuse-learning-harm|AI Misuse and Learning Harm]] synthesis, one field RCT with roughly 1,000 high-school mathematics students found that an unguarded AI tutor substantially improved AI-assisted practice performance but *reduced* later unassisted exam performance; a guardrailed, hint-oriented version avoided that learning penalty. Because this is evidence from a particular mathematics context, it should not be assumed to generalize unchanged to every discipline.
+
+## A useful design principle: "scaffold, do not substitute"
+
+Ask students to attempt, retrieve, explain, generate, or make a judgment **before** AI intervenes; have AI provide hints rather than finished answers where appropriate; and require students to explain, critique, verify, or revise AI output. The wiki's [[active-learning|Active Learning]] synthesis similarly emphasizes keeping learners in constructive and interactive forms of engagement rather than having them passively consume AI output.
+
+## How to find out whether AI is actually helping in your course
+
+Measure learning **after assistance is removed**. The [[ai-ed-evaluation|AI Ed Evaluation]] page recommends distinguishing AI-assisted task performance from unassisted learning, retention, and transfer — because what students can do *with* AI in front of them is not evidence of what they can do on their own.
+
+---
+
+## [How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?](https://edtechdev.github.io/aied/faqs/equity-ethics-pedagogical-safety-research/)
+
+# How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?
+
+**These should be treated as design requirements and evaluation outcomes from the beginning — not as limitations added to the discussion section after an efficacy study is complete.**
+
+## Equity
+
+For equity, examine not only who has access to AI but also who has the skills to use it effectively and who ultimately receives its benefits. The wiki's [[digital-divide|Digital Divide]] concept distinguishes access, skills, and outcome divides, which means equal access to a chatbot is not equivalent to equitable educational benefit. Researchers should therefore report relevant subgroup outcomes and investigate differential effectiveness rather than relying only on overall averages.
+
+## Accessibility
+
+For accessibility, include learners with disabilities in design and evaluation, test actual interfaces against accessibility requirements, provide equivalent ways of participating and demonstrating learning, and distinguish technical accessibility from genuinely inclusive pedagogy. See [[accessibility|Accessibility]].
+
+## Privacy and ethics
+
+For privacy and ethics, collect only data needed for the educational purpose, make data use and system limitations transparent, maintain meaningful human accountability, and examine fairness, consent, bias, explainability, learner autonomy, and the consequences of AI-mediated decisions. These are core dimensions of [[ethics|Ethics in AI Education]].
+
+## Pedagogical safety
+
+For pedagogical safety, measure harms that conventional AI benchmarks miss: overreliance, answer over-disclosure, misconception reinforcement, loss of agency, suppression of metacognition, inequitable treatment, motivational harm, and instructional misalignment. Safety testing should include realistic multi-turn interactions and discipline-specific scenarios rather than only single prompts. The [[pedagogical-safety|Pedagogical Safety]] synthesis and the [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] benchmark show why technically "helpful" or accurate systems can still undermine learning.
+
+## Methodological triangulation
+
+Finally, combine quantitative and qualitative evidence. Disaggregated quantitative outcomes can reveal differential effects; interviews, observations, focus groups, and participatory or co-design methods can surface barriers, harms, cultural assumptions, and learner experiences that aggregate scores miss. The [[research-methods-aied|Research Methods in AIED]] synthesis explicitly treats methodological triangulation as important because no single method simultaneously maximizes causal inference, ecological validity, contextual understanding, and generalizability.
+
+---
+
+## [What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?](https://edtechdev.github.io/aied/faqs/evaluating-ai-interventions-methods/)
+
+# What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?
+
+**Match the method to the claim.** If you want to know whether students *liked* an AI activity, a survey can help. If you want to know whether they *learned*, use performance measures. If you want to know whether the AI *caused* an improvement, you need a credible comparison condition and preferably random assignment.
+
+## Method options
+
+The [[research-methods-aied|Research Methods in AIED]] page distinguishes several useful options:
+
+- **Randomized experiments** provide the strongest causal inference.
+- **Quasi-experimental** pre/post or matched-group designs are often more practical in intact classes but support weaker causal claims.
+- **Qualitative** interviews, focus groups, observations, and artifact analysis reveal mechanisms and unexpected experiences.
+- **Mixed methods** combine outcome evidence with explanations of why effects occurred.
+- **Design-based research** is useful when instructors are iteratively developing and refining an intervention in an authentic course.
+
+## A manageable classroom evaluation
+
+For a manageable classroom evaluation, a useful minimum is a **baseline measure, the intervention, an immediate post-measure, and a later unassisted measure**. Wherever possible, include a comparison condition such as existing practice, no AI, unrestricted AI versus scaffolded AI, or two alternative designs. Measure assisted performance and independent learning separately.
+
+The [[ai-ed-evaluation|AI Ed Evaluation]] synthesis recommends outcomes such as unassisted learning gain, delayed retention, transfer to a new task, quality of reasoning, misconceptions, feedback uptake, and subgroup performance. Engagement, satisfaction, AI-use logs, self-efficacy, and perceived usefulness can be valuable secondary measures but should not be treated as substitutes for learning. Instructor workload and time savings are also legitimate implementation outcomes.
+
+---
+
+## [What Competencies Do Faculty Need in Regard to AI?](https://edtechdev.github.io/aied/faqs/faculty-ai-competencies/)
+
+# What Competencies Do Faculty Need in Regard to AI?
+
+**Faculty competency should extend well beyond prompt writing.** The wiki's [[ai-literacy|AI Literacy]] synthesis identifies four broad dimensions:
+
+- **Foundational understanding** of AI capabilities and limitations.
+- **Practical competence** using AI tools.
+- **Critical evaluation** of accuracy, bias, appropriateness, and uncertainty.
+- **Ethical and institutional awareness** involving issues such as integrity, privacy, equity, and governance.
+
+## The pedagogical layer
+
+For instructors, those dimensions need an additional pedagogical layer. Faculty should be able to:
+
+- Decide what cognitive work students must retain.
+- Select AI uses that align with learning objectives.
+- Design valid AI-era assessment.
+- Teach students to verify and regulate AI use.
+- Recognize hallucination, overreliance, and sycophancy.
+- Know when human judgment should override automation.
+
+Faculty also need enough systems understanding to evaluate how AI-supported workflows fit together rather than viewing AI as an isolated tool. See [[teacher-ai-competency|Teacher AI Competency]] and [[faculty-development|Faculty Development]].
+
+## Confidence is not competence
+
+Research summarized in the knowledge base also cautions against equating confidence with competence: self-reported AI literacy can diverge substantially from demonstrated capability, making **performance-based professional development and authentic practice** preferable to confidence surveys alone. Teacher multi-agent-workflow research further suggests that systems thinking, pedagogical beliefs, and self-efficacy interact in AI integration, so professional development should be differentiated rather than a one-size-fits-all tool workshop.
+
+---
+
 ## [How should I incorporate AI literacy into my course?](https://edtechdev.github.io/aied/faqs/incorporating-ai-literacy/)
 
 # How should I incorporate AI literacy into my course?
@@ -59268,6 +59458,49 @@ A practical course design is not simply **"Week 2: How to use ChatGPT."** Instea
 Students should eventually be able to explain not merely *how* they used AI, but **why they trusted some outputs, rejected others, what they verified, what cognitive work remained their responsibility, and when using AI would undermine the purpose of the task**.
 
 That combination is much closer to the AI-literacy construct supported by the current evidence base than operational proficiency alone.
+
+---
+
+## [How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?](https://edtechdev.github.io/aied/faqs/redesign-assessment-ai-era/)
+
+# How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?
+
+**Begin by stating explicitly what capability the grade is supposed to represent.** Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? The wiki's [[assessment-validity|Assessment Validity in AI Education]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact.
+
+## The risk of construct substitution
+
+The article [[authentic-products-authenticated-processes-2026|From Authentic Products to Authenticated Processes]] calls the resulting risk **construct substitution**: the assessor attributes an AI-mediated product to the student and inadvertently measures the tool's capabilities rather than the student's. Its recommended response is to make the student's reasoning, judgment, verification, iteration, and responsibility visible through such approaches as staged submissions, annotated decision rationales, process records, feedback-use statements, oral defenses, and other forms of authenticated process evidence.
+
+## A strong assessment architecture
+
+In practice, a strong assessment architecture often combines an **AI-enabled authentic task** with some form of **independent verification**. Depending on the discipline, that might include a brief oral explanation, in-class application, live demonstration, annotated portfolio, short unassisted component, or questioning about key decisions.
+
+The [[authentic-assessment|Authentic Assessment]] concept also stresses realistic intellectual work, cognitive challenge, student agency, feedback, and social or professional authenticity — not merely making conventional assignments harder for AI to complete. Oral and live components need careful attention to anxiety, disability accommodations, linguistic differences, and assessor bias.
+
+---
+
+## [How Can I Reduce AI Cheating in My Course?](https://edtechdev.github.io/aied/faqs/reduce-ai-cheating/)
+
+# How Can I Reduce AI Cheating in My Course?
+
+**The strongest direction in the knowledge base is to rely less on detection and more on structural assessment design, explicit expectations, learning verification, and [[ai-literacy]].** The [[academic-integrity|Academic Integrity]] synthesis reports substantial limitations in AI-text detection and argues that academic integrity in the generative-AI era is increasingly an assessment-design problem rather than simply a detection problem.
+
+## Structural approaches
+
+The [[reducing-ai-misuse|Reducing AI Misuse]] page gives highest priority to structural approaches:
+
+- Use guardrailed AI that favors hints over answers where possible.
+- Include meaningful unassisted or authenticated evidence of learning.
+- Require drafts, reasoning traces, or other process artifacts when appropriate.
+- Create explicit AI-free portions when independent capability is genuinely the construct being assessed.
+
+It also recommends **"think first, AI second, reflect third,"** AI-literacy instruction, and task-specific AI-use declarations that clarify which forms of assistance are acceptable.
+
+## Learning verification
+
+A complementary approach is **learning verification**: occasionally ask students to explain or apply what they submitted rather than trying to prove how it was produced. [[best-response-student-ai-dialog-2026|The Best Response to Student AI Use Is Not Detection, It Is Dialog]] describes short verification conversations, early drafts, reflections, and student videos as possible mechanisms.
+
+That source is a practitioner account, and its institution-wide implementation is not yet equivalent to a controlled efficacy study, so it is best treated as a promising practice rather than definitive causal evidence.
 
 ---
 

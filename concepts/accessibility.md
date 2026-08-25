@@ -1,7 +1,8 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-24T09:15:00-04:00"
+updated: "2026-08-25T11:30:00-04:00"
+connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, instructional-design]
 confidence: high
