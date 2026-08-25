@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T18:30:00-04:00"
+updated: "2026-08-25T11:20:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -61,7 +61,7 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 
 AI in education changes the roles of every stakeholder. The wiki's [[stakeholders|people and audiences in AI education]] page is the umbrella covering all of them:
 
-- **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking]], and [[well-being]] shape how students encounter AI.
+- **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking]], [[well-being]], and [[ai-anxiety-and-stress|AI anxiety and stress]] shape how students encounter AI, while [[career-development-and-readiness|career development and readiness]] frames how AI reshapes their future work.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
 - **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[inclusive-learning|inclusive learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
@@ -72,6 +72,7 @@ Several themes cut across the field:
 
 - **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
 - **The evolution of the field:** the wiki traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
+- **Emotion, anxiety, and career futures:** AI induces and shapes emotional responses — [[ai-anxiety-and-stress|AI anxiety and stress]] spanning proctoring surveillance, integrity fears, and career displacement — while [[career-development-and-readiness|career development and readiness]] addresses how education prepares learners for an AI-disrupted labor market (see also [[well-being]]).
 
 ## Field maturity
 
@@ -82,6 +83,8 @@ The wiki reflects a field in rapid evolution — from early intelligent tutoring
 AI in education connects to every concept in the wiki — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
+- [[ai-anxiety-and-stress]] — AI anxiety and stress in education
+- [[career-development-and-readiness]] — Career development and readiness
 - [[ai-literacy]] — AI literacy
 - [[ai-technologies]] — AI technologies and techniques
 - [[intelligent-tutoring]] — Intelligent tutoring systems
