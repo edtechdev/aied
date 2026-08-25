@@ -22,7 +22,7 @@ The framework articulates three context-dependent governance stances based on ho
 3. **Require** — warranted when the target construct is disciplinary AI interaction competency itself. Tasks elicit process artifacts (prompts, critiques, revisions) that make student reasoning observable and scorable, distinguishing it from AI-generated output.
 
 ## Empirical Validation
-Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[automatic-short-answer-grading]] research on making student reasoning visible and scorable.
+Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[cong-confidence-asag-2026]] research on making student reasoning visible and scorable.
 
 ## Implications for Policy
 By situating GenAI governance within validity arguments, the framework offers actionable guidance for preserving learning integrity while preparing students for AI-enabled workplaces. This has direct relevance for [[educational-policy-ai]] decisions about assessment design and [[ai-literacy]] standards. The framework also complements emerging work on [[ai-tutor-safety-harms|AI tutor safety]] by providing structured decision-making about when AI interaction is educationally appropriate.
@@ -40,7 +40,7 @@ By situating GenAI governance within validity arguments, the framework offers ac
 
 ## Connected Articles
 
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[ai-tutor-safety-harms]]
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 ## Citation

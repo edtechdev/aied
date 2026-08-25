@@ -41,7 +41,7 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
-- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
+- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 

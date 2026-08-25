@@ -72,7 +72,7 @@ Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skil
 
 Traditional **Knowledge Tracing (KT)** methods:
 
-- **IRT-based** (Item Response Theory): [[knowledge-tracing-irt]] — interpretable difficulty parameters but limited sequential modeling.
+- **IRT-based** (Item Response Theory): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
 - **BKT** (Bayesian Knowledge Tracing): Explicit prerequisite structures; interpretable but rigid.
 - **DeepKT** (LSTM/Transformer): High predictive capacity but opaque.
 - **Neural-symbolic KT** bridges the gap: retains interpretability of symbolic approaches while leveraging neural networks' representational power.
@@ -107,7 +107,7 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[educational-measurement]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[ai-tutor-safety-harms]]
 - [[principled-ai-education]]
 - [[llm-student-modeling-memory]]

@@ -66,7 +66,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 1. Does Socratic dialogue transfer across domains, or is domain-specific reasoning non-transferable?
 2. How does Socratic specificity correlate with *actual* (not self-reported) course performance?
-3. Can Socratic AI be combined with [[ai-peer-feedback-systems|peer feedback]] for social amplification?
+3. Can Socratic AI be combined with [[becerra-aicofe-feedback-2026|peer feedback]] for social amplification?
 
 - **Withholding answers to provoke reasoning.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] engineer LLM tutors to follow [[productive-failure|productive failure]] pedagogy by withholding solutions and eliciting multiple attempts — a Socratic-style refusal to give help except when strictly necessary; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] recommend Socratic and Adversarial AI architectures that preserve constructive cognitive friction.
 ## Connected Concepts

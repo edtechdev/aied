@@ -79,7 +79,7 @@ For researchers and practitioners, the work underscores the importance of modeli
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 - [[reliable-programming-kt]]
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 
 ## Citation
 

@@ -74,7 +74,7 @@ Human coders had access to video (tone, timing, nonverbal cues) while LLMs were 
 
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[llm-facilitation-timing-online-discussions]] — To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing

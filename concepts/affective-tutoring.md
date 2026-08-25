@@ -40,7 +40,7 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 
 1. **Affective data should inform, not replace, learner autonomy** — The tutor adapts its strategy; the student retains control over disclosure
 2. **Transparency about affect detection** — Students should know when and how their emotions are being inferred
-3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[knowledge-tracing-irt]]) and behavioral engagement
+3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[huang-interpretable-knowledge-tracing-2026]]) and behavioral engagement
 4. **Privacy-by-default for multimodal sensors** — Facial/video data requires stronger protections than text-only inference
 
 ## Relationship to Broader Safety

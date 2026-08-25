@@ -39,7 +39,7 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 
 - **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, [[ai-feedback-quality|AI multimodal feedback]] matched educator feedback for learning while *significantly outperforming* it on student perceptions.^[[multimodal-ai-feedback-learning]]
 - **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].^[[multimodal-item-parameter-estimation-2026]]
-- **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and visualization.^[[educational-vlm-evaluation]]^[[mllm-scientific-visualization-literacy]]
+- **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and visualization.^[[drawedumath-vlm-struggling-students-2026]]^[[mllm-scientific-visualization-literacy]]
 
 ## Multimodal AI for language and accessible learning
 
@@ -93,7 +93,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[ai-guided-learning-audiovideo-2026]] — AI-guided audio-video learning support
 - [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
 - [[mllm-scientific-visualization-literacy]] — Multimodal LLM literacy for scientific visualization
-- [[educational-vlm-evaluation]] — Evaluating educational vision-language models
+- [[drawedumath-vlm-struggling-students-2026]] — Evaluating educational vision-language models
 - [[multimodal-affective-its-presentation]] — Multimodal signals in affective intelligent tutoring
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective multimodal math tutoring
 - [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math

@@ -64,7 +64,7 @@ This paper directly informs several threads in the wiki:
 - **[[prober-ai-inquiry-writing]]**: The inverted paradigm (AI asks questions, gates suggestions) offers an alternative to sequenced feedback that may avoid the resubmission trap
 - **[[self-regulated-learning]]**: Sequenced feedback was intended to promote autonomy and SRL, but the behavioral data shows it had the opposite effect — a cautionary tale for SRL-aligned AI design
 - **[[metacognition]]**: The engagement-learning disconnect exemplifies the metacognitive calibration problem — students felt they were learning more with sequenced feedback when they were actually learning less
-- **[[ai-peer-feedback-systems]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
+- **[[becerra-aicofe-feedback-2026]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
 - **[[pedagogy-ai-mistakes]]**: Hosseini's work on deliberately leveraging AI errors connects to the finding that easy, encouraging feedback may be less pedagogically effective than direct correction
 - **[[transfer-of-learning]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
 
@@ -96,7 +96,7 @@ This paper directly informs several threads in the wiki:
 
 - [[critical-thinking-genai-scaffolding]]
 - [[prober-ai-inquiry-writing]]
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[pedagogy-ai-mistakes]]
 ## Citation
 

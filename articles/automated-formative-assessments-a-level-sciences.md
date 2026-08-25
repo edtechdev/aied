@@ -9,7 +9,7 @@ sources: ['raw/papers/2607.23566.md']
 confidence: high
 ---
 
-This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A-Level sciences, removing the human-marking bottleneck that normally caps the frequency of formative mocks. High-frequency, automatically-marked [[formative-assessment]] cycles were associated with improved student outcomes, providing field evidence for the pedagogical payoff of [[automated-assessment|Automated Grading]] at upper-secondary level. The handwritten-work pipeline links to [[llm-handwritten-math-grading]] and [[automatic-short-answer-grading]], while the human-in-the-loop trade-offs echo [[hybrid-e-assessment-semi-automated-grading]].
+This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A-Level sciences, removing the human-marking bottleneck that normally caps the frequency of formative mocks. High-frequency, automatically-marked [[formative-assessment]] cycles were associated with improved student outcomes, providing field evidence for the pedagogical payoff of [[automated-assessment|Automated Grading]] at upper-secondary level. The handwritten-work pipeline links to [[llm-handwritten-math-grading]] and [[cong-confidence-asag-2026]], while the human-in-the-loop trade-offs echo [[hybrid-e-assessment-semi-automated-grading]].
 
 ## Connected Concepts
 
@@ -24,7 +24,7 @@ This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully
 ## Connected Articles
 
 - [[llm-handwritten-math-grading]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[hybrid-e-assessment-semi-automated-grading]]
 - [[short-answer-scoring-quality-degradation]]
 ## Citation

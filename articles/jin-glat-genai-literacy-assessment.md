@@ -52,7 +52,7 @@ The authors note important scope limits: GLAT was validated only with higher edu
 - [[ai-literacy-continuum-higher-education]] — A practical five-stage developmental continuum for AI literacy in higher education
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI literacy through interaction patterns
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
-- [[knowledge-tracing-irt]] — Knowledge tracing and item response theory
+- [[huang-interpretable-knowledge-tracing-2026]] — Knowledge tracing and item response theory
 
 ## Citation
 

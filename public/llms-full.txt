@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 170 concepts, 898 articles, and 14 FAQs.
+> Complete text of 170 concepts, 892 articles, and 14 FAQs.
 
 # Concepts
 
@@ -556,7 +556,7 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 
 1. **Affective data should inform, not replace, learner autonomy** — The tutor adapts its strategy; the student retains control over disclosure
 2. **Transparency about affect detection** — Students should know when and how their emotions are being inferred
-3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[knowledge-tracing-irt]]) and behavioral engagement
+3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[huang-interpretable-knowledge-tracing-2026]]) and behavioral engagement
 4. **Privacy-by-default for multimodal sensors** — Facial/video data requires stronger protections than text-only inference
 
 ## Relationship to Broader Safety
@@ -861,9 +861,9 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 - **Output reliability and ground truth:** [[ground-truth-reliability-aied|Modernizing ground truth]] argues that reliability problems in AI-ed evaluation often trace back to the reference data itself — the "ground truth" labels systems are judged against — and proposes four shifts toward improving reliability and validity. [[calibrating-trustworthiness-llm-education-2026|Calibrating trustworthiness]] co-designs evaluation metrics and visualizations with stakeholders so that trust in an AI tool rests on demonstrated, interpretable evidence.
 
-- **Automated grading and scoring:** [[automatic-short-answer-grading|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
+- **Automated grading and scoring:** [[cong-confidence-asag-2026|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
 
-- **Benchmarking and domain specificity:** [[teachbench-llm-teaching-evaluation|TeachBench]] evaluates LLM teaching ability, [[jeon-isd-agent-bench-2026|ISD Agent Benchmark]] evaluates agentic instructional-design agents, [[educational-vlm-evaluation|educational VLM evaluation]] assesses multimodal models, and [[tool-invariant-framework-agentic-ai|a tool-invariant framework]] assesses computational-method competency. These share a warning: generic benchmarks mislead, and evaluation must be tailored to the specific educational task and context.
+- **Benchmarking and domain specificity:** [[teachbench-llm-teaching-evaluation|TeachBench]] evaluates LLM teaching ability, [[jeon-isd-agent-bench-2026|ISD Agent Benchmark]] evaluates agentic instructional-design agents, [[drawedumath-vlm-struggling-students-2026|educational VLM evaluation]] assesses multimodal models, and [[tool-invariant-framework-agentic-ai|a tool-invariant framework]] assesses computational-method competency. These share a warning: generic benchmarks mislead, and evaluation must be tailored to the specific educational task and context.
 
 - **Pedagogical quality and alignment:** [[machines-misread-pedagogical-quality|Why machines misread pedagogical quality]] documents human–machine misalignment in judging what makes instruction good, and [[tutoring-effectiveness-index|the Tutoring Effectiveness Index]] predicts tutor quality from teaching behavior. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]] and [[authentic-products-authenticated-processes-2026|authenticated processes]] argue that evaluation must reach beyond correct answers to whether assessment remains authentic, valid, and defensible when AI can produce the "products" of learning.
 
@@ -923,13 +923,13 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations
 - [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading With LLMs
+- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading With LLMs
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Formative Assessment
 - [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for Diagnosing Students' Cognitive Skills
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation With Large Language Models
 - [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids
@@ -1121,7 +1121,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 AI feedback quality spans multiple dimensions captured in the wiki:
 - **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-assessment|Automated Grading]], [[automated-essay-scoring]])
-- **Helpfulness:** Does the feedback guide improvement? ([[feedback|Feedback Loop]], [[ai-peer-feedback-systems]])
+- **Helpfulness:** Does the feedback guide improvement? ([[feedback|Feedback Loop]], [[becerra-aicofe-feedback-2026]])
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
 - **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
 - **Calibration:** Does the system know when it's uncertain? ([[automated-assessment|Confidence Aware AI Assessment]])
@@ -1163,7 +1163,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
@@ -1675,7 +1675,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[ai-literacy-assessment-misalignment]] — AI literacy and assessment misalignment
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid e-assessment and semi-automated grading
 - [[cotal-formative-assessment-scoring-2026]] — Formative assessment scoring
-- [[automatic-short-answer-grading]] — Automatic short-answer grading
+- [[cong-confidence-asag-2026]] — Automatic short-answer grading
 - [[ai-assessment-scale-reform]] — AI assessment scale reform
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
@@ -2041,7 +2041,7 @@ The central challenge in AQG is **quality control**:
 - **Hallucination risk:** LLMs can generate factually incorrect questions. [[generate-then-validate-question-gen|Generate-Then-Validate]] shows a dedicated validation phase sharply reduces this, and [[hallucination-risk|hallucination risk]] is a recognized concern throughout.
 - **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes [[ai-misuse-learning-harm|misuse]].
 - **Large-scale psychometric field validation:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] validates an iterative-refinement AQG pipeline (generate→judge→revise, Self-Refine style) in 91 real college classes (~1,686 students). Bayesian hierarchical 2PL [[item-response-theory|IRT]] analysis shows AI-generated questions perform on par with expert-written standardized-exam items — somewhat easier (β̄ = −0.45 vs. 0.35) but slightly more discriminating (ᾱ = 1.3 vs. 1.2), with higher peak test information (reliability 0.79 vs. 0.72) — demonstrating that AQG can produce course-tailored, psychometrically sound assessments at scale.
-- **Task-dependence:** generation reliability varies by item type. [[automatic-short-answer-grading|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
+- **Task-dependence:** generation reliability varies by item type. [[cong-confidence-asag-2026|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
 - **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
 
 ## Role in adaptive and personalized learning
@@ -5218,7 +5218,7 @@ The feedback loop is the cyclical process where AI systems assess student work, 
 - **Assignment-level feedback:** [[formative-assessment]] systems and [[ai-feedback-quality|AI feedback quality research]] examine whether AI-generated assignment feedback improves subsequent work. [[sequenced-ai-feedback-learning|Sequenced feedback studies]] test whether the order of feedback matters.
 - **Course-level loops:** [[learning-analytics|Learning analytics dashboards]] and [[edtech-platform|educational platforms]] aggregate feedback across assignments to identify patterns and recommend interventions.
 
-The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback quality]] — accuracy, specificity, timeliness, and actionability. [[ai-peer-feedback-systems|AI peer feedback systems]] add a social dimension to the loop.
+The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback quality]] — accuracy, specificity, timeliness, and actionability. [[becerra-aicofe-feedback-2026|AI peer feedback systems]] add a social dimension to the loop.
 
 **The human in the loop:** feedback loops are not purely automated — teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an [[llm|LLM]] rephraser) find teachers use professional judgement to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/affective dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
 
@@ -5240,7 +5240,7 @@ The wiki's feedback research spans the full range of assessment contexts, each w
 
 - **Formative feedback** is the canonical site of feedback-for-learning — [[formative-assessment|formative assessment]] feeds [[self-regulated-learning|self-regulated learning]] through feedback that arrives while learning is still in progress ([[automated-formative-assessments-a-level-sciences|automated formative assessments]], [[ai-feedback-enactment-workflow-2026|feedback enactment]]).
 - **Summative feedback** is the feedback attached to [[summative-assessment|summative assessment]] — end-of-unit tests, oral exams, and proctored/closed-book examinations. In the AI era, the summative setting is where AI resistance matters most (see [[summative-assessment]]): feedback on a proctored oral exam or closed-book assessment tests genuine learning, whereas feedback on AI-assisted homework can be inflated. [[fenton-oral-exams-ai-authentic-assessment-2025|Oral assessments]] reframe the feedback moment as a live, interactive dialogue — feedback becomes immediate, conversational, and inseparable from the assessment itself, which is precisely why they resist AI substitution.
-- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[ai-peer-feedback-systems|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]).
+- **Peer feedback** adds a social layer — [[peer-review|peer feedback]] develops feedback literacy and is increasingly AI-augmented ([[becerra-aicofe-feedback-2026|AI peer feedback]], [[irwin-muller-efl-peer-feedback-literacy|GenAI in EFL peer feedback]]).
 - **Automated feedback** scales delivery — [[automated-assessment|automated scoring and feedback]] from essay scoring to short-answer grading.
 
 A key cross-context insight is that **the reliability of feedback depends on the integrity of the assessment it is attached to**: feedback is only as trustworthy as the measure it responds to. In the AI era this pushes educators toward [[authentic-assessment|authentic]] and AI-resistant [[summative-assessment|summative formats]] where the feedback a student receives reflects genuine learning rather than AI-assisted output.
@@ -5296,7 +5296,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
 - [[sequenced-ai-feedback-learning]] — Sequenced AI feedback studies
-- [[ai-peer-feedback-systems]] — AI peer feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
 - [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
@@ -6315,8 +6315,8 @@ Human-in-the-loop design has become central to the wiki's [[agentic-ai|agentic A
 
 ## Where HITL appears in the wiki's research
 
-- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[automatic-short-answer-grading]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]).
-- **Feedback systems:** human-in-the-loop feedback design appears in [[aicode-collaborative-feedback-system|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
+- **Automated assessment and grading:** HITL systems combine AI generation/scoring with human validation across short-answer grading ([[cong-confidence-asag-2026]]), self-explanation assessment ([[llm-automated-assessment-student-self-explanations]]), and essay scoring ([[psyscore-essay-scoring-zpd-feedback]]).
+- **Feedback systems:** human-in-the-loop feedback design appears in [[becerra-aicofe-feedback-2026|collaborative feedback systems]] and [[cong-confidence-asag-2026|confidence-aware short-answer grading]].
 - **Question and content generation:** beyond CODE-GEN, HITL guides question generation for assessment and scaffolding ([[code-gen]], [[llm-difficulty-calibration-programming-exams-2026]]).
 - **Agentic and multi-agent systems:** as AI becomes more autonomous, HITL oversight is a core [[agentic-ai|design guardrail]] ([[agentic-ai-pedagogical-best-practice-2026]], [[guided-llm-scaffolding-independent-learning]]).
 
@@ -6354,7 +6354,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[ai-changing-teaching-workflows]]
 - [[ai-literacy-legal-translation-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[aicode-collaborative-feedback-system]]
+- [[becerra-aicofe-feedback-2026]]
 - [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
 - [[chatgpt-critical-creative-thinking-review]]
@@ -7132,7 +7132,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Bayesian approaches:** [[stanbkt-bayesian-knowledge-tracing]] standardizes BKT implementations, while [[mbp-kt-meta-behavioral-knowledge-tracing]] incorporates meta-behavioral signals
 - **Neural and hybrid models:** [[neural-symbolic-knowledge-tracing]] combines symbolic reasoning with neural networks; [[explainable-probabilistic-kt]] advances interpretable probabilistic models
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
-- **Dialogue-based KT:** [[difficulty-aware-dialogue-kt]] adapts knowledge tracing for conversational tutoring
+- **Dialogue-based KT:** [[huang-interpretable-knowledge-tracing-2026]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference
 
 ### Relationship to other concepts
@@ -8414,7 +8414,7 @@ Multimodal AI broadens both the *content* of assessment and the *signal* used to
 
 - **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, [[ai-feedback-quality|AI multimodal feedback]] matched educator feedback for learning while *significantly outperforming* it on student perceptions.^[[multimodal-ai-feedback-learning]]
 - **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].^[[multimodal-item-parameter-estimation-2026]]
-- **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and visualization.^[[educational-vlm-evaluation]]^[[mllm-scientific-visualization-literacy]]
+- **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and visualization.^[[drawedumath-vlm-struggling-students-2026]]^[[mllm-scientific-visualization-literacy]]
 
 ## Multimodal AI for language and accessible learning
 
@@ -8468,7 +8468,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[ai-guided-learning-audiovideo-2026]] — AI-guided audio-video learning support
 - [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
 - [[mllm-scientific-visualization-literacy]] — Multimodal LLM literacy for scientific visualization
-- [[educational-vlm-evaluation]] — Evaluating educational vision-language models
+- [[drawedumath-vlm-struggling-students-2026]] — Evaluating educational vision-language models
 - [[multimodal-affective-its-presentation]] — Multimodal signals in affective intelligent tutoring
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective multimodal math tutoring
 - [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
@@ -9168,7 +9168,7 @@ Peer review is valued because it gives students an authentic audience, develops 
 
 - **Peer + AI feedback (PAIRR):** [[pairr-ai-peer-review-2025|The PAIRR model]] combines peer review with AI review in a human-centered process, finding students value the similarity of the two (as reassurance) and their complementarity (AI's broad, rubric-driven feedback vs. peers' specific, contextual feedback), while critically assessing AI outputs builds [[ai-literacy]] and writerly agency.
 
-- **AI peer feedback systems:** [[ai-peer-feedback-systems|AI peer feedback research]] examines how AI tools support or mediate peer-feedback workflows, and how their design affects the quality of feedback students give and receive.
+- **AI peer feedback systems:** [[becerra-aicofe-feedback-2026|AI peer feedback research]] examines how AI tools support or mediate peer-feedback workflows, and how their design affects the quality of feedback students give and receive.
 
 - **Authentic assessment and collaboration:** Peer review features in [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]] and [[collaborative-learning|collaborative learning]] contexts, where it supports [[self-regulated-learning]] and the metacognitive development of students' evaluative judgments.
 
@@ -9199,7 +9199,7 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 ## Connected Articles
 
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment
 - [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
 - [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI
@@ -10550,11 +10550,11 @@ See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller 
 
 ### Computational and benchmark evaluation
 
-Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[automatic-short-answer-grading|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and LLM-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
+Computational evaluation assesses AI systems directly — against benchmarks, ground-truth labels, or human judgments — rather than studying human learners. This includes [[benchmark|benchmarks]], [[cong-confidence-asag-2026|grading accuracy]], [[teachbench-llm-teaching-evaluation|teaching-ability evaluation]], and LLM-as-judge approaches. This is the closest method to [[ai-ed-evaluation]] (see the distinction below).
 
 - **Strengths:** fast, scalable, reproducible; enables head-to-head comparison of models and system versions; essential for system development and quality assurance.
 - **Limitations:** measures system output, not learning — high benchmark accuracy does not entail educational effectiveness; ground-truth and rubric quality are themselves contested; can miss pedagogical quality that humans perceive.
-- **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[automatic-short-answer-grading]], [[educational-vlm-evaluation]].
+- **Exemplars:** [[teachbench-llm-teaching-evaluation]], [[jeon-isd-agent-bench-2026]], [[ground-truth-reliability-aied]], [[cong-confidence-asag-2026]], [[drawedumath-vlm-struggling-students-2026]].
 
 ### Other designs: longitudinal, case, and simulation studies
 
@@ -11366,7 +11366,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 1. Does Socratic dialogue transfer across domains, or is domain-specific reasoning non-transferable?
 2. How does Socratic specificity correlate with *actual* (not self-reported) course performance?
-3. Can Socratic AI be combined with [[ai-peer-feedback-systems|peer feedback]] for social amplification?
+3. Can Socratic AI be combined with [[becerra-aicofe-feedback-2026|peer feedback]] for social amplification?
 
 - **Withholding answers to provoke reasoning.** [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] engineer LLM tutors to follow [[productive-failure|productive failure]] pedagogy by withholding solutions and eliciting multiple attempts — a Socratic-style refusal to give help except when strictly necessary; [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] recommend Socratic and Adversarial AI architectures that preserve constructive cognitive friction.
 ## Connected Concepts
@@ -12020,7 +12020,7 @@ Summative assessment serves a fundamentally different function from formative as
 
 The wiki's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
 
-- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[automatic-short-answer-grading|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
+- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
 - **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes.
 - **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
 
@@ -12071,7 +12071,7 @@ The wiki's assessment literature consistently emphasizes that [[assessment]] is 
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
 - [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
-- [[automatic-short-answer-grading]] — Automatic short-answer grading
+- [[cong-confidence-asag-2026]] — Automatic short-answer grading
 - [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
 - [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
 - [[code-review-genai-cs1]] — Code review interviews in CS1
@@ -13018,7 +13018,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
 - [[care-full-feedback-genai]] — Care-Full Feedback Approaches
 - [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
 - [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
@@ -18449,102 +18449,6 @@ Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M
 
 ---
 
-## [AI Peer Feedback Systems](https://edtechdev.github.io/aied/articles/ai-peer-feedback-systems/)
-
-> Peer feedback develops critical reflection and evaluative judgment, yet:
-
-> Student peer feedback is often superficial or inconsistent. **AICoFe** (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on student presentations, but the critical design feature is **teacher-in-the-loop mediation**—educators curate and compose final feedback before delivery.^[[becerra-aicofe-feedback-2026]]
-
-## The Problem
-
-Peer feedback develops critical reflection and evaluative judgment, yet:
-- Students have limited **feedback literacy**
-- Generated comments are often superficial or lack actionability
-- Quality is inconsistent across evaluators
-
-AI-generated feedback alone risks replacing shallow peer comments with shallow AI comments. AICoFe addresses this by treating AI as a **draft generator**, not a final deliverer.
-
-## System Architecture
-
-**Four components:**^[[becerra-aicofe-feedback-2026]]
-
-| Module | Purpose |
-|--------|---------|
-| **Visualization** | Role-specific dashboards (student, teacher, evaluator) |
-| **Management** | Hybrid SQL + MongoDB data infrastructure |
-| **Feedback Generation** | Multi-LLM pipeline synthesizing rubric scores + qualitative comments |
-| **Recording** | Video/audio capture of student presentations (opt-in, GDPR-compliant) |
-
-## The Multi-LLM Pipeline
-
-Three independently fine-tuned models receive:
-- Quantitative rubric scores
-- Validated qualitative observations from evaluators
-- Rubric level descriptions
-- Instructional materials for the assessed skill
-
-Each model produces an independent draft. The diversity of models is intentional—GPT, Gemini, and Llama have different stylistic biases and blind spots; teacher curation selects the best fragments.^[[becerra-aicofe-feedback-2026]]
-
-## Teacher-in-the-Loop Mediation
-
-The Teacher Dashboard is the central mediation interface:
-
-- **Inspect** scores, comments, and videos from all evaluators
-- **Review** drafts from all three LLMs
-- **Compose** final feedback by selecting individual sentences or paragraphs from AI outputs
-- **Visual legend** shows proportion of content contributed by each LLM
-- **Track** extent of teacher modification/curation
-- **Audio review** via text-to-speech for long comments
-
-This preserves pedagogical authority while reducing teacher workload.^[[becerra-aicofe-feedback-2026]]
-
-## Transparency & Analytics
-
-- **Feedback history log:** Every sent feedback entry displays LLM contribution proportions and teacher modification levels
-- **Dual purpose:** Supports (1) teacher reflection on curation patterns and (2) large-scale analysis of how teacher mediation shapes feedback quality
-
-## Student Experience
-
-- View video recordings of own presentations
-- Complete self-evaluations using the same rubric
-- See visual comparisons of self vs. external evaluations
-- Receive **teacher-curated** (not raw AI) feedback
-- Rate perceived agreement and usefulness^[[becerra-aicofe-feedback-2026]]
-
-## Relationship to Human-in-the-Loop AI
-
-AICoFe represents a **human-centered AI** paradigm for education: AI augments rather than replaces human judgment. This contrasts with fully automated grading or feedback systems that remove the teacher from the loop. The key insight is that **pedagogical authority resides with the teacher**, and AI's role is to expand the range and depth of actionable comments they can craft.^[[becerra-aicofe-feedback-2026]]
-
-## Connected Concepts
-
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[formative-assessment]]
-- [[collaborative-learning]]
-- [[ai-ed-evaluation]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[ai-education]]
-- [[human-in-the-loop-ai]]
-- [[teacher-ai-competency]]
-
-## Connected Articles
-
-- [[becerra-aicofe-feedback-2026]]
-- [[aicode-collaborative-feedback-system]]
-- [[humanlike-ai-collaborative-writing]]
-- [[llm-reasoning-traces-metacognition]]
-- [[mindcopilot-llm-co-writing]]
-- [[moodle-ai-tutoring-deep-learning]]
-- [[multimodal-ai-feedback-learning]]
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[sequenced-ai-feedback-learning]]
-## Citation
-
-Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740). arXiv:2605.04740.
-
----
-
 ## [Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy](https://edtechdev.github.io/aied/articles/ai-perceptions-students-teachers-motivation-2026/)
 
 > **Synthesis:** Baez, Buchner, Ullrich, and Schallert-Vallaster (2026) explore how primary and lower secondary school students perceive AI in learning, and how student and teacher [[motivation]] and [[self-efficacy]] relate to those perceptions. Using questionnaire data collected in Spring 2023 from 907 students (466 female, 441 male; 639 primary, 268 lower secondary; mean age 11.61 years, SD = 1.85) and their 53 class teachers (38 female, 15 male; mean age 39.32, mean 14.43 years of experience) clustered across 36 primary and 17 lower secondary classes in 12 primary and 3 lower secondary schools belonging to five school units in German-speaking Switzerland, and analyzed with a doubly multilevel structural equation model (ML-SEM, MLR estimator, lavaan in R), the authors found that students' intrinsic motivation to learn with digital media is significantly linked to their perception of AI at the individual level (β = 0.29, p < .001), with the model explaining 47% of the variance in AI perception. Students' self-efficacy is positively associated with their motivation (β = 0.43, p < .001), while girls exhibited lower self-efficacy for learning with digital media than boys (β = −0.17, p < .001). At the class level, teacher motivation to integrate digital media was positively associated with aggregated student motivation (β = 0.71, p < .01) and strongly linked to teacher self-efficacy (β = 0.86, p < .001), whereas teacher self-efficacy showed a negative association with class-level student motivation (β = −0.63, p < .05) once teacher motivation was controlled.
@@ -18864,7 +18768,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
 - **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-assessment|Automated Grading]] scales.
 - **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
-- **[[automatic-short-answer-grading]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
+- **[[cong-confidence-asag-2026]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
 - **[[ai-assessment-human-tutors]]**: The parallel between AI and human scoring bias suggests that the goal should not be to replace human assessment but to understand the limitations shared by both, as also explored in the [[ai-feedback-quality]] literature.
 - **[[educational-measurement]]**: The concept of construct-irrelevant variance — where language proficiency contaminates measurement of conceptual understanding — is a fundamental [[assessment-validity]] concern that this study quantifies across AI systems.
 ## Implications
@@ -18884,7 +18788,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[physics-education]]
 ## Connected Articles
 - [[genai-linguistic-diversity-academic-writing]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[short-answer-scoring-quality-degradation]]
 - [[ai-assessment-human-tutors]]
@@ -19504,11 +19408,11 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[academiclaw-student-agent-benchmark]]
 - [[ai-pedagogical-accompaniment-amico]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[clara-collaboration-literacy-dashboard]]
 - [[collaborative-ai-tutoring]]
 - [[cstutorbench-slm-tutors]]
-- [[difficulty-aware-dialogue-kt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[eduagentbench-agent-teaching-benchmark]]
 ## Citation
 
@@ -20154,41 +20058,6 @@ Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation Sys
 
 ---
 
-## [AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education](https://edtechdev.github.io/aied/articles/aicode-collaborative-feedback-system/)
-
-# AICoFe: AI-Based Collaborative Feedback System for Higher Education
-
-## System Architecture
-
-AICoFe orchestrates a multi-LLM pipeline using GPT-4.1-mini, Gemini 2.5 Flash, and Llama 3.1 to synthesize quantitative rubric data and qualitative observations into actionable feedback for higher education students. The key innovation is a **teacher-in-the-loop mediation workflow**: educators use specialized Learning Analytics dashboards to curate and refine AI-generated feedback drafts before delivery.
-
-## Technical Design
-
-- **Multi-LLM orchestration**: Three different models contribute complementary perspectives
-- **Hybrid storage**: SQL for traceability and structured metadata + MongoDB for semi-structured feedback versions
-- **Learning Analytics dashboards**: Dedicated educator interfaces for feedback curation
-
-## Connection to Broader AIED
-
-AICoFe extends prior work on [[ai-peer-feedback-systems]] from experimental prototypes to a deployed system with educator mediation. The multi-LLM approach addresses single-model bias concerns in [[automated-assessment|Automated Grading]]. It sits at the intersection of [[feedback|Feedback Loop]] design and [[learning-analytics]] — keeping educators as active curators through [[human-in-the-loop-ai]] principles.
-
-## Connected Concepts
-
-- [[automated-assessment]]
-- [[feedback]]
-- [[learning-analytics]]
-- [[human-in-the-loop-ai]]
-- [[llm]]
-- [[ai-feedback-quality]]
-## Connected Articles
-
-- [[ai-peer-feedback-systems]]
-## Citation
-
-Becerra, A., Palma, A., & Cobos, R. (2026). [AICoFe: Implementation and deployment of an AI-based collaborative feedback system for higher education](https://arxiv.org/abs/2605.04740). Proceedings of the Learning Analytics Summer Institute Spain 2026 (LASI Spain 2026). arXiv:2605.04740.
-
----
-
 ## [The Environmental Cost of LLMs in AIED: Reporting and Practices](https://edtechdev.github.io/aied/articles/aied-carbon-footprint-reporting/)
 
 > **Sabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici**
@@ -20417,7 +20286,7 @@ The pilot is small and single-institution, so its results are preliminary. Futur
 
 ## Connected Articles
 
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
+- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading with LLMs
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
@@ -21368,7 +21237,7 @@ Tsiligkiris, V. (2026). [*From authentic products to authenticated processes: a 
 
 ## [The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences](https://edtechdev.github.io/aied/articles/automated-formative-assessments-a-level-sciences/)
 
-This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A-Level sciences, removing the human-marking bottleneck that normally caps the frequency of formative mocks. High-frequency, automatically-marked [[formative-assessment]] cycles were associated with improved student outcomes, providing field evidence for the pedagogical payoff of [[automated-assessment|Automated Grading]] at upper-secondary level. The handwritten-work pipeline links to [[llm-handwritten-math-grading]] and [[automatic-short-answer-grading]], while the human-in-the-loop trade-offs echo [[hybrid-e-assessment-semi-automated-grading]].
+This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A-Level sciences, removing the human-marking bottleneck that normally caps the frequency of formative mocks. High-frequency, automatically-marked [[formative-assessment]] cycles were associated with improved student outcomes, providing field evidence for the pedagogical payoff of [[automated-assessment|Automated Grading]] at upper-secondary level. The handwritten-work pipeline links to [[llm-handwritten-math-grading]] and [[cong-confidence-asag-2026]], while the human-in-the-loop trade-offs echo [[hybrid-e-assessment-semi-automated-grading]].
 
 ## Connected Concepts
 
@@ -21383,7 +21252,7 @@ This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully
 ## Connected Articles
 
 - [[llm-handwritten-math-grading]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[hybrid-e-assessment-semi-automated-grading]]
 - [[short-answer-scoring-quality-degradation]]
 ## Citation
@@ -21493,84 +21362,6 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 ## Citation
 
 Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026). [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](https://arxiv.org/abs/2606.27380). arXiv:2606.27380. Computation and Language (cs.CL).
-
----
-
-## [Automatic Short Answer Grading with LLMs](https://edtechdev.github.io/aied/articles/automatic-short-answer-grading/)
-
-> Automatic Short Answer Grading (ASAG) is never perfect. Upper bounds on accuracy arise from:
-
-> Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but **model-based confidence signals alone are insufficient** for reliable uncertainty quantification. A hybrid framework combining epistemic (model-derived) and aleatoric (dataset-derived) uncertainty significantly improves selective grading and calibration.^[[cong-confidence-asag-2026]]
-
-## Why Confidence Matters
-
-Automatic Short Answer Grading (ASAG) is never perfect. Upper bounds on accuracy arise from:
-- Linguistic variability in student responses
-- Ambiguity in scoring criteria
-- Inherent disagreement among human graders
-
-Reliable confidence estimates are therefore essential for **human-in-the-loop review**—flagging uncertain cases for teacher attention rather than auto-grading everything.^[[cong-confidence-asag-2026]]
-
-## Three Model-Based Confidence Strategies
-
-All generated with `gpt-oss-20b` at temperature 0.1:
-
-| Strategy | Mechanism | Edge Case Failure |
-|---|---|---|
-| **Verbalizing** | Prompt model to self-report confidence in [0,1] | Overconfident on ambiguous but plausible phrasings |
-| **Latent** | Softmax log-likelihood of predicted label token | Underconfident when label token probabilities are flat |
-| **Consistency** | Sample 5 predictions at varying temperatures; measure agreement | Fails when model is consistently wrong |
-
-All three, when used in isolation, miss **aleatoric uncertainty**—ambiguity intrinsic to the data itself.^[[cong-confidence-asag-2026]]
-
-## Aleatoric Uncertainty via Semantic Clustering
-
-To capture data-level ambiguity:
-
-1. **Embed** student responses with `all-MiniLM-L6-v2`
-2. **Cluster** via agglomerative hierarchical clustering (Ward linkage) on a 10% calibration subset
-3. **Quantify** within-cluster label heterogeneity via normalized Shannon entropy
-4. **Assign** test responses to nearest cluster centroid
-
-High-entropy clusters indicate inherently ambiguous responses (e.g., partially correct, underspecified, or stylistically unusual).^[[cong-confidence-asag-2026]]
-
-## Hybrid Confidence Fusion
-
-Feature vector per response: `[s^verb, s^lat, s^cons, s^alea, token_length]`
-
-- **Classifier:** Random Forest (500 trees) trained on human labels
-- **Calibration:** Platt scaling via 5-fold CV to yield calibrated probability p ∈ [0,1]
-
-**Result:** Hybrid confidence with aleatoric uncertainty outperforms all single-source approaches on selective prediction metrics (AUROC, AUARC) and reliability metrics (ECE, MCE, Brier).^[[cong-confidence-asag-2026]]
-
-## Implications for Human-in-the-Loop Assessment
-
-- **Selective grading:** Flag low-confidence responses for human review; auto-grade high-confidence responses
-- **Teacher dashboards:** Display confidence alongside grades to support triage
-- **Fairness:** Aleatoric uncertainty may reveal systemically ambiguous scoring criteria that need rubric revision
-
-## Relationship to Tutoring-Specific Design
-
-ASAG confidence estimation is complementary to [[stanford-evidence-base-ai-k12-2026|tutoring-specific feedback]]: while tutoring tools generate formative scaffolds, grading tools must manage summative uncertainty. Both require explicit epistemic humility—acknowledging when the model should defer to human judgment.^[[cong-confidence-asag-2026]]
-
-## Connected Concepts
-
-- [[automated-essay-scoring]]
-- [[human-in-the-loop-ai]]
-- [[ai-feedback-quality]]
-- [[ai-ed-evaluation]]
-- [[automated-assessment]]
-- [[assessment]]
-- [[assessment-validity]]
-- [[formative-assessment]]
-
-## Connected Articles
-
-- [[cong-confidence-asag-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-## Citation
-
-Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.
 
 ---
 
@@ -21903,11 +21694,22 @@ Feng, Z., & Huang, K. (2026). [*Bayesian cognitive diagnosis optimizes personali
 3. **Dual-purpose transparency supports both practice and research.** The system tracks the extent of teacher modification and curation, serving simultaneously as (a) a reflection tool for individual instructors examining their curation patterns, and (b) a dataset for large-scale analysis of the teacher mediation role in AI-assisted feedback.
 4. **Role-specific dashboards close the feedback loop.** The student dashboard provides access to video recordings of presentations, self-evaluation rubrics, visual comparisons of self vs. external evaluations, teacher-curated AI feedback, and the ability to rate perceived agreement and usefulness — completing a full assessment-for-learning cycle.
 
+## System Architecture
+
+| Module | Purpose |
+|--------|---------|
+| **Visualization** | Role-specific dashboards (student, teacher, evaluator) |
+| **Management** | Hybrid SQL + MongoDB data infrastructure (traceability + semi-structured feedback versions) |
+| **Feedback Generation** | Multi-LLM pipeline synthesizing rubric scores + qualitative comments |
+| **Recording** | Video/audio capture of student presentations (opt-in, GDPR-compliant) |
+
+The system treats AI as a **draft generator**, not a final deliverer — educators curate and compose the final feedback before it reaches students, so AI augments rather than replaces peer and teacher judgment.
+
 ## Implications
 
 AICoFE addresses a critical tension in [[ai-feedback-quality]]: the trade-off between efficiency and pedagogical authority. By adopting a [[human-in-the-loop-ai]] architecture rather than full automation, it demonstrates that AI can accelerate feedback workflows without displacing the teacher's interpretive role. This aligns with emerging best practices in [[ai-feedback-quality]] research, which increasingly emphasizes teacher agency over raw automation.
 
-The multi-LLM pipeline is a practical response to the observation that different models excel at different dimensions of feedback — tone, specificity, actionability. Rather than selecting a single "best" LLM, AICoFE treats model diversity as a feature, surfacing complementary perspectives that the teacher can synthesize. This approach parallels work in [[ai-peer-feedback-systems]] that leverages multiple AI-generated perspectives for richer formative assessment.
+The multi-LLM pipeline is a practical response to the observation that different models excel at different dimensions of feedback — tone, specificity, actionability. Rather than selecting a single "best" LLM, AICoFE treats model diversity as a feature, surfacing complementary perspectives that the teacher can synthesize. This approach parallels work in  that leverages multiple AI-generated perspectives for richer formative assessment.
 
 The [[learning-analytics]] component of AICoFE is notable for its role-specific design: teacher and student dashboards serve fundamentally different functions within the same platform, and the system's transparency features (source attribution, curation tracking) support both reflective practice and [[learning-analytics]] at scale.
 
@@ -21926,7 +21728,6 @@ For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a 
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
@@ -24552,7 +24353,7 @@ CLARA was designed around the idea that learners, educators, and AI should reaso
 - [[student-modeling]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[retrieval-augmented-tutoring-algorithm-kite]]
 - [[cyberscholar-genai-writing-feedback]]
 - [[ai-tutor-behavioral-evaluation]]
@@ -25019,7 +24820,7 @@ A proof of concept was implemented using **Small Language Models (SLMs)**, surfa
 
 CAC connects to several threads in AI education research:
 
-- **[[knowledge-tracing-irt]]**: CAC makes knowledge tracing explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
+- **[[huang-interpretable-knowledge-tracing-2026]]**: CAC makes knowledge tracing explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
 - **[[neural-symbolic-knowledge-tracing]]**: Shares the goal of combining explicit (symbolic) knowledge representation with neural approaches for interpretable learner modeling
 - **[[agentic-workflows-education]]**: CAC is a specific agentic architecture for education, separated into knowledge, policy, and verification components
 - **[[adaptive-learning]]**: CAC enables adaptive behavior grounded in explicit, editable learner models
@@ -25047,7 +24848,7 @@ CAC connects to several threads in AI education research:
 
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[neural-symbolic-knowledge-tracing]]
 - [[agentic-workflows-education]]
 - [[llm-student-modeling-memory]]
@@ -25973,7 +25774,7 @@ Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., & Zhai, X. (2026). [*Confidence
 
 ## Implications
 
-This work addresses a critical gap in [[automatic-short-answer-grading]]: the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[automated-assessment|Confidence Aware AI Assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
+This work addresses a critical gap in : the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[automated-assessment|Confidence Aware AI Assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
 
 The explicit modeling of aleatoric uncertainty is particularly important for [[automated-assessment|Automated Grading]]. In ASAG, some student responses are genuinely ambiguous even to expert human raters — this is not a model failure but a property of the task. By modeling this inherent ambiguity through semantic clustering, the framework prevents the system from overconfidently misclassifying responses that are fundamentally uncertain.
 
@@ -25991,7 +25792,6 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[assessment]]
 ## Connected Articles
 
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
 - [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specifi...
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
@@ -26000,7 +25800,7 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
-- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
+- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
@@ -28270,94 +28070,6 @@ Laurent Brisson, Maria Segarra, Grégory Smits (2026). [A didactical-driven teac
 
 ---
 
-## [Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues](https://edtechdev.github.io/aied/articles/difficulty-aware-dialogue-kt/)
-
-## Synthesis
-
-> Huang et al. propose an interpretable, difficulty-aware conversational knowledge tracing (KT) framework built on LLMs that explicitly models both student ability and the difficulty of tutor-posed tasks at every turn. By integrating **Item Response Theory** to map opaque LLM outputs into student ability (θ) and question difficulty (b) parameters, the framework makes turn-by-turn correctness predictions that are both more accurate than prior dialogue-based KT baselines and cognitively interpretable — grounding predictions in the standard psychometric relationship that a student's probability of a correct answer grows with the positive gap between ability and difficulty. Validation across the QATD2k and MathDial tutor-student dialogue datasets shows consistent AUC gains over the prior state-of-the-art (LLMKT), while qualitative analyses confirm that learned difficulty correlates with empirical difficulty statistics and that estimated ability follows the smooth, gradual learning trajectories predicted by cognitive learning theory.
-
-## Key Findings
-
-1. The framework outperforms prior dialogue-based KT baselines, improving AUC over the previous state-of-the-art LLMKT by +0.36 on QATD2k (64.89 → 65.25) and +0.60 on MathDial (75.99 → 76.59), showing that explicitly modeling question difficulty adds useful signal beyond student knowledge state alone.
-2. A three-module design — a knowledge estimator, a difficulty estimator, and an IRT-based predictor — converts LLM output logits over "GOOD"/"BAD" and "HARD"/"EASY" vocabulary tokens into scalar ability and difficulty estimates, enabling fine-tuning on observed correctness labels through an IRT prediction layer.
-3. Learned difficulty parameters are interpretable and meaningful: predicted KC difficulty shows a moderate positive correlation with empirical (classical test theory) difficulty (Pearson r = 0.368, p < 0.001) across knowledge components in the real-world QATD2k dataset.
-4. Estimated ability trajectories are smoother and more stable than probability-based mastery estimates (e.g. LLMKT), increasing monotonically with repeated practice in line with cognitive theories of gradual learning; fluctuations in predicted correctness coincide with changes in tutor-posed task difficulty rather than instability in the underlying knowledge state.
-5. A qualitative case study confirms the framework captures realistic tutoring dynamics: the tutor decomposes a problem into simpler sub-tasks after errors (difficulty drops from 0.671 to 0.360) while the student's estimated ability still rises steadily (0.224 → 0.628) across the dialogue.
-
-## Analysis
-
-This paper bridges LLM-based dialogue tutoring and interpretable student modeling. By mapping opaque LLM representations to **Item Response Theory** parameters — student ability (θ) and question difficulty (b) — the framework makes turn-by-turn predictions both accurate and cognitively meaningful. This connects directly to [[knowledge-tracing-irt]] by extending IRT beyond static assessment into live dialogue.
-
-The framework was validated across two tutor-student dialogue datasets and outperformed existing KT baselines. The approach also operationalizes [[intelligent-tutoring]] by enabling tutors to calibrate scaffolds based on explicit difficulty-aware readiness estimates, and supports [[llm-student-modeling-memory]] by providing a principled way to convert LLM outputs into structured student state representations.
-
-## Problem and Motivation
-
-Dialogue-based tutoring systems such as [[generative-ai|Khanmigo]] and LiveHint provide interactive, scalable support, but assessing student mastery turn-by-turn is essential to personalize that support. This motivates [[knowledge-tracing]] in dialogue settings: predicting whether a student will correctly answer the next tutor-posed task given the question and prior dialogue. Existing dialogue-based KT approaches suffer two limitations. First, they largely ignore question difficulty, even though correctness is driven not only by the knowledge state but substantially by how hard the task is — a high-ability student can still fail a very difficult question. Second, they rely on opaque, high-dimensional latent LLM representations, making it hard to produce psychologically meaningful explanations aligned with [[learning-theories|cognitive theories of learning]], which in turn undermines tutor [[trust]] in predictions.
-
-Formally, each dialogue is treated as an ordered sequence of alternating tutor turns (which act as formative assessment questions) and student turns (correct or incorrect responses), following the framing in [[ai-tutor-behavioral-evaluation|prior dialogue-KT work]]. Each tutor turn is associated with one or more knowledge components (KCs), and the task is to predict the correctness of the next student response given the original question, the historical dialogue, and the next tutor-posed task.
-
-## Framework Architecture
-
-The framework consists of three modules:
-
-- **Knowledge estimator** — prompts the LLM with the original question text and dialogue history to produce a continuous ability estimate, extracted from output logits over the "GOOD" and "BAD" vocabulary tokens (θ = z_GOOD − z_BAD).
-- **Difficulty estimator** — prompts the LLM with the original question, dialogue context, and the next tutor-posed task to estimate that task's difficulty, extracted from logits over "HARD" and "EASY" tokens (d = z_HARD − z_EASY).
-- **IRT-based predictor** — combines the estimated ability θ and difficulty d through a one-parameter logistic (1PL/Rasch) Item Response Theory model to predict the probability of a correct response, with a learnable scalar α playing a role analogous to the discrimination parameter in the 2PL model.
-
-This design couples [[student-modeling]] with psychometric measurement: the IRT layer both produces interpretable ability and difficulty estimates and provides the differentiable loss used to fine-tune the LLM on observed correctness labels, aligning model predictions with [[psychometrically-aware-ai|cognitive theory]]. The authors tried a learnable vector α for KC-specific discrimination but found it degraded performance (likely overparameterization), settling on a scalar α.
-
-## Evaluation
-
-The framework was evaluated on two tutor-student dialogue datasets. QATD2k, the largest open-source real-world tutoring dialogue dataset, was collected from one-on-one tutoring on the Eedi mathematics platform (1,573 training / 393 test dialogues). MathDial comprises multi-step math reasoning dialogues between simulated students and human tutors (2,235 training / 588 test dialogues). The base model is Llama-3.1-8B-Instruct, fine-tuned with [[llm|LoRA]] on NVIDIA RTX L40 GPUs.
-
-Baselines span deep-learning KT models ([[knowledge-tracing|DKT]], DKVMN, SAINT, AKT, simpleKT) and LLM-based models (LLMKT). In general, LLM-based methods outperform deep-learning KT models, and the proposed framework beats LLMKT on both accuracy and AUC. Notably, simpler architectures generalize better under the limited-data conditions (< 2,500 dialogues) where complex models are prone to overfitting.
-
-## Interpretability Analyses
-
-Three qualitative analyses probe whether the learned parameters are meaningful:
-
-- **Difficulty analysis** — on the real-world QATD2k dataset, predicted KC difficulty correlates positively with ground-truth difficulty computed via classical test theory (Pearson r = 0.368), showing the model captures cognitively plausible difficulty patterns.
-- **Learning-curve analysis** — estimated ability rises smoothly and monotonically with repeated KC occurrences, matching cognitive theories of gradual learning, whereas LLMKT's raw correctness probabilities oscillate and even drop after practice; fluctuations in predicted correctness align with rises and falls in tutor-posed task difficulty (e.g. hints/scaffolding lower difficulty, pressing for a complete solution raises it).
-- **Case study** — a representative dialogue shows the tutor dynamically adapting difficulty: after an error the problem is decomposed into simpler sub-tasks (difficulty 0.671 → 0.360), while the student's ability still increases steadily (0.224 → 0.628), consistent with scaffolding-driven learning.
-
-## Limitations and Future Work
-
-The authors note several [[limitations-in-aied-research|limitations]]: as the first work to explicitly estimate tutor-turn difficulty in dialogues, there are no existing difficulty-prediction baselines to compare against; experiments are limited to math dialogues (KT in dialogue settings is only well-established in math); and LLM-based approaches are far more computationally expensive than traditional KT methods. Future work includes capturing finer-grained difficulty signals and dynamic difficulty evolution, using multi-step reasoning and [[reinforcement-learning]] to improve ability estimation, and misconception-aware conversational KT that detects and tracks [[student-misconceptions-ai|student misconceptions]] for more fine-grained prediction.
-
-## Implications
-
-For tutoring-system design, the framework demonstrates that folding [[item-response-theory|IRT]] principles into LLM-based tutoring yields interpretable, difficulty-aware readiness estimates that tutors (human or automated) can use to calibrate [[scaffolding]] and decide when to pose easier or harder tasks — a concrete step toward [[adaptive-learning|adaptive]], [[personalized-learning|personalized]] dialogue tutoring. The separation of ability from correctness prediction is itself a design lesson: it decouples genuine learning progress from momentary performance fluctuations, producing more stable student models. For [[educational-measurement]], it shows psychometric models can serve as the interpretability layer on top of opaque neural representations, strengthening the case for [[psychometrically-aware-ai]] in automated assessment and [[formative-assessment|formative assessment]] at the turn level. Practitioners should weigh the modest predictive gains against the substantially higher computational cost of LLM-based KT and the risk of [[bias-mitigation|bias]] in assessments for underrepresented populations, underscoring the need for thorough screening before deployment with real students — ideally as a complement to, not a replacement for, human teachers.
-
-## Connected Concepts
-
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
-- [[pedagogical-agent]]
-- [[personalized-learning]]
-- [[item-response-theory]]
-- [[student-modeling]]
-- [[llm]]
-
-## Connected Articles
-
-- [[knowledge-tracing-irt]]
-- [[llm-student-modeling-memory]]
-- [[ai-tutor-behavioral-evaluation]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[a4l-analytics-pipeline]]
-- [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
-- [[access-not-enough-ai-tutoring-2026]]
-- [[adapt-adaptive-lesson-plan-transformer]]
-- [[agent-voice-accents-k12-group-learning]]
-
-## Citation
-
-Huang et al. (2026). [Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues](https://arxiv.org/abs/2605.01097). arXiv:2605.01097. arXiv preprint.
-
----
-
 ## [The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students](https://edtechdev.github.io/aied/articles/digital-literacy-illusion/)
 
 # The Illusion of Competence: Digital Literacy & AI Readiness
@@ -28586,7 +28298,6 @@ evement gaps.
 
 ## Connected Articles
 
-- [[educational-vlm-evaluation]] — Educational VLM evaluation
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for diagnosing students' cognitive skills from handwritten math
 
 ## Citation
@@ -29116,62 +28827,6 @@ McLaughlin, G., Novak, E., Ahmadi, S., Li, J., Guo, Y., Liu, R., & Borgerding, L
 
 ---
 
-## [Educational VLM Evaluation](https://edtechdev.github.io/aied/articles/educational-vlm-evaluation/)
-
-> [[benchmark|Benchmarking]] [[multimodal|vision-language models (VLMs)]] not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners and those making errors. Traditional AI benchmarks measure expertise; educational benchmarks must measure pedagogical responsiveness.
-
-Benchmarking [[multimodal|vision-language models (VLMs)]] not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners and those making errors. Traditional AI benchmarks measure expertise; educational benchmarks must measure pedagogical responsiveness.
-
-## The DrawEduMath Gap
-
-Li Lucy et al. (2026) evaluated 11 [[multimodal|VLMs]] on DrawEduMath, a benchmark of real students' handwritten, hand-drawn [[math-education|math]] responses. All models showed a consistent pattern:
-
-- **Better on expert-level work** — VLMs perform adequately when evaluating polished student work
-- **Worse on struggling-student work** — Performance drops sharply for students who require more pedagogical help
-- **Worst on error assessment** — The core pedagogical task (identifying and responding to student errors) is the models' weakest area
-
-This pattern suggests that current VLM optimization for *math problem-solving* expertise is **insufficient for educational applications**.
-
-## Why This Matters
-
-A VLM that can solve a math problem may still be pedagogically useless or harmful if it:
-- Misdiagnoses a student's specific [[student-misconceptions-ai|misconception]]
-- Provides a solution when the student needs a [[scaffolding|scaffold]]
-- Fails to recognize partial understanding in messy handwritten work
-
-The gap between *capability* and *pedagogical utility* is analogous to the [[llm|LLM]] misalignment documented by Hardy & Kim (2026), but specifies it for the [[multimodal]], handwritten-work domain.
-
-## Implications for Development
-
-1. **Alternative incentives needed** — Training objectives must include pedagogical metrics, not just correctness metrics
-2. **Real student data is essential** — Synthetic or expert-curated datasets miss the distribution of actual learner work
-3. **Error-focused evaluation** — Benchmarks should weight error-diagnosis accuracy higher than solution-generation accuracy
-
-## Connected Concepts
-
-- [[formative-assessment]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-llm-training]]
-- [[benchmark]]
-- [[multimodal]]
-- [[math-education]]
-- [[assessment]]
-- [[student-misconceptions-ai]]
-## Connected Articles
-
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
-- [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
-- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-
-## Citation
-
-Lo, A.L.L.A.Z.N.A.R.K.K. (2026). [*Educational VLM Evaluation*](https://arxiv.org/abs/2603.00925)
-
----
-
 ## [A Systematic Review of Educators'' Engagement with AI in Problem-Based Learning](https://edtechdev.github.io/aied/articles/educators-engagement-ai-pbl-review-2026/)
 
 > **Synthesis:** This PRISMA 2020 systematic review (50 peer-reviewed articles, 2015–2024) examines how educators engage with AI-driven [[problem-based-learning|Problem-Based Learning]] (PBL) tools through a [[human-ai-collaboration|Human–Computer Interaction]] (HCI) lens, aligned with SDG 4 (Quality Education). Three dominant themes emerge: AI-enhanced PBL environments strengthen educator–student collaboration via [[feedback|real-time feedback]], [[scaffolding|intelligent scaffolding]], and data-informed decisions; AI supports adaptive and [[personalized-learning|personalized learning]] that improves [[student-engagement|engagement]] and problem-solving; yet persistent [[ethics|ethical]] concerns ([[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], educator autonomy) and underdeveloped AI-based [[assessment]] practices limit adoption. The authors propose an AI-Enhanced Academic Interaction Model (AEAIM) integrating the [[technology-acceptance-model|Technology Acceptance Model]], [[constructivist|Constructivist]] Learning Theory, and Krashen's Input Hypothesis, and stress that AI must empower rather than replace educator [[agency]].
@@ -29500,7 +29155,7 @@ EduZone is an automated evaluation framework that probes LLM safety in K-12 educ
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 
 ## Citation
@@ -29614,7 +29269,7 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 - [[professional-training]]
 ## Connected Articles
 
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
 - [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
@@ -32241,7 +31896,7 @@ The framework articulates three context-dependent governance stances based on ho
 3. **Require** — warranted when the target construct is disciplinary AI interaction competency itself. Tasks elicit process artifacts (prompts, critiques, revisions) that make student reasoning observable and scorable, distinguishing it from AI-generated output.
 
 ## Empirical Validation
-Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[automatic-short-answer-grading]] research on making student reasoning visible and scorable.
+Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[cong-confidence-asag-2026]] research on making student reasoning visible and scorable.
 
 ## Implications for Policy
 By situating GenAI governance within validity arguments, the framework offers actionable guidance for preserving learning integrity while preparing students for AI-enabled workplaces. This has direct relevance for [[educational-policy-ai]] decisions about assessment design and [[ai-literacy]] standards. The framework also complements emerging work on [[ai-tutor-safety-harms|AI tutor safety]] by providing structured decision-making about when AI interaction is educationally appropriate.
@@ -32259,7 +31914,7 @@ By situating GenAI governance within validity arguments, the framework offers ac
 
 ## Connected Articles
 
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[ai-tutor-safety-harms]]
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 ## Citation
@@ -34851,7 +34506,7 @@ As a Brief Research Report focused on one course, the study's findings are large
 ## Connected Articles
 
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
@@ -35039,7 +34694,7 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
-- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
+- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 
@@ -36034,7 +35689,7 @@ The key insight is that both student knowledge and task difficulty are explicitl
 
 This work bridges a critical gap between the predictive power of LLMs and the interpretability demands of real educational settings. While [[knowledge-tracing]] has traditionally used deep learning models like DKT and SAINT that trade interpretability for accuracy, Huang et al. demonstrate that LLMs can produce both — competitive or superior accuracy while yielding transparent, inspectable intermediate representations.
 
-The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on [[knowledge-tracing-irt]] that uses IRT to add structure to neural KT models.
+The difficulty-aware component addresses a well-known blind spot in [[student-modeling]]: student performance is a joint function of knowledge and task demands. By disentangling these, the framework avoids falsely attributing poor performance to low knowledge when a tutor has simply asked a harder question, or conversely, mistaking scaffolded success for mastery. This connects to broader work on  that uses IRT to add structure to neural KT models.
 
 The logit-extraction approach is notable for its simplicity — rather than training separate classifiers or using complex prompting strategies, it repurposes the LLM's own vocabulary probabilities as cognitive signals. This technique relates to emerging work on using LLM internal representations for educational assessment, including [[neural-symbolic-knowledge-tracing]].
 
@@ -36054,7 +35709,6 @@ Future work should extend the framework to multi-skill settings (where students 
 ## Connected Articles
 
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
 - [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
@@ -36064,7 +35718,6 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 - [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for [[learning-gains|Learning Outcomes]] of Delayed Start Behavior
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
-- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
@@ -36419,7 +36072,7 @@ The study evaluated a single dataset drawn from three courses at one institution
 
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
+- [[cong-confidence-asag-2026]] — Automatic Short Answer Grading with LLMs
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
@@ -36441,7 +36094,7 @@ Three AI-assisted text editor variants were tested along two dimensions:
 - **Temporal**: synchronous (humanlike) vs. asynchronous (machinelike) suggestions
 - **Visual**: presence (humanlike) vs. absence (machinelike) of a cursor
 
-Synchronous suggestions increased efficiency but led to contextual misalignment — the AI's suggestions didn't fit the writer's intent. A visual cursor improved perceived intent understanding but evoked feelings of surveillance that participants described as "eerie." This maps onto emerging concerns in [[ai-peer-feedback-systems]] about the social dynamics of AI interaction in educational contexts.
+Synchronous suggestions increased efficiency but led to contextual misalignment — the AI's suggestions didn't fit the writer's intent. A visual cursor improved perceived intent understanding but evoked feelings of surveillance that participants described as "eerie." This maps onto emerging concerns in [[becerra-aicofe-feedback-2026]] about the social dynamics of AI interaction in educational contexts.
 
 ## Implications for AI Writing Tools
 These findings have direct relevance for [[mindcopilot-llm-co-writing|LLM co-writing tools]] and the broader ecosystem of [[generative-ai]] writing assistants. The uncanny valley effect in AI collaboration suggests that anthropomorphic design choices must be paired with careful expectation management — without the mutual alignment natural in human-human collaboration, humanlike features can backfire.
@@ -36459,7 +36112,7 @@ The study also connects to [[socially-fluent-ai-identity-detection|research on A
 - [[human-in-the-loop-ai]]
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[mindcopilot-llm-co-writing]]
 - [[socially-fluent-ai-identity-detection]]
 - [[agency-gap-ai-writing]]
@@ -36644,7 +36297,7 @@ Human coders had access to video (tone, timing, nonverbal cues) while LLMs were 
 
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[llm-facilitation-timing-online-discussions]] — To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
@@ -37726,7 +37379,7 @@ Irwin & Muller (2026) offer a conceptual, theory-informed design framework for p
 
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]] — AI-supported peer feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI-supported peer feedback systems
 - [[care-full-feedback-genai]] — Care-full feedback in the era of generative AI
 - [[feedback-futures-genai]] — Feedback futures and generative AI
 - [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement with generative AI
@@ -38116,7 +37769,7 @@ The authors note important scope limits: GLAT was validated only with higher edu
 - [[ai-literacy-continuum-higher-education]] — A practical five-stage developmental continuum for AI literacy in higher education
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI literacy through interaction patterns
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
-- [[knowledge-tracing-irt]] — Knowledge tracing and item response theory
+- [[huang-interpretable-knowledge-tracing-2026]] — Knowledge tracing and item response theory
 
 ## Citation
 
@@ -38609,7 +38262,7 @@ Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini (2
 ## [Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs](https://edtechdev.github.io/aied/articles/knowledge-gap-detection-ai-tas/)
 
 This paper introduces a pipeline that maps student questions directed at a conversational AI teaching assistant to curriculum topics using a few-shot text classifier, grounded in a GPT-4-extracted prerequisite knowledge graph. Evaluated on 1,340 question events from 164 graduate students in an AI course, the classifier achieved 80.0% accuracy across 43 labels (42 topics + abstention). Topic-level question volume correlated significantly with student self-reported difficulty (Spearman's ρ = 0.491, p = 0.008), demonstrating that conversational AI interaction logs carry actionable signals about topic-level knowledge gaps. The work bridges [[student-modeling]] and [[learning-analytics]] by repurposing existing AI TA logs as diagnostic tools for instructors.},
-Curricula that deploy AI teaching assistants generate a byproduct — student interaction logs — that can be mined for curriculum-level insights without additional assessment burden. This approach is complementary to [[knowledge-tracing-irt]] models because it captures which topics students find difficult (via question volume) rather than which skills they have mastered. The GPT-4-extracted prerequisite graph provides an interpretable curriculum structure that instructors can inspect and validate.
+Curricula that deploy AI teaching assistants generate a byproduct — student interaction logs — that can be mined for curriculum-level insights without additional assessment burden. This approach is complementary to [[huang-interpretable-knowledge-tracing-2026]] models because it captures which topics students find difficult (via question volume) rather than which skills they have mastered. The GPT-4-extracted prerequisite graph provides an interpretable curriculum structure that instructors can inspect and validate.
 
 ## Key Findings
 
@@ -38630,87 +38283,11 @@ Curricula that deploy AI teaching assistants generate a byproduct — student in
 - [[scaffolding]] — diagnostic support for instructor decision-making
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[didactical-teacher-assistant-dimensional-modeling]] — Dimensional modeling of teaching assistants
 ## Citation
 
 Medhat, Y., Park, J., Thajchayapong, P., & Goel, A. K. (2026). [*Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs*](https://arxiv.org/abs/2606.10736). arXiv:2606.10736.
-
----
-
-## [Interpretable Knowledge Tracing via IRT](https://edtechdev.github.io/aied/articles/knowledge-tracing-irt/)
-
-> Two critical gaps in dialogue-based Knowledge Tracing (KT):
-
-> Most LLM-based dialogue tutoring systems produce opaque predictions. Huang et al. map raw LLM logits into **student ability (θ)** and **task difficulty (d)** parameters via Item Response Theory, yielding predictions that are both more accurate and interpretable in cognitive terms.^[[huang-interpretable-knowledge-tracing-2026]]
-
-## The Problem with Opaque KT
-
-Two critical gaps in dialogue-based Knowledge Tracing (KT):
-
-1. **Ignored question difficulty:** Existing methods rely only on student knowledge states. When a tutor scaffolds up or increases task difficulty, predictions become inaccurate.
-2. **Opaque representations:** High-dimensional LLM embeddings lack interpretability, making it hard to align predictions with learning theory or gain tutor trust.
-
-## The Framework
-
-Built on Llama-3.1-8B-Instruct with three modules:
-
-### 1. Knowledge Estimator
-Extracts next-token logits for vocabulary tokens **"GOOD"** and **"BAD"** from dialogue history + original question:
-`θ = z^GOOD − z^BAD`
-
-### 2. Difficulty Estimator
-Extracts logits for **"HARD"** and **"EASY"** from dialogue history + next tutor-posed task:
-`d = z^HARD − z^EASY`
-
-### 3. IRT Predictor
-Maps ability and difficulty into correctness probability via a 1PL (Rasch) model with learnable scalar α:
-`p(correct) = 1 / (1 + exp(−α(θ − d)))`
-
-> *"This formulation provides interpretability since both student knowledge and task difficulty are explicitly represented as meaningful cognitive quantities."*^[[huang-interpretable-knowledge-tracing-2026]]
-
-## Results
-
-Evaluated on QATD2k (real) and MathDial (simulated) tutor-student dialogue datasets:
-
-| Model | QATD2k AUC | MathDial AUC |
-|-------|------------|--------------|
-| DKT | 54.73 | 63.14 |
-| DKVMN | 51.79 | 60.64 |
-| LLMKT | 64.89 | 75.99 |
-| **Ours (IRT)** | **65.25** | **76.59** |
-
-LLM-based methods substantially outperform traditional deep learning models (∼10-15 AUC points), and the explicit IRT parameterization slightly improves over raw LLMKT.^[[huang-interpretable-knowledge-tracing-2026]]
-
-## Relationship to Tutoring-Specific Design
-
-This framework is an enabler for [[stanford-evidence-base-ai-k12-2026|tutoring-specific AI]]: by explicitly modeling difficulty and student readiness at each turn, the system can dynamically calibrate scaffolds rather than defaulting to full assistance. It operationalizes the insight that general-purpose LLMs can be *re-framed* as psychometric instruments through prompt design.^[[huang-interpretable-knowledge-tracing-2026]]
-
-## Limitations
-
-- **Simulated data:** MathDial uses GPT-3.5 as the "student," which may not reflect real learner behavior
-- **Fine-tuning required:** LoRA on Llama-3.1-8B; not zero-shot
-- **Binary correctness only:** Does not model partial understanding or open-ended reasoning
-
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[pedagogical-agent]]
-- [[item-response-theory]]
-- [[educational-measurement]]
-- [[psychometrically-aware-ai]]
-- [[student-modeling]]
-- [[intelligent-tutoring]]
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[stanford-evidence-base-ai-k12-2026]]
-## Citation
-
-Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing via IRT*](https://arxiv.org/abs/2605.01097)
 
 ---
 
@@ -38801,7 +38378,7 @@ Fang, M., & Reidsma, D. (2026). [*From Confusion to Consolidation: A Staged Conv
 
 ## [KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing](https://edtechdev.github.io/aied/articles/kt4eqg-personalized-question-generation/)
 
-**KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing** bridges two key AI-in-education paradigms: [[personalized-learning]] through question generation and [[learning-analytics]] through knowledge tracing. Rather than generating generic practice questions, KT4EQG uses a Knowledge Tracing model to first identify the knowledge concept that would maximize a student's potential improvement in overall mastery, then trains an [[llm]]-based generator to produce a question faithfully grounded in that concept. This two-stage architecture — KT for concept selection, LLM for faithful question generation — outperforms less personalized baselines on XES3G5M and MOOCRadar datasets. The approach represents a significant advance in [[adaptive-learning]] system design, connecting to [[knowledge-tracing-irt]] research on modeling student knowledge states and [[automated-question-generation]] work on producing high-quality educational content. Unlike earlier systems such as [[slidesqaqa-pedagogical-question-generation]] that generate questions from static content, KT4EQG personalizes based on dynamic student models, aligning with [[intelligent-tutoring]] goals of providing the right question at the right time for each learner.
+**KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing** bridges two key AI-in-education paradigms: [[personalized-learning]] through question generation and [[learning-analytics]] through knowledge tracing. Rather than generating generic practice questions, KT4EQG uses a Knowledge Tracing model to first identify the knowledge concept that would maximize a student's potential improvement in overall mastery, then trains an [[llm]]-based generator to produce a question faithfully grounded in that concept. This two-stage architecture — KT for concept selection, LLM for faithful question generation — outperforms less personalized baselines on XES3G5M and MOOCRadar datasets. The approach represents a significant advance in [[adaptive-learning]] system design, connecting to [[huang-interpretable-knowledge-tracing-2026]] research on modeling student knowledge states and [[automated-question-generation]] work on producing high-quality educational content. Unlike earlier systems such as [[slidesqaqa-pedagogical-question-generation]] that generate questions from static content, KT4EQG personalizes based on dynamic student models, aligning with [[intelligent-tutoring]] goals of providing the right question at the right time for each learner.
 
 ## Connected Concepts
 
@@ -38815,7 +38392,7 @@ Fang, M., & Reidsma, D. (2026). [*From Confusion to Consolidation: A Staged Conv
 - [[formative-assessment]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[slidesqaqa-pedagogical-question-generation]]
 ## Citation
 
@@ -39273,7 +38850,7 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
 - [[genai-feedback-design-multisite-experiment]] — GenAI feedback design in a multisite experiment
 - [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgments
-- [[ai-peer-feedback-systems]] — AI peer-feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI peer-feedback systems
 - [[care-full-feedback-genai]] — Care-full feedback with GenAI
 - [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
 
@@ -40544,7 +40121,7 @@ The authors argue that static skill-targeted rewriting is insufficient on its ow
 - [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
 - [[ai-writes-code-student-writes-model-2026]] — The AI Writes the Code, the Student Writes the Model: Theory and Measurement for Learning by Construction with Generative AI
 - [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Framework for Artifact Construction in Upper-Secondary Education
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 
 ## Citation
 
@@ -40567,7 +40144,7 @@ The authors address a critical gap: high-quality, domain-specific datasets with 
 
 ## Connection to Wiki
 
-This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[automatic-short-answer-grading]] and [[structured-llm-feedback-programming]] by focusing on the formative, metacognitive dimension of student learning rather than summative evaluation.
+This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[cong-confidence-asag-2026]] and [[structured-llm-feedback-programming]] by focusing on the formative, metacognitive dimension of student learning rather than summative evaluation.
 
 ## Connected Concepts
 
@@ -40579,12 +40156,12 @@ This work extends the [[automated-assessment|Automated Grading]] landscape by ad
 - [[feedback]]
 - [[formative-assessment]]
 - [[metacognition]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 
 ## Connected Articles
 
 - [[programming-its]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[structured-llm-feedback-programming]]
 ## Citation
 
@@ -41177,7 +40754,7 @@ Using LLMs to simulate students is an emerging practice in educational research,
 
 This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
 
-The simulation methodology also raises questions about [[ai-tutor-safety-harms]] — if tutoring systems are tested on simulated neurodivergent learners, do the safety assessments generalize? This echoes [[educational-vlm-evaluation]] concerns about AI systems that underperform with specific student populations.
+The simulation methodology also raises questions about [[ai-tutor-safety-harms]] — if tutoring systems are tested on simulated neurodivergent learners, do the safety assessments generalize? This echoes [[drawedumath-vlm-struggling-students-2026]] concerns about AI systems that underperform with specific student populations.
 
 ## Open Questions
 
@@ -41200,7 +40777,7 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 - [[llm-student-modeling-memory]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
-- [[educational-vlm-evaluation]]
+- [[drawedumath-vlm-struggling-students-2026]]
 - [[multimodal-ai-tutoring]]
 ## Citation
 
@@ -41431,7 +41008,7 @@ Maier, U., Seibold, M., & Klotz, C. (2026). [*LLM-generated formative feedback i
 
 Automated grading systems have enabled scalable assessment for many response types, but handwritten mathematics remains a barrier due to the complexity of multi-step solutions. Vision-capable large language models (LLMs) offer new opportunities here, yet their reliability in authentic instructional settings remains poorly understood.
 
-This paper presents an empirical evaluation of a vision-capable LLM-based grader for handwritten mathematical work. Using a single LLM call that combines transcription and rubric-based evaluation, the system was tested on student work from two university STEM courses. The grader achieved high overall accuracy at the rubric-item level, with 87% of errors in the best model attributed to transcription failures rather than rubric misapplication. The authors categorize common error modes — image quality issues, hallucinated content, and incorrect handling of equivalent expressions — providing guidance for system design, prompt refinement, and deployment. This work extends the [[automated-assessment|Automated Grading]] pipeline to the previously unexplored domain of handwritten mathematics, complementing systems like [[lata-ferpa-compliant-local-llm-autograder]] that focus on typed LaTeX submissions. Unlike typed-response graders that achieve near-perfect rubric alignment, the vision pipeline introduces new failure modes around handwriting recognition that echo the diagnostic precision challenges identified in [[llm-tutoring-feedback-diagnosis-gap]]. The finding that the LLM can correctly apply instructor rubrics when transcription succeeds suggests that [[multimodal-ai-tutoring]] approaches can bridge the gap between visual input and pedagogical assessment, while remaining sensitive to the limitations documented in [[educational-vlm-evaluation]].
+This paper presents an empirical evaluation of a vision-capable LLM-based grader for handwritten mathematical work. Using a single LLM call that combines transcription and rubric-based evaluation, the system was tested on student work from two university STEM courses. The grader achieved high overall accuracy at the rubric-item level, with 87% of errors in the best model attributed to transcription failures rather than rubric misapplication. The authors categorize common error modes — image quality issues, hallucinated content, and incorrect handling of equivalent expressions — providing guidance for system design, prompt refinement, and deployment. This work extends the [[automated-assessment|Automated Grading]] pipeline to the previously unexplored domain of handwritten mathematics, complementing systems like [[lata-ferpa-compliant-local-llm-autograder]] that focus on typed LaTeX submissions. Unlike typed-response graders that achieve near-perfect rubric alignment, the vision pipeline introduces new failure modes around handwriting recognition that echo the diagnostic precision challenges identified in [[llm-tutoring-feedback-diagnosis-gap]]. The finding that the LLM can correctly apply instructor rubrics when transcription succeeds suggests that [[multimodal-ai-tutoring]] approaches can bridge the gap between visual input and pedagogical assessment, while remaining sensitive to the limitations documented in [[drawedumath-vlm-struggling-students-2026]].
 
 ## Connected Concepts
 
@@ -41447,7 +41024,7 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 - [[lata-ferpa-compliant-local-llm-autograder]]
 - [[llm-tutoring-feedback-diagnosis-gap]]
 - [[multimodal-ai-tutoring]]
-- [[educational-vlm-evaluation]]
+- [[drawedumath-vlm-struggling-students-2026]]
 - [[llm-cognitive-diagnosis-handwritten-math]]
 ## Citation
 
@@ -41542,7 +41119,7 @@ Vissapragada, A. (2026). [*A review of intervention designs of LLM Integration i
 
 This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps LLM reasoning traces into cognitively grounded episode sequences for predicting human item difficulty in [[assessment|educational assessment]]. The authors argue that difficulty should be viewed not only as a property of item text but also as an observable consequence of problem-solving burden. By analyzing reasoning traces from large reasoning models (LRMs), Epi2Diff extracts compact cognitive episodes that capture reasoning scale, effort allocation, and state transitions — enabling interpretable [[student-modeling|student modeling]] without costly human calibration.
 
-The work connects to [[knowledge-tracing-irt|knowledge tracing and IRT]] by offering a process-level view of item difficulty that complements traditional outcome-based models. It has implications for [[adaptive-learning|adaptive learning systems]], where more precise difficulty estimates enable better [[personalized-learning|personalized item selection]], and for [[learning-analytics|learning analytics]], where reasoning trace analysis can provide instructors with fine-grained diagnostic information about which cognitive steps students find challenging.
+The work connects to [[huang-interpretable-knowledge-tracing-2026|knowledge tracing and IRT]] by offering a process-level view of item difficulty that complements traditional outcome-based models. It has implications for [[adaptive-learning|adaptive learning systems]], where more precise difficulty estimates enable better [[personalized-learning|personalized item selection]], and for [[learning-analytics|learning analytics]], where reasoning trace analysis can provide instructors with fine-grained diagnostic information about which cognitive steps students find challenging.
 
 This approach represents a novel intersection of LLM benchmarking and [[assessment]] design, suggesting that reasoning models can serve as cognitive proxies for human test-takers in [[k-12|K-12]] and [[higher-ed|higher education]] settings. It connects to [[transfer-of-learning|AI learning transfer]] by examining how model reasoning processes mirror human cognitive processes during problem-solving.
 
@@ -41562,7 +41139,7 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). arXiv:2606.28186. Computation and Language (cs.CL).
@@ -41774,7 +41351,7 @@ This preregistered between-subjects study (N=559) provides the first rigorous ev
 - **Hedonic appeal**, not trust, carried the indirect path to overestimation, consistent with a processing-fluency account: the pleasant experience of reading traces inflates confidence without improving understanding.
 
 ## Connection to AIED
-These findings have profound implications for [[intelligent-tutoring]] and [[ai-peer-feedback-systems|AI feedback systems]]. If students feel more confident after seeing AI reasoning but don't actually learn better, then simply exposing AI reasoning in educational interfaces may create an [[cognitive-offloading|Over-Reliance]] trap. The paper's recommendation — that calibration should be scaffolded by interactions that elicit users' own reasoning first — directly aligns with [[self-regulated-learning]] principles and [[cognitive-offloading-speedup-illusion|cognitive offloading research]] showing that AI use can reduce active engagement.
+These findings have profound implications for [[intelligent-tutoring]] and [[becerra-aicofe-feedback-2026|AI feedback systems]]. If students feel more confident after seeing AI reasoning but don't actually learn better, then simply exposing AI reasoning in educational interfaces may create an [[cognitive-offloading|Over-Reliance]] trap. The paper's recommendation — that calibration should be scaffolded by interactions that elicit users' own reasoning first — directly aligns with [[self-regulated-learning]] principles and [[cognitive-offloading-speedup-illusion|cognitive offloading research]] showing that AI use can reduce active engagement.
 
 ## Contrast with Assessment Governance
 While [[genai-assessment-governance|GenAI assessment governance]] focuses on *when* to allow AI in evaluation, this paper addresses *how* AI explanations affect learning — suggesting that even well-designed AI transparency features can backfire without metacognitive scaffolding.
@@ -41791,7 +41368,7 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[scaffolding]]
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[cognitive-offloading-speedup-illusion]]
 - [[genai-assessment-governance]]
 ## Citation
@@ -41873,7 +41450,7 @@ This paper presents a systematic two-stage methodology for surfacing student mis
 
 The quality of LLM-identified misconceptions was rated as excellent by subject matter experts, and faculty interviews confirmed that data-driven topic identification aligned with, and extended, instructors' own classroom observations. This is significant because it demonstrates that LLM-based analysis can surface insights invisible in performance data alone — bridging the gap between [[learning-analytics]] dashboards (which show *what* is going wrong) and qualitative pedagogical reasoning (which explains *why*).
 
-The approach connects to several established themes in the wiki. It operationalizes [[formative-assessment]] by enabling targeted, misconception-specific interventions rather than generic remediation. It advances [[personalized-learning]] by providing the diagnostic foundation needed for adaptive systems to respond to individual conceptual gaps. And it extends [[knowledge-tracing-irt|knowledge tracing]] beyond binary correct/incorrect signals to the richer space of specific misconception categories.
+The approach connects to several established themes in the wiki. It operationalizes [[formative-assessment]] by enabling targeted, misconception-specific interventions rather than generic remediation. It advances [[personalized-learning]] by providing the diagnostic foundation needed for adaptive systems to respond to individual conceptual gaps. And it extends [[huang-interpretable-knowledge-tracing-2026|knowledge tracing]] beyond binary correct/incorrect signals to the richer space of specific misconception categories.
 
 For [[student-experience]], the implications are direct: students struggling with the same topic for different conceptual reasons would receive different remediation. For [[ai-literacy]], the paper models how instructors can leverage AI outputs as hypotheses to be validated by expert judgment, rather than as authoritative diagnoses — a responsible-use pattern relevant to faculty development.
 
@@ -41889,7 +41466,7 @@ For [[student-experience]], the implications are direct: students struggling wit
 - [[knowledge-tracing]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Parker, M. J., & Zavala-Cerna, M. G. (2026). [What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics](https://arxiv.org/abs/2605.00294). Education and Information Technologies. arXiv:2605.00294.
@@ -41898,13 +41475,13 @@ Parker, M. J., & Zavala-Cerna, M. G. (2026). [What Don't You Understand? Using L
 
 ## [LLM Student Modeling and Long-Term Memory Architecture](https://edtechdev.github.io/aied/articles/llm-student-modeling-memory/)
 
-> Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[knowledge-tracing-irt|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
+> Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
 > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.^[[nie-personavlm-long-term-personalization-2026]]
 
 ## The Challenge in Educational Contexts
 
-Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[knowledge-tracing-irt|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
+Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
 1. **Preferences shift** — A student may initially prefer worked examples, later shift to Socratic questioning, then return to examples under stress
 2. **Expertise builds** — [[self-regulated-learning|SRL skills]] develop over time, changing what scaffolding is appropriate
@@ -41942,7 +41519,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 ### Connection to Existing Tutoring Research
 
-- [[knowledge-tracing-irt]] provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling
+- [[huang-interpretable-knowledge-tracing-2026]] provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling
 - [[self-regulated-learning]] frameworks identify regulation phases (planning, monitoring, reflection) that could map to Core/Procedural/Episodic memory types
 - [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]] requires maintaining pedagogical guardrails even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions
 
@@ -41973,7 +41550,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 - [[intelligent-tutoring]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[nie-personavlm-long-term-personalization-2026]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[llm-student-simulation-misconception-faithfulness]]
@@ -43794,7 +43371,7 @@ Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli
 
 MindCopilot introduces a formal framework for evaluating human-LLM co-writing that shifts from output-only metrics (BLEU, ROUGE) to **interaction-aware evaluation**. The paper models co-writing as a **Human-in-the-Loop Markov Decision Process (HiL-MDP)**, where writing is a sequence of granular decisions: accept, edit, or reject each AI suggestion. The **Co-Writing Fidelity Suite** introduces two novel metrics — **Hierarchical Acceptance Rate** (quantifying acceptance across granularity levels) and **Knowledge-aware Editing Distance** (measuring cognitive effort of editing suggestions). Evaluated across 1,688 queries from 16 writing domains, with a 30-participant validation study.
 
-For [[writing-education]], this represents a paradigm shift. Traditional automated writing evaluation focuses on final text quality, missing the process-level decisions that constitute real learning. The HiL-MDP framework aligns with process-oriented writing pedagogy — capturing where students accept, modify, or reject AI suggestions provides rich diagnostic information beyond what a final essay grade reveals. The work connects to [[cyberscholar-genai-writing-feedback]] and [[structured-llm-feedback-programming]] by establishing that interaction structure (when/how suggestions appear) significantly affects user behavior. For [[ai-peer-feedback-systems]], the acceptance/editing metrics offer a template for evaluating collaborative feedback workflows. Accepted to IJCAI 2026, this work bridges [[human-in-the-loop-ai]] theory with practical writing tool design, advancing [[llm]]-based educational technology beyond static quality assessment toward dynamic interaction modeling.
+For [[writing-education]], this represents a paradigm shift. Traditional automated writing evaluation focuses on final text quality, missing the process-level decisions that constitute real learning. The HiL-MDP framework aligns with process-oriented writing pedagogy — capturing where students accept, modify, or reject AI suggestions provides rich diagnostic information beyond what a final essay grade reveals. The work connects to [[cyberscholar-genai-writing-feedback]] and [[structured-llm-feedback-programming]] by establishing that interaction structure (when/how suggestions appear) significantly affects user behavior. For [[becerra-aicofe-feedback-2026]], the acceptance/editing metrics offer a template for evaluating collaborative feedback workflows. Accepted to IJCAI 2026, this work bridges [[human-in-the-loop-ai]] theory with practical writing tool design, advancing [[llm]]-based educational technology beyond static quality assessment toward dynamic interaction modeling.
 
 ## Connected Concepts
 
@@ -43811,7 +43388,7 @@ For [[writing-education]], this represents a paradigm shift. Traditional automat
 
 - [[cyberscholar-genai-writing-feedback]]
 - [[structured-llm-feedback-programming]]
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[humanlike-ai-collaborative-writing]]
 ## Citation
 
@@ -44186,7 +43763,7 @@ This **grounded approach** — embedding AI tutoring in an existing LMS rather t
 
 ## Connections to the Wiki
 
-The system's focus on deep vs. surface learning connects to [[metacognition]] research — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning]] but emphasizes **qualitative shifts** in understanding rather than quantitative difficulty adjustment. The Moodle deployment strategy echoes lessons from [[ai-peer-feedback-systems]] (AICoFe) about integrating AI tools into existing educational workflows.
+The system's focus on deep vs. surface learning connects to [[metacognition]] research — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning]] but emphasizes **qualitative shifts** in understanding rather than quantitative difficulty adjustment. The Moodle deployment strategy echoes lessons from [[becerra-aicofe-feedback-2026]] (AICoFe) about integrating AI tools into existing educational workflows.
 
 Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, this system shows how general LLMs can be **scaffolded into tutoring roles** within familiar platforms. The focus on deep understanding complements [[pedagogy-ai-mistakes]] work on using AI errors for higher-order thinking.
 
@@ -44208,7 +43785,7 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 ## Connected Articles
 
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[pedagogy-ai-mistakes]]
 ## Citation
@@ -44860,12 +44437,12 @@ This is a strong result for AI feedback systems:
 - [[self-regulated-learning]]
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
-- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
+- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 
 ## Citation
 
@@ -45603,7 +45180,7 @@ Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skil
 
 Traditional **Knowledge Tracing (KT)** methods:
 
-- **IRT-based** (Item Response Theory): [[knowledge-tracing-irt]] — interpretable difficulty parameters but limited sequential modeling.
+- **IRT-based** (Item Response Theory): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
 - **BKT** (Bayesian Knowledge Tracing): Explicit prerequisite structures; interpretable but rigid.
 - **DeepKT** (LSTM/Transformer): High predictive capacity but opaque.
 - **Neural-symbolic KT** bridges the gap: retains interpretability of symbolic approaches while leveraging neural networks' representational power.
@@ -45638,7 +45215,7 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[educational-measurement]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[ai-tutor-safety-harms]]
 - [[principled-ai-education]]
 - [[llm-student-modeling-memory]]
@@ -46063,7 +45640,7 @@ The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, 
 
 ## Connections to Wiki
 
-This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[educational-vlm-evaluation]] work on DrawEduMath by providing a text-based STEM reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] research and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
+This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[drawedumath-vlm-struggling-students-2026]] work on DrawEduMath by providing a text-based STEM reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] research and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
 
 The finding that LLMs lag behind top human students on these riddles reinforces [[stanford-evidence-base-ai-k12-2026]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
 
@@ -46087,7 +45664,7 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[teachbench-llm-teaching-evaluation]]
-- [[educational-vlm-evaluation]]
+- [[drawedumath-vlm-struggling-students-2026]]
 - [[civic-education-ai-lesson-plans]]
 - [[elbench-education-llm-benchmark-2026]]
 ## Citation
@@ -46562,7 +46139,7 @@ The study's focus was on student perceptions of AI feedback utility, so it did n
 
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
 - [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
@@ -48683,7 +48260,7 @@ PsyScore integrates [[assessment|diagnostic assessment]] with [[scaffolding|inst
 ## Connected Articles
 - [[icle-plus-plus-essay-scoring]] — iCLE++ essay scoring
 - [[choi-anchor-aes-prompting-2025]] — Anchor-based AES prompting
-- [[ai-peer-feedback-systems]] — AI peer feedback systems
+- [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 ## Citation
 Xia, W., Wu, J., Shi, H., Wang, X., & Zheng, C. (2026). [*PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*](https://arxiv.org/abs/2606.20287). arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.
@@ -49458,7 +49035,7 @@ The model addresses the gap between traditional static assessment models and the
 
 ## Connections to AIED
 
-This work directly extends [[knowledge-tracing-irt]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.
+This work directly extends [[huang-interpretable-knowledge-tracing-2026]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.
 
 The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as it extracts diagnostic signals from interaction data that go beyond traditional performance metrics. As a psychometric advance, it supports [[psychometrically-aware-ai]] design in which interaction traces are modeled as state-action trajectories rather than collapsed into single scores.
 
@@ -49475,7 +49052,7 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 - [[ai-ed-evaluation]]
 ## Connected Articles
 
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[llm-psychometric-calibration-cdp]]
 ## Citation
 
@@ -50355,7 +49932,7 @@ Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence in
 
 ## [REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading](https://edtechdev.github.io/aied/articles/rubric-aware-grading-rec-cbm/)
 
-**REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models** advances the [[automated-assessment|Automated Grading]] frontier by solving a fundamental trust problem: even accurate AI graders are unusable if educators cannot verify their reasoning. Standard [[llm]]-based graders operate as black boxes, while earlier Concept Bottleneck Models (CBMs) offer interpretability but fail at modeling rubric dimensions, ordinal score semantics, and noisy human annotations. REC-CBM introduces three innovations: (1) a rubric-aware concept encoder that learns concept-specific representations aligned with actual grading rubrics, (2) an ordinal pairwise calibration objective that preserves score ordering (e.g., 'poor' < 'fair' < 'good'), and (3) a latent error-correction module that denoises concept predictions while maintaining full interpretability. Experiments demonstrate consistent improvements in both grading accuracy and concept-level reasoning faithfulness over baselines. This work directly addresses [[assessment-validity]] concerns raised in [[genai-assessment-governance]] and complements [[automatic-short-answer-grading]] by adding the interpretability dimension. The rubric-aware design aligns with [[formative-assessment]] needs and [[scaffolding]] principles, and the error-correction approach resonates with work on [[ground-truth-reliability-aied]].
+**REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models** advances the [[automated-assessment|Automated Grading]] frontier by solving a fundamental trust problem: even accurate AI graders are unusable if educators cannot verify their reasoning. Standard [[llm]]-based graders operate as black boxes, while earlier Concept Bottleneck Models (CBMs) offer interpretability but fail at modeling rubric dimensions, ordinal score semantics, and noisy human annotations. REC-CBM introduces three innovations: (1) a rubric-aware concept encoder that learns concept-specific representations aligned with actual grading rubrics, (2) an ordinal pairwise calibration objective that preserves score ordering (e.g., 'poor' < 'fair' < 'good'), and (3) a latent error-correction module that denoises concept predictions while maintaining full interpretability. Experiments demonstrate consistent improvements in both grading accuracy and concept-level reasoning faithfulness over baselines. This work directly addresses [[assessment-validity]] concerns raised in [[genai-assessment-governance]] and complements [[cong-confidence-asag-2026]] by adding the interpretability dimension. The rubric-aware design aligns with [[formative-assessment]] needs and [[scaffolding]] principles, and the error-correction approach resonates with work on [[ground-truth-reliability-aied]].
 
 ## Connected Concepts
 
@@ -50370,7 +49947,7 @@ Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence in
 ## Connected Articles
 
 - [[genai-assessment-governance]]
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[ground-truth-reliability-aied]]
 ## Citation
 
@@ -50847,7 +50424,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]]
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[care-full-feedback-genai]]
 - [[learner-centered-feedback-ai]]
 - [[chatgpt-feedback-engagement-genai]]
@@ -51333,7 +50910,7 @@ This paper directly informs several threads in the wiki:
 - **[[prober-ai-inquiry-writing]]**: The inverted paradigm (AI asks questions, gates suggestions) offers an alternative to sequenced feedback that may avoid the resubmission trap
 - **[[self-regulated-learning]]**: Sequenced feedback was intended to promote autonomy and SRL, but the behavioral data shows it had the opposite effect — a cautionary tale for SRL-aligned AI design
 - **[[metacognition]]**: The engagement-learning disconnect exemplifies the metacognitive calibration problem — students felt they were learning more with sequenced feedback when they were actually learning less
-- **[[ai-peer-feedback-systems]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
+- **[[becerra-aicofe-feedback-2026]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
 - **[[pedagogy-ai-mistakes]]**: Hosseini's work on deliberately leveraging AI errors connects to the finding that easy, encouraging feedback may be less pedagogically effective than direct correction
 - **[[transfer-of-learning]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
 
@@ -51365,7 +50942,7 @@ This paper directly informs several threads in the wiki:
 
 - [[critical-thinking-genai-scaffolding]]
 - [[prober-ai-inquiry-writing]]
-- [[ai-peer-feedback-systems]]
+- [[becerra-aicofe-feedback-2026]]
 - [[pedagogy-ai-mistakes]]
 ## Citation
 
@@ -51641,7 +51218,7 @@ Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-as
 
 ## Key Findings
 
-The paper reveals that automated short answer scoring (ASAS) systems show significant **quality degradation in the mid-range** — exactly where teacher judgment is most needed. This connects directly to [[automatic-short-answer-grading]] research on confidence-aware LLM grading with epistemic uncertainty quantification. The finding that task-specific adaptation can mitigate this degradation provides a practical path forward.
+The paper reveals that automated short answer scoring (ASAS) systems show significant **quality degradation in the mid-range** — exactly where teacher judgment is most needed. This connects directly to [[cong-confidence-asag-2026]] research on confidence-aware LLM grading with epistemic uncertainty quantification. The finding that task-specific adaptation can mitigate this degradation provides a practical path forward.
 
 ## Significance for AIED
 
@@ -51652,7 +51229,7 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 ## Connections to Wiki
 
 - Extends [[automated-assessment|Automated Grading]] with quality-conditioned analysis
-- Complements [[automatic-short-answer-grading]] on confidence estimation
+- Complements [[cong-confidence-asag-2026]] on confidence estimation
 - Relevant to [[ground-truth-reliability-aied]] concerns about scoring validity
 - Connects to [[generate-then-validate-question-gen]] methodologies for AI assessment quality
 
@@ -51668,7 +51245,7 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[ai-feedback-quality]]
 ## Connected Articles
 
-- [[automatic-short-answer-grading]]
+- [[cong-confidence-asag-2026]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[sequenced-ai-feedback-learning]]
 - [[ground-truth-reliability-aied]]
@@ -52919,7 +52496,7 @@ Stamatoulis, C., Pyrovetsi, L., Mourikis, C., Ponnam, A., & Karayianni, I. (2026
 
 StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (BKT) that moves beyond traditional expectation-maximization (EM) point estimates to full Bayesian inference via Stan. The package supports **four estimation methods** (Hamiltonian Monte Carlo, variational inference, Pathfinder, and optimization), **three model variants** (standard, grouped, and hierarchical BKT), and provides posterior predictive inference with visualization utilities. Evaluated on the ASSISTments 2020 dataset, all methods achieve comparable predictive performance while trading off speed vs. posterior fidelity. A key demonstration shows how posterior inference enables **principled comparison of learning, forgetting, guessing, and slipping parameters** across experimental conditions in an educational intervention involving perceptual cue manipulations.
 
-For [[intelligent-tutoring]] systems, this represents a significant methodological advance. Traditional BKT implementations produce point estimates that obscure uncertainty and prevent reliable condition comparisons — critical for A/B testing adaptive interventions. The hierarchical modeling support is particularly valuable for [[adaptive-learning]] where student-level variation must be modeled. Compared to [[neural-symbolic-knowledge-tracing]] approaches, StanBKT preserves the interpretable hidden Markov structure of BKT while adding uncertainty quantification. For [[knowledge-tracing-irt]] comparisons, the Bayesian framework provides natural extensions unavailable in IRT. The work complements [[mbp-kt-meta-behavioral-knowledge-tracing]] by offering a complementary probabilistic modeling framework. As an [[open-source]] tool, StanBKT lowers the barrier for [[learning-analytics]] researchers to adopt Bayesian methods in educational data mining.
+For [[intelligent-tutoring]] systems, this represents a significant methodological advance. Traditional BKT implementations produce point estimates that obscure uncertainty and prevent reliable condition comparisons — critical for A/B testing adaptive interventions. The hierarchical modeling support is particularly valuable for [[adaptive-learning]] where student-level variation must be modeled. Compared to [[neural-symbolic-knowledge-tracing]] approaches, StanBKT preserves the interpretable hidden Markov structure of BKT while adding uncertainty quantification. For [[huang-interpretable-knowledge-tracing-2026]] comparisons, the Bayesian framework provides natural extensions unavailable in IRT. The work complements [[mbp-kt-meta-behavioral-knowledge-tracing]] by offering a complementary probabilistic modeling framework. As an [[open-source]] tool, StanBKT lowers the barrier for [[learning-analytics]] researchers to adopt Bayesian methods in educational data mining.
 
 ## Connected Concepts
 
@@ -52933,7 +52510,7 @@ For [[intelligent-tutoring]] systems, this represents a significant methodologic
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[mbp-kt-meta-behavioral-knowledge-tracing]]
 ## Citation
 
@@ -53411,7 +52988,7 @@ Assignment–user pairs are non-independent because students saw different hint 
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 - [[programming-its]]
 - [[llm-feedback-programming-classroom]]
 ## Citation
@@ -55912,7 +55489,7 @@ For researchers and practitioners, the work underscores the importance of modeli
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 - [[reliable-programming-kt]]
-- [[knowledge-tracing-irt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 
 ## Citation
 
@@ -56220,7 +55797,7 @@ THyMeN advances [[knowledge-tracing|knowledge tracing]] toward explainable and p
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Meta-Behavioral Knowledge Tracing
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[stanbkt-bayesian-knowledge-tracing]] — Standardized Bayesian Knowledge Tracing
-- [[knowledge-tracing-irt]] — Knowledge Tracing and IRT
+- [[huang-interpretable-knowledge-tracing-2026]] — Knowledge Tracing and IRT
 
 ## Citation
 
@@ -58896,7 +58473,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 |---|---|---|
 | ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠teaching quality) | — |
-| NLP advances for dialogue | [[knowledge-tracing-irt]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
+| NLP advances for dialogue | [[huang-interpretable-knowledge-tracing-2026]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
 | [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[ai-tutor-safety-harms]] (emotional risks, parasocial dependency) |
 | Multi-agent architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[collaborative-ai-tutoring|ProPACT]] (effective but requires eye-tracking hardware) |
 
@@ -59164,7 +58741,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

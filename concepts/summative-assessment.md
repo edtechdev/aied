@@ -14,7 +14,7 @@ Summative assessment serves a fundamentally different function from formative as
 
 The wiki's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
 
-- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[automatic-short-answer-grading|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
+- **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
 - **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes.
 - **AI-generated exams.** [[assessing-quality-ai-generated-exams-field-2025|A large-scale field study]] and [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment research]] examine whether AI can *generate* high-quality exams and assessment tasks — an emerging summative-design use of AI.
 
@@ -65,7 +65,7 @@ The wiki's assessment literature consistently emphasizes that [[assessment]] is 
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
 - [[llm-automated-assessment-student-self-explanations]] — LLMs for automated assessment of student self-explanations
-- [[automatic-short-answer-grading]] — Automatic short-answer grading
+- [[cong-confidence-asag-2026]] — Automatic short-answer grading
 - [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
 - [[socratic-tests-conversational-assessment]] — Socratic tests: dynamic, conversational, multimodal assessment
 - [[code-review-genai-cs1]] — Code review interviews in CS1

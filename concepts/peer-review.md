@@ -15,7 +15,7 @@ Peer review is valued because it gives students an authentic audience, develops 
 
 - **Peer + AI feedback (PAIRR):** [[pairr-ai-peer-review-2025|The PAIRR model]] combines peer review with AI review in a human-centered process, finding students value the similarity of the two (as reassurance) and their complementarity (AI's broad, rubric-driven feedback vs. peers' specific, contextual feedback), while critically assessing AI outputs builds [[ai-literacy]] and writerly agency.
 
-- **AI peer feedback systems:** [[ai-peer-feedback-systems|AI peer feedback research]] examines how AI tools support or mediate peer-feedback workflows, and how their design affects the quality of feedback students give and receive.
+- **AI peer feedback systems:** [[becerra-aicofe-feedback-2026|AI peer feedback research]] examines how AI tools support or mediate peer-feedback workflows, and how their design affects the quality of feedback students give and receive.
 
 - **Authentic assessment and collaboration:** Peer review features in [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]] and [[collaborative-learning|collaborative learning]] contexts, where it supports [[self-regulated-learning]] and the metacognitive development of students' evaluative judgments.
 
@@ -46,7 +46,7 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 ## Connected Articles
 
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment
 - [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
 - [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback With AI

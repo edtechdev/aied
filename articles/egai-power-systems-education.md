@@ -33,7 +33,7 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 - [[professional-training]]
 ## Connected Articles
 
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[drawedumath-vlm-struggling-students-2026]] — Educational VLM Evaluation
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
 - [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education

@@ -44,7 +44,7 @@ The study's focus was on student perceptions of AI feedback utility, so it did n
 
 ## Connected Articles
 
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
 - [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
