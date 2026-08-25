@@ -70,7 +70,7 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[academiclaw-student-agent-benchmark]]
 - [[ai-pedagogical-accompaniment-amico]]

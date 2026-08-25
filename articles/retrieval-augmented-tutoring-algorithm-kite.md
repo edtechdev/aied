@@ -12,7 +12,7 @@ confidence: high
 
 KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a multimodal [[scaffolding|RAG pipeline]]. Unlike generic LLM tutors that may drift from curriculum content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
 
-The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[ai-tutor-effectiveness-review]] — that pedagogical quality alone is insufficient without content fidelity.
+The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[zerkouk-comprehensive-review-its-2025]] — that pedagogical quality alone is insufficient without content fidelity.
 
 KITE was evaluated through three complementary lenses. RAGAs-based metrics confirmed response grounding and quality. Expert pedagogical review assessed the educational appropriateness of its Socratic scaffolding. Most innovatively, a simulated student pipeline — where a weaker LLM acts as a student across two-turn dialogues — measured whether KITE's [[formative-assessment|feedback]] actually improved follow-up accuracy on procedural and algorithm tracing questions. Results were positive: simulated students produced more accurate responses after receiving KITE feedback, particularly on tracing tasks where step-by-step reasoning is critical.
 
@@ -31,7 +31,7 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[llm]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[llm-student-modeling-memory]]
 - [[programming-its]]
 - [[eduagentbench-agent-teaching-benchmark]]

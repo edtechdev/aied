@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 166 concepts, 878 articles, and 4 FAQs.
+> Complete text of 166 concepts, 877 articles, and 4 FAQs.
 
 # Concepts
 
@@ -566,14 +566,13 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 - [[socratic-method]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[empathy-coaching-chatbot]]
 - [[engagement-assessment-video]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
 
 ---
 
@@ -6020,7 +6019,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-changing-teaching-workflows]]
 - [[ai-literacy-legal-translation-2026]]
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[aicode-collaborative-feedback-system]]
 - [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
@@ -8612,7 +8611,7 @@ Because tutoring requires corrective friction — challenging a student's incorr
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[civic-education-ai-lesson-plans]]
 - [[cognitive-agent-compilation]]
 - [[contextual-sycophancy-ai-literacy]]
@@ -10198,7 +10197,7 @@ Reviews synthesize the evidence base rather than running a new experiment. Syste
 
 - **Strengths:** efficient synthesis of a large, fragmented literature; meta-analysis yields pooled effect estimates and detects moderators; essential for evidence-based practice and identifying gaps.
 - **Limitations:** depend on the quality of included studies (garbage-in/garbage-out); publication bias; heterogeneous methods and outcome measures make synthesis hard; rapidly aging given the speed of AI change.
-- **Exemplars:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[ai-tutor-effectiveness-review]], [[agentic-ai-education-scoping-review]].
+- **Exemplars:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[zerkouk-comprehensive-review-its-2025]], [[agentic-ai-education-scoping-review]].
 
 See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller treatment of systematic review and meta-analysis in AI in education — including their relationship to primary designs, PRISMA reporting, and their strengths and limitations.
 
@@ -14202,7 +14201,7 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scie...
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
@@ -19099,7 +19098,7 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[academiclaw-student-agent-benchmark]]
 - [[ai-pedagogical-accompaniment-amico]]
@@ -19112,100 +19111,6 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 ## Citation
 
 Niousha, R., Smith, S.B., Akram, B., Brusilovsky, P., Hellas, A., Leinonen, J., DeNero, J., & Norouzi, N. (2026). [*The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness*](https://arxiv.org/abs/2605.05648)
-
----
-
-## [AI Tutor Effectiveness Review](https://edtechdev.github.io/aied/articles/ai-tutor-effectiveness-review/)
-
-> **Synthesis.** A comprehensive [[meta-analysis-systematic-review|systematic review]] of AI-based [[intelligent-tutoring|Intelligent Tutoring Systems]] (ITS) covering 2010–2025 reveals a field with transformative potential but mixed real-world effectiveness, persistent implementation challenges, and a critical need for stronger experimental rigor. The review (Zerkouk, Mihoubi & Chikhaoui, 2025) analyzes qualified studies across [[pedagogy|pedagogical]] strategies, natural-language processing, [[adaptive-learning|adaptive learning]], student modeling, and [[discipline-specific-aied|domain-specific]] applications, finding that ITS can improve student performance by roughly **20%** — yet individual human tutoring still demonstrates up to **98%** improvement, and ITS effectiveness varies dramatically by domain, context, and [[research-methods-aied|study design]].^[[zerkouk-comprehensive-review-its-2025]]
-
-## Review Scope
-
-Zerkouk, Mihoubi & Chikhaoui (2025) systematically analyzed qualified studies from 2010–2025 across:
-
-- **Pedagogical strategies** in ITS design ([[socratic-method]], [[scaffolding]], adaptive pathways)
-- **Natural Language Processing** for tutoring dialogue ([[educational-nlp]])
-- **Adaptive learning** algorithms and architectures
-- **Student modeling** approaches (knowledge, affect, behavior) — the field's foundation and bottleneck
-- **Domain-specific applications** (math, language, science, programming)
-
-## Key Findings
-
-### 1. Mixed Effectiveness
-Despite decades of progress, ITS have produced **mixed results** in real-world educational contexts. The review notes ITS can improve student performance by about **20%** on average, but effectiveness varies dramatically by:
-- **Domain** (math and programming often show stronger gains than open-ended writing)
-- **Implementation fidelity** (lab studies outperform classroom deployments)
-- **Student population** (low-[[prior-knowledge]] students often show larger relative gains)
-- **Duration** (short-term studies overstate gains vs. sustained use)
-
-Notably, individual human tutoring demonstrates up to **98%** improvement in student performance — but its large-scale application is limited by high costs and scalability, which is precisely the gap ITS aim to fill.
-
-### 2. Complex Advancement Landscape
-The field shows both notable advancements and persistent challenges:
-- **Advancements:** Deep learning for [[student-modeling]], NLP for natural dialogue, multi-agent architectures, [[affective-tutoring|affective computing]]
-- **Persistent challenges:** Scalability of expert content authoring, maintenance of knowledge bases, integration with existing curricula, teacher adoption barriers, student [[privacy|data privacy]], algorithmic bias, and academic-integrity concerns
-
-### 3. Scientific Rigor Gap
-The review identifies a **critical need for stronger experimental design and data analysis**:
-- Many studies lack control groups or proper randomization
-- Reporting standards for ITS interventions are inconsistent
-- Long-term follow-up is rare
-- Real-world classroom studies are underrepresented relative to lab studies
-
-### 4. Future Research Agenda
-The review calls for:
-- **Standardized evaluation methods** for ITS effectiveness
-- **Comparative and longitudinal studies** that disentangle effects from novelty, instructor quality, and self-selection
-- **Exploration of [[ethics|ethical]] implications** (data privacy, [[bias-mitigation|algorithmic fairness]]) of [[ai-education|AI in education]]
-
-## Synthesis with Current Wiki Evidence
-
-| Claim in review | Supporting evidence in wiki | Contradictory evidence |
-|---|---|---|
-| ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
-| Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠teaching quality) | — |
-| NLP advances for dialogue | [[knowledge-tracing-irt]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
-| [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[ai-tutor-safety-harms]] (emotional risks, parasocial dependency) |
-| Multi-agent architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[collaborative-ai-tutoring|ProPACT]] (effective but requires eye-tracking hardware) |
-
-## Implications for the Field
-
-1. **[[benchmark|Benchmarks]] are not enough.** High benchmark scores (CDPK, DeepTutor) must be complemented by classroom [[rct|RCTs]] measuring actual [[learning-gains|learning gains]].
-2. **Teacher integration is a bottleneck.** Technical sophistication matters less than [[curriculum-design|curriculum]] fit and teacher control — see [[human-in-the-loop-ai]].
-3. **Long-term studies are essential.** Most ITS research measures immediate outcomes; SRL, [[metacognition]], and transfer require longitudinal designs.
-4. **Domain-specificity is real.** A system effective in math may fail in writing; claiming "general tutoring" without domain evidence is overstated.
-5. **Ethical and [[equity-in-ai-education|equity]] dimensions matter.** Data privacy, algorithmic bias, and [[academic-integrity|academic integrity]] are not afterthoughts but core determinants of whether ITS gains are sustainable and fair.
-
-## Connected Concepts
-
-- [[intelligent-tutoring]] — the ITS systems under review
-- [[student-modeling]] — the foundation and bottleneck of ITS
-- [[adaptive-learning]] — the personalization mechanism
-- [[educational-nlp]] — the dialogue/processing layer
-- [[knowledge-tracing]] — the learner-modeling technique
-- [[affective-tutoring]] — the affective-computing advancement
-- [[pedagogical-llm-training]] — the pedagogical-intentionality gap
-- [[human-in-the-loop-ai]] — the teacher-integration requirement
-- [[rct]] — the rigorous design the field needs
-- [[meta-analysis-systematic-review]] — the review methodology
-- [[learning-gains]] — the outcome being measured
-- [[benchmark]] — the insufficient proxy for classroom efficacy
-- [[limitations-in-aied-research]] — the rigor gap
-- [[ai-ed-evaluation]] — evaluation frameworks for ITS
-
-## Connected Articles
-
-- [[zerkouk-comprehensive-review-its-2025]] — the source systematic review
-- [[stanford-evidence-base-ai-k12-2026]] — the K-12 causal-evidence gap
-- [[educational-llm-alignment]] — benchmarks vs teaching quality
-- [[knowledge-tracing-irt]] — interpretable dialogue modeling
-- [[ai-tutor-safety-harms]] — the harms/degradation counter-evidence
-- [[agentic-workflows-education]] — multi-agent paradigms
-- [[collaborative-ai-tutoring]] — a tutoring-design case
-
-## Citation
-
-Zerkouk, M., Mihoubi, M., & Chikhaoui, B. (2025). [*A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges*](https://arxiv.org/abs/2507.18882v1). *Journal of Computers in Education*. arXiv:2507.18882.
 
 ---
 
@@ -23443,7 +23348,7 @@ The findings suggest that **[[llm]]-generated worked solutions can be as effecti
 ## Connected Articles
 
 - [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: Open-Source Adaptive Tutoring System
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
 - [[ai-generated-feedback-higher-ed]] — AI Feedback in University Education
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
@@ -28519,7 +28424,7 @@ Choice of LLM and prompting strategy accounts for only ~15% of misalignment. The
 3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment (RLHF, prompting) misses that shared pretraining corpora embed the core misalignment. See [[pedagogical-llm-training]] for training approaches.
 4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[stanford-evidence-base-ai-k12-2026]] demands for causal evidence.
 
-This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[stanford-evidence-base-ai-k12-2026]] finding that general-purpose AI underperforms pedagogically-designed systems.
+This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[stanford-evidence-base-ai-k12-2026]] finding that general-purpose AI underperforms pedagogically-designed systems.
 
 ## Open Questions
 
@@ -28543,7 +28448,7 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 
 - [[teachbench-llm-teaching-evaluation]]
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[llm-fallacy-misattribution]]
 ## Citation
 
@@ -29688,7 +29593,7 @@ The finding that effort and progress have distinct predictive signatures is prac
 
 ## Connections to the ITS Research Landscape
 
-This paper extends the [[ai-tutor-effectiveness-review]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[collaborative-ai-tutoring]].
+This paper extends the [[zerkouk-comprehensive-review-its-2025]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[collaborative-ai-tutoring]].
 
 The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous K-12 efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
 
@@ -29710,7 +29615,7 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[collaborative-ai-tutoring]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[genai-tutor-engagement-patterns]]
@@ -33130,7 +33035,7 @@ This *Nature Reviews Psychology* piece draws a critical distinction that has bee
 - **Performance gains** — immediate improvements in task completion, efficiency, or output quality when using AI tools.
 - **Learning** — durable understanding that requires deep cognitive processing (elaboration, [[critical-thinking|critical analysis]]) and [[metacognition|metacognitive]] processing (planning, monitoring, reflection).
 
-The authors argue that [[generative-ai|generative AI]] easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[ai-tutor-effectiveness-review]] research that improved task performance equals improved learning.
+The authors argue that [[generative-ai|generative AI]] easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[zerkouk-comprehensive-review-its-2025]] research that improved task performance equals improved learning.
 
 ## Implications for AIED Design
 
@@ -33169,7 +33074,7 @@ To move beyond the performance/learning conflation, the authors propose a cognit
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[pedagogy-ai-mistakes]]
 - [[generative-ai-guardrails-harm-learning]]
 
@@ -36015,7 +35920,7 @@ The study's core innovation was a **differentiated tutoring policy**: students b
 
 ## Design Implications
 
-This work provides evidence that differentiated human-AI instruction is a practical, cost-effective strategy for scaling hybrid tutoring. Rather than providing equal human support to all students, systems should allocate human tutor attention where it yields the greatest marginal benefit — to struggling learners. The findings align with prior work on [[ai-tutor-effectiveness-review]] showing that human-AI combinations outperform AI-only approaches.
+This work provides evidence that differentiated human-AI instruction is a practical, cost-effective strategy for scaling hybrid tutoring. Rather than providing equal human support to all students, systems should allocate human tutor attention where it yields the greatest marginal benefit — to struggling learners. The findings align with prior work on [[zerkouk-comprehensive-review-its-2025]] showing that human-AI combinations outperform AI-only approaches.
 
 ## Connection to Broader AIED Research
 
@@ -36033,7 +35938,7 @@ This study extends the taxonomy in [[stanford-evidence-base-ai-k12-2026]] by sho
 - [[help-seeking]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[tutoring-effectiveness-index]]
 ## Citation
@@ -37981,7 +37886,7 @@ Vonschallen, S., Oberle, D., Schmiedel, T., & Eyssel, F. (2026). [*Knowledge-bas
 
 Addresses the lag between LLM integration into K-12/higher education and reliable methods for evaluating pedagogical quality. The authors introduce a knowledge-distillation approach to automate AI-tutor evaluation, distilling expert judgments of pedagogical quality into a scalable evaluator.
 
-Directly advances [[intelligent-tutoring]] evaluation and [[automated-assessment|Automated Grading]] of tutor behavior across [[k-12]] and [[higher-ed]], building on [[llm]]-based assessment. It complements [[ai-tutor-behavioral-evaluation]] and the [[ai-tutor-effectiveness-review]], offering a practical route to scalable, expert-aligned tutor quality measurement.
+Directly advances [[intelligent-tutoring]] evaluation and [[automated-assessment|Automated Grading]] of tutor behavior across [[k-12]] and [[higher-ed]], building on [[llm]]-based assessment. It complements [[ai-tutor-behavioral-evaluation]] and the [[zerkouk-comprehensive-review-its-2025]], offering a practical route to scalable, expert-aligned tutor quality measurement.
 
 ## Key Findings
 
@@ -38010,7 +37915,7 @@ Automated tutor evaluation of this kind is a prerequisite for accountability in 
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
 Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini (2026). [Knowledge Distillation for Automated AI Tutor Evaluation](https://arxiv.org/abs/2607.10647). arXiv:2607.10647. arXiv preprint.
@@ -43544,7 +43449,7 @@ The system operates within Moodle's existing infrastructure, using LLM-based tut
 - Adaptively scaffold toward deeper comprehension via [[scaffolding]] techniques
 - Move students through [[formative-assessment]] cycles that promote conceptual mastery
 
-This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[ai-tutor-effectiveness-review]]. Many intelligent tutoring systems fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
+This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025]]. Many intelligent tutoring systems fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
 
 ## Connections to the Wiki
 
@@ -43569,7 +43474,7 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 - [[higher-ed]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[ai-peer-feedback-systems]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[pedagogy-ai-mistakes]]
@@ -43910,7 +43815,7 @@ The findings suggest that one-on-one AI tutoring is not the only effective parad
 
 - [[collaborative-ai-tutoring]]
 - [[self-efficacy-tutoring-learning]]
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[humanlike-ai-collaborative-writing]]
 
 ## Citation
@@ -45243,7 +45148,7 @@ Nicola-Richmond, K., Dawson, P., Partridge, H., & Macfarlane, S. (2025). [*It ta
 
 ## Implications for AI in Education
 
-PersonaVLM matters for AIEd because it tackles the problem that makes most [[ai-tutor-effectiveness-review]] findings equivocal: personalization that doesn't persist across sessions cannot build the relationship that drives [[learning-gains|learning gains]]. A tutor that forgets a student's misconceptions between Monday and Wednesday is barely better than a static problem bank. The PEM mechanism, in particular, offers a path toward [[affective-tutoring]] — systems that adapt not just to what a student knows but to who they are becoming as a learner.
+PersonaVLM matters for AIEd because it tackles the problem that makes most [[zerkouk-comprehensive-review-its-2025]] findings equivocal: personalization that doesn't persist across sessions cannot build the relationship that drives [[learning-gains|learning gains]]. A tutor that forgets a student's misconceptions between Monday and Wednesday is barely better than a static problem bank. The PEM mechanism, in particular, offers a path toward [[affective-tutoring]] — systems that adapt not just to what a student knows but to who they are becoming as a learner.
 
 The privacy-preserving design is also significant. Schools and districts operating under FERPA, GDPR, or local data protection regimes have been rightly cautious about sending student interaction data to commercial API endpoints. PersonaVLM's fully local inference pipeline — training data synthesized, model run locally — removes that barrier without sacrificing the performance gains that come from long-horizon personalization. This aligns with the growing interest in [[ecnuclaw-k12-personalized-companion]] approaches that prioritize data sovereignty.
 
@@ -45263,7 +45168,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 - [[rag]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
 - [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
@@ -45503,7 +45408,7 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 ## Connected Articles
 
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Generated Help vs. Human Tutor Help
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
 - [[adaptive-pretesting-retention]] — Adaptive Pretesting and Retention
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators
@@ -49092,7 +48997,7 @@ Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. John
 
 KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a multimodal [[scaffolding|RAG pipeline]]. Unlike generic LLM tutors that may drift from curriculum content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
 
-The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[ai-tutor-effectiveness-review]] — that pedagogical quality alone is insufficient without content fidelity.
+The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[zerkouk-comprehensive-review-its-2025]] — that pedagogical quality alone is insufficient without content fidelity.
 
 KITE was evaluated through three complementary lenses. RAGAs-based metrics confirmed response grounding and quality. Expert pedagogical review assessed the educational appropriateness of its Socratic scaffolding. Most innovatively, a simulated student pipeline — where a weaker LLM acts as a student across two-turn dialogues — measured whether KITE's [[formative-assessment|feedback]] actually improved follow-up accuracy on procedural and algorithm tracing questions. Results were positive: simulated students produced more accurate responses after receiving KITE feedback, particularly on tracing tasks where step-by-step reasoning is critical.
 
@@ -49111,7 +49016,7 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[llm]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[llm-student-modeling-memory]]
 - [[programming-its]]
 - [[eduagentbench-agent-teaching-benchmark]]
@@ -52036,7 +51941,7 @@ The single most consistent finding across the review is that **pedagogically des
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -53967,7 +53872,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[educational-llm-alignment]]
 - [[agentic-workflows-education]]
 - [[quantum-education-its]]
@@ -55029,7 +54934,7 @@ MuTSE's local JSON persistence does not scale to concurrent multi-user deploymen
 - [[llm]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
 Roscan, R.-A., Petre, G., Dumitran, A.-M., & Dumitran, A.-L. (2026). [*MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator*](https://arxiv.org/abs/2604.08947). arXiv:2604.08947.
@@ -57316,7 +57221,7 @@ Yasir et al. (2026) benchmark seven [[llm|LLM]] [[feedback]] agents as step-leve
 
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From answer generators to reasoning facilitators
 - [[llm-tutoring-feedback-diagnosis-gap]] — LLM tutoring feedback diagnosis gap
-- [[ai-tutor-effectiveness-review]] — AI tutor effectiveness review
+- [[zerkouk-comprehensive-review-its-2025]] — AI tutor effectiveness review
 - [[deeptutor]] — DeepTutor: agentic personalized tutoring
 
 ## Citation
@@ -57654,21 +57559,39 @@ L. Xiao, G. Chen, Y. Zhang et al. (2026). [How YouTube Frames ChatGPT Use in Edu
 
 ## [Comprehensive Review of Intelligent Tutoring Systems](https://edtechdev.github.io/aied/articles/zerkouk-comprehensive-review-its-2025/)
 
-> **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
+> **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — [[pedagogy|pedagogical]] strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and [[discipline-specific-aied|domain-specific]] applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
 
 ## Key Findings
 
-This review provides the most comprehensive mapping of the [[intelligent-tutoring]] field since the emergence of LLM-based tutoring approaches transformed the landscape. Spanning a 15-year window (2010–2025), it captures both the pre-LLM era of traditional ITS and the post-LLM era that has fundamentally reshaped what is technically possible.
+This review provides the most comprehensive mapping of the [[intelligent-tutoring]] field since the emergence of [[llm]]-based tutoring approaches transformed the landscape. Spanning a 15-year window (2010–2025), it captures both the pre-LLM era of traditional ITS and the post-LLM era that has fundamentally reshaped what is technically possible.
 
-**Mixed effectiveness evidence.** The review's central finding is that ITS effectiveness is neither uniformly positive nor categorically negative. Some systems demonstrate substantial learning-gains, particularly in well-structured domains like mathematics and programming where [[student-modeling]] and [[knowledge-tracing]] techniques are most mature. Other deployments show negligible or context-dependent effects. This mixed picture challenges both the optimistic narrative that AI tutoring is a proven solution and the pessimistic narrative that it is ineffective. Instead, it calls for more nuanced questions: *which* systems, for *which* learners, in *which* contexts, produce *which* outcomes? This aligns with the [[ai-tutor-effectiveness-review]] literature's emphasis on contextual factors.
+**Mixed effectiveness evidence.** The review's central finding is that ITS effectiveness is neither uniformly positive nor categorically negative. ITS can improve student performance by roughly **20%** on average, yet individual human tutoring still demonstrates up to **98%** improvement — the cost/scalability gap ITS aim to fill. Some systems demonstrate substantial learning-gains, particularly in well-structured domains like [[math-education|mathematics]] and programming where [[student-modeling]] and [[knowledge-tracing]] techniques are most mature. Other deployments show negligible or context-dependent effects. This mixed picture challenges both the optimistic narrative that AI tutoring is a proven solution and the pessimistic narrative that it is ineffective. Instead, it calls for more nuanced questions: *which* systems, for *which* learners, in *which* contexts, produce *which* outcomes? This aligns with the [[meta-analysis-systematic-review|systematic-review literature]]'s emphasis on contextual factors.
 
 **Pedagogical strategies.** The review catalogs the range of pedagogical approaches embedded in ITS, from [[socratic-method]] and [[scaffolding]] to [[adaptive-learning]] and [[adaptive-learning]] pathways. A key finding is that many ITS implementations lack explicit pedagogical grounding — the tutoring behavior is often driven by technical capabilities (what the system can do) rather than pedagogical principles (what the system should do). This echoes concerns in the [[pedagogical-llm-training]] literature about the gap between technical sophistication and pedagogical intentionality.
 
 **NLP and adaptive mechanisms.** The integration of [[educational-nlp]] techniques — including [[automated-question-generation]], short-answer assessment, and dialogue management — has advanced substantially over the review period. However, the review notes that many NLP components are evaluated in isolation rather than as integrated parts of tutoring systems that actually interact with learners. Similarly, [[adaptive-learning]] show promise but often rely on narrow student models that fail to capture the full complexity of learner cognition and affect — a gap that the [[affective-tutoring]] and [[multimodal-ai-tutoring]] communities are beginning to address.
 
-**Student modeling challenges.** [[student-modeling]] remains both the foundation and the bottleneck for ITS. While [[knowledge-tracing]] techniques (including Bayesian approaches like [[stanbkt-bayesian-knowledge-tracing]] and deep learning variants) have improved, the review identifies persistent gaps in modeling higher-order cognitive processes, metacognition, and motivational states. This connects to the [[engagement-intensity-learner-modeling]] and [[metacognition]] literatures.
+**Student modeling challenges.** [[student-modeling]] remains both the foundation and the bottleneck for ITS. While [[knowledge-tracing]] techniques (including Bayesian approaches like [[stanbkt-bayesian-knowledge-tracing]] and deep learning variants) have improved, the review identifies persistent gaps in modeling higher-order cognitive processes, metacognition, and [[motivation|motivational]] states. This connects to the [[engagement-intensity-learner-modeling]] and [[metacognition]] literatures.
 
-**Scientific rigor deficit.** One of the review's most important contributions is its methodological critique. Many ITS studies suffer from weak experimental designs — small sample sizes, absence of control groups, short intervention durations, and inadequate statistical analyses. The authors call for greater scientific rigor, including [[rct]] where feasible, pre-registration of study designs, and transparent reporting aligned with educational research standards. This methodological critique connects to broader concerns in [[ai-ed-evaluation]] about the quality of evidence in AI education research.
+**Scientific rigor deficit.** One of the review's most important contributions is its [[research-methods-aied|methodological]] critique. Many ITS studies suffer from weak experimental designs — small sample sizes, absence of control groups, short intervention durations, and inadequate statistical analyses. The authors call for greater scientific rigor, including [[rct]] where feasible, pre-registration of study designs, and transparent reporting aligned with educational research standards. This methodological critique connects to broader concerns in [[ai-ed-evaluation]] about the quality of evidence in AI education research.
+
+## Synthesis with Current Wiki Evidence
+
+| Claim in review | Supporting evidence in wiki | Contradictory evidence |
+|---|---|---|
+| ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
+| Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠teaching quality) | — |
+| NLP advances for dialogue | [[knowledge-tracing-irt]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
+| [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[ai-tutor-safety-harms]] (emotional risks, parasocial dependency) |
+| Multi-agent architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[collaborative-ai-tutoring|ProPACT]] (effective but requires eye-tracking hardware) |
+
+## Key Implications for the Field
+
+1. **[[benchmark|Benchmarks]] are not enough.** High benchmark scores (CDPK, DeepTutor) must be complemented by classroom RCTs measuring actual [[learning-gains|learning gains]].
+2. **Teacher integration is a bottleneck.** Technical sophistication matters less than [[curriculum-design|curriculum]] fit and teacher control — see [[human-in-the-loop-ai]].
+3. **Long-term studies are essential.** Most ITS research measures immediate outcomes; SRL, metacognition, and transfer require longitudinal designs.
+4. **Domain-specificity is real.** A system effective in math may fail in writing; claiming "general tutoring" without domain evidence is overstated.
+5. **[[ethics|Ethical]] and [[equity-in-ai-education|equity]] dimensions matter.** [[privacy|Data privacy]], [[bias-mitigation|algorithmic bias]], and [[academic-integrity|academic integrity]] are core determinants of whether ITS gains are sustainable and fair.
 
 ## Implications
 
@@ -57682,26 +57605,25 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[automated-question-generation]]
-- [[educational-nlp]]
-- [[educational-policy-ai]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[learning-analytics]]
-- [[metacognition]]
-- [[pedagogical-llm-training]]
-- [[rct]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[student-modeling]]
+- [[adaptive-learning]] — the personalization mechanism ITS employ
+- [[affective-tutoring]] — the affective-computing advancement
+- [[ai-ed-evaluation]] — the evaluation frameworks the field needs
+- [[ai-education]] — the application context
+- [[automated-question-generation]] — an NLP capability
+- [[educational-nlp]] — the dialogue/processing layer
+- [[educational-policy-ai]] — the policy context for adoption
+- [[intelligent-tutoring]] — the systems under review
+- [[knowledge-tracing]] — a core student-modeling technique
+- [[learning-analytics]] — the data layer for continuous improvement
+- [[metacognition]] — a higher-order process modeling often misses
+- [[pedagogical-llm-training]] — the pedagogical-intentionality gap
+- [[rct]] — the rigorous design the field needs
+- [[scaffolding]] — a pedagogical approach embedded in ITS
+- [[socratic-method]] — a pedagogical approach embedded in ITS
+- [[student-modeling]] — the foundation and bottleneck
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 - [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning

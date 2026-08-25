@@ -16,7 +16,7 @@ The study's core innovation was a **differentiated tutoring policy**: students b
 
 ## Design Implications
 
-This work provides evidence that differentiated human-AI instruction is a practical, cost-effective strategy for scaling hybrid tutoring. Rather than providing equal human support to all students, systems should allocate human tutor attention where it yields the greatest marginal benefit — to struggling learners. The findings align with prior work on [[ai-tutor-effectiveness-review]] showing that human-AI combinations outperform AI-only approaches.
+This work provides evidence that differentiated human-AI instruction is a practical, cost-effective strategy for scaling hybrid tutoring. Rather than providing equal human support to all students, systems should allocate human tutor attention where it yields the greatest marginal benefit — to struggling learners. The findings align with prior work on [[zerkouk-comprehensive-review-its-2025]] showing that human-AI combinations outperform AI-only approaches.
 
 ## Connection to Broader AIED Research
 
@@ -34,7 +34,7 @@ This study extends the taxonomy in [[stanford-evidence-base-ai-k12-2026]] by sho
 - [[help-seeking]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[tutoring-effectiveness-index]]
 ## Citation

@@ -95,7 +95,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[educational-llm-alignment]]
 - [[agentic-workflows-education]]
 - [[quantum-education-its]]

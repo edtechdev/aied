@@ -59,7 +59,7 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scie...
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
