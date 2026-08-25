@@ -1,8 +1,11 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1070
+**Last updated:** 2026-08-24 | **Total entries:** 1071
 
 ## 2026-08-25
+
+- ◐ [[wang-goal-setting-ai-engagement-2026]] — 'raw/papers/wang-goal-setting-ai-engagement-2026.md'
+  Explaining learning engagement in AI-assisted learning through teacher support and achievement goals
 
 - ◐ [[liang-ai-learning-motivation-sdt-2026]] — 'raw/papers/liang-ai-learning-motivation-sdt-2026.md'
   From disengaged to self-determined: a latent transition analysis of students' AI learning motivation

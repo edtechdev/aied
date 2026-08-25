@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 169 concepts, 894 articles, and 14 FAQs.
+> Complete text of 169 concepts, 895 articles, and 14 FAQs.
 
 # Concepts
 
@@ -4679,6 +4679,8 @@ AI's English dominance is a defining feature of this strand. Because models are 
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence: Underrepresented Languages in AI Infrastructure
 - [[liu-emerging-tech-tefl-review-2026]] — Emerging technologies for TEFL
 
+- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
+
 ---
 
 ## [E-Portfolio](https://edtechdev.github.io/aied/concepts/eportfolio/)
@@ -7167,6 +7169,8 @@ Language learning has emerged as a significant AI in education domain because la
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
 
+- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
+
 ---
 
 ## [Learning Analytics](https://edtechdev.github.io/aied/concepts/learning-analytics/)
@@ -8245,6 +8249,8 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
+
+- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 
 ---
 
@@ -11724,6 +11730,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+
+- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 
 ---
 
@@ -57656,6 +57664,53 @@ Wang (2026) connects the wiki's [[ai-anxiety-and-stress]] and career-readiness t
 ## Citation
 
 Wang, X. (2026). [*The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered*](https://doi.org/10.3389/fpsyg.2026.1767791). *Frontiers in Psychology*, 17, 1767791.
+
+---
+
+## [Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory](https://edtechdev.github.io/aied/articles/wang-goal-setting-ai-engagement-2026/)
+
+> **Explaining learning engagement in AI-assisted learning** — a structural equation modeling study of **758 Chinese university students** in AI-assisted English learning. Guided by **goal-setting theory**, Wang & Wang (2026) show how **teacher support** drives [[student-engagement|learning engagement]] through four achievement goal orientations, extending goal-setting theory to AI contexts.
+
+Wang & Wang (2026) address an under-explored question: not just *whether* AI helps language learning, but the **psychological mechanisms** that drive students' engagement in AI-assisted environments. The study integrates teacher support, achievement goals, and engagement into one framework, and tests which goal orientations mediate the teacher-support → engagement link.
+
+## Method
+
+- **Design:** Structural equation modeling of survey data.
+- **Sample:** 758 Chinese university students in AI-assisted English learning.
+- **Framework:** Goal-setting theory, with four achievement goal orientations (mastery-approach, performance-approach, mastery-avoidance, performance-avoidance).
+
+## Key Findings
+
+- **Teacher support predicted** the *approach* goals (mastery-approach and performance-approach) but **not** the *avoidance* goals (mastery-avoidance, performance-avoidance), and **directly enhanced** engagement.
+- **Engagement predictors:** mastery-approach, performance-approach, and performance-avoidance goals all positively predicted engagement.
+- **Mediation:** only mastery-approach and performance-approach goals served as significant mediators between teacher support and engagement.
+
+## Implications
+
+- **For [[higher-ed|higher education]] and [[language-learning|language educators]]:** teacher support is a lever for engagement in AI-assisted learning, working through students' mastery- and performance-approach goals — so supporting teachers to foster approach-oriented goals matters for AI tool uptake.
+- **For [[motivation]] theory:** extends goal-setting theory to AI-assisted language learning, showing approach goals (not avoidance goals) carry the teacher-support effect.
+- **For [[teacher-role|teachers]]:** in AI-rich courses, explicit encouragement of mastery and performance-approach goals can amplify the engagement benefits of AI-assisted tools.
+
+## Connected Concepts
+
+- [[student-engagement]]
+- [[motivation]]
+- [[language-learning]]
+- [[english-education]]
+- [[higher-ed]]
+- [[self-determination-theory]]
+- [[teacher-role]]
+- [[ai-feedback-quality]]
+
+## Connected Articles
+
+- [[oby-chatgpt-use-learning-framework-2026]] — Theoretical framework for guiding students' ChatGPT use
+- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of AI learning motivation
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — SDT and student engagement with GenAI
+
+## Citation
+
+Wang, Y., & Wang, Y. (2026). [*Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory*](https://doi.org/10.1057/s41599-026-07636-8). *Humanities and Social Sciences Communications*, 13(1215).
 
 ---
 
