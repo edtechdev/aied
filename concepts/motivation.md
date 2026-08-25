@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-25T12:20:00-04:00"
+updated: "2026-08-25T12:40:00-04:00"
 type: concept
 tags: [motivation, student-experience, engagement-metrics, affective-computing, self-determination-theory, ai-education]
 confidence: high
@@ -69,3 +69,5 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
+
+- [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1070
+**Last updated:** 2026-08-24 | **Total pages:** 1071
 ---
 ## Concepts
 
@@ -1024,6 +1024,7 @@
 - [[voice-text-prompt-problems-computing-education]] — Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered
+- [[wang-goal-setting-ai-engagement-2026]] — Explaining learning engagement in AI-assisted learning through teacher support and achievement goals
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning
 - [[well-being]] — Well-Being
