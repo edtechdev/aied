@@ -1,8 +1,11 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1054
+**Last updated:** 2026-08-24 | **Total entries:** 1055
 
 ## 2026-08-25
+
+- ◐ [[conijn-fear-big-brother-proctored-exams-2022]] — 'raw/papers/conijn-fear-big-brother-proctored-exams-2022.md'
+  The fear of Big Brother: The potential negative side-effects of proctored exams
 
 - ◐ [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — 'raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md'
   Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students

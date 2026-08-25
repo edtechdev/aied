@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-08-25T09:40:00-04:00"
+updated: "2026-08-25T10:00:00-04:00"
 type: concept
 tags: [remote-proctoring, academic-integrity, summative-assessment, online-education, automated-proctoring, privacy, equity, higher-ed]
 confidence: high
@@ -63,3 +63,5 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
+
+- [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
