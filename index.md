@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1055
+**Last updated:** 2026-08-24 | **Total pages:** 1058
 ---
 ## Concepts
 
@@ -221,6 +221,7 @@
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[career-development-and-readiness]] — Career Development and Readiness
 - [[ccct-cooperative-learning-technique]] — Artificial intelligence assisted design of a novel cooperative learning technique for higher education
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the Pedagogical Knowledge of Large Language Models
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Benchmarking Multimodal Large Language Models for Educational Slide Auditing
@@ -568,6 +569,7 @@
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review
 - [[kim-ai-andragogy-2026]] — Adult Learners' Perspectives of AI Applications in Supporting Andragogy
+- [[kim-ai-anxiety-comprehensive-analysis]] — AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for Generative Social Robots in Higher Education
 - [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge Distillation for Automated AI Tutor Evaluation
@@ -1009,6 +1011,7 @@
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[voice-text-prompt-problems-computing-education]] — Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning
 - [[well-being]] — Well-Being

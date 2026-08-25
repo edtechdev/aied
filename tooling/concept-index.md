@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 153
+**Total concepts:** 154
 
 ## Canonical concepts
 
@@ -173,6 +173,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: benchmark; benchmarking; benchmark suite; evaluation benchmark; benchmark dataset; benchmarks
     - phrases: bias mitigation; algorithmic bias; bias; fairness; de-biasing; debiasing
     - phrases: biology education; biology; biological education; biology learning; biology laboratory; life sciences
+    - phrases: career development; career adaptability; career adapt-abilities; employability; workforce readiness; career readiness; AI career anxiety
     - phrases: chemistry education; chemistry; chemical education; chemistry learning; chemistry laboratory
     - phrases: cognitive diagnosis; cognitive diagnostic assessment; misconception diagnosis; cognitive modeling
     - phrases: cognitive offloading; offloading cognition; over-reliance; cognitive outsourcing; cognitive delegation; mental offloading
@@ -198,6 +199,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: educational robotics; robotics in education; robots in education; teaching robots
     - phrases: embodied learning; embodied cognition; embodiment; gesture-based learning; body-based learning
     - phrases: engineering education; engineering
+- **`career-development-and-readiness`** — Career Development and Readiness
 - **`english-education`** — English Education (EAP / EFL / ESL) — phrases: English for academic purposes; EAP; English language teaching; ELT; EFL; ESL; English as a second language; academic English; English education
     - phrases: equity; AI equity; fairness; educational equity; digital divide
     - phrases: experiential learning; learning by doing; hands-on learning

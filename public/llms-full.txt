@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 168 concepts, 880 articles, and 4 FAQs.
+> Complete text of 169 concepts, 882 articles, and 4 FAQs.
 
 # Concepts
 
@@ -761,7 +761,6 @@ AI anxiety is not a single thing. It spans at least three distinct directions, e
 ## Remote proctoring, false accusation, and surveillance stress
 
 The clearest and most-studied source of AI-induced stress is [[remote-proctoring]]. Continuous surveillance, the fear of being falsely flagged, and the pressure of being watched raise test anxiety and can impair performance. Key evidence:
-
 - [[academic-dishonesty-automated-proctoring-ai-2026|The automated-proctoring review]] documents **test-taker anxiety** (especially for users not proficient with online tools) and **proctor/test-taker proficiency gaps causing false malpractice accusations** — the acute stress of being wrongly accused of cheating with AI.
 - The [[remote-proctoring]] concept page details how **continuous surveillance and fear of false flags** raise test anxiety, and how stressed students perform worse — an equity and [[ethics|fairness]] problem, not just a comfort one.
 - Institutions adopting remote proctoring must pair AI monitoring with **accessible alternatives, clear communication, and support for test-taker anxiety**, and weigh it against [[authentic-assessment|authentic assessment]] alternatives that reduce surveillance.
@@ -771,7 +770,6 @@ This cluster connects AI anxiety to [[privacy]], [[academic-integrity]], and [[e
 ## AI anxiety as a learner emotion (barrier and signal)
 
 Beyond proctoring, AI use itself generates anxiety — about being replaced, about whether one's work is "really one's own," about competence. Crucially, this anxiety is **not purely negative**:
-
 - [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] finds **AI anxiety can be productive**: higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01), and evaluative capacity predicted active [[student-engagement|engagement]] (β=.46, p<.001). Kim's four regulatory types (Uncritical Reliance 18.7%, Selective Integration 34.6%, Evaluative Transformation 31.8%, Strategic Rejection 14.9%) show anxiety-driven scrutiny can transform students into more deliberate, self-regulated users of [[generative-ai|generative AI]] rather than passive adopters. This reframes AI anxiety from a barrier to a potentially useful signal that encourages closer scrutiny.
 - [[acceptance-ai-english-tools-2026|Acceptance studies]] show anxiety shapes whether learners adopt AI tools, and [[teacher-education-ai-literacy-sdt-2026|teacher-education research]] links AI anxiety to motivation and [[self-regulated-learning|self-regulation]].
 - [[aivaluate-anxiety-assessment-2026|AIvaluate]] studies student anxiety during AI-mediated [[assessment|performance-based assessments]], showing assessment anxiety persists and must be designed for.
@@ -782,7 +780,6 @@ This direction connects AI anxiety to [[motivation]], [[ai-literacy]], [[student
 ## AI for detecting and relieving stress and anxiety
 
 The positive side: AI systems increasingly detect and help alleviate stress and anxiety.
-
 - [[ai-campus-wellbeing-tools|AI campus well-being tools]] span prevention (improved feedback collection) and intervention (advancing mental-health detection).
 - [[affective-text-wearable-student-health|Affective text + wearable sensing]] (a year-long study of 458 students with Oura rings) shows ultra-brief naturalistic text can complement wearable physiological sensing for longitudinal student health monitoring — a concrete AI-enabled stress-detection pathway.
 - This links to [[affective-computing]] and [[affective-tutoring]], where AI reads and responds to emotional state.
@@ -792,14 +789,13 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 [[well-being]] is the broad positive state (emotional, psychological, social health) that AI can support or undermine. **AI anxiety and stress** is the specific, measurable emotion-construct within that space — it names the discrete negative affect and its productive uses, and it has its own dedicated evidence base (proctoring stress, productive AI anxiety, AI-driven stress detection). Rather than rivaling well-being, this page develops the anxiety/stress dimension in depth and cross-links heavily to [[well-being]], [[social-emotional-learning]], [[affective-computing]], and [[remote-proctoring]].
 
 ## Practical guidance
-
 - **Design for anxiety, not just integrity.** Proctoring and AI-monitoring systems should minimize false accusations and surveillance stress, especially for novice and vulnerable students; pair monitoring with accessible alternatives and clear communication.
 - **Leverage productive anxiety.** Rather than only reducing AI anxiety, support the verification, revision, and self-[[regulation]] that anxious-but-engaged students already exhibit.
 - **Use AI to detect and relieve stress** — via affective computing, wearables, and campus well-being tools — while guarding privacy.
 - **Consider educator anxiety** in AI adoption and policy, not just student experience.
 
 ## Connected Concepts
-
+- [[career-development-and-readiness]] — career readiness as a protective factor against AI anxiety
 - [[well-being]] — the broad umbrella this concept develops in depth
 - [[remote-proctoring]] — the primary source of surveillance/false-accusation stress
 - [[social-emotional-learning]] — the emotional competencies involved
@@ -817,7 +813,6 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[assessment]] — AI-mediated assessment anxiety
 
 ## Connected Articles
-
 - [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal
 - [[aivaluate-anxiety-assessment-2026]] — Student anxiety in AI-mediated performance-based assessment
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
@@ -828,12 +823,11 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[acceptance-ai-english-tools-2026]] — Anxiety shaping AI tool acceptance
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education, AI literacy, and anxiety
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — AI use intertwined with anxiety, trust, confidence
-
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Risk perception and academic-dishonesty anxiety suppress ChatGPT use
-
 - [[qu-wang-disclose-or-not-genai-2026]] — The disclosure dilemma as a source of student stress
-
 - [[conijn-fear-big-brother-proctored-exams-2022]] — Proctored exams raise test anxiety without reducing cheating
+- [[kim-ai-anxiety-comprehensive-analysis]] — Comprehensive analysis of AI anxiety and interventions
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety
 
 ---
 
@@ -2391,6 +2385,53 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 - [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
 - [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organisational drivers of AI adoption in higher education (Al-Rahmi 2026)
+
+---
+
+## [Career Development and Readiness](https://edtechdev.github.io/aied/concepts/career-development-and-readiness/)
+
+> **Career development and readiness** — the processes and capacities that prepare learners to build, adapt, and sustain a career in an AI-disrupted labor market: career adaptability, employability, workforce readiness, and the skills (including [[ai-literacy]]) that employers value. In the AI-in-education context this concept is increasingly important because AI both reshapes the skills graduates need and generates **career-related AI anxiety** about job displacement — making career readiness a protective factor for student [[well-being]].
+
+As AI transforms occupations, education's role in career development has broadened from credentialing toward building **adaptability** — the capacity to navigate, adjust, and thrive across changing roles. This concept connects education to employability and links to [[ai-anxiety-and-stress]]: students with stronger career adapt-abilities experience less AI anxiety.
+
+## How career development and readiness appears in the wiki
+
+- **Career adaptability reduces AI anxiety.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group showed the highest AI anxiety. Career readiness is thus an empirically validated buffer against [[ai-anxiety-and-stress|career-related AI anxiety]].
+- **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes.
+- **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA report]] documents how instructors and employers prioritize AI skills for college graduates, signaling the workforce demands shaping [[higher-ed|higher education]] curricula.
+- **Sector-specific readiness frameworks.** [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce readiness for smart manufacturing]] and [[ai-engineering-computing-workforce-grey-literature-2026|the future of the engineering/computing workforce]] translate general employability into [[discipline-specific-aied|discipline-specific]] competency frameworks.
+- **Workforce transitions.** [[ai-higher-ed-workforce-survey|Surveys of AI's impact on the higher-ed workforce]] and [[post-covid-ict-career-aspirations|ICT career aspirations]] examine how students' career intentions shift in response to technological change.
+- **Theoretical grounding.** The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as a primary driver of AI anxiety — the career dimension this concept addresses head-on.
+
+## Career readiness as a protective and developmental goal
+
+A recurring theme is that career development in the AI era should be a **deliberate educational goal**, not an afterthought: building career adapt-abilities, core self-evaluations, [[self-efficacy]], and employer-valued AI skills, while directly addressing the anxiety students feel about AI displacement. This links career development to [[professional-training]], [[self-efficacy]], [[motivation]], and [[ai-anxiety-and-stress]], and positions education as both a skills pipeline and a source of psychological readiness.
+
+## Connections to related concepts
+
+Career development and readiness connects to [[professional-training]] (the vocational skills dimension), [[ai-literacy]] (the AI-competence dimension), [[self-efficacy]] and [[motivation]] (the psychological resources that support adaptation), [[ai-anxiety-and-stress]] (career anxiety as a key component), [[higher-ed]] and [[k-12]] (the settings where readiness is built), and [[student-experience]] (career concerns as part of the learner experience).
+
+## Connected Concepts
+
+- [[professional-training]]
+- [[ai-literacy]]
+- [[self-efficacy]]
+- [[motivation]]
+- [[ai-anxiety-and-stress]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[well-being]]
+
+## Connected Articles
+
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness for smart manufacturing
+- [[ai-higher-ed-workforce-survey]] — AI's impact on the higher-education workforce
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the future of the engineering/computing workforce
+- [[post-covid-ict-career-aspirations]] — ICT career aspirations after COVID-19
+- [[kim-ai-anxiety-comprehensive-analysis]] — AI anxiety and the fear of replacement
 
 ---
 
@@ -38023,6 +38064,51 @@ Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Adult learners' perspectives o
 
 ---
 
+## [AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions](https://edtechdev.github.io/aied/articles/kim-ai-anxiety-comprehensive-analysis/)
+
+> **AI Anxiety: A Comprehensive Analysis** — Kim et al. define AI Anxiety as the feelings of apprehension or fear stemming from the accelerated development of AI technologies, and provide a wide-ranging review of its psychological underpinnings and proposed interventions. They distinguish AI Anxiety from earlier Automation Anxiety, identify the **fear of replacement by AI** as the primary contributor (alongside uncontrolled AI growth, [[privacy]] concerns, AI-generated misinformation, and AI biases), and propose multidisciplinary educational, technological, regulatory, and [[ethics|ethical]] solutions.
+
+This review positions AI Anxiety as a distinct psychological phenomenon — broader than the learner-facing test anxiety studied in educational settings, and anchored in existential/career concerns about AI displacing human roles. It is the theoretical backbone for the wiki's [[ai-anxiety-and-stress]] concept.
+
+## Key Contributions
+
+- **AI Anxiety vs. Automation Anxiety.** Earlier automation anxiety centered on the replacement of manual and repetitive tasks, largely confined to industries like manufacturing and agriculture. AI Anxiety differs because AI threatens **cognitive and professional roles** — including job displacement and the obfuscation of human roles — producing distinct psychological impacts.
+- **Primary cause: fear of replacement.** The central driver is the fear of being replaced by AI, extending into career and professional identity.
+- **Secondary causes:** uncontrolled AI growth, privacy concerns, AI-generated misinformation, and AI biases — each amplifying apprehension.
+- **Interventions are multidisciplinary:** educational (e.g. [[ai-literacy]], which is associated with more positive attitudes toward AI), technological, regulatory, and ethical guidelines.
+
+## Implications
+
+- **For [[ai-anxiety-and-stress]]:** provides the theoretical framing that AI anxiety is a real, growing psychological phenomenon with identifiable causes — not merely a classroom affect — and that it spans career, privacy, misinformation, and bias domains.
+- **For education:** frames [[ai-literacy]] as a key intervention — increased knowledge about AI and higher computer use are associated with more positive attitudes toward AI and reduced anxiety.
+- **For policy:** argues for [[governance]] and [[regulation|regulatory]] and ethical guidelines to mitigate AI anxiety as society enters the era of pervasive AI.
+
+## Connected Concepts
+
+- [[ai-anxiety-and-stress]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[privacy]]
+- [[ethics]]
+- [[well-being]]
+- [[higher-ed]]
+- [[governance]]
+- [[regulation]]
+- [[trust]]
+
+## Connected Articles
+
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
+- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal in writing
+- [[conijn-fear-big-brother-proctored-exams-2022]] — proctoring anxiety
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability
+
+## Citation
+
+Kim, J. J. H., Soh, J. Y., Kadkol, S., Solomon, I., Yeh, H., Srivatsa, A. V., Nahass, G., Choi, J. Y., Lee, S., & Ajilore, O. (n.d.). *AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions*. Manuscript/preprint.
+
+---
+
 ## [Designing AI Systems to Support Productive-Failure-Based Learning](https://edtechdev.github.io/aied/articles/kim-ai-productive-failure-adult-2026/)
 
 > **Synthesis:** Kim, Lin, Yu and Detrick (2026) investigate how adult learners perceive AI applications for supporting [[productive-failure]]-based learning and what design principles AI systems should follow. Through focus groups with 35 graduate students who developed AI application storyboards and paper prototypes, they map AI support onto the phases of productive failure (generation & exploration; consolidation & knowledge assembly) and derive five design principles: human-AI collaboration, usability, reflective design, emotional design, and open knowledge/resource utilization. The core message: AI should **preserve productive struggle while offering targeted, non-directive support** — not substitute for it.
@@ -56983,6 +57069,54 @@ Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). [Say
 ## Citation
 
 Voicu, C.-G. (2026). [*AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education*](https://doi.org/10.61071/JDP.2665). *Journal of Digital Pedagogy*, 5(1), 37–51. https://doi.org/10.61071/JDP.2665
+
+---
+
+## [The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered](https://edtechdev.github.io/aied/articles/wang-career-adapt-abilities-ai-anxiety-english-2026/)
+
+> **Career adapt-abilities and AI anxiety** — a study of 444 English-major undergraduates at four Chinese universities (July–August 2025) showing that **career adapt-abilities significantly and negatively predict AI anxiety**, with **core self-evaluations partially mediating** this relationship. Latent profile analysis identified three career adapt-abilities subgroups (low, medium, high): the **low group showed the highest AI anxiety**, the high group the lowest. This is direct empirical evidence that career-related readiness is a protective factor against AI anxiety.
+
+Wang (2026) connects the wiki's [[ai-anxiety-and-stress]] and career-readiness threads: students who feel more adaptable and prepared for their careers experience less AI anxiety. It positions career development as a buffer against the fear that AI will displace or devalue one's professional future.
+
+## Method
+
+- **Sample:** 444 English-major students from four comprehensive universities in Sichuan, China.
+- **Design:** Dual-perspective — **variable-centered** (regression/mediation) and **person-centered** (latent profile analysis).
+- **Measures:** Career Adapt-Abilities Scale, Core Self-Evaluation Scale, and an AI Anxiety Scale.
+
+## Key Findings
+
+- **Career adapt-abilities negatively predict AI anxiety.** Students with higher career adaptability report significantly lower AI anxiety.
+- **Core self-evaluations partially mediate** the relationship — career adaptability works partly by strengthening positive core self-evaluations (self-worth, competence), which in turn reduce anxiety.
+- **Three latent profiles** (low, medium, high career adapt-abilities) with significant differences in core self-evaluations and AI anxiety; the **low group had the highest AI anxiety** and the high group the lowest.
+- Both analytic strategies converge, strengthening the robustness of the finding.
+
+## Implications
+
+- **For [[ai-anxiety-and-stress]]:** career anxiety is a distinct, empirically validated component of AI anxiety; building career readiness is a concrete protective intervention.
+- **For education and career services:** strengthening career adapt-abilities (and core self-evaluations) can mitigate AI anxiety among students facing an uncertain AI-disrupted labor market — relevant to [[career-development-and-readiness]] and employability programming.
+- **For [[self-efficacy]]:** the core self-evaluations mediation points to self-worth/competence beliefs as the mechanism linking career readiness to lower anxiety.
+
+## Connected Concepts
+
+- [[ai-anxiety-and-stress]]
+- [[self-efficacy]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[well-being]]
+- [[motivation]]
+- [[professional-training]]
+
+## Connected Articles
+
+- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive review of AI anxiety and its interventions
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
+- [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive signal
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — workforce readiness in manufacturing
+
+## Citation
+
+Wang, X. (2026). [*The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered*](https://doi.org/10.3389/fpsyg.2026.1767791). *Frontiers in Psychology*, 17, 1767791.
 
 ---
 
