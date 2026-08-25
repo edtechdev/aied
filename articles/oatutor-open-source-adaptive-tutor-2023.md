@@ -57,7 +57,7 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 ## Connected Articles
 
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-Generated Help vs. Human Tutor Help
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[access-not-enough-ai-tutoring-2026]] — Access Is Not Enough: AI Tutoring
 - [[adaptive-pretesting-retention]] — Adaptive Pretesting and Retention
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators

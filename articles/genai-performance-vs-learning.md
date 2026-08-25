@@ -16,7 +16,7 @@ This *Nature Reviews Psychology* piece draws a critical distinction that has bee
 - **Performance gains** — immediate improvements in task completion, efficiency, or output quality when using AI tools.
 - **Learning** — durable understanding that requires deep cognitive processing (elaboration, [[critical-thinking|critical analysis]]) and [[metacognition|metacognitive]] processing (planning, monitoring, reflection).
 
-The authors argue that [[generative-ai|generative AI]] easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[ai-tutor-effectiveness-review]] research that improved task performance equals improved learning.
+The authors argue that [[generative-ai|generative AI]] easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[zerkouk-comprehensive-review-its-2025]] research that improved task performance equals improved learning.
 
 ## Implications for AIED Design
 
@@ -55,7 +55,7 @@ To move beyond the performance/learning conflation, the authors propose a cognit
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[pedagogy-ai-mistakes]]
 - [[generative-ai-guardrails-harm-learning]]
 

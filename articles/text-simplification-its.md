@@ -75,7 +75,7 @@ MuTSE's local JSON persistence does not scale to concurrent multi-user deploymen
 - [[llm]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
 Roscan, R.-A., Petre, G., Dumitran, A.-M., & Dumitran, A.-L. (2026). [*MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator*](https://arxiv.org/abs/2604.08947). arXiv:2604.08947.

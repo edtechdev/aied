@@ -23,7 +23,7 @@ confidence: medium
 
 ## Implications for AI in Education
 
-PersonaVLM matters for AIEd because it tackles the problem that makes most [[ai-tutor-effectiveness-review]] findings equivocal: personalization that doesn't persist across sessions cannot build the relationship that drives [[learning-gains|learning gains]]. A tutor that forgets a student's misconceptions between Monday and Wednesday is barely better than a static problem bank. The PEM mechanism, in particular, offers a path toward [[affective-tutoring]] — systems that adapt not just to what a student knows but to who they are becoming as a learner.
+PersonaVLM matters for AIEd because it tackles the problem that makes most [[zerkouk-comprehensive-review-its-2025]] findings equivocal: personalization that doesn't persist across sessions cannot build the relationship that drives [[learning-gains|learning gains]]. A tutor that forgets a student's misconceptions between Monday and Wednesday is barely better than a static problem bank. The PEM mechanism, in particular, offers a path toward [[affective-tutoring]] — systems that adapt not just to what a student knows but to who they are becoming as a learner.
 
 The privacy-preserving design is also significant. Schools and districts operating under FERPA, GDPR, or local data protection regimes have been rightly cautious about sending student interaction data to commercial API endpoints. PersonaVLM's fully local inference pipeline — training data synthesized, model run locally — removes that barrier without sacrificing the performance gains that come from long-horizon personalization. This aligns with the growing interest in [[ecnuclaw-k12-personalized-companion]] approaches that prioritize data sovereignty.
 
@@ -43,7 +43,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 - [[rag]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
 - [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education

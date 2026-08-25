@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-25T08:20:00-04:00"
 type: concept
 tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed, llm, generative-ai, student-experience, ai-literacy]
 confidence: medium
@@ -62,11 +62,10 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 - [[socratic-method]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[empathy-coaching-chatbot]]
 - [[engagement-assessment-video]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]

@@ -11,7 +11,7 @@ confidence: medium
 
 Addresses the lag between LLM integration into K-12/higher education and reliable methods for evaluating pedagogical quality. The authors introduce a knowledge-distillation approach to automate AI-tutor evaluation, distilling expert judgments of pedagogical quality into a scalable evaluator.
 
-Directly advances [[intelligent-tutoring]] evaluation and [[automated-assessment|Automated Grading]] of tutor behavior across [[k-12]] and [[higher-ed]], building on [[llm]]-based assessment. It complements [[ai-tutor-behavioral-evaluation]] and the [[ai-tutor-effectiveness-review]], offering a practical route to scalable, expert-aligned tutor quality measurement.
+Directly advances [[intelligent-tutoring]] evaluation and [[automated-assessment|Automated Grading]] of tutor behavior across [[k-12]] and [[higher-ed]], building on [[llm]]-based assessment. It complements [[ai-tutor-behavioral-evaluation]] and the [[zerkouk-comprehensive-review-its-2025]], offering a practical route to scalable, expert-aligned tutor quality measurement.
 
 ## Key Findings
 
@@ -40,7 +40,7 @@ Automated tutor evaluation of this kind is a prerequisite for accountability in 
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
 Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini (2026). [Knowledge Distillation for Automated AI Tutor Evaluation](https://arxiv.org/abs/2607.10647). arXiv:2607.10647. arXiv preprint.

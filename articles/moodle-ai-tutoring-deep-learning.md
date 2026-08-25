@@ -23,7 +23,7 @@ The system operates within Moodle's existing infrastructure, using LLM-based tut
 - Adaptively scaffold toward deeper comprehension via [[scaffolding]] techniques
 - Move students through [[formative-assessment]] cycles that promote conceptual mastery
 
-This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[ai-tutor-effectiveness-review]]. Many intelligent tutoring systems fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
+This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025]]. Many intelligent tutoring systems fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
 
 ## Connections to the Wiki
 
@@ -48,7 +48,7 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 - [[higher-ed]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[ai-peer-feedback-systems]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[pedagogy-ai-mistakes]]

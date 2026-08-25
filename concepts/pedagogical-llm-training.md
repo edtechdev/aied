@@ -116,7 +116,7 @@ Because tutoring requires corrective friction — challenging a student's incorr
 
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[civic-education-ai-lesson-plans]]
 - [[cognitive-agent-compilation]]
 - [[contextual-sycophancy-ai-literacy]]
