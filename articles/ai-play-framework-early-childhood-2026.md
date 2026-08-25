@@ -1,7 +1,7 @@
 ---
 title: "AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-08-17T11:15:00-04:00"
+updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
 sources: ['raw/papers/ai-play-framework-early-childhood-2026.md']
@@ -42,6 +42,7 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 - **Accessible to families and non-technical educators:** the framework lowers the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] AI education and connecting to [[computational-thinking]] and [[cs-education]].
 
 ## Connected Concepts
+- [[early-childhood-elementary-ai-education]]
 
 - [[ai-literacy]]
 - [[k-12]]
