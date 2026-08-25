@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-24T12:55:00-04:00"
+updated: "2026-08-25T08:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 confidence: high
@@ -28,6 +28,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven Problem-Solving (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
 
 ## Connected Concepts
+- [[guardrails]]
 
 - [[scaffolding]]
 - [[ai-literacy]]

@@ -40,7 +40,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'well-being', 'social-emotional-learning', 'agency', 'creativity'] },
       { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'faculty-development', 'pedagogical-safety'] },
-      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'learning-analytics', 'lifelong-learning', 'professional-training', 'k-12'] },
+      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'learning-analytics', 'lifelong-learning', 'professional-training', 'k-12'] },
     ],
   },
   {
