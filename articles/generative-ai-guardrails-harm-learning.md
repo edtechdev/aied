@@ -64,4 +64,4 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 - [[generative-ai-reduced-study-time-math]]
 ## Citation
 
-Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2422633122), 122(26). https://doi.org/10.1073/pnas.2422633122
+Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). [*Generative AI without guardrails can harm learning: Evidence from high school mathematics*](https://doi.org/10.1073/pnas.2422633122). *Proceedings of the National Academy of Sciences*, 122(26).
