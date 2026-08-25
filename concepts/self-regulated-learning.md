@@ -61,7 +61,7 @@ AI tools can enter this loop at different points:
 [[stanford-evidence-base-ai-k12-2026|Tutoring-specific AI]] aligns with SRL-first design: it provides graduated scaffolds that preserve [[agency|learner agency]] and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.^[[stanford-evidence-base-ai-k12-2026]]
 
 For example:
-- Bastani et al.'s tutoring-specific [[pedagogical-agent|chatbot]] preserved step-by-step reasoning (SRL demand)
+- Bastani et al.'s tutoring-specific [[conversational-ai|chatbot]] preserved step-by-step reasoning (SRL demand)
 - The general-purpose GPT variant simply provided answers (SRL bypass)
 
 ## Evidence Across Contexts

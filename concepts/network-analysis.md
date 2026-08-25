@@ -23,7 +23,7 @@ These differ from a **[[knowledge-graph]]**, which is a data structure for repre
 
 Network methods are used across the wiki's evidence base to answer questions that aggregate metrics cannot:
 
-- **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[pedagogical-agent|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output.^[[penny-transition-network-analysis-efl-writing-2026]]
+- **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[conversational-ai|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output.^[[penny-transition-network-analysis-efl-writing-2026]]
 - **Compare cognitive structuring across groups.** ENA shows how different groups connect constructs differently — e.g., how [[metacognition]] co-occurs with delegation vs. human reasoning in human–AI collaboration, revealing different collaboration modes.^[[hao-human-ai-collaborative-problem-solving-cognition]]
 - **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of [[llm|LLM]] use (iterative strategic refinement vs. linear commands), distinguishing learner [[ai-literacy|proficiency]] and development.^[[tracing-genai-literacy-interaction-patterns]]
 - **Analyze discourse and framing.** ENA is applied to qualitative and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse.^[[youtube-frames-chatgpt-education]]

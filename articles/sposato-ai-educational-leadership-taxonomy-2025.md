@@ -22,7 +22,7 @@ The taxonomy organizes the full spectrum of AI in educational leadership into te
 - **Personalized Learning** — [[adaptive-learning]] platforms, [[intelligent-tutoring]] systems, [[learning-analytics]], virtual tutors that adjust content difficulty in real time.
 - **Enhancing Teaching Practices** — AI in [[curriculum-design]], teacher professional development, intelligent classroom management, and real-time [[feedback]] on classroom dynamics.
 - **Decision-Making and Policy Formulation** — predictive analytics, sentiment analysis, ethical/equity decision support, and bias [[plagiarism-detection|detection]], supporting [[educational-policy-ai]].
-- **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[pedagogical-agent|chatbots]].
+- **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[conversational-ai|chatbots]].
 - **Organizational Leadership and Strategic Planning** — strategic resource allocation, trend forecasting, and risk/crisis management.
 - **Governance and Compliance** — regulatory compliance monitoring, fraud detection, and data integrity, tied to [[governance]].
 - **Community Engagement and Communication** — communication tools, feedback analytics, and social media monitoring.
