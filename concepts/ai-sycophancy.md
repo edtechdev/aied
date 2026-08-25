@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-25T08:30:00-04:00"
 type: concept
 tags: [ai-sycophancy, generative-ai, llm, ethics, trust, pedagogical-safety, cognitive-offloading, feedback, affective-computing, ai-literacy, hallucination-risk]
 confidence: high
@@ -37,6 +37,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - **Teach recognition, not just use.** AI literacy should help learners recognize when an AI is agreeing with them and when its agreement signals error rather than validation.
 
 ## Connected Concepts
+- [[guardrails]]
 
 - [[generative-ai]]
 - [[pedagogical-safety]]
