@@ -291,6 +291,7 @@ def find_mentions(nar, slug, concepts, apply_mode=False):
     term2slug = build_term2slug(concepts, slug)
     linked = set(re.findall(r'\[\[([^\]|]+)', nar))
     found = {}
+    claimed = []  # (start, end) char ranges already accepted by a longer term
     for term in sorted(term2slug, key=lambda x: -len(x)):
         tgt = term2slug[term]
         if tgt == slug or tgt in linked:
@@ -302,6 +303,13 @@ def find_mentions(nar, slug, concepts, apply_mode=False):
                 continue
             if is_in_link(nar, m.start()):
                 continue
+            s, e = m.start(), m.end()
+            # Skip if this match overlaps a range already claimed by a longer term
+            # (e.g. "pedagogical" inside "pedagogical agent", "ai" inside "ai tutor").
+            # Without this, two overlapping links get applied and mangle the text.
+            if any(not (e <= cs or s >= ce) for cs, ce in claimed):
+                break
+            claimed.append((s, e))
             found.setdefault(tgt, []).append((term, m.start()))
             break  # first occurrence only
     return found

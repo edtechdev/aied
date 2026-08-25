@@ -25006,7 +25006,7 @@ Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rod
 
 ## [Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education](https://edtechdev.github.io/aied/articles/colbran-student-perspectives-genai-chatbots-2026/)
 
-> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system analytics with a mixed-methods survey (n=121) around the "Jordan Chatbot," a human-centred [[pedagogy|pedagogical]] [[agentic-ai|agent]] built on GPT-4o within a learning management system. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centred design, explicit [[educational-policy-ai|AI policies]] and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
+> **Synthesis:** Colbran, Jha, and Schiavone examined how students perceive, use, and evaluate generative AI chatbots in higher education, combining chatbot system analytics with a mixed-methods survey (n=121) around the "Jordan Chatbot," a human-centred [[pedagogical-agent|pedagogical agent]] built on GPT-4o within a learning management system. Students held generally positive attitudes toward chatbots and perceived gains in knowledge and understanding while strongly supporting academic-integrity requirements; usage analytics confirmed 24/7 needs, with 36.8% of interactions occurring after hours. AI literacy, rather than general technology experience, was associated with willingness and confidence to use chatbots, and usability (the intrusive pop-up design) was the biggest barrier among non-users. The study recommends human-centred design, explicit [[educational-policy-ai|AI policies]] and [[assessment]] labels, staff and student training, and continuous monitoring of errors.
 
 ## Core Finding
 
@@ -25022,7 +25022,7 @@ Students reported generally positive attitudes toward chatbots and perceived gai
 
 ## Barriers and User Experience
 
-Five significant reasons for non-use emerged: lack of training, concerns about [[trust]]ed/accurate/safe/helpful responses, a preference for asking teaching staff, fear of breaching academic integrity, and no interest. Qualitative analysis of non-user comments (reflexive thematic analysis) surfaced usability as the largest theme (23%), with students disliking the intrusive pop-up design; other themes included preference for humans or search engines, lack of perceived usefulness, AI concerns, unawareness, and time pressure. Users valued helpfulness for information and navigation (24%), availability and accessibility (21%), and subject-specific learning support (18%), while reporting occasional inaccuracies and requesting better integration of reliable links, chat history, and more teacher-like responses.
+Five significant reasons for non-use emerged: lack of training, concerns about trusted/accurate/safe/helpful responses, a preference for asking teaching staff, fear of breaching academic integrity, and no interest. Qualitative analysis of non-user comments (reflexive thematic analysis) surfaced usability as the largest theme (23%), with students disliking the intrusive pop-up design; other themes included preference for humans or search engines, lack of perceived usefulness, AI concerns, unawareness, and time pressure. Users valued helpfulness for information and navigation (24%), availability and accessibility (21%), and subject-specific learning support (18%), while reporting occasional inaccuracies and requesting better integration of reliable links, chat history, and more teacher-like responses.
 
 ## Relevance to the wiki
 
@@ -30474,11 +30474,11 @@ Wang, C., Petrie, C., Stouras, M., Ettlin, N., George, A., Mejia-Domenzain, P., 
 - **Perceptual hierarchies.** White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent; older Black female avatars faced compounded penalties across all measures.
 - **Ingroup alignment drives adoption.** Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise.
 - **Domain moderation.** STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it — bias is context-dependent, not uniform.
-- **[[trust|Trust in AI]]intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
+- **[[trust|Trust in AI]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
 
 ## Implications
 
-This study demonstrates that **the "face" of an AI tutor is a consequential equity variable** in [[ai-education]]. Avatar identity cues activate [[bias-mitigation|social biases]] that shape epistemic trust and whether learners actually adopt AI guidance — with older Black female avatars facing compounded penalties and ingroup alignment driving uptake. For designers, this implies careful attention to avatar representation, identity-neutral design options, and [[bias-mitigation]] in [[pedagogy|pedagogical]] agents, especially in [[stem-education|STEM]] and procedural domains where bias is amplified. It connects to [[trust-calibration]], [[pedagogical-agent|pedagogical agents]], [[human-ai-collaboration]], and [[equity-in-ai-education]].
+This study demonstrates that **the "face" of an AI tutor is a consequential equity variable** in [[ai-education]]. Avatar identity cues activate [[bias-mitigation|social biases]] that shape epistemic trust and whether learners actually adopt AI guidance — with older Black female avatars facing compounded penalties and ingroup alignment driving uptake. For designers, this implies careful attention to avatar representation, identity-neutral design options, and [[bias-mitigation]] in [[pedagogical-agent|pedagogical agents]], especially in [[stem-education|STEM]] and procedural domains where bias is amplified. It connects to [[trust-calibration]], [[pedagogical-agent|pedagogical agents]], [[human-ai-collaboration]], and [[equity-in-ai-education]].
 
 ## Connected Concepts
 
@@ -31075,7 +31075,7 @@ Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussai
 
 ## [Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems](https://edtechdev.github.io/aied/articles/fostering-collaborative-futures-ai-ecosystems-2026/)
 
-> **Synthesis:** Majumdar, Ifenthaler, Schumacher, Donlon, Hsu, Zagami, Heitink, and Mueller (2026) examine the impact of AI on education from the perspectives of researchers, practitioners, and [[educational-policy-ai|policy]]makers, adopting an ecosystem perspective on AI integration in educational ecosystems. Based on the work of a Thematic Working Group at EDUsummIT, the authors conducted a Delphi study of N = 70 international professionals from 18 countries, followed by in-depth face-to-face discussions with international experts and persona-based focus-group discussions. The three most important trends were AI-related competences for learners and [[teacher-role|educators]], automated [[formative-assessment|formative assessment]] and [[feedback]] with [[agentic-ai|AI agents]], and the evolved roles of teachers to teach with AI agents; top importance also included explainability and trustworthiness of AI agents and [[accessibility]] and equal access to AI agents.
+> **Synthesis:** Majumdar, Ifenthaler, Schumacher, Donlon, Hsu, Zagami, Heitink, and Mueller (2026) examine the impact of AI on education from the perspectives of researchers, practitioners, and policymakers, adopting an ecosystem perspective on AI integration in educational ecosystems. Based on the work of a Thematic Working Group at EDUsummIT, the authors conducted a Delphi study of N = 70 international professionals from 18 countries, followed by in-depth face-to-face discussions with international experts and persona-based focus-group discussions. The three most important trends were AI-related competences for learners and [[teacher-role|educators]], automated [[formative-assessment|formative assessment]] and [[feedback]] with [[agentic-ai|AI agents]], and the evolved roles of teachers to teach with AI agents; top importance also included explainability and trustworthiness of AI agents and [[accessibility]] and equal access to AI agents.
 
 ## Core Finding
 
@@ -31878,7 +31878,7 @@ Dumlao, Wang, Xie, Hu, Bar, Chaney, Gold & Teplitskiy (2026). [Generative AI Ava
 
 - **538 teachers across 24 Turkish K-12 schools** randomized at school-department level; analytical sample 193 teachers / 2,816 students / 14,198 student-course observations
 - Treatment: custom **GPT-4o chatbot** with Turkish Ministry of Education curriculum database + 1-hour training (one arm added weekly usage-stat reminders); control = business-as-usual
-- Pre-r[[learning-gains|Academic performance]]ster-length (spring 2025)
+- pre-registered study; spring 2025
 
 ## Results
 
@@ -32978,7 +32978,7 @@ Lepp, M., & Kaimre, J. (2026). [*Revisiting the Performance of Generative Artifi
 
 ## [From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance](https://edtechdev.github.io/aied/articles/genai-over-reliance-learning-2026/)
 
-> **Synthesis:** Gao, Sun, and Khan (2026) developed a dual-pathway model examining both the positive and negative effects of generative AI use on sustainable learning performance, integrating AI literacy, self-regulated learning, cognitive offloading, and individual differences (polych[[learning-gains|learning outcomes]]a mixed-method design with three-wave time-lagged survey data from 623 Chinese university students plus educator interviews, they found that AI literacy significantly enhances critical AI evaluation, which — along with self-regulated learning — promotes effective AI use. Effective AI use positively influences sustainable learning performance but also increases AI over-reliance, which negatively affects learning outcomes, with polychronicity moderating key relationships.
+> **Synthesis:** Gao, Sun, and Khan (2026) developed a dual-pathway model examining both the positive and negative effects of generative AI use on sustainable learning performance, integrating AI literacy, self-regulated learning, cognitive offloading, and individual differences. Using a mixed-method design with three-wave time-lagged survey data from 623 Chinese university students plus educator interviews, they found that AI literacy significantly enhances critical AI evaluation, which — along with self-regulated learning — promotes effective AI use. Effective AI use positively influences sustainable learning performance but also increases AI over-reliance, which negatively affects learning outcomes, with polychronicity moderating key relationships.
 
 ## Key Findings
 
@@ -38596,7 +38596,7 @@ Examines how different forms of learner-AI interaction relate to learning outcom
 
 - Survey data were collected from **210 undergraduate students** in a first-year object-oriented programming (OOP) course where **GenAI use was permitted for coursework but prohibited in assessments**.
 - Students used GenAI **significantly more often for explanation seeking and debugging than for code generation**.
-- **Cluster analysis identified five distinct learner-AI interaction profiles**, including a "smart" high-usage pattern characterized by **low reliance on code generation** and high use for conceptual support a[[learning-gains|learning gains]]- Usage patterns were associated with differences in **perceived assignment difficulty, self-assessed understanding, trust in AI-generated code, and norm-related attitudes**.
+- **Cluster analysis identified five distinct learner-AI interaction profiles**, including a "smart" high-usage pattern characterized by **low reliance on code generation** and high use for conceptual support and learning gains. Usage patterns were associated with differences in **perceived assignment difficulty, self-assessed understanding, trust in AI-generated code, and norm-related attitudes**.
 - Critically, **no significant differences in assessment performance were found across clusters** — self-directed GenAI use alone did not lead to measurable learning gains.
 
 ## Study Design & Method
@@ -39258,7 +39258,7 @@ The zero-inflated negative binomial model showed that engagement frequency was s
 
 ## Inquiry Quality and Achievement Trajectories
 
-Engagement was not merely a matter of frequency but of inquiry quality and diversity. k-means clustering identified distinct achievement profiles. "Growing Achievers" — students who began with weaker achievement but demonstrated substantial performance gains — posed more diverse and conceptually oriented questions, leve[[rag]]ing the chatbot for genuine [[learning-gains|learning gains]]. In contrast, "Declining Performers" engaged minimally and focused on narrower procedural inquiries despite stronger initial knowledge. The predominance of Initial Inquiry behaviors (70.3%, especially Definition and Copy queries) indicates that many students used the chatbot primarily for [[cognitive-offloading|cognitive offloading]] of basic concepts rather than higher-order reasoning.
+Engagement was not merely a matter of frequency but of inquiry quality and diversity. k-means clustering identified distinct achievement profiles. "Growing Achievers" — students who began with weaker achievement but demonstrated substantial performance gains — posed more diverse and conceptually oriented questions, leveraging the chatbot for genuine [[learning-gains|learning gains]]. In contrast, "Declining Performers" engaged minimally and focused on narrower procedural inquiries despite stronger initial knowledge. The predominance of Initial Inquiry behaviors (70.3%, especially Definition and Copy queries) indicates that many students used the chatbot primarily for [[cognitive-offloading|cognitive offloading]] of basic concepts rather than higher-order reasoning.
 
 ## Relevance to the wiki
 
@@ -41989,7 +41989,7 @@ Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intellige
 
 ## A thought partner, not a solution engine
 
-LUDIA exists to connect educators with the [[universal-design-for-learning]] framework at the moment a design decision is still open — before a learner meets a barrier, not after. Where most AI agents are engineered as solution engines that deliver an answer, LUDIA is purpose-built to help educators and [[instructional-design]]ers work through the UDL principles of Engagement, Representation, and Action and Expression, so that the reasoning connecting a particular situation to the relevant Guidelines is visible and not only the suggestion. The [[scaffolding]] intent is explicit: responses are "scaffolds and entry points" that leave the educator's own thinking intact, since "AI can certainly enhance but not replace our thinking as educators." The tool's use is structured around the Four T's — Tell LUDIA about the learners and challenges, Tinker with follow-up questions, Tweak the provisional outcomes, and Transfer by reflecting on how reducing a barrier deepened learning, often through Project Zero's Visible Thinking Routines. An exchange that stops before Transfer is LUDIA serving a purpose, but not yet being used fully as a thought partner.
+LUDIA exists to connect educators with the [[universal-design-for-learning]] framework at the moment a design decision is still open — before a learner meets a barrier, not after. Where most AI agents are engineered as solution engines that deliver an answer, LUDIA is purpose-built to help educators and [[instructional-design|instructional designers]] work through the UDL principles of Engagement, Representation, and Action and Expression, so that the reasoning connecting a particular situation to the relevant Guidelines is visible and not only the suggestion. The [[scaffolding]] intent is explicit: responses are "scaffolds and entry points" that leave the educator's own thinking intact, since "AI can certainly enhance but not replace our thinking as educators." The tool's use is structured around the Four T's — Tell LUDIA about the learners and challenges, Tinker with follow-up questions, Tweak the provisional outcomes, and Transfer by reflecting on how reducing a barrier deepened learning, often through Project Zero's Visible Thinking Routines. An exchange that stops before Transfer is LUDIA serving a purpose, but not yet being used fully as a thought partner.
 
 ## A privacy-first, accessible rebuild
 
@@ -45566,7 +45566,7 @@ The framework reframes guidance on student AI use from procedural [[higher-ed|ac
 
 ## [OECD Digital Education Outlook 2026](https://edtechdev.github.io/aied/articles/oecd-digital-education-outlook-2026/)
 
-> **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]]ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
+> **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]] and [[ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
 
 ## The Core Finding: Performance Is Not Learning
 
@@ -47013,7 +47013,7 @@ Students consistently preferred the explicit, authoritative Tutor and Excellent 
 
 ## Implications for adaptive AI learning design
 
-Because [[generative-ai|generative AI]] now produces fluent, immediate, personalized responses, there is a risk that learners become passive consumers of AI-generated solutions. The authors argue perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of scaffolding effectiveness. Instead, [[self-regulated-learning|design]] should balance clarity and efficiency with opportunities for explanation, comparison, revision, and collaborative sense-making. For [[adaptive-learning|adaptive, learner-centered]] AI-supported modelling environments, the implication is that the most popular role is not necessarily the most [[pedagogy|pedagogical]]ly effective — supporting the need for intentional scaffolding design rather than learner-driven default preferences.
+Because [[generative-ai|generative AI]] now produces fluent, immediate, personalized responses, there is a risk that learners become passive consumers of AI-generated solutions. The authors argue perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of scaffolding effectiveness. Instead, [[self-regulated-learning|design]] should balance clarity and efficiency with opportunities for explanation, comparison, revision, and collaborative sense-making. For [[adaptive-learning|adaptive, learner-centered]] AI-supported modelling environments, the implication is that the most popular role is not necessarily the most pedagogically effective — supporting the need for intentional scaffolding design rather than learner-driven default preferences.
 
 ## Connected Concepts
 
@@ -48120,7 +48120,7 @@ Elhaimeur, I., & Chrisochoides, N. (2026). [*From Prototype to Classroom: An Int
 
 ## Key Findings
 
-- A 10-week quasi-experimental study with 95 preservice teachers in an educational research methods course compared two intact classes (experimental n = 52; comparison n = 43). The groups were equivalent at baseline, with no statistically significant pre-intervention differences in age (M = 20.38 vs 20.05), gender (12:40 vs 5:38 male:female), grade level, major, or AI-literacy pre[[learning-gains|test scores]] (M = 79.46 vs 80.33).
+- A 10-week quasi-experimental study with 95 preservice teachers in an educational research methods course compared two intact classes (experimental n = 52; comparison n = 43). The groups were equivalent at baseline, with no statistically significant pre-intervention differences in age (M = 20.38 vs 20.05), gender (12:40 vs 5:38 male:female), grade level, major, or AI-literacy pretest scores (M = 79.46 vs 80.33).
 - The QUEST+AI model structures AI-supported inquiry in five phases: Question, Understand, Engage, Solve, and Teach.
 - The experimental group showed higher overall [[ai-literacy]], with small but meaningful gains concentrated in applying AI, AI-supported problem solving, and emotion regulation during AI use (partial η² ≈ .05–.09). Within-group gains ran from M = 79.46 (SD = 12.22) at pretest to M = 84.94 (SD = 8.27) at posttest (t(51) = 3.66, p < .001), whereas the comparison group showed no statistically reliable change.
 - No clear group differences were found for more concept-focused or evaluative dimensions of AI literacy (concepts, detection, ethics, creation, and persuasion).
@@ -50326,7 +50326,7 @@ The study examined how self-efficacy and favorability toward practice shape lear
 
 ## Relevance to AI in Education
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It demonstrates that motivational factors — self-efficacy and favorability — modulate the effectiveness of ITS-based versus paper-based practice, suggesting that the value of an [[intelligent-tutoring]] system is not uniform across learners. For [[personalized-learning]] design, the results imply that practice format assignment should consider the learner's motivational profile: students who feel favorably toward the tutor and enter with lower self-efficacy may benefit more from system-based practice, while the same assignment could be less beneficial for others. The finding that ITS practice did not improve post-training [[self-regulated-learning]]-relevant beliefs such as self-efficacy relative to paper is a caution for the field's implicit assumption that richer technology automatically enhances motivation. The study lays groundwork for aligning instructional formats with learners' [[motivation]]al needs rather than treating practice format as a neutral delivery channel.
+This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It demonstrates that motivational factors — self-efficacy and favorability — modulate the effectiveness of ITS-based versus paper-based practice, suggesting that the value of an [[intelligent-tutoring]] system is not uniform across learners. For [[personalized-learning]] design, the results imply that practice format assignment should consider the learner's motivational profile: students who feel favorably toward the tutor and enter with lower self-efficacy may benefit more from system-based practice, while the same assignment could be less beneficial for others. The finding that ITS practice did not improve post-training [[self-regulated-learning]]-relevant beliefs such as self-efficacy relative to paper is a caution for the field's implicit assumption that richer technology automatically enhances motivation. The study lays groundwork for aligning instructional formats with learners' motivational needs rather than treating practice format as a neutral delivery channel.
 
 ## Connected Concepts
 
@@ -51586,7 +51586,7 @@ Randomized A/B crossover study (N=220) in a junior-level algorithms course compa
 - No statistically significant differences were found between groups on midterm scores, final exam scores, overall course grades, or exam problems structurally aligned with the homework interventions.
 - Students received significantly higher homework scores during periods in which they evaluated GenAI-generated solutions, but this localized advantage on the modified homework items did not translate into downstream summative gains.
 - Survey data indicated that most students did not report changing their study habits in response to the intervention; however, students who did report adapting their study strategies rated the GenAI-evaluation assignments as significantly more helpful.
-- GenAI evaluation redistributes student effo[[learning-gains|learning gains]]nded solution construction toward verification, diagnosis, and judgment, but does not automatically produce stronger conceptual transfer.
+- GenAI evaluation redistributes student effort-directed solution construction toward verification, diagnosis, and judgment, but does not automatically produce stronger conceptual transfer.
 - GenAI-evaluation activities can be incorporated into algorithms coursework without broad performance losses, but meaningful learning gains may require deliberate scaffolding that pushes students beyond simple error diagnosis.
 
 ## Study Design & Method

@@ -17,11 +17,11 @@ confidence: high
 - **Perceptual hierarchies.** White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent; older Black female avatars faced compounded penalties across all measures.
 - **Ingroup alignment drives adoption.** Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise.
 - **Domain moderation.** STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it — bias is context-dependent, not uniform.
-- **[[trust|Trust in AI]]intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
+- **[[trust|Trust in AI]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
 
 ## Implications
 
-This study demonstrates that **the "face" of an AI tutor is a consequential equity variable** in [[ai-education]]. Avatar identity cues activate [[bias-mitigation|social biases]] that shape epistemic trust and whether learners actually adopt AI guidance — with older Black female avatars facing compounded penalties and ingroup alignment driving uptake. For designers, this implies careful attention to avatar representation, identity-neutral design options, and [[bias-mitigation]] in [[pedagogy|pedagogical]] agents, especially in [[stem-education|STEM]] and procedural domains where bias is amplified. It connects to [[trust-calibration]], [[pedagogical-agent|pedagogical agents]], [[human-ai-collaboration]], and [[equity-in-ai-education]].
+This study demonstrates that **the "face" of an AI tutor is a consequential equity variable** in [[ai-education]]. Avatar identity cues activate [[bias-mitigation|social biases]] that shape epistemic trust and whether learners actually adopt AI guidance — with older Black female avatars facing compounded penalties and ingroup alignment driving uptake. For designers, this implies careful attention to avatar representation, identity-neutral design options, and [[bias-mitigation]] in [[pedagogical-agent|pedagogical agents]], especially in [[stem-education|STEM]] and procedural domains where bias is amplified. It connects to [[trust-calibration]], [[pedagogical-agent|pedagogical agents]], [[human-ai-collaboration]], and [[equity-in-ai-education]].
 
 ## Connected Concepts
 
