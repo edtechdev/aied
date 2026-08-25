@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment"
-created: "2026-08-25T09:17:08-04:00"
-updated: "2026-08-25T09:17:08-04:00"
+created: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [automated-assessment, assessment, educational-measurement, multimodal, higher-ed, dataset, benchmark]
 sources: ['raw/papers/multimodal-exam-obe-rubrics-2026.md']

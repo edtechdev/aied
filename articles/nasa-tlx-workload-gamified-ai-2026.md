@@ -1,7 +1,7 @@
 ---
 title: "Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education"
-created: "2026-08-25T09:17:08-04:00"
-updated: "2026-08-25T09:17:08-04:00"
+created: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [game-based-learning, higher-ed, motivation, student-experience, learning-analytics, cognitive-load, instructional-design, self-regulated-learning]
 sources: ['raw/papers/nasa-tlx-workload-gamified-ai-2026.md']

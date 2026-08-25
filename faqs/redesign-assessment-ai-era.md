@@ -1,6 +1,6 @@
 ---
 title: "How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?"
-created: "2026-08-25T11:30:00-04:00"
+created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 tags: [assessment, assessment-validity, authentic-assessment, academic-integrity]
 ---

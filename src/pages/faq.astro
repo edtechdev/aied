@@ -22,9 +22,6 @@ const sorted = faqs.slice().sort((a, b) => (b.data.created || '').localeCompare(
           <a href={href} style="font-weight:600;color:var(--primary);text-decoration:none;font-size:1.05rem;">
             {f.data.title}
           </a>
-          <div style="color:var(--muted-color);font-size:0.8rem;margin-top:0.25rem;">
-            {(f.data.created || '').split('T')[0]}
-          </div>
         </li>
       );
     })}
