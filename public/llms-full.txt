@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 169 concepts, 884 articles, and 4 FAQs.
+> Complete text of 169 concepts, 885 articles, and 4 FAQs.
 
 # Concepts
 
@@ -830,6 +830,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — Career adapt-abilities reduce AI anxiety
 - [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety
+- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences
 
 ---
 
@@ -2397,7 +2398,6 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 As AI transforms occupations, education's role in career development has broadened from credentialing toward building **adaptability** — the capacity to navigate, adjust, and thrive across changing roles. This concept connects education to employability and links to [[ai-anxiety-and-stress]]: students with stronger career adapt-abilities experience less AI anxiety.
 
 ## How career development and readiness appears in the wiki
-
 - **Career adaptability reduces AI anxiety.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group showed the highest AI anxiety. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm the mechanism with SEM: AI anxiety impairs career decisions largely through eroded career adaptability (63.35% of the total effect), and self-efficacy offered limited buffering. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] add that AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across 1,057 students, with women, social-science majors, and second-years most affected. Career readiness is thus an empirically validated buffer against [[ai-anxiety-and-stress|career-related AI anxiety]].
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA report]] documents how instructors and employers prioritize AI skills for college graduates, signaling the workforce demands shaping [[higher-ed|higher education]] curricula.
@@ -2414,7 +2414,6 @@ A recurring theme is that career development in the AI era should be a **deliber
 Career development and readiness connects to [[professional-training]] (the vocational skills dimension), [[ai-literacy]] (the AI-competence dimension), [[self-efficacy]] and [[motivation]] (the psychological resources that support adaptation), [[ai-anxiety-and-stress]] (career anxiety as a key component), [[higher-ed]] and [[k-12]] (the settings where readiness is built), and [[student-experience]] (career concerns as part of the learner experience).
 
 ## Connected Concepts
-
 - [[professional-training]]
 - [[ai-literacy]]
 - [[self-efficacy]]
@@ -2425,7 +2424,6 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[well-being]]
 
 ## Connected Articles
-
 - [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: instructor and employer priorities
@@ -2436,6 +2434,7 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[kim-ai-anxiety-comprehensive-analysis]] — AI anxiety and the fear of replacement
 - [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability (63.35% mediation)
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
+- [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
 
 ---
 
@@ -27642,6 +27641,54 @@ The findings position rubric-grounded GenAI feedback as a promising complement t
 ## Citation
 
 Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055)
+
+---
+
+## [Artificial intelligence perceptions and career anxiety among health sciences students](https://edtechdev.github.io/aied/articles/dag-ai-perceptions-career-anxiety-health-2026/)
+
+> **AI perceptions and career anxiety among health sciences students** — a cross-sectional study of **821 health sciences students** across Turkish universities showing a moderate, positive, significant correlation (r = 0.233, p < 0.001) between **AI anxiety and job search anxiety**; AI anxiety remained a significant predictor of job search anxiety even after controlling socio-demographic variables (β = 0.234, p < 0.001).
+
+Dağ, Nal, Topuz, Kılınç, Demir, & Bektaş (2026) extend the career-anxiety evidence base to **[[medical-education|health professions]]**, showing that AI anxiety is not merely an attitude toward technology but a psychological factor shaping students' perceptions of their professional futures and fear of unemployment. This is the fourth empirical career-anxiety study linked to the [[career-development-and-readiness]] concept.
+
+## Method
+
+- **Sample:** 821 health sciences students (Physical Therapy, Pharmacy Services, Medical Secretarial/Documentation, Nursing, Speech & Language Therapy, Midwifery, Health Management) from Turkish universities; 82.5% female, 59.6% undergraduates.
+- **Design:** Cross-sectional online survey (distributed by class representatives via WhatsApp).
+- **Measures/analysis:** Artificial Intelligence Anxiety Scale and Job Search Anxiety Scale; Pearson correlation and multiple linear regression (SPSS v26).
+
+## Key Findings
+
+- **AI anxiety predicts job search anxiety.** Moderate positive correlation (r = 0.233, p < 0.001); AI anxiety remained a significant predictor (β = 0.234, p < 0.001) even controlling for socio-demographics.
+- **Demographic effects:** income status (p = 0.011, β = −0.088) and educational attainment (p = 0.001, β = 0.208) significantly affected job search anxiety.
+- **Core conclusion:** AI anxiety is not merely a technology attitude but an important psychological factor shaping students' perceptions of their professional futures and fears of unemployment.
+
+## Implications
+
+- **For [[career-development-and-readiness]]:** AI anxiety is a real psychological barrier to employment confidence across disciplines, including health sciences.
+- **For institutions:** enhancing educational programs and [[ai-literacy]]/career counseling services at the university level could significantly reduce AI-related career anxiety.
+- **For [[ai-anxiety-and-stress]]:** corroborates the career-anxiety dimension with [[discipline-specific-aied|discipline-specific]] (health-sciences) evidence.
+
+## Connected Concepts
+
+- [[ai-anxiety-and-stress]]
+- [[career-development-and-readiness]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[well-being]]
+- [[self-efficacy]]
+- [[professional-training]]
+
+## Connected Articles
+
+- [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability
+- [[wang-career-adapt-abilities-ai-anxiety-english-2026]] — career adapt-abilities reduce AI anxiety
+- [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and job-finding anxiety
+- [[kim-ai-anxiety-comprehensive-analysis]] — comprehensive analysis of AI anxiety
+
+## Citation
+
+Dağ, E., Nal, M., Topuz, İ., Kılınç, H., Demir, Y., & Bektaş, G. (2026). [*Artificial intelligence perceptions and career anxiety among health sciences students*](https://doi.org/10.1038/s41598-026-42030-z). *Scientific Reports*, 16, 42030.
 
 ---
 

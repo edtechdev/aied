@@ -1,8 +1,11 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1060
+**Last updated:** 2026-08-24 | **Total entries:** 1061
 
 ## 2026-08-25
+
+- ◐ [[dag-ai-perceptions-career-anxiety-health-2026]] — 'raw/papers/dag-ai-perceptions-career-anxiety-health-2026.md'
+  Artificial intelligence perceptions and career anxiety among health sciences students
 
 - ◐ [[ustun-ai-anxiety-job-finding-anxiety-2026]] — 'raw/papers/ustun-ai-anxiety-job-finding-anxiety-2026.md'
   The Role of Artificial Intelligence Anxiety and Attitudes Toward Artificial Intelligence in University Students' Job Finding Anxiety
