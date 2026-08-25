@@ -1,5 +1,5 @@
 ---
-title: Guardrails (AI in Education)
+title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
 updated: "2026-08-25T08:30:00-04:00"
 type: concept

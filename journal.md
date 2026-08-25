@@ -5,7 +5,7 @@
 ## 2026-08-25
 
 - ◐ [[guardrails]] — (concept)
-  Guardrails (AI in Education)
+  Guardrails
   #pedagogical-safety #prompt-engineering #rag #human-in-the-loop-ai #reinforcement-learning #bias-mitigation #ai-sycophancy #k-12 #llm
 
 - ◐ [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — 'raw/papers/your-brain-on-chatgpt-cognitive-debt-essay-writing.md'
