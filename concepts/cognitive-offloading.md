@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-25T14:00:00-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn]
@@ -52,7 +52,7 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 The wiki's research documents over-reliance as one of the most consequential risks of AI in education:
 
-- **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning."
+- **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolate this as a distinct *pattern* of use: **low-verification uptake** (uncritically accepting AI output) predicted worse academic performance, whereas **evaluative integration** (using AI to support understanding) predicted better performance — and usage **frequency** alone predicted neither. Over-reliance is therefore a *mode of use* that can be separated from how much students use AI.
 - **The agency problem:** [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames over-reliance as an agency and motivation crisis — students bypass learning not because AI is compelling, but because learning tasks feel pointless when AI can complete them effortlessly.
 - **Motivation erosion:** [[ai-availability-student-motivation|Student motivation research]] finds that knowing AI is available reduces the perceived value of learning the skill yourself, a motivational calculus that particularly affects novice learners.
 - **Literacy debt:** [[agentic-literacy-debt|Agentic literacy debt]] describes the cumulative skill deficit that develops when students habitually rely on AI rather than developing their own competencies, analogous to technical debt in software.

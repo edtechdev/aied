@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-23T11:00:00-04:00"
+updated: "2026-08-25T14:00:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, confidence, self-regulated-learning, student-experience, ai-literacy]
 confidence: high
@@ -14,6 +14,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 ### How self-efficacy appears in the wiki's research
 
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts career adaptability.
+- **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using GenAI to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
 - **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
 - **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how professional development builds teachers' confidence in using AI, which affects adoption and integration.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
@@ -47,3 +48,4 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 
+- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy

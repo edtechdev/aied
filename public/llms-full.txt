@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 170 concepts, 895 articles, and 14 FAQs.
+> Complete text of 170 concepts, 898 articles, and 14 FAQs.
 
 # Concepts
 
@@ -109,6 +109,10 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
+
+- [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment tasks
+
+- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI disclosure
 
 ---
 
@@ -1622,7 +1626,7 @@ AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded a
 
 ## Integrity and the debate over detection
 
-AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[plagiarism-detection|detecting AI-generated text]], while a growing body of research argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic, process-based assessment]] over surveillance.
+AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[plagiarism-detection|detecting AI-generated text]], while a growing body of research argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic, process-based assessment]] over surveillance. **[[walton-bearman-assessment-judgement-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgement events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a quantitative counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic self-efficacy. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
 
 ## Assessment redesign in the AI era
 
@@ -1697,6 +1701,10 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[astor-computational-thinking-meta-review-2026]] — Assessment as one of five dominant CT themes
 - [[xiong-ai-educational-measurement-review-2026]] — AI reshaping assessment practice
+
+- [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment tasks (26 students, scroll-back)
+
+- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
 
 ---
 
@@ -2645,7 +2653,7 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 The wiki's research documents over-reliance as one of the most consequential risks of AI in education:
 
-- **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning."
+- **Learning displacement:** [[ai-making-us-stupid|Research on AI's cognitive effects]] documents how AI availability reduces effortful processing — the "Google effect extended to reasoning." [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] isolate this as a distinct *pattern* of use: **low-verification uptake** (uncritically accepting AI output) predicted worse academic performance, whereas **evaluative integration** (using AI to support understanding) predicted better performance — and usage **frequency** alone predicted neither. Over-reliance is therefore a *mode of use* that can be separated from how much students use AI.
 - **The agency problem:** [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames over-reliance as an agency and motivation crisis — students bypass learning not because AI is compelling, but because learning tasks feel pointless when AI can complete them effortlessly.
 - **Motivation erosion:** [[ai-availability-student-motivation|Student motivation research]] finds that knowing AI is available reduces the perceived value of learning the skill yourself, a motivational calculus that particularly affects novice learners.
 - **Literacy debt:** [[agentic-literacy-debt|Agentic literacy debt]] describes the cumulative skill deficit that develops when students habitually rely on AI rather than developing their own competencies, analogous to technical debt in software.
@@ -3906,6 +3914,7 @@ The wiki has dedicated concept pages for several subject areas:
 
 Several threads cut across all disciplines, though they play out differently in each:
 
+- **Discipline as an activity system.** [[jiang-genai-activity-theory-disciplines-2026|Jiang et al. (2026)]] show, across 560 undergraduates in five academic domains, that disciplinary affiliation is significantly associated with students' GenAI **usage frequency and disclosure practices** — disciplines function as activity systems whose norms, policies, and role expectations shape how students engage with and disclose GenAI. This is direct evidence for the wiki's premise that AI in education is not discipline-neutral.
 - **Tutoring and feedback.** AI tutoring systems ([[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
 - **Assessment and evaluation.** [[automated-assessment]], [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
 - **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
@@ -3982,6 +3991,8 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-writing-support-stage-ownership-2026]] — Stage-based AI writing support and ownership
 - [[ai-engineering-education-balancing-act]] — The balancing act of AI in engineering education
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
+
+- [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory: disciplinary differences in GenAI use and disclosure (560 students)
 
 ---
 
@@ -10829,6 +10840,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 ### How self-efficacy appears in the wiki's research
 
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts career adaptability.
+- **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using GenAI to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.
 - **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
 - **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how professional development builds teachers' confidence in using AI, which affects adoption and integration.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[intelligent-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
@@ -10861,6 +10873,8 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[luo-ibl-patterns-llm-bloom-2026]] — IBL patterns in LLM-driven environments (Bloom's perspective)
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
+
+- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic self-efficacy
 
 ---
 
@@ -37958,6 +37972,52 @@ Jiang, H., Li, Y., Chugh, R., Xin, Y., & Cheng, H. (2026). [*The AI-powered co-i
 
 ---
 
+## [Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices](https://edtechdev.github.io/aied/articles/jiang-genai-activity-theory-disciplines-2026/)
+
+> **[[generative-ai|Generative AI]] across the disciplines** — a multi-[[governance|institutional]] [[quantitative-research|quantitative]] study of **560 undergraduates across five academic domains** examining how academic disciplines function as **activity systems** that shape students' GenAI use and disclosure practices. Jiang, Farag, Lucia, Vetter & Silvestro interpret disciplinary differences in GenAI [[student-engagement|engagement]] through the lens of activity theory.
+
+Jiang et al. address the under-studied question of **disciplinary differences** in students' GenAI use and disclosure. Drawing on activity theory, they treat each academic discipline as an activity system in which students, GenAI applications, course policies, and role expectations interact to shape engagement. Survey data were analyzed with descriptive statistics, chi-square tests of association, and ordinal regression.
+
+## Method
+
+- **Design:** Multi-institutional quantitative survey.
+- **Sample:** 560 undergraduates across five academic domains.
+- **Analysis:** Descriptive statistics, chi-square tests of association, ordinal regression; interpreted through disciplinary contradictions in activity theory.
+
+## Key Findings
+
+- **Significant associations** between disciplinary affiliation and students' GenAI **usage frequency** and **disclosure behaviors**.
+- Disciplines differ systematically in how students use and disclose GenAI, reflecting each field's norms, policies, and role expectations.
+- Patterns are interpreted through **disciplinary contradictions** — tensions within each activity system (e.g., between course policies and actual practice, or between expectations for students and how GenAI is embedded).
+
+## Implications
+
+- **For [[discipline-specific-aied|discipline-specific AI education]]:** GenAI use and disclosure are shaped by disciplinary context, not uniform across fields — [[educational-policy-ai|AI policies]] and instruction should be discipline-aware.
+- **For [[academic-integrity]]:** disclosure practices vary by discipline, suggesting integrity and disclosure guidance must account for disciplinary norms rather than applying a one-size-fits-all rule.
+- **For [[higher-ed|higher education]] and [[ai-literacy]]:** supports the view that disciplinary activity systems — norms, policies, role expectations — are key to understanding and shaping student GenAI engagement.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[higher-ed]]
+- [[discipline-specific-aied]]
+- [[academic-integrity]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[writing-education]]
+
+## Connected Articles
+
+- [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment
+- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic outcomes
+- [[qu-wang-disclose-or-not-genai-2026]] — Disclosure and peer influence in GenAI use
+
+## Citation
+
+Jiang, J., Farag, I., Lucia, B., Vetter, M. A., & Silvestro, J. (2026). [*Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices*](https://ssrn.com/abstract=5753622). SSRN Working Paper.
+
+---
+
 ## [Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective](https://edtechdev.github.io/aied/articles/jin-genai-learning-analytics-feedback-literacy/)
 
 # Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective
@@ -52805,6 +52865,56 @@ Balalle, H., & Pannilage, S. (2025). [*Reassessing academic integrity in the age
 
 ---
 
+## [Same tool, different work: patterns of generative AI use and academic outcomes](https://edtechdev.github.io/aied/articles/stamatoulis-genai-use-patterns-2026/)
+
+> **Same tool, different work: patterns of [[generative-ai|generative AI]] use and academic outcomes** — a survey study of **157 undergraduates** showing that *how* students use GenAI matters more for academic outcomes than *how often* they use it. Stamatoulis et al. (2026) identify two distinct patterns of use — **evaluative integration (EI)**, using GenAI to support understanding, and **low-verification uptake (LVU)**, using it as a shortcut — with opposite associations with performance.
+
+The study argues that research on students' GenAI use has relied too heavily on **frequency**, which captures exposure but not *how* students engage. Using exploratory factor analysis of items developed from pilot data, it isolates two qualitatively different use patterns and shows that their associations with performance diverge sharply — while frequency predicts neither performance nor academic self-efficacy.
+
+## Method
+
+- **Design:** Survey; exploratory factor analysis of GenAI-use items developed inductively from pilot data; path modeling.
+- **Sample:** 157 undergraduates.
+- **Key variables:** Evaluative integration (EI, use to support understanding), low-verification uptake (LVU, shortcut use), academic self-efficacy (ASE), [[learning-gains|academic performance]]; frequency included for comparison.
+
+## Key Findings
+
+- **Evaluative integration (EI)** was **positively** associated with performance; **low-verification uptake (LVU)** was **negatively** associated with it.
+- **Mediation via academic self-efficacy:** EI's association with performance was fully indirect through ASE (no remaining direct effect); LVU showed both a significant indirect association *and* a remaining direct negative association.
+- **Frequency predicted neither performance nor ASE** — a striking null result supporting the study's core claim that patterns of use, not amount, matter.
+- In a separate model, frequency strengthened the EI→ASE positive association, though the interaction was not significant when EI and LVU interactions were estimated jointly; no moderation was found for LVU.
+
+## Implications
+
+- **For [[higher-ed|higher education]] and [[ai-literacy]]:** measuring *how* students use GenAI (evaluative integration vs. shortcut uptake) is more informative than frequency — supporting measures of student–GenAI interaction and [[pedagogy|pedagogies]] that promote evaluative integration.
+- **For [[cognitive-offloading|over-reliance]] and the [[ai-misuse-learning-harm|performance–learning gap]]:** LVU (uncritical shortcut use) mirrors the learning-harm pattern, while EI (understanding-oriented use) aligns with productive learning — connecting to [[reducing-ai-misuse]].
+- **For [[self-efficacy]]:** EI's full mediation through academic self-efficacy suggests understanding-oriented use builds confidence, whereas shortcut use predicts poorer outcomes partly independent of it.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[academic-integrity]]
+- [[cognitive-offloading]]
+- [[self-efficacy]]
+- [[reducing-ai-misuse]]
+- [[ai-misuse-learning-harm]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment
+- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure
+- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Scoping review of GenAI and learning
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
+
+## Citation
+
+Stamatoulis, C., Pyrovetsi, L., Mourikis, C., Ponnam, A., & Karayianni, I. (2026). *Same tool, different work: patterns of generative AI use and academic outcomes*. Manuscript submitted for publication.
+
+---
+
 ## [StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing](https://edtechdev.github.io/aied/articles/stanbkt-bayesian-knowledge-tracing/)
 
 StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (BKT) that moves beyond traditional expectation-maximization (EM) point estimates to full Bayesian inference via Stan. The package supports **four estimation methods** (Hamiltonian Monte Carlo, variational inference, Pathfinder, and optimization), **three model variants** (standard, grouped, and hierarchical BKT), and provides posterior predictive inference with visualization utilities. Evaluated on the ASSISTments 2020 dataset, all methods achieve comparable predictive performance while trading off speed vs. posterior fidelity. A key demonstration shows how posterior inference enables **principled comparison of learning, forgetting, guessing, and slipping parameters** across experimental conditions in an educational intervention involving perceptual cue manipulations.
@@ -57685,6 +57795,61 @@ Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). [Say
 ## Citation
 
 Voicu, C.-G. (2026). [*AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education*](https://doi.org/10.61071/JDP.2665). *Journal of Digital Pedagogy*, 5(1), 37–51. https://doi.org/10.61071/JDP.2665
+
+---
+
+## [How university students work on assessment tasks with generative AI: matters of judgement](https://edtechdev.github.io/aied/articles/walton-bearman-assessment-judgement-2025/)
+
+> **How university students work on assessment tasks with [[generative-ai|generative AI]]: matters of judgement** — a [[qualitative-research|qualitative]] [[multimodal]] study of **26 Australian university students** using a scroll-back interview approach to reconstruct how students exercise **judgement** as they work with GenAI on assessment tasks. Walton, Bearman, Crawford, Tai & Boud (2025) identify **six categories of judgement events**, revealing a wide spectrum — from critically evaluating GenAI knowledge to uncritically submitting AI content.
+
+Walton et al. (2025) shift the assessment debate from *whether* students use GenAI to *how* they judge their way through working with it. Using the scroll-back method (revisiting students' actual historical GenAI interactions during interviews), the study offers a fine-grained account of student decision-making in real assessment contexts — spanning responsible, critical use and problematic shortcuts.
+
+## Method
+
+- **Design:** Qualitative, multimodal; scroll-back interviews that revisit traces of students' historical interactions with GenAI.
+- **Sample:** 26 Australian university students.
+- **Analysis:** Holistic definition of judgement; narrative approach.
+
+## Key Findings — six categories of judgement events
+
+1. **Making judgements about knowledge** when working with GenAI — evaluating the accuracy and [[trust|trustworthiness]] of AI output.
+2. **Learning to judge GenAI through its limitations** — calibrating expectations from AI's errors and gaps.
+3. **Relying on GenAI for things they could not otherwise do** — using AI to extend capacity beyond current skill.
+4. **Adopting ideas with low levels of criticality** — accepting AI output without scrutiny.
+5. **Misjudging GenAI contributions as their own** — failing to distinguish AI-generated from self-generated work.
+6. **Submitting GenAI content in an assignment** — in some cases directly submitting AI output.
+
+The categories span a continuum from productive judgement (1–3) to problematic or unreflective use (4–6), showing that student GenAI use in assessment is heterogeneous and shaped by individual judgement capacity.
+
+## Implications
+
+- **For [[assessment]] and [[academic-integrity]]:** students exercise a range of judgements, not a binary of compliant vs. dishonest use — integrity frameworks must recognize this spectrum.
+- **For [[ai-literacy]] and [[reducing-ai-misuse]]:** the findings point to judgement (evaluating AI knowledge, calibrating trust, recognizing AI's contributions) as a teachable capacity, connecting to the [[ai-misuse-learning-harm|performance–learning gap]] and [[cognitive-offloading|over-reliance]] literature.
+- **For [[authentic-assessment]]:** because AI is now embedded in everyday assessment practice, redesigning tasks to require and reward judgement is central.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
+- [[authentic-assessment]]
+- [[student-experience]]
+- [[ai-misuse-learning-harm]]
+
+## Connected Articles
+
+- [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake)
+- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure
+- [[assessing-quality-ai-generated-exams-field-2025]] — AI-generated exams and assessment quality
+- [[qu-wang-disclose-or-not-genai-2026]] — Disclosure and peer influence in GenAI use
+
+## Citation
+
+Walton, J., Bearman, M., Crawford, N., Tai, J., & Boud, D. (2025). [*How university students work on assessment tasks with generative AI: matters of judgement*](https://doi.org/10.1080/02602938.2025.2570328). *Assessment & Evaluation in Higher Education*.
 
 ---
 
