@@ -367,7 +367,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`generative-ai`** — Generative AI
 - **`global-south`** — Global South
 - **`governance`** — AI Governance
-- **`guardrails`** — Guardrails (AI in Education)
+- **`guardrails`** — Guardrails
 - **`hallucination-risk`** — Hallucination Risk
 - **`help-seeking`** — Help-Seeking
 - **`higher-ed`** — AI in Higher Education
