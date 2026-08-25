@@ -1,8 +1,11 @@
 # Journal
 
-**Last updated:** 2026-08-24 | **Total entries:** 1069
+**Last updated:** 2026-08-24 | **Total entries:** 1070
 
 ## 2026-08-25
+
+- ◐ [[liang-ai-learning-motivation-sdt-2026]] — 'raw/papers/liang-ai-learning-motivation-sdt-2026.md'
+  From disengaged to self-determined: a latent transition analysis of students' AI learning motivation
 
 - ◐ [[ai-toys-child-development-2026]] — 'raw/papers/ai-toys-child-development-2026.md'
   Artificial Intelligence in Toys: Implications for Child Development and Play

@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-24T20:00:00-04:00"
+updated: "2026-08-25T12:20:00-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 confidence: high
@@ -46,3 +46,5 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-availability-student-motivation]]
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+
+- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
