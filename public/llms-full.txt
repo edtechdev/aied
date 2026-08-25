@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 169 concepts, 885 articles, and 4 FAQs.
+> Complete text of 169 concepts, 886 articles, and 4 FAQs.
 
 # Concepts
 
@@ -6000,6 +6000,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Tertiary students' AI adoption
 - [[isaza-chatgpt-engineering-prompting-2026]] — Engineering students' ChatGPT use
+
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
 
 ---
 
@@ -12063,6 +12065,8 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
+
 ---
 
 ## [Teacher Education](https://edtechdev.github.io/aied/concepts/teacher-education/)
@@ -12238,6 +12242,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
 
 ---
 
@@ -52559,6 +52565,59 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 ## Citation
 
 CRPE, S.N. (2026). [How State Policy Can Help Teachers Use AI Well](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/)
+
+---
+
+## [Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI](https://edtechdev.github.io/aied/articles/stenalt-good-education-teacher-ai-conceptions-2026/)
+
+> **Understanding what good education is** — a phenomenographic study interviewing 16 teachers in Danish higher education to map how they understand and frame AI in teaching and student learning. It identifies **three qualitatively different ways of understanding the relationship between teaching and AI**, **three ways of understanding the relationship between learning and AI**, and **four approaches to designing for student learning experiences around AI** — highlighting the plurality and messiness of educational practice, and the need to attend to **agency and teachers' labour**.
+
+Stenalt (2026) shifts focus from students and tools to **teachers' conceptions** of AI — what teachers believe counts as good education in an AI-integrated context. Rather than prescribing how AI should be used, it surfaces the variation in how educators themselves conceptualize AI's role, which shapes how they design AI into learning experiences.
+
+## Method
+
+- **Approach:** Phenomenography (a [[qualitative-research|qualitative]] method for mapping the qualitatively different ways people experience/conceive a phenomenon).
+- **Sample:** 16 teachers in Danish higher education.
+- **Focus:** Teachers' conceptions of AI in higher-education teaching processes and student learning processes, plus their approaches to designing AI into student learning experiences.
+
+## Key Findings
+
+- **Three conceptions of teaching–AI relationship:** qualitatively different ways teachers understand the relationship between teaching and AI.
+- **Three conceptions of learning–AI relationship:** qualitatively different ways of understanding AI in relation to student learning.
+- **Four design approaches:** four qualitatively different approaches to designing AI into student learning experiences.
+- **Plurality and messiness:** the outcome spaces highlight that educational practice is plural and messy — there is no single "right" way to understand [[ai-education|AI in education]].
+- **Agency and teachers' labour:** the study points to the need to attend to teacher agency and the labour of integrating AI.
+
+## Implications
+
+- **For [[teacher-role]] and [[teacher-ai-competency]]:** teacher conceptions of AI vary qualitatively and shape design; supporting teacher agency and acknowledging the labour of AI integration are essential, not just training.
+- **For [[curriculum-design]] and [[pedagogy]]:** the four design approaches provide a vocabulary for how educators actually design AI into learning, informing [[higher-ed|higher-education]] practice.
+- **For [[ai-literacy]]:** complements learner-focused AI literacy with the teacher-conception dimension — how educators frame "good education" with AI.
+
+## Connected Concepts
+
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[curriculum-design]]
+- [[pedagogy]]
+- [[qualitative-research]]
+- [[learning-theories]]
+- [[teacher-education]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
+- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
+- [[teachers-reflective-regulators-cognition-offloading]] — teachers as reflective regulators
+- [[enright-staff-perspectives-genai-2026]] — staff perspectives on GenAI
+- [[crompton-faculty-technology-integration-standards-2026]] — faculty technology-integration standards
+
+## Citation
+
+Stenalt, M. H. (2026). [*Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI*](https://doi.org/10.1080/13562517.2026.2722337). *Teaching in Higher Education*.
 
 ---
 

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-24 | **Total pages:** 1061
+**Last updated:** 2026-08-24 | **Total pages:** 1062
 ---
 ## Concepts
 
@@ -907,6 +907,7 @@
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[stem-education]] — STEM Education and AI
+- [[stenalt-good-education-teacher-ai-conceptions-2026]] — Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI
 - [[storytelling-in-education]] — Storytelling in Education
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The Generative AI Learning Penalty: Evidence from Chinese Secondary Education
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
