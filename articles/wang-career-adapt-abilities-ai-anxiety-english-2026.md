@@ -1,6 +1,6 @@
 ---
 title: "The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered"
-created: "2026-08-25T10:20:00-04:00"
+created: "2026-08-25T07:45:00-04:00"
 updated: "2026-08-25T10:20:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, career-adaptability, self-efficacy, higher-ed, ai-literacy, career-development, well-being]

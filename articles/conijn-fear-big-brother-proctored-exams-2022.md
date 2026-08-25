@@ -1,6 +1,6 @@
 ---
 title: "The fear of Big Brother: The potential negative side-effects of proctored exams"
-created: "2026-08-25T10:00:00-04:00"
+created: "2026-08-25T07:42:00-04:00"
 updated: "2026-08-25T10:00:00-04:00"
 type: article
 tags: [remote-proctoring, ai-anxiety-and-stress, academic-integrity, test-anxiety, higher-ed, assessment, privacy, equity-in-ai-education]

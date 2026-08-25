@@ -1,7 +1,7 @@
 ---
 title: "Evaluation in the Age of AI: Output as Evidence of Learning"
-created: "2026-08-25T09:17:08-04:00"
-updated: "2026-08-25T09:17:08-04:00"
+created: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [assessment, higher-ed, academic-integrity, generative-ai, llm, ethics, student-agency, cognitive-offloading]
 sources: ['raw/papers/evaluation-age-ai-output-evidence-2026.md']

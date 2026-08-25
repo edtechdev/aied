@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model"
-created: "2026-08-25T09:17:08-04:00"
-updated: "2026-08-25T09:17:08-04:00"
+created: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [teacher-education, constructivist, instructional-design, generative-ai, teacher-ai-competency, professional-development, cognitive-offloading, teacher-agency]
 sources: ['raw/papers/sahab-model-genai-constructivist-id-2026.md']

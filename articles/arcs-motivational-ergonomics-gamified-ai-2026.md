@@ -1,7 +1,7 @@
 ---
 title: "Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training"
-created: "2026-08-25T09:17:08-04:00"
-updated: "2026-08-25T09:17:08-04:00"
+created: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [game-based-learning, motivation, higher-ed, instructional-design, self-determination-theory, student-experience, workplace-training]
 sources: ['raw/papers/arcs-motivational-ergonomics-gamified-ai-2026.md']

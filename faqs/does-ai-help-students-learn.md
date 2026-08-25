@@ -1,6 +1,6 @@
 ---
 title: "Does Using AI Actually Help My Students Learn?"
-created: "2026-08-25T11:30:00-04:00"
+created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 tags: [ai-literacy, cognitive-offloading, active-learning, ai-ed-evaluation, assessment]
 ---
