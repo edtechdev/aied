@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-25T09:00:00-04:00"
+updated: "2026-08-26T11:00:00-04:00"
 type: concept
 tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-interaction, ai-literacy]
 confidence: medium
@@ -11,8 +11,6 @@ confidence: medium
 
 Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on spoken or written dialogue, most commonly realized as chatbots and, more recently, [[generative-ai|generative]] [[llm|LLM]]-based assistants such as ChatGPT, Claude, and multimodal educational avatars. Modern CAI agents fall into machine-learning-based, NLP-based, and hybrid categories, with text-based agents the most prevalent in education. As learning tools they function as [[intelligent-tutoring|intelligent tutors]], [[feedback]] providers, [[student-ai-interaction|interaction partners]], and administrative assistants — overlapping with [[pedagogical-agent|pedagogical agents]] while spanning a broader set of applications.
 
-- **[[colbran-student-perspectives-genai-chatbots-2026|Colbran et al.]]** human-centred mixed-methods study details how students actually perceive and use GenAI chatbots in higher education.
-
 ## How conversational AI appears in the wiki
 
 **An umbrella-review synthesis.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of CAI agents]] (34 review articles) shows CAI utilization is concentrated in teaching and learning support (97.1% of reviews), psychological and motivational support (91.2%), and [[metacognition|metacognitive]] and personal development (88.2%), while administrative support, research management, and healthcare education lag. The review documents that human–AI relationship concerns persist across all CAI generations, with [[academic-integrity]] and data [[privacy]] emerging as newer ethical issues, and calls for HCI-grounded, evidence-based design and stronger [[ai-literacy]] support.
@@ -20,6 +18,8 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 **From chatbots to tutoring agents.** The wiki traces CAI's evolution from rule-based FAQ chatbots toward [[intelligent-tutoring|tutoring-focused]] [[pedagogical-agent|agents]]. The [[conversational-ai-tutors-framework|conversational AI tutors framework]] argues proven ITS technologies ([[knowledge-tracing]], affect detection, [[student-modeling|student modeling]]) should anchor generative tutors while [[generative-ai]] supplies flexible dialogue. Research on [[measuring-llm-tutors-teach-vs-solve|whether LLM tutors teach or solve]] and [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]] shows pedagogically designed guardrails matter: raw general chatbots can short-circuit reasoning while structured tutors preserve [[desirable-difficulties|productive struggle]].
 
 **Interaction and collaboration.** Conversational agents are increasingly framed as interaction partners rather than answer-givers. [[student-ai-interaction]] captures how learners prompt, question, and verify with CAI in practice. In [[collaborative-learning]], agents mediate participation and shared regulation, and in [[language-learning]] they provide real-time conversational practice. The [[human-ai-collaboration]] thread examines when this partnership preserves versus substitutes for the learner's cognitive work.
+
+**Student perspectives.** Real-world usage shows adoption hinges on [[ai-literacy]] and user experience more than on technical capability. A human-centred mixed-methods study of the "Jordan Chatbot," a GPT-4o-based pedagogical agent in an Australian law course, found students hold positive attitudes and perceive gains in knowledge while strongly supporting [[academic-integrity]] requirements; over a third of interactions occurred after hours, confirming the value of 24/7 availability ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notably, AI literacy — not general technology proficiency — predicted willingness and confidence to use the chatbot, and usability (an intrusive pop-up design) was the largest barrier among non-users, ahead of trust, preference for staff, and academic-integrity fears.^[[colbran-student-perspectives-genai-chatbots-2026]] The study recommends human-centred design, explicit AI policies and assessment labels, staff and student training, and continuous error monitoring — evidence that effective CAI deployment is as much a design and literacy problem as a technical one.
 
 **Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[plagiarism-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses.
 
@@ -37,7 +37,7 @@ Conversational AI is best understood as an **interaction modality** that overlap
 
 ## Practical guidance
 
-Choose conversational agents to support teaching, [[motivation]], and [[metacognition]] rather than merely to answer questions, and design for HCI-grounded, participatory, user-centered interaction. Guard against [[cognitive-offloading|over-reliance]] by pairing CAI with [[ai-literacy]] instruction and [[feedback]] that keeps the learner cognitively productive. Evaluate CAI on pedagogical outcomes — not just task completion — and plan for equity and accessibility from the start rather than as an afterthought.
+Choose conversational agents to support teaching, [[motivation]], and [[metacognition]] rather than merely to answer questions, and design for HCI-grounded, participatory, user-centered interaction. Guard against [[cognitive-offloading|over-reliance]] by pairing CAI with [[ai-literacy]] instruction and [[feedback]] that keeps the learner cognitively productive. Attend to AI literacy and usability explicitly — since these — not general digital skill — drive adoption and non-use ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]) — and pair deployment with clear AI-use policies, assessment labels, and training. Evaluate CAI on pedagogical outcomes — not just task completion — and plan for equity and accessibility from the start rather than as an afterthought.
 
 ## Connected Concepts
 
@@ -45,9 +45,9 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[pedagogical-agent]]
 - [[generative-ai]]
 - [[llm]]
-- [[human-ai-collaboration]]
 - [[student-ai-interaction]]
 - [[ai-literacy]]
+- [[human-ai-collaboration]]
 - [[cognitive-offloading]]
 - [[feedback]]
 - [[metacognition]]
@@ -72,7 +72,8 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+- [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
