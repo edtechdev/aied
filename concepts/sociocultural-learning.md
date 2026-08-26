@@ -40,6 +40,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[scaffolding]]
 - [[constructivist]]
 - [[learning-theories]]
+- [[activity-theory-aied]]
 - [[situated-learning]]
 - [[distributed-cognition]]
 - [[metacognition]]
@@ -53,6 +54,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
 
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[collaborative-ai-tutoring]] — Collaborative AI tutoring

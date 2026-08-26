@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 170 concepts, 889 articles, and 14 FAQs.
+> Complete text of 171 concepts, 904 articles, and 14 FAQs.
 
 # Concepts
 
@@ -265,6 +265,75 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
+
+---
+
+## [Activity Theory](https://edtechdev.github.io/aied/concepts/activity-theory-aied/)
+
+> **Activity theory** (Cultural-Historical Activity Theory, CHAT) — a Vygotskian framework that analyzes learning and work as *tool-mediated, object-oriented, collective activity systems* composed of subject, object, tools/mediating artifacts, community, rules, and division of labor. In [[ai-education|AI in education]], activity theory is used both as an **analytic lens** (to understand how AI reshapes the activity systems of teaching, learning, and research) and as a **design tool** (to diagnose systemic contradictions and redesign interventions). It frames AI systems — [[generative-ai|generative AI]] included — as *mediating artifacts* that reconfigure the division of labor, rules, and community of educational activity, for better and worse.
+
+### The concept
+
+Activity theory descends from Vygotsky's and Leontiev's cultural-historical psychology (with later development by Engeström) and is a central strand of the broader [[sociocultural-learning|sociocultural]] tradition. Its core claim is that human activity is not reducible to individual cognition or isolated tool use; it is a **collective, object-oriented, tool-mediated system**. Engeström's canonical model of an activity system comprises six interacting elements:
+
+- **Subject** — the individual or group whose agency is the point of view of the analysis (e.g., a student, a teacher, a department).
+- **Object** — the motive or goal toward which activity is directed; the "raw material" that the activity transforms.
+- **Tools / mediating artifacts** — the instruments, technologies, signs, and language through which the subject acts on the object.
+- **Community** — the group that shares the object and constitutes the social context of the activity.
+- **Rules** — the explicit and implicit norms, conventions, and regulations that govern activity.
+- **Division of labor** — how tasks, power, and responsibility are distributed across the community.
+
+A defining feature is **contradiction**: activity systems contain historically accumulating structural tensions (within an element, between elements, or between an old and a newly introduced element/tool). Contradictions are not bugs to be eliminated but the *driving force of development* — when aggravated, they prompt participants to question and deviate from established norms, opening the way for expansive transformation (Engeström, 2001).
+
+### Why activity theory matters for AI in education
+
+AI introduces new **tools/mediating artifacts** into existing educational activity systems, which produces both opportunities and contradictions. Activity theory gives AIED research a vocabulary and method for analyzing these changes:
+
+- **AI as a mediating artifact that reconfigures the division of labor.** AI systems do not simply transmit information; they take over tasks, change who does what, and redistribute cognitive work across humans and machines. Studies use activity theory to examine how AI shifts the division of labor between students, teachers, and tools — e.g., in collaborative writing or tutoring — and what this means for [[agency|human agency]].
+- **Analyzing teacher adoption and [[faculty-development|professional development]].** Activity theory reframes teacher uptake of AI as a property of the whole activity system (community norms, rules, division of labor, [[governance|institutional]] expectations) rather than of individual attitudes alone. [[quantitative-research|Quantitative]] work [[activity-theory-teachers-adoption-ai-sem-2026|models the six AT components as measurable constructs]] predicting teachers' intention to adopt AI; [[qualitative-research|qualitative]] work [[lee-anson-k12-teachers-ai-activity-theory|documents teachers' sixfold sentiments]] (unsuitable, impersonal, imperfect, uncertain, assisting, inevitable); and intervention work [[activity-theory-teacher-pd-ai-agent-design-2026|uses CHAT to diagnose and redesign]] teacher professional development, treating disengagement as a rational response to need-thwarting systems.
+- **Norm change and systemic disruption.** Because AI introduces a new tool into the activity system, it generates contradictions with existing rules and norms. Studies of students' GenAI use [[ai-disruption-engineering-education-chat-2026|show how new implicit rules emerge]] as students adapt — transforming norms around self-direction, learning objectives, the teacher's role, and [[ethics]].
+- **Anchoring [[learning-analytics|learning analytics]] and measurement.** Activity theory can ground the *design* of analytics by mapping measurement facets onto activity-system elements. A CHAT-anchored analytics pipeline [[chat-anchored-learning-analytics-ai-literacy-2026|maps temporal participation, discourse quality, and concept sophistication to CHAT elements]] to detect early at-risk participation in small discussion-based classes.
+- **Disciplinarity and cross-context variation.** Because activity systems are historically and culturally situated, activity theory explains why the same AI tool produces different outcomes across disciplines and contexts — each discipline functioning as an activity system with its own rules, community, and division of labor [[jiang-genai-activity-theory-disciplines-2026|(e.g., differences in undergraduates' GenAI use and disclosure across academic domains)]].
+
+### Activity theory and related frameworks
+
+Activity theory sits within the [[sociocultural-learning|sociocultural]] family and is often paired with, or contrasted against, other frameworks: **[[distributed-cognition|distributed cognition]]** and **[[situated-learning|situated learning]]** share its emphasis on context and mediation; **[[community-of-inquiry|community of inquiry]]** and **communities of practice** share its collective orientation; and **technology-acceptance** models (e.g., [[technology-acceptance-model|TAM]]) offer a contrasting, more individual-belief account of adoption that activity theory critiques for flattening the collective and structural dimensions. In AIED research, activity theory is frequently combined with other theories — e.g., paired with [[self-determination-theory|Self-Determination Theory]] in teacher-PD intervention design, or with ecological systems theory in situated-AI-ethics frameworks [[raffaghelli-situated-ai-ethics-2026|(Raffaghelli et al., 2026)]].
+
+### Key research themes
+
+- **How AI redistributes the division of labor** in teaching, learning, and research activity systems.
+- **Systemic contradictions** as drivers of norm change and expansive transformation in AI-augmented education.
+- **Teacher adoption and professional development** as activity-system (not merely individual) phenomena.
+- **Disciplinary and cross-cultural variation** in AI use, explained by differences in activity systems.
+- **Theory-anchored learning analytics** that ground measurement in activity-system elements.
+- **The object of AI-mediated activity** — whether the object of learning shifts from mastery to output, and what that means for [[learning-gains|learning outcomes]].
+
+### Practical implications
+
+For designers and educators, activity theory counsels looking beyond the AI tool itself to the whole activity system it enters: the rules that govern acceptable use, the community and its norms, the division of labor between human and machine, and the object/motive of the activity. Sustainable AI integration requires *redesigning the system* — addressing contradictions, updating norms, and rebalancing roles — not merely supplying better tools or individual training. For researchers, activity theory offers a rigorous unit of analysis (the activity system, not the individual) and a method ([[formative-assessment|formative]] intervention, contradiction analysis) for studying and shaping AI's role in education.
+
+## Connected Concepts
+- [[sociocultural-learning]] — the theoretical family activity theory belongs to (Vygotskian, cultural-historical)
+- [[learning-theories]] — the hub that situates activity theory among learning theories
+- [[distributed-cognition]] — shared emphasis on tool-mediated, contextually distributed cognition
+- [[situated-learning]] — shared emphasis on context and participation in activity
+- [[agency]] — how AI redistributes human agency across the activity system
+- [[teacher-role]] — activity theory frequently analyzes teachers' adoption and practice
+- [[learning-analytics]] — CHAT anchors the design of analytics
+- [[generative-ai]] — the AI artifact that enters and disrupts educational activity systems
+- [[technology-acceptance-model]] — the contrasting individual-belief account of adoption
+
+## Connected Articles
+- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
+- [[genai-runaway-object-math-higher-ed]] — CHAT analysis of GenAI reshaping teaching and research activity systems
+- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics fusing ecological systems theory with CHAT
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — CHAT framing of AI interventions for students with disabilities
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
+- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
+- [[ai-disruption-engineering-education-chat-2026]] — Changing student norms in engineering education via CHAT
+- [[activity-theory-teacher-pd-ai-agent-design-2026]] — CHAT-SDT redesign of teacher professional development
+- [[chat-anchored-learning-analytics-ai-literacy-2026]] — CHAT-anchored learning analytics pipeline for AI literacy
+- [[chatgpt-critical-creative-thinking-review]] — CHAT as one theoretical lens on ChatGPT pedagogy
 
 ---
 
@@ -7553,6 +7622,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[self-efficacy]]
 - [[motivation]]
 - [[sociocultural-learning]]
+- [[activity-theory-aied]]
 - [[scaffolding]]
 - [[transfer-of-learning]]
 - [[learning-gains]]
@@ -7569,6 +7639,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
@@ -11257,6 +11328,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[scaffolding]]
 - [[constructivist]]
 - [[learning-theories]]
+- [[activity-theory-aied]]
 - [[situated-learning]]
 - [[distributed-cognition]]
 - [[metacognition]]
@@ -11270,6 +11342,7 @@ The sociocultural strand is tightly coupled to Cognitive Load Theory (support sh
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
 
 - [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[collaborative-ai-tutoring]] — Collaborative AI tutoring
@@ -13571,6 +13644,67 @@ Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). [Access i
 
 ---
 
+## [An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design](https://edtechdev.github.io/aied/articles/activity-theory-teacher-pd-ai-agent-design-2026/)
+
+> **Synthesis:** Xin et al. (2026) report a two-cycle [[formative-assessment|formative]] intervention study addressing the "low [[student-engagement|engagement]] paradox" in teacher [[faculty-development|professional development]] (TPD) for [[pedagogy|pedagogical]] AI agent design — why teachers disengage from AI agent creation soon after training. Cycle 1 (N = 218) found that despite completing comprehensive TPD, **87% of teachers stopped creating agents within three weeks**; behavioral tracking and interviews identified systemic contradictions — not capacity deficits — as the source of psychological need frustration. Cycle 2 (N = 26) implemented a Cultural-Historical Activity Theory (CHAT) and [[self-determination-theory|Self-Determination Theory]] (SDT)-driven redesign directly targeting the diagnosed contradictions, achieving synchronized enhancement of both capacity and willingness. The authors reframe implementation failure as a rational response to need-thwarting systems and offer a replicable CHAT-SDT diagnostic framework.
+
+## Key Findings
+
+- **The low engagement paradox.** 87% of teachers who completed comprehensive TPD stopped creating pedagogical AI agents within three weeks — a disengagement that points to systemic, not individual, causes.
+- **Systemic contradictions, not capacity deficits.** Using CHAT, the study diagnosed the disengagement as arising from activity-system contradictions (primary/secondary/tertiary types) rather than a lack of teacher capability or training.
+- **CHAT + SDT redesign.** Cycle 2 redesigned the TPD activity system to directly target diagnosed contradictions, using Self-Determination Theory to address psychological need frustration. The redesign synchronized gains in both teacher capacity (ability) and willingness (motivation) for sustained AI agent creation.
+- **A replicable CHAT-SDT diagnostic framework.** The study offers a diagnostic framework for transformative professional development that treats implementation failure as a rational response to need-thwarting systems.
+
+## Implications for AI in Education
+
+The study positions [[activity-theory-aied|CHAT]] as a diagnostic and redesign tool for [[faculty-development|teacher professional development]], arguing that sustainable AI adoption requires transforming the activity system (tools, rules, community, division of labor) rather than merely upskilling individuals. Its CHAT-SDT framework reframes implementation failure as systemic — a needed correction to individual-deficit models of teacher AI adoption. It connects to the wiki's [[teacher-role]], [[agentic-ai|pedagogical AI agents]], and [[k-12]] concepts, and pairs with the other activity-theory teacher-adoption studies.
+
+## Connected Concepts
+- [[activity-theory-aied]]
+- [[teacher-role]]
+- [[faculty-development]]
+- [[agentic-ai]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
+- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
+
+## Citation
+Xin, H., Niu, Q., Li, S., Sun, Y., Chai, C. S., Huang, L., & Chen, G. (2026). [*An activity-theoretical approach to teacher professional development in pedagogical AI agent design*](https://arxiv.org/abs/2605.12934). arXiv:2605.12934.
+
+---
+
+## [Activity Theory as a Lens on Teachers' Adoption of AI Technologies](https://edtechdev.github.io/aied/articles/activity-theory-teachers-adoption-ai-sem-2026/)
+
+> **Synthesis:** Lee & Granziera (2026) test [[activity-theory-aied|activity theory]] as an explanatory framework for why some educators adopt AI tools while others remain reluctant, using factor analysis and structural equation modeling (SEM) on 557 primary, secondary, and pre-service teachers. Conceptualizing each of activity theory's six components (Individual/Subject, Objectives, Tools, Community, Rules/Regulations, Division of Labor) as measurable constructs, they find that Individual and Community components significantly explain teachers' Intention to adopt AI-driven tools. Objectives and Division of Labor were directly linked to Individual (and indirectly to Intention); Community linked to Rules/Regulations and Government, which were indirectly associated with Intention. The results suggest career stage and teaching level shape adoption, offering activity theory as an alternative to [[technology-acceptance-model|technology-acceptance]] framings of AI uptake in education.
+
+## Key Findings
+
+- **AT components are reliably measurable and explanatory.** Factor analysis and SEM demonstrated that the six activity-theory components can be operationalized as latent constructs with explanatory power over teachers' intention to use AI tools (N = 557).
+- **Individual and Community drive intention.** In the full sample, both the Individual (Subject) and Community components played significant roles in explaining teachers' Intention to adopt AI tools — pointing to both personal and collective/social drivers.
+- **Indirect pathways through Objectives and Division of Labor.** Objectives and Division of Labor were directly linked to Individual and indirectly associated with Intention; Community was linked to Rules/Regulations and Government, which were indirectly associated with Intention.
+- **Stage and level matter.** Primary teachers showed notable roles in intention, and pre-service teachers' results resembled — but were not identical to — in-service patterns, indicating adoption mechanisms differ across career stage and teaching level.
+
+## Implications for AI in Education
+
+The study positions [[activity-theory-aied|activity theory]] as a structural lens on teacher adoption of AI, complementing individual-belief models like [[technology-acceptance-model|TAM]] by foregrounding the community, rules, and division of labor that shape a teacher's decision to use AI. For practice, it implies that [[faculty-development|professional development]] and [[governance|institutional]] adoption strategies should address not only individual attitudes but the collective activity system — community norms, regulations, and role divisions — in which teachers work. It connects to the wiki's [[teacher-role]] and [[k-12]] concepts and to the broader question of how [[faculty-development|teacher professional development]] should be designed for the AI era.
+
+## Connected Concepts
+- [[activity-theory-aied]]
+- [[teacher-role]]
+- [[technology-acceptance-model]]
+- [[faculty-development]]
+- [[k-12]]
+
+## Connected Articles
+- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
+
+## Citation
+Lee, J., & Granziera, H. (2026). [*Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling*](https://doi.org/10.1016/j.caeo.2026.100349). Computers and Education Open, 10, 100349.
+
+---
+
 ## [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://edtechdev.github.io/aied/articles/adapt-adaptive-lesson-plan-transformer/)
 
 > **Synthesis:** Zhang et al. (2026) present AdaPT, an adaptive lesson-plan transformer that adapts lesson plans across regional and differentiated instruction contexts. It improves teacher efficiency while maintaining pedagogical alignment with local curricula — addressing the problem that high-quality lesson plans often mismatch disparate educational contexts, and that current tools generate content from scratch rather than adapting existing plans, increasing teacher workload.
@@ -15257,6 +15391,39 @@ Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2
 
 ---
 
+## [How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles](https://edtechdev.github.io/aied/articles/ai-assistance-skill-development-logic-puzzles-2026/)
+
+> **Synthesis:** While AI assistance can improve immediate task performance, it may also undermine the longer-term development of skills. In a controlled logic-puzzle experiment with on-demand AI assistance, Wu and colleagues vary AI request costs and find that lower-cost assistance induces more frequent AI use. Participants who request AI assistance during the access phase perform worse at the task after assistance is removed, and their subsequent unassisted performance is overestimated when predicted from earlier AI-assisted performance. Using a Bayesian latent ability model, they find that greater independent problem-solving effort is associated with larger gains in latent ability, consistent with skill development being weaker when AI assistance substitutes for independent reasoning.
+
+## Key Findings
+
+1. Lower-cost AI assistance induces more frequent AI use by participants.
+2. Participants who request AI assistance during the access phase perform worse at the task after assistance is removed.
+3. Unassisted performance is overestimated when predicted from earlier AI-assisted performance.
+4. Greater independent problem-solving effort during the AI-access phase is associated with larger gains in latent ability.
+5. Skill development is weaker when AI assistance substitutes for independent reasoning, consistent with [[cognitive-offloading]] dynamics.
+
+## Connected Concepts
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[agency]]
+- [[metacognition]]
+- [[llm]]
+- [[reducing-ai-misuse]]
+
+## Connected Articles
+- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student-AI Collaboration
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation
+
+## Citation
+Wu, Belem, Fu, Steyvers, & Smyth (2026). [*How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles*](https://arxiv.org/abs/2608.23543). arXiv:2608.23543.
+
+---
+
 ## [Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education](https://edtechdev.github.io/aied/articles/ai-assisted-collaborative-learning-model-dbr/)
 
 > **Synthesis:** This Design-Based Research (DBR) study develops and evaluates an **AI-Assisted Collaborative Learning (AACL) Model** — an eight-week intervention with Indonesian undergraduates working in groups of four to five on authentic [[problem-based-learning|problem-based tasks]]. The model positions [[generative-ai|generative AI]] as an "intelligent learning partner" that supports idea generation, analysis, reflection, and collaborative decision-making while students remain the primary decision-makers. Results show substantial [[learning-gains|learning gains]]: critical thinking rose 24.1% (68.21 → 84.63) and problem-solving rose from 70.14 to 88.72, alongside highly positive student perceptions.
@@ -16076,6 +16243,37 @@ Mahamad, S., Chin, Y.H., Zulmuksah, N.I.N., Haque, M.M., Shaheen, M., & Nisar, K
 
 ---
 
+## [The AI Disruption in Engineering Education: Changing Student Norms Through CHAT](https://edtechdev.github.io/aied/articles/ai-disruption-engineering-education-chat-2026/)
+
+> **Synthesis:** Leino Lindell & Stöhr (2026) use Cultural-Historical Activity Theory (CHAT) to analyze how [[generative-ai|generative AI]] disrupts and transforms established norms and practices in [[engineering-education|engineering education]] from a student perspective. Thematic analysis of interviews with 25 students at a technical university in Northern Europe identifies four themes of challenge/transformation: (1) the self-directiveness of students, (2) the objectives of learning, (3) the role of the teacher, and (4) ethical aspects. Students are developing new implicit rules for using GenAI to enhance skills and understanding, driven by contradictions between traditional academic tools and new expectations for [[self-directed-learning|self-directed]], AI-mediated learning.
+
+## Key Findings
+
+- **Four themes of GenAI-driven norm change.** The analysis surfaced challenges or transformations in: students' self-directiveness, the objectives of learning, the role of the teacher, and ethical aspects of academic work.
+- **New implicit rules for GenAI use.** Students are developing informal, emergent norms (implicit rules) for when and how to use GenAI to support their skills and understanding — norms shaped by the CHAT interplay of individual and cultural-historical context.
+- **Contradictions as the driver.** Norm changes are driven by contradictions between traditional academic tools/practices and new expectations for self-directed, AI-mediated learning. CHAT conceptualizes these as systematic tensions that prompt individuals to question and deviate from established norms.
+- **A relational view of norms.** Norms are treated as historically and culturally embedded implicit rules of the activity system, not individual preferences — reframing student GenAI use as a systemic, norm-shifting phenomenon.
+
+## Implications for AI in Education
+
+The study applies [[activity-theory-aied|CHAT]] to show that student GenAI use is not merely a behavioral choice but a transformation of the norms and rules of the academic activity system. For practice, it implies instructors must recognize and explicitly negotiate new implicit norms around self-direction, learning objectives, teacher role, and ethics rather than assuming traditional norms still hold. It connects to the wiki's [[engineering-education]], [[student-experience]], [[teacher-role]], and [[ethics]] concepts, and to the wider [[generative-ai|GenAI]] disruption literature.
+
+## Connected Concepts
+- [[activity-theory-aied]]
+- [[engineering-education]]
+- [[student-experience]]
+- [[teacher-role]]
+- [[generative-ai]]
+- [[ethics]]
+
+## Connected Articles
+- [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory perspective on disciplinary differences in GenAI use
+
+## Citation
+Leino Lindell, T., & Stöhr, C. (2026). [*The AI disruption in engineering education: An analysis of changing student norms through cultural historical activity theory*](https://doi.org/10.1007/s12528-025-09488-8). Journal of Computing in Higher Education.
+
+---
+
 ## [Artificial Intelligence in Distance Education: A Systematic Review of Emerging Pedagogical, Cognitive and Institutional Dynamics](https://edtechdev.github.io/aied/articles/ai-distance-education-systematic-review-2026/)
 
 > **Synthesis:** This systematic review of 56 peer-reviewed articles (2020–2025) on AI in [[online-teaching-and-learning|distance education]] identifies four interrelated themes: AI-driven [[personalized-learning|personalization]] and adaptive support, AI-mediated [[feedback|assessment and feedback]], human–AI interaction and pedagogical transformation, and AI [[governance]], fairness, integrity and [[equity-in-ai-education|equity]]. Collectively the findings show that AI is not merely a tool but a participant that reorganizes relationships among learners, teachers and institutions. The evidence base remains limited by a lack of longitudinal research, with most studies being short-term or cross-sectional.
@@ -16564,6 +16762,37 @@ The authors conclude that AI access alone is insufficient; **purposeful workflow
 ## Citation
 
 Alsaiari, O., Baghaei, N., Lodge, J. M., Gašević, D., Winstone, N., & Khosravi, H. (2026). [*Making AI-generated feedback matter: From provision to student enactment*](https://arxiv.org/abs/2608.11625). arXiv:2608.11625.
+
+---
+
+## [Security Education in Higher Education through AI-Powered Gamification](https://edtechdev.github.io/aied/articles/ai-gamification-security-education-2026/)
+
+> **Synthesis:** Cybersecurity education faces increasing challenges as AI-driven attacks become more realistic and harder to detect, while traditional video-based training in higher education suffers from low engagement and limited effectiveness. Li and colleagues explore AI-powered [[game-based-learning|gamification]] in cybersecurity education through several short, mobile-friendly games covering topics from password security to text and phone scam recognition, incorporating quiz-based, narrative-based, and simulation-based designs as well as interactive formats such as TikTok Mini-Games. A two-tiered evaluation with 59 college students (9 technical experts and 50 general users) indicates the potential of AI-powered gamification to improve engagement and increase attention to cybersecurity topics in higher education.
+
+## Key Findings
+
+1. Traditional video-based cybersecurity training in higher education often suffers from both low engagement and limited effectiveness.
+2. AI-powered gamification can deliver engaging, meaningful, and personalized learning experiences.
+3. Several short, mobile-friendly games cover topics from password security to text and phone scam recognition.
+4. Designs incorporate quiz-based, narrative-based, and simulation-based gamification strategies as well as interactive formats such as TikTok Mini-Games.
+5. A two-tiered evaluation with 59 college students indicates potential to improve engagement and attention to cybersecurity topics.
+
+## Connected Concepts
+- [[game-based-learning]]
+- [[higher-ed]]
+- [[student-engagement]]
+- [[motivation]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[cyberagents-gamified-cybersecurity-learning-2026]] — CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity
+- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games
+- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by LLMs
+- [[nasa-tlx-workload-gamified-ai-2026]] — Perceived Workload Across Gamified and AI-Supported Learning
+
+## Citation
+Li, Buzaid, & Qu (2026). [*Security Education in Higher Education through AI-Powered Gamification*](https://arxiv.org/abs/2608.24778). arXiv:2608.24778.
 
 ---
 
@@ -20095,6 +20324,40 @@ Kuhn, J., Küchemann, S., Rakestraw, D. J., & Vogt, P. (2026). [*It's Not the To
 
 ---
 
+## [AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency](https://edtechdev.github.io/aied/articles/airis-hybrid-human-ai-cognition-2026/)
+
+> **Synthesis:** Generative AI systems are increasingly integral to epistemic processes such as hypothesis generation, explanation construction, and decision-making, yet emerging evidence reveals a metacognitive dilemma: as external generative capacity increases, internal monitoring, calibration, and cognitive engagement may decline. Kuhn and colleagues propose the AIRIS (AI-Augmented Inquiry and Regulation in Hybrid Systems) framework, a multi-level control allocation architecture specifying the conditions under which epistemic agency can be preserved in hybrid generative systems. Drawing on distributed cognition, cognitive load theory, multimedia learning, and self-regulated learning, it identifies seven interacting mechanisms through which hybrid cognition may become destabilized, from delegation and calibration drift to motivational-affective drift, and five regulatory operators (Anticipate, Interrogate, Reflect, Integrate, Synthesize) to counteract them.
+
+## Key Findings
+
+1. A metacognitive dilemma arises when external generative capacity increases while internal monitoring, calibration, and cognitive engagement decline.
+2. AIRIS is a multi-level control allocation architecture specifying conditions under which [[agency|epistemic agency]] can be preserved in hybrid generative systems.
+3. The framework draws on distributed cognition, cognitive load theory, multimedia learning, and self-regulated learning.
+4. It identifies seven interacting mechanisms through which hybrid cognition may become destabilized, from delegation and calibration drift to motivational-affective drift.
+5. Five regulatory operators (Anticipate, Interrogate, Reflect, Integrate, Synthesize) are specified to counteract destabilization.
+
+## Connected Concepts
+- [[metacognition]]
+- [[generative-ai]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[human-in-the-loop-ai]]
+- [[learning-theories]]
+
+## Connected Articles
+- [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with machines: Toward a theory of epistemic co-agency
+- [[ai-cognitive-partner-co-regulation-learning]] — Artificial intelligence as a cognitive partner
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion
+- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
+
+## Citation
+Kuhn, Gerjets, Trautwein, Greene, Malone, Vogt, & Fütterer (2026). [*AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency*](https://arxiv.org/abs/2608.21618). arXiv:2608.21618 (physics.ed-ph).
+
+---
+
 ## [AISSA: AI-based Student Slides Analysis Tool for Academic Presentations](https://edtechdev.github.io/aied/articles/aissa-slides-analysis/)
 
 > A web-based system that uses [[llm|LLMs]] and [[learning-analytics|Learning Analytics]] dashboards to provide [[automated-assessment|automated, rubric-based feedback]] on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses the scalability challenge of providing timely [[formative-assessment|formative feedback]] in large university courses.
@@ -21355,6 +21618,39 @@ This review is the non-IBL companion paper, contributing to the wiki's [[agentic
 ## Citation
 
 Ba, S., Shi, X., Wu, S., & Lu, G. (2026). [*Artificial intelligence agents in computer-supported collaborative learning: a systematic literature review*](https://doi.org/10.1016/j.caeai.2026.100579). *Computers and Education: Artificial Intelligence*, 10, 100579.
+
+---
+
+## [Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring](https://edtechdev.github.io/aied/articles/bandit-driven-llm-essay-scoring-2026/)
+
+> **Synthesis:** Large language models demonstrate strong capability in automated essay scoring, but contemporary approaches typically employ fixed prompt selection that fails to address operational cost concerns and evolving optimal configurations. Manakina and Bogdanov propose a cost-aware multi-armed bandit controller that treats each prompt type as an arm, enabling adaptive selection of optimal prompting strategies during inference. On IELTS Writing Task 2 essays, the framework achieves comparable scoring accuracy to exhaustive grid search while reducing LLM calls by 78.4%. The multi-step assessment approach with calibration examples achieves the highest accuracy, and the work produces the first cost-reliability learning curves for essay scoring.
+
+## Key Findings
+
+1. A multi-armed bandit controller adaptively selects optimal prompting strategies during inference for [[automated-assessment|essay scoring]].
+2. The framework achieves comparable scoring accuracy to exhaustive grid search while reducing LLM calls by 78.4%.
+3. Four grading recipes (multi-step vs single-step, with vs without calibration examples) were implemented; the multi-step approach with examples achieves the highest accuracy.
+4. Token usage and latency are tracked alongside agreement metrics to produce the first cost-reliability learning curves for essay scoring.
+5. The work transforms prompt selection in automated essay scoring from an offline hyperparameter optimization problem into an efficient online learning task.
+
+## Connected Concepts
+- [[automated-assessment]]
+- [[assessment]]
+- [[llm]]
+- [[writing-education]]
+- [[feedback]]
+- [[assessment-validity]]
+- [[formative-assessment]]
+
+## Connected Articles
+- [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment
+- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment
+- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education
+- [[roe-assessment-twins-2026]] — Assessment Twins: Strengthening Assessment Validity
+
+## Citation
+Manakina & Bogdanov (2026). [*Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring*](https://arxiv.org/abs/2608.23814). arXiv:2608.23814.
 
 ---
 
@@ -22912,6 +23208,38 @@ This article contributes empirical evidence to the wiki's [[feedback]], [[collab
 ## Citation
 
 Chang, Y., Liu, Q., Lu, Y., & Miao, E. (2026). [*Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning*](https://doi.org/10.1186/s41239-026-00586-w). *International Journal of Educational Technology in Higher Education*.
+
+---
+
+## [A CHAT-Anchored Learning Analytics Pipeline for AI Literacy Education](https://edtechdev.github.io/aied/articles/chat-anchored-learning-analytics-ai-literacy-2026/)
+
+> **Synthesis:** Moon (2026) develops a Cultural-Historical Activity Theory (CHAT)-anchored [[learning-analytics|learning analytics]] pipeline that couples three facets — temporal participation, discourse quality, and concept sophistication — each mapped to CHAT activity-system elements, to support early detection and social-epistemic integration in small discussion-based [[ai-literacy|AI literacy]] classes. Deployed in a five-week AI literacy course (n = 25; 438 posts), DTW-based k-medoids clustering identified two stable participation archetypes (validated via bootstrap silhouette analysis); discourse quality showed modest lexical gains while reasoning depth stagnated and overall concept sophistication declined (Δz = –1.24). An Isolation-Forest detector flagged Week 2 volatility two weeks before participation decline, and automated discourse-quality scores converged with human-coded [[icap-framework|ICAP]] levels. The study demonstrates how a theory-aware, effect-size-centered workflow delivers interpretable insights and early warnings in a single small class without network-reconstruction overhead.
+
+## Key Findings
+
+- **A CHAT-mapped analytics design.** The pipeline maps three analytic facets to CHAT elements: temporal participation (Subject/Community), discourse quality (Division of Labor/Rules), and concept sophistication (Object/Tools). This grounds learning-analytics features in the activity system rather than treating them as generic [[student-engagement|engagement]] metrics.
+- **Two stable participation archetypes.** DTW-based k-medoids clustering (with bootstrap silhouette validation) identified two archetypes in the 25-student, 438-post course. "Reserved Observers" showed persistent behavior–episteme mismatches, signaling a Subject–Community tension.
+- **Shallow gains, deep stagnation.** Discourse quality showed modest lexical-polish improvements, but reasoning depth stagnated and overall concept sophistication *declined* (Δz = –1.24) — evidence that conversational activity did not translate into conceptual growth.
+- **Early-warning detection.** An Isolation-Forest detector flagged Week 2 volatility two weeks before a participation decline, robust across contamination settings 0.05–0.25 — a practical early-warning signal for instructors.
+- **Validity via ICAP alignment.** Automated discourse-quality indices converged with human-coded [[icap-framework|ICAP]] levels, supporting substantive alignment between the CHAT-anchored analytics and an established engagement taxonomy.
+
+## Implications for AI in Education
+
+The paper is a [[research-methods-aied|methodological]] contribution showing that [[learning-analytics]] can be *theory-anchored* — mapping measurement facets to an activity system — and still be feasible in a single small class (no large-sample statistics or full network reconstruction required). For practice, it offers instructors an interpretable, effect-size-centered workflow for tracking social-epistemic integration in discussion-based AI literacy courses and flagging at-risk participation early. It connects CHAT to the wiki's [[ai-literacy]] and [[icap-framework|ICAP]] concepts, positioning [[activity-theory-aied|activity theory]] as an analytic lens for the learning-analytics side of [[ai-education|AI in education]].
+
+## Connected Concepts
+- [[activity-theory-aied]]
+- [[learning-analytics]]
+- [[ai-literacy]]
+- [[icap-framework]]
+- [[student-ai-interaction]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure through an activity theory lens
+
+## Citation
+Moon, J. (2026). [*A cultural-historical activity theory-anchored learning analytics pipeline for early detection and social-epistemic integration in AI literacy education*](https://www.tandfonline.com/journals/cile20). Interactive Learning Environments (in press).
 
 ---
 
@@ -24720,6 +25048,37 @@ The Cognitive Commons is not presented as doomed: Ostrom showed communities can 
 ## Citation
 
 Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. *Human Resource Development Review*, advance online publication](https://doi.org/10.1177/15344843261470602). (arXiv:2607.29380)
+
+---
+
+## [Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing](https://edtechdev.github.io/aied/articles/cognitive-load-transfer-knowledge-tracing-2026/)
+
+> **Synthesis:** Knowledge tracing aims to assess students' dynamic knowledge states from their learning histories, but most existing methods focus on single-domain learning despite real-world scenarios involving multiple domains simultaneously. Zhang and colleagues introduce two critical factors for multi-domain settings: cognitive load arising from managing learning across domains in temporal and knowledge dimensions, and knowledge transfer where knowledge states in one domain influence related states both within and across domains. Their proposed LT-MKT method integrates textual information from questions and their associations to bridge isolated domains, improving knowledge state assessment in multi-domain learning scenarios.
+
+## Key Findings
+
+1. Real-world learning often involves multiple domains simultaneously, introducing cognitive load and knowledge transfer as critical factors for [[knowledge-tracing]].
+2. Cognitive load arises from managing learning across domains in both temporal and knowledge dimensions.
+3. Knowledge transfer captures how knowledge states in one domain influence related states both within and across domains.
+4. LT-MKT integrates textual information from questions and their associations to bridge isolated domains.
+5. The method improves students' dynamic knowledge state assessment in multi-domain learning scenarios.
+
+## Connected Concepts
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[learning-analytics]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+
+## Connected Articles
+- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
+
+## Citation
+Zhang, Wang, Wu, Ding, Liu, Huang, Sha, Wang, & Liu (2026). [*Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing*](https://arxiv.org/abs/2608.24005). arXiv:2608.24005.
 
 ---
 
@@ -35226,6 +35585,38 @@ Hawkins, B., Taylor-Griffiths, D., & Lodge, J. M. (2026). [*Summarise, elaborate
 
 ---
 
+## [Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction](https://edtechdev.github.io/aied/articles/hazel-prover-classroom-proof-assistant-2026/)
+
+> **Synthesis:** Proof assistants offer instant [[feedback]] and incremental proof [[scaffolding]], long-promising features for mathematics education, but have been difficult to deploy in classrooms because students struggle with full-scale tools and transfer to on-paper assessment is weak. Keenan and colleagues present Hazel Prover, a classroom proof assistant for teaching equational and inductive reasoning about programs, designed around criteria encompassing ease-of-use, student engagement with underlying mathematical ideas, knowledge transfer to pen-and-paper proof, and classroom logistics. Through iterative design and evaluation in two classes, with fine-grained usage logs, survey data, and student work, the tool aims to support structural induction learning in computing and mathematics classrooms.
+
+## Key Findings
+
+1. Proof assistants offer instant feedback and incremental proof scaffolding but are difficult to deploy in classrooms due to tool intricacy and weak transfer to on-paper assessment.
+2. Hazel Prover is a classroom proof assistant for teaching equational and inductive reasoning about programs.
+3. Design criteria encompass ease-of-use, student engagement with underlying mathematical ideas, knowledge transfer to pen-and-paper proof, and classroom logistics.
+4. The design was synthesized from observations in prior classroom deployments of proof assistants.
+5. Iterative design and evaluation in two classes used fine-grained usage logs, survey data, and student work.
+
+## Connected Concepts
+- [[cs-education]]
+- [[math-education]]
+- [[scaffolding]]
+- [[feedback]]
+- [[formative-assessment]]
+- [[intelligent-tutoring]]
+
+## Connected Articles
+- [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI in Programming Education
+- [[chatgpt-teachable-agent-programming-lbt-2024]] — Learning-by-Teaching with ChatGPT
+- [[llm-automated-grading-programming-comparison-2026]] — Comparing LLMs for automated assignment assessment in programming education
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?
+- [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education
+
+## Citation
+Keenan, Kheterpal, Jeannin, & Omar (2026). [*Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction*](https://arxiv.org/abs/2608.23309). arXiv:2608.23309.
+
+---
+
 ## [SafeTutors: Pedagogical Safety in AI Tutoring](https://edtechdev.github.io/aied/articles/hazra-safetutors-pedagogical-safety-2026/)
 
 > **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across mathematics, physics, and chemistry. It argues that **tutoring safety is fundamentally different from conventional LLM safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding.
@@ -39227,6 +39618,36 @@ Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson (2
 
 ---
 
+## [K-12 Teachers' Perspectives on AI Use Through the Lens of Activity Theory](https://edtechdev.github.io/aied/articles/lee-anson-k12-teachers-ai-activity-theory/)
+
+> **Synthesis:** Lee & Anson (2027) use [[activity-theory-aied|activity theory]] to explore how Australian [[k-12|K-12]] teachers perceive AI and its impact on education, drawing on [[qualitative-research|qualitative]] data collected in April/May 2023 — roughly six months into the sudden global recognition of [[generative-ai|generative AI]]. Thematic analysis identified six major themes capturing in-service teachers' views: that AI is **unsuitable, impersonal, imperfect, uncertain, assisting, and inevitable**. The study theorizes activity theory in an AI world, highlighting the complex, nuanced, and often contradictory sentiments teachers hold, and positioning AI as a tool-mediated, goal-directed mediator within the school activity system.
+
+## Key Findings
+
+- **Six themes of teacher perception.** Teachers characterized AI as *unsuitable* (for their context), *impersonal* (lacking relational warmth), *imperfect* (error-prone/unreliable), *uncertain* (opaque/unpredictable), *assisting* (useful for routine tasks), and *inevitable* (a force to be reckoned with).
+- **Activity theory as a framing.** The study conceptualizes AI as a tool/mediator within the school activity system (subject, tools, object, rules, community, division of labor), arguing that digital tools — AI included — do not force action but mediate goal-directed activity; humans (not tools) retain agency.
+- **Contradictory, nuanced sentiments.** Teachers' views were simultaneously favorable (assisting) and skeptical (unsuitable, impersonal, imperfect, uncertain), and resigned (inevitable) — a complexity that individual-belief models may flatten.
+- **Context sensitivity.** AI as a mediating tool interacts with the specific learning environment (tools, activities, community), so its adoption and meaning vary by school context.
+
+## Implications for AI in Education
+
+The study demonstrates how [[activity-theory-aied|activity theory]] reframes teacher sentiment as an expression of the whole activity system rather than isolated attitudes. For practice, it implies that addressing teachers' concerns requires engaging the school's tools, rules, community, and division of labor — not just training individual teachers. The six-theme framework (unsuitable, impersonal, imperfect, uncertain, assisting, inevitable) offers a nuanced vocabulary for [[teacher-role|teacher]] [[faculty-development|professional development]] and AI adoption in [[k-12|K-12]] settings, and connects to the companion [[quantitative-research|quantitative]] study [[activity-theory-teachers-adoption-ai-sem-2026|Lee & Granziera (2026)]].
+
+## Connected Concepts
+- [[activity-theory-aied]]
+- [[teacher-role]]
+- [[k-12]]
+- [[generative-ai]]
+- [[qualitative-research]]
+
+## Connected Articles
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI (SEM)
+
+## Citation
+Lee, J., & Anson, D. W. J. (2027). [*K-12 teachers' perspectives on AI use in education through the lens of activity theory*](https://rptel.apsce.net). Research and Practice in Technology Enhanced Learning, 22, 5.
+
+---
+
 ## [Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories](https://edtechdev.github.io/aied/articles/lee-wu-gender-motivation-genai-achievement-2026/)
 
 > **Synthesis:** This study of 97 graduate students and 2,819 queries to a [[conversational-ai|RAG-based GenAI chatbot]] (StatBot) for statistics learning reveals that [[student-engagement|engagement]] with [[generative-ai|GenAI]] is strongly differentiated across learner subpopulations. More than one-quarter of students never used the [[conversational-ai|chatbot]]; female students, those with stronger autonomous [[motivation]], lower [[prior-knowledge|prior knowledge]], and higher course performance interacted more frequently. Using zero-inflated negative binomial modeling and k-means achievement profiling, the authors show that "Growing Achievers" posed more diverse, conceptually oriented questions, while "Declining Performers" engaged minimally with narrow procedural inquiries. The authors argue that effective AI integration requires moving beyond uniform access toward [[scaffolding]] concept-focused support that prioritizes autonomous motivation and shared human-AI agency.
@@ -40537,6 +40958,39 @@ Leins, A.J.G.J.H.N., Evaluating, L.E.S., ADHD, T.S.P.S.A., Leins, J.G.J.H.N., Be
 
 ---
 
+## [When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage](https://edtechdev.github.io/aied/articles/llm-environmental-impact-student-usage-2026/)
+
+> **Synthesis:** Large language models' carbon and water footprints raise important sustainability concerns, particularly with adoption rates exceeding 80% among university students despite limited insight into the environmental impacts of individual usage. Kim and colleagues design and deploy an eco-feedback interface that visualizes latency-carbon trade-offs during live LLM interactions, studying its use with 89 undergraduate computer science students in a computing ethics course. They find that the likelihood of choosing the eco-feedback system is significantly shaped by sustainability awareness, providing an empirical look at how a technically sophisticated and values-oriented user population responds to sustainability-aware AI interfaces.
+
+## Key Findings
+
+1. LLM adoption exceeds 80% among university students, yet there is limited insight into the environmental impacts of individual usage.
+2. An eco-feedback interface visualizing latency-carbon trade-offs during live LLM interactions was designed and deployed.
+3. The interface was studied with 89 undergraduate computer science students (ages 18-24) in a computing ethics course.
+4. The likelihood of choosing the eco-feedback system is significantly shaped by sustainability awareness.
+5. The study provides empirical evidence on how a technically sophisticated, values-oriented user population responds to sustainability-aware AI interfaces.
+
+## Connected Concepts
+- [[llm]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[ethics]]
+- [[generative-ai]]
+- [[cs-education]]
+- [[ai-education]]
+
+## Connected Articles
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in CS education
+- [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
+- [[unesco-ai-guidelines-chemical-education-2026]] — Translating UNESCO AI Guidelines to Chemical Education
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review
+
+## Citation
+Kim, Chen, Cabral, Lin, Gupta, & Hester (2026). [*When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage*](https://arxiv.org/abs/2608.23968). arXiv:2608.23968.
+
+---
+
 ## [To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions](https://edtechdev.github.io/aied/articles/llm-facilitation-timing-online-discussions/)
 
 > **Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos** — arXiv preprint (2026).
@@ -40978,6 +41432,39 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 ## Citation
 
 Amanda La Hadi, Muhammad Johan Alibasa, Guanliang Chen, A. Taufiq Asyhari (2026). [The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty](https://arxiv.org/abs/2607.26067). arXiv:2607.26067. EDM 2026 (Educational Data Mining Conference).
+
+---
+
+## [LLM Pedagogical Behavior in AI Tutoring Interactions](https://edtechdev.github.io/aied/articles/llm-pedagogical-behavior-ai-tutoring-2026/)
+
+> **Synthesis:** Students increasingly use large language models as on-demand [[intelligent-tutoring|tutors]] for coursework and problem solving, yet little is known about the level of assistance these models actually provide in authentic learning interactions. Lee and colleagues operationalize this dimension as a five-level [[scaffolding]] scale, validated against human annotations, that characterizes responses by the degree of direct assistance they offer. Applied to 14,637 LLM responses from 203 students in a university AI course, responses are overwhelmingly concentrated at high levels of assistance, with more than 95% classified as either Explaining or Solving. Scaffolding level is systematically associated with students' subsequent conversational behavior but provides little additional predictive information about exam performance beyond prior achievement and dialogue behavior, offering an empirical baseline for evaluating alternative tutoring designs.
+
+## Key Findings
+
+1. A five-level scaffolding scale was developed and validated against human annotations to characterize how directly LLM responses help a student complete a task.
+2. In authentic [[student-ai-interaction|student-LLM]] interactions, more than 95% of the 14,637 analyzed responses were classified at the highest assistance levels (Explaining or Solving).
+3. Scaffolding level is systematically associated with students' subsequent conversational behavior in the tutoring dialogue.
+4. Scaffolding level provides little additional predictive information about performance on three subsequent exams beyond prior achievement and dialogue behavior.
+5. The scale offers a measurement framework for evaluating how alternative tutoring designs change the assistance LLMs provide.
+
+## Connected Concepts
+- [[intelligent-tutoring]]
+- [[scaffolding]]
+- [[llm]]
+- [[generative-ai]]
+- [[student-ai-interaction]]
+- [[teacher-role]]
+- [[metacognition]]
+
+## Connected Articles
+- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI
+- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors
+- [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help
+
+## Citation
+Lee, Baek, Park, & Shin (2026). [*LLM Pedagogical Behavior in AI Tutoring Interactions*](https://arxiv.org/abs/2608.22993). arXiv:2608.22993.
 
 ---
 
@@ -43065,6 +43552,37 @@ Jia, Y. (2026). [*Metacognitively discordant completion and the aware pass-throu
 ## Citation
 
 Sáez-López, J.-M., García-Jiménez, A.-S., & de Lara García-Cervigón, S. (2026). [*Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training*](https://doi.org/10.1016/j.caeo.2026.100366). *Computers and Education Open*, 100366. https://doi.org/10.1016/j.caeo.2026.100366
+
+---
+
+## [Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning](https://edtechdev.github.io/aied/articles/mind-the-student-engagement-prediction-2026/)
+
+> **Synthesis:** Predicting student engagement from online tutoring videos is difficult because engagement is a multidimensional construct comprising behavioral, emotional, and cognitive states, and prediction is complicated by high inter-person variability and the subjectivity of engagement annotation. Kantarci and colleagues develop a multimodal framework that integrates implicit spatiotemporal features from pretrained video, audio, and image encoders with structured behavioral modalities such as head pose, gaze, facial action units, emotion, and wavelet-based audio features, fused via a Perceiver IO latent bottleneck. Student and instructor personalities are modeled as variational posteriors over learnable embeddings, and evidential regression and spectral-normalized Gaussian process classification heads provide uncertainty-aware prediction. The framework is benchmarked on the CASED challenge test set.
+
+## Key Findings
+
+1. Engagement is a multidimensional construct whose automated prediction is complicated by inter-person variability and annotation subjectivity.
+2. A multimodal framework integrates spatiotemporal features from video, audio, and image encoders with structured behavioral modalities (head pose, gaze, facial action units, emotion, wavelet audio).
+3. A Perceiver IO latent bottleneck fuses the modalities into a shared representation.
+4. Student and instructor personalities are modeled as variational posteriors to enable partial pooling across participants.
+5. Evidential regression and spectral-normalized Gaussian process classification heads provide uncertainty-aware prediction for robustness and calibration.
+
+## Connected Concepts
+- [[learning-analytics]]
+- [[student-engagement]]
+- [[multimodal]]
+- [[adaptive-learning]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[ai-student-engagement-online-learning-review-2025]] — Artificial Intelligence and Student Engagement in Online Learning
+- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization
+- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an ITS
+- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement?
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
+
+## Citation
+Kantarci, Ramesh, & Roig (2026). [*Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning*](https://arxiv.org/abs/2608.24340). arXiv:2608.24340.
 
 ---
 
@@ -58080,6 +58598,39 @@ This study offers direct neurophysiological evidence for the **cognitive cost of
 ## Citation
 
 Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., & Maes, P. (2025). [*Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task*](https://arxiv.org/abs/2506.08872v2). arXiv:2506.08872.
+
+---
+
+## [When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk](https://edtechdev.github.io/aied/articles/youth-enter-chat-llm-student-talk-2026/)
+
+> **Synthesis:** Large language models are increasingly used to measure aspects of student discourse such as talk moves, collaboration, and equity of voice at scale, but common validation practices that compare outputs against adult expert annotations with held-out sets and F1 scores may be insufficient and inequitable, particularly for racially and linguistically marginalized youth. Santos-Deonizio and colleagues argue that re-contextualizing classroom conversations and engaging youth in the research process is necessary to ensure such measures are meaningful and equitable. In a case study of multilingual youth in an eighth-grade math classroom, they employ participant observation, interviews, focus groups, and member checks with four focal students, revealing misalignments between students' interpretations and adult or LLM framings and centering youth as epistemic authorities.
+
+## Key Findings
+
+1. Typical validation of [[learning-analytics|LLM-based measures]] of student talk compares outputs against adult expert annotations with F1 scores, which de-contextualizes student language.
+2. These approaches are argued to be insufficient for ensuring measures are meaningful and equitable, especially for racially and linguistically marginalized youth.
+3. Re-contextualizing classroom conversations and engaging youth in the research process is necessary to center the youth whose talk is being analyzed.
+4. A case study of multilingual youth in an eighth-grade math classroom used participant observation, interviews, focus groups, and member checks with four focal students.
+5. Findings reveal misalignments between students' interpretations and adult or LLM framings, underscoring the value of sharing epistemic authority with youth.
+
+## Connected Concepts
+- [[learning-analytics]]
+- [[equity-in-ai-education]]
+- [[sociocultural-learning]]
+- [[llm]]
+- [[student-ai-interaction]]
+- [[multilingual-learning]]
+- [[agency]]
+
+## Connected Articles
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment for classroom discourse analysis
+- [[socratic-ai-physics-tutor-taxonomy-2026]] — A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI
+- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk
+
+## Citation
+Santos-Deonizio, Malamut, Martínez, & Demszky (2026). [*When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk*](https://arxiv.org/abs/2608.23780). arXiv:2608.23780.
 
 ---
 

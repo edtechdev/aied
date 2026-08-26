@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-26T09:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
