@@ -1,7 +1,7 @@
 ---
 title: "From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-08-20T08:40:00-04:00"
+updated: "2026-08-26T17:55:00-04:00"
 type: article
 tags: [generative-ai, journalism-education, assessment, ethics, higher-ed, experiential-learning, academic-integrity]
 sources: ['raw/papers/ying-genai-journalism-assessment-2026.md']
@@ -53,6 +53,7 @@ The framework integrates Beard's experiential learning sequence (concrete experi
 
 ## Connected Articles
 
+- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy for critical AI literacy in journalism
 - [[dollinger-equitable-assessment-ai-2026]]
 - [[responsible-assessment-ai-era-stanford-2026]]
 - [[ssaho-ai-academic-integrity-review-2025]]
