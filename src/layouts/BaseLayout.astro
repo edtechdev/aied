@@ -250,8 +250,8 @@ const recentConcepts = concepts
 
     /* === Left sidebar / mobile drawer ===
        One element serves both: on mobile (<1024px) it is a fixed off-canvas
-       drawer opened by the header hamburger (Blume-style); on desktop it is the
-       static sticky sidebar. The [data-blume-nav-open] attribute lives on <html>. */
+       drawer opened by the header hamburger; on desktop it is the
+       static sticky sidebar. The [data-nav-open] attribute lives on <html>. */
     .nav-backdrop {
       position: fixed;
       inset: 0;
@@ -276,12 +276,12 @@ const recentConcepts = concepts
       border-right: 1px solid var(--card-border-color);
       padding: 1rem 1.25rem 1.5rem 1rem;
     }
-    /* The data-blume-nav-open attribute lives on <html>, so the attribute
+    /* The data-nav-open attribute lives on <html>, so the attribute
        selector must be :global — otherwise Astro scoping would require the same
        element to carry both the scope id and the attribute, and the rule would
        never match the drawer. */
-    :global([data-blume-nav-open]) .nav-backdrop { display: block; }
-    :global([data-blume-nav-open]) .sidebar { transform: translateX(0); }
+    :global([data-nav-open]) .nav-backdrop { display: block; }
+    :global([data-nav-open]) .sidebar { transform: translateX(0); }
     @media (min-width: 1024px) {
       .nav-backdrop { display: none !important; }
       .sidebar {
@@ -534,9 +534,9 @@ const recentConcepts = concepts
   </style>
 </head>
 <body>
-  <header data-blume-header>
+  <header data-nav-header>
     <div class="container">
-      <button class="nav-toggle" data-blume-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
+      <button class="nav-toggle" data-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
         <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
           <line x1="3" y1="6" x2="21" y2="6" />
           <line x1="3" y1="12" x2="21" y2="12" />
@@ -598,8 +598,8 @@ const recentConcepts = concepts
   <main class="container">
     <div class="docs-layout">
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
-      <button class="nav-backdrop" data-blume-nav-toggle type="button" aria-label="Close navigation"></button>
-      <aside class="sidebar" data-blume-nav-drawer aria-label="Concept navigation">
+      <button class="nav-backdrop" data-nav-toggle type="button" aria-label="Close navigation"></button>
+      <aside class="sidebar" data-nav-drawer aria-label="Concept navigation">
         <div class="sidebar-heading">
           <a href="/aied/concepts/ai-education">AI in Education</a>
           <span class="sidebar-count">{indexedCount} concepts</span>
@@ -704,37 +704,37 @@ const recentConcepts = concepts
     import("/aied/pagefind/pagefind-component-ui.js");
   </script>
   <script is:inline>
-    // Blume-style mobile nav drawer. Any element with [data-blume-nav-toggle]
+    // Mobile nav drawer. Any element with [data-nav-toggle]
     // (hamburger in header, backdrop overlay) opens/closes the drawer by toggling
-    // data-blume-nav-open on <html>. The drawer top tracks the header bottom.
+    // data-nav-open on <html>. The drawer top tracks the header bottom.
     (() => {
       const syncDrawerTop = () => {
-        const h = document.querySelector("[data-blume-header]");
+        const h = document.querySelector("[data-nav-header]");
         if (h) document.documentElement.style.setProperty("--drawer-top", h.getBoundingClientRect().bottom + "px");
       };
-      const drawer = () => document.querySelector("[data-blume-nav-drawer]");
+      const drawer = () => document.querySelector("[data-nav-drawer]");
       const syncInert = () => {
         const d = drawer();
         if (!d) return;
         const mobile = !window.matchMedia("(min-width: 64rem)").matches;
-        const closed = !document.documentElement.hasAttribute("data-blume-nav-open");
+        const closed = !document.documentElement.hasAttribute("data-nav-open");
         d.inert = mobile && closed;
       };
       const setOpen = (open) => {
         const d = document.documentElement;
-        if (open) { d.setAttribute("data-blume-nav-open", ""); syncDrawerTop(); }
-        else { d.removeAttribute("data-blume-nav-open"); }
+        if (open) { d.setAttribute("data-nav-open", ""); syncDrawerTop(); }
+        else { d.removeAttribute("data-nav-open"); }
         d.style.overflow = open ? "hidden" : "";
-        document.querySelectorAll("[data-blume-nav-toggle]").forEach(b => b.setAttribute("aria-expanded", open ? "true" : "false"));
+        document.querySelectorAll("[data-nav-toggle]").forEach(b => b.setAttribute("aria-expanded", open ? "true" : "false"));
         syncInert();
       };
       document.addEventListener("click", (e) => {
-        const t = e.target.closest("[data-blume-nav-toggle]");
+        const t = e.target.closest("[data-nav-toggle]");
         if (!t) return;
-        setOpen(!document.documentElement.hasAttribute("data-blume-nav-open"));
+        setOpen(!document.documentElement.hasAttribute("data-nav-open"));
       });
       window.addEventListener("resize", () => {
-        if (document.documentElement.hasAttribute("data-blume-nav-open") && window.matchMedia("(min-width: 64rem)").matches) {
+        if (document.documentElement.hasAttribute("data-nav-open") && window.matchMedia("(min-width: 64rem)").matches) {
           setOpen(false);
         } else {
           syncDrawerTop();
