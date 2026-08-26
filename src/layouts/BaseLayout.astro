@@ -55,7 +55,14 @@ const recentConcepts = concepts
   <meta name="description" content={description} />
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/aied/logo.svg" />
-  <link rel="apple-touch-icon" href="/aied/logo.svg" />
+  <link rel="apple-touch-icon" href="/aied/pwa-192x192.png" />
+  <!-- PWA -->
+  <link rel="manifest" href="/aied/manifest.webmanifest" />
+  <meta name="theme-color" content="#15212b" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="AI Ed Wiki" />
   <!-- Open Graph (link previews) -->
   <meta property="og:site_name" content="AI Ed Wiki" />
   <meta property="og:title" content={title} />
@@ -702,6 +709,10 @@ const recentConcepts = concepts
   </footer>
   <script is:inline>
     import("/aied/pagefind/pagefind-component-ui.js");
+  </script>
+  <!-- PWA service worker registration (bundled so the virtual module resolves) -->
+  <script>
+    import '../pwa';
   </script>
   <script is:inline>
     // Mobile nav drawer. Any element with [data-nav-toggle]
