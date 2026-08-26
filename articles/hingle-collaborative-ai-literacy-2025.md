@@ -1,7 +1,7 @@
 ---
 title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-24T10:35:00-04:00"
+updated: "2026-08-26T05:46:39-04:00"
 type: article
 tags: [ai-literacy, collaborative-learning, instructional-design, ai-literacy-assessment-misalignment, k-12, llm, higher-ed]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
@@ -33,7 +33,7 @@ The review followed the **PRISMA** methodology. A February 2024 search across **
 
 ## Implications
 
-**For teaching and learning.** CL activities should be incorporated into AI literacy instruction so learners can co-create knowledge contextualized to their needs. Depending on the instructional goal, activities can target literacy, specific use-case knowledge, or domain knowledge. The **modality** of the activity is a key design consideration: rather than prescribing a fixed sequence, designers should choose the ICAP mode that fits the learning goal and ensure learners have opportunities to engage with foundational concepts before synthesizing and generating new ideas — with attention to enabling the Active→Constructive transition that most advances comprehension.
+**For teaching and learning.** CL activities should be incorporated into AI literacy instruction so learners can co-create knowledge contextualized to their needs. Depending on the instructional goal, activities can target literacy, specific use-case knowledge, or domain knowledge. The **modality** of the activity is a key design consideration: designers should choose the ICAP mode that fits the learning goal and ensure learners have opportunities to engage with foundational concepts before synthesizing and generating new ideas — with attention to enabling the Active→Constructive transition that most advances comprehension.
 
 **For research.** Although evidence shows CL supports AI literacy, more studies are needed across diverse settings, and more [[design-based-research]] is required within a setting to understand whether multiple iterations improve outcomes. The corpus is disproportionately US-based; the authors caution that AI literacy need not take a singular global form but should be contextual to local communities, and may be integrated with data or digital literacy. More work is needed on how AI partners can best support the learning of AI itself, and on how human–human versus human–AI interaction shapes learners' understanding of AI's capabilities and constraints.
 

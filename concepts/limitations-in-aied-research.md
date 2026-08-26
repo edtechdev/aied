@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-08-24T14:15:00-04:00"
+updated: "2026-08-26T05:46:39-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, methodology, reproducibility, validity, educational-measurement, open-science, ai-ed-evaluation, theory, benchmark]
 confidence: high
@@ -40,7 +40,6 @@ A recurring criticism is that many empirical articles have **limited or outdated
 - **Adopt theories uncritically.** Frameworks are borrowed because they are familiar, without fully engaging their assumptions, scope, or evidence base.
 - **Misinterpret frameworks as fixed sequences.** Several widely used frameworks are treated as ordered ladders that learners must climb from a "low" to a "high" stage — but the evidence does not support always starting at the bottom. For example:
     - **Bloom's taxonomy** is often read as a strict hierarchy (recall → application → evaluation), yet higher-order goals do not require first drilling lower-order ones; tasks can be designed to engage evaluation or creation from the start (see [[cross-dataset-bloom-question-classification]]).
-    - **[[icap-framework|The ICAP framework]]** (passive → active → constructive → interactive) is sometimes taken as a sequence that instruction must begin at the passive end. It is not: research on inductive learning and productive failure shows that posing challenging, constructive or interactive problems up front — without first walking learners through passive exposure — can produce stronger learning.
     - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[instructional-design]]).
 - **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **Cognitive load theory**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
 

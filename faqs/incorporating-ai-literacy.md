@@ -1,7 +1,7 @@
 ---
 title: "How should I incorporate AI literacy into my course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-08-24T09:50:00-04:00"
+updated: "2026-08-26T05:46:39-04:00"
 tags: [ai-literacy, instructional-design, higher-ed, cognitive-offloading, assessment]
 ---
 
@@ -27,7 +27,7 @@ The wiki's AI literacy synthesis argues that movement toward critical evaluation
 
 Collaborative activities can strengthen this work. The [[icap-framework|ICAP framework]] suggests moving beyond passive exposure toward active, constructive, and interactive engagement. Students can compare prompts in pairs, debate whether an AI answer is trustworthy, jointly revise an AI-generated product, or explain to peers why they accepted or rejected particular suggestions.
 
-Importantly, the evidence supports cognitively [[active-learning|active]] and [[collaborative-learning|collaborative]] designs, but does not establish one universally superior sequence. See [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
+Importantly, the evidence supports cognitively [[active-learning|active]] and [[collaborative-learning|collaborative]] designs. See [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
 
 ## Assess demonstrated judgment, not just confidence
 
