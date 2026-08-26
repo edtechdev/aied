@@ -1,10 +1,13 @@
 # Journal
 
-**Last updated:** 2026-08-26 | **Total entries:** 1079
+**Last updated:** 2026-08-26 | **Total entries:** 1080
 
 ## 2026-08-26
 
 - 🏷️ [[refutation-text]] — Refutation Text
+
+- ◐ [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — 'raw/papers/dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026.md'
+  A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism
 
 - ◐ [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — 'raw/papers/10.1016_j.chb.2025.108828.md'
   AI Tutors vs. Tenacious Myths: Personalised Dialogue for Misconception Correction
