@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-08-26T09:57:51-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, educational-theory, ai-literacy-assessment-misalignment, metacognition]
 
@@ -51,6 +51,7 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - [[higher-ed]]
 - [[metacognition]]
 - [[student-experience]]
+- [[refutation-text]]
 
 ## Connected Articles
 
