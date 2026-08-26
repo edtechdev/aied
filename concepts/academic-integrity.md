@@ -112,5 +112,6 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 
 - [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment tasks
+- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI disclosure

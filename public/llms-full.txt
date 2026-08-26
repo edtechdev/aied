@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 170 concepts, 887 articles, and 14 FAQs.
+> Complete text of 170 concepts, 888 articles, and 14 FAQs.
 
 # Concepts
 
@@ -109,6 +109,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
 
 - [[walton-bearman-assessment-judgement-2025]] — Judgement in students' work with GenAI on assessment tasks
+- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI disclosure
 
@@ -1189,7 +1190,7 @@ AI literacy research in this wiki spans four interconnected dimensions:
 
 ### How AI literacy is developed
 
-Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. It is important to note that ICAP is a *taxonomy of engagement modes*, not a prescribed teaching sequence — it does not imply that instruction must move learners through passive exposure, active manipulation, constructive generation, and interactive dialogue in a fixed order. Rather, designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
+Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
 
 **Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* motivational profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
 
@@ -1224,7 +1225,7 @@ The wiki's frameworks and empirical studies converge on a set of practical guide
 
 **1. Use a structured competency framework as scaffolding, not a checklist.** Mature frameworks give designers a shared vocabulary and a developmentally sequenced target. The [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL framework]] organizes AI literacy into three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) across four scaffolded levels — Understand and Explore → Apply and Integrate → Evaluate and Create → AI++. The [[ai-literacy-heptagon-2026|AI Literacy Heptagon]] cross-cuts seven dimensions (technical knowledge, application, critical thinking, ethics, social impact, integration, legal/regulatory) with four Bloom-aligned proficiency levels, and stresses that emphasis must be **adapted to disciplinary context** — technical programs weight application, humanities programs weight ethical and social-impact reasoning.^[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]^[[ai-literacy-heptagon-2026]]
 
-**2. Engage learners across ICAP modes, without imposing a fixed sequence.** Applying the [[icap-framework|ICAP framework]], effective instruction gives learners opportunities to engage at multiple cognitive levels — passive exposure (AI concept lectures), active manipulation (hands-on tool use), constructive generation (creating AI artifacts, self-explaining), and interactive dialogue (collaborative problem-solving with peers and AI) — selecting the mode that fits the learning goal rather than assuming a required order. A systematic review found successful collaborative AI-literacy interventions spanned all four ICAP modes — no single mode sufficed, and none required a linear progression through them.^[[hingle-collaborative-ai-literacy-2025]]
+**2. Engage learners across ICAP modes.** Applying the [[icap-framework|ICAP framework]], effective instruction gives learners opportunities to engage at multiple cognitive levels — passive exposure (AI concept lectures), active manipulation (hands-on tool use), constructive generation (creating AI artifacts, self-explaining), and interactive dialogue (collaborative problem-solving with peers and AI) — selecting the mode that fits the learning goal. A systematic review found successful collaborative AI-literacy interventions spanned all four ICAP modes.^[[hingle-collaborative-ai-literacy-2025]]
 
 **3. Assess demonstrated competence, not self-perception.** Self-reported AI literacy diverges sharply from measured performance — teachers overestimate their AI skills by ~40%, and performance-based measures correlate with classroom AI integration far better than self-reports (r≈0.72 vs 0.31). Design interventions around performance-based assessment and calibration rather than confidence surveys, and use diagnostic profiles (overestimators vs. true novices) to target support.^[[ai-literacy-assessment-misalignment]]
 
@@ -1377,6 +1378,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
+- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 
 ---
 
@@ -3033,7 +3035,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 ## Implications for design and research
 
 1. **Preserve the constructive activity.** AI should scaffold the learner's own thinking — prompt, question, and support — rather than perform it. Designers should ask whether the tool increases or replaces the learner's constructive effort.^[[generative-refusal-ai-tools-for-thought]]
-2. **Use the [[icap-framework|ICAP]] lens.** ICAP classifies engagement into constructive, interactive, active, and passive modes — use it to evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption. Note that ICAP is a *taxonomy of engagement*, not a prescribed teaching sequence: instruction need not walk learners through the modes in a fixed order, but should favor the deeper (constructive and interactive) modes where the learning goal warrants.^[[hingle-collaborative-ai-literacy-2025]]
+2. **Use the [[icap-framework|ICAP]] lens.** ICAP classifies engagement into constructive, interactive, active, and passive modes — use it to evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption. Designers should favor the deeper (constructive and interactive) modes where the learning goal warrants.^[[hingle-collaborative-ai-literacy-2025]]
 3. **Align theory and implementation.** Researchers should look beyond whether AI "works" to *how* it embodies a learning theory, checking for the constructivist-in-name, behaviorist-in-practice gap.^[[ai-vocational-education-training-review]]
 4. **Study learner agency and transfer.** Constructivist commitments imply evaluating not just immediate test gains but whether learners can transfer and independently apply their constructed understanding.^[[research-methods-aied]]
 
@@ -6471,11 +6473,9 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 ## Implications for design and research
 
 1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.^[[multimodal-learning-genai]]
-2. **Engage learners across modes, don't force a sequence.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal rather than walking learners through the taxonomy in a fixed order.^[[hingle-collaborative-ai-literacy-2025]]
+2. **Engage learners across modes.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal.^[[hingle-collaborative-ai-literacy-2025]]
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement]].^[[icap-cognitive-engagement-llm-agents]]
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
-
-> **Note on interpretation:** ICAP is a *taxonomy of engagement modes*, not a fixed teaching sequence. It is a common error to assume instruction must always begin at the passive end and progress upward. Research on inductive learning and productive failure shows that posing challenging constructive or interactive problems up front — without prior passive exposure — can produce stronger learning. Treat the modes as a classification of learner activity, and sequence them only where the learning goal warrants (see [[limitations-in-aied-research]]).
 
 ## Connected Concepts
 
@@ -7675,7 +7675,6 @@ A recurring criticism is that many empirical articles have **limited or outdated
 - **Adopt theories uncritically.** Frameworks are borrowed because they are familiar, without fully engaging their assumptions, scope, or evidence base.
 - **Misinterpret frameworks as fixed sequences.** Several widely used frameworks are treated as ordered ladders that learners must climb from a "low" to a "high" stage — but the evidence does not support always starting at the bottom. For example:
     - **Bloom's taxonomy** is often read as a strict hierarchy (recall → application → evaluation), yet higher-order goals do not require first drilling lower-order ones; tasks can be designed to engage evaluation or creation from the start (see [[cross-dataset-bloom-question-classification]]).
-    - **[[icap-framework|The ICAP framework]]** (passive → active → constructive → interactive) is sometimes taken as a sequence that instruction must begin at the passive end. It is not: research on inductive learning and productive failure shows that posing challenging, constructive or interactive problems up front — without first walking learners through passive exposure — can produce stronger learning.
     - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[instructional-design]]).
 - **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **Cognitive load theory**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
 
@@ -12997,6 +12996,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: linguistic biases in personalized automated writing feedback
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 
 ---
 
@@ -13282,6 +13282,48 @@ Remote and automated proctoring addresses the integrity needs of online and dist
 ## Citation
 
 Malhotra, M., & Chhabra, I. (2026). [*A comprehensive review of the changing landscape of academic dishonesty in automated proctoring in the era of artificial intelligence*](https://doi.org/10.1007/s44217-026-01275-6). *Discover Education*, 5, 236.
+
+---
+
+## [Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing](https://edtechdev.github.io/aied/articles/academic-erasure-complexity-ai-writing-2026/)
+
+> **Synthesis:** Nwagboso & Atuba (2026) introduce *academic erasure* — the way [[generative-ai|generative AI]] produces fluent, structurally compliant writing while eroding the epistemic labour, critical thinking, and authentic voice that [[writing-education|academic writing]] is meant to cultivate. Analysing 49 Reddit posts from educators, they identify seven forms of erasure (epistemic labour, authentic voice, educator efficacy, trust, [[pedagogy|pedagogical]] method, the human–AI boundary, and [[governance|institutional]] legibility) and frame the phenomenon as the joint effect of two mechanisms: *epistemic delegation* (offloading thinking to AI) and *epistemic singularity* (the homogenisation of voice into an AI-optimised register). The study reframes AI's risk in [[higher-ed|higher education]] as less about plagiarism than about the loss of intellectual struggle, urging [[assessment]] and pedagogy toward process, voice, and depth.
+
+## Key Findings
+
+- **Academic erasure is a distinct phenomenon from plagiarism.** AI-generated writing preserves (even enhances) surface fluency — grammar, structure, coherence — while diminishing the epistemic, critical, and disciplinary dimensions of writing. It operates through *compliance* rather than deviation: students can meet every formal criterion yet produce epistemically vacuous work, a simulacrum that mimics scholarly form while bypassing the labour of inquiry.
+- **Two mechanisms drive it: epistemic delegation and epistemic singularity.** *Epistemic delegation* is the displacement of cognitive labour onto AI — bypassing the iterative work of formulating arguments, working through tensions, and synthesising sources. *Epistemic singularity* is the resulting homogenisation: disciplinary, cultural, and individual variation collapsing into a dominant AI-optimised register, trained on standardised English and mainstream discourse.
+- **Seven forms of erasure emerged from 49 educator posts:** (1) erasure of epistemic labour, (2) of authentic student voice, (3) of educator efficacy and [[well-being]], (4) of trust and epistemic certainty, (5) of traditional pedagogical methods, (6) of the human–AI distinction in learning infrastructure, and (7) erosion of institutional legibility.
+- **Educators bear an unacknowledged [[affective-computing|affective]] cost.** The corpus registers derealisation, grief, and burnout as educators police AI use — what the authors call affective labour at scale, worsened by inconsistent [[educational-policy-ai|institutional policy]] and the normalisation of AI as infrastructure. The authors link this to [[cognitive-offloading|automation bias]] and the instrumentalisation of higher education.
+- **Assessment culture makes AI use rational, not deviant.** Where rubrics reward fluency, polish, and citation over argumentation and intellectual risk, AI becomes the optimal response to the system's incentives. The authors therefore argue that treating AI use purely as misconduct individualises a structural problem.
+
+## Implications for AI in Education
+
+The paper reframes AI's central risk in [[higher-ed|higher education]] as the erosion of *intellectual struggle* — the very labour through which knowledge is formed, contested, and owned — rather than the narrower problem of [[plagiarism-detection|detection]]. Its recommendations push toward [[assessment]] redesign that makes the labour of thinking visible and valued: process logs, staged drafts, in-class composition, and [[authentic-assessment|oral defences]] that AI cannot meaningfully complete. It also argues for valuing voice over polish, addressing [[teacher-role|educator]] wellbeing as a structural rather than personal issue, and treating current uncertainty as a pedagogical opportunity that moves classrooms "from surveillance to dialogue." This connects to broader wiki themes of [[academic-integrity]], [[ai-misuse-learning-harm|AI misuse and learning harm]], and the debate over whether AI supports or displaces [[critical-thinking|critical thinking]].
+
+## Connected Concepts
+- [[academic-integrity]]
+- [[writing-education]]
+- [[cognitive-offloading]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[plagiarism-detection]]
+- [[critical-thinking]]
+- [[ai-misuse-learning-harm]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[ethics]]
+- [[student-ai-interaction]]
+
+## Connected Articles
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Student strategies for regulating generative AI use in academic writing
+- [[agency-gap-ai-writing]] — Initiative design of AI writing agents and its effect on learner agency
+- [[ai-tools-academic-work-cheating-2026]] — Student use of AI tools in academic work
+- [[academic-dishonesty-automated-proctoring-ai-2026]] — Automated approaches to academic dishonesty
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative approaches to building AI literacy
+
+## Citation
+Nwagboso, C., & Atuba, S. (2026). [*Academic erasure: The disappearance of complexity under AI-supported writing*](https://doi.org/10.1080/13562517.2026.2707601). Teaching in Higher Education.
 
 ---
 
@@ -35344,7 +35386,7 @@ The review followed the **PRISMA** methodology. A February 2024 search across **
 
 ## Implications
 
-**For teaching and learning.** CL activities should be incorporated into AI literacy instruction so learners can co-create knowledge contextualized to their needs. Depending on the instructional goal, activities can target literacy, specific use-case knowledge, or domain knowledge. The **modality** of the activity is a key design consideration: rather than prescribing a fixed sequence, designers should choose the ICAP mode that fits the learning goal and ensure learners have opportunities to engage with foundational concepts before synthesizing and generating new ideas — with attention to enabling the Active→Constructive transition that most advances comprehension.
+**For teaching and learning.** CL activities should be incorporated into AI literacy instruction so learners can co-create knowledge contextualized to their needs. Depending on the instructional goal, activities can target literacy, specific use-case knowledge, or domain knowledge. The **modality** of the activity is a key design consideration: designers should choose the ICAP mode that fits the learning goal and ensure learners have opportunities to engage with foundational concepts before synthesizing and generating new ideas — with attention to enabling the Active→Constructive transition that most advances comprehension.
 
 **For research.** Although evidence shows CL supports AI literacy, more studies are needed across diverse settings, and more [[design-based-research]] is required within a setting to understand whether multiple iterations improve outcomes. The corpus is disproportionately US-based; the authors caution that AI literacy need not take a singular global form but should be contextual to local communities, and may be integrated with data or digital literacy. More work is needed on how AI partners can best support the learning of AI itself, and on how human–human versus human–AI interaction shapes learners' understanding of AI's capabilities and constraints.
 
@@ -58933,7 +58975,7 @@ Source: [[ai-literacy-continuum-higher-education|Beyond Tool Adoption: A Practic
 
 Hingle and Johri's systematic review organizes AI-literacy activities using the [[icap-framework|ICAP framework]]: passive exposure, active manipulation, constructive generation, and interactive co-construction. The review finds interventions across all four modes and argues against reducing AI literacy to a one-way information session.
 
-The evidence supports designing opportunities for students to create, critique, explain, and debate AI outputs with peers. However, the review does **not establish that one particular ICAP sequence causally outperforms all others**.
+The evidence supports designing opportunities for students to create, critique, explain, and debate AI outputs with peers.
 
 Source: [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
 
@@ -59179,7 +59221,7 @@ The wiki's AI literacy synthesis argues that movement toward critical evaluation
 
 Collaborative activities can strengthen this work. The [[icap-framework|ICAP framework]] suggests moving beyond passive exposure toward active, constructive, and interactive engagement. Students can compare prompts in pairs, debate whether an AI answer is trustworthy, jointly revise an AI-generated product, or explain to peers why they accepted or rejected particular suggestions.
 
-Importantly, the evidence supports cognitively [[active-learning|active]] and [[collaborative-learning|collaborative]] designs, but does not establish one universally superior sequence. See [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
+Importantly, the evidence supports cognitively [[active-learning|active]] and [[collaborative-learning|collaborative]] designs. See [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
 
 ## Assess demonstrated judgment, not just confidence
 
