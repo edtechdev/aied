@@ -1,7 +1,7 @@
 ---
 title: Building AI Companions that Prioritise Learning over Performance
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-24T04:48:51-04:00"
+updated: "2026-08-26T09:57:51-04:00"
 type: article
 tags: [llm, personalized-learning, adaptive-learning, metacognition, student-experience, self-regulated-learning, scaffolding]
 sources: ['raw/papers/2605.04816.md']
@@ -59,6 +59,7 @@ The framework is validated across five diverse educational contexts, levels, and
 - [[adaptive-learning]]
 - [[student-experience]]
 - [[llm]]
+- [[refutation-text]]
 
 ## Connected Articles
 

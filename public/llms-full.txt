@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 171 concepts, 904 articles, and 14 FAQs.
+> Complete text of 172 concepts, 907 articles, and 14 FAQs.
 
 # Concepts
 
@@ -10378,6 +10378,60 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 ---
 
+## [Refutation Text](https://edtechdev.github.io/aied/concepts/refutation-text/)
+
+> **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[student-misconceptions-ai|conceptual-change]] literature of science education, refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In AI in education, refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalised dialogue, LLM-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.
+
+### The concept
+
+Refutation texts rest on the idea that misconceptions are not mere gaps in knowledge but actively held, plausible, self-reinforcing beliefs that resist correction — a claim central to conceptual-change research. A refutation text works by making the misconception explicit, naming it as wrong and explaining why, and then offering the correct conception in a way the learner can integrate. This differs from a standard expository text, which simply presents correct information and assumes the misconception will be displaced.
+
+In AI in education, the core finding is that the *format* and *interactivity* of the correction matter. Converging evidence ([[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen 2026]]) shows that static textbook-style refutation reliably corrects beliefs but that **personalised, interactive AI dialogue** can produce larger and faster belief reduction by targeting the learner's specific misconception and engaging them motivationally. However, this advantage may be context- and design-dependent: in [[akdogan-heat-temperature-conceptual-change-thesis-2025|science education (Akdoğan 2025)]], well-structured conceptual-change texts (expert *or* AI-generated) outperformed a prompted interactive ChatGPT dialogue — suggesting that the dialogue's design (personalised vs. generic) and the domain shape which format wins.
+
+### Why refutation text matters for AI in education
+
+- **AI as the corrector.** Conversational AI tutors can deliver *personalised* refutation — adapting the refutation to the learner's specific misconception on the fly, which pre-written texts cannot do. This produces stronger immediate belief change and higher engagement/confidence than static refutation ([[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen 2026]]), though effects may need spaced reinforcement to persist.
+- **AI as the generator of refutation content.** [[generative-ai|Generative AI]] can produce effective conceptual-change texts that match expert-written quality ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan 2025]]), and can generate large numbers of context-specific misconception texts cheaply — scaling misconception-based learning that would otherwise depend on educator experience ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
+- **AI-generated misconceptions as a learning resource.** Rather than viewing AI-generated misconceptions as harmful, structured peer discussion of them — a form of collaborative refutation — can promote conceptual change and critical thinking ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
+- **Complementing misconception education.** Refutation texts are a recommended strategy for correcting the conceptual misconceptions that underpin students' mistaken beliefs about AI itself (see [[student-misconceptions-ai]] and [[critical-genai-use-predictors]]).
+
+### Refutation text vs. related techniques
+
+Refutation texts are one member of the conceptual-change toolkit, alongside analogies, discrepant events, and interactive dialogue. Their advantage is that they are **scalable, low-cost, and demonstrably effective**; their limitation is that static texts cannot adapt to the learner. AI dialogue addresses the adaptation gap but introduces design-dependence (personalisation, prompt quality) and, in some studies, no advantage over well-crafted text. The relationship between refutation text and AI dialogue is thus complementary: text offers reliable baseline correction at scale; personalised AI dialogue offers stronger, faster, more motivating correction when well designed.
+
+### Key research themes
+
+- Whether personalised AI dialogue outperforms static refutation text, and under what conditions.
+- Whether AI-generated refutation/conceptual-change text matches expert-written quality.
+- Using AI to generate misconceptions for collaborative, misconception-based learning.
+- The role of learner characteristics (achievement, epistemology, metacognition) in moderating refutation effectiveness.
+- Spaced reinforcement to sustain the initial advantages of interactive refutation.
+
+### Practical implications
+
+For educators, refutation texts remain a reliable, low-barrier way to correct stubborn misconceptions. For those integrating AI, the evidence suggests: (1) use AI to *generate* effective refutation/conceptual-change content at scale; (2) where feasible, deliver refutation through personalised AI dialogue for stronger immediate engagement and belief change; (3) expect AI-generated misconceptions to be pedagogically useful when structured discussion is used to confront them; and (4) design for the learner — refutation effects can be concentrated in high-achieving students and moderated by epistemology and metacognition, so scaffolding and follow-up matter.
+
+## Connected Concepts
+- [[student-misconceptions-ai]]
+- [[scaffolding]]
+- [[metacognition]]
+- [[generative-ai]]
+- [[stem-education]]
+- [[physics-education]]
+- [[medical-education]]
+- [[collaborative-learning]]
+- [[intelligent-tutoring]]
+
+## Connected Articles
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalised AI dialogue vs. textbook refutation for belief correction
+- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. interactive AI dialogue
+- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
+- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training as an adjacent refutation-style intervention
+- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
+- [[ai-learning-companions-framework]] — AI companions and misconception correction
+
+---
+
 ## [AI Regulation in Education](https://edtechdev.github.io/aied/concepts/regulation/)
 
 > **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the wiki spans government policy, institutional governance, and industry self-regulation.
@@ -11971,6 +12025,7 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[generative-ai]]
 - [[student-experience]]
 - [[framing-ai-use-for-students]]
+- [[refutation-text]]
 
 ## Connected Articles
 
@@ -17505,6 +17560,7 @@ The framework is validated across five diverse educational contexts, levels, and
 - [[adaptive-learning]]
 - [[student-experience]]
 - [[llm]]
+- [[refutation-text]]
 
 ## Connected Articles
 
@@ -19674,6 +19730,37 @@ Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weat
 
 ---
 
+## [AI Tutors vs. Tenacious Myths: Personalised Dialogue for Misconception Correction](https://edtechdev.github.io/aied/articles/ai-tutors-vs-tenacious-myths-personalised-dialogue-2026/)
+
+> **Synthesis:** Corbett & Tangen (2026) test whether personalised AI dialogue can correct deeply held misconceptions ("tenacious myths") in psychology and education. In a preregistered experiment (N = 375), participants holding strong misconceptions engaged in one of three interventions: personalised **Misconception AI Dialogue** targeting their specific belief, generic **Textbook-style Refutation** (a refutation text), or **Neutral AI Dialogue** (control). Personalised Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook Refutation and Neutral AI Dialogue; this advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged while both remained superior to control. Both AI conditions generated significantly higher [[student-engagement|engagement]] and confidence than Textbook Refutation reading, showing the [[motivation|motivational]] benefits of conversational interaction.
+
+## Key Findings
+
+- **Personalised AI dialogue beats generic refutation — initially.** Personalised Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook-style Refutation and Neutral AI Dialogue, disrupting the cognitive processes that maintain misconceptions.
+- **The advantage fades over time.** The personalised-dialogue advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged — both still superior to control. This suggests brief interventions require spaced reinforcement for lasting change.
+- **AI conditions are more engaging and confidence-building.** Both AI conditions generated significantly higher engagement and confidence than reading a Textbook Refutation, highlighting the motivational benefits of conversational interaction.
+- **Refutation texts still work.** Textbook-style refutation remained superior to control at all time points — confirming the effectiveness of the [[refutation-text|refutation text]] technique even when outshone on immediacy by personalised dialogue.
+
+## Implications for AI in Education
+
+The paper positions [[conversational-ai|conversational AI]] tutors as a scalable way to deliver *personalised* [[refutation-text|refutation]]/misconception interventions that outperform static text on immediacy and motivation — but cautions that the initial advantage requires reinforcement to last. For practice, this implies integrating AI dialogue into structured programs with spaced reinforcement rather than relying on one-off interactions. It connects to the wiki's [[student-misconceptions-ai]] concept (misconceptions about and within AI learning), [[intelligent-tutoring|AI tutoring]], and the [[cognitive-offloading]]/belief-correction literature, and pairs with studies comparing AI dialogue vs. [[refutation-text|conceptual-change text]] (e.g., Akdoğan 2025, which found the reverse in [[stem-education|science education]]).
+
+## Connected Concepts
+- [[refutation-text]]
+- [[student-misconceptions-ai]]
+- [[intelligent-tutoring]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Comparing expert-written vs. AI-generated conceptual change text vs. interactive AI dialogue
+- [[ai-learning-companions-framework]] — AI companions and misconception correction
+- [[critical-genai-use-predictors]] — Recommends refutation texts to target conceptual misconceptions
+
+## Citation
+Corbett, B. J., & Tangen, J. M. (2026). [*AI tutors vs. tenacious myths: Evidence from personalised dialogue interventions in education*](https://doi.org/10.1016/j.chb.2025.108828). Computers in Human Behavior, 175, 108828.
+
+---
+
 ## [Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making](https://edtechdev.github.io/aied/articles/ai-uk-higher-education-policy-2026/)
 
 > **Synthesis:** This systematic literature review examines how AI is positioned in UK higher-education policy and its influence on institutional pedagogical decision making, finding that AI integration is accelerating but fragmented, with a gap between policy ambitions and institutional capacity and disparities between teaching-led and research-intensive universities.
@@ -20487,6 +20574,40 @@ This article adds an evidence-based, within-subjects study of an emotionally int
 ## Citation
 
 Yusuf, H., Money, A., & Daylamani-Zad, D. (2026). [*Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally intelligent pedagogical AI conversational agent*](https://doi.org/10.1007/s11423-026-10634-x). Educational Technology Research and Development.
+
+---
+
+## [Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for Heat and Temperature Conceptual Understanding](https://edtechdev.github.io/aied/articles/akdogan-heat-temperature-conceptual-change-thesis-2025/)
+
+> **Synthesis:** Akdoğan (2025) empirically investigates whether Generative AI improves students' conceptual understanding of heat and temperature. Using a quasi-experimental Solomon Four-Group design with 413 10th-grade students in Ankara, Türkiye, the thesis compared three interventions targeting heat/temperature misconceptions: an **expert-written conceptual change text** (CCT), an **AI-generated CCT**, and an **interactive AI dialogue with ChatGPT**. Findings reveal that both CCT interventions — expert and AI-generated — were equally and significantly more effective at reducing misconceptions than the interactive AI dialogue, which offered no significant advantage over the control group. Intervention benefits were almost exclusively limited to high-achieving students; personal epistemologies (about justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated results.
+
+## Key Findings
+
+- **Conceptual change text (CCT) beats interactive AI dialogue — the reverse of Corbett & Tangen (2026).** Both expert-written and AI-generated [[refutation-text|conceptual change texts]] were equally and significantly more effective at reducing misconceptions than interactive ChatGPT dialogue, which showed no significant advantage over control. This contrasts with the personalised-dialogue advantage found in [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]], likely due to differences in dialogue design (prompted vs. personalised) and domain.
+- **Expert and AI-generated CCT are comparable.** An AI-generated conceptual change text performed as well as one written by an expert — suggesting AI can produce effective [[refutation-text|refutation/conceptual-change content]].
+- **Benefits concentrated in high-achieving students.** Intervention gains were almost exclusively limited to high achievers, pointing to a [[equity-in-ai-education|equity]] concern for AI-mediated conceptual-change instruction.
+- **Individual differences moderate outcomes.** Students' personal epistemologies (justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated the results — consistent with the [[student-misconceptions-ai|misconception]] and [[metacognition]] literature.
+- **GAI's current [[pedagogy|pedagogical]] value is as a content generator, not an interactive tutor.** The author concludes GAI's value in this context lies in producing structured-prompt content, not yet in functioning as an interactive tutor for conceptual change.
+
+## Implications for AI in Education
+
+The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the wiki's [[refutation-text|conceptual change]], [[student-misconceptions-ai]], [[refutation-text]], and [[generative-ai]] concepts.
+
+## Connected Concepts
+- [[refutation-text]]
+- [[student-misconceptions-ai]]
+- [[stem-education]]
+- [[physics-education]]
+- [[metacognition]]
+- [[equity-in-ai-education]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalised AI dialogue vs. textbook refutation for belief correction
+- [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
+
+## Citation
+Akdoğan, S. (2025). [*Comparing the effectiveness of expert-written text, AI-generated text, and interactive AI dialogues on students' conceptual understanding of heat and temperature*](https://open.metu.edu.tr/handle/11511/115200) (Doctoral dissertation, Middle East Technical University).
 
 ---
 
@@ -23793,6 +23914,7 @@ Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high scho
 - [[trust]]
 - [[student-engagement]]
 - [[higher-ed]]
+- [[refutation-text]]
 
 ## Connected Articles
 
@@ -26905,6 +27027,7 @@ A correlational study (N = 67 undergraduate [[higher-ed|psychology]] students, B
 - [[higher-ed]]
 - [[metacognition]]
 - [[student-experience]]
+- [[refutation-text]]
 
 ## Connected Articles
 
@@ -42158,6 +42281,37 @@ g their work.
 ## Citation
 
 Mathew, J. G., Taher, S., Kundu, A., & Barbosa, D. (2026). [*LLMs Do Not Grade Essays Like Humans*](https://doi.org/10.1016/j.caeai.2026.100666). *Computers and Education: Artificial Intelligence*.
+
+---
+
+## [Implementing LLMs to Support Misconception-Based Collaborative Learning in Health Care Education](https://edtechdev.github.io/aied/articles/llms-misconception-collaborative-learning-healthcare-2026/)
+
+> **Synthesis:** Cheah et al. (2026) propose a framework for leveraging [[llm|large language models (LLMs)]] to generate misconceptions as a tool for misconception-based collaborative learning in health care education. While AI-generated misconceptions are often viewed as detrimental, the authors argue that LLM-generated misconceptions, when addressed through structured peer discussion, can promote [[refutation-text|conceptual change]] and [[critical-thinking|critical thinking]]. The paper outlines use cases across clinical and basic-science health care disciplines, a practical 10-step guidance for educators, and calls for medium- to long-term research on LLM-supported [[learning-gains|learning outcomes]]. The framework positions LLM-generated misconception texts and [[refutation-text|refutation]]/discussion as a scalable alternative to educator-generated misconception-based learning.
+
+## Key Findings
+
+- **LLM-generated misconceptions as a [[pedagogy|pedagogical]] resource.** The paper reframes AI-generated misconceptions from a problem to a tool: deliberately generated misconceptions, addressed through structured peer discussion and refutation, can drive conceptual change.
+- **Scaling misconception-based learning.** Traditional misconception-based learning assumes stable, shared misconceptions across cohorts and depends on educator experience and time. LLMs can generate many, context-specific misconceptions cheaply, overcoming these scalability limits.
+- **A practical 10-step implementation framework.** The authors offer step-by-step guidance for educators to use LLMs to generate and deploy misconception-based collaborative learning across health care disciplines (clinical and basic science).
+- **Critical thinking and misinformation literacy.** The framework supports health care educators in cultivating students' capacity to detect and dismantle misinformation — a key competency given the harms of physician-spread misinformation.
+
+## Implications for AI in Education
+
+The paper extends the [[refutation-text|refutation-text]]/[[student-misconceptions-ai|misconception]] literature by using AI as the *generator* of misconceptions (and implicit refutation targets) for collaborative learning, rather than only as the corrector. For practice in [[medical-education|health care education]], it offers a concrete, scalable method for misconception-based learning that does not depend on educators' manual generation of misconceptions. It connects to the wiki's [[collaborative-learning]], [[student-misconceptions-ai]], [[refutation-text|conceptual change]], and [[generative-ai]] concepts.
+
+## Connected Concepts
+- [[refutation-text]]
+- [[student-misconceptions-ai]]
+- [[collaborative-learning]]
+- [[medical-education]]
+- [[critical-thinking]]
+
+## Connected Articles
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalised AI dialogue for misconception correction
+- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. AI dialogue
+
+## Citation
+Cheah, B. C. J., Shorey, S., Ch'ng, J. H., & Tan, C. W. (2026). [*Implementing large language models to support misconception-based collaborative learning in health care education*](https://doi.org/10.2196/81875). JMIR Medical Education, 12, e81875.
 
 ---
 
