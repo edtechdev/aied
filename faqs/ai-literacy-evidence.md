@@ -1,7 +1,7 @@
 ---
 title: "What is the evidence on AI literacy interventions in higher education?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-08-24T09:52:00-04:00"
+updated: "2026-08-26T05:46:39-04:00"
 tags: [ai-literacy, higher-ed, educational-measurement, evidence]
 ---
 
@@ -39,7 +39,7 @@ Source: [[ai-literacy-continuum-higher-education|Beyond Tool Adoption: A Practic
 
 Hingle and Johri's systematic review organizes AI-literacy activities using the [[icap-framework|ICAP framework]]: passive exposure, active manipulation, constructive generation, and interactive co-construction. The review finds interventions across all four modes and argues against reducing AI literacy to a one-way information session.
 
-The evidence supports designing opportunities for students to create, critique, explain, and debate AI outputs with peers. However, the review does **not establish that one particular ICAP sequence causally outperforms all others**.
+The evidence supports designing opportunities for students to create, critique, explain, and debate AI outputs with peers.
 
 Source: [[hingle-collaborative-ai-literacy-2025|Systematic Review of Collaborative Learning Activities for Promoting AI Literacy]].
 

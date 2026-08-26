@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-08-24T13:50:00-04:00"
+updated: "2026-08-26T05:46:39-04:00"
 type: concept
 tags: [icap, cognitive-engagement, learning-theory, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]
 confidence: high
@@ -57,11 +57,9 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 ## Implications for design and research
 
 1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.^[[multimodal-learning-genai]]
-2. **Engage learners across modes, don't force a sequence.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal rather than walking learners through the taxonomy in a fixed order.^[[hingle-collaborative-ai-literacy-2025]]
+2. **Engage learners across modes.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal.^[[hingle-collaborative-ai-literacy-2025]]
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement]].^[[icap-cognitive-engagement-llm-agents]]
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
-
-> **Note on interpretation:** ICAP is a *taxonomy of engagement modes*, not a fixed teaching sequence. It is a common error to assume instruction must always begin at the passive end and progress upward. Research on inductive learning and productive failure shows that posing challenging constructive or interactive problems up front — without prior passive exposure — can produce stronger learning. Treat the modes as a classification of learner activity, and sequence them only where the learning goal warrants (see [[limitations-in-aied-research]]).
 
 ## Connected Concepts
 
