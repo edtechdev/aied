@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-26 | **Total pages:** 1064
+**Last updated:** 2026-08-26 | **Total pages:** 1065
 ---
 ## Concepts
 
@@ -406,6 +406,7 @@
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
+- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor
 - [[feedback]] — Feedback
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[feedback-literacy]] — Feedback Literacy

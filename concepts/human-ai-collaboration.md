@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-23T15:45:00-04:00"
+updated: "2026-08-26T07:45:07-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -104,3 +104,4 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
