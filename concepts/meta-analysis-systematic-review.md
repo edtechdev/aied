@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-08-15T03:04:03-04:00"
+updated: "2026-08-26T12:13:03-04:00"
 type: concept
 tags: [meta-analysis, systematic-review, research-methods, methodology, evidence-synthesis, ai-education, evaluation]
 confidence: high
@@ -43,11 +43,12 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[zerkouk-comprehensive-review-its-2025|Comprehensive ITS review]]** — a systematic review of intelligent tutoring systems with a focus on methodological rigor.
 - **[[chatgpt-critical-creative-thinking-review|Systematic review of ChatGPT and critical/creative thinking]]** — synthesizes evidence on whether LLM use supports or undermines [[critical-thinking|higher-order thinking]].
 - **[[stanford-evidence-base-ai-k12-2026|Evidence base for AI in K-12]]** — reviews the strength of evidence for AI tutoring in schools.
+- **[[liu-ai-literacy-interventions-meta-analysis-2026|Meta-analysis of AI literacy interventions]]** — three-level meta-analysis of 59 studies (172 effects, 7,211 participants) estimating a large overall effect (g = 0.837) while showing that effectiveness varies by region and learning-outcome focus (knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics).
 - **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.^[[ai-literacy-heptagon-2026]]
 
 ## AI-era synthesis challenge: productivity vs. learning
 
-Reviews of generative-AI interventions face a distinctive challenge that the wiki's synthesis research highlights: **separating productivity gains from durable learning gains.** Because generative AI can inflate immediate task performance (homework, assisted practice) without producing learning, meta-analyses must be careful about which outcome they pool. [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] found large productivity gains but no significant learning gain (g ≈ 0) — a clean illustration. [[stromberg-generative-ai-learning-penalty-secondary-2026|Large-scale field studies]] and [[generative-ai-reduced-study-time-math|unassisted-measure research]] show that the measured effect depends on whether outcomes are AI-assisted or proctored/unassisted. Reviews should therefore report assisted and unassisted outcomes separately, distinguish performance from [[learning-gains|learning]], and flag studies that measure only immediate AI-supported performance. This connects to [[ai-ed-evaluation]] and [[summative-assessment]].
+Reviews of generative-AI interventions face a distinctive challenge that the wiki's synthesis research highlights: **separating productivity gains from durable learning gains.** Because generative AI can inflate immediate task performance (homework, assisted practice) without producing learning, meta-analyses must be careful about which outcome they pool. [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] found large productivity gains but no significant learning gain (g ≈ 0) — a clean illustration. [[stromberg-generative-ai-learning-penalty-secondary-2026|Large-scale field studies]] and [[generative-ai-reduced-study-time-math|unassisted-measure research]] show that the measured effect depends on whether outcomes are AI-assisted or proctored/unassisted. Reviews should therefore report assisted and unassisted outcomes separately, distinguish performance from [[learning-gains|learning]], and flag studies that measure only immediate AI-supported performance. A complementary caution emerges from the [[liu-ai-literacy-interventions-meta-analysis-2026|AI-literacy meta-analysis]]: which **outcome** is pooled also shapes the answer — knowledge-focused AI-literacy interventions showed larger effects than those targeting skills, attitudes, or ethics, so a review that pools only knowledge outcomes can overstate what AI-literacy instruction achieves overall. This connects to [[ai-ed-evaluation]] and [[summative-assessment]].
 
 ## Strengths and limitations
 
@@ -109,6 +110,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive systematic review of intelligent tutoring systems
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review of ChatGPT and critical/creative thinking
 - [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI in K-12
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 - [[ai-literacy-heptagon-2026]] — Integrative literature review of AI literacy dimensions (PRISMA-guided)
 - [[ai-metacognition-stem-review]] — Systematic review of AI and metacognition in STEM
 - [[llm-intervention-design-cs-review]] — Review informing LLM intervention design in CS
