@@ -1,7 +1,7 @@
 ---
 title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-24T17:45:00-04:00"
+updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
@@ -81,28 +81,11 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[productive-failure]]
 ## Connected Articles
 
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
-- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
-- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
 
 ## Citation
 

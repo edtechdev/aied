@@ -1,7 +1,7 @@
 ---
 title: Agentic Workflows in Education
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-25T14:30:00-04:00"
+updated: "2026-08-26T15:34:24-04:00"
 type: article
 tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring, pedagogical-llm-training, human-in-the-loop-ai, persistent-ai-agents-academic-research, adaptive-learning-systems]
 sources: ['raw/papers/2504.20082.md']
@@ -55,31 +55,15 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scie...
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
-- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- [[human-ai-co-mentorship]] — Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting
 - [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[principled-ai-education]] — Principled AI in Education
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-
-- [[persistent-ai-agents-academic-research]]
+- [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 ## Citation
 
 Kamalov, F., Santandreu Calonge, D., Smail, L., Azizov, D., Thadani, D. R., Kwong, T., & Atif, A. (2026). [*Evolution of AI in Education: Agentic Workflows*](https://arxiv.org/abs/2504.20082v2). arXiv:2504.20082.
