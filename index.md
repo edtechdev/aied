@@ -431,7 +431,7 @@
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
-- [[formative-assessment]] — Formative Assessment in AI Education
+- [[formative-assessment]] — Formative Assessment
 - [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems
 - [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration
 - [[fowlin-operationalizing-learning-principles-ai]] — Empowering Educators: Operationalizing Age-Old Learning Principles Using AI
