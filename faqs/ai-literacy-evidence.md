@@ -1,7 +1,7 @@
 ---
 title: "What is the evidence on AI literacy interventions in higher education?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-08-26T05:46:39-04:00"
+updated: "2026-08-26T12:14:43-04:00"
 tags: [ai-literacy, higher-ed, educational-measurement, evidence]
 ---
 
@@ -10,6 +10,12 @@ tags: [ai-literacy, higher-ed, educational-measurement, evidence]
 The evidence on **[[ai-literacy|AI literacy]] interventions in [[higher-ed|higher education]] is promising, but still methodologically immature**. Across the wiki, the strongest recurring finding is that AI literacy develops more effectively through **active, contextualized practice with AI—especially critique, comparison, reflection, and collaboration—than through tool demonstrations or lectures alone**. At the same time, relatively few studies measure durable, independently demonstrated competence; many rely on [[self-regulated-learning|self-report]], short interventions, observational comparisons, or design-based research.
 
 The intervention literature converges on several design principles.
+
+## The overall quantitative picture
+
+A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 empirical studies]] (172 effect sizes, 7,211 participants) provides the field's clearest quantitative estimate: AI literacy interventions show a **large overall effect (g = 0.837, p < .001)** — but with a wide 95% prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings and may not generalize uniformly. Two moderators were significant: interventions in **East Asia and Europe outperformed those in North America**, and **knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics**. Larger (though non-significant) effects appeared for mixed or reflective pedagogies, GenAI-supported tools, and performance-task outcomes. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, via integrated and reflective pedagogies and GenAI-supported tools — and that culturally relevant, context-sensitive intervention is needed.^[[liu-ai-literacy-interventions-meta-analysis-2026]]
+
+Two implications matter for practitioners: (1) the outcome you measure shapes the apparent effect — knowledge-focused interventions look stronger than skill-, attitude-, or ethics-focused ones, so evaluate what you actually care about; and (2) the wide prediction interval means a strong average does not guarantee a strong effect in any particular local setting, reinforcing the case for context-sensitive design.
 
 ## Critiquing AI rather than merely operating it
 
