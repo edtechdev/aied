@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-26 | **Total entries:** 1080
+**Last updated:** 2026-08-26 | **Total entries:** 1079
 
 ## 2026-08-26
 
@@ -29,9 +29,6 @@
 
 - ◐ [[ai-gamification-security-education-2026]] — 'raw/papers/ai-gamification-security-education-2026.md'
   Security Education in Higher Education through AI-Powered Gamification
-
-- ◐ [[ai-assistance-skill-development-logic-puzzles-2026]] — 'raw/papers/ai-assistance-skill-development-logic-puzzles-2026.md'
-  How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles
 
 - ◐ [[youth-enter-chat-llm-student-talk-2026]] — 'raw/papers/youth-enter-chat-llm-student-talk-2026.md'
   When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk
