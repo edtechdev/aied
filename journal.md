@@ -1,11 +1,14 @@
 # Journal
 
-**Last updated:** 2026-08-26 | **Total entries:** 1064
+**Last updated:** 2026-08-26 | **Total entries:** 1065
 
 ## 2026-08-26
 
 - ◐ [[academic-erasure-complexity-ai-writing-2026]] — 'raw/papers/10.1080_13562517.2026.2707601.md'
   Academic erasure: the disappearance of complexity under AI-supported writing
+
+- ◐ [[fear-awe-genai-metaphor-workshops-2025]] — 'raw/papers/10.5334_jime.972.md'
+  Fear and awe: making sense of generative AI through metaphor
 
 ## 2026-08-25
 

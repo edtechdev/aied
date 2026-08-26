@@ -1,7 +1,7 @@
 ---
 title: "It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-08-17T11:15:00-04:00"
+updated: "2026-08-26T07:45:07-04:00"
 type: article
 tags: [engineering-education, faculty-development, ai-literacy, generative-ai, higher-ed, student-experience, cognitive-offloading]
 sources: ['raw/papers/engineering-faculty-metaphors-ai-understanding-2026.md']
@@ -56,6 +56,7 @@ The authors argue these metaphors function as "guidepoints" for self-reflection 
 - [[moral-panic-genai-classroom]] — Moral Panic and GenAI in the Classroom
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass
 - [[ai-ethics-education-public-discourse]] — Public Discourse on AI Ethics in Education
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
 ## Citation
 
