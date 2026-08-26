@@ -64,6 +64,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[self-efficacy]]
 - [[motivation]]
 - [[sociocultural-learning]]
+- [[activity-theory-aied]]
 - [[scaffolding]]
 - [[transfer-of-learning]]
 - [[learning-gains]]
@@ -80,6 +81,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
