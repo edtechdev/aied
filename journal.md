@@ -1,10 +1,13 @@
 # Journal
 
-**Last updated:** 2026-08-26 | **Total entries:** 1080
+**Last updated:** 2026-08-26 | **Total entries:** 1081
 
 ## 2026-08-26
 
 - 🏷️ [[refutation-text]] — Refutation Text
+
+- ◐ [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — 'raw/papers/dohn-boundary-object-classifying-genai-learning-activities-2026.md'
+  Collaborative Making of a Boundary Object for Classifying Generative AI Learning Activities
 
 - ◐ [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — 'raw/papers/dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026.md'
   A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism

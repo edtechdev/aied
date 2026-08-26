@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 172 concepts, 907 articles, and 14 FAQs.
+> Complete text of 172 concepts, 908 articles, and 14 FAQs.
 
 # Concepts
 
@@ -1301,7 +1301,7 @@ The wiki's frameworks and empirical studies converge on a set of practical guide
 
 **4. Build metacognitive and critical dispositions, not just operational skill.** AI literacy is better understood as a [[metacognition|metacognitive social practice]] than a skills checklist: because LLMs are probabilistic and opaque, learners must monitor and adjust their strategies, cultivate scientific skepticism, and interrogate how algorithms shape knowledge production — not merely learn to operate tools. Participatory co-design and experimental, project-based spaces (not one-off tool training) are where this awareness grows.^[[metacognitive-ai-literacy-beyond-skills-gap-2026]]
 
-**5. Embed literacy in the discipline and make it sustained.** Movement toward higher stages of AI literacy (from uncritical use → informed use → critical evaluation → improvement) is most visible when experiences are **sustained and discipline-embedded** rather than delivered as standalone workshops. Design for repeated, contextual practice within authentic coursework.^[[ai-literacy-continuum-higher-education]] A concrete model of discipline-embedded critical literacy is the task-based taxonomy of [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. (2026)]] for journalism: it maps LLM-supported tasks across the four stages of the news workflow (newsgathering, sensemaking, editing, publication/distribution), each tied to a baseline [[prompt-engineering|prompt]] and a risk-and-mitigation strategy. By treating task definition and prompting as a [[situated-learning|situated]] form of professional judgement — not a neutral technical skill — it turns prompting itself into a vehicle for critical AI literacy (bias, hallucination, overreliance, and the enduring value of [[human-in-the-loop-ai|human editorial oversight]]), and its underlying logic transfers to other knowledge-intensive professions (law, medicine, public policy).
+**5. Embed literacy in the discipline and make it sustained.** Movement toward higher stages of AI literacy (from uncritical use → informed use → critical evaluation → improvement) is most visible when experiences are **sustained and discipline-embedded** rather than delivered as standalone workshops. Design for repeated, contextual practice within authentic coursework.^[[ai-literacy-continuum-higher-education]] A concrete model of discipline-embedded critical literacy is the task-based taxonomy of [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. (2026)]] for journalism: it maps LLM-supported tasks across the four stages of the news workflow (newsgathering, sensemaking, editing, publication/distribution), each tied to a baseline [[prompt-engineering|prompt]] and a risk-and-mitigation strategy. By treating task definition and prompting as a [[situated-learning|situated]] form of professional judgement — not a neutral technical skill — it turns prompting itself into a vehicle for critical AI literacy (bias, hallucination, overreliance, and the enduring value of [[human-in-the-loop-ai|human editorial oversight]]), and its underlying logic transfers to other knowledge-intensive professions (law, medicine, public policy). Complementary to such discipline-specific taxonomies, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] classifies GenAI learning activities along six dimensions, of which **Epistemic Engagement** (understanding / using / critiquing / constructing GenAI) directly operationalises AI literacy as the depth of learners' cognitive relationship with the technology — from passive exposure to active critique and construction.
 
 **6. Treat equity and the digital divide as design constraints.** AI literacy is a mechanism for addressing the three-level digital divide (access, skills, outcomes): closing the device gap is insufficient unless skills and critical use are built so benefits distribute fairly. Interventions should plan explicitly for learners who enter with less prior AI access, and incorporate cultural and governance perspectives rather than treating literacy as culture-neutral.^[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]^[[digital-divide]]
 
@@ -1363,6 +1363,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy: power, resistance, agency
 - [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy for critical AI literacy in journalism
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
 - [[panciroli-ai-literacy-episodes-situated-learning]] — Episodes of Situated Learning for AI literacy
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
 - [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy as an AI literacy intervention
@@ -6751,7 +6752,7 @@ Instructional design bridges AI capabilities and effective pedagogy. Where [[cur
 
 **Pedagogically grounded AI tutoring** applies instructional design principles to AI system design. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** built a didactically-driven [[llm|LLM]] teacher assistant where tutoring strategy is encoded in an explicit external layer — making content selection and didactic structuring traceable and reproducible, directly addressing opacity concerns in [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demonstrated that a five-step prompting framework grounded in Generative Learning Theory significantly improved higher-order cognitive outcomes, showing that instructional guidance — not just AI access — determines learning effectiveness. Both connect to [[scaffolding]] and [[intelligent-tutoring]].
 
-**Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate human-in-the-loop design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[inclusive-learning]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activate–Inquire–Reflect) is a task-structuring framework for cognitively activated AI use that bounds the AI's contribution so that prediction, interpretation, and evaluation remain the learner's — an AI-specific adaptation of inquiry cycles grounded in [[self-regulated-learning]], Cognitive Load Theory, and [[human-ai-collaboration]].
+**Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate human-in-the-loop design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[inclusive-learning]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activate–Inquire–Reflect) is a task-structuring framework for cognitively activated AI use that bounds the AI's contribution so that prediction, interpretation, and evaluation remain the learner's — an AI-specific adaptation of inquiry cycles grounded in [[self-regulated-learning]], Cognitive Load Theory, and [[human-ai-collaboration]]. Complementing these design frameworks, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] offers a *classification* rather than a design method: six categories (Learning Objective, Content, Representation Format, Epistemic Engagement, Social Design, Artefacts) that let designers and researchers describe, compare, and imagine GenAI learning activities by making explicit why, what, how, with what, and with whom learners engage GenAI — built as a boundary object through postdigital dialogue.
 
 **AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
 
@@ -6816,6 +6817,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[curriculum-as-code-instructional-design-2026]]
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -28165,6 +28167,70 @@ The pipeline also carries favorable [[ethics|privacy and fairness]] properties. 
 ## Citation
 
 Pan, C., Meng, A., & Suk, Y. (2026). [*Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics*](https://arxiv.org/abs/2608.21165). arXiv:2608.21165.
+
+---
+
+## [Collaborative Making of a Boundary Object for Classifying Generative AI Learning Activities](https://edtechdev.github.io/aied/articles/dohn-boundary-object-classifying-genai-learning-activities-2026/)
+
+> **Synthesis:** Dohn, Markauskaite, Huber, et al. (2026) develop and critically test a **taxonomy for classifying GenAI learning activities**, built collaboratively through a postdigital dialogue and framed as a *boundary object* (after Bowker & Star). The taxonomy specifies six core categories of human–GenAI entanglement — Learning Objective, Content, Representation Format, Epistemic Engagement, Social Design, and Artefacts — that together describe the key relationships between human and [[generative-ai|GenAI]] elements in a learning activity. By making visible choices about *why*, *what*, *how*, *with what*, and *with whom* students engage GenAI, the taxonomy helps practitioners and researchers systematise, compare, and imagine GenAI learning activities — connecting to [[ai-literacy]], [[prompt-engineering]], [[human-ai-collaboration]], and [[instructional-design]].
+
+Dohn, Markauskaite, Huber, Wardak, Yang, Zeivots, et al. (2026) address a practical and scholarly problem: as publications on GenAI for learning proliferate, an overview of how GenAI is used for learning becomes increasingly hard to obtain because of the lack of a common framework and terminology. Practitioners report frustration that they are expected to engage students in learning with GenAI without clarity about what learning goals activities should support or what role GenAI should play. The article proposes a taxonomy to systematise GenAI learning activities and support comparison across them.
+
+## A taxonomy as a boundary object
+
+Building on Bowker and Star (1999), the authors treat classifications as **boundary objects** — objects that are "customisable" and "ambiguous" yet have enough "common identity" to travel across borders while maintaining a constant identity. A boundary object provides a common point of information and coordination from which each user can take and impose different meanings relevant to their expertise and needs. Because classifications are "suffused with [[ethics|ethical]] and political values," proposing a set of categories puts an ethical and political stake in the ground — making distinctions and creating focal points for current debates about GenAI's role in learning.
+
+The taxonomy was developed iteratively through a **postdigital dialogue**, with the initial prototype tested and reconfigured against concrete examples in a multi-voiced discussion. This responds to three challenges: the field's rapid change (risk of obsolescence), the inherent entanglement and situatedness of learning activities (which no taxonomy can fully capture), and the influence of [[pedagogy|pedagogical]] histories and traditions on interpretation.
+
+## The six-category taxonomy
+
+The taxonomy combines the German-Scandinavian **Didaktik** tradition (Heimann's didactic theory, focused on justification of content choice and character-formation) with the Anglo-American **Activity-Centred Analysis and Design (ACAD)** approach (focused on socially and materially entangled conditions of learning). Six categories describe GenAI learning activities:
+
+| Category | Question it answers | Key terms / distinctions |
+|----------|--------------------|--------------------------|
+| **Learning Objective** | Why learn with GenAI? | To learn *about* GenAI itself vs. to learn *within* another academic domain ([[discipline-specific-aied|discipline-specific]] or cross-disciplinary) |
+| **Content** | What GenAI objects/processes to entangle with? | LLMs, prompt engineering, training of LLMs, prompt prefixing |
+| **Representation Format** | Which forms of GenAI output to engage with? | Text, audio, image, video, code |
+| **Epistemic Engagement** | How should students engage epistemically with GenAI? | Understanding, using, critiquing, constructing |
+| **Social Design** | How is labour distributed among students and GenAI? | Solely GenAI; individual person-plus-GenAI; individual person-plus-GenAI ahead of group work; group person-plus-GenAI |
+| **Artefacts** | What further resources are used? | The material setting and additional tools/resources |
+
+Notably, the **Epistemic Engagement** category draws on Bozkurt's (2024) three GenAI literacies — "know what" (theoretical/conceptual), "know how" (practical/operational), and "know why" (critical assessment of ethical, epistemological, ontological aspects) — while adding a further distinction in "know how" between *using* existing GenAI and *constructing* GenAI. This matters because the entanglement forms, and resulting ethical and political issues, differ substantially when constructing (where fairer, more justifiable training data may be possible) versus using. The authors note that techniques such as fine-tuning and [[rag|Retrieval-Augmented]] Generation (RAG) occupy a meaningful intermediate position, raising questions about control, responsibility, and whether incorporated biases can be mitigated.
+
+## Outcomes and critical reflection
+
+The collaborative testing produced both **elaborations** (discrete clarifications and additions that made the taxonomy more precise without changing its logic) and **restructurings** (encompassing changes that challenged the scheme's underlying logic). The authors conclude that the taxonomy, as a generalised artefact, inevitably falls short of adequately portraying all aspects of specific entangled GenAI learning activities. However, it can be **concretised for each particular situation**, and the level of generality of the categories allows **comparison across specific learning activities**. The dialogue also shows how the taxonomy can serve as a **prompt to stimulate educators' imagination** about GenAI activities.
+
+The taxonomy is explicitly not a design method or pedagogical framework — it aims to help teachers and researchers *orient their search* for good practices by specifying important traits and elements to look for, offering an accessible overview of possible GenAI roles in learning activities. It is positioned as one possible way to look at the landscape, acknowledging Global North bias in its theoretical foundations and inviting consideration of how it might differ from [[global-south|Global South]] pedagogical traditions.
+
+## Connections to the wiki
+
+The taxonomy's Epistemic Engagement category (understanding / using / critiquing / constructing) maps directly onto [[ai-literacy]] dimensions and to [[critical-thinking]], and its person-plus-GenAI labour-distribution categories connect to [[human-ai-collaboration]] and debates about [[cognitive-offloading]]. Its Content category situates [[prompt-engineering]] as a distinct learning content area. The paper's framing of learning activities as entangled human–GenAI systems resonates with [[activity-theory-aied]], and its practical orientation connects to [[instructional-design]] and [[curriculum-design]].
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[instructional-design]]
+- [[curriculum-design]]
+- [[human-ai-collaboration]]
+- [[activity-theory-aied]]
+- [[prompt-engineering]]
+- [[critical-thinking]]
+- [[cognitive-offloading]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[student-llm-interaction-taxonomy-review-2026]] — Taxonomy review of student-LLM interactions
+- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy
+- [[socratic-ai-physics-tutor-taxonomy-2026]] — Taxonomy of Socratic AI physics tutor dialogue
+- [[sposato-ai-educational-leadership-taxonomy-2025]] — Taxonomy of AI educational leadership
+- [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy of metacognitive learning scenarios
+
+## Citation
+
+Dohn, N. B., Markauskaite, L., Huber, E., Wardak, D., Yang, H., Zeivots, S., Casey, A., van Diggele, C., Dohn, N. B., Mannix, K., Mantai, L., Pressick-Kilborn, K., Spence, N., Vallis, C., & Wilson, S. (2026). [Collaborative Making of a Boundary Object for Classifying Generative AI Learning Activities](https://doi.org/10.1007/s42438-026-00671-3). *Postdigital Science and Education*. https://doi.org/10.1007/s42438-026-00671-3
 
 ---
 
