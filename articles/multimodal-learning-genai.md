@@ -1,7 +1,7 @@
 ---
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-26T15:33:55-04:00"
 type: article
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment, pedagogical-llm-training, self-regulated-learning]
 sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
@@ -146,31 +146,11 @@ The guide includes 15+ educator case studies spanning:
 - [[human-ai-collaboration]]
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 - [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 - [[principled-ai-education]] — Principled AI in Education
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[dot-framework-survey-2026]]
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[agentic-workflows-education]] — Agentic Workflows in Education
 ## Citation
 
 AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varga-Atkins, T., Saunders, S., & Hallam, S.B.S. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf)

@@ -1,7 +1,7 @@
 ---
 title: "Designing for Authentic Assessment: A Scoping Review"
 created: "2026-05-07T19:55:03-04:00"
-updated: "2026-08-13"
+updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
@@ -95,31 +95,11 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - [[higher-ed]]
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[educational-llm-alignment]] — Educational LLM Alignment
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation a...
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[principled-ai-education]] — Principled AI in Education
-- [[student-cheat-sheets-make-or-take]] — Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
-- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 
 ## Citation
 
