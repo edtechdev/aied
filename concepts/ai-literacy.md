@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-26T05:46:39-04:00"
+updated: "2026-08-26T07:45:07-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies]
@@ -145,3 +145,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops

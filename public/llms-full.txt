@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 170 concepts, 888 articles, and 14 FAQs.
+> Complete text of 170 concepts, 889 articles, and 14 FAQs.
 
 # Concepts
 
@@ -655,6 +655,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 
 - [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
 ---
 
@@ -1309,6 +1310,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
 ---
 
@@ -6258,6 +6260,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
 ---
 
@@ -29771,6 +29774,7 @@ The authors argue these metaphors function as "guidepoints" for self-reflection 
 - [[moral-panic-genai-classroom]] — Moral Panic and GenAI in the Classroom
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass
 - [[ai-ethics-education-public-discourse]] — Public Discourse on AI Ethics in Education
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
 ## Citation
 
@@ -30622,6 +30626,45 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 ## Citation
 
 Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878). arXiv:2507.06878.
+
+---
+
+## [Fear and Awe: Making Sense of Generative AI Through Metaphor](https://edtechdev.github.io/aied/articles/fear-awe-genai-metaphor-workshops-2025/)
+
+> **Synthesis:** Vallis, Wilson & Casey (2025) design and evaluate a metaphor-analysis workshop for making sense of [[generative-ai|generative AI]] in [[higher-ed|higher education]], then thematically analyse the metaphors produced by students, academics, and educational support staff at a large Australian university. They map participant metaphors into four categories — *Functions* (tool-like, e.g. "Swiss army knife"), *Roles* (human-like, e.g. "helper," "frenemy"), *Qualities* (unknowable/unreliable, e.g. "black box," "slippery slope"), and *Agency* (autonomous/threatening, e.g. "competitor," "sinister robot") — surfacing persistent tensions between human versus machine agency and the known versus the unknowable. The study positions metaphor as a low-tech, [[embodied-learning|embodied]], collaborative sensemaking tool for critical [[ai-literacy]], offering a workshop model that moves [[governance|institutional]] discussion of GenAI beyond reductive "permit or prohibit" policies.
+
+## Key Findings
+
+- **A four-category taxonomy of GenAI metaphors.** Participant metaphors clustered into *Functions* (practical, tool-like: Swiss army knife, ideas generator, grammar checker), *Roles* (human-like relationships: helper, study buddy, personal tutor, frenemy), *Qualities* (unknowable, unreliable, or magical: black box, tip of the iceberg, slippery slope, genie in a computer), and *Agency* (volition and threat: competitor, invader, Frankenstein, sinister robot, HAL).
+- **Two recurring tensions shape sensemaking:** human versus machine **[[agency]]** (is GenAI a tool we use or an autonomous actor that may replace us?), and the known versus the unknowable (opacity/"black box" versus magical-seeming capability). Both map closely onto prevailing literature on GenAI metaphors.
+- **Metaphors reveal deep ambivalence.** The most striking pattern was "friend/foe" dualities — *double-edged sword, friendly terminator, frenemy, feeding the beast* — reflecting participants' inability to take a definitive stance. Anthropomorphic *Roles* metaphors risk misplaced trust and over-attributed agency, masking the human, material dimensions of AI.
+- **Cognitive offloading via tool metaphors is seductive but unsettling.** Framing GenAI as a neutral "tool" (hammer, calculator) emphasises utility and control while downplaying its embedded values and biases — and participants were uneasy about offloading tasks requiring [[human-in-the-loop-ai|human judgment]] and [[creativity]].
+- **The workshop itself was a validated sensemaking method.** Grounded in material, [[collaborative-learning|collaborative]], no-tech activities (sticky notes, a "gallery" of metaphors), the workshops helped participants surface assumptions, connect across roles and cultures, feel "not alone," and think about the ethics of GenAI — without requiring technical expertise.
+
+## Implications for AI in Education
+
+The paper positions metaphor workshops as a practical, low-barrier tool for critical [[ai-literacy]] and institutional dialogue. For practice, a learning designer could use metaphor analysis to surface a teaching team's assumptions about GenAI before redesigning [[assessment]]; for students, metaphor workshops enable meaningful conversation about GenAI use. At the institutional level, the authors argue for moving beyond binary "permit or prohibit" GenAI policies toward frameworks that acknowledge both opportunities (augmenting-device metaphors) and risks (black-box concerns), and for [[faculty-development|professional development]] that directly addresses fears such as AI replacing [[teacher-role|teaching roles]]. The findings connect to broader wiki themes of [[human-ai-collaboration]], [[cognitive-offloading]], and the anthropomorphic framing of AI tools — complementing [[engineering-faculty-metaphors-ai-understanding-2026|work on how instructors' metaphors construct and constrain AI understanding]].
+
+## Connected Concepts
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[teacher-role]]
+- [[human-ai-collaboration]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[critical-thinking]]
+- [[student-ai-interaction]]
+- [[ethics]]
+
+## Connected Articles
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — How engineering faculty metaphors construct (and constrain) AI understanding
+- [[ai-anxiety-strategic-regulation-writing-2026]] — Student strategies for regulating generative AI use
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative approaches to building AI literacy
+- [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
+
+## Citation
+Vallis, C., Wilson, S., & Casey, A. (2025). [*Fear and awe: Making sense of generative AI through metaphor*](https://doi.org/10.5334/jime.972). Journal of Interactive Media in Education, 2025(1), 14.
 
 ---
 
