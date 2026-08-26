@@ -1,8 +1,19 @@
 # Journal
 
-**Last updated:** 2026-08-26 | **Total entries:** 1076
+**Last updated:** 2026-08-26 | **Total entries:** 1080
 
 ## 2026-08-26
+
+- 🏷️ [[refutation-text]] — Refutation Text
+
+- ◐ [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — 'raw/papers/10.1016_j.chb.2025.108828.md'
+  AI Tutors vs. Tenacious Myths: Personalised Dialogue for Misconception Correction
+
+- ◐ [[llms-misconception-collaborative-learning-healthcare-2026]] — 'raw/papers/10.2196_81875.md'
+  Implementing LLMs to Support Misconception-Based Collaborative Learning in Health Care Education
+
+- ◐ [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — 'raw/papers/akdogan-heat-temperature-conceptual-change-thesis-2025.md'
+  Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for Heat and Temperature Conceptual Understanding
 
 - ◐ [[bandit-driven-llm-essay-scoring-2026]] — 'raw/papers/bandit-driven-llm-essay-scoring-2026.md'
   Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring

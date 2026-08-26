@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 155
+**Total concepts:** 156
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood and Elementary AI Education
@@ -434,6 +434,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`rag`** — RAG (Retrieval-Augmented Generation)
 - **`rct`** — RCT
 - **`reducing-ai-misuse`** — Reducing AI Misuse
+- **`refutation-text`** — Refutation Text
 - **`regulation`** — AI Regulation in Education
 - **`reinforcement-learning`** — Reinforcement Learning
 - **`remote-proctoring`** — Remote Proctoring
