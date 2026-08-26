@@ -39290,8 +39290,6 @@ Shang Li (2025) presents a qualitative study grounding AI integration in [[k-12|
 - **AI enables authentic, contextualized, and boundary-crossing learning.** [[simulation|Virtual labs and simulations]] let students experience distant, hazardous, or imperceptible phenomena, bridge virtual and real-world practice, and connect scientific knowledge to real-life and cross-disciplinary contexts.
 - **Teachers are optimistic yet concerned.** Teachers envision immersive, personalized AI futures but worry about being replaced and about [[cognitive-offloading|overreliance]] degrading independent thinking, hands-on experimentation, and problem-solving abilities.
 
-ng abilities.
-
 ## Connected Concepts
 
 - [[constructivist]]

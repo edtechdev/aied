@@ -37,8 +37,7 @@ wiki/
 ├── public/
 │   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
 │   ├── llms-full.txt  # Full text of every page
-│   ├── robots.txt     # Search indexing + Content-Signal + Schemamap
-│   └── schema/        # Schema.org metadata (JSON-LD)
+│   └── robots.txt     # Search indexing + sitemap
 ├── tooling/           # Reusable tooling for running your own wiki
 ├── astro.config.mjs   # Astro config (base /aied, pagefind, sitemap, trailingSlash: 'never')
 ├── package.json       # Astro 7, pagefind, sitemap, rss
@@ -82,8 +81,7 @@ Beyond the human-facing site, the wiki is structured for AI agents and crawlers:
 
 - **`llms.txt`** — complete catalog (every article, concept, and FAQ with one-line descriptions)
 - **`llms-full.txt`** — full text of every page
-- **`robots.txt`** — search-engine indexing plus Content-Signal (`ai-train`, `ai-input`) and Schemamap entries
-- **`schema/`** — Schema.org JSON-LD metadata
+- **`robots.txt`** — search-engine indexing + sitemap
 - **JSON-LD structured data** — a linked schema.org `@graph` on every page (see `docs/json-ld.md`)
 - **RSS + sitemap** — `rss.xml` and `sitemap-index.xml` (base `/aied`)
 - **Pagefind** — full-text search, rebuilt on every `npm run build`
