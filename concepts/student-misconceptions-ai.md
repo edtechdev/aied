@@ -1,7 +1,7 @@
 ---
 title: Student Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-26T09:57:51-04:00"
+updated: "2026-08-26T12:31:04-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, cognitive-offloading, academic-integrity, generative-ai, student-experience]
 
@@ -38,6 +38,14 @@ Misconceptions translate directly into the behaviors that cause learning harm. T
 ### Correcting misconceptions
 
 Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process that develops [[metacognition]] and [[self-regulated-learning]]: helping students monitor their reliance, calibrate when to trust and when to question a model, and see the cost of bypassing their own [[cognitive-offloading|cognitive work]]. Because misconceptions are resistant, they are best addressed through direct confrontation with evidence — including the finding that students often *do not perceive* the learning harm of AI misuse.
+
+**Refutation text is a core correction technique.** Because misconceptions are actively held and resistant, the most direct evidence-based strategy is the [[refutation-text|refutation text]] — an instructional text that states the misconception, explicitly refutes it, and presents the correct conception. This is the same family of technique used to correct the domain misconceptions studied in learning science, applied here to students' beliefs about AI itself. The wiki's [[refutation-text]] concept page synthesizes how this plays out in AI in education in three complementary ways:
+
+- **AI as the corrector.** Conversational AI tutors can deliver *personalised* refutation, adapting the refutation to a learner's specific misconception on the fly. [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]] found personalised AI dialogue produced larger and faster belief reductions than static textbook-style refutation, with higher engagement and confidence — though the advantage faded by two months without reinforcement.
+- **AI as the generator of refutation content.** [[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan (2025)]] found AI-generated conceptual-change/refutation text matched expert-written quality (and both outperformed a prompted interactive dialogue in that science context), showing AI can produce effective correction materials at scale.
+- **AI-generated misconceptions as a learning resource.** Rather than treating AI-generated misconceptions as merely harmful, [[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. (2026)]] propose generating misconceptions and addressing them through structured peer discussion — a collaborative form of refutation that promotes conceptual change and critical thinking.
+
+For student misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help students see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears.
 
 ## Connected Concepts
 
