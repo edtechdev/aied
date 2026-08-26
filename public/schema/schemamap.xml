@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:schema="https://schema.org/">
-  <url><loc>https://edtechdev.github.io/aied/schema/corpus.json</loc></url>
-  <url><loc>https://edtechdev.github.io/aied/schema/articles.json</loc></url>
-  <url><loc>https://edtechdev.github.io/aied/schema/concepts.json</loc></url>
-</urlset>
