@@ -1,25 +1,29 @@
 ---
 title: Faculty Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-26T10:30:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high
 ---
 
-> **Faculty development** — the processes, programs, and institutional supports that help educators develop the skills and confidence to teach effectively with AI. Faculty development spans individual training, curriculum redesign, and institutional policy change.
-
-#- **[[crompton-faculty-technology-integration-standards-2026|Crompton et al.]]** design-based research develops faculty standards for technology (incl. AI) integration in higher education institutions.
+> **Faculty development** — the processes, programs, and institutional supports that help educators develop the skills, confidence, and professional identity to teach effectively with AI. Faculty development spans individual training, curriculum redesign, institutional policy change, and the cultural work of making sense of what GenAI means for the academic profession.
 
 ## Faculty development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
-- **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. faculty-development programs must address all four.
+- **Standards for technology integration:** [[crompton-faculty-technology-integration-standards-2026|Crompton et al.]] use design-based research to develop faculty standards for technology (incl. AI) integration in higher education institutions.
+- **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. Faculty-development programs must address all four.
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
-- **Shared language and metaphors:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] show that engineering instructors hold heterogeneous mental models of AI, framed through metaphors that both construct and constrain understanding (AI as a human-like "assistant" vs. a "tool" or "search engine"). Because instructors within the same department often hold fundamentally different conceptualizations, a shared, accurate language about [[generative-ai|GAI]] is a prerequisite for effective faculty development and productive departmental adoption discussions.
+
+### Metaphors and shared language in faculty development
+
+Faculty hold heterogeneous, often deeply ambivalent mental models of AI, and effective development must surface and work with them. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] show that engineering instructors frame AI through metaphors that both construct and constrain understanding (AI as a human-like "assistant" vs. a "tool" or "search engine"); because instructors within the same department often hold fundamentally different conceptualizations, a shared, accurate language about [[generative-ai|GAI]] is a prerequisite for effective faculty development and productive departmental adoption discussions.
+
+A practical method for surfacing these mental models is the **metaphor-analysis workshop**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey (2025)]] designed and validated a low-tech, collaborative workshop for faculty, staff, and students to articulate their metaphors for generative AI. Participant metaphors clustered into four categories — *Functions* (tool-like: "Swiss army knife"), *Roles* (human-like: "helper," "frenemy"), *Qualities* (unknowable: "black box," "slippery slope"), and *Agency* (threatening: "competitor," "sinister robot") — surfacing persistent tensions between human vs. machine [[agency]] and the known vs. the unknowable. The workshop helped participants surface assumptions, connect across roles, feel "not alone," and think about the ethics of GenAI, without requiring technical expertise. As a development tool, it gives program designers a low-barrier way to surface a team's assumptions *before* redesigning [[assessment]] or rolling out policy, and to address fears head-on — including the fear that AI will replace [[teacher-role|teaching roles]].^[[fear-awe-genai-metaphor-workshops-2025]]
 
 ### GenAI as identity work, not just upskilling
 
@@ -27,7 +31,7 @@ A threshold-informed view reframes GenAI integration as an **ontological transfo
 
 On this account, faculty asking "what's the point of teaching in a GenAI world?" are not deficient in competence; they are in a **liminal threshold-crossing phase** where anxiety, resistance, and confusion are necessary parts of transformation, not obstacles to eliminate. Skills-based training that answers a competence question faculty are not asking can become peripheral to the real transformation, and well-intended governance can lapse into an "enforcement illusion" — communicating rules rather than supporting change.^[[laidlaw-genai-identity-crisis-faculty-2026]]
 
-**Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing discipline-specific cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).^[[laidlaw-genai-identity-crisis-faculty-2026]]
+**Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing discipline-specific cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).^[[laidlaw-genai-identity-crisis-faculty-2026]] The metaphor-workshop model above is one concrete instantiation of this: rather than starting from technical upskilling, it opens with the interpretive, identity-laden question of what GenAI means to participants.
 
 ### Connections
 
@@ -44,6 +48,8 @@ For faculty developers, academic leaders, and instructional designers planning A
 **Build toward curriculum redesign, not tool adoption.** The goal is faculty redesigning courses and assessment, not just adding AI tools. Ground professional development in course-level redesign work and assessment reform, and give faculty structured frameworks for doing so (e.g. [[ai-assessment-scale-reform|assessment scales]], [[institutional-change-framework-ai|institutional change frameworks]]).^[[institutional-change-framework-ai]]^[[ai-assessment-scale-reform]]
 
 **Anchor in a competency framework.** Use a structured model like TPACK ([[ai-tpack-preservice-math-teachers|TPACK-based training]]) or an AI upskilling ladder ([[crewscaler-ai-upskilling-framework|AI upskilling frameworks]]) so that development is sequenced and measurable rather than ad-hoc, and so faculty can see their own progression toward [[teacher-ai-competency]].^[[crewscaler-ai-upskilling-framework]]^[[ai-tpack-preservice-math-teachers]]
+
+**Surface and address fears and mental models.** Before redesigning teaching, use a metaphor-analysis workshop ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) to surface a team's assumptions and anxieties about GenAI — including the fear that it will replace teaching roles — and build development that responds to them rather than ignoring them.^[[fear-awe-genai-metaphor-workshops-2025]]
 
 **Model AI literacy and measure real gains.** Faculty development should itself embody the practices being taught — using AI pedagogically, evaluating outputs critically — and should assess demonstrated competence rather than self-reported confidence, since self-perception reliably overestimates AI skill.^[[ai-literacy-assessment-misalignment]]^[[genai-pd-ai-pck-learning-gain-2026]]
 
@@ -68,6 +74,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[espino-ai-business-education-review-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
+- [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
