@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 156
+**Total concepts:** 172
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood and Elementary AI Education
@@ -358,6 +358,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`discipline-specific-aied`** — AIEd in the Disciplines
 - **`distributed-cognition`** — Distributed Cognition
 - **`edtech-platform`** — Edtech Platform
+- **`early-childhood-elementary-ai-education`** — Early Childhood and Elementary AI Education
 - **`educational-measurement`** — Educational Measurement
 - **`educational-nlp`** — Educational NLP
 - **`educational-policy-ai`** — Educational AI Policy
@@ -410,6 +411,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`multilingual-learning`** — Multilingual Learning
 - **`multimodal`** — Multimodal AI
 - **`neurodiversity`** — Neurodiversity
+- **`network-analysis`** — Network Analysis
 - **`online-teaching-and-learning`** — Online Teaching and Learning
 - **`open-source`** — Open Source
 - **`pedagogical-agent`** — Pedagogical Agent
@@ -422,6 +424,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`physics-education`** — Physics Education
 - **`plagiarism-detection`** — AI Plagiarism Detection
 - **`privacy`** — Privacy in AI Education
+- **`prior-knowledge`** — Prior Knowledge
 - **`problem-based-learning`** — Problem-Based Learning
 - **`productive-failure`** — Productive Failure
 - **`inquiry-based-learning`** — Inquiry-Based Learning and AI
