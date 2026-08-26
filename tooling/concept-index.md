@@ -372,7 +372,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`faculty-development`** — Faculty Development
 - **`feedback-literacy`** — Feedback Literacy
 - **`feedback`** — Feedback
-- **`formative-assessment`** — Formative Assessment in AI Education
+- **`formative-assessment`** — Formative Assessment
 - **`framing-ai-use-for-students`** — Framing AI Use for Students
 - **`game-based-learning`** — Game-Based Learning
 - **`generative-ai`** — Generative AI
