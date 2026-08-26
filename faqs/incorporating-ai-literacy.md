@@ -1,7 +1,7 @@
 ---
 title: "How should I incorporate AI literacy into my course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-08-26T05:46:39-04:00"
+updated: "2026-08-26T12:14:43-04:00"
 tags: [ai-literacy, instructional-design, higher-ed, cognitive-offloading, assessment]
 ---
 
@@ -21,7 +21,7 @@ One particularly useful pattern is to make the AI produce something plausible bu
 
 Where possible, make these activities **discipline-specific and recurring**. Generic rules such as "check AI for hallucinations" are less useful than showing students what unreliable AI output looks like in *your* field: fabricated citations in history, invalid assumptions in economics, misleading interpretations of experimental evidence in biology, poorly justified design decisions in engineering, or superficially fluent but methodologically weak writing in psychology.
 
-The wiki's AI literacy synthesis argues that movement toward critical evaluation is most evident when AI-literacy experiences are sustained and embedded in authentic coursework rather than isolated workshops. See [[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]].
+The wiki's AI literacy synthesis argues that movement toward critical evaluation is most evident when AI-literacy experiences are sustained and embedded in authentic coursework rather than isolated workshops. See [[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]. This is consistent with the quantitative evidence: a [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analysis of 59 AI-literacy interventions]] found the largest effects for integrated and reflective pedagogies, while cautioning that knowledge-focused interventions show larger measured effects than those targeting skills, attitudes, or ethics.
 
 ## Include collaborative learning
 
