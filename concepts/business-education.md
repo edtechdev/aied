@@ -1,7 +1,7 @@
 ---
-title: AI in Business Education
+title: Business Education
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-27T08:26:57.833590-04:00"
 type: concept
 tags: [ai-education, business-education, economics-education, management-education, curriculum-design, generative-ai, higher-ed, discipline-specific-aied]
 confidence: high

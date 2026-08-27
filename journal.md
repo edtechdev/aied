@@ -496,7 +496,7 @@
 - ◐ [[mujib-ai-ibl-creative-math-2026]] — 'raw/papers/mujib-ai-ibl-creative-math-2026.md'
   Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics
 
-- 🏷️ [[inquiry-based-learning]] — Inquiry-Based Learning and AI
+- 🏷️ [[inquiry-based-learning]] — Inquiry-Based Learning
 
 - ◐ [[li-dbagent-llm-educational-agent-cs-2026]] — 'raw/papers/li-dbagent-llm-educational-agent-cs-2026.md'
   The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education
@@ -582,7 +582,7 @@
 
 ## 2026-08-20
 
-- 🏷️ [[business-education]] — AI in Business Education
+- 🏷️ [[business-education]] — Business Education
 
 - 🏷️ [[eportfolio]] — E-Portfolio
 
@@ -1624,7 +1624,7 @@
 
 - 🏷️ [[rag]] — RAG (Retrieval-Augmented Generation)
 
-- 🏷️ [[professional-training]] — Professional Training and AI
+- 🏷️ [[professional-training]] — Professional Training
 
 - 🏷️ [[automated-assessment]] — Automated Assessment
 
@@ -1662,7 +1662,7 @@
 
 - 🏷️ [[automated-essay-scoring]] — Automated Essay Scoring
 
-- 🏷️ [[cs-education]] — CS Education and AI
+- 🏷️ [[cs-education]] — CS Education
 
 - 🏷️ [[hallucination-risk]] — Hallucination Risk
 
@@ -1696,7 +1696,7 @@
 
 - 🏷️ [[assessment]] — Assessment
 
-- 🏷️ [[stem-education]] — STEM Education and AI
+- 🏷️ [[stem-education]] — STEM Education
 
 - 🏷️ [[socratic-method]] — Socratic Method
 
@@ -1704,7 +1704,7 @@
 
 - 🏷️ [[cognitive-offloading]] — Cognitive Offloading
 
-- 🏷️ [[instructional-design]] — Instructional Design with AI
+- 🏷️ [[instructional-design]] — Instructional Design
 
 - 🏷️ [[academic-integrity]] — Academic Integrity
 
@@ -3095,7 +3095,7 @@
 
 - 🏷️ [[administrator]] — AI from the Administrator Perspective
 
-- 🏷️ [[lifelong-learning]] — Lifelong Learning and AI
+- 🏷️ [[lifelong-learning]] — Lifelong Learning
 
 - ◐ [[prober-ai-inquiry-writing]] — 'raw/papers/2605.05598.md'
   Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing

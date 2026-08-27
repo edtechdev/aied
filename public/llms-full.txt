@@ -2477,7 +2477,7 @@ Biology education sits within the broader [[stem-education]] domain and shares t
 
 ---
 
-## [AI in Business Education](https://edtechdev.github.io/aied/concepts/business-education/)
+## [Business Education](https://edtechdev.github.io/aied/concepts/business-education/)
 
 > **AI in business education** — the application of artificial intelligence to the teaching and learning of business, economics, and management, and the preparation of students for a GenAI-integrated workplace. Business schools face a double imperative: integrating AI *into* the curriculum as a subject and pedagogical tool, while also preparing students to *use* generative AI responsibly and effectively in professional practice.
 
@@ -3455,7 +3455,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ---
 
-## [CS Education and AI](https://edtechdev.github.io/aied/concepts/cs-education/)
+## [CS Education](https://edtechdev.github.io/aied/concepts/cs-education/)
 
 > **CS Education** — computer science education is the most-researched STEM subfield in the wiki, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
 
@@ -6747,7 +6747,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 
 ---
 
-## [Inquiry-Based Learning and AI](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/)
+## [Inquiry-Based Learning](https://edtechdev.github.io/aied/concepts/inquiry-based-learning/)
 
 > **Inquiry-based learning (IBL)** — a learner-centered pedagogy in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor scaffolding rather than lecturing. In the AI era, IBL's question-driven, exploration-centred structure has become a focal point: [[generative-ai|generative AI]] and [[llm|LLM]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.
 
@@ -6806,7 +6806,7 @@ IBL's question-driven, process-focused structure is the natural home for product
 
 ---
 
-## [Instructional Design with AI](https://edtechdev.github.io/aied/concepts/instructional-design/)
+## [Instructional Design](https://edtechdev.github.io/aied/concepts/instructional-design/)
 
 > **Instructional Design** — the systematic process of creating effective learning experiences through the analysis of learning needs and the design, development, implementation, and evaluation of instructional materials and activities. AI is transforming instructional design by automating content creation, enabling [[adaptive-learning|adaptive learning]] paths, supporting data-driven iteration, and augmenting — rather than replacing — the instructional designer's role.
 
@@ -7848,7 +7848,7 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 
 ---
 
-## [Lifelong Learning and AI](https://edtechdev.github.io/aied/concepts/lifelong-learning/)
+## [Lifelong Learning](https://edtechdev.github.io/aied/concepts/lifelong-learning/)
 
 > **Lifelong learning and AI** — how AI supports continuous education and skill development beyond formal schooling, and how it reshapes adult and workplace learning. AI can personalize, scaffold, and make learning-on-demand more accessible for adults, while also raising questions about autonomy, self-direction, and who controls the learning process in AI-mediated environments.
 
@@ -10038,7 +10038,7 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 
 ---
 
-## [Professional Training and AI](https://edtechdev.github.io/aied/concepts/professional-training/)
+## [Professional Training](https://edtechdev.github.io/aied/concepts/professional-training/)
 
 > **Professional training** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.
 
@@ -11888,7 +11888,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 
 ---
 
-## [STEM Education and AI](https://edtechdev.github.io/aied/concepts/stem-education/)
+## [STEM Education](https://edtechdev.github.io/aied/concepts/stem-education/)
 
 > **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
 

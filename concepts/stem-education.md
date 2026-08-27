@@ -1,7 +1,7 @@
 ---
-title: STEM Education and AI
+title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-27T08:26:57.833590-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 
