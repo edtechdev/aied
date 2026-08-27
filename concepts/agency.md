@@ -35,6 +35,7 @@ Learner agency is not only a static individual trait — it is also an **emergen
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[self-directed-learning]]
 - [[self-regulated-learning]]
@@ -53,6 +54,9 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
+- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
+- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]

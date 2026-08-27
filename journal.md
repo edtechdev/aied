@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1088
+**Last updated:** 2026-08-27 | **Total entries:** 1089
 
 
 ## 2026-08-27
@@ -20,6 +20,8 @@
 
 - ◐ [[jin-emergent-learner-agency-implicit-hai-2026]] — 'raw/papers/jin-emergent-learner-agency-implicit-hai-2026.md'
   Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction
+
+- ◐ [[learner-identity]] — Learner Identity
 
 ## 2026-08-26
 

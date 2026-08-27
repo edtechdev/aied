@@ -38,6 +38,7 @@ These roles connect teacher work to [[distributed-cognition]], [[situated-learni
 Teacher role connects to [[faculty-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
 - [[faculty-development]]
@@ -58,6 +59,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]
 - [[alharbi-ethical-genai-eap-2026]]
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
