@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-24T17:10:00-04:00"
+updated: "2026-08-27T11:29:54.887137-04:00"
 type: concept
 tags: [feedback, feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 
@@ -12,7 +12,7 @@ confidence: high
 
 This is the umbrella concept for the wiki's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The wiki treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
 
-#- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from GenAI feedback — a crucial qualifier for feedback effectiveness claims.
+- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from GenAI feedback — a crucial qualifier for feedback effectiveness claims.
 
 ## The feedback system
 
