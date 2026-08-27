@@ -163,7 +163,7 @@ ALIASES = {
     'automated-question-generation': ['item generation', 'question generation', 'item writing'],
     'cognitive-diagnosis': ['cognitive diagnosis', 'diagnostic inference', 'cognitive diagnostic'],
     'simulating-students': ['simulated students', 'student simulation', 'simulate learners'],
-    'student-modeling': ['student modeling', 'learner modeling'],
+    'student-modeling': ['student modeling', 'learner modeling', 'learner model', 'student model', 'learner modeling and adaptive instruction', 'adaptive instruction'],
     'knowledge-tracing': ['knowledge tracing', 'bayesian knowledge tracing'],
     'reinforcement-learning': ['reinforcement learning', 'machine learning', 'rl'],
     'multimodal': ['multimodal', 'multi-modal'],
