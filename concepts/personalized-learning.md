@@ -1,13 +1,13 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-27T08:07:41.879764-04:00"
+updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
 ---
 
-> **Personalized learning** — tailoring educational experiences to individual [[student-modeling|learner profiles]], including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
+> **Personalized learning** — tailoring educational experiences to individual [[student-modeling|learner profiles]], including prior knowledge, learning pace, preferences, and [[affective-computing|affective]] states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
 
 Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
@@ -17,11 +17,11 @@ Tailoring educational experiences to individual learner profiles, including [[pr
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.
+Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[student-misconceptions-ai|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
-Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, question generation, and collaborative writing.
+Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, [[automated-question-generation|question generation]], and collaborative writing.
 
 ### Multi-Agent Social Personalization (MAIC)
 
@@ -31,17 +31,17 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 Personalized learning is often conflated with [[adaptive-learning|adaptive learning]], but they are not the same. **Adaptive learning** refers to the *mechanism* — a system adjusting content, pacing, and difficulty in real time based on a learner model. **Personalized learning** is the *broader goal* — tailoring the full learning experience (content, pathways, pacing, preferences, goals) to an individual, of which real-time adaptation is one implementation. Adaptive systems are a *means* toward personalization, but personalization can also be achieved through static learner profiles, choice-based pathways, or human-tutor tailoring that does not adapt in real time.
 
-[[intelligent-tutoring|Intelligent tutoring]] sits in between: ITS are the canonical *adaptive* platforms that deliver personalized instruction through structured student modeling, while LLM-based tutors personalize conversationally. All three are the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — they consume the learner representations produced by [[student-modeling|student modeling]], [[knowledge-tracing]], and [[cognitive-diagnosis]] to decide what to teach next. The distinction matters for evaluation: studies that label a system "adaptive," "personalized," or "individualized" interchangeably (see below) can obscure whether the claimed benefit comes from real-time adaptation, learner choice, or content tailoring.
+[[intelligent-tutoring|Intelligent tutoring]] sits in between: ITS are the canonical *adaptive* platforms that deliver personalized instruction through structured student modeling, while [[llm]]-based tutors personalize conversationally. All three are the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — they consume the learner representations produced by [[student-modeling|student modeling]], [[knowledge-tracing]], and [[cognitive-diagnosis]] to decide what to teach next. The distinction matters for evaluation: studies that label a system "adaptive," "personalized," or "individualized" interchangeably (see below) can obscure whether the claimed benefit comes from real-time adaptation, learner choice, or content tailoring.
 
 ## Measurement Challenges
 
 - **System vs. perceived personalization** — A system can adapt without the learner feeling recognized
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
-- **Equity risks** — Over-personalization can strand learners in low-expectation tracks
+- **[[equity-in-ai-education|Equity]] risks** — Over-personalization can strand learners in low-expectation tracks
 
 ## Personalization and assessment
 
-Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, fairness and comparability become harder to establish. The wiki's research warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
+Personalization and [[assessment]] are tightly coupled in AI-driven learning. Adaptive personalization depends on ongoing [[formative-assessment|formative]] measurement of what a learner knows (via [[knowledge-tracing]], [[student-modeling]], and [[cognitive-diagnosis]]) to decide what to adapt next — so the reliability of the [[assessment]] signal directly constrains the quality of personalization. Conversely, when [[summative-assessment|summative assessment]] is personalized per-learner, [[bias-mitigation|fairness]] and comparability become harder to establish. The wiki's research warns against over-adapting to shallow or noisy signals: [[adaptive-learning|adaptive]] systems that mis-measure a learner can personalize in ways that reduce learning rather than support it, and AI-native students whose self-assessment is unreliable (an "absent cognitive baseline") are harder to model accurately.
 
 ## Personalization in the AI era
 

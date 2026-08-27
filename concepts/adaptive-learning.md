@@ -1,13 +1,13 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T08:07:41.879764-04:00"
+updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
 ---
 
-> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much AI in education research: using [[student-modeling|student models]] to personalize instruction.
+> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much [[ai-education|AI in education]] research: using [[student-modeling|student models]] to personalize instruction.
 
 ### Core mechanisms
 
@@ -22,7 +22,7 @@ The wiki documents mixed evidence: adaptive systems improve outcomes when adapta
 
 ### The AI era: LLM-based adaptation and its risks
 
-[[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and LLM-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]).
+[[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and [[llm]]-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]).
 
 ### Relationship to personalized learning and intelligent tutoring
 
@@ -30,7 +30,7 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 
 ### Research evidence
 
-- **Meta-analytic evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 RCTs pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
+- **[[meta-analysis-systematic-review|Meta-analytic]] evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 [[rct|RCTs]] pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
 - **Adaptive algorithms compared in dynamic domains.** [[graph-its-adaptive-algorithms-2026|Graph-based ITS research]] compares multiple adaptive learning algorithms (including Bayesian knowledge propagation and intuitionistic fuzzy logic) in a graph-based knowledge representation framework for dynamic curricula.
 
 ### Connections
