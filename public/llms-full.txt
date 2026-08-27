@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 173 concepts, 916 articles, and 15 FAQs.
+> Complete text of 173 concepts, 918 articles, and 15 FAQs.
 
 # Concepts
 
@@ -161,6 +161,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[agency]]
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
@@ -2753,6 +2754,10 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 #
 - **Teachers as reflective regulators of cognition:** [[teachers-reflective-regulators-cognition-offloading|Ho and Chen (2026)]] extend offloading theory to *professional* AI judgment by interviewing 18 in-service teachers. They identify a 'metacognitive ecology' in which teachers recognise, redistribute, and reflectively re-engage cognition with GenAI, [[framing-ai-use-for-students|framing AI]] as a cognitive partner rather than a thinking substitute — and flag 'professional drift' as a risk when offloading goes unreflective in AI-augmented teaching and [[administrator|administration]].
 
+
+- **Offloading is value-based decision-making, and some students are more vulnerable than others.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in *Learning Disability Quarterly*, synthesize cognitive science, [[special-education|special education]], and educational technology to model GenAI offloading as a cost–benefit decision shaped by performance goals, task difficulty, academic self-efficacy, and perceptions of the tool. They argue that **students with learning disabilities (SWLDs)** are especially vulnerable to suboptimal offloading — because heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI make premature or excessive delegation more likely. GenAI is framed as a **compensatory aid or shortcut depending on how offloading decisions interact with learner profiles and [[instructional-design|instructional design]]**, with instructional [[guardrails]] the key moderating factor (teach metacognitive self-regulation, build [[ai-literacy]] to calibrate tool trust, sequence mastery experiences, and assess process not just product). This extends offloading's equity dimension: the same tool that reduces barriers to access can, if unguarded, substitute for the very practice SWLDs need most.
+- **The "thinking less vs. learning differently" question is conditional.** [[nesnin-cognitive-offloading-ai-students-2026|Nesnin et al. (2026)]] offer a broader analytical review concluding that AI is **not necessarily making students think less but transforming how they learn** — the outcome depends on use. AI that clarifies, verifies, and guides enhances learning; AI that replaces independent thinking yields passive dependence. This converges with the wiki's pervasive "scaffold vs. substitute" boundary and the conditional view of offloading's harm.
+
 ## Over-reliance: when offloading becomes harmful
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
@@ -2808,6 +2813,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
+- [[nesnin-cognitive-offloading-ai-students-2026]] — Are students thinking less or learning differently?
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
@@ -4985,6 +4992,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in AI-mediated education
 - [[nguyen-genai-global-south-review-2026]] — GenAI in the Global South: systematic review
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
@@ -6662,29 +6670,31 @@ Inclusive learning is the **umbrella** concept; the pages below sit inside it, e
 
 | Concept | Core question it answers | Typical focus |
 |---|---|---|
-| **[[inclusive-learning|Inclusive Learning]]** *(this page)* | How do we design education so all learners can meaningfully participate? | The broad design of instruction across learner variability |
+| **Inclusive Learning** *(this page)* | How do we design education so all learners can meaningfully participate? | The broad design of instruction across learner variability |
 | **[[accessibility]]** | Can everyone perceive and operate the *format/medium*? | Captions, alt text, transcripts, contrast, keyboard/screen-reader compat, WCAG |
 | **[[assistive-technology]]** | What tools/equipment bridge an individual's access gap? | Screen readers, TTS/STT, braille/tactile, captioning, AI accommodations |
-| **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring — **primarily a K-12 term (IDEA/entitlement)** |
-| **[[universal-design-for-learning]]** | How do we proactively build in flexibility from the start? | Multiple means of engagement, representation, action/expression |
+| **[[special-education]]** | How do we deliver instruction to learners with diagnosed disabilities? | IEPs, individualized accommodations, disability-specific tutoring — **primarily a [[k-12]] term (IDEA/entitlement)** |
+| **[[universal-design-for-learning]]** | How do we proactively build in flexibility from the start? | Multiple means of [[student-engagement|engagement]], representation, action/expression |
 
-In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities — and it is primarily a **K-12** term, whereas in **higher education** (and increasingly K-12 too) the more common framing is [[universal-design-for-learning|Universal Design for Learning]]. **Inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
+In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities — and it is primarily a **K-12** term, whereas in **[[higher-ed|higher education]]** (and increasingly K-12 too) the more common framing is [[universal-design-for-learning|Universal Design for Learning]]. **Inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
 
 Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
 
 ### Key research themes
 
-**AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how [[collaborative-learning|collaborative learning]] structures affect neurodivergent comfort. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for Deaf and Hard of Hearing learners, introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video — while revealing the persistent mismatch between text-based AI prompts and DHH learners' sign-based first languages, underscoring the need for language- and culture-aware AI design. **[[text-simplification-its|MuTSE]]** tackles a complementary barrier — reading level — by evaluating LLM-based text simplification for [[intelligent-tutoring]], matching content complexity to each learner's current level via a human-in-the-loop evaluation framework rather than relying on linguistic metrics that miss pedagogical quality.
+**AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how [[collaborative-learning|collaborative learning]] structures affect neurodivergent comfort. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an [[llm]]-powered question-generation system for Deaf and Hard of Hearing learners, introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video — while revealing the persistent mismatch between text-based AI prompts and DHH learners' sign-based first languages, underscoring the need for language- and culture-aware AI design. **[[text-simplification-its|MuTSE]]** tackles a complementary barrier — reading level — by evaluating LLM-based text simplification for [[intelligent-tutoring]], matching content complexity to each learner's current level via a [[human-in-the-loop-ai|human-in-the-loop]] evaluation framework rather than relying on linguistic metrics that miss [[pedagogy|pedagogical]] quality.
 
-**Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, multilingual answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[educational-robotics]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning.
+**Sensory accessibility: blind, low-vision, and Deaf learners.** Several articles invert the assumption that edtech must be visual. **[[kutti-ai-voice-first-learning-companion|Kutti AI]]** makes spoken conversation the primary and sufficient modality for visually-impaired children — real-time struggle detection, [[multilingual-learning|multilingual]] answer matching, and offline-first on-device ASR remove both the visual dependency and the connectivity requirement. **[[tactile-statistical-graphs-accessibility|Obiuwevwi et al.]]** built a reusable pipeline that generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images. **[[pepper-robot-sign-language-lis-2025|Bolla et al.]]** explored whether the Pepper social robot can produce intelligible Italian Sign Language, co-designing 52 signs with a Deaf student and expert interpreter — extending [[educational-robotics]] into communicative accessibility for Deaf learners while highlighting the challenge of reproducing the non-manual components (facial expression, posture) crucial to meaning.
 
 **Inclusive assessment design** grapples with the tension between security and accessibility. **[[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]** proposes a theoretical framework for adaptive visual diversion that resists screen-capture cheating while accommodating learners with visual-processing needs — explicitly modeling the trade-off between anti-cheating measures and inclusive-learning principles. This connects to broader [[academic-integrity]] and [[assessment]] concerns.
 
 **Neurodivergent learner experiences** center the voices of disabled and neurodivergent students. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — preferences that [[intelligent-tutoring|AI tutoring]] and collaboration tools must accommodate. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed dyslexic learners' forum discussions, revealing that while they value AI for literacy support, they face significant accessibility barriers from inconsistent output quality and lack of equitable accommodations. Both connect to [[special-education]] and [[student-experience]].
 
+**[[cognitive-offloading|Cognitive offloading]] and the access-vs-development trade-off.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]] show that for students with learning disabilities, the same GenAI that lowers barriers to reading and writing access (text leveling, summarizing, drafting support) can, if unguarded, substitute for the comprehension, planning, and monitoring practice these learners need most — an equity tension central to inclusive learning. Inclusive design must therefore consider not just whether a tool is *accessible* but whether it preserves the learner's opportunity to develop the very skills access is meant to enable.
+
 **Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
 
-**Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led embodied design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends reinforcement learning to model cognitive and communicative diversity across disability profiles.
+**Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led [[embodied-learning|embodied]] design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across disability profiles.
 
 ### Connections to related concepts
 
@@ -8818,6 +8828,7 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - [[generative-ai]]
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[adhd-video-segmentation-computing-education]] — Temporal Video Segmentation for Learners with ADHD
@@ -11763,17 +11774,19 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 
 ## [Special Education](https://edtechdev.github.io/aied/concepts/special-education/)
 
-> **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. AI in education research in this wiki explores how AI tools can support diverse learner needs through personalization, [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
+> **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] research in this wiki explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
 
-> ⚠️ **Special Education is primarily a K-12 term.** It is rooted in the U.S. Individuals with Disabilities Education Act (IDEA) and the entitlement-based system of Individualized Education Programs (IEPs) that governs special-education services in primary and secondary schooling. In higher education — and increasingly in K-12 as well — the more common framing is **[[universal-design-for-learning|Universal Design for Learning]]** (a proactive design framework that benefits all learners) alongside [[accessibility]] and [[assistive-technology]] rather than "special education." A K-12 special-education article and a college UDL piece are about overlapping but distinct contexts; the wiki keeps both because the research literature spans both. When a source concerns higher education and disabled learners, it is usually better linked to [[universal-design-for-learning]], [[accessibility]], or [[inclusive-learning]] than to special-education.
+> ⚠️ **Special Education is primarily a [[k-12]] term.** It is rooted in the U.S. Individuals with Disabilities Education Act (IDEA) and the entitlement-based system of Individualized Education Programs (IEPs) that governs special-education services in primary and secondary schooling. In [[higher-ed|higher education]] — and increasingly in K-12 as well — the more common framing is **[[universal-design-for-learning|Universal Design for Learning]]** (a proactive design framework that benefits all learners) alongside [[accessibility]] and [[assistive-technology]] rather than "special education." A K-12 special-education article and a college UDL piece are about overlapping but distinct contexts; the wiki keeps both because the research literature spans both. When a source concerns higher education and disabled learners, it is usually better linked to [[universal-design-for-learning]], [[accessibility]], or [[inclusive-learning]] than to special-education.
 
-Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, AI tutors can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this wiki span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
+Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, [[intelligent-tutoring|AI tutors]] can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this wiki span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 
-**Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an LLM-powered question-generation system for [[accessibility|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led embodied design. These connect to [[inclusive-learning]] and [[neurodiversity]].
+**Disability-specific AI tutoring** tailors AI to particular learner needs. **[[special-r1-rl-special-education|Special-R1]]** extends [[reinforcement-learning|reinforcement learning]] to model cognitive and communicative diversity across five disability profiles, using persona-aware prompts and thinking rewards to shape tutor responses for each learner. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners experience AI tools, revealing both the value of AI for literacy support and persistent accessibility barriers. **[[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]]** designed an [[llm]]-powered question-generation system for [[accessibility|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies and iteratively refining questions with the target community to overcome the mismatch between text-based AI prompts and sign-based first languages. **[[embodied-string-learning-blindness-low-vision-musicians]]** developed non-visual learning strategies with blind and low-vision musicians, centering disability-led [[embodied-learning|embodied]] design. These connect to [[inclusive-learning]] and [[neurodiversity]].
 
 **Neurodivergent learner experiences** center autistic and ADHD students. **[[neurodivergent-computing-students|Zastudil et al.]]** found neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — design requirements that [[collaborative-learning]] tools must address. **[[adhd-video-segmentation-computing-education]]** demonstrated that AI-segmented videos eliminated the ADHD performance gap. Both connect to [[instructional-design]] and [[universal-design-for-learning]].
 
 **Critical perspectives** examine how AI can marginalize disabled learners. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that AI systems actively marginalize disability-centered knowledge due to Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+
+**Cognitive offloading for students with learning disabilities (SWLDs).** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in a *Learning Disability Quarterly* special series on AI for students with LD, reframe [[generative-ai|GenAI]] use for SWLDs through the [[cognitive-offloading]] lens. They argue that GenAI can be a **compensatory aid or a shortcut** depending on how offloading decisions interact with SWLDs' cognitive and [[motivation|motivational]] profiles (executive-function and working-memory challenges, heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI) and with instructional design. For reading and writing, GenAI can scaffold access (text leveling, summarizing, [[multimodal]] outputs, planning, drafting, revision feedback) while preserving higher-order [[student-engagement|engagement]] — but excessive offloading risks bypassing the comprehension, planning, and monitoring processes that are already fragile for these learners, fostering "[[metacognition|metacognitive]] laziness" and compounding literacy difficulties across domains. The paper positions **instructional [[guardrails]]** as the key moderating factor and recommends teaching strategic offloading, building [[ai-literacy]] to calibrate tool trust, sequencing mastery experiences to build [[self-efficacy]], and aligning tasks and assessment with IEP goals that prioritize skill development over substitution. This extends the wiki's special-education coverage to the equity dimension of offloading: the same tool that lowers barriers to access can, if unguarded, substitute for the practice SWLDs need most.
 
 ## Implications for special-education instructors
 
@@ -11800,6 +11813,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
@@ -13283,6 +13297,7 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 
 - [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
@@ -45501,6 +45516,49 @@ Speranza, M. (2026). [*Perceived Workload Across Traditional, Gamified and Artif
 
 ---
 
+## [Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?](https://edtechdev.github.io/aied/articles/nesnin-cognitive-offloading-ai-students-2026/)
+
+> **AI is not necessarily making students think less — it is transforming the way they learn.** Nesnin et al.'s (2026) analytical review of recent research weighs the two dominant perspectives on AI-assisted learning and [[cognitive-offloading]]: AI as a supportive [[pedagogical-agent|learning companion]] that enhances personalization, [[accessibility]], and efficiency versus AI as a driver of excessive dependence that weakens deep learning, independent reasoning, and long-term memory retention. The conclusion is conditional: AI's educational impact depends on *how* it is used — whether it supports cognitive [[student-engagement|engagement]] or replaces independent thinking.
+
+## Key Findings
+
+- **Cognitive offloading is the central lens.** The review frames the debate through cognitive offloading — the use of external tools to reduce the mental effort required for a task. [[generative-ai|GenAI]] extends this far beyond traditional tools (notebooks, calculators, search engines) by generating explanations, summaries, solutions, essays, and code in seconds.
+- **AI has genuine benefits.** When used responsibly, AI supports [[personalized-learning|personalized learning]], [[student-modeling|adaptive instruction]], immediate feedback, accessibility for diverse learners, and reduced time spent on routine tasks — freeing capacity for conceptual understanding.
+- **Excessive dependence carries risks.** Over-reliance on AI-generated answers can reduce active [[cognitive-offloading|cognitive engagement]], weaken deep learning, independent reasoning, and long-term knowledge retention (the "[[cognitive-offloading-speedup-illusion|Google effect]]" extended to reasoning), and limit the development of higher-order skills including [[critical-thinking]] and problem-solving.
+- **The outcome depends on use.** AI used to clarify concepts, verify understanding, or receive guidance enhances learning; AI that replaces independent thinking produces passive, dependent learners. The same tool can support or undermine depending on how it is integrated.
+- **The balance principle.** AI should function as a collaborative educational partner that complements (not replaces) human thinking — with institutions promoting [[ai-literacy]] and designing assessments that evaluate reasoning and conceptual understanding rather than simple information retrieval.
+
+## Implications
+
+- **Design for a balance of AI assistance and active cognition.** Encourage students to use AI for guidance, exploration, and feedback while continuing to engage in critical analysis, reflection, and independent problem-solving.
+- **Teach critical [[ai-ed-evaluation|evaluation of AI]] output.** Students should critically evaluate AI-generated information, compare it with reliable sources, and reflect on their own understanding before accepting it.
+- **Promote AI literacy and responsible use.** Institutions should develop AI literacy, encourage [[ethics|ethical]] practices, and align assessment with higher-order reasoning and [[creativity]].
+- **View AI as a learning partner, not a substitute.** Education should preserve the ability to question, analyze, evaluate, and apply knowledge — not merely obtain correct answers.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[ai-literacy]]
+- [[self-regulated-learning]]
+- [[agency]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive offloading and GenAI for students with learning disabilities
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
+- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
+- [[ai-making-us-stupid]] — Research on AI's cognitive effects and learning displacement
+
+## Citation
+
+Nesnin, N., Jyothika, V. V., Haris, N., Shaju, L., & Farhana, N. A. (2026). Cognitive offloading in the age of AI: Are students thinking less or learning differently? *International Journal of Technology and Emerging Research, 2*(ICITT-2026). [https://doi.org/10.64823/ijter.2621031](https://doi.org/10.64823/ijter.2621031)
+
+---
+
 ## [Neural-Symbolic Knowledge Tracing](https://edtechdev.github.io/aied/articles/neural-symbolic-knowledge-tracing/)
 
 > Key limitations exist in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):
@@ -51232,6 +51290,51 @@ This paper directly informs several threads in the wiki:
 ## Citation
 
 Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469). arXiv:2604.07469.
+
+---
+
+## [Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?](https://edtechdev.github.io/aied/articles/seung-basham-cognitive-offloading-swld-2026/)
+
+> **[[generative-ai|GenAI]] has transformed [[cognitive-offloading|cognitive offloading]] from a peripheral study aid into a delegation of higher-order cognitive processes** — with especially consequential implications for students with learning disabilities (SWLDs). Seung and Basham's (2026) conceptual review, in a *Learning Disability Quarterly* special series on AI for students with LD, synthesizes cognitive science, [[special-education|special education]], and educational technology to reframe GenAI use through the cognitive-offloading lens. The central claim: GenAI can function either as a **compensatory aid** or a **shortcut** depending on how offloading decisions interact with SWLDs' cognitive and [[motivation|motivational]] profiles and with [[instructional-design|instructional design]]. This is not a question of whether GenAI is inherently good or bad, but an instructional design challenge requiring intentional [[guardrails]].
+
+## Key Findings
+
+- **GenAI expands the scale and scope of cognitive offloading.** Unlike traditional tools (reminders, calculators) that support low-order functions like memory and calculation, GenAI enables offloading of *higher-order* processes — idea generation, writing, synthesis, and self-monitoring. This creates new opportunity and new risk.
+- **Compensatory offloading can support SWLDs.** For students with executive-function, working-memory, and attention challenges, GenAI can scaffold reading (text leveling, summarizing, [[multimodal]] outputs, comprehension [[scaffolding|scaffolds]]) and writing (planning, drafting via speech-to-text, revision feedback) — freeing cognitive capacity for higher-order comprehension and [[writing-education|composition]].
+- **Excessive offloading risks bypassing fragile processes.** Over-reliance can reduce [[student-engagement|engagement]] in comprehension-building, planning, monitoring, and revision — processes already fragile for SWLDs — and can foster "[[metacognition|metacognitive]] laziness" (uncritically accepting AI output). These risks compound across reading and writing because the two share cognitive systems.
+- **Offloading is value-based decision-making.** Students weigh mental effort against the perceived benefit of delegation. Four factors shape decisions: performance goals, task difficulty, academic [[self-efficacy]], and perceptions of the tool.
+- **SWLDs are especially vulnerable to suboptimal offloading.** Heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated performance expectations toward GenAI make premature or excessive offloading more likely — turning tools meant to support learning into substitutes that limit practice and skill internalization.
+
+## Implications
+
+- **Instructional guardrails are the key moderating factor.** Whether GenAI acts as a compensatory tool or a substitute depends on how instruction shapes offloading decisions. Guardrails should sustain cognitive engagement rather than simply permit or restrict use.
+- **Foster metacognitive awareness and [[self-regulated-learning|self-regulation]].** Explicitly teach and model strategic offloading (think-alouds), and use structured reflection prompts aligned with the three SRL phases — forethought ("What's the learning goal?"), performance ("Is AI supporting or replacing my thinking?"), and reflection ("Could I do this with less support next time?").
+- **Teach [[ai-literacy|AI literacy]] to calibrate tool trust.** SWLDs may have inflated perceptions of GenAI; explicit instruction on GenAI's strengths and limits ([[hallucination-risk|hallucinations]], oversimplified logic, embedded biases) plus [[prompt-engineering|prompt engineering]] supports informed offloading.
+- **Build academic self-efficacy.** Sequence mastery experiences so students succeed through their own effort before using GenAI selectively as a scaffold — counteracting the negative [[feedback|feedback loop]] of dependence.
+- **Design tasks intentionally and assess process.** Embed GenAI in goal-aligned activities that make cognitive engagement visible (document planning, prompt design, revisions, reflections); use process-oriented assessment rather than product-only evaluation. For SWLDs this aligns with IEP goals that prioritize skill development over substitution.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[special-education]]
+- [[inclusive-learning]]
+- [[neurodiversity]]
+- [[accessibility]]
+- [[universal-design-for-learning]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[guardrails]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+
+## Citation
+
+Seung, Y., & Basham, J. D. (2026). Cognitive offloading in the age of generative AI: What does it mean for students with learning disabilities? *Learning Disability Quarterly, 49*(3), 121–133. [https://doi.org/10.1177/07319487261439132](https://doi.org/10.1177/07319487261439132)
 
 ---
 

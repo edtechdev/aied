@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-27T08:55:36.300729-04:00"
 type: concept
 tags: [equity, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -73,6 +73,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in AI-mediated education
 - [[nguyen-genai-global-south-review-2026]] — GenAI in the Global South: systematic review
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access

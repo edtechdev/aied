@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-27T08:55:36.300729-04:00"
 type: concept
 tags: [special-education, inclusive-learning, student-experience, equity, inclusive-design, neurodiversity]
 confidence: high
@@ -31,6 +31,7 @@ Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[univ
 - [[generative-ai]]
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[adhd-video-segmentation-computing-education]] — Temporal Video Segmentation for Learners with ADHD

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-27 | **Total pages:** 1104
+**Last updated:** 2026-08-27 | **Total pages:** 1106
 ---
 ## Concepts
 
@@ -755,6 +755,7 @@
 - [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting practices as epistemic work in AI literacy development
 - [[musical-education-ai-digital-transformation-2026]] — Challenges for Musical Education in the Age of AI and Digital Transformation
 - [[nasa-tlx-workload-gamified-ai-2026]] — Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education
+- [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?
 - [[network-analysis]] — Network Analysis
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
 - [[neurodivergent-computing-students]] — I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning
@@ -902,6 +903,7 @@
 - [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
 - [[self-regulated-learning]] — Self-Regulated Learning
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
+- [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
 - [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
 - [[shap-llm-rationales-teaching-quality-assessment]] — From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment
 - [[shaw-nave-cognitive-surrender-2026]] — Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender
