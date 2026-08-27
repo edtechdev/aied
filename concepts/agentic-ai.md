@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T06:22:51.426928-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency]
@@ -71,6 +71,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]]
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 
