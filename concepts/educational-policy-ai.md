@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T08:07:41.879764-04:00"
+updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -22,7 +22,7 @@ confidence: high
 
 The wiki documents that institutional AI policies [[genai-policies-higher-ed-computing|lag behind actual AI use]]. [[faculty-development]] programs, [[teacher-ai-competency]] frameworks, and [[regulation]] all require coherent policy foundations. Large-scale field evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] shows that the learning losses from homework outsourcing go largely unnoticed because individual subject teachers and students rarely connect the decline to AI use — a gap that evidence-informed policy (e.g., weighting closed-book assessment, informing students of long-run costs, monitoring inputs rather than outputs) can address.
 
-**The boundary–evidence gap in assessment policy.** A 30-university audit of public GenAI assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
+**The boundary–evidence gap in assessment policy.** A 30-university audit of public [[generative-ai|GenAI]] assessment guidance ([[credential-cognitive-stewardship-ai-assessment|Yao 2026]]) finds that institutional policies are better at *classifying* AI use than at explaining what evidence of learning remains valid under each class: the mean delegation-boundary score (2.47/4) exceeded the mean evidence-standard score (1.89/4), safeguards were sparse (2.75 of 8), and guidance was clearest for final-output substitution. The framework of *cognitive stewardship* argues that policies must make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions protect fair evidence — rather than merely monitor AI use.
 
 ### Policy vs. governance
 
@@ -30,7 +30,7 @@ Policy and governance are closely related but distinct, and keeping them apart m
 
 - **Policy is the *content* — what is decided.** A policy is a formal rule, principle, or statement: what AI use is allowed, prohibited, or required; what must be disclosed; what assessment formats are permitted. It exists as a documented artifact (legislation, institutional guideline, syllabus statement) and answers *"what are the rules?"*
 - **Governance is the *machinery* — how it is decided, implemented, and enforced.** Governance encompasses the institutional structures, norms, and accountability mechanisms that produce, carry out, and monitor policy: who sets the rules, how they are communicated and resourced, how compliance is enforced and challenged, and how they are revised as AI evolves. It answers *"who decides, and how do the rules actually take effect?"*
-- **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The wiki's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without fairness (see [[governance|AI governance]]).
+- **They are interdependent.** Policy without governance is unenforced — a written rule no one owns, monitors, or updates. Governance without policy lacks direction — structures that administer nothing in particular. The wiki's research repeatedly shows that the two must be built together: a policy that only *classifies* AI use without governance to specify evidence, safeguards, and revision processes remains weak in practice ([[credential-cognitive-stewardship-ai-assessment|the cognitive-stewardship audit]]), and governance that merely monitors without clear policy risks surveillance without [[bias-mitigation|fairness]] (see [[governance|AI governance]]).
 
 The practical test that separates them: a policy can be read on paper, but governance is observed in whether the rule is implemented, enforced, and adapted. This is why [[governance]] extends [[regulation]] and policy into institutions, and why the wiki treats assessment-format choices ([[summative-assessment]]) as *policy* decisions that only become effective through *governance* structures like review boards, declaration frameworks, and appeal routes.
 

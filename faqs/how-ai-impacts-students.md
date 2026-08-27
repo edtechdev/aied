@@ -1,7 +1,7 @@
 ---
 title: "How is AI Impacting Students?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-08-27T07:59:08-04:00"
+updated: "2026-08-27T08:12:21.057525-04:00"
 tags: [student-experience, cognitive-offloading, well-being, learner-identity, ai-literacy, equity-in-ai-education]
 ---
 
@@ -33,4 +33,4 @@ tags: [student-experience, cognitive-offloading, well-being, learner-identity, a
 
 ## The bottom line
 
-The guardrail is to **use AI as a scaffold, not a substitute** — keep the learner doing the cognitively important work while AI provides support — and to watch the full range of impacts (cognitive, motivational, [[affective-computing|affective]], identity, social, and equity), not just performance. For a deeper treatment organized by dimension, see the [[student-experience|student experience with AI]] concept page.
+The [[guardrails|guardrail]] is to **use AI as a scaffold, not a substitute** — keep the learner doing the cognitively important work while AI provides support — and to watch the full range of impacts (cognitive, motivational, [[affective-computing|affective]], identity, social, and [[equity-in-ai-education|equity]]), not just performance. For a deeper treatment organized by dimension, see the [[student-experience|student experience with AI]] concept page.

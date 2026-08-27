@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T08:07:41.879764-04:00"
+updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -15,10 +15,10 @@ Learner modeling is the computational representation of learners; adaptive instr
 
 These concepts answer "what does this learner know, feel, and need?" — the representation side of the family.
 
-- **student modeling** — the broad practice of representing learner characteristics (knowledge, skills, affective states, engagement, preferences) in computational form. It is the umbrella term within this layer, encompassing all ways of representing a learner.
+- **student modeling** — the broad practice of representing learner characteristics (knowledge, skills, [[affective-computing|affective]] states, [[student-engagement|engagement]], preferences) in computational form. It is the umbrella term within this layer, encompassing all ways of representing a learner.
 - **[[knowledge-tracing]]** — the specific practice of modeling cognitive knowledge *over time* by tracking performance on exercises and predicting future mastery. It formalizes the temporal dynamics of learning — when knowledge is gained, decays, and how concepts relate.
 - **[[cognitive-diagnosis]]** — fine-grained assessment of which specific skills or knowledge components a learner has mastered, producing a mastery profile that supports targeted remediation.
-- **[[simulating-students|simulating students]]** — generating *synthetic* learners on demand, rather than representing a real one, so pedagogy and AI systems can be tested or trained offline.
+- **[[simulating-students|simulating students]]** — generating *synthetic* learners on demand, rather than representing a real one, so [[pedagogy]] and AI systems can be tested or trained offline.
 
 ## The adaptive-instruction layer
 
@@ -32,7 +32,7 @@ These concepts answer "what should be taught next?" — the application side tha
 
 The concepts form a pipeline rather than competitors: **student modeling** is the umbrella representation; [[knowledge-tracing]] and [[cognitive-diagnosis]] are specific modeling methods that populate it; [[simulating-students|simulation]] *generates* learners rather than representing real ones; and [[intelligent-tutoring]], [[adaptive-learning]], and [[personalized-learning]] are the systems that consume these models to adapt instruction.
 
-**Student modeling vs. simulating students** is the key distinction to keep straight. Student modeling is about **representing a real learner** — building a model *from* an actual student's data so an adaptive system can act on that individual. Simulating students, by contrast, **generates a synthetic learner** on demand to stand in for real learners so pedagogy and AI can be evaluated or trained offline. The two are closely related rather than interchangeable: simulated students typically *embed* a student model (an epistemic state, [[student-misconceptions-ai|misconception]] set, or engagement profile) and draw on the same constructs that [[knowledge-tracing]] and [[cognitive-diagnosis]] formalize. Their purposes diverge — student modeling serves live adaptation by informing decisions about a real person, whereas simulation fabricates learners to test systems (and increasingly to audit AI, e.g., [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]]) rather than to act on any real individual.
+**Student modeling vs. simulating students** is the key distinction to keep straight. Student modeling is about **representing a real learner** — building a model *from* an actual student's data so an adaptive system can act on that individual. Simulating students, by contrast, **generates a synthetic learner** on demand to stand in for real learners so pedagogy and AI can be evaluated or trained offline. The two are closely related rather than interchangeable: simulated students typically *embed* a student model (an epistemic state, [[student-misconceptions-ai|misconception]] set, or engagement profile) and draw on the same constructs that [[knowledge-tracing]] and [[cognitive-diagnosis]] formalize. Their purposes diverge — student modeling serves live adaptation by informing decisions about a real person, whereas [[simulation]] fabricates learners to test systems (and increasingly to audit AI, e.g., [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]]) rather than to act on any real individual.
 
 **Knowledge tracing vs. student modeling** is the other common confusion. Knowledge tracing specifically models cognitive knowledge over time; student modeling is the broader practice covering all aspects of a learner (affective state, engagement, preferences). Knowledge tracing is a *type of* student modeling focused on the cognitive-temporal dimension. Knowledge-tracing constructs also inform [[simulating-students|simulated students]] — a simulated learner's cognitive state is often formalized with the same mastery/decay dynamics that knowledge tracing models, so simulation is a way to *generate* the knowledge states that tracing methods normally *infer* from real response data.
 
