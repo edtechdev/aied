@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T04:35:06.336963-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies]
@@ -101,3 +101,4 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation

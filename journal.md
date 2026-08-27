@@ -1,6 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-26 | **Total entries:** 1081
+**Last updated:** 2026-08-27 | **Total entries:** 1082
+
+
+## 2026-08-27
+
+- ◐ [[lopez-pernas-llm-appropriate-student-support-2026]] — 'raw/papers/lopez-pernas-llm-appropriate-student-support-2026.md'
+  Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ## 2026-08-26
 

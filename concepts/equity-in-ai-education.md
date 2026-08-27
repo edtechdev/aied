@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T04:35:06.336963-04:00"
 type: concept
 tags: [equity, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -17,6 +17,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **The digital divide:** [[digital-divide|Unequal access]] to AI-powered learning tools across socioeconomic lines, regions, and nations is a foundational barrier.  documents how generative AI benefits are distributed unevenly across countries and institutions.
 - **Access is not enough:** [[access-not-enough-ai-tutoring-2026|Providing AI tools without addressing structural barriers]] does not close gaps — access must be paired with skills, support, and conditions that enable genuine use.
 - **Infrastructure disadvantage:** [[structural-silence-underrepresented-language-ai-2026|Structural Silence]] shows that AI *infrastructure* — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural rather than incidental problem.
+- **Model-specific demographic priors in synthetic data:** [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] found that when LLMs generated student vignettes, each model imposed distinct demographic tendencies — GPT produced more Global North profiles and used they/them pronouns, Qwen produced more Global South profiles, and Mistral skewed toward she/her. Even the *construction* of learner data by an LLM thus carries regional and gendered priors that can propagate into downstream recommendations, an under-examined equity risk.
 - **Socioeconomic gradients:** [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] and [[generative-ai-education-productivity-gaps|productivity-gap experiments]] examine how AI can either narrow or widen gaps among different learner groups.
 
 ## Representational equity
@@ -103,3 +104,4 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Highlights absence of low-income-country evidence
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
