@@ -184,6 +184,7 @@ ALIASES = {
     'teacher-ai-competency': ['teacher ai competency', 'teacher ai competence', 'ai competency'],
     'socratic-method': ['socratic', 'socratic questioning', 'socratic method', 'socratic dialogue'],
     'inquiry-based-learning': ['inquiry-based learning', 'inquiry based learning', 'inquiry learning'],
+    'instructional-design': ['instructional design', 'learning design', 'course design', 'course design decisions'],
     'storytelling-in-education': ['storytelling'],
     'game-based-learning': ['game-based learning', 'gamification', 'gamified', 'serious games', 'games'],
     'online-teaching-and-learning': ['online learning', 'online teaching', 'distance learning', 'e-learning', 'e learning'],
