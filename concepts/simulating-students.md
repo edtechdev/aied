@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-27T04:50:01.648908-04:00"
+updated: "2026-08-27T04:58:28.248706-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 confidence: high
@@ -29,6 +29,12 @@ Validity is the central concern: a simulated student is only useful if its behav
 ### Connection to the wiki
 
 Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for professional training (e.g., [[special-education]] and medical education contexts).
+
+### Simulating students vs. student modeling
+
+The key distinction is between **representing a real learner** and **generating a synthetic learner**. [[student-modeling]] is the practice of building a computational representation of an actual student — what they know, feel, and need — so that adaptive systems can personalize instruction for *that* learner. Simulating students, by contrast, *creates* fictional learners on demand, not to serve a real individual but to stand in for a cohort so pedagogy and AI systems can be tested offline.
+
+The two are complementary rather than competing. A high-fidelity simulated student typically *contains* a student model (an epistemic state, a misconception set, an engagement profile) and draws on the same constructs that [[student-modeling]] and [[knowledge-tracing]] formalize. The shared validity challenge is the same in both: the representation must faithfully reflect a learner's true state rather than the system's default behavior. But the *purpose* differs — student modeling diagnoses a real learner to act on them; simulation fabricates learners to test or train. This is why simulated-student research is increasingly used to audit AI (see below) while student-modeling research remains oriented toward live [[adaptive-learning]] and [[personalized-learning]].
 
 ### Authentic-data student models and interactive practice
 
