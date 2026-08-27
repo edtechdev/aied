@@ -6973,6 +6973,18 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Separate diagnosis from feedback.** LLM tutors reliably confirm correct steps but over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions — and accurate diagnosis does not reliably yield actionable feedback.^[[yasir-llm-tutoring-agents-2026]] A hybrid architecture works best: let a knowledge-grounded classifier handle solution diagnosis while the LLM focuses on open-ended scaffolding and dialogue.
 
+### AI tutoring as a spectrum of relational intensity
+
+A unifying lens from [[turano-ai-tutoring-not-a-monolith-2026|the Stanford SCALE / NSSA brief (Turano et al. 2026)]] reframes AI tutoring as **not a monolith but a spectrum** defined by *relational intensity* — the depth and consistency of the human connection between student and tutor. The brief maps models from fully human-led tutoring (in-person or remote), through **human-led with AI support** (AI assists the tutor behind the scenes) and **AI-led with human support** (a human oversees and intervenes), to **AI-only tutoring** (no direct human oversight). The central finding: as direct human relationships decrease, the evidence base becomes thinner, and unresolved questions accumulate about student safety, developmental impact, and long-term efficacy.
+
+- **AI augments, does not replace, high-impact tutoring.** The brief's core message is that AI is best used to *enhance tutor effectiveness and educator capacity* within high-impact tutoring (regular school-day sessions, small-group ratios ≤ 1:4, well-trained consistent tutors, data-driven instruction, vetted materials, strong student-tutor relationships) — not to substitute for the human-led relationship that drives [[learning-gains|learning gains]]. This aligns with the wiki's broader finding that pedagogically designed AI tutors outperform general-purpose chatbots ([[stanford-evidence-base-ai-k12-2026|Stanford evidence base]], [[genai-higher-education-systematic-review-2026|umbrella review]]).
+- **Dosage, not model capability, is the binding constraint.** [[turano-ai-tutoring-not-a-monolith-2026|The brief]] reports that AI-led tutoring inherits the dosage evidence base (~90 minutes weekly) only when scheduled, supervised, and protected within the school day; in a study of 181,000 students on a supplemental math platform, only 5% reached the recommended minutes and 41% never logged on, with teacher/school/district factors explaining 57% of usage variance. This converges with the field-experiment evidence above ([[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo]], [[making-ai-tutoring-productive-mastery-math-2026|NUMI]]) that engagement and integration, not raw capability, determine whether AI tutoring helps.
+- **Human oversight improves engagement and alignment but not dosage.** The brief's RCTs found human check-ins raised elementary students' engagement with an AI platform but did not reach the dosage associated with gains nor improve reading achievement. The practical implication: schedule and supervise AI tutoring on the same terms as human-led tutoring, and design for enforcement of engagement — the opt-in requirement an on-device AI tutor reintroduces is exactly what live school-day tutoring eliminates.
+- **The relationship is the irreducible element.** [[turano-ai-tutoring-not-a-monolith-2026|The brief]] emphasizes that AI does not yet replicate human relationships, and that relationship-building (especially consistent tutor-student pairings) improves engagement, attendance, motivation, and outcomes. Developers describe using AI's strengths rather than replacing relationships — a design stance echoed in [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[kar-mathbuddy-affective-math-tutoring-2025|affective tutoring]] research.
+- **Safety and privacy are non-negotiable guardrails.** For direct-to-student AI, the brief calls for strict student data privacy safeguards, [[guardrails]] on student safety, and attention to the depth of unmonitored interaction — open questions remain about AI companions' effects on developing minds and prosocial development.
+
+This relational-intensity framing is the "not a monolith" counterpoint to the field: evaluating any AI tutor should begin by asking *which conditions of effective tutoring it reproduces, changes, or drops* — rather than asking whether "AI tutoring works" in the abstract. It ties the tutoring page to [[k-12]] policy ([[educational-policy-ai]]), [[privacy]], [[pedagogical-safety]], and the human-in-the-loop concerns throughout.
+
 ### Practical design and development guidance
 
 **Design for learning, not just performance.** The strongest causal finding is that unguarded AI tutors raise assisted practice performance but *reduce* unassisted learning — the [[ai-misuse-learning-harm|performance–learning gap]]. Guardrail against answer-copying by scaffolding **hints instead of answers** (require a student attempt before revealing output), and verify gains on unassisted, closed-book measures rather than in-tool performance.^[[generative-ai-guardrails-harm-learning]]^[[genai-performance-vs-learning]]
@@ -7005,6 +7017,10 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[ai-education]]
 - [[metacognition]]
 - [[pedagogical-safety]]
+- [[privacy]]
+- [[educational-policy-ai]]
+- [[guardrails]]
+- [[k-12]]
 
 ## Connected Articles
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
@@ -7037,7 +7053,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[ai-pedagogical-accompaniment-amico]] — AI pedagogical accompaniment (AMICO)
 - [[ai-metacognition-stem-review]] — AI and metacognition in STEM
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
 - [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
