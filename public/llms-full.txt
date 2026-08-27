@@ -666,7 +666,7 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
-**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's generative AI — making learner agency the enduring axis of the field's debates.
+**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's [[generative-ai|generative AI]] — making learner agency the enduring axis of the field's debates.
 
 ## How agency appears in the wiki's research
 
@@ -688,6 +688,15 @@ Learner agency is not only a static individual trait — it is also an **emergen
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
+## Agency vs. learner identity
+
+[[learner-identity|Learner identity]] and learner agency are easy to conflate, yet they name different things — and both are reshaped by AI.
+
+- **Agency is enacted; identity is inhabited.** Agency is the [[situated-learning|situated]] capacity to act intentionally and direct one's learning *now* — a variable, interactional property. Identity is the more durable, narrative sense of who one *is* and is *becoming* as a learner. Agency is a *process*; identity is a *state of being* that accumulates from it.
+- **Identity is internalized agency.** Repeated agentic acts — choosing, authoring, persisting — are how a learner comes to see themselves as an agentic, competent person. Identity is the sediment of agency across time, reinforced by recognition and belonging.
+- **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labour]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
+- **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, transparency); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
@@ -696,7 +705,6 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[motivation]]
 - [[self-efficacy]]
 - [[student-experience]]
-- [[human-ai-collaboration]]
 - [[metacognition]]
 - [[ethics]]
 - [[cognitive-offloading]]
@@ -7391,6 +7399,17 @@ Identity is a motivational and developmental construct distinct from (but connec
 - **Post-human and hybrid identity:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theorize the **post-human learner**, whose cognition is genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems — a reframing of identity formation itself in the age of cognitive AI.
 - **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** research connects to identity because assessment tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
 
+## Relationship to learner agency
+
+Learner agency and learner identity are closely related but distinct constructs that are easy to conflate — and both are central to how AI affects learning.
+
+- **Agency is about *doing*; identity is about *being*.** [[agency|Learner agency]] concerns the capacity to act intentionally, make choices, and exercise control over one's learning *in the moment* — a situated, interactional, and variable capacity. Learner identity concerns who one *is* and is *becoming* as a learner — a more durable, narrative, and developmental sense of self. Agency asks "am I able to direct this?", while identity asks "is this who I am / who I want to be?"
+- **They are causally intertwined.** Agency is both a *source* and an *outcome* of identity. Enacting agency — choosing, authoring, persisting — is how a learner comes to see themselves as an agentic person (identity is partly internalized agency). Conversely, a stable disciplinary or professional identity supplies the motivation and self-worth that sustain agency under difficulty. Identity is the accumulated product of repeated agentic acts; agency is the ongoing enactment that builds identity.
+- **AI threatens them through different mechanisms.** AI can erode **agency** by inviting [[cognitive-offloading|over-reliance]] and passive acceptance — learners stop directing their own reasoning. AI can erode **identity** by undermining authorship and competence — when AI produces the work, learners may stop feeling the output is "theirs" or that they belong in the domain. The [[t2i-competence-paradox-2026|competence paradox]] is an identity threat; [[jin-emergent-learner-agency-implicit-hai-2026|implicit AI redistribution of epistemic labour]] is primarily an agency threat, though it compounds into identity over time.
+- **Safeguarding both is the design goal.** Supporting agency means preserving learners' control and choice (e.g., bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight). Supporting identity means protecting authorship and recognition (e.g., [[authentic-assessment|authentic assessment]], transparent attribution of AI versus human contribution). A design that protects agency but not authorship protects control without protecting the sense of self — and vice versa.
+
+In short: **foster agency to let learners act; sustain identity so they know who they are while acting.** Healthy AI-supported learning attends to both.
+
 ## Relationship to teacher identity
 
 Learner identity is the **student-facing** counterpart to teacher identity. Teacher identity — the evolving professional self-understanding of educators — is documented on the [[teacher-role]] page, where [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] frame GenAI as an *identity crisis* for faculty rather than merely a skills gap, and [[teaching-the-teachers-genai-tpk-review-2026|TPK-based teacher training]] treats identity as part of professional preparation. The two are reciprocal: teachers who experience identity disruption are less able to support their students' identity development, so a healthy AI-integrated system must attend to both.
@@ -11789,7 +11808,17 @@ Special education is a domain where AI's capacity for personalization and adapta
 - **Role-specific competency frameworks.** [[teacher-ai-competency]] and [[tpack]] define what teachers need to use AI effectively; [[ai-literacy]] defines what all audiences (especially students) need.
 - **Differential impacts by role.** Research examines how AI affects different audiences differently — [[student-experience]] studies student outcomes, [[teacher-role]] studies pedagogical integration, [[administrator]] studies institutional strategy, and [[faculty-development]] studies professional learning.
 - **Multi-stakeholder governance.** [[governance]] and [[educational-policy-ai]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
-- **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to fairness and access.
+- **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to [[bias-mitigation|fairness]] and access.
+
+## Identity across audiences
+
+A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. The wiki treats identity as distributed across audiences rather than belonging to any single group.
+
+- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
+- **Teacher identity** — the professional self-understanding of educators ([[teacher-role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
+- **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the wiki's explicit identity coverage concentrates on learners and teachers.
+
+Identity is the human anchor of the stakeholder landscape: it is what AI must support (not erode) for each audience, and it is the construct that connects otherwise separate role pages — [[learner-identity]], [[agency]], and [[teacher-role]] in particular. Where agency concerns *control* and identity concerns *self*, AI design must preserve both: control over one's learning and a robust, authorial sense of who one is in the domain.
 
 ## Implications for AI in education
 
@@ -11801,6 +11830,8 @@ Special education is a domain where AI's capacity for personalization and adapta
 ## Connected Concepts
 
 - [[teacher-role]]
+- [[learner-identity]]
+- [[agency]]
 - [[teacher-ai-competency]]
 - [[teacher-education]]
 - [[faculty-development]]
@@ -12618,20 +12649,20 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 
 - **From instructor to orchestrator:** [[teacher-ai-teaming-five-levels|Five levels of teacher-AI teaming]] and [[teacher-student-agency-orchestration|agency orchestration research]] map the spectrum from AI as tool to AI as teaching partner.
 - **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support and [[curriculum-design|curriculum design]].
-- **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know. [[teacher-ai-adoption-confidence|Adoption studies]] identify barriers: confidence, institutional support, and workload concerns.
+- **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know. [[teacher-ai-adoption-confidence|Adoption studies]] identify barriers: confidence, [[governance|institutional]] support, and workload concerns.
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers.
-- **Preservice preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[faculty-development]] programs prepare future teachers for AI-augmented classrooms.
+- **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[faculty-development]] programs prepare future teachers for AI-augmented classrooms.
 
 ### The orchestration metaphor
 
-The dominant metaphor in the wiki is *orchestration*: teachers coordinate human learners, AI tutors, and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching.
+The dominant metaphor in the wiki is *orchestration*: teachers coordinate human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching.
 
 ### Evolving and critical teacher roles
 
 Recent work expands the orchestration metaphor into richer role conceptualizations:
 
-- **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across biological and artificial systems, moving beyond instrumentalist models like TPACK and SAM.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- **Facilitator, co-investigator, ethical supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.^[[li-ai-science-situated-learning-teachers-2025]]
+- **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across [[biology-education|biological]] and artificial systems, moving beyond instrumentalist models like [[tpack]] and SAM.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- **Facilitator, co-investigator, [[ethics|ethical]] supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.^[[li-ai-science-situated-learning-teachers-2025]]
 - **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.^[[fowlin-operationalizing-learning-principles-ai]]
 
 These roles connect teacher work to [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], and [[critical-pedagogy]], and reframe the teacher as a designer and ethical guide of AI-mediated learning rather than merely a user.
@@ -12639,6 +12670,15 @@ These roles connect teacher work to [[distributed-cognition]], [[situated-learni
 ### Connections
 
 Teacher role connects to [[faculty-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
+
+### Relationship to learner identity
+
+Teacher role and [[learner-identity|learner identity]] are reciprocal faces of the same human process, and AI reshapes both.
+
+- **Teacher identity is a professional identity; learner identity is a learning identity.** The teacher-role page documents how AI reshapes the *work, identity, and agency* of educators — their evolving professional self-understanding (see [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw's framing of GenAI as an identity crisis]]). Learner identity is the parallel construct for students: who they are and are becoming as learners, in [[stem-education|disciplinary]], professional, creative, and academic terms.
+- **They are causally coupled.** Teachers who experience identity disruption (uncertainty about their professional purpose amid [[generative-ai|GenAI]]) are less able to support their students' identity development — a teacher who doubts their role struggles to validate students' emerging sense of self in the same domain. Conversely, teachers who sustain a confident professional identity are better positioned to scaffold students' belonging and authorship.
+- **Distinct failure modes.** Teacher identity is threatened by *role obsolescence* and *purpose* (the "what's the point of teaching?" question). Learner identity is threatened by *authorship loss* and *competence* (the "is this really mine / am I good enough?" question). Both are identity-level (not just skills-level) responses to AI.
+- **Both are professional-development and [[pedagogy|pedagogical]] concerns.** Supporting teacher identity belongs to [[faculty-development]] and [[teacher-ai-competency]]; supporting learner identity belongs to [[student-experience]], [[authentic-assessment]], and [[agency]]. A well-designed AI-integrated system attends to both — because the teacher's identity is the condition under which learners' identities form.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities

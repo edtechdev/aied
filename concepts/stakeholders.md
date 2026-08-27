@@ -1,7 +1,7 @@
 ---
 title: People and Audiences in AI Education
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-08-27T07:53:59.967917-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, instructional-design, higher-ed, k-12, ai-literacy]
 confidence: high
@@ -24,7 +24,17 @@ confidence: high
 - **Role-specific competency frameworks.** [[teacher-ai-competency]] and [[tpack]] define what teachers need to use AI effectively; [[ai-literacy]] defines what all audiences (especially students) need.
 - **Differential impacts by role.** Research examines how AI affects different audiences differently — [[student-experience]] studies student outcomes, [[teacher-role]] studies pedagogical integration, [[administrator]] studies institutional strategy, and [[faculty-development]] studies professional learning.
 - **Multi-stakeholder governance.** [[governance]] and [[educational-policy-ai]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
-- **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to fairness and access.
+- **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to [[bias-mitigation|fairness]] and access.
+
+## Identity across audiences
+
+A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. The wiki treats identity as distributed across audiences rather than belonging to any single group.
+
+- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
+- **Teacher identity** — the professional self-understanding of educators ([[teacher-role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
+- **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the wiki's explicit identity coverage concentrates on learners and teachers.
+
+Identity is the human anchor of the stakeholder landscape: it is what AI must support (not erode) for each audience, and it is the construct that connects otherwise separate role pages — [[learner-identity]], [[agency]], and [[teacher-role]] in particular. Where agency concerns *control* and identity concerns *self*, AI design must preserve both: control over one's learning and a robust, authorial sense of who one is in the domain.
 
 ## Implications for AI in education
 
@@ -36,6 +46,8 @@ confidence: high
 ## Connected Concepts
 
 - [[teacher-role]]
+- [[learner-identity]]
+- [[agency]]
 - [[teacher-ai-competency]]
 - [[teacher-education]]
 - [[faculty-development]]

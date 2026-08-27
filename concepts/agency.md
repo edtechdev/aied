@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-27T06:22:51.426928-04:00"
+updated: "2026-08-27T07:53:59.967917-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -12,7 +12,7 @@ confidence: high
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
-**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's generative AI — making learner agency the enduring axis of the field's debates.
+**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's [[generative-ai|generative AI]] — making learner agency the enduring axis of the field's debates.
 
 ## How agency appears in the wiki's research
 
@@ -34,6 +34,15 @@ Learner agency is not only a static individual trait — it is also an **emergen
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
+## Agency vs. learner identity
+
+[[learner-identity|Learner identity]] and learner agency are easy to conflate, yet they name different things — and both are reshaped by AI.
+
+- **Agency is enacted; identity is inhabited.** Agency is the [[situated-learning|situated]] capacity to act intentionally and direct one's learning *now* — a variable, interactional property. Identity is the more durable, narrative sense of who one *is* and is *becoming* as a learner. Agency is a *process*; identity is a *state of being* that accumulates from it.
+- **Identity is internalized agency.** Repeated agentic acts — choosing, authoring, persisting — are how a learner comes to see themselves as an agentic, competent person. Identity is the sediment of agency across time, reinforced by recognition and belonging.
+- **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labour]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
+- **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, transparency); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
@@ -42,7 +51,6 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[motivation]]
 - [[self-efficacy]]
 - [[student-experience]]
-- [[human-ai-collaboration]]
 - [[metacognition]]
 - [[ethics]]
 - [[cognitive-offloading]]
