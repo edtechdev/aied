@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 175 concepts, 926 articles, and 15 FAQs.
+> Complete text of 175 concepts, 927 articles, and 15 FAQs.
 
 # Concepts
 
@@ -5859,9 +5859,9 @@ GBL and gamification together connect to [[educational-robotics]], [[student-eng
 Unlike earlier rule-based or retrieval-based systems, generative AI produces fluent, contextually appropriate content on demand. This creates both unprecedented opportunities and novel risks:
 
 - **Content generation:** [[llm|LLMs]] can create instructional materials, examples, and explanations. [[book-level-synthetic-textbook-organization|Synthetic textbooks]], [[courseblueprint-adaptive-video-generation|adaptive videos]], and [[ai-generated-instructional-videos-computing-ed|instructional videos]] show the range of educational content generation.
-- **Tutoring and dialogue:** [[intelligent-tutoring|AI tutoring systems]] use generative AI for conversational instruction. [[socratic-method|Socratic dialogue]] and [[collaborative-ai-tutoring|collaborative tutoring]] exploit generative capabilities for pedagogical interaction.
+- **Tutoring and dialogue:** [[intelligent-tutoring|AI tutoring systems]] use generative AI for conversational instruction. [[socratic-method|Socratic dialogue]] and [[collaborative-ai-tutoring|collaborative tutoring]] exploit generative capabilities for [[pedagogy|pedagogical]] interaction.
 - **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-assessment|automated grading]], and [[formative-assessment]] increasingly rely on generative models.
-- **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and accessibility.
+- **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and [[accessibility]].
 
 ### The wiki's generative AI coverage
 
@@ -5888,6 +5888,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
@@ -6997,17 +6998,17 @@ Instructional design bridges AI capabilities and effective pedagogy. Where [[cur
 
 ### Key research themes
 
-**AI-assisted content creation** is the most directly transformative application. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presents a six-phase architecture integrating Generative AI with LaTeX and Python to automate STEM materials creation, validated across 8 modules and 28 project contexts with student quality ratings of 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** uses a multi-agent framework structured around the ADDIE model, with role-based agents (Teaching Faculty, Instructional Designer, Course Coordinator) collaborating to generate complete course materials. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** provides a structured pipeline for adaptive pedagogical video generation grounded in course corpora, demonstrating that explicit pedagogical structure — not just AI fluency — is essential for educational content generation.
+**AI-assisted content creation** is the most directly transformative application. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** presents a six-phase architecture integrating Generative AI with LaTeX and Python to automate [[stem-education|STEM]] materials creation, validated across 8 modules and 28 project contexts with student quality ratings of 8.5-9.9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** uses a multi-agent framework structured around the ADDIE model, with role-based agents (Teaching Faculty, Instructional Designer, Course Coordinator) collaborating to generate complete course materials. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** provides a structured pipeline for adaptive [[pedagogy|pedagogical]] video generation grounded in course corpora, demonstrating that explicit pedagogical structure — not just AI fluency — is essential for educational content generation.
 
-**Pedagogically grounded AI tutoring** applies instructional design principles to AI system design. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** built a didactically-driven [[llm|LLM]] teacher assistant where tutoring strategy is encoded in an explicit external layer — making content selection and didactic structuring traceable and reproducible, directly addressing opacity concerns in [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demonstrated that a five-step prompting framework grounded in Generative Learning Theory significantly improved higher-order cognitive outcomes, showing that instructional guidance — not just AI access — determines learning effectiveness. Both connect to [[scaffolding]] and [[intelligent-tutoring]].
+**Pedagogically grounded AI tutoring** applies instructional design principles to AI system design. **[[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]]** built a didactically-driven [[llm|LLM]] teacher assistant where tutoring strategy is encoded in an explicit external layer — making content selection and didactic structuring traceable and reproducible, directly addressing opacity concerns in [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou et al.]]** demonstrated that a five-step [[prompt-engineering|prompting]] framework grounded in Generative [[learning-theories|Learning Theory]] significantly improved higher-order cognitive outcomes, showing that instructional guidance — not just AI access — determines learning effectiveness. Both connect to [[scaffolding]] and [[intelligent-tutoring]].
 
-**Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate human-in-the-loop design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[inclusive-learning]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activate–Inquire–Reflect) is a task-structuring framework for cognitively activated AI use that bounds the AI's contribution so that prediction, interpretation, and evaluation remain the learner's — an AI-specific adaptation of inquiry cycles grounded in [[self-regulated-learning]], Cognitive Load Theory, and [[human-ai-collaboration]]. Complementing these design frameworks, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] offers a *classification* rather than a design method: six categories (Learning Objective, Content, Representation Format, Epistemic Engagement, Social Design, Artefacts) that let designers and researchers describe, compare, and imagine GenAI learning activities by making explicit why, what, how, with what, and with whom learners engage GenAI — built as a boundary object through postdigital dialogue.
+**Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate [[human-in-the-loop-ai|human-in-the-loop]] design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[inclusive-learning]]. **[[airis-cognitively-activated-ai-physics-2026|AIRIS]]** (Activate–Inquire–Reflect) is a task-structuring framework for cognitively activated AI use that bounds the AI's contribution so that prediction, interpretation, and evaluation remain the learner's — an AI-specific adaptation of inquiry cycles grounded in [[self-regulated-learning]], Cognitive Load Theory, and [[human-ai-collaboration]]. Complementing these design frameworks, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] offers a *classification* rather than a design method: six categories (Learning Objective, Content, Representation Format, Epistemic [[student-engagement|Engagement]], Social Design, Artefacts) that let designers and researchers describe, compare, and imagine GenAI learning activities by making explicit why, what, how, with what, and with whom learners engage GenAI — built as a boundary object through postdigital dialogue.
 
 **AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
 
 ### Connections to related concepts
 
-Instructional design is the bridge discipline of AI in education — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[faculty-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what instructional designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations.
+Instructional design is the bridge discipline of [[ai-education|AI in education]] — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[faculty-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what instructional designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations.
 
 ### How instructional design determines learning gains
 
@@ -7023,15 +7024,15 @@ For instructional designers, course developers, and engineers building AI-assist
 
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.^[[instructional-guidance-genai-learning]]^[[genai-mindtool-generative-learning]]
 
-**Make content traceable and reviewable.** Let a human designer review and correct AI output before it reaches learners, and structure AI generation so the pedagogical rationale (why this content, in this order) is inspectable — addressing both quality and the opacity concerns that undermine trust in AI-generated instruction.^[[bridging-instructional-design-framework-math]]^[[cotal-formative-assessment-scoring-2026]]
+**Make content traceable and reviewable.** Let a human designer review and correct AI output before it reaches learners, and structure AI generation so the pedagogical rationale (why this content, in this order) is inspectable — addressing both quality and the opacity concerns that undermine [[trust|trust in AI]]-generated instruction.^[[bridging-instructional-design-framework-math]]^[[cotal-formative-assessment-scoring-2026]]
 
-**Design for accessibility from the start.** Apply [[universal-design-for-learning|UDL]] principles when building AI tools and AI-generated materials so they serve diverse learners, rather than retrofitting accessibility after the fact.^[[ludia-udl-ai-thought-partner-2026]]
+**Design for [[accessibility]] from the start.** Apply [[universal-design-for-learning|UDL]] principles when building AI tools and AI-generated materials so they serve diverse learners, rather than retrofitting accessibility after the fact.^[[ludia-udl-ai-thought-partner-2026]]
 
-**Plan for the delivery medium.** Instructional design for [[online-teaching-and-learning|online teaching and learning]] is not a neutral translation of in-person design — the medium changes what scaffolding, assessment, and interaction are viable, and AI multiplies both the opportunities (scalable personalization, always-on support) and the risks ([[academic-integrity|integrity]], [[cognitive-offloading|cognitive offloading]]) designers must plan for. Design the AI's pedagogical wrapper as deliberately in online as in face-to-face contexts.
+**Plan for the delivery medium.** Instructional design for [[online-teaching-and-learning|online teaching and learning]] is not a neutral translation of in-person design — the medium changes what scaffolding, assessment, and interaction are viable, and AI multiplies both the opportunities (scalable [[personalized-learning|personalization]], always-on support) and the risks ([[academic-integrity|integrity]], [[cognitive-offloading|cognitive offloading]]) designers must plan for. Design the AI's pedagogical wrapper as deliberately in online as in face-to-face contexts.
 
 **Evaluate against a benchmark, not vibes.** If you're building an instructional-design agent, evaluate it against a standardized, theory-grounded benchmark (e.g. [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]) so you can measure whether grounding in a real ISD framework actually improves output over a generic LLM.^[[jeon-isd-agent-bench-2026]]
 
-- **AI is reshaping instructional design practice.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] systematically review 28 studies (2020-2025) and find AI assists designers with content generation, templates, and personalization, and is conceptualized as a co-worker/collaborator/partner rather than just a tool — though pedagogical alignment and practitioner readiness remain challenges.
+- **AI is reshaping instructional design practice.** [[kibar-ilgaz-ai-instructional-design-review-2026|Kibar & Ilgaz (2026)]] [[meta-analysis-systematic-review|systematically review]] 28 studies (2020-2025) and find AI assists designers with content generation, templates, and personalization, and is conceptualized as a co-worker/collaborator/partner rather than just a tool — though pedagogical alignment and practitioner readiness remain challenges.
 ## Connected Concepts
 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
@@ -7057,6 +7058,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - [[zhou-constructive-alignment-genai-business-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]
@@ -7658,7 +7660,7 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 
 ### AI-enhanced analytics
 
-- **Predictive analytics:** Machine learning on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
+- **Predictive analytics:** [[reinforcement-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
@@ -7670,19 +7672,21 @@ Learning analytics is canonically framed as a cycle that begins with learner act
 
 ### From description to intervention
 
-Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with human oversight preserved.
+Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with [[human-in-the-loop-ai|human oversight]] preserved.
 
 A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]], who asked three LLMs to recommend support plans for 4,500 [[simulating-students|synthetic student]] vignettes. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
 
 ### Methods and network analysis
 
-Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in chatbot-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-AI interaction rather than only its product.^[[penny-transition-network-analysis-efl-writing-2026]]^[[tracing-genai-literacy-interaction-patterns]]
+Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.^[[penny-transition-network-analysis-efl-writing-2026]]^[[tracing-genai-literacy-interaction-patterns]]
 
-- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight LLM that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; simulation shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+- **LA and GenAI shape learning design differently (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used ENA on 11 instructor focus groups to compare how learning analytics versus [[generative-ai|generative AI]] inform [[instructional-design|learning design]] decision-making. LA discussions centered on contextual information, course-level design, and creative problem-solving (LA for diagnosing engagement and targeting support), while GenAI discussions centered on assessment design and designing for student [[self-determination-theory|self-determination]] (GenAI for ideation and assessment development). Context and [[creativity]] were central across both — a reminder that analytics inform design only within [[pedagogy|pedagogical]] context and instructor autonomy.
+
+- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
 ### Connections
 
-Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the ethical constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
+Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
 
 ## Connected Concepts
 
@@ -7700,6 +7704,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
@@ -11245,17 +11250,19 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 
 ## [Self-Determination Theory](https://edtechdev.github.io/aied/concepts/self-determination-theory/)
 
-> **Self-Determination Theory (SDT)** — a psychological theory of human motivation positing that intrinsic motivation and well-being depend on satisfying three basic psychological needs: autonomy, competence, and relatedness. In AI in education, SDT provides a framework for designing AI tools and professional development that support rather than undermine learners' and teachers' motivation.
+> **Self-Determination Theory (SDT)** — a psychological theory of human motivation positing that intrinsic motivation and [[well-being]] depend on satisfying three basic psychological needs: autonomy, competence, and relatedness. In [[ai-education|AI in education]], SDT provides a framework for designing AI tools and professional development that support rather than undermine learners' and teachers' motivation.
 
-SDT is increasingly used in AI in education research as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect engagement, persistence, and learning outcomes. The articles in this wiki apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
+SDT is increasingly used in AI in education research as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect [[student-engagement|engagement]], persistence, and [[learning-gains|learning outcomes]]. The articles in this wiki apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
 
 ### Key research themes
 
-**SDT-based teacher professional development** applies the theory's need-supportive principles to prepare educators for AI. **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** studied 382 secondary school teachers, finding that need-supportive professional development grounded in SDT enhances teachers' [[ai-literacy]] and fosters sustained behavioral engagement in online professional learning communities. Qualitative analysis identified nine design strategies supporting autonomy, competence, and relatedness — bridging the gap between isolated professional development and professional learning communities.
+**SDT-based teacher professional development** applies the theory's need-supportive principles to prepare educators for AI. **[[teacher-education-ai-literacy-sdt-2026|Chiu et al.]]** studied 382 [[k-12|secondary school]] teachers, finding that need-supportive professional development grounded in SDT enhances teachers' [[ai-literacy]] and fosters sustained behavioral engagement in online professional learning communities. [[qualitative-research|Qualitative]] analysis identified nine design strategies supporting autonomy, competence, and relatedness — bridging the gap between isolated professional development and professional learning communities.
 
-**SDT in AI-mediated learning engagement** examines how generative AI tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with epistemic network analysis to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** extend SDT to AI learning with a latent transition analysis of **2,086 secondary students** in a year-long AI curriculum, identifying **three motivational profiles (Disengaged, Developing, Self-Determined)** that were stable across time and showing that most students maintained or advanced toward higher profiles. Crucially, students who reached or remained in the Self-Determined profile showed the **greatest [[ai-literacy]] gains** — direct longitudinal evidence that satisfying autonomy, competence, and relatedness predicts better AI-learning outcomes, and that motivation is a developmental (not fixed) learner property.
+**SDT in AI-mediated learning engagement** examines how [[generative-ai|generative AI]] tools shape student motivation. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined SDT with [[network-analysis|epistemic network analysis]] to study students' engagement with generative AI in academic learning. **[[ai-availability-student-motivation]]** explores how AI availability affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] concerns about motivation erosion. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** extend SDT to AI learning with a latent transition analysis of **2,086 secondary students** in a year-long AI [[curriculum-design|curriculum]], identifying **three motivational profiles (Disengaged, Developing, Self-Determined)** that were stable across time and showing that most students maintained or advanced toward higher profiles. Crucially, students who reached or remained in the Self-Determined profile showed the **greatest [[ai-literacy]] gains** — direct longitudinal evidence that satisfying autonomy, competence, and relatedness predicts better AI-learning outcomes, and that motivation is a developmental (not fixed) learner property.
 
 - **ChatGPT and SDT needs in language learning:** [[chatgpt-english-language-learning-malaysia|Annamalai et al. (2026)]] used an SDT lens with 25 Malaysian university students, finding that ChatGPT supports autonomy, relatedness, and competence in [[language-learning|English language learning]] — enhancing grammar, writing, and conversational tasks while letting [[teacher-role|educators]] focus on higher-order training.
+
+**SDT applied to instructors' own AI-mediated practice.** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used SDT as the interpretive lens on how instructors integrate [[learning-analytics|learning analytics]] and generative AI into [[instructional-design|learning design]] — finding that supporting instructors' basic needs (autonomy, competence, relatedness) fosters the creative problem-solving their design work requires. In their ENA analysis, GenAI use was associated with designing for student self-determination (e.g., co-creating assessment rubrics with students), extending SDT from learners to the educators who build need-supportive AI-mediated environments.
 
 ## Connections to related concepts
 
@@ -11276,6 +11283,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
@@ -24981,6 +24989,48 @@ Civic education is a uniquely high-stakes domain for AI application because:
 ## Citation
 
 Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). [*Civic education in the age of AI: Should we trust AI-generated lesson plans*](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/). *Contemporary Issues in Technology and Teacher Education*
+
+---
+
+## [Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education](https://edtechdev.github.io/aied/articles/claassen-learning-analytics-genai-learning-design-2026/)
+
+> **Instructors use [[learning-analytics|learning analytics]] and [[generative-ai|generative AI]] differently in learning design.** Claassen et al. (2026), a [[quantitative-research|quantitative]]-ethnography study of 11 focus groups with instructors at a large Australian university using [[network-analysis|Epistemic Network Analysis]] (ENA) and [[self-determination-theory|Self-Determination Theory]] (SDT) as an interpretive lens, find that LA-informed design discussions centre on context, course-level design, and creative problem-solving, while GenAI discussions centre on assessment design and designing for student self-determination. Across both, instructors consistently combine technological affordances with contextual considerations and creative problem-solving. Supporting instructors' basic psychological needs — autonomy, competence, relatedness — fosters creative, effective learning design.
+
+## Key Findings
+
+- **LA and GenAI support different parts of learning design.** In LA discussions, the strongest co-occurrences were between contextual information, course-level design, and creative problem-solving (the technology-role↔context connection was strongest, 0.32). In GenAI discussions, the strongest were between technology role and assessment design (0.26) and technology role and design for student self-determination (0.15).
+- **Instructors use LA for problem-solving across design granularity.** LA (e.g., teaching dashboards) was used in tandem with contextual information to make course-, activity-, and student-support-level adjustments — confirming that LA cannot be meaningfully interpreted without understanding [[pedagogy|pedagogical]] intent and context.
+- **Instructors use GenAI for ideation and assessment development.** GenAI was used to create first drafts of assessment elements (case studies, rubrics) and to co-design course elements with students (e.g., co-created assessment rubrics in initial [[teacher-education|teacher education]]), guided by their design approach.
+- **Distinct reasoning patterns.** LA discourse emphasized student support in relation to technology more than GenAI did; GenAI discourse elicited stronger emotional responses and centered on assessment design and student self-determination. The technology-role↔student-support connection was notably weaker in GenAI discourse.
+- **Context and [[creativity]] are central across both.** The co-occurrence of technology role, contextual information, and creative problem-solving was high across both LA and GenAI networks — instructors combine tool affordances with context and creativity to solve instructional problems.
+- **SDT lens: supporting instructor needs matters.** Supporting instructors' autonomy, competence, and relatedness fosters creative problem-solving in learning design; collaborative design and shared [[governance|institutional]] decision-making support these needs.
+
+## Implications
+
+- **Use LA and GenAI as complementary, not interchangeable, tools:** LA for diagnosing [[student-engagement|engagement]] and targeting support; GenAI for ideation and assessment development — a holistic, context-aware integration.
+- **Ground analytics in pedagogical context.** LA interpretation requires understanding learning-design intent, echoing the human-centered learning analytics agenda.
+- **Support instructors' psychological needs.** Institutions should enable collaborative design, shared decision-making, transparent information flow, and autonomy over tool integration to foster creative, need-supportive learning design.
+- **Co-design assessment with students.** Using GenAI to [[scaffolding|scaffold]] student participation in rubric/assessment creation supports student autonomy and competence (SDT).
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[instructional-design]]
+- [[self-determination-theory]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[curriculum-design]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a GenAI-integrated future
+- [[jiang-genai-activity-theory-disciplines-2026]] — Generative AI across disciplines through activity theory
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-designed AI tutors and self-determination theory
+
+## Citation
+
+Claassen, A., Ebbert, D., Kovanović, V., Mirriahi, N., & Dawson, S. (2026). Understanding the role of learning analytics and generative artificial intelligence on decision-making and learning design practice in higher education. *International Journal of Educational Technology in Higher Education, 23*, 43. [https://doi.org/10.1186/s41239-026-00619-4](https://doi.org/10.1186/s41239-026-00619-4)
 
 ---
 

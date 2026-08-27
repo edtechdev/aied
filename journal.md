@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1103
+**Last updated:** 2026-08-27 | **Total entries:** 1104
 
 
 ## 2026-08-27
@@ -52,6 +52,9 @@
 - ◐ [[gonsalves-student-non-compliance-ai-declarations-2025]] — 'raw/papers/gonsalves-student-non-compliance-ai-declarations-2025.md'
   Addressing Student Non-Compliance in AI Use Declarations
 - 🏷️ [[ai-use-disclosure]] — AI Use and Disclosure Statements
+
+- ◐ [[claassen-learning-analytics-genai-learning-design-2026]] — 'raw/papers/claassen-learning-analytics-genai-learning-design-2026.md'
+  Understanding the Role of Learning Analytics and Generative AI on Decision-Making and Learning Design Practice
 
 ## 2026-08-26
 
