@@ -26,6 +26,7 @@ The wiki's research treats situated learning not merely as an abstract theory bu
 Situated learning connects closely to [[embodied-learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning]], and [[constructivist]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[learning-theories]]
 - [[constructivist]]

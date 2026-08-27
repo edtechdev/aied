@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 172 concepts, 915 articles, and 14 FAQs.
+> Complete text of 173 concepts, 915 articles, and 14 FAQs.
 
 # Concepts
 
@@ -689,6 +689,7 @@ Learner agency is not only a static individual trait — it is also an **emergen
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[self-directed-learning]]
 - [[self-regulated-learning]]
@@ -707,6 +708,9 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
+- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
+- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
@@ -1885,6 +1889,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[eportfolio]]
 - [[problem-based-learning]]
@@ -1904,6 +1909,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 
 - [[benali-genai-academic-writing-2026]]
@@ -7366,6 +7372,63 @@ Language learning has emerged as a significant AI in education domain because la
 
 ---
 
+## [Learner Identity](https://edtechdev.github.io/aied/concepts/learner-identity/)
+
+> **Learner identity** — the evolving sense of who one is (and who one is becoming) as a learner, encompassing disciplinary, professional, creative, and academic identities. In [[ai-education|AI in education]], [[generative-ai|generative AI]] presses on learner identity in two directions at once: it can *support* identity formation ([[scaffolding]] disciplinary belonging and confidence) while also *threatening* it (undermining perceived authorship, competence, and authentic learning). Understanding learner identity is central to designing AI that affirms rather than erodes learners' sense of self.
+
+## Why identity matters for AI in education
+
+Identity is a motivational and developmental construct distinct from (but connected to) related abilities and beliefs. Where [[self-efficacy]] concerns *can I do this?*, identity concerns *who am I — and who am I becoming?* It is built through participation, recognition, and authorship — through seeing oneself reflected in a domain and having that self-view validated. AI reshapes the conditions under which identity forms because it changes *who does the work*, *what counts as one's own contribution*, and *whether a learner feels recognized as the author of their learning*. This makes identity a first-order design concern rather than a peripheral "soft" factor.
+
+- **Authorship and competence under threat.** When AI produces text, images, or code, learners may question whether the result is truly "theirs" — a challenge to the authorship dimension of identity. **[[t2i-competence-paradox-2026|Liu et al. (2026)]]** document a *competence paradox* in art and design students using text-to-image GenAI: the tools feel easy and useful, yet their use simultaneously threatens the **creative identity** students derive from manual craft and authorship, producing a genuine tension between ease and self-worth.
+- **Shame and hidden use.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** show that computing students experience shame and guilt around AI use, which function as social regulators driving *hiding* and selective disclosure — behaviours that can fragment academic identity and undermine honest engagement with learning.
+- **Identity as something AI can scaffold.** AI need not only threaten identity. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** argue that accountable, relationally-oriented [[pedagogy|pedagogical]] accompaniment can support learners' **STEM identity** development by providing transparent, bounded support that leaves room for the learner to own their trajectory.
+
+## Identity in the wiki's research
+
+- **Creative identity:** **[[t2i-competence-paradox-2026|the T2I competence paradox]]** captures how ease-of-use can undermine the craft-based identity of art and design students.
+- **Professional identity:** multiple studies treat AI's impact on **professional identity** — for example, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argue that graduates need *adaptive capabilities* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) precisely so they can sustain a viable professional identity in an AI-integrated future, rather than being defined by — or defined out by — their tools.
+- **Post-human and hybrid identity:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theorize the **post-human learner**, whose cognition is genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems — a reframing of identity formation itself in the age of cognitive AI.
+- **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** research connects to identity because assessment tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
+
+## Relationship to teacher identity
+
+Learner identity is the **student-facing** counterpart to teacher identity. Teacher identity — the evolving professional self-understanding of educators — is documented on the [[teacher-role]] page, where [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]] frame GenAI as an *identity crisis* for faculty rather than merely a skills gap, and [[teaching-the-teachers-genai-tpk-review-2026|TPK-based teacher training]] treats identity as part of professional preparation. The two are reciprocal: teachers who experience identity disruption are less able to support their students' identity development, so a healthy AI-integrated system must attend to both.
+
+## Connections
+
+Learner identity connects to [[agency]] (identity is enacted through agentic authorship), [[self-efficacy]] (competence beliefs that sustain identity), [[motivation]] and [[self-determination-theory]] (identity formation satisfies needs for autonomy and competence), [[student-experience]] and [[student-engagement]], and [[stem-education]] (where disciplinary identity is a key outcome and predictor of persistence). It is also shaped by [[situated-learning]] and [[critical-pedagogy]] (identity as participation and as power-laden negotiation) and connects to [[authentic-assessment]] (tasks that let learners perform and thus claim an identity). Its [[higher-ed]] and [[k-12]] relevance spans both schooling and professional preparation.
+
+## Connected Concepts
+
+- [[agency]]
+- [[self-efficacy]]
+- [[motivation]]
+- [[self-determination-theory]]
+- [[student-experience]]
+- [[student-engagement]]
+- [[stem-education]]
+- [[situated-learning]]
+- [[critical-pedagogy]]
+- [[authentic-assessment]]
+- [[teacher-role]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
+- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical symbiosis and the post-human learner
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
+- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis for faculty (teacher identity)
+- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
+- [[li-ai-science-situated-learning-teachers-2025]] — Science teachers' roles and learner identity in situated learning
+
+---
+
 ## [Learning Analytics](https://edtechdev.github.io/aied/concepts/learning-analytics/)
 
 > **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
@@ -11358,6 +11421,7 @@ The wiki's research treats situated learning not merely as an abstract theory bu
 Situated learning connects closely to [[embodied-learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning]], and [[constructivist]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[learning-theories]]
 - [[constructivist]]
@@ -11812,6 +11876,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - **Watch equity and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, digital-divide access, and culturally relevant design as you deploy them.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
 - [[cs-education]]
@@ -11831,6 +11896,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM
@@ -12062,6 +12128,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior).
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[remote-proctoring]]
 - [[generative-ai]]
@@ -12078,6 +12145,8 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
+- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[best-response-student-ai-dialog-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
@@ -12572,6 +12641,7 @@ These roles connect teacher work to [[distributed-cognition]], [[situated-learni
 Teacher role connects to [[faculty-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
 - [[faculty-development]]
@@ -12592,6 +12662,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]
 - [[alharbi-ethical-genai-eap-2026]]
 - [[luo-eaton-ai-student-feedback-ethics-2026]]
