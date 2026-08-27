@@ -1,11 +1,13 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T17:10:00-04:00"
+updated: "2026-08-27T05:32:07.754943-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
 ---
+
+> **Personalized learning** — tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
 
 Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
@@ -24,6 +26,12 @@ Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common 
 ### Multi-Agent Social Personalization (MAIC)
 
 Yu et al. (2024) personalize not only content but *social context*. Classmate archetypes (Class Clown, Deep Thinker, Note Taker, Inquisitive Mind) create varied peer-learning dynamics matched to individual learner needs.
+
+## Relationship to adaptive learning and intelligent tutoring
+
+Personalized learning is often conflated with [[adaptive-learning|adaptive learning]], but they are not the same. **Adaptive learning** refers to the *mechanism* — a system adjusting content, pacing, and difficulty in real time based on a learner model. **Personalized learning** is the *broader goal* — tailoring the full learning experience (content, pathways, pacing, preferences, goals) to an individual, of which real-time adaptation is one implementation. Adaptive systems are a *means* toward personalization, but personalization can also be achieved through static learner profiles, choice-based pathways, or human-tutor tailoring that does not adapt in real time.
+
+[[intelligent-tutoring|Intelligent tutoring]] sits in between: ITS are the canonical *adaptive* platforms that deliver personalized instruction through structured student modeling, while LLM-based tutors personalize conversationally. All three are the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — they consume the learner representations produced by [[student-modeling|student modeling]], [[knowledge-tracing]], and [[cognitive-diagnosis]] to decide what to teach next. The distinction matters for evaluation: studies that label a system "adaptive," "personalized," or "individualized" interchangeably (see below) can obscure whether the claimed benefit comes from real-time adaptation, learner choice, or content tailoring.
 
 ## Measurement Challenges
 

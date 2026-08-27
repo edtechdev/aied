@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-26T09:00:00-04:00"
+updated: "2026-08-27T05:32:07.754943-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -12,7 +12,11 @@ confidence: high
 
 AI tutoring encompasses the use of artificial intelligence — particularly [[llm|large language models]] and structured Intelligent Tutoring Systems — to provide personalized, adaptive, and scalable instructional support to learners. AI tutors take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, [[adaptive-learning|adaptive learning platforms]] that personalize content sequencing, and agent-based tutors that maintain long-term [[student-modeling|learner models]]. The effectiveness of AI tutoring depends critically on pedagogical design choices — scaffolding, [[ai-feedback-quality|feedback quality]], and the balance between [[agency|autonomy]] and guidance — rather than on the underlying model alone.
 
-#Historically, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** locate ITS within AIED's lineage from 1960s-70s expert systems and Anderson's ACT/ACT-R cognitive tutors, whose structured control contrasted with Papert's constructionism.
+Historically, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** locate ITS within AIED's lineage from 1960s-70s expert systems and Anderson's ACT/ACT-R cognitive tutors, whose structured control contrasted with Papert's constructionism.
+
+## ITS in the learner-modeling family
+
+Intelligent tutoring is the classic *application-side* member of the [[student-modeling|learner modeling and adaptive instruction]] family. Its canonical architecture — domain model, [[student-modeling|student model]], and pedagogical model — is precisely the "model a learner, then adapt instruction" pipeline the family describes. ITS consume the learner representations produced by [[knowledge-tracing]] and [[cognitive-diagnosis]] to select problems and scaffold guidance, which is why tutoring is so tightly coupled to those modeling methods. Within the family, ITS sits alongside [[adaptive-learning|adaptive learning]] (the real-time adaptation mechanism) and [[personalized-learning|personalized learning]] (the broader goal) as the platforms that turn learner models into instruction.
 
 ## ITS vs. LLM-based tutoring
 
@@ -35,7 +39,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
-- **productive-struggle** — letting students wrestle with difficulty rather than over-helping
+- **[[desirable-difficulties|productive struggle]]** — letting students wrestle with difficulty rather than over-helping
 - **[[feedback|feedback loops]]** — ITS feedback cycles that diagnose, guide, and verify
 
 ### Historical context
