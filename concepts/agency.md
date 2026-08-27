@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-26T07:45:07-04:00"
+updated: "2026-08-27T06:13:15.881051-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -39,6 +39,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
 - [[ying-genai-journalism-assessment-2026]]

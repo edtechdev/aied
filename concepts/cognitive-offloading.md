@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-26T09:00:00-04:00"
+updated: "2026-08-27T06:13:15.881051-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn]
@@ -101,6 +101,9 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 172 concepts, 909 articles, and 14 FAQs.
+> Complete text of 172 concepts, 914 articles, and 14 FAQs.
 
 # Concepts
 
@@ -693,6 +693,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
 - [[ying-genai-journalism-assessment-2026]]
@@ -2776,6 +2777,9 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
@@ -5679,6 +5683,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
 - [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
 - [[liang-genai-systematic-review-human-ai-2026]] — Systematic review of GenAI and human–AI collaboration
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12 education
@@ -6054,6 +6059,10 @@ Real-world students frequently **bypass a chatbot's [[scaffolding]]** — not ne
 
 Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this wiki supports the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
 
+### LLM-mediated help-seeking as a four-stage process
+
+[[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] show that, in everyday STEM study, LLM help-seeking is not a single act but a layered, context-dependent process with four stages: (1) *deciding whether help is needed* — students try tasks independently first to preserve learning value; (2) *choosing whom to ask* — ChatGPT as a low-barrier first step, then peers for conceptual negotiation, then instructors for complex or high-stakes issues; (3) *determining the type of help* — from hints and explanations to scaffolding problem-solving, streamlining routine work, and extending learning; and (4) *judging the help received* — exercising selective trust and verifying AI outputs against coursework or with humans. Crucially, students favored **instrumental help-seeking** (enhancing understanding) over **executive help-seeking** (obtaining solutions), a distinction that the authors propose adapting into new SRL-for-LLM measurement items.
+
 ## Implications for design and research
 
 1. **Design help-seeking affordances deliberately.** Persistent, salient help buttons can enable bypass strategies; delay access and structure delivery to support productive struggle.^[[lak2026-hint-button-unproductive-use]]
@@ -6083,6 +6092,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
@@ -7384,6 +7394,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
+- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
 - [[espino-ai-business-education-review-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[interactive-online-learning-ai-2025]]
@@ -8278,6 +8290,8 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[student-experience]]
 - [[learning-theories]]
 ## Connected Articles
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
@@ -11114,6 +11128,18 @@ For example:
 - **Agentic initiative vs. self-regulation tension.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
 - **Self-regulation shapes AI coding-assistant use.** [[computational-thinking-aica-2026|A study of AI coding assistants]] found high-[[computational-thinking]] students showed stronger self-regulatory coherence (planning-execution-self-reflection) and used AICA for code understanding, while low-CT students used it for immediate answer retrieval.
 
+## LLM-Mediated SRL: Scaffold, Shortcut, or Partner?
+
+A cluster of Learning Letters studies (2026) converges on a central tension: [[generative-ai|GenAI]] can scaffold, short-circuit, or partner with self-regulation depending on design and how learners regulate its use. The evidence points to SRL itself — not the tool — as the decisive variable.
+
+- **[[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al.]]** find that LLMs are woven into a *layered [[help-seeking]] ecosystem* rather than replacing human support: students try tasks independently first, then consult ChatGPT as a low-barrier first step, peers for conceptual negotiation, and instructors for high-stakes issues. They favor **instrumental help-seeking** (hints, step-by-step guidance) over **executive help-seeking** (direct solutions), exercising selective [[trust|trust]] and verifying outputs against course materials — a four-stage process (deciding whether help is needed, choosing whom to ask, determining the type of help, judging the help received) that can be measured and taught.
+- **[[atif-dickson-deane-scaffold-shortcut-genai-srl-2026|Atif & Dickson-Deane]]** frame GenAI use as **[[cognitive-offloading]]** that can be either *scaffolded* (learners critique and adapt AI outputs, keeping [[agency|agency]] and sense-making) or *substitutional* (learners accept outputs with minimal verification, shifting control to the tool). In a study of 267 postgraduate IT students, the same tool could scaffold or shortcut SRL depending on learner strategy — confident users showed agency in goal setting and monitoring; less confident users saw GenAI as a shortcut or misconduct.
+- **[[lim-bannert-student-regulation-genai-chatbot-2026|Lim & Bannert]]** show the risk concretely: students voluntarily used a genAI chatbot (73%) and scored higher on essays, but they offloaded comprehension and synthesis (asking the chatbot to "extract only the main ideas") and engaged in almost no planning or monitoring — outsourcing key regulatory decisions. This reflects a **production deficit**: students possess SRL knowledge but fail to deploy it spontaneously, so genAI tools should prompt reflection (a monitoring scaffold) when queries indicate offloading.
+- **[[song-genai-learning-partner-srl-over-time-2026|Song et al.]]** demonstrate that SRL is both a **stable aptitude and a dynamic state**: individual baselines are consistent, but metacognitive knowledge and wellbeing decline systemically over a semester, driven by assessment deadlines. They show GenAI can act as a context-aware **learning partner** when it is given personal, temporal, and contextual data — supporting students without replacing their effort. This argues against "one-time-fits-all" personalization based on baseline aptitude alone.
+- **[[de-barba-srl-genai-2026|de Barba]]** extends SRL theoretically, arguing the field has narrowed to task-focused regulation and to optimisable behavioural proxies in educational technology. The paper proposes a cross-scale account of **learner agency** — regulation (within tasks), integration (across time and contexts), and positioning (critically in relation to the conditions framing learning) — as a design orientation for algorithmically mediated environments.
+
+The collective lesson: **SRL is the core mechanism distinguishing critical from uncritical AI use.** Whether GenAI functions as a scaffold, shortcut, or partner depends on learners' regulatory capacity and on whether tools are designed to preserve (rather than remove) the regulatory demands that build expertise.
+
 ## Implications
 
 - **For journaling/chatbot tools:** Combine SRL instruction (course-based) with optional writing support to get both motivation and engagement gains
@@ -11133,6 +11159,7 @@ For example:
 - [[generative-ai]] — the technology that can scaffold or short-circuit SRL
 - [[ai-literacy]] — regulatory competence in AI use
 - [[self-directed-learning]] — the broader autonomy construct
+- [[agency]] — the learner's capacity to act with intention, central to regulation, integration, and positioning
 - [[adaptive-learning]] — personalization that can support regulation
 - [[formative-assessment]] — continuous feedback for regulation
 - [[learning-by-teaching]] — a strategy building self-regulation
@@ -11140,6 +11167,11 @@ For example:
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
+- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
@@ -21320,6 +21352,43 @@ Soheila Gheisari, Hamid Salarian (2026). [Analysis and Prediction of At-Risk Stu
 
 ---
 
+## [Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning](https://edtechdev.github.io/aied/articles/atif-dickson-deane-scaffold-shortcut-genai-srl-2026/)
+
+> **Scaffold or shortcut?** — a [[mixed-methods-research|mixed-methods]] study of 267 postgraduate IT students in Australia showing that [[generative-ai|GenAI]] plays a dual role in [[self-regulated-learning|SRL]]: it can act as a cognitive scaffold that supports goal setting, monitoring, and self-evaluation, or a cognitive shortcut that displaces them. Whether it [[scaffolding|scaffolds]] or short-circuits depends less on the tool than on how students regulate its use.
+
+## Key Findings
+
+- **GenAI's dual role.** Students used GenAI both as a practical aid and a cognitive partner — supporting goal setting, reflection, and feedback, yet at times displacing monitoring and self-evaluation when used uncritically.
+- **Scaffolded vs. substitutional [[cognitive-offloading]].** The study distinguishes two modes: *scaffolded offloading* (students use GenAI to clarify goals, generate ideas, or obtain feedback that they then critique and adapt — agency stays with the learner) versus *substitutional offloading* (students accept outputs with minimal verification, shifting control to the tool).
+- **Patterns were differentiated, not homogeneous.** Most students gained confidence and [[ai-literacy|AI literacy]] over the term, but some became confident, regular users while others stayed hesitant; postgraduate cohorts are not a homogeneous "AI-literate" group.
+- **Confidence shaped orientation.** Confident users demonstrated agency and autonomy in reflective goal setting and monitoring; less confident students were more likely to view GenAI as a shortcut or form of academic misconduct.
+
+## Implications
+
+- **Embed structured reflection and justification.** Learning design should require students to justify or adapt AI outputs, and offer explicit guidance on productive tool use — an expanded view of AI literacy that includes critical, strategic, and responsible [[student-engagement|engagement]].
+- **Design for [[agency|learner agency]].** Scaffolded GenAI use can enhance autonomy and critical reflection when integrated thoughtfully into postgraduate education.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[agency]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-direction
+
+## Citation
+
+Atif, A., & Dickson-Deane, C. (2026). *Scaffold or shortcut? Postgraduate IT students' use of generative AI and self-regulated learning.* Learning Letters, 8, Article 63. [https://doi.org/10.20851/ll.v8.63](https://doi.org/10.20851/ll.v8.63)
+
+---
+
 ## [From authentic products to authenticated processes: authentic assessment in AI-rich higher education](https://edtechdev.github.io/aied/articles/authentic-products-authenticated-processes-2026/)
 
 > Generative AI has not created the need for authentic assessment — it has made weaknesses in assessment design harder to ignore. Polished products can now be generated or substantially mediated by tools, so **product resemblance is an increasingly unreliable signal of capability**. Tsiligkiris calls this risk **construct substitution**: an AI-generated or AI-mediated product is attributed to the st
@@ -27824,6 +27893,42 @@ For [[higher-ed]] and [[k-12]] settings, the results suggest that AI-assisted da
 ## Citation
 
 Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026). [Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation](https://arxiv.org/abs/2607.02361). arXiv:2607.02361.
+
+---
+
+## [Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments](https://edtechdev.github.io/aied/articles/de-barba-srl-genai-2026/)
+
+> **[[agency|Learner agency]] across scales** — a theoretical/integrative paper proposing an account of learner agency that extends [[self-regulated-learning|SRL]] beyond task-focused [[regulation]] by connecting it with complex systems science and Freirean [[critical-pedagogy|critical pedagogy]]. It foregrounds three dimensions of learner agency — **regulation, integration, and positioning** — and a cross-scale [[scaffolding|scaffold]] supporting learners to move between them in algorithmically mediated environments.
+
+## Key Findings
+
+- **Three dimensions of learner agency.** *Regulation* (the self as an active managing process, drawing on social-cognitive SRL); *Integration* (the self as an organising centre across time and contexts, drawing on complex systems science); *Positioning* (the self as a critical interpreter, drawing on Freirean critical pedagogy). Agency lies in the coordination/movement between these, not any one alone.
+- **Two limitations of SRL.** SRL has progressively narrowed to task-focused regulation (leaving broader life conditions and structural positions under-theorised), and its operationalisation in educational technology has narrowed the construct to optimisable behavioural proxies (e.g., time management, strategy use, effort allocation).
+- **Cross-scale scaffold.** A design orientation with four functions — surfacing patterns across scales, opening conditions to critique, returning interpretation to action, and centring the learner as the agent of connection. It extends SRL from "agency within conditions" to "agency over conditions" (questioning what metrics measure and whose purposes they encode).
+- **Critical stance on [[learning-analytics]] and [[generative-ai]].** Algorithmically mediated environments encode assumptions about what counts as [[student-engagement|engagement]] and who succeeds; supporting agency requires learners to interpret their data, question what it does not capture, and act on that interpretation — a critique that has been largely disconnected from SRL theory.
+
+## Implications
+
+- **Reconnect SRL with critical pedagogy and learning analytics.** The integrative perspective offers a theoretical foundation for educational technology that places human agency at the centre — learners as agents who understand and shape the conditions of their development, not merely responsive to systems.
+- **Design for cross-scale movement.** Rather than optimising behaviour at a single scale, educational AI should support learners moving between immediate-task regulation, trajectory-wide integration, and critical positioning.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[agency]]
+- [[learning-analytics]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[theory-development-aied]]
+
+## Connected Articles
+
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities with GenAI
+- [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-direction
+
+## Citation
+
+de Barba, P. G. (2026). *Learner agency across scales: An integrative perspective on self-regulated learning in algorithmically mediated environments.* Learning Letters, 7, Article 75. [https://doi.org/10.20851/ll.v7.75](https://doi.org/10.20851/ll.v7.75)
 
 ---
 
@@ -39733,6 +39838,42 @@ This BJET review synthesizes 56 empirical studies on [[generative-ai|GenAI]] in 
 ## Citation
 
 Liang, Z., Yang, K., Sha, L., Gašević, D., Yan, L., & Chen, G. (2026). [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://doi.org/10.1111/bjet.70055).
+
+---
+
+## [How Do Students Regulate Their Learning With a GenAI Chatbot?](https://edtechdev.github.io/aied/articles/lim-bannert-student-regulation-genai-chatbot-2026/)
+
+> **How do students regulate their learning with a [[generative-ai|genAI]] [[conversational-ai|chatbot]]?** — an exploratory trace-based study of 30 university students who read texts and wrote an essay with an integrated ChatGPT chatbot. Most students (73%) voluntarily used the chatbot, mainly for seeking information, and chatbot users achieved higher essay scores than non-users — but [[qualitative-research|qualitative]] evidence showed students offloading comprehension and synthesis to the chatbot, outsourcing key regulatory decisions.
+
+## Key Findings
+
+- **Chatbot as information source and surface-task helper.** Queries were mostly seeking information (53%), then language support (25%), generating ideas (13%), and correction/repetition (9%). The chatbot was used ~12% of learning time.
+- **Performance benefits but outsourcing risks.** Chatbot users scored higher on the essay, and chatbot interaction frequency correlated positively with high-cognitive writing activities. But students asked the chatbot to "summarise the paragraph into 3 sentences" or "extract only the main ideas" — offloading comprehension, synthesis, and key regulatory decisions (evaluating text relevance, deciding what to read, integrating new knowledge).
+- **Low planning and monitoring.** Both chatbot users and non-users engaged in almost no planning and monitoring; the chatbot potentially replaced reading, a core activity for building an initial knowledge base.
+- **Production deficit.** Students possessed sufficient SRL knowledge and skills but failed to spontaneously engage in [[regulation]] during learning.
+
+## Implications
+
+- **Embed SRL [[scaffolding|scaffolds]] in genAI tools.** When chatbot queries indicate potential offloading (e.g., extracting main points without reading), students should first be prompted to reflect on their reading and comprehension as a monitoring scaffold.
+- **Align technology with educational fit.** GenAI support should foster learning and not just efficiency in task completion; instructional design must guide meaningful, not shortcut, use.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Systematic mapping of AI and SRL
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+
+## Citation
+
+Lim, L., & Bannert, M. (2026). *How do students regulate their learning with a genAI chatbot?* Learning Letters, 8, Article 61. [https://doi.org/10.20851/ll.v8.61](https://doi.org/10.20851/ll.v8.61)
 
 ---
 
@@ -51992,6 +52133,41 @@ Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better T
 
 ---
 
+## [GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort](https://edtechdev.github.io/aied/articles/song-genai-learning-partner-srl-over-time-2026/)
+
+> **[[generative-ai|GenAI]] as a [[pedagogical-agent|learning partner]]** — a longitudinal study of 75 first-year university students across a full semester showing that SRL is both a stable aptitude and a dynamically fluctuating state. Individual baselines were consistent, but [[metacognition|metacognitive]] knowledge and [[well-being|wellbeing]] declined systemically over the term, driven by [[curriculum-design|curriculum]] demands (e.g., major assessment deadlines). A proof-of-concept demonstrated that giving an [[llm]] personal, temporal, and contextual information enables it to identify tailored SRL support directions.
+
+## Key Findings
+
+- **SRL as both stable and dynamic.** Pre-/post-semester surveys showed high individual consistency (R² up to 0.73), but paired t-tests revealed systemic declines in metacognitive knowledge (MAI_K) and wellbeing (WEMWBS) over the term — while metacognitive [[regulation]] (MAI_R) held steady.
+- **Curriculum drives fluctuations.** Week-by-week daily-survey analysis showed a major Week 8 project deadline lowered interest, [[self-efficacy]], and emotional wellbeing, with most [[affective-computing|affective]] metrics recovering after the assessment. Students shifted from planning/reviewing toward reading new material after the deadline.
+- **Context-aware GenAI support.** By separating formal, psychometrically-validated measurement of SRL from the LLM's interpretation, the authors gave Gemini 3 each student's baseline, week-by-week fluctuations, and academic context — and it generated appropriately tailored support (e.g., foundational strategy-building for a low-metacognition student vs. post-assessment recovery pacing for a high-metacognition student whose confidence had dipped). Researchers judged the output pedagogically sound.
+
+## Implications
+
+- **Design GenAI support as [[agency|temporally mapped]] and context-aware.** "One-time-fits-all" [[personalized-learning|personalization]] based only on baseline aptitude risks over-assisting during [[desirable-difficulties|productive struggle]] or under-assisting during deadline-induced downturns. Support should track the academic calendar.
+- **Hybrid intelligence over black-box.** Measuring SRL with validated instruments and using GenAI only to interpret and translate those metrics into support directions preserves theory-based reliability and learner effort.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[learning-analytics]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[agency]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Systematic mapping of AI and SRL
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
+
+## Citation
+
+Song, Y., de Barba, P., & Oliveira, E. (2026). *GenAI as a learning partner: Supporting self-regulated learning over time without replacing effort.* Learning Letters, 8, Article 73. [https://doi.org/10.20851/ll.v8.73](https://doi.org/10.20851/ll.v8.73)
+
+---
+
 ## [Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education](https://edtechdev.github.io/aied/articles/sovereign-hive-titl-further-education-2026/)
 
 > **Synthesis:** Herron (2026) introduces a conceptual framework developed through practitioner-led inquiry in an Irish Youthreach setting, centring marginalised Further Education and Training (FET) learners. The paper uses a 'Mars Gravity' metaphor to describe the intensified pressure of overlapping neurodivergent, social, and psychological burdens; when these exceed available resources, learners enter 'Barren Mars Gravity' (BMG), a state of cognitive and relational collapse. In response, the 'Sovereign Hive' is proposed as a relational learning environment functioning as an atmospheric regulator, operationalised by the Tutor-in-the-Loop (TITL) framework. Through the shame-proof 'Abditory' and a Mars Zone of Proximal Development, learners are moved from BMG toward Emancipated Mars Gravity (EMG). The work reframes [[generative-ai]] [[equity-in-ai-education|equity]] as atmospheric regulation rather than mere tool access, connecting [[cognitive-offloading]], [[metacognition]], [[neurodiversity]], and [[human-in-the-loop-ai]] in [[adult-learning]] contexts, and argues that systemic parity for educators is the condition that makes this restorative work possible.
@@ -56870,6 +57046,44 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 ## Citation
 
 Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545). arXiv:2608.05545.
+
+---
+
+## [Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking](https://edtechdev.github.io/aied/articles/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026/)
+
+> **Efficiency vs. effectiveness** — a [[qualitative-research|qualitative]] study of 20 [[stem-education|STEM]] university students in Sweden showing that [[llm]] [[conversational-ai|chatbots]] are woven into a layered, context-dependent [[help-seeking]] ecosystem rather than replacing human support. Students follow a four-stage process — deciding whether help is needed, choosing whom to ask, determining the type of help, and judging the help received — favoring instrumental over executive help-seeking to retain control of problem-solving.
+
+## Key Findings
+
+- **A layered help-seeking ecosystem.** LLMs do not displace peers and instructors; they become a low-barrier first step (e.g., "first ChatGPT, then classmates, and lastly teachers"). [[higher-ed|Peers]] remain important for conceptual negotiation and [[affective-computing|affective]] support, and instructors for complex, high-stakes issues.
+- **Four-stage LLM-mediated help-seeking process** (adapted from Karabenick & Berger's model): (1) deciding whether help is needed — students try tasks independently first to preserve learning value; (2) choosing a source — ChatGPT as immediate first step, then peers, then instructors; (3) determining the type of help — hints, explanations, [[scaffolding]], routine-work streamlining, or extending learning; (4) judging the help — exercising [[trust|selective trust]], verifying AI outputs against coursework or with humans.
+- **Instrumental over executive help-seeking.** Students favored instrumental help-seeking (hints, step-by-step guidance, concept explanations) over executive help-seeking (direct solutions), deliberately using ChatGPT as "a hint, an assisting tool, but not the standalone solution."
+- **Selective trust and verification.** Students verify LLM outputs with peers, course materials, or instructors when accuracy is uncertain — e.g., "I only go to the TA if we can't tell whether ChatGPT is making things up."
+
+## Implications
+
+- **Adapt help-seeking models for LLM-mediated learning.** The four-stage process provides a framework for understanding and measuring SRL-for-LLM help-seeking; the paper proposes draft survey items.
+- **Support [[ai-literacy|verification practices]] and instrumental help-seeking.** Prolonged exposure to "good enough" AI outputs may normalize shortcuts at the expense of deeper learning, especially among low-SRL students — so students need targeted training on SRL strategies in LLM-mediated settings.
+- **Distinguish [[cognitive-offloading]] from efficiency.** Reliance on LLMs for debugging or cross-language programming risks bypassing opportunities for independent problem-solving, even when students avoid direct-answer use.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[help-seeking]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Help-seeking with ChatGPT vs. human expert
+
+## Citation
+
+Viberg, O., Feldman-Maggor, Y., & Wong, J. (2026). *Efficiency vs. effectiveness: Self-regulated learning with LLM-mediated help-seeking.* Learning Letters, 8, Article 60. [https://doi.org/10.20851/ll.v8.60](https://doi.org/10.20851/ll.v8.60)
 
 ---
 
