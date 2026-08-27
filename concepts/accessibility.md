@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T08:55:36.300729-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, instructional-design]
@@ -52,6 +52,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[agency]]
 
 ## Connected Articles
+- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
