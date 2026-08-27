@@ -1,12 +1,22 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1082
+**Last updated:** 2026-08-27 | **Total entries:** 1087
 
 
 ## 2026-08-27
 
 - ◐ [[lopez-pernas-llm-appropriate-student-support-2026]] — 'raw/papers/lopez-pernas-llm-appropriate-student-support-2026.md'
   Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+- ◐ [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — 'raw/papers/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026.md'
+  Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
+- ◐ [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — 'raw/papers/atif-dickson-deane-scaffold-shortcut-genai-srl-2026.md'
+  Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning
+- ◐ [[lim-bannert-student-regulation-genai-chatbot-2026]] — 'raw/papers/lim-bannert-student-regulation-genai-chatbot-2026.md'
+  How Do Students Regulate Their Learning With a GenAI Chatbot?
+- ◐ [[song-genai-learning-partner-srl-over-time-2026]] — 'raw/papers/song-genai-learning-partner-srl-over-time-2026.md'
+  GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort
+- ◐ [[de-barba-srl-genai-2026]] — 'raw/papers/de-barba-srl-genai-2026.md'
+  Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments
 
 ## 2026-08-26
 

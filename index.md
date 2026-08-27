@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-27 | **Total pages:** 1095
+**Last updated:** 2026-08-27 | **Total pages:** 1100
 ---
 ## Concepts
 
@@ -181,6 +181,7 @@
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
 - [[assessment-validity]] — Assessment Validity in AI Education
 - [[assistive-technology]] — Assistive Technology
+- [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or Shortcut? Postgraduate IT Students Use of Generative AI and Self-Regulated Learning
 - [[astor-computational-thinking-meta-review-2026]] — Computational Thinking: A Meta-Review of Systematic Reviews and Meta-Analyses
 - [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era
@@ -341,6 +342,7 @@
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
+- [[de-barba-srl-genai-2026]] — Learner Agency Across Scales: Self-Regulated Learning in Algorithmically Mediated Environments
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[design-based-research]] — Design-Based Research
 - [[design-thinking]] — Design Thinking
@@ -626,6 +628,7 @@
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
 - [[leveraging-complex-systems-leading-for-transformative-change]] — Leveraging complex systems: Leading for transformative change
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — How Do Students Regulate Their Learning With a GenAI Chatbot?
 - [[li-ai-science-situated-learning-teachers-2025]] — Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives
 - [[li-dbagent-llm-educational-agent-cs-2026]] — The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resisting AI”
@@ -920,6 +923,7 @@
 - [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity in online interaction
 - [[socio-cognitive-genai-adoption-engineering-2026]] — Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education
 - [[sociocultural-learning]] — Sociocultural Learning
+- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time
 - [[socrates-students-instructors-llms-lbt-2025]] — Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education
 - [[socratic-ai-physics-tutor-taxonomy-2026]] — A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor
 - [[socratic-method]] — Socratic Method
@@ -1040,6 +1044,7 @@
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
 - [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
 - [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-
 - [[videla-embodied-ai-education-choreography]] — \"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
