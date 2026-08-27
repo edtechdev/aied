@@ -1,14 +1,14 @@
 ---
 title: "Addressing Student Non-Compliance in AI Use Declarations: Implications for Academic Integrity and Assessment in Higher Education"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-08-27T11:21:46.201612-04:00"
+updated: "2026-08-27T11:38:38.333597-04:00"
 type: article
 tags: [ai-use-disclosure, academic-integrity, assessment, higher-ed, generative-ai, educational-policy-ai]
 sources: ["https://doi.org/10.1080/02602938.2024.2415654"]
 confidence: high
 ---
 
-> **Fear, ambiguity, inconsistent enforcement, and peer influence drive students to avoid AI use declarations — even when declaration is mandatory.** Gonsalves (2025), a [[mixed-methods-research|mixed-methods]] study at King's [[business-education|Business School]] where **74% of students failed to declare AI use** despite it being required on a coursework coversheet, uses the Theory of Planned Behaviour (TPB) to explain non-compliance. Students view declaration as risky self-incrimination rather than a neutral administrative task, and the blurring of authorship by [[generative-ai|generative AI]] challenges traditional [[academic-integrity]] norms. Clear, consistent, and trust-based policies are needed to foster [[ethics|ethical]] AI use.
+> **Fear, ambiguity, inconsistent enforcement, and peer influence drive students to avoid AI use declarations — even when declaration is mandatory.** Gonsalves (2025), a [[mixed-methods-research|mixed-methods]] study at King's [[business-education|Business School]] where **74% of students failed to declare AI use** despite it being required on a coursework coversheet, uses the Theory of Planned Behaviour (TPB) to explain non-compliance. Students view declaration as risky self-incrimination rather than a neutral administrative task, and the blurring of authorship by [[generative-ai|generative AI]] challenges traditional [[academic-integrity]] norms. Clear, consistent, and [[trust|trust]]-based policies are needed to foster [[ethics|ethical]] AI use.
 
 ## Key Findings
 
