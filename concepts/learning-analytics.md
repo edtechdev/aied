@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T06:13:15.881051-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback]
 
@@ -54,6 +54,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
 - [[espino-ai-business-education-review-2026]]

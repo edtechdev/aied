@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing, ai-literacy]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
@@ -69,6 +69,7 @@ In short, educational measurement can **miss** what it does not sample (process,
 ## Connections
 
 Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field. For the constructs it measures, it intersects with [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]], and [[student-engagement]].
+- **Causal modelling of support interventions (2026):** a structural causal modelling protocol moves educational assessment beyond associative item-response-theory belief updating toward interventional and counterfactual reasoning (e.g., the effect of hints), with structural equations elicited from experts using purely logical information — illustrated on compulsory-school algorithmic-skills tasks ([[causal-modelling-competency-assessment-2026]]).
 
 ## Connected Concepts
 
@@ -88,6 +89,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[benchmark]]
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)

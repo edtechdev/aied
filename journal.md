@@ -1,10 +1,18 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1093
+**Last updated:** 2026-08-27 | **Total entries:** 1097
 
 
 ## 2026-08-27
 
+- ◐ [[mechanical-engineering-ai-curriculum-2026]] — 'raw/papers/mechanical-engineering-ai-curriculum-2026.md'
+  Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering
+- ◐ [[ai-adaptation-gap-higher-education-2026]] — 'raw/papers/ai-adaptation-gap-higher-education-2026.md'
+  The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff
+- ◐ [[causal-modelling-competency-assessment-2026]] — 'raw/papers/causal-modelling-competency-assessment-2026.md'
+  Causal Modelling of Support Interventions for Student Competency Assessment
+- ◐ [[evaluation-age-ai-output-evidence-2026]] — 'raw/papers/evaluation-age-ai-output-evidence-2026.md'
+  Evaluation in the Age of AI: Output as Evidence of Learning
 - ◐ [[lopez-pernas-llm-appropriate-student-support-2026]] — 'raw/papers/lopez-pernas-llm-appropriate-student-support-2026.md'
   Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - ◐ [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — 'raw/papers/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026.md'

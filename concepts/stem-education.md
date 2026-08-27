@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T08:26:57.833590-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 
@@ -69,6 +69,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science

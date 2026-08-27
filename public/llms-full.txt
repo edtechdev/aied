@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 173 concepts, 918 articles, and 15 FAQs.
+> Complete text of 173 concepts, 922 articles, and 15 FAQs.
 
 # Concepts
 
@@ -48,6 +48,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine engagement, and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
 
 - **GenAI defeats autogradable homework (2026):** ChatGPT passed every one of 150 test sessions on deliberately hardened, autogradable Qiskit (quantum computing) homework designs — personalisation, hidden references, reflections, simulator execution — showing that rubric-based graders cannot reliably distinguish AI-completed from student-completed work and arguing for direct assessment of understanding ([[chatgpt-qiskit-homework-autogradable-2026]]).
+- **Evaluation in the age of AI — output as evidence (2026):** a university-level analysis argues the AI assessment crisis is a misalignment between assessment design and learning outcomes, not just dishonesty; it documents surveillance harms (lockdown browsers, eye-tracking), a "Disclosure Trap" (students fear declaring AI use lowers marks), a performance gap that grades socioeconomic status (paid vs. free LLM tiers), and "pedagogical burnout" among faculty policing AI — recommending process-based evaluation over detection ([[evaluation-age-ai-output-evidence-2026]]).
 
 ## Connected Concepts
 
@@ -69,6 +70,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]] — Student cheating behaviour with AI tools in academic work
@@ -388,6 +391,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[learning-context-framework-context-aware-ai-education-2026]]
@@ -718,6 +722,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
@@ -1157,6 +1162,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
@@ -1388,6 +1394,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
@@ -1772,6 +1779,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
@@ -1919,6 +1928,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 
@@ -3554,6 +3564,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code
 - [[dura-llm-cs2]] — DURA: LLM assistants for CS2
@@ -3702,6 +3713,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]
@@ -3926,6 +3938,7 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[learning-theories]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
 
@@ -4389,6 +4402,7 @@ In short, educational measurement can **miss** what it does not sample (process,
 ## Connections
 
 Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field. For the constructs it measures, it intersects with [[ai-literacy]], [[technology-acceptance-model]], [[self-efficacy]], [[motivation]], and [[student-engagement]].
+- **Causal modelling of support interventions (2026):** a structural causal modelling protocol moves educational assessment beyond associative item-response-theory belief updating toward interventional and counterfactual reasoning (e.g., the effect of hints), with structural equations elicited from experts using purely logical information — illustrated on compulsory-school algorithmic-skills tasks ([[causal-modelling-competency-assessment-2026]]).
 
 ## Connected Concepts
 
@@ -4408,6 +4422,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[benchmark]]
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
@@ -4528,6 +4543,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
@@ -4763,6 +4779,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[generative-ai]]
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
@@ -5069,6 +5086,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -5519,6 +5537,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide approaches to redesigning assessment in the GenAI era
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' perceptions of multiliteracies development with AI-assisted portfolio assessment
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
@@ -5725,6 +5744,8 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
 - [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
@@ -5884,6 +5905,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 - [[adarkwah-genai-unesco-policy-2026]]
@@ -6200,6 +6222,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
@@ -7100,6 +7124,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[intelligent-tutoring]]
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
 - [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
@@ -7526,6 +7551,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
 - [[espino-ai-business-education-review-2026]]
@@ -9762,6 +9788,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[ai-education]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
@@ -9871,6 +9898,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
@@ -10137,6 +10165,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
@@ -11965,6 +11994,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
@@ -12137,6 +12167,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
@@ -12428,6 +12459,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[cognitive-diagnosis]]
 - [[feedback]]
 ## Connected Articles
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[interactive-online-learning-ai-2025]]
@@ -12694,6 +12726,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
 - [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
@@ -12888,6 +12921,7 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
 - [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
@@ -13199,6 +13233,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
 Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
+- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|trust in AI]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
 
 ## Connected Concepts
 
@@ -13213,6 +13248,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[ai-sycophancy]]
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
 - [[best-response-student-ai-dialog-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -15193,6 +15229,53 @@ The study contributes a transferable blind-verification protocol for evaluating 
 ## Citation
 
 Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). [Agreement is not quality: Blind expert verification of human and LLM qualitative coding](https://arxiv.org/abs/2607.28890). arXiv:2607.28890.
+
+---
+
+## [The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff](https://edtechdev.github.io/aied/articles/ai-adaptation-gap-higher-education-2026/)
+
+> **Synthesis:** Braun and Khafizov (2026) analyze patterns of [[generative-ai]] use and attitudes toward AI among students, faculty, and administrative staff at a large university specializing in [[teacher-education|teacher education]], using three role-adapted 75-item questionnaires (N = 2,121: 1,809 students, 250 faculty, 62 staff). They document a pronounced "AI adaptation gap": students report higher current AI-use intensity and perceived usefulness, while faculty and administrative staff report stronger [[academic-integrity]] concerns and greater endorsement of responsible-use norms. In the pooled OLS trust model, perceived usefulness had the strongest standardized positive association with [[trust|trust in AI]] (β = 0.402), with [[governance|institutional]] policy clarity also positive but weaker (β = 0.223). The cross-sectional, self-reported design supports associative and group-difference conclusions rather than causal claims.
+
+## Key Findings
+
+1. A pronounced AI adaptation gap exists across university groups: students report higher current AI-use intensity and perceived usefulness than faculty and administrative staff.
+2. Faculty and administrative staff report stronger academic integrity concerns and greater endorsement of responsible-use norms than students.
+3. In the pooled OLS trust model, perceived usefulness had the strongest standardized positive association with trust in AI (β = 0.402); institutional policy clarity was positive but weaker (β = 0.223).
+4. Students reported higher perceived policy clarity than faculty, while neither group differed significantly from administrative staff.
+5. Exploratory K-means clustering indicated heterogeneity among students in experience, competence, usefulness, trust, and control, but did not establish a stable latent typology across university groups.
+
+## Study Design & Method
+
+The study surveyed 1,809 students, 250 faculty, and 62 administrative staff at a single large university specializing in teacher education. Three role-adapted 75-item questionnaires covered frequency and contexts of AI use, perceived usefulness, trust and control, academic integrity concerns, responsible-use norms, institutional policy clarity, and perceived improvement in output quality. Analyses included descriptive statistics, Welch group comparisons, pooled ordinary least squares (OLS) models, reliability and dimensionality checks, and exploratory student-only K-means clustering. The authors emphasize that the cross-sectional, self-reported data show associations and group differences rather than causal effects on learning or objective outcomes.
+
+## Implications for AI in Education
+
+The findings support stakeholder-aware, task-sensitive institutional AI policies that address academic integrity requirements and transparent disclosure of AI use. The misalignment among students, faculty, and administrative staff — the three groups that jointly shape university practice — may determine whether AI is perceived as an educational resource, a convenient administrative service, or a source of academic and [[ethics|ethical]] risk. For [[higher-ed]] governance and [[educational-policy-ai|institutional policy]], the results suggest that perceived usefulness drives [[trust-calibration|trust]] more strongly than policy clarity, so efforts to build trust should attend to demonstrable usefulness while clarifying responsible-use norms. The study also connects to [[technology-acceptance-model|technology adoption]] and [[ai-literacy]] literatures.
+
+## Connected Concepts
+
+- [[higher-ed]]
+- [[generative-ai]]
+- [[trust]]
+- [[trust-calibration]]
+- [[academic-integrity]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[teacher-education]]
+- [[technology-acceptance-model]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
+- [[adarkwah-genai-unesco-policy-2026]] — GenAI in UNESCO Policy
+- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Education Policy and Institutional Decision-Making
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity Theory, Teachers' AI Adoption, and SEM
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
+
+## Citation
+
+Braun, Y. S., & Khafizov, S. M. (2026). [*The AI adaptation gap in higher education: Students, faculty, and administrative staff*](https://arxiv.org/abs/2608.25063). arXiv:2608.25063.
 
 ---
 
@@ -23210,6 +23293,51 @@ Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., 
 
 ---
 
+## [Causal Modelling of Support Interventions for Student Competency Assessment](https://edtechdev.github.io/aied/articles/causal-modelling-competency-assessment-2026/)
+
+> **Synthesis:** Mangili, Antonucci, and Cabañas (2026) advocate adopting a structural causal modelling approach to [[educational-measurement|educational assessment]], moving beyond probabilistic belief updating toward a framework that explicitly supports interventional and counterfactual reasoning. They propose a protocol for constructing such a model and analyze the practical relevance of forms of reasoning inaccessible to standard associative models — including explicit modelling of interventions such as hints and related counterfactual scenario analysis. Although the protocol requires structural equations to be elicited from experts, the necessary information is purely logical and does not rely on probabilistic, less-tenable assumptions. They illustrate the approach using data from an assessment employing complex tasks designed to measure compulsory-school student algorithmic skills.
+
+## Key Findings
+
+1. The paper advocates a structural causal modelling framework for [[student-modeling|student competency assessment]], moving beyond standard probabilistic (associative) belief updating.
+2. The framework explicitly supports interventional reasoning (e.g., modelling the effect of hints) and counterfactual scenario analysis, which standard item-response-theory-style models cannot express.
+3. A concrete protocol is proposed for constructing the causal model, with structural equations elicited from domain experts using purely logical information.
+4. Applied to compulsory-school algorithmic-skills assessment, the approach demonstrates identifiable and practically relevant interventional/counterfactual queries alongside group-level inferences.
+5. An expert-elicited causal model is more interpretable and supports explicit causal reasoning even where a purely data-driven approach might have comparable predictive accuracy.
+
+## The Causal Assessment Framework
+
+Traditional empirical assessment is grounded in psychometric models such as [[item-response-theory]], which relate student competence levels to performance on assessment tasks but support only associative reasoning. The authors propose replacing the probabilistic updating framework with structural causal models that encode the generative process behind student responses, enabling questions of the form "what would happen if a student received a hint?" (intervention) or "would this student have succeeded had they not received support?" (counterfactual). This is directly relevant to [[formative-assessment]] and [[adaptive-learning]], where support interventions such as hints are central, and to [[learning-analytics]] pipelines that seek to evaluate the causal effect of instructional actions rather than mere correlation.
+
+## Implications for AI in Education
+
+By making interventions and counterfactuals explicit, causal assessment models align with the needs of [[intelligent-tutoring|intelligent tutoring]] and adaptive systems that must decide whether and how to intervene. The approach complements correlational [[learning-analytics]] by distinguishing the effect of a support action from the prior competence it targets, supporting more principled [[assessment]] design and interpretation. It also connects to the broader movement toward causal and interpretable methods in [[ai-education|AI in education]], where explainability of student models matters for [[teacher-role|educator]] trust and for fair, valid decisions.
+
+## Connected Concepts
+
+- [[educational-measurement]]
+- [[student-modeling]]
+- [[assessment]]
+- [[formative-assessment]]
+- [[item-response-theory]]
+- [[learning-analytics]]
+- [[adaptive-learning]]
+- [[psychometrically-aware-ai]]
+
+## Connected Articles
+
+- [[cotal-formative-assessment-scoring-2026]] — Cotal: Formative Assessment Scoring
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
+- [[cognitive-load-transfer-knowledge-tracing-2026]] — Cognitive Load and Transfer in Knowledge Tracing
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
+- [[bandit-driven-llm-essay-scoring-2026]] — Bandit-Driven Prompt-Selection for Low-Cost LLM Essay Scoring
+
+## Citation
+
+Mangili, F., Antonucci, A., & Cabañas, R. (2026). [*Causal modelling of support interventions for student competency assessment*](https://arxiv.org/abs/2608.24632). arXiv:2608.24632.
+
+---
+
 ## [Artificial intelligence assisted design of a novel cooperative learning technique for higher education](https://edtechdev.github.io/aied/articles/ccct-cooperative-learning-technique/)
 
 > **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for higher education
@@ -30938,6 +31066,55 @@ For educators and tool builders, EE-Eval offers a diagnostic lens: instead of as
 ## Citation
 
 Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). [Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations](https://arxiv.org/abs/2606.31012). arXiv:2606.31012.
+
+---
+
+## [Evaluation in the Age of AI: Output as Evidence of Learning](https://edtechdev.github.io/aied/articles/evaluation-age-ai-output-evidence-2026/)
+
+> **Synthesis:** Chowdhury and Khan (2026) examine the [[ethics|ethical]] challenges of [[assessment|educational evaluation]] in the age of [[generative-ai]], arguing that the core problem extends beyond academic dishonesty to a deeper misalignment between assessment practices and the [[learning-gains|learning outcomes]] they are meant to measure. When tasks that once served as proxies for understanding (essays, problem sets, code) can now be generated superficially by LLMs, evaluation regimes that rely on artificial constraints risk measuring compliance, access, or concealment rather than genuine understanding, reasoning, or judgment. Drawing on analysis of [[governance|institutional]] responses and original survey data on faculty perceptions, they advocate shifting from "output-as-evidence" to process-based evaluation models that preserve [[agency|student agency]] and accountability.
+
+## Key Findings
+
+1. The "output-as-evidence" model — assuming the artifact reflects cognitive labor — has been fundamentally disrupted by LLMs, creating a verification problem institutional frameworks are not equipped to resolve.
+2. Institutional focus on "cheating" and AI detection is insufficient and introduces harms of surveillance (lockdown browsers, eye-tracking), including privacy violations and anxiety-inducing testing conditions.
+3. A "Performance Gap" emerged: roughly 45% of faculty respondents noted students using paid/"Pro" [[llm]] tiers produced work with higher stylistic clarity and fewer [[hallucination-risk|hallucinations]], suggesting assessment may inadvertently grade socioeconomic status rather than ability.
+4. The "Disclosure Trap": students fear declaring AI use will lower marks even when permitted, driving ethical AI use underground and making it less reflective and transparent.
+5. Faculty reported "[[pedagogy|pedagogical]] burnout" — displacement of teaching by policing, with educators becoming "Digital Prosecutors" in an escalating detection/evasion arms race.
+
+## Alternative Assessment Models
+
+The authors argue evaluation must shift from certifying a final artifact to documenting and appraising an ongoing cognitive process. They highlight two balanced frameworks: the FACT (Fundamental, Applied, Conceptual, Thinking) framework and the AI Assessment Scale (AIAS), which map levels of AI involvement onto assessment contexts so AI use is explicitly bounded, disclosed, and critically evaluated. Drawing on [[desirable-difficulties]], they advocate in-class, resource-restricted problem solving, think-aloud protocols, annotated drafts, and iterative revision logs that render reasoning legible to evaluators and produce richer [[formative-assessment|formative]] data. Policy recommendations include deprioritizing detection, adopting risk-based models, and incentivizing process pedagogy.
+
+## Implications for AI in Education
+
+The paper reframes the [[academic-integrity]] debate from policing outputs to redesigning assessment so that the path to the answer is as important as the answer itself. It cautions that [[plagiarism-detection|AI detection]] tools, with high false-positive risk, both damage [[privacy]] and deepen inequity, and that surveillance undermines the learning environment. For educators and institutions, it supports [[authentic-assessment]] and process-oriented designs that preserve student agency and accountability, aligning [[educational-policy-ai|institutional policy]] with the professional realities students will face after graduation.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[authentic-assessment]]
+- [[generative-ai]]
+- [[academic-integrity]]
+- [[plagiarism-detection]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[ethics]]
+- [[privacy]]
+- [[agency]]
+- [[desirable-difficulties]]
+- [[student-engagement]]
+
+## Connected Articles
+
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic Assessment in Higher Education: A Scoping Review
+- [[agency-gap-ai-writing]] — The Agency Gap in AI Writing
+- [[critical-genai-use-predictors]] — Predictors of Critical GenAI Use
+- [[ying-genai-journalism-assessment-2026]] — GenAI in Journalism Assessment
+- [[cotal-formative-assessment-scoring-2026]] — Cotal: Formative Assessment Scoring
+
+## Citation
+
+Chowdhury, M. Z. U. S., & Khan, S. R. (2026). [*Evaluation in the age of AI: Output as evidence of learning*](https://arxiv.org/abs/2608.22660). arXiv:2608.22660.
 
 ---
 
@@ -43075,6 +43252,51 @@ The review identifies four critical gaps for future research: frameworks that mo
 ## Citation
 
 Rose, L. M. (2026). [*From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education*](https://osf.io/preprints/edarxiv/xs9ga_v2/). EdArXiv preprint.
+
+---
+
+## [Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering](https://edtechdev.github.io/aied/articles/mechanical-engineering-ai-curriculum-2026/)
+
+> **Synthesis:** Li et al. (2026) propose a project-based [[curriculum-design|AI education curriculum]] that integrates artificial intelligence into [[engineering-education|mechanical engineering]] at the University of Arkansas, with a particular emphasis on thermal problems and their interplay with electrical and computer engineering. Responding to the limited AI background, challenging traditional thermal system modeling, and heavy course loads common in mechanical engineering programs, the three-level curriculum (introductory, application, and advanced) embeds AI across existing thermal topics rather than adding standalone CS-oriented courses. The authors report that students, regardless of prior ML participation, showed strong enthusiasm for [[reinforcement-learning|machine learning]] and recognized its importance to [[faculty-development|professional development]], and that hands-on practice enhanced confidence and interest. The full syllabus, data, and code are released in open-access repositories.
+
+## Key Findings
+
+1. Mechanical engineering students often lack training in electrical/computer engineering and programming; the curriculum's AI-integrated pathway addresses this gap with a reasonable number of class hours.
+2. Traditional thermal system modeling relies on physical laws (conservation of energy, heat conduction, Navier-Stokes) that struggle to capture nonlinear, multiphysics, and multiscale behaviors — AI models offer a complement.
+3. The curriculum is structured at introductory, application, and advanced levels, covering core and optional AI projects that emphasize thermal problems and multidisciplinary communication.
+4. Prior work (e.g., vibration-signal ML integration) showed students exhibited strong enthusiasm for machine learning and recognized its critical importance to professional development, with hands-on practice significantly enhancing confidence and interest.
+5. The complete curriculum — syllabus, data, and code — is publicly available in open-access repositories, supporting adoption by other institutions.
+
+## Curriculum Design & Approach
+
+The proposed curriculum integrates AI directly into existing thermal engineering topics instead of requiring long-duration AI courses from computer science departments, which the authors argue would further increase academic workload. The three-tier structure (introductory, application, advanced) moves students from foundational AI models toward engineering-specific problem solving and multidisciplinary communication. This project-based approach mirrors [[project-based-learning]] principles, treating AI not as a standalone subject but as an engineering tool embedded in domain problems. The curriculum is available in open-access repositories, contributing to the broader movement of embedding computational and [[ai-literacy|AI literacy]] in [[stem-education]] and engineering programs.
+
+## Implications for AI in Education
+
+The paper demonstrates a disciplinary-embedded model for AI education: rather than generic [[cs-education|computer science]] ML courses oriented toward image recognition or NLP, it tailors AI content to the practical problems of a specific engineering subfield (thermal engineering). This supports the argument that [[ai-education]] and [[computational-thinking]] must be integrated into domain curricula with realistic workloads, project-based practice, and attention to [[teacher-role|educator]] capacity. The open-access release of syllabus, data, and code offers a reusable template for other engineering programs seeking to equip students with AI tools relevant to their discipline.
+
+## Connected Concepts
+
+- [[curriculum-design]]
+- [[engineering-education]]
+- [[project-based-learning]]
+- [[stem-education]]
+- [[ai-education]]
+- [[cs-education]]
+- [[computational-thinking]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[llm-intervention-design-cs-review]] — LLM Intervention Design in Undergraduate CS Education: A Scoping Review
+- [[principled-ai-education]] — Principled AI Education
+- [[reshaping-cs-education-genai]] — Reshaping CS Education with Generative AI
+- [[ai-disruption-engineering-education-chat-2026]] — AI Disruption in Engineering Education
+- [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
+
+## Citation
+
+Li, C., Hu, H., Dunlap, C., House, N., & Wai, J. (2026). [*Giving mechanical engineers intelligent tools: A project-based AI education curriculum in thermal engineering*](https://arxiv.org/abs/2608.26056). arXiv:2608.26056.
 
 ---
 

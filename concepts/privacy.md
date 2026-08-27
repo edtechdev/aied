@@ -1,7 +1,7 @@
 ---
 title: Privacy in AI Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T08:07:41.879764-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity, governance, educational-policy-ai]
@@ -40,6 +40,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
