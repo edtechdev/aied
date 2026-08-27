@@ -12,7 +12,7 @@ confidence: high
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
-#**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's generative AI — making learner agency the enduring axis of the field's debates.
+**[[mishra-control-vs-agency-history-2025|Mishra et al.]]** frame control vs. agency as the essential, recurring tension in AI in education — from early ITS to today's generative AI — making learner agency the enduring axis of the field's debates.
 
 ## How agency appears in the wiki's research
 
