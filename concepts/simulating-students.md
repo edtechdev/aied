@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-27T04:45:04.088676-04:00"
+updated: "2026-08-27T04:50:01.648908-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 confidence: high
@@ -24,7 +24,7 @@ The defining difficulty of student simulation is that LLMs are trained to be "he
 
 ### Fidelity over surface realism
 
-Validity is the central concern: a simulated student is only useful if its behavior is **epistemically faithful** — reflecting the intended learner's knowledge state — not merely linguistically plausible. Research warns against **sycophancy**, where a "simulated student" simply agrees with the tutor rather than exhibiting the misconceptions it was meant to embody. This connects to [[trust-calibration]] and to the broader problem of evaluating whether an agent genuinely models a construct rather than reproducing surface behavior.
+Validity is the central concern: a simulated student is only useful if its behavior is **epistemically faithful** — reflecting the intended learner's knowledge state — not merely linguistically plausible. Research warns against [[ai-sycophancy|sycophancy]], where a "simulated student" simply agrees with the tutor rather than exhibiting the misconceptions it was meant to embody. This connects to [[trust-calibration]] and to the broader problem of evaluating whether an agent genuinely models a construct rather than reproducing surface behavior.
 
 ### Connection to the wiki
 
@@ -33,6 +33,10 @@ Simulating students sits at the intersection of [[simulation]], [[student-modeli
 ### Authentic-data student models and interactive practice
 
 Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential teaching practice at the scale of massive online courses. Both point to simulation serving not only evaluation but hands-on teacher preparation.
+
+### Auditing AI with simulated students
+
+Beyond evaluating pedagogy, simulated students serve as a **test harness for auditing AI systems themselves** — a controlled way to probe how an AI behaves across diverse learner profiles before it touches real students. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] illustrate this: they generated 4,500 synthetic student vignettes with three LLMs to audit whether current [[llm|large language models]] can act as prescriptive [[learning-analytics]] recommenders, finding limited sensitivity to student need and sharp cross-model inconsistency. Using simulated cohorts to stress-test an AI's recommendations (rather than only to train or evaluate tutors) is a growing role for the paradigm, closely tied to [[ai-ed-evaluation|evaluating AI in education]] and to [[equity-in-ai-education]] when the audit is meant to surface disparate treatment across learner types.
 
 ## Connected Concepts
 
@@ -47,6 +51,7 @@ Two 2026 threads sharpen the practical value of simulation. First, **authentic-d
 - [[personalized-learning]]
 - [[generative-ai]]
 - [[llm]]
+- [[learning-analytics]]
 - [[teacher-role]]
 
 ## Connected Articles
