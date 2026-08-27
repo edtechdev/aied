@@ -2928,6 +2928,10 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 
 CoI is grounded in [[constructivist]] and Deweyan pragmatic traditions: inquiry is social, iterative, and driven by a felt difficulty that motivates the search for resolution.
 
+## CoI as a framework for online teaching
+
+CoI originated in, and remains most strongly associated with, [[online-teaching-and-learning|online teaching and learning]]. It provides a vocabulary for diagnosing *why* an online course works or fails: low [[student-engagement|engagement]] and isolation in asynchronous courses are usually failures of social and teaching presence, while surface discussion often reflects weak cognitive presence. This makes CoI a practical design lens for the very conditions the online medium creates — the removal of physical co-presence, the need for deliberate community-building, and the structuring of discussion that substitutes for face-to-face contact. In the [[generative-ai|generative-AI]] era, CoI is also where online instructors confront the hardest new questions: who is "present" when [[llm|LLM]] agents post, moderate, or respond, and how to keep the three presences meaningful when machine-generated discourse can mimic them. The wiki's online-teaching page therefore treats Community of Inquiry as the core framework for the social-presence and community-building strand of its recommended practice.
+
 ## CoI under generative-AI pressure
 
 GenAI destabilises the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s (see [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson]]). It can:
@@ -2941,8 +2945,8 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 ## Practical implications
 
 - The relationship between GenAI involvement and inquiry quality is **conditional on human accountability**, not linear: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
-- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — prompting and revision traces, disclosure and attribution practices, verification moves, and interaction logs.
-- Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions.
+- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — prompting and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the wiki's broader move toward [[authentic-assessment|authentic, process-revealing assessment]] and away from detection-based responses.
+- Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy|AI literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
 
 ## Connected Concepts
 
@@ -2955,6 +2959,9 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 - [[human-ai-collaboration]]
 - [[student-engagement]]
 - [[llm]]
+- [[ai-literacy]]
+- [[authentic-assessment]]
+- [[trust-calibration]]
 
 ## Connected Articles
 
@@ -8701,26 +8708,28 @@ Online teaching and learning takes several related forms that share the medium b
 
 - **Scalable personalization.** Traditional MOOCs excel at reach but struggle to adapt — "one video for N students." LLM-driven agent systems ([[mooc-to-maic|MAIC]]) invert this to "N agents for 1 student," using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver [[adaptive-learning|adaptive instruction]], personalized feedback, and dynamic learning paths at MOOC scale. Systems like [[learnmate2-llm-adaptive-learning|LearnMate²]] address the "personalization gap" in open online learning with personalized study plans, real-time contextual assistance, and [[adaptive-learning|adaptive]] activities.
 - **Always-on, context-embedded support.** In distance and [[adult-learning|adult learning]] contexts where learners study at work or at home, 24/7 support embedded in the course is a major benefit. The [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|Open University's AIDA assistant]] found purpose-built, in-environment GenAI support increased [[student-engagement|engagement]] (doubled usage time in an exploratory trial), with 96% of students wanting it in their formal studies.
-- - **Conversational, dialogic tutoring at scale.** Conversational AI tutors built on proven [[intelligent-tutoring|intelligent tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and misconceptions — that is far more scalable than human tutoring.
+- **Conversational, dialogic tutoring at scale.** [[conversational-ai|Conversational AI]] tutors built on proven [[intelligent-tutoring|intelligent tutoring]] technology ([[conversational-ai-tutors-framework|keep/change/center/study framework]]) promise high-quality, dialogue-based tutoring — engaging students' thoughts, questions, and misconceptions — that is far more scalable than human tutoring.
 - **Facilitation and analytics.** AI can support [[collaborative-learning|online discussions]] and [[learning-analytics|learning analytics]], forecasting engagement, and helping instructors allocate attention.
 - **Affordability and speed.** AI can generate course materials at a fraction of traditional cost — MAIC reduced MOOC course production from ~$25K/60 hours to under $2/30 minutes.
 
-## Challenges and risks of AI in online teaching and learning
+## Challenges of online teaching in the AI era
+
+The online medium and generative AI combine to intensify a specific cluster of challenges that instructors must confront head-on. Where face-to-face teaching can rely on presence, immediate accountability, and invigilation, online teaching must design explicitly for them.
 
 ### Academic integrity and cheating
 
-Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The wiki's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process.
+Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The wiki's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[plagiarism-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]]), and the wiki's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
 
-### Cognitive offloading and learning harm
+### AI misuse and cognitive offloading
 
 The most serious risk is that online learners outsource the very cognitive work that builds understanding. The [[genai-performance-vs-learning|performance–learning gap]] shows generative AI easily boosts immediate performance while bypassing the deep processing required for durable learning. Field evidence is direct:
 
-- A causal RCT (~1,000 high-school math students) found unguarded AI assistance raised practice performance **+48%** but reduced unassisted, closed-book exam scores **−17%** — the students who never had AI access outperformed those who did. A guardrailed hint-not-answer tutor eliminated the harm.
+- A causal RCT (~1,000 high-school math students) found unguarded AI assistance raised practice performance **+48%** but reduced unassisted, closed-book exam scores **−17%** — the students who never had AI access outperformed those who did. A [[guardrails|guardrailed]] hint-not-answer tutor eliminated the harm.
 - Population-scale behavioral data (3.2M ALEKS interactions) found study time on AI-susceptible problems fell **−26.9%** after ChatGPT's release, with a **−25% decline in odds of correct proctored retention items** — an effect that vanished under proctoring, pinning it on off-platform AI use.
 
-Online learning is particularly vulnerable: the medium already distances learners from immediate accountability, and self-paced, screen-based work invites the "ask for the answer" shortcut that [[cognitive-offloading|cognitive offloading]] research identifies as the core harm mechanism.
+Online learning is particularly vulnerable: the medium already distances learners from immediate accountability, and self-paced, screen-based work invites the "ask for the answer" shortcut that [[cognitive-offloading|cognitive offloading]] research identifies as the core harm mechanism. The response is not to ban AI but to apply [[guardrails]] — hint-not-answer scaffolding, knowledge grounding, and [[human-in-the-loop-ai|human oversight]] — so that AI augments rather than replaces learner cognitive work.
 
-### Other risks
+### Other challenges
 
 - **Over-eager AI facilitation.** LLM facilitators are excessively eager to intervene in online discussions, which can irritate participants and derail good conversation; human caution is the better model ([[llm-facilitation-timing-online-discussions|Tsirmpas et al.]]).
 - **Motivation erosion.** The perceived availability of an effortless AI shortcut reduces autonomous [[motivation]] and persistence, compounding learning harm.
@@ -8735,13 +8744,13 @@ Online learning is particularly vulnerable: the medium already distances learner
 - **Collaborative and discussion-based learning.** Structure online discussions and group work deliberately; use [[collaborative-learning]] activities and, when AI participates, calibrate its facilitation and its role as a peer.
 - **Authentic, process-revealing assessment.** Shift toward [[authentic-assessment|authentic assessment]] and assessments that capture process — drafts, oral defenses, self-explanation, reflective portfolios — which are more AI-resistant and reveal genuine understanding.
 - **Personalized and adaptive paths.** Use AI-enabled [[personalized-learning|personalization]] and [[adaptive-learning|adaptive]] activities to tailor pacing and difficulty, while keeping personalization deep (task sequencing, difficulty calibration) rather than merely surface-level (custom examples).
-- **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] — the core of the [[community-of-inquiry|Community of Inquiry]] framework — through companion AI, synchronous check-ins, and peer interaction, since online isolation is a key barrier to [[student-engagement|engagement]] and belonging.
+- **Social presence and community-building.** Deliberately cultivate social presence and [[collaborative-learning|community]] — the core of the [[community-of-inquiry|Community of Inquiry]] framework — through companion AI, synchronous check-ins, and peer interaction, since online isolation is a key barrier to [[student-engagement|engagement]] and belonging. In the AI era this means curating the three presences (cognitive, social, teaching) even as machine-generated discourse complicates who is "present" (see [[community-of-inquiry]]).
 - **Blended design thinking.** For hybrid formats, apply [[instructional-design]] principles to decide what is best done synchronously vs. asynchronously and online vs. in person, and how AI supports each.
 - **Human-in-the-loop governance.** Keep educators and [[teacher-role|instructors]] in the loop over AI tools, grounded in [[tpack|pedagogical content knowledge]], so pedagogical intent — not the tool's default — drives design.
 
 ## Implications for online instructors and instructional designers
 
-- **Guardrail the AI, don't just supply it.** Use hint-not-answer [[scaffolding]] that keeps learner cognitive work in the loop; the guardrailed-tutor RCT shows this eliminates the exam penalty that unguarded access causes.
+- **Guardrail the AI, don't just supply it.** Use hint-not-answer [[scaffolding]] that keeps learner cognitive work in the loop; the [[guardrails|guardrailed]]-tutor RCT shows this eliminates the exam penalty that unguarded access causes. See the [[guardrails]] concept for the full design layer ([[prompt-engineering|prompting]], [[rag|RAG]] grounding, training, QA).
 - **Design AI-resistant and proctored/unassisted assessments.** Because online grading often can't distinguish assisted from independent work, include closed-book, proctored, or process-revealing assessments to surface and discourage misuse ([[ai-misuse-learning-harm|AI misuse and learning harm]]).
 - **Teach AI literacy explicitly.** Help students recognize reliance patterns and calibrate trust ([[ai-literacy]]); build [[self-regulated-learning|self-regulation]] and [[metacognition]] to counter offloading.
 - **Embed AI in the learning environment, not as an external bolt-on.** Purpose-built, contextually-tuned assistants embedded in the course (like [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]]) outperform generic external chatbots and increase acceptance.
@@ -8777,6 +8786,10 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
+- [[guardrails]]
+- [[plagiarism-detection]]
+- [[pedagogical-safety]]
+- [[conversational-ai]]
 
 ## Connected Articles
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
