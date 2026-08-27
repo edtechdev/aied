@@ -11179,6 +11179,7 @@ Two 2026 threads sharpen the practical value of simulation. First, **authentic-d
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -42058,7 +42059,7 @@ Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intellige
 
 ## [Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation](https://edtechdev.github.io/aied/articles/lopez-pernas-llm-appropriate-student-support-2026/)
 
-> **López-Pernas et al. (2026)** generated 4,500 synthetic student vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for student support at scale.
+> **López-Pernas et al. (2026)** generated 4,500 [[simulating-students|synthetic student]] vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for student support at scale.
 
 ## Key Findings
 
@@ -42087,6 +42088,7 @@ For [[higher-ed]] institutions considering AI-driven student-support systems, th
 - [[bias-mitigation]]
 - [[ai-feedback-quality]]
 - [[higher-ed]]
+- [[simulating-students]]
 
 ## Connected Articles
 
