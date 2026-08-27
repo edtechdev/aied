@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [technology-acceptance-model, technology-adoption, utaut, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
 confidence: high
@@ -60,6 +60,7 @@ While adoption models are effective for predicting uptake, they are less well su
 - [[framing-ai-use-for-students]]
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
 - [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation

@@ -1,7 +1,7 @@
 ---
 title: AI Plagiarism Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-20T05:55:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, policy-maker, llm, assessment-validity, equity]
 
@@ -73,6 +73,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[ai-education]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
