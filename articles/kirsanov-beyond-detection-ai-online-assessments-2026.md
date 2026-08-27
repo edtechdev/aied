@@ -1,14 +1,14 @@
 ---
 title: "Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-08-27T11:21:46.201612-04:00"
+updated: "2026-08-27T11:38:38.333597-04:00"
 type: article
 tags: [ai-use-disclosure, academic-integrity, assessment, higher-ed, generative-ai, authentic-assessment]
 sources: ["https://doi.org/10.1007/s10805-025-09691-3"]
 confidence: high
 ---
 
-> **Students navigate [[governance|institutional]] AI ambiguity with caution and pragmatism — disclosure is rare, driven more by fear of penalties than by dishonesty.** Kirsanov, Kushwah, and Selvaretnam (2025/2026), a small case study of undergraduate economics students at the University of Glasgow (31/174 respondents), find that only about one-third report using AI in online assessments, and disclosure is rarer still. Non-disclosure appears to be **rational caution in the face of ambiguous policies and perceived academic risk**, not simple integrity violation. Students support guidance and structured [[regulation]], favor citation rules, and widely see real-world, data-based tasks as [[reducing-ai-misuse|reducing AI misuse]] — pointing toward [[authentic-assessment|authentic assessment]] and clear expectations over detection and deterrence.
+> **Students navigate [[governance|institutional]] AI ambiguity with caution and pragmatism — disclosure is rare, driven more by fear of penalties than by dishonesty.** Kirsanov, Kushwah, and Selvaretnam (2025/2026), a small case study of [[higher-ed|undergraduate]] economics students at the University of Glasgow (31/174 respondents), find that only about one-third report using AI in online assessments, and disclosure is rarer still. Non-disclosure appears to be **rational caution in the face of ambiguous policies and perceived academic risk**, not simple integrity violation. Students support guidance and structured [[regulation]], favor citation rules, and widely see real-world, data-based tasks as [[reducing-ai-misuse|reducing AI misuse]] — pointing toward [[authentic-assessment|authentic assessment]] and clear expectations over [[plagiarism-detection|detection]] and deterrence.
 
 ## Key Findings
 
