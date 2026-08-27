@@ -1,13 +1,13 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-08-27T11:21:46.201612-04:00"
+updated: "2026-08-27T11:38:38.333597-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
 confidence: high
 ---
 
-> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The wiki's research shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and help-seeking.
+> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The wiki's research shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].
 
 ## What AI use disclosure statements are
 
@@ -15,7 +15,7 @@ AI use declarations require or invite students to state whether and how they use
 
 ## Why disclosure matters for AI in education
 
-Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate feedback, or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
+Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback|feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
 
 ## What the research shows
 
