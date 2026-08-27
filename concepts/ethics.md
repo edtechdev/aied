@@ -1,34 +1,34 @@
 ---
 title: Ethics in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-27T11:21:46.201612-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
 ---
 
-> **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. AI education ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
+> **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. [[ai-education|AI education]] ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
 
-#- **[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]** surface faculty and student perceptions of AI's ethical dimensions, informing ethics-education and policy design.
+- **[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]** surface faculty and student perceptions of AI's ethical dimensions, informing ethics-education and policy design.
 
 ## Ethical dimensions
 
 - **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
-- **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them.
-- **Autonomy and agency:** [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes learner agency.
+- **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them. This extends to student-facing transparency about their own AI use — [[ai-use-disclosure|AI use and disclosure statements]] — which the research shows is shaped less by ethical conviction than by fear of penalties, stigma, and ambiguous policy (see [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al.]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al.]], [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves]]).
+- **Autonomy and agency:** [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes [[agency|learner agency]].
 - **Safety and harm prevention:** [[pedagogical-safety]] and [[ai-tutor-safety-harms|tutor harm research]] define ethical obligations for AI system developers.
 
 ### Ethics in practice
 
-The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time. A systematic review of empirical studies in [[engineering-education|engineering education]] finds that ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and societal wellbeing.^[[ethical-use-ai-engineering-education-review-2026]]
+The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time. A [[meta-analysis-systematic-review|systematic review]] of empirical studies in [[engineering-education|engineering education]] finds that ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and societal [[well-being|wellbeing]].^[[ethical-use-ai-engineering-education-review-2026]]
 
 ### Connections
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts.
 
-- **AI ethics is shifting toward situated practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows AI ethics discourse post-2021 increasingly frames ethics around professional judgement, trust, human-AI collaboration, and interpretive practice rather than only technical compliance — with education a conceptually important context.
+- **AI ethics is shifting toward [[situated-learning|situated]] practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows AI ethics discourse post-2021 increasingly frames ethics around professional judgement, trust, [[human-ai-collaboration|human-AI collaboration]], and interpretive practice rather than only technical compliance — with education a conceptually important context.
 ## Connected Concepts
 
 - [[business-education]]
@@ -38,6 +38,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[regulation]]
 - [[pedagogical-safety]]
 - [[academic-integrity]]
+- [[ai-use-disclosure]] — AI use and disclosure statements
 - [[governance]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
@@ -47,6 +48,10 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 174 concepts, 922 articles, and 15 FAQs.
+> Complete text of 175 concepts, 926 articles, and 15 FAQs.
 
 # Concepts
 
@@ -11,14 +11,14 @@ The arrival of generative AI has not created the need for academic integrity —
 
 ### The evolution from detection to redesign
 
-- **Detection skepticism:** [[plagiarism-detection]] research and institutional analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
+- **Detection skepticism:** [[plagiarism-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
 
 ### The rationalization problem
 
-Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside pedagogical goals. This is why [[student-misconceptions-ai|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
+Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[student-misconceptions-ai|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
 
 ### Why policy alone fails: the coordination problem
 
@@ -28,29 +28,34 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 
 Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulation-computing-education|Shame-and-guilt research]] with students shows these emotions regulate when and how AI use becomes visible, producing **hiding behaviors and selective disclosure** — and that they coexist with continued use, creating cycles of reduced agency and moral tension rather than behavior change. Students even describe their AI use in language of addiction. The implication: detection-heavy, surveillance-oriented policy risks **driving [[ai-misuse-learning-harm|misuse]] underground** rather than addressing it, undermining the candid negotiation that productive use requires.
 
+### AI use disclosure statements
+
+[[ai-use-disclosure|AI use and disclosure statements]] are the concrete mechanism through which integrity expectations are operationalized — and the research shows they often fail when treated as neutral compliance forms. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] found 74% of students failed to declare AI use on a mandatory coursework coversheet, driven by fear of penalties, guideline ambiguity, inconsistent enforcement, and peer norms. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] and [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] confirm that fear of retribution and unclear policy chill disclosure — and that transparent students can even draw suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] reframe disclosure as a [[help-seeking]]/[[self-regulated-learning|self-regulation]] behavior that anxiety redirects toward peers. The collective lesson: disclosure policies must address the [[affective-computing|affective]] and social barriers, be clear and consistent, and treat disclosure as [[formative-assessment|formative]] pedagogy rather than surveillance.
+
 ### Cultural and contextual variation
 
 Policy text does not equal policy perception. [[cross-cultural-student-perceptions-genai-computing|Cross-national research]] found that, despite functionally identical institutional policies, students at different universities rated the same AI-assisted practices differently — **culture, not policy wording, drove perceived wrongness**. Policy harmonization does not produce perception harmonization, so culturally diverse cohorts interpret the same rules differently, an equity concern for enforcement and grading that argues for scenario-based clarification over abstract rule statements.
 
 ### From policing to pedagogy
 
-The wiki documents a paradigm shift: from AI as an integrity threat to be policed, to AI as a tool whose appropriate use must be taught. This is the ethical dimension of [[ai-literacy]] and is embodied in practical design:
+The wiki documents a paradigm shift: from AI as an integrity threat to be policed, to AI as a tool whose appropriate use must be taught. This is the ethical dimension of [[ai-literacy]] and is [[embodied-learning|embodied]] in practical design:
 
 - **Task-specific AI-use declarations:** [[genai-declaration-frameworks-higher-education|Domain-specific declaration frameworks]] replace generic "I used AI" checkboxes with structured declarations mapping use to cognitive stages (e.g., structural planning vs. content generation), forcing reflection and shifting focus from policing to professional practice.
-- **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a conversational agent probing whether students understand their submissions) make human judgement, verification, and responsibility visible.
+- **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible.
 - **[[reducing-ai-misuse|Reducing misuse]]:** integrity sits alongside [[ai-misuse-learning-harm]] (the learning cost of misuse) and [[reducing-ai-misuse]] (the interventions that prevent it), tying honesty to genuine learning rather than rule-following.
 
 ### Connections
 
-Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of AI in education, inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
+Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
 
 - **Systematic-review synthesis.** A PRISMA review of 25 studies (Balalle & Pannilage 2025) finds AI acts as both a threat (AI-generated writing, paraphrasing tools) and a detection tool (Turnitin AI scores), that detection software is unreliable for AI-generated work, and that institutions must build a culture of academic integrity through clear policy, assessment redesign, and ethics training rather than policing alone.^[[ssaho-ai-academic-integrity-review-2025]]
-- **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine engagement, and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
+- **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine [[student-engagement|engagement]], and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
 
 - **GenAI defeats autogradable homework (2026):** ChatGPT passed every one of 150 test sessions on deliberately hardened, autogradable Qiskit (quantum computing) homework designs — personalisation, hidden references, reflections, simulator execution — showing that rubric-based graders cannot reliably distinguish AI-completed from student-completed work and arguing for direct assessment of understanding ([[chatgpt-qiskit-homework-autogradable-2026]]).
-- **Evaluation in the age of AI — output as evidence (2026):** a university-level analysis argues the AI assessment crisis is a misalignment between assessment design and learning outcomes, not just dishonesty; it documents surveillance harms (lockdown browsers, eye-tracking), a "Disclosure Trap" (students fear declaring AI use lowers marks), a performance gap that grades socioeconomic status (paid vs. free LLM tiers), and "pedagogical burnout" among faculty policing AI — recommending process-based evaluation over detection ([[evaluation-age-ai-output-evidence-2026]]).
+- **Evaluation in the age of AI — output as evidence (2026):** a university-level analysis argues the AI assessment crisis is a misalignment between assessment design and [[learning-gains|learning outcomes]], not just dishonesty; it documents surveillance harms (lockdown browsers, eye-tracking), a "Disclosure Trap" (students fear declaring AI use lowers marks), a performance gap that grades socioeconomic status (paid vs. free [[llm]] tiers), and "pedagogical burnout" among faculty policing AI — recommending process-based evaluation over detection ([[evaluation-age-ai-output-evidence-2026]]).
 
 ## Connected Concepts
+- [[ai-use-disclosure]] — AI use and disclosure statements
 
 - [[assessment-validity]]
 - [[ai-literacy]]
@@ -70,6 +75,10 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 
 ## Connected Articles
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
@@ -1159,6 +1168,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[human-ai-collaboration]] — Human-AI collaboration
 - [[equity-in-ai-education]] — Equity in AI education
 - [[ethics]] — AI ethics
+- [[ai-use-disclosure]] — AI use and disclosure statements
 - [[governance]] — AI governance
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
@@ -1642,6 +1652,64 @@ The technical strand is inseparable from the wiki's other themes:
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Factors in adopting AI tools
+
+---
+
+## [AI Use and Disclosure Statements](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/)
+
+> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The wiki's research shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and help-seeking.
+
+## What AI use disclosure statements are
+
+AI use declarations require or invite students to state whether and how they used generative AI in an assignment — typically on a coursework coversheet, submission form, or reflection prompt. Frameworks vary widely, from simple checkbox declarations to structured formats that document the model, the input, the purpose, and how the output was evaluated (e.g., the Model-Input-Evaluation/MInE framework). They range from **mandatory compliance mechanisms** (with penalties for non-disclosure) to **[[formative-assessment|formative]] practices** that treat disclosure as a [[pedagogy|pedagogical]] instrument for developing [[ai-literacy]], transparency, and self-[[regulation]]. The central design question is whether disclosure functions as surveillance or as a [[scaffolding|scaffold]] for ethical [[student-engagement|engagement]].
+
+## Why disclosure matters for AI in education
+
+Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate feedback, or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
+
+## What the research shows
+
+- **Disclosure is rare and anxiety-driven.** Across studies, most students do not disclose AI use to instructors. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] found only ~34% of economics students admitted AI use and disclosure was rarer, driven by "penalty anxiety." [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found 66% of students never or rarely disclosed, with fear of academic penalty the top reason. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at King's [[business-education|Business School]].
+- **Ambiguous and punitive policies drive concealment.** When AI-use policies are unclear, unenforced, or bans, students hide use rather than engage. "Limited use in certain situations" policies best predict disclosure; "not allowed" or "not aware" policies predict concealment. Clear, consistent, collaborative policies are repeatedly called for.
+- **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
+- **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
+- **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
+
+## Designing effective disclosure
+
+- **Clarity and consistency beat deterrence.** Develop clear, consistent, collaboratively-built AI policies with concrete examples of acceptable use and how to declare it; avoid punitive or vague frameworks that motivate concealment.
+- **Address the affective barrier.** Disclosure policies that target behavior alone are insufficient — normalize AI use, reduce perceived judgment and stigma, and reassure students that honest disclosure will not be penalized.
+- **Make disclosure formative, not just compliance.** Use reflection prompts and structured declarations (model/input/evaluation) so disclosure builds [[ai-literacy]] and self-regulation rather than functioning as surveillance.
+- **Train faculty to build trust, not rely on detection.** Disclosure should never be followed by accusation; faculty should learn trust-building conversations instead of leaning on unreliable AI detectors.
+- **Design for equity.** Attend to differential disclosure across disciplines, language status, and student backgrounds, and avoid mechanisms that place uneven burdens on already-marginalized learners.
+
+## Connections
+
+AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[plagiarism-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[ethics]]
+- [[trust]]
+- [[trust-calibration]]
+- [[governance]]
+- [[educational-policy-ai]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[ai-literacy]]
+- [[self-regulated-learning]]
+- [[help-seeking]]
+- [[equity-in-ai-education]]
+- [[generative-ai]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 
 ---
 
@@ -5119,27 +5187,27 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ## [Ethics in AI Education](https://edtechdev.github.io/aied/concepts/ethics/)
 
-> **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. AI education ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
+> **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. [[ai-education|AI education]] ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
 
-#- **[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]** surface faculty and student perceptions of AI's ethical dimensions, informing ethics-education and policy design.
+- **[[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]** surface faculty and student perceptions of AI's ethical dimensions, informing ethics-education and policy design.
 
 ## Ethical dimensions
 
 - **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
-- **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them.
-- **Autonomy and agency:** [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes learner agency.
+- **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them. This extends to student-facing transparency about their own AI use — [[ai-use-disclosure|AI use and disclosure statements]] — which the research shows is shaped less by ethical conviction than by fear of penalties, stigma, and ambiguous policy (see [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al.]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al.]], [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves]]).
+- **Autonomy and agency:** [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes [[agency|learner agency]].
 - **Safety and harm prevention:** [[pedagogical-safety]] and [[ai-tutor-safety-harms|tutor harm research]] define ethical obligations for AI system developers.
 
 ### Ethics in practice
 
-The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time. A systematic review of empirical studies in [[engineering-education|engineering education]] finds that ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and societal wellbeing.^[[ethical-use-ai-engineering-education-review-2026]]
+The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time. A [[meta-analysis-systematic-review|systematic review]] of empirical studies in [[engineering-education|engineering education]] finds that ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and societal [[well-being|wellbeing]].^[[ethical-use-ai-engineering-education-review-2026]]
 
 ### Connections
 
 Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts.
 
-- **AI ethics is shifting toward situated practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows AI ethics discourse post-2021 increasingly frames ethics around professional judgement, trust, human-AI collaboration, and interpretive practice rather than only technical compliance — with education a conceptually important context.
+- **AI ethics is shifting toward [[situated-learning|situated]] practice.** [[ai-ethics-bibliometric-2026|A bibliometric analysis of 282 articles]] shows AI ethics discourse post-2021 increasingly frames ethics around professional judgement, trust, [[human-ai-collaboration|human-AI collaboration]], and interpretive practice rather than only technical compliance — with education a conceptually important context.
 ## Connected Concepts
 
 - [[business-education]]
@@ -5149,6 +5217,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[regulation]]
 - [[pedagogical-safety]]
 - [[academic-integrity]]
+- [[ai-use-disclosure]] — AI use and disclosure statements
 - [[governance]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
@@ -5158,6 +5227,10 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Faculty and student views on ethical dimensions of AI
 - [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
@@ -5917,11 +5990,11 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 ## [AI Governance](https://edtechdev.github.io/aied/concepts/governance/)
 
-> **AI governance** — the frameworks, policies, institutional structures, and norms that guide the responsible design, deployment, and use of artificial intelligence in education. Governance spans formal institutional mechanisms (AI steering groups, policies on academic integrity and acceptable use, ethical review) and informal norms (faculty guidelines, professional development, cultures of [[reducing-ai-misuse|responsible AI use]]). In the AI era, effective governance is a prerequisite for ethical, equitable, and sustainable adoption of GenAI — it determines whether AI is integrated transparently, with accountability, or adopted reactively in ways that deepen inequities.
+> **AI governance** — the frameworks, policies, institutional structures, and norms that guide the responsible design, deployment, and use of [[ai-education|artificial intelligence in education]]. Governance spans formal institutional mechanisms (AI steering groups, policies on academic integrity and acceptable use, ethical review) and informal norms (faculty guidelines, professional development, cultures of [[reducing-ai-misuse|responsible AI use]]). In the AI era, effective governance is a prerequisite for ethical, [[equity-in-ai-education|equitable]], and sustainable adoption of GenAI — it determines whether AI is integrated transparently, with accountability, or adopted reactively in ways that deepen inequities.
 
-AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the role of educators as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment]] validity, and the [[teacher-role|role of educators]] as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
 
-#- **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** scoping review frames AI governance in higher education through anticipatory-governance and leadership lenses.
+- **[[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi]]** [[meta-analysis-systematic-review|scoping review]] frames AI governance in higher education through anticipatory-governance and leadership lenses.
 
 ## How AI governance appears in the research
 
@@ -5929,11 +6002,11 @@ AI governance in education is increasingly urgent because [[generative-ai|genera
 
 - **Leadership and systemic change:** [[leveraging-complex-systems-leading-for-transformative-change|SPARK]] frames governance within Complexity Leadership Theory, arguing leaders must balance administrative stability with emergent innovation, embedding governance mechanisms (policies, assessment regimes, accountability frameworks) so adaptive-space innovations can be sustained and scaled.
 
-- **Policy ambiguity and student experience:** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Students' engagement with GenAI]] found 12/23 students noted the lack of explicit institutional AI policies ("University doesn't have a clear and unified policy yet"), arguing governance ambiguity shapes students' practices, norms, and self-regulation — supporting a shift toward transparent institutional guidance.
+- **Policy ambiguity and student experience:** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Students' engagement with GenAI]] found 12/23 students noted the lack of explicit institutional AI policies ("University doesn't have a clear and unified policy yet"), arguing governance ambiguity shapes students' practices, norms, and [[self-regulated-learning|self-regulation]] — supporting a shift toward transparent institutional guidance.
 
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 
-- **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and regulatory debates in education.
+- **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and [[regulation|regulatory]] debates in education.
 
 ### Governance education
 
@@ -5941,7 +6014,7 @@ AI governance operates at two levels the wiki treats together: the *institutiona
 
 ### Assessment governance
 
-A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. The wiki's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[plagiarism-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinised). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines.
+A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. This includes the design and enforcement of [[ai-use-disclosure|AI use and disclosure statements]]: research shows that mandatory declarations fail when they feel punitive or ambiguous ([[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]), and that clear, consistent, trust-based policy is what actually fosters disclosure. The wiki's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[plagiarism-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinised). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines.
 
 ### Governance across levels
 
@@ -5958,6 +6031,7 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, this page focuses on the *structures and practices* that make rules real — steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
 ## Connected Concepts
+- [[ai-use-disclosure]] — AI use and disclosure statements
 
 - [[remote-proctoring]]
 - [[ethics]]
@@ -5977,6 +6051,10 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
@@ -23661,6 +23739,48 @@ Chang, Y., Liu, Q., Lu, Y., & Miao, E. (2026). [*Leveraging generative AI to fac
 
 ---
 
+## [\"Should I Tell My Teacher?\" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education](https://edtechdev.github.io/aied/articles/chang-should-i-tell-my-teacher-ai-disclosure-2026/)
+
+> **Student AI disclosure is not only a matter of policy compliance — it is an [[affective-computing|affective]] process intertwined with [[self-regulated-learning|self-regulated learning]].** Chang, Lin, Huang, and Ryoo (2026), studying 78 undergraduates, find that students' worries about judgment, stigma, dependence, and replacement are associated with greater concealment and peer-only disclosure, while teacher-directed disclosure is consistent with adaptive [[help-seeking]]. A key finding: **anxiety does not suppress disclosure wholesale — it redirects it** toward safer peer outlets, cutting students off from the instructor feedback that could calibrate their AI use. Disclosure norms vary by discipline and language, and do not develop automatically with academic progression.
+
+## Key Findings
+
+- **Worry redirects disclosure toward peers, not outright suppression.** Higher worry was associated with a desire for total non-disclosure and peer-only sharing, but not with lower disclosure to teachers directly. Anxious students did not stop talking about AI — they moved the conversation to peers, who cannot give the calibrated feedback teachers can.
+- **Two interpretive response patterns emerge:** a *transparent tendency* (disclosing to teachers, checking with instructors, treating instructor interaction as an external regulatory checkpoint) and an *anxious-concealing tendency* (frequent AI use for substantive tasks paired with elevated worry and withdrawal from formal feedback — consistent with maladaptive [[regulation]]).
+- **Heavy AI users are both most worried and least connected to feedback.** Students who frequently uploaded drafts for AI review reported the highest worry, more secrecy, and no increase in teacher disclosure — the group at greatest risk of passive, uncritical reliance, and least likely to receive instructional attention.
+- **Discipline is the strongest predictor of disclosure to teachers.** Education, Social Sciences, and [[stem-education|STEM]]/Health students reported higher disclosure than Business students (with [[humanities-education|Humanities]] not differing from Business). Language status was marginal (monolingual students tended to disclose less); years of study did not predict disclosure.
+- **Disclosure ≠ help-seeking, but can make it visible.** Help-seeking is obtaining assistance; disclosure makes that assistance visible to others. The two are logically and temporally separable.
+
+## Implications
+
+- **Behavior-only disclosure policies (mandatory declarations) are insufficient** if they don't address the affective barriers — judgment, stigma, fear of penalty — that drive concealment.
+- **Normalize AI use and reduce perceived judgment** through classroom practices, instructor-led examples, and reassurance that disclosure will not be penalized, to lower the social cost of transparency.
+- **Provide low-barrier disclosure mechanisms** — in-assignment reflection prompts, opt-in consultation, embedded AI-use reflection tools — so disclosure feels like learning regulation, not confession.
+- **Cultivate disclosure norms deliberately;** students do not "grow into" transparency with academic progression, so [[scaffolding|scaffold]] it from the first year.
+
+## Connected Concepts
+
+- [[ai-use-disclosure]]
+- [[self-regulated-learning]]
+- [[help-seeking]]
+- [[academic-integrity]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+
+## Citation
+
+Chang, D. H., Lin, M. P. C., Huang, J.-Y., & Ryoo, J. (2026). "Should I tell my teacher?" Student AI disclosure practices, stigma, and self-regulated learning in higher education. *Frontiers in Education, 11*, 1826174. [https://doi.org/10.3389/feduc.2026.1826174](https://doi.org/10.3389/feduc.2026.1826174)
+
+---
+
 ## [A CHAT-Anchored Learning Analytics Pipeline for AI Literacy Education](https://edtechdev.github.io/aied/articles/chat-anchored-learning-analytics-ai-literacy-2026/)
 
 > **Synthesis:** Moon (2026) develops a Cultural-Historical Activity Theory (CHAT)-anchored [[learning-analytics|learning analytics]] pipeline that couples three facets — temporal participation, discourse quality, and concept sophistication — each mapped to CHAT activity-system elements, to support early detection and social-epistemic integration in small discussion-based [[ai-literacy|AI literacy]] classes. Deployed in a five-week AI literacy course (n = 25; 438 posts), DTW-based k-medoids clustering identified two stable participation archetypes (validated via bootstrap silhouette analysis); discourse quality showed modest lexical gains while reasoning depth stagnated and overall concept sophistication declined (Δz = –1.24). An Isolation-Forest detector flagged Week 2 volatility two weeks before participation decline, and automated discourse-quality scores converged with human-coded [[icap-framework|ICAP]] levels. The study demonstrates how a theory-aware, effect-size-centered workflow delivers interpretable insights and early warnings in a single small class without network-reconstruction overhead.
@@ -35210,6 +35330,47 @@ Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive
 
 ---
 
+## [Addressing Student Non-Compliance in AI Use Declarations: Implications for Academic Integrity and Assessment in Higher Education](https://edtechdev.github.io/aied/articles/gonsalves-student-non-compliance-ai-declarations-2025/)
+
+> **Fear, ambiguity, inconsistent enforcement, and peer influence drive students to avoid AI use declarations — even when declaration is mandatory.** Gonsalves (2025), a [[mixed-methods-research|mixed-methods]] study at King's [[business-education|Business School]] where **74% of students failed to declare AI use** despite it being required on a coursework coversheet, uses the Theory of Planned Behaviour (TPB) to explain non-compliance. Students view declaration as risky self-incrimination rather than a neutral administrative task, and the blurring of authorship by [[generative-ai|generative AI]] challenges traditional [[academic-integrity]] norms. Clear, consistent, and trust-based policies are needed to foster [[ethics|ethical]] AI use.
+
+## Key Findings
+
+- **Non-compliance is high and strategic.** 74% of students failed to declare AI use despite a mandatory declaration on the coursework coversheet. Non-compliance is often a deliberate decision driven by fear of academic repercussions, not ignorance or negligence.
+- **Four barriers to disclosure:** (1) fear of academic penalties, (2) ambiguous guidelines about what counts as "AI use," (3) perceived inconsistency in enforcement across courses/instructors, and (4) peer influence and competition ("everyone is using it"; "ChatGPT is like the fourth man" in group work).
+- **The declaration felt like self-incrimination.** Placing the AI declaration alongside plagiarism statements fostered suspicion; students described it as "admitting to something wrong." Many believe AI use should remain private, like using a calculator.
+- **TPB helps but needs extension.** Attitudes, subjective norms, and perceived behavioural control explain compliance, but GenAI's ethical ambiguity, internalized peer norms, and the [[philosophy-of-ai-in-education|philosophical]] divide over whether AI is a personal tool or a resource requiring disclosure complicate the model.
+- **Students want better support.** They recommended clearer guidelines, a "checklist" for AI declarations, workshops on ethical AI use, consistent enforcement, and a "friendly," trust-based policy rather than suspicion and punishment.
+
+## Implications
+
+- **Develop clear, consistent AI use policies** with detailed examples of acceptable use and how to declare it, tailored to course and student needs.
+- **Train faculty** for consistent communication and enforcement.
+- **Reframe [[educational-policy-ai|AI policies]] toward innovation and ethical responsibility**, not just compliance — present AI as a learning-enhancement tool to reduce fear of self-incrimination.
+- **Build [[governance|institutional]] trust** — supportive, transparent environments where honest declarations are assessed fairly; introduce AI use in low-stakes [[formative-assessment|formative]] assessments first to normalize declarations.
+
+## Connected Concepts
+
+- [[ai-use-disclosure]]
+- [[academic-integrity]]
+- [[assessment]]
+- [[educational-policy-ai]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+
+## Citation
+
+Gonsalves, C. (2025). Addressing student non-compliance in AI use declarations: Implications for academic integrity and assessment in higher education. *Assessment & Evaluation in Higher Education, 50*(4), 592–606. [https://doi.org/10.1080/02602938.2024.2415654](https://doi.org/10.1080/02602938.2024.2415654)
+
+---
+
 ## [Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education](https://edtechdev.github.io/aied/articles/governing-unseen-ai-literacy-language-teachers-2026/)
 
 > **Synthesis:** Deng, Çelik and Duran (2026) systematically review 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy]] among language teachers in [[higher-ed]], framed by the "governing the unseen" lens that prefigures institutional policy. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy]] is overwhelmingly conceptualised through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education]] is largely unstructured, [[assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative teaching. The review concludes that durable, equitable AI literacy demands structural [[governance]] rather than individual upskilling.
@@ -38766,6 +38927,47 @@ This paper anchors the wiki's [[productive-failure]] concept with an AI-specific
 ## Citation
 
 Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications and AI system design principles*](https://doi.org/10.1007/s11423-026-10655-6). *Educational Technology Research & Development*. DOI: 10.1007/s11423-026-10655-6.
+
+---
+
+## [Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It](https://edtechdev.github.io/aied/articles/kirsanov-beyond-detection-ai-online-assessments-2026/)
+
+> **Students navigate [[governance|institutional]] AI ambiguity with caution and pragmatism — disclosure is rare, driven more by fear of penalties than by dishonesty.** Kirsanov, Kushwah, and Selvaretnam (2025/2026), a small case study of undergraduate economics students at the University of Glasgow (31/174 respondents), find that only about one-third report using AI in online assessments, and disclosure is rarer still. Non-disclosure appears to be **rational caution in the face of ambiguous policies and perceived academic risk**, not simple integrity violation. Students support guidance and structured [[regulation]], favor citation rules, and widely see real-world, data-based tasks as [[reducing-ai-misuse|reducing AI misuse]] — pointing toward [[authentic-assessment|authentic assessment]] and clear expectations over detection and deterrence.
+
+## Key Findings
+
+- **Reported AI use is moderate, and disclosure is rare.** Only ~34% of respondents acknowledged AI use; most uses were supportive (proofreading, rewording, brainstorming), and no student reported submitting a full AI-generated answer. Many opted out of reporting AI use early in the survey — interpreted as **strategic self-presentation** rather than proof of non-use.
+- **Fear of penalties is the dominant barrier to disclosure.** About three-quarters of respondents worried about being penalized for AI use, even when use was moderate or constructive ("penalty anxiety"). This is consistent with broader UK/international survey evidence.
+- **[[ethics|Ethical]] anxiety predicts lower disclosure.** Logistic regression found students with greater ethical anxiety (fear of penalties, unfair access, undermining learning) were less likely to disclose AI use. Notably, UK nationals disclosed significantly more than international students.
+- **Students want guidance, not bans.** Most agreed AI is acceptable when used supportively, and many welcomed clearer citation rules and institutional guidance. Views on a blanket ban were divided.
+- **Authentic, data-rich tasks are the promising lever.** Students widely supported real-world, data-based tasks as reducing [[cognitive-offloading|over-reliance]] on AI — by design rather than deterrence.
+
+## Implications
+
+- **Align assessment with authentic tasks and clear expectations** rather than relying on detection and deterrence.
+- **Address the [[affective-computing|affective]] barrier:** students' fear of penalty suppresses disclosure even of legitimate, supportive use — policies must signal that honest disclosure will not be punished.
+- **Provide clear citation and use guidance** so students have the framework and confidence to disclose voluntarily.
+- **Consider [[equity-in-ai-education|equity]]:** international students disclosed less, raising [[bias-mitigation|fairness]] concerns about access to and understanding of AI tools.
+
+## Connected Concepts
+
+- [[ai-use-disclosure]]
+- [[academic-integrity]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
+
+## Citation
+
+Kirsanov, O., Kushwah, L., & Selvaretnam, G. (2026). Beyond detection: How students use—and hide—AI in online assessments and what authentic tasks can do about it. *Journal of Academic Ethics, 24*, 14. [https://doi.org/10.1007/s10805-025-09691-3](https://doi.org/10.1007/s10805-025-09691-3)
 
 ---
 
@@ -57611,6 +57813,48 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 ## Citation
 
 Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding*](https://arxiv.org/abs/2608.09698). arXiv:2608.09698 (cs.HC); UIST 2026.
+
+---
+
+## [The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations](https://edtechdev.github.io/aied/articles/vetter-hidden-cost-disclosure-genai-2026/)
+
+> **Transparency about [[generative-ai|GenAI]] use carries a hidden cost: students who disclose may be more likely to be accused.** Vetter et al. (2026), a multi-[[governance|institutional]] survey of 560 undergraduates across four Northeastern U.S. institutions, find that nearly two-thirds of students never or rarely disclose GenAI use to instructors, and that punitive or ambiguous course policies encourage concealment. Strikingly, students who "always" disclosed their AI use had **over three times the odds of being accused by their instructors** — an ironic pattern where greater transparency correlates with greater suspicion, revealing a fragile trust relationship and the hidden costs students incur for being honest.
+
+## Key Findings
+
+- **Most students do not disclose.** 66% of GenAI-using students never or rarely disclosed their use to instructors; only ~10% always did. Frequent (daily/weekly) users were significantly more likely to rarely disclose and less likely to always disclose.
+- **Punitive and unclear policies drive concealment.** Students were more likely to never disclose when they were "not aware of course policies" or when AI was "not allowed." A "limited use in certain situations" policy was the strongest positive predictor of disclosure. Nearly 30% were unaware of their courses' [[educational-policy-ai|AI policies]] or had policies unaddressed in the syllabus.
+- **Transparency is risky.** Students who always disclosed had over 3× the odds of being accused. Moderate users were most likely to be wrongly accused; heavy and always-disclosing students drew suspicion. Fear of academic penalty was the most common reason for non-disclosure.
+- **Students want clarity and collaboration.** Most students want clear, unified policies that allow GenAI for brainstorming/research/studying, and support collaborative policy development between faculty and students.
+- **Trust is fragile.** While 92% of students viewed AI as at least somewhat positive for learning, the fear of retribution and inconsistent policies chill honest disclosure.
+
+## Implications
+
+- **Create clear, consistent, transparent AI policies** developed collaboratively with students — punitive or vague policies motivate concealment rather than openness.
+- **Train faculty to build trust, not rely on detection.** Faculty should learn trust-building conversations rather than leaning on unreliable [[plagiarism-detection|AI detection]] tools; disclosure should never be followed by accusation.
+- **Reframe disclosure as collaborative, not confession** — invite students to articulate how and why they used GenAI, positioning it as part of learning rather than misconduct.
+- **Watch for [[equity-in-ai-education|equity]] and irony:** students who are most transparent may be disproportionately scrutinized, undermining the very trust disclosure is meant to build.
+
+## Connected Concepts
+
+- [[ai-use-disclosure]]
+- [[trust]]
+- [[trust-calibration]]
+- [[academic-integrity]]
+- [[educational-policy-ai]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+
+## Citation
+
+Vetter, M. A., Farag, I., Jiang, J., Lucia, B., & Silvestro, J. J. (2026). The hidden cost of disclosure: A multi-institutional study on undergraduate students' generative AI usage and faculty accusations. *SSRN*. [https://doi.org/10.2139/ssrn.5755762](https://doi.org/10.2139/ssrn.5755762)
 
 ---
 

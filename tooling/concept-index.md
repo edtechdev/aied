@@ -324,6 +324,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`ai-literacy`** — AI Literacy
 - **`ai-misuse-learning-harm`** — AI Misuse and Learning Harm
 - **`ai-sycophancy`** — AI Sycophancy
+- **`ai-use-disclosure`** — AI Use and Disclosure Statements
 - **`ai-technologies`** — AI Technologies and Techniques in Education
 - **`assessment-validity`** — Assessment Validity in AI Education
 - **`assessment`** — Assessment
