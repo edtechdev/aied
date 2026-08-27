@@ -1173,7 +1173,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
 ## Connected Articles
-- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
