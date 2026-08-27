@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 172 concepts, 908 articles, and 14 FAQs.
+> Complete text of 172 concepts, 909 articles, and 14 FAQs.
 
 # Concepts
 
@@ -1230,13 +1230,13 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -2376,6 +2376,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -4878,6 +4879,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **The digital divide:** [[digital-divide|Unequal access]] to AI-powered learning tools across socioeconomic lines, regions, and nations is a foundational barrier.  documents how generative AI benefits are distributed unevenly across countries and institutions.
 - **Access is not enough:** [[access-not-enough-ai-tutoring-2026|Providing AI tools without addressing structural barriers]] does not close gaps — access must be paired with skills, support, and conditions that enable genuine use.
 - **Infrastructure disadvantage:** [[structural-silence-underrepresented-language-ai-2026|Structural Silence]] shows that AI *infrastructure* — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural rather than incidental problem.
+- **Model-specific demographic priors in synthetic data:** [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] found that when LLMs generated student vignettes, each model imposed distinct demographic tendencies — GPT produced more Global North profiles and used they/them pronouns, Qwen produced more Global South profiles, and Mistral skewed toward she/her. Even the *construction* of learner data by an LLM thus carries regional and gendered priors that can propagate into downstream recommendations, an under-examined equity risk.
 - **Socioeconomic gradients:** [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] and [[generative-ai-education-productivity-gaps|productivity-gap experiments]] examine how AI can either narrow or widen gaps among different learner groups.
 
 ## Representational equity
@@ -4964,6 +4966,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Highlights absence of low-income-country evidence
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -5712,6 +5715,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Finds no advantage for generative over first-gen adaptive tools
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — GenAI-supported AI literacy tools
 - [[liu-emerging-tech-tefl-review-2026]] — AI-powered EFL tools
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -6172,6 +6176,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[isaza-chatgpt-engineering-prompting-2026]] — Engineering students' ChatGPT use
 
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -6349,6 +6354,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 
 HITL is a response to the limits and risks of fully autonomous AI in education: automated systems can generate at scale but lack the contextual, ethical, and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
 
+Prescriptive support is a domain where human oversight is increasingly argued to be non-optional. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] tested whether three LLMs could recommend student-support plans from [[learning-analytics]] indicators and found limited sensitivity to need and sharp cross-model inconsistency — concluding that human-in-the-loop judgment is still necessary before LLM prescriptive advising can be deployed safely and ethically.
+
 ## CODE-GEN: Human-in-the-Loop MCQ Generation
 
 Duan et al. (2026) built a [[rag|RAG]]-based [[agentic-ai|agentic]] system with two agents:
@@ -6425,7 +6432,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[ai-literacy-legal-translation-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[becerra-aicofe-feedback-2026]]
-- [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
 - [[chatgpt-critical-creative-thinking-review]]
 - [[civic-education-ai-lesson-plans]]
@@ -6454,6 +6460,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -7328,6 +7335,8 @@ Language learning has emerged as a significant AI in education domain because la
 
 Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with human oversight preserved.
 
+A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]], who asked three LLMs to recommend support plans for 4,500 synthetic student vignettes. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
+
 ### Connections
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the ethical constraint), and [[edtech-platform]] (where analytics are deployed).
@@ -7383,6 +7392,7 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -7822,6 +7832,8 @@ LLMs are the most-referenced concept in the wiki (60+ articles) because they und
 
 The wiki covers both general-purpose LLMs (GPT-4, Claude) and education-specific adaptations. [[cstutorbench-slm-tutors|Small language model benchmarks]] compare SLM performance for tutoring. [[educational-llm-alignment|Educational alignment]] research addresses how to make LLMs pedagogically appropriate.
 
+Model differences also matter for high-stakes downstream uses. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] showed that three LLMs produced sharply divergent student-support prescriptions for the same [[learning-analytics|learning-analytic]] input, and each imposed distinct demographic priors on the learner profiles they generated — evidence that off-the-shelf LLMs are not interchangeable as prescriptive advisors.
+
 ### Connections
 
 LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]] (how outputs are controlled), [[rag]] (knowledge grounding), [[hallucination-risk]] (the primary limitation), and [[pedagogical-safety]] (educational guardrailing).
@@ -7894,6 +7906,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -12492,6 +12505,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -42039,6 +42053,52 @@ This review connects [[student-engagement]] and [[student-engagement]] to the ce
 ## Citation
 
 Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods*](https://doi.org/10.3389/feduc.2025.1648661). *Frontiers in Education*, 10, 1648661. https://doi.org/10.3389/feduc.2025.1648661
+
+---
+
+## [Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation](https://edtechdev.github.io/aied/articles/lopez-pernas-llm-appropriate-student-support-2026/)
+
+> **López-Pernas et al. (2026)** generated 4,500 synthetic student vignettes with three LLMs (GPT-5-mini, Mistral-Medium-2508, Qwen-Plus) to test whether current large language models can act as *prescriptive* [[learning-analytics]] tools — adaptively recommending the level, duration, and type of academic support matched to student need. They find that LLMs show **limited sensitivity** to LA indicators of student need and **considerable inconsistency across models**, concluding that current LLMs are not yet reliable as prescriptive models for student support at scale.
+
+## Key Findings
+
+1. **LLMs show limited sensitivity to student need.** Correlations between LA indicator levels and recommended support are statistically significant (after FDR correction) but mostly weak in magnitude (e.g. GPT r = −0.20 for support level). Only Mistral showed strong differentiation — an almost deterministic correlation between LA level and support duration (r = −0.90) — while GPT showed modest differentiation and Qwen nearly none. Statistical significance was largely driven by the large sample size rather than substantive effects.
+2. **Support was frequently allocated without regard to who needed it most.** Recommendations were often offered to both at-risk and thriving students, sometimes favoring those already well-resourced — contradicting the Multi-Tiered System of Supports (MTSS) assumption that the greatest needs should receive the most intensive, individualized support.
+3. **Large cross-model inconsistency.** The three LLMs diverged sharply in what they recommended. GPT favored resource-based/self-paced support (mean support level 3.96, duration 7.86h); Mistral mostly prescribed individualized or hybrid support (mean level 6.77, duration 6.70h); Qwen favored instructor/advisor-led and peer-based support (mean level 4.77, longest duration 9.00h). The same student profile can therefore yield very different prescriptions depending on the model used.
+4. **Model-specific behavioral biases surfaced in the synthetic data.** GPT generated more Global North profiles and used they/them pronouns; Qwen generated more [[global-south|Global South]] profiles; Mistral skewed toward she/her. These downstream demographic distributions indicate the models carry regional and gendered tendencies into the profiles they construct, with implications for [[equity-in-ai-education]].
+5. **LLMs are not yet reliable as prescriptive models at scale.** The authors conclude that current models cannot ethically, consistently, and reliably deliver student-support prescriptions, and argue that extensive evaluation, fine-tuning, and [[reinforcement-learning|reinforcement learning]] — plus a **human in the loop** — remain necessary before deployment.
+
+## Implications
+
+The study operationalizes the "prescriptive" step of the LA intervention cycle that prior dashboards and visualizations leave to human interpretation, testing whether [[llm|large language models]] can directly convert LA indicators into actionable support plans. Its negative findings are a deliberate caution against the assumption that LLMs can scale [[learning-analytics]]-informed advising without checks.
+
+The weak correlation between need and recommended support — alongside outright cross-model disagreement about what a given student requires — means that deploying an off-the-shelf LLM as a prescriptive advisor could systematically mis-allocate support. This is a [[governance]] and safety concern for [[human-in-the-loop-ai]] in education: the authors position human oversight as essential rather than optional, consistent with the wider argument that AI-generated [[feedback]] and recommendations should be treated as drafts for educator curation rather than final deliverables.
+
+The observed demographic skews (Global North vs. Global South profiles, gendered pronoun distributions) connect to broader concerns in [[bias-mitigation]] and [[equity-in-ai-education]]: even the *construction* of student data by LLMs carries model-specific demographic priors that can propagate into downstream recommendations. Methodologically, the study's synthetic vignette design — isolating behavioral traits and LA indicators one at a time in the spirit of the Winograd Schema — offers a reusable template for auditing LLM behavior before deployment.
+
+For [[higher-ed]] institutions considering AI-driven student-support systems, the practical implication is caution: prescriptive analytics cannot yet substitute for advisor judgment, and any LLM-based recommendation layer should be validated against need-based allocation, monitored for per-model inconsistency, and kept under human supervision.
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[llm]]
+- [[human-in-the-loop-ai]]
+- [[equity-in-ai-education]]
+- [[bias-mitigation]]
+- [[ai-feedback-quality]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-decision-support-online-learning-assessment-2026]] — AI decision support in online learning assessment
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
+- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating trustworthiness of LLMs in education
+- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-powered feedback system with teacher-in-the-loop mediation
+
+## Citation
+
+López-Pernas, S., Oliveira, E., Misiejuk, K., Deriba, F. G., Kaliisa, R., & Saqr, M. (2026). [*Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation*](https://doi.org/10.1016/j.chbah.2026.100357). Computers in Human Behavior: Artificial Humans, 9, 100357.
 
 ---
 

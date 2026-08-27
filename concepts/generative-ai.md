@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-27T04:35:06.336963-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
 
@@ -92,3 +92,4 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Finds no advantage for generative over first-gen adaptive tools
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — GenAI-supported AI literacy tools
 - [[liu-emerging-tech-tefl-review-2026]] — AI-powered EFL tools
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
