@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -20,7 +20,7 @@ A landmark [[history-of-aied|historical]] perspective, **[[mishra-control-vs-age
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
 
 - **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more). This includes the distinct pedagogical context of [[online-teaching-and-learning|online teaching and learning]] — where the digital medium shapes which strategies (and AI risks) are viable.
-- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
+- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
 - **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED.
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
 - **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the feedback loop, [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]). Feedback sits at the intersection of assessment and learning — without it, assessment measures performance but does not improve it.
@@ -89,6 +89,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[ai-literacy]] — AI literacy
 - [[ai-technologies]] — AI technologies and techniques
 - [[intelligent-tutoring]] — Intelligent tutoring systems
+- [[cognitive-psychology]] — Cognitivism / cognitive psychology
 - [[generative-ai]] — Generative AI
 - [[llm]] — Large language models
 - [[ai-ed-evaluation]] — AI ed evaluation

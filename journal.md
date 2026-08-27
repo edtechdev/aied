@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1097
+**Last updated:** 2026-08-27 | **Total entries:** 1098
 
 
 ## 2026-08-27
@@ -40,6 +40,8 @@
   Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?
 - ◐ [[seung-basham-cognitive-offloading-swld-2026]] — 'raw/papers/seung-basham-cognitive-offloading-swld-2026.md'
   Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
+
+- 🏷️ [[cognitive-psychology]] — Cognitive Psychology / Cognitivism
 
 ## 2026-08-26
 

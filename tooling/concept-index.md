@@ -340,6 +340,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`chemistry-education`** — Chemistry Education
 - **`cognitive-diagnosis`** — Cognitive Diagnosis
 - **`cognitive-offloading`** — Cognitive Offloading
+- **`cognitive-psychology`** — Cognitive Psychology
 - **`collaborative-learning`** — Collaborative Learning
 - **`community-of-inquiry`** — Community of Inquiry
 - **`computational-thinking`** — Computational Thinking

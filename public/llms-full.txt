@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 173 concepts, 922 articles, and 15 FAQs.
+> Complete text of 174 concepts, 922 articles, and 15 FAQs.
 
 # Concepts
 
@@ -1072,7 +1072,7 @@ A landmark [[history-of-aied|historical]] perspective, **[[mishra-control-vs-age
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
 
 - **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more). This includes the distinct pedagogical context of [[online-teaching-and-learning|online teaching and learning]] — where the digital medium shapes which strategies (and AI risks) are viable.
-- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
+- **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
 - **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED.
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
 - **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the feedback loop, [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]). Feedback sits at the intersection of assessment and learning — without it, assessment measures performance but does not improve it.
@@ -1141,6 +1141,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[ai-literacy]] — AI literacy
 - [[ai-technologies]] — AI technologies and techniques
 - [[intelligent-tutoring]] — Intelligent tutoring systems
+- [[cognitive-psychology]] — Cognitivism / cognitive psychology
 - [[generative-ai]] — Generative AI
 - [[llm]] — Large language models
 - [[ai-ed-evaluation]] — AI ed evaluation
@@ -2221,7 +2222,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 ## [Behaviorism](https://edtechdev.github.io/aied/concepts/behaviorism/)
 
-> **Behaviorism** — the learning theory that treats learning as a change in observable behavior produced by stimulus–response associations and reinforcement, rather than by changes in internal mental states. In AI in education, behaviorist principles underlie the drill-and-practice, immediate-feedback, and adaptive-pacing designs that dominate many [[intelligent-tutoring]] and [[adaptive-learning]] systems.^[[ai-vocational-education-training-review]]
+> **Behaviorism** — the learning theory that treats learning as a change in observable behavior produced by stimulus–response associations and reinforcement, rather than by changes in internal mental states. In [[ai-education|AI in education]], behaviorist principles underlie the drill-and-practice, immediate-feedback, and adaptive-pacing designs that dominate many [[intelligent-tutoring]] and [[adaptive-learning]] systems.^[[ai-vocational-education-training-review]]
 
 Behaviorism holds that learning is the strengthening or weakening of stimulus–response connections through reinforcement, and that unobservable mental constructs are poor explanations of learning. Its applied legacy in education is **programmed instruction and drill-and-practice**: presenting content in small steps, eliciting a response, and immediately reinforcing correct answers. These principles map cleanly onto the mechanics of [[adaptive-learning]] and [[intelligent-tutoring]] systems, which adapt pacing and difficulty to student responses and provide immediate feedback.
 
@@ -2236,7 +2237,7 @@ Behaviorism holds that learning is the strengthening or weakening of stimulus–
 
 ### Behaviorist designs dominate practice
 
-Empirical work repeatedly finds that actual AI implementations are predominantly **behaviorist or cognitively oriented** — emphasizing drill-and-practice, immediate [[feedback]], and adaptive pacing — even where discourse espouses richer theories. A systematic review of AI in vocational education and training (VET) concluded that constructivist theories are espoused in VET discourse while **behaviorist AI implementations dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
+Empirical work repeatedly finds that actual AI implementations are predominantly **behaviorist or cognitively oriented** — emphasizing drill-and-practice, immediate [[feedback]], and adaptive pacing — even where discourse espouses richer theories. A [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training (VET) concluded that constructivist theories are espoused in VET discourse while **behaviorist AI implementations dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
 
 ### The tension with constructivism and agency
 
@@ -2253,7 +2254,7 @@ The design question is not whether behaviorism is "right" but whether a given AI
 
 ## Behaviorism and "education about AI"
 
-Behaviorism also appears in how learners encounter AI as a topic. The theory is one of the four dominant learning theories — behaviorism, cognitivism, constructivism, and connectivism — that generative AI is prompting educators to revisit.^[[generativism-learning-theory]] It is also referenced in cooperative-learning and design contexts as part of the theoretical backdrop learners are taught.^[[ccct-cooperative-learning-technique]] Understanding behaviorism helps learners see why many AI tools (and the products built on them) are designed for response-and-reinforcement rather than for deeper construction.
+Behaviorism also appears in how learners encounter AI as a topic. The theory is one of the four dominant [[learning-theories|learning theories]] — behaviorism, cognitivism, constructivism, and connectivism — that [[generative-ai|generative AI]] is [[prompt-engineering|prompting]] educators to revisit.^[[generativism-learning-theory]] It is also referenced in cooperative-learning and design contexts as part of the theoretical backdrop learners are taught.^[[ccct-cooperative-learning-technique]] Understanding behaviorism helps learners see why many AI tools (and the products built on them) are designed for response-and-reinforcement rather than for deeper construction.
 
 ## Implications for design and research
 
@@ -2265,6 +2266,7 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 ## Connected Concepts
 
 - [[constructivist]]
+- [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
 - [[instructional-design]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
@@ -2871,6 +2873,75 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 
 ---
 
+## [Cognitive Psychology](https://edtechdev.github.io/aied/concepts/cognitive-psychology/)
+
+> **Cognitive psychology / cognitivism** — the family of theories that explain learning through internal mental processes — attention, perception, memory, reasoning, and metacognition — rather than through observable behavior alone. In [[ai-education|AI in education]], cognitivist assumptions underpin the field's most distinctive contributions: [[intelligent-tutoring]] systems that model learner knowledge, [[knowledge-tracing]] and [[cognitive-diagnosis]] that track what a learner knows, [[feedback]] designs grounded in error diagnosis, and the whole [[student-modeling|learner modeling and adaptive instruction]] family. Cognitivism is the middle ground between [[behaviorism]] (learning as behavioral change) and [[constructivist|constructivism]] (learning as active meaning-making), and it is the theoretical lens most closely tied to the computer metaphor of the mind that animated early AIED.
+
+## Core ideas
+
+- **Learning is a change in internal mental representations.** Cognitivism holds that learning involves the acquisition, storage, and reorganization of knowledge in memory — concepts, schemas, and procedures — rather than just a change in observable response. What a learner *knows and can retrieve* matters, not just what they do.
+- **The information-processing (computer) metaphor.** The mind is treated as an information-processing system with capacities and bottlenecks — [[item-response-theory|measurement]] of latent ability, working-memory limits, encoding and retrieval — which is precisely the model that made AI tutoring (a computer program that models and adapts to learner cognition) a natural fit.
+- **Attention and memory are bounded.** Working memory has limited capacity; durable learning requires encoding into long-term memory through rehearsal, elaboration, and retrieval practice. This connects cognitivism to research on [[cognitive-offloading]] (delegating memory/processing to external tools) and to the "performance–learning gap" when AI bypasses retrieval and practice.
+- **Metacognition regulates cognition.** [[metacognition]] — monitoring and controlling one's own thinking — is a distinctly cognitivist construct, and it explains why learners' calibration of when to rely on AI matters for learning (see [[cognitive-offloading]] and [[self-regulated-learning]]).
+- **Knowledge is decomposable and traceable.** Cognitivist AIED assumes learner knowledge can be represented as components and tracked over time — the foundation of [[knowledge-tracing]], [[cognitive-diagnosis]], and [[item-response-theory]].
+
+## Cognitivism and AI in education
+
+### The cognitivist lineage of AIED
+
+Cognitivism is arguably the theory most responsible for AI in education existing at all. The early cognitive tutors (e.g., Anderson's ACT-R-based tutors) [[embodied-learning|embodied]] the assumption that learning could be modeled as production rules and that a system could trace which rules a learner had mastered. This produced the canonical architecture that still defines the field: a domain model, a [[student-modeling|student model]] that tracks the learner's knowledge state, and a [[pedagogy|pedagogical]] model that adapts instruction — all cognitivist in origin. Modern [[knowledge-tracing]] (Bayesian, deep-learning, and IRT-based) and [[cognitive-diagnosis]] continue this tradition. The same assumption underwrites [[intelligent-tutoring]], [[adaptive-learning]], and [[personalized-learning]], which are grouped in the wiki under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella.
+
+### Cognitive load and the design of instruction
+
+Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[instructional-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
+
+### Cognitivism vs. behaviorism and constructivism
+
+- **vs. [[behaviorism]]:** Behaviorism explains learning as observable behavioral change through reinforcement and drill; cognitivism insists on internal representations and traces mental states. AI practice often shows a "constructivism in name, behaviorism in practice" gap, but cognitivist designs (student modeling, knowledge tracing) are distinct from pure behaviorist drill-and-feedback because they *represent and adapt to the learner's inferred knowledge* rather than merely reinforcing responses.
+- **vs. [[constructivist|constructivism]]:** Constructivism holds that learners actively construct meaning through experience; cognitivism emphasizes accurate encoding of (often pre-structured) knowledge and skill. AIED's cognitivist lineage (structured domains, explicit knowledge components) is sometimes critiqued as too behaviorist or too transmission-oriented by constructivists, while cognitivism counters that representing and tracing knowledge is what enables genuinely adaptive instruction.
+
+### The AI-era tension: cognitivism's boundary is under pressure
+
+[[generative-ai|Generative AI]] both extends and challenges cognitivism. It extends it by making knowledge representations more powerful (LLMs as knowledge engines that can be traced via [[knowledge-tracing]] and adapted via [[student-modeling]]). It challenges it by complicating where cognition "is": when AI performs reasoning, memory, and even metacognitive-like functions, the cognitivist assumption that learning is internal processing in the individual mind is unsettled — as [[distributed-cognition]], [[ai-cognitive-partner-co-regulation-learning|co-regulation]], and post-human framings argue cognition can be distributed across human and artificial systems. Yet the cognitivist question remains the field's central one: *does the learner internalize the knowledge, or does the tool hold it?* This is the cognitive-offloading and performance–learning gap question in its purest form.
+
+## Implications for design and research
+
+1. **Design for internalization, not just performance.** Cognitivist AIED should be evaluated on whether the learner can retrieve and apply knowledge *without* the tool — not on assisted performance. This is the [[ai-misuse-learning-harm|performance–learning gap]] and the rationale for measuring unassisted [[transfer-of-learning|transfer]].
+2. **Represent the learner, don't just respond.** Attach structured [[student-modeling]] and [[knowledge-tracing]] to AI dialogue so the system adapts to inferred knowledge rather than responding fluently but blindly.^[[educlaw-bench-pedagogical-llm-agents-2026]]
+3. **Respect working-memory limits.** Apply Cognitive Load Theory to AI UX: reduce extraneous load (friction, overloaded interfaces) while preserving germane processing ([[desirable-difficulties|productive struggle]], retrieval practice) rather than minimizing all cognitive demand.
+4. **Calibrate metacognition.** Because [[metacognition]] governs when learners choose to offload, teaching calibration (knowing what one can actually do unaided) is a cognitivist answer to over-reliance (see [[cognitive-offloading]]).
+
+## Connected Concepts
+
+- [[behaviorism]]
+- [[constructivist]]
+- [[learning-theories]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[knowledge-tracing]]
+- [[cognitive-diagnosis]]
+- [[student-modeling]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[item-response-theory]]
+- [[distributed-cognition]]
+- [[icap-framework]]
+- [[transfer-of-learning]]
+- [[self-regulated-learning]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
+- [[cogtax-cognitive-taxonomy]] — A cognitive taxonomy for AI use
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agents grounded in knowledge tracing
+- [[llm-student-modeling-memory]] — LLM student modeling and memory
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+
+---
+
 ## [Collaborative Learning](https://edtechdev.github.io/aied/concepts/collaborative-learning/)
 
 > **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In AI in education, collaborative learning research spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.
@@ -3119,29 +3190,29 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 
 ## [Constructivism](https://edtechdev.github.io/aied/concepts/constructivist/)
 
-> **Constructivism** — the learning theory that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In AI in education, constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — prompting, questioning, and [[scaffolding]] — rather than perform the [[cognitive-offloading|cognitive work]] for them.^[[ai-vocational-education-training-review]]^[[genai-mindtool-generative-learning]]
+> **Constructivism** — the [[learning-theories|learning theory]] that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In [[ai-education|AI in education]], constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — [[prompt-engineering|prompting]], questioning, and [[scaffolding]] — rather than perform the [[cognitive-offloading|cognitive work]] for them.^[[ai-vocational-education-training-review]]^[[genai-mindtool-generative-learning]]
 
-Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of generative AI in the classroom.
+Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of [[generative-ai|generative AI]] in the classroom.
 
 **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** contrast Papert's constructionism (Logo, microworlds, debugging-as-learning) with Anderson's cognitive tutors as competing visions of creative agency vs. systematic control in AIED history.
 
 ## Core ideas
 
-- **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with prior knowledge, and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
+- **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with [[prior-knowledge|prior knowledge]], and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
 - **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[student-misconceptions-ai]] and to AI tutors that adapt to the learner.
-- **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally situated activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
-- **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" engagement above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
+- **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally [[situated-learning|situated]] activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
+- **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" [[student-engagement|engagement]] above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
 
 ## Constructionism
 
 **Constructionism** is the branch of constructivism associated with Seymour Papert that adds a specific claim: learning happens most powerfully when learners construct *external, shareable artifacts* — physical or digital objects they design, build, and debug. Where Piagetian constructivism focuses on the internal mental construction of knowledge, constructionism holds that this construction is best supported and made visible through making something tangible (Harel & Papert, 1991). In [[history-of-aied|AIED history]], constructionism stands as the "agency" pole of the field's central control-vs-agency tension, set against Anderson's structured cognitive tutors.
 
 - **Logo and microworlds.** Papert co-developed Logo (1967) with its iconic "turtle" — a programming microworld where children explore geometry and other powerful ideas by commanding and debugging a visible agent. Debugging is reframed as a natural, valuable part of learning, not failure.^[[mishra-control-vs-agency-history-2025]]
-- **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that teaching is the efficient transfer of knowledge — and instead positions learners as autonomous agents who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
+- **Construction over instruction.** Constructionism critiques "instructionism" — the assumption that teaching is the efficient transfer of knowledge — and instead positions learners as [[agentic-ai|autonomous agents]] who construct understanding through projects and experimentation (Papert, 1980, *Mindstorms*).
 - **Lineage into modern edtech.** Logo's emphasis on creative, hands-on construction underpins [[game-based-learning]], [[project-based-learning]], [[educational-robotics|robotics]] (LEGO Mindstorms, Scratch, programmable bricks), and the broader maker movement.
 - **The constructionist legacy in AI.** Constructionism implies AI tools should serve as **materials to build with** — thinking tools and creative co-constructors that the learner directs — rather than as answer-providing instructors. This is the direct ancestor of the wiki's [[genai-mindtool-generative-learning|mindtool]] framing of generative AI and of design commitments that preserve [[agency|learner agency]] over the learning process.^[[educational-robotics-pathways-2026]]
 
-- **Constructionism in the GenAI era: learn by writing the model, not the code.** The arrival of code-generating AI has *renewed* constructionism as a design response rather than weakening it. Gousopoulos's **Code-to-Learn with Generative AI (CtL-GenAI)** framework synthesizes constructionism, cognitive-load theory, [[self-regulated-learning]], the [[icap-framework|ICAP]] engagement model, productive failure, and sociocultural scaffolding for upper-secondary students building software with AI. Its organizing claim — **"the AI writes the code, but the student writes the model"** — reframes the construction target: when GenAI does the syntactic work of writing code, the learner's construction shifts to building and debugging the *conceptual model* the code expresses. CtL-GenAI defines model authorship as a construct with four facets and ordered levels carrying observable indicators, and formalizes a partial-credit, falsifiable measurement model to test whether such learning actually occurs.^[[code-to-learn-genai-artifact-construction-2026]]^[[ai-writes-code-student-writes-model-2026]] This is constructionism's classic "make something shareable and debug it" updated so that the artifact the student makes and reflects on is a mental model made visible, not merely source code — and it couples the theory to an explicit measurement programme so the claim becomes empirically testable.
+- **Constructionism in the GenAI era: learn by writing the model, not the code.** The arrival of code-generating AI has *renewed* constructionism as a design response rather than weakening it. Gousopoulos's **Code-to-Learn with Generative AI (CtL-GenAI)** framework synthesizes constructionism, cognitive-load theory, [[self-regulated-learning]], the [[icap-framework|ICAP]] engagement model, [[productive-failure|productive failure]], and [[sociocultural-learning|sociocultural]] scaffolding for upper-secondary students building software with AI. Its organizing claim — **"the AI writes the code, but the student writes the model"** — reframes the construction target: when GenAI does the syntactic work of writing code, the learner's construction shifts to building and debugging the *conceptual model* the code expresses. CtL-GenAI defines model authorship as a construct with four facets and ordered levels carrying observable indicators, and formalizes a partial-credit, falsifiable measurement model to test whether such learning actually occurs.^[[code-to-learn-genai-artifact-construction-2026]]^[[ai-writes-code-student-writes-model-2026]] This is constructionism's classic "make something shareable and debug it" updated so that the artifact the student makes and reflects on is a mental model made visible, not merely source code — and it couples the theory to an explicit measurement programme so the claim becomes empirically testable.
 
 Constructionism is thus both a learning theory and a critique: it insists that the purpose of education is not to reproduce existing knowledge structures but to empower learners to construct and transform them — a stance with clear implications for whether AI in education reinforces or challenges established hierarchies.
 
@@ -3153,7 +3224,7 @@ Well-designed AI can enable construction at scale. [[intelligent-tutoring]] and 
 
 ### The risk of "constructivism in name, behaviorism in practice"
 
-Empirical work repeatedly finds a gap between espoused constructivist goals and actual AI implementations. A systematic review of AI in vocational education, for instance, found that constructivist theories are espoused in VET discourse while **behaviorist drill-and-practice designs dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
+Empirical work repeatedly finds a gap between espoused constructivist goals and actual AI implementations. A [[meta-analysis-systematic-review|systematic review]] of AI in vocational education, for instance, found that constructivist theories are espoused in VET discourse while **behaviorist drill-and-practice designs dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
 
 This pattern generalizes across the field:
 
@@ -3162,7 +3233,7 @@ This pattern generalizes across the field:
 
 ### Design responses grounded in constructivism
 
-- **Generative Refusal** — AI tools that strategically withhold generated text and pose questions instead, returning cognitive friction to the user so that the labor of articulation itself builds understanding.^[[generative-refusal-ai-tools-for-thought]]
+- **Generative Refusal** — AI tools that strategically withhold generated text and pose questions instead, returning [[desirable-difficulties|cognitive friction]] to the user so that the labor of articulation itself builds understanding.^[[generative-refusal-ai-tools-for-thought]]
 - **Thinking tools over answer machines** — using GenAI as a [[genai-mindtool-generative-learning]] in which the learner drives the tool, rather than the tool replacing the learner.^[[genai-mindtool-generative-learning]]
 - **Constructive conflict** — adversarial AI agents that challenge a learner's design or reasoning, prompting reconsideration and deeper construction of alternatives, in the tradition of Socratic tutoring.^[[ai-agents-constructive-conflict-design-education-2026]]
 - **Internal feedback via comparison** — having learners compare their own work against AI-generated exemplars so that the act of comparison itself generates learning.^[[ai-internal-feedback-evaluative-judgments]]
@@ -3180,6 +3251,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
+- [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
 
 - [[active-learning]]
 - [[learning-by-teaching]]
@@ -7784,7 +7856,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 ## [Learning Theories](https://edtechdev.github.io/aied/concepts/learning-theories/)
 
-> **Learning Theories** — the family of frameworks that explain how learning happens, and the umbrella concept for the wiki's theory-related ideas. In AI in education, learning theories shape both how AI systems are designed (the pedagogy they embody) and how the field interprets whether AI "works": the same tool can be a scaffold under [[constructivist]] assumptions, a reinforcement engine under [[behaviorism]], or a cognitive-load hazard under Cognitive Load Theory.
+> **Learning Theories** — the family of frameworks that explain how learning happens, and the umbrella concept for the wiki's theory-related ideas. In [[ai-education|AI in education]], learning theories shape both how AI systems are designed (the pedagogy they embody) and how the field interprets whether AI "works": the same tool can be a scaffold under [[constructivist]] assumptions, a reinforcement engine under [[behaviorism]], or a cognitive-load hazard under Cognitive Load Theory.
 
 This is the umbrella concept for the wiki's learning-theory strand. Learning theories sit at the heart of AI in education because every AI tutor, adaptive system, and feedback tool embeds assumptions about how people learn — whether the designers state them or not. The wiki documents these theories individually and treats them as the conceptual lens through which AI's design and effects are evaluated.
 
@@ -7792,9 +7864,9 @@ This is the umbrella concept for the wiki's learning-theory strand. Learning the
 
 The wiki documents several families of learning theory, each with its own concepts:
 
-- **Classical learning theories.** [[behaviorism]] (learning as observable behavioral change through reinforcement and drill-and-practice) and [[constructivist|constructivism]] (learning as active knowledge construction) are the two poles that recur most often in AI research. The field frequently exhibits a "constructivism in name, behaviorism in practice" gap, where discourse espouses construction but AI implementations default to drill-and-feedback mechanics.^[[ai-vocational-education-training-review]]
-- **Sociocultural and developmental theories.** [[sociocultural-learning]] holds that learning and development arise through social participation and are mediated by cultural tools and more knowledgeable others — spanning the [[sociocultural-learning|Zone of Proximal Development]], [[scaffolding]], apprenticeship, communities of practice, and distributed cognition. In the AI age, generative AI is increasingly framed as a *mediational agent* that both mediates activity and generates contingent contributions to interaction.^[[mediational-agent-genai-sociocultural-2026]]
-- **Cognition and cognitive architecture.** Cognitive Load Theory (how working-memory limits shape instruction), Dual-Process Theory (fast intuitive vs. slow deliberative processing), and [[metacognition]] (monitoring and regulating one's own learning) explain the *internal* mechanisms that AI tools engage or bypass.
+- **Classical learning theories.** [[behaviorism]] (learning as observable behavioral change through reinforcement and drill-and-practice) and [[constructivist|constructivism]] (learning as active knowledge construction) are the two poles that recur most often in AI research. The field frequently exhibits a "constructivism in name, behaviorism in practice" gap, where discourse espouses construction but AI implementations default to drill-and-feedback mechanics.^[[ai-vocational-education-training-review]] [[cognitive-psychology|cognitivism]] is the third classical pole — learning as a change in internal mental representations — and the theory most responsible for AIED's signature contributions ([[knowledge-tracing]], [[cognitive-diagnosis]], [[student-modeling]], [[intelligent-tutoring]]).
+- **Sociocultural and developmental theories.** [[sociocultural-learning]] holds that learning and development arise through social participation and are mediated by cultural tools and more knowledgeable others — spanning the [[sociocultural-learning|Zone of Proximal Development]], [[scaffolding]], apprenticeship, communities of practice, and [[distributed-cognition|distributed cognition]]. In the AI age, [[generative-ai|generative AI]] is increasingly framed as a *mediational agent* that both mediates activity and generates contingent contributions to interaction.^[[mediational-agent-genai-sociocultural-2026]]
+- **Cognition and cognitive architecture.** [[cognitive-psychology|Cognitive psychology / cognitivism]] is the umbrella for this family: Cognitive Load Theory (how working-memory limits shape instruction), Dual-Process Theory (fast intuitive vs. slow deliberative processing), and [[metacognition]] (monitoring and regulating one's own learning) explain the *internal* mechanisms that AI tools engage or bypass.
 - **Motivation and self-direction.** [[self-determination-theory]] (autonomy, competence, relatedness), [[self-efficacy]] (confidence in one's capability), [[self-regulated-learning]] (goal-setting, monitoring, and adjustment), and [[motivation]] explain why learners engage with AI the way they do.
 - **Learning context and activity.** [[experiential-learning]], [[active-learning]], [[project-based-learning]], [[collaborative-learning]], [[transfer-of-learning]], [[desirable-difficulties]], and [[embodied-learning]] describe the kinds of activity and context that produce durable learning.
 
@@ -7808,15 +7880,15 @@ Learning theories matter for three reasons:
 
 - **They predict AI's effects.** Whether an AI tool improves or harms learning depends on which mechanism it activates. A tutor that gives away answers harms under a constructivist lens (it bypasses construction), is neutral under behaviorism (it reinforces), and raises cognitive-load concerns (it offloads rather than builds). The wiki's [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] concepts capture the risk side of this.
 - **They expose the theory-practice gap.** Empirical work repeatedly finds that AI implementations embody different theories than the discourse claims — most notably constructivist language paired with behaviorist drill-and-practice mechanics.^[[ai-vocational-education-training-review]] Evaluating AI therefore requires asking *which* theory a system actually embodies, not just whether it "works."
-- **They are being actively rethought.** Generative AI is prompting educators to revisit whether the classical theories suffice. [[generativism-learning-theory|Generativism]] proposes that learning in the AI age increasingly occurs through iterative co-construction between human learners and AI systems, extending rather than replacing the classical four (behaviorism, cognitivism, constructivism, connectivism).^[[generativism-learning-theory]]
+- **They are being actively rethought.** Generative AI is [[prompt-engineering|prompting]] educators to revisit whether the classical theories suffice. [[generativism-learning-theory|Generativism]] proposes that learning in the AI age increasingly occurs through iterative co-construction between human learners and AI systems, extending rather than replacing the classical four (behaviorism, cognitivism, constructivism, connectivism).^[[generativism-learning-theory]]
 
 ### New theoretical directions from recent AIED work
 
 Recent theoretical work extends the classical strand in several directions, each re-centring the human–AI relationship rather than treating AI as a neutral tool:
 
-- **Human–AI co-regulation.** A developmental framework positions AI not as an external instrument but as a **cognitive partner** that co-regulates thinking, learning, and self-control across the lifespan.^[[ai-cognitive-partner-co-regulation-learning]] Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it casts AI in four roles — scaffold, metacognitive support, external memory / [[cognitive-offloading]] system, and decision partner — with the framework most relevant from middle childhood onward.
-- **Ensemble Cognition.** A philosophical framework reconceptualises thinking as emerging from dynamic interactions between human and artificial agents rather than residing solely in individual minds.^[[ensemble-cognition-philosophy-ai-education]] It challenges the "consciousness paradigm" (the autonomy, consciousness, and stability assumptions) and articulates five features — distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching — while distinguishing AI's **functional agency** from moral responsibility.
-- **Self-Directed Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalised through the Aspire to Potentials for Learners (A2PL) model.^[[self-directed-growth-generative-ai-learning-analytics]] It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
+- **Human–AI co-[[regulation]].** A developmental framework positions AI not as an external instrument but as a **cognitive partner** that co-regulates thinking, learning, and self-control across the lifespan.^[[ai-cognitive-partner-co-regulation-learning]] Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it casts AI in four roles — scaffold, metacognitive support, external memory / [[cognitive-offloading]] system, and decision partner — with the framework most relevant from middle childhood onward.
+- **Ensemble Cognition.** A [[philosophy-of-ai-in-education|philosophical]] framework reconceptualises thinking as emerging from dynamic interactions between human and artificial agents rather than residing solely in individual minds.^[[ensemble-cognition-philosophy-ai-education]] It challenges the "consciousness paradigm" (the autonomy, consciousness, and stability assumptions) and articulates five features — distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching — while distinguishing AI's **functional agency** from moral responsibility.
+- **[[self-directed-learning|Self-Directed]] Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalised through the Aspire to Potentials for Learners (A2PL) model.^[[self-directed-growth-generative-ai-learning-analytics]] It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
 
 ### How the wiki organizes this strand
 
@@ -7824,12 +7896,13 @@ Rather than treating learning theories as abstract philosophy, the wiki grounds 
 
 ### Learning theories and "education about AI"
 
-Learning theories also appear as content in AI literacy curricula: learners study behaviorism, cognitivism, constructivism, and connectivism to understand the pedagogical assumptions behind the tools they use.^[[generativism-learning-theory]] Teaching this strand gives students (and educators) the vocabulary to critique why an AI product is built the way it is — and whether its mechanics serve the learning goal at hand.
+Learning theories also appear as content in [[ai-literacy|AI literacy]] curricula: learners study behaviorism, cognitivism, constructivism, and connectivism to understand the [[pedagogy|pedagogical]] assumptions behind the tools they use.^[[generativism-learning-theory]] Teaching this strand gives students (and educators) the vocabulary to critique why an AI product is built the way it is — and whether its mechanics serve the learning goal at hand.
 
-- **The mediational agent.** Warschauer, Tate, and Ritchie (2026) argue generative AI breaks the sociocultural distinction between mediational means and social interaction, proposing the *mediational agent* — a system that both mediates action and generates contingent, non-accountable contributions, occupying a hybrid space between a tool and a social partner. This yields five human-first habits of participation (primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, reflective self-regulation).^[[mediational-agent-genai-sociocultural-2026]]
+- **The mediational agent.** Warschauer, Tate, and Ritchie (2026) argue generative AI breaks the sociocultural distinction between mediational means and social interaction, proposing the *mediational agent* — a system that both mediates action and generates contingent, non-accountable contributions, occupying a hybrid space between a tool and a social partner. This yields five human-first habits of participation (primacy of human cognition, purposeful [[student-engagement|engagement]], supervisory agency, epistemic vigilance, reflective self-regulation).^[[mediational-agent-genai-sociocultural-2026]]
 ## Connected Concepts
 
 - [[behaviorism]]
+- [[cognitive-psychology]]
 - [[constructivist]]
 - [[metacognition]]
 - [[distributed-cognition]]
