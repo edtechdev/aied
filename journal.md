@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1098
+**Last updated:** 2026-08-27 | **Total entries:** 1103
 
 
 ## 2026-08-27
@@ -42,6 +42,16 @@
   Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
 
 - 🏷️ [[cognitive-psychology]] — Cognitive Psychology / Cognitivism
+
+- ◐ [[kirsanov-beyond-detection-ai-online-assessments-2026]] — 'raw/papers/kirsanov-beyond-detection-ai-online-assessments-2026.md'
+  Beyond Detection: How Students Use and Hide AI in Online Assessments
+- ◐ [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — 'raw/papers/chang-should-i-tell-my-teacher-ai-disclosure-2026.md'
+  "Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and SRL
+- ◐ [[vetter-hidden-cost-disclosure-genai-2026]] — 'raw/papers/vetter-hidden-cost-disclosure-genai-2026.md'
+  The Hidden Cost of Disclosure: GenAI Usage and Faculty Accusations
+- ◐ [[gonsalves-student-non-compliance-ai-declarations-2025]] — 'raw/papers/gonsalves-student-non-compliance-ai-declarations-2025.md'
+  Addressing Student Non-Compliance in AI Use Declarations
+- 🏷️ [[ai-use-disclosure]] — AI Use and Disclosure Statements
 
 ## 2026-08-26
 

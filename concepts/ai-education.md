@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T10:55:43.284361-04:00"
+updated: "2026-08-27T11:21:46.201612-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 connected_faqs: [top-10-findings-ai-education-instructors]
@@ -107,6 +107,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[human-ai-collaboration]] — Human-AI collaboration
 - [[equity-in-ai-education]] — Equity in AI education
 - [[ethics]] — AI ethics
+- [[ai-use-disclosure]] — AI use and disclosure statements
 - [[governance]] — AI governance
 - [[educational-policy-ai]] — Educational AI policy
 - [[educational-robotics]] — Robots in education
