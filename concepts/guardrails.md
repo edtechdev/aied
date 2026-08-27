@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-08-25T08:30:00-04:00"
+updated: "2026-08-27T08:07:41.879764-04:00"
 type: concept
 tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinforcement-learning, bias-mitigation, ai-sycophancy, k-12, llm]
 confidence: high
@@ -80,6 +80,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[llm]] — the model layer being constrained
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
 - [[eduzone-llm-safety-k12]] — K-12 LLM safety framework

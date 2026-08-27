@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T18:50:00-04:00"
+updated: "2026-08-27T08:07:41.879764-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -56,6 +56,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
 
