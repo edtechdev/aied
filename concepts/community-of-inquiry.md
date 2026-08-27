@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-08-23T15:30:00-04:00"
+updated: "2026-08-27T05:50:01.954210-04:00"
 type: concept
 tags: [online-teaching-and-learning, higher-ed, generative-ai, pedagogy, critical-thinking]
 confidence: high
@@ -17,6 +17,10 @@ confidence: high
 
 CoI is grounded in [[constructivist]] and Deweyan pragmatic traditions: inquiry is social, iterative, and driven by a felt difficulty that motivates the search for resolution.
 
+## CoI as a framework for online teaching
+
+CoI originated in, and remains most strongly associated with, [[online-teaching-and-learning|online teaching and learning]]. It provides a vocabulary for diagnosing *why* an online course works or fails: low [[student-engagement|engagement]] and isolation in asynchronous courses are usually failures of social and teaching presence, while surface discussion often reflects weak cognitive presence. This makes CoI a practical design lens for the very conditions the online medium creates — the removal of physical co-presence, the need for deliberate community-building, and the structuring of discussion that substitutes for face-to-face contact. In the [[generative-ai|generative-AI]] era, CoI is also where online instructors confront the hardest new questions: who is "present" when [[llm|LLM]] agents post, moderate, or respond, and how to keep the three presences meaningful when machine-generated discourse can mimic them. The wiki's online-teaching page therefore treats Community of Inquiry as the core framework for the social-presence and community-building strand of its recommended practice.
+
 ## CoI under generative-AI pressure
 
 GenAI destabilises the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s (see [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson]]). It can:
@@ -30,8 +34,8 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 ## Practical implications
 
 - The relationship between GenAI involvement and inquiry quality is **conditional on human accountability**, not linear: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
-- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — prompting and revision traces, disclosure and attribution practices, verification moves, and interaction logs.
-- Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions.
+- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — prompting and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the wiki's broader move toward [[authentic-assessment|authentic, process-revealing assessment]] and away from detection-based responses.
+- Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy|AI literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
 
 ## Connected Concepts
 
@@ -44,6 +48,9 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 - [[human-ai-collaboration]]
 - [[student-engagement]]
 - [[llm]]
+- [[ai-literacy]]
+- [[authentic-assessment]]
+- [[trust-calibration]]
 
 ## Connected Articles
 
