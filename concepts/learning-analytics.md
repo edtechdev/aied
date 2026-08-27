@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-27T13:49:27.865811-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback]
 
@@ -12,7 +12,7 @@ confidence: high
 
 ### AI-enhanced analytics
 
-- **Predictive analytics:** Machine learning on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
+- **Predictive analytics:** [[reinforcement-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
 - **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
@@ -24,19 +24,21 @@ Learning analytics is canonically framed as a cycle that begins with learner act
 
 ### From description to intervention
 
-Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with human oversight preserved.
+Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with [[human-in-the-loop-ai|human oversight]] preserved.
 
 A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]], who asked three LLMs to recommend support plans for 4,500 [[simulating-students|synthetic student]] vignettes. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
 
 ### Methods and network analysis
 
-Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in chatbot-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-AI interaction rather than only its product.^[[penny-transition-network-analysis-efl-writing-2026]]^[[tracing-genai-literacy-interaction-patterns]]
+Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.^[[penny-transition-network-analysis-efl-writing-2026]]^[[tracing-genai-literacy-interaction-patterns]]
 
-- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight LLM that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; simulation shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+- **LA and GenAI shape learning design differently (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used ENA on 11 instructor focus groups to compare how learning analytics versus [[generative-ai|generative AI]] inform [[instructional-design|learning design]] decision-making. LA discussions centered on contextual information, course-level design, and creative problem-solving (LA for diagnosing engagement and targeting support), while GenAI discussions centered on assessment design and designing for student [[self-determination-theory|self-determination]] (GenAI for ideation and assessment development). Context and [[creativity]] were central across both — a reminder that analytics inform design only within [[pedagogy|pedagogical]] context and instructor autonomy.
+
+- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
 ### Connections
 
-Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the ethical constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
+Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
 
 ## Connected Concepts
 
@@ -54,6 +56,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
