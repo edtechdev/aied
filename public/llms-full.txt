@@ -2161,7 +2161,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 
-#- **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES uses reward alignment to make LLM essay scoring both accurate and consistent, addressing a core AES validity concern.
+- **[[zhang-races-consistent-essay-scoring-llms-2026|Zhang et al.]]** RACES uses reward alignment to make LLM essay scoring both accurate and consistent, addressing a core AES validity concern.
 
 ## Key research themes
 
@@ -4635,7 +4635,7 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 
 > **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the wiki spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
 
-#- **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in higher education.
+- **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in higher education.
 
 ## Policy levels
 
@@ -5491,7 +5491,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 
 This is the umbrella concept for the wiki's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The wiki treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
 
-#- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from GenAI feedback — a crucial qualifier for feedback effectiveness claims.
+- **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from GenAI feedback — a crucial qualifier for feedback effectiveness claims.
 
 ## The feedback system
 
