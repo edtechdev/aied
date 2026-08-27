@@ -1,10 +1,10 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T06:13:15.881051-04:00"
+updated: "2026-08-27T07:59:32.712217-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
-connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn]
+connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students]
 confidence: high
 ---
 

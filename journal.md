@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1089
+**Last updated:** 2026-08-27 | **Total entries:** 1090
 
 
 ## 2026-08-27
@@ -22,6 +22,8 @@
   Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction
 
 - ◐ [[learner-identity]] — Learner Identity
+
+- ❓ [[how-ai-impacts-students]] — How is AI Impacting Students?
 
 ## 2026-08-26
 
