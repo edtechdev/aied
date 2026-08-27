@@ -1,7 +1,7 @@
 ---
 title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-08-27T08:10:00-04:00"
+updated: "2026-08-27T07:53:59.967917-04:00"
 type: concept
 tags: [identity, student-identity, stem-identity, professional-identity, creative-identity, student-experience, agency, stem-education]
 confidence: high
@@ -23,6 +23,17 @@ Identity is a motivational and developmental construct distinct from (but connec
 - **Professional identity:** multiple studies treat AI's impact on **professional identity** — for example, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argue that graduates need *adaptive capabilities* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) precisely so they can sustain a viable professional identity in an AI-integrated future, rather than being defined by — or defined out by — their tools.
 - **Post-human and hybrid identity:** **[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed (2026)]]** theorize the **post-human learner**, whose cognition is genuinely hybrid and distributed across [[biology-education|biological]] and artificial systems — a reframing of identity formation itself in the age of cognitive AI.
 - **Student and academic identity:** **[[zhan-boud-du-authentic-assessment-scoping-review-2025|authentic assessment]]** research connects to identity because assessment tasks that call for authentic, personal performance help students see themselves as capable practitioners; **[[paternalistic-filter-llm-history-education|history-education research]]** shows how paternalistic AI use can shape how students construct their identity as disciplinary inquirers.
+
+## Relationship to learner agency
+
+Learner agency and learner identity are closely related but distinct constructs that are easy to conflate — and both are central to how AI affects learning.
+
+- **Agency is about *doing*; identity is about *being*.** [[agency|Learner agency]] concerns the capacity to act intentionally, make choices, and exercise control over one's learning *in the moment* — a situated, interactional, and variable capacity. Learner identity concerns who one *is* and is *becoming* as a learner — a more durable, narrative, and developmental sense of self. Agency asks "am I able to direct this?", while identity asks "is this who I am / who I want to be?"
+- **They are causally intertwined.** Agency is both a *source* and an *outcome* of identity. Enacting agency — choosing, authoring, persisting — is how a learner comes to see themselves as an agentic person (identity is partly internalized agency). Conversely, a stable disciplinary or professional identity supplies the motivation and self-worth that sustain agency under difficulty. Identity is the accumulated product of repeated agentic acts; agency is the ongoing enactment that builds identity.
+- **AI threatens them through different mechanisms.** AI can erode **agency** by inviting [[cognitive-offloading|over-reliance]] and passive acceptance — learners stop directing their own reasoning. AI can erode **identity** by undermining authorship and competence — when AI produces the work, learners may stop feeling the output is "theirs" or that they belong in the domain. The [[t2i-competence-paradox-2026|competence paradox]] is an identity threat; [[jin-emergent-learner-agency-implicit-hai-2026|implicit AI redistribution of epistemic labour]] is primarily an agency threat, though it compounds into identity over time.
+- **Safeguarding both is the design goal.** Supporting agency means preserving learners' control and choice (e.g., bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight). Supporting identity means protecting authorship and recognition (e.g., [[authentic-assessment|authentic assessment]], transparent attribution of AI versus human contribution). A design that protects agency but not authorship protects control without protecting the sense of self — and vice versa.
+
+In short: **foster agency to let learners act; sustain identity so they know who they are while acting.** Healthy AI-supported learning attends to both.
 
 ## Relationship to teacher identity
 
