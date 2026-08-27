@@ -1,14 +1,14 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-27T06:13:15.881051-04:00"
+updated: "2026-08-27T06:22:51.426928-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
 confidence: high
 ---
 
-> **Learner agency** — the capacity of learners to act intentionally, make choices, and exercise control over their own learning. In AI in education, agency is a central concern because AI tools can both support and undermine learners' control: well-designed AI preserves and amplifies learner autonomy, while over-reliance or passive acceptance of AI output can erode it. Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], and the [[ethics|ethical]] design of AI systems, and is closely related to the psychological concepts of autonomy and sense of agency.
+> **Learner agency** — the capacity of learners to act intentionally, make choices, and exercise control over their own learning. In [[ai-education|AI in education]], agency is a central concern because AI tools can both support and undermine learners' control: well-designed AI preserves and amplifies learner autonomy, while over-reliance or passive acceptance of AI output can erode it. Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], and the [[ethics|ethical]] design of AI systems, and is closely related to the psychological concepts of autonomy and sense of agency.
 
 Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[educational-robotics|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
@@ -16,12 +16,23 @@ Agency matters because learning is most effective when learners are active, inte
 
 ## How agency appears in the wiki's research
 
-- **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in computational thinking; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to well-being and governance debates.
+- **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in [[computational-thinking|computational thinking]]; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to [[well-being]] and [[governance]] debates.
 - **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] research examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
-- **Critical engagement:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
+- **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
+
+## Agency as an emergent, interactional phenomenon
+
+Learner agency is not only a static individual trait — it is also an **emergent, interactionally constituted process** enacted through discourse and the moment-to-moment coordination of group work. In collaborative learning, agency is distributed and re-negotiated through the interplay of divergent processes (generating ideas, exploring alternatives) and convergent processes (evaluating, integrating, synthesizing). This view matters for AI because [[agentic-ai|agentic AI]] systems can subtly *redistribute* epistemic and regulatory labour within a group, reshaping who contributes, who shapes directionality, and who regulates progress — often without learners being aware of it.
+
+- **[[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]** provide the most direct evidence: in a large experiment (224 students, 97 triads) where AI operated as an *undisclosed teammate*, supportive and contrarian AI personas still reconfigured emergent agency. Contrarian AI pulled discourse into challenge- and reflection-oriented trajectories ([[desirable-difficulties|productive friction]]), while supportive AI stabilized agreement and renewed ideation.
+- **AI personas as discourse-governance mechanisms.** Contrarian personas externalized the burden of *challenging* (redistributing epistemic labour toward critique), while supportive personas externalized *affirmation* and consensus maintenance. The study identified six emergent agency profiles — notably, **reflective [[regulation]] was uniquely human** (AI externalized critique/affirmation but not meta-level monitoring).
+- **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential sustainability. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
+- **Implicit AI participation is invisible governance.** Because the personas worked even without AI disclosure, the study positions persona design as a form of invisible governance over collaborative processes — a finding with direct implications for writing assistants, [[peer-review]] systems, and teamwork platforms that may shape contributions without announcing their presence.
+
+For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
 
 ## Connected Concepts
 
@@ -35,10 +46,14 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[ethics]]
 - [[cognitive-offloading]]
 - [[educational-robotics]]
-- [[behaviorism]]- [[framing-ai-use-for-students]]
+- [[behaviorism]]
+- [[framing-ai-use-for-students]]
+- [[human-ai-collaboration]] — shared direction of AI-mediated interaction
+- [[agentic-ai]] — autonomous AI that can redistribute agency in groups
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history

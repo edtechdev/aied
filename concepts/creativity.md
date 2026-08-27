@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-17T06:45:00-04:00"
+updated: "2026-08-27T06:22:51.426928-04:00"
 type: concept
 tags: [critical-thinking, divergent-thinking, student-experience, generative-ai, writing-education, constructivist]
 confidence: high
@@ -34,6 +34,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[collaborative-learning]]
 
 ## Connected Articles
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 
 - [[rana-genai-design-thinking-2025]]
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review

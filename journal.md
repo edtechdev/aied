@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1087
+**Last updated:** 2026-08-27 | **Total entries:** 1088
 
 
 ## 2026-08-27
@@ -17,6 +17,9 @@
   GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort
 - ◐ [[de-barba-srl-genai-2026]] — 'raw/papers/de-barba-srl-genai-2026.md'
   Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments
+
+- ◐ [[jin-emergent-learner-agency-implicit-hai-2026]] — 'raw/papers/jin-emergent-learner-agency-implicit-hai-2026.md'
+  Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction
 
 ## 2026-08-26
 
