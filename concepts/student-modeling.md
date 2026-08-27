@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T04:58:28.248706-04:00"
+updated: "2026-08-27T08:07:41.879764-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -68,6 +68,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[cognitive-diagnosis]]
 - [[feedback]]
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
