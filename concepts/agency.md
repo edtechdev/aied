@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-27T07:53:59.967917-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -62,6 +62,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use

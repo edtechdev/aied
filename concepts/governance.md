@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [policy, ethics, higher-ed, institutional-change, privacy, responsible-ai, regulation, ai-education]
 confidence: high
@@ -67,6 +67,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 - [[adarkwah-genai-unesco-policy-2026]]

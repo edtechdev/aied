@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T04:35:06.336963-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
@@ -55,6 +55,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use

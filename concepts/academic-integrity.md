@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T14:00:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -51,6 +51,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine engagement, and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
 
 - **GenAI defeats autogradable homework (2026):** ChatGPT passed every one of 150 test sessions on deliberately hardened, autogradable Qiskit (quantum computing) homework designs — personalisation, hidden references, reflections, simulator execution — showing that rubric-based graders cannot reliably distinguish AI-completed from student-completed work and arguing for direct assessment of understanding ([[chatgpt-qiskit-homework-autogradable-2026]]).
+- **Evaluation in the age of AI — output as evidence (2026):** a university-level analysis argues the AI assessment crisis is a misalignment between assessment design and learning outcomes, not just dishonesty; it documents surveillance harms (lockdown browsers, eye-tracking), a "Disclosure Trap" (students fear declaring AI use lowers marks), a performance gap that grades socioeconomic status (paid vs. free LLM tiers), and "pedagogical burnout" among faculty policing AI — recommending process-based evaluation over detection ([[evaluation-age-ai-output-evidence-2026]]).
 
 ## Connected Concepts
 
@@ -72,6 +73,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 
 ## Connected Articles
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-Generated Text
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]] — Student cheating behaviour with AI tools in academic work

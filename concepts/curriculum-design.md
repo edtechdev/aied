@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-08-19T08:58:32-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [curriculum-design, instructional-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 confidence: high
@@ -46,6 +46,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
 - [[zhou-constructive-alignment-genai-business-2026]]

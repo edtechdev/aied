@@ -1,7 +1,7 @@
 ---
 title: Trust in AI
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-23T09:10:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [trust, ai-literacy, social-robots, human-robot-interaction, epistemic-trust, critical-thinking, intelligent-tutoring]
 
@@ -21,6 +21,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
 Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
+- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|trust in AI]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
 
 ## Connected Concepts
 
@@ -35,6 +36,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[ai-sycophancy]]
 
 ## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
 - [[best-response-student-ai-dialog-2026]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

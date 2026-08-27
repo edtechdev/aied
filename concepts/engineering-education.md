@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, faculty-development, professional-training, assessment, ethics, higher-ed]
 confidence: high
@@ -55,6 +55,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[generative-ai]]
 
 ## Connected Articles
+- mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
