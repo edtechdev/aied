@@ -1,13 +1,13 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T05:32:07.754943-04:00"
+updated: "2026-08-27T05:42:13.160523-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
 ---
 
-> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much AI in education research: using student models to personalize instruction.
+> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much AI in education research: using [[student-modeling|student models]] to personalize instruction.
 
 ### Core mechanisms
 
@@ -22,7 +22,7 @@ The wiki documents mixed evidence: adaptive systems improve outcomes when adapta
 
 ### The AI era: LLM-based adaptation and its risks
 
-Generative AI has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and LLM-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]).
+[[generative-ai|Generative AI]] has expanded what adaptive systems can do — conversational [[agentic-ai|agentic]] tutors, [[rag|RAG]]-grounded content, and LLM-driven [[intelligent-tutoring|tutoring]] adapt not only problem difficulty but language and explanation style (e.g., [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[deeptutor|DeepTutor]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutoring]]). However, LLM-based adaptation introduces new risks: without reliable [[student-modeling|student models]], adaptation may be based on shallow signals; over-adaptation can reduce the productive struggle students need (see [[desirable-difficulties]], [[cognitive-offloading]]); and the balance between personalizing and preserving learner [[agency]] is an open design question (see [[agentic-ai|agentic AI]]).
 
 ### Relationship to personalized learning and intelligent tutoring
 
