@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T04:35:06.336963-04:00"
 connected_faqs: [ai-save-instructor-time]
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
@@ -79,10 +79,10 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
-- [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
 - [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
 - [[genai-educational-outcomes-meta-analysis]]
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation

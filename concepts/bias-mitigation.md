@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-08-25T08:30:00-04:00"
+updated: "2026-08-27T04:35:06.336963-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm, fairness]
 confidence: high
@@ -96,3 +96,4 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation

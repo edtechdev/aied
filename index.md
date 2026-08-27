@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-26 | **Total pages:** 1094
+**Last updated:** 2026-08-27 | **Total pages:** 1095
 ---
 ## Concepts
 
@@ -686,6 +686,7 @@
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — Is It Ethical for Teachers to Use AI for Student Feedback?

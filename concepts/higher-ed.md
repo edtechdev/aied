@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-25T11:00:00-04:00"
+updated: "2026-08-27T04:35:06.336963-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
@@ -97,3 +97,4 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[isaza-chatgpt-engineering-prompting-2026]] — Engineering students' ChatGPT use
 
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
