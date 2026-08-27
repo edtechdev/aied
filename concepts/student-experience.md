@@ -23,6 +23,7 @@ confidence: high
 Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior).
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[remote-proctoring]]
 - [[generative-ai]]
@@ -39,6 +40,8 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
+- [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[best-response-student-ai-dialog-2026]]
 - [[chatgpt-perception-online-learning-engagement-2026]]
 - [[ai-tools-academic-work-cheating-2026]]

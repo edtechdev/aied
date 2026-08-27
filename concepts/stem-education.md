@@ -49,6 +49,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - **Watch equity and access in AI adoption.** STEM AI tools are not neutral; monitor scoring bias, digital-divide access, and culturally relevant design as you deploy them.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[business-education]]
 - [[cs-education]]
@@ -68,6 +69,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — ChatGPT for inquiry-based learning in STEAM

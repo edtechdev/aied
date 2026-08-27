@@ -48,6 +48,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
 
 ## Connected Concepts
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
 - [[eportfolio]]
 - [[problem-based-learning]]
@@ -67,6 +68,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 
 - [[benali-genai-academic-writing-2026]]
