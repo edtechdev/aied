@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T05:32:07.754943-04:00"
+updated: "2026-08-27T05:42:36.957871-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -22,11 +22,11 @@ Intelligent tutoring is the classic *application-side* member of the [[student-m
 
 The emergence of [[llm|LLMs]] has created a productive tension in the tutoring field. Traditional Intelligent Tutoring Systems (ITS) offer precision and transparency — you know exactly why the system made a particular decision — but lack flexibility. LLM tutors offer natural dialogue and broad knowledge but can hallucinate, over-scaffold, or bypass learning entirely. Modern research increasingly explores **hybrid approaches** that combine structured ITS components with LLM flexibility.
 
-Intelligent Tutoring Systems represent one of the oldest and most researched areas of AI in education. Unlike general-purpose LLM tutors, ITS traditionally use structured approaches: domain models (what to teach), student models (what the learner knows), and pedagogical models (how to teach). These components enable fine-grained tracking of student progress, misconception diagnosis, and adaptive sequencing.
+Intelligent Tutoring Systems represent one of the oldest and most researched areas of AI in education. Unlike general-purpose LLM tutors, ITS traditionally use structured approaches: domain models (what to teach), [[student-modeling|student models]] (what the learner knows), and pedagogical models (how to teach). These components enable fine-grained tracking of student progress, misconception diagnosis, and adaptive sequencing.
 
 ### Key ITS research
 
-- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** evaluates pedagogical LLM agents using simulated learners grounded in knowledge tracing, finding that tutoring quality depends on both the base model and adapter design.
+- **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** evaluates pedagogical LLM agents using [[simulating-students|simulated learners]] grounded in [[knowledge-tracing]], finding that tutoring quality depends on both the base model and adapter design.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully open-source agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated question generation.
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
@@ -35,7 +35,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
-- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and misconceptions a learner holds; the assessment-side counterpart to knowledge tracing that feeds the tutor's pedagogical decision
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and misconceptions a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
@@ -68,7 +68,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 **Make hints genuinely productive, not bypassable.** Classic hint designs can enable "button-through" strategies that skip learning. Prefer hints that reveal reasoning steps incrementally (Socratic prompting) over hints that directly supply the next answer, and preserve productive struggle rather than over-helping.^[[lak2026-hint-button-unproductive-use]]^[[rethinking-scaffolding-llm-tutors]]
 
-**Keep the human in the loop.** Let teachers author or curate the problem sets and misconception prompts the tutor draws on, and surface the tutor's reasoning so its decisions are auditable. Interpretable knowledge tracing and explicit, external didactic layers make LLM tutor behavior traceable and reproducible.^[[huang-interpretable-knowledge-tracing-2026]]^[[didactical-teacher-assistant-dimensional-modeling]]
+**Keep the human in the loop.** Let teachers author or curate the problem sets and misconception prompts the tutor draws on, and surface the tutor's reasoning so its decisions are auditable. Interpretable [[knowledge-tracing]] and explicit, external didactic layers make LLM tutor behavior traceable and reproducible.^[[huang-interpretable-knowledge-tracing-2026]]^[[didactical-teacher-assistant-dimensional-modeling]]
 
 **Model the learner, not just the dialogue.** Attach structured [[student-modeling]] and [[knowledge-tracing]] components to LLM dialogue so the system can adapt difficulty and diagnose misconceptions from evidence rather than responding fluently but blindly — quality depends on both the base model and how it is adapted.^[[educlaw-bench-pedagogical-llm-agents-2026]]
 
@@ -76,7 +76,7 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 
 Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity.
 
-- **Graph-based ITS for dynamic domains.** [[graph-its-adaptive-algorithms-2026|A graph-based intelligent tutoring system]] combines an Evolving Knowledge Space Graph with generative AI content creation and Bayesian knowledge propagation — which showed the highest knowledge gains — supporting adaptive learning in dynamic curricula.
+- **Graph-based ITS for dynamic domains.** [[graph-its-adaptive-algorithms-2026|A graph-based intelligent tutoring system]] combines an Evolving Knowledge Space Graph with [[generative-ai|generative AI]] content creation and Bayesian knowledge propagation — which showed the highest knowledge gains — supporting adaptive learning in dynamic curricula.
 ## Connected Concepts
 
 - [[scaffolding]]
