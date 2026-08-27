@@ -1,10 +1,11 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-25T09:40:00-04:00"
+updated: "2026-08-27T07:59:32.712217-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, mental-health, motivation]
 confidence: high
+connected_faqs: [how-ai-impacts-students]
 ---
 
 > **Well-being** — the positive state of being mentally, physically, and socially healthy, encompassing emotional, psychological, and social dimensions. In AI in education, well-being has become a central concern because the rapid integration of generative AI into learning environments can affect students' and educators' mental health, motivation, belonging, anxiety, and sense of agency — raising questions about whether AI supports or undermines learners' well-being.
