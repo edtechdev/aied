@@ -1,7 +1,7 @@
 ---
-title: Professional Training and AI
+title: Professional Training
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-22T07:15:00-04:00"
+updated: "2026-08-27T08:26:57.833590-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high

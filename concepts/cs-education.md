@@ -1,7 +1,7 @@
 ---
-title: CS Education and AI
+title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T13:00:00-04:00"
+updated: "2026-08-27T08:26:57.833590-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 

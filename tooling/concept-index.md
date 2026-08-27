@@ -336,7 +336,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`benchmark`** — Benchmark
 - **`bias-mitigation`** — Bias Mitigation
 - **`biology-education`** — Biology Education
-- **`business-education`** — AI in Business Education
+- **`business-education`** — Business Education
 - **`chemistry-education`** — Chemistry Education
 - **`cognitive-diagnosis`** — Cognitive Diagnosis
 - **`cognitive-offloading`** — Cognitive Offloading
@@ -348,7 +348,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`creativity`** — Creativity
 - **`critical-pedagogy`** — Critical Pedagogy
 - **`critical-thinking`** — Critical Thinking
-- **`cs-education`** — CS Education and AI
+- **`cs-education`** — CS Education
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy
 - **`curriculum-design`** — Curriculum Design
 - **`design-thinking`** — Design Thinking
@@ -387,7 +387,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`human-in-the-loop-ai`** — Human-in-the-Loop AI for Education
 - **`humanities-education`** — Humanities and Social Science Education
 - **`icap-framework`** — ICAP Framework
-- **`instructional-design`** — Instructional Design with AI
+- **`instructional-design`** — Instructional Design
 - **`intelligent-tutoring`** — Intelligent Tutoring
 - **`item-response-theory`** — Item Response Theory
 - **`k-12`** — K-12 AI Education
@@ -400,7 +400,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`learning-theories`** — Learning Theories
 - **`learner-identity`** — Learner Identity
 - **`theory-development-aied`** — Theory Development in AI in Education
-- **`lifelong-learning`** — Lifelong Learning and AI
+- **`lifelong-learning`** — Lifelong Learning
 - **`limitations-in-aied-research`** — Limitations in AIEd Research
 - **`llm`** — Large Language Models (LLMs)
 - **`math-education`** — Math Education
@@ -428,8 +428,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`prior-knowledge`** — Prior Knowledge
 - **`problem-based-learning`** — Problem-Based Learning
 - **`productive-failure`** — Productive Failure
-- **`inquiry-based-learning`** — Inquiry-Based Learning and AI
-- **`professional-training`** — Professional Training and AI
+- **`inquiry-based-learning`** — Inquiry-Based Learning
+- **`professional-training`** — Professional Training
 - **`project-based-learning`** — Project-Based Learning
 - **`prompt-engineering`** — Prompt Engineering
 - **`psychometrically-aware-ai`** — Psychometrically Aware AI
@@ -456,7 +456,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`socratic-method`** — Socratic Method
 - **`special-education`** — Special Education
 - **`stakeholders`** — People and Audiences in AI Education
-- **`stem-education`** — STEM Education and AI
+- **`stem-education`** — STEM Education
 - **`storytelling-in-education`** — Storytelling in Education
 - **`student-ai-interaction`** — Student-AI Interaction
 - **`student-engagement`** — Student Engagement
