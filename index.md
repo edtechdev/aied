@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-27 | **Total pages:** 1110
+**Last updated:** 2026-08-27 | **Total pages:** 1111
 ---
 ## Concepts
 
@@ -273,6 +273,7 @@
 - [[cognitive-diagnosis]] — Cognitive Diagnosis
 - [[cognitive-load-transfer-knowledge-tracing-2026]] — Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing
 - [[cognitive-offloading]] — Cognitive Offloading
+- [[cognitive-psychology]] — Cognitive Psychology / Cognitivism
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
