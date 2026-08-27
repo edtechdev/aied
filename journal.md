@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1091
+**Last updated:** 2026-08-27 | **Total entries:** 1093
 
 
 ## 2026-08-27
@@ -27,6 +27,11 @@
 
 - ◐ [[turano-ai-tutoring-not-a-monolith-2026]] — 'raw/papers/turano-ai-tutoring-not-a-monolith-2026.md'
   AI Tutoring is Not a Monolith: What We Actually Know
+
+- ◐ [[nesnin-cognitive-offloading-ai-students-2026]] — 'raw/papers/nesnin-cognitive-offloading-ai-students-2026.md'
+  Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?
+- ◐ [[seung-basham-cognitive-offloading-swld-2026]] — 'raw/papers/seung-basham-cognitive-offloading-swld-2026.md'
+  Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
 
 ## 2026-08-26
 
