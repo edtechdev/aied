@@ -461,7 +461,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`student-engagement`** — Student Engagement
 - **`student-experience`** — Student Experience with AI
 - **`student-misconceptions-ai`** — Student Misconceptions about AI
-- **`student-modeling`** — Student Modeling
+- **`student-modeling`** — Learner Modeling and Adaptive Instruction
 - **`summative-assessment`** — Summative Assessment
 - **`teacher-ai-competency`** — Teacher AI Competency
 - **`teacher-education`** — Teacher Education
