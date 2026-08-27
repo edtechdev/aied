@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T21:30:00-04:00"
+updated: "2026-08-27T06:22:51.426928-04:00"
 type: concept
 tags: [collaborative-learning, cscl, ai-education, student-experience, scaffolding, equity, k-12, higher-ed]
 confidence: high
@@ -69,6 +69,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[student-engagement]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 
 - [[ai-pbl-computational-thinking-2026]]
