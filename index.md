@@ -227,7 +227,7 @@
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions
-- [[business-education]] — AI in Business Education
+- [[business-education]] — Business Education
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI Evaluate Assessment? A Study of Large Language Model Meta-Assessment Performance
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
@@ -327,7 +327,7 @@
 - [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
-- [[cs-education]] — CS Education and AI
+- [[cs-education]] — CS Education
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[cui-motivation-roles-metacognitive-genai-2026]] — How motivation and roles influence metacognitive engagement in student-GenAI interaction
 - [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Cross-Boundary Community Learning
@@ -559,12 +559,12 @@
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems
 - [[inclusive-learning]] — Inclusive Learning
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
-- [[inquiry-based-learning]] — Inquiry-Based Learning and AI
+- [[inquiry-based-learning]] — Inquiry-Based Learning
 - [[inside-llm-student-simulator-reasoning-2026]] — INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
-- [[instructional-design]] — Instructional Design with AI
+- [[instructional-design]] — Instructional Design
 - [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
@@ -636,7 +636,7 @@
 - [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resisting AI”
 - [[liang-ai-learning-motivation-sdt-2026]] — From disengaged to self-determined: a latent transition analysis of students' AI learning motivation
 - [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
-- [[lifelong-learning]] — Lifelong Learning and AI
+- [[lifelong-learning]] — Lifelong Learning
 - [[limitations-in-aied-research]] — Limitations in AIEd Research
 - [[lin-llm-interactive-lesson-generation]] — Automatic Large Language Models Creation of Interactive Learning Lessons
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators
@@ -823,7 +823,7 @@
 - [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
 - [[problem-based-learning]] — Problem-Based Learning
 - [[productive-failure]] — Productive Failure
-- [[professional-training]] — Professional Training and AI
+- [[professional-training]] — Professional Training
 - [[programming-its]] — Programming Intelligent Tutoring Systems
 - [[project-based-learning]] — Project-Based Learning
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
@@ -943,7 +943,7 @@
 - [[stamatoulis-genai-use-patterns-2026]] — Same tool, different work: patterns of generative AI use and academic outcomes
 - [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
 - [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12: A 2026 Review
-- [[stem-education]] — STEM Education and AI
+- [[stem-education]] — STEM Education
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI
 - [[storytelling-in-education]] — Storytelling in Education
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The Generative AI Learning Penalty: Evidence from Chinese Secondary Education

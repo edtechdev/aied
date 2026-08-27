@@ -1,7 +1,7 @@
 ---
-title: Inquiry-Based Learning and AI
+title: Inquiry-Based Learning
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-24T18:30:00-04:00"
+updated: "2026-08-27T08:26:57.833590-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
 confidence: high
