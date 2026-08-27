@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-27 | **Total entries:** 1090
+**Last updated:** 2026-08-27 | **Total entries:** 1091
 
 
 ## 2026-08-27
@@ -24,6 +24,9 @@
 - ◐ [[learner-identity]] — Learner Identity
 
 - ❓ [[how-ai-impacts-students]] — How is AI Impacting Students?
+
+- ◐ [[turano-ai-tutoring-not-a-monolith-2026]] — 'raw/papers/turano-ai-tutoring-not-a-monolith-2026.md'
+  AI Tutoring is Not a Monolith: What We Actually Know
 
 ## 2026-08-26
 

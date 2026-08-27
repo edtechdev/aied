@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-27T08:07:41.879764-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
@@ -74,6 +74,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[social-emotional-learning]]
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[eduzone-llm-safety-k12]]
 - [[eduguard-safe-rag-llm-tutor]]

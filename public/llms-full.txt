@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 173 concepts, 915 articles, and 15 FAQs.
+> Complete text of 173 concepts, 916 articles, and 15 FAQs.
 
 # Concepts
 
@@ -387,6 +387,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
@@ -4520,6 +4521,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
 
@@ -5984,6 +5986,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[llm]] — the model layer being constrained
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
 - [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
@@ -7004,6 +7007,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[pedagogical-safety]]
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -7150,6 +7154,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[intelligent-tutoring]] — AI tutoring systems for younger students
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[ai-pbl-computational-thinking-2026]] — AI-assisted project-based learning and computational thinking
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT-scaffolded project-based learning in the classroom
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -7681,6 +7686,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[affective-tutoring]]
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -9265,6 +9271,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[social-emotional-learning]]
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[eduzone-llm-safety-k12]]
 - [[eduguard-safe-rag-llm-tutor]]
@@ -9498,6 +9505,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[mishra-control-vs-agency-history-2025]] — Distinguishes two forms of personalization (uniform vs diverse outcomes)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
@@ -9837,6 +9845,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
@@ -12390,6 +12399,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[cognitive-diagnosis]]
 - [[feedback]]
 ## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[interactive-online-learning-ai-2025]]
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
@@ -56504,6 +56514,55 @@ Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 student
 
 Tubino, L., & Adachi, C. (2022). [*Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool*](https://doi.org/10.14742/apubs.2022.39). In S. Wilson, N. Arthars, D. Wardak, P. Yeoman, E. Kalman, & D.Y.T. Liu (Eds.), *Reconnecting relationships through technology: Proceedings of the 39th ASCILITE Conference* (e22039).
 - [[feedback-literacy]]
+
+---
+
+## [AI Tutoring is Not a Monolith: What We Actually Know](https://edtechdev.github.io/aied/articles/turano-ai-tutoring-not-a-monolith-2026/)
+
+> **AI tutoring is not a monolith** — a Stanford SCALE / National Student Support Accelerator (NSSA) policy brief (August 2026) mapping AI tutoring models along a "relational intensity" spectrum and weighing them against the evidence base for high-impact tutoring. The brief's core message: high-impact tutoring remains defined by live human-led instruction with strong student-tutor relationships; AI is best used to *enhance tutor effectiveness and educator capacity*, not to replace human-led high-impact tutoring. AI-led software offers potential for supplemental practice but does not yet meet the evidence base or definition of high-impact tutoring — and its effectiveness depends as much on integration (teachers in classrooms, parents at home) as on software quality.
+
+## Key Findings
+
+- **AI tutoring is a spectrum, not a single thing.** The brief maps models by *relational intensity* (the depth and consistency of human connection between student and tutor): human-led (in-person/remote tutoring, human tutoring with AI support) → AI-led with human support → AI-only tutoring. As direct human relationships decrease, the evidence base becomes thinner.
+- **High-impact tutoring is well-evidenced; AI-led is not (yet).** Students in high-impact tutoring show learning gains of three to more than 15 months across grade levels and content areas. The emergent AI-tutoring research base lags field implementation. A pair of [[rct|RCTs]] across two school districts found human check-ins raised elementary students' [[student-engagement|engagement]] with an AI platform, but usage still fell short of the dosage associated with gains and reading achievement did not improve.
+- **Dosage is the key driver — and AI struggles to meet it.** AI-led tutoring inherits the dosage evidence base (e.g., ~90-minute weekly threshold) only when scheduled, supervised, and protected within the school day. In a study of 181,000 students on a supplemental math platform, only 5% reached the recommended 30 minutes/week and 41% never logged on; teacher/school/district factors explained 57% of usage variance. Even AI-only tutoring studies saw 40–47% of students never use the platform.
+- **The student-tutor relationship is central and not replicable by AI.** Relationship-building strategies — especially consistent tutoring with the same tutor — improve engagement, attendance, motivation, and [[learning-gains|learning outcomes]]. AI does not yet replicate human relationships; developers describe using AI strengths rather than replacing relationships.
+- **[[human-in-the-loop-ai|Human oversight]] improves engagement and alignment but not dosage.** Human supervision of AI-led sessions preserved structured learning goals and [[curriculum-design|curriculum]] alignment, but did not by itself get students to the dosage that produces gains.
+- **Safety and privacy are essential [[guardrails]].** Safe direct-to-student AI requires strict student [[privacy|data privacy]] safeguards (enterprise-grade platforms, formal data-protection agreements, PII training) and attention to student-safety guardrails and the depth of unmonitored interaction. Open questions remain about AI companions' effects on developing minds and prosocial development.
+
+## Implications
+
+- **Use AI to augment, not replace.** Prioritize applications that expand human-led instruction and educator capacity — e.g., AI-generated curriculum-aligned practice materials, lesson preparation, real-time tutor support, scheduling, and data analysis.
+- **Evaluate AI tutoring against the high-impact-tutoring elements.** For any AI model, ask which conditions of effective tutoring it reproduces, changes, or drops (regularity, small-group/1:1 ratios, well-trained tutors, data-driven instruction, vetted materials, strong relationships) — more useful than asking whether "AI tutoring works."
+- **Design for integration and dosage.** AI tutoring's effectiveness depends on being embedded in school-day structures with enforced dosage and oversight; AI reintroduces an opt-in requirement that live school-day tutoring removes.
+- **Treat evidence gaps seriously.** AI-led and AI-only models sit in yellow/red zones with significant evidence gaps on effectiveness, safety, and developmental impact — warranting careful, staged adoption.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[student-modeling]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[k-12]]
+- [[guardrails]]
+- [[pedagogical-safety]]
+- [[privacy]]
+- [[educational-policy-ai]]
+- [[learning-gains]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles?
+- [[ai-tutoring-quality-k12-methodologies-2026]] — AI tutoring quality in K-12: methodologies
+- [[hybrid-human-ai-tutoring-differentiated]] — Hybrid human-AI tutoring
+- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: AI tutoring
+- [[ai-tutor-safety-harms]] — AI tutor safety and harms
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+
+## Citation
+
+Turano, C., Pihl, V., Agnew, C., Ziegler, L., & Loeb, S. (2026). *AI Tutoring is Not a Monolith: What We Actually Know.* Stanford SCALE / National Student Support Accelerator (NSSA), Stanford University. [https://scale.stanford.edu](https://scale.stanford.edu)
 
 ---
 
