@@ -16,10 +16,13 @@ jobs:
           node-version: 22
           cache: 'npm'
       - run: npm ci
-      - run: npx astro build
+      - run: npm run build
       - name: Verify output
         run: |
           echo "Articles built: $(find dist/articles -name 'index.html' | wc -l)"
           echo "Concepts built: $(find dist/concepts -name 'index.html' | wc -l)"
           test -f dist/index.html
           test -f dist/pagefind/pagefind-entry.json
+          # PWA: manifest + service worker must be present
+          test -f dist/manifest.webmanifest
+          test -f dist/sw.js
