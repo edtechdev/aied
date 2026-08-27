@@ -1,15 +1,15 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-27T05:32:07.754943-04:00"
+updated: "2026-08-27T05:42:13.160523-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
 ---
 
-> **Personalized learning** — tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
+> **Personalized learning** — tailoring educational experiences to individual [[student-modeling|learner profiles]], including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
 
-Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
+Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
 - **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** distinguish two forms of personalization with deep historical roots — uniform outcomes reached via varied paths (Skinner's teaching machines to Khan Academy-style mastery tutoring) vs. diverse, learner-chosen outcomes — mapping onto the field's control-vs-agency tension.
 
@@ -45,7 +45,7 @@ Personalization and [[assessment]] are tightly coupled in AI-driven learning. Ad
 
 ## Personalization in the AI era
 
-Generative AI has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The wiki's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
+[[generative-ai|Generative AI]] has shifted personalization from rule-based [[knowledge-tracing]] to more flexible, conversational adaptation. LLM-based tutors (e.g., [[deeptutor|DeepTutor]], [[learnmate2-llm-adaptive-learning|LearnMate-2]], [[chudziak-ai-math-tutoring-platform|multi-agent adaptive tutors]]) personalize language, explanation style, and social context, not just problem difficulty. This raises new questions: maintaining learner [[agency]] and productive struggle ([[desirable-difficulties]]), avoiding [[cognitive-offloading|over-personalization]] that removes cognitive effort, and keeping profiles up to date. The wiki's [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] literatures address how far personalization should be automated and where human judgment must intervene.
 
 ## Terminological ambiguity
 
