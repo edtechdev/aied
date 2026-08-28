@@ -119,3 +119,4 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[student-llm-interaction-taxonomy-review-2026]]
 
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)

@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 175 concepts, 932 articles, and 15 FAQs.
+> Complete text of 176 concepts, 936 articles, and 15 FAQs.
 
 # Concepts
 
@@ -40,7 +40,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is ([[ai-education|the umbrella itself]], [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]] and [[ai-use-disclosure|AI use disclosure]] round out the practical cross-cutting layer.
+The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is ([[ai-education|the umbrella itself]], [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability and AI]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
 
 ## Learning and instruction
 
@@ -168,6 +168,259 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
+
+---
+
+## [Misconceptions about AI](https://edtechdev.github.io/aied/concepts/misconceptions/)
+
+> **Misconceptions about AI** — the inaccurate beliefs people hold about what AI systems are, what they do, and what using them means for learning and work. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process). They are held not only by students but also by teachers, administrators, policymakers, and the broader public — and correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
+
+Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the wiki documents under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, assessment, and policy.
+
+### What AI misconceptions are
+
+A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in [[learning-theories|learning science]]: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
+
+### Common misconceptions in academic contexts
+
+- **The authority fallacy** — treating [[llm]] output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
+- **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[cognitive-offloading|Over-Reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
+- **The neutrality illusion** — assuming AI is objective and unbiased. Students often miss that models encode training-data biases and that in [[writing-education]] contexts this produces idea homogenization across a cohort.
+- **The integrity gray zone** — misjudging whether [[academic-integrity|AI use is acceptable]]. Some students see AI output as "not copying a person" and therefore permissible; others over-correct and think *any* use is cheating. [[governance|Institutional]] inconsistency feeds both errors.
+- **Anthropomorphism** — believing the model has intent, memory, and understanding of *their* context. This over-trust is especially risky academically, because students may rely on plausible-sounding explanations the model cannot actually ground.
+- **The determinism error** — expecting one query to be enough and not realizing output is non-deterministic and prompt-sensitive. Underestimating this produces the "[[prompt-engineering|prompting]] gap," where students mistake shallow results for the tool's ceiling.
+- **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
+- **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
+
+### Institutional and public AI myths
+
+Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and agentic, that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises [[higher-ed|higher education]]," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[trust|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
+
+### Why misconceptions matter for learning
+
+Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the wiki's evidence base.
+
+### Misconceptions beyond students: teachers, institutions, and the public
+
+AI misconceptions are not confined to learners — they are pervasive among the adults who shape education:
+
+- **Teachers and faculty** may overestimate AI's ability to reliably grade or detect misuse, or underestimate its bias, leading to either uncritical adoption or reflexive banning. When teachers hold the [[trust|authority fallacy]] about AI outputs, they model the same uncritical posture they should be correcting in students. Preparing [[teacher-role|educators]] with accurate mental models of AI is a prerequisite for [[teacher-ai-competency|responsible AI integration]] and [[pedagogical-safety|safe pedagogy]].
+- **Administrators and policymakers** inherit and propagate institutional myths — that AI is "objective," that it will "revolutionise" education, or that detection tools are trustworthy — which then shape [[educational-policy-ai|policy]], procurement, and assessment rules. The [[trust-calibration|trust]] students develop is partly a product of the institutional framing they inherit.
+- **The general public** absorbs media and vendor narratives about AI's capabilities and risks. Because students learn within this discourse, public myths become the substrate from which student misconceptions grow. Correcting AI misconceptions is therefore an [[ai-literacy]] task aimed at the whole educational ecosystem, not only at learners.
+
+This breadth is why the wiki treats misconceptions as a cross-cutting foundational theme rather than a purely student-facing one: the same calibration errors recur across learners, teachers, institutions, and the public, and correcting them requires confronting both individual beliefs and the discourse that feeds them.
+
+### Correcting misconceptions
+
+Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process that develops [[metacognition]] and [[self-regulated-learning]]: helping students (and the adults around them) monitor their reliance, calibrate when to trust and when to question a model, and see the cost of bypassing their own [[cognitive-offloading|cognitive work]]. Because misconceptions are resistant, they are best addressed through direct confrontation with evidence — including the finding that students often *do not perceive* the learning harm of AI misuse.
+
+**Refutation text is a core correction technique.** Because misconceptions are actively held and resistant, the most direct evidence-based strategy is the [[refutation-text|refutation text]] — an instructional text that states the misconception, explicitly refutes it, and presents the correct conception. This is the same family of technique used to correct the domain misconceptions studied in learning science, applied here to students' beliefs about AI itself. The wiki's [[refutation-text]] concept page synthesizes how this plays out in [[ai-education|AI in education]] in three complementary ways:
+
+- **AI as the corrector.** [[conversational-ai|Conversational AI]] tutors can deliver *personalised* refutation, adapting the refutation to a learner's specific misconception on the fly. [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]] found personalised AI dialogue produced larger and faster belief reductions than static textbook-style refutation, with higher [[student-engagement|engagement]] and confidence — though the advantage faded by two months without reinforcement.
+- **AI as the generator of refutation content.** [[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan (2025)]] found AI-generated conceptual-change/refutation text matched expert-written quality (and both outperformed a prompted interactive dialogue in that science context), showing AI can produce effective correction materials at scale.
+- **AI-generated misconceptions as a learning resource.** Rather than treating AI-generated misconceptions as merely harmful, [[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. (2026)]] propose generating misconceptions and addressing them through structured peer discussion — a collaborative form of refutation that promotes conceptual change and [[critical-thinking|critical thinking]].
+
+For misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help people see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears. Because misconceptions span learners and the adults who shape learning, effective correction must reach [[teacher-role|teachers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]] as much as students.
+
+### Refutation-style corrections for common AI misconceptions
+
+Because misconceptions are actively held and resistant, the most direct way to address them — including on this page — is the [[refutation-text|refutation-text]] structure: **name the misconception, explicitly refute it, and state the correct conception.** The entries below apply that structure to the most consequential misconceptions about AI and about learning, teaching, and education:
+
+**"AI is always right."** *That's a misconception.* AI output is a probabilistic completion, not a verified fact. *The correction:* LLMs generate plausible-sounding text based on statistical patterns; they can [[hallucination-risk|hallucinate]], be biased, and be confidently wrong. Treat output as a draft to be checked against sources, not an authority to be accepted. This is the core of [[trust-calibration]] and why "always verify" beats "always trust."
+
+**"Using AI is learning."** *That's a misconception.* Producing work *with* AI is not the same as acquiring the knowledge or skill the work is supposed to demonstrate. *The correction:* durable learning happens through the effortful processes of drafting, recalling, revising, and metacognitively reviewing — exactly the processes that [[cognitive-offloading|offloading]] to AI short-circuits. Use AI as a tool alongside that effort, not a replacement for it.
+
+**"AI is neutral and objective."** *That's a misconception.* Models inherit the biases, gaps, and perspectives of their training data. *The correction:* AI can reproduce and amplify [[bias-mitigation|bias]]; treat its outputs with the same source-critical scrutiny you would apply to any other text. Awareness of this is part of [[ai-literacy]] and helps counteract the [[equity-in-ai-education|equity]] harms of uncritical adoption.
+
+**"AI will replace teachers."** *That's a misconception.* AI augments but does not displace the [[pedagogy|pedagogical]] work of [[teacher-role|teachers]] — judgement, contextualisation, and the relational and [[ethics|ethical]] dimensions of teaching. *The correction:* AI increases the need for pedagogical mediation and critical judgement; teachers who understand AI become more effective, not obsolete. This reframing matters because it shapes whether institutions invest in [[teacher-ai-competency|teacher AI competency]] or reflexively resist or over-adopt.
+
+**"AI understands like a person."** *That's a misconception.* Models have no intent, memory of you, or genuine understanding of your context. *The correction:* anthropomorphising AI leads to over-trust and reliance on explanations the model cannot actually ground. Keep the boundary clear: AI is a powerful tool, not a mind.
+
+**"AI will transform education automatically."** *That's a misconception.* Technology alone does not change learning; it is the pedagogy around it that does. *The correction:* AI's benefits depend on intentional [[instructional-design|instructional design]], teacher preparation, and institutional support — not on simply deploying the tool. This is why [[ai-ed-evaluation|evidence]] and [[research-methods-aied|rigorous evaluation]] matter, and why the wiki frames responsible AI use as a [[governance|governance]] and [[educational-policy-ai|policy]] question rather than a purely technical one.
+
+**"One prompt should give me the answer."** *That's a misconception.* Output is non-deterministic and prompt-sensitive. *The correction:* expect to iterate, refine, and cross-check; the "prompting gap" — mistaking shallow first results for the tool's ceiling — is a skill problem, not a tool limit. Developing this is part of [[prompt-engineering]].
+
+**"It's not cheating if a person didn't write it."** *That's a misconception.* Academic integrity is about the honest, attributable production of work, not just about not copying a person. *The correction:* undisclosed AI-generated submission can violate [[academic-integrity]] even when no human was copied; the question is whether the work is genuinely the learner's. When in doubt, disclose and check your institution's policy.
+
+These refutations are deliberately written in the [[refutation-text|refutation-text]] form so they can themselves be used (or adapted into interactive [[conversational-ai|AI dialogue]]) to confront and correct misconceptions about AI — and about learning, teaching, and education more broadly.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[academic-integrity]]
+- [[hallucination-risk]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[framing-ai-use-for-students]]
+- [[refutation-text]]
+- [[teacher-role]]
+- [[educational-policy-ai]]
+- [[trust]]
+
+## Connected Articles
+
+- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
+
+- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
+- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
+- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
+- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
+- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
+
+---
+
+## [AI Literacy](https://edtechdev.github.io/aied/concepts/ai-literacy/)
+
+> **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
+
+AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift [[agency]] from human to machine — making [[critical-thinking]] and [[cognitive-offloading|Over-Reliance]] central to the construct.
+
+### Dimensions of AI literacy
+
+AI literacy research in this wiki spans four interconnected dimensions:
+
+**Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
+
+**Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how [[k-12|K-12 teachers]] can develop practical AI literacy through guided tool creation.
+
+**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less.
+
+**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
+
+### How AI literacy is developed
+
+Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
+
+**Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* motivational profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
+
+A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate [[feedback]]. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
+
+AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical [[teacher-role|educators]] and families.
+
+**AI literacy as a core gap in conversational-AI frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.^[[conversational-ai-agents-umbrella-review-2026]]
+
+**Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective pedagogies (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this wiki.
+
+### Critical AI literacy: beyond skills to power and resistance
+
+A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
+
+- **"Resisting AI" as a literacy stance.** Critical AI Literacy (CAIL) can encompass *resisting AI* — refusing the inevitability and techsolutionism of dominant discourse, and cultivating collective agency through dialogic, collaborative pedagogies.^[[li-mroziak-reorienting-critical-ai-literacy]] This positions education as a space where communities imagine and build alternative futures, rather than merely adapt to a given technological order.
+- **Community-based epistemologies.** Community-based AI learning grounds AI engagement in learners' lived and community-based ways of knowing, redistributing AI's epistemic authority through epistemic fine-tuning, redistribution of authority, and situated discernment.^[[ojeda-ramirez-community-based-ai-learning]]
+- **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural sustainability — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.^[[avraamidou-ai-colonization-science-education]]
+- **Situated curriculum devices.** AI literacy can be built through [[situated-learning|situated]], active teaching instruments (e.g., Episodes of Situated Learning) that develop AI competencies across levels rather than through abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
+- **Regulatory competence, not acceptance.** Kim (2026) reframes AI literacy in [[higher-ed|higher education]] as *[[regulation|regulatory competence]]* — an enacted practice of verifying, revising, selectively adopting, or rejecting AI output during academic work — showing that evaluative capacity and ethical awareness (not mere willingness to use AI) predict active, [[student-engagement|critical engagement]].^[[ai-anxiety-strategic-regulation-writing-2026]]
+- **Recognizing [[ai-sycophancy|sycophancy]] as a literacy skill.** A core evaluative competency is recognizing when an AI is *agreeing* with the learner versus being correct. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce — but do not eliminate — sycophantic mirroring of user errors, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] is preferred by users precisely because it makes them feel understood. AI literacy must therefore teach learners to detect agreement-for-its-own-sake and to value corrective friction, connecting to [[trust-calibration]] and [[reducing-ai-misuse]].
+
+These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
+
+### Whose AI skills count? The instructor–employer framing divide
+
+A central open question in AI literacy is *which* skills matter and for whom. An Ithaka S+R study comparing how US instructors and employers prioritize the 26 skills of the HiBob AI Skills Framework found they agree on the importance of only one (setting realistic expectations for AI-augmented work). Instructors weight a **critical, responsible-use orientation** — recognizing AI's limits, transparency and attribution, human accountability, proactive output review — which aligns with academic values of attribution, review, and information literacy. Employers weight **productivity-oriented skills** — workflow evaluation and redesign, automation, and [[human-ai-collaboration|human–AI teaming]] — that reflect team-based workplace efficiency. Because only three of 26 skills are taught by half or more instructors, and those taught skew toward the critical-use categories, the report identifies a concrete **AI skills gap**: whole categories employers value are neither prioritized nor taught in college curricula.^[[ithaka-sr-ai-skills-college-graduates-2026]] This divide frames AI literacy as a contested construct — critical-use literacy for academic settings versus workflow-integration literacy for employment — a tension relevant to [[framing-ai-use-for-students]], [[curriculum-design]], and [[professional-training]].
+
+### Designing AI literacy interventions
+
+The wiki's frameworks and empirical studies converge on a set of practical guidelines for educators and instructional designers building AI literacy interventions:
+
+**1. Use a structured competency framework as scaffolding, not a checklist.** Mature frameworks give designers a shared vocabulary and a developmentally sequenced target. The [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL framework]] organizes AI literacy into three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) across four scaffolded levels — Understand and Explore → Apply and Integrate → Evaluate and Create → AI++. The [[ai-literacy-heptagon-2026|AI Literacy Heptagon]] cross-cuts seven dimensions (technical knowledge, application, critical thinking, ethics, social impact, integration, legal/regulatory) with four Bloom-aligned proficiency levels, and stresses that emphasis must be **adapted to disciplinary context** — technical programs weight application, humanities programs weight ethical and social-impact reasoning.^[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]^[[ai-literacy-heptagon-2026]]
+
+**2. Engage learners across ICAP modes.** Applying the [[icap-framework|ICAP framework]], effective instruction gives learners opportunities to engage at multiple cognitive levels — passive exposure (AI concept lectures), active manipulation (hands-on tool use), constructive generation (creating AI artifacts, self-explaining), and interactive dialogue (collaborative problem-solving with peers and AI) — selecting the mode that fits the learning goal. A systematic review found successful collaborative AI-literacy interventions spanned all four ICAP modes.^[[hingle-collaborative-ai-literacy-2025]]
+
+**3. Assess demonstrated competence, not self-perception.** Self-reported AI literacy diverges sharply from measured performance — teachers overestimate their AI skills by ~40%, and performance-based measures correlate with classroom AI integration far better than self-reports (r≈0.72 vs 0.31). Design interventions around performance-based assessment and calibration rather than confidence surveys, and use diagnostic profiles (overestimators vs. true novices) to target support.^[[ai-literacy-assessment-misalignment]]
+
+**4. Build metacognitive and critical dispositions, not just operational skill.** AI literacy is better understood as a [[metacognition|metacognitive social practice]] than a skills checklist: because LLMs are probabilistic and opaque, learners must monitor and adjust their strategies, cultivate scientific skepticism, and interrogate how algorithms shape knowledge production — not merely learn to operate tools. Participatory co-design and experimental, project-based spaces (not one-off tool training) are where this awareness grows.^[[metacognitive-ai-literacy-beyond-skills-gap-2026]]
+
+**5. Embed literacy in the discipline and make it sustained.** Movement toward higher stages of AI literacy (from uncritical use → informed use → critical evaluation → improvement) is most visible when experiences are **sustained and discipline-embedded** rather than delivered as standalone workshops. Design for repeated, contextual practice within authentic coursework.^[[ai-literacy-continuum-higher-education]] A concrete model of discipline-embedded critical literacy is the task-based taxonomy of [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. (2026)]] for journalism: it maps LLM-supported tasks across the four stages of the news workflow (newsgathering, sensemaking, editing, publication/distribution), each tied to a baseline [[prompt-engineering|prompt]] and a risk-and-mitigation strategy. By treating task definition and prompting as a [[situated-learning|situated]] form of professional judgement — not a neutral technical skill — it turns prompting itself into a vehicle for critical AI literacy (bias, hallucination, overreliance, and the enduring value of [[human-in-the-loop-ai|human editorial oversight]]), and its underlying logic transfers to other knowledge-intensive professions (law, medicine, public policy). Complementary to such discipline-specific taxonomies, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] classifies GenAI learning activities along six dimensions, of which **Epistemic Engagement** (understanding / using / critiquing / constructing GenAI) directly operationalises AI literacy as the depth of learners' cognitive relationship with the technology — from passive exposure to active critique and construction.
+
+**6. Treat equity and the digital divide as design constraints.** AI literacy is a mechanism for addressing the three-level digital divide (access, skills, outcomes): closing the device gap is insufficient unless skills and critical use are built so benefits distribute fairly. Interventions should plan explicitly for learners who enter with less prior AI access, and incorporate cultural and governance perspectives rather than treating literacy as culture-neutral.^[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]^[[digital-divide]]
+
+**7. Pair literacy with misuse-reduction levers.** Because AI misuse actively harms durable learning, literacy instruction should be coupled with the structural and educative levers documented under [[reducing-ai-misuse]] — guardrailed "hint-not-answer" tool design, assessment redesign, and scaffolded think-first/AI-second sequences with deliberate prompting practice.
+
+**8. Start from learners' actual entry point.** Learners enter with distinct orientations — avoidance driven by fear, mistrust, or lack of access, versus uncritical reliance that masks misunderstanding. A diagnostic, stage-based approach (rather than a uniform curriculum) lets designers meet students where they are and move them toward critical, responsible engagement.^[[ai-literacy-continuum-higher-education]]
+
+### Measuring AI literacy
+
+A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The wiki's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
+
+### Connections across the wiki
+
+AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
+
+AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI [[self-efficacy]] and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and [[self-regulated-learning]] scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
+
+- **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
+
+- **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
+
+## Connected Concepts
+- [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
+
+- [[generative-ai]] — the technology AI literacy targets
+- [[llm]] — the systems at the heart of AI literacy
+- [[cognitive-offloading]] — the over-reliance risk literacy counters
+- [[critical-thinking]] — core evaluative disposition
+- [[prompt-engineering]] — core practical competence
+- [[reducing-ai-misuse]] — literacy's behavioral payoff
+- [[icap-framework]] — engagement taxonomy for designing literacy instruction
+- [[metacognition]] — literacy as metacognitive social practice
+- [[self-regulated-learning]] — self-regulation as a literacy resource
+- [[academic-integrity]] — knowing what constitutes appropriate AI use
+- [[ai-education]] — the broader field
+- [[teacher-ai-competency]] — educator preparedness
+- [[faculty-development]] — building educator literacy
+- [[equity-in-ai-education]] — fair distribution of literacy
+- [[digital-divide]] — the access/skills/outcomes gap
+- [[ethics]] — ethical awareness dimension
+- [[governance]] — institutional-level literacy
+- [[educational-policy-ai]] — policy framing
+- [[privacy]] — ethical/institutional concern
+- [[agency]] — human agency vs machine shift
+- [[ai-sycophancy]] — literacy skill of detecting agreement
+- [[trust-calibration]] — calibrating appropriate trust
+- [[k-12]] — school-level literacy
+- [[higher-ed]] — university-level literacy
+
+## Connected Articles
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
+
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
+- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
+- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
+- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
+- [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
+- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
+- [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy: power, resistance, agency
+- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy for critical AI literacy in journalism
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
+- [[panciroli-ai-literacy-episodes-situated-learning]] — Episodes of Situated Learning for AI literacy
+- [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
+- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy as an AI literacy intervention
+- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
+- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor-employer AI skills gap
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
+- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
+
+- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
+- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 ---
@@ -359,153 +612,6 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 
 ---
 
-## [AI Literacy](https://edtechdev.github.io/aied/concepts/ai-literacy/)
-
-> **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
-
-AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift [[agency]] from human to machine — making [[critical-thinking]] and [[cognitive-offloading|Over-Reliance]] central to the construct.
-
-### Dimensions of AI literacy
-
-AI literacy research in this wiki spans four interconnected dimensions:
-
-**Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
-
-**Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how [[k-12|K-12 teachers]] can develop practical AI literacy through guided tool creation.
-
-**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who [[trust]] AI uncritically learn less.
-
-**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and [[governance|governance frameworks]] — institutional AI literacy is a matter of [[educational-policy-ai|policy]] as much as pedagogy. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
-
-### How AI literacy is developed
-
-Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Interactive → Constructive → Active → Passive) provides a useful taxonomy of cognitive engagement: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Designers should select the mode that fits the learning goal and favor the deeper (constructive and interactive) modes where possible. Practical activities — designing prompts, evaluating outputs in groups, debating AI [[ethics]] — outperform lectures.
-
-**Motivation is a precondition, not just an outcome.** [[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]] found, across 2,086 secondary students in a year-long AI curriculum, that students who transitioned into or remained in a *Self-Determined* motivational profile (high autonomy, competence, and relatedness need satisfaction) showed the **greatest AI-literacy gains**. AI literacy develops through sustained engagement, and that engagement is itself shaped by motivation and psychological-need support — so effective AI-literacy instruction should attend to learners' motivation, not only their skills.
-
-A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate [[feedback]]. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
-
-AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical [[teacher-role|educators]] and families.
-
-**AI literacy as a core gap in conversational-AI frameworks.** The [[conversational-ai-agents-umbrella-review-2026|umbrella review of conversational AI agents]] (Ganguly et al. 2025, 34 reviews) identifies **limited AI literacy support** as a major gap in CAI frameworks, and its ethical-use roadmap makes foundational assessment (including strengthening AI literacy) the first pillar alongside participatory design, ethical-use guidelines, and continuous evaluation of cognitive impact. It further finds that AI-literacy, training, and awareness rank among the most-emphasized ethical directions in the CAI literature.^[[conversational-ai-agents-umbrella-review-2026]]
-
-**Effectiveness of AI literacy interventions.** A [[liu-ai-literacy-interventions-meta-analysis-2026|three-level meta-analysis of 59 studies]] (172 effect sizes, 7,211 participants) estimates a large overall effect of AI literacy interventions (g = 0.837, p < .001) — but with a wide prediction interval [−0.292, 1.966], so effectiveness varies considerably across settings. Interventions in East Asia and Europe outperformed those in North America, and knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics. The authors argue AI literacy education should therefore move beyond knowledge toward skills, practices, ethics, and attitudes, supported by integrated and reflective pedagogies (project- and problem-based, inquiry-based, experiential) and GenAI-supported tools — a shift that aligns with the participatory, producer-oriented forms of [[computational-thinking]] described elsewhere in this wiki.
-
-### Critical AI literacy: beyond skills to power and resistance
-
-A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
-
-- **"Resisting AI" as a literacy stance.** Critical AI Literacy (CAIL) can encompass *resisting AI* — refusing the inevitability and techsolutionism of dominant discourse, and cultivating collective agency through dialogic, collaborative pedagogies.^[[li-mroziak-reorienting-critical-ai-literacy]] This positions education as a space where communities imagine and build alternative futures, rather than merely adapt to a given technological order.
-- **Community-based epistemologies.** Community-based AI learning grounds AI engagement in learners' lived and community-based ways of knowing, redistributing AI's epistemic authority through epistemic fine-tuning, redistribution of authority, and situated discernment.^[[ojeda-ramirez-community-based-ai-learning]]
-- **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural sustainability — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.^[[avraamidou-ai-colonization-science-education]]
-- **Situated curriculum devices.** AI literacy can be built through [[situated-learning|situated]], active teaching instruments (e.g., Episodes of Situated Learning) that develop AI competencies across levels rather than through abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
-- **Regulatory competence, not acceptance.** Kim (2026) reframes AI literacy in [[higher-ed|higher education]] as *[[regulation|regulatory competence]]* — an enacted practice of verifying, revising, selectively adopting, or rejecting AI output during academic work — showing that evaluative capacity and ethical awareness (not mere willingness to use AI) predict active, [[student-engagement|critical engagement]].^[[ai-anxiety-strategic-regulation-writing-2026]]
-- **Recognizing [[ai-sycophancy|sycophancy]] as a literacy skill.** A core evaluative competency is recognizing when an AI is *agreeing* with the learner versus being correct. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows AI literacy and prompting training reduce — but do not eliminate — sycophantic mirroring of user errors, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] is preferred by users precisely because it makes them feel understood. AI literacy must therefore teach learners to detect agreement-for-its-own-sake and to value corrective friction, connecting to [[trust-calibration]] and [[reducing-ai-misuse]].
-
-These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
-
-### Whose AI skills count? The instructor–employer framing divide
-
-A central open question in AI literacy is *which* skills matter and for whom. An Ithaka S+R study comparing how US instructors and employers prioritize the 26 skills of the HiBob AI Skills Framework found they agree on the importance of only one (setting realistic expectations for AI-augmented work). Instructors weight a **critical, responsible-use orientation** — recognizing AI's limits, transparency and attribution, human accountability, proactive output review — which aligns with academic values of attribution, review, and information literacy. Employers weight **productivity-oriented skills** — workflow evaluation and redesign, automation, and [[human-ai-collaboration|human–AI teaming]] — that reflect team-based workplace efficiency. Because only three of 26 skills are taught by half or more instructors, and those taught skew toward the critical-use categories, the report identifies a concrete **AI skills gap**: whole categories employers value are neither prioritized nor taught in college curricula.^[[ithaka-sr-ai-skills-college-graduates-2026]] This divide frames AI literacy as a contested construct — critical-use literacy for academic settings versus workflow-integration literacy for employment — a tension relevant to [[framing-ai-use-for-students]], [[curriculum-design]], and [[professional-training]].
-
-### Designing AI literacy interventions
-
-The wiki's frameworks and empirical studies converge on a set of practical guidelines for educators and instructional designers building AI literacy interventions:
-
-**1. Use a structured competency framework as scaffolding, not a checklist.** Mature frameworks give designers a shared vocabulary and a developmentally sequenced target. The [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL framework]] organizes AI literacy into three domains (AI Concepts; Application and Technical Skills; AI Digital Citizenship) across four scaffolded levels — Understand and Explore → Apply and Integrate → Evaluate and Create → AI++. The [[ai-literacy-heptagon-2026|AI Literacy Heptagon]] cross-cuts seven dimensions (technical knowledge, application, critical thinking, ethics, social impact, integration, legal/regulatory) with four Bloom-aligned proficiency levels, and stresses that emphasis must be **adapted to disciplinary context** — technical programs weight application, humanities programs weight ethical and social-impact reasoning.^[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]^[[ai-literacy-heptagon-2026]]
-
-**2. Engage learners across ICAP modes.** Applying the [[icap-framework|ICAP framework]], effective instruction gives learners opportunities to engage at multiple cognitive levels — passive exposure (AI concept lectures), active manipulation (hands-on tool use), constructive generation (creating AI artifacts, self-explaining), and interactive dialogue (collaborative problem-solving with peers and AI) — selecting the mode that fits the learning goal. A systematic review found successful collaborative AI-literacy interventions spanned all four ICAP modes.^[[hingle-collaborative-ai-literacy-2025]]
-
-**3. Assess demonstrated competence, not self-perception.** Self-reported AI literacy diverges sharply from measured performance — teachers overestimate their AI skills by ~40%, and performance-based measures correlate with classroom AI integration far better than self-reports (r≈0.72 vs 0.31). Design interventions around performance-based assessment and calibration rather than confidence surveys, and use diagnostic profiles (overestimators vs. true novices) to target support.^[[ai-literacy-assessment-misalignment]]
-
-**4. Build metacognitive and critical dispositions, not just operational skill.** AI literacy is better understood as a [[metacognition|metacognitive social practice]] than a skills checklist: because LLMs are probabilistic and opaque, learners must monitor and adjust their strategies, cultivate scientific skepticism, and interrogate how algorithms shape knowledge production — not merely learn to operate tools. Participatory co-design and experimental, project-based spaces (not one-off tool training) are where this awareness grows.^[[metacognitive-ai-literacy-beyond-skills-gap-2026]]
-
-**5. Embed literacy in the discipline and make it sustained.** Movement toward higher stages of AI literacy (from uncritical use → informed use → critical evaluation → improvement) is most visible when experiences are **sustained and discipline-embedded** rather than delivered as standalone workshops. Design for repeated, contextual practice within authentic coursework.^[[ai-literacy-continuum-higher-education]] A concrete model of discipline-embedded critical literacy is the task-based taxonomy of [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. (2026)]] for journalism: it maps LLM-supported tasks across the four stages of the news workflow (newsgathering, sensemaking, editing, publication/distribution), each tied to a baseline [[prompt-engineering|prompt]] and a risk-and-mitigation strategy. By treating task definition and prompting as a [[situated-learning|situated]] form of professional judgement — not a neutral technical skill — it turns prompting itself into a vehicle for critical AI literacy (bias, hallucination, overreliance, and the enduring value of [[human-in-the-loop-ai|human editorial oversight]]), and its underlying logic transfers to other knowledge-intensive professions (law, medicine, public policy). Complementary to such discipline-specific taxonomies, the [[dohn-boundary-object-classifying-genai-learning-activities-2026|Dohn et al. (2026) taxonomy]] classifies GenAI learning activities along six dimensions, of which **Epistemic Engagement** (understanding / using / critiquing / constructing GenAI) directly operationalises AI literacy as the depth of learners' cognitive relationship with the technology — from passive exposure to active critique and construction.
-
-**6. Treat equity and the digital divide as design constraints.** AI literacy is a mechanism for addressing the three-level digital divide (access, skills, outcomes): closing the device gap is insufficient unless skills and critical use are built so benefits distribute fairly. Interventions should plan explicitly for learners who enter with less prior AI access, and incorporate cultural and governance perspectives rather than treating literacy as culture-neutral.^[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]^[[digital-divide]]
-
-**7. Pair literacy with misuse-reduction levers.** Because AI misuse actively harms durable learning, literacy instruction should be coupled with the structural and educative levers documented under [[reducing-ai-misuse]] — guardrailed "hint-not-answer" tool design, assessment redesign, and scaffolded think-first/AI-second sequences with deliberate prompting practice.
-
-**8. Start from learners' actual entry point.** Learners enter with distinct orientations — avoidance driven by fear, mistrust, or lack of access, versus uncritical reliance that masks misunderstanding. A diagnostic, stage-based approach (rather than a uniform curriculum) lets designers meet students where they are and move them toward critical, responsible engagement.^[[ai-literacy-continuum-higher-education]]
-
-### Measuring AI literacy
-
-A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The wiki's assessment strand distinguishes **self-reported** from **performance-based** literacy: self-reports diverge sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based measures predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. For design and research, this ties AI literacy to [[educational-measurement]] and to [[assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them.
-
-### Connections across the wiki
-
-AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
-
-AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-literacy-self-efficacy-2026|Maizel et al. (2026)]] found the skill-based dimensions of AI literacy (using/understanding, detecting) were *positively* associated with reported AI dependency, while AI [[self-efficacy]] and academic confidence were negatively associated — so technical AI-literacy training, absent self-efficacy and [[self-regulated-learning]] scaffolds, can increase dependency. AI literacy here becomes an enabling capacity whose *direction* depends on complementary motivational resources.
-
-- **Critique of AI output as a literacy practice:** [[pedagogy-ai-mistakes|Hosseini (2026)]] treats evaluating AI-generated errors as a core AI-literacy skill, using failure-mode analysis and iterative prompt refinement in a database design course. The study found students overestimated their AI abilities (self-reported literacy weakly, negatively correlated with objective competency), and that critique-based learning strengthened calibration.
-
-- **Socialist humanist AI literacy (2026):** A literature review critiques compliance-oriented AI literacy and proposes a socialist-humanist framing of asynchronous AI literacy and fair use in higher education, linking the historical digital divide to modern AI literacy and calling for approaches that serve human flourishing and equity rather than mechanical policy compliance ([[mechanical-compliance-human-flourishing-ai-literacy-2026]]).
-
-## Connected Concepts
-- [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
-
-- [[generative-ai]] — the technology AI literacy targets
-- [[llm]] — the systems at the heart of AI literacy
-- [[cognitive-offloading]] — the over-reliance risk literacy counters
-- [[critical-thinking]] — core evaluative disposition
-- [[prompt-engineering]] — core practical competence
-- [[reducing-ai-misuse]] — literacy's behavioral payoff
-- [[icap-framework]] — engagement taxonomy for designing literacy instruction
-- [[metacognition]] — literacy as metacognitive social practice
-- [[self-regulated-learning]] — self-regulation as a literacy resource
-- [[academic-integrity]] — knowing what constitutes appropriate AI use
-- [[ai-education]] — the broader field
-- [[teacher-ai-competency]] — educator preparedness
-- [[faculty-development]] — building educator literacy
-- [[equity-in-ai-education]] — fair distribution of literacy
-- [[digital-divide]] — the access/skills/outcomes gap
-- [[ethics]] — ethical awareness dimension
-- [[governance]] — institutional-level literacy
-- [[educational-policy-ai]] — policy framing
-- [[privacy]] — ethical/institutional concern
-- [[agency]] — human agency vs machine shift
-- [[ai-sycophancy]] — literacy skill of detecting agreement
-- [[trust-calibration]] — calibrating appropriate trust
-- [[k-12]] — school-level literacy
-- [[higher-ed]] — university-level literacy
-
-## Connected Articles
-- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
-
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
-- [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
-- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
-- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — AI literacy as a metacognitive social practice
-- [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Critical AI literacy: power, resistance, agency
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy for critical AI literacy in journalism
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
-- [[panciroli-ai-literacy-episodes-situated-learning]] — Episodes of Situated Learning for AI literacy
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
-- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy as an AI literacy intervention
-- [[student-dependency-on-ai-literacy-self-efficacy-2026]] — AI literacy, self-efficacy and dependency
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[ai-play-framework-early-childhood-2026]] — AI-Play: unplugged AI concepts in early childhood
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Ithaka S+R instructor-employer AI skills gap
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
-
-- [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
-- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-
----
-
 ## [Computational Thinking](https://edtechdev.github.io/aied/concepts/computational-thinking/)
 
 > **Computational thinking** — a problem-solving approach involving decomposition, pattern recognition, abstraction, and algorithmic design. In AI education, computational thinking is both a prerequisite for understanding AI systems and a skill that AI tools can help develop.
@@ -595,89 +701,6 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
-
----
-
-## [Misconceptions about AI](https://edtechdev.github.io/aied/concepts/misconceptions/)
-
-> **Misconceptions about AI** — the inaccurate beliefs people hold about what AI systems are, what they do, and what using them means for learning and work. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process). They are held not only by students but also by teachers, administrators, policymakers, and the broader public — and correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
-
-Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the wiki documents under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, assessment, and policy.
-
-### What AI misconceptions are
-
-A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in [[learning-theories|learning science]]: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
-
-### Common misconceptions in academic contexts
-
-- **The authority fallacy** — treating [[llm]] output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
-- **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[cognitive-offloading|Over-Reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
-- **The neutrality illusion** — assuming AI is objective and unbiased. Students often miss that models encode training-data biases and that in [[writing-education]] contexts this produces idea homogenization across a cohort.
-- **The integrity gray zone** — misjudging whether [[academic-integrity|AI use is acceptable]]. Some students see AI output as "not copying a person" and therefore permissible; others over-correct and think *any* use is cheating. [[governance|Institutional]] inconsistency feeds both errors.
-- **Anthropomorphism** — believing the model has intent, memory, and understanding of *their* context. This over-trust is especially risky academically, because students may rely on plausible-sounding explanations the model cannot actually ground.
-- **The determinism error** — expecting one query to be enough and not realizing output is non-deterministic and prompt-sensitive. Underestimating this produces the "[[prompt-engineering|prompting]] gap," where students mistake shallow results for the tool's ceiling.
-- **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
-- **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
-
-### Institutional and public AI myths
-
-Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and agentic, that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises [[higher-ed|higher education]]," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[trust|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
-
-### Why misconceptions matter for learning
-
-Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the wiki's evidence base.
-
-### Misconceptions beyond students: teachers, institutions, and the public
-
-AI misconceptions are not confined to learners — they are pervasive among the adults who shape education:
-
-- **Teachers and faculty** may overestimate AI's ability to reliably grade or detect misuse, or underestimate its bias, leading to either uncritical adoption or reflexive banning. When teachers hold the [[trust|authority fallacy]] about AI outputs, they model the same uncritical posture they should be correcting in students. Preparing [[teacher-role|educators]] with accurate mental models of AI is a prerequisite for [[teacher-ai-competency|responsible AI integration]] and [[pedagogical-safety|safe pedagogy]].
-- **Administrators and policymakers** inherit and propagate institutional myths — that AI is "objective," that it will "revolutionise" education, or that detection tools are trustworthy — which then shape [[educational-policy-ai|policy]], procurement, and assessment rules. The [[trust-calibration|trust]] students develop is partly a product of the institutional framing they inherit.
-- **The general public** absorbs media and vendor narratives about AI's capabilities and risks. Because students learn within this discourse, public myths become the substrate from which student misconceptions grow. Correcting AI misconceptions is therefore an [[ai-literacy]] task aimed at the whole educational ecosystem, not only at learners.
-
-This breadth is why the wiki treats misconceptions as a cross-cutting foundational theme rather than a purely student-facing one: the same calibration errors recur across learners, teachers, institutions, and the public, and correcting them requires confronting both individual beliefs and the discourse that feeds them.
-
-### Correcting misconceptions
-
-Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process that develops [[metacognition]] and [[self-regulated-learning]]: helping students (and the adults around them) monitor their reliance, calibrate when to trust and when to question a model, and see the cost of bypassing their own [[cognitive-offloading|cognitive work]]. Because misconceptions are resistant, they are best addressed through direct confrontation with evidence — including the finding that students often *do not perceive* the learning harm of AI misuse.
-
-**Refutation text is a core correction technique.** Because misconceptions are actively held and resistant, the most direct evidence-based strategy is the [[refutation-text|refutation text]] — an instructional text that states the misconception, explicitly refutes it, and presents the correct conception. This is the same family of technique used to correct the domain misconceptions studied in learning science, applied here to students' beliefs about AI itself. The wiki's [[refutation-text]] concept page synthesizes how this plays out in [[ai-education|AI in education]] in three complementary ways:
-
-- **AI as the corrector.** [[conversational-ai|Conversational AI]] tutors can deliver *personalised* refutation, adapting the refutation to a learner's specific misconception on the fly. [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]] found personalised AI dialogue produced larger and faster belief reductions than static textbook-style refutation, with higher [[student-engagement|engagement]] and confidence — though the advantage faded by two months without reinforcement.
-- **AI as the generator of refutation content.** [[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan (2025)]] found AI-generated conceptual-change/refutation text matched expert-written quality (and both outperformed a prompted interactive dialogue in that science context), showing AI can produce effective correction materials at scale.
-- **AI-generated misconceptions as a learning resource.** Rather than treating AI-generated misconceptions as merely harmful, [[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. (2026)]] propose generating misconceptions and addressing them through structured peer discussion — a collaborative form of refutation that promotes conceptual change and [[critical-thinking|critical thinking]].
-
-For misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help people see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears. Because misconceptions span learners and the adults who shape learning, effective correction must reach [[teacher-role|teachers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]] as much as students.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-- [[teacher-role]]
-- [[educational-policy-ai]]
-- [[trust]]
-
-## Connected Articles
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
-
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 
 ---
 
@@ -1411,6 +1434,71 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+
+---
+
+## [Sustainability and AI in Education](https://edtechdev.github.io/aied/concepts/sustainability/)
+
+> **Sustainability and AI in education** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
+
+Sustainability in AIED spans three overlapping framings: **sustainable education** (a value-based, human-centered educational project), **sustainability in education** (using education as an instrument for sustainability), and **education for sustainable development** (ESD, the global policy agenda, especially [[k-12|Sustainable Development Goal 4]]). AI intersects each of these differently — and the field distinguishes two core pathways: **AI for sustainability** (AI as a tool to achieve sustainability outcomes) and **sustainable AI** (reducing AI's own environmental and ethical footprint).
+
+## The two-part taxonomy
+
+The wiki's coverage, anchored by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organizes the field into two interconnected yet distinct pathways:
+
+- **AI for sustainability** — using AI to advance sustainability outcomes. In education this includes AI for energy management, climate monitoring, green campus programs, and AI-integrated curricula that build learners' sustainability consciousness (e.g. the AI-SEE framework for sustainable [[engineering-education|engineering education]]). It is grounded in the global agenda of Education for Sustainable Development.
+- **Sustainable AI** — reducing the direct environmental and ethical impacts of AI itself. This covers the carbon and water footprint of large language models, energy-efficient and on-premise deployment, and the ethical and governance frameworks needed to ensure AI's use in education is itself responsible and sustainable.
+
+## Using AI for sustainability in education
+
+A growing body of work treats AI as a tool *for* sustainability education and outcomes:
+
+- **AI-integrated curricula that build sustainability consciousness.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propose the AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated), which integrates AI across the [[curriculum-design|curriculum]] as a cognitive [[scaffolding|scaffold]] and resource for system-level sustainability analysis. In a 144-student engineering case, it enhanced sustainability consciousness and produced behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with social diffusion beyond the classroom.
+- **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[instructional-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].
+- **Sustainability as a value-based project.** [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]] argue AI's contribution to sustainable education is conditional and governance-mediated: it supports sustainability only when adoption is subordinated to explicit educational values and human-centered purposes, rather than to technologization and commodification. This ties sustainability to [[ethics]] and [[critical-pedagogy]].
+
+## Making AI itself sustainable
+
+The second pathway concerns AI's own footprint in educational settings:
+
+- **Environmental impact of large models.** [[llm-environmental-impact-student-usage-2026|studies of LLM use]] document the carbon and water footprint of large language models, which is significant given high adoption among university students. This is the direct environmental dimension of sustainable AI.
+- **Energy-efficient and on-premise deployment.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrate that AI knowledge-base assistants can run on consumer-grade hardware with [[open-source|open educational resources]], reducing the environmental and cost footprint of AI in education — a concrete sustainable-AI design pattern.
+- **Ethical and governance frameworks.** Sustainable AI is not only environmental: it requires [[governance]] and [[ethics]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], and [[equity-in-ai-education|equitable]] access, as [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] note is often lacking in current university applications.
+
+## Sustainable learning as a pedagogical goal
+
+A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading]]. This connects sustainability to [[agency]] and [[critical-thinking]].
+
+## Connections to other concepts
+
+Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[instructional-design]] for pedagogy, and connects to the wiki's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
+
+## Connected Concepts
+- [[ethics]]
+- [[governance]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[k-12]]
+- [[teacher-education]]
+- [[teacher-role]]
+- [[instructional-design]]
+- [[engineering-education]]
+- [[critical-thinking]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[open-source]]
+
+## Connected Articles
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
+- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
+- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)
 
 ---
 
@@ -7106,6 +7194,7 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
 
 ---
 
@@ -7709,6 +7798,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[astor-computational-thinking-meta-review-2026]] — Notes CT integration concentrated in K-12
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Early-childhood CT development
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
 
 ---
 
@@ -7858,6 +7948,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
 
 ---
 
@@ -8072,6 +8164,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
 
 ---
 
@@ -10627,6 +10720,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[student-llm-interaction-taxonomy-review-2026]]
 
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
 
 ---
 
@@ -11299,6 +11393,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
 - [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
 
 ---
 
@@ -11712,6 +11807,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 
 ---
 
@@ -13053,6 +13149,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 
 ---
 
@@ -13776,6 +13873,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 
 ---
 
@@ -21896,6 +21994,34 @@ Alrazeeni, D. M., Alharrasi, M., Rony, M. K. K., Biswas, R. K., Tama, I. J., Hal
 
 ---
 
+## [Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach](https://edtechdev.github.io/aied/articles/alsuhaymi-sustainable-education-ai-digitalization-2026/)
+
+> **Synthesis:** Alsuhaymi and Atallah (2026) offer a [[qualitative-research|qualitative]], value-[[critical-thinking|critical analysis]] of whether — and under what conditions — AI contributes to sustainable education in the age of digitalization. They argue AI does not exert a uniform, inherently positive or negative influence on educational sustainability; its effects are **conditional and governance-mediated**. Distinguishing *sustainable education* (a value-based, human-centered project), *sustainability in education*, and *education for sustainable development* (ESD), the authors show that AI contributes to sustainable education only when its adoption is subordinated to explicit educational values and human-centered purposes — and undermines it when technologization and commodification are allowed to erode those values.
+
+## Key Findings
+1. **AI's effect on educational sustainability is conditional, not automatic.** Whether AI supports or erodes sustainable education depends on how its adoption is governed and to what values it is subordinated — not on the technology itself.
+2. **Three distinct framings must be distinguished.** *Sustainable education* (human-centered, value-based), *sustainability in education* (treating education as an instrument for sustainability), and *education for sustainable development* (ESD, the policy-oriented global agenda) are different projects that AI serves differently.
+3. **Digitalization brings dual pressures.** The same developments that enable [[personalized-learning|personalization]] and efficiency also accelerate technologization and commodification, threatening the erosion of educational values and human-centered purposes.
+4. **Value-critical analysis is the corrective lens.** A [[critical-pedagogy|value-critical]] approach surfaces the normative commitments embedded in AI-mediated education, arguing that sustainability must be reclaimed as a value-based project rather than reduced to technical efficiency.
+
+## Relevance to AI and sustainability in education
+This paper anchors the [[sustainability|sustainable AI in education]] concept page's normative dimension: it frames sustainability not as a technical or environmental metric but as a **value-based, human-centered educational project**. It connects directly to [[ethics]] in [[ai-education|AI education]], to [[governance]] (the conditions under which AI use is responsibly governed), and to the wiki's treatment of AI's [[critical-pedagogy|critical]] and [[philosophy-of-ai-in-education|philosophical]] dimensions.
+
+## Connected Concepts
+- [[sustainability]]
+- [[ethics]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[governance]]
+- [[critical-pedagogy]]
+- [[philosophy-of-ai-in-education]]
+- [[higher-ed]]
+
+## Citation
+Alsuhami, A. O., & Atallah, F. A. (2026). [*Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach*](https://doi.org/10.3390/su18031257). *Sustainability*, 18(3), 1257.
+
+---
+
 ## [Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers](https://edtechdev.github.io/aied/articles/amponsah-ai-acceptance-science-teachers-2026/)
 
 > **Synthesis:** Amponsah, Adu-Boahen, Commey-Mintah, Kumassah, Ayittey & Nketsiah (2026) survey 380 pre-service science teachers in Ghana using UTAUT and TPB frameworks, finding generally positive AI perceptions but a gap between intention and actual classroom use. ChatGPT emerged as the most used AI tool, with research, content explanation, and lesson planning as primary purposes.
@@ -29216,6 +29342,37 @@ This provides empirical evidence for introducing [[generative-ai|GenAI]] tools i
 ## Citation
 
 Dai, Z., Huang, F., Xiong, J., Yang, Y., Zhang, Q., & Peng, X. (2026). [*Inquiry-based learning in STEM education: the impact of generative AI-based chatbots on primary school students' problem posing ability in science*](https://doi.org/10.1186/s40594-026-00631-0). *International Journal of STEM Education*, 13, 44.
+
+---
+
+## [A Scoping Review of AI for Sustainability and Sustainable AI in Higher Education](https://edtechdev.github.io/aied/articles/daniel-ai-sustainability-scoping-review-2026/)
+
+> **Synthesis:** Daniel, Podgorodnichenko, and Carr (2026) conduct a scoping review of two interconnected yet distinct pathways at the intersection of AI and sustainability in [[higher-ed|higher education]]: **AI for Sustainability** (using AI to achieve sustainability outcomes) and **sustainable AI** (reducing the direct environmental and ethical impacts of AI itself). As both users and developers of AI, universities are well-positioned to advance environmental and social goals while ensuring responsible use. The review maps how these concepts are defined, the field's evolution, and universities' actual [[student-engagement|engagement]] with AI for sustainability — finding promising examples (energy management, climate monitoring, green campus programs) but limited scale and a lack of clear ethical or environmental guidelines, with much research remaining conceptual or small-scale.
+
+## Key Findings
+1. **Two distinct pathways.** *AI for sustainability* (AI as a tool for sustainability outcomes) and *sustainable AI* (reducing AI's own environmental/ethical footprint) are related but distinct research areas that are often conflated.
+2. **Promising but limited applications.** Universities use AI for energy management, climate monitoring, and green campus programs, but these efforts are limited in scale and often lack clear ethical or environmental guidelines.
+3. **Conceptual and small-scale evidence.** Much of the current research is conceptual or based on small-scale pilots rather than robust, large-scale implementations.
+4. **Universities are dual actors.** As both users and developers of AI, universities must balance advancing sustainability goals with ensuring AI itself is used responsibly and sustainably.
+
+## Relevance
+This scoping review is the **defining survey** for the wiki's [[sustainability]] concept page — it establishes the two-part taxonomy (AI for sustainability vs. sustainable AI) that organizes the whole concept. It connects to [[ethics]], [[governance]], and [[meta-analysis-systematic-review]] as a systematic map of the evidence base, and to the environmental-impact dimension of sustainable AI.
+
+## Connected Concepts
+- [[sustainability]]
+- [[higher-ed]]
+- [[meta-analysis-systematic-review]]
+- [[ethics]]
+- [[governance]]
+- [[ai-education]]
+
+## Connected Articles
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
+- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
+
+## Citation
+Daniel, B. K., Podgorodnichenko, N., & Carr, S. (2026). [*A Scoping Review of AI for Sustainability and Sustainable AI in Higher Education*](https://doi.org/10.1007/s10791-025-09861-2). *Discover Computing*, 29(1), 48.
 
 ---
 
@@ -41545,6 +41702,37 @@ Liu, S., Lin, Z., Ng, O. L., Yang, Y., & Dai, Y. (2026). [*AI literacy intervent
 
 ---
 
+## [Enhancing Sustainability Consciousness in Higher Education: Impacts of Artificial Intelligence-Integrated Sustainable Engineering Education](https://edtechdev.github.io/aied/articles/liu-ai-sustainable-engineering-education-2026/)
+
+> **Synthesis:** Liu, Wang, Guo, and Tang (2026) propose **AI-SEE** (Artificial Intelligence-Integrated Sustainable Engineering Education), a [[pedagogy|pedagogical]] framework that integrates AI across the engineering [[curriculum-design|curriculum]] as both a cognitive [[scaffolding|scaffold]] and a resource for system-level analysis. Grounded in [[human-ai-collaboration]], AI-SEE comprises four pillars — intelligence-driven, green-empowered, responsibility-leading, and practice-integrated — and was tested with 144 undergraduates in transportation-related programs at Nantong University. The study reports that AI-SEE enhanced students' **sustainability consciousness** and translated it into behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with evidence of social diffusion effects beyond the classroom.
+
+## Key Findings
+1. **AI-SEE is a four-pillar framework.** Intelligence-driven (AI as cognitive scaffold), green-empowered (AI for sustainability analysis), responsibility-leading ([[ethics|ethical]] use), and practice-integrated (authentic decision-making in real stakeholder environments).
+2. **It addresses fragmented sustainability learning.** In application-oriented undergraduate programs, sustainability learning is often fragmented and disconnected from authentic engineering decision-making; AI-SEE integrates it across the curriculum.
+3. **Behavioral engagement at multiple levels.** Compared to a control group's incremental lifestyle adjustments, pilot-group students showed engagement across personal, academic, professional, and social levels, consistent with evidence that sustained behavioral change follows actions producing multiple co-benefits.
+4. **Social diffusion effects.** Students acting as communicators within families and peer networks suggest sustainability consciousness propagates beyond the immediate educational setting.
+
+## Relevance
+This is a concrete, empirical illustration of **AI for sustainability** in the wiki's [[sustainability]] concept page: using AI *for* sustainable education outcomes, in this case building sustainability consciousness in [[engineering-education]]. It complements the value-critical and scoping-review articles by providing an implementable pedagogical framework and evidence of learning and behavior change.
+
+## Connected Concepts
+- [[sustainability]]
+- [[engineering-education]]
+- [[higher-ed]]
+- [[human-ai-collaboration]]
+- [[instructional-design]]
+- [[personalized-learning]]
+- [[ethics]]
+
+## Connected Articles
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
+
+## Citation
+Liu, F., Wang, H., Guo, Y., & Tang, T. (2026). [*Enhancing Sustainability Consciousness in Higher Education: Impacts of Artificial Intelligence-Integrated Sustainable Engineering Education*](https://doi.org/10.3390/su18042124). *Sustainability*, 18(4), 2124.
+
+---
+
 ## [AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake](https://edtechdev.github.io/aied/articles/liu-deris-ai-feedback-literacy-uptake/)
 
 # AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake
@@ -42410,8 +42598,8 @@ Gonnermann-Müller, J., Haase, J., & Leins, N. (2026). [*LLM-Based Educational S
 - [[generative-ai]]
 - [[cs-education]]
 - [[ai-education]]
+- [[sustainability]]
 
-## Connected Articles
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in CS education
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
@@ -51505,6 +51693,37 @@ Rhaimi, S., Ercan, D., Gao, R., Esmaeiligoujar, S., Babaee, M., Li, H., Zhang, S
 
 ---
 
+## [Teacher Involvement in Developing Sustainable Education Materials for AI Integration in Green Energy Education](https://edtechdev.github.io/aied/articles/riandi-teacher-ai-green-energy-education-2026/)
+
+> **Synthesis:** Riandi et al. (2026) examine the factors influencing teachers' ability to integrate AI into science and green energy education within the framework of **Education for Sustainable Development (ESD)**. Using a structural equation model based on the TPACK framework with 122 in-service teachers, they find that only two constructs significantly influence teachers' AI-integration capability: **use of AI in science and green energy** and **involvement in developing ESD-aligned teaching materials**. In contrast, abstract AI knowledge and attitudes toward AI did not show significant effects — underscoring the importance of practical [[student-engagement|engagement]] and contextual experience over abstract cognition.
+
+## Key Findings
+1. **Practical use and material development drive integration.** Teachers' actual use of AI in science/green energy and their involvement in developing ESD-based materials significantly predicted AI-integration capability.
+2. **Abstract knowledge and attitudes were not significant.** AI Knowledge and Attitudes Toward AI showed no significant effect, likely due to measurement limitations and the constrained role of abstract cognition relative to hands-on experience.
+3. **TPACK as the analytic lens.** The study grounds its model in the TPACK framework, emphasizing the integration of technological, [[pedagogy|pedagogical]], and content knowledge for green energy education.
+4. **Teacher involvement matters for ESD.** Engaging teachers in developing ESD-aligned materials is a concrete pathway to building their capacity to integrate AI meaningfully.
+
+## Relevance
+This is a teacher-education perspective on the wiki's [[sustainability]] concept page, showing how to build the educator capacity needed for AI-integrated [[teacher-education|sustainability education]]. It connects to [[teacher-role]], [[tpack]], and the practical dimension of using AI *for* sustainability education in [[k-12]] and green energy contexts.
+
+## Connected Concepts
+- [[sustainability]]
+- [[teacher-education]]
+- [[teacher-role]]
+- [[tpack]]
+- [[k-12]]
+- [[instructional-design]]
+- [[generative-ai]]
+
+## Connected Articles
+- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education (Sustainable Development Pedagogy)
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants in CS education
+
+## Citation
+Riandi, R., Ismail, I., Kaniawati, I., Sopandi, W., Rostikawati, D. A., Hamka, D., & Suhendar, S. (2026). [*Teacher Involvement in Developing Sustainable Education Materials for AI Integration in Green Energy Education*](https://doi.org/10.1038/s41598-025-34422-4). *Scientific Reports*, 15.
+
+---
+
 ## [Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology](https://edtechdev.github.io/aied/articles/richmond-nicholls-genai-psych-feedback-ai-literacies/)
 
 # Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology
@@ -53072,8 +53291,8 @@ This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data 
 - [[generative-ai]]
 - [[edtech-platform]]
 - [[intelligent-tutoring]]
+- [[sustainability]]
 
-## Connected Articles
 
 - [[vismatic-secure-sandbox-cs-education]] — VS-MATIC: secure sandboxed environments for computing education
 - [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM grading
@@ -56272,8 +56491,8 @@ The finding aligns with [[genai-can-harm-teaching-rct-2026]] research showing th
 - [[scaffolding]]
 - [[ai-education]]
 - [[higher-ed]]
+- [[sustainability]]
 
-## Connected Articles
 
 - [[genai-can-harm-teaching-rct-2026]] — Is Using GenAI Tools in Teaching Really Improving Teaching Quality?
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: RL Teaching
@@ -61293,8 +61512,8 @@ Zhou, X., Chai, Q., Chilukuri, B., & Quach, J. J. Y. (2026). [*From experimentat
 - [[metacognition]]
 - [[learning-theories]]
 - [[ai-education]]
+- [[sustainability]]
 
-## Connected Articles
 
 - [[ensemble-cognition-philosophy-ai-education]] — Reconceptualising agency and mind in AI-mediated educational environments
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading, and the future of critical thinking

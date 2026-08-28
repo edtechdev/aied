@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 175
+**Total concepts:** 176
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood and Elementary AI Education
@@ -457,6 +457,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`sociocultural-learning`** — Sociocultural Learning
 - **`socratic-method`** — Socratic Method
 - **`special-education`** — Special Education
+- **`sustainability`** — Sustainability and AI in education
 - **`stakeholders`** — People and Audiences in AI Education
 - **`stem-education`** — STEM Education
 - **`storytelling-in-education`** — Storytelling in Education

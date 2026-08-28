@@ -91,3 +91,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)

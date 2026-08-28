@@ -86,3 +86,4 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
