@@ -1,7 +1,7 @@
 ---
 title: "LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles"
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, student-experience, ai-education, generative-ai, benchmark, learning-analytics, adaptive-learning-systems, adaptive-learning, ai-tutoring]
 sources: ['raw/papers/2605.06307.md']
@@ -55,4 +55,4 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 - [[multimodal-ai-tutoring]]
 ## Citation
 
-Leins, A.J.G.J.H.N., Evaluating, L.E.S., ADHD, T.S.P.S.A., Leins, J.G.J.H.N., Berlin, B.H.B., & Pokutta, T.K.S. (2026). [*LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles*](https://arxiv.org/abs/2605.06307)
+Gonnermann-Müller, J., Haase, J., & Leins, N. (2026). [*LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles*](https://arxiv.org/abs/2605.06307).

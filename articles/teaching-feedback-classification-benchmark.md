@@ -51,4 +51,4 @@ Institutions collect far more open-ended teaching-evaluation feedback than they 
 
 ## Citation
 
-Esteban U. Vega Barajas (2026). [A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873). arXiv:2607.11873. arXiv preprint.
+Esteban U. Vega Barajas (2026). [A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873). arXiv preprint.

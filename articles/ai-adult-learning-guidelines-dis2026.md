@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-26T15:34:14-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation, rag]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
@@ -95,4 +95,6 @@ The guidelines span four categories:
 
 ## Citation
 
-13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102). Designing Interactive Systems Conference (DIS '26), June 13–17
+
+
+Reddig, J., Smith, G. R., Jr., Ahmadzadeh Siyahrood, S., Morris, W. G., Bae, Y., Crutcher, K., et al. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102).

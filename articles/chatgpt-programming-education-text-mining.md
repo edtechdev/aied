@@ -77,4 +77,4 @@ The authors' recommendations center on course-level [[educational-policy-ai|poli
 
 ## Citation
 
-Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education](https://arxiv.org/abs/2605.00361). arXiv:2605.00361. Pedagogical Innovations in CS Education (IGI Global).
+Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education](https://arxiv.org/abs/2605.00361). Pedagogical Innovations in CS Education (IGI Global).

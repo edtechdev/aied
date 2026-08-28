@@ -31,4 +31,4 @@ Nagai et al. (2026) tackle the practical problem that many real-world educationa
 
 ## Citation
 
-Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026). [Estimating Learners' Skill Acquisition Without Temporal Information](https://arxiv.org/abs/2606.20611). arXiv:2606.20611. AIED 2026, Seoul
+Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026). [Estimating Learners' Skill Acquisition Without Temporal Information](https://arxiv.org/abs/2606.20611). AIED 2026, Seoul

@@ -35,4 +35,5 @@ confidence: high
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review
 
 ## Citation
-Kim, Chen, Cabral, Lin, Gupta, & Hester (2026). [*When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage*](https://arxiv.org/abs/2608.23968). arXiv:2608.23968.
+
+Kim, Chen, Cabral, Lin, Gupta, & Hester (2026). [*When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage*](https://arxiv.org/abs/2608.23968).

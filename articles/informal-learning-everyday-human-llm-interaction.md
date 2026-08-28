@@ -34,4 +34,4 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 
 ## Citation
 
-Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning Emerges in Everyday Human-LLM Interaction](https://arxiv.org/abs/2607.17643). arXiv:2607.17643. arXiv:2607.17643 [cs.HC].
+Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning Emerges in Everyday Human-LLM Interaction](https://arxiv.org/abs/2607.17643). .

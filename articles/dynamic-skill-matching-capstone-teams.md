@@ -32,4 +32,4 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 
 ## Citation
 
-Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasekhar (2026). [Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment](https://arxiv.org/abs/2606.15572). arXiv:2606.15572. CSCI 2025 (12th International Conference on Computational Science and Computational Intelligence).
+Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasekhar (2026). [Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment](https://arxiv.org/abs/2606.15572). CSCI 2025 (12th International Conference on Computational Science and Computational Intelligence).

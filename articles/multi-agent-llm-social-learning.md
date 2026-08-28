@@ -3,7 +3,7 @@ title: "Beyond the AI Tutor: Social Learning with LLM Agents"
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-12"
 type: article
-tags: [llm, intelligent-tutoring, scaffolding, student-experience, collaborative-ai-tutoring, agentic-ai-ecosystems-higher-education, higher-ed, intelligent-tutoring, agentic-ai]
+tags: [llm, intelligent-tutoring, scaffolding, student-experience, collaborative-ai-tutoring, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]
 
 sources: ['raw/papers/2604.02677.md']
 confidence: high
@@ -47,4 +47,4 @@ The findings suggest that one-on-one AI tutoring is not the only effective parad
 
 ## Citation
 
-Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Beyond the AI Tutor: Social Learning with LLM Agents*](https://arxiv.org/abs/2604.02677). arXiv:2604.02677.
+Kumar, H., Mu, Z. K. (J.), Vincentius, J., & Anderson, A. (2026). [*Beyond the AI Tutor: Social Learning with LLM Agents*](https://arxiv.org/abs/2604.02677).

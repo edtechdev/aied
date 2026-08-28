@@ -45,4 +45,4 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 
 ## Citation
 
-Hashmi, A., et al. (2025). [*Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot*](https://arxiv.org/abs/2508.14778v1). arXiv:2508.14778v1.
+Hashmi, A., et al. (2025). [*Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot*](https://arxiv.org/abs/2508.14778v1). v1.

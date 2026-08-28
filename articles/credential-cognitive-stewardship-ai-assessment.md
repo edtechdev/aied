@@ -69,4 +69,4 @@ Cognitive stewardship is a [[governance]] arrangement, not merely an assessment 
 
 ## Citation
 
-Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://arxiv.org/abs/2607.19988). arXiv:2607.19988 (cs.CY). Accepted at AIES 2026.
+Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://arxiv.org/abs/2607.19988). (cs.CY). Accepted at AIES 2026.

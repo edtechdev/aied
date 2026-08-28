@@ -50,4 +50,4 @@ The misalignments identified in this study complicate the common assumption that
 
 ## Citation
 
-Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026). [Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI](https://arxiv.org/abs/2607.01506). arXiv:2607.01506.
+Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026). [Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI](https://arxiv.org/abs/2607.01506).

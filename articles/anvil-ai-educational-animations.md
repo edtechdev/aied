@@ -77,4 +77,4 @@ ANVIL demonstrates a viable blueprint for scalable, human-grounded evaluation of
 
 ## Citation
 
-Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). [ANVIL: Analogies and Videos for Lecturers](https://arxiv.org/abs/2605.16295). arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].
+Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). [ANVIL: Analogies and Videos for Lecturers](https://arxiv.org/abs/2605.16295). .

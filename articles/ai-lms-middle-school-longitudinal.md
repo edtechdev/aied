@@ -35,4 +35,4 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 
 ## Citation
 
-Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond*](https://arxiv.org/abs/2606.07544). arXiv:2606.07544.
+Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond*](https://arxiv.org/abs/2606.07544).

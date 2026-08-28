@@ -48,4 +48,4 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 
 ## Citation
 
-Angxuan Chen & Jiyou Jia (2026). [Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing](https://arxiv.org/abs/2606.00040). arXiv:2606.00040.
+Angxuan Chen & Jiyou Jia (2026). [Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing](https://arxiv.org/abs/2606.00040).

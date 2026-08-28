@@ -32,4 +32,4 @@ Imran and Bulathwela (2026) identify the 'correct answer trap' — automated fee
 
 ## Citation
 
-Moiz Imran, Sahan Bulathwela (2026). [The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions](https://arxiv.org/abs/2606.23205). arXiv:2606.23205. AIED PEAF 2026 Workshop
+Moiz Imran, Sahan Bulathwela (2026). [The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions](https://arxiv.org/abs/2606.23205). AIED PEAF 2026 Workshop

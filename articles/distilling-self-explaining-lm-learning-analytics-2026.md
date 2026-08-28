@@ -57,4 +57,4 @@ The pipeline also carries favorable [[ethics|privacy and fairness]] properties. 
 
 ## Citation
 
-Pan, C., Meng, A., & Suk, Y. (2026). [*Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics*](https://arxiv.org/abs/2608.21165). arXiv:2608.21165.
+Pan, C., Meng, A., & Suk, Y. (2026). [*Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics*](https://arxiv.org/abs/2608.21165).

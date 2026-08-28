@@ -35,4 +35,4 @@ For [[student-experience]], the implications are direct: students struggling wit
 - [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
-Parker, M. J., & Zavala-Cerna, M. G. (2026). [What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics](https://arxiv.org/abs/2605.00294). Education and Information Technologies. arXiv:2605.00294.
+Parker, M. J., & Zavala-Cerna, M. G. (2026). [What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics](https://arxiv.org/abs/2605.00294). Education and Information Technologies.

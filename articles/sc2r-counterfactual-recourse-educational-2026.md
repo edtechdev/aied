@@ -62,4 +62,4 @@ SC2R speaks directly to the wiki's theme that prediction alone is not enough —
 
 ## Citation
 
-Le, N. L., Abel, M.-H., & Laforge, B. (2026). [*From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support*](https://arxiv.org/abs/2608.17618). arXiv:2608.17618 [cs.IR]. https://doi.org/10.48550/arXiv.2608.17618
+Le, N. L., Abel, M.-H., & Laforge, B. (2026). [*From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support*](https://arxiv.org/abs/2608.17618). [cs.IR]. https://doi.org/10.48550/arXiv.2608.17618

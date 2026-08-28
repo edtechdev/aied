@@ -3,7 +3,7 @@ title: "PersonaVLM: Long-Term Personalization for AI Tutors"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:33:55-04:00"
 type: article
-tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, intelligent-tutoring, affective-tutoring, rag, k-12]
+tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, affective-tutoring, rag, k-12]
 
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
@@ -51,4 +51,4 @@ However, educators and designers should be cautious about the [[correct-answer-t
 
 ## Citation
 
-Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.
+Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074).

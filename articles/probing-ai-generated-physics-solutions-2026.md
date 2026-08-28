@@ -57,4 +57,4 @@ The approach integrates model-reasoning [[benchmark|benchmarks]] with pedagogica
 
 ## Citation
 
-Borse, N. S., Bralin, A., Savage, S., & Rebello, N. S. (2026). [*Probing AI-generated physics solutions and preparing students to critique them*](https://arxiv.org/abs/2608.12533). arXiv:2608.12533.
+Borse, N. S., Bralin, A., Savage, S., & Rebello, N. S. (2026). [*Probing AI-generated physics solutions and preparing students to critique them*](https://arxiv.org/abs/2608.12533).

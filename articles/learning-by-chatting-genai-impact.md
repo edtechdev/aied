@@ -63,4 +63,4 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - [[efficiency-gain-illusion-ai-overreliance]]
 ## Citation
 
-Mittal, S., Blodgett, S. L., & Liao, Q. V. (2026). [Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning](https://arxiv.org/abs/2606.11669). arXiv:2606.11669.
+Mittal, S., Blodgett, S. L., & Liao, Q. V. (2026). [Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning](https://arxiv.org/abs/2606.11669).

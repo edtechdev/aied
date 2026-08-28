@@ -49,4 +49,4 @@ The system addresses a practical infrastructure gap in multi-site education: VR 
 
 ## Citation
 
-Wataru, I., & Nguyen, D. V. (2026). [*Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion*](https://arxiv.org/abs/2606.10325). arXiv:2606.10325.
+Wataru, I., & Nguyen, D. V. (2026). [*Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion*](https://arxiv.org/abs/2606.10325).

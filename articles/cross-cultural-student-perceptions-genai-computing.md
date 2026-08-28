@@ -37,4 +37,4 @@ The result complicates the wiki's [[academic-integrity]] thread: policy harmoniz
 - [[adhd-video-segmentation-computing-education]]
 ## Citation
 
-Harrington, B., Zlotnikova, I., Nadarajan, G., & Ekundayo, S. (2026). [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://arxiv.org/abs/2607.19699). arXiv:2607.19699. arXiv preprint (cs.CY).
+Harrington, B., Zlotnikova, I., Nadarajan, G., & Ekundayo, S. (2026). [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://arxiv.org/abs/2607.19699). arXiv preprint (cs.CY).

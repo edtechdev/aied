@@ -43,4 +43,4 @@ Generativism has profound implications for [[intelligent-tutoring|instructional 
 - [[principled-ai-education]]
 ## Citation
 
-Li, S., & Zheng, J. (2026). [Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence](https://arxiv.org/abs/2606.12441). arXiv:2606.12441.
+Li, S., & Zheng, J. (2026). [Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence](https://arxiv.org/abs/2606.12441).

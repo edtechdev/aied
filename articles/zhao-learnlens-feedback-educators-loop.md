@@ -82,4 +82,4 @@ Strengths include a modular, component-level evaluation on authentic student ans
 
 ## Citation
 
-Zhao, R., Bobrov, A., Li, J., Aloisi, C., & He, Y. (2025). [LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop](https://arxiv.org/abs/2507.04295v4). *Proceedings of EMNLP 2025*. arXiv:2507.04295v4. DOI: 10.48550/arXiv.2507.04295. (CC BY-NC-ND 4.0)
+Zhao, R., Bobrov, A., Li, J., Aloisi, C., & He, Y. (2025). [LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop](https://arxiv.org/abs/2507.04295v4). *Proceedings of EMNLP 2025*. v4. DOI: 10.48550/arXiv.2507.04295. (CC BY-NC-ND 4.0)

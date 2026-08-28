@@ -32,4 +32,4 @@ The widespread adoption of AI chatbots in education will drastically change lear
 - [[rubric-aware-grading-rec-cbm]]
 ## Citation
 
-Julius Gabelmann, Felix Jahn, Kevin Baum, Sophie van Rossum, Emely Wuenscher, Timo P. Gros, & Verena Wolf (2026). [Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance](https://arxiv.org/abs/2605.30187). arXiv:2605.30187. AISoLA 2025 (Track: Responsible and Trusted AI).
+Julius Gabelmann, Felix Jahn, Kevin Baum, Sophie van Rossum, Emely Wuenscher, Timo P. Gros, & Verena Wolf (2026). [Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance](https://arxiv.org/abs/2605.30187). AISoLA 2025 (Track: Responsible and Trusted AI).

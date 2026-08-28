@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design]
 sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
@@ -74,4 +74,4 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 
 ## Citation
 
-McLaren, A.M.A.M.M.J.S.B.M., Associations, R.T.H.B.C.N., in, B.U.H.U.A.L.O., Systems, I.T., An, M., Mehrvarz, M., Mellon, C., & PA, P. (2026). [*Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*](https://doi.org/10.1145/3785022.3785040). LAK26: 16th International Learning Analytics and Knowledge Conference (LAK 2026), April 27–May 01
+An, M., Mehrvarz, M., Stamper, J., & McLaren, B. M. (2026). [*Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*](https://doi.org/10.1145/3785022.3785040).

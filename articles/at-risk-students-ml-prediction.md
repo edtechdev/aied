@@ -37,4 +37,4 @@ The work positions ML prediction as a tool for strategic, proactive retention in
 - [[trace-course-grade-prediction-2026]] — Course-grade prediction from learning traces
 ## Citation
 
-Soheila Gheisari, Hamid Salarian (2026). [Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms](https://arxiv.org/abs/2606.20617). arXiv:2606.20617. arXiv:2606.20617 (cs.CY; cs.LG)
+Soheila Gheisari, Hamid Salarian (2026). [Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms](https://arxiv.org/abs/2606.20617).

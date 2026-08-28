@@ -33,4 +33,4 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 
 ## Citation
 
-Keith Tran, Samiha Marwan, Thomas Price (2026). [Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547). arXiv:2606.30547. cs.CY.
+Keith Tran, Samiha Marwan, Thomas Price (2026). [Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547).

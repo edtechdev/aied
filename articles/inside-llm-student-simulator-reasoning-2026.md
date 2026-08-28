@@ -85,4 +85,4 @@ By modeling both actions and reasoning, INSIDE opens new directions for evaluati
 
 ## Citation
 
-Niousha, R., Kang, M., & Norouzi, N. (2026). [*INSIDE the student's mind: Jointly modeling latent reasoning and action in LLM student simulators*](https://arxiv.org/abs/2608.10492). arXiv:2608.10492.
+Niousha, R., Kang, M., & Norouzi, N. (2026). [*INSIDE the student's mind: Jointly modeling latent reasoning and action in LLM student simulators*](https://arxiv.org/abs/2608.10492).

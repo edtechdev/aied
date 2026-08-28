@@ -67,4 +67,4 @@ The work underscores that **fidelity requires modeling imperfection, not just fl
 
 ## Citation
 
-Wu, T., Chen, J., Lin, W., Li, M., Zhu, Y., Li, A., Kuang, K., & Wu, F. (2025). [*Embracing imperfection: Simulating students with diverse cognitive levels using LLM-based agents*](https://arxiv.org/abs/2505.19997). In *Proceedings of ACL 2025*. arXiv:2505.19997.
+Wu, T., Chen, J., Lin, W., Li, M., Zhu, Y., Li, A., Kuang, K., & Wu, F. (2025). [*Embracing imperfection: Simulating students with diverse cognitive levels using LLM-based agents*](https://arxiv.org/abs/2505.19997). In *Proceedings of ACL 2025*.

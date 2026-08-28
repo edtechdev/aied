@@ -52,4 +52,4 @@ The paper highlights that **educational settings have unique requirements**: fal
 - [[vetting-dual-llm-safety-education]] — Dual-LLM safety vetting for education
 ## Citation
 
-Maiorano, A. C. (2026). [Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs](https://arxiv.org/abs/2605.06669). arXiv:2605.06669.
+Maiorano, A. C. (2026). [Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs](https://arxiv.org/abs/2605.06669).

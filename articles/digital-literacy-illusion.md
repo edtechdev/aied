@@ -37,4 +37,4 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 
 ## Citation
 
-Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). [The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students](https://arxiv.org/abs/2605.26010). arXiv:2605.26010. cs.CY.
+Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). [The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students](https://arxiv.org/abs/2605.26010).

@@ -34,4 +34,4 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 
 ## Citation
 
-Amrita Ganguly, Sai Sharanya Garika, Aditya Johri (2026). [Uncovering Students' Mental Models of Generative Artificial Intelligence](https://arxiv.org/abs/2607.11692). arXiv:2607.11692. arXiv preprint.
+Amrita Ganguly, Sai Sharanya Garika, Aditya Johri (2026). [Uncovering Students' Mental Models of Generative Artificial Intelligence](https://arxiv.org/abs/2607.11692). arXiv preprint.

@@ -46,4 +46,4 @@ By elucidating the relationships between physiological signals and academic perf
 
 ## Citation
 
-Lala Yamazaki, Ramchandra Rimal (2026). [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://arxiv.org/abs/2606.14960). arXiv:2606.14960. arXiv preprint.
+Lala Yamazaki, Ramchandra Rimal (2026). [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://arxiv.org/abs/2606.14960). arXiv preprint.

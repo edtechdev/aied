@@ -50,4 +50,4 @@ The piecewise-stable latent structure means exam preparation can be modeled as *
 
 ## Citation
 
-Joy Bose, Om Thomas (2026). [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349). arXiv:2606.15349. arXiv preprint.
+Joy Bose, Om Thomas (2026). [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349). arXiv preprint.

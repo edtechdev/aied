@@ -36,4 +36,4 @@ Validation follows the multi-source framework of the *Standards for Educational 
 
 ## Citation
 
-Shahin Hossain, Tukhbita Afroz Nawmi (2026). [Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)](https://arxiv.org/abs/2607.14301). arXiv:2607.14301.
+Shahin Hossain, Tukhbita Afroz Nawmi (2026). [Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)](https://arxiv.org/abs/2607.14301).

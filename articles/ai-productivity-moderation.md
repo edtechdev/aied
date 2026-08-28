@@ -41,4 +41,4 @@ For [[higher-ed]] institutions investing in AI infrastructure, this paper serves
 - [[ai-fatigue-academic-contexts]]
 ## Citation
 
-Cho, W. I., Kim, S., & Kim, G. (2026). [Position: Adopting AI in practice does not guarantee the productivity boost](https://arxiv.org/abs/2605.24688). arXiv:2605.24688. Accepted at ICML 2026. cs.CY.
+Cho, W. I., Kim, S., & Kim, G. (2026). [Position: Adopting AI in practice does not guarantee the productivity boost](https://arxiv.org/abs/2605.24688). Accepted at ICML 2026. cs.CY.

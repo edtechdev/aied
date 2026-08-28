@@ -35,4 +35,4 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 
 ## Citation
 
-Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026). [Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio](https://arxiv.org/abs/2607.11129). arXiv:2607.11129. arXiv preprint.
+Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026). [Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio](https://arxiv.org/abs/2607.11129). arXiv preprint.

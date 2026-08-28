@@ -1,15 +1,14 @@
 ---
 title: AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [assessment-validity, automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, equity-in-ai-education, educational-measurement, algorithmic-bias, automated-assessment]
+tags: [assessment-validity, automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, equity-in-ai-education, educational-measurement, algorithmic-bias]
 
 sources: ['raw/papers/2607.28210.md']
 confidence: high
 ---
 > **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
-**Source:** arXiv:2607.28210 (physics.ed-ph, July 2026)
 ## Key Findings
 This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in physics. The researchers compared scores from **9 machine learning (ML) approaches and 2 large language model (LLM) approaches** against human expert scores for 116 secondary-school students' physics explanations.
 ### The Language Bias Problem
@@ -49,4 +48,4 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[ai-assessment-human-tutors]]
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
-Tschisgale", A.S.F.P.L., Leibniz, P.E., to, E.A.S.A.H.L.Q.S.N.C.L., & frequently, T.C.S.I.P.T.A.P.P.T. (2026). [*AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics*](https://arxiv.org/abs/2607.28210)
+Feser, M. S., & Tschisgale, P. L. (2026). [*AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics*](https://arxiv.org/abs/2607.28210).

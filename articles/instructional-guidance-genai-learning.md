@@ -34,4 +34,4 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 
 ## Citation
 
-Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. [arXiv:2606.05509](https://arxiv.org/abs/2606.05509).
+Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). [*The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education*](https://arxiv.org/abs/2606.05509).

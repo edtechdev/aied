@@ -44,4 +44,4 @@ sources: [raw/papers/2603.12471.md]
 
 ## Citation
 
-Tan, M., Phalen, L., & Demszky, D. (2026). *[Marked pedagogies: Examining linguistic biases in personalized automated writing feedback](https://doi.org/10.1145/3785022.3785113)* (arXiv:2603.12471). LAK 2026.
+Tan, M., Phalen, L., & Demszky, D. (2026). *[Marked pedagogies: Examining linguistic biases in personalized automated writing feedback](https://doi.org/10.1145/3785022.3785113)*. LAK 2026.

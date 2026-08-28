@@ -1,7 +1,7 @@
 ---
 title: "DeepTutor: Towards Agentic Personalized Tutoring"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation, adaptive-learning, tutoring-systems, generative-ai, automated-question-generation]
 sources: ['raw/papers/2604.26962.md']
@@ -67,4 +67,6 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 
 ## Citation
 
-Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). [*DeepTutor: Towards Agentic Personalized Tutoring*](https://arxiv.org/abs/2604.26962)
+
+
+Zhao, B., Zhang, J., Ren, X., Guo, Z., Chu, T., Ma, Y., et al. (2026). [*DeepTutor: Towards Agentic Personalized Tutoring*](https://arxiv.org/abs/2604.26962).

@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment"
 created: "2026-08-25T09:52:34-04:00"
-updated: "2026-08-25T09:52:34-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, assessment, educational-measurement, multimodal, higher-ed, dataset, benchmark]
 sources: ['raw/papers/multimodal-exam-obe-rubrics-2026.md']
@@ -35,4 +35,5 @@ This is a data-article contribution to the emerging field of automated grading a
 - [[harmogen-ai-assessment-rubric-generation]] — HarmOGEN AI Assessment Rubric Generation
 
 ## Citation
-Alam SM, J., Syfullah, M. K., Ahmed, S., Mou, M. A., Rahman, A. K. Z. R., Rahman, A. K. M. M., & Ali, M. S. (2026). [*Multimodal examination answer data with expert-designed Outcome-Based Education rubrics for criterion-level assessment*](https://arxiv.org/abs/2608.22346). arXiv:2608.22346.
+
+Alam, J. S., Syfullah, M. K., Ahmed, S., Mou, M. A., Rahman, A. K. Z. R., Rahman, A. K. M. M., & Ali, M. S. (2026). [*Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment*](https://arxiv.org/abs/2608.22346).

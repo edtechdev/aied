@@ -86,4 +86,4 @@ The work connects to broader conversations about how AI is reshaping [[higher-ed
 
 ## Citation
 
-Smith, D. R., Whittington, W., Martinez, A., Duncan, A., & Li, G. (2026). [*A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era*](https://arxiv.org/abs/2608.11540). arXiv:2608.11540.
+Smith, D. R., Whittington, W., Martinez, A., Duncan, A., & Li, G. (2026). [*A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era*](https://arxiv.org/abs/2608.11540).

@@ -46,4 +46,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Baksh, F., Zorec, M. B., Baksh, F., & Kruusamäe, K. (2026). [*Co-Creating Buildable and Open Social Robot Study Companions with University Students*](https://arxiv.org/abs/2606.15239). arXiv:2606.15239. ICSR + ART 2026, London.
+Baksh, F., Zorec, M. B., Baksh, F., & Kruusamäe, K. (2026). [*Co-Creating Buildable and Open Social Robot Study Companions with University Students*](https://arxiv.org/abs/2606.15239). ICSR + ART 2026, London.

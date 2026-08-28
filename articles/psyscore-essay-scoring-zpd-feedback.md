@@ -3,7 +3,7 @@ title: "PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Sc
 created: "2026-06-19T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [automated-assessment, formative-assessment, feedback, writing-education, scaffolding, llm, automated-assessment]
+tags: [automated-assessment, formative-assessment, feedback, writing-education, scaffolding, llm]
 
 sources: ['raw/papers/2606.20287.md']
 confidence: high
@@ -30,4 +30,5 @@ PsyScore integrates [[assessment|diagnostic assessment]] with [[scaffolding|inst
 - [[becerra-aicofe-feedback-2026]] — AI peer feedback systems
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 ## Citation
-Xia, W., Wu, J., Shi, H., Wang, X., & Zheng, C. (2026). [*PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*](https://arxiv.org/abs/2606.20287). arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.
+
+Xia, W., Wu, J., Shi, H., Wang, X., & Zheng, C. (2026). [*PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*](https://arxiv.org/abs/2606.20287). East China Normal University / arXiv cs.CL preprint.

@@ -46,4 +46,4 @@ The deployment involved 32 high school students, and detailed learning-outcome d
 
 ## Citation
 
-Li, L., Du, C., Sun, J., et al. (2026). [*RoboBlockly Studio: Conversational block programming with embodied robot feedback for computational thinking*](https://doi.org/10.1145/3800645.3813071). arXiv:2605.12059.
+Li, L., Du, C., Sun, J., et al. (2026). [*RoboBlockly Studio: Conversational block programming with embodied robot feedback for computational thinking*](https://doi.org/10.1145/3800645.3813071).

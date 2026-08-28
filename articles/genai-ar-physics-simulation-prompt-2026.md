@@ -87,4 +87,4 @@ Three themes recur in the open answers: *feeling the wave* ("it entered my mind 
 
 ## Citation
 
-Levy, O., Glazer, J., Finkelstein, N. D., & Ben-Zion, Y. (2026). [*From prompt to embodied simulation: Using generative AI to create AR physics learning tools*](https://arxiv.org/abs/2607.24709). arXiv:2607.24709.
+Levy, O., Glazer, J., Finkelstein, N. D., & Ben-Zion, Y. (2026). [*From prompt to embodied simulation: Using generative AI to create AR physics learning tools*](https://arxiv.org/abs/2607.24709).

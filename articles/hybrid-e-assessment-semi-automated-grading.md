@@ -35,4 +35,4 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 
 ## Citation
 
-Grabowski, H., & Canz, M. (2026). [*Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations*](https://arxiv.org/abs/2606.08855). arXiv:2606.08855.
+Grabowski, H., & Canz, M. (2026). [*Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations*](https://arxiv.org/abs/2606.08855).

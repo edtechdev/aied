@@ -42,4 +42,4 @@ sources: [raw/papers/2510.05087.md]
 
 ## Citation
 
-Perczel, J., Chow, J., & Demszky, D. (2025). *[TeachLM: Post-training LLMs for education using authentic learning data](https://arxiv.org/abs/2510.05087)* (arXiv:2510.05087). arXiv.
+Perczel, J., Chow, J., & Demszky, D. (2025). *[TeachLM: Post-training LLMs for education using authentic learning data](https://arxiv.org/abs/2510.05087)*.

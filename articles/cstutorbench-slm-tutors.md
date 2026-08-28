@@ -34,4 +34,4 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 - [[ai-tutor-behavioral-evaluation]]
 ## Citation
 
-Lane, H. C., & Kageler, B. (2026). [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571). arXiv:2607.05571.
+Lane, H. C., & Kageler, B. (2026). [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571).

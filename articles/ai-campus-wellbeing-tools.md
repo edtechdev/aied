@@ -43,4 +43,4 @@ The integrated framework — where adaptive survey insights flow into specialize
 
 ## Citation
 
-Tang, J. (2026). [New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach](https://arxiv.org/abs/2605.10804) [PhD Dissertation, University of Missouri]. arXiv:2605.10804.
+Tang, J. (2026). [New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach](https://arxiv.org/abs/2605.10804) [PhD Dissertation, University of Missouri].

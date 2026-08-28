@@ -36,4 +36,4 @@ The findings also relate to [[generative-ai]] and [[principled-ai-education]], s
 - [[agentic-workflows-education]]
 ## Citation
 
-Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generation for mathematics visuals?](https://arxiv.org/abs/2605.10672) arXiv:2605.10672. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S 2026), Seoul, Republic of Korea.
+Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generation for mathematics visuals?](https://arxiv.org/abs/2605.10672). Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S 2026), Seoul, Republic of Korea.

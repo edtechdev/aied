@@ -26,4 +26,4 @@ This work connects to core wiki themes: [[knowledge-tracing]] [[personalized-lea
 - [[programming-its]]
 ## Citation
 
-Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026). [Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components](https://arxiv.org/abs/2607.05409). arXiv:2607.05409. CSEDM Workshop 2026 (arXiv preprint).
+Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026). [Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components](https://arxiv.org/abs/2607.05409). CSEDM Workshop 2026 (arXiv preprint).

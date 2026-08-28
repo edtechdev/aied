@@ -41,4 +41,4 @@ This framework bears on the wiki's [[student-modeling]] and [[personalized-learn
 
 ## Citation
 
-Liu, N., Bradford, B., Hatchett, J., Diaz, G., Luzi, L., Wang, Z., Basu Mallick, D., & Baraniuk, R. (2026). [*Learning context: A unified framework and roadmap for context-aware AI in education*](https://arxiv.org/abs/2512.24362). arXiv:2512.24362.
+Liu, N., Bradford, B., Hatchett, J., Diaz, G., Luzi, L., Wang, Z., Basu Mallick, D., & Baraniuk, R. (2026). [*Learning context: A unified framework and roadmap for context-aware AI in education*](https://arxiv.org/abs/2512.24362).

@@ -41,4 +41,4 @@ sources: [raw/papers/2511.08283.md]
 
 ## Citation
 
-Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *[DiagramIR: An automatic pipeline for educational math diagram evaluation](https://arxiv.org/abs/2511.08283)* (arXiv:2511.08283). NeurIPS 2025 Math-AI Workshop.
+Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *[DiagramIR: An automatic pipeline for educational math diagram evaluation](https://arxiv.org/abs/2511.08283)*. NeurIPS 2025 Math-AI Workshop.

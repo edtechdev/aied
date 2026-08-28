@@ -82,4 +82,4 @@ ProPACT exemplifies [[stanford-evidence-base-ai-k12-2026|tutoring-specific desig
 - [[ai-collaborative-learning-systematic-review]]
 ## Citation
 
-Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703). arXiv:2605.02703.
+Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703).

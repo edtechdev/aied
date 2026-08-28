@@ -55,4 +55,5 @@ This paper contributes a *validity-oriented framework* for comparing latent stru
 - [[ground-truth-reliability-aied]] — Modernizing ground truth in AIED evaluation
 
 ## Citation
-Strugatski, A., Zeinfeld, L., & Alexandron, G. (2026). [*Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis*](https://arxiv.org/abs/2608.15630). arXiv:2608.15630 [cs.HC].
+
+Strugatski, A., Zeinfeld, L., & Alexandron, G. (2026). [*Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis*](https://arxiv.org/abs/2608.15630). [cs.HC].

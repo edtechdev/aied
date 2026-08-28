@@ -33,4 +33,4 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 
 ## Citation
 
-Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](https://arxiv.org/abs/2607.05412). arXiv:2607.05412. ISLS 2026 (arXiv preprint).
+Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](https://arxiv.org/abs/2607.05412). ISLS 2026 (arXiv preprint).

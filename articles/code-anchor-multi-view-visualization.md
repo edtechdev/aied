@@ -36,4 +36,4 @@ Students spent ~47% of gaze time on code despite [[scaffolding|visual scaffolds]
 
 ## Citation
 
-Sibia, N., Wen, J., Richardson, A., Jain, Y., Malik, K., Simion, B., Nobre, C., Zavaleta Bernuy, A., Petersen, A., & Liut, M. (2026). [*Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations*](https://arxiv.org/abs/2606.19570). arXiv:2606.19570. ICER 2026.
+Sibia, N., Wen, J., Richardson, A., Jain, Y., Malik, K., Simion, B., Nobre, C., Zavaleta Bernuy, A., Petersen, A., & Liut, M. (2026). [*Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations*](https://arxiv.org/abs/2606.19570). ICER 2026.

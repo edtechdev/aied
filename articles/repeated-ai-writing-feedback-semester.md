@@ -31,4 +31,4 @@ The study surfaces the central tension in [[cognitive-offloading|Over-Reliance]]
 - [[sequenced-ai-feedback-learning]]
 ## Citation
 
-Karjus, A., Leoste, J., & Oun, T. (2026). [Student Evaluation of Repeated AI Feedback Across a Semester of Writing](https://arxiv.org/abs/2607.16115). arXiv:2607.16115.
+Karjus, A., Leoste, J., & Oun, T. (2026). [Student Evaluation of Repeated AI Feedback Across a Semester of Writing](https://arxiv.org/abs/2607.16115).

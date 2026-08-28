@@ -41,4 +41,4 @@ The study also connects to [[socially-fluent-ai-identity-detection|research on A
 - [[agency-gap-ai-writing]]
 ## Citation
 
-Yin, M., Chiang, A., Cox, S. R., & Xiao, R. (2026). ["It felt a bit eerie": Exploring humanlike interactions during collaborative writing with an artificial agent](https://arxiv.org/abs/2605.24729). arXiv:2605.24729. cs.HC.
+Yin, M., Chiang, A., Cox, S. R., & Xiao, R. (2026). ["It felt a bit eerie": Exploring humanlike interactions during collaborative writing with an artificial agent](https://arxiv.org/abs/2605.24729).

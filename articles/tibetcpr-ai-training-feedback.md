@@ -30,4 +30,4 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 
 ## Citation
 
-Meng, Y., Chen, R., Liu, Z., & Ding, X. (2026). [*TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet*](https://arxiv.org/abs/2606.07765). arXiv:2606.07765.
+Meng, Y., Chen, R., Liu, Z., & Ding, X. (2026). [*TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet*](https://arxiv.org/abs/2606.07765).

@@ -42,4 +42,4 @@ This work suggests exam designers should treat the cheat-sheet decision as a for
 - [[cognitive-offloading-llm-synthesis-writing]]
 ## Citation
 
-Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). [Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets](https://arxiv.org/abs/2607.24736). arXiv:2607.24736.
+Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). [Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets](https://arxiv.org/abs/2607.24736).

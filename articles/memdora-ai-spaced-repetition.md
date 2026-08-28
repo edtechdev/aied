@@ -47,4 +47,4 @@ Memdora illustrates how AI-powered spaced repetition can move beyond scheduling 
 
 ## Citation
 
-Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition](https://arxiv.org/abs/2607.25096). arXiv:2607.25096. cs.HC.
+Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition](https://arxiv.org/abs/2607.25096).

@@ -35,4 +35,4 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 
 ## Citation
 
-Kadharmoideen Fadurudeen (2026). [Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children](https://arxiv.org/abs/2607.22377). arXiv:2607.22377. arXiv preprint.
+Kadharmoideen Fadurudeen (2026). [Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children](https://arxiv.org/abs/2607.22377). arXiv preprint.

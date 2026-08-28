@@ -66,4 +66,4 @@ The paper's [[educational-policy-ai|policy]] implications are qualitative and co
 
 ## Citation
 
-Biswas, A. (2026). [*Modeling AI Overreliance as a Complex Adaptive System*](https://arxiv.org/abs/2608.19616). arXiv:2608.19616.
+Biswas, A. (2026). [*Modeling AI Overreliance as a Complex Adaptive System*](https://arxiv.org/abs/2608.19616).

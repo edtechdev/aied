@@ -36,4 +36,4 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 
 ## Citation
 
-Heickal, H., & Lan, A. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. [arXiv:2606.08807](https://arxiv.org/abs/2606.08807). Accepted at IRAISE 2026.
+Heickal, H., & Lan, A. (2026). [*A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming*](https://arxiv.org/abs/2606.08807). Accepted at IRAISE 2026.

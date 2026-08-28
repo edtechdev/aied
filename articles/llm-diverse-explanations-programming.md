@@ -32,4 +32,4 @@ Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students 
 
 ## Citation
 
-Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, Stephen MacNeil (2026). [Exploring the Value of Diverse LLM Explanations in Introductory Programming](https://arxiv.org/abs/2606.28882). arXiv:2606.28882. cs.HC (SIGCSE Virtual 2026).
+Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, Stephen MacNeil (2026). [Exploring the Value of Diverse LLM Explanations in Introductory Programming](https://arxiv.org/abs/2606.28882). cs.HC (SIGCSE Virtual 2026).

@@ -29,4 +29,4 @@ This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully
 - [[short-answer-scoring-quality-degradation]]
 ## Citation
 
-Matey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026). [The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences](https://arxiv.org/abs/2607.23566). arXiv:2607.23566.
+Matey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026). [The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences](https://arxiv.org/abs/2607.23566).

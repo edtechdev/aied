@@ -50,4 +50,4 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 
 ## Citation
 
-Brady D. Lund, Zoë Abbie Teel (2026). [AI Literacy: An Exercise in Power-Knowledge](https://arxiv.org/abs/2607.27547). arXiv:2607.27547. cs.AI, cs.CY.
+Brady D. Lund, Zoë Abbie Teel (2026). [AI Literacy: An Exercise in Power-Knowledge](https://arxiv.org/abs/2607.27547).

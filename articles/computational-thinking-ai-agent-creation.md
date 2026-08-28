@@ -3,7 +3,7 @@ title: "Computational Thinking Development in AI Agent Creation: A Mixed-Methods
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, k-12, computational-thinking, metacognition, ai-education]
+tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, computational-thinking, metacognition, ai-education]
 sources: ['raw/papers/2605.14330.md']
 confidence: high
 ---
@@ -43,4 +43,4 @@ These findings challenge linear learning assumptions in [[k-12]] and provide dir
 - [[agentic-education-coding]]
 ## Citation
 
-Sun, Y., Xin, H., Niu, Q., Li, S., Huang, L., & Chen, G. (2026). [Computational thinking development in AI agent creation: A mixed-methods study](https://arxiv.org/abs/2605.14330). arXiv:2605.14330.
+Sun, Y., Xin, H., Niu, Q., Li, S., Huang, L., & Chen, G. (2026). [Computational thinking development in AI agent creation: A mixed-methods study](https://arxiv.org/abs/2605.14330).

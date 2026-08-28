@@ -85,4 +85,4 @@ These are structurally new competencies, not refinements. Design defaults are li
 
 ## Citation
 
-Nama, R. (2026). [*Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named*](https://arxiv.org/abs/2605.27396). arXiv:2605.27396. *AI & Ethics*.
+Nama, R. (2026). [*Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named*](https://arxiv.org/abs/2605.27396). *AI & Ethics*.

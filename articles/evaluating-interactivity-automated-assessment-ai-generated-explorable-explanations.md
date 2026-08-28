@@ -47,4 +47,4 @@ For educators and tool builders, EE-Eval offers a diagnostic lens: instead of as
 
 ## Citation
 
-Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). [Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations](https://arxiv.org/abs/2606.31012). arXiv:2606.31012.
+Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). [Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations](https://arxiv.org/abs/2606.31012).

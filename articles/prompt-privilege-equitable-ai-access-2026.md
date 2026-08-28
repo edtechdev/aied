@@ -74,4 +74,4 @@ The authors acknowledge that their experiments are limited to the healthcare dom
 
 ## Citation
 
-Jin, L., Hu, L., Shen, B., Cai, H., & Xin, Y. (2026). [*Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access*](https://arxiv.org/abs/2608.08942). arXiv:2608.08942.
+Jin, L., Hu, L., Shen, B., Cai, H., & Xin, Y. (2026). [*Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access*](https://arxiv.org/abs/2608.08942).

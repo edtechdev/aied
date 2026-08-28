@@ -31,4 +31,4 @@ Work-in-progress exploring LLMs as debugging assistants for physical hardware la
 
 ## Citation
 
-Andrew Ash, & John Hu (2026). [WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant](https://arxiv.org/abs/2608.02420). arXiv:2608.02420. IEEE Frontiers in Education Conference (FIE) 2026.
+Andrew Ash, & John Hu (2026). [WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant](https://arxiv.org/abs/2608.02420). IEEE Frontiers in Education Conference (FIE) 2026.

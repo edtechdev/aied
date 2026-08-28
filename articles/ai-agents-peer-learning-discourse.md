@@ -46,4 +46,4 @@ For AI in education, the Moltbook analysis suggests that multi-agent systems can
 
 ## Citation
 
-Eason Chen et al. (2026). [When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community](https://arxiv.org/abs/2602.14477). arXiv:2602.14477. cs.HC.
+Eason Chen et al. (2026). [When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community](https://arxiv.org/abs/2602.14477).

@@ -71,4 +71,4 @@ For **computing education research**, the work illustrates how a small, high-tou
 
 ## Citation
 
-Qu, W., Zheng, L., Buzaid, C., & Crawford, D. (2026). [*LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University*](https://arxiv.org/abs/2608.19164). arXiv:2608.19164 [cs.CY, cs.HC].
+Qu, W., Zheng, L., Buzaid, C., & Crawford, D. (2026). [*LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University*](https://arxiv.org/abs/2608.19164). [cs.CY, cs.HC].

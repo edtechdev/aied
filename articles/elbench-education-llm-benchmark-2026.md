@@ -73,4 +73,4 @@ The two education-specialized models, among the strongest education-oriented sys
 
 ## Citation
 
-Jiang, Y., Zhu, X., Tan, F., Zhang, Z., Huang, K., Yu, Y., Fei, Z., Luo, Y., Li, K., Hao, H., Zhai, G., & Zhou, A. (2026). [*ELBench: A multi-dimensional benchmark for education-facing large language models*](https://arxiv.org/abs/2608.09548). arXiv:2608.09548.
+Jiang, Y., Zhu, X., Tan, F., Zhang, Z., Huang, K., Yu, Y., Fei, Z., Luo, Y., Li, K., Hao, H., Zhai, G., & Zhou, A. (2026). [*ELBench: A multi-dimensional benchmark for education-facing large language models*](https://arxiv.org/abs/2608.09548).

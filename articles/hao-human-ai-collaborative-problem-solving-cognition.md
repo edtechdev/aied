@@ -66,4 +66,4 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 
 ## Citation
 
-Hao, Z., Liu, X., Fan, J., Long, Y., Yu, J., Chen, W., & Zhang, Y. (2026). [*Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective*](https://arxiv.org/abs/2603.21288). arXiv:2603.21288.
+Hao, Z., Liu, X., Fan, J., Long, Y., Yu, J., Chen, W., & Zhang, Y. (2026). [*Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective*](https://arxiv.org/abs/2603.21288).

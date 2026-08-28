@@ -3,7 +3,7 @@ title: Unanticipated Effects of Generative AI on Expertise Pathways and Performa
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, professional-training, cognitive-offloading, cognitive-offloading, lifelong-learning, human-in-the-loop, human-ai-collaboration, ai-education]
+tags: [generative-ai, professional-training, cognitive-offloading, lifelong-learning, human-in-the-loop, human-ai-collaboration, ai-education]
 
 sources: ['raw/papers/2607.28650.md']
 confidence: high
@@ -42,4 +42,4 @@ Drawing on 14 semi-structured interviews with IT professionals, this study explo
 
 ## Citation
 
-Abou Khamis, R., Assal, H., & Matrawy, A. (2026). [Unanticipated effects of generative AI on expertise pathways and performance perception in system administration](https://arxiv.org/abs/2607.28650). arXiv:2607.28650.
+Abou Khamis, R., Assal, H., & Matrawy, A. (2026). [Unanticipated effects of generative AI on expertise pathways and performance perception in system administration](https://arxiv.org/abs/2607.28650).

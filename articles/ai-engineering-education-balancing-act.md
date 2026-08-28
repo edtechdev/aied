@@ -51,4 +51,4 @@ The "cruel optimism" argument has direct consequences for pedagogy: the efficien
 
 ## Citation
 
-Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven by clear purpose](https://arxiv.org/abs/2606.16626). arXiv:2606.16626. The Routledge Handbook of the Philosophy of Engineering, 2nd ed..
+Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven by clear purpose](https://arxiv.org/abs/2606.16626). The Routledge Handbook of the Philosophy of Engineering, 2nd ed.

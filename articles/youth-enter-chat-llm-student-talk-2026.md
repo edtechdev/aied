@@ -35,4 +35,5 @@ confidence: high
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk
 
 ## Citation
-Santos-Deonizio, Malamut, Martínez, & Demszky (2026). [*When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk*](https://arxiv.org/abs/2608.23780). arXiv:2608.23780.
+
+Santos-Deonizio, Malamut, Martínez, & Demszky (2026). [*When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk*](https://arxiv.org/abs/2608.23780).

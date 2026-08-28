@@ -1,9 +1,9 @@
 ---
 title: "ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, k-12, affective-tutoring, regulation]
+tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, affective-tutoring, regulation]
 sources: ['raw/papers/2605.08040.md']
 confidence: medium
 ---
@@ -53,4 +53,4 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - [[llm-student-modeling-memory]]
 ## Citation
 
-Zhang, A.Y.Z.J.L.Z., TUDY, E.L.A.L.E.R.I.N.S., OMPANION, C., DUCATION, F.R.F.K.P.E.E., REPRINT, A.P., 1,2, Y.Z.J.L.A.Z.Z., & Normal, A.E.L.E.C. (2026). [*ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*](https://arxiv.org/abs/2605.08040)
+Zhou, Y., Li, J., & Zhang, Z. (2026). [*ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*](https://arxiv.org/abs/2605.08040).

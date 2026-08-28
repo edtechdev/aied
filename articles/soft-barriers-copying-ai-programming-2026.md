@@ -38,4 +38,5 @@ The paper's conceptual contribution is to broaden how we evaluate AI coding assi
 - [[learn-framework-responsible-genai-pbl-2026]] — LEARN Framework for Responsible GenAI
 
 ## Citation
-Olatunji, I. E., Djire, A. E., Klein, J., & Bissyandé, T. F. (2026). [*Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming*](https://arxiv.org/abs/2608.22638). arXiv:2608.22638.
+
+Olatunji, I. E., Djire, A. E., Klein, J., & Bissyandé, T. F. (2026). [*Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming*](https://arxiv.org/abs/2608.22638).

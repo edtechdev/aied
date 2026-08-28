@@ -37,4 +37,4 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 
 ## Citation
 
-Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). ['A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform](https://arxiv.org/abs/2606.26729). arXiv:2606.26729. arXiv cs.HC.
+Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). ['A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform](https://arxiv.org/abs/2606.26729). arXiv cs.HC.

@@ -54,4 +54,4 @@ The paper contributes an experimentally validated framework for adapting LLMs to
 
 ## Citation
 
-Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). [*An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria*](https://arxiv.org/abs/2608.15738). arXiv:2608.15738 [cs.CY]. https://doi.org/10.48550/arXiv.2608.15738
+Nwogo, E. U., Ihianle, I. K., Machado, P., Bird, J. J., Lotfi, A., Shuaib, A. A., Akinwumi, I. I., & Oluranti, J. (2026). [*An AI-Based Adaptive Learning Platform for Multilingual and Low-Resource Educational Contexts: A Case Study on Nigeria*](https://arxiv.org/abs/2608.15738). [cs.CY]. https://doi.org/10.48550/arXiv.2608.15738

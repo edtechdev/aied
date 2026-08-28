@@ -81,4 +81,4 @@ The framework integrates and extends themes already present in the wiki. It prov
 
 ## Citation
 
-Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2026). [*From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)*](https://arxiv.org/abs/2608.17451). arXiv:2608.17451 [cs.HC]. https://doi.org/10.48550/arXiv.2608.17451
+Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2026). [*From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)*](https://arxiv.org/abs/2608.17451). [cs.HC]. https://doi.org/10.48550/arXiv.2608.17451

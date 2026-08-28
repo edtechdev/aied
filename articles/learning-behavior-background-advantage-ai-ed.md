@@ -42,4 +42,4 @@ These findings connect [[generative-ai]] use to [[digital-divide]] and [[equity-
 - [[idan-anand-genai-productivity-divide-2026]]
 ## Citation
 
-Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, Fangzhao Wu (2026). [Learning behavior accounts for background-related advantage in AI-assisted education](https://arxiv.org/abs/2607.10101). arXiv:2607.10101. arXiv preprint.
+Jingwei Yi, Yueqi Xie, Jiyan He, Rui Ye, Junming Huang, Bin Zhu, Sean Rintel, Yu Xie, Xing Xie, Fangzhao Wu (2026). [Learning behavior accounts for background-related advantage in AI-assisted education](https://arxiv.org/abs/2607.10101). arXiv preprint.

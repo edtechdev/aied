@@ -1,7 +1,7 @@
 ---
 title: "Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T18:15:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, k-12, scaffolding, student-experience, stem-education, self-regulated-learning, human-in-the-loop-ai, metacognition]
 sources: ['raw/papers/2605.17857.md']
@@ -55,4 +55,4 @@ The study implies that generative AI in K-12 [[cs-education|programming educatio
 - [[structured-llm-feedback-programming]]
 ## Citation
 
-preprint, A. (2026). [*Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*](https://arxiv.org/abs/2605.17857)
+Lucas, C., Tsai, C.-H., Bihani, A., & Sarker, J. (2026). [*Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*](https://arxiv.org/abs/2605.17857).

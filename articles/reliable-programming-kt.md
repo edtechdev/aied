@@ -66,4 +66,4 @@ For [[assessment-validity]] and [[educational-measurement]], the study underscor
 - [[programming-its]]
 ## Citation
 
-Kim & Kim (2026). [Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols](https://arxiv.org/abs/2605.04727). arXiv:2605.04727. ITS 2026 (Springer LNCS).
+Kim & Kim (2026). [Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols](https://arxiv.org/abs/2605.04727). ITS 2026 (Springer LNCS).

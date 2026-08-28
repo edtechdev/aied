@@ -1,7 +1,7 @@
 ---
 title: "TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [benchmark, cs-education, k-12, multimodal]
 sources: ['raw/papers/2606.03626.md']
@@ -35,4 +35,4 @@ Vision-language models (VLMs) have been explored for visual programming, where t
 
 ## Citation
 
-for, T.U.A.B.M.M., Graphics, V.P.I.T., Wen, C., Staub, J., tasks, T.U.A.A.B.C., visual, Y.E.A.L.E.A.B., & Rodriguez, Y.E.A.W.E.A. (2026). [*TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics*](https://arxiv.org/abs/2606.03626). T URTLE AI, each task requires a VLM to generate Python code that reproduces a target image
+Wen, C., & Staub, J. (2026). [*TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics*](https://arxiv.org/abs/2606.03626).

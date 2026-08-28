@@ -33,4 +33,4 @@ Results show MLLMs do **not** exhibit uniform SciVis literacy. Gemini is the str
 
 ## Citation
 
-Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026). [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176). arXiv:2607.15176.
+Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026). [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176).

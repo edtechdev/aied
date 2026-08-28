@@ -34,4 +34,4 @@ Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to t
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — An affective approach to math tutoring
 ## Citation
 
-Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026). [Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving](https://arxiv.org/abs/2607.23317). arXiv:2607.23317.
+Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026). [Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving](https://arxiv.org/abs/2607.23317).

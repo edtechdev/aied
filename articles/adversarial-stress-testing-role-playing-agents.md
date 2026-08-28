@@ -94,4 +94,4 @@ The framework focuses on prompt-based attacks and does not consider vulnerabilit
 
 ## Citation
 
-Shouqi, S., Nazly, A., Wanniarachchi, J., & De Alwis, R. (2026). [*Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation*](https://arxiv.org/abs/2608.03166v1). arXiv:2608.03166v1.
+Shouqi, S., Nazly, A., Wanniarachchi, J., & De Alwis, R. (2026). [*Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation*](https://arxiv.org/abs/2608.03166v1). v1.

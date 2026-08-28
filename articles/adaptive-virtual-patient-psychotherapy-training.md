@@ -35,4 +35,4 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 
 ## Citation
 
-Chen, A., Jin, S., Bao, C., Wang, C., Kraut, R. E., Wu, T., & Zhu, H. (2026). [*The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills*](https://arxiv.org/abs/2606.10051). arXiv:2606.10051.
+Chen, A., Jin, S., Bao, C., Wang, C., Kraut, R. E., Wu, T., & Zhu, H. (2026). [*The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills*](https://arxiv.org/abs/2606.10051).

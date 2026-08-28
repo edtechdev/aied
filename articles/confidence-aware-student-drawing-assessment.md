@@ -37,4 +37,4 @@ A Vision Transformer (ViT) with LoRA adaptation for [[automated-assessment|autom
 
 ## Citation
 
-Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., & Zhai, X. (2026). [*Confidence-Aware Automated Assessment of Student-Drawn Scientific Models*](https://arxiv.org/abs/2606.20264). arXiv:2606.20264. arXiv cs.AI preprint.
+Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., & Zhai, X. (2026). [*Confidence-Aware Automated Assessment of Student-Drawn Scientific Models*](https://arxiv.org/abs/2606.20264). arXiv cs.AI preprint.

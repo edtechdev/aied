@@ -41,4 +41,4 @@ The study suggests declarative and logic-programming courses can adopt visual qu
 - [[supplynet-visual-exploratory-learning]]
 ## Citation
 
-Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026). [Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming](https://arxiv.org/abs/2607.18864). arXiv:2607.18864. arXiv:2607.18864 [cs.HC].
+Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026). [Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming](https://arxiv.org/abs/2607.18864). .

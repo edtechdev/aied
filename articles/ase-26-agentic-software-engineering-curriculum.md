@@ -48,4 +48,4 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 
 ## Citation
 
-Mikael Gorsky (2026). [ASE-26: A Curriculum for Agentic Software Engineering as a Discipline](https://arxiv.org/abs/2606.01152). arXiv:2606.01152.
+Mikael Gorsky (2026). [ASE-26: A Curriculum for Agentic Software Engineering as a Discipline](https://arxiv.org/abs/2606.01152).

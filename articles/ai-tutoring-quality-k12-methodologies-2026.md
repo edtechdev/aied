@@ -81,4 +81,4 @@ For researchers and practitioners, this paper reframes AI tutoring quality as a 
 
 ## Citation
 
-Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weatherholtz, K., & Zaluski, M. (2026). [*Methodologies for improving the quality of AI tutoring in K-12 education*](https://arxiv.org/abs/2608.11259). In Artificial Intelligence in Education (AIED 2026), LNCS vol. 16582. Springer. arXiv:2608.11259.
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weatherholtz, K., & Zaluski, M. (2026). [*Methodologies for improving the quality of AI tutoring in K-12 education*](https://arxiv.org/abs/2608.11259). In Artificial Intelligence in Education (AIED 2026), LNCS vol. 16582. Springer.

@@ -53,4 +53,4 @@ For [[governance]], the finding that institutional guidance is pro-use while cla
 - [[teacher-ai-adoption-confidence]]
 ## Citation
 
-Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://arxiv.org/abs/2607.12296). arXiv:2607.12296.
+Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://arxiv.org/abs/2607.12296).

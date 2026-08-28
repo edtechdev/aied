@@ -1,7 +1,7 @@
 ---
 title: "AISSA: AI-based Student Slides Analysis Tool for Academic Presentations"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-24T04:50:23-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, learning-analytics, formative-assessment, higher-ed, llm, human-in-the-loop-ai, slidesqaqa-pedagogical-question-generation]
 
@@ -74,4 +74,6 @@ The pilot is small and single-institution, so its results are preliminary. Futur
 
 ## Citation
 
-Cobos, A.A.B.D.G.R. & 2026, V.L.S. (2026). [*AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*](https://arxiv.org/abs/2605.04729)
+
+
+Becerra, A., Gomez, D., & Cobos, R. (2026). [*AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*](https://arxiv.org/abs/2605.04729).

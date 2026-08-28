@@ -35,4 +35,4 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 
 ## Citation
 
-Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. [arXiv:2606.09041](https://arxiv.org/abs/2606.09041).
+Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). [*Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design*](https://arxiv.org/abs/2606.09041).

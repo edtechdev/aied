@@ -122,4 +122,4 @@ The absence of a [[rct|control group]] means outcomes cannot be attributed causa
 
 ## Citation
 
-Elhaimeur, I., & Chrisochoides, N. (2026). [*From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education*](https://arxiv.org/abs/2604.24807). arXiv:2604.24807.
+Elhaimeur, I., & Chrisochoides, N. (2026). [*From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education*](https://arxiv.org/abs/2604.24807).

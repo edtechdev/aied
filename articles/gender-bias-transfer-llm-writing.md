@@ -52,4 +52,4 @@ For [[writing-education]] and [[bias-mitigation]] efforts, the study implies tha
 
 ## Citation
 
-Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque (2026). [Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing](https://arxiv.org/abs/2606.15914). arXiv:2606.15914. arXiv cs.CL.
+Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque (2026). [Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing](https://arxiv.org/abs/2606.15914). arXiv cs.CL.

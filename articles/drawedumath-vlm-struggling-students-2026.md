@@ -48,4 +48,4 @@ evement gaps.
 
 ## Citation
 
-Lucy, L., Zhang, A., Anderson, N., Knight, R., & Lo, K. (2026). [*The aftermath of DrawEduMath: Vision language models underperform with struggling students and misdiagnose errors*](https://arxiv.org/abs/2603.00925). arXiv:2603.00925.
+Lucy, L., Zhang, A., Anderson, N., Knight, R., & Lo, K. (2026). [*The aftermath of DrawEduMath: Vision language models underperform with struggling students and misdiagnose errors*](https://arxiv.org/abs/2603.00925).

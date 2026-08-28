@@ -55,4 +55,4 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[principled-ai-education]]
 ## Citation
 
-Binkowski, K. P., & Hopkins, A. (2026). [*The University AI Didn't Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056). arXiv:2605.07056.
+Binkowski, K. P., & Hopkins, A. (2026). [*The University AI Didn't Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056).

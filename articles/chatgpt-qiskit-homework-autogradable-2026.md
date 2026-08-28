@@ -64,4 +64,4 @@ The study also cautions against equating more submission artifacts with stronger
 
 ## Citation
 
-Kaltchenko, A., & Tiwana, G. (2026). [*ChatGPT Solves All Tested Qiskit Homework Assignments*](https://arxiv.org/abs/2608.19707). arXiv:2608.19707.
+Kaltchenko, A., & Tiwana, G. (2026). [*ChatGPT Solves All Tested Qiskit Homework Assignments*](https://arxiv.org/abs/2608.19707).

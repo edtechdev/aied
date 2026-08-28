@@ -33,4 +33,5 @@ confidence: high
 - [[nasa-tlx-workload-gamified-ai-2026]] — Perceived Workload Across Gamified and AI-Supported Learning
 
 ## Citation
-Li, Buzaid, & Qu (2026). [*Security Education in Higher Education through AI-Powered Gamification*](https://arxiv.org/abs/2608.24778). arXiv:2608.24778.
+
+Li, Buzaid, & Qu (2026). [*Security Education in Higher Education through AI-Powered Gamification*](https://arxiv.org/abs/2608.24778).

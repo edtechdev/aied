@@ -33,4 +33,4 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 
 ## Citation
 
-Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., & Nawaz, S. (2026). [*AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design*](https://arxiv.org/abs/2606.09831). arXiv:2606.09831.
+Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., & Nawaz, S. (2026). [*AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design*](https://arxiv.org/abs/2606.09831).

@@ -41,4 +41,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662). arXiv:2606.30662. submitted 17 Jun 2026
+Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662). submitted 17 Jun 2026

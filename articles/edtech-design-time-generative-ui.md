@@ -52,4 +52,4 @@ For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal impli
 
 ## Citation
 
-Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization](https://arxiv.org/abs/2606.15902). arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.
+Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization](https://arxiv.org/abs/2606.15902). NextGen Learning Interfaces Workshop, AIED 2026.
