@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-24T12:40:00-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
 confidence: high
@@ -37,6 +37,7 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[ai-literacy]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - [[enright-staff-perspectives-genai-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review

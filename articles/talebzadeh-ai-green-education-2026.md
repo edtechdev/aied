@@ -41,6 +41,7 @@ The finding aligns with [[genai-can-harm-teaching-rct-2026]] research showing th
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: RL Teaching
 - [[didactical-teacher-assistant-dimensional-modeling]] — Didactical Teacher Assistant
 - [[teacher-control-ai-generation-math-visuals]] — Teacher Control of AI Generation for Math Visuals
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (Caruana et al. 2026)
 
 ## Citation
 

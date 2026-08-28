@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T09:01:28-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 
@@ -19,6 +19,8 @@ Physics education research has become a proving ground for AI in education becau
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all AI policies.
 
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess [[computational-thinking|computational thinking]] growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
+
+**Benchmarking multimodal AI on authentic physics problems.** [[omniphys-multimodal-physics-benchmark-2026|Chen et al. (2026)]] introduce **OmniPhys**, a large-scale [[multimodal|multimodal]] benchmark (15,246 questions, 19,850 images) spanning middle-school through university-level physics from Chinese educational corpora. Unusually, it evaluates not just multimodal *input* comprehension but multimodal *output* generation — whether models can synthesize structured physics diagrams, a core component of authentic problem solving. Extensive evaluations reveal critical gaps in current multimodal LLMs, especially in complex reasoning and visual generation. This complements [[probing-ai-generated-physics-solutions-2026|probing AI-generated physics solutions]] and extends the wiki's evidence that AI systems struggle on the high-level, diagram-heavy reasoning characteristic of authentic physics — informing realistic expectations for [[intelligent-tutoring|tutoring]] and [[automated-assessment|automated assessment]].
 
 **Teacher preparation and simulation** uses AI to train physics teachers. **[[multiagent-classroom-dual-process-physics-teachers-2026|Tufino]]** created a simulated multi-agent classroom where five AI students enact dual-process theory reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. This connects to [[professional-training]], Dual-Process Theory, and [[simulation]]-based learning.
 
@@ -60,6 +62,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 
 - [[hashmi-socratic-physics-chatbot-2025]]
