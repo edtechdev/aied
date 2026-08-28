@@ -657,7 +657,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 
       <!-- Middle: page content -->
       <div class="middle">
-        <TableOfContents headings={toc} variant="mobile" pageTitle={title} />
+        {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} />}
         <slot />
       </div>
 
