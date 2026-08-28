@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-28T15:30:00-04:00"
+updated: "2026-08-28T16:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency, cognitive-offloading]
@@ -60,14 +60,21 @@ The same autonomy that enables these benefits also creates significant risks:
 
 Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]] shows that agents enacting **constructive conflict** prompted significantly more design iterations, broader exploration of alternatives, and higher-rated final designs among novice interaction designers (N=48) — a *productive friction* dynamic, where the conflict agent was frustrating but ultimately helpful. This connects to [[socratic-method|Socratic questioning]] and [[design-thinking]], and illustrates how agentic AI can support deep reconsideration rather than passive acceptance.
 
-## Implications for AI in education
+## Implications for instructors and instructional designers
 
-- **Ground agents in learning theory:** benchmark evidence shows theory-grounded agentic designs outperform raw prompting, so effective agentic systems should be built on established instructional frameworks.
-- **Guard against over-automation:** the automation-versus-learning tension means agentic AI must be designed with intentional friction, dynamic scaffolding, and human oversight to preserve learner [[agency]] and cognitive engagement.
-- **Design for productive friction and human-in-the-loop:** agents should challenge learners and keep humans in control, not merely optimise for task completion.
-- **Evaluate robustness and safety:** multi-agent adversarial testing helps surface failure modes (persona drift, [[ethics|ethical]] lapses) before deployment, supporting [[pedagogical-safety]].
-- **Assess process, not just output:** agentic tools make [[authentic-assessment|authentic]] and tool-invariant assessment (e.g., oral defense, process verification) more important than ever.
-- **AI literacy and human-in-the-loop:** learners and teachers need [[ai-literacy]] to work productively with proactive agents, and [[human-in-the-loop-ai|human-in-the-loop]] design to retain control.
+For teachers, faculty, and [[instructional-design|instructional designers]], agentic AI changes both what is possible and what must be guarded:
+
+- **Reallocate effort to higher-value work.** Agents can take over lesson planning, question generation and validation, feedback triage, and resource retrieval. Instructors should treat these as automatable scaffolds that free time for what agents cannot do: relational teaching, contextual judgement, and the design of learning experiences. Teacher-facing [[ai-tpack-teacher-multi-agent-workflow|multi-agent workflows]] are a promising model.
+- **Keep the learner's cognitive work front and centre.** The central design question is not "what can the agent do?" but "what must the *learner* do?" Instructional designers should configure agentic systems so they scaffold rather than replace learner planning, monitoring, and effort — using dynamic [[scaffolding]] and [[desirable-difficulties|intentional friction]] to protect [[agency]] and avoid [[cognitive-offloading|over-reliance]].
+- **Design for verification and process, not just output.** When agents can generate work on demand, the artifact no longer certifies learning. Instructors should pair agentic tools with [[authentic-assessment|process-based assessment]] (oral defense, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, verification checks) so that understanding — not just production — is measured.
+- **Curate and ground agents in pedagogy.** Benchmark evidence shows theory-grounded agents outperform raw prompting. Designers should ground agent behaviour in established instructional frameworks (e.g., gradual release, Socratic questioning, [[learning-theories|learning theory]]) rather than defaulting to generic tool-chaining.
+- **Retain human oversight and judgement.** Multi-agent and autonomous systems make [[human-in-the-loop-ai|human-in-the-loop]] design essential: decide where a human intervenes, who is accountable, and how failures are caught. Adversarial testing helps surface failure modes before deployment.
+- **Build instructor [[ai-literacy]].** Teachers and designers need accurate mental models of agentic AI to configure, monitor, and critique these systems — and to model responsible use for learners. This links to [[teacher-ai-competency|teacher AI competency]] and [[faculty-development|faculty development]].
+- **Watch for equity.** Agentic tools risk widening gaps if access is unequal or if automation erodes support for the learners who need it most; design with [[equity-in-ai-education|equity]] in mind.
+
+## A balanced takeaway
+
+Agentic AI is neither a panacea nor an inevitable harm: its value depends on design. Used to scaffold learner agency, ground in pedagogy, and keep humans in the loop, agents can personalise and deepen learning; used to maximise automation and task completion, they can erode the very effort that produces learning. The recurring design principle is **intentionality** — deciding explicitly what the agent does and what it deliberately leaves for the learner.
 
 ## Connected Concepts
 
@@ -95,6 +102,10 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[equity-in-ai-education]]
 - [[authentic-assessment]]
+- [[teacher-role]]
+- [[instructional-design]]
+- [[teacher-ai-competency]]
+- [[faculty-development]]
 
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
