@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-28T17:30:00-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 confidence: high
@@ -16,6 +16,7 @@ Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
 - **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, [[assessment|assessment methods]], and [[special-education|special-education pedagogy]] — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
+- **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** benchmarks LLM-based [[instructional-design|instructional-design]] agents across 25,795 instructional-design scenarios, showing that hybrid agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) outperform pure theory or pure technique — a benchmark result with direct implications for [[agentic-ai|agentic AI]] design in education.
 
 ### Why benchmarks matter in AIED
 
@@ -37,6 +38,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking LLM-based instructional-design agents
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
