@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-28T16:30:00-04:00"
+updated: "2026-08-28T17:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency, cognitive-offloading]
@@ -55,7 +55,19 @@ The same autonomy that enables these benefits also creates significant risks:
 - **Opacity, coordination, and accountability.** Multi-agent systems complicate [[human-in-the-loop-ai|human oversight]]: which agent is accountable for an error, and where does a human intervene? Coordination failures, persona drift, and emergent behaviours can undermine reliability and [[pedagogical-safety]].
 - **Bias and equity.** Agents trained on data that encode bias can reproduce it at scale, and unequal access to capable agentic systems can widen [[equity-in-ai-education|educational inequity]].
 - **Assessment integrity and skill decay.** When agents can generate work on demand, assessing genuine learning becomes harder, and over-reliance can erode foundational skills — the "comprehension debt" and certification problem the field flags.
-- **Ghost students and the verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] describe the **"ghost student"** — a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate Learning Management Systems, engage with content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional [[ai-detection|proctoring and detection]] tools are structurally unable to close, and it accumulates **cognitive debt** in the learner who is bypassed. As AI shifts from generative to agentic, this integrity and [[academic-integrity|verification]] threat grows — an agentic-specific risk beyond those of single-turn GenAI.
+- **Ghost students and the verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] describe the **"ghost student"** — a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate Learning Management Systems, engage with content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional [[ai-detection|proctoring and detection]] tools are structurally unable to close, and it accumulates **cognitive debt** in the learner who is bypassed. As AI shifts from generative to agentic, this integrity and [[academic-integrity|verification]] threat grows — an agentic-specific risk beyond those of single-turn [[generative-ai|GenAI]].
+
+## AI agents and academic integrity
+
+Agentic AI poses distinctive integrity threats that go beyond the single-turn GenAI cases the field already struggles with. Because agents act autonomously over long horizons — and because "ghost students" (LLM "minds" coupled with agentic browser "bodies") can navigate [[online-teaching-and-learning|Learning Management Systems]], engage content, and complete assessments with human-like mimicry — they make the learner's genuine presence optional and create a **verification gap** that [[ai-detection|proctoring and detection]] cannot close. Several integrity implications follow:
+
+- **The artifact no longer certifies the learner.** When an agent can generate, plan, and execute an entire submission, the product's quality reflects the agent's capability, not the learner's. This is the [[tool-invariant-framework-agentic-ai|tool-invariant]] certification problem at its extreme — traditional "submit the work" assessment loses its evidential value.
+- **Verification, not detection, is the only viable response.** Detection-based policing is structurally unable to keep up with autonomous agents. The integrity question shifts from "can we catch AI agents?" to "can we verify what the learner can actually do?" — favouring [[authentic-assessment|process-based]], interactive, and [[human-in-the-loop-ai|human-in-the-loop]] verification.
+- **Accountability is diffused.** In multi-agent systems, when an autonomous agent produces problematic output, it is unclear who is accountable — the learner, the system, or the institution. This blurs the attribution that academic-integrity processes assume.
+- **Cognitive debt accumulates silently.** Ghost students let learners bypass the effortful processes that build understanding, accruing [[cognitive-offloading|cognitive debt]] that surfaces only when independent performance is required. Integrity is thus tied to genuine learning, not just rule-compliance.
+- **It widens equity gaps.** Learners with access to more capable agentic systems gain an outsized advantage, and automated support may erode help for those who need it most — an [[equity-in-ai-education|equity]] dimension of integrity.
+
+This connects the agentic-AI discussion to the wiki's [[academic-integrity]] coverage, which frames the response as assessment redesign and [[ai-literacy]] rather than detection alone.
 
 ## Productive friction and social interaction
 
@@ -72,6 +84,18 @@ For teachers, faculty, and [[instructional-design|instructional designers]], age
 - **Retain human oversight and judgement.** Multi-agent and autonomous systems make [[human-in-the-loop-ai|human-in-the-loop]] design essential: decide where a human intervenes, who is accountable, and how failures are caught. Adversarial testing helps surface failure modes before deployment.
 - **Build instructor [[ai-literacy]].** Teachers and designers need accurate mental models of agentic AI to configure, monitor, and critique these systems — and to model responsible use for learners. This links to [[teacher-ai-competency|teacher AI competency]] and [[faculty-development|faculty development]].
 - **Watch for equity.** Agentic tools risk widening gaps if access is unequal or if automation erodes support for the learners who need it most; design with [[equity-in-ai-education|equity]] in mind.
+
+### Techniques for ensuring academic integrity with agentic AI
+
+Because autonomous agents make detection futile, instructors should focus on techniques that **verify learning** and **make honest work visible**, rather than on policing:
+
+- **Prefer verification over detection.** Replace or supplement "submit the work" with interactions that require the learner to demonstrate understanding they cannot outsource: oral defenses, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, live problem-solving, and [[authentic-assessment|process-based]] assessment. The goal is to establish what the learner can do independently, not to catch an agent.
+- **Use interactive and staged assessment.** Require staged submissions (drafts, revisions, reflections) and follow-up [[conversational-ai|conversational]] checks that probe whether students understand their submitted work — the "AI Viva" and cognitive-stewardship approaches. Ghost students cannot sustain a live interrogation they did not perform.
+- **Set clear, purpose-driven expectations.** Ground integrity expectations in the course's purpose — what AI use is allowed, when, and why — rather than abstract rules. [[educational-policy-ai|Policy]] clarity that is aligned with pedagogy reduces the ambiguity students exploit and the misjudgements documented in integrity research.
+- **Make AI use visible and declared.** Structured, task-specific AI-use declarations (mapping use to cognitive stages) force reflection and normalise honest disclosure, shifting the culture from concealment to transparency.
+- **Build AI literacy as integrity education.** Teach students how to use agents responsibly and to judge output critically, framing integrity as genuine learning rather than rule-following. This includes [[ai-literacy]], understanding what agents can and cannot do, and the [[cognitive-offloading|learning cost]] of bypassing effort.
+- **Keep humans in the loop.** Maintain [[human-in-the-loop-ai|human oversight]] of assessment decisions, verify high-stakes submissions interactively, and design agentic tools so an instructor can always intervene.
+- **Close the verification gap with interaction.** For fully online or asynchronous contexts, use proctored or interactive components that require live presence, addressing the [[bozkurt-ghost-students-agentic-ai-2026|ghost-student]] threat directly rather than assuming detection will catch it.
 
 ## A balanced takeaway
 
@@ -107,7 +131,10 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[instructional-design]]
 - [[teacher-ai-competency]]
 - [[faculty-development]]
-
+- [[academic-integrity]]
+- [[ai-use-disclosure]]
+- [[online-teaching-and-learning]]
+- [[educational-policy-ai]]
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[genai-counter-learner-groupthink-2025]]
