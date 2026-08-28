@@ -75,7 +75,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[ethics]] — the normative basis
 - [[governance]] — the policy layer
 - [[intelligent-tutoring]] — the systems being guarded
-- [[student-misconceptions-ai]] — the knowledge guardrails must check
+- [[misconceptions]] — the knowledge guardrails must check
 - [[trust]] — the outcome of well-designed guardrails
 - [[llm]] — the model layer being constrained
 

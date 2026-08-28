@@ -42,7 +42,7 @@ The central insight is that skill and confidence pull in opposite directions in 
 - [[help-seeking]]
 - [[motivation]]
 - [[student-engagement]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[reducing-ai-misuse]]
 - [[generative-ai]]
 - [[llm]]

@@ -71,7 +71,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[cs-education]]
 - [[generative-ai]]
 - [[llm]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 ## Connected Articles
 
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring

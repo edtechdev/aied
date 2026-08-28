@@ -12,7 +12,7 @@ confidence: high
 
 ## The stakeholder landscape
 
-- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The wiki covers learners through [[student-experience]], [[student-engagement]], [[student-misconceptions-ai]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
+- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The wiki covers learners through [[student-experience]], [[student-engagement]], [[misconceptions]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
 - **Teachers and faculty.** Educators who integrate AI into instruction. Covered by [[teacher-role]], [[teacher-ai-competency]], [[teacher-education]], [[faculty-development]], and [[tpack]]. Teachers face the dual challenge of using AI in their own teaching and teaching students to use it responsibly (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[instructional-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
 - **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
@@ -54,7 +54,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - [[tpack]]
 - [[student-experience]]
 - [[student-engagement]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[administrator]]
 - [[instructional-design]]
 - [[curriculum-design]]

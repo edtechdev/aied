@@ -68,7 +68,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[agency]]
 - [[trust-calibration]]
 - [[student-engagement]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 
 ## Connected Articles
 

@@ -26,7 +26,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[teacher-role]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[llm]]
 - [[math-education]]
 

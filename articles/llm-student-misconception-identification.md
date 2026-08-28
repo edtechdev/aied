@@ -27,7 +27,7 @@ For [[student-experience]], the implications are direct: students struggling wit
 - [[personalized-learning]]
 - [[student-experience]]
 - [[ai-literacy]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[cognitive-diagnosis]]
 - [[knowledge-tracing]]
 ## Connected Articles

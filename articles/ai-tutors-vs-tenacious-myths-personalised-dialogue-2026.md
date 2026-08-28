@@ -19,11 +19,11 @@ confidence: high
 
 ## Implications for AI in Education
 
-The paper positions [[conversational-ai|conversational AI]] tutors as a scalable way to deliver *personalised* [[refutation-text|refutation]]/misconception interventions that outperform static text on immediacy and motivation — but cautions that the initial advantage requires reinforcement to last. For practice, this implies integrating AI dialogue into structured programs with spaced reinforcement rather than relying on one-off interactions. It connects to the wiki's [[student-misconceptions-ai]] concept (misconceptions about and within AI learning), [[intelligent-tutoring|AI tutoring]], and the [[cognitive-offloading]]/belief-correction literature, and pairs with studies comparing AI dialogue vs. [[refutation-text|conceptual-change text]] (e.g., Akdoğan 2025, which found the reverse in [[stem-education|science education]]).
+The paper positions [[conversational-ai|conversational AI]] tutors as a scalable way to deliver *personalised* [[refutation-text|refutation]]/misconception interventions that outperform static text on immediacy and motivation — but cautions that the initial advantage requires reinforcement to last. For practice, this implies integrating AI dialogue into structured programs with spaced reinforcement rather than relying on one-off interactions. It connects to the wiki's [[misconceptions]] concept (misconceptions about and within AI learning), [[intelligent-tutoring|AI tutoring]], and the [[cognitive-offloading]]/belief-correction literature, and pairs with studies comparing AI dialogue vs. [[refutation-text|conceptual-change text]] (e.g., Akdoğan 2025, which found the reverse in [[stem-education|science education]]).
 
 ## Connected Concepts
 - [[refutation-text]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[intelligent-tutoring]]
 - [[generative-ai]]
 

@@ -155,7 +155,7 @@ ALIASES = {
     'limitations-in-aied-research': ['limitations', 'limitation'],
     'meta-analysis-systematic-review': ['systematic review', 'meta-analysis', 'meta-analytic', 'systematically review',
                                         'scoping review', 'literature review'],
-    'student-misconceptions-ai': ['misconceptions', 'misconception'],
+    'misconceptions': ['misconceptions', 'misconception'],
     'icap-framework': ['icap', 'interactive-constructive-active-passive'],
     'item-response-theory': ['item response theory', 'irt', 'classical test theory', 'ctt'],
     'psychometrically-aware-ai': ['psychometrically aware', 'psychometric awareness'],
