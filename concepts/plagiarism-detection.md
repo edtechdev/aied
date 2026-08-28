@@ -1,16 +1,16 @@
 ---
-title: AI Plagiarism Detection
+title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-28T13:00:00-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, policy-maker, llm, assessment-validity, equity]
 
 confidence: high
 ---
 
-> **AI plagiarism detection** — the technologies and methods used to identify AI-generated content in academic submissions, and the broader question of how institutions should respond to the risk that students use large language models (LLMs) to produce work that is not their own. It spans classifier-based approaches, latent-prompt and likelihood techniques, watermarking, and stylistic analysis — and, increasingly, debates about the limits of detection and the value of redesigning assessment rather than policing it.
+> **AI detection** — the technologies and methods used to identify AI-generated content in academic submissions, and the broader question of how institutions should respond to the risk that students use large language models (LLMs) to produce work that is not their own. It spans classifier-based approaches, latent-prompt and likelihood techniques, watermarking, and stylistic analysis — and, increasingly, debates about the limits of detection and the value of redesigning assessment rather than policing it.
 
-AI plagiarism detection sits at the intersection of [[academic-integrity]], [[generative-ai]], [[llm|large language models]], and [[assessment]]. It arose as institutions confronted students using LLMs to draft essays, code, and short answers. The field has two intertwined strands: **technical detection** (how reliably can AI-generated content be identified?) and **institutional response** (what should detection lead to, given its limits and fairness concerns?).
+AI detection sits at the intersection of [[academic-integrity]], [[generative-ai]], [[llm|large language models]], and [[assessment]]. It arose as institutions confronted students using LLMs to draft essays, code, and short answers. The field has two intertwined strands: **technical detection** (how reliably can AI-generated content be identified?) and **institutional response** (what should detection lead to, given its limits and fairness concerns?).
 
 ## Detection approaches
 
