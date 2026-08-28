@@ -57,4 +57,4 @@ confidence: high
 
 ## Citation
 
-Wei, Y., & Perkins, M. (2026). [*Generative AI and student collaboration: A scoping review of group work processes, outcomes, and risks*](https://doi.org/10.1007/s40979-026-00217-x). *International Journal for Educational Integrity*, 22(8). https://doi.org/10.1007/s40979-026-00217-x
+Wei, Y., & Perkins, M. (2026). [*Generative AI and student collaboration: A scoping review of group work processes, outcomes, and risks*](https://doi.org/10.1007/s40979-026-00217-x). *International Journal for Educational Integrity*, 22(8).

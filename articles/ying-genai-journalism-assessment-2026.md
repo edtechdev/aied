@@ -64,4 +64,5 @@ The framework integrates Beard's experiential learning sequence (concrete experi
 
 ## Citation
 
-Ngu, I.-Y., & Weller, D. (2026). [From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI](https://doi.org/10.53761/4281ht04). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/4281ht04
+Ngu, I.-Y., & Weller, D. (2026). [From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI](https://doi.org/10.53761/4281ht04) . *Journal of University Teaching and Learning Practice*, 23(5).
+

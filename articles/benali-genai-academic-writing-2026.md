@@ -66,5 +66,6 @@ This study offers a transferable model for [[higher-ed|higher education]] course
 
 ## Citation
 
-Benali Taouis, H., & Díaz García, A. (2026). [Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing](https://doi.org/10.53761/28y4hw95). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/28y4hw95
+Benali Taouis, H., & Díaz García, A. (2026). [Teaching with generative artificial intelligence: Enhancing critical thinking and ethical awareness in academic writing](https://doi.org/10.53761/28y4hw95) . *Journal of University Teaching and Learning Practice*, 23(5).
+
 
