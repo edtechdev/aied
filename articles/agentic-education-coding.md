@@ -1,18 +1,18 @@
 ---
 title: Agentic Education with AI Coding Assistants
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, generative-ai, higher-ed, scaffolding, stem-education, metacognition, ai-literacy, rag, ai-tutoring]
 sources: ['raw/papers/2604.17460.md']
 confidence: medium
 ---
 
-> Naboulsi (2026) presents **cc-self-train**, a modular interactive curriculum that teaches the [[agentic-ai|agentic coding tool]] Claude Code *through Claude Code itself* — a reflexive design in which the tool being learned is simultaneously the pedagogical medium. Responding to the paradox that [[ai-literacy|AI coding tools]] have proliferated rapidly while pedagogical frameworks for mastering them remain scarce, the system operationalizes the [[scaffolding|Gradual Release of Responsibility]] framework as a four-stage persona progression (Guide → Collaborator → Peer → Launcher), adds an adaptive learning layer that observes engagement quality to tune scaffolding at two timescales, and ships an auto-updating design that keeps teaching materials current as the tool itself evolves. A 27-participant pilot reports statistically significant [[self-efficacy]] gains across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills.
+> Naboulsi (2026) presents **cc-self-train**, a modular interactive curriculum that teaches the [[agentic-ai|agentic coding tool]] Claude Code *through Claude Code itself* — a reflexive design in which the tool being learned is simultaneously the [[pedagogy|pedagogical]] medium. Responding to the paradox that [[ai-literacy|AI coding tools]] have proliferated rapidly while pedagogical frameworks for mastering them remain scarce, the system operationalizes the [[scaffolding|Gradual Release of Responsibility]] framework as a four-stage persona progression (Guide → Collaborator → Peer → Launcher), adds an adaptive learning layer that observes engagement quality to tune scaffolding at two timescales, and ships an auto-updating design that keeps teaching materials current as the tool itself evolves. A 27-participant pilot reports statistically significant [[self-efficacy]] gains across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills.
 
 ## Key Findings
 1. **Pedagogical frameworks lag tool proliferation.** Agentic coding assistants ship features faster than structured curricula can be written, leaving learners dependent on perishable tutorials and trial-and-error rather than a progressive learning path.
-2. **Reflexive "teach the tool with the tool" design.** cc-self-train teaches Claude Code through Claude Code itself, positioning the tool being learned as the pedagogical medium — a design gap no prior LLM-based pedagogical agent fills.
+2. **Reflexive "teach the tool with the tool" design.** cc-self-train teaches Claude Code through Claude Code itself, positioning the tool being learned as the pedagogical medium — a design gap no prior [[llm]]-based [[pedagogical-agent|pedagogical agent]] fills.
 3. **Persona progression operationalizes [[scaffolding|Gradual Release of Responsibility]].** A Guide → Collaborator → Peer → Launcher progression maps 1:1 to GRR's four phases, adapting tone and scaffolding depth as the learner advances.
 4. **Engagement quality drives adaptive scaffolding.** A lightweight hook-based observation layer classifies learner interactions, using streak detection for mid-module intervention and aggregate metrics for persona shifts at module boundaries.
 5. **A 27-participant pilot reports significant [[self-efficacy]] gains** across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features like hooks and custom skills.
@@ -26,9 +26,9 @@ The prevailing approach to learning AI coding tools is ad hoc and, critically, p
 - Official documentation describes features in isolation without progressive learning paths.
 - Blog posts and video tutorials cover narrow use cases but date quickly.
 - Agentic tools ship breaking changes on a cadence measured in days; nominally current third-party tutorials reference deprecated features within days of publication.
-- None of these resources provides a progressive, hands-on curriculum from first contact through advanced multi-agent orchestration, and none addresses the content decay problem inherent in rapidly evolving tooling.
+- None of these resources provides a progressive, hands-on [[curriculum-design|curriculum]] from first contact through advanced [[agentic-ai|multi-agent orchestration]], and none addresses the content decay problem inherent in rapidly evolving tooling.
 
-The cost of this gap is visible at organizational scale: a 2025 MIT NANDA survey found that most enterprise generative-AI pilots fail to produce measurable impact, locating the failure in a learning gap rather than in the technology itself.
+The cost of this gap is visible at organizational scale: a 2025 MIT NANDA survey found that most enterprise [[generative-ai]] pilots fail to produce measurable impact, locating the failure in a learning gap rather than in the technology itself.
 
 ## cc-self-train: Architecture Overview
 
@@ -36,7 +36,7 @@ cc-self-train is a single Git repository organizing **50 module files** as 10 pr
 
 ### Five learning paths
 Each path produces a different software artifact while teaching the same 10 Claude Code feature sets in the same order:
-- **Canvas** (portfolio site): HTML/CSS/JS with no build tools, recommended for first-time users.
+- **Canvas** ([[eportfolio|portfolio]] site): HTML/CSS/JS with no build tools, recommended for first-time users.
 - **Forge** (personal dev toolkit): a language-agnostic CLI tool.
 - **Nexus** (local API gateway): routing, rate limiting, caching.
 - **Sentinel** (code analyzer & test generator): static analysis with auto-generated tests.
@@ -49,7 +49,7 @@ The [[project-based-learning|project-based]] design draws on [[constructivist|co
 A recurring mismatch in AI-mediated instruction is that a static tone either underwhelms beginners or patronizes experts. The persona progression model encodes an explicit shift in [[prompt-engineering|prompt directives]], tying instructional tone to module position:
 - **Guide** (Modules 1–3): a patient teacher that explains every concept first, corresponding to GRR's "focused instruction" phase.
 - **Collaborator** (Modules 4–6): a working partner that asks questions before giving answers, mapping to "guided instruction."
-- **Peer** (Modules 7–9): a terse senior colleague that points to docs and lets the learner debug first, reinterpreting "collaborative learning" for a single-learner context.
+- **Peer** (Modules 7–9): a terse senior colleague that points to docs and lets the learner debug first, reinterpreting "[[collaborative-learning|collaborative learning]]" for a single-learner context.
 - **Launcher** (Module 10): states the goal and steps back, mapping to "independent learning."
 
 Persona boundaries are set at onboarding based on self-reported experience (beginner, intermediate, and advanced schedules) and can shift dynamically as the [[adaptive-learning|adaptive learning]] system observes behavior. A second, orthogonal dimension controls explanation depth within the active persona, so a beginner in Module 7 still receives the Peer tone but with more thorough background, while an advanced user in Module 1 receives the Guide tone but skips basic definitions.
@@ -63,7 +63,7 @@ Self-reports of experience can be inaccurate: a developer who used GitHub Copilo
 
 This creates a two-timescale system. The slow clock (Effective Level) adjusts the persona schedule at module boundaries using aggregate statistics; the fast clock (streak detection) triggers scaffolding changes mid-module. An asymmetric response principle governs the fast clock: the system is quicker to increase [[scaffolding]] (responding to struggle streaks immediately) than to withdraw it, on the reasoning that over-scaffolding a strong student briefly costs little while under-scaffolding a struggling student risks permanent disengagement.
 
-The design is grounded in [[student-modeling|learner-modeling]] evidence that engagement quality, not problem difficulty, mediates learning gains, and that sequential failure patterns carry higher informational weight than isolated events. The architecture deliberately trades model sophistication for deployability: it runs entirely through Claude Code's hook system with no external dependencies and no web backend, in contrast to heavier [[intelligent-tutoring|intelligent tutoring systems]].
+The design is grounded in [[student-modeling|learner-modeling]] evidence that engagement quality, not problem difficulty, mediates [[learning-gains|learning gains]], and that sequential failure patterns carry higher informational weight than isolated events. The architecture deliberately trades model sophistication for deployability: it runs entirely through Claude Code's hook system with no external dependencies and no web backend, in contrast to heavier [[intelligent-tutoring|intelligent tutoring systems]].
 
 ## Step-Pacing and Information Load
 
@@ -112,4 +112,4 @@ A pilot with 27 participants showed statistically significant reported [[self-ef
 - [[collaborative-ai-tutoring]]
 ## Citation
 
-Naboulsi, A.Z. (2026). [*Agentic Education with AI Coding Assistants*](https://arxiv.org/abs/2604.17460)
+Naboulsi, A. Z. (2026). [*Agentic Education with AI Coding Assistants*](https://arxiv.org/abs/2604.17460).

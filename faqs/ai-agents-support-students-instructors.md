@@ -1,8 +1,8 @@
 ---
 title: "How Can AI Agents Support Students and Instructors?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-08-25T11:30:00-04:00"
-tags: [agentic-ai, intelligent-tutoring, pedagogical-agent, human-in-the-loop-ai]
+updated: "2026-08-28T15:30:00-04:00"
+tags: [agentic-ai, intelligent-tutoring, pedagogical-agent, human-in-the-loop-ai, ai-literacy, cognitive-offloading]
 ---
 
 # How Can AI Agents Support Students and Instructors?
@@ -12,6 +12,21 @@ tags: [agentic-ai, intelligent-tutoring, pedagogical-agent, human-in-the-loop-ai
 ## Recurring agentic capabilities
 
 The article [[agentic-workflows-education|Agentic Workflows in Education]] describes four recurring agentic capabilities: **reflection, planning, tool use, and multi-agent collaboration**. Each adds possibilities but also introduces interpretability, coordination, trust, latency, and oversight challenges.
+
+## What AI agents can do well (positive implications)
+
+- **Sustained, adaptive support.** Unlike single-turn chatbots, agents can maintain a learning conversation over many turns — remembering what a learner knows, adapting difficulty, and sequencing multi-step [[scaffolding]]. This supports [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] learning at scale.
+- **Unburdening instructors.** Agents can draft materials, generate and validate questions (e.g., a generator + validator pairing), triage feedback, and orchestrate specialized sub-agents, freeing teachers for higher-value interaction.
+- **Rich interaction and productive friction.** Multi-agent classrooms and simulated peers create varied dynamics — peer-like discourse, constructive disagreement, role-play — that support [[collaborative-learning|collaborative learning]] and [[socratic-method|Socratic-style probing]]. Agents designed to challenge rather than agree can push learners toward deeper reconsideration (constructive-conflict agents improved design outcomes in research).
+- **Low-risk practice and simulation.** Agent-based simulations (simulated students, clinical scenarios) let learners practise in safe, repeatable environments before real-world application.
+
+## Key risks and caveats (negative implications)
+
+- **Over-automation can hollow out learning.** The more an agent automates, the less cognitive work the learner does. Proactive agents can leave students as passive consumers, weakening the effortful processes that build durable learning and raising [[cognitive-offloading|over-reliance]] risk.
+- **Reduced metacognitive engagement.** If agents handle planning and monitoring, learners may not develop the [[metacognition]] and [[self-regulated-learning|self-regulation]] that education aims to build. Agents should elicit, not replace, these processes.
+- **Misplaced trust and verification gaps.** Autonomous agents can produce plausible but unvalidated output; learners and teachers may over-trust it. Robust verification and [[ai-literacy]] become more important as agents gain autonomy.
+- **Opacity and accountability.** Multi-agent systems complicate [[human-in-the-loop-ai|human oversight]] — which agent is accountable for an error, and where does a human intervene? Coordination failures and persona drift can undermine reliability and [[pedagogical-safety]].
+- **Equity and bias.** Agents can reproduce training-data bias at scale, and unequal access to capable agentic systems can widen inequity.
 
 ## The state of the evidence
 
