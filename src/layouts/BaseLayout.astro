@@ -405,9 +405,12 @@ const recentConceptItems = recentConcepts.map(c => ({
     }
     .recent-block { margin-bottom: 2rem; }
     .recent-block h2 {
-      font-size: 1rem;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted-color);
       margin: 0 0 0.6rem 0;
-      color: var(--color);
     }
     .recent-list {
       list-style: none;
@@ -421,11 +424,11 @@ const recentConceptItems = recentConcepts.map(c => ({
     .recent-list li:last-child { border-bottom: none; }
     .recent-list a {
       display: block;
-      font-size: 0.88rem;
+      font-size: 0.82rem;
       font-weight: 500;
       color: var(--color);
       text-decoration: none;
-      line-height: 1.4;
+      line-height: 1.35;
     }
     .recent-list a:hover { color: var(--primary); }
     .recent-date {
@@ -435,7 +438,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       margin-top: 0.1rem;
     }
     .recent-more { margin: 0.6rem 0 0 0; }
-    .recent-more a { font-size: 0.88rem; }
+    .recent-more a { font-size: 0.82rem; }
 
     /* === Footer === */
     footer {
