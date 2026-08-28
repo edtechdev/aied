@@ -3,7 +3,7 @@ title: "Reassessing Academic Integrity in the Age of AI: A Systematic Literature
 created: "2026-08-19T11:30:00-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
-tags: [academic-integrity, plagiarism-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review]
+tags: [academic-integrity, ai-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review]
 sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']
 confidence: high
 ---
@@ -26,7 +26,7 @@ The review used a PICO-framed research question ("What is the role of AI in infl
 The review documents AI's **dual role**:
 
 - **As a threat:** Students use generative AI (ChatGPT, Google Bard, Writesonic, Jasper, Wordtune, automated paraphrasing tools) to complete assignments, reducing originality and risking the credibility of qualifications. Non-native English speakers show a high tendency to breach integrity when struggling to write in English.
-- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; online proctoring systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that plagiarism-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
+- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; online proctoring systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that ai-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
 
 ### Detection is an industry, not a solution
 
@@ -48,7 +48,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Implications for AI in Education
 
-- **Detection is necessary but insufficient.** The review reinforces the wiki's [[plagiarism-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
+- **Detection is necessary but insufficient.** The review reinforces the wiki's [[ai-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
 - **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the wiki's [[authentic-assessment]] and [[assessment]] literature.
 - **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
 - **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
@@ -56,7 +56,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[assessment]]
 - [[generative-ai]]
 - [[ai-misuse-learning-harm]]

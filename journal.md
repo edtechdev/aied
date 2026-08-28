@@ -2793,7 +2793,7 @@
 - ◐ [[dot-framework-survey-2026]] — 'raw/papers/2605.29041.md'
   DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 
-- 🏷️ [[plagiarism-detection]] — AI Detection
+- 🏷️ [[ai-detection]] — AI Detection
 
 - 🏷️ [[human-ai-collaboration]] — Human AI Collaboration
 

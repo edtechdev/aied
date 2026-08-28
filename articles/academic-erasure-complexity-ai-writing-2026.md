@@ -3,7 +3,7 @@ title: "Academic Erasure: The Disappearance of Complexity Under AI-Supported Wri
 created: "2026-08-26T05:52:00-04:00"
 updated: "2026-08-26T05:52:00-04:00"
 type: article
-tags: [generative-ai, academic-integrity, writing-education, higher-ed, critical-thinking, cognitive-offloading, plagiarism-detection, ethics, assessment, student-ai-interaction]
+tags: [generative-ai, academic-integrity, writing-education, higher-ed, critical-thinking, cognitive-offloading, ai-detection, ethics, assessment, student-ai-interaction]
 sources: ['raw/papers/10.1080_13562517.2026.2707601.md']
 confidence: high
 ---
@@ -20,7 +20,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The paper reframes AI's central risk in [[higher-ed|higher education]] as the erosion of *intellectual struggle* — the very labour through which knowledge is formed, contested, and owned — rather than the narrower problem of [[plagiarism-detection|detection]]. Its recommendations push toward [[assessment]] redesign that makes the labour of thinking visible and valued: process logs, staged drafts, in-class composition, and [[authentic-assessment|oral defences]] that AI cannot meaningfully complete. It also argues for valuing voice over polish, addressing [[teacher-role|educator]] wellbeing as a structural rather than personal issue, and treating current uncertainty as a pedagogical opportunity that moves classrooms "from surveillance to dialogue." This connects to broader wiki themes of [[academic-integrity]], [[ai-misuse-learning-harm|AI misuse and learning harm]], and the debate over whether AI supports or displaces [[critical-thinking|critical thinking]].
+The paper reframes AI's central risk in [[higher-ed|higher education]] as the erosion of *intellectual struggle* — the very labour through which knowledge is formed, contested, and owned — rather than the narrower problem of [[ai-detection|detection]]. Its recommendations push toward [[assessment]] redesign that makes the labour of thinking visible and valued: process logs, staged drafts, in-class composition, and [[authentic-assessment|oral defences]] that AI cannot meaningfully complete. It also argues for valuing voice over polish, addressing [[teacher-role|educator]] wellbeing as a structural rather than personal issue, and treating current uncertainty as a pedagogical opportunity that moves classrooms "from surveillance to dialogue." This connects to broader wiki themes of [[academic-integrity]], [[ai-misuse-learning-harm|AI misuse and learning harm]], and the debate over whether AI supports or displaces [[critical-thinking|critical thinking]].
 
 ## Connected Concepts
 - [[academic-integrity]]
@@ -28,7 +28,7 @@ The paper reframes AI's central risk in [[higher-ed|higher education]] as the er
 - [[cognitive-offloading]]
 - [[assessment]]
 - [[authentic-assessment]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[critical-thinking]]
 - [[ai-misuse-learning-harm]]
 - [[teacher-role]]

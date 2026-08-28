@@ -36,7 +36,7 @@ For [[writing-education]] and [[bias-mitigation]] efforts, the study implies tha
 - [[equity-in-ai-education]]
 - [[prompt-engineering]]
 - [[automated-essay-scoring]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[teacher-ai-competency]]
 - [[writing-education]]
 - [[academic-integrity]]

@@ -3,7 +3,7 @@ title: "Evaluation in the Age of AI: Output as Evidence of Learning"
 created: "2026-08-27T09:16:00-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [assessment, generative-ai, academic-integrity, plagiarism-detection, authentic-assessment, higher-ed, ethics, privacy, agency, desirable-difficulties]
+tags: [assessment, generative-ai, academic-integrity, ai-detection, authentic-assessment, higher-ed, ethics, privacy, agency, desirable-difficulties]
 sources: ['raw/papers/evaluation-age-ai-output-evidence-2026.md']
 confidence: high
 ---
@@ -24,7 +24,7 @@ The authors argue evaluation must shift from certifying a final artifact to docu
 
 ## Implications for AI in Education
 
-The paper reframes the [[academic-integrity]] debate from policing outputs to redesigning assessment so that the path to the answer is as important as the answer itself. It cautions that [[plagiarism-detection|AI detection]] tools, with high false-positive risk, both damage [[privacy]] and deepen inequity, and that surveillance undermines the learning environment. For educators and institutions, it supports [[authentic-assessment]] and process-oriented designs that preserve student agency and accountability, aligning [[educational-policy-ai|institutional policy]] with the professional realities students will face after graduation.
+The paper reframes the [[academic-integrity]] debate from policing outputs to redesigning assessment so that the path to the answer is as important as the answer itself. It cautions that [[ai-detection|AI detection]] tools, with high false-positive risk, both damage [[privacy]] and deepen inequity, and that surveillance undermines the learning environment. For educators and institutions, it supports [[authentic-assessment]] and process-oriented designs that preserve student agency and accountability, aligning [[educational-policy-ai|institutional policy]] with the professional realities students will face after graduation.
 
 ## Connected Concepts
 
@@ -32,7 +32,7 @@ The paper reframes the [[academic-integrity]] debate from policing outputs to re
 - [[authentic-assessment]]
 - [[generative-ai]]
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[formative-assessment]]
 - [[higher-ed]]
 - [[ethics]]

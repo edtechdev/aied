@@ -815,7 +815,7 @@
 - [[physics-chatbot-epistemological-beliefs-2026]] — Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning
 - [[physics-education]] — Physics Education
 - [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
-- [[plagiarism-detection]] — AI Detection
+- [[ai-detection]] — AI Detection
 - [[polished-artifacts-fragile-engagement-2026]] — "Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"
 - [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?

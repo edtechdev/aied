@@ -20,7 +20,7 @@ LLM-generated educational questions show varying cognitive depth; models excel a
 - [[ai-ed-evaluation]]
 - [[human-in-the-loop-ai]]
 - [[cs-education]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[open-source]]
 - [[assessment]]
 - [[generative-ai]]

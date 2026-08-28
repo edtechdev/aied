@@ -425,7 +425,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`personalized-learning`** — Personalized Learning
 - **`philosophy-of-ai-in-education`** — Philosophy of AI in Education
 - **`physics-education`** — Physics Education
-- **`plagiarism-detection`** — AI Detection
+- **`ai-detection`** — AI Detection
 - **`privacy`** — Privacy in AI Education
 - **`prior-knowledge`** — Prior Knowledge
 - **`problem-based-learning`** — Problem-Based Learning

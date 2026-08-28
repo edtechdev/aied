@@ -24,7 +24,7 @@ This BJET review synthesizes 56 empirical studies on [[generative-ai|GenAI]] in 
 - [[affective-tutoring]]
 - [[automated-essay-scoring]]
 - [[curriculum-design]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[student-experience]]
 - [[administrator]]
 - [[equity-in-ai-education]]

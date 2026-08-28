@@ -26,7 +26,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ### Assessment and integrity
 
-[[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[plagiarism-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
+[[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[ai-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
 
 ## Implications for higher-education instructors
 

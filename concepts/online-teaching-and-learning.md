@@ -34,7 +34,7 @@ The online medium and generative AI combine to intensify a specific cluster of c
 
 ### Academic integrity and cheating
 
-Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The wiki's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[plagiarism-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]]), and the wiki's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
+Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The wiki's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[ai-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]]), and the wiki's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
 
 ### AI misuse and cognitive offloading
 
@@ -103,7 +103,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
 - [[guardrails]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[pedagogical-safety]]
 - [[conversational-ai]]
 

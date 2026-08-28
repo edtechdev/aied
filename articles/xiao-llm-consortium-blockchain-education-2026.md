@@ -28,7 +28,7 @@ The prototype evaluated six LLMs on the RiceChem ALAG benchmark; GLM-4-9B-chat l
 
 ## Relevance to the wiki
 
-This paper extends the wiki's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[plagiarism-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the wiki's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
+This paper extends the wiki's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the wiki's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
 
 ## Connected Concepts
 
