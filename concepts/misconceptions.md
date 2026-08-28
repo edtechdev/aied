@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-28T13:30:00-04:00"
+updated: "2026-08-28T14:00:00-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
 
@@ -56,6 +56,28 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - **AI-generated misconceptions as a learning resource.** Rather than treating AI-generated misconceptions as merely harmful, [[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. (2026)]] propose generating misconceptions and addressing them through structured peer discussion — a collaborative form of refutation that promotes conceptual change and [[critical-thinking|critical thinking]].
 
 For misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help people see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears. Because misconceptions span learners and the adults who shape learning, effective correction must reach [[teacher-role|teachers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]] as much as students.
+
+### Refutation-style corrections for common AI misconceptions
+
+Because misconceptions are actively held and resistant, the most direct way to address them — including on this page — is the [[refutation-text|refutation-text]] structure: **name the misconception, explicitly refute it, and state the correct conception.** The entries below apply that structure to the most consequential misconceptions about AI and about learning, teaching, and education:
+
+**"AI is always right."** *That's a misconception.* AI output is a probabilistic completion, not a verified fact. *The correction:* LLMs generate plausible-sounding text based on statistical patterns; they can [[hallucination-risk|hallucinate]], be biased, and be confidently wrong. Treat output as a draft to be checked against sources, not an authority to be accepted. This is the core of [[trust-calibration]] and why "always verify" beats "always trust."
+
+**"Using AI is learning."** *That's a misconception.* Producing work *with* AI is not the same as acquiring the knowledge or skill the work is supposed to demonstrate. *The correction:* durable learning happens through the effortful processes of drafting, recalling, revising, and metacognitively reviewing — exactly the processes that [[cognitive-offloading|offloading]] to AI short-circuits. Use AI as a tool alongside that effort, not a replacement for it.
+
+**"AI is neutral and objective."** *That's a misconception.* Models inherit the biases, gaps, and perspectives of their training data. *The correction:* AI can reproduce and amplify [[bias-mitigation|bias]]; treat its outputs with the same source-critical scrutiny you would apply to any other text. Awareness of this is part of [[ai-literacy]] and helps counteract the [[equity-in-ai-education|equity]] harms of uncritical adoption.
+
+**"AI will replace teachers."** *That's a misconception.* AI augments but does not displace the [[pedagogy|pedagogical]] work of [[teacher-role|teachers]] — judgement, contextualisation, and the relational and [[ethics|ethical]] dimensions of teaching. *The correction:* AI increases the need for pedagogical mediation and critical judgement; teachers who understand AI become more effective, not obsolete. This reframing matters because it shapes whether institutions invest in [[teacher-ai-competency|teacher AI competency]] or reflexively resist or over-adopt.
+
+**"AI understands like a person."** *That's a misconception.* Models have no intent, memory of you, or genuine understanding of your context. *The correction:* anthropomorphising AI leads to over-trust and reliance on explanations the model cannot actually ground. Keep the boundary clear: AI is a powerful tool, not a mind.
+
+**"AI will transform education automatically."** *That's a misconception.* Technology alone does not change learning; it is the pedagogy around it that does. *The correction:* AI's benefits depend on intentional [[instructional-design|instructional design]], teacher preparation, and institutional support — not on simply deploying the tool. This is why [[ai-ed-evaluation|evidence]] and [[research-methods-aied|rigorous evaluation]] matter, and why the wiki frames responsible AI use as a [[governance|governance]] and [[educational-policy-ai|policy]] question rather than a purely technical one.
+
+**"One prompt should give me the answer."** *That's a misconception.* Output is non-deterministic and prompt-sensitive. *The correction:* expect to iterate, refine, and cross-check; the "prompting gap" — mistaking shallow first results for the tool's ceiling — is a skill problem, not a tool limit. Developing this is part of [[prompt-engineering]].
+
+**"It's not cheating if a person didn't write it."** *That's a misconception.* Academic integrity is about the honest, attributable production of work, not just about not copying a person. *The correction:* undisclosed AI-generated submission can violate [[academic-integrity]] even when no human was copied; the question is whether the work is genuinely the learner's. When in doubt, disclose and check your institution's policy.
+
+These refutations are deliberately written in the [[refutation-text|refutation-text]] form so they can themselves be used (or adapted into interactive [[conversational-ai|AI dialogue]]) to confront and correct misconceptions about AI — and about learning, teaching, and education more broadly.
 
 ## Connected Concepts
 
