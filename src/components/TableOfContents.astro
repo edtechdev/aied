@@ -1,18 +1,17 @@
 ---
 /**
- * TableOfContents.astro — mirrors Blume's "On this page" component
- * (packages/blume/src/components/layout/TableOfContents.astro) adapted to the
- * wiki's own CSS-variable theme and hand-rolled markdown renderer.
+ * TableOfContents.astro — an "On this page" table-of-contents component with
+ * a desktop sticky aside in the right rail and a collapsible details block
+ * above content on narrow screens.
  *
  * Renders the same heading list in two variants:
  *  - "mobile": a collapsible <details> shown above the content on narrow
  *    viewports (hidden on wide screens, where the sticky aside takes over).
  *  - "desktop": a sticky aside list shown in the right rail on wide screens.
  *
- * A single scrollspy script (see <script> below, adapted from blume's
- * toc-element.ts) watches the headings of every rendered list and marks the
- * section currently in view with aria-current="location", which the styles
- * highlight.
+ * A single scrollspy script (see <script> below) watches the headings of
+ * every rendered list and marks the section currently in view with
+ * aria-current="location", which the styles highlight.
  */
 
 interface Heading {
@@ -108,12 +107,16 @@ const has = headings.length > 0;
   }
 
   /* === Shared list === */
+  /* Pico's global reset sets `ul { display: flex }` and `nav ul { display: flex }`,
+     which would lay the items out in a horizontal row. Force block so the list
+     stacks vertically. */
   .toc-list {
+    display: block;
     list-style: none;
     margin: 0;
     padding: 0;
   }
-  .toc-list li { margin: 0; }
+  .toc-list li { display: list-item; }
   .toc-list a {
     display: block;
     font-size: 0.85rem;
@@ -135,7 +138,7 @@ const has = headings.length > 0;
 
   /* Hide the desktop aside on narrow screens (mobile <details> takes over),
      and hide the mobile details on wide screens (desktop aside takes over) —
-     mirrors Blume, where the desktop TOC only exists in the xl right rail. */
+     the desktop TOC only exists in the wide right rail. */
   @media (max-width: 1279.98px) {
     .toc-desktop { display: none; }
   }
@@ -145,9 +148,8 @@ const has = headings.length > 0;
 </style>
 
 <script>
-  // Scrollspy (adapted from blume's toc-element.ts). Watches the headings of
-  // every [data-toc] list on the page and marks the section in view with
-  // aria-current="location".
+  // Scrollspy: watches the headings of every [data-toc] list on the page and
+  // marks the section in view with aria-current="location".
   const TRIGGER_OFFSET = 80;
   document.querySelectorAll<HTMLElement>('[data-toc]').forEach((list) => {
     const entries = Array.from(list.querySelectorAll<HTMLAnchorElement>('a[href^="#"]'))
