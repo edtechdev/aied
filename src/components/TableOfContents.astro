@@ -94,10 +94,11 @@ const has = headings.length > 0;
   }
   .toc-body { border-top: 1px solid var(--card-border-color); padding: 0.4rem 0.75rem 0.75rem; }
 
-  /* === Desktop sticky TOC (right rail, wide screens) === */
+  /* === Desktop TOC (right rail, wide screens) ===
+     The right rail is a sticky flex column; this TOC is the pinned header at
+     the top (flex-shrink 0), scrolling internally only if it grows very long. */
   .toc-desktop {
-    position: sticky;
-    top: 1.25rem;
+    flex-shrink: 0;
     max-height: calc(100vh - 2.5rem);
     overflow-y: auto;
   }
