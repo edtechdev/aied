@@ -3,6 +3,7 @@
 import os
 import re
 import html
+import json
 from datetime import date
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -43,6 +44,25 @@ def first_para(md):
             return para[:400]
     return ''
 
+def concept_order():
+    """Return the ordered list of concept slugs per the sidebar taxonomy in
+    src/data/conceptIndex.ts. Concepts not listed (none currently) sort last
+    alphabetically. This keeps llms.txt / llms-full.txt aligned with the
+    site-wide sidebar navigation order."""
+    idx_path = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
+    order = []
+    try:
+        with open(idx_path, encoding='utf-8') as fh:
+            ts = fh.read()
+        # Collect slug strings in the order the sections/groups declare them.
+        for m in re.finditer(r"'([a-z0-9-]+)'", ts):
+            slug = m.group(1)
+            if slug not in order:
+                order.append(slug)
+    except FileNotFoundError:
+        pass
+    return order
+
 def collect():
     articles, concepts, faqs = [], [], []
     for d, store in [('articles', articles), ('concepts', concepts), ('faqs', faqs)]:
@@ -64,6 +84,10 @@ def collect():
                 'body': body,
                 'fm': fm,
             })
+    # Order concepts by the sidebar taxonomy (new concept hierarchy), not alphabetically.
+    order = concept_order()
+    order_index = {slug: i for i, slug in enumerate(order)}
+    concepts.sort(key=lambda c: order_index.get(c['slug'], len(order) + 1))
     return articles, concepts, faqs
 
 def build_llms_txt(articles, concepts, faqs):
@@ -77,17 +101,17 @@ def build_llms_txt(articles, concepts, faqs):
         desc = c['desc'].replace('\n', ' ')
         lines.append(f"- [{c['title']}]({c['url']}): {desc}")
     lines.append("")
-    lines.append("## Articles")
-    lines.append("")
-    for a in articles:
-        desc = a['desc'].replace('\n', ' ')
-        lines.append(f"- [{a['title']}]({a['url']}): {desc}")
-    lines.append("")
     lines.append("## FAQs")
     lines.append("")
     for f in faqs:
         desc = f['desc'].replace('\n', ' ')
         lines.append(f"- [{f['title']}]({f['url']}): {desc}")
+    lines.append("")
+    lines.append("## Articles")
+    lines.append("")
+    for a in articles:
+        desc = a['desc'].replace('\n', ' ')
+        lines.append(f"- [{a['title']}]({a['url']}): {desc}")
     return "\n".join(lines) + "\n"
 
 def build_llms_full(articles, concepts, faqs):
@@ -104,6 +128,15 @@ def build_llms_full(articles, concepts, faqs):
         lines.append("")
         lines.append("---")
         lines.append("")
+    lines.append("# FAQs")
+    lines.append("")
+    for f in faqs:
+        lines.append(f"## [{f['title']}]({f['url']})")
+        lines.append("")
+        lines.append(f['body'])
+        lines.append("")
+        lines.append("---")
+        lines.append("")
     lines.append("# Articles")
     lines.append("")
     for a in articles:
@@ -112,15 +145,6 @@ def build_llms_full(articles, concepts, faqs):
         # Strip synthesis blockquote markers for readability
         body = a['body']
         lines.append(body)
-        lines.append("")
-        lines.append("---")
-        lines.append("")
-    lines.append("# FAQs")
-    lines.append("")
-    for f in faqs:
-        lines.append(f"## [{f['title']}]({f['url']})")
-        lines.append("")
-        lines.append(f['body'])
         lines.append("")
         lines.append("---")
         lines.append("")
