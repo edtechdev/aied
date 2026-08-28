@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-08-28T16:00:00-04:00"
+updated: "2026-08-28T16:30:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency, cognitive-offloading]
@@ -55,6 +55,7 @@ The same autonomy that enables these benefits also creates significant risks:
 - **Opacity, coordination, and accountability.** Multi-agent systems complicate [[human-in-the-loop-ai|human oversight]]: which agent is accountable for an error, and where does a human intervene? Coordination failures, persona drift, and emergent behaviours can undermine reliability and [[pedagogical-safety]].
 - **Bias and equity.** Agents trained on data that encode bias can reproduce it at scale, and unequal access to capable agentic systems can widen [[equity-in-ai-education|educational inequity]].
 - **Assessment integrity and skill decay.** When agents can generate work on demand, assessing genuine learning becomes harder, and over-reliance can erode foundational skills — the "comprehension debt" and certification problem the field flags.
+- **Ghost students and the verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] describe the **"ghost student"** — a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate Learning Management Systems, engage with content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional [[ai-detection|proctoring and detection]] tools are structurally unable to close, and it accumulates **cognitive debt** in the learner who is bypassed. As AI shifts from generative to agentic, this integrity and [[academic-integrity|verification]] threat grows — an agentic-specific risk beyond those of single-turn GenAI.
 
 ## Productive friction and social interaction
 
@@ -140,3 +141,4 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)

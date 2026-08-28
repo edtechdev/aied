@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-28 | **Total entries:** 1099
+**Last updated:** 2026-08-28 | **Total entries:** 1108
 
 ## "2026-08-28
 
@@ -23,6 +23,24 @@
   A Scoping Review of AI for Sustainability and Sustainable AI in Higher Education
 - ◐ [[riandi-teacher-ai-green-energy-education-2026]] — 'raw/papers/riandi-teacher-ai-green-energy-education-2026.md'
   Teacher Involvement in Developing Sustainable Education Materials for AI Integration in Green Energy Education
+- ◐ [[chan-rethinking-aigiarism-secondary-integrity-2026]] — 'raw/papers/chan-rethinking-aigiarism-secondary-integrity-2026.md'
+  Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students
+- ◐ [[bozkurt-ghost-students-agentic-ai-2026]] — 'raw/papers/bozkurt-ghost-students-agentic-ai-2026.md'
+  The Devil is in the Det[ai]ls: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World
+- ◐ [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — 'raw/papers/lopez-lopez-academic-integrity-ai-study-practices-2026.md'
+  Academic Integrity in the Age of AI: University Students
+- ◐ [[psychological-mechanisms-academic-integrity-ai-2026]] — 'raw/papers/psychological-mechanisms-academic-integrity-ai-2026.md'
+  The Psychological Mechanisms and Behavioral Determinants of Academic Integrity in the Age of AI
+- ◐ [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — 'raw/papers/kofinas-generative-ai-authentic-assessment-integrity-2025.md'
+  The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context
+- ◐ [[sobo-cheating-competing-ai-marketing-literacy-2025]] — 'raw/papers/sobo-cheating-competing-ai-marketing-literacy-2025.md'
+  Cheating or Competing? University Students
+- ◐ [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — 'raw/papers/taylor-lacroix-purpose-before-policy-academic-integrity-2026.md'
+  Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance
+- ◐ [[roe-ai-humanizers-legitimacy-assessment-2026]] — 'raw/papers/roe-ai-humanizers-legitimacy-assessment-2026.md'
+  Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment
+- ◐ [[wei-perkins-genai-student-collaboration-scoping-2026]] — 'raw/papers/wei-perkins-genai-student-collaboration-scoping-2026.md'
+  Generative AI and Student Collaboration: A Scoping Review of Group Work Processes, Outcomes, and Risks
 
 ## "2026-08-27
 
