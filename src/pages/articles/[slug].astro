@@ -188,6 +188,9 @@ function renderInline(text: string): string {
 const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
 const rendered = renderMarkdown(body, title);
 const toc = rendered.headings.filter(h => h.depth <= 3);
+if (connectedFaqs.length > 0) {
+  toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
+}
 ---
 <BaseLayout title={title} toc={toc}>
   <JsonLd
@@ -219,7 +222,7 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
     </div>
 
     {connectedFaqs.length > 0 && (
-      <section style="margin-top:2.5rem;">
+      <section style="margin-top:2.5rem;" id="connected-faqs">
         <h2 style="border-bottom:2px solid var(--primary);padding-bottom:0.5rem;">Connected FAQs</h2>
         <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
           {connectedFaqs.map(f => (
