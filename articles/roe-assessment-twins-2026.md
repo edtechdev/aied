@@ -20,7 +20,7 @@ confidence: high
 
 ## The validity problem GenAI creates
 
-GenAI's advanced capability to produce extended works leads to GenAI-assisted [[plagiarism-detection|plagiarism]] ('Aigiarism'), making it challenging to determine whether students' work is their own and compromising assessment validity — since it becomes impossible to identify whether students have met course standards. AI detection was rapidly promoted as a remedy, but detection is now "all but impossible" and surveillance-focused responses can harm the relational dimension of assessment ([[trust]] between students and institutions). Structural assessment redesign is a more robust and pragmatic response, though the literature offers few clear methods — a gap this paper addresses.
+GenAI's advanced capability to produce extended works leads to GenAI-assisted [[ai-detection|plagiarism]] ('Aigiarism'), making it challenging to determine whether students' work is their own and compromising assessment validity — since it becomes impossible to identify whether students have met course standards. AI detection was rapidly promoted as a remedy, but detection is now "all but impossible" and surveillance-focused responses can harm the relational dimension of assessment ([[trust]] between students and institutions). Structural assessment redesign is a more robust and pragmatic response, though the literature offers few clear methods — a gap this paper addresses.
 
 ## The assessment twins concept
 
@@ -52,7 +52,7 @@ Assessment twins offer a practical, validity-driven complement to the wiki's [[a
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[educational-policy-ai]]
 - [[theory-development-aied]]
 

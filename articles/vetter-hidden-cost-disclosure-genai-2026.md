@@ -21,7 +21,7 @@ confidence: medium
 ## Implications
 
 - **Create clear, consistent, transparent AI policies** developed collaboratively with students — punitive or vague policies motivate concealment rather than openness.
-- **Train faculty to build trust, not rely on detection.** Faculty should learn trust-building conversations rather than leaning on unreliable [[plagiarism-detection|AI detection]] tools; disclosure should never be followed by accusation.
+- **Train faculty to build trust, not rely on detection.** Faculty should learn trust-building conversations rather than leaning on unreliable [[ai-detection|AI detection]] tools; disclosure should never be followed by accusation.
 - **Reframe disclosure as collaborative, not confession** — invite students to articulate how and why they used GenAI, positioning it as part of learning rather than misconduct.
 - **Watch for [[equity-in-ai-education|equity]] and irony:** students who are most transparent may be disproportionately scrutinized, undermining the very trust disclosure is meant to build.
 

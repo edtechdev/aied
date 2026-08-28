@@ -18,7 +18,7 @@ confidence: high
 5. The paper positions Unicode perturbations as a "minimal probe," not a deployment-ready solution, opening a research agenda on practical, transparent, and policy-aware AI code handoff.
 
 ## Discussion
-The paper's conceptual contribution is to broaden how we evaluate AI coding assistants: not only by the code they generate but by how they mediate the transfer of that code into artifacts. This shifts the [[academic-integrity|integrity]] conversation in programming education away from blunt detection-and-punish toward design interventions that shape the [[cognitive-offloading|cognitive offloading]] boundary. Soft barriers preserve the legitimate use of AI assistance while creating a friction point that forces learners to engage with the code they are adopting — a form of [[scaffolding|scaffolded]] [[student-engagement|engagement]] rather than blanket restriction. The work connects directly to debates about when [[ai-literacy|AI literacy]] should mean fluent delegation versus deliberate understanding, and offers an empirically grounded alternative to copy-paste [[plagiarism-detection|detection]].
+The paper's conceptual contribution is to broaden how we evaluate AI coding assistants: not only by the code they generate but by how they mediate the transfer of that code into artifacts. This shifts the [[academic-integrity|integrity]] conversation in programming education away from blunt detection-and-punish toward design interventions that shape the [[cognitive-offloading|cognitive offloading]] boundary. Soft barriers preserve the legitimate use of AI assistance while creating a friction point that forces learners to engage with the code they are adopting — a form of [[scaffolding|scaffolded]] [[student-engagement|engagement]] rather than blanket restriction. The work connects directly to debates about when [[ai-literacy|AI literacy]] should mean fluent delegation versus deliberate understanding, and offers an empirically grounded alternative to copy-paste [[ai-detection|detection]].
 
 ## Connected Concepts
 - [[cs-education]]
@@ -27,7 +27,7 @@ The paper's conceptual contribution is to broaden how we evaluate AI coding assi
 - [[llm]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[scaffolding]]
 - [[instructional-design]]
 - [[cs-education|programming education]]

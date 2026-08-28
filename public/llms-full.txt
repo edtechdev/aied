@@ -69,7 +69,7 @@ AI is applied across disciplines and educational levels. The wiki's [[discipline
 AI transforms both how we assess learners and how we evaluate AI systems themselves:
 
 - **Assessment and feedback:** [[assessment]], [[formative-assessment|formative assessment]], [[summative-assessment|summative assessment]], [[authentic-assessment|authentic assessment]], [[eportfolio|e-portfolio]], [[feedback]] and [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[peer-review|peer review]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]], and [[automated-question-generation|automated question generation]].
-- **Measurement and validity:** [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI detection]], [[remote-proctoring|remote proctoring]], and [[academic-integrity|academic integrity]].
+- **Measurement and validity:** [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[ai-detection|AI detection]], [[remote-proctoring|remote proctoring]], and [[academic-integrity|academic integrity]].
 - **Evaluation of AI systems:** [[ai-ed-evaluation|AI ed evaluation]], [[benchmark|benchmarks]], [[research-methods-aied|efficacy studies and research methods]] ([[qualitative-research|qualitative]], [[quantitative-research|quantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|design-based]], [[usability-research|usability]]), [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis]], [[learning-gains|learning gains]], [[network-analysis|network analysis]], and the [[limitations-in-aied-research|cross-cutting limitations]] of this evidence.
 
 ## People: learners, teachers, and institutions
@@ -1286,7 +1286,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 
 ## Connections
 
-AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[plagiarism-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
+AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[ai-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
 
 ## Connected Concepts
 
@@ -2408,7 +2408,7 @@ The online medium and generative AI combine to intensify a specific cluster of c
 
 ### Academic integrity and cheating
 
-Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The wiki's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[plagiarism-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]]), and the wiki's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
+Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The wiki's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[ai-detection|AI plagiarism detection]], [[remote-proctoring|remote proctoring]]), and the wiki's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
 
 ### AI misuse and cognitive offloading
 
@@ -2477,7 +2477,7 @@ Online learning is particularly vulnerable: the medium already distances learner
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
 - [[guardrails]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[pedagogical-safety]]
 - [[conversational-ai]]
 
@@ -5250,7 +5250,7 @@ Conversational AI (CAI) is the umbrella term for AI-driven agents that carry on 
 
 **Student perspectives.** Real-world usage shows adoption hinges on [[ai-literacy]] and user experience more than on technical capability. A human-centred mixed-methods study of the "Jordan Chatbot," a GPT-4o-based pedagogical agent in an Australian law course, found students hold positive attitudes and perceive gains in knowledge while strongly supporting [[academic-integrity]] requirements; over a third of interactions occurred after hours, confirming the value of 24/7 availability ([[colbran-student-perspectives-genai-chatbots-2026|Colbran, Jha & Schiavone 2026]]). Notably, AI literacy — not general technology proficiency — predicted willingness and confidence to use the chatbot, and usability (an intrusive pop-up design) was the largest barrier among non-users, ahead of trust, preference for staff, and academic-integrity fears.^[[colbran-student-perspectives-genai-chatbots-2026]] The study recommends human-centred design, explicit AI policies and assessment labels, staff and student training, and continuous error monitoring — evidence that effective CAI deployment is as much a design and literacy problem as a technical one.
 
-**Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[plagiarism-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses.
+**Risks and ethics.** CAI agents carry persistent risks of [[cognitive-offloading|over-reliance]] and [[cognitive-offloading|cognitive offloading]] (the leading ethical concern in the umbrella review), plus technical limitations, [[hallucination-risk|hallucination]], bias, [[ai-detection|plagiarism]], and [[equity-in-ai-education|equity]] barriers. These concerns animate [[ai-literacy]] and [[reducing-ai-misuse]] and require [[educational-policy-ai|policy]] and ethical-[[governance]] responses.
 
 ## Relationship to pedagogical agents and intelligent tutoring
 
@@ -7732,7 +7732,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ### Assessment and integrity
 
-[[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[plagiarism-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
+[[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[ai-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
 
 ## Implications for higher-education instructors
 
@@ -8047,7 +8047,7 @@ AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded a
 
 ## Integrity and the debate over detection
 
-AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[plagiarism-detection|detecting AI-generated text]], while a growing body of research argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic, process-based assessment]] over surveillance. **[[walton-bearman-assessment-judgement-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgement events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a quantitative counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic self-efficacy. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
+AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[ai-detection|detecting AI-generated text]], while a growing body of research argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic, process-based assessment]] over surveillance. **[[walton-bearman-assessment-judgement-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgement events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a quantitative counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic self-efficacy. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
 
 ## Assessment redesign in the AI era
 
@@ -8082,7 +8082,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[feedback]] — Feedback loops closing the assessment-to-learning cycle
 - [[feedback-literacy]] — Learner feedback literacy
 - [[academic-integrity]] — Integrity and the debate over AI detection
-- [[plagiarism-detection]] — Detecting AI-generated text
+- [[ai-detection]] — Detecting AI-generated text
 - [[ai-ed-evaluation]] — Methods and benchmarks for evaluating automated assessors
 - [[eportfolio]] — Process-based e-portfolio assessment
 
@@ -8652,7 +8652,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[formative-assessment]]
 - [[automated-assessment]]
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[ai-ed-evaluation]]
@@ -9067,7 +9067,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 ### Redesign over detection
 
-The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[plagiarism-detection|detecting AI use]]. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
+The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
 
 ### Connections
 
@@ -9318,7 +9318,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 ---
 
-## [AI Detection](https://edtechdev.github.io/aied/concepts/plagiarism-detection/)
+## [AI Detection](https://edtechdev.github.io/aied/concepts/ai-detection/)
 
 > **AI detection** — the technologies and methods used to identify AI-generated content in academic submissions, and the broader question of how institutions should respond to the risk that students use large language models (LLMs) to produce work that is not their own. It spans classifier-based approaches, latent-prompt and likelihood techniques, watermarking, and stylistic analysis — and, increasingly, debates about the limits of detection and the value of redesigning assessment rather than policing it.
 
@@ -9403,13 +9403,13 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 ## [Academic Integrity](https://edtechdev.github.io/aied/concepts/academic-integrity/)
 
-> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The wiki documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[plagiarism-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
+> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The wiki documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
 
 The arrival of generative AI has not created the need for academic integrity — it has made weaknesses in existing approaches harder to ignore. A polished, plausible product can now be generated in seconds, so **product resemblance is an increasingly unreliable signal of capability**. This shifts the integrity question from *"can we catch AI use?"* to *"can our [[assessment|assessments]] still warrant the inferences we draw about student learning?"*
 
 ### The evolution from detection to redesign
 
-- **Detection skepticism:** [[plagiarism-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
+- **Detection skepticism:** [[ai-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
 - **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations — and why abstract policy statements so often fail.
@@ -9444,7 +9444,7 @@ The wiki documents a paradigm shift: from AI as an integrity threat to be police
 
 ### Connections
 
-Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
+Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of [[ai-education|AI in education]], inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
 
 - **Systematic-review synthesis.** A PRISMA review of 25 studies (Balalle & Pannilage 2025) finds AI acts as both a threat (AI-generated writing, paraphrasing tools) and a detection tool (Turnitin AI scores), that detection software is unreliable for AI-generated work, and that institutions must build a culture of academic integrity through clear policy, assessment redesign, and ethics training rather than policing alone.^[[ssaho-ai-academic-integrity-review-2025]]
 - **From policing to dialog: learning verification.** A practitioner account of Grand Canyon University's institution-wide framework ([[best-response-student-ai-dialog-2026|Mandernach 2026]]) argues detection is unreliable and formal integrity processes rarely reach resolution, leaving faculty with "suspicion without recourse." GCU instead adopted **learning verification** — asking students to demonstrate understanding of their submitted work in a brief conversation — reframing integrity from a compliance problem to an assessment problem. It restores faculty authority, shifts students from "how not to get caught" to genuine [[student-engagement|engagement]], and treats AI use as acceptable when the student can demonstrate learning; students' initial anxiety about verification underscores that surveillance-heavy policy can corrode [[trust]].
@@ -9457,7 +9457,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 - [[assessment-validity]]
 - [[ai-literacy]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[authentic-assessment]]
 - [[assessment]]
 - [[educational-policy-ai]]
@@ -11084,7 +11084,7 @@ The wiki's research converges on several interconnected dimensions:
 
 - **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, evaluating AI tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
 - **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding]] that supports student [[metacognition]] and self-regulation, and integrating AI into [[instructional-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-agent workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how GenAI may replace, complement, or augment teacher competence.
-- **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[plagiarism-detection]], and the broader [[assessment]] redesign agenda.
+- **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[ai-detection]], and the broader [[assessment]] redesign agenda.
 - **Ethical and critical use:** recognizing bias in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
@@ -11576,7 +11576,7 @@ AI governance operates at two levels the wiki treats together: the *institutiona
 
 ### Assessment governance
 
-A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. This includes the design and enforcement of [[ai-use-disclosure|AI use and disclosure statements]]: research shows that mandatory declarations fail when they feel punitive or ambiguous ([[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]), and that clear, consistent, trust-based policy is what actually fosters disclosure. The wiki's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[plagiarism-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinised). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines.
+A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. This includes the design and enforcement of [[ai-use-disclosure|AI use and disclosure statements]]: research shows that mandatory declarations fail when they feel punitive or ambiguous ([[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]), and that clear, consistent, trust-based policy is what actually fosters disclosure. The wiki's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[ai-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinised). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines.
 
 ### Governance across levels
 
@@ -14632,7 +14632,7 @@ Malhotra, M., & Chhabra, I. (2026). [*A comprehensive review of the changing lan
 
 ## Implications for AI in Education
 
-The paper reframes AI's central risk in [[higher-ed|higher education]] as the erosion of *intellectual struggle* — the very labour through which knowledge is formed, contested, and owned — rather than the narrower problem of [[plagiarism-detection|detection]]. Its recommendations push toward [[assessment]] redesign that makes the labour of thinking visible and valued: process logs, staged drafts, in-class composition, and [[authentic-assessment|oral defences]] that AI cannot meaningfully complete. It also argues for valuing voice over polish, addressing [[teacher-role|educator]] wellbeing as a structural rather than personal issue, and treating current uncertainty as a pedagogical opportunity that moves classrooms "from surveillance to dialogue." This connects to broader wiki themes of [[academic-integrity]], [[ai-misuse-learning-harm|AI misuse and learning harm]], and the debate over whether AI supports or displaces [[critical-thinking|critical thinking]].
+The paper reframes AI's central risk in [[higher-ed|higher education]] as the erosion of *intellectual struggle* — the very labour through which knowledge is formed, contested, and owned — rather than the narrower problem of [[ai-detection|detection]]. Its recommendations push toward [[assessment]] redesign that makes the labour of thinking visible and valued: process logs, staged drafts, in-class composition, and [[authentic-assessment|oral defences]] that AI cannot meaningfully complete. It also argues for valuing voice over polish, addressing [[teacher-role|educator]] wellbeing as a structural rather than personal issue, and treating current uncertainty as a pedagogical opportunity that moves classrooms "from surveillance to dialogue." This connects to broader wiki themes of [[academic-integrity]], [[ai-misuse-learning-harm|AI misuse and learning harm]], and the debate over whether AI supports or displaces [[critical-thinking|critical thinking]].
 
 ## Connected Concepts
 - [[academic-integrity]]
@@ -14640,7 +14640,7 @@ The paper reframes AI's central risk in [[higher-ed|higher education]] as the er
 - [[cognitive-offloading]]
 - [[assessment]]
 - [[authentic-assessment]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[critical-thinking]]
 - [[ai-misuse-learning-harm]]
 - [[teacher-role]]
@@ -16426,7 +16426,7 @@ Eunjeo Kim (2026) examined how university students engage with [[generative-ai|g
 
 ## Key Findings
 
-- **AI anxiety is productive, not just a barrier:** Higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01). Students worried about [[plagiarism-detection|plagiarism]] or accuracy were more likely to question every AI sentence, cross-check sources, and revise rather than accept output uncritically.
+- **AI anxiety is productive, not just a barrier:** Higher AI anxiety was positively associated with verification and revision behaviors (β=.24, p<.01). Students worried about [[ai-detection|plagiarism]] or accuracy were more likely to question every AI sentence, cross-check sources, and revise rather than accept output uncritically.
 - **Evaluative capacity drives active [[student-engagement|engagement]]:** Evaluative capacity predicted revision and selective integration (β=.46, p<.001), while [[ethics|ethical]] awareness strengthened the translation of evaluation into active, responsible AI use (interaction β=.41, p<.01).
 - **Four regulatory types (N=107):** Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%). Effective AI use depended not on willingness to use the tool but on the capacity to question outputs, revise selectively, and maintain authorship responsibility. Uncritical reliance risks [[cognitive-offloading|cognitive offloading]], while the other modes reflect active [[self-regulated-learning|self-regulated]] engagement.
 - **AI literacy as regulatory competence:** The study frames [[ai-literacy]] in [[higher-ed|higher education]] less as technology acceptance and more as a form of regulatory competence grounded in evaluative judgment and ethical responsibility.
@@ -16450,7 +16450,7 @@ This work reframes AI anxiety from a negative construct to a potentially product
 - [[cognitive-offloading]]
 - [[feedback]]
 - [[assessment]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[writing-education]]
 - [[technology-acceptance-model]]
 
@@ -20268,7 +20268,7 @@ Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., &
 - **Student–faculty perception gap:** Students tend to perceive AI as acceptable help (idea generation, language improvement), while faculty weight originality and independent thinking and are more likely to treat certain uses as [[academic-integrity]] misconduct. Perceptions also vary by discipline: STEM students show stronger agreement that AI improves performance (+42% net agreement), whereas humanities students show the highest net agreement that AI usage constitutes cheating (+44%) and raises ethical concerns (+58%).
 - **Correlation structure:** A pairwise analysis (N = 320) found AI usage negatively correlated with perceived cheating (r ≈ −0.51) and positively correlated with [[learning-gains|academic performance]] (r ≈ +0.44), while ethical concern tracked closely with perceived cheating.
 - **Cognitive offloading risk:** Evidence indicates over-dependence on AI and adaptive systems can drive [[cognitive-offloading]], decreased independent reasoning, and altered academic behavior, threatening [[critical-thinking]]—though guided, transparent AI use can support higher-order thinking.
-- **Detection limits and AI literacy:** Conventional [[plagiarism-detection]] struggles with generative text (false positives/negatives), pushing institutions toward process-based assessment. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
+- **Detection limits and AI literacy:** Conventional [[ai-detection]] struggles with generative text (false positives/negatives), pushing institutions toward process-based assessment. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
 
 ## Study Design & Method
 
@@ -20291,7 +20291,7 @@ A systematic literature review following the PRISMA 2020 framework. Four databas
 - [[ethics]]
 - [[student-experience]]
 - [[assessment]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[reducing-ai-misuse]]
@@ -22963,7 +22963,7 @@ Baroudi, S. (2026). [*Anticipatory governance and leadership for AI implementati
 
 ## [Heads We Win, Tails You Lose: AI Detectors in Education](https://edtechdev.github.io/aied/articles/bassett-ai-detectors-education-2026/)
 
-> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[plagiarism-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognises AI's role in learning.
+> **Synthesis:** Bassett et al. (2026) argue that generative AI detection should not be used in education, on three grounds: methodological imperfection (unverifiable probabilistic estimates), violation of [[academic-integrity|procedural fairness]], and unverifiable outputs. Unlike [[ai-detection]], AI detection cannot be validated in real-world conditions where text origin is unknown; categorising text as human- or AI-generated imposes a false dichotomy that ignores work created *with*, not *by*, AI. They conclude that AI detection "does not safeguard academic integrity; it undermines it" — and call for a shift from detection and enforcement toward [[assessment|assessment design]] that recognises AI's role in learning.
 
 ## Key Findings
 
@@ -22987,11 +22987,11 @@ AI detection raises security concerns around data storage and retention (includi
 
 ## Implications for AI in education
 
-This paper is a strong argument in the wiki's [[plagiarism-detection]] and [[academic-integrity]] thread for retiring AI-detection tools, positioning them as methodologically and procedurally unsound. It connects to [[beyond-detection-authentic-assessment-ai-2025|beyond-detection work]] on [[authentic-assessment|authentic assessment]] and to [[assessment-validity|assessment validity]] — if AI detectors cannot be validated, their use undermines rather than protects [[assessment]]. It also speaks to [[educational-policy-ai|policy]] and [[governance]] in [[higher-ed|higher education]], and to [[writing-education]] by recognising AI-assisted writing as a legitimate, hybrid practice. Its emphasis on moving from surveillance toward [[assessment|assessment design]] that recognises AI's role aligns with [[ai-literacy]] and human-centred [[generative-ai|GenAI]] integration.
+This paper is a strong argument in the wiki's [[ai-detection]] and [[academic-integrity]] thread for retiring AI-detection tools, positioning them as methodologically and procedurally unsound. It connects to [[beyond-detection-authentic-assessment-ai-2025|beyond-detection work]] on [[authentic-assessment|authentic assessment]] and to [[assessment-validity|assessment validity]] — if AI detectors cannot be validated, their use undermines rather than protects [[assessment]]. It also speaks to [[educational-policy-ai|policy]] and [[governance]] in [[higher-ed|higher education]], and to [[writing-education]] by recognising AI-assisted writing as a legitimate, hybrid practice. Its emphasis on moving from surveillance toward [[assessment|assessment design]] that recognises AI's role aligns with [[ai-literacy]] and human-centred [[generative-ai|GenAI]] integration.
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[higher-ed]]
@@ -23362,7 +23362,7 @@ Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). [*L
 
 ## Core Finding
 
-A [[llm|transformer-based]] system can both **detect** discourse-coherence defects (logical jumps, missing connections, ambiguous references) at the sentence-pair level and **generate actionable, teacher-aligned feedback** — bridging the gap between deep semantic modeling and instructional operability that plagues earlier automatic writing-evaluation systems. The approach closes a loop from defect [[plagiarism-detection|detection]] to educational feedback rather than merely emitting a single score or a vague "logic needs strengthening" hint.
+A [[llm|transformer-based]] system can both **detect** discourse-coherence defects (logical jumps, missing connections, ambiguous references) at the sentence-pair level and **generate actionable, teacher-aligned feedback** — bridging the gap between deep semantic modeling and instructional operability that plagues earlier automatic writing-evaluation systems. The approach closes a loop from defect [[ai-detection|detection]] to educational feedback rather than merely emitting a single score or a vague "logic needs strengthening" hint.
 
 ## Why Discourse-Level Assessment Matters
 
@@ -23415,11 +23415,11 @@ Wang, W., Xu, L., Jia, X., & Fu, S. (2026). [Automatic discourse relation classi
 
 ## [The Best Response to Student AI Use Is Not Detection, It Is Dialog](https://edtechdev.github.io/aied/articles/best-response-student-ai-dialog-2026/)
 
-> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best institutional response to student AI use is **learning verification through dialog — not [[plagiarism-detection|detection]]**. Because [[plagiarism-detection|AI detectors]] are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes [[trust]]. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an [[assessment]] approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
+> **Synthesis:** Mandernach (2026), a practitioner account from Grand Canyon University, argues that the best institutional response to student AI use is **learning verification through dialog — not [[ai-detection|detection]]**. Because [[ai-detection|AI detectors]] are unreliable (and disproportionately flag nonnative English speakers) and formal misconduct processes require detection-grade proof that is functionally unavailable, faculty are left with "suspicion without recourse" that corrodes [[trust]]. GCU instead shifted the question from "Did this student use AI?" to "Can this student demonstrate understanding of what they submitted?" — an [[assessment]] approach faculty are already qualified to run. Implemented institution-wide in fall 2025, learning verification restores faculty authority and changes what assignments require, making AI a less attractive shortcut.
 
 ## Key Findings
 
-- **Detection is unreliable and formal processes stall.** [[plagiarism-detection|AI detectors]] produce unacceptable error rates and are disproportionately likely to flag writing by nonnative English speakers; Code of Conduct processes require proof that is functionally unavailable with AI, so cases stall, students are not found responsible, and faculty feel dismissed.
+- **Detection is unreliable and formal processes stall.** [[ai-detection|AI detectors]] produce unacceptable error rates and are disproportionately likely to flag writing by nonnative English speakers; Code of Conduct processes require proof that is functionally unavailable with AI, so cases stall, students are not found responsible, and faculty feel dismissed.
 - **Reframe the problem: AI use is a confounding variable.** AI use is not the true concern — it is one of several things (ghostwriting, overstepping tutors, [[ai-misuse-learning-harm|contract cheating]]) that disrupt the inferential link between a submitted artifact and actual student understanding. The real question is whether the student mastered the learning objectives.
 - **Learning verification in practice.** A [[instructional-design|syllabus]] statement normalizes that students may be asked to explain their work at any point (framed as [[pedagogy]], not surveillance); verification conversations (5–10 minutes) focus on the material, not the tool — an extension of [[authentic-assessment|demonstrating understanding]]. Alternatives for large/asynchronous courses: written reflections, short student videos, early draft submissions, and (when used) AI chat logs.
 - **Trust and relationships shift.** Students initially approached verification with [[student-experience|anxiety]] (assuming they were accused), but when communicated well they began disclosing AI use more openly and engaging with assignments as genuine [[assessment|learning tasks]] rather than products. The framework treats AI use as acceptable when the student can demonstrate understanding.
@@ -23427,13 +23427,13 @@ Wang, W., Xu, L., Jia, X., & Fu, S. (2026). [Automatic discourse relation classi
 
 ## Implications for AI in Education
 
-The essay reframes [[academic-integrity]] enforcement from a detection/compliance model to an assessment model grounded in dialog and [[authentic-assessment|demonstrated understanding]]. It positions [[teacher-role|faculty]] as teachers with the legitimate authority to confirm that a grade reflects actual learning, rather than as investigators or monitors. It complements [[plagiarism-detection|detection]] limits with process-based, [[ai-literacy]]-building assessment — and its emphasis on student anxiety about being asked to explain their work ties directly to the stress and [[trust]] concerns documented in [[remote-proctoring]] and other surveillance-based approaches.
+The essay reframes [[academic-integrity]] enforcement from a detection/compliance model to an assessment model grounded in dialog and [[authentic-assessment|demonstrated understanding]]. It positions [[teacher-role|faculty]] as teachers with the legitimate authority to confirm that a grade reflects actual learning, rather than as investigators or monitors. It complements [[ai-detection|detection]] limits with process-based, [[ai-literacy]]-building assessment — and its emphasis on student anxiety about being asked to explain their work ties directly to the stress and [[trust]] concerns documented in [[remote-proctoring]] and other surveillance-based approaches.
 
 ## Connected Concepts
 
 - [[academic-integrity]]
 - [[ai-misuse-learning-harm]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[authentic-assessment]]
 - [[assessment]]
 - [[ai-literacy]]
@@ -23518,7 +23518,7 @@ Cotton, P. A., & Cotton, D. R. E. (2026). [Beyond ChatGPT: A review of the use o
 
 ## The case against detection
 
-[[plagiarism-detection|Detection]]-led responses face well-documented limits: [[assessment-validity|validity]] and fairness failures (bias against non-native writers), notable error rates, erosion of trust, and distraction from assessment design. Detection should be a **limited, situational tool — not a strategy of first resort**. The constructive question is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Excluding AI from assessment creates an *inauthentic* scenario: the authentic professional justifies when, how, and why they use tools, and critically evaluates their outputs.
+[[ai-detection|Detection]]-led responses face well-documented limits: [[assessment-validity|validity]] and fairness failures (bias against non-native writers), notable error rates, erosion of trust, and distraction from assessment design. Detection should be a **limited, situational tool — not a strategy of first resort**. The constructive question is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Excluding AI from assessment creates an *inauthentic* scenario: the authentic professional justifies when, how, and why they use tools, and critically evaluates their outputs.
 
 ## Authenticity as a four-dimensional continuum
 
@@ -23551,7 +23551,7 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 
 - [[authentic-assessment]]
 - [[assessment-validity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[academic-integrity]]
 - [[assessment]]
 - [[generative-ai]]
@@ -25231,7 +25231,7 @@ Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysi
 
 The paper frames the adversary not as a sophisticated attacker but as a **minimally engaged student**: someone who provides ChatGPT the assignment text, notebook, or student-visible files; requests a complete solution and required artifacts; runs the generated code in Jupyter or Colab; returns an exact installation or runtime error; and submits the finished work. The student never receives the hidden [[teacher-role|instructor]] solution, hidden reference functions, expected answers, or grader [[feedback]]. This models direct outsourcing rather than elaborate [[prompt-engineering]] or autonomous agents.
 
-Operational resilience is defined as *completion resistance*, not [[plagiarism-detection|plagiarism detection]], authorship, or learning: for each package a, observed resiliency is Ra = 1 − Ca/Na, where Na is the number of separate ChatGPT sessions and Ca is the number yielding an executed, grader-accepted completion. A session counted as correct only when the final artifact executed and passed the corresponding grader after ordinary execution and permitted error feedback. Each fixed instance was repeated in 50 separate sessions, holding assignment content constant while resampling the model interaction, so the design tests whether completion was stable rather than a one-off response — not generalization across seeds or variants.
+Operational resilience is defined as *completion resistance*, not [[ai-detection|plagiarism detection]], authorship, or learning: for each package a, observed resiliency is Ra = 1 − Ca/Na, where Na is the number of separate ChatGPT sessions and Ca is the number yielding an executed, grader-accepted completion. A session counted as correct only when the final artifact executed and passed the corresponding grader after ordinary execution and permitted error feedback. Each fixed instance was repeated in 50 separate sessions, holding assignment content constant while resampling the model interaction, so the design tests whether completion was stable rather than a one-off response — not generalization across seeds or variants.
 
 ## The three assignment packages
 
@@ -26028,7 +26028,7 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 
 The results suggest that oral code review interviews paired with a flipped classroom offer an effective, scalable alternative to AI bans in [[cs-education|CS1]].
 
-- For [[assessment]] design, the study provides an [[authentic-assessment|authentic]], defensible alternative to [[plagiarism-detection|AI detection]], which tends to foster adversarial dynamics and erode [[trust]] between instructors and students.
+- For [[assessment]] design, the study provides an [[authentic-assessment|authentic]], defensible alternative to [[ai-detection|AI detection]], which tends to foster adversarial dynamics and erode [[trust]] between instructors and students.
 - The findings reframe [[academic-integrity]] around demonstrated understanding rather than policing tool use — a stance aligned with [[ai-literacy]] and [[educational-policy-ai|policy]] that acknowledges AI tools as part of professional practice.
 - The flipped classroom resolves the [[higher-ed|scalability]] question that has blocked oral assessment adoption; TA training and scheduling logistics are the practical levers to refine.
 - The design supports [[self-efficacy|student confidence]] and [[motivation]] to understand code deeply, linking [[metacognition|metacognitive]] development to structured accountability rather than to [[cognitive-offloading|over-reliance]].
@@ -26816,7 +26816,7 @@ Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Za
 
 Generative AI has been adopted by students faster than institutions could respond. Drawing on survey data from 95,513 students at 20 U.S. public research universities, Chirikov et al. (2026) reported that roughly two-thirds of undergraduates used GenAI in 2023–2024, while only about 9% used it specifically to cheat. The paper argues that GenAI use in coursework is now a broader phenomenon than [[academic-integrity]] misconduct, and that [[assessment]] practices, not just integrity policy, require reform.
 
-The paper treats detection and prohibition as failed responses. Independent audits of GenAI-text detectors have found unacceptable false-positive rates, including a documented tendency to misclassify the writing of non-native English speakers as machine-generated far more often than native speakers — a direct [[assessment-validity]] problem for [[plagiarism-detection]]. Policies prohibiting GenAI rest on the premise that its use makes work "non-original," which fails to acknowledge the student's intellectual contribution. The deeper claim is that an assignment produced with GenAI is an artifact whose relationship to the student's own knowledge and skill can no longer be assumed, whether or not any policy was violated. That is a measurement problem requiring competency to be defined and assessed differently.
+The paper treats detection and prohibition as failed responses. Independent audits of GenAI-text detectors have found unacceptable false-positive rates, including a documented tendency to misclassify the writing of non-native English speakers as machine-generated far more often than native speakers — a direct [[assessment-validity]] problem for [[ai-detection]]. Policies prohibiting GenAI rest on the premise that its use makes work "non-original," which fails to acknowledge the student's intellectual contribution. The deeper claim is that an assignment produced with GenAI is an artifact whose relationship to the student's own knowledge and skill can no longer be assumed, whether or not any policy was violated. That is a measurement problem requiring competency to be defined and assessed differently.
 
 The author situates this inside the [[authentic-assessment]] tradition rather than outside it. Authentic tasks were built to resemble professional criterion conditions and assumed the resulting artifact transparently reflects the examinee's integration of knowledge, skills, and attitudes. GenAI violates that assumption without disturbing any of the framework's five dimensions — task, physical context, social context, result, and criteria — so the failure is internal to the tradition it displaced.
 
@@ -27566,7 +27566,7 @@ Barzanji, C., & Loitsch, C. (2025). [*Exploring conversational agents for novice
 
 1. **A synthesis across a fragmented field.** The umbrella review systematically integrates 34 prior review articles on conversational AI agents in education across five databases, bridging older rule-based chatbot research with the newer [[generative-ai|GenAI]]/[[llm|LLM]] literature to form a cohesive state-of-the-art.
 2. **Utilization is heavily pedagogical.** Teaching and learning support (97.1%), psychological/motivational support (91.2%), and metacognitive and personal development (88.2%) dominate, while administrative support (50%), research and information management (52.9%), and healthcare/medical support (41.2%) remain underexplored — pointing to opportunities beyond instructional contexts.
-3. **Technical and cognitive concerns dominate.** The most-discussed challenges are technical limitations (97.1%), educational impact and cognitive concerns (91.2%), and interaction/usability challenges (85.3%). As agents shift to GenAI/LLM-based, emphasis moves toward [[hallucination-risk|hallucination]], bias, privacy, and [[plagiarism-detection|plagiarism]] — with accessibility and cultural inclusivity staying secondary.
+3. **Technical and cognitive concerns dominate.** The most-discussed challenges are technical limitations (97.1%), educational impact and cognitive concerns (91.2%), and interaction/usability challenges (85.3%). As agents shift to GenAI/LLM-based, emphasis moves toward [[hallucination-risk|hallucination]], bias, privacy, and [[ai-detection|plagiarism]] — with accessibility and cultural inclusivity staying secondary.
 4. **Human–AI relationship is the persistent ethical thread.** Human–AI relationship concerns (over-reliance, social isolation, depersonalization, transparency, accountability) are the most frequently discussed ethical concern across all CAI generations. [[academic-integrity]] is discussed in only 35.3% of articles, signaling it as a comparatively newer concern.
 5. **Framework gaps and a roadmap.** Reviews lack end-to-end design guidance, CAI-specific usability methods, clear classroom implementation and [[teacher-role]] strategies, and AI-literacy support. The proposed roadmap centers foundational [[ai-literacy|AI literacy]] assessment, participatory (HCI-grounded) design, ethical-use guidelines, and continuous evaluation of cognitive impact.
 
@@ -29347,7 +29347,7 @@ Dogan, S. (2026). [*Designing effective AI professional development: A framework
 
 ## [Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration](https://edtechdev.github.io/aied/articles/detecting-llm-generated-text-latent-prompt/)
 
-> **Synthesis:** EchoPrompt introduces a training-free zero-shot detector for [[plagiarism-detection|LLM-generated text]] that exploits the latent prompt dependency inherent in machine-generated content. By restoring a generic assistant-response prefix and measuring likelihood gain differences between instruction-tuned and base models, EchoPrompt achieves state-of-the-art detection performance without training. This approach has direct implications for [[ai-education|academic integrity]] in educational contexts, where LLM-generated text detection is increasingly critical for maintaining assessment validity.
+> **Synthesis:** EchoPrompt introduces a training-free zero-shot detector for [[ai-detection|LLM-generated text]] that exploits the latent prompt dependency inherent in machine-generated content. By restoring a generic assistant-response prefix and measuring likelihood gain differences between instruction-tuned and base models, EchoPrompt achieves state-of-the-art detection performance without training. This approach has direct implications for [[ai-education|academic integrity]] in educational contexts, where LLM-generated text detection is increasingly critical for maintaining assessment validity.
 
 ## Detection Mechanism
 
@@ -29391,7 +29391,7 @@ Its training-free design also strengthens [[assessment-validity|assessment valid
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[ai-education]]
 - [[academic-integrity]]
 - [[llm]]
@@ -32024,7 +32024,7 @@ The authors argue evaluation must shift from certifying a final artifact to docu
 
 ## Implications for AI in Education
 
-The paper reframes the [[academic-integrity]] debate from policing outputs to redesigning assessment so that the path to the answer is as important as the answer itself. It cautions that [[plagiarism-detection|AI detection]] tools, with high false-positive risk, both damage [[privacy]] and deepen inequity, and that surveillance undermines the learning environment. For educators and institutions, it supports [[authentic-assessment]] and process-oriented designs that preserve student agency and accountability, aligning [[educational-policy-ai|institutional policy]] with the professional realities students will face after graduation.
+The paper reframes the [[academic-integrity]] debate from policing outputs to redesigning assessment so that the path to the answer is as important as the answer itself. It cautions that [[ai-detection|AI detection]] tools, with high false-positive risk, both damage [[privacy]] and deepen inequity, and that surveillance undermines the learning environment. For educators and institutions, it supports [[authentic-assessment]] and process-oriented designs that preserve student agency and accountability, aligning [[educational-policy-ai|institutional policy]] with the professional realities students will face after graduation.
 
 ## Connected Concepts
 
@@ -32032,7 +32032,7 @@ The paper reframes the [[academic-integrity]] debate from policing outputs to re
 - [[authentic-assessment]]
 - [[generative-ai]]
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[formative-assessment]]
 - [[higher-ed]]
 - [[ethics]]
@@ -34096,7 +34096,7 @@ Korchak, A., Costley, J., & Fanguy, M. (2026). [*AI writes, we collaborate—or 
 1. **125 studies synthesized via PRISMA 2020.** Empirical evidence was screened from 2,847 records across Scopus, Web of Science, ERIC, IEEE, and Google Scholar (with PubMed for health-sciences education), yielding 125 included studies; 18.4% originated from [[global-south]] contexts across 42 countries.
 2. **Exponential GenAI adoption.** Student usage reached 92% by 2025 — a 26-point jump from 66% in 2024 — with publication volume itself growing from 9 studies in 2022 to 51 in 2024.
 3. **Four application domains.** Automated [[feedback]] and [[automated-assessment|assessment]] (53.6% of studies), personalized learning support and [[intelligent-tutoring|tutoring]] (44.8%), [[critical-thinking|critical skill]] development (30.4%), and research/administrative support (24.8%).
-4. **Persistent challenges.** [[academic-integrity]] concerns dominate (71.2%), compounded by flawed [[plagiarism-detection|detection tools]] (30–50% false-positive rates), 10–40% [[hallucination-risk|hallucination rates]], 60–70% of faculty feeling unprepared, and equity gaps driven by differential access to premium tools.
+4. **Persistent challenges.** [[academic-integrity]] concerns dominate (71.2%), compounded by flawed [[ai-detection|detection tools]] (30–50% false-positive rates), 10–40% [[hallucination-risk|hallucination rates]], 60–70% of faculty feeling unprepared, and equity gaps driven by differential access to premium tools.
 5. **Emergent pedagogical innovations.** [[ai-literacy]] frameworks, AI-adapted [[tpack]] models, [[authentic-assessment|assessment redesign]] toward process documentation, participatory policy development, and [[prompt-engineering]] curricula offer pathways for responsible integration.
 
 ## Background and Method
@@ -34117,7 +34117,7 @@ Six interconnected opportunity domains emerged. GenAI improved **learning effici
 
 ## Challenges and Risks
 
-**[[academic-integrity]]** was the most frequently discussed challenge (89 studies, 71.2%), with 34–37% of students admitting to GenAI use they recognized as potentially violating integrity policies. Conventional formats — essays, problem sets, take-home exams — became vulnerable, forcing reconsideration of what constitutes [[authentic-assessment|authentic assessment]] and original thought. **[[plagiarism-detection|Detection tool]] limitations** proved severe: false-positive rates reached 30–50% for certain writing styles (disproportionately flagging non-native English speakers and [[neurodiversity|neurodivergent]] students), and simple prompt-engineering strategies reduced detection to near-zero, undermining confidence in surveillance-based responses. **[[hallucination-risk|Hallucination]] and accuracy concerns** included 10–40% hallucination rates, with medical students detecting AI errors only 44–55% of the time — a patient-safety red flag. **[[faculty-development]] readiness gaps** saw 60–70% of instructors feeling unprepared to integrate GenAI, creating inconsistent student experiences across courses. Finally, **[[equity-in-ai-education]] and [[digital-divide]] concerns** persisted across premium-tool access, algorithmic bias, infrastructure disparities, and [[ai-literacy]] gaps correlated with socioeconomic status — stratification that risks amplifying existing educational inequities.
+**[[academic-integrity]]** was the most frequently discussed challenge (89 studies, 71.2%), with 34–37% of students admitting to GenAI use they recognized as potentially violating integrity policies. Conventional formats — essays, problem sets, take-home exams — became vulnerable, forcing reconsideration of what constitutes [[authentic-assessment|authentic assessment]] and original thought. **[[ai-detection|Detection tool]] limitations** proved severe: false-positive rates reached 30–50% for certain writing styles (disproportionately flagging non-native English speakers and [[neurodiversity|neurodivergent]] students), and simple prompt-engineering strategies reduced detection to near-zero, undermining confidence in surveillance-based responses. **[[hallucination-risk|Hallucination]] and accuracy concerns** included 10–40% hallucination rates, with medical students detecting AI errors only 44–55% of the time — a patient-safety red flag. **[[faculty-development]] readiness gaps** saw 60–70% of instructors feeling unprepared to integrate GenAI, creating inconsistent student experiences across courses. Finally, **[[equity-in-ai-education]] and [[digital-divide]] concerns** persisted across premium-tool access, algorithmic bias, infrastructure disparities, and [[ai-literacy]] gaps correlated with socioeconomic status — stratification that risks amplifying existing educational inequities.
 
 ## Pedagogical Innovations and Frameworks
 
@@ -34133,7 +34133,7 @@ This broad systematic review provides a comprehensive landscape of [[generative-
 
 The persistent challenges — [[academic-integrity]], algorithmic [[bias-mitigation]], [[hallucination-risk]], [[faculty-development]] readiness, and [[equity-in-ai-education]]/[[digital-divide]] — echo themes across the wiki. The identified risks of student [[cognitive-offloading|over-reliance]] and inhibited [[metacognition]] connect to [[productive-failure]] and [[self-regulated-learning]] discussions, while the emphasis on [[human-ai-collaboration]] and [[human-in-the-loop-ai]] models positions GenAI as a thinking partner rather than a replacement.
 
-For policy and practice, the review underscores that the faculty-readiness gap and equity concerns remain the binding constraints on responsible GenAI integration. The proposed four-dimensional framework — pedagogical integration, [[ai-literacy]] development, ethical [[governance]], and systemic support — provides a practical checklist connecting to [[educational-policy-ai]], [[privacy]], and [[plagiarism-detection|academic-integrity safeguards]]. It also points to research gaps — longitudinal and [[rct|experimental designs]], equity-focused and discipline-specific studies — that future empirical work should target.
+For policy and practice, the review underscores that the faculty-readiness gap and equity concerns remain the binding constraints on responsible GenAI integration. The proposed four-dimensional framework — pedagogical integration, [[ai-literacy]] development, ethical [[governance]], and systemic support — provides a practical checklist connecting to [[educational-policy-ai]], [[privacy]], and [[ai-detection|academic-integrity safeguards]]. It also points to research gaps — longitudinal and [[rct|experimental designs]], equity-focused and discipline-specific studies — that future empirical work should target.
 
 ## Connected Concepts
 
@@ -34360,9 +34360,9 @@ Wang, S. B., Wang, S. I.-C., & Liu, E. Z.-F. (2026). [*Role of generative AI lit
 
 ## [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://edtechdev.github.io/aied/articles/genai-marketing-education-roles-2026/)
 
-> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[plagiarism-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
+> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[ai-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
 
-Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[plagiarism-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
+Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[ai-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.
 
 ## Abstract
 
@@ -35155,7 +35155,7 @@ The paper argues this is exactly why GenAI presents a "wicked problem" for insti
 
 ## Academic integrity: the honest majority and a minority of Moriarties
 
-The survey asked students whether they use GenAI for part or all of an assessment when not permitted, framing "cheating" around breaking rules or expectations. On a generous reading, 68% of all respondents never use GenAI when not permitted, and a further 21% only use it sometimes — supporting the authors' "Academic Integrity Maxim" that the majority of students are honest most of the time. The habitual rule-breakers who use GenAI "most of the time" or "always" when not permitted form just 5.2% of respondents (7.3% of GenAI users), a "minority of Moriarties" consistent with long-standing estimates that 10–15% of students engage in [[plagiarism-detection|contract cheating]].
+The survey asked students whether they use GenAI for part or all of an assessment when not permitted, framing "cheating" around breaking rules or expectations. On a generous reading, 68% of all respondents never use GenAI when not permitted, and a further 21% only use it sometimes — supporting the authors' "Academic Integrity Maxim" that the majority of students are honest most of the time. The habitual rule-breakers who use GenAI "most of the time" or "always" when not permitted form just 5.2% of respondents (7.3% of GenAI users), a "minority of Moriarties" consistent with long-standing estimates that 10–15% of students engage in [[ai-detection|contract cheating]].
 
 A less charitable reading is that roughly 32% of students have broken university policy on GenAI use, and [[academic-integrity]] concerns are compounded by known under-reporting in self-reports. The authors emphasise that much apparent "misuse" may instead be students testing capabilities by trial and error, or justifiably using GenAI to learn when a lecturer's preference or institutional policy forbids it. This complicates simple integrity narratives and points toward the need for [[reducing-ai-misuse|nuanced policy]] rather than blanket prohibition.
 
@@ -35420,7 +35420,7 @@ For [[writing-education]] and [[bias-mitigation]] efforts, the study implies tha
 - [[equity-in-ai-education]]
 - [[prompt-engineering]]
 - [[automated-essay-scoring]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[teacher-ai-competency]]
 - [[writing-education]]
 - [[academic-integrity]]
@@ -37409,7 +37409,7 @@ The authors note that the rapid evolution of GenAI makes it difficult to separat
 - [[student-experience]]
 - [[ai-literacy]]
 - [[human-in-the-loop-ai]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[human-ai-collaboration]]
 - [[trust]]
 - [[generative-ai]]
@@ -38773,7 +38773,7 @@ Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2
 
 ## Core Finding
 
-Person-fit statistics grounded in [[item-response-theory|IRT]] can reliably separate GenAI from human responses to multiple-choice questions, because chatbot response patterns exhibit systematic "aberrance" relative to IRT models fitted on human data. Yet the method has a clear boundary condition: **separation diminishes as the proportion of GenAI responses in the data rises** (from significant at 5% contamination to negligible at 25% on the quantitative instrument), since anomaly-based [[plagiarism-detection|detection]] weakens as the detected behavior becomes more typical. Separately, different chatbots form a heterogeneous group of "intelligences," and newer model generations become not only more accurate but more human-like in their response patterns.
+Person-fit statistics grounded in [[item-response-theory|IRT]] can reliably separate GenAI from human responses to multiple-choice questions, because chatbot response patterns exhibit systematic "aberrance" relative to IRT models fitted on human data. Yet the method has a clear boundary condition: **separation diminishes as the proportion of GenAI responses in the data rises** (from significant at 5% contamination to negligible at 25% on the quantitative instrument), since anomaly-based [[ai-detection|detection]] weakens as the detected behavior becomes more typical. Separately, different chatbots form a heterogeneous group of "intelligences," and newer model generations become not only more accurate but more human-like in their response patterns.
 
 ## The Theoretical Rationale
 
@@ -39680,7 +39680,7 @@ Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Designing AI systems to suppor
 
 ## [Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It](https://edtechdev.github.io/aied/articles/kirsanov-beyond-detection-ai-online-assessments-2026/)
 
-> **Students navigate [[governance|institutional]] AI ambiguity with caution and pragmatism — disclosure is rare, driven more by fear of penalties than by dishonesty.** Kirsanov, Kushwah, and Selvaretnam (2025/2026), a small case study of [[higher-ed|undergraduate]] economics students at the University of Glasgow (31/174 respondents), find that only about one-third report using AI in online assessments, and disclosure is rarer still. Non-disclosure appears to be **rational caution in the face of ambiguous policies and perceived academic risk**, not simple integrity violation. Students support guidance and structured [[regulation]], favor citation rules, and widely see real-world, data-based tasks as [[reducing-ai-misuse|reducing AI misuse]] — pointing toward [[authentic-assessment|authentic assessment]] and clear expectations over [[plagiarism-detection|detection]] and deterrence.
+> **Students navigate [[governance|institutional]] AI ambiguity with caution and pragmatism — disclosure is rare, driven more by fear of penalties than by dishonesty.** Kirsanov, Kushwah, and Selvaretnam (2025/2026), a small case study of [[higher-ed|undergraduate]] economics students at the University of Glasgow (31/174 respondents), find that only about one-third report using AI in online assessments, and disclosure is rarer still. Non-disclosure appears to be **rational caution in the face of ambiguous policies and perceived academic risk**, not simple integrity violation. Students support guidance and structured [[regulation]], favor citation rules, and widely see real-world, data-based tasks as [[reducing-ai-misuse|reducing AI misuse]] — pointing toward [[authentic-assessment|authentic assessment]] and clear expectations over [[ai-detection|detection]] and deterrence.
 
 ## Key Findings
 
@@ -40163,7 +40163,7 @@ Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Propos
 
 ## Key Findings
 
-- **Problem framing:** The paper identifies the central tension of GAI in education — students increasingly use tools like ChatGPT, Claude, and Gemini not as learning aids but as the primary means of completing coursework — raising concerns about [[academic-integrity]], [[cognitive-offloading]], and the erosion of [[critical-thinking]]. [[plagiarism-detection|Detection-based responses]] are limited in reliability, so sustainable solutions must be [[pedagogy|pedagogical]] rather than purely technical.
+- **Problem framing:** The paper identifies the central tension of GAI in education — students increasingly use tools like ChatGPT, Claude, and Gemini not as learning aids but as the primary means of completing coursework — raising concerns about [[academic-integrity]], [[cognitive-offloading]], and the erosion of [[critical-thinking]]. [[ai-detection|Detection-based responses]] are limited in reliability, so sustainable solutions must be [[pedagogy|pedagogical]] rather than purely technical.
 - **Design assumptions:** Four premises underpin LEARN: (1) deep learning requires sustained cognitive effort that cannot be replaced by automated generation; (2) ethical AI use is cultivated through reflective, transparent processes rather than surveillance; (3) learning is optimised when design aligns with neurocognitive principles (cognitive load, reward-based motivation, social connectedness); and (4) assessment should support learning processes and reasoning traces over final products alone.
 - **Lifelong Learning:** Cultivates [[self-directed-learning|self-directed]], adaptable learners via goal setting, [[metacognition|metacognitive planning]], and personal learning portfolios; grounded in neuroplasticity and hippocampal/dopaminergic consolidation from sustained, effortful practice. Ethics operationalised through assessable learning traces (portfolios, AI-use disclosure).
 - **Engagement:** The core mechanism transforming instruction into authentic experience — involving students in designing curricula, assessments, and rubrics, and in decisions about GAI use. Grounded in prefrontal [[motivation]] networks and oxytocin-mediated social learning pathways.
@@ -41277,7 +41277,7 @@ This BJET review synthesizes 56 empirical studies on [[generative-ai|GenAI]] in 
 - [[affective-tutoring]]
 - [[automated-essay-scoring]]
 - [[curriculum-design]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[student-experience]]
 - [[administrator]]
 - [[equity-in-ai-education]]
@@ -41977,7 +41977,7 @@ The authors explicitly list four limitations: (a) the search relied on the Web o
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 - [[automated-essay-scoring]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 
 ## Connected Articles
 
@@ -42094,13 +42094,13 @@ Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026). [LLM-Generated Desig
 
 ## [Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content](https://edtechdev.github.io/aied/articles/llm-detecting-llm-generated-content-education/)
 
-As students increasingly use [[llm]]s to draft written responses and program code, this study asks whether LLMs can reliably detect their own generated content across educational task types — programming exercises, reflective writing, and short-answer questions. Using authentic student responses alongside multiple LLM-generated variants, the authors evaluate detection under varied prompting strategies and output formats. Detection proves **highly task-dependent**: it is substantially more reliable for programming tasks and longer reflective responses, but performs poorly for short-answer questions, where LLMs frequently judge their own outputs as *more* human-like than authentic student work. Prompt framing and response verbosity strongly affect detectability in reflective writing, with minor prompt variations sharply reducing accuracy, while programming detection is comparatively robust. The results highlight both the promise and the limits of LLM self-detection for [[academic-integrity]], cautioning against standalone reliance and complementing dedicated ai-detection and [[plagiarism-detection]] work. They connect to identity-detection challenges in [[socially-fluent-ai-identity-detection]] and student-side dynamics in [[student-rationalization-ai-writing]].
+As students increasingly use [[llm]]s to draft written responses and program code, this study asks whether LLMs can reliably detect their own generated content across educational task types — programming exercises, reflective writing, and short-answer questions. Using authentic student responses alongside multiple LLM-generated variants, the authors evaluate detection under varied prompting strategies and output formats. Detection proves **highly task-dependent**: it is substantially more reliable for programming tasks and longer reflective responses, but performs poorly for short-answer questions, where LLMs frequently judge their own outputs as *more* human-like than authentic student work. Prompt framing and response verbosity strongly affect detectability in reflective writing, with minor prompt variations sharply reducing accuracy, while programming detection is comparatively robust. The results highlight both the promise and the limits of LLM self-detection for [[academic-integrity]], cautioning against standalone reliance and complementing dedicated ai-detection and [[ai-detection]] work. They connect to identity-detection challenges in [[socially-fluent-ai-identity-detection]] and student-side dynamics in [[student-rationalization-ai-writing]].
 
 ## Connected Concepts
 
 - [[llm]]
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[generative-ai]]
 
 ## Connected Articles
@@ -42201,7 +42201,7 @@ LLM-generated educational questions show varying cognitive depth; models excel a
 - [[ai-ed-evaluation]]
 - [[human-in-the-loop-ai]]
 - [[cs-education]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[open-source]]
 - [[assessment]]
 - [[generative-ai]]
@@ -43410,7 +43410,7 @@ Across several GPT (3.5/4/5) and Llama (2/3/4) models, agreement between [[autom
 1. **Not suitable for high-stakes [[summative-assessment|summative grading]].** Systematic differences mean strong writers may be unfairly penalized while underdeveloped work goes undetected — a significant risk where grades carry direct consequences.
 2. **A useful [[formative-assessment|formative]] first-pass tool.** The coherence between scores and feedback supports a role in guiding student revision: generating [[feedback]] on drafts, flagging surface errors, and identifying essays needing closer attention — while keeping the [[human-in-the-loop-ai|human as the final judge]].
 3. **Prioritize [[feedback]] over the numeric score.** Since LLM scores are less reliable at the extremes, educators should favor the generated feedback and apply simple calibration strategies (e.g., adjusting for essay length or surface errors).
-4. **[[privacy|Privacy]] and consent are essential.** Processing student essays via commercial APIs may violate FERPA/GDPR; student data could be used for model training or later flagged as AI-generated by [[plagiarism-detection|plagiarism detectors]]. [[open-source|Open-source]] models running locally are a more [[privacy]]-preserving option. Students should be informed when LLMs are involved in evaluating their work.
+4. **[[privacy|Privacy]] and consent are essential.** Processing student essays via commercial APIs may violate FERPA/GDPR; student data could be used for model training or later flagged as AI-generated by [[ai-detection|plagiarism detectors]]. [[open-source|Open-source]] models running locally are a more [[privacy]]-preserving option. Students should be informed when LLMs are involved in evaluating their work.
 
 g their work.
 
@@ -45504,7 +45504,7 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[reducing-ai-misuse]]
 - [[student-experience]]
 - [[ai-misuse-learning-harm]]
@@ -47729,7 +47729,7 @@ Ivanova, T. (2026). *[Ontology-based layered hybrid AI-driven knowledge model fo
 
 > **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of ChatGPT are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
 
-Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[plagiarism-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
+Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[ai-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
 
 ## Method
 
@@ -47755,7 +47755,7 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[privacy]]
 - [[student-experience]]
 - [[ai-anxiety-and-stress]]
@@ -51466,7 +51466,7 @@ Wang, Y., Zhang, Z. J., & Zou, D. (2026). [*Multimodality and Social Interaction
 
 ## The validity problem GenAI creates
 
-GenAI's advanced capability to produce extended works leads to GenAI-assisted [[plagiarism-detection|plagiarism]] ('Aigiarism'), making it challenging to determine whether students' work is their own and compromising assessment validity — since it becomes impossible to identify whether students have met course standards. AI detection was rapidly promoted as a remedy, but detection is now "all but impossible" and surveillance-focused responses can harm the relational dimension of assessment ([[trust]] between students and institutions). Structural assessment redesign is a more robust and pragmatic response, though the literature offers few clear methods — a gap this paper addresses.
+GenAI's advanced capability to produce extended works leads to GenAI-assisted [[ai-detection|plagiarism]] ('Aigiarism'), making it challenging to determine whether students' work is their own and compromising assessment validity — since it becomes impossible to identify whether students have met course standards. AI detection was rapidly promoted as a remedy, but detection is now "all but impossible" and surveillance-focused responses can harm the relational dimension of assessment ([[trust]] between students and institutions). Structural assessment redesign is a more robust and pragmatic response, though the literature offers few clear methods — a gap this paper addresses.
 
 ## The assessment twins concept
 
@@ -51498,7 +51498,7 @@ Assessment twins offer a practical, validity-driven complement to the wiki's [[a
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[educational-policy-ai]]
 - [[theory-development-aied]]
 
@@ -51809,7 +51809,7 @@ Five institutional supports consistently emerge as readiness enablers: access to
 
 ## Assessment, Integrity, and Governance Responses
 
-Assessment is the decisive readiness frontier. Global faculty evidence shows 54% believe evaluation methods require significant change, and preferences tilt toward AI-permitted-with-disclosure regimes rather than blanket bans or mandatory AI use (Digital Education Council, 2025). Peer-reviewed syntheses argue higher education [[assessment]] should shift toward [[self-regulated-learning|self-regulated]], [[authentic-assessment|authentic]], and process-rich tasks rather than product-only evaluation (Xia et al., 2024). Crucially, detection-centred [[academic-integrity]] regimes face empirical and ethical constraints: OpenAI discontinued its classifier after reporting false positives, detector evaluations document inconsistent performance, and GPT detectors are biased against [[multilingual-learning|non-native English writers]], raising [[equity-in-ai-education|equity]] and due-process concerns (OpenAI, 2023; Elkhatat et al., 2023; Liang et al., 2023). This supports shifting away from punitive [[plagiarism-detection|detection]] and [[remote-proctoring|surveillance]] tooling toward transparent policy, [[ai-literacy|student AI literacy]], and evidence-rich adjudication.
+Assessment is the decisive readiness frontier. Global faculty evidence shows 54% believe evaluation methods require significant change, and preferences tilt toward AI-permitted-with-disclosure regimes rather than blanket bans or mandatory AI use (Digital Education Council, 2025). Peer-reviewed syntheses argue higher education [[assessment]] should shift toward [[self-regulated-learning|self-regulated]], [[authentic-assessment|authentic]], and process-rich tasks rather than product-only evaluation (Xia et al., 2024). Crucially, detection-centred [[academic-integrity]] regimes face empirical and ethical constraints: OpenAI discontinued its classifier after reporting false positives, detector evaluations document inconsistent performance, and GPT detectors are biased against [[multilingual-learning|non-native English writers]], raising [[equity-in-ai-education|equity]] and due-process concerns (OpenAI, 2023; Elkhatat et al., 2023; Liang et al., 2023). This supports shifting away from punitive [[ai-detection|detection]] and [[remote-proctoring|surveillance]] tooling toward transparent policy, [[ai-literacy|student AI literacy]], and evidence-rich adjudication.
 
 ## The Readiness Misalignment Pathway
 
@@ -51821,7 +51821,7 @@ EPIQ operationalizes readiness through a dashboard of threshold indicators acros
 
 ## Implications
 
-This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centred [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[plagiarism-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[faculty-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
+This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centred [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[ai-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[faculty-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
 
 ## Connected Concepts
 
@@ -51834,7 +51834,7 @@ This framework reframes readiness as a multidimensional sociotechnical condition
 - [[instructional-design]]
 - [[governance]]
 - [[educational-policy-ai]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 
 ## Connected Articles
 
@@ -52616,7 +52616,7 @@ The findings suggest that prevailing responses to AI use — particularly those 
 - [[student-experience]]
 - [[cs-education]]
 - [[affective-computing]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[well-being]]
@@ -53666,7 +53666,7 @@ Lucas, C., Tsai, C.-H., Bihani, A., & Sarker, J. (2026). [*Towards SocratiCode: 
 5. The paper positions Unicode perturbations as a "minimal probe," not a deployment-ready solution, opening a research agenda on practical, transparent, and policy-aware AI code handoff.
 
 ## Discussion
-The paper's conceptual contribution is to broaden how we evaluate AI coding assistants: not only by the code they generate but by how they mediate the transfer of that code into artifacts. This shifts the [[academic-integrity|integrity]] conversation in programming education away from blunt detection-and-punish toward design interventions that shape the [[cognitive-offloading|cognitive offloading]] boundary. Soft barriers preserve the legitimate use of AI assistance while creating a friction point that forces learners to engage with the code they are adopting — a form of [[scaffolding|scaffolded]] [[student-engagement|engagement]] rather than blanket restriction. The work connects directly to debates about when [[ai-literacy|AI literacy]] should mean fluent delegation versus deliberate understanding, and offers an empirically grounded alternative to copy-paste [[plagiarism-detection|detection]].
+The paper's conceptual contribution is to broaden how we evaluate AI coding assistants: not only by the code they generate but by how they mediate the transfer of that code into artifacts. This shifts the [[academic-integrity|integrity]] conversation in programming education away from blunt detection-and-punish toward design interventions that shape the [[cognitive-offloading|cognitive offloading]] boundary. Soft barriers preserve the legitimate use of AI assistance while creating a friction point that forces learners to engage with the code they are adopting — a form of [[scaffolding|scaffolded]] [[student-engagement|engagement]] rather than blanket restriction. The work connects directly to debates about when [[ai-literacy|AI literacy]] should mean fluent delegation versus deliberate understanding, and offers an empirically grounded alternative to copy-paste [[ai-detection|detection]].
 
 ## Connected Concepts
 - [[cs-education]]
@@ -53675,7 +53675,7 @@ The paper's conceptual contribution is to broaden how we evaluate AI coding assi
 - [[llm]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[scaffolding]]
 - [[instructional-design]]
 - [[cs-education|programming education]]
@@ -53785,7 +53785,7 @@ Song, Y., de Barba, P., & Oliveira, E. (2026). *GenAI as a learning partner: Sup
 
 As [[generative-ai]] permeates education, a divide has emerged between those reaping a 'productivity dividend' and those facing cognitive collapse through invisible [[cognitive-offloading]]. The paper situates this in Further Education, where marginalised learners carry overlapping burdens that an unregulated AI environment can intensify rather than relieve. [[human-ai-collaboration|Human-AI collaboration]] rewards those already equipped with the cognitive stability, linguistic fluency, and cultural capital to work with machine systems, while for learners under Mars Gravity the open-ended, high-ambiguity AI interface demands initiative and [[self-regulated-learning|self-direction]] that are precisely the capacities compromised under pressure.
 
-The 'homework apocalypse' — a collapse in assessment authenticity driven by invisible offloading and AI-assisted substitution — has produced a policing climate in which teachers risk shifting from educators to detectives and students develop 'flagxiety,' an anxiety induced by fear of unreliable [[plagiarism-detection|AI detector]] allegations. Neurodivergent students face the additional challenge that their cognitive uniqueness can be interpreted as misconduct. For FET learners navigating compounded pressures, neither trajectory is viable without a stabilising intervention, and the challenge is framed as environmental rather than merely technological.
+The 'homework apocalypse' — a collapse in assessment authenticity driven by invisible offloading and AI-assisted substitution — has produced a policing climate in which teachers risk shifting from educators to detectives and students develop 'flagxiety,' an anxiety induced by fear of unreliable [[ai-detection|AI detector]] allegations. Neurodivergent students face the additional challenge that their cognitive uniqueness can be interpreted as misconduct. For FET learners navigating compounded pressures, neither trajectory is viable without a stabilising intervention, and the challenge is framed as environmental rather than merely technological.
 
 ## Mars Gravity and the Sovereign Hive
 
@@ -53933,7 +53933,7 @@ The taxonomy organizes the full spectrum of AI in educational leadership into te
 - **Administrative Efficiency** — automated scheduling, data-driven decision support, HR/enrollment analytics, budget forecasting, dropout-risk prediction. AI scheduling has been reported to cut administrative workload by up to 40%, and enrollment systems to predict patterns with >85% accuracy.
 - **Personalized Learning** — [[adaptive-learning]] platforms, [[intelligent-tutoring]] systems, [[learning-analytics]], virtual tutors that adjust content difficulty in real time.
 - **Enhancing Teaching Practices** — AI in [[curriculum-design]], teacher professional development, intelligent classroom management, and real-time [[feedback]] on classroom dynamics.
-- **Decision-Making and Policy Formulation** — predictive analytics, sentiment analysis, ethical/equity decision support, and bias [[plagiarism-detection|detection]], supporting [[educational-policy-ai]].
+- **Decision-Making and Policy Formulation** — predictive analytics, sentiment analysis, ethical/equity decision support, and bias [[ai-detection|detection]], supporting [[educational-policy-ai]].
 - **Student Support Services** — AI-based career counseling, mental health analytics, early warning systems, and 24/7 AI [[conversational-ai|chatbots]].
 - **Organizational Leadership and Strategic Planning** — strategic resource allocation, trend forecasting, and risk/crisis management.
 - **Governance and Compliance** — regulatory compliance monitoring, fraud detection, and data integrity, tied to [[governance]].
@@ -54044,7 +54044,7 @@ The review used a PICO-framed research question ("What is the role of AI in infl
 The review documents AI's **dual role**:
 
 - **As a threat:** Students use generative AI (ChatGPT, Google Bard, Writesonic, Jasper, Wordtune, automated paraphrasing tools) to complete assignments, reducing originality and risking the credibility of qualifications. Non-native English speakers show a high tendency to breach integrity when struggling to write in English.
-- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; online proctoring systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that plagiarism-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
+- **As a detection tool:** Most institutions use **Turnitin** (similarity + AI content rate) integrated into learning management systems; online proctoring systems and cameras are used for exam monitoring. However, the review cautions that a low AI content rate may be a false positive, and that ai-detection tools are unreliable for AI-generated work — institutions should not rely on them alone.
 
 ### Detection is an industry, not a solution
 
@@ -54066,7 +54066,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Implications for AI in Education
 
-- **Detection is necessary but insufficient.** The review reinforces the wiki's [[plagiarism-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
+- **Detection is necessary but insufficient.** The review reinforces the wiki's [[ai-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
 - **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the wiki's [[authentic-assessment]] and [[assessment]] literature.
 - **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
 - **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
@@ -54074,7 +54074,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[assessment]]
 - [[generative-ai]]
 - [[ai-misuse-learning-harm]]
@@ -55070,7 +55070,7 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[ethics]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[metacognition]]
 - [[student-experience]]
 - [[educational-policy-ai]]
@@ -56674,7 +56674,7 @@ Esteban U. Vega Barajas (2026). [A Durability and Cross-Language Transfer Benchm
 
 ## The Condition and the Redesign
 
-An introductory AI course now has a peculiar property: the subject of the course can do the work of the course. A student in CSS 382 can paste a project specification into a chatbot and receive, in seconds, a working solution to the search assignment, the reinforcement-learning assignment, or the reflection meant to accompany them. Pisan rejects both common responses as inadequate. The first is to ban the tools and police their use — it fails because [[plagiarism-detection|detection]] is unreliable, the ban is unenforceable in any honest sense, and it trains students against the way they will work everywhere else. The second is to hand the syllabus to the tools — it graduates students who can prompt a model and cannot judge what it returns. The position of the paper is a third one: teach the classical material in a world that contains the tools, rebuild [[assessment]] around work that resists [[reducing-ai-misuse|unattributed automation]], and give students a share of authorship over the rules that govern the tools, including the instructor's own use of them.
+An introductory AI course now has a peculiar property: the subject of the course can do the work of the course. A student in CSS 382 can paste a project specification into a chatbot and receive, in seconds, a working solution to the search assignment, the reinforcement-learning assignment, or the reflection meant to accompany them. Pisan rejects both common responses as inadequate. The first is to ban the tools and police their use — it fails because [[ai-detection|detection]] is unreliable, the ban is unenforceable in any honest sense, and it trains students against the way they will work everywhere else. The second is to hand the syllabus to the tools — it graduates students who can prompt a model and cannot judge what it returns. The position of the paper is a third one: teach the classical material in a world that contains the tools, rebuild [[assessment]] around work that resists [[reducing-ai-misuse|unattributed automation]], and give students a share of authorship over the rules that govern the tools, including the instructor's own use of them.
 
 CSS 382 is a one-quarter undergraduate course that Pisan has taught since 2023 as a gateway to the program's 400-level machine learning sequence. The Spring 2026 section enrolled forty-six students over a ten-week quarter, with content squarely classical: search, adversarial search, Markov decision processes, reinforcement learning, and natural language, taught through the Berkeley Pac-Man project lineage. Three differences distinguish the 2026 offering from 2023. First, examinations disappeared, replaced by in-class exercises, weekly projects, and a team project carrying forty percent of the grade. Second, the content grew rather than shrank: the classical projects remained, and a strand was added in which students build a language model from scratch, on the reasoning that if students are required to use a tool, they should also be required to understand how it works. Third, and most consequential for daily teaching, the policy on AI inverted — the 2023 syllabus did not mention AI tools and treated viewing another student's code or posting solutions publicly as misconduct, while the 2026 syllabus expected and encouraged AI use in all work, with one boundary that carried great weight: AI may write code, but reflections must be the student's own voice.
 
@@ -57518,7 +57518,7 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[formative-assessment]]
 - [[automated-essay-scoring]]
 - [[student-experience]]
@@ -58593,7 +58593,7 @@ Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriFo
 ## Implications
 
 - **Create clear, consistent, transparent AI policies** developed collaboratively with students — punitive or vague policies motivate concealment rather than openness.
-- **Train faculty to build trust, not rely on detection.** Faculty should learn trust-building conversations rather than leaning on unreliable [[plagiarism-detection|AI detection]] tools; disclosure should never be followed by accusation.
+- **Train faculty to build trust, not rely on detection.** Faculty should learn trust-building conversations rather than leaning on unreliable [[ai-detection|AI detection]] tools; disclosure should never be followed by accusation.
 - **Reframe disclosure as collaborative, not confession** — invite students to articulate how and why they used GenAI, positioning it as part of learning rather than misconduct.
 - **Watch for [[equity-in-ai-education|equity]] and irony:** students who are most transparent may be disproportionately scrutinized, undermining the very trust disclosure is meant to build.
 
@@ -59274,7 +59274,7 @@ Wang, H., & Shan, W. (2026). [*The safety gap: restoring productive struggle thr
 
 The theoretical model integrates two cognitive responses available to students interacting with GenAI:
 
-- **Cognitive vigilance** — systematic critical evaluation of AI content (error [[plagiarism-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
+- **Cognitive vigilance** — systematic critical evaluation of AI content (error [[ai-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
 - **Cognitive offloading** — strategic delegation of cognitive tasks (summarization, synthesis, drafting, data analysis) to the AI, grounded in metacognitive frameworks of external cognition. Partnership reframes this from intellectual abdication to strategic resource management.
 
 The findings show both pathways positively associate with transformative learning, resolving the theoretical tension between delegation-as-erosion and [[student-engagement|engagement]]-as-enhancement. Efficiency orientation positively moderates the partnership→offloading link and (in this configurational analysis) does not uniformly suppress vigilance.
@@ -59642,7 +59642,7 @@ The prototype evaluated six LLMs on the RiceChem ALAG benchmark; GLM-4-9B-chat l
 
 ## Relevance to the wiki
 
-This paper extends the wiki's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[plagiarism-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the wiki's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
+This paper extends the wiki's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the wiki's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
 
 ## Connected Concepts
 
@@ -59929,7 +59929,7 @@ The framework integrates Beard's experiential learning sequence (concrete experi
 
 ## Implications for AI in Education
 
-- **From detection to design:** Rather than relying on unreliable [[plagiarism-detection|AI-detection]] and punitive approaches, the paper advocates designing [[authentic-assessment|authentic]], scaffolded assessments that embed [[generative-ai|GenAI]] explicitly, extending Perkins et al.'s Artificial Intelligence Assessment Scale (Level 4: "AI Task Completion, Human Evaluation") by adding a process dimension — explicit classroom activities that build the ethical reasoning underpinning disclosure decisions.
+- **From detection to design:** Rather than relying on unreliable [[ai-detection|AI-detection]] and punitive approaches, the paper advocates designing [[authentic-assessment|authentic]], scaffolded assessments that embed [[generative-ai|GenAI]] explicitly, extending Perkins et al.'s Artificial Intelligence Assessment Scale (Level 4: "AI Task Completion, Human Evaluation") by adding a process dimension — explicit classroom activities that build the ethical reasoning underpinning disclosure decisions.
 - **Values as a bridge to assessable competencies:** Clear rubrics that express high-level values (e.g., disclosure) in discrete, assessable terms provide students a bridge between [[ethics|ethical principles]] and concrete competencies such as statements addressing conflict of interest or omission of sources.
 - **Transferable framework beyond journalism:** The core elements — four values, experiential sequencing, and the values–processes–competencies model — are deliberately high-level and adaptable to other disciplines, while context-specific elements (unit [[learning-gains|learning outcomes]], local journalism codes, choice of GenAI tools) adjust per application.
 - **Educator guidance is critical:** Effective GenAI integration requires strong guidance from the [[teacher-role|lecturer/educator]]; the paper positions ethical AI use not as a discrete technical skill but as part of a broader culture of [[academic-integrity|academic quality and integrity]] embedded in [[higher-ed|higher education]].
@@ -60470,7 +60470,7 @@ Zhan, Y., Boud, D., & Du, Z. (2025). [*Designing for authentic assessment: a sco
 
 - **LLM-based tutors trade explainability for flexibility and coverage.** Unlike classical rule-based intelligent tutoring systems — which offer high explainability and predictable error-handling but limited scalability — transformer-based tutors respond flexibly to broad, open-ended inputs and novel error patterns. However, their opaque internal reasoning risks hallucinations and error propagation unless paired with guardrails or retrieval-augmented architectures, an important caveat for [[assessment]] and feedback design.
 
-- **Academic integrity demands redesigned, authentic assessments rather than detection alone.** Because plagiarism-detection software lags behind GenAI output, educators should reimagine assessment to emphasize process and creativity: version-controlled coding journals, interactive oral defenses, and AI-in-the-loop tasks where students critique and refine AI-generated drafts. These formats validate understanding and deter dishonest use while aligning with industry-relevant practice.
+- **Academic integrity demands redesigned, authentic assessments rather than detection alone.** Because ai-detection software lags behind GenAI output, educators should reimagine assessment to emphasize process and creativity: version-controlled coding journals, interactive oral defenses, and AI-in-the-loop tasks where students critique and refine AI-generated drafts. These formats validate understanding and deter dishonest use while aligning with industry-relevant practice.
 
 - **Algorithmic bias can perpetuate inequity in high-stakes assessment.** GenAI tools trained on large public datasets encode social, cultural, and gender biases that can systematically disadvantage underrepresented students. Mitigation requires fairness-aware machine learning (re-weighting, counterfactual fairness, differential privacy), explainable AI, ethics-by-design frameworks, and proactive auditing — i.e., sustained [[bias-mitigation]] rather than one-off fixes.
 

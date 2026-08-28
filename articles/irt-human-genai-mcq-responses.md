@@ -12,7 +12,7 @@ confidence: high
 
 ## Core Finding
 
-Person-fit statistics grounded in [[item-response-theory|IRT]] can reliably separate GenAI from human responses to multiple-choice questions, because chatbot response patterns exhibit systematic "aberrance" relative to IRT models fitted on human data. Yet the method has a clear boundary condition: **separation diminishes as the proportion of GenAI responses in the data rises** (from significant at 5% contamination to negligible at 25% on the quantitative instrument), since anomaly-based [[plagiarism-detection|detection]] weakens as the detected behavior becomes more typical. Separately, different chatbots form a heterogeneous group of "intelligences," and newer model generations become not only more accurate but more human-like in their response patterns.
+Person-fit statistics grounded in [[item-response-theory|IRT]] can reliably separate GenAI from human responses to multiple-choice questions, because chatbot response patterns exhibit systematic "aberrance" relative to IRT models fitted on human data. Yet the method has a clear boundary condition: **separation diminishes as the proportion of GenAI responses in the data rises** (from significant at 5% contamination to negligible at 25% on the quantitative instrument), since anomaly-based [[ai-detection|detection]] weakens as the detected behavior becomes more typical. Separately, different chatbots form a heterogeneous group of "intelligences," and newer model generations become not only more accurate but more human-like in their response patterns.
 
 ## The Theoretical Rationale
 

@@ -31,7 +31,7 @@ Five institutional supports consistently emerge as readiness enablers: access to
 
 ## Assessment, Integrity, and Governance Responses
 
-Assessment is the decisive readiness frontier. Global faculty evidence shows 54% believe evaluation methods require significant change, and preferences tilt toward AI-permitted-with-disclosure regimes rather than blanket bans or mandatory AI use (Digital Education Council, 2025). Peer-reviewed syntheses argue higher education [[assessment]] should shift toward [[self-regulated-learning|self-regulated]], [[authentic-assessment|authentic]], and process-rich tasks rather than product-only evaluation (Xia et al., 2024). Crucially, detection-centred [[academic-integrity]] regimes face empirical and ethical constraints: OpenAI discontinued its classifier after reporting false positives, detector evaluations document inconsistent performance, and GPT detectors are biased against [[multilingual-learning|non-native English writers]], raising [[equity-in-ai-education|equity]] and due-process concerns (OpenAI, 2023; Elkhatat et al., 2023; Liang et al., 2023). This supports shifting away from punitive [[plagiarism-detection|detection]] and [[remote-proctoring|surveillance]] tooling toward transparent policy, [[ai-literacy|student AI literacy]], and evidence-rich adjudication.
+Assessment is the decisive readiness frontier. Global faculty evidence shows 54% believe evaluation methods require significant change, and preferences tilt toward AI-permitted-with-disclosure regimes rather than blanket bans or mandatory AI use (Digital Education Council, 2025). Peer-reviewed syntheses argue higher education [[assessment]] should shift toward [[self-regulated-learning|self-regulated]], [[authentic-assessment|authentic]], and process-rich tasks rather than product-only evaluation (Xia et al., 2024). Crucially, detection-centred [[academic-integrity]] regimes face empirical and ethical constraints: OpenAI discontinued its classifier after reporting false positives, detector evaluations document inconsistent performance, and GPT detectors are biased against [[multilingual-learning|non-native English writers]], raising [[equity-in-ai-education|equity]] and due-process concerns (OpenAI, 2023; Elkhatat et al., 2023; Liang et al., 2023). This supports shifting away from punitive [[ai-detection|detection]] and [[remote-proctoring|surveillance]] tooling toward transparent policy, [[ai-literacy|student AI literacy]], and evidence-rich adjudication.
 
 ## The Readiness Misalignment Pathway
 
@@ -43,7 +43,7 @@ EPIQ operationalizes readiness through a dashboard of threshold indicators acros
 
 ## Implications
 
-This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centred [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[plagiarism-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[faculty-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
+This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centred [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[ai-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[faculty-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
 
 ## Connected Concepts
 
@@ -56,7 +56,7 @@ This framework reframes readiness as a multidimensional sociotechnical condition
 - [[instructional-design]]
 - [[governance]]
 - [[educational-policy-ai]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 
 ## Connected Articles
 

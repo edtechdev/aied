@@ -47,7 +47,7 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[reducing-ai-misuse]]
 - [[student-experience]]
 - [[ai-misuse-learning-harm]]

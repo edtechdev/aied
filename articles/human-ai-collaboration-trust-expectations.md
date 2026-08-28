@@ -37,7 +37,7 @@ The authors note that the rapid evolution of GenAI makes it difficult to separat
 - [[student-experience]]
 - [[ai-literacy]]
 - [[human-in-the-loop-ai]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[human-ai-collaboration]]
 - [[trust]]
 - [[generative-ai]]

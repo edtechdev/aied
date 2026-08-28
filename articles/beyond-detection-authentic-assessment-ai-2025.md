@@ -12,7 +12,7 @@ confidence: high
 
 ## The case against detection
 
-[[plagiarism-detection|Detection]]-led responses face well-documented limits: [[assessment-validity|validity]] and fairness failures (bias against non-native writers), notable error rates, erosion of trust, and distraction from assessment design. Detection should be a **limited, situational tool — not a strategy of first resort**. The constructive question is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Excluding AI from assessment creates an *inauthentic* scenario: the authentic professional justifies when, how, and why they use tools, and critically evaluates their outputs.
+[[ai-detection|Detection]]-led responses face well-documented limits: [[assessment-validity|validity]] and fairness failures (bias against non-native writers), notable error rates, erosion of trust, and distraction from assessment design. Detection should be a **limited, situational tool — not a strategy of first resort**. The constructive question is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Excluding AI from assessment creates an *inauthentic* scenario: the authentic professional justifies when, how, and why they use tools, and critically evaluates their outputs.
 
 ## Authenticity as a four-dimensional continuum
 
@@ -45,7 +45,7 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 
 - [[authentic-assessment]]
 - [[assessment-validity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[academic-integrity]]
 - [[assessment]]
 - [[generative-ai]]
