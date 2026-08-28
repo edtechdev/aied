@@ -75,3 +75,4 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
 - [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)

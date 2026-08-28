@@ -40,8 +40,8 @@ confidence: high
 - [[metacognition]]
 - [[learning-theories]]
 - [[ai-education]]
+- [[sustainability]]
 
-## Connected Articles
 
 - [[ensemble-cognition-philosophy-ai-education]] — Reconceptualising agency and mind in AI-mediated educational environments
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading, and the future of critical thinking

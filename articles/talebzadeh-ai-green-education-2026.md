@@ -34,8 +34,8 @@ The finding aligns with [[genai-can-harm-teaching-rct-2026]] research showing th
 - [[scaffolding]]
 - [[ai-education]]
 - [[higher-ed]]
+- [[sustainability]]
 
-## Connected Articles
 
 - [[genai-can-harm-teaching-rct-2026]] — Is Using GenAI Tools in Teaching Really Improving Teaching Quality?
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: RL Teaching

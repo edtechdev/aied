@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-28 | **Total entries:** 1094
+**Last updated:** 2026-08-28 | **Total entries:** 1099
 
 ## "2026-08-28
 
@@ -14,6 +14,15 @@
   TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education
 - ◐ [[reclaiming-epistemic-agency-co-agency-2026]] — 'raw/papers/2608.26937.md'
   Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education
+
+- ◐ [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 'raw/papers/alsuhaymi-sustainable-education-ai-digitalization-2026.md'
+  Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach
+- ◐ [[liu-ai-sustainable-engineering-education-2026]] — 'raw/papers/liu-ai-sustainable-engineering-education-2026.md'
+  Enhancing Sustainability Consciousness in Higher Education: Impacts of AI-Integrated Sustainable Engineering Education
+- ◐ [[daniel-ai-sustainability-scoping-review-2026]] — 'raw/papers/daniel-ai-sustainability-scoping-review-2026.md'
+  A Scoping Review of AI for Sustainability and Sustainable AI in Higher Education
+- ◐ [[riandi-teacher-ai-green-energy-education-2026]] — 'raw/papers/riandi-teacher-ai-green-energy-education-2026.md'
+  Teacher Involvement in Developing Sustainable Education Materials for AI Integration in Green Energy Education
 
 ## "2026-08-27
 
