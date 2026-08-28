@@ -59,4 +59,4 @@ confidence: high
 
 ## Citation
 
-Bozkurt, A., Crompton, H., & Fell Kurban, C. (2026). [*The Devil is in the Det[ai]ls: AI agents, ghost students, and the crisis of verified presence in an agentic AI world*](https://doi.org/10.55982/openpraxis.18.1.1145). *Open Praxis*, 18(1), 1–12. DOI 10.55982/openpraxis.18.1.1145.
+Bozkurt, A., Crompton, H., & Fell Kurban, C. (2026). [*The Devil is in the Det[ai]ls: AI agents, ghost students, and the crisis of verified presence in an agentic AI world*](https://doi.org/10.55982/openpraxis.18.1.1145). *Open Praxis*, 18(1).

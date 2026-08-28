@@ -49,4 +49,5 @@ This paper makes the case that the responsible integration of [[generative-ai|ge
 
 ## Citation
 
-Zhan, S., & Chapman, E. (2026). [Harnessing generative artificial intelligence in computer science education: Pedagogical innovation, ethical responsibility, and the future of assessment](https://doi.org/10.53761/wakxak53). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/wakxak53
+Zhan, S., & Chapman, E. (2026). [Harnessing generative artificial intelligence in computer science education: Pedagogical innovation, ethical responsibility, and the future of assessment](https://doi.org/10.53761/wakxak53) . *Journal of University Teaching and Learning Practice*, 23(5).
+

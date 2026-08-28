@@ -57,4 +57,4 @@ confidence: high
 
 ## Citation
 
-Taylor, T. B., & LaCroix, T. (2026). [*Purpose before policy: Academic integrity, generative AI, and rhetorical stance*](https://doi.org/10.1007/s10734-026-01706-1). *Higher Education*. https://doi.org/10.1007/s10734-026-01706-1
+Taylor, T. B., & LaCroix, T. (2026). [*Purpose before policy: Academic integrity, generative AI, and rhetorical stance*](https://doi.org/10.1007/s10734-026-01706-1). *Higher Education*.

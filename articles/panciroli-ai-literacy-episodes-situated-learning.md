@@ -65,4 +65,5 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 
 ## Citation
 
-Panciroli, C., Allegra, M., Gentile, M., & Rivoltella, P. C. (2023). [*Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning*](https://doi.org/10.2760/115376). *CEUR Workshop Proceedings* (Ital-IA 2023). doi:10.2760/115376.
+Panciroli, C., Allegra, M., Gentile, M., & Rivoltella, P. C. (2023). [*Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning*](https://doi.org/10.2760/115376) . *CEUR Workshop Proceedings* (Ital-IA 2023).
+

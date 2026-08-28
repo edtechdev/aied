@@ -54,4 +54,4 @@ confidence: high
 
 ## Citation
 
-Chan, C. K. Y. (2026). [*Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning*](https://doi.org/10.1016/j.compedu.2026.105698). *Computers & Education*, 253, 105698. DOI 10.1016/j.compedu.2026.105698.
+Chan, C. K. Y. (2026). [*Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning*](https://doi.org/10.1016/j.compedu.2026.105698). *Computers & Education*, 253, 105698.

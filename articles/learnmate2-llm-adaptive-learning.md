@@ -47,4 +47,5 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 
 ## Citation
 
-Wang, X. J., Lee, C. P., & Mutlu, B. (2026). [LearnMate^2: Design and evaluation of an LLM-powered personalized and adaptive support system for online learning](https://arxiv.org/abs/2605.06257). https://doi.org/10.1145/3800645.3812972
+Wang, X. J., Lee, C. P., & Mutlu, B. (2026). [LearnMate^2: Design and evaluation of an LLM-powered personalized and adaptive support system for online learning](https://arxiv.org/abs/2605.06257).
+

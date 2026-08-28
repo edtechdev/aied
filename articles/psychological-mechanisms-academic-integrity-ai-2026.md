@@ -54,4 +54,4 @@ confidence: high
 
 ## Citation
 
-Yilmaz, A. (2026). [*The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence*](https://doi.org/10.3389/fpsyg.2026.1853790). *Frontiers in Psychology*, 17, 1853790. DOI 10.3389/fpsyg.2026.1853790.
+Yilmaz, A. (2026). [*The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence*](https://doi.org/10.3389/fpsyg.2026.1853790). *Frontiers in Psychology*, 17, 1853790.
