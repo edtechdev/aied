@@ -4,8 +4,9 @@
 // middle column via <slot />, so every page gets the docs chrome automatically.
 import { getCollection } from 'astro:content';
 import { conceptIndex } from '../data/conceptIndex';
+import TableOfContents from '../components/TableOfContents.astro';
 
-const { title = 'AI Ed Wiki', description = 'AI in Education Wiki', hideHeaderSearch = false } = Astro.props;
+const { title = 'AI Ed Wiki', description = 'AI in Education Wiki', hideHeaderSearch = false, toc = [] } = Astro.props;
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
@@ -503,6 +504,22 @@ const recentConcepts = concepts
       text-decoration: none;
     }
     .tag-chip:hover { opacity: 0.9; color: var(--primary); }
+
+    /* Self-linking heading anchors (rendered by the markdown templates) */
+    h2[id], h3[id] { scroll-margin-top: 5rem; }
+    .heading-anchor {
+      color: var(--muted-color);
+      text-decoration: none;
+      margin-left: 0.15rem;
+      opacity: 0;
+      font-weight: 400;
+      transition: opacity 0.15s ease;
+    }
+    h2:hover .heading-anchor, h3:hover .heading-anchor,
+    .heading-anchor:focus-visible { opacity: 1; }
+    .heading-anchor::before { content: '#'; }
+    .heading-anchor:hover { color: var(--primary); }
+
     .citation {
       margin-top: 3rem;
       padding: 1rem;
@@ -636,35 +653,42 @@ const recentConcepts = concepts
 
       <!-- Middle: page content -->
       <div class="middle">
+        <TableOfContents headings={toc} variant="mobile" />
         <slot />
       </div>
 
-      <!-- Right: recent activity -->
-      <aside class="right-col" aria-label="Recent activity">
-        <section class="recent-block">
-          <h2>📄 Recently Added Articles</h2>
-          <ul class="recent-list">
-            {recentArticles.map(a => (
-              <li>
-                <a href={`/aied/articles/${a.id.replace('.md', '')}`}>{a.data.title}</a>
-                <span class="recent-date">{fmtDateTime(a.data.created)}</span>
-              </li>
-            ))}
-          </ul>
-          <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
-        </section>
+      <!-- Right: table of contents (content pages) or recent activity -->
+      <aside class="right-col" aria-label={toc.length > 0 ? "On this page" : "Recent activity"}>
+        {toc.length > 0 ? (
+          <TableOfContents headings={toc} variant="desktop" />
+        ) : (
+          <>
+            <section class="recent-block">
+              <h2>📄 Recently Added Articles</h2>
+              <ul class="recent-list">
+                {recentArticles.map(a => (
+                  <li>
+                    <a href={`/aied/articles/${a.id.replace('.md', '')}`}>{a.data.title}</a>
+                    <span class="recent-date">{fmtDateTime(a.data.created)}</span>
+                  </li>
+                ))}
+              </ul>
+              <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
+            </section>
 
-        <section class="recent-block">
-          <h2>🏷️ Recently Updated Concepts</h2>
-          <ul class="recent-list">
-            {recentConcepts.map(c => (
-              <li>
-                <a href={`/aied/concepts/${c.id.replace('.md', '')}`}>{c.data.title}</a>
-                <span class="recent-date">{fmtDateTime(c.data.updated || c.data.created)}</span>
-              </li>
-            ))}
-          </ul>
-        </section>
+            <section class="recent-block">
+              <h2>🏷️ Recently Updated Concepts</h2>
+              <ul class="recent-list">
+                {recentConcepts.map(c => (
+                  <li>
+                    <a href={`/aied/concepts/${c.id.replace('.md', '')}`}>{c.data.title}</a>
+                    <span class="recent-date">{fmtDateTime(c.data.updated || c.data.created)}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          </>
+        )}
       </aside>
     </div>
   </main>
