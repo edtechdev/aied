@@ -58,4 +58,4 @@ confidence: high
 
 ## Citation
 
-Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). [*Dramaturgies of deception: AI humanizers and the performance of legitimacy in higher education assessment*](https://arxiv.org/abs/2605.02649). Preprint, arXiv. https://arxiv.org/abs/2605.02649
+Roe, J., Perkins, M., Bannister, P., Furze, L., & Wood, J. (2026). [*Dramaturgies of deception: AI humanizers and the performance of legitimacy in higher education assessment*](https://arxiv.org/abs/2605.02649). *Preprint, arXiv*.

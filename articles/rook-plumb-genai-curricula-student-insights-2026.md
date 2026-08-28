@@ -57,5 +57,6 @@ This study is a distinctive empirical anchor showing that [[ai-literacy|AI liter
 
 ## Citation
 
-Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence into university curricula: Student insights](https://doi.org/10.53761/jjzzd330). *Journal of University Teaching and Learning Practice*, 23(2). https://doi.org/10.53761/jjzzd330
+Rook, L., & Plumb, M. (2026). [Integrating generative artificial intelligence into university curricula: Student insights](https://doi.org/10.53761/jjzzd330) . *Journal of University Teaching and Learning Practice*, 23(2).
+
 

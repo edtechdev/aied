@@ -55,4 +55,4 @@ confidence: high
 
 ## Citation
 
-López-López, E. M., Bru-Cordero, O. E., & Correa-Álvarez, C. D. (2026). [*Academic integrity in the age of AI: University students' study practices and ethical judgments*](https://doi.org/10.3390/higheredu5020049). *Trends in Higher Education*, 5(2), 49. DOI 10.3390/higheredu5020049.
+López-López, E. M., Bru-Cordero, O. E., & Correa-Álvarez, C. D. (2026). [*Academic integrity in the age of AI: University students' study practices and ethical judgments*](https://doi.org/10.3390/higheredu5020049). *Trends in Higher Education*, 5(2), 49.

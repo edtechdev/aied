@@ -42,4 +42,4 @@ This study contributes to scholarship on [[ethics|ethical]] GenAI use by demonst
 - [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated learning with generative AI
 
 ## Citation
-Pedlow, M., & Maldon, J. (2026). [*Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education*](https://doi.org/10.53761/39ey1895). *Journal of University Teaching and Learning Practice*, 23(5). https://doi.org/10.53761/39ey1895. CC BY-ND 4.0.
+Pedlow, M., & Maldon, J. (2026). [*Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education*](https://doi.org/10.53761/39ey1895). *Journal of University Teaching and Learning Practice*, 23(5).

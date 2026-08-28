@@ -52,4 +52,4 @@ confidence: high
 
 ## Citation
 
-Kofinas, A. K., Tsay, C. H.-H., & Pike, D. (2025). [*The impact of generative AI on academic integrity of authentic assessments within a higher education context*](https://doi.org/10.1111/bjet.13585). *British Journal of Educational Technology*, 56(6), 2522–2549. DOI 10.1111/bjet.13585.
+Kofinas, A. K., Tsay, C. H.-H., & Pike, D. (2025). [*The impact of generative AI on academic integrity of authentic assessments within a higher education context*](https://doi.org/10.1111/bjet.13585). *British Journal of Educational Technology*, 56(6).

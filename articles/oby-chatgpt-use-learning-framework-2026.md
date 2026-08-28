@@ -44,4 +44,5 @@ The framework reframes guidance on student AI use from procedural [[higher-ed|ac
 
 ## Citation
 
-Øby, E. (2026). [*Beyond task completion: A theoretical integration and framework for guiding students' ChatGPT use for learning*](https://doi.org/10.53761/5apqd333). *Journal of University Teaching and Learning Practice, 23*(5). https://doi.org/10.53761/5apqd333
+Øby, E. (2026). [*Beyond task completion: A theoretical integration and framework for guiding students' ChatGPT use for learning*](https://doi.org/10.53761/5apqd333) . *Journal of University Teaching and Learning Practice, 23*(5).
+

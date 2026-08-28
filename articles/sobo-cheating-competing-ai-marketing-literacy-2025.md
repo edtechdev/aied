@@ -56,4 +56,4 @@ confidence: high
 
 ## Citation
 
-Sobo, E. J., Goldberg, D. M., Hauze, S. W., & Frazee, J. P. (2026). [*Cheating or competing? University students' experience of AI marketing and what it means for AI literacy programming*](https://doi.org/10.1111/napa.70029). *Annals of Anthropological Practice*, 50, e70029. https://doi.org/10.1111/napa.70029
+Sobo, E. J., Goldberg, D. M., Hauze, S. W., & Frazee, J. P. (2026). [*Cheating or competing? University students' experience of AI marketing and what it means for AI literacy programming*](https://doi.org/10.1111/napa.70029). *Annals of Anthropological Practice*, 50.

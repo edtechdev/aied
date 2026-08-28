@@ -64,5 +64,6 @@ For [[ai-education|AI in education]] more broadly, this review is a strong, high
 
 ## Citation
 
-Espino, L. C., & Espino, C. L. (2026). [Mapping the integration of AI into business education: Insights from a decade of research](https://doi.org/10.53761/5yhdnk13). *Journal of University Teaching and Learning Practice*, 23(6). https://doi.org/10.53761/5yhdnk13
+Espino, L. C., & Espino, C. L. (2026). [Mapping the integration of AI into business education: Insights from a decade of research](https://doi.org/10.53761/5yhdnk13) . *Journal of University Teaching and Learning Practice*, 23(6).
+
 
