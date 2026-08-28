@@ -133,7 +133,12 @@ const has = headings.length > 0;
   .toc-list li[data-depth='3'] a { padding-left: 1.2rem; font-size: 0.8rem; }
   .toc-list li[data-depth='4'] a { padding-left: 1.8rem; font-size: 0.78rem; }
 
-  /* Hide the mobile details on wide screens (desktop aside takes over) */
+  /* Hide the desktop aside on narrow screens (mobile <details> takes over),
+     and hide the mobile details on wide screens (desktop aside takes over) —
+     mirrors Blume, where the desktop TOC only exists in the xl right rail. */
+  @media (max-width: 1279.98px) {
+    .toc-desktop { display: none; }
+  }
   @media (min-width: 1280px) {
     .toc-mobile { display: none; }
   }
