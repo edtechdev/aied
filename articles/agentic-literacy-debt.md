@@ -1,14 +1,14 @@
 ---
 title: "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named"
 created: "2026-05-28T04:33:04-04:00"
-updated: "2026-08-14"
+updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, equity, generative-ai, higher-ed, k-12, policy-maker, llm, governance, trust-calibration, ethics]
 sources: ['raw/papers/2605.27396.md']
 confidence: high
 ---
 
-> **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when agentic AI systems are deployed at scale without corresponding literacy infrastructure. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *governance* capability.
+> **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when [[agentic-ai|agentic AI]] systems are deployed at scale without corresponding [[ai-literacy|literacy infrastructure]]. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *[[governance|governance]]* capability.
 
 ## From Tool to Agent: The Assumptions That Break
 
@@ -23,17 +23,17 @@ AI literacy frameworks (Long & Magerko 2020; UNESCO 2024; MAILS; the AI Literacy
 Borrowing from software engineering's *technical debt* (and extending Ladson-Billings' "education debt" and Petrozzino's "ethical debt"), the debt compounds through three reinforcing channels:
 
 1. **Normalization of opaque delegation** — each opaque delegation habituates users to granting permissions without scrutiny, lowering the threshold for the next. Permission grants are typically inherited across sessions and rarely revoked, producing a ratchet effect that quietly expands the agent's access surface.
-2. **Multi-agent ecosystem complexity** — each new agent interacts with previously deployed agents and services, producing multi-agent chains harder to oversee than any individual system.
+2. **Multi-agent ecosystem complexity** — each new [[agentic-ai|agent]] interacts with previously deployed agents and services, producing multi-agent chains harder to oversee than any individual system.
 3. **Institutional path dependence** — organizations that skip literacy infrastructure for one deployment build no capacity to provide it for the next; retrofitting costs grow with each iteration.
 
-Unlike ethical debt (incurred at the point of *design*), agentic literacy debt is incurred at the point of **deployment** and compounds with every user interaction that occurs without adequate literacy infrastructure. Critically, it is **paid by the users, patients, consumers, and citizens the agents act upon** — an asymmetry that makes it an AI-ethics problem, not merely an educational one.
+Unlike ethical debt (incurred at the point of *design*), agentic literacy debt is incurred at the point of **deployment** and compounds with every user interaction that occurs without adequate literacy infrastructure. Critically, it is **paid by the users, patients, consumers, and citizens the agents act upon** — an asymmetry that makes it an [[ethics|AI-ethics]] problem, not merely an educational one.
 
 ## Evidence the Gap Is Already Consequential
 
-- **Security (prompt injection):** The OpenClaw "walletdrain" attacks and the EchoLeak vulnerability (CVE-2025-32711) showed agents manipulated through data channels users never see — no AI literacy curriculum teaches users to anticipate, monitor, or contest this. Indirect prompt injection is OWASP's number-one production LLM risk.
-- **Healthcare:** Agentic AI for triage/scheduling is expanding rapidly (~$538M market in 2024), yet users systematically overtrust AI medical advice despite low accuracy, and trust calibration failures carry higher stakes when agents act rather than advise.
-- **Fraud:** GenAI-enabled banking fraud losses are projected at $22–40B by 2027; attacks increasingly target the agents acting on users' behalf, bypassing the user entirely.
-- **Global equity:** Populations most exposed to the literacy gap (e.g., lower rural internet access in Asia-Pacific) are also least served by AI literacy research — no AI literacy scale has been tested for cross-cultural validity.
+- **Security ([[guardrails|prompt injection]]):** The OpenClaw "walletdrain" attacks and the EchoLeak vulnerability (CVE-2025-32711) showed agents manipulated through data channels users never see — no AI literacy [[curriculum-design|curriculum]] teaches users to anticipate, monitor, or contest this. Indirect [[guardrails|prompt injection]] is OWASP's number-one production [[llm]] risk.
+- **Healthcare:** [[agentic-ai|Agentic AI]] for triage/scheduling is expanding rapidly (~$538M market in 2024), yet users systematically overtrust AI medical advice despite low accuracy, and [[trust-calibration|trust calibration]] failures carry higher stakes when agents act rather than advise.
+- **Fraud:** [[generative-ai|GenAI]]-enabled banking fraud losses are projected at $22–40B by 2027; attacks increasingly target the agents acting on users' behalf, bypassing the user entirely.
+- **[[digital-divide|Global equity]]:** Populations most exposed to the literacy gap (e.g., lower rural internet access in Asia-Pacific) are also least served by AI literacy research — no AI literacy scale has been tested for cross-cultural validity.
 
 ## Structural, Not a Temporary Lag
 
@@ -41,16 +41,16 @@ The gap is structural because deployment speed (product cycles in months) far ou
 
 ## The Governance Reframing
 
-The EU AI Act Article 4 creates the world's first binding AI literacy obligation, yet its guidance doesn't specify what literacy means in agentic contexts. Nama argues literacy must shift from evaluative to governance — from "can you spot AI errors?" to "do you understand what you've delegated, and can you contest it?" This requires new **principal-side competencies**:
+The EU AI Act Article 4 creates the world's first binding [[ai-literacy|AI literacy]] obligation, yet its guidance doesn't specify what literacy means in agentic contexts. Nama argues literacy must shift from evaluative to [[governance|governance]] — from "can you spot AI errors?" to "do you understand what you've delegated, and can you contest it?" This requires new **principal-side competencies**:
 
 - **Delegation** — understanding what authority one is granting
 - **Oversight** — monitoring and constraining agent actions
 - **Accountability attribution** — understanding who is responsible when harm occurs
 - **Attack surface awareness** — recognizing agents can be manipulated through the data they process
-- **Agent-specific informed consent** — knowing when an agent rather than a human is acting
-- **Calibrated trust** — recognizing when both undertrust and overtrust are failures of informed engagement
+- **Agent-specific [[privacy|informed consent]]** — knowing when an agent rather than a human is acting
+- **[[trust-calibration|Calibrated trust]]** — recognizing when both undertrust and overtrust are failures of informed [[student-engagement|engagement]]
 
-These are structurally new competencies, not refinements. Design defaults are literacy interventions whether or not they are intended as such; transparency-by-design, AI tutoring that simulates agentic scenarios, and contextual micro-learning at the point of risk could help close the debt — but only if user literacy is treated as a first-class design objective.
+These are structurally new competencies, not refinements. Design defaults are literacy interventions whether or not they are intended as such; transparency-by-design, [[intelligent-tutoring|AI tutoring]] that simulates agentic scenarios, and contextual micro-learning at the point of risk could help close the debt — but only if user literacy is treated as a first-class design objective.
 
 ## Implications for AI Education
 
