@@ -6,13 +6,7 @@ type: article
 tags: [benchmark, higher-ed, llm, generative-ai, student-experience, pedagogical-llm-training, automated-grading, ai-tutoring, open-source]
 sources: ['raw/papers/2605.02661.md']
 confidence: high
----
-
-# AcademiClaw: Student-Sourced AI Agent Benchmark
-
-**Yu, Lu, Si et al. (77 authors, 2026)** — Shanghai Jiao Tong University, SII, GAIR. Open-source benchmark.
-
-## Core Contribution
+---## Core Contribution
 
 **AcademiClaw** is a bilingual [[benchmark]] of **80 complex, long-horizon tasks** sourced from university students' real academic workflows — homework, research projects, competitions, and personal projects — that they found current [[agentic-ai|AI agents]] unable to solve. It extends the OpenClaw ecosystem beyond assistant-level tasks into academic-level [[ai-ed-evaluation|agent evaluation]].
 

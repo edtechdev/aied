@@ -9,7 +9,7 @@ sources: ['raw/papers/2605.04298.md']
 confidence: medium
 ---
 > Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
-# Self-Referential L2 Writing Assessment with LLMs
+
 ## Core Contribution
 Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
 ## Key Findings

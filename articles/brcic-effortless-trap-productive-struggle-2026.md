@@ -7,7 +7,6 @@ tags: [desirable-difficulties, cognitive-offloading, self-regulated-learning, sc
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
 ---
-# The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
 
 ## Summary
 

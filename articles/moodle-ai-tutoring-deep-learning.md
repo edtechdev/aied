@@ -10,8 +10,6 @@ confidence: medium
 
 > Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
 
-# AI Tutoring for Moodle: Surface to Deep Learning
-
 ## Core Contribution
 
 Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.

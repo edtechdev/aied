@@ -17,8 +17,6 @@ sources:
 confidence: high
 ---
 
-# Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives
-
 ## Summary
 
 Shang Li (2025) presents a qualitative study grounding AI integration in [[k-12|K-12]] [[stem-education|science education]] within [[situated-learning|Situated Learning Theory]] (SLT). Drawing on semi-structured interviews and open-ended questionnaires with fourteen Chinese science teachers (elementary through high school; physics, mathematics, chemistry, and general science), the study investigates how AI tools influence students' learning processes and outcomes, transform classroom interaction and social construction, and reshape teachers' pedagogical identities. Findings show that [[simulation|virtual labs, simulations]], and [[intelligent-tutoring|intelligent tutoring systems]] enhance conceptual understanding and higher-order scientific skills, cultivate scientific identity through contextualized low-risk [[inquiry-based-learning|inquiry]], and deepen [[collaborative-learning|collaborative meaning-making]]. [[teacher-role|Teachers' roles]] shift from knowledge transmitters to facilitators, co-investigators, and ethical supervisors, while teachers simultaneously voice concerns about [[cognitive-offloading|overreliance]] and the erosion of core scientific abilities. The study positions AI tools as "mediational artifacts" that extend SLT by enabling digital [[sociocultural-learning|communities of practice]] and boundary-crossing between school, real-world, and interdisciplinary contexts.

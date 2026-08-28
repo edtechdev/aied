@@ -8,8 +8,6 @@ sources: ['raw/papers/ai-supported-inquiry-photosynthesis-respiration-2026.md']
 confidence: medium
 ---
 
-# AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education
-
 > **Synthesis.** In an eight-week [[inquiry-based-learning|AI-supported guided inquiry]] intervention that integrated [[problem-based-learning|problem-based]] and design-based learning, Aydın (2026) found that 48 Turkish pre-service science teachers made significantly larger gains than a conventional-instruction control in conceptual understanding of [[biology-education|photosynthesis]] (F(1,41)=22.79, p<0.001, ηp²=0.357) and cellular respiration (F(1,44)=25.70, p<0.001, ηp²=0.369), but showed no significant change in [[ai-literacy|AI literacy]] or self-perceived [[computational-thinking|computational thinking]] skills. Qualitative reflections reported benefits for conceptual learning, inquiry, collaboration, critical evaluation of AI-generated outputs, and digital content creation, suggesting AI-supported inquiry can strengthen disciplinary learning even when broader competencies require longer or more explicit instruction.
 
 ## Key Findings

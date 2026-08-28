@@ -9,8 +9,6 @@ sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']
 confidence: high
 ---
 
-# Enhancing learner-centered feedback with AI: teachers' practices and perceptions
-
 ## Summary
 
 An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based ML model** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from teacher-written feedback and suggests them, and (2) **ChatGPT-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* AI feedback tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.

@@ -9,8 +9,6 @@ sources: ['raw/papers/2605.05598.md']
 confidence: medium
 ---
 
-# Prober.ai: Gated Inquiry Writing Feedback
-
 ## Synthesis
 
 > Prober.ai is a web-based writing environment that inverts the conventional AI-tutoring paradigm: rather than generating or rewriting student text, it constrains an LLM — OpenAI GPT-5.6 accessed through the Responses API with schema-constrained Structured Outputs — to produce only targeted, inquiry-based questions about argumentative weaknesses. A two-phase Challenge → Unlock interaction architecture implements a pedagogical friction mechanism in which revision suggestions are gated behind an intelligent reflection gate: the student's written defense is first assessed for substance and, if thin, coached rather than answered, so that cognitive effort provably precedes support. Grounded in Toulmin's argumentation theory, research on peer feedforward questioning, and evidence on AI-induced [[cognitive-offloading|cognitive debt]], the system positions the constrained LLM as a "cognitive catalyst" rather than a cognitive replacement, with a fully instrumented pipeline for controlled classroom study.

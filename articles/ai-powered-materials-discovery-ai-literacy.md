@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.09624.md']
 confidence: medium
 ---
 
-# AI-Powered Materials Discovery and AI Literacy
-
 ## Key Findings
 
 This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **human-AI collaboration competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into research workflows.

@@ -11,8 +11,6 @@ confidence: high
 
 > **Synthesis.** Niousha et al. (2026) argue that [[intelligent-tutoring|AI tutor]] evaluation, which conventionally judges only the [[pedagogy|pedagogical quality]] of feedback, is missing a critical axis: what students actually *do* with that feedback. They propose an engagement-based evaluation framework — grounded in observable revision behavior — that measures whether students act on tutor feedback and whether those actions are applied correctly. Applied to 10,235 real code submissions across two semesters of an introductory programming course at UC Berkeley, the framework reveals substantial differences between two deployed AI tutors that pedagogy-only evaluation could not distinguish. Crucially, these behavioral signals (feedback [[feedback|relevance]] and success) are more strongly associated with students' perceived helpfulness of feedback than pedagogical quality alone, offering a more complete and actionable picture of AI tutor performance.
 
-# AI Tutor Behavioral Evaluation
-
 ## Definition
 A framework for evaluating AI tutoring systems that extends beyond the pedagogical quality of feedback to measure what students actually *do* with that feedback — whether they act on it and whether they apply it correctly. Proposed by Niousha et al. (2026) based on analysis of 10,235 real student code submissions.
 

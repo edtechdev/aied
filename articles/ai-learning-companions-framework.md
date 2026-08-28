@@ -10,8 +10,6 @@ confidence: high
 
 > A design framework for LLM-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors. The framework rests on three interrelated foundations (pedagogical, adaptive, and responsible design) and argues that the LLMs now entering education were "built for work, not for learning," requiring a fundamental reconceptualisation rather than a tweak to prompting strategy.
 
-# AI Learning Companions Framework
-
 ## Definition
 A design framework for LLM-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors. The framework is built on three interrelated foundations: a pedagogical foundation (how students learn *with* AI), an adaptive foundation (how AI learns *about* students), and a responsible design foundation (transparency, accountability, inclusivity, security).
 

@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.12748.md']
 confidence: high
 ---
 
-# LLM Student Simulation and Misconception Faithfulness
-
 ## Synthesis
 
 This paper exposes a critical failure mode in using LLMs as simulated students for [[intelligent-tutoring]] development and evaluation. The authors introduce **misconception faithfulness** — the property that a simulated student holds a coherent, misconception-driven belief state and updates it *only* when feedback addresses the underlying misconception — and show that across seven LLMs (4B to 120B parameters), simulators exhibit near-zero faithfulness.

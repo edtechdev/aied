@@ -8,8 +8,6 @@ sources: ['raw/papers/2608.04166.md']
 confidence: high
 ---
 
-# Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-
 ## Core Finding
 
 Instead of designing AI agents to agree and expand, this study built an **antagonistic** design agent that enacts *constructive conflict* — actively surfacing stakeholder pushback to prompt designers to reconsider their own proposals. In a between-subjects experiment with **45 novice interaction design students** redesigning a local civic reporting website, the agent-interactive condition produced **significantly more design revisions and edits, broader consideration of conflicting stakeholder perspectives, and higher-quality final proposals** than an unsupported baseline. Notably, it moved students from *awareness* of stakeholder tension to *action*: participants in the unsupported "Self Reflection" group **never revised or deleted any ideas at all**, while those engaging the agent revised roughly 3.6× more ideas. The paper positions conflict not as friction to be removed but as a navigable space, framing well-steered antagonism as an "adversarial partner" for [[human-ai-collaboration]].

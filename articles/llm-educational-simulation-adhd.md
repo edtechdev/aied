@@ -10,8 +10,6 @@ confidence: medium
 
 > Gonnermann-Müller, Haase & Leins (2026) evaluate whether **LLM-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational research and teacher training: can simulated learners reliably represent neurodivergent students?
 
-# LLM Educational Simulations for ADHD Student Personas
-
 ## Core Contribution
 
 Gonnermann-Müller, Haase & Leins (2026) evaluate whether **LLM-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational research and teacher training: can simulated learners reliably represent neurodivergent students?
