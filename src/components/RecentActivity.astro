@@ -18,6 +18,46 @@ interface Props {
 
 const { articles, concepts } = Astro.props;
 ---
+
+<style>
+  .recent-block { margin-bottom: 2rem; }
+  .recent-block h2 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted-color);
+    margin: 0 0 0.6rem 0;
+  }
+  .recent-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .recent-list li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid var(--muted-border-color);
+  }
+  .recent-list li:last-child { border-bottom: none; }
+  .recent-list a {
+    display: block;
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: var(--color);
+    text-decoration: none;
+    line-height: 1.35;
+  }
+  .recent-list a:hover { color: var(--primary); }
+  .recent-date {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--muted-color);
+    margin-top: 0.1rem;
+  }
+  .recent-more { margin: 0.6rem 0 0 0; }
+  .recent-more a { font-size: 0.82rem; }
+</style>
+
 <section class="recent-block">
   <h2>📄 Recently Added Articles</h2>
   <ul class="recent-list">
