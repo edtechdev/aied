@@ -14,7 +14,7 @@ A language model's fluent, confident prose reads as trustworthy whether or not i
 
 ### Why trust needs calibrating
 
-Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[student-misconceptions-ai]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
+Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[misconceptions]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
 
 ### How calibration works
 
@@ -37,7 +37,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[human-ai-collaboration]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[reducing-ai-misuse]]
 - [[pedagogical-safety]]
 

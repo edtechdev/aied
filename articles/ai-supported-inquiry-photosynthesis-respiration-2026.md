@@ -18,7 +18,7 @@ confidence: medium
 2. The eight-week experimental program combined [[inquiry-based-learning|guided inquiry]], [[problem-based-learning|problem-based learning]], and design-based learning, with [[generative-ai|AI tools]] (ChatGPT, Consensus, NotebookLM, Elicit, Canva, Runway, Animaker) used as scaffolding for question formulation, experiment design, literature synthesis, and digital product creation; the control received conventional instruction with verification-focused labs.
 3. Mixed-design ANOVA yielded significant time×group interactions for conceptual understanding of photosynthesis, F(1,41)=22.79, p<0.001, ηp²=0.357, and cellular respiration, F(1,44)=25.70, p<0.001, ηp²=0.369; both remained significant after Holm correction, with adjusted post-test differences of 8.12 and 8.71 points, respectively.
 4. No significant group-by-time differences emerged for AI literacy (F(1,42)=0.740, p=0.395) or self-perceived computational thinking skills (F(1,35)=2.384, p=0.132); the AIL scale's low post-test reliability (α=0.557) constrained measurement sensitivity.
-5. Qualitative self-evaluation forms reported perceived gains in [[student-misconceptions-ai|correcting misconceptions]], digital content creation, critical evaluation of AI outputs, collaboration, and engagement, providing contextual but not confirmatory evidence.
+5. Qualitative self-evaluation forms reported perceived gains in [[misconceptions|correcting misconceptions]], digital content creation, critical evaluation of AI outputs, collaboration, and engagement, providing contextual but not confirmatory evidence.
 
 ## Design and Context
 
@@ -38,7 +38,7 @@ Qualitatively, participants reported that the activities helped them understand 
 
 ## Implications
 
-The authors argue that AI-supported inquiry can strengthen disciplinary conceptual learning even when broader competencies do not change measurably, and that the null effects likely reflect [[generative-ai|AI]] and [[computational-thinking|computational thinking]] being embedded rather than taught as explicit goals, within an eight-week window too short for standardized, self-reported gains. For [[teacher-education|science teacher education]], they recommend gradually embedding AI literacy and computational thinking into authentic disciplinary learning experiences rather than treating them as isolated technical skills, and integrating them across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses. They frame this as fostering competencies associated with sustainable science teacher education—responsible AI use tied to evidence-based [[inquiry-based-learning|inquiry]], collaboration, and critical evaluation—while acknowledging that sustainability skills were not directly measured. Methodologically, the [[constructivist]] framing and the use of reflective self-evaluation as [[formative-assessment|formative assessment]] point to design-based and inquiry pedagogies as vehicles for [[student-misconceptions-ai|conceptual change]], though the quasi-experimental intact-class design limits causal claims about AI's independent contribution.
+The authors argue that AI-supported inquiry can strengthen disciplinary conceptual learning even when broader competencies do not change measurably, and that the null effects likely reflect [[generative-ai|AI]] and [[computational-thinking|computational thinking]] being embedded rather than taught as explicit goals, within an eight-week window too short for standardized, self-reported gains. For [[teacher-education|science teacher education]], they recommend gradually embedding AI literacy and computational thinking into authentic disciplinary learning experiences rather than treating them as isolated technical skills, and integrating them across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses. They frame this as fostering competencies associated with sustainable science teacher education—responsible AI use tied to evidence-based [[inquiry-based-learning|inquiry]], collaboration, and critical evaluation—while acknowledging that sustainability skills were not directly measured. Methodologically, the [[constructivist]] framing and the use of reflective self-evaluation as [[formative-assessment|formative assessment]] point to design-based and inquiry pedagogies as vehicles for [[misconceptions|conceptual change]], though the quasi-experimental intact-class design limits causal claims about AI's independent contribution.
 
 ## Citation
 
@@ -57,7 +57,7 @@ The authors argue that AI-supported inquiry can strengthen disciplinary conceptu
 - [[scaffolding]] — design guidelines and instructor guidance
 - [[formative-assessment]] — rubric-based feedback and self-evaluation
 - [[constructivist]] — conceptual-change framing
-- [[student-misconceptions-ai]] — correcting science misconceptions
+- [[misconceptions]] — correcting science misconceptions
 
 ## Connected Articles
 

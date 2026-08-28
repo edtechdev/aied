@@ -7,7 +7,7 @@ tags: [misconceptions, conceptual-change, scaffolding, science-education, metaco
 confidence: high
 ---
 
-> **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[student-misconceptions-ai|conceptual-change]] literature of science education, refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In AI in education, refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalised dialogue, LLM-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.
+> **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[misconceptions|conceptual-change]] literature of science education, refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In AI in education, refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalised dialogue, LLM-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.
 
 ### The concept
 
@@ -20,7 +20,7 @@ In AI in education, the core finding is that the *format* and *interactivity* of
 - **AI as the corrector.** Conversational AI tutors can deliver *personalised* refutation — adapting the refutation to the learner's specific misconception on the fly, which pre-written texts cannot do. This produces stronger immediate belief change and higher engagement/confidence than static refutation ([[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen 2026]]), though effects may need spaced reinforcement to persist.
 - **AI as the generator of refutation content.** [[generative-ai|Generative AI]] can produce effective conceptual-change texts that match expert-written quality ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan 2025]]), and can generate large numbers of context-specific misconception texts cheaply — scaling misconception-based learning that would otherwise depend on educator experience ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
 - **AI-generated misconceptions as a learning resource.** Rather than viewing AI-generated misconceptions as harmful, structured peer discussion of them — a form of collaborative refutation — can promote conceptual change and critical thinking ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
-- **Complementing misconception education.** Refutation texts are a recommended strategy for correcting the conceptual misconceptions that underpin students' mistaken beliefs about AI itself (see [[student-misconceptions-ai]] and [[critical-genai-use-predictors]]).
+- **Complementing misconception education.** Refutation texts are a recommended strategy for correcting the conceptual misconceptions that underpin students' mistaken beliefs about AI itself (see [[misconceptions]] and [[critical-genai-use-predictors]]).
 
 ### Refutation text vs. related techniques
 
@@ -39,7 +39,7 @@ Refutation texts are one member of the conceptual-change toolkit, alongside anal
 For educators, refutation texts remain a reliable, low-barrier way to correct stubborn misconceptions. For those integrating AI, the evidence suggests: (1) use AI to *generate* effective refutation/conceptual-change content at scale; (2) where feasible, deliver refutation through personalised AI dialogue for stronger immediate engagement and belief change; (3) expect AI-generated misconceptions to be pedagogically useful when structured discussion is used to confront them; and (4) design for the learner — refutation effects can be concentrated in high-achieving students and moderated by epistemology and metacognition, so scaffolding and follow-up matter.
 
 ## Connected Concepts
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[scaffolding]]
 - [[metacognition]]
 - [[generative-ai]]

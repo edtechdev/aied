@@ -34,12 +34,12 @@ Rather than proposing a new system or [[benchmark]], the paper synthesizes prior
 
 ### Epistemic State Specification (E0–E4)
 
-The ESS declares what a simulated learner knows and can access at a given moment, how errors are generated, and whether and how that state changes over time — concretely: (i) the representations, knowledge elements, strategies, and resources available; (ii) the sources of systematic error such as [[student-misconceptions-ai|misconceptions]] or incomplete procedures; and (iii) any update mechanism governing state transitions. It is operationalized as a lightweight reporting label with five levels:
+The ESS declares what a simulated learner knows and can access at a given moment, how errors are generated, and whether and how that state changes over time — concretely: (i) the representations, knowledge elements, strategies, and resources available; (ii) the sources of systematic error such as [[misconceptions|misconceptions]] or incomplete procedures; and (iii) any update mechanism governing state transitions. It is operationalized as a lightweight reporting label with five levels:
 
 - **E0 – Unspecified:** no explicit epistemic constraint; outputs generated freely.
 - **E1 – Static bounded:** a fixed, pre-specified set of knowledge elements or error templates that do not change during interaction (performance at an initial competence level, without learning).
 - **E2 – Curriculum-indexed:** accessible knowledge or error patterns are updated by an external progression signal such as [[curriculum-design|curriculum]] position or a mastery variable, without an explicit model of misconception change.
-- **E3 – Misconception-structured:** an explicit, stable model of [[student-misconceptions-ai|misconceptions]], strategies, or partial procedures causally determines behavior.
+- **E3 – Misconception-structured:** an explicit, stable model of [[misconceptions|misconceptions]], strategies, or partial procedures causally determines behavior.
 - **E4 – Calibrated or learned:** state representation and transition dynamics are learned from or calibrated against human interaction data.
 
 Treating ESS as a cross-cutting declaration prevents overclaiming, enables meaningful cross-system comparison, and aligns evaluation protocols with the simulator's stated epistemic constraints — moving from E0 toward E3/E4 makes claims falsifiable (e.g., stable misconception behavior under paraphrase).

@@ -40,7 +40,7 @@ The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential g
 - [[governance]]
 - [[faculty-development]]
 - [[regulation]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 
 ## Connected Articles
 

@@ -15,7 +15,7 @@ Prior knowledge activation is one of the most robust findings in the learning sc
 
 - **It is the strongest predictor of learning.** Decades of research show that what a learner already knows correlates with learning outcomes more strongly than almost any other factor, because new information is encoded relative to existing mental models. AI systems that adapt to each learner's prior-knowledge state therefore hold particular promise for efficiency and [[transfer-of-learning|transfer]].
 - **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard [[pedagogy|instructional]] move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
-- **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[student-misconceptions-ai|misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
+- **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[misconceptions|misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
 - **It drives student modeling.** To personalize, an AI system must estimate the learner's prior-knowledge state — the basis of [[knowledge-tracing]], student modeling, and adaptive [[scaffolding]]. The quality of these estimates determines whether adaptation is genuinely helpful or misleading.
 
 ## Prior knowledge in the AI era
@@ -39,7 +39,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[constructivist]]
 - [[personalized-learning]]
 - [[student-modeling]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[icap-framework]]
 - [[knowledge-tracing]]
 - [[scaffolding]]

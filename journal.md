@@ -1056,7 +1056,7 @@
   Reducing AI Misuse
 - ◐ [[ai-misuse-learning-harm]] — ''
   AI Misuse and Learning Harm
-- ◐ [[student-misconceptions-ai]] — ''
+- ◐ [[misconceptions]] — ''
   Misconceptions about AI
 - ◐ [[ai-guided-learning-audiovideo-2026]] — 'raw/papers/2608.08990.md'
   AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques

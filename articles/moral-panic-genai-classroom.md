@@ -52,7 +52,7 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 - [[student-experience]]
 - [[ai-misuse-learning-harm]]
 - [[ai-literacy]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[higher-ed]]
 - [[authentic-assessment]]
 - [[academic-integrity]]

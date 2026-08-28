@@ -15,16 +15,16 @@ confidence: high
 - **Conceptual change text (CCT) beats interactive AI dialogue — the reverse of Corbett & Tangen (2026).** Both expert-written and AI-generated [[refutation-text|conceptual change texts]] were equally and significantly more effective at reducing misconceptions than interactive ChatGPT dialogue, which showed no significant advantage over control. This contrasts with the personalised-dialogue advantage found in [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]], likely due to differences in dialogue design (prompted vs. personalised) and domain.
 - **Expert and AI-generated CCT are comparable.** An AI-generated conceptual change text performed as well as one written by an expert — suggesting AI can produce effective [[refutation-text|refutation/conceptual-change content]].
 - **Benefits concentrated in high-achieving students.** Intervention gains were almost exclusively limited to high achievers, pointing to a [[equity-in-ai-education|equity]] concern for AI-mediated conceptual-change instruction.
-- **Individual differences moderate outcomes.** Students' personal epistemologies (justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated the results — consistent with the [[student-misconceptions-ai|misconception]] and [[metacognition]] literature.
+- **Individual differences moderate outcomes.** Students' personal epistemologies (justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated the results — consistent with the [[misconceptions|misconception]] and [[metacognition]] literature.
 - **GAI's current [[pedagogy|pedagogical]] value is as a content generator, not an interactive tutor.** The author concludes GAI's value in this context lies in producing structured-prompt content, not yet in functioning as an interactive tutor for conceptual change.
 
 ## Implications for AI in Education
 
-The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the wiki's [[refutation-text|conceptual change]], [[student-misconceptions-ai]], [[refutation-text]], and [[generative-ai]] concepts.
+The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the wiki's [[refutation-text|conceptual change]], [[misconceptions]], [[refutation-text]], and [[generative-ai]] concepts.
 
 ## Connected Concepts
 - [[refutation-text]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[stem-education]]
 - [[physics-education]]
 - [[metacognition]]

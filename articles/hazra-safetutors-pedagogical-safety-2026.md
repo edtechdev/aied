@@ -38,7 +38,7 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 - [[regulation]]
 - [[scaffolding]]
 - [[ai-misuse-learning-harm]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

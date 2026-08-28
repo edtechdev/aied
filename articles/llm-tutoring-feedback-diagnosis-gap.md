@@ -23,7 +23,7 @@ Seven models — reasoning-augmented (GPT-o3, DeepSeek-R1, Qwen3-32B) and instru
 
 ## Key Findings
 1. **Near-ceiling on optimal, collapse elsewhere:** All models classified optimal solutions almost perfectly (F1 94–99%) but struggled with valid-alternative (F1 0–76%) and incorrect (F1 4–55%) solutions.
-2. **Two pedagogically distinct failure modes:** Over-rejection — labeling valid reasoning as incorrect — discourages productive exploration, while over-validation — labeling incorrect solutions as valid — reinforces [[student-misconceptions-ai|misconceptions]]; models skewed sharply toward one extreme (e.g., LLaMA 3 at 91% over-rejection, Gemini and DeepSeek at 69–71% over-validation).
+2. **Two pedagogically distinct failure modes:** Over-rejection — labeling valid reasoning as incorrect — discourages productive exploration, while over-validation — labeling incorrect solutions as valid — reinforces [[misconceptions|misconceptions]]; models skewed sharply toward one extreme (e.g., LLaMA 3 at 91% over-rejection, Gemini and DeepSeek at 69–71% over-validation).
 3. **Failures are model-level, not informational:** Model selection explained nearly all variance (η² > 0.95, p < .001), while feedback condition, step complexity, distance to conclusion, and inference rule had negligible effects (η² < 0.01) — richer solution context did not improve diagnosis.
 4. **Diagnosis does not translate into actionable feedback:** Accurate classification rarely produced pedagogically actionable guidance; agents frequently praised solutions without identifying errors, and Judge verification often propagated rather than corrected Peer mistakes.
 

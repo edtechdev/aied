@@ -35,7 +35,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
-- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[student-misconceptions-ai|misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[misconceptions|misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
