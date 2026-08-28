@@ -255,6 +255,18 @@ const recentConceptItems = recentConcepts.map(c => ({
       padding-top: 1rem;
     }
 
+    /* Reset Pico's default <article> spacing so content pages don't have a big
+       empty gap at the top (Pico gives article a large margin/padding, and p~h1
+       adds a big margin between the type badge and the page title). */
+    article {
+      margin: 0;
+      padding: 0;
+      background: transparent;
+      box-shadow: none;
+      border-radius: 0;
+    }
+    .page-header h1 { margin-top: 0; }
+
     /* === Three-column docs layout === */
     .docs-layout {
       display: grid;
