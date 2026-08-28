@@ -8,8 +8,6 @@ sources: ['raw/papers/ai-advice-suppresses-ikt-suspension-2026.md']
 confidence: medium
 ---
 
-# AI Advice Suppresses People's Willingness to Say "I Don't Know", Even When the Advice Is Wrong and Accuracy Is Incentivized
-
 ## Core Finding
 
 In five experiments (N = 3,132; four preregistered, one direct replication), **merely having access to AI advice nearly eliminated people's willingness to suspend judgment** — to say "I don't know" — even when the AI advice was systematically wrong and accuracy was rewarded. Participants answered more questions but were correct about **a third as often** as when [[generative-ai]] was unavailable, while their **confidence nearly doubled**. The effect persisted whether advice was actively requested or automatically displayed, and monetary incentives only partly corrected it. AI access doesn't just change what people answer; it changes the metacognitive threshold at which they decide they know enough to answer.

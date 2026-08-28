@@ -6,11 +6,7 @@ type: article
 tags: [ai-literacy, equity, policy-maker, academic-integrity, higher-ed, governance, ethics, ai-education]
 sources: ['raw/papers/2607.12295.md']
 confidence: medium
----
-
-**Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026)** - George Mason University; University of Virginia. arXiv preprint.
-
-## Key Findings
+---## Key Findings
 
 - Longitudinal Twitter/X analysis maps how the public debates AI ethics concerns in [[higher-ed]] and schools over time.
 - Surfaces the ethical concerns (bias, fairness, accountability) that educators and [[educational-policy-ai]]s must address for responsible adoption.

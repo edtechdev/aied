@@ -10,8 +10,6 @@ confidence: high
 
 > **Synthesis:** This empirical study by Hao, Liu, Fan, Long, Yu, Chen & Zhang (Tsinghua University) adopts an integrated distributed cognition and co-regulation perspective to examine how college students collaborate with AI agents on complex problem-solving tasks. Through dialogue coding and cluster analysis of 173 students, it identifies three collaborative problem-solving modes — **Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE)** — and shows that the DR mode achieves the highest task performance but the lowest regulatory engagement, while the CI mode engages learners most deeply in [[self-regulated-learning|self-regulation]]. The work exposes a core tension between the efficiency of the distributed human-AI system and the depth of learners' cognitive and regulatory involvement.
 
-# Unpacking Interaction Profiles in Human-AI Collaborative Problem Solving
-
 ## From distributed cognition to human-AI collaboration
 
 The paper extends [[cognitive-offloading|distributed-cognition theory]] (Hutchins) beyond human teams into the human-AI context. Rather than treating students' use of generative AI as a monolithic behavior, it asks how cognitive work is *distributed* and *regulated* between human and AI collaborators turn-by-turn. This connects directly to the wiki's core theme of [[human-ai-collaboration]] and to [[collaborative-learning]] research on AI as a partner or mediator. Because generative AI is highly reactive to user input, the study argues, the quality of collaboration depends on how students allocate and offload cognition and whether they maintain [[metacognition|metacognitive]] oversight of the process.

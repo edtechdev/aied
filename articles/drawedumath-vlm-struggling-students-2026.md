@@ -7,7 +7,6 @@ tags: [math-education, multimodal, misconceptions, ai-ed-evaluation, educational
 sources: ['raw/papers/drawedumath-vlm-struggling-students-2026.md']
 confidence: high
 ---
-# The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
 
 ## Summary
 

@@ -11,8 +11,6 @@ confidence: high
 
 > While LLMs are increasingly used as teaching assistants, their teaching capability remains insufficiently evaluated — a critical gap in current AIED research.
 
-# TeachBench: Evaluating LLM Teaching Ability
-
 > Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.
 
 ## The Gap in LLM Evaluation

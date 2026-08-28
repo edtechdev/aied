@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.10672.md']
 confidence: high
 ---
 
-# Teacher Control of AI-Generated Mathematics Visuals
-
 ## Key Findings
 
 Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.

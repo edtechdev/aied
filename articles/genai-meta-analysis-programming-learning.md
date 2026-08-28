@@ -10,8 +10,6 @@ confidence: high
 
 > Maier, Gunzenhäuser & Schweisthal (2026) conduct a **meta-analysis synthesizing evidence** on how generative AI tools affect both programming productivity and learning outcomes. This is a **confidence: high** paper due to its synthesis design across multiple studies, addressing the central tension between short-term efficiency gains and long-term skill development.
 
-# Generative AI Meta-Analysis: Programming Productivity vs. Learning
-
 ## Core Contribution
 
 Maier, Gunzenhäuser & Schweisthal (2026) conduct a **meta-analysis synthesizing evidence** on how generative AI tools affect both programming productivity and learning outcomes. This is a **confidence: high** paper due to its synthesis design across multiple studies, addressing the central tension between short-term efficiency gains and long-term skill development.

@@ -9,8 +9,6 @@ sources: ['raw/papers/2605.24837.md']
 confidence: high
 ---
 
-# GenAI as a Design Variable: Assessment Governance Framework
-
 This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats [[generative-ai]] as a design variable within STEM assessment arguments rather than an external threat. This represents a significant evolution beyond the binary debate of 'ban AI vs. allow AI' that has dominated discussions about [[academic-integrity]] in education.
 
 ## Three Governance Stances

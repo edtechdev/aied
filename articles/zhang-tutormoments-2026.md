@@ -8,8 +8,6 @@ sources: ['raw/papers/zhang-tutormoments-2026.md']
 confidence: high
 ---
 
-# When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-
 ## Core Finding
 
 Zhang et al. (2026) introduce **TutorMoments**, a replay-based [[ai-ed-evaluation|benchmark]] that evaluates whether [[intelligent-tutoring|language-model tutors]] adapt their [[pedagogy|pedagogical]] actions to the specific learning moment — scaffolding when a student needs support, pushing for rigor when a student is ready for challenge, and avoiding over-scaffolding. Using 462 de-identified tutoring transcripts and **more than 1,500 teacher-annotated pedagogical decision points**, they find that **minimally prompted frontier LMs default toward over-scaffolding and rarely push for rigor**, even when students are demonstrably ready for a more demanding task. Because general LM development optimizes for "helpfulness," frontier models are **misaligned with the pedagogical goal of providing the right help at the right moment** — eroding [[desirable-difficulties|productive struggle]] and risking the cognitive-offloading effects documented across AI-tutoring research.

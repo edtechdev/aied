@@ -9,8 +9,6 @@ sources: ['raw/papers/liu-deris-ai-feedback-literacy-uptake.md']
 confidence: high
 ---
 
-# AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake
-
 ## Summary
 
 Liu and Deris (2025) introduce and validate the construct of **AI feedback literacy (AIFL)** — students' capacity to critically engage with, evaluate, and apply AI-generated feedback — in the context of English as a foreign language (EFL) writing in higher education. Drawing on Carless and Boud's (2018) feedback literacy framework and motivational models (self-determination theory, feedback-seeking theory, cost-value models), they developed a psychometric scale and tested it with 486 Chinese undergraduate students. Using confirmatory factor analysis, PROCESS-macro mediation modelling, and multiple regression, the authors show that AIFL significantly predicts uptake of AI-generated feedback, both directly and indirectly through motivational appraisals of perceived value and perceived cost. Behavioural engagement (practices) outperformed attitudinal disposition (attitudes) as a predictor of uptake, and AIFL development was driven by frequency of AI tool use rather than demographic background — raising equity concerns about access and opportunity in increasingly AI-mediated assessment environments.

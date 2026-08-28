@@ -6,11 +6,7 @@ type: article
 tags: [learning-analytics, intelligent-tutoring, adaptive-learning, student-experience, teacher-role, ai-literacy, adaptive-learning-systems, llm, scaffolding, visualization]
 sources: ['raw/papers/2605.17263.md']
 confidence: medium
----
-
-**Annie Yuan (2026)**. arXiv preprint (cs.HC).
-
-## Summary
+---## Summary
 
 Current AI-driven educational systems primarily rely on behavioural analytics and performance metrics, lacking the ability to model expert cognition used to interpret learner development and identify misconceptions. This paper introduces the Expert Cognition Dashboard (ECD), a cognition-centred reporting infrastructure for AI Twin-driven education systems.
 

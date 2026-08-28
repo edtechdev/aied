@@ -11,8 +11,6 @@ confidence: medium
 
 > **Authors:** Junsoo Park, Youssef Medhat, Htet Phyo Wai, Ploy Thajchayapong, Ashok K. Goel (2026) — Georgia Tech
 
-# Surfacing Isolated Learners
-
 ## What It Is
 
 An **interpretable decision layer** that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal [[assessment|assessments]].

@@ -9,8 +9,6 @@ sources: ['raw/papers/tubino-adachi-ai-automated-feedback-literacy.md']
 confidence: medium
 ---
 
-# Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool
-
 ## Core Finding
 
 **Tubino and Adachi (2022) reframe AI automated feedback tools as a vehicle for developing students' feedback literacy, not merely for reducing teacher workload.** Drawing on a Deakin University-wide T&L pilot (2021) with FeedbackFruits' AI automated feedback tool across 29 units and nearly 4,000 students, they show the tool positions feedback as a student-centred activity and affords the demonstration of several dimensions of Molloy et al.'s (2020) learning-centred framework for feedback literacy. They propose making the tool student-facing and degree-wide so students decide what and when to seek feedback on, building agency and self-regulated feedback literacy without adding teacher workload.

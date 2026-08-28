@@ -8,8 +8,6 @@ sources: ['raw/papers/penny-transition-network-analysis-efl-writing-2026.md']
 confidence: high
 ---
 
-# Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing
-
 ## Core Finding
 
 Using **Transition Network Analysis (TNA)**, this study opens the "black box" of learner-chatbot interaction in scaffolded [[english-education|EFL writing]], modeling how 119 Japanese junior-high learners moved between writing, requesting feedback, revising, and chatting across 4,651 sessions and 21,061 interactions with "Penny," a GPT-4o-powered writing chatbot. Two dominant behavioral loops emerged — a **"Revision Loop"** (feedback → successful error correction) and a **"Chat Loop"** (feedback → sustained dialogue → more feedback) — revealing that AI-scaffolded writing is a **non-linear, dialogic process**, not a linear submit-and-correct cycle. Critically, [[ai-literacy|English proficiency]] significantly shaped interaction: **high-proficiency learners engaged more in open dialogue and negotiation of meaning**, while **low-proficiency learners relied more heavily on repetitive corrective-feedback cycles** (using the "check my writing" button rather than clarifying or negotiating). This highlights the need for differentiated chatbot design that moves beyond simple error correction to foster deeper cognitive engagement for all learners.

@@ -9,8 +9,6 @@ sources: ['raw/papers/jin-genai-learning-analytics-feedback-literacy.md']
 confidence: high
 ---
 
-# Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective
-
 ## Summary
 
 Jin, Maheshi, Lai, Li, Gasevic, Chen, Charwat, Chan, Martinez-Maldonado, Gašević & Tsai (2025) examine how generative AI (GenAI) can support students' engagement with feedback through a feedback literacy lens. They piloted **PolyFeed**, a student-facing [[learning-analytics|learning analytics]] feedback tool whose two GenAI features (both running ChatGPT 3.5) were: a ChatGPT **explanation function** that reformats or explains specific educator feedback in simpler, bullet-pointed language (capped at two attempts per item), and a GenAI-powered **dashboard** visualizing common strengths and weaknesses across assessments and units, derived from students' own feedback annotations and inductive thematic coding. Data came from 18 higher-education students across information technology, education, business/economics, and engineering, spanning three phases: introductory lab sessions, in-semester trace-data use, and post hoc interviews.

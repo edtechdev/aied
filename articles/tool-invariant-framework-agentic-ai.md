@@ -8,12 +8,6 @@ sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
 ---
 
-> **Larry Engelhardt (Francis Marion University)** — *arXiv:2607.15518* [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518.
-
-**Larry Engelhardt (Francis Marion University)** — *arXiv:2607.15518* [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518.
-
-📄 arXiv full text (HTML) — open access; supplement tables (task-by-task progression, oral-defense rubric) as [ancillary PDF](https://arxiv.org/src/2607.15518v1/anc/supplement_pdf.pdf).
-
 > **Note on type:** This is a *framework / position essay* (first-person, draws on the author's teaching practice), not a controlled empirical study. Its claims are argued and illustrated, with open questions explicitly flagged as untested. It is tagged `confidence: high` for fidelity to the source and internal rigor, but the design prescriptions are the author's and largely await validation (Fall 2026 cohort).
 
 ## Summary

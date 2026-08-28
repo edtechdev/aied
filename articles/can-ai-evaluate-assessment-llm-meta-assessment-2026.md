@@ -8,8 +8,6 @@ sources: ['raw/papers/can-ai-evaluate-assessment-llm-meta-assessment-2026.md']
 confidence: medium
 ---
 
-# Can AI Evaluate Assessment?
-
 ## Core Finding
 
 Can large language models ([[llm|ChatGPT-5]] and Microsoft Copilot Pro) conduct **meta-assessment** — evaluating the quality of assessment reports? Comparing AI ratings to a human expert across three report versions (strong/moderate/weak), an evaluation format (checklist vs. rubric), three assessment elements, and five replications, AI aligned with human ratings at **87% (checklist)** and **44–50% (rubric)** agreement overall — but the number alone obscures deep limitations: AI struggled most with **measurement quality** and weak/high-error reports, and even when scores agreed, AI's *rationale* often conflicted with expert reasoning. AI is a **valuable supplemental tool**, not a replacement for human expertise.

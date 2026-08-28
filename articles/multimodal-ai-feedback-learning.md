@@ -9,8 +9,6 @@ sources: ['raw/papers/2601.15280.md']
 confidence: high
 ---
 
-# Multimodal AI Feedback vs. Educator Feedback
-
 ## Core Finding
 
 **AI multimodal feedback matches educator feedback for learning while significantly outperforming it on student perceptions.**
