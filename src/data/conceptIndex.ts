@@ -24,7 +24,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
       { label: 'The field', items: ['ai-education', 'history-of-aied', 'philosophy-of-ai-in-education', 'theory-development-aied', 'ai-literacy', 'computational-thinking'] },
-      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agentic-ai', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure'] },
+      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agentic-ai', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure', 'student-misconceptions-ai'] },
     ],
   },
   {
@@ -33,7 +33,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'storytelling-in-education', 'instructional-design', 'online-teaching-and-learning'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied'] },
-      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-misconceptions-ai', 'student-ai-interaction'] },
+      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction'] },
     ],
   },
   {
