@@ -400,6 +400,14 @@ const recentConceptItems = recentConcepts.map(c => ({
         position: sticky;
         top: 1.25rem;
         max-height: calc(100vh - 2.5rem);
+        display: flex;
+        flex-direction: column;
+      }
+      /* The TOC is the pinned header (flex-shrink 0); the recent section
+         scrolls in its own region below it so items never slide over the TOC. */
+      .recent-rail {
+        flex: 1 1 auto;
+        min-height: 0;
         overflow-y: auto;
       }
     }
