@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-21T07:59:24-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 
@@ -80,6 +80,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 

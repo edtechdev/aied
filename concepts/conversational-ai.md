@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-26T11:00:00-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-interaction, ai-literacy]
 confidence: medium
@@ -59,6 +59,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[reducing-ai-misuse]]
 
 ## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
 

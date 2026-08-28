@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-08-23T14:30:00-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [tpack, ai-tpack, teacher-ai-competency, faculty-development, pedagogical-content-knowledge, generative-ai, teacher-role, instructional-design, curriculum]
 confidence: high
@@ -58,6 +58,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[teacher-education]]
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change

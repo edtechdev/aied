@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 175 concepts, 927 articles, and 15 FAQs.
+> Complete text of 175 concepts, 932 articles, and 15 FAQs.
 
 # Concepts
 
@@ -306,6 +306,7 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 - **Cognitive stewardship.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] theorizes the institutional responsibility for protecting knowledge and learning in AI-pervasive assessment contexts.
 - **Co-regulation and epistemic proactivity.** [[ai-cognitive-partner-co-regulation-learning|AI as a cognitive partner in co-regulation]] integrates executive function, [[metacognition]], distributed cognition, and sociocultural development into a developmental model; [[epistemic-proactivity-math|epistemic proactivity]] theorizes students' agentic stance toward AI in mathematics.
 - **Human-GAI engagement paradigms.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] addresses the field's "theory deficit" by grounding seven enacted human-GAI engagement paradigms (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, equity) in Schommer's multidimensional model of personal epistemological beliefs — an epistemological, rather than tool-focused, theory of how individuals differently position themselves relative to AI.
+- **The Ecological Co-Agency Framework.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] argues that [[generative-ai|generative AI]] reassigns epistemological authority from teachers to students to machines, and introduces a framework defining co-agency through three interdependent dimensions — relational, regulatory (mapped onto the [[self-regulated-learning|SRL cycle]]), and pedagogical (teacher adoption continuum) — all bounded by a non-negotiable condition of human epistemic accountability (contestability, provenance, and non-delegation of moral/intellectual credit). It positions [[agency]] as an *epistemic* design problem rather than a usability concern, giving institutions a more precise language than "balance" for governing GenAI integration.
 
 ## Advancing established theory
 
@@ -335,6 +336,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[community-of-inquiry]]
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 
 - [[generativism-learning-theory]] — Generativism as a new learning theory
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency
@@ -834,6 +836,16 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labour]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
 - **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, transparency); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
 
+## The Ecological Co-Agency Framework: agency as an epistemic design problem
+
+[[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] reframes learner agency as fundamentally an *epistemic* concern: [[generative-ai|generative AI]] does not simply add a tool but reassigns epistemological authority — the ability to produce knowledge, validate claims, and create evidence of learning — from teachers to students to machines. The paper's **Ecological Co-Agency Framework** treats co-agency as the relationship between three interdependent dimensions, all bounded by a non-negotiable condition of human epistemic accountability:
+
+- **Relational co-agency** — agency as a product of interaction among student, tool, and context, requiring transparent division of which tasks are delegated to AI and which retained, plus ethical co-agency in which humans retain primary accountability and act in a monitoring capacity.
+- **Regulatory co-agency** — mapping the [[self-regulated-learning|self-regulated learning]] cycle (forethought, performance, reflection) onto AI mediation. Whether GenAI enters *before* or *after* the learner's attempt determines whether it amplifies or erodes perceived control; strategic [[cognitive-offloading]] supports transformative learning only when the offloading decision is intentional rather than routine.
+- **Pedagogical co-agency** — placing [[teacher-role|teachers]] at the center, moving along an observer–adopter–collaborator–innovator continuum that depends on institutional support, not individual disposition.
+
+The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
@@ -853,6 +865,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
@@ -3257,6 +3270,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
@@ -3314,6 +3328,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 
 - [[teacher-education-ai-literacy-sdt-2026]]
@@ -4125,6 +4140,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ying-genai-journalism-assessment-2026]]
 - [[rook-plumb-genai-curricula-student-insights-2026]]
@@ -4225,6 +4241,10 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 
 [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] show that, in everyday STEM study, LLM help-seeking is not a single act but a layered, context-dependent process with four stages: (1) *deciding whether help is needed* — students try tasks independently first to preserve learning value; (2) *choosing whom to ask* — ChatGPT as a low-barrier first step, then peers for conceptual negotiation, then instructors for complex or high-stakes issues; (3) *determining the type of help* — from hints and explanations to scaffolding problem-solving, streamlining routine work, and extending learning; and (4) *judging the help received* — exercising selective trust and verifying AI outputs against coursework or with humans. Crucially, students favored **instrumental help-seeking** (enhancing understanding) over **executive help-seeking** (obtaining solutions), a distinction that the authors propose adapting into new SRL-for-LLM measurement items.
 
+### Making behavioral context visible: TutorTrace
+
+[[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] tackle the behavioral precursor to help-seeking in [[cs-education|AI-assisted programming education]]: human tutors adapt to learners' observable behavior, not just their explicit requests, but AI tutors lack that context. **TutorTrace** is a dataset and pipeline that makes learners' behavioral context computable in real time from low-level IDE telemetry (four deployments, N=480; ~180K events, 13,633 behavioral segments, 27 metrics), deriving a taxonomy of learner activity *before* the first AI query, *between* consecutive queries, and *across* the session. This enables systems to classify whether a query reflects **guided** help-seeking (preceded by independent work) or **dependent** help-seeking (no independent work) — AUROC=.717 on held-out prediction — and to predict imminent queries (AUROC=.726). A preliminary classroom evaluation found that behavior-aware prompts reduced intervals between queries with no independent work from 50.0% to 20.7%. This connects [[learning-analytics]] telemetry to [[intelligent-tutoring|adaptive tutoring]], showing that behavioral context can be operationalized at scale to scaffold *how* students seek help rather than merely respond to their explicit questions.
+
 ## Implications for design and research
 
 1. **Design help-seeking affordances deliberately.** Persistent, salient help buttons can enable bypass strategies; delay access and structure delivery to support productive struggle.^[[lak2026-hint-button-unproductive-use]]
@@ -4254,6 +4274,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
@@ -4555,6 +4576,7 @@ Characterizing student-AI interaction informs [[instructional-design]]: instruct
 - [[ai-literacy]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - [[enright-staff-perspectives-genai-2026]]
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[student-llm-interaction-taxonomy-review-2026]] — Student-LLM Interaction Taxonomy Review
@@ -4688,6 +4710,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
@@ -4786,6 +4809,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[learning-by-teaching]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
@@ -4962,6 +4986,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 
@@ -5288,6 +5313,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[reducing-ai-misuse]]
 
 ## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
 
@@ -5901,6 +5927,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
@@ -6673,6 +6700,8 @@ Physics education research has become a proving ground for AI in education becau
 
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess [[computational-thinking|computational thinking]] growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
 
+**Benchmarking multimodal AI on authentic physics problems.** [[omniphys-multimodal-physics-benchmark-2026|Chen et al. (2026)]] introduce **OmniPhys**, a large-scale [[multimodal|multimodal]] benchmark (15,246 questions, 19,850 images) spanning middle-school through university-level physics from Chinese educational corpora. Unusually, it evaluates not just multimodal *input* comprehension but multimodal *output* generation — whether models can synthesize structured physics diagrams, a core component of authentic problem solving. Extensive evaluations reveal critical gaps in current multimodal LLMs, especially in complex reasoning and visual generation. This complements [[probing-ai-generated-physics-solutions-2026|probing AI-generated physics solutions]] and extends the wiki's evidence that AI systems struggle on the high-level, diagram-heavy reasoning characteristic of authentic physics — informing realistic expectations for [[intelligent-tutoring|tutoring]] and [[automated-assessment|automated assessment]].
+
 **Teacher preparation and simulation** uses AI to train physics teachers. **[[multiagent-classroom-dual-process-physics-teachers-2026|Tufino]]** created a simulated multi-agent classroom where five AI students enact dual-process theory reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. This connects to [[professional-training]], Dual-Process Theory, and [[simulation]]-based learning.
 
 **Instructional-design frameworks for AI-augmented instruction.** **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** propose the **AIRIS** framework (Activate–Inquire–Reflect with Intelligent Support) — a three-phase structure for cognitively activated AI use in physics: students predict and sketch expected outcomes before AI (Activate), delegate computational and representational steps to AI while critically comparing output to their own predictions (Inquire), and interpret, check consistency across representations, and reflect on what the AI contributed afterward (Reflect). Grounded in [[self-regulated-learning]], Cognitive Load Theory, multiple external representations, and [[human-ai-collaboration]], it frames the central challenge as [[instructional-design|instructional design]] rather than cheating or tool choice, and calls for "withdrawal condition" experiments testing whether learning survives the removal of AI support.
@@ -6713,6 +6742,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 
 - [[hashmi-socratic-physics-chatbot-2025]]
@@ -6906,6 +6936,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **Structural interventions against copy-paste over-reliance:** [[soft-barriers-copying-ai-programming-2026|Soft barriers for copying in AI-assisted programming]] evaluate lightweight design interventions (e.g., mechanisms that discourage blind copy-paste of AI output) and find they can reduce over-reliance without blocking AI assistance — evidence that the [[cognitive-offloading|over-reliance]] risk in CS education is amenable to instructional-design fixes, not just learner-education or bans.
 - **Teachable agents and productive practice:** [[chatgpt-teachable-agent-programming-lbt-2024|Learning-by-teaching with ChatGPT]] improved knowledge gains and code quality but undermined error-correction practice because the agent is too competent — a design lesson: make agents *deliberately fallible* so debugging is preserved.
 - **Assistance governance:** [[llm-programming-support-governance-cs-education|a scoping review of 90 systems]] introduces the **PEA framework** (Policy, Enforcement, Authority) for bounding and controlling LLM assistance — a comparative vocabulary for designing scaffolding that limits over-reliance.
+- **Behavioral context for adaptive AI tutoring:** [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] present **TutorTrace**, a dataset and pipeline that makes learners' behavioral context computable in real time from IDE telemetry in AI-assisted Python courses (N=480). It derives a taxonomy of activity before, between, and across AI queries, and can classify whether an upcoming query reflects guided or dependent [[help-seeking]] (AUROC=.717) and predict imminent queries (AUROC=.726); behavior-aware prompts reduced no-independent-work query intervals from 50.0% to 20.7% in a preliminary evaluation. This shows how behavioral telemetry can make [[intelligent-tutoring|AI programming tutors]] adaptive to learners' actual effort, not just their explicit requests.
 - **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
 
 ### Equity, culture, and who gets into computing
@@ -6955,6 +6986,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code
@@ -7123,6 +7155,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
 - mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students actually do with GenAI tools across STEM
@@ -7761,6 +7794,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
@@ -8087,6 +8121,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[eportfolio]] — Process-based e-portfolio assessment
 
 ## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
@@ -8877,6 +8912,8 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
@@ -9058,6 +9095,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 ### Validity challenges
 
 - **Construct validity:** When students use AI on assessments, does the score reflect student knowledge or AI capability? [[genai-performance-vs-learning|Performance vs. learning]] research addresses this directly.
+- **Cross-LLM construct-irrelevant variance in conversation-based assessment:** [[semantic-variability-llm-conversation-assessment-2026|Hao (2026)]] shows that even for a single conversational turn, the semantic content of [[llm|LLM]]-generated replies varies across models and conversational-context conditions. Within-model similarity consistently exceeds between-model similarity (0.715–0.795 vs. 0.443–0.604), and adding chat history meaningfully changes response content (median cross-history similarity ~0.40–0.45). Because the same learner input can receive semantically different replies depending on the underlying model, prompting and context alone cannot preserve response consistency — introducing potential **construct-irrelevant variance** that threatens validity, reliability, and fairness. Maintaining consistent assessment conditions as LLMs evolve is therefore an *infrastructure* challenge (symbolic rules, response templates, validation layers), not merely a [[prompt-engineering]] one.
 - **Latent-structure validity across humans and LLMs:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] add a deeper validity condition: even when an LLM scores well, transferring human score interpretations requires similarity in the *latent structure* of responses. Comparing six multimodal LLMs to human cohorts on chemistry and quantitative-reasoning instruments, they find LLM–human factor structures consistently diverge (LLM–human congruence below the human–human baseline), so performance on a human-normed exam is weak evidence about LLM abilities on the constructs the items were designed to measure.
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
@@ -9090,6 +9128,7 @@ AI challenges validity at the epistemic level: [[end-of-assessment-ai-disruption
 - [[feedback]]
 
 ## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
@@ -9244,6 +9283,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[benchmark]]
 
 ## Connected Articles
+- [[semantic-variability-llm-conversation-assessment-2026]]
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
@@ -9716,6 +9756,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[omniphys-multimodal-physics-benchmark-2026]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
@@ -11024,6 +11065,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]
 - [[alharbi-ethical-genai-eap-2026]]
@@ -11221,6 +11263,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[teacher-education]]
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -12144,6 +12187,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
@@ -12952,6 +12996,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
@@ -13552,6 +13597,7 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[nesnin-cognitive-offloading-ai-students-2026]] — Are students thinking less or learning differently?
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
@@ -24134,6 +24180,53 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 ## Citation
 
 Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). [*The care-full craft of feedback in an age of generative AI*](https://doi.org/10.1080/02602938.2026.2643333). *Assessment & Evaluation in Higher Education*, 51(5), 911–927
+
+---
+
+## [Preparing Learners and Teachers for an AI-Driven Future: Emerging Trends, Pedagogical Challenges, and Critical Perspectives in Pre-University AI Education: A Systematic Literature Review](https://edtechdev.github.io/aied/articles/caruana-pre-university-ai-education-slr-2026/)
+
+> **Synthesis:** Caruana, Gilar-Corbí, and Palomar (2026) present a PRISMA-guided systematic literature review of **42 studies (2009–2026)** on AI integration in **pre-university (K-12) education**, motivated by **Sustainable Development Goal 4** and the principles of **Education for Sustainable Development**. Thematic synthesis identifies four major research areas: **teacher education for AI integration** (n=16), **curriculum development and pedagogical foundations** (n=13), **AI literacy and ethical competencies** (n=15), and **the pedagogical and ethical implications of generative AI** (n=9). The evidence consistently indicates that effective AI integration hinges on teacher preparedness, structured interdisciplinary curricula, and critical, ethical approaches that foster responsible digital citizenship — with significant gaps in longitudinal evidence, classroom-based empirical research, and standardised AI-literacy assessment instruments.
+
+## Key Findings
+1. **Teacher education is the linchpin.** The most consensus-heavy finding is that effective and responsible AI integration depends on teachers' pedagogical and technological preparedness. AI-focused professional development is positively associated with instructional quality (cognitive activation, classroom management, personalised learning), and frameworks such as Intelligent-TPACK and AI-TPACK predict teachers' readiness, with AI literacy, algorithmic ethics, and digital competence as core ingredients.
+2. **Structured, interdisciplinary curricula are needed.** Research supports frameworks like AI4K12 and the Five Big Ideas in AI. AI education is shifting from narrow technical content toward competency-based models that incorporate critical thinking, digital citizenship, creativity, problem solving, and ethical reflection — with emerging competencies like [[prompt-engineering|prompt engineering]] gaining recognition.
+3. **AI literacy is a cross-cutting competency.** AI literacy combines technical understanding, critical thinking, algorithmic ethics, and responsible digital citizenship. The review calls for embedding it as a cross-curricular competency, though standardised assessment instruments remain lacking.
+4. **Generative AI offers opportunities and raises tensions.** GenAI tools (ChatGPT, Gemini, Copilot) support retrieval, content generation, personalised tutoring, and instructional planning, but raise concerns about [[cognitive-offloading|cognitive offloading]], content reliability, pedagogical oversight, and technological dependency.
+5. **Equity and governance are cross-cutting.** Disparities in access, connectivity, and training risk reinforcing [[equity-in-ai-education|educational inequalities]]. The review calls for governance models, institutional policies, and regulatory frameworks ensuring transparency, accountability, human oversight, data protection, and [[academic-integrity|academic integrity]].
+
+## Pre-university AI education as a distinct focus
+This review consolidates the growing evidence that AI education in primary and secondary settings is distinct from higher education. It centres on teacher preparation, [[curriculum-design|curriculum design]], and the age-appropriate development of [[ai-literacy|AI literacy]] and ethical competencies — aligning with the wiki's [[k-12|K-12 AI education]] coverage. Notably, the review is framed by [[sustainability|Sustainable Development Goal 4]] and [[sustainability|Education for Sustainable Development]], situating equitable, resilient, and sustainable educational systems as the goal of responsible AI integration. (Note: this framing draws on SDG 4 but the review's substance is K-12 AI education rather than AI's environmental footprint.)
+
+## Research gaps
+- **Scarcity of longitudinal studies** on the sustained effects of AI on learning outcomes, cognitive autonomy, and socio-emotional development.
+- **Predominance of exploratory/conceptual work** over authentic classroom-based empirical research.
+- **Geographical concentration** in Europe and North America; limited representation from developing regions and from primary (vs. secondary) education.
+- **No standardised instruments** for assessing AI literacy, critical thinking, or ethical GenAI competencies.
+
+## Implications
+1. **Invest in teacher education** that pairs AI literacy and algorithmic ethics with motivational/institutional factors (self-efficacy, perceived usefulness, organisational support).
+2. **Embed AI literacy as a cross-curricular competency**, not a standalone technical subject.
+3. **Rethink assessment** beyond final products toward complex reasoning and reflective engagement with AI.
+4. **Develop governance and policy frameworks** for transparent, safe, inclusive, and accountable AI use.
+
+## Connected Concepts
+- [[k-12]]
+- [[ai-literacy]]
+- [[teacher-education]]
+- [[curriculum-design]]
+- [[generative-ai]]
+- [[ai-education]]
+- [[teacher-role]]
+- [[digital-divide]]
+- [[equity-in-ai-education]]
+- [[meta-analysis-systematic-review]]
+
+## Connected Articles
+- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education (Sustainable Development Pedagogy)
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in CS education
+
+## Citation
+Caruana, I., Gilar-Corbí, R., & Palomar, M. (2026). [*Preparing Learners and Teachers for an AI-Driven Future: Emerging Trends, Pedagogical Challenges, and Critical Perspectives in Pre-University AI Education: A Systematic Literature Review*](https://doi.org/10.3390/su18178827). *Sustainability*, 18(17), 8827.
 
 ---
 
@@ -47641,6 +47734,64 @@ Ojeda-Ramirez, S., Gyles, S., & Peppler, K. (2026). [*Community-Based AI Learnin
 
 ---
 
+## [OmniPhys: A Unified Multimodal Benchmark for Physics Understanding and Generation from Chinese Educational Corpora](https://edtechdev.github.io/aied/articles/omniphys-multimodal-physics-benchmark-2026/)
+
+> **Synthesis:** Chen et al. (2026) introduce **OmniPhys**, a large-scale [[multimodal|multimodal]] benchmark for [[physics-education|physics]] understanding and reasoning built from Chinese educational corpora, spanning middle-school through university-level problems. The benchmark comprises 15,246 questions and 19,850 images with fine-grained annotations supporting analysis of reasoning processes and knowledge usage, and — unusually — systematically evaluates multimodal *output* generation, including models' ability to synthesize structured physics diagrams. Extensive evaluations reveal critical gaps in current [[llm|multimodal LLMs]], especially in complex reasoning and visual generation, positioning OmniPhys as a foundational resource for advancing multimodal intelligence in physics and for informing [[automated-assessment|automated]] physics [[assessment]].
+
+## Why physics needs a unified multimodal benchmark
+
+[[llm|Multimodal large language models (MLLMs)]] have demonstrated strong abilities across visual and textual reasoning tasks, but their development in the physics domain is hindered by the lack of a comprehensive benchmark. Physics is a prototypical multimodal arena, demanding rigorous integration of textual descriptions, visual diagrams, and symbolic logic for accurate reasoning. Existing physics datasets rarely satisfy three critical criteria simultaneously: (1) **cross-stage knowledge fusion** spanning [[k-12|middle school]] to university; (2) **multimodal input comprehension** requiring interpretation of complex textual and visual cues; and (3) **multimodal output generation** assessing the model's ability to actively synthesize diagrams rather than merely select options. OmniPhys addresses this gap by unifying all three in a single benchmark.
+
+## Benchmark design
+
+OmniPhys is a Chinese benchmark designed to assess physics mastery from secondary education to university levels, covering five major physical disciplines including mechanics, electromagnetism, and optics. All questions are curated from contemporary examination papers and authoritative textbooks, undergoing a strict multi-stage filtering process to guarantee difficulty and [[pedagogy|pedagogical]] validity. The benchmark includes:
+
+- **15,246 questions** and **19,850 images**, with detailed annotations supporting fine-grained analysis of reasoning processes and knowledge usage.
+- A **multimodal output generation subset** that assesses MLLMs' capabilities in physics diagram understanding and editing — a fundamental component of authentic physics problem solving that most [[benchmark|benchmarks]] omit.
+- Coverage spanning question types from multiple-choice to open-ended problem solving, grounded in authentic [[assessment|assessment]] material.
+
+## Evaluation findings
+
+Comprehensive baseline evaluations reveal that despite recent advances, current multimodal LLMs exhibit **significant capability gaps** in the physics domain, especially in complex reasoning and visual generation. The multimodal output tasks — where models must synthesize or edit structured physics diagrams — proved particularly challenging, underscoring that generating authentic physics representations remains an open problem for MLLMs. These findings have direct implications for whether [[generative-ai|generative AI]] systems can serve as reliable partners in physics learning and [[automated-assessment|automated assessment]], connecting to broader wiki evidence that AI systems still struggle with the specialized, multimodal, and diagram-heavy tasks characteristic of authentic [[stem-education|STEM]] assessment.
+
+## Implications for physics education and AI
+
+OmniPhys matters to the wiki for three reasons. First, it extends the physics-education evidence base on AI capability with a large, authentic, Chinese-educational-corpus benchmark — complementing studies of [[physics-education|AI performance on physics problems]] and LLM support for [[computational-thinking|computational thinking]] in physics. Second, its emphasis on diagram generation connects to [[multimodal|multimodal learning]] and authentic physics problem solving, where the ability to construct representations is as important as selecting answers. Third, its finding that MLLMs struggle on complex reasoning and visual generation informs realistic expectations for [[intelligent-tutoring|tutoring]] and [[automated-assessment|automated assessment]] in physics, supporting the wiki's recurring theme that AI excels at routine tasks but underperforms on the authentic, high-level reasoning that defines deep disciplinary learning.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[multimodal]]
+- [[llm]]
+- [[generative-ai]]
+- [[benchmark]]
+- [[assessment]]
+- [[automated-assessment]]
+- [[stem-education]]
+- [[intelligent-tutoring]]
+- [[learning-gains]]
+- [[computational-thinking]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-generated physics solutions and preparing students to critique them
+- [[llm-computational-thinking-physics-2026]] — LLM support for computational thinking in physics
+- [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot
+- [[physics-chatbot-epistemological-beliefs-2026]] — Physics chatbot and epistemological beliefs
+- [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments
+- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM-based formative feedback
+- [[assessment-latent-structure-human-llm-2026]] — Assessment instruments for humans and LLMs
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal dialogue in STEM
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the age of AI: output as evidence of learning
+
+## Citation
+
+Chen, H., Lin, Y., Yushanjiang, N., Lin, X., & Zhang, M. (2026). [*OmniPhys: A unified multimodal benchmark for physics understanding and generation from Chinese educational corpora*](https://arxiv.org/abs/2608.25398). arXiv:2608.25398.
+
+---
+
 ## [One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edtechdev.github.io/aied/articles/one-click-away-khanmigo-two-year-school-experiment-2026/)
 
 > **[[student-engagement|Engagement]], not model capability, is the binding constraint on [[intelligent-tutoring|AI tutoring]].** In a two-year cluster randomized trial across 18 Tennessee [[k-12|middle schools]], randomly assigned students used Khan Academy with its AI tutor **Khanmigo** — configured to coach rather than give answers (a [[scaffolding|scaffolded]] guided-help design) — during existing daily remedial [[math-education|math]] sessions. Assignment raised math achievement by 1.3 national percentile ranks per term (~0.06–0.08 SD per school year; an implied ~0.14 SD for a full year of active participation), [[learning-gains|gains]] resembling those of Khan Academy practice **without** AI assistance. The reason: 96% of students tried Khanmigo at least once, but the median student messaged it on only about a third of practice days and in only 17% of the exercise sessions in which they made a mistake — and most messages were bare answers or clicks on suggested prompts, with just ~14.5% containing a genuine mathematical question or reasoning step. "Making AI effective for learning appears to be as much a behavioral challenge as a technological one": realized [[help-seeking]], not access, is what limits [[llm|LLM]] tutoring in routine school settings.
@@ -50481,6 +50632,76 @@ Raza, S. H., & Farooq, A. (2025). [*Review of Artificial Intelligence in Educati
 
 ---
 
+## [Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education](https://edtechdev.github.io/aied/articles/reclaiming-epistemic-agency-co-agency-2026/)
+
+> **Synthesis:** Poudyal (2026) argues that [[generative-ai|generative AI]] in education does more than add a new tool: it reassigns epistemological authority from teachers to students to machines, redistributing [[agency]] across humans and non-human systems in a process the paper terms *co-agency*. After evaluating Distributed Agency, [[self-determination-theory|Self-Determination Theory]], Society 5.0, and integration frameworks such as [[tpack|TPACK]] and SAMR — none of which address equitable power, data ownership, or accountability — the paper introduces the **Ecological Co-Agency Framework**, defining agency through relational, [[regulation|regulatory]], and [[pedagogy|pedagogical]] processes bounded by a non-negotiable condition of human epistemic accountability. The framework offers educators and policymakers a more precise vocabulary than "balance" for deciding how tasks, evaluation, and responsibility are distributed between learners and AI in [[higher-ed|higher education]].
+
+## From tool to co-agent: the epistemic shift
+
+[[generative-ai|Generative AI]] has largely been framed as an impartial educational tool, and most empirical research has examined its effects on student interest, teacher workload, and assessment validity. Poudyal argues this framing overlooks a deeper shift: the reassignment of who produces knowledge, validates claims, and creates evidence of learning. Because GenAI can generate content, evaluate its own output, and adapt without direct human involvement, it participates in the evaluation process and thereby acts within the context of the [[agency]] it represents. This redistribution of agency from human to non-human entities is what the paper calls *co-agency* (drawing on Godwin-Jones, 2024). The epistemic concern is not that GenAI may produce unreliable content, but that its ease of use may obscure whose judgment — human or machine — ultimately underlies an assertion, determination, or product.
+
+## Why existing frameworks fall short
+
+The [[meta-analysis-systematic-review|literature review]] evaluates four theoretical traditions that have been applied to AI-mediated agency:
+
+- **Distributed Agency** and social-material views treat competency, [[creativity]], and judgement as products of relationships among student, tool, and context — yet do not address who owns the interaction data or who is accountable.
+- **[[self-determination-theory|Self-Determination Theory]]** (Ryan & Deci, 2000) identifies autonomy, competence, and relatedness as drivers of [[motivation]]; GenAI changes the circumstances under which these occur but does not resolve equity of power.
+- **Society 5.0** offers a "human-centered" model of digital–physical symbiosis, but Harari's caution that GenAI autonomously creates and assesses knowledge claims warns against assuming its equilibrium will be automatic.
+- **[[tpack|TPACK]] and SAMR** integration frameworks ([[reshaping-cs-education-genai|including contextual-knowledge extensions]] and substitution-level adoption critiques) focus on teacher knowledge and adoption levels rather than on power, data management, and ethical responsibility.
+
+None of these treats GenAI integration as a primary issue of [[agency]] or articulates the ethically justifiable conditions under which the dimensions can be combined — the gap the framework fills.
+
+## The Ecological Co-Agency Framework
+
+The framework treats co-agency as the relationship between three interdependent, co-constituted dimensions, all bounded by a non-negotiable condition of human epistemic accountability:
+
+- **Relational co-agency** defines agency as resulting from interaction rather than residing in person or machine. It requires (1) a transparent description of which tasks are assigned to AI and which to students, and (2) **ethical co-agency** — a joint responsibility for an educational outcome in which humans retain primary accountability and act in a monitoring capacity.
+- **Regulatory co-agency** maps Zimmerman's three phases of [[self-regulated-learning|self-regulated learning]] (forethought, performance, reflection) onto AI-mediated environments. GenAI can assist with objectives and sources in forethought, offer feedback and prompts during performance (what Dede terms "augmented intelligence" or [[scaffolding]]), and produce progress summaries in reflection — but the point in the [[self-regulated-learning|SRL cycle]] at which GenAI enters by default determines whether it amplifies or erodes the learner's sense of control. The paper notes that strategic [[cognitive-offloading]] can support transformative learning when the offloading decision is intentional rather than routine.
+- **Pedagogical co-agency** places the [[teacher-role|teacher]] at the center of integration, positioned along a continuum from observer to adopter to collaborator to innovator (Zhai, 2025) and shaped by institutional support in time, training, and technology. Without structural support, the continuum becomes less a developmental tool and more a means of identifying teachers who already possess resources to experiment. Teachers report being assigned substantial invisible labor reviewing, editing, and rewriting AI-generated materials — an example of professional judgment exercised precisely where AI cannot.
+
+The **ethical boundary condition** constrains all three dimensions through three requirements: (1) **contestability** — learners and teachers must be able to question and cross-check AI output, requiring some degree of explainability; (2) **provenance** — institutions should describe the sources of training data and how they introduce bias; and (3) **non-delegation of moral and intellectual credit** — decisions about student welfare, academic standing, and high-stakes judgments must not be determined solely by GenAI.
+
+## Implications for assessment and policy
+
+The framework's concrete implications reshape both practice and governance. In [[assessment]], instructors move from evaluating a completed essay as a product toward evaluating the "decision trail" visible throughout the writing process — which tasks were delegated, how suggestions were accepted, modified, or rejected. In institutional procurement, transparency requirements turn purchasing into an exercise of epistemological governance, a demand that is particularly difficult for low-income districts already facing a [[digital-divide|digital divide]] and uneven [[ai-literacy|AI literacy]], so GenAI may widen the gaps it intends to close. For policymakers, the framework translates vague principles of transparency, [[bias-mitigation|fairness]], and oversight into specific questions about division of labor, placement of GenAI in the learning cycle, institutional investment in teachers, and whether learners are permitted to challenge AI outputs — connecting to [[equity-in-ai-education]], [[governance]], and the philosophy of [[ethics|ethical]] AI design.
+
+## Connected Concepts
+
+- [[agency]]
+- [[generative-ai]]
+- [[self-regulated-learning]]
+- [[self-determination-theory]]
+- [[teacher-role]]
+- [[cognitive-offloading]]
+- [[theory-development-aied]]
+- [[tpack]]
+- [[ethics]]
+- [[higher-ed]]
+- [[equity-in-ai-education]]
+- [[ai-literacy]]
+- [[digital-divide]]
+- [[assessment]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency
+- [[andragogy-cognitive-delegation-genai-2026]] — Revisiting andragogy through cognitive delegation in GenAI-mediated adult learning
+- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender
+- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
+- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: breaking the self-reinforcing harm cycle
+- [[strydom-human-gai-paradigms-2026]] — Seven human-GAI engagement paradigms
+- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for generative AI
+- [[teacher-student-agency-orchestration]] — Teacher–student agency orchestration
+- [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
+
+## Citation
+
+Poudyal, B. (2026). [*Reclaiming epistemic agency: A critical framework for human-generative AI co-agency in education*](https://arxiv.org/abs/2608.26937). arXiv:2608.26937.
+
+---
+
 ## [Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence](https://edtechdev.github.io/aied/articles/reconceptualizing-community-inquiry-generative-ai/)
 
 > **Synthesis:** Ba, Gašević, Lim, and Anderson (2026) reconceptualize the [[community-of-inquiry|Community of Inquiry]] (CoI) framework for the age of [[generative-ai|generative AI]], arguing that GenAI challenges the assumption that indicators of presence can be attributed primarily to human learners and [[teacher-role|instructor]]s. Rather than framing GenAI as a mere tool, dialogic partner, or 'fourth presence,' they position GenAI as an **epistemic condition** that shapes inquiry through direct use, indirect mediation of tasks, and latent influence on how contributions are interpreted and evaluated. Drawing on sociomaterial and postdigital perspectives, they argue that CoI presences are sociotechnical accomplishments emerging through human-GenAI assemblages, and propose a configuration-based heuristic where the relationship between GenAI involvement and inquiry quality is conditional on human accountability.
@@ -52446,6 +52667,71 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
 Bannò, S., Knill, K., & Gales, M. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298).
+
+---
+
+## [Semantic Variability of LLM-Generated Replies Across LLMs: Implications for Designing Conversation-Based Assessment](https://edtechdev.github.io/aied/articles/semantic-variability-llm-conversation-assessment-2026/)
+
+> **Synthesis:** Hao (2026) examines whether [[llm|LLM]]-generated replies remain semantically consistent when the underlying model changes, using messages from real collaborative problem-solving conversations to compare generated replies across four LLMs under conditions with and without preceding chat history. Results show that model choice and conversational context both affect response similarity and alignment with human replies: within-model similarity consistently exceeds between-model similarity, and including history meaningfully changes response content. The findings indicate that prompting and conversational context alone may not suffice to preserve response consistency across LLMs, highlighting the need for infrastructure and design strategies that maintain stable, comparable responses amid the rapid evolution of LLMs — a core validity challenge for [[conversational-ai|conversation-based]] [[assessment]].
+
+## The adaptivity-standardization tension
+
+[[llm|Large language models]] and [[generative-ai|generative AI]] create a new paradigm for assessing complex skills such as communication and collaboration, which are difficult to measure at scale with conventional item formats because they are manifested through situative, dynamic interactions rather than isolated responses. [[conversational-ai|LLM-based agents]] can engage learners in natural, adaptive interactions that elicit richer, more authentic evidence of these skills. Yet LLM-enabled interaction introduces a fundamental tension between adaptivity and standardization: standardized assessment assumes comparable learner inputs produce comparable assessment conditions, whereas LLM-based agents generate responses dynamically, adapting to learner input, conversational context, and model behavior. The same learner input may receive semantically different replies depending on the LLM, prompt, deployment setting, or prior chat history — a challenge compounded by the rapid evolution of LLMs as new models are released and older ones are retired.
+
+## The measurement stakes
+
+From a measurement perspective, the key issue is not whether AI responses vary but whether they remain sufficiently consistent for measuring the intended constructs. AI-generated replies need not be identical in wording, but they should preserve the intended assessment function, sustain task-relevant interaction patterns, and provide comparable opportunities for learners to demonstrate the target construct. Uncontrolled variability risks introducing **construct-irrelevant variance** that threatens [[assessment-validity|validity]], reliability, [[bias-mitigation|fairness]], and comparability — the foundational requirements of educational assessment (AERA, APA, & NCME, 2014). This connects directly to the wiki's [[assessment-validity]] and [[educational-measurement]] concepts and the broader literature on [[psychometrically-aware-ai|psychometrically aware AI]]. The goal is not to eliminate variability but to ensure it stays within acceptable bounds for the intended use.
+
+## Neuro-symbolic design and response consistency
+
+Traditional conversational systems, such as those in [[intelligent-tutoring|intelligent tutoring systems]], use modular architectures of intent detection, dialogue state tracking, and rule-based response selection. LLM-based systems instead rely primarily on prompts and conversation history to guide generation, enabling more natural interaction but also greater response variability. To optimize this tradeoff, neuro-symbolic approaches are increasingly adopted in conversation-based learning and assessment: LLMs interpret input, detect intent, classify dialogue moves, or generate responses, while rule-based actions are executed by a separate module or by an LLM prompted to follow predefined rules. Such designs depend on two LLM capabilities: accurately classifying utterances and generating semantically consistent responses in similar conversational contexts. Hao et al. have demonstrated the former; this study examines the latter.
+
+## Empirical findings
+
+The study used dyadic online collaborative problem-solving science data (99 teams), focusing on 61 late-stage focal messages with highly relevant human replies. Four LLMs were evaluated (GPT-4o mini, GPT-5.4, GPT-5.4 mini, GPT-5.4 nano), each generating 100 responses per focal message under both no-history and with-history conditions, with semantic similarity measured via text-embedding cosine similarity. Key findings:
+
+1. Including chat history does not make LLM replies more similar to one another in all cases; its effect depends on the LLM. Replies remain consistently dissimilar from human replies, though history can slightly improve alignment.
+2. Within-model similarity consistently exceeds between-model similarity: within-LLM similarity ranged from 0.715–0.795, while between-LLM similarity ranged from 0.443–0.604. Models within the GPT-5.4 family were more similar to one another than to GPT-4o mini, indicating model architecture and lineage shape consistency.
+3. In the no-history condition, semantically similar focal messages elicited more similar replies; adding history introduced context that made replies less dependent on focal-message similarity alone.
+4. Median cross-history similarity was ~0.40–0.45, meaning that adding chat history meaningfully changed the semantic content of generated replies across all models.
+
+Mixed-effects models confirmed that LLM type, history condition, and their interaction significantly affected both mean pairwise similarity and its variability, with responses more aligned with human replies tending to be more consistent.
+
+## Implications for conversation-based assessment
+
+The results show that even for a single conversational turn, the semantic content of LLM-generated replies varies across models and context conditions. This means that maintaining consistent assessment interactions as LLMs evolve is an **infrastructure challenge** rather than merely a [[prompt-engineering]] challenge. Systems that rely on LLM-generated responses require additional mechanisms to monitor, [[benchmark]], and control response behavior across model transitions — potentially including symbolic rules, response templates, and validation layers that preserve assessment-relevant functions despite underlying model changes. These considerations are particularly important in high-stakes settings, where variability may affect the comparability of assessment conditions and, ultimately, the [[assessment-validity|validity, reliability, and fairness]] of [[automated-assessment|AI-based assessment]] — connecting to [[trust-calibration]] and the design of robust [[conversational-ai|conversational agents]] for assessment.
+
+## Connected Concepts
+
+- [[llm]]
+- [[conversational-ai]]
+- [[assessment-validity]]
+- [[assessment]]
+- [[educational-measurement]]
+- [[automated-assessment]]
+- [[prompt-engineering]]
+- [[generative-ai]]
+- [[intelligent-tutoring]]
+- [[psychometrically-aware-ai]]
+- [[trust-calibration]]
+- [[learning-analytics]]
+
+## Connected Articles
+
+- [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs?
+- [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: workflows and student enactment
+- [[llm-formative-feedback-systematic-review-2026]] — Systematic review of LLM-based formative feedback
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
+- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents
+- [[conversational-ai-informal-learning]] — Conversational AI in informal learning
+- [[socratic-tests-conversational-assessment]] — Socratic tests in conversational assessment
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM
+- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the age of AI: output as evidence of learning
+- [[llm-tutoring-feedback-diagnosis-gap]] — LLM tutoring, feedback, and the diagnosis gap
+
+## Citation
+
+Hao, J. (2026). [*Semantic variability of LLM-generated replies across LLMs: Implications for designing conversation-based assessment*](https://arxiv.org/abs/2608.24920). arXiv:2608.24920 / AI in Measurement and Education (AIME 2026).
 
 ---
 
@@ -58083,6 +58369,73 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 ## Citation
 
 Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026). [Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle](https://arxiv.org/abs/2606.22609).
+
+---
+
+## [TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education](https://edtechdev.github.io/aied/articles/tutortrace-learner-behavioral-states-2026/)
+
+> **Synthesis:** Barron et al. (2026) present **TutorTrace**, a dataset and behavioral-abstraction pipeline that makes learners' behavioral context visible and computable in real time from low-level IDE telemetry during AI-assisted [[cs-education|programming education]]. Across four deployments in two introductory Python courses (N=480), the system captures ~180K telemetry events, 13,633 behavioral segments, and 27 continuously computed metrics, from which it derives a taxonomy of learner activity before the first AI query, between consecutive queries, and across the full session. In a preliminary classroom evaluation, behavior-aware prompts reduced intervals between queries with no independent work from 50.0% to 20.7%, and the data support held-out prediction of imminent queries (AUROC=.726) and guided versus dependent [[help-seeking|help-seeking]] (AUROC=.717). The work shows how behavioral context can enable adaptive [[intelligent-tutoring|AI tutoring]] at scale.
+
+## From learner queries to learner behavior
+
+AI programming tutors provide scalable support but lack the behavioral context human tutors rely on to adapt support to learners' needs. Human tutors respond not only to what learners explicitly say but to what their observable behaviors suggest they implicitly need — whether a student is struggling or has simply not put in the effort. Current AI tutoring systems are typically limited to the question itself, missing the struggle (or lack thereof) that preceded it. TutorTrace addresses this gap by capturing behavioral context from low-level IDE telemetry and making it computable in real time, enabling systems to respond not just to what learners say, but to what they have done leading up to the [[help-seeking|help-seeking]] moment.
+
+## Dataset and behavioral-abstraction pipeline
+
+TutorTrace was deployed across four course offerings in two introductory Python courses (N=480 learners). It captures approximately 180,000 telemetry events, 13,633 behavioral segments, and 27 continuously computed metrics. The pipeline abstracts raw IDE events into meaningful behavioral states — distinguishing, for example, periods of independent work from periods of inactivity before an AI query. From this foundation, the authors derive a taxonomy of learner activity in three temporal windows:
+
+- **Before the first AI query** — establishing the learner's baseline engagement and independent-work behavior.
+- **Between consecutive queries** — capturing whether the learner worked independently in the gap between help-seeking moments or simply waited.
+- **Across the full session** — characterizing overall patterns of engagement and reliance.
+
+This taxonomy is designed to feed downstream [[intelligent-tutoring|tutoring]] systems, giving them behavioral context comparable to what a human tutor observes.
+
+## Empirical evaluation
+
+In a preliminary classroom evaluation, behavior-aware prompts — which use the learner's recent behavioral state to shape how help is offered — were associated with a decrease in intervals between queries with no independent work from 50.0% to 20.7%. This is direct evidence that making behavioral context visible changes learner–AI interaction in productive ways. As an additional demonstration of downstream utility, the authors evaluate TutorTrace on two held-out prediction tasks:
+
+1. Whether a learner will query within the next 60 seconds (AUROC = .726).
+2. Whether an upcoming query reflects guided or dependent help-seeking (AUROC = .717).
+
+These results connect TutorTrace to [[learning-analytics]], [[student-modeling]], and real-time intervention in [[cs-education|computing education]], and demonstrate that behavioral telemetry can predict and classify help-seeking quality.
+
+## Implications for adaptive tutoring and help-seeking
+
+TutorTrace speaks directly to the wiki's research on [[help-seeking]] and its failure modes. Prior work documents premature hint requests, superficial hint reading, and answer-seeking over learning-seeking as unproductive behaviors in [[intelligent-tutoring|intelligent tutoring systems]]. TutorTrace offers an automated, real-time way to detect the behavioral precursors of these patterns — for example, distinguishing a learner who works independently before querying (guided help-seeking) from one who queries with no prior independent work (dependent help-seeking). This supports the design principle of [[scaffolding|scaffolding]] *how* students ask rather than merely providing answers, and aligns with [[student-ai-interaction]] research on the quality of learner–AI dialogue. The behavior-aware [[prompt-engineering|prompting]] result also shows that [[agentic-ai|AI-driven]] adaptation need not erode [[student-engagement|engagement]]; rather, well-timed interventions can push learners back toward productive, independent effort.
+
+## Connected Concepts
+
+- [[cs-education]]
+- [[intelligent-tutoring]]
+- [[help-seeking]]
+- [[learning-analytics]]
+- [[student-ai-interaction]]
+- [[student-modeling]]
+- [[student-engagement]]
+- [[agentic-ai]]
+- [[scaffolding]]
+- [[llm]]
+- [[generative-ai]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
+- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
+- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking
+- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: take-up and learning
+- [[regulating-ai-tutor-adolescent-srl]] — The intention-behavior gap in adolescent GenAI help-seeking
+- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of types of inquiries in student-AI interaction
+- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments
+- [[trust-reliance-ai-education-2026]] — Trust vs. appropriate reliance during Python problem-solving
+
+## Citation
+
+Barron, D., Tang, X., Dwisantika, R., Kim, M., Smith, D. H., Cui, J., & Chen, Y. (2026). [*TutorTrace: A dataset and taxonomy for classifying learner behavioral states during AI-assisted programming education*](https://arxiv.org/abs/2608.26184). arXiv:2608.26184 / UIST '26.
 
 ---
 

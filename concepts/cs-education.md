@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai, ai-literacy, programming-education]
 
@@ -49,6 +49,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 - **Structural interventions against copy-paste over-reliance:** [[soft-barriers-copying-ai-programming-2026|Soft barriers for copying in AI-assisted programming]] evaluate lightweight design interventions (e.g., mechanisms that discourage blind copy-paste of AI output) and find they can reduce over-reliance without blocking AI assistance — evidence that the [[cognitive-offloading|over-reliance]] risk in CS education is amenable to instructional-design fixes, not just learner-education or bans.
 - **Teachable agents and productive practice:** [[chatgpt-teachable-agent-programming-lbt-2024|Learning-by-teaching with ChatGPT]] improved knowledge gains and code quality but undermined error-correction practice because the agent is too competent — a design lesson: make agents *deliberately fallible* so debugging is preserved.
 - **Assistance governance:** [[llm-programming-support-governance-cs-education|a scoping review of 90 systems]] introduces the **PEA framework** (Policy, Enforcement, Authority) for bounding and controlling LLM assistance — a comparative vocabulary for designing scaffolding that limits over-reliance.
+- **Behavioral context for adaptive AI tutoring:** [[tutortrace-learner-behavioral-states-2026|Barron et al. (2026)]] present **TutorTrace**, a dataset and pipeline that makes learners' behavioral context computable in real time from IDE telemetry in AI-assisted Python courses (N=480). It derives a taxonomy of activity before, between, and across AI queries, and can classify whether an upcoming query reflects guided or dependent [[help-seeking]] (AUROC=.717) and predict imminent queries (AUROC=.726); behavior-aware prompts reduced no-independent-work query intervals from 50.0% to 20.7% in a preliminary evaluation. This shows how behavioral telemetry can make [[intelligent-tutoring|AI programming tutors]] adaptive to learners' actual effort, not just their explicit requests.
 - **The duality of building what you use:** CS students' unique position creates both meta-cognitive awareness of AI limitations and real risk of [[cognitive-offloading|Over-Reliance]] on AI-generated code. [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this tension directly.
 
 ### Equity, culture, and who gets into computing
@@ -98,6 +99,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[tutortrace-learner-behavioral-states-2026]]
 - mechanical-engineering-ai-curriculum-2026 — Project-Based AI Education Curriculum in Thermal Engineering
 - [[zhan-chapman-genai-cs-education-2026]] — GenAI in CS education
 - [[code-review-genai-cs1]] — CS1 code review of AI-generated code

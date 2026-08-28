@@ -42,6 +42,7 @@ This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data 
 - [[oatutor-open-source-adaptive-tutor-2023]] — Open-source adaptive tutor
 - [[simulating-students-java-programming-errors-llms]] — LLMs as simulated learners in CS
 - [[reshaping-cs-education-genai]] — Reshaping CS education with GenAI
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (Caruana et al. 2026)
 
 ## Citation
 
