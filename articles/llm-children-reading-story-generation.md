@@ -3,7 +3,7 @@ title: Children's English Reading Story Generation via Supervised Fine-Tuning of
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, k-12, scaffolding, personalized-learning]
+tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, scaffolding, personalized-learning]
 sources: ['raw/papers/2605.13709.md']
 confidence: high
 ---
@@ -43,4 +43,4 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[ai-generated-interactive-fiction-education-2026]]
 ## Citation
 
-Shen, Q., Cao, F., Yao, M., Gilda, S., Dorr, B. J., & Leite, W. L. (2026). [Children's English reading story generation via supervised fine-tuning of compact LLMs with controllable difficulty and safety](https://arxiv.org/abs/2605.13709). Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026). arXiv:2605.13709.
+Shen, Q., Cao, F., Yao, M., Gilda, S., Dorr, B. J., & Leite, W. L. (2026). [Children's English reading story generation via supervised fine-tuning of compact LLMs with controllable difficulty and safety](https://arxiv.org/abs/2605.13709). Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026).

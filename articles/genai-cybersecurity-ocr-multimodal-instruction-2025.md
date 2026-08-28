@@ -46,4 +46,4 @@ The paper focuses on a specific cybersecurity lab context, and the described stu
 
 ## Citation
 
-Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Saber Latibari, B., Pacheco, J., Salehi, S., & Satam, P. (2025). [*Integrating generative AI into cybersecurity education: A study of OCR and multimodal LLM-assisted instruction*](https://arxiv.org/abs/2509.02998). arXiv:2509.02998.
+Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Saber Latibari, B., Pacheco, J., Salehi, S., & Satam, P. (2025). [*Integrating generative AI into cybersecurity education: A study of OCR and multimodal LLM-assisted instruction*](https://arxiv.org/abs/2509.02998).

@@ -37,4 +37,4 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 
 ## Citation
 
-Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Looking back and forward](https://arxiv.org/abs/2607.05403). arXiv:2607.05403. arXiv preprint.
+Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Looking back and forward](https://arxiv.org/abs/2607.05403). arXiv preprint.

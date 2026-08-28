@@ -48,4 +48,4 @@ The authors argue their workflow likely exceeds an expert human transcriber with
 
 ## Citation
 
-Looney, C. W., & Duston, C. L. (2026). [*Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs*](https://arxiv.org/abs/2608.20733). arXiv:2608.20733.
+Looney, C. W., & Duston, C. L. (2026). [*Using Gemini and LuaLaTeX to transcribe physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs*](https://arxiv.org/abs/2608.20733).

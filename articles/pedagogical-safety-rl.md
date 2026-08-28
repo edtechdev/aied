@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety in Educational Reinforcement Learning
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, adaptive-learning-systems, metacognition, rag, llm]
 sources: ['raw/papers/2604.04237.md']
@@ -106,4 +106,4 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 - [[educational-llm-alignment]]
 ## Citation
 
-Rahimi, A.O.O.N. (2026). [*Pedagogical Safety in Educational Reinforcement Learning*](https://arxiv.org/abs/2604.04237)
+Olukolaa, O., & Rahimi, N. (2026). [*Pedagogical Safety in Educational Reinforcement Learning*](https://arxiv.org/abs/2604.04237).

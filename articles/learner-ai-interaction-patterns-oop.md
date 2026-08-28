@@ -45,4 +45,4 @@ The absence of performance differences across usage clusters underscores the nee
 
 ## Citation
 
-Marina Lepp (2026). [Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course](https://arxiv.org/abs/2607.24755). arXiv:2607.24755. cs.HC, cs.AI, cs.CY.
+Marina Lepp (2026). [Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course](https://arxiv.org/abs/2607.24755).

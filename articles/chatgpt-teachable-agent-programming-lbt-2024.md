@@ -45,4 +45,4 @@ Learning-by-teaching is an effective active-learning strategy, but traditional t
 
 ## Citation
 
-Chen, A., Wei, Y., Le, H., & Zhang, Y. (2024). [*Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education*](https://arxiv.org/abs/2412.15226). arXiv:2412.15226 [cs.CY].
+Chen, A., Wei, Y., Le, H., & Zhang, Y. (2024). [*Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education*](https://arxiv.org/abs/2412.15226). [cs.CY].

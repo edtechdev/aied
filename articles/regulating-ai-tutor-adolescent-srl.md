@@ -34,4 +34,4 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 
 ## Citation
 
-Abdelghani, R., Kaiser, P., & Murayama, K. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. [arXiv:2606.08568](https://arxiv.org/abs/2606.08568).
+Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [*Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use*](https://arxiv.org/abs/2606.08568).

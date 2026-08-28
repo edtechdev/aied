@@ -31,4 +31,5 @@ The user study was exploratory with a small sample (12 participants), and the in
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: Digital Storytelling Robots and Motivation
 ## Citation
-Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). [*Using the Pepper robot to support sign language communication*](https://arxiv.org/abs/2509.09889). arXiv:2509.09889.
+
+Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). [*Using the Pepper robot to support sign language communication*](https://arxiv.org/abs/2509.09889).

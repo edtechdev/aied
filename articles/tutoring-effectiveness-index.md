@@ -83,4 +83,4 @@ es and sizes?
 - [[agents-that-teach-incidental-learning]]
 ## Citation
 
-Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals](https://arxiv.org/abs/2605.30666). arXiv:2605.30666.
+Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals](https://arxiv.org/abs/2605.30666).

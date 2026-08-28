@@ -68,4 +68,4 @@ The authors conclude that AI access alone is insufficient; **purposeful workflow
 
 ## Citation
 
-Alsaiari, O., Baghaei, N., Lodge, J. M., Gašević, D., Winstone, N., & Khosravi, H. (2026). [*Making AI-generated feedback matter: From provision to student enactment*](https://arxiv.org/abs/2608.11625). arXiv:2608.11625.
+Alsaiari, O., Baghaei, N., Lodge, J. M., Gašević, D., Winstone, N., & Khosravi, H. (2026). [*Making AI-generated feedback matter: From provision to student enactment*](https://arxiv.org/abs/2608.11625).

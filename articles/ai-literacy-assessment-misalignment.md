@@ -47,4 +47,4 @@ The low correlation between self-reported and objective-based factors is a stron
 
 ## Citation
 
-Zhang, S., Xiao, R., Botelho, A. F., Liao, G., Chiu, T. K. F., Stamper, J., & Koedinger, K. R. (2026). [*How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures*](https://arxiv.org/abs/2601.06101). arXiv:2601.06101.
+Zhang, S., Xiao, R., Botelho, A. F., Liao, G., Chiu, T. K. F., Stamper, J., & Koedinger, K. R. (2026). [*How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures*](https://arxiv.org/abs/2601.06101).

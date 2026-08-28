@@ -1,7 +1,7 @@
 ---
 title: TeachBench - Evaluating LLM Teaching Ability
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, benchmark, formative-assessment, personalized-learning, feedback, ai-literacy, agentic-workflows]
 
@@ -101,4 +101,4 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - [[quantum-education-its]]
 ## Citation
 
-Models, T.A.S.F.F.E.T.A.I.L.L. (2026). [*TeachBench - Evaluating LLM Teaching Ability*](https://arxiv.org/abs/2601.21375)
+Li, Z., Song, S., Ma, J., Li, R., Zeng, Y., Li, M., et al. (2026). [*TeachBench - Evaluating LLM Teaching Ability*](https://arxiv.org/abs/2601.21375).

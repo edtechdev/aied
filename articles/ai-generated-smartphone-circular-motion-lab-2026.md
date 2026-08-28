@@ -65,4 +65,4 @@ The same simple setup allows both uniform and uniformly accelerated circular mot
 
 ## Citation
 
-Suñer, J. Ll., Muñoz-Pérez, F. M., Castro-Palacio, J. C., Monsoriu, J. A., Monteiro, M., Stari, C., & Martí, A. C. (2026). [*Studying circular motion with an AI-generated smartphone physics lab*](https://arxiv.org/abs/2607.28352). arXiv:2607.28352.
+Suñer, J. Ll., Muñoz-Pérez, F. M., Castro-Palacio, J. C., Monsoriu, J. A., Monteiro, M., Stari, C., & Martí, A. C. (2026). [*Studying circular motion with an AI-generated smartphone physics lab*](https://arxiv.org/abs/2607.28352).

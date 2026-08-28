@@ -49,4 +49,4 @@ For instructors and institutions, the results suggest that LLM-based classificat
 
 ## Citation
 
-Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026). [Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs](https://arxiv.org/abs/2606.13684). arXiv:2606.13684. AIED 2026.
+Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026). [Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs](https://arxiv.org/abs/2606.13684). AIED 2026.

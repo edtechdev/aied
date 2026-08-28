@@ -69,4 +69,4 @@ The Gem facilitated through language alone, supplemented only by the photographs
 
 ## Citation
 
-Tufino, E., & Damiani, P. (2026). [*Embodied inquiry with AI as facilitator: An exploratory case study*](https://arxiv.org/abs/2607.21349). arXiv:2607.21349.
+Tufino, E., & Damiani, P. (2026). [*Embodied inquiry with AI as facilitator: An exploratory case study*](https://arxiv.org/abs/2607.21349).

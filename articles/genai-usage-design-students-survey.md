@@ -34,4 +34,4 @@ Crucially, high GenAI adoption did not reduce students' perceived project owners
 
 ## Citation
 
-Stefana Broadbent, et al. (2026). [A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026](https://arxiv.org/abs/2607.17094). arXiv:2607.17094. arXiv:2607.17094 [cs.CY].
+Stefana Broadbent, et al. (2026). [A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026](https://arxiv.org/abs/2607.17094). .

@@ -56,4 +56,4 @@ The cross-sectional design does not establish directionality: engagement may sha
 
 ## Citation
 
-Yongkyung Oh, Lynn Talton, Alex Bui (2026). [Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction](https://arxiv.org/abs/2606.18548). arXiv:2606.18548.
+Yongkyung Oh, Lynn Talton, Alex Bui (2026). [Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction](https://arxiv.org/abs/2606.18548).

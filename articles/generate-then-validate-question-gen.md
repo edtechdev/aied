@@ -1,7 +1,7 @@
 ---
 title: "Generate-Then-Validate: Question Generation for Education"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [question-generation, llm, automated-assessment, stem-education, hallucination-reduction, automated-question-generation, slidesqaqa-pedagogical-question-generation]
 sources: ['raw/papers/2512.10110.md']
@@ -54,4 +54,4 @@ Automated question generation reduces manual authoring burden for educators and 
 
 ## Citation
 
-F, A.W.Y.S.J.C.P. (2026). [*Generate-Then-Validate: Question Generation for Education*](https://arxiv.org/abs/2512.10110). (LAK 2026), April 27-May 01 Wei, Y., Stamper, J., et al. (2025). *Generate-Then-Validate: A Novel Question Generation Approach*. arXiv preprint arXiv:2512.10110.
+Wei, Y., Stamper, J., & Carvalho, P. F. (2026). [*Generate-Then-Validate: Question Generation for Education*](https://arxiv.org/abs/2512.10110).

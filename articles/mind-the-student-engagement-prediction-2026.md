@@ -33,4 +33,5 @@ confidence: high
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
 
 ## Citation
-Kantarci, Ramesh, & Roig (2026). [*Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning*](https://arxiv.org/abs/2608.24340). arXiv:2608.24340.
+
+Kantarci, Ramesh, & Roig (2026). [*Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning*](https://arxiv.org/abs/2608.24340).

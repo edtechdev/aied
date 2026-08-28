@@ -31,4 +31,4 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 
 ## Citation
 
-Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026). [Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle](https://arxiv.org/abs/2606.22609). arXiv:2606.22609. arXiv:2606.22609 (cs.HC)
+Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026). [Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle](https://arxiv.org/abs/2606.22609).

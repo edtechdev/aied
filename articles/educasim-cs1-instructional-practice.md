@@ -43,4 +43,4 @@ sources: [raw/papers/2603.11444.md]
 
 ## Citation
 
-Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *[EducaSim: Interactive simulacra for CS1 instructional practice](https://arxiv.org/abs/2603.11444)* (arXiv:2603.11444). arXiv.
+Mohne, C., Vo, N., Demszky, D., & Piech, C. (2026). *[EducaSim: Interactive simulacra for CS1 instructional practice](https://arxiv.org/abs/2603.11444)*.

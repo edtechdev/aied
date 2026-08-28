@@ -31,4 +31,4 @@ Artificial intelligence assistants deployed in online learning environments crea
 - [[llm-sentiment-analysis-education-research]]
 ## Citation
 
-Yallen Bai, Ploy Thajchayapong, & Ashok Goel (2026). [Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains](https://arxiv.org/abs/2605.30303). arXiv:2605.30303. EDULEARN26.
+Yallen Bai, Ploy Thajchayapong, & Ashok Goel (2026). [Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains](https://arxiv.org/abs/2605.30303). EDULEARN26.

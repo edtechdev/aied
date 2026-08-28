@@ -33,4 +33,4 @@ The work sits within the broader literature on [[intelligent-tutoring]] and [[ag
 - [[agentic-workflows-education]]
 ## Citation
 
-Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026). [Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System](https://arxiv.org/abs/2607.13370). arXiv:2607.13370.
+Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026). [Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System](https://arxiv.org/abs/2607.13370).

@@ -68,4 +68,4 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[eduagentbench-agent-teaching-benchmark]]
 ## Citation
 
-Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). [Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design](https://arxiv.org/abs/2605.13906). arXiv:2605.13906 [cs.CY].
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). [Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design](https://arxiv.org/abs/2605.13906). [cs.CY].

@@ -35,4 +35,4 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 - [[engagement-assessment-video]]
 ## Citation
 
-Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Understanding student effort using response-time propensities during problem solving](https://arxiv.org/abs/2605.08943). arXiv:2605.08943.
+Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Understanding student effort using response-time propensities during problem solving](https://arxiv.org/abs/2605.08943).

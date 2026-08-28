@@ -49,4 +49,4 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 
 ## Citation
 
-Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026). [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718). arXiv:2606.14718. arXiv preprint.
+Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026). [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718). arXiv preprint.

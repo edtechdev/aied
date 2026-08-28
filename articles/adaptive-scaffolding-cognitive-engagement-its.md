@@ -80,4 +80,4 @@ The DRL policy was trained on data from a single semester and may not generalize
 
 ## Citation
 
-Dey Tithi, S., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., & Barnes, T. (2026). [Adaptive scaffolding for cognitive engagement in an intelligent tutoring system](https://arxiv.org/abs/2602.07308). arXiv preprint arXiv:2602.07308.
+Dey Tithi, S., Alam, N., Yasir, T., Shi, Y., Tian, X., Chi, M., & Barnes, T. (2026). [Adaptive scaffolding for cognitive engagement in an intelligent tutoring system](https://arxiv.org/abs/2602.07308). arXiv preprint.

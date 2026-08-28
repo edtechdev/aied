@@ -39,4 +39,4 @@ This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] 
 - [[ai-tutor-safety-harms]]
 ## Citation
 
-Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337). arXiv:2606.25337. cs.RO.
+Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337).

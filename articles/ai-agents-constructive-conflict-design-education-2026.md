@@ -62,4 +62,4 @@ The authors draw a clear design agenda for adversarial agents in education and d
 
 ## Citation
 
-Han, H. Z., & Martelaro, N. (2026). *[Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166)* (arXiv:2608.04166). Human-Agent Interaction (HAI) 2026.
+Han, H. Z., & Martelaro, N. (2026). *[Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166)*. Human-Agent Interaction (HAI) 2026.

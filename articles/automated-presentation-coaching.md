@@ -36,4 +36,4 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 
 ## Citation
 
-Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026). [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](https://arxiv.org/abs/2606.27380). arXiv:2606.27380. Computation and Language (cs.CL).
+Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026). [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](https://arxiv.org/abs/2606.27380). Computation and Language (cs.CL).

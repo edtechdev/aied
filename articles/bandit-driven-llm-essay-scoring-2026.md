@@ -35,4 +35,5 @@ confidence: high
 - [[roe-assessment-twins-2026]] — Assessment Twins: Strengthening Assessment Validity
 
 ## Citation
-Manakina & Bogdanov (2026). [*Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring*](https://arxiv.org/abs/2608.23814). arXiv:2608.23814.
+
+Manakina & Bogdanov (2026). [*Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring*](https://arxiv.org/abs/2608.23814).

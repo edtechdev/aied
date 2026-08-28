@@ -37,4 +37,4 @@ ng knowledge.
 
 ## Citation
 
-Geng, Francis et al. (2026). [Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis](https://arxiv.org/abs/2608.05898). arXiv:2608.05898.
+Geng, Francis et al. (2026). [Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis](https://arxiv.org/abs/2608.05898).

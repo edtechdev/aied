@@ -46,4 +46,4 @@ The results speak directly to the debate over how computing educators should res
 
 ## Citation
 
-Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better Than Evaluating GenAI Solutions?](https://arxiv.org/abs/2607.27586). arXiv:2607.27586. cs.CY, cs.AI.
+Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better Than Evaluating GenAI Solutions?](https://arxiv.org/abs/2607.27586).

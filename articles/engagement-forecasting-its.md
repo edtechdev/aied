@@ -3,7 +3,7 @@ title: "From Heuristics to Analytics: Forecasting Effort and Progress in Online 
 created: "2026-05-20T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, learning-analytics, engagement-metrics, k-12, efficacy-study, benchmark, scaffolding, rag, intelligent-tutoring, metacognition]
+tags: [intelligent-tutoring, learning-analytics, engagement-metrics, k-12, efficacy-study, benchmark, scaffolding, rag, metacognition]
 
 sources: ['raw/papers/2605.12788.md']
 confidence: high
@@ -63,4 +63,4 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 - [[genai-tutor-engagement-patterns]]
 ## Citation
 
-Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). [From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning.](https://arxiv.org/abs/2605.12788) arXiv:2605.12788. EDM 2026.
+Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). [*From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning*](https://arxiv.org/abs/2605.12788). EDM 2026.

@@ -30,4 +30,4 @@ Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scruta
 
 ## Citation
 
-Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl (2026). [Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI](https://arxiv.org/abs/2606.30590). arXiv:2606.30590. cs.HC.
+Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl (2026). [Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI](https://arxiv.org/abs/2606.30590).

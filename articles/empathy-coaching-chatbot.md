@@ -31,4 +31,4 @@ Siyan et al. (2026) conduct a carefully controlled experiment isolating the effe
 
 ## Citation
 
-Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, Zhou Yu (2026). [Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions](https://arxiv.org/abs/2606.26641). arXiv:2606.26641. cs.HC.
+Li Siyan, Kai-Hui Liang, Shopnil Shahriar, Yilin Ye, Shiyoh Goetsu, Wei-Wei Du, Masahiro Yoshida, Tsunayuki Ohwa, Xuhai Xu, Zhou Yu (2026). [Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions](https://arxiv.org/abs/2606.26641).

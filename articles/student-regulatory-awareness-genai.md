@@ -38,4 +38,4 @@ These findings highlight a significant gap between [[regulation|institutional re
 
 ## Citation
 
-Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). [Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education](https://arxiv.org/abs/2606.12436). arXiv:2606.12436.
+Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). [Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education](https://arxiv.org/abs/2606.12436).

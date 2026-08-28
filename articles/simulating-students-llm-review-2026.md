@@ -1,7 +1,7 @@
 ---
 title: "Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-08-24T09:00:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, agentic-ai, instructional-design, teacher-role, adaptive-learning]
 sources: ['raw/papers/2511.06078.md']
@@ -55,3 +55,6 @@ Simulated students offer a low-risk means of experimenting with pedagogical stra
 ## Implications
 
 For researchers and practitioners, the review carries several implications. First, LLM-based simulated students are best positioned as a complement to, not a replacement for, real-learner studies: the 1:1 calibration finding suggests LLMs can extend but not substitute for [[educational-measurement|measurement with human data]]. Second, the field's validity hinges on evaluation practice — formal validation of simulations is rare, echoing the pre-LLM "crisis of fidelity," so [[ai-ed-evaluation|evaluation reliability]] must become a first-class concern. Third, [[prompt-engineering|prompt design]] is decisive: well-crafted prompts that encode knowledge components, trait profiles, and illustrative rules produce more faithful behaviour than free-form prompting, and retrieval augmentation can sharpen proficiency modelling. Fourth, personality and memory mechanisms move simulation from text generation toward psychologically grounded [[simulation]], enabling [[teacher-education|teacher training]] and [[adaptive-learning|adaptive learning]] scenarios that are hard or ethically risky to stage with real students. Finally, [[bias-mitigation|algorithmic bias]] and over-idealisation demand critical scrutiny, and simulations must serve pedagogical objectives rather than merely reproducing plausible dialogue — grounding their adoption in [[ethics|educational alignment]] and sound [[student-modeling|learner modelling]].
+
+## Citation
+Marquez-Carpintero, L., Lopez-Sellers, A., & Cazorla, M. (2025). [*Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI*](https://arxiv.org/abs/2511.06078).

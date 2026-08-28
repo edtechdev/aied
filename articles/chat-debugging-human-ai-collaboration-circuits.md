@@ -81,4 +81,4 @@ As an exploratory pilot, the study's small, self-selected sample of 17 chat logs
 
 ## Citation
 
-Hu, J., & Ash, A. (2026). [*Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits*](https://arxiv.org/abs/2608.02955v1). arXiv:2608.02955v1.
+Hu, J., & Ash, A. (2026). [*Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits*](https://arxiv.org/abs/2608.02955v1). v1.

@@ -28,4 +28,4 @@ For [[intelligent-tutoring]] systems, this represents a significant methodologic
 - [[mbp-kt-meta-behavioral-knowledge-tracing]]
 ## Citation
 
-Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026). [StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing](https://arxiv.org/abs/2605.23048). arXiv:2605.23048. arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME).
+Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026). [StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing](https://arxiv.org/abs/2605.23048). arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME).

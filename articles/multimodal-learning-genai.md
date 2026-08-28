@@ -1,7 +1,7 @@
 ---
 title: Multimodal Learning with Generative AI
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-26T15:33:55-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment, pedagogical-llm-training, self-regulated-learning]
 sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
@@ -153,4 +153,4 @@ The guide includes 15+ educator case studies spanning:
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 ## Citation
 
-AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varga-Atkins, T., Saunders, S., & Hallam, S.B.S. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf)
+Varga-Atkins, T., Saunders, S., Beckingham, S., Hartley, P., Keshishi, N., Lacković, N., et al. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf).

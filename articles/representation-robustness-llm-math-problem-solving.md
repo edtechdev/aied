@@ -26,4 +26,4 @@ This study probes how sensitive [[llm]] mathematical problem solving is to the s
 - [[epistemic-proactivity-math]]
 ## Citation
 
-Nath, Graf, Zhang & Zapata-Rivera (2026). [Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving](https://arxiv.org/abs/2607.20520). arXiv:2607.20520. HCI International 2026.
+Nath, Graf, Zhang & Zapata-Rivera (2026). [Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving](https://arxiv.org/abs/2607.20520). HCI International 2026.

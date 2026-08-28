@@ -34,4 +34,4 @@ This work connects to core wiki themes: [[k-12]] [[teacher-role]] [[ai-literacy]
 
 ## Citation
 
-Song, Choi, Kim, Kim, Weisberg & Moon (2026). [A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding](https://arxiv.org/abs/2607.05406). arXiv:2607.05406. arXiv preprint.
+Song, Choi, Kim, Kim, Weisberg & Moon (2026). [A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding](https://arxiv.org/abs/2607.05406). arXiv preprint.

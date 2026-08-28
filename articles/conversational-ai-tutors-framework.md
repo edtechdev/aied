@@ -51,4 +51,4 @@ The keep/change/center/study framework gives researchers and developers a discip
 
 ## Citation
 
-Kirk Vanacore et al. (2026). [The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents](https://arxiv.org/abs/2602.19303). arXiv:2602.19303. cs.HC.
+Kirk Vanacore et al. (2026). [The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents](https://arxiv.org/abs/2602.19303).

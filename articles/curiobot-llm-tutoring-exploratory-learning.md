@@ -29,4 +29,4 @@ Ganganath et al. (2026) introduce CURIOBOT, a framework that operationalizes Ber
 
 ## Citation
 
-Gevindu Ganganath, Pasindu Bolonghege, Qianru Lyu, Pradeep Varakantham, Thivya Kandappu (2026). [Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior](https://arxiv.org/abs/2606.22349). arXiv:2606.22349. arXiv:2606.22349 (cs.CL; cs.HC) — submitted to EMNLP 2026
+Gevindu Ganganath, Pasindu Bolonghege, Qianru Lyu, Pradeep Varakantham, Thivya Kandappu (2026). [Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior](https://arxiv.org/abs/2606.22349). submitted to EMNLP 2026.

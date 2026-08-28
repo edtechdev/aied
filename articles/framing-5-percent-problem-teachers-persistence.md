@@ -41,4 +41,4 @@ The '5% problem' is reframed from an analytics failure to a design problem for t
 - [[engagement-forecasting-its]]
 ## Citation
 
-Conrad Borchers (2026). [Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology](https://arxiv.org/abs/2606.22294). arXiv:2606.22294. EC-TEL 2026
+Conrad Borchers (2026). [Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology](https://arxiv.org/abs/2606.22294). EC-TEL 2026

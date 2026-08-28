@@ -62,4 +62,4 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 
 ## Citation
 
-Woollaston, S., Flanagan, B., Wijerathne, I., & Ogata, H. (2026). [Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning](https://arxiv.org/abs/2606.04543). arXiv:2606.04543
+Woollaston, S., Flanagan, B., Wijerathne, I., & Ogata, H. (2026). [Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning](https://arxiv.org/abs/2606.04543).

@@ -33,4 +33,5 @@ confidence: high
 - [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
 
 ## Citation
-Zhang, Wang, Wu, Ding, Liu, Huang, Sha, Wang, & Liu (2026). [*Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing*](https://arxiv.org/abs/2608.24005). arXiv:2608.24005.
+
+Zhang, Wang, Wu, Ding, Liu, Huang, Sha, Wang, & Liu (2026). [*Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing*](https://arxiv.org/abs/2608.24005).

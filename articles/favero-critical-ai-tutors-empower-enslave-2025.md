@@ -58,4 +58,4 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 ## Citation
 
-Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878). arXiv:2507.06878.
+Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878).

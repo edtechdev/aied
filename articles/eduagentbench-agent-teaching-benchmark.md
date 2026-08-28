@@ -42,4 +42,4 @@ The finding that models struggle most with **multi-step teaching workflows** in 
 - [[teachbench-llm-teaching-evaluation]]
 ## Citation
 
-Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [Are agents ready to teach? A multi-stage benchmark for real-world teaching workflows](https://arxiv.org/abs/2605.14322). arXiv:2605.14322.
+Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [Are agents ready to teach? A multi-stage benchmark for real-world teaching workflows](https://arxiv.org/abs/2605.14322).

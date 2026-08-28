@@ -31,4 +31,4 @@ Islam et al. (2026) address a core limitation of generative text-to-video for ed
 
 ## Citation
 
-Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026). [CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora](https://arxiv.org/abs/2606.20608). arXiv:2606.20608. arXiv:2606.20608 (cs.CY; cs.AI; cs.CV)
+Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026). [CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora](https://arxiv.org/abs/2606.20608).

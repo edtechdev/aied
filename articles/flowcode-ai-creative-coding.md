@@ -35,4 +35,4 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 
 ## Citation
 
-Tseng, Seoror, Adda, Factor, Darabi, Matschke, Fu, Lin, Maram & Sinha (2026). [Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education](https://arxiv.org/abs/2607.06721). arXiv:2607.06721. arXiv preprint.
+Tseng, Seoror, Adda, Factor, Darabi, Matschke, Fu, Lin, Maram & Sinha (2026). [Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education](https://arxiv.org/abs/2607.06721). arXiv preprint.

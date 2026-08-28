@@ -31,4 +31,4 @@ As AI coding agents take over substantial implementation work, developers increa
 - [[agentic-workflows-education]]
 ## Citation
 
-Mehra, R., Suri, S., Tagadinamani, P. K., Singi, K., & Kaulgud, V. (2026). [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](https://arxiv.org/abs/2607.06101). arXiv:2607.06101.
+Mehra, R., Suri, S., Tagadinamani, P. K., Singi, K., & Kaulgud, V. (2026). [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](https://arxiv.org/abs/2607.06101).

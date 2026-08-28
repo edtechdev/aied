@@ -42,4 +42,4 @@ This study examines the [[student-modeling]] validity of **delayed start behavio
 
 ## Citation
 
-Gutterman, J., Gurung, A., Branstetter, L., Koedinger, K., & Aleven, V. (2026). [Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior](https://arxiv.org/abs/2606.25308). arXiv:2606.25308. cs.CY.
+Gutterman, J., Gurung, A., Branstetter, L., Koedinger, K., & Aleven, V. (2026). [Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior](https://arxiv.org/abs/2606.25308).

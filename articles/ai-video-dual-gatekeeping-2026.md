@@ -48,4 +48,5 @@ The authors surface three tensions: negotiating [[agency]] when automated flags 
 - [[hao-human-ai-collaborative-problem-solving-cognition]] — Human-AI Collaborative Problem Solving
 
 ## Citation
-Kim, Y., Baek, I., & Kwak, N. (2026). [*When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation*](https://arxiv.org/abs/2608.19812). CHI 2026 Workshop on Understanding and Engaging Critical Resistance to AI in Education. arXiv:2608.19812.
+
+Kim, Y., Baek, I., & Kwak, N. (2026). [*When Saying No Makes Better Videos: Designing Dual Gatekeeping for Pedagogically Grounded AI Content Creation*](https://arxiv.org/abs/2608.19812). CHI 2026 Workshop on Understanding and Engaging Critical Resistance to AI in Education.

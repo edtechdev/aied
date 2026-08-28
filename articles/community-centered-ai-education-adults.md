@@ -40,4 +40,4 @@ The study contributes design considerations for [[edtech-platform|educational te
 
 ## Citation
 
-Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://arxiv.org/abs/2606.26565). arXiv:2606.26565. arXiv cs.HC.
+Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://arxiv.org/abs/2606.26565). arXiv cs.HC.

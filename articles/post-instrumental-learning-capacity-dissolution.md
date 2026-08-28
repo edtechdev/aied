@@ -48,4 +48,4 @@ The article translates the argument into a deployment-review question: what will
 
 ## Citation
 
-Kai Yao (2026). [When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution](https://arxiv.org/abs/2607.28041). arXiv:2607.28041. cs.CY.
+Kai Yao (2026). [When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution](https://arxiv.org/abs/2607.28041).

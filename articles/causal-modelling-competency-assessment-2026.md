@@ -47,4 +47,4 @@ By making interventions and counterfactuals explicit, causal assessment models a
 
 ## Citation
 
-Mangili, F., Antonucci, A., & Cabañas, R. (2026). [*Causal modelling of support interventions for student competency assessment*](https://arxiv.org/abs/2608.24632). arXiv:2608.24632.
+Mangili, F., Antonucci, A., & Cabañas, R. (2026). [*Causal modelling of support interventions for student competency assessment*](https://arxiv.org/abs/2608.24632).

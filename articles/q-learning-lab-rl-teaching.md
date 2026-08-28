@@ -48,4 +48,4 @@ Reinforcement learning is usually introduced through the Bellman update, yet the
 
 ## Citation
 
-Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis](https://arxiv.org/abs/2607.10802). arXiv:2607.10802. arXiv preprint.
+Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis](https://arxiv.org/abs/2607.10802). arXiv preprint.

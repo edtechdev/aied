@@ -72,4 +72,4 @@ The online modality and small course size limited recruitment, and students self
 
 ## Citation
 
-Dawson, L., & Rebello, N. S. (2026). [*Exploring students' perceptions of using generative AI-assisted problem posing*](https://arxiv.org/abs/2608.12523). arXiv:2608.12523.
+Dawson, L., & Rebello, N. S. (2026). [*Exploring students' perceptions of using generative AI-assisted problem posing*](https://arxiv.org/abs/2608.12523).

@@ -31,4 +31,4 @@ Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest que
 
 ## Citation
 
-Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation](https://arxiv.org/abs/2606.23629). arXiv:2606.23629. arXiv:2606.23629 (cs.HC)
+Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation](https://arxiv.org/abs/2606.23629).

@@ -64,4 +64,4 @@ The Cognitive Commons is not presented as doomed: Ostrom showed communities can 
 
 ## Citation
 
-Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. *Human Resource Development Review*, advance online publication](https://doi.org/10.1177/15344843261470602). (arXiv:2607.29380)
+Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. *Human Resource Development Review*, advance online publication](https://doi.org/10.1177/15344843261470602).

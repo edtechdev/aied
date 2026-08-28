@@ -33,4 +33,4 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 
 ## Citation
 
-Arroyo, G., López, L., & Torres, J. C. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. [arXiv:2606.05929](https://arxiv.org/abs/2606.05929).
+Arroyo, G., López, L., & Torres, J. C. (2026). [*Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education*](https://arxiv.org/abs/2606.05929).

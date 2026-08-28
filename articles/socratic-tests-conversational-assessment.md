@@ -42,4 +42,4 @@ A stated goal is human-AI alignment for [[assessment-validity|measurement reliab
 
 ## Citation
 
-Mikhelson, I. (2026). [The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations](https://arxiv.org/abs/2607.29624). arXiv:2607.29624.
+Mikhelson, I. (2026). [The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations](https://arxiv.org/abs/2607.29624).

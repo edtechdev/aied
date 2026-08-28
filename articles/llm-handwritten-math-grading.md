@@ -31,4 +31,4 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 - [[llm-cognitive-diagnosis-handwritten-math]]
 ## Citation
 
-Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs](https://arxiv.org/abs/2605.19043). arXiv:2605.19043. International Conference on AI in Education (AIED 2026).
+Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs](https://arxiv.org/abs/2605.19043). International Conference on AI in Education (AIED 2026).

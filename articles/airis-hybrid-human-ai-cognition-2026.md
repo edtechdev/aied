@@ -36,4 +36,5 @@ confidence: high
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance
 
 ## Citation
-Kuhn, Gerjets, Trautwein, Greene, Malone, Vogt, & Fütterer (2026). [*AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency*](https://arxiv.org/abs/2608.21618). arXiv:2608.21618 (physics.ed-ph).
+
+Kuhn, Gerjets, Trautwein, Greene, Malone, Vogt, & Fütterer (2026). [*AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency*](https://arxiv.org/abs/2608.21618). (physics.ed-ph).

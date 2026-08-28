@@ -43,4 +43,4 @@ As AI code tools become integrated into programming environments, the emphasis o
 - [[reshaping-cs-education-genai]]
 ## Citation
 
-Nasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026). [Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications](https://arxiv.org/abs/2607.10674). arXiv:2607.10674. arXiv preprint.
+Nasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026). [Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications](https://arxiv.org/abs/2607.10674). arXiv preprint.

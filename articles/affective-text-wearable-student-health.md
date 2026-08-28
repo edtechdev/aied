@@ -71,4 +71,4 @@ For the broader [[affective-tutoring]] and multimodal research agenda, the study
 - [[physiological-signals-exam-outcomes-ml]]
 ## Citation
 
-Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P. S., Fudolig, M. I., Bloomfield, L., & Danforth, C. (2026). [A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring](https://arxiv.org/abs/2605.14360). arXiv:2605.14360 [cs.HC]. Submitted to ACM IMWUT.
+Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P. S., Fudolig, M. I., Bloomfield, L., & Danforth, C. (2026). [A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring](https://arxiv.org/abs/2605.14360). [cs.HC]. Submitted to ACM IMWUT.

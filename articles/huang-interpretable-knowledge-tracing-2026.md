@@ -1,7 +1,7 @@
 ---
 title: Interpretable Knowledge Tracing
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-08-26T15:34:20-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [knowledge-tracing, interpretability, student-modeling, item-response-theory, intelligent-tutoring, rag]
 
@@ -61,4 +61,4 @@ Future work should extend the framework to multi-skill settings (where students 
 
 ## Citation
 
-Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)
+Huang, S., Scarlatos, A., Lee, J., & Lan, A. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097).

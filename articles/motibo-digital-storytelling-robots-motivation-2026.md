@@ -32,4 +32,5 @@ The study is quasi-experimental (non-random assignment) with a five-day learning
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: Robot-Mediated Role-Play
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 ## Citation
-Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*](https://arxiv.org/abs/2601.01218). arXiv:2601.01218.
+
+Fung, K. Y., & Lui, T. L. R. (2026). [*MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*](https://arxiv.org/abs/2601.01218).

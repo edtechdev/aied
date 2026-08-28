@@ -49,4 +49,4 @@ The findings push back on the assumption that withholding answers is always the 
 
 ## Citation
 
-Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692). arXiv:2607.01692.
+Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692).

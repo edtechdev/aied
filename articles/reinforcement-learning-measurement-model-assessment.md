@@ -39,4 +39,4 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 - [[llm-psychometric-calibration-cdp]]
 ## Citation
 
-Xu, W., & Ji, F. (2026). [Reinforcement learning measurement model](https://arxiv.org/abs/2605.09305). arXiv:2605.09305.
+Xu, W., & Ji, F. (2026). [Reinforcement learning measurement model](https://arxiv.org/abs/2605.09305).

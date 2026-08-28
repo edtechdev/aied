@@ -47,4 +47,4 @@ For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best 
 
 ## Citation
 
-Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). [Development and applications of Generative AI in architectural design studios](https://arxiv.org/abs/2607.24752). arXiv:2607.24752. cs.HC.
+Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). [Development and applications of Generative AI in architectural design studios](https://arxiv.org/abs/2607.24752).

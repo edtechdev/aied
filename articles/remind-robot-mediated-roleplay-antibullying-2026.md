@@ -46,4 +46,4 @@ The evaluation involved a small sample (18 children aged 9–10) in a play-testi
 
 ## Citation
 
-Sanoubari, E., Fernandes, N., Rebello, K., Pan, A., Houston, A., & Dautenhahn, K. (2026). [*Play-testing REMind: Evaluating an educational robot-mediated role-play game*](https://arxiv.org/abs/2604.00300). arXiv:2604.00300.
+Sanoubari, E., Fernandes, N., Rebello, K., Pan, A., Houston, A., & Dautenhahn, K. (2026). [*Play-testing REMind: Evaluating an educational robot-mediated role-play game*](https://arxiv.org/abs/2604.00300).

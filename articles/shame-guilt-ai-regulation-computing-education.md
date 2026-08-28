@@ -50,4 +50,4 @@ The findings suggest that prevailing responses to AI use — particularly those 
 
 ## Citation
 
-Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education*](https://arxiv.org/abs/2606.14920). arXiv:2606.14920.
+Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education*](https://arxiv.org/abs/2606.14920).

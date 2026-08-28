@@ -89,4 +89,4 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 
 ## Citation
 
-Finkelstein, N. (2025). [*A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies*](https://arxiv.org/abs/2510.01467). arXiv:2510.01467.
+Finkelstein, N. (2025). [*A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies*](https://arxiv.org/abs/2510.01467).

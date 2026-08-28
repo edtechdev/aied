@@ -81,4 +81,4 @@ Human coders had access to video (tone, timing, nonverbal cues) while LLMs were 
 
 ## Citation
 
-Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). [Measuring cognitive engagement in collaborative discourse with an extended ICAP framework](https://arxiv.org/abs/2607.28651). *CogSci 2026*. arXiv:2607.28651.
+Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). [Measuring cognitive engagement in collaborative discourse with an extended ICAP framework](https://arxiv.org/abs/2607.28651). *CogSci 2026*.

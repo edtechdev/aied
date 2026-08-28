@@ -52,4 +52,4 @@ For science education, the argument reorients design: the many factors reported 
 
 ## Citation
 
-Marcus Kubsch (2026). [AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation](https://arxiv.org/abs/2606.16822). arXiv:2606.16822. arXiv preprint (physics.ed-ph).
+Marcus Kubsch (2026). [AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation](https://arxiv.org/abs/2606.16822). arXiv preprint (physics.ed-ph).

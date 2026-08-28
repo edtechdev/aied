@@ -50,4 +50,4 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 
 ## Citation
 
-Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.
+Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373).

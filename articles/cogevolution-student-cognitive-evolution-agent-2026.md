@@ -83,4 +83,4 @@ CogEvolution shifts [[simulating-students|student simulation]] from surface beha
 
 ## Citation
 
-Zhang, W., Cheng, Y., Ye, Z., & Huang, K. (2026). [*CogEvolution: A human-like generative educational agent to simulate student's cognitive evolution*](https://arxiv.org/abs/2604.14786). arXiv preprint arXiv:2604.14786.
+Zhang, W., Cheng, Y., Ye, Z., & Huang, K. (2026). [*CogEvolution: A human-like generative educational agent to simulate student's cognitive evolution*](https://arxiv.org/abs/2604.14786). arXiv preprint.

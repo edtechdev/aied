@@ -30,4 +30,4 @@ Revisits WordStream (2009) as a quantitative encoding for qualitative learning a
 
 ## Citation
 
-Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). [Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics](https://arxiv.org/abs/2606.18692). arXiv:2606.18692.
+Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). [Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics](https://arxiv.org/abs/2606.18692).

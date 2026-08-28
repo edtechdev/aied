@@ -3,7 +3,7 @@ title: "Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learnin
 created: "2026-08-17T06:45:00-04:00"
 updated: "2026-08-17T06:45:00-04:00"
 type: article
-tags: [generative-ai, creativity, human-ai-collaboration, metacognition, self-regulated-learning, prompt-engineering, higher-ed, cognitive-offloading, cognitive-offloading]
+tags: [generative-ai, creativity, human-ai-collaboration, metacognition, self-regulated-learning, prompt-engineering, higher-ed, cognitive-offloading]
 
 sources: ['raw/papers/10.1007_s10648-026-10118-7.md']
 confidence: high

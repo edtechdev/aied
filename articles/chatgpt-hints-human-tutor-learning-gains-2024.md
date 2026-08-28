@@ -3,7 +3,7 @@ title: "ChatGPT-generated help produces learning gains equivalent to human tutor
 created: "2026-08-12T21:26:01-04:00"
 updated: "2026-08-24T16:30:00-04:00"
 type: article
-tags: [generative-ai, llm, intelligent-tutoring, intelligent-tutoring, scaffolding, math-education, learning-gains, hallucination-risk, adaptive-learning, feedback]
+tags: [generative-ai, llm, intelligent-tutoring, scaffolding, math-education, learning-gains, hallucination-risk, adaptive-learning, feedback]
 
 sources: ['raw/papers/chatgpt-hints-human-tutor-learning-gains-2024.md']
 confidence: high

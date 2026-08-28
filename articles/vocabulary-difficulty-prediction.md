@@ -61,4 +61,4 @@ BEA (Building Educational Applications) is the premier venue for NLP-for-educati
 - [[llm-item-difficulty-prediction]]
 ## Citation
 
-Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). [What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction.](https://arxiv.org/abs/2605.14257) arXiv:2605.14257. BEA 2026.
+Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). [*What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction*](https://arxiv.org/abs/2605.14257). BEA 2026.

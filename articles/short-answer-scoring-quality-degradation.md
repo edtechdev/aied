@@ -1,7 +1,7 @@
 ---
 title: "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, formative-assessment, llm, benchmark, efficacy-study, human-in-the-loop-ai, assessment-validity, open-source]
 
@@ -55,4 +55,4 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[llm-psychometric-calibration-cdp]]
 ## Citation
 
-Klebanov, A.A.V.G.S.M.A.B.B., Scoring:, Q.A.I.A.S.A., Adaptation, M.D.A.T.I.O.T., Klebanov2, A.V.G.S.M.A.B.B., Alexandron1, A.S.G., & Princeton, E. (2026). [*Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation*](https://arxiv.org/abs/2605.07647). par- require ample training data (Gurin Schleifer et al
+Schleifer, A. V. G., Ariely, M., & Klebanov, B. B. (2026). [*Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation*](https://arxiv.org/abs/2605.07647).

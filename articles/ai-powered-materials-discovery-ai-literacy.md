@@ -37,4 +37,4 @@ The framework also touches on [[metacognition]] — students need to develop jud
 - [[agentic-workflows-education]]
 ## Citation
 
-Mei, D., Moore, K., & Sayler, B. (2026). [Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment](https://arxiv.org/abs/2605.09624). arXiv:2605.09624.
+Mei, D., Moore, K., & Sayler, B. (2026). [Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment](https://arxiv.org/abs/2605.09624).

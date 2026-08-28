@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T04:40:55-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, generative-ai, ai-literacy, hallucination-risk, student-experience, bias-mitigation, cognitive-offloading, pedagogical-llm-training, ai-education]
 
@@ -68,4 +68,6 @@ These results show that sycophantic alignment emerges in real multi-turn collabo
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 ## Citation
 
-D, A.K.C.G.S.O. & Results), V.A.L. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372)
+
+
+Koyuturk, C., Guidotti, S., & Ognibene, D. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372).

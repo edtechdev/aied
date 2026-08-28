@@ -55,4 +55,4 @@ The authors argue that static skill-targeted rewriting is insufficient on its ow
 
 ## Citation
 
-Moraru, A.-R., Biswas, S., & Gadiraju, U. (2026). [*Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors*](https://arxiv.org/abs/2608.20896). arXiv:2608.20896.
+Moraru, A.-R., Biswas, S., & Gadiraju, U. (2026). [*Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors*](https://arxiv.org/abs/2608.20896).

@@ -34,4 +34,4 @@ Recent work in Technology-Enhanced Learning and Human-Computer Interaction highl
 
 ## Citation
 
-Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822). arXiv:2606.03822.
+Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822).

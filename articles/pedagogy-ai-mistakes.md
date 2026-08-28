@@ -120,4 +120,4 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 
 ## Citation
 
-Hosseini, H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking*](https://arxiv.org/abs/2605.05472). arXiv:2605.05472. Accepted to AIED-2026.
+Hosseini, H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking*](https://arxiv.org/abs/2605.05472). Accepted to AIED-2026.

@@ -33,4 +33,4 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 - [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
-Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). arXiv:2606.28186. Computation and Language (cs.CL).
+Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). Computation and Language (cs.CL).

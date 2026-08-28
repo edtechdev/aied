@@ -24,4 +24,4 @@ Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date
 
 ## Citation
 
-Taelin Karidi, Ofra Amir, Ido Roll (2026). [AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI](https://arxiv.org/abs/2606.29442). arXiv:2606.29442. cs.CY (AIED 2026).
+Taelin Karidi, Ofra Amir, Ido Roll (2026). [AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI](https://arxiv.org/abs/2606.29442). cs.CY (AIED 2026).

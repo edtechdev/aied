@@ -31,4 +31,4 @@ Hossain (2026) develops a typology of LLM reliance among undergraduate writers a
 
 ## Citation
 
-Shahin Hossain (2026). [Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University](https://arxiv.org/abs/2606.28749). arXiv:2606.28749. cs.CY / cs.AI / cs.HC.
+Shahin Hossain (2026). [Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University](https://arxiv.org/abs/2606.28749). cs.CY / cs.AI / cs.HC.

@@ -1,7 +1,7 @@
 ---
 title: "From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-26T15:34:20-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [writing-education, student-experience, ai-generated-content, metacognition, generative-ai, llm]
 sources: ['raw/papers/ai-writing-support-stage-ownership-2026.md']
@@ -44,4 +44,6 @@ confidence: high
 
 ## Citation
 
-quality, M.F.O.A.T.A.E. (2026). [*From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*](https://arxiv.org/abs/2604.11009)
+
+
+Gero, K. I., Long, T., Schnitzler, C., & Dhillon, P. (2026). [*From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*](https://arxiv.org/abs/2604.11009).

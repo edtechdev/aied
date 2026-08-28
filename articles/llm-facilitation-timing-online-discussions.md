@@ -56,4 +56,4 @@ For online learning environments — MOOC-style forums and classroom discussion 
 
 ## Citation
 
-Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). [To facilitate or not to facilitate: Human and LLM facilitator tendencies in online discussions](https://arxiv.org/abs/2607.28643). arXiv:2607.28643.
+Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). [To facilitate or not to facilitate: Human and LLM facilitator tendencies in online discussions](https://arxiv.org/abs/2607.28643).

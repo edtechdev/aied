@@ -32,4 +32,4 @@ This study compares two approaches to profiling how learners offload cognitive a
 
 ## Citation
 
-Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jovanovic, J. (2026). [*Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content*](https://arxiv.org/abs/2606.10434). arXiv:2606.10434.
+Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jovanovic, J. (2026). [*Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content*](https://arxiv.org/abs/2606.10434).

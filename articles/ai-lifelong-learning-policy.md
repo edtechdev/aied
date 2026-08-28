@@ -72,4 +72,4 @@ Future directions call for ethical AI frameworks emphasizing transparency, fairn
 - [[ai-pedagogical-orientation]]
 ## Citation
 
-Andresa Theodora, Nikolaos Tselios (2026). [Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy](https://arxiv.org/abs/2605.16296). arXiv:2605.16296 [cs.CY].
+Andresa Theodora, Nikolaos Tselios (2026). [Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy](https://arxiv.org/abs/2605.16296). [cs.CY].

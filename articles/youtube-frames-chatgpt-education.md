@@ -30,4 +30,4 @@ Uses epistemic network analysis of multimodal YouTube metadata (transcripts, tit
 - [[pedagogy-ai-mistakes]]
 ## Citation
 
-L. Xiao, G. Chen, Y. Zhang et al. (2026). [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://arxiv.org/abs/2607.08698). arXiv:2607.08698.
+L. Xiao, G. Chen, Y. Zhang et al. (2026). [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://arxiv.org/abs/2607.08698).

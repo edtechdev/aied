@@ -31,4 +31,4 @@ This paper introduces a simulation-based framework for evaluating how learner ta
 - [[valid-student-simulation-llm-2026]]
 ## Citation
 
-Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). arXiv:2605.21613. EDM 2026 (short paper).
+Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). EDM 2026 (short paper).

@@ -40,4 +40,4 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 - [[ai-learning-companions-framework]]
 ## Citation
 
-Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). [Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation](https://arxiv.org/abs/2605.15127). arXiv:2605.15127.
+Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). [Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation](https://arxiv.org/abs/2605.15127).

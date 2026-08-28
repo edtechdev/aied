@@ -49,4 +49,4 @@ For the [[benchmark]] community and for AI tutor deployment, the findings argue 
 
 ## Citation
 
-Junyi Yao, Zihao Zheng, Baichuan Li (2026). [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](https://arxiv.org/abs/2606.16206). arXiv:2606.16206. arXiv preprint.
+Junyi Yao, Zihao Zheng, Baichuan Li (2026). [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](https://arxiv.org/abs/2606.16206). arXiv preprint.

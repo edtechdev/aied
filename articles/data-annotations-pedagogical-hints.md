@@ -26,4 +26,4 @@ The pedagogical claim is that interpretive diversity in labeling is itself a tea
 
 ## Citation
 
-Raumanns, R., Elstner, T., Ferger-Andrews, L., Carlsen, L. M., Potthast, M., & Schouten, G. (2026). [Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking](https://arxiv.org/abs/2607.20149). arXiv:2607.20149. arXiv preprint (cs.CY).
+Raumanns, R., Elstner, T., Ferger-Andrews, L., Carlsen, L. M., Potthast, M., & Schouten, G. (2026). [Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking](https://arxiv.org/abs/2607.20149). arXiv preprint (cs.CY).

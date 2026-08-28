@@ -1,7 +1,7 @@
 ---
 title: Programming Intelligent Tutoring Systems
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, formative-assessment, student-misconceptions-conditionals-loops-taxonomy, adaptive-learning-systems, rag, llm]
 sources: ['raw/papers/2604.16117.md']
@@ -81,4 +81,4 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 - [[socraticode-k12-programming-tutor]]
 ## Citation
 
-Paassen, A.A.D.J.D.B. (2026). [*Programming Intelligent Tutoring Systems*](https://arxiv.org/abs/2604.16117)
+Deriyeva, A., Dannath, J., & Paaßen, B. (2026). [*Programming Intelligent Tutoring Systems*](https://arxiv.org/abs/2604.16117).

@@ -1,7 +1,7 @@
 ---
 title: A meta-analysis of the effect of generative AI on productivity and learning in programming
 created: "2026-05-06T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [rct, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis, regulation, writing-education, assessment-validity, llm]
 sources: ['raw/papers/2605.04779.md']
@@ -60,4 +60,4 @@ The findings have implications beyond programming — the productivity-learning 
 - [[llm-fallacy-misattribution]]
 ## Citation
 
-Schweisthal, A.S.M.M.G.J., on, A.M.O.T.E.O.G.A., Manuel, S.M.M.G.J.S., 1,2, S.A.S.F., Munich, L.M., Munich, M.C.F.M.L., searched, O.G.C.A.O.P.A.L.W.S., & us-, A.S.W.R.T.C.G.W.U.P. (2026). [*A meta-analysis of the effect of generative AI on productivity and learning in programming*](https://arxiv.org/abs/2605.04779). contrast, we find no statistically significant effect of GenAI assistance on learning outcomes (g = 0
+Maier, S., Gunzenhäuser, M., & Schweisthal, J. (2026). [*A meta-analysis of the effect of generative AI on productivity and learning in programming*](https://arxiv.org/abs/2605.04779).

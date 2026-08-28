@@ -71,4 +71,4 @@ TRACE reframes next-semester academic prediction as a joint course-set and grade
 
 ## Citation
 
-Savala, P. (2026). [*Jointly predicting courses and grades using a transformer-based model*](https://arxiv.org/abs/2608.13409). arXiv:2608.13409.
+Savala, P. (2026). [*Jointly predicting courses and grades using a transformer-based model*](https://arxiv.org/abs/2608.13409).

@@ -72,4 +72,4 @@ More broadly, PLKT demonstrates that predictive accuracy and interpretability ne
 - [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
-Wu, Xu, & Zhang (2026). [Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning](https://arxiv.org/abs/2605.09369). arXiv:2605.09369. arXiv preprint (cs.AI).
+Wu, Xu, & Zhang (2026). [Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning](https://arxiv.org/abs/2605.09369). arXiv preprint (cs.AI).

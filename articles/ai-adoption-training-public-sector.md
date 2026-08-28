@@ -48,4 +48,4 @@ The study is a concrete demonstration that [[ai-literacy]] behaves as a developm
 
 ## Citation
 
-Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517). arXiv:2606.01517.
+Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517).

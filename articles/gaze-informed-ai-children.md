@@ -43,4 +43,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration](https://arxiv.org/abs/2607.00445). arXiv:2607.00445. submitted 1 Jul 2026
+Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration](https://arxiv.org/abs/2607.00445). submitted 1 Jul 2026

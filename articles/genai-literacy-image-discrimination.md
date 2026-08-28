@@ -21,4 +21,4 @@ Kamali et al. (2026) evaluate a Generative AI Literacy training intervention des
 - [[ai-literacy-continuum-higher-education]]
 ## Citation
 
-Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh (2026). [Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images](https://arxiv.org/abs/2606.28510). arXiv:2606.28510. cs.HC / cs.AI / cs.CY.
+Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh (2026). [Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images](https://arxiv.org/abs/2606.28510). cs.HC / cs.AI / cs.CY.

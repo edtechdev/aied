@@ -85,4 +85,5 @@ The challenges are real, deep, and interconnected, and cannot be addressed by ad
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 
 ## Citation
-Briot, J.-P. (2026). [*Challenges for Musical Education in the Age of AI and Digital Transformation*](https://arxiv.org/abs/2608.05176). arXiv:2608.05176.
+
+Briot, J.-P. (2026). [*Challenges for Musical Education in the Age of AI and Digital Transformation*](https://arxiv.org/abs/2608.05176).

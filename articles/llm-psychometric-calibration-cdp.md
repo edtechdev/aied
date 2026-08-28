@@ -41,4 +41,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Wenjie Zhou, Yunting Liu, Renjiao Tang, Mark Wilson (2026). [Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach](https://arxiv.org/abs/2607.26317). arXiv:2607.26317. arXiv preprint.
+Wenjie Zhou, Yunting Liu, Renjiao Tang, Mark Wilson (2026). [Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach](https://arxiv.org/abs/2607.26317). arXiv preprint.

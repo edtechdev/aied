@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedback, teacher-role, human-in-the-loop-ai, retrieval-augmented-generation, rag]
 
@@ -56,4 +56,4 @@ The findings position rubric-grounded GenAI feedback as a promising complement t
 - [[aiawe-automated-writing-evaluation]]
 ## Citation
 
-Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055)
+Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055).

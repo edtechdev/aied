@@ -41,4 +41,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Amanda La Hadi, Muhammad Johan Alibasa, Guanliang Chen, A. Taufiq Asyhari (2026). [The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty](https://arxiv.org/abs/2607.26067). arXiv:2607.26067. EDM 2026 (Educational Data Mining Conference).
+Amanda La Hadi, Muhammad Johan Alibasa, Guanliang Chen, A. Taufiq Asyhari (2026). [The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty](https://arxiv.org/abs/2607.26067). EDM 2026 (Educational Data Mining Conference).

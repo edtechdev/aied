@@ -60,4 +60,4 @@ This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [
 
 ## Citation
 
-Keith Tran, Colton Harper, Thomas Price (2026). ["Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming](https://arxiv.org/abs/2606.30480). arXiv:2606.30480. cs.CY.
+Keith Tran, Colton Harper, Thomas Price (2026). ["Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming](https://arxiv.org/abs/2606.30480).

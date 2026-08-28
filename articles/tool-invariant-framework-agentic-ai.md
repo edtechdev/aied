@@ -79,4 +79,4 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 ## Citation
 
-Engelhardt, L. (2026). A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI. [arXiv:2607.15518](https://arxiv.org/abs/2607.15518) [physics.ed-ph]. https://doi.org/10.48550/arXiv.2607.15518
+Engelhardt, L. (2026). [*A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI*](https://arxiv.org/abs/2607.15518).

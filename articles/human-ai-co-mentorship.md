@@ -1,7 +1,7 @@
 ---
 title: "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [stem-education, k-12, higher-ed, active-learning, scaffolding, personalized-learning, project-based-learning, intelligent-tutoring, agentic-workflows]
 
@@ -60,4 +60,4 @@ For educators, co-mentorship positions AI as a guided support tool rather than a
 - [[agentic-education-coding]]
 ## Citation
 
-Khvatskii, A.F.C.A.C.R.S.J.G.G. (2026). [*Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting*](https://arxiv.org/abs/2605.05144)
+Chawla, F., Chawla, A., Singh, R., Germino, J., & Khvatskii, G. (2026). [*Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting*](https://arxiv.org/abs/2605.05144).

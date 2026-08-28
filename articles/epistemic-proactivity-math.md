@@ -63,4 +63,4 @@ The study is correlational (temporal indicators are not causal mechanisms), and 
 
 ## Citation
 
-Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://arxiv.org/abs/2606.28472). arXiv:2606.28472 (cs.CY).
+Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://arxiv.org/abs/2606.28472). (cs.CY).

@@ -34,4 +34,4 @@ MedEasy multi-agent system simulates standardized patients with varying conditio
 
 ## Citation
 
-Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang (2026). [MedEasy: Designing AI Standardized Patients for Clinical Consultation Training](https://arxiv.org/abs/2606.17512). arXiv:2606.17512.
+Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang (2026). [MedEasy: Designing AI Standardized Patients for Clinical Consultation Training](https://arxiv.org/abs/2606.17512).

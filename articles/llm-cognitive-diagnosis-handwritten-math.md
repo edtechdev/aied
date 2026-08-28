@@ -84,4 +84,4 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 
 ## Citation
 
-Kim, Y., Jin, H., Doh, H., Kim, E., Jung, D., Kim, S., Choi, K., Son, J., & Kim, J. (2025). [*Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work*](https://arxiv.org/abs/2504.00843). arXiv:2504.00843.
+Kim, Y., Jin, H., Doh, H., Kim, E., Jung, D., Kim, S., Choi, K., Son, J., & Kim, J. (2025). [*Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work*](https://arxiv.org/abs/2504.00843).

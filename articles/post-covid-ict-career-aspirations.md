@@ -24,4 +24,4 @@ confidence: medium
 - [[teacher-ai-adoption-confidence]]
 ## Citation
 
-Diana Maria Popa, Simona-Vasilica Oprea, Adela Bâra (2026). [Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?](https://arxiv.org/abs/2605.27391). arXiv:2605.27391. arXiv preprint.
+Diana Maria Popa, Simona-Vasilica Oprea, Adela Bâra (2026). [Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?](https://arxiv.org/abs/2605.27391). arXiv preprint.

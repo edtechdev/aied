@@ -3,7 +3,7 @@ title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learni
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [desirable-difficulties, cognitive-offloading, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
+tags: [desirable-difficulties, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
 ---
@@ -53,4 +53,4 @@ naided tests.
 
 ## Citation
 
-Brcic, M., & Frljic, S. (2026). [*The effortless trap: Productive struggle, AI, and the illusion of learning*](https://arxiv.org/abs/2606.26181). arXiv:2606.26181.
+Brcic, M., & Frljic, S. (2026). [*The effortless trap: Productive struggle, AI, and the illusion of learning*](https://arxiv.org/abs/2606.26181).

@@ -64,4 +64,4 @@ The study reveals a fundamental structural challenge in [[ai-education|AI govern
 
 ## Citation
 
-Manikonda, L., & Outlaw, D. (2026). [*Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools*](https://arxiv.org/abs/2608.03584v1). arXiv:2608.03584v1.
+Manikonda, L., & Outlaw, D. (2026). [*Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools*](https://arxiv.org/abs/2608.03584v1). v1.

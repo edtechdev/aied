@@ -48,4 +48,4 @@ This work connects to the broader [[automated-question-generation]] literature a
 - [[moodle-ai-tutoring-deep-learning]]
 ## Citation
 
-Kurdya, Z., Zuqlam, M., Amassi, S., Telbany, S., & Saad, M. (2026). [Taklif.AI: LLM-powered platform for interest-based personalized college assignments](https://arxiv.org/abs/2605.05842). arXiv:2605.05842.
+Kurdya, Z., Zuqlam, M., Amassi, S., Telbany, S., & Saad, M. (2026). [Taklif.AI: LLM-powered platform for interest-based personalized college assignments](https://arxiv.org/abs/2605.05842).

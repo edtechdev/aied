@@ -3,7 +3,7 @@ title: "Coach not crutch: Evidence that AI can improve writing skill despite red
 created: "2026-08-15T18:32:07-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
-tags: [writing-education, cognitive-offloading, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
+tags: [writing-education, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
 
 sources: ['raw/papers/coach-not-crutch-ai-writing.md']
 confidence: high
@@ -55,4 +55,4 @@ Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using 
 
 ## Citation
 
-Lira, B., Rogers, T., Goldstein, D. G., Ungar, L., & Duckworth, A. L. (2025). [*Coach not crutch: Evidence that AI can improve writing skill despite reducing effort*](https://arxiv.org/abs/2502.02880). arXiv:2502.02880.
+Lira, B., Rogers, T., Goldstein, D. G., Ungar, L., & Duckworth, A. L. (2025). [*Coach not crutch: Evidence that AI can improve writing skill despite reducing effort*](https://arxiv.org/abs/2502.02880).

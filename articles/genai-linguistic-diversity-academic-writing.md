@@ -49,4 +49,4 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 
 ## Citation
 
-Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). [Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes](https://arxiv.org/abs/2607.28505). arXiv:2607.28505. cs.CL.
+Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). [Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes](https://arxiv.org/abs/2607.28505).

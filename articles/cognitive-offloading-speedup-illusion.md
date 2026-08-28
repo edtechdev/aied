@@ -3,7 +3,7 @@ title: Cognitive offloading and the speedup illusion in human-AI interaction
 created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [cognitive-offloading, metacognition, efficacy-study, student-experience, cognitive-offloading, ai-assistance-reduces-persistence, llm]
+tags: [cognitive-offloading, metacognition, efficacy-study, student-experience, ai-assistance-reduces-persistence, llm]
 
 sources: ['raw/papers/2605.23177.md']
 confidence: high
@@ -27,4 +27,4 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 
 ## Citation
 
-Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins (2026). [Cognitive offloading and the speedup illusion in human-AI interaction](https://arxiv.org/abs/2605.23177). arXiv:2605.23177. Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026).
+Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins (2026). [Cognitive offloading and the speedup illusion in human-AI interaction](https://arxiv.org/abs/2605.23177). Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026).

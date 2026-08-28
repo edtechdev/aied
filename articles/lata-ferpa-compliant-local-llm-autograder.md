@@ -55,4 +55,4 @@ LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] land
 - [[principled-ai-education]]
 ## Citation
 
-Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework](https://arxiv.org/abs/2605.05410). arXiv:2605.05410. Submitted to Computers & Education.
+Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework](https://arxiv.org/abs/2605.05410). Submitted to Computers & Education.

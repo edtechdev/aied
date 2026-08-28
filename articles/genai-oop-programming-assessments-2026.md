@@ -53,4 +53,5 @@ The results support the view that contemporary GenAI can outperform the average 
 - [[critical-engagement-code-completion]] — Critical engagement with code completion
 
 ## Citation
-Lepp, M., & Kaimre, J. (2026). [*Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026*](https://arxiv.org/abs/2608.16318). arXiv:2608.16318 [cs.SE].
+
+Lepp, M., & Kaimre, J. (2026). [*Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming Assessments: Insights from 2026*](https://arxiv.org/abs/2608.16318). [cs.SE].

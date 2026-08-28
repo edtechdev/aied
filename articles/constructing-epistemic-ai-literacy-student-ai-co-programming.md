@@ -44,4 +44,4 @@ The finding that most student-GenAI interactions exhibit weak epistemic engageme
 - [[agentic-education-coding]]
 ## Citation
 
-Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming](https://arxiv.org/abs/2607.00211). arXiv:2607.00211.
+Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming](https://arxiv.org/abs/2607.00211).

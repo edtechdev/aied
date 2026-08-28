@@ -73,4 +73,4 @@ These are not resolvable by more information or better tools — they require di
 - [[institutional-change-framework-ai]]
 ## Citation
 
-Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M., & Foley, J. J., IV. (2026). [Faculty orientations shape adoption of AI in research and teaching](https://arxiv.org/abs/2605.18140). arXiv:2605.18140.
+Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M., & Foley, J. J., IV. (2026). [Faculty orientations shape adoption of AI in research and teaching](https://arxiv.org/abs/2605.18140).

@@ -55,4 +55,4 @@ Context mattered. At highly selective universities, the proportion of deep engag
 
 ## Citation
 
-Youjie Chen et al. (2026). [Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use](https://arxiv.org/abs/2602.00447). arXiv:2602.00447. cs.CY.
+Youjie Chen et al. (2026). [Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use](https://arxiv.org/abs/2602.00447).

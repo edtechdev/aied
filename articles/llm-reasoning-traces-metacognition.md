@@ -42,4 +42,4 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[genai-assessment-governance]]
 ## Citation
 
-Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). [Explaining too much? Understanding how large language model reasoning traces influence performance and metacognition](https://arxiv.org/abs/2605.25856). arXiv:2605.25856. cs.HC.
+Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). [Explaining too much? Understanding how large language model reasoning traces influence performance and metacognition](https://arxiv.org/abs/2605.25856).

@@ -94,4 +94,4 @@ The paper makes the case that **validity (epistemic fidelity) must come before s
 
 ## Citation
 
-Yuan, Z., Xiao, Y., Li, M., Xuan, W., Tong, R., Diab, M., & Mitchell, T. (2026). [*Towards valid student simulation with large language models*](https://arxiv.org/abs/2601.05473). arXiv:2601.05473.
+Yuan, Z., Xiao, Y., Li, M., Xuan, W., Tong, R., Diab, M., & Mitchell, T. (2026). [*Towards valid student simulation with large language models*](https://arxiv.org/abs/2601.05473).

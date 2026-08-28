@@ -66,4 +66,4 @@ The nine studies were implemented in heterogeneous learning contexts, making cro
 
 ## Citation
 
-Hingle, A., & Johri, A. (2025). [*Systematic review of collaborative learning activities for promoting AI literacy*](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.
+Hingle, A., & Johri, A. (2025). [*Systematic review of collaborative learning activities for promoting AI literacy*](https://arxiv.org/abs/2508.15111v1).

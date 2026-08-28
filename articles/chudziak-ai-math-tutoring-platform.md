@@ -3,7 +3,7 @@ title: "AI-Powered Math Tutoring: Platform for Personalized and Adaptive Educati
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, math-education, intelligent-tutoring, adaptive-learning, personalized-learning, multi-agent, llm, generative-ai, socratic-method, rag, student-modeling, agentic-ai]
+tags: [intelligent-tutoring, math-education, adaptive-learning, personalized-learning, multi-agent, llm, generative-ai, socratic-method, rag, student-modeling, agentic-ai]
 
 sources: ['raw/papers/chudziak-ai-math-tutoring-platform.md']
 confidence: medium
@@ -64,4 +64,4 @@ Real-world user studies to assess [[learning-gains|learning gains]], user experi
 
 ## Citation
 
-Chudziak, J. A., & Kostka, A. (2025). [*AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education*](https://doi.org/10.48550/arXiv.2507.12484). The 26th International Conference on Artificial Intelligence in Education (AIED 2025). arXiv:2507.12484.
+Chudziak, J. A., & Kostka, A. (2025). [*AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education*](https://doi.org/10.48550/arXiv.2507.12484). The 26th International Conference on Artificial Intelligence in Education (AIED 2025).
