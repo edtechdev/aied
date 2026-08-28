@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T11:21:46.201612-04:00"
+updated: "2026-08-28T16:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -56,6 +56,19 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-de
 
 - **GenAI defeats autogradable homework (2026):** ChatGPT passed every one of 150 test sessions on deliberately hardened, autogradable Qiskit (quantum computing) homework designs — personalisation, hidden references, reflections, simulator execution — showing that rubric-based graders cannot reliably distinguish AI-completed from student-completed work and arguing for direct assessment of understanding ([[chatgpt-qiskit-homework-autogradable-2026]]).
 - **Evaluation in the age of AI — output as evidence (2026):** a university-level analysis argues the AI assessment crisis is a misalignment between assessment design and [[learning-gains|learning outcomes]], not just dishonesty; it documents surveillance harms (lockdown browsers, eye-tracking), a "Disclosure Trap" (students fear declaring AI use lowers marks), a performance gap that grades socioeconomic status (paid vs. free [[llm]] tiers), and "pedagogical burnout" among faculty policing AI — recommending process-based evaluation over detection ([[evaluation-age-ai-output-evidence-2026]]).
+
+### Newer evidence: ethical reasoning, detection limits, AI marketing, and ghost students
+
+A wave of recent research sharpens the picture of academic integrity in the age of generative AI:
+
+- **Secondary students reason about AI-giarism situationally, not as a fixed rule.** [[chan-rethinking-aigiarism-secondary-integrity-2026|Chan (2026)]] shows that secondary students' ethical reasoning about "AI-giarism" is nuanced and context-dependent — many see AI-assisted work as acceptable when it supports understanding but problematic when it substitutes for their own effort — challenging the assumption that students simply lack integrity or that a single policy can capture their ethics.
+- **Authentic assessments alone cannot safeguard integrity.** [[kofinas-generative-ai-authentic-assessment-integrity-2025|Kofinas et al. (2025)]] find that markers generally **cannot distinguish** assessments with GenAI input from those without, and that the level of assessment authenticity has **no impact** on the ability to safeguard against or detect GenAI use. The higher-education sector "cannot rely on authentic assessments alone to control the impact of GenAI" — a direct challenge to the [[authentic-assessment|assessment-redesign]] strategy, which must be paired with other measures.
+- **Purpose must precede policy.** [[taylor-lacroix-purpose-before-policy-academic-integrity-2026|Taylor & LaCroix (2026)]] argue that whether GenAI use constitutes misconduct depends on the university's *purpose*. Rising misconduct cases reflect structural incoherence in the neo-liberal university, where technological enthusiasm, corporate influence, and policy enforcement conflict — leaving students accountable for behaviours implicitly shaped by the institution. Universities cannot credibly enforce integrity without coherence between stated mission, pedagogy, and technology practice.
+- **Psychological and behavioral determinants.** [[psychological-mechanisms-academic-integrity-ai-2026|Frontiers research]] maps the psychological mechanisms and behavioral determinants of academic integrity under AI — how attitudes, self-efficacy, norms, and perceived consequences shape honest use — connecting integrity to [[motivation]], [[self-efficacy]], and [[ai-literacy]] as behavioural constructs rather than pure rule-following.
+- **Students' ethical judgments are divided and use-dependent.** [[lopez-lopez-academic-integrity-ai-study-practices-2026|López-López et al. (2026)]] survey 357 students and find AI use is routine and usually perceived as helpful, yet ethical judgments remain divided: a slight majority rejected the idea that AI use is fraud, more than a third were undecided, and more frequent use and perceived learning support were associated with more permissive judgments — while perceived creativity reduction pulled the other way.
+- **AI marketing normalises use and framess "cheating vs. competing."** [[sobo-cheating-competing-ai-marketing-literacy-2025|Sobo et al. (2025)]] show AI is marketed to students as a practical necessity ("Make your writing sound more natural to avoid being mistakenly flagged"), and students feel compelled to adopt it to stay competitive even while worrying about dependency and learning forfeiture — an internalized entrepreneurial imperative. This points to the need for [[reducing-ai-misuse|marketing literacy]] as part of AI integrity education.
+- **AI humanizers expose the performative cycle of detection.** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] catalog 55 AI-humanizer websites that alter AI-generated text to evade detection, framed through Goffman's dramaturgy. Humanizers make misconduct discursively absent and perform legitimacy, demonstrating that the detection-vs-circumvention arms race is structurally unending — reinforcing the shift from [[ai-detection|policing]] to assessment design and [[ai-literacy]].
+- **Ghost students and the agentic-AI verification gap.** [[bozkurt-ghost-students-agentic-ai-2026|Bozkurt, Crompton & Fell Kurban (2026)]] introduce the **"ghost student"**: a digital surrogate created by coupling LLMs (the "mind") with agentic AI browsers (the "body") that can navigate LMS, engage content, and complete assessments with human-like mimicry, making the actual learner's presence optional. This creates a **verification gap** that traditional proctoring and detection are structurally unable to close — an integrity threat that grows as AI becomes [[agentic-ai|agentic]] rather than merely generative.
 
 ## Connected Concepts
 - [[ai-use-disclosure]] — AI use and disclosure statements
@@ -127,3 +140,10 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-de
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI disclosure
+- [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Secondary students' ethical reasoning about AI-giarism (Chan 2026)
+- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI and authentic assessment integrity (Kofinas et al. 2025)
+- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic integrity and student study practices with AI (Lopez-Lopez et al. 2026)
+- [[psychological-mechanisms-academic-integrity-ai-2026]] — Psychological mechanisms of academic integrity under AI
+- [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose before policy: academic integrity and GenAI (Taylor & LaCroix 2026)
+- [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy in assessment (Roe et al. 2026)
+- [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
