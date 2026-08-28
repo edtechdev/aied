@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T05:00:36-04:00"
+updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, multi-agent, safety, evaluation, llm, generative-ai, human-ai-interaction, benchmark, ai-education]
 sources: ['raw/papers/2608.03166v1.md']
@@ -20,7 +20,7 @@ confidence: high
 
 ## Background and Motivation
 
-[[agentic-ai|Role-playing language agents]] (RPLAs) are increasingly deployed in high-stakes settings such as healthcare assistance, customer support, and education, where success depends not just on linguistic fluency but on maintaining consistent personas, respecting ethical constraints, and behaving coherently over long interactions. Yet most current evaluation approaches rely on static [[benchmark|benchmark datasets]] or isolated single-turn prompts that fail to model adversarial or malicious user behavior, while [[human-in-the-loop-ai|human evaluation]] is expensive, subjective, and hard to scale. As a result, deployed agents exhibit role abandonment, ethical violations, and contradictory behavior under adversarial inputs.
+[[agentic-ai|Role-playing language agents]] (RPLAs) are increasingly deployed in high-stakes settings such as healthcare assistance, customer support, and [[ai-education|education]], where success depends not just on linguistic fluency but on maintaining consistent personas, respecting [[ethics|ethical constraints]], and behaving coherently over long interactions. Yet most current evaluation approaches rely on static [[benchmark|benchmark datasets]] or isolated single-turn prompts that fail to model adversarial or malicious user behavior, while [[human-in-the-loop-ai|human evaluation]] is expensive, subjective, and hard to scale. As a result, deployed agents exhibit role abandonment, [[ai-misuse-learning-harm|ethical violations]], and contradictory behavior under adversarial inputs.
 
 The authors propose a modular, multi-agent framework that stress-tests RPLAs through sustained adversarial dialogue rather than isolated probes. Its contributions include a production-grade extensible platform, a strategy-driven agent for systematic failure discovery, a multi-dimensional automated evaluation framework, and a reproducible experimental pipeline with persistent storage and visualization.
 
@@ -30,7 +30,7 @@ The framework is built on a client-server architecture with a FastAPI backend an
 
 - **Interrogator Agent.** An automated adversary that applies structured attack strategies across multiple turns, dynamically adapting and escalating pressure based on the Target's prior responses. It models realistic misuse rather than issuing random or isolated prompts.
 - **Target Agent.** The RPLA under evaluation, treated as a black box to reflect real deployment conditions. It is initialized with a role description, persona specification, domain context, and explicit behavioral and ethical constraints, maintaining an internal [[conversational-ai|conversation]] memory.
-- **Judging Agent.** A post-hoc evaluator that never participates in dialogue generation, keeping assessment unbiased. It produces quantitative scores plus qualitative explanations of specific failure points.
+- **Judging Agent.** A post-hoc evaluator that never participates in dialogue generation, keeping assessment unbiased. It produces [[quantitative-research|quantitative]] scores plus [[qualitative-research|qualitative]] explanations of specific failure points.
 
 ## The Six Adversarial Strategies
 
@@ -41,7 +41,7 @@ The Interrogator Agent applies six structured strategies, each targeting a speci
 3. **Contradiction** — induces logical inconsistencies.
 4. **Confusion** — introduces ambiguous inputs causing coherence breakdown.
 5. **Authority Challenge** — simulates boundary pressure (boundary violation).
-6. **Emotional Manipulation** — applies affective influence to destabilize responses.
+6. **Emotional Manipulation** — applies [[affective-computing|affective]] influence to destabilize responses.
 
 Strategies are deployed via a progressive difficulty-based mechanism: early turns (1–3) favor lower-difficulty attacks like Role Drift and Confusion, while later turns unlock escalated strategies like Emotional Manipulation and Authority Challenge, mirroring real-world misuse patterns.
 
@@ -54,7 +54,7 @@ The Judging Agent computes four normalized, model-agnostic metrics bounded to [0
 - **Ethical Deviation (ED)** — violations of behavioral and ethical constraints.
 - **Consistency (CS)** — logical coherence and tonal stability across turns.
 
-The overall score is `0.3 × RF + 0.2 × (1 − DI) + 0.3 × (1 − ED) + 0.2 × CS`, with all metric code released open-source for community auditing.
+The overall score is `0.3 × RF + 0.2 × (1 − DI) + 0.3 × (1 − ED) + 0.2 × CS`, with all metric code released [[open-source]] for community auditing.
 
 ## Results
 
@@ -73,7 +73,7 @@ The framework focuses on prompt-based attacks and does not consider vulnerabilit
 ## Implications
 
 - **For evaluation practice:** Single-strategy and short-turn evaluation meaningfully overestimate agent robustness; comprehensive, multi-turn adversarial testing should become a standard part of [[ai-ed-evaluation|evaluating educational AI agents]].
-- **For educational deployment:** Tutors and pedagogical agents need periodic adversarial testing to guard against [[ai-misuse-learning-harm|boundary violations]] under emotional or authority pressure, and to protect learner [[trust]] and [[pedagogical-safety|safety]].
+- **For educational deployment:** Tutors and [[pedagogy|pedagogical]] agents need periodic adversarial testing to guard against [[ai-misuse-learning-harm|boundary violations]] under emotional or authority pressure, and to protect learner [[trust]] and [[pedagogical-safety|safety]].
 - **For developers:** Automated judging with occasional human calibration offers a scalable path to ongoing [[ethics|ethical]] monitoring of deployed [[agentic-ai|agents]], balancing scalability with conservative bias toward catching safety failures.
 
 ## Connected Concepts
