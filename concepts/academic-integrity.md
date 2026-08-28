@@ -21,7 +21,7 @@ The arrival of generative AI has not created the need for academic integrity —
 
 ### The rationalization problem
 
-Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[student-misconceptions-ai|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
+Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[misconceptions|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
 
 ### Why policy alone fails: the coordination problem
 
@@ -72,7 +72,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-de
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[k-12]]

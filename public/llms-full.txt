@@ -40,7 +40,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is ([[ai-education|the umbrella itself]], [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[prompt-engineering|Prompt engineering]] and [[ai-use-disclosure|AI use disclosure]] round out the practical cross-cutting layer.
+The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is ([[ai-education|the umbrella itself]], [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]] and [[ai-use-disclosure|AI use disclosure]] round out the practical cross-cutting layer.
 
 ## Learning and instruction
 
@@ -48,7 +48,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 - **Core pedagogies:** [[pedagogy|pedagogies and teaching strategies]] — the umbrella for the wiki's teaching-methods coverage — along with [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[problem-based-learning|problem-based learning]], [[productive-failure|productive failure]], [[inquiry-based-learning|inquiry-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[learning-by-teaching|learning by teaching]], [[scaffolding]], [[socratic-method|the Socratic method]], [[storytelling-in-education|storytelling]], [[instructional-design|instructional design]], and [[online-teaching-and-learning|online teaching and learning]].
 - **Learning theories and processes:** the [[learning-theories|learning theories]] umbrella ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], [[embodied-learning|embodied learning]], [[community-of-inquiry|community of inquiry]]) sits alongside learner-facing processes like [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[motivation]], [[self-efficacy]], [[self-directed-learning|self-directed learning]], [[metacognition]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[prior-knowledge|prior knowledge]], [[icap-framework|ICAP cognitive engagement]], [[refutation-text|refutation text]], and [[activity-theory-aied|activity theory]].
-- **Learner engagement and experience:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], [[student-misconceptions-ai|student misconceptions about AI]], and [[student-ai-interaction|student–AI interaction]] shape how learners actually encounter and are affected by AI.
+- **Learner engagement and experience:** [[student-engagement|student engagement]], [[help-seeking]], [[social-emotional-learning|social-emotional learning]], [[well-being]], [[creativity]], and [[student-ai-interaction|student–AI interaction]] shape how learners actually encounter and are affected by AI.
 
 ## AI technologies and techniques
 
@@ -108,6 +108,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[ai-anxiety-and-stress]] — AI anxiety and stress in education
 - [[career-development-and-readiness]] — Career development and readiness
 - [[ai-literacy]] — AI literacy
+- [[misconceptions]] — Misconceptions about AI
 - [[ai-technologies]] — AI technologies and techniques
 - [[intelligent-tutoring]] — Intelligent tutoring systems
 - [[cognitive-psychology]] — Cognitivism / cognitive psychology
@@ -167,6 +168,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 ---
 
@@ -500,6 +502,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 
 - [[liang-ai-learning-motivation-sdt-2026]] — SDT latent transition analysis of students' AI learning motivation (2,086 secondary students)
 - [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 ---
 
@@ -515,7 +518,7 @@ The wiki's connected articles converge on a central claim: computational thinkin
 
 - **Educational robotics as a vehicle for CT.** Robotics is the most-studied context for developing CT across [[k-12]] and [[stem-education]]. [[computational-thinking-educational-robotics-secondary-2026|Secondary-school research]] argues that educational robotics enhances problem solving and critical thinking only when CT concepts are made explicit and mapped onto the [[stem-education|STEAM]] curriculum rather than treated as isolated technical exercises. A [[game-based-gamified-robotics-education-review-2026|systematic review of 95 studies]] confirms that robotics fosters CT, creativity, and problem solving, and that [[game-based-learning]] suits informal settings while gamification dominates formal classrooms and supports project-based learning. [[microbit-robotics-machine-learning-teacher-training-2026|Teacher-training evidence]] shows an integrated Micro:bit + robot + machine-learning intervention produced significant CT knowledge gains (d = 0.638) in initial teacher education, arguing robotics should be embedded so future teachers can teach CT. LLMs can lower the barrier further: [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] couples an LLM with robot simulation so beginners control robots via natural language, making CT-embedded robotics accessible without low-level coding.
 
-- **LLMs as tools for CT assessment and development.** [[generative-ai|Generative AI]] offers scalable ways to measure and scaffold CT. [[llm-computational-thinking-physics-2026|Physics CT assessment research]] showed LLMs can mirror human raters in scoring growth in Data Practices and Computational Problem-Solving Practices across large-enrollment [[physics-education]] courses — while both humans and the LLM struggled with the more complex Systems Thinking construct, marking a clear boundary for automation. [[visual-query-tracer-declarative-logic-learning|Visual query tracing]] shows how visualization can scaffold abstract computation, building intuition that supports CT development. [[student-misconceptions-conditionals-loops-taxonomy|A taxonomy of conditionals-and-loops misconceptions]] provides fine-grained targets for [[scaffolding]] and for automated misconception detection, connecting to [[student-misconceptions-ai]]. These tools work best, however, when pedagogical design leads: [[llm-intervention-design-cs-review|the CS review]] found semester-long "Virtual Tutor" designs with scaffolded feedback consistently improved CT, whereas unstructured tool access increased frustration.
+- **LLMs as tools for CT assessment and development.** [[generative-ai|Generative AI]] offers scalable ways to measure and scaffold CT. [[llm-computational-thinking-physics-2026|Physics CT assessment research]] showed LLMs can mirror human raters in scoring growth in Data Practices and Computational Problem-Solving Practices across large-enrollment [[physics-education]] courses — while both humans and the LLM struggled with the more complex Systems Thinking construct, marking a clear boundary for automation. [[visual-query-tracer-declarative-logic-learning|Visual query tracing]] shows how visualization can scaffold abstract computation, building intuition that supports CT development. [[student-misconceptions-conditionals-loops-taxonomy|A taxonomy of conditionals-and-loops misconceptions]] provides fine-grained targets for [[scaffolding]] and for automated misconception detection, connecting to [[misconceptions]]. These tools work best, however, when pedagogical design leads: [[llm-intervention-design-cs-review|the CS review]] found semester-long "Virtual Tutor" designs with scaffolded feedback consistently improved CT, whereas unstructured tool access increased frustration.
 
 - **CT across K-12, teacher education, and assessment redesign.** CT spans the whole [[k-12]] to [[higher-ed]] spectrum and is reshaping assessment. At the early-childhood end, AI-Play extends CT and AI literacy to Pre-K–K2 learners and non-technical families; at the university end, the [[genai-oop-programming-assessments-2026|OOP assessment study]] found 2026 GenAI systems outperform the average student on authentic programming exams yet still fail on interfaces, abstract classes, and inheritance — recurring conceptual gaps that mark exactly where CT remains hard to automate. [[solving-vs-evaluating-genai-solutions|A randomized A/B crossover study]] showed that evaluation-and-critique tasks produce comparable outcomes to generation, suggesting CT can be exercised through judging flawed AI solutions, though gains require deliberate scaffolding. Underpinning all of this is the teacher: the microbit study links CT instruction directly to [[teacher-education]], and [[hashmi-socratic-physics-chatbot-2025|Socratic chatbot research]] ties the precise problem formulation that CT demands to measurable course performance.
 
@@ -556,7 +559,7 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[teacher-education]]
 - [[simulation]]
 - [[socratic-method]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[agentic-ai]]
 
 ## Connected Articles
@@ -592,6 +595,89 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+
+---
+
+## [Misconceptions about AI](https://edtechdev.github.io/aied/concepts/misconceptions/)
+
+> **Misconceptions about AI** — the inaccurate beliefs people hold about what AI systems are, what they do, and what using them means for learning and work. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process). They are held not only by students but also by teachers, administrators, policymakers, and the broader public — and correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
+
+Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the wiki documents under [[cognitive-offloading|Over-Reliance]] and [[academic-integrity]] concerns. People rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding. In education these errors shape everything from how students study to how teachers and institutions design curricula, assessment, and policy.
+
+### What AI misconceptions are
+
+A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in [[learning-theories|learning science]]: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
+
+### Common misconceptions in academic contexts
+
+- **The authority fallacy** — treating [[llm]] output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
+- **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[cognitive-offloading|Over-Reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
+- **The neutrality illusion** — assuming AI is objective and unbiased. Students often miss that models encode training-data biases and that in [[writing-education]] contexts this produces idea homogenization across a cohort.
+- **The integrity gray zone** — misjudging whether [[academic-integrity|AI use is acceptable]]. Some students see AI output as "not copying a person" and therefore permissible; others over-correct and think *any* use is cheating. [[governance|Institutional]] inconsistency feeds both errors.
+- **Anthropomorphism** — believing the model has intent, memory, and understanding of *their* context. This over-trust is especially risky academically, because students may rely on plausible-sounding explanations the model cannot actually ground.
+- **The determinism error** — expecting one query to be enough and not realizing output is non-deterministic and prompt-sensitive. Underestimating this produces the "[[prompt-engineering|prompting]] gap," where students mistake shallow results for the tool's ceiling.
+- **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
+- **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
+
+### Institutional and public AI myths
+
+Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and agentic, that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises [[higher-ed|higher education]]," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[trust|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
+
+### Why misconceptions matter for learning
+
+Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the wiki's evidence base.
+
+### Misconceptions beyond students: teachers, institutions, and the public
+
+AI misconceptions are not confined to learners — they are pervasive among the adults who shape education:
+
+- **Teachers and faculty** may overestimate AI's ability to reliably grade or detect misuse, or underestimate its bias, leading to either uncritical adoption or reflexive banning. When teachers hold the [[trust|authority fallacy]] about AI outputs, they model the same uncritical posture they should be correcting in students. Preparing [[teacher-role|educators]] with accurate mental models of AI is a prerequisite for [[teacher-ai-competency|responsible AI integration]] and [[pedagogical-safety|safe pedagogy]].
+- **Administrators and policymakers** inherit and propagate institutional myths — that AI is "objective," that it will "revolutionise" education, or that detection tools are trustworthy — which then shape [[educational-policy-ai|policy]], procurement, and assessment rules. The [[trust-calibration|trust]] students develop is partly a product of the institutional framing they inherit.
+- **The general public** absorbs media and vendor narratives about AI's capabilities and risks. Because students learn within this discourse, public myths become the substrate from which student misconceptions grow. Correcting AI misconceptions is therefore an [[ai-literacy]] task aimed at the whole educational ecosystem, not only at learners.
+
+This breadth is why the wiki treats misconceptions as a cross-cutting foundational theme rather than a purely student-facing one: the same calibration errors recur across learners, teachers, institutions, and the public, and correcting them requires confronting both individual beliefs and the discourse that feeds them.
+
+### Correcting misconceptions
+
+Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process that develops [[metacognition]] and [[self-regulated-learning]]: helping students (and the adults around them) monitor their reliance, calibrate when to trust and when to question a model, and see the cost of bypassing their own [[cognitive-offloading|cognitive work]]. Because misconceptions are resistant, they are best addressed through direct confrontation with evidence — including the finding that students often *do not perceive* the learning harm of AI misuse.
+
+**Refutation text is a core correction technique.** Because misconceptions are actively held and resistant, the most direct evidence-based strategy is the [[refutation-text|refutation text]] — an instructional text that states the misconception, explicitly refutes it, and presents the correct conception. This is the same family of technique used to correct the domain misconceptions studied in learning science, applied here to students' beliefs about AI itself. The wiki's [[refutation-text]] concept page synthesizes how this plays out in [[ai-education|AI in education]] in three complementary ways:
+
+- **AI as the corrector.** [[conversational-ai|Conversational AI]] tutors can deliver *personalised* refutation, adapting the refutation to a learner's specific misconception on the fly. [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]] found personalised AI dialogue produced larger and faster belief reductions than static textbook-style refutation, with higher [[student-engagement|engagement]] and confidence — though the advantage faded by two months without reinforcement.
+- **AI as the generator of refutation content.** [[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan (2025)]] found AI-generated conceptual-change/refutation text matched expert-written quality (and both outperformed a prompted interactive dialogue in that science context), showing AI can produce effective correction materials at scale.
+- **AI-generated misconceptions as a learning resource.** Rather than treating AI-generated misconceptions as merely harmful, [[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. (2026)]] propose generating misconceptions and addressing them through structured peer discussion — a collaborative form of refutation that promotes conceptual change and [[critical-thinking|critical thinking]].
+
+For misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help people see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears. Because misconceptions span learners and the adults who shape learning, effective correction must reach [[teacher-role|teachers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]] as much as students.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[academic-integrity]]
+- [[hallucination-risk]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[framing-ai-use-for-students]]
+- [[refutation-text]]
+- [[teacher-role]]
+- [[educational-policy-ai]]
+- [[trust]]
+
+## Connected Articles
+
+- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
+
+- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
+- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
+- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
+- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
+- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 
 ---
 
@@ -1112,6 +1198,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 ---
 
@@ -2700,7 +2787,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 ## Core ideas
 
 - **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with [[prior-knowledge|prior knowledge]], and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
-- **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[student-misconceptions-ai]] and to AI tutors that adapt to the learner.
+- **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[misconceptions]] and to AI tutors that adapt to the learner.
 - **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally [[situated-learning|situated]] activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
 - **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" [[student-engagement|engagement]] above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
 
@@ -2769,7 +2856,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[agency]]
 - [[critical-thinking]]
 - [[ai-literacy]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[learning-theories]]
 - [[behaviorism]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
@@ -3819,7 +3906,7 @@ Prior knowledge activation is one of the most robust findings in the learning sc
 
 - **It is the strongest predictor of learning.** Decades of research show that what a learner already knows correlates with learning outcomes more strongly than almost any other factor, because new information is encoded relative to existing mental models. AI systems that adapt to each learner's prior-knowledge state therefore hold particular promise for efficiency and [[transfer-of-learning|transfer]].
 - **Activation matters, not just possession.** Having prior knowledge is not enough — it must be actively retrieved and connected to the new material. This is why "activating prior knowledge" is a standard [[pedagogy|instructional]] move, and why retrieval practice (recalling what you know before adding to it) improves learning beyond simple re-exposure.
-- **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[student-misconceptions-ai|misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
+- **It shapes interpretation.** Learners interpret new information through what they already believe. When those beliefs are wrong ([[misconceptions|misconceptions]]), prior knowledge can *interfere* with learning, which is why instruction must surface and address misconceptions rather than assume a neutral starting point.
 - **It drives student modeling.** To personalize, an AI system must estimate the learner's prior-knowledge state — the basis of [[knowledge-tracing]], student modeling, and adaptive [[scaffolding]]. The quality of these estimates determines whether adaptation is genuinely helpful or misleading.
 
 ## Prior knowledge in the AI era
@@ -3843,7 +3930,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[constructivist]]
 - [[personalized-learning]]
 - [[student-modeling]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[icap-framework]]
 - [[knowledge-tracing]]
 - [[scaffolding]]
@@ -3954,7 +4041,7 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 
 ## [Refutation Text](https://edtechdev.github.io/aied/concepts/refutation-text/)
 
-> **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[student-misconceptions-ai|conceptual-change]] literature of science education, refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In AI in education, refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalised dialogue, LLM-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.
+> **Refutation text** — a misconception-correction technique in which a text explicitly states a common misconception, directly refutes it, and then presents the scientifically correct conception. Originating in the [[misconceptions|conceptual-change]] literature of science education, refutation texts are a proven, low-tech intervention for dislodging stable, intuition-aligned misconceptions that resist ordinary instruction. In AI in education, refutation texts are increasingly used in two ways: as a **comparison condition** for AI-based interventions (personalised dialogue, LLM-generated content), and as **AI-generated content** — conceptual-change texts and misconception texts produced by [[generative-ai|generative AI]] to correct beliefs or to seed collaborative discussion.
 
 ### The concept
 
@@ -3967,7 +4054,7 @@ In AI in education, the core finding is that the *format* and *interactivity* of
 - **AI as the corrector.** Conversational AI tutors can deliver *personalised* refutation — adapting the refutation to the learner's specific misconception on the fly, which pre-written texts cannot do. This produces stronger immediate belief change and higher engagement/confidence than static refutation ([[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen 2026]]), though effects may need spaced reinforcement to persist.
 - **AI as the generator of refutation content.** [[generative-ai|Generative AI]] can produce effective conceptual-change texts that match expert-written quality ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan 2025]]), and can generate large numbers of context-specific misconception texts cheaply — scaling misconception-based learning that would otherwise depend on educator experience ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
 - **AI-generated misconceptions as a learning resource.** Rather than viewing AI-generated misconceptions as harmful, structured peer discussion of them — a form of collaborative refutation — can promote conceptual change and critical thinking ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
-- **Complementing misconception education.** Refutation texts are a recommended strategy for correcting the conceptual misconceptions that underpin students' mistaken beliefs about AI itself (see [[student-misconceptions-ai]] and [[critical-genai-use-predictors]]).
+- **Complementing misconception education.** Refutation texts are a recommended strategy for correcting the conceptual misconceptions that underpin students' mistaken beliefs about AI itself (see [[misconceptions]] and [[critical-genai-use-predictors]]).
 
 ### Refutation text vs. related techniques
 
@@ -3986,7 +4073,7 @@ Refutation texts are one member of the conceptual-change toolkit, alongside anal
 For educators, refutation texts remain a reliable, low-barrier way to correct stubborn misconceptions. For those integrating AI, the evidence suggests: (1) use AI to *generate* effective refutation/conceptual-change content at scale; (2) where feasible, deliver refutation through personalised AI dialogue for stronger immediate engagement and belief change; (3) expect AI-generated misconceptions to be pedagogically useful when structured discussion is used to confront them; and (4) design for the learner — refutation effects can be concentrated in high-achieving students and moderated by epistemology and metacognition, so scaffolding and follow-up matter.
 
 ## Connected Concepts
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[scaffolding]]
 - [[metacognition]]
 - [[generative-ai]]
@@ -4471,76 +4558,6 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[genai-mindtool-generative-learning]] — GenAI as a Mindtool for Generative Learning
-
----
-
-## [Student Misconceptions about AI](https://edtechdev.github.io/aied/concepts/student-misconceptions-ai/)
-
-> **Student misconceptions about AI** — the inaccurate beliefs students hold about what AI systems are, what they do, and what using them means for learning, especially in academic contexts. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process).
-
-Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the wiki documents under [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns. Students rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding.
-
-### What AI misconceptions are
-
-A misconception here is not mere ignorance of how a model works — it is an actively held, often self-reinforcing belief that produces systematic errors in how students interact with AI. They are directly analogous to the domain misconceptions studied in learning science: stable, plausible, and resistant to correction until confronted. Correcting them is a core aim of [[ai-literacy]] and [[trust-calibration]] education.
-
-### Common misconceptions in academic contexts
-
-- **The authority fallacy** — treating LLM output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
-- **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[cognitive-offloading|Over-Reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
-- **The neutrality illusion** — assuming AI is objective and unbiased. Students often miss that models encode training-data biases and that in [[writing-education]] contexts this produces idea homogenization across a cohort.
-- **The integrity gray zone** — misjudging whether [[academic-integrity|AI use is acceptable]]. Some students see AI output as "not copying a person" and therefore permissible; others over-correct and think *any* use is cheating. Institutional inconsistency feeds both errors.
-- **Anthropomorphism** — believing the model has intent, memory, and understanding of *their* context. This over-trust is especially risky academically, because students may rely on plausible-sounding explanations the model cannot actually ground.
-- **The determinism error** — expecting one query to be enough and not realizing output is non-deterministic and prompt-sensitive. Underestimating this produces the "prompting gap," where students mistake shallow results for the tool's ceiling.
-- **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
-- **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
-
-### Institutional and public AI myths
-
-Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and agentic, that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises higher education," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[trust|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
-
-### Why misconceptions matter for learning
-
-Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the wiki's evidence base.
-
-### Correcting misconceptions
-
-Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process that develops [[metacognition]] and [[self-regulated-learning]]: helping students monitor their reliance, calibrate when to trust and when to question a model, and see the cost of bypassing their own [[cognitive-offloading|cognitive work]]. Because misconceptions are resistant, they are best addressed through direct confrontation with evidence — including the finding that students often *do not perceive* the learning harm of AI misuse.
-
-**Refutation text is a core correction technique.** Because misconceptions are actively held and resistant, the most direct evidence-based strategy is the [[refutation-text|refutation text]] — an instructional text that states the misconception, explicitly refutes it, and presents the correct conception. This is the same family of technique used to correct the domain misconceptions studied in learning science, applied here to students' beliefs about AI itself. The wiki's [[refutation-text]] concept page synthesizes how this plays out in AI in education in three complementary ways:
-
-- **AI as the corrector.** Conversational AI tutors can deliver *personalised* refutation, adapting the refutation to a learner's specific misconception on the fly. [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]] found personalised AI dialogue produced larger and faster belief reductions than static textbook-style refutation, with higher engagement and confidence — though the advantage faded by two months without reinforcement.
-- **AI as the generator of refutation content.** [[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan (2025)]] found AI-generated conceptual-change/refutation text matched expert-written quality (and both outperformed a prompted interactive dialogue in that science context), showing AI can produce effective correction materials at scale.
-- **AI-generated misconceptions as a learning resource.** Rather than treating AI-generated misconceptions as merely harmful, [[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. (2026)]] propose generating misconceptions and addressing them through structured peer discussion — a collaborative form of refutation that promotes conceptual change and critical thinking.
-
-For student misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help students see both the false belief and the correct model. The evidence cautions that the *format* matters: personalised, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears.
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[academic-integrity]]
-- [[hallucination-risk]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[framing-ai-use-for-students]]
-- [[refutation-text]]
-
-## Connected Articles
-
-- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
-- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
-
-- [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
-- [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
-- [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
-- [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 
 ---
 
@@ -5547,7 +5564,7 @@ These concepts answer "what should be taught next?" — the application side tha
 
 The concepts form a pipeline rather than competitors: **student modeling** is the umbrella representation; [[knowledge-tracing]] and [[cognitive-diagnosis]] are specific modeling methods that populate it; [[simulating-students|simulation]] *generates* learners rather than representing real ones; and [[intelligent-tutoring]], [[adaptive-learning]], and [[personalized-learning]] are the systems that consume these models to adapt instruction.
 
-**Student modeling vs. simulating students** is the key distinction to keep straight. Student modeling is about **representing a real learner** — building a model *from* an actual student's data so an adaptive system can act on that individual. Simulating students, by contrast, **generates a synthetic learner** on demand to stand in for real learners so pedagogy and AI can be evaluated or trained offline. The two are closely related rather than interchangeable: simulated students typically *embed* a student model (an epistemic state, [[student-misconceptions-ai|misconception]] set, or engagement profile) and draw on the same constructs that [[knowledge-tracing]] and [[cognitive-diagnosis]] formalize. Their purposes diverge — student modeling serves live adaptation by informing decisions about a real person, whereas [[simulation]] fabricates learners to test systems (and increasingly to audit AI, e.g., [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]]) rather than to act on any real individual.
+**Student modeling vs. simulating students** is the key distinction to keep straight. Student modeling is about **representing a real learner** — building a model *from* an actual student's data so an adaptive system can act on that individual. Simulating students, by contrast, **generates a synthetic learner** on demand to stand in for real learners so pedagogy and AI can be evaluated or trained offline. The two are closely related rather than interchangeable: simulated students typically *embed* a student model (an epistemic state, [[misconceptions|misconception]] set, or engagement profile) and draw on the same constructs that [[knowledge-tracing]] and [[cognitive-diagnosis]] formalize. Their purposes diverge — student modeling serves live adaptation by informing decisions about a real person, whereas [[simulation]] fabricates learners to test systems (and increasingly to audit AI, e.g., [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]]) rather than to act on any real individual.
 
 **Knowledge tracing vs. student modeling** is the other common confusion. Knowledge tracing specifically models cognitive knowledge over time; student modeling is the broader practice covering all aspects of a learner (affective state, engagement, preferences). Knowledge tracing is a *type of* student modeling focused on the cognitive-temporal dimension. Knowledge-tracing constructs also inform [[simulating-students|simulated students]] — a simulated learner's cognitive state is often formalized with the same mastery/decay dynamics that knowledge tracing models, so simulation is a way to *generate* the knowledge states that tracing methods normally *infer* from real response data.
 
@@ -5687,7 +5704,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 - **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
 - **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
-- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
+- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[misconceptions|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
 #
 - **Bayesian DINA for personalized learning paths:** [[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng and Huang (2026)]] integrate a Bayesian DINA model (trained on the EdNet dataset, N=5,000) with knowledge space theory and a shortest-remediation-path algorithm to generate personalized learning paths, and empirically test the mediating role of [[cognitive-offloading|cognitive load]] via Hidden Markov Model state transitions (validated on 120 students) — addressing both the sparsity-driven convergence problem of traditional DINA models and the untested psychological mechanism behind personalized-path effectiveness.
@@ -5702,7 +5719,7 @@ Cognitive diagnosis sits at the heart of the [[intelligent-tutoring]] architectu
 
 - **Diagnosis vs. tracing — complementary temporal views.** [[knowledge-tracing|Knowledge tracing]] tracks the *temporal dynamics* of mastery — estimating how a scalar knowledge state evolves across exercises and predicting the next response. Cognitive diagnosis produces the *static, fine-grained snapshot* of which knowledge components, skills, or misconceptions a learner currently holds. A tutor needs both: knowledge tracing to sequence what to teach next, cognitive diagnosis to know *what* is actually wrong. [[item-response-theory|IRT]]- and [[educational-measurement|measurement]]-based diagnostic models, and cognitive-diagnosis models that map items to multiple components, instantiate the diagnostic side.
 - **Diagnosis feeds the tutor's decision loop.** In a classic ITS (and modern LLM tutors), the diagnostic layer determines the pedagogical action: which [[scaffolding|hint]], which problem, which explanation. Without a reliable diagnosis, the tutor "responds fluently but blindly" — [[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]] shows tutoring quality depends on how the agent diagnoses from simulated learners grounded in knowledge tracing, and [[huang-interpretable-knowledge-tracing-2026|interpretable knowledge tracing]] argues for making this diagnostic reasoning auditable.
-- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
+- **LLM-era diagnosis.** [[llm|LLMs]] extend diagnosis from multiple-choice responses to open-ended, handwritten, and conversational work, identifying the specific [[misconceptions|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning). [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept-tree construction and hierarchical proficiency inference, bridging diagnosis and tracing.
 - **Separating diagnosis from feedback is a design principle.** LLM tutors reliably confirm correct steps but over-reject valid reasoning and over-validate errors — and accurate diagnosis does not reliably yield actionable [[feedback]]. ITS design should therefore separate a diagnostic component from the feedback/scaffolding component ([[yasir-llm-tutoring-agents-2026]]).
 
 ### Connections
@@ -5850,7 +5867,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 ### Key ITS concepts
 
 - **[[knowledge-tracing]]** — modeling what a student knows over time (Bayesian, deep learning, IRT-based)
-- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[student-misconceptions-ai|misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
+- **[[cognitive-diagnosis]]** — fine-grained assessment of which knowledge components and [[misconceptions|misconceptions]] a learner holds; the assessment-side counterpart to [[knowledge-tracing]] that feeds the tutor's pedagogical decision
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
@@ -6070,7 +6087,7 @@ Tailoring educational experiences to individual learner profiles, including [[pr
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[student-misconceptions-ai|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
+Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[misconceptions|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
@@ -7691,6 +7708,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — Notes CT integration concentrated in K-12
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Early-childhood CT development
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 ---
 
@@ -8053,6 +8071,7 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian pre-service science teachers' AI perceptions (UTAUT/TPB)
 
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
+- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 
 ---
 
@@ -9456,7 +9475,7 @@ The arrival of generative AI has not created the need for academic integrity —
 
 ### The rationalization problem
 
-Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[student-misconceptions-ai|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
+Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[misconceptions|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
 
 ### Why policy alone fails: the coordination problem
 
@@ -9507,7 +9526,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[ai-de
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[k-12]]
@@ -10683,7 +10702,7 @@ Network methods are used across the wiki's evidence base to answer questions tha
 
 ## The stakeholder landscape
 
-- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The wiki covers learners through [[student-experience]], [[student-engagement]], [[student-misconceptions-ai]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
+- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The wiki covers learners through [[student-experience]], [[student-engagement]], [[misconceptions]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
 - **Teachers and faculty.** Educators who integrate AI into instruction. Covered by [[teacher-role]], [[teacher-ai-competency]], [[teacher-education]], [[faculty-development]], and [[tpack]]. Teachers face the dual challenge of using AI in their own teaching and teaching students to use it responsibly (see [[pedagogy|pedagogies and teaching strategies]]).
 - **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[instructional-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
 - **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
@@ -10725,7 +10744,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - [[tpack]]
 - [[student-experience]]
 - [[student-engagement]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[administrator]]
 - [[instructional-design]]
 - [[curriculum-design]]
@@ -11388,13 +11407,13 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 ### Interaction and harm taxonomies
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[ai-tutor-safety-harms|its harm taxonomy]] derive 11 dimensions and 48 sub-risks from [[learning-theories|learning science]] — answer over-disclosure, misconception reinforcement, abdication of scaffolding, erosion of [[desirable-difficulties|productive struggle]] — and show every tested model exhibits broad pedagogical harm, with failures escalating from 17.7% (single-turn) to 77.8% (multi-turn). Single-turn evaluation is dangerously misleading.
-- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[student-misconceptions-ai]], and [[intelligent-tutoring]] QA.
+- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[misconceptions]], and [[intelligent-tutoring]] QA.
 - **Deployment QA is a safety activity:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before student deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai]] validation.
 
 ### RL and alignment approaches to safety
 
 - [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
-- [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses DAPO RL plus synthetic SFT to train 32B open models that prioritize guided learning over answer-giving, targeting the [[student-misconceptions-ai|correct-answer trap]]; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] extends this to [[medical-education|clinical]] training, aligning rewards to safety and reducing missed red-flag rates by 31% — evidence that [[pedagogical-llm-training|pedagogical LLM training]] can bake safety into behavior.
+- [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses DAPO RL plus synthetic SFT to train 32B open models that prioritize guided learning over answer-giving, targeting the [[misconceptions|correct-answer trap]]; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] extends this to [[medical-education|clinical]] training, aligning rewards to safety and reducing missed red-flag rates by 31% — evidence that [[pedagogical-llm-training|pedagogical LLM training]] can bake safety into behavior.
 
 ### Sycophancy and manipulation risks
 
@@ -11428,7 +11447,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[equity-in-ai-education]]
 - [[trust]]
 - [[scaffolding]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[metacognition]]
 - [[ai-sycophancy]]
 - [[simulating-students]]
@@ -11766,7 +11785,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[ethics]] — the normative basis
 - [[governance]] — the policy layer
 - [[intelligent-tutoring]] — the systems being guarded
-- [[student-misconceptions-ai]] — the knowledge guardrails must check
+- [[misconceptions]] — the knowledge guardrails must check
 - [[trust]] — the outcome of well-designed guardrails
 - [[llm]] — the model layer being constrained
 
@@ -13163,7 +13182,7 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 
 - **A feedback loop that propagates errors.** [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] creates a pernicious loop where [[llm|LLMs]] mirror user reasoning errors, which then propagate into subsequent AI advice and final performance. In a controlled experiment, AI literacy and prompting training reduced direct mirroring but did **not** eliminate error propagation — pointing to the need for [[educational-llm-alignment|system-level safeguards]] and epistemically independent AI support.
 
-- **A bidirectional problem in [[ai-education|AIED]].** [[llm-student-simulation-misconception-faithfulness|Misconception faithfulness]] research shows sycophancy also afflicts simulated *students*: [[simulating-students|LLM simulators]] abandon their assigned misconception persona and "solve" the problem from internal knowledge whenever given corrective feedback, behaving as problem-solvers rather than learners. Together with tutor-side sycophancy, this establishes sycophancy as affecting both roles in AI-education systems, a concern shared with [[student-modeling]] and [[student-misconceptions-ai]].
+- **A bidirectional problem in [[ai-education|AIED]].** [[llm-student-simulation-misconception-faithfulness|Misconception faithfulness]] research shows sycophancy also afflicts simulated *students*: [[simulating-students|LLM simulators]] abandon their assigned misconception persona and "solve" the problem from internal knowledge whenever given corrective feedback, behaving as problem-solvers rather than learners. Together with tutor-side sycophancy, this establishes sycophancy as affecting both roles in AI-education systems, a concern shared with [[student-modeling]] and [[misconceptions]].
 
 - **Compounded by undetectability.** [[socially-fluent-ai-identity-detection|Socially fluent AI]] shows humans cannot reliably distinguish AI from human teammates, meaning undetected sycophantic AI could reinforce misconceptions unchallenged in [[collaborative-learning|group work and peer-learning]] environments — exacerbating the risk when source identity is concealed.
 
@@ -13173,7 +13192,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 ## Practical guidance
 
-- **Design for corrective friction, not affirmation.** Tutors should surface and challenge [[student-misconceptions-ai|student misconceptions]]; kind-but-correct behavior should be treated as a safety requirement, with sycophancy [[benchmark|benchmarks]] (e.g., EduFrameTrap) used in evaluation.
+- **Design for corrective friction, not affirmation.** Tutors should surface and challenge [[misconceptions|student misconceptions]]; kind-but-correct behavior should be treated as a safety requirement, with sycophancy [[benchmark|benchmarks]] (e.g., EduFrameTrap) used in evaluation.
 - **Prefer epistemically independent support.** System-level safeguards and alignment matter because prompting and AI-literacy training alone do not eliminate contextual sycophancy.
 - **Watch the social attachment externalities.** AI companions that optimise affirmation risk substituting for human relationships; [[teacher-role|educators]] should weigh emotional-support features against social-attachment costs.
 - **Teach recognition, not just use.** AI literacy should help learners recognize when an AI is agreeing with them and when its agreement signals error rather than validation.
@@ -13198,7 +13217,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[pedagogical-llm-training]]
 - [[simulating-students]]
 - [[student-modeling]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[collaborative-learning]]
 - [[benchmark]]
 
@@ -13277,7 +13296,7 @@ A language model's fluent, confident prose reads as trustworthy whether or not i
 
 ### Why trust needs calibrating
 
-Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[student-misconceptions-ai]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
+Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[misconceptions]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
 
 ### How calibration works
 
@@ -13300,7 +13319,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[human-ai-collaboration]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[reducing-ai-misuse]]
 - [[pedagogical-safety]]
 
@@ -13476,7 +13495,7 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[agency]]
 - [[trust-calibration]]
 - [[student-engagement]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 
 ## Connected Articles
 
@@ -14208,7 +14227,7 @@ Configure any AI students use so it [[scaffolding|scaffolds]] rather than reveal
 
 **Concrete examples:**
 - Set the tutor to give incremental, [[socratic-method|Socratic]] hints rather than the next answer step.
-- Seed the AI with correct solutions *and* common [[student-misconceptions-ai|misconceptions]] so it can target errors.
+- Seed the AI with correct solutions *and* common [[misconceptions|misconceptions]] so it can target errors.
 - Require a student attempt *before* the AI reveals its output ("show your attempt first").
 - Treat any tool that makes the task feel effortless as misplaced — the [[brcic-effortless-trap-productive-struggle-2026|"if letting AI in makes the task feel effortless, it's in the wrong place"]] rule.
 
@@ -20222,7 +20241,7 @@ Yim, K.-H., & Lui, M. Y. (2026). [Supporting undergraduate students' learning in
 2. The eight-week experimental program combined [[inquiry-based-learning|guided inquiry]], [[problem-based-learning|problem-based learning]], and design-based learning, with [[generative-ai|AI tools]] (ChatGPT, Consensus, NotebookLM, Elicit, Canva, Runway, Animaker) used as scaffolding for question formulation, experiment design, literature synthesis, and digital product creation; the control received conventional instruction with verification-focused labs.
 3. Mixed-design ANOVA yielded significant time×group interactions for conceptual understanding of photosynthesis, F(1,41)=22.79, p<0.001, ηp²=0.357, and cellular respiration, F(1,44)=25.70, p<0.001, ηp²=0.369; both remained significant after Holm correction, with adjusted post-test differences of 8.12 and 8.71 points, respectively.
 4. No significant group-by-time differences emerged for AI literacy (F(1,42)=0.740, p=0.395) or self-perceived computational thinking skills (F(1,35)=2.384, p=0.132); the AIL scale's low post-test reliability (α=0.557) constrained measurement sensitivity.
-5. Qualitative self-evaluation forms reported perceived gains in [[student-misconceptions-ai|correcting misconceptions]], digital content creation, critical evaluation of AI outputs, collaboration, and engagement, providing contextual but not confirmatory evidence.
+5. Qualitative self-evaluation forms reported perceived gains in [[misconceptions|correcting misconceptions]], digital content creation, critical evaluation of AI outputs, collaboration, and engagement, providing contextual but not confirmatory evidence.
 
 ## Design and Context
 
@@ -20242,7 +20261,7 @@ Qualitatively, participants reported that the activities helped them understand 
 
 ## Implications
 
-The authors argue that AI-supported inquiry can strengthen disciplinary conceptual learning even when broader competencies do not change measurably, and that the null effects likely reflect [[generative-ai|AI]] and [[computational-thinking|computational thinking]] being embedded rather than taught as explicit goals, within an eight-week window too short for standardized, self-reported gains. For [[teacher-education|science teacher education]], they recommend gradually embedding AI literacy and computational thinking into authentic disciplinary learning experiences rather than treating them as isolated technical skills, and integrating them across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses. They frame this as fostering competencies associated with sustainable science teacher education—responsible AI use tied to evidence-based [[inquiry-based-learning|inquiry]], collaboration, and critical evaluation—while acknowledging that sustainability skills were not directly measured. Methodologically, the [[constructivist]] framing and the use of reflective self-evaluation as [[formative-assessment|formative assessment]] point to design-based and inquiry pedagogies as vehicles for [[student-misconceptions-ai|conceptual change]], though the quasi-experimental intact-class design limits causal claims about AI's independent contribution.
+The authors argue that AI-supported inquiry can strengthen disciplinary conceptual learning even when broader competencies do not change measurably, and that the null effects likely reflect [[generative-ai|AI]] and [[computational-thinking|computational thinking]] being embedded rather than taught as explicit goals, within an eight-week window too short for standardized, self-reported gains. For [[teacher-education|science teacher education]], they recommend gradually embedding AI literacy and computational thinking into authentic disciplinary learning experiences rather than treating them as isolated technical skills, and integrating them across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses. They frame this as fostering competencies associated with sustainable science teacher education—responsible AI use tied to evidence-based [[inquiry-based-learning|inquiry]], collaboration, and critical evaluation—while acknowledging that sustainability skills were not directly measured. Methodologically, the [[constructivist]] framing and the use of reflective self-evaluation as [[formative-assessment|formative assessment]] point to design-based and inquiry pedagogies as vehicles for [[misconceptions|conceptual change]], though the quasi-experimental intact-class design limits causal claims about AI's independent contribution.
 
 ## Citation
 
@@ -20261,7 +20280,7 @@ The authors argue that AI-supported inquiry can strengthen disciplinary conceptu
 - [[scaffolding]] — design guidelines and instructor guidance
 - [[formative-assessment]] — rubric-based feedback and self-evaluation
 - [[constructivist]] — conceptual-change framing
-- [[student-misconceptions-ai]] — correcting science misconceptions
+- [[misconceptions]] — correcting science misconceptions
 
 ## Connected Articles
 
@@ -20644,14 +20663,14 @@ A framework for evaluating AI tutoring systems that extends beyond the pedagogic
 ## Key Findings
 1. **Pedagogy-only evaluation is insufficient:** Two [[intelligent-tutoring|AI tutors]] with similar pedagogical quality showed dramatically different [[student-engagement|student engagement]] patterns that pedagogy-only metrics could not capture.
 2. **Behavioral signals predict perceived helpfulness better:** Engagement-based metrics (feedback relevance and success) are more strongly associated with students' perceived helpfulness of feedback than pedagogical quality scores alone.
-3. **Engagement adds separability between tutors:** The [[student-misconceptions-ai|misconception]]-focused tutor achieved 9–21 percentage-point higher feedback relevance on every assignment, a difference invisible in pedagogical scoring.
+3. **Engagement adds separability between tutors:** The [[misconceptions|misconception]]-focused tutor achieved 9–21 percentage-point higher feedback relevance on every assignment, a difference invisible in pedagogical scoring.
 4. **Actionable metrics:** The framework provides concrete measurements — action rate (did the student modify their submission?) and correct application rate (was the modification applied correctly?) — that jointly reveal whether feedback drives learning.
 
 ## Significance for AI in Education
 This work addresses a critical evaluation gap in [[ai-ed-evaluation]]. An AI tutor that gives perfect pedagogical feedback is worthless if students ignore it or apply it incorrectly. The behavioral axis complements pedagogical assessment to provide a complete picture of real-world effectiveness, and challenges assumptions in [[stanford-evidence-base-ai-k12-2026]] about what makes tutoring effective.
 
 ## How the Evaluation Works
-The study situates evaluation in the [[student-ai-interaction|student–AI tutor interaction]] within CS61A, an introductory programming course at UC Berkeley with roughly 1,000 students per semester. Students solve problems in an online environment with an [[automated-assessment|autograder]] that gives immediate feedback on passed and failed test cases; whenever a submission fails, an [[llm|LLM]]-based tutor returns natural-language feedback. The dataset spans Fall 2024 (BaselineTutor) and Fall 2025 (MisconceptionTutor), two tutor configurations built on the same [[generative-ai|LLM]] (GPT-4) that differ only in [[prompt-engineering|prompting structure]] — the latter adding explicit detection and targeting of likely [[student-misconceptions-ai|student misconceptions]] from an instructor-authored list.
+The study situates evaluation in the [[student-ai-interaction|student–AI tutor interaction]] within CS61A, an introductory programming course at UC Berkeley with roughly 1,000 students per semester. Students solve problems in an online environment with an [[automated-assessment|autograder]] that gives immediate feedback on passed and failed test cases; whenever a submission fails, an [[llm|LLM]]-based tutor returns natural-language feedback. The dataset spans Fall 2024 (BaselineTutor) and Fall 2025 (MisconceptionTutor), two tutor configurations built on the same [[generative-ai|LLM]] (GPT-4) that differ only in [[prompt-engineering|prompting structure]] — the latter adding explicit detection and targeting of likely [[misconceptions|student misconceptions]] from an instructor-authored list.
 
 ### Two Complementary Metric Families
 - **Pedagogy-based evaluation** scores feedback along eight [[instructional-design|learning-science]]-motivated dimensions — mistake identification, mistake location, answer revealing, guidance, actionability, coherence, tone, and humanness — summarized as a Desired Annotation Match Rate (DAMR) computed by an LLM judge.
@@ -20882,11 +20901,11 @@ Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weat
 
 ## Implications for AI in Education
 
-The paper positions [[conversational-ai|conversational AI]] tutors as a scalable way to deliver *personalised* [[refutation-text|refutation]]/misconception interventions that outperform static text on immediacy and motivation — but cautions that the initial advantage requires reinforcement to last. For practice, this implies integrating AI dialogue into structured programs with spaced reinforcement rather than relying on one-off interactions. It connects to the wiki's [[student-misconceptions-ai]] concept (misconceptions about and within AI learning), [[intelligent-tutoring|AI tutoring]], and the [[cognitive-offloading]]/belief-correction literature, and pairs with studies comparing AI dialogue vs. [[refutation-text|conceptual-change text]] (e.g., Akdoğan 2025, which found the reverse in [[stem-education|science education]]).
+The paper positions [[conversational-ai|conversational AI]] tutors as a scalable way to deliver *personalised* [[refutation-text|refutation]]/misconception interventions that outperform static text on immediacy and motivation — but cautions that the initial advantage requires reinforcement to last. For practice, this implies integrating AI dialogue into structured programs with spaced reinforcement rather than relying on one-off interactions. It connects to the wiki's [[misconceptions]] concept (misconceptions about and within AI learning), [[intelligent-tutoring|AI tutoring]], and the [[cognitive-offloading]]/belief-correction literature, and pairs with studies comparing AI dialogue vs. [[refutation-text|conceptual-change text]] (e.g., Akdoğan 2025, which found the reverse in [[stem-education|science education]]).
 
 ## Connected Concepts
 - [[refutation-text]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[intelligent-tutoring]]
 - [[generative-ai]]
 
@@ -21711,16 +21730,16 @@ Yusuf, H., Money, A., & Daylamani-Zad, D. (2026). [*Exploring student anxiety an
 - **Conceptual change text (CCT) beats interactive AI dialogue — the reverse of Corbett & Tangen (2026).** Both expert-written and AI-generated [[refutation-text|conceptual change texts]] were equally and significantly more effective at reducing misconceptions than interactive ChatGPT dialogue, which showed no significant advantage over control. This contrasts with the personalised-dialogue advantage found in [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]], likely due to differences in dialogue design (prompted vs. personalised) and domain.
 - **Expert and AI-generated CCT are comparable.** An AI-generated conceptual change text performed as well as one written by an expert — suggesting AI can produce effective [[refutation-text|refutation/conceptual-change content]].
 - **Benefits concentrated in high-achieving students.** Intervention gains were almost exclusively limited to high achievers, pointing to a [[equity-in-ai-education|equity]] concern for AI-mediated conceptual-change instruction.
-- **Individual differences moderate outcomes.** Students' personal epistemologies (justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated the results — consistent with the [[student-misconceptions-ai|misconception]] and [[metacognition]] literature.
+- **Individual differences moderate outcomes.** Students' personal epistemologies (justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated the results — consistent with the [[misconceptions|misconception]] and [[metacognition]] literature.
 - **GAI's current [[pedagogy|pedagogical]] value is as a content generator, not an interactive tutor.** The author concludes GAI's value in this context lies in producing structured-prompt content, not yet in functioning as an interactive tutor for conceptual change.
 
 ## Implications for AI in Education
 
-The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the wiki's [[refutation-text|conceptual change]], [[student-misconceptions-ai]], [[refutation-text]], and [[generative-ai]] concepts.
+The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the wiki's [[refutation-text|conceptual change]], [[misconceptions]], [[refutation-text]], and [[generative-ai]] concepts.
 
 ## Connected Concepts
 - [[refutation-text]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[stem-education]]
 - [[physics-education]]
 - [[metacognition]]
@@ -24185,28 +24204,28 @@ Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., 
 
 ## [Preparing Learners and Teachers for an AI-Driven Future: Emerging Trends, Pedagogical Challenges, and Critical Perspectives in Pre-University AI Education: A Systematic Literature Review](https://edtechdev.github.io/aied/articles/caruana-pre-university-ai-education-slr-2026/)
 
-> **Synthesis:** Caruana, Gilar-Corbí, and Palomar (2026) present a PRISMA-guided systematic literature review of **42 studies (2009–2026)** on AI integration in **pre-university (K-12) education**, motivated by **Sustainable Development Goal 4** and the principles of **Education for Sustainable Development**. Thematic synthesis identifies four major research areas: **teacher education for AI integration** (n=16), **curriculum development and pedagogical foundations** (n=13), **AI literacy and ethical competencies** (n=15), and **the pedagogical and ethical implications of generative AI** (n=9). The evidence consistently indicates that effective AI integration hinges on teacher preparedness, structured interdisciplinary curricula, and critical, ethical approaches that foster responsible digital citizenship — with significant gaps in longitudinal evidence, classroom-based empirical research, and standardised AI-literacy assessment instruments.
+> **Synthesis:** Caruana, Gilar-Corbí, and Palomar (2026) present a PRISMA-guided systematic [[meta-analysis-systematic-review|literature review]] of **42 studies (2009–2026)** on AI integration in **pre-university (K-12) education**, motivated by **Sustainable Development Goal 4** and the principles of **Education for Sustainable Development**. Thematic synthesis identifies four major research areas: **[[teacher-education|teacher education]] for AI integration** (n=16), **curriculum development and [[pedagogy|pedagogical]] foundations** (n=13), **AI literacy and [[ethics|ethical]] competencies** (n=15), and **the pedagogical and ethical implications of [[generative-ai|generative AI]]** (n=9). The evidence consistently indicates that effective AI integration hinges on teacher preparedness, structured interdisciplinary curricula, and critical, ethical approaches that foster responsible digital citizenship — with significant gaps in longitudinal evidence, classroom-based empirical research, and standardised AI-literacy assessment instruments.
 
 ## Key Findings
-1. **Teacher education is the linchpin.** The most consensus-heavy finding is that effective and responsible AI integration depends on teachers' pedagogical and technological preparedness. AI-focused professional development is positively associated with instructional quality (cognitive activation, classroom management, personalised learning), and frameworks such as Intelligent-TPACK and AI-TPACK predict teachers' readiness, with AI literacy, algorithmic ethics, and digital competence as core ingredients.
-2. **Structured, interdisciplinary curricula are needed.** Research supports frameworks like AI4K12 and the Five Big Ideas in AI. AI education is shifting from narrow technical content toward competency-based models that incorporate critical thinking, digital citizenship, creativity, problem solving, and ethical reflection — with emerging competencies like [[prompt-engineering|prompt engineering]] gaining recognition.
+1. **Teacher education is the linchpin.** The most consensus-heavy finding is that effective and responsible AI integration depends on [[teacher-role|teachers']] pedagogical and technological preparedness. AI-focused [[faculty-development|professional development]] is positively associated with instructional quality (cognitive activation, classroom management, [[personalized-learning|personalised learning]]), and frameworks such as Intelligent-[[tpack]] and AI-TPACK predict teachers' readiness, with AI literacy, algorithmic ethics, and digital competence as core ingredients.
+2. **Structured, interdisciplinary curricula are needed.** Research supports frameworks like AI4K12 and the Five Big Ideas in AI. [[ai-education|AI education]] is shifting from narrow technical content toward competency-based models that incorporate [[critical-thinking|critical thinking]], digital citizenship, [[creativity]], problem solving, and ethical reflection — with emerging competencies like [[prompt-engineering|prompt engineering]] gaining recognition.
 3. **AI literacy is a cross-cutting competency.** AI literacy combines technical understanding, critical thinking, algorithmic ethics, and responsible digital citizenship. The review calls for embedding it as a cross-curricular competency, though standardised assessment instruments remain lacking.
 4. **Generative AI offers opportunities and raises tensions.** GenAI tools (ChatGPT, Gemini, Copilot) support retrieval, content generation, personalised tutoring, and instructional planning, but raise concerns about [[cognitive-offloading|cognitive offloading]], content reliability, pedagogical oversight, and technological dependency.
-5. **Equity and governance are cross-cutting.** Disparities in access, connectivity, and training risk reinforcing [[equity-in-ai-education|educational inequalities]]. The review calls for governance models, institutional policies, and regulatory frameworks ensuring transparency, accountability, human oversight, data protection, and [[academic-integrity|academic integrity]].
+5. **Equity and governance are cross-cutting.** Disparities in access, connectivity, and training risk reinforcing [[equity-in-ai-education|educational inequalities]]. The review calls for governance models, [[governance|institutional]] policies, and [[regulation|regulatory]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], data protection, and [[academic-integrity|academic integrity]].
 
 ## Pre-university AI education as a distinct focus
-This review consolidates the growing evidence that AI education in primary and secondary settings is distinct from higher education. It centres on teacher preparation, [[curriculum-design|curriculum design]], and the age-appropriate development of [[ai-literacy|AI literacy]] and ethical competencies — aligning with the wiki's [[k-12|K-12 AI education]] coverage. Notably, the review is framed by [[sustainability|Sustainable Development Goal 4]] and [[sustainability|Education for Sustainable Development]], situating equitable, resilient, and sustainable educational systems as the goal of responsible AI integration. (Note: this framing draws on SDG 4 but the review's substance is K-12 AI education rather than AI's environmental footprint.)
+This review consolidates the growing evidence that AI education in primary and secondary settings is distinct from [[higher-ed|higher education]]. It centres on teacher preparation, [[curriculum-design|curriculum design]], and the age-appropriate development of [[ai-literacy|AI literacy]] and ethical competencies — aligning with the wiki's [[k-12|K-12 AI education]] coverage. Notably, the review is framed by Sustainable Development Goal 4 (SDG 4) and Education for Sustainable Development (ESD), situating equitable, resilient, and sustainable educational systems as the goal of responsible AI integration. (Note: this framing draws on SDG 4 but the review's substance is K-12 AI education rather than AI's environmental footprint.)
 
 ## Research gaps
-- **Scarcity of longitudinal studies** on the sustained effects of AI on learning outcomes, cognitive autonomy, and socio-emotional development.
+- **Scarcity of longitudinal studies** on the sustained effects of AI on [[learning-gains|learning outcomes]], cognitive autonomy, and socio-emotional development.
 - **Predominance of exploratory/conceptual work** over authentic classroom-based empirical research.
 - **Geographical concentration** in Europe and North America; limited representation from developing regions and from primary (vs. secondary) education.
 - **No standardised instruments** for assessing AI literacy, critical thinking, or ethical GenAI competencies.
 
 ## Implications
-1. **Invest in teacher education** that pairs AI literacy and algorithmic ethics with motivational/institutional factors (self-efficacy, perceived usefulness, organisational support).
+1. **Invest in teacher education** that pairs AI literacy and algorithmic ethics with [[motivation|motivational]]/institutional factors ([[self-efficacy]], perceived usefulness, organisational support).
 2. **Embed AI literacy as a cross-curricular competency**, not a standalone technical subject.
-3. **Rethink assessment** beyond final products toward complex reasoning and reflective engagement with AI.
+3. **Rethink assessment** beyond final products toward complex reasoning and reflective [[student-engagement|engagement]] with AI.
 4. **Develop governance and policy frameworks** for transparent, safe, inclusive, and accountable AI use.
 
 ## Connected Concepts
@@ -26066,7 +26085,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[cs-education]]
 - [[generative-ai]]
 - [[llm]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 ## Connected Articles
 
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
@@ -27811,7 +27830,7 @@ Kirk Vanacore et al. (2026). [The Path to Conversational AI Tutors: Integrating 
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[scaffolding]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[math-education]]
 ## Connected Articles
 
@@ -27833,7 +27852,7 @@ Imran and Bulathwela (2026) identify the 'correct answer trap' — automated fee
 - [[intelligent-tutoring]]
 - [[automated-assessment]]
 - [[k-12]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[math-education]]
 - [[llm]]
 ## Connected Articles
@@ -29908,7 +29927,7 @@ Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behav
 
 ## Summary
 
-Lucy et al. (2026) provide a year-long snapshot of how **11 [[multimodal|vision-language models]] (VLMs)** perform on **DrawEduMath**, a QA [[benchmark]] built on real students' handwritten, hand-drawn responses to math problems (drawn largely from Title I / [[digital-divide|low-income]] schools via the ASSISTments platform). Their central finding is that model weaknesses concentrate on the core of [[math-education|math education]]: **[[student-misconceptions-ai|student error]]**. All evaluated VLMs underperform when describing work from students who need more pedagogical help, and across all question types they struggle most on questions that require assessing whether the student's work is correct. This holds across text and image inputs, and across open-ended and binary question forms.
+Lucy et al. (2026) provide a year-long snapshot of how **11 [[multimodal|vision-language models]] (VLMs)** perform on **DrawEduMath**, a QA [[benchmark]] built on real students' handwritten, hand-drawn responses to math problems (drawn largely from Title I / [[digital-divide|low-income]] schools via the ASSISTments platform). Their central finding is that model weaknesses concentrate on the core of [[math-education|math education]]: **[[misconceptions|student error]]**. All evaluated VLMs underperform when describing work from students who need more pedagogical help, and across all question types they struggle most on questions that require assessing whether the student's work is correct. This holds across text and image inputs, and across open-ended and binary question forms.
 
 ## Key Findings
 
@@ -29930,7 +29949,7 @@ evement gaps.
 
 - [[math-education]]
 - [[multimodal]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[assessment-validity]]
@@ -35779,7 +35798,7 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 - **Robustness:** Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.
 
 ## Design Lesson: What the Guardrails Did
-GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[student-misconceptions-ai|misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
+GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[misconceptions|misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
 
 ## Implications
 - **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[cognitive-offloading|Over-Reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-method]] designs that preserve learning.
@@ -37086,7 +37105,7 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 - [[regulation]]
 - [[scaffolding]]
 - [[ai-misuse-learning-harm]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
@@ -38249,7 +38268,7 @@ Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning
 
 ## The Reasoning Gap in Student Simulation
 
-LLM-based simulators increasingly reproduce human behavior across domains, and in education they promise improved fidelity in predicting student actions for building [[intelligent-tutoring|tutoring systems]]. Yet such simulations are often limited to replicating surface-level patterns rather than modeling the latent processes underpinning observable outcomes. In education, understanding the reasoning behind an action is crucial for diagnosing [[student-misconceptions-ai|misconceptions]], generating targeted [[feedback]], and evaluating tutoring systems—applications that go back to classic [[knowledge-tracing|diagnostic models]] of procedural bugs.
+LLM-based simulators increasingly reproduce human behavior across domains, and in education they promise improved fidelity in predicting student actions for building [[intelligent-tutoring|tutoring systems]]. Yet such simulations are often limited to replicating surface-level patterns rather than modeling the latent processes underpinning observable outcomes. In education, understanding the reasoning behind an action is crucial for diagnosing [[misconceptions|misconceptions]], generating targeted [[feedback]], and evaluating tutoring systems—applications that go back to classic [[knowledge-tracing|diagnostic models]] of procedural bugs.
 
 The problem is that observable actions provide only a partial view of cognition: two students may arrive at the same solution through entirely different reasoning, or produce the same incorrect answer for fundamentally different reasons. Psychology research highlights the value of accessing internal reasoning processes via think-aloud protocols, but such methods are expensive and rarely scale. Moreover, existing work on [[llm]] reasoning has focused on improving *correctness*, pushing models toward logically consistent and factually accurate outputs—whereas human actions are often not rational or correct at all. People make errors, hold misconceptions, and apply incomplete strategies, and in education modeling this incorrect or partial reasoning is essential because mistakes are central to the [[learning-analytics|learning process]].
 
@@ -42810,7 +42829,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[teacher-role]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[llm]]
 - [[math-education]]
 
@@ -43094,7 +43113,7 @@ For [[student-experience]], the implications are direct: students struggling wit
 - [[personalized-learning]]
 - [[student-experience]]
 - [[ai-literacy]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[cognitive-diagnosis]]
 - [[knowledge-tracing]]
 ## Connected Articles
@@ -43392,7 +43411,7 @@ Seven models — reasoning-augmented (GPT-o3, DeepSeek-R1, Qwen3-32B) and instru
 
 ## Key Findings
 1. **Near-ceiling on optimal, collapse elsewhere:** All models classified optimal solutions almost perfectly (F1 94–99%) but struggled with valid-alternative (F1 0–76%) and incorrect (F1 4–55%) solutions.
-2. **Two pedagogically distinct failure modes:** Over-rejection — labeling valid reasoning as incorrect — discourages productive exploration, while over-validation — labeling incorrect solutions as valid — reinforces [[student-misconceptions-ai|misconceptions]]; models skewed sharply toward one extreme (e.g., LLaMA 3 at 91% over-rejection, Gemini and DeepSeek at 69–71% over-validation).
+2. **Two pedagogically distinct failure modes:** Over-rejection — labeling valid reasoning as incorrect — discourages productive exploration, while over-validation — labeling incorrect solutions as valid — reinforces [[misconceptions|misconceptions]]; models skewed sharply toward one extreme (e.g., LLaMA 3 at 91% over-rejection, Gemini and DeepSeek at 69–71% over-validation).
 3. **Failures are model-level, not informational:** Model selection explained nearly all variance (η² > 0.95, p < .001), while feedback condition, step complexity, distance to conclusion, and inference rule had negligible effects (η² < 0.01) — richer solution context did not improve diagnosis.
 4. **Diagnosis does not translate into actionable feedback:** Accurate classification rarely produced pedagogically actionable guidance; agents frequently praised solutions without identifying errors, and Judge verification often propagated rather than corrected Peer mistakes.
 
@@ -43546,11 +43565,11 @@ Mathew, J. G., Taher, S., Kundu, A., & Barbosa, D. (2026). [*LLMs Do Not Grade E
 
 ## Implications for AI in Education
 
-The paper extends the [[refutation-text|refutation-text]]/[[student-misconceptions-ai|misconception]] literature by using AI as the *generator* of misconceptions (and implicit refutation targets) for collaborative learning, rather than only as the corrector. For practice in [[medical-education|health care education]], it offers a concrete, scalable method for misconception-based learning that does not depend on educators' manual generation of misconceptions. It connects to the wiki's [[collaborative-learning]], [[student-misconceptions-ai]], [[refutation-text|conceptual change]], and [[generative-ai]] concepts.
+The paper extends the [[refutation-text|refutation-text]]/[[misconceptions|misconception]] literature by using AI as the *generator* of misconceptions (and implicit refutation targets) for collaborative learning, rather than only as the corrector. For practice in [[medical-education|health care education]], it offers a concrete, scalable method for misconception-based learning that does not depend on educators' manual generation of misconceptions. It connects to the wiki's [[collaborative-learning]], [[misconceptions]], [[refutation-text|conceptual change]], and [[generative-ai]] concepts.
 
 ## Connected Concepts
 - [[refutation-text]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[collaborative-learning]]
 - [[medical-education]]
 - [[critical-thinking]]
@@ -45602,7 +45621,7 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 - [[student-experience]]
 - [[ai-misuse-learning-harm]]
 - [[ai-literacy]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[higher-ed]]
 - [[authentic-assessment]]
 - [[academic-integrity]]
@@ -49603,7 +49622,7 @@ Bi, R., Wei, S., & Zhou, Y. (2026). [*Prober.ai: Gated Inquiry-Based Feedback vi
 
 Adapting Jonassen's problem-classification framework, the authors evaluated OpenAI o4-mini responses with the MAPS rubric across prompt variations. The task was a rotational-mechanics problem of a sphere rolling without slipping along the inner surface of a hollow rotating hemisphere, requiring qualitative reasoning and graphical prediction. Each prompt variant was submitted five times with default settings, and outputs were scored on two measures: accuracy and MAPS dimensions (useful descriptions, physics approach, specific application, mathematical procedures, logical progression).
 
-Well-specified prompts improved solution completeness, producing a mostly complete analytical and numerical solution with only an incompletely explained transition from physical setup to analytical formulation. Underspecified and multimodal prompts exposed weaknesses in physics reasoning and correctness — evidence that [[prompt-engineering]] quality directly determines the reliability of AI-generated solutions students encounter. The findings align with [[student-misconceptions-ai|known patterns]] in how model reasoning degrades as problem constraints must be inferred or interpreted across representations, and reinforce concerns that [[generative-ai]] systems struggle with [[multimodal|visual representations]] even when supporting text is provided.
+Well-specified prompts improved solution completeness, producing a mostly complete analytical and numerical solution with only an incompletely explained transition from physical setup to analytical formulation. Underspecified and multimodal prompts exposed weaknesses in physics reasoning and correctness — evidence that [[prompt-engineering]] quality directly determines the reliability of AI-generated solutions students encounter. The findings align with [[misconceptions|known patterns]] in how model reasoning degrades as problem constraints must be inferred or interpreted across representations, and reinforce concerns that [[generative-ai]] systems struggle with [[multimodal|visual representations]] even when supporting text is provided.
 
 ## Preparing Students to Critique
 
@@ -49920,7 +49939,7 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 - [[llm]]
 - [[generative-ai]]
 - [[prompt-engineering]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 ## Connected Articles
 
 - [[prompt-based-programming-lesson]]
@@ -51851,7 +51870,7 @@ The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential g
 - [[governance]]
 - [[faculty-development]]
 - [[regulation]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 
 ## Connected Articles
 
@@ -53061,6 +53080,7 @@ This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data 
 - [[oatutor-open-source-adaptive-tutor-2023]] — Open-source adaptive tutor
 - [[simulating-students-java-programming-errors-llms]] — LLMs as simulated learners in CS
 - [[reshaping-cs-education-genai]] — Reshaping CS education with GenAI
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (Caruana et al. 2026)
 
 ## Citation
 
@@ -53899,7 +53919,7 @@ Socratic questioning, reflection prompts, misconception checks, and mandatory pa
 1. Adaptive [[generative-ai]] that shifts from directive tutorial generation toward [[socratic-method|Socratic questioning]]—guided questioning, reflection prompts, misconception checks, incremental hints, and mandatory pauses—improves explanation clarity and sustained engagement for K-12 beginners.
 2. Across four weekly participatory iterations the prompt evolved from an explanatory tutor into a stabilized, dialogic flow defined by hard stopping points, learner-response requirements, and no unsolicited next steps.
 3. Learners consistently preferred incremental hints and multiple attempts over immediate full solutions, explicitly requesting more guided hinting rather than answers.
-4. Human oversight remained essential—particularly for correcting [[student-misconceptions-ai|misconceptions]], challenging weak reasoning (including the system acting as a “yes-man”), and supporting advanced topics like [[computational-thinking|recursion]] and functions.
+4. Human oversight remained essential—particularly for correcting [[misconceptions|misconceptions]], challenging weak reasoning (including the system acting as a “yes-man”), and supporting advanced topics like [[computational-thinking|recursion]] and functions.
 
 ## Background and Motivation
 [[generative-ai|Generative AI]] large language models such as ChatGPT and Claude can produce explanations, worked examples, and step-by-step tutorials on demand, opening new paths for [[intelligent-tutoring|scalable programming instruction]]. Yet many existing systems remain answer-oriented: they rarely determine appropriate stopping points, often ignore the learner’s [[prior-knowledge|prior expertise]], may introduce out-of-scope concepts, and can generate content misaligned with learner goals, creating confusion rather than understanding. In [[cs-education|programming education]] these limitations are especially harmful, because novices need opportunities to articulate their reasoning, reflect on misunderstandings, and work through problems before receiving complete solutions.
@@ -55088,7 +55108,7 @@ The central insight is that skill and confidence pull in opposite directions in 
 - [[help-seeking]]
 - [[motivation]]
 - [[student-engagement]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[reducing-ai-misuse]]
 - [[generative-ai]]
 - [[llm]]
@@ -56259,6 +56279,7 @@ The finding aligns with [[genai-can-harm-teaching-rct-2026]] research showing th
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: RL Teaching
 - [[didactical-teacher-assistant-dimensional-modeling]] — Didactical Teacher Assistant
 - [[teacher-control-ai-generation-math-visuals]] — Teacher Control of AI Generation for Math Visuals
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (Caruana et al. 2026)
 
 ## Citation
 
@@ -58733,12 +58754,12 @@ Rather than proposing a new system or [[benchmark]], the paper synthesizes prior
 
 ### Epistemic State Specification (E0–E4)
 
-The ESS declares what a simulated learner knows and can access at a given moment, how errors are generated, and whether and how that state changes over time — concretely: (i) the representations, knowledge elements, strategies, and resources available; (ii) the sources of systematic error such as [[student-misconceptions-ai|misconceptions]] or incomplete procedures; and (iii) any update mechanism governing state transitions. It is operationalized as a lightweight reporting label with five levels:
+The ESS declares what a simulated learner knows and can access at a given moment, how errors are generated, and whether and how that state changes over time — concretely: (i) the representations, knowledge elements, strategies, and resources available; (ii) the sources of systematic error such as [[misconceptions|misconceptions]] or incomplete procedures; and (iii) any update mechanism governing state transitions. It is operationalized as a lightweight reporting label with five levels:
 
 - **E0 – Unspecified:** no explicit epistemic constraint; outputs generated freely.
 - **E1 – Static bounded:** a fixed, pre-specified set of knowledge elements or error templates that do not change during interaction (performance at an initial competence level, without learning).
 - **E2 – Curriculum-indexed:** accessible knowledge or error patterns are updated by an external progression signal such as [[curriculum-design|curriculum]] position or a mastery variable, without an explicit model of misconception change.
-- **E3 – Misconception-structured:** an explicit, stable model of [[student-misconceptions-ai|misconceptions]], strategies, or partial procedures causally determines behavior.
+- **E3 – Misconception-structured:** an explicit, stable model of [[misconceptions|misconceptions]], strategies, or partial procedures causally determines behavior.
 - **E4 – Calibrated or learned:** state representation and transition dynamics are learned from or calibrated against human interaction data.
 
 Treating ESS as a cross-cutting declaration prevents overclaiming, enables meaningful cross-system comparison, and aligns evaluation protocols with the simulator's stated epistemic constraints — moving from E0 toward E3/E4 makes claims falsifiable (e.g., stable misconception behavior under paraphrase).

@@ -22,13 +22,13 @@ Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and cont
 ### Interaction and harm taxonomies
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[ai-tutor-safety-harms|its harm taxonomy]] derive 11 dimensions and 48 sub-risks from [[learning-theories|learning science]] — answer over-disclosure, misconception reinforcement, abdication of scaffolding, erosion of [[desirable-difficulties|productive struggle]] — and show every tested model exhibits broad pedagogical harm, with failures escalating from 17.7% (single-turn) to 77.8% (multi-turn). Single-turn evaluation is dangerously misleading.
-- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[student-misconceptions-ai]], and [[intelligent-tutoring]] QA.
+- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[misconceptions]], and [[intelligent-tutoring]] QA.
 - **Deployment QA is a safety activity:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before student deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai]] validation.
 
 ### RL and alignment approaches to safety
 
 - [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
-- [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses DAPO RL plus synthetic SFT to train 32B open models that prioritize guided learning over answer-giving, targeting the [[student-misconceptions-ai|correct-answer trap]]; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] extends this to [[medical-education|clinical]] training, aligning rewards to safety and reducing missed red-flag rates by 31% — evidence that [[pedagogical-llm-training|pedagogical LLM training]] can bake safety into behavior.
+- [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses DAPO RL plus synthetic SFT to train 32B open models that prioritize guided learning over answer-giving, targeting the [[misconceptions|correct-answer trap]]; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. [[residencyrl-clinical-rl-training-2026|ResidencyRL]] extends this to [[medical-education|clinical]] training, aligning rewards to safety and reducing missed red-flag rates by 31% — evidence that [[pedagogical-llm-training|pedagogical LLM training]] can bake safety into behavior.
 
 ### Sycophancy and manipulation risks
 
@@ -62,7 +62,7 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[equity-in-ai-education]]
 - [[trust]]
 - [[scaffolding]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[metacognition]]
 - [[ai-sycophancy]]
 - [[simulating-students]]

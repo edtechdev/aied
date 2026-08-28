@@ -16,7 +16,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 ## Core ideas
 
 - **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with [[prior-knowledge|prior knowledge]], and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
-- **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[student-misconceptions-ai]] and to AI tutors that adapt to the learner.
+- **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[misconceptions]] and to AI tutors that adapt to the learner.
 - **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally [[situated-learning|situated]] activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
 - **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the [[icap-framework|ICAP framework]] ranks "constructive" and "interactive" [[student-engagement|engagement]] above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
 
@@ -85,7 +85,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[agency]]
 - [[critical-thinking]]
 - [[ai-literacy]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[learning-theories]]
 - [[behaviorism]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation

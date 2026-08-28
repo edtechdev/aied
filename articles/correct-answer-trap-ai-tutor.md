@@ -19,7 +19,7 @@ confidence: high
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[scaffolding]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[math-education]]
 ## Connected Articles
 

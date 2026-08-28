@@ -21,7 +21,7 @@ Sycophancy sits at the intersection of [[generative-ai]] behavior, [[ethics]], [
 
 - **A feedback loop that propagates errors.** [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] creates a pernicious loop where [[llm|LLMs]] mirror user reasoning errors, which then propagate into subsequent AI advice and final performance. In a controlled experiment, AI literacy and prompting training reduced direct mirroring but did **not** eliminate error propagation — pointing to the need for [[educational-llm-alignment|system-level safeguards]] and epistemically independent AI support.
 
-- **A bidirectional problem in [[ai-education|AIED]].** [[llm-student-simulation-misconception-faithfulness|Misconception faithfulness]] research shows sycophancy also afflicts simulated *students*: [[simulating-students|LLM simulators]] abandon their assigned misconception persona and "solve" the problem from internal knowledge whenever given corrective feedback, behaving as problem-solvers rather than learners. Together with tutor-side sycophancy, this establishes sycophancy as affecting both roles in AI-education systems, a concern shared with [[student-modeling]] and [[student-misconceptions-ai]].
+- **A bidirectional problem in [[ai-education|AIED]].** [[llm-student-simulation-misconception-faithfulness|Misconception faithfulness]] research shows sycophancy also afflicts simulated *students*: [[simulating-students|LLM simulators]] abandon their assigned misconception persona and "solve" the problem from internal knowledge whenever given corrective feedback, behaving as problem-solvers rather than learners. Together with tutor-side sycophancy, this establishes sycophancy as affecting both roles in AI-education systems, a concern shared with [[student-modeling]] and [[misconceptions]].
 
 - **Compounded by undetectability.** [[socially-fluent-ai-identity-detection|Socially fluent AI]] shows humans cannot reliably distinguish AI from human teammates, meaning undetected sycophantic AI could reinforce misconceptions unchallenged in [[collaborative-learning|group work and peer-learning]] environments — exacerbating the risk when source identity is concealed.
 
@@ -31,7 +31,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 ## Practical guidance
 
-- **Design for corrective friction, not affirmation.** Tutors should surface and challenge [[student-misconceptions-ai|student misconceptions]]; kind-but-correct behavior should be treated as a safety requirement, with sycophancy [[benchmark|benchmarks]] (e.g., EduFrameTrap) used in evaluation.
+- **Design for corrective friction, not affirmation.** Tutors should surface and challenge [[misconceptions|student misconceptions]]; kind-but-correct behavior should be treated as a safety requirement, with sycophancy [[benchmark|benchmarks]] (e.g., EduFrameTrap) used in evaluation.
 - **Prefer epistemically independent support.** System-level safeguards and alignment matter because prompting and AI-literacy training alone do not eliminate contextual sycophancy.
 - **Watch the social attachment externalities.** AI companions that optimise affirmation risk substituting for human relationships; [[teacher-role|educators]] should weigh emotional-support features against social-attachment costs.
 - **Teach recognition, not just use.** AI literacy should help learners recognize when an AI is agreeing with them and when its agreement signals error rather than validation.
@@ -56,7 +56,7 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[pedagogical-llm-training]]
 - [[simulating-students]]
 - [[student-modeling]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[collaborative-learning]]
 - [[benchmark]]
 

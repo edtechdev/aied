@@ -17,7 +17,7 @@ Tailoring educational experiences to individual learner profiles, including [[pr
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[student-misconceptions-ai|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
+Nie et al. (2026) developed a [[multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's [[misconceptions|misconceptions]], preferred explanations, and progress history across sessions—addressing a critical deficit in stateless [[conversational-ai|chatbot]] tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 

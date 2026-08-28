@@ -18,7 +18,7 @@ Imran and Bulathwela (2026) identify the 'correct answer trap' — automated fee
 - [[intelligent-tutoring]]
 - [[automated-assessment]]
 - [[k-12]]
-- [[student-misconceptions-ai]]
+- [[misconceptions]]
 - [[math-education]]
 - [[llm]]
 ## Connected Articles

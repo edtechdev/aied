@@ -15,7 +15,7 @@ Configure any AI students use so it [[scaffolding|scaffolds]] rather than reveal
 
 **Concrete examples:**
 - Set the tutor to give incremental, [[socratic-method|Socratic]] hints rather than the next answer step.
-- Seed the AI with correct solutions *and* common [[student-misconceptions-ai|misconceptions]] so it can target errors.
+- Seed the AI with correct solutions *and* common [[misconceptions|misconceptions]] so it can target errors.
 - Require a student attempt *before* the AI reveals its output ("show your attempt first").
 - Treat any tool that makes the task feel effortless as misplaced — the [[brcic-effortless-trap-productive-struggle-2026|"if letting AI in makes the task feel effortless, it's in the wrong place"]] rule.
 

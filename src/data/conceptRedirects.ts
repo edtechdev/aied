@@ -21,5 +21,6 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'mooc': 'online-teaching-and-learning',
   'blended-learning': 'online-teaching-and-learning',
   'plagiarism-detection': 'ai-detection',
+  'student-misconceptions-ai': 'misconceptions',
   'accessible-learning': 'inclusive-learning',
 };
