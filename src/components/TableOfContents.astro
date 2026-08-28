@@ -34,7 +34,6 @@ const has = headings.length > 0;
     <details class="toc-mobile" data-toc-container>
       <summary class="toc-summary">
         <span>{title}</span>
-        <span class="toc-caret" aria-hidden="true">▾</span>
       </summary>
       <nav class="toc-body" aria-label={title}>
         <ul class="toc-list" data-toc>
@@ -84,8 +83,15 @@ const has = headings.length > 0;
     list-style: none;
   }
   .toc-summary::-webkit-details-marker { display: none; }
-  .toc-caret { transition: transform 0.15s ease; color: var(--muted-color); }
-  .toc-mobile[open] .toc-caret { transform: rotate(180deg); }
+  /* Keep Pico's native summary::after chevron as the single expand arrow, and
+     ensure it shows in its default (closed) state. */
+  .toc-summary::after {
+    display: block;
+    width: 1rem;
+    height: 1rem;
+    flex-shrink: 0;
+    margin-inline-start: 0.5rem;
+  }
   .toc-body { border-top: 1px solid var(--card-border-color); padding: 0.4rem 0.75rem 0.75rem; }
 
   /* === Desktop sticky TOC (right rail, wide screens) === */
@@ -108,15 +114,17 @@ const has = headings.length > 0;
 
   /* === Shared list === */
   /* Pico's global reset sets `ul { display: flex }` and `nav ul { display: flex }`,
-     which would lay the items out in a horizontal row. Force block so the list
-     stacks vertically. */
+     which would lay the items out in a horizontal row, and sets
+     `ul li { list-style: square }` directly on each li (white box markers).
+     Force block + list-style:none on the li's so the list stacks vertically
+     with no bullets. */
   .toc-list {
     display: block;
     list-style: none;
     margin: 0;
     padding: 0;
   }
-  .toc-list li { display: list-item; }
+  .toc-list li { display: list-item; list-style: none; }
   .toc-list a {
     display: block;
     font-size: 0.85rem;
