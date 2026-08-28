@@ -3,7 +3,7 @@ title: Generative AI Can Harm Teaching
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
-tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, cognitive-offloading, rct, teacher-ai-competency, rag]
+tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, rct, teacher-ai-competency, rag]
 
 sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
 confidence: high

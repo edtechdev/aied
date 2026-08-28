@@ -69,4 +69,4 @@ AgentSchool reframes student simulation as **stateful learning rather than role-
 
 ## Citation
 
-Ye, Y., Li, W., Wen, Z., Huang, Y., Hu, Y., Wei, Z., Wang, Y., Xie, X., Yang, H., Huang, Y., Li, R., Qian, H., Song, Y., Jiang, B., Li, B., Li, L., Zhang, B., Cai, P., Xu, X., Chen, S., Hu, X., He, L., Zhou, A., Qu, J., Shao, J., & Wang, X. (2026). [*AgentSchool: An LLM-powered multi-agent simulation for education*](https://arxiv.org/abs/2605.30144). arXiv:2605.30144.
+Ye, Y., Li, W., Wen, Z., Huang, Y., Hu, Y., Wei, Z., Wang, Y., Xie, X., Yang, H., Huang, Y., Li, R., Qian, H., Song, Y., Jiang, B., Li, B., Li, L., Zhang, B., Cai, P., Xu, X., Chen, S., Hu, X., He, L., Zhou, A., Qu, J., Shao, J., & Wang, X. (2026). [*AgentSchool: An LLM-powered multi-agent simulation for education*](https://arxiv.org/abs/2605.30144).

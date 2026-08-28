@@ -36,4 +36,4 @@ Uses multipronged analysis (syllabi review, educator survey, qualitative intervi
 
 ## Citation
 
-Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://arxiv.org/abs/2608.03973). arXiv:2608.03973. Journal of Public Policy & Marketing, 44(3), 473-489 (2025).
+Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://arxiv.org/abs/2608.03973). Journal of Public Policy & Marketing, 44(3), 473-489 (2025).

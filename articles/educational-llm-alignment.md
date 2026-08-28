@@ -77,4 +77,4 @@ This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|
 - [[llm-fallacy-misattribution]]
 ## Citation
 
-Hardy, M., & Kim, Y. (2026). [*Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact*](https://arxiv.org/abs/2603.00883). arXiv:2603.00883.
+Hardy, M., & Kim, Y. (2026). [*Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact*](https://arxiv.org/abs/2603.00883).

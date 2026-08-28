@@ -62,4 +62,4 @@ LLM usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]
 - [[agent-voice-accents-k12-group-learning]]
 ## Citation
 
-Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., & Yapici, B. (2026). [The Environmental Cost of LLMs in AIED: Reporting and Practices](https://arxiv.org/abs/2606.11215). arXiv:2606.11215.
+Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., & Yapici, B. (2026). [The Environmental Cost of LLMs in AIED: Reporting and Practices](https://arxiv.org/abs/2606.11215).

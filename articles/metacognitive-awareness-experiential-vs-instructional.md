@@ -24,4 +24,4 @@ The study speaks to the [[cognitive-offloading]] and [[cognitive-offloading|Over
 - [[ai-metacognition-stem-review]]
 ## Citation
 
-Benazet i Montobbio, P., Rotter, J., & Hernández-Leo, D. (2026). [Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning](https://arxiv.org/abs/2607.20047). arXiv:2607.20047. arXiv preprint (cs.CY/cs.HC).
+Benazet i Montobbio, P., Rotter, J., & Hernández-Leo, D. (2026). [Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning](https://arxiv.org/abs/2607.20047). arXiv preprint (cs.CY/cs.HC).

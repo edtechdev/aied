@@ -49,4 +49,4 @@ The results carry a direct warning for AI-based learning environments: general-p
 
 ## Citation
 
-Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework](https://arxiv.org/abs/2607.00395). arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026
+Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework](https://arxiv.org/abs/2607.00395). HEAL Workshop at CHI 2026, submitted 1 Jul 2026

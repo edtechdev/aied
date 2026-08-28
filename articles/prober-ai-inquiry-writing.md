@@ -1,7 +1,7 @@
 ---
 title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-08-24T08:37:50-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, intelligent-tutoring]
 
@@ -110,4 +110,4 @@ Conventional AI writing tools that generate or rewrite text risk creating [[cogn
 
 ## Citation
 
-Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). [*Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*](https://arxiv.org/abs/2605.05598)
+Bi, R., Wei, S., & Zhou, Y. (2026). [*Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*](https://arxiv.org/abs/2605.05598).

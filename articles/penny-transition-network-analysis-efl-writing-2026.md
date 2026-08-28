@@ -55,4 +55,4 @@ This study is a model demonstration of [[network-analysis|Transition Network Ana
 
 ## Citation
 
-Woollaston, S., Flanagan, B., Toyokawa, Y., & Ogata, H. (2026). *[Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing](https://arxiv.org/abs/2607.14575)* (arXiv:2607.14575). LAK '26 Transition Network Analysis Workshop.
+Woollaston, S., Flanagan, B., Toyokawa, Y., & Ogata, H. (2026). *[Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing](https://arxiv.org/abs/2607.14575)*. LAK '26 Transition Network Analysis Workshop.

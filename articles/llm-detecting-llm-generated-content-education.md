@@ -23,4 +23,4 @@ As students increasingly use [[llm]]s to draft written responses and program cod
 - [[student-rationalization-ai-writing]]
 ## Citation
 
-Leinonen & Denny (2026). [Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content](https://arxiv.org/abs/2607.20446). arXiv:2607.20446. arXiv preprint (cs.CL).
+Leinonen & Denny (2026). [Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content](https://arxiv.org/abs/2607.20446). arXiv preprint (cs.CL).

@@ -40,4 +40,4 @@ LLM-generated educational questions show varying cognitive depth; models excel a
 
 ## Citation
 
-Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). [From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions](https://arxiv.org/abs/2606.18257). arXiv:2606.18257.
+Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). [From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions](https://arxiv.org/abs/2606.18257).

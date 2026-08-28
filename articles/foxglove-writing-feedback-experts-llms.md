@@ -36,4 +36,4 @@ This work directly informs the design of [[formative-assessment|AI writing feedb
 
 ## Citation
 
-Liu, Y., Song, Y., Gallagher, J., Sterman, S., & August, T. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. [arXiv:2606.06271](https://arxiv.org/abs/2606.06271).
+Liu, Y., Song, Y., Gallagher, J., Sterman, S., & August, T. (2026). [*FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays*](https://arxiv.org/abs/2606.06271).

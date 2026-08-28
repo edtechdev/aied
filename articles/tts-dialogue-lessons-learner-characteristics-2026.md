@@ -64,4 +64,4 @@ Limitations include self-report-only learning outcomes (no objective or retentio
 
 ## Citation
 
-Watanabe, F., Suko, T., Ishida, T., Kuma, Y., Kobayashi, M., Hirasawa, S., & Kumoi, G. (2026). [*Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons*](https://arxiv.org/abs/2608.20822). arXiv:2608.20822.
+Watanabe, F., Suko, T., Ishida, T., Kuma, Y., Kobayashi, M., Hirasawa, S., & Kumoi, G. (2026). [*Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons*](https://arxiv.org/abs/2608.20822).

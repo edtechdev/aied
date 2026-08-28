@@ -32,4 +32,4 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 
 ## Citation
 
-Liu, J., Yao, X., Zhang, Z., & Tian, Y. (2026). [DebugTracker: Lightweight Process Evidence for Classroom Debugging](https://arxiv.org/abs/2607.05871). arXiv:2607.05871.
+Liu, J., Yao, X., Zhang, Z., & Tian, Y. (2026). [DebugTracker: Lightweight Process Evidence for Classroom Debugging](https://arxiv.org/abs/2607.05871).

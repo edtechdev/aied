@@ -68,4 +68,4 @@ Its training-free design also strengthens [[assessment-validity|assessment valid
 
 ## Citation
 
-Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration*](https://arxiv.org/abs/2608.05741v1). arXiv:2608.05741v1.
+Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration*](https://arxiv.org/abs/2608.05741v1). v1.

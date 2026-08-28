@@ -66,4 +66,4 @@ The authors recommend treating **offline-first design** as an equity-oriented in
 
 ## Citation
 
-Roy, A., & Roy, P. (2026). [*Structural silence: When AI infrastructure fails speakers of underrepresented languages*](https://arxiv.org/abs/2608.12278). arXiv:2608.12278.
+Roy, A., & Roy, P. (2026). [*Structural silence: When AI infrastructure fails speakers of underrepresented languages*](https://arxiv.org/abs/2608.12278).

@@ -43,4 +43,4 @@ sources: [raw/papers/2412.16429.md]
 
 ## Citation
 
-LearnLM Team, Google. (2025). *[LearnLM: Improving Gemini for learning](https://arxiv.org/abs/2412.16429)* (arXiv:2412.16429). arXiv.
+LearnLM Team, Google. (2025). *[LearnLM: Improving Gemini for learning](https://arxiv.org/abs/2412.16429)*.

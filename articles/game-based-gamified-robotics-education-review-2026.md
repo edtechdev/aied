@@ -3,7 +3,7 @@ title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Rev
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, game-based-learning, game-based-learning, systematic-review, computational-thinking, k-12, higher-ed, programming-education]
+tags: [educational-robotics, game-based-learning, systematic-review, computational-thinking, k-12, higher-ed, programming-education]
 
 sources: ['raw/papers/mubarrat-game-based-gamified-robotics-review-2026.md']
 confidence: high
@@ -48,4 +48,4 @@ As a systematic review, its conclusions depend on the quality and reporting of t
 
 ## Citation
 
-Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). [*Game-based and gamified robotics education: A comparative systematic review and design guidelines*](https://doi.org/10.1145/3772318.3791338). arXiv:2601.22199.
+Mubarrat, S. T., Shao, T., & Min, B.-C. (2026). [*Game-based and gamified robotics education: A comparative systematic review and design guidelines*](https://doi.org/10.1145/3772318.3791338).

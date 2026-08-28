@@ -74,4 +74,4 @@ Students developed procedural confidence — "Seeing the mask, prompt and seed t
 - [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
-Timo Kapsalis (2026). [Gen-AI-tecture: using generative AI to support architectural students in design tasks](https://arxiv.org/abs/2605.21361). arXiv:2605.21361. arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education.
+Timo Kapsalis (2026). [Gen-AI-tecture: using generative AI to support architectural students in design tasks](https://arxiv.org/abs/2605.21361). Submitted to Journal of Architectural Education.

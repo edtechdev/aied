@@ -1,7 +1,7 @@
 ---
 title: "Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build"
 created: "2026-05-23T04:33:04-04:00"
-updated: "2026-08-19T11:45:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education, math-education, assessment]
 sources: ['raw/papers/2605.21629.md']
@@ -79,4 +79,4 @@ This study provides the strongest empirical evidence yet for the over-reliance p
 
 ## Citation
 
-Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](https://arxiv.org/abs/2605.21629). arXiv:2605.21629.
+Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). [*Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build*](https://arxiv.org/abs/2605.21629).

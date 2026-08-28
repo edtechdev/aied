@@ -1,7 +1,7 @@
 ---
 title: "Evaluation in the Age of AI: Output as Evidence of Learning"
 created: "2026-08-27T09:16:00-04:00"
-updated: "2026-08-27T09:16:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [assessment, generative-ai, academic-integrity, plagiarism-detection, authentic-assessment, higher-ed, ethics, privacy, agency, desirable-difficulties]
 sources: ['raw/papers/evaluation-age-ai-output-evidence-2026.md']
@@ -51,4 +51,4 @@ The paper reframes the [[academic-integrity]] debate from policing outputs to re
 
 ## Citation
 
-Chowdhury, M. Z. U. S., & Khan, S. R. (2026). [*Evaluation in the age of AI: Output as evidence of learning*](https://arxiv.org/abs/2608.22660). arXiv:2608.22660.
+Chowdhury, M. Z. U. S., & Khan, S. R. (2026). [*Evaluation in the Age of AI: Output as Evidence of Learning*](https://arxiv.org/abs/2608.22660).

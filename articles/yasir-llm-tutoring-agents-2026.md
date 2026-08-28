@@ -3,7 +3,7 @@ title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [intelligent-tutoring, intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
+tags: [intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
 
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']
 confidence: high
@@ -52,4 +52,4 @@ Yasir et al. (2026) benchmark seven [[llm|LLM]] [[feedback]] agents as step-leve
 
 ## Citation
 
-Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). [*Confirming correct, missing the rest: LLM tutoring agents struggle where feedback matters most*](https://arxiv.org/abs/2605.16207v1). arXiv:2605.16207.
+Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). [*Confirming correct, missing the rest: LLM tutoring agents struggle where feedback matters most*](https://arxiv.org/abs/2605.16207v1).

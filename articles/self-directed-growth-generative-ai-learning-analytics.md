@@ -42,4 +42,4 @@ confidence: high
 
 ## Citation
 
-Mao, Q. (2025). [*Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework*](https://arxiv.org/abs/2504.20851). arXiv:2504.20851 [cs.CY].
+Mao, Q. (2025). [*Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework*](https://arxiv.org/abs/2504.20851). [cs.CY].

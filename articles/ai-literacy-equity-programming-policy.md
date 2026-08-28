@@ -33,4 +33,4 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 
 ## Citation
 
-Adrian-Marius Dumitran, Iulia-Maria Popescu (2026). [Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis](https://arxiv.org/abs/2607.11314). arXiv:2607.11314. arXiv preprint.
+Adrian-Marius Dumitran, Iulia-Maria Popescu (2026). [Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis](https://arxiv.org/abs/2607.11314). arXiv preprint.

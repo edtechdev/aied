@@ -64,4 +64,4 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 
 ## Citation
 
-Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041). arXiv:2605.29041.
+Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041).

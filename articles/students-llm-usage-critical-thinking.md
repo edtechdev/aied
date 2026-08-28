@@ -41,4 +41,4 @@ This work complements [[genai-tutor-engagement-patterns]] by shifting focus from
 - [[genai-tutor-engagement-patterns]]
 ## Citation
 
-Park, M., Orozco Vasquez, I., & Conati, C. (2026). [Characterizing students' LLM usage behaviors and their association with learning in critical thinking tasks](https://arxiv.org/abs/2605.04534). In *Proceedings of EDM 2026*. arXiv:2605.04534.
+Park, M., Orozco Vasquez, I., & Conati, C. (2026). [Characterizing students' LLM usage behaviors and their association with learning in critical thinking tasks](https://arxiv.org/abs/2605.04534). In *Proceedings of EDM 2026*.

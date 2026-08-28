@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI Tutoring in STEM
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity, affective-tutoring, scaffolding, agentic-workflows, visualization]
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
@@ -79,4 +79,4 @@ The structured dialogue intervention is structurally similar to [[stanford-evide
 - [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
-tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131)
+Syal, A., Prince, L. S. X., Gultepe, E., Brown, N. B., & Sridhar, S. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131).

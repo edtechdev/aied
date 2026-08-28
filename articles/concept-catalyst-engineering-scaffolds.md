@@ -67,4 +67,4 @@ The tool's focus on [[teacher-role|teacher agency]] offers a template for reduci
 - [[ai-tutor-authoring-promptdecipher]]
 ## Citation
 
-Madhuri Singh, Gennie Mansi, Mark Owen Riedl (2026). [Creating Learning Scaffolds for Engineering Design Using Concept Catalyst](https://arxiv.org/abs/2605.20511). arXiv:2605.20511. arXiv:2605.20511 [cs.HC] — Accepted as Interactive Demo at ISLS 2026.
+Madhuri Singh, Gennie Mansi, Mark Owen Riedl (2026). [Creating Learning Scaffolds for Engineering Design Using Concept Catalyst](https://arxiv.org/abs/2605.20511). Accepted as Interactive Demo at ISLS 2026.

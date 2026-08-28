@@ -70,4 +70,4 @@ This is a measurement and characterization study in the [[cs-education]] domain.
 
 ## Citation
 
-Amoozadeh, M., & Alipour, A. (2026). [*Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks*](https://arxiv.org/abs/2608.17919). arXiv:2608.17919 [cs.HC, cs.AI].
+Amoozadeh, M., & Alipour, A. (2026). [*Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks*](https://arxiv.org/abs/2608.17919). [cs.HC, cs.AI].

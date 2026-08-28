@@ -46,4 +46,4 @@ The paper presents a framework and a case example rather than a rigorous compara
 
 ## Citation
 
-Geger, T., Briechle, D., & Rausch, A. (2026). [*Bots and blocks: Presenting a project-based approach for robotics education*](https://arxiv.org/abs/2603.14529). arXiv:2603.14529.
+Geger, T., Briechle, D., & Rausch, A. (2026). [*Bots and blocks: Presenting a project-based approach for robotics education*](https://arxiv.org/abs/2603.14529).

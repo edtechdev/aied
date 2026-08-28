@@ -43,4 +43,4 @@ Automated tutor evaluation of this kind is a prerequisite for accountability in 
 - [[zerkouk-comprehensive-review-its-2025]]
 ## Citation
 
-Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini (2026). [Knowledge Distillation for Automated AI Tutor Evaluation](https://arxiv.org/abs/2607.10647). arXiv:2607.10647. arXiv preprint.
+Tahmid Al Hannan, Diego Garcia, Alex Njoroge, Suha Al Juboori, Tarek Sakakini (2026). [Knowledge Distillation for Automated AI Tutor Evaluation](https://arxiv.org/abs/2607.10647). arXiv preprint.

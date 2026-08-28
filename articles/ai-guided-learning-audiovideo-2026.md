@@ -75,4 +75,4 @@ The three-stage Consume–Understand–Imitate framing offers a reusable model f
 
 ## Citation
 
-Kawamura, K. (2026). [*AI-guided learning: Research on knowledge and skill acquisition support methods using deep learning audio-video processing techniques*](https://arxiv.org/abs/2608.08990). arXiv:2608.08990. cs.HC. Doctoral dissertation, University of Tokyo.
+Kawamura, K. (2026). [*AI-guided learning: Research on knowledge and skill acquisition support methods using deep learning audio-video processing techniques*](https://arxiv.org/abs/2608.08990). cs.HC. Doctoral dissertation, University of Tokyo.

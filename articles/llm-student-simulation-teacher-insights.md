@@ -1,7 +1,7 @@
 ---
 title: Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-26T15:35:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, student-simulation, teacher-training, dialogue-tutoring, k-12, authenticity, llm-evaluation, community-of-inquiry, scaffolding, knowledge-tracing]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
@@ -76,4 +76,4 @@ onal contexts
 
 ## Citation
 
-Learners?, C.L.E.S.H., Students, T.I.F.T.L., Daheim1,2, D.M.J.M.N., Sachan1, Ö.N.Y.X.Z.M., Fraser, E.Z.T.D.S., many, L.L.M.O., & aims, F.B.H.L.S.A.P.U.T.S. (2026). [*Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students*](https://aclanthology). Innovative Use of NLP for Building Educational Applications) **DOI:** https://aclanthology
+Martynova, D., Macina, J., Daheim, N., Yalçın, Ö. N., Zhang, X., & Sachan, M. (2026). [*Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students*](https://aclanthology.org/2025.bea-1.8).

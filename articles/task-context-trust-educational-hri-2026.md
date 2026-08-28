@@ -43,4 +43,4 @@ The study used a within-subjects video-based paradigm rather than physical inter
 
 ## Citation
 
-Velentza, A.-M., Nikou, K., Bosser, A.-G., & Fachantidis, N. (2026). [*What robots do matters more than what they look like: Task context shapes trust in educational HRI*](https://arxiv.org/abs/2606.14602). arXiv:2606.14602.
+Velentza, A.-M., Nikou, K., Bosser, A.-G., & Fachantidis, N. (2026). [*What robots do matters more than what they look like: Task context shapes trust in educational HRI*](https://arxiv.org/abs/2606.14602).

@@ -62,4 +62,4 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 
 ## Citation
 
-Ogbo, N. B., Song, Z., Ghareeb, S., & Han, T. A. (2026). [*Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning*](https://arxiv.org/abs/2605.27400). arXiv:2605.27400. arXiv preprint.
+Ogbo, N. B., Song, Z., Ghareeb, S., & Han, T. A. (2026). [*Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning*](https://arxiv.org/abs/2605.27400). arXiv preprint.

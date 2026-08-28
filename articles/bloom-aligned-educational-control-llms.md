@@ -30,4 +30,4 @@ Introduces a Bloom-aligned framework for measuring 'educational control' in LLMs
 - [[pedagogy-ai-mistakes]]
 ## Citation
 
-S. Bekkouch, T. Constantinou, M. Ovaere, et al. (2026). [From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs](https://arxiv.org/abs/2607.08009). arXiv:2607.08009.
+S. Bekkouch, T. Constantinou, M. Ovaere, et al. (2026). [From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs](https://arxiv.org/abs/2607.08009).

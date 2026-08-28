@@ -47,4 +47,4 @@ The paper demonstrates a disciplinary-embedded model for AI education: rather th
 
 ## Citation
 
-Li, C., Hu, H., Dunlap, C., House, N., & Wai, J. (2026). [*Giving mechanical engineers intelligent tools: A project-based AI education curriculum in thermal engineering*](https://arxiv.org/abs/2608.26056). arXiv:2608.26056.
+Li, C., Hu, H., Dunlap, C., House, N., & Wai, J. (2026). [*Giving mechanical engineers intelligent tools: A project-based AI education curriculum in thermal engineering*](https://arxiv.org/abs/2608.26056).

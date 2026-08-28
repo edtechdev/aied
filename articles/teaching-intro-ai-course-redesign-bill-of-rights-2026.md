@@ -70,4 +70,5 @@ For instructors, the report offers a concrete template for redesigning an AI-cou
 - [[beyond-detection-authentic-assessment-ai-2025]]
 
 ## Citation
-Pisan, Y. (2026). [*Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights*](https://arxiv.org/abs/2608.05175). arXiv:2608.05175.
+
+Pisan, Y. (2026). [*Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights*](https://arxiv.org/abs/2608.05175).

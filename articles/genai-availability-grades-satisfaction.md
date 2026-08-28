@@ -24,4 +24,4 @@ This large-scale observational study tests the "GenAI substitution hypothesis" â
 - [[generative-ai-reduced-study-time-math]]
 ## Citation
 
-Dumlao, Wang, Xie, Hu, Bar, Chaney, Gold & Teplitskiy (2026). [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://arxiv.org/abs/2607.21534). arXiv:2607.21534. arXiv preprint (cs.CY).
+Dumlao, Wang, Xie, Hu, Bar, Chaney, Gold & Teplitskiy (2026). [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://arxiv.org/abs/2607.21534). arXiv preprint (cs.CY).

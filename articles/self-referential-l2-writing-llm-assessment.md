@@ -1,7 +1,7 @@
 ---
 title: "Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs"
 created: "2026-05-05T04:33:04-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, ground-truth-reliability-aided, personalized-learning]
 
@@ -45,4 +45,4 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[llm-student-modeling-memory]]
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
-Gales, A.S.B.K.K.M., Approach, T.S.A.A.A.P., LLMs, T.L.W.E.W., Gales, S.B.K.K.M., prac-, A.I.R.W.C.D.T.A.C.E., & (PCC), G.A.U.D.S.W.S.A.P.C.C. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298)
+Bannò, S., Knill, K., & Gales, M. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298).

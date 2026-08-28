@@ -1,7 +1,7 @@
 ---
 title: "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle"
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, higher-ed, edtech-platform, llm, scaffolding, adaptive-learning-systems, metacognition, formative-assessment, adaptive-learning]
 sources: ['raw/papers/2605.06963.md']
@@ -54,4 +54,4 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 - [[pedagogy-ai-mistakes]]
 ## Citation
 
-Majstrak, A.A.O.M.K.G., Understanding:, F.S.L.T.D., Moodle, A.G.A.T.S.F., Skwarek, A.O.M.K.G.M.J.O.S.P.J., Wróblewska, A., Warsaw, F.O.M.A.I.S., scalability, R.G.L.E., & (LMS), M.S. (2026). [*From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle*](https://arxiv.org/abs/2605.06963)
+Ostrowska, A., Kukla, M., Majstrak, G., Opala, J., Pergała, S., Skwarek, J., & Wróblewska, A. (2026). [*From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle*](https://arxiv.org/abs/2605.06963).

@@ -27,4 +27,4 @@ The implications for education are significant. As AI agents increasingly partic
 - [[humanlike-ai-collaborative-writing]]
 ## Citation
 
-Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic (2026). [Socially fluent AI decouples conversational signals from source identity in online interaction](https://arxiv.org/abs/2605.23426). arXiv:2605.23426. arXiv preprint (cs.HC, cs.AI).
+Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic (2026). [Socially fluent AI decouples conversational signals from source identity in online interaction](https://arxiv.org/abs/2605.23426). arXiv preprint (cs.HC, cs.AI).

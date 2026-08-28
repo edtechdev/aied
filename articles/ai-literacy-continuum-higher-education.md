@@ -46,4 +46,4 @@ The continuum gives [[curriculum-design]] and [[faculty-development]] a shared v
 
 ## Citation
 
-Liu & Levy (2026). [Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education](https://arxiv.org/abs/2606.00038). arXiv:2606.00038.
+Liu & Levy (2026). [Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education](https://arxiv.org/abs/2606.00038).

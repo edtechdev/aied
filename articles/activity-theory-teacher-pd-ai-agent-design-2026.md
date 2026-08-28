@@ -33,4 +33,5 @@ The study positions [[activity-theory-aied|CHAT]] as a diagnostic and redesign t
 - [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use through activity theory
 
 ## Citation
-Xin, H., Niu, Q., Li, S., Sun, Y., Chai, C. S., Huang, L., & Chen, G. (2026). [*An activity-theoretical approach to teacher professional development in pedagogical AI agent design*](https://arxiv.org/abs/2605.12934). arXiv:2605.12934.
+
+Xin, H., Niu, Q., Li, S., Sun, Y., Chai, C. S., Huang, L., & Chen, G. (2026). [*An activity-theoretical approach to teacher professional development in pedagogical AI agent design*](https://arxiv.org/abs/2605.12934).

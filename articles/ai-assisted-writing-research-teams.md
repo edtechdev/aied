@@ -23,4 +23,4 @@ confidence: medium
 - [[persistent-ai-agents-academic-research]]
 ## Citation
 
-Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu (2026). [Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams](https://arxiv.org/abs/2605.27404). arXiv:2605.27404. arXiv preprint.
+Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu (2026). [Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams](https://arxiv.org/abs/2605.27404). arXiv preprint.

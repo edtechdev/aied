@@ -26,4 +26,4 @@ confidence: high
 - [[llm-student-misconception-identification]]
 ## Citation
 
-Moiz Imran, Sahan Bulathwela (2026). [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://arxiv.org/abs/2605.23925). arXiv:2605.23925. AIED 2026.
+Moiz Imran, Sahan Bulathwela (2026). [Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning](https://arxiv.org/abs/2605.23925). AIED 2026.

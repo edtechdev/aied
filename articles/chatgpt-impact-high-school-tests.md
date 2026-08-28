@@ -3,7 +3,7 @@ title: Little Impact of ChatGPT Availability on High School Student Test Score P
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, k-12, cognitive-offloading, academic-integrity, efficacy-study, k-12, student-experience, rag, ai-education]
+tags: [generative-ai, k-12, cognitive-offloading, academic-integrity, efficacy-study, student-experience, rag, ai-education]
 
 sources: ['raw/papers/2605.08812.md']
 confidence: medium
@@ -41,4 +41,4 @@ The seasonal variation identification strategy is innovative for causal inferenc
 - [[ai-making-us-stupid]]
 ## Citation
 
-Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high school student test score performance](https://arxiv.org/abs/2605.08812). arXiv:2605.08812.
+Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high school student test score performance](https://arxiv.org/abs/2605.08812).

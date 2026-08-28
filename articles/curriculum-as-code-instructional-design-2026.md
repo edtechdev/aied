@@ -49,4 +49,5 @@ The findings suggest a shift from ad-hoc [[prompt-engineering]] toward structure
 - [[didactical-teacher-assistant-dimensional-modeling]]
 
 ## Citation
-Paiva, H. M. (2026). [*Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education*](https://arxiv.org/abs/2608.07364). arXiv:2608.07364.
+
+Paiva, H. M. (2026). [*Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education*](https://arxiv.org/abs/2608.07364).

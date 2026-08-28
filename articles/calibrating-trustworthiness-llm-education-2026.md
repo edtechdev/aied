@@ -38,4 +38,4 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 
 ## Citation
 
-Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006). arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).
+Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006). (under review).

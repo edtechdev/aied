@@ -48,4 +48,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho (2026). [Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice](https://arxiv.org/abs/2606.17470). arXiv:2606.17470. EC-TEL 2026.
+Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho (2026). [Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice](https://arxiv.org/abs/2606.17470). EC-TEL 2026.

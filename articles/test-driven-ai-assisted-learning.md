@@ -26,4 +26,4 @@ Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign o
 - [[llm-student-modeling-memory]]
 ## Citation
 
-Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026). [Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests](https://arxiv.org/abs/2606.23315). arXiv:2606.23315. arXiv:2606.23315 (cs.CY)
+Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026). [Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests](https://arxiv.org/abs/2606.23315).

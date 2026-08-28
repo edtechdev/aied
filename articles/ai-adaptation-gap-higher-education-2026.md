@@ -49,4 +49,4 @@ The findings support stakeholder-aware, task-sensitive institutional AI policies
 
 ## Citation
 
-Braun, Y. S., & Khafizov, S. M. (2026). [*The AI adaptation gap in higher education: Students, faculty, and administrative staff*](https://arxiv.org/abs/2608.25063). arXiv:2608.25063.
+Braun, Y. S., & Khafizov, S. M. (2026). [*The AI adaptation gap in higher education: Students, faculty, and administrative staff*](https://arxiv.org/abs/2608.25063).

@@ -45,4 +45,4 @@ The study provides empirical grounding for assessment reform in the GenAI era. I
 
 ## Citation
 
-Nicola-Richmond, K., Dawson, P., Partridge, H., & Macfarlane, S. (2025). [*It takes a village... Program-wide approaches to redesigning assessment in a time of generative artificial intelligence (GenAI)*](https://doi.org/10.53761/zpp2ja61). *Journal of University Teaching and Learning Practice, 22*(7). (CC BY-ND 4.0.)
+Nicola-Richmond, K., Dawson, P., Partridge, H., & Macfarlane, S. (2025). [*It takes a village. Program-wide approaches to redesigning assessment in a time of generative artificial intelligence (GenAI)*](https://doi.org/10.53761/zpp2ja61). *Journal of University Teaching and Learning Practice, 22*(7). (CC BY-ND 4.0.)

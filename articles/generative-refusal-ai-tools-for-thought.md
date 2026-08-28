@@ -47,4 +47,4 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 
 ## Citation
 
-Sora Kang (2026). [Stop Writing for Me: Generative Refusal in AI Tools for Thought](https://arxiv.org/abs/2607.24751). arXiv:2607.24751. cs.HC.
+Sora Kang (2026). [Stop Writing for Me: Generative Refusal in AI Tools for Thought](https://arxiv.org/abs/2607.24751).

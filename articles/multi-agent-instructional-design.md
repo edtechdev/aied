@@ -118,4 +118,4 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - [[teachbench-llm-teaching-evaluation]]
 ## Citation
 
-Wang, J., Xiao, R., Hou, X., & Stamper, J. (2025). [*Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design*](https://arxiv.org/abs/2508.16659). arXiv:2508.16659.
+Wang, J., Xiao, R., Hou, X., & Stamper, J. (2025). [*Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design*](https://arxiv.org/abs/2508.16659).

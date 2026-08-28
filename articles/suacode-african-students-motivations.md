@@ -39,4 +39,4 @@ Studying why learners enroll grounds course design in actual learner needs, conn
 - [[mooc-to-maic]] — MOOC and AI-assisted course models
 ## Citation
 
-Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, George Boateng (2026). ["Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course](https://arxiv.org/abs/2607.22940). arXiv:2607.22940.
+Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, George Boateng (2026). ["Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course](https://arxiv.org/abs/2607.22940).

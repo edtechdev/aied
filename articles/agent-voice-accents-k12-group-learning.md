@@ -42,4 +42,4 @@ The findings advance understanding of how GenAI's sociolinguistic design feature
 
 ## Citation
 
-Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). [Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning](https://arxiv.org/abs/2606.12805). arXiv:2606.12805.
+Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). [Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning](https://arxiv.org/abs/2606.12805).

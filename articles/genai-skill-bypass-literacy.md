@@ -36,4 +36,4 @@ This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[cognitiv
 
 ## Citation
 
-Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026). [The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy](https://arxiv.org/abs/2607.05411). arXiv:2607.05411. arXiv preprint.
+Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026). [The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy](https://arxiv.org/abs/2607.05411). arXiv preprint.

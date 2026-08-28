@@ -70,4 +70,4 @@ ProPRL's property-aware approach — respecting directional irreversibility, agg
 
 ## Citation
 
-Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs*](https://arxiv.org/abs/2608.03006v1). arXiv:2608.03006v1.
+Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs*](https://arxiv.org/abs/2608.03006v1). v1.

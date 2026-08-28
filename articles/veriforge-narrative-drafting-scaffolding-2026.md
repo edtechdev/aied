@@ -49,4 +49,4 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 
 ## Citation
 
-Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding*](https://arxiv.org/abs/2608.09698). arXiv:2608.09698 (cs.HC); UIST 2026.
+Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding*](https://arxiv.org/abs/2608.09698). (cs.HC); UIST 2026.

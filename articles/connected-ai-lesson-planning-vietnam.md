@@ -43,4 +43,4 @@ The Evaluation phase closes the loop by connecting student performance data to i
 
 ## Citation
 
-Doan Viet, T., Nguyen Hoang, A., Luong Son, T., Hoang Thi Ngoc, A., Giang Thi Thu, H., & Le Quy, T. (2026). [ConnectED: A curriculum-aligned AI system for Vietnamese instructional lesson planning and student learning](https://arxiv.org/abs/2607.28647). arXiv:2607.28647.
+Doan Viet, T., Nguyen Hoang, A., Luong Son, T., Hoang Thi Ngoc, A., Giang Thi Thu, H., & Le Quy, T. (2026). [ConnectED: A curriculum-aligned AI system for Vietnamese instructional lesson planning and student learning](https://arxiv.org/abs/2607.28647).

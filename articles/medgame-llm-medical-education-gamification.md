@@ -25,4 +25,4 @@ MedGame transforms static clinical cases into structured, executable storytellin
 - [[llm-tts-dialogue-lesson-generation]]
 ## Citation
 
-Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026). [MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://arxiv.org/abs/2607.21570). arXiv:2607.21570. arXiv preprint (cs.CL).
+Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026). [MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://arxiv.org/abs/2607.21570). arXiv preprint (cs.CL).

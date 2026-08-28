@@ -35,4 +35,4 @@ Prompt engineering is a critical yet undertaught skill for software developers, 
 - [[prompt-based-programming-lesson]]
 ## Citation
 
-Mehra, R., Singi, K., Kaulgud, V., Sharma, V. S., & Choudhury, S. G. (2026). [Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development](https://arxiv.org/abs/2607.06074). arXiv:2607.06074.
+Mehra, R., Singi, K., Kaulgud, V., Sharma, V. S., & Choudhury, S. G. (2026). [Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development](https://arxiv.org/abs/2607.06074).

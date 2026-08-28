@@ -40,4 +40,4 @@ This design study exemplifies [[embodied-learning]] and the principle that inclu
 - [[tactile-statistical-graphs-accessibility]]
 ## Citation
 
-Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026). [Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision](https://arxiv.org/abs/2607.18598). arXiv:2607.18598. arXiv:2607.18598 [cs.HC].
+Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026). [Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision](https://arxiv.org/abs/2607.18598). .

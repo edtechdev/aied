@@ -32,4 +32,4 @@ AdaPT uses transformers to adapt lesson plans across regional and differentiated
 
 ## Citation
 
-Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://arxiv.org/abs/2606.17633). arXiv:2606.17633.
+Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://arxiv.org/abs/2606.17633).

@@ -71,4 +71,4 @@ The LLM-judge separates clearly weak submissions but ranks the strongest poorly.
 
 ## Citation
 
-Lin, Y.-C., Guo, Y.-K., Chen, S.-C., Feng, B.-H., Hsu, Y.-M., Hsieh, H., Lin, Y.-J., Wu, Y.-L., Dong, J.-K., Cheng, A.-Y., Huang, Y.-H., Ieong, L.-L., Chen, K.-Y., Tchouang, M.-D., Sun, S.-H., Lin, C., Ding, J.-J., & Lee, H.-y. (2026). [*Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents*](https://arxiv.org/abs/2608.08852). arXiv:2608.08852.
+Lin, Y.-C., Guo, Y.-K., Chen, S.-C., Feng, B.-H., Hsu, Y.-M., Hsieh, H., Lin, Y.-J., Wu, Y.-L., Dong, J.-K., Cheng, A.-Y., Huang, Y.-H., Ieong, L.-L., Chen, K.-Y., Tchouang, M.-D., Sun, S.-H., Lin, C., Ding, J.-J., & Lee, H.-y. (2026). [*Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents*](https://arxiv.org/abs/2608.08852).

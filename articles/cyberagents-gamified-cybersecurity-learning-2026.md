@@ -97,4 +97,4 @@ CyberAGENTS was implemented as a web-based interactive system (React frontend, P
 
 ## Citation
 
-Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). [*CyberAGENTS: Structured autonomy for agentic gamified learning in cybersecurity*](https://arxiv.org/abs/2608.07965). arXiv:2608.07965.
+Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). [*CyberAGENTS: Structured autonomy for agentic gamified learning in cybersecurity*](https://arxiv.org/abs/2608.07965).

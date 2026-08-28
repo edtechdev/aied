@@ -35,4 +35,5 @@ confidence: high
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help
 
 ## Citation
-Lee, Baek, Park, & Shin (2026). [*LLM Pedagogical Behavior in AI Tutoring Interactions*](https://arxiv.org/abs/2608.22993). arXiv:2608.22993.
+
+Lee, Baek, Park, & Shin (2026). [*LLM Pedagogical Behavior in AI Tutoring Interactions*](https://arxiv.org/abs/2608.22993).

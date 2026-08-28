@@ -87,4 +87,4 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[pedagogy-ai-mistakes]]
 ## Citation
 
-Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757). arXiv:2605.12757.
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757).

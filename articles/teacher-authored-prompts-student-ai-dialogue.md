@@ -85,4 +85,4 @@ The work extends [[human-ai-collaboration]] and [[human-in-the-loop-ai]] scholar
 
 ## Citation
 
-Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026). [Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation](https://arxiv.org/abs/2604.16738). arXiv:2604.16738. arXiv.
+Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026). [Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation](https://arxiv.org/abs/2604.16738). arXiv.

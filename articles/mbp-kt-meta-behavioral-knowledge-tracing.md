@@ -63,4 +63,4 @@ MBP-KT is architectural rather than pedagogical, but its implications are concre
 - [[temporal-smoothness-debiased-kt]]
 ## Citation
 
-Jia et al. (2026). [MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing](https://arxiv.org/abs/2605.08697). arXiv:2605.08697. arXiv preprint.
+Jia et al. (2026). [MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing](https://arxiv.org/abs/2605.08697). arXiv preprint.

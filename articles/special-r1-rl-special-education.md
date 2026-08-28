@@ -73,4 +73,4 @@ ring systems?
 - [[agentic-literacy-debt]]
 ## Citation
 
-Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). [Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://arxiv.org/abs/2605.30670). arXiv:2605.30670.
+Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). [Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://arxiv.org/abs/2605.30670).

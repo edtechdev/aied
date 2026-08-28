@@ -30,4 +30,4 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - [[llm-student-modeling-memory]]
 ## Citation
 
-Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](https://arxiv.org/abs/2606.27619). arXiv:2606.27619. Artificial Intelligence (cs.AI).
+Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](https://arxiv.org/abs/2606.27619). Artificial Intelligence (cs.AI).

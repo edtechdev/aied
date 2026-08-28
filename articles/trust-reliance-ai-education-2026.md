@@ -41,4 +41,4 @@ confidence: high
 
 ## Citation
 
-Pitts, G., Rani, N., & Mildort, W. (2026). [Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators](https://arxiv.org/abs/2604.01114). arXiv:2604.01114. AIED 2026.
+Pitts, G., Rani, N., & Mildort, W. (2026). [Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators](https://arxiv.org/abs/2604.01114). AIED 2026.

@@ -37,4 +37,4 @@ confidence: medium
 - [[instructional-agents-multi-agent-course-gen]]
 ## Citation
 
-Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). [A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235). arXiv:2607.12235.
+Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). [A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235).

@@ -30,4 +30,4 @@ Castillo Ventura et al. (2026) address the gap between instructional design of d
 
 ## Citation
 
-Castillo Ventura, E., Solis Lastra, J. U., & Alves Franco Brandão, A. (2026). [*WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators*](https://arxiv.org/abs/2606.20934). arXiv:2606.20934.
+Castillo Ventura, E., Solis Lastra, J. U., & Alves Franco Brandão, A. (2026). [*WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators*](https://arxiv.org/abs/2606.20934).

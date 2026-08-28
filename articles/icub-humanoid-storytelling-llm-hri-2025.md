@@ -31,4 +31,5 @@ The study focuses on usability and perceived quality of experience rather than m
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 ## Citation
-Lombardi, M., Calabrese, C., Ghiglino, D., Foglino, C., De Tommaso, D., Da Lisca, G., Natale, L., & Wykowska, A. (2025). [*Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction*](https://arxiv.org/abs/2508.02505). arXiv:2508.02505.
+
+Lombardi, M., Calabrese, C., Ghiglino, D., Foglino, C., De Tommaso, D., Da Lisca, G., Natale, L., & Wykowska, A. (2025). [*Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction*](https://arxiv.org/abs/2508.02505).

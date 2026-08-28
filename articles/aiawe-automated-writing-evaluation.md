@@ -3,7 +3,7 @@ title: "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA
 created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, llm, automated-assessment, writing-education, open-source, automated-assessment]
+tags: [generative-ai, llm, automated-assessment, writing-education, open-source]
 
 sources: ['raw/papers/2606.12801.md']
 confidence: high
@@ -34,4 +34,4 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
 
-Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models](https://arxiv.org/abs/2606.12801). arXiv:2606.12801.
+Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models](https://arxiv.org/abs/2606.12801).

@@ -25,4 +25,4 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[llm-feedback-programming-classroom]]
 ## Citation
 
-Kim, Monisha, Wu & Smith IV (2026). [Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance](https://arxiv.org/abs/2607.21257). arXiv:2607.21257. arXiv preprint (cs.HC).
+Kim, Monisha, Wu & Smith IV (2026). [Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance](https://arxiv.org/abs/2607.21257). arXiv preprint (cs.HC).

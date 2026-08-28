@@ -34,4 +34,4 @@ Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that se
 - [[medgame-llm-medical-education-gamification]]
 ## Citation
 
-Yubo Li, Rema Padman, Ramayya Krishnan (2026). [Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks](https://arxiv.org/abs/2607.22606). arXiv:2607.22606.
+Yubo Li, Rema Padman, Ramayya Krishnan (2026). [Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks](https://arxiv.org/abs/2607.22606).

@@ -1,7 +1,7 @@
 ---
 title: "Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension"
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [ai-education, higher-ed, collaborative-learning, project-based-learning, active-learning, student-experience, curriculum-design, computational-thinking, ai-literacy, community-of-inquiry]
 sources: ['raw/papers/2608.13447.md']
@@ -62,4 +62,6 @@ For educators and administrators, LIA's experience offers a concrete, replicable
 
 ## Citation
 
-Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., & colleagues (2026). [*Academic League of Artificial Intelligence: An integrative perspective of teaching, research, and extension*](https://arxiv.org/abs/2608.13447). arXiv:2608.13447.
+
+
+Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., et al. (2026). [*Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension*](https://arxiv.org/abs/2608.13447).

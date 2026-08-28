@@ -57,4 +57,4 @@ For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a 
 
 ## Citation
 
-Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740). arXiv:2605.04740.
+Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740).

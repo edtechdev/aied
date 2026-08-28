@@ -41,4 +41,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Heidi Taveter, Marina Lepp (2026). [From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs](https://arxiv.org/abs/2607.24757). arXiv:2607.24757. FIE 2026 (IEEE Frontiers in Education Conference).
+Heidi Taveter, Marina Lepp (2026). [From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs](https://arxiv.org/abs/2607.24757). FIE 2026 (IEEE Frontiers in Education Conference).

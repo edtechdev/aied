@@ -31,4 +31,4 @@ To make evaluation provenance explicit the authors build BILearn-CS, a 600-query
 - [[structured-llm-feedback-programming]]
 ## Citation
 
-Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026). [EduGuard: A Safe RAG-Based LLM Tutor for Programming Education](https://arxiv.org/abs/2607.15738). arXiv:2607.15738.
+Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026). [EduGuard: A Safe RAG-Based LLM Tutor for Programming Education](https://arxiv.org/abs/2607.15738).

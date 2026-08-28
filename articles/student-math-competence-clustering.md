@@ -39,4 +39,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). [Archetypes or ability? Clustering for modelling student mathematical competence](https://arxiv.org/abs/2607.26063). arXiv:2607.26063. arXiv preprint.
+Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). [Archetypes or ability? Clustering for modelling student mathematical competence](https://arxiv.org/abs/2607.26063). arXiv preprint.

@@ -34,4 +34,5 @@ confidence: high
 - [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education
 
 ## Citation
-Keenan, Kheterpal, Jeannin, & Omar (2026). [*Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction*](https://arxiv.org/abs/2608.23309). arXiv:2608.23309.
+
+Keenan, Kheterpal, Jeannin, & Omar (2026). [*Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction*](https://arxiv.org/abs/2608.23309).

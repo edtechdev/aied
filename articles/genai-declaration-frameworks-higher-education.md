@@ -29,4 +29,4 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 
 ## Citation
 
-Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education](https://arxiv.org/abs/2606.13389). arXiv:2606.13389.
+Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education](https://arxiv.org/abs/2606.13389).

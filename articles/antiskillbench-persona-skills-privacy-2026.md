@@ -37,4 +37,4 @@ Persona skills distill personal interaction histories into portable and executab
 
 ## Citation
 
-Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, & Tongliang Liu (2026). [When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills](https://arxiv.org/abs/2608.03700). arXiv:2608.03700. arXiv:2608.03700 [cs.CR].
+Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, & Tongliang Liu (2026). [When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills](https://arxiv.org/abs/2608.03700). .

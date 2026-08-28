@@ -47,4 +47,4 @@ The taxonomy enables targeted, scenario-specific professional development interv
 
 ## Citation
 
-Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints](https://arxiv.org/abs/2605.24142). arXiv:2605.24142. cs.HC.
+Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints](https://arxiv.org/abs/2605.24142).

@@ -41,4 +41,4 @@ Safety guardrails that refuse or soften content are not neutral: when applied un
 - [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
-Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026). [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](https://arxiv.org/abs/2607.11292). arXiv:2607.11292. arXiv preprint.
+Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026). [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](https://arxiv.org/abs/2607.11292). arXiv preprint.

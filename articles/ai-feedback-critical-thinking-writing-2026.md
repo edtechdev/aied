@@ -53,4 +53,5 @@ The WISE Agent functions not as a corrective editor but as a [[formative-assessm
 - [[foxglove-writing-feedback-experts-llms]]
 
 ## Citation
-Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency*](https://arxiv.org/abs/2608.05177). arXiv:2608.05177.
+
+Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency*](https://arxiv.org/abs/2608.05177).

@@ -61,4 +61,4 @@ To move beyond the performance/learning conflation, the authors propose a cognit
 
 ## Citation
 
-Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). [*Distinguishing performance gains from learning when using generative AI*](https://doi.org/10.1038/s44159-025-00467-5). *Nature Reviews Psychology*, 4, 435–436. arXiv:2605.13731.
+Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). [*Distinguishing performance gains from learning when using generative AI*](https://doi.org/10.1038/s44159-025-00467-5). *Nature Reviews Psychology*, 4, 435–436.

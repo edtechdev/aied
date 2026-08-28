@@ -78,4 +78,4 @@ AIRIS is presented as a classroom-level response to the boiling frog problem: it
 
 ## Citation
 
-Kuhn, J., Küchemann, S., Rakestraw, D. J., & Vogt, P. (2026). [*It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction*](https://doi.org/10.48550/arXiv.2601.13812). arXiv:2601.13812 [physics.ed-ph].
+Kuhn, J., Küchemann, S., Rakestraw, D. J., & Vogt, P. (2026). [*It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction*](https://doi.org/10.48550/arXiv.2601.13812). [physics.ed-ph].

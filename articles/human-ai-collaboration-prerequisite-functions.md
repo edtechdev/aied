@@ -54,4 +54,4 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 
 ## Citation
 
-Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it](https://arxiv.org/abs/2606.15509). arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).
+Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it](https://arxiv.org/abs/2606.15509). Handbook of AI and the Future of Education (forthcoming).

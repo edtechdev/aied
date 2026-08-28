@@ -3,7 +3,7 @@ title: Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles B
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, k-12, personalized-learning, efficacy-study, learning-gains, equity-in-ai-education, k-12, ai-education]
+tags: [intelligent-tutoring, k-12, personalized-learning, efficacy-study, learning-gains, equity-in-ai-education, ai-education]
 sources: ['raw/papers/2605.11155.md']
 confidence: high
 ---
@@ -39,4 +39,4 @@ This study extends the taxonomy in [[stanford-evidence-base-ai-k12-2026]] by sho
 - [[tutoring-effectiveness-index]]
 ## Citation
 
-Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs](https://arxiv.org/abs/2605.11155). Proceedings of the 19th International Conference on Educational Data Mining (EDM'26). arXiv:2605.11155.
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs](https://arxiv.org/abs/2605.11155). Proceedings of the 19th International Conference on Educational Data Mining (EDM'26).

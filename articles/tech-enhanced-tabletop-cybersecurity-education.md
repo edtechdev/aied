@@ -48,4 +48,4 @@ The work demonstrates how technology enhancement can close the gap between profe
 
 ## Citation
 
-Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179). arXiv:2607.28179. cs.CY, cs.CR.
+Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179).

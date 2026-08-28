@@ -31,4 +31,4 @@ Scheinberg et al. (2026) analyze 78 university learners of German across four si
 
 ## Citation
 
-Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone (2026). [What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue](https://arxiv.org/abs/2606.22225). arXiv:2606.22225. Educational Data Mining 2026
+Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone (2026). [What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue](https://arxiv.org/abs/2606.22225). Educational Data Mining 2026

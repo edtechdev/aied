@@ -38,4 +38,4 @@ This work connects to core wiki themes: [[cognitive-offloading|Over-Reliance]] [
 
 ## Citation
 
-Lane (2026). [AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass](https://arxiv.org/abs/2607.05557). arXiv:2607.05557. AIED 2026, LNCS 3032 (Springer).
+Lane (2026). [AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass](https://arxiv.org/abs/2607.05557). AIED 2026, LNCS 3032 (Springer).

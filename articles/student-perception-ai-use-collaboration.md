@@ -25,4 +25,4 @@ Graf et al. (2026) identify a new challenge in collaborative programming educati
 - [[collaborative-ai-tutoring]]
 ## Citation
 
-Laura Graf, Ramona Beinstingel, Stephan Kusche, Oleksandra Poquet (2026). [Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance](https://arxiv.org/abs/2606.23237). arXiv:2606.23237. arXiv:2606.23237 (cs.HC; cs.CY)
+Laura Graf, Ramona Beinstingel, Stephan Kusche, Oleksandra Poquet (2026). [Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance](https://arxiv.org/abs/2606.23237).

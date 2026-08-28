@@ -35,4 +35,4 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 
 ## Citation
 
-Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545). arXiv:2608.05545.
+Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545).

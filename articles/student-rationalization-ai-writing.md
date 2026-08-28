@@ -73,4 +73,4 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 
 ## Citation
 
-Kim, J., Toyama, K., Kim, S., & Carroll, J. M. (2026). ["It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090). arXiv:2605.29090. arXiv preprint.
+Kim, J., Toyama, K., Kim, S., & Carroll, J. M. (2026). ["It's OK Because.": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090). arXiv preprint.

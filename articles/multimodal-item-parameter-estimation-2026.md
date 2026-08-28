@@ -66,4 +66,4 @@ The approach has practical implications for [[automated-question-generation]] pi
 
 ## Citation
 
-Ormerod, C., & Kim, Y. (2026). [*Multimodal item parameter estimation using simulated response probabilities*](https://arxiv.org/abs/2608.10154). arXiv:2608.10154. cs.CL.
+Ormerod, C., & Kim, Y. (2026). [*Multimodal item parameter estimation using simulated response probabilities*](https://arxiv.org/abs/2608.10154).

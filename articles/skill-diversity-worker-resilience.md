@@ -79,4 +79,4 @@ This framework has direct implications for [[ai-education|educational policy]] a
 
 ## Citation
 
-Carpanelli, M., Duszynski, J., & Stephany, F. (2026). [*Navigating the skill diversity frontier: How skill complexity explains worker resilience*](https://arxiv.org/abs/2608.02102v1). arXiv:2608.02102v1.
+Carpanelli, M., Duszynski, J., & Stephany, F. (2026). [*Navigating the skill diversity frontier: How skill complexity explains worker resilience*](https://arxiv.org/abs/2608.02102v1). v1.

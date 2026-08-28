@@ -36,4 +36,4 @@ The work situates team problem-solving assessment within [[cs-education]] and br
 
 ## Citation
 
-Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026). [Assessment in Team Problem-Solving Exercises in Computing Education](https://arxiv.org/abs/2607.19209). arXiv:2607.19209. arXiv:2607.19209 [cs.CY].
+Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026). [Assessment in Team Problem-Solving Exercises in Computing Education](https://arxiv.org/abs/2607.19209). .

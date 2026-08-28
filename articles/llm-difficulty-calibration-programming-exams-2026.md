@@ -47,4 +47,4 @@ The work also illustrates the epistemic limits of [[item-response-theory]]-style
 
 ## Citation
 
-Yan, H., Xiong, J., Li, Y., & Chen, C. (2026). [*From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations*](https://arxiv.org/abs/2608.07523). arXiv:2608.07523 (cs.CY).
+Yan, H., Xiong, J., Li, Y., & Chen, C. (2026). [*From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations*](https://arxiv.org/abs/2608.07523). (cs.CY).

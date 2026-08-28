@@ -41,4 +41,4 @@ Temporal segmentation demonstrates how a lightweight, post-hoc content transform
 - [[ai-generated-instructional-videos-computing-ed]]
 ## Citation
 
-Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, Andrew Begel (2026). [Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education](https://arxiv.org/abs/2607.24612). arXiv:2607.24612.
+Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, Andrew Begel (2026). [Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education](https://arxiv.org/abs/2607.24612).

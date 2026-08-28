@@ -29,4 +29,4 @@ Examines AI-powered personalized [[learning-gains|learning]] in elementary fract
 
 ## Citation
 
-Kenneth Holman (2024). [Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning](https://arxiv.org/abs/2608.04892). arXiv:2608.04892. PhD dissertation, University of Central Florida.
+Kenneth Holman (2024). [Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning](https://arxiv.org/abs/2608.04892). PhD dissertation, University of Central Florida.

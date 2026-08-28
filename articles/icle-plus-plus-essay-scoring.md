@@ -35,4 +35,5 @@ The work complements [[psyscore-essay-scoring-zpd-feedback]]'s psychometrically-
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
 ## Citation
-Shengjie Li, Vincent Ng (2026). [ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring](https://arxiv.org/abs/2607.27671). arXiv:2607.27671. cs.CL.
+
+Shengjie Li, Vincent Ng (2026). [ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring](https://arxiv.org/abs/2607.27671).

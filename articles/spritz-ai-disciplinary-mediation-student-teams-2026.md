@@ -48,4 +48,4 @@ The anonymized-synthesis design also models [[privacy]]-respecting intervention,
 
 ## Citation
 
-Cheng, C.-J., Chung, Y.-C., Chiu, B.-C., Lin, Y.-H., & Liao, J.-W. (2026). [*Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication*](https://arxiv.org/abs/2608.07503). arXiv:2608.07503 (cs.HC).
+Cheng, C.-J., Chung, Y.-C., Chiu, B.-C., Lin, Y.-H., & Liao, J.-W. (2026). [*Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication*](https://arxiv.org/abs/2608.07503). (cs.HC).

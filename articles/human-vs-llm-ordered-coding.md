@@ -1,16 +1,15 @@
 ---
 title: "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-08-15"
+updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [automated-assessment, educational-theory, ground-truth-reliability-aied, learning-analytics, llm, llm-in-education, educational-nlp, automated-assessment]
+tags: [automated-assessment, educational-theory, ground-truth-reliability-aied, learning-analytics, llm, llm-in-education, educational-nlp]
 
 sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high
 ---
 
 > **Authors:** Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr **Source:** Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)
-**Source:** Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)
 
 ## Key Findings
 

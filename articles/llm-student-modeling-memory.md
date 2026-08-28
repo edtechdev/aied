@@ -90,4 +90,4 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 - [[history-aware-student-simulation]]
 ## Citation
 
-Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.
+Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074).

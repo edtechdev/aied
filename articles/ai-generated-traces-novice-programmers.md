@@ -46,4 +46,4 @@ The study is a cautionary counterpoint to enthusiasm for AI-generated learning m
 
 ## Citation
 
-Noviello et al. (2026). [AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study](https://arxiv.org/abs/2606.03288). arXiv:2606.03288.
+Noviello et al. (2026). [AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study](https://arxiv.org/abs/2606.03288).

@@ -45,4 +45,4 @@ confidence: high
 
 ## Citation
 
-McNichols, H., Du, K., & Lan, A. (2026). [*Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration*](https://arxiv.org/abs/2608.11460). arXiv:2608.11460 [cs.CL]. https://doi.org/10.48550/arXiv.2608.11460
+McNichols, H., Du, K., & Lan, A. (2026). [*Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration*](https://arxiv.org/abs/2608.11460). [cs.CL]. https://doi.org/10.48550/arXiv.2608.11460

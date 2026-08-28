@@ -35,4 +35,4 @@ This construct has significant implications for [[cognitive-offloading|Over-Reli
 
 ## Citation
 
-John Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026). [Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory](https://arxiv.org/abs/2605.23123). arXiv:2605.23123. International Journal of Learning, Teaching and Educational Research, 25(5), 91-107 (2026).
+John Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026). [Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory](https://arxiv.org/abs/2605.23123). International Journal of Learning, Teaching and Educational Research, 25(5), 91-107 (2026).

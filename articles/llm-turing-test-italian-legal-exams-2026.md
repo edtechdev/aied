@@ -34,4 +34,4 @@ The article reports on a blind Turing Test experiment, assessing the performance
 
 ## Citation
 
-Bertoli, Germana et al. (2026). [What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries](https://arxiv.org/abs/2608.06166). arXiv:2608.06166.
+Bertoli, Germana et al. (2026). [What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries](https://arxiv.org/abs/2608.06166).

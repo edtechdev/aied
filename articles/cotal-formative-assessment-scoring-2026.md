@@ -49,4 +49,4 @@ confidence: high
 
 ## Citation
 
-Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). [CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback](https://arxiv.org/abs/2504.02323). arXiv:2504.02323. Under review, Computers and Education: Artificial Intelligence.
+Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). [CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback](https://arxiv.org/abs/2504.02323). Under review, Computers and Education: Artificial Intelligence.

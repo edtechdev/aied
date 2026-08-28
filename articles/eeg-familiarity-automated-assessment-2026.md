@@ -43,4 +43,5 @@ Beyond classification performance, the authors use feature importance and SHAP a
 - [[genai-assessment-governance]] — GenAI Assessment Governance
 
 ## Citation
-Nanayakkara, I., & Halloluwa, T. (2026). [*Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction*](https://arxiv.org/abs/2608.16541). arXiv:2608.16541.
+
+Nanayakkara, I., & Halloluwa, T. (2026). [*Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction*](https://arxiv.org/abs/2608.16541).

@@ -68,4 +68,4 @@ Although the study is framed around general human judgment (fine visual details 
 
 ## Citation
 
-Marcoccia, C., Quattrociocchi, W., & Capraro, V. (2026). *[AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized](https://arxiv.org/abs/2607.13562)* (arXiv:2607.13562). arXiv.
+Marcoccia, C., Quattrociocchi, W., & Capraro, V. (2026). *[AI advice suppresses people's willingness to say "I don't know", even when the advice is wrong and accuracy is incentivized](https://arxiv.org/abs/2607.13562)*.

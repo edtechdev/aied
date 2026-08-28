@@ -3,7 +3,7 @@ title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, a
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [teacher-role, faculty-development, k-12, ai-literacy, teacher-ai-competency, k-12, faculty-development-genai, higher-ed]
+tags: [teacher-role, faculty-development, k-12, ai-literacy, teacher-ai-competency, faculty-development-genai, higher-ed]
 sources: ['raw/papers/2605.00343.md']
 confidence: high
 ---
@@ -35,4 +35,4 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 
 ## Citation
 
-Sibug, V. B., Cruz, M. A. D., Vital, V. P., Grume, J. C., Gamboa, A. B., Fernando, E. Q., Feliciano, L. D., Salenga, J. L., & Miranda, J. P. P. (2026). [AI adoption among teachers: Insights on concerns, support, confidence, and attitudes](https://arxiv.org/abs/2605.00343). Proceedings of the 9th International Conference on Education and Multimedia Technology (ICEMT 2025), 267-269. arXiv:2605.00343.
+Sibug, V. B., Cruz, M. A. D., Vital, V. P., Grume, J. C., Gamboa, A. B., Fernando, E. Q., Feliciano, L. D., Salenga, J. L., & Miranda, J. P. P. (2026). [AI adoption among teachers: Insights on concerns, support, confidence, and attitudes](https://arxiv.org/abs/2605.00343). Proceedings of the 9th International Conference on Education and Multimedia Technology (ICEMT 2025), 267-269.

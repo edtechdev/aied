@@ -48,4 +48,4 @@ The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-ba
 
 ## Citation
 
-Szekely, S., Gal-Ezer, J., & Harel, D. (2026). [*Rethinking Higher Education: From Fixed Curricula to Learnity Graphs*](https://arxiv.org/abs/2608.08543). arXiv:2608.08543 (cs.CY).
+Szekely, S., Gal-Ezer, J., & Harel, D. (2026). [*Rethinking Higher Education: From Fixed Curricula to Learnity Graphs*](https://arxiv.org/abs/2608.08543). (cs.CY).

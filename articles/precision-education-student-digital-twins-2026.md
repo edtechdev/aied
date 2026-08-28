@@ -39,4 +39,4 @@ confidence: medium
 
 ## Citation
 
-Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322). arXiv:2608.06322.
+Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322).

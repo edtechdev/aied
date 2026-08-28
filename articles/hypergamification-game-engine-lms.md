@@ -40,4 +40,4 @@ The authors discuss limitations (integration complexity, content-authoring burde
 
 ## Citation
 
-Yusubov, A., Bechtel, M., & Alizada, T. (2026). [Hypergamigication through integrating game engines and learning management systems: Ender's Game](https://arxiv.org/abs/2607.29300). arXiv:2607.29300.
+Yusubov, A., Bechtel, M., & Alizada, T. (2026). [Hypergamigication through integrating game engines and learning management systems: Ender's Game](https://arxiv.org/abs/2607.29300).

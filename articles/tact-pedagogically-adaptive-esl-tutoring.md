@@ -75,4 +75,4 @@ The authors are explicit that next-turn response quality is not the same as long
 
 ## Citation
 
-Yang, D., Lin, S., Shen, L., Sheng, R., Qu, H., & Chen, Z. (2026). [*TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring*](https://arxiv.org/abs/2608.03952v1). arXiv:2608.03952v1.
+Yang, D., Lin, S., Shen, L., Sheng, R., Qu, H., & Chen, Z. (2026). [*TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring*](https://arxiv.org/abs/2608.03952v1). v1.

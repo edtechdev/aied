@@ -93,4 +93,4 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 ## Citation
 
-Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
+Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807).

@@ -40,4 +40,4 @@ Adaptive LLM tutoring with subject-aware prompt routing based on 14 pedagogical 
 
 ## Citation
 
-Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T. (2026). [*Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring*](https://arxiv.org/abs/2606.20138). arXiv:2606.20138. arXiv cs.AI preprint.
+Chang, P.-C., Hogan, N., Plaat, A., & van der Meer, M. T. (2026). [*Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring*](https://arxiv.org/abs/2606.20138). arXiv cs.AI preprint.

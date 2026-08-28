@@ -43,4 +43,4 @@ For [[student-experience]] and benchmark development, this paper motivates a par
 - [[simulating-students-llm-review-2026]]
 ## Citation
 
-Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv:2605.12748.
+Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748).

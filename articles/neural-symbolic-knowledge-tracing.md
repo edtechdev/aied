@@ -116,4 +116,4 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
-Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich, E., Cukurova, M., Gašević, D., & Azevedo, R. (2026). [*Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*](https://arxiv.org/abs/2604.08263). arXiv:2604.08263.
+Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich, E., Cukurova, M., Gašević, D., & Azevedo, R. (2026). [*Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*](https://arxiv.org/abs/2604.08263).
