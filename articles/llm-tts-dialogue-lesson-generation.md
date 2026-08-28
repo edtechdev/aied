@@ -6,11 +6,7 @@ type: article
 tags: [llm, generative-ai, personalized-learning, scaffolding, active-learning, pedagogical-llm-training]
 sources: ['raw/papers/2607.12235.md']
 confidence: medium
----
-
-**Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, et al. (2026)** - arXiv preprint (IEEE). arXiv preprint.
-
-## Key Findings
+---## Key Findings
 
 - Proposes a human-in-the-loop LLM+TTS pipeline that generates Expert-Novice dialogue lessons, augmenting rather than replacing educators - see [[generative-ai]].
 - Three-stage workflow (LLM slide/narration generation -> educator review -> automated audiovisual integration) parallels [[scaffolding]] design.

@@ -8,10 +8,6 @@ sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high
 ---
 
-# Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)
-Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026.
-📄 doi:10.1016/j.caeai.2026.100653
-
 ## Summary
 
 This scoping review systematically maps **474 studies** (January 2020 – May 2026) on generative AI-powered agentic AI in education, providing the most comprehensive synthesis of the field to date. The authors analyze publication characteristics, study designs, agent roles, AI models/architectures, six dimensions of agentic capability, and the extent of educational theory integration.

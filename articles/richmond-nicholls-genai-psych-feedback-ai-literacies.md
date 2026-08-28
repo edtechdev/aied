@@ -9,8 +9,6 @@ sources: ['raw/papers/richmond-nicholls-genai-psych-feedback-ai-literacies.md']
 confidence: high
 ---
 
-# Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology
-
 ## Summary
 
 Richmond & Nicholls (2025) describe integrating [[generative-ai|generative AI]] (ChatGPT) into a large second-year [[higher-ed|psychology]] assessment — the "Media Assignment," in which students translate a published research article into a media release and video for a lay audience. They modified Phase 1 so that instead of [[peer-review|peer review]], students used ChatGPT to generate a draft media release and then critiqued that output against the course's marking rubric, grading six criteria and identifying three strengths, three weaknesses, and three priorities for revision. In Phase 2 students revised the AI text (tracked changes), and in Phase 3 they produced a final video. Students accurately assessed the ChatGPT output: they rated it stylistically strong but lacking accurate coverage of the research's aims, methods, and results. Working with the rubric and genAI early had a small but significant benefit for script-revision grades relative to the prior peer-review cohort, though final video grades did not differ. The design is presented as building three [[ai-literacy|literacies]] at once — psychological, [[feedback-literacy|feedback]], and AI — and as an example of shifting [[assessment]] emphasis from product to learning process.

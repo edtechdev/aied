@@ -11,8 +11,6 @@ confidence: high
 
 > 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to curriculum goals from the start 2. **Human-in-the-loop prompt engineering** — labelled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + active learning** — teacher and student feedback loops refine questions, rubrics, and LLM prompts across iterations
 
-# CoTAL: Formative Assessment Scoring with Human-in-the-Loop Prompt Engineering
-
 > Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalises across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in [[automated-assessment|Automated Grading]].
 
 ## How it works

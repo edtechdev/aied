@@ -8,8 +8,6 @@ sources: ['raw/papers/ai-writing-support-stage-ownership-2026.md']
 confidence: high
 ---
 
-# AI Writing Support and Ownership by Stage
-
 > Gero, Long, Schnitzler & Dhillon (2026, DIS '26) ran a between-subjects essay study (n = 253) showing that **where** AI support enters the [[writing-education|writing process]] determines how much students feel they [[agency|own the work]]: any AI assistance decreased ownership, but planning support cost the least while drafting support cost the most. The mechanism is AI-contributed text and ideas — and there is a genuine **quality–ownership trade-off**.
 
 ## The experiment
@@ -43,7 +41,5 @@ confidence: high
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 
 ## Citation
-
-
 
 Gero, K. I., Long, T., Schnitzler, C., & Dhillon, P. (2026). [*From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*](https://arxiv.org/abs/2604.11009).

@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.09305.md']
 confidence: medium
 ---
 
-# Reinforcement Learning Measurement Model for Interactive Assessment
-
 ## Key Findings
 
 Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **reinforcement learning measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.

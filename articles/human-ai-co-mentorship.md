@@ -11,8 +11,6 @@ confidence: medium
 
 > A pedagogical model where human mentors and AI tools jointly support student learning in project-based contexts. Human mentors provide conceptual guidance, debugging, and problem formulation support; AI tools accelerate execution, code generation, and rapid iteration. Demonstrated by Chawla et al. (2026) in a ten-week financial forecasting project with high-school and early-undergraduate students, the model produced accelerated progress, instructive failure modes, and a clear division of labor: AI handled tactical execution while human mentors retained strategic judgment.
 
-# Human-AI Co-Mentorship
-
 ## Definition
 A pedagogical model where [[human-ai-collaboration|human mentors and AI tools]] jointly support student learning in [[project-based-learning|project-based contexts]]. Human mentors provide conceptual guidance, debugging, and problem formulation support; AI tools accelerate execution, code generation, and rapid iteration. Demonstrated by Chawla et al. (2026) in a financial forecasting project with [[k-12|high-school]] students, the model positions AI as a complement to—rather than a replacement for—human mentorship, with each side covering the other's limits.
 

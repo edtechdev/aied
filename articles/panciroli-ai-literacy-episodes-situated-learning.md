@@ -10,8 +10,6 @@ confidence: high
 
 > **Synthesis:** Panciroli, Allegra, Gentile & Rivoltella propose a framework for curricular AI literacy integration built on the **Episode of Situated Learning (ESL)** instrument. ESL is an active teaching device organized around three verbs — *anticipate, produce, reflect* — that operates at both the micro level (lesson planning) and macro level (curriculum construction). The authors situate AI literacy within the broader landscape of new literacies (media, information, data, AI), draw on European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2), and distinguish direct didactics of AI (learning how AI works) from indirect teaching of AI (learning to collaborate with AI). Both levels fall under an educational mode of "explainability" centred on social interaction and school-community participation.
 
-# Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning
-
 ## AI literacy within the new literacies landscape
 
 The paper situates AI education within the broader evolution of literacy concepts, following the New London Group's multiliteracy framework. It distinguishes at least four specific literacies with distinct competences: **media literacy** (comprehension of media messages), **information literacy** (finding, analysing, using, sharing information), **data literacy** (understanding the reality of data and developing reflexive, critical interaction with it), and **AI literacy** (knowing, understanding, using, applying, evaluating, and creating AI). AI literacy thus sits within a family of related, mutually-reinforcing [[ai-literacy|literacies]] rather than as a standalone skill.

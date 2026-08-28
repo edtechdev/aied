@@ -10,8 +10,6 @@ sources: []
 
 > **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
 
-# Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
-
 ## Summary
 
 This paper introduces **MathCog**, a benchmark dataset of 3,036 teacher-annotated diagnostic verdicts across 639 student handwritten math responses to 110 problems. Evaluating 18 LLMs, the authors find that **all models severely underperform** (macro F1 < 0.5), with systematic failure modes: over-attributing evidential strength, overthinking minimal cues, and hallucinating nonexistent evidence. Performance degrades sharply when student evidence is vague or implicit. The study calls for evidence-aware architectures and teacher-in-the-loop designs.

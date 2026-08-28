@@ -9,8 +9,6 @@ sources: ['raw/papers/coach-not-crutch-ai-writing.md']
 confidence: high
 ---
 
-# Coach not crutch: Evidence that AI can improve writing skill despite reducing effort
-
 ## Summary
 
 Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using AI inevitably hinders learning by sparing effort. Across pre-registered studies they find the opposite is possible: AI can reduce effort while improving the learning environment, so learners can "work less and learn more." A nationally representative Gallup survey of young adults (N = 2,472) confirmed that the public largely holds the "crutch" intuition (73% negative about AI's impact on capability). But in experiments, participants who practiced writing cover letters with an AI tool wrote higher-quality no-AI cover letters than those who practiced alone — and AI beat both googling examples and receiving personalized feedback from experienced human editors. A third experiment showed AI teaches by example: merely viewing an AI-revised letter (no further practice) produced the same gain as practicing with the tool.

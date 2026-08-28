@@ -9,8 +9,6 @@ sources: ['raw/papers/hawkins-feedback-literacy-ai-essay-writing.md']
 confidence: high
 ---
 
-# Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
-
 ## Summary
 
 Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use generative AI for feedback during essay writing, using a novel simulated assessment task methodology. Thirty-two psychology students at The University of Queensland completed a screen-recorded, 25-minute essay writing task with unrestricted access to ChatGPT (and optionally other tools such as Quillbot, Co-pilot, and DeepL), then watched the recording back in a video-stimulated interview. A thematic analysis (Braun & Clarke 2006) of the transcribed interviews identified four distinct, temporally ordered themes: *feedforward* (initial content and idea requests), *feedback* (requesting assessments of one's own work, including criteria-based and line-level language improvements), *feedback evaluation* (making decisions based on AI output, enacted through 'expand', 'summarise', 'elaborate', and 'try again' prompts, and providing feedback to AI), and *AI avoidance* (deliberately not using AI, often citing academic integrity or a desire that the essay sound 'in my own words'). A standard multiple regression found feedback literacy to be the only significant positive predictor of essay grade (β = 0.46, p = 0.017), supporting the study's working theory. The paper interprets feedback literacy (Carless & Boud 2018) within the broader scope of self-regulated learning (Pintrich 2000) and is one of the first to deploy Dawson et al.'s (2024) validated Feedback Literacy Behaviour Scale.

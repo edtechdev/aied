@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.14257.md']
 confidence: high
 ---
 
-# What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026
-
 🔗 [Code](https://github.com/adno/vocabulary-difficulty)
 
 ## Overview

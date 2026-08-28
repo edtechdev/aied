@@ -9,8 +9,6 @@ sources: ['raw/papers/2604.07469.md']
 confidence: high
 ---
 
-# Sequenced AI Feedback on Student Learning
-
 ## Core Finding
 
 **Sequenced AI feedback harms learning despite boosting engagement and positive perceptions.**

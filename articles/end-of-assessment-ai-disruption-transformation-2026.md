@@ -8,8 +8,6 @@ sources: ['raw/papers/end-of-assessment-ai-disruption-transformation-2026.md']
 confidence: medium
 ---
 
-# The End of Assessment? Disruption and Transformation in the Age of AI
-
 ## Core Finding
 
 Generative AI is collapsing the long-standing boundaries between learner, test, and assessor — an **epistemic disruption** in what counts as evidence of learning. These systems can be test-takers, test-makers, test-raters, *and* analysts/reporters simultaneously. Rather than merely adding a tool, AI dissolves the field's traditional representational-measurement paradigm. The authors argue assessment must transform from static measurement into an **evidence ecosystem** centered on meaning-making, justice, and AI literacy, led by a "cyborg" assessment professional fluent in both disciplinary assessment expertise and AI.

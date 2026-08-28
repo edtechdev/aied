@@ -10,8 +10,6 @@ confidence: high
 
 > Perl-Nussbaum & Finkelstein (2026) adapt institutional-change models to generative AI as an **arrival technology** — one that entered classrooms before pedagogical evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[faculty-development]], [[higher-ed]], [[educational-policy-ai]]).
 
-# Institutional Change Framework for AI
-
 ## Core Contribution
 
 Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on **adoption technologies** (stable, evidence-based practices like Peer Instruction or PhET simulations), generative AI is an **arrival technology** — it entered classrooms before pedagogical evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.

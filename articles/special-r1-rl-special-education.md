@@ -9,8 +9,6 @@ confidence: high
 ---
 > **Authors:** Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang (2026)
 
-# Special-R1: RL for Special Education
-
 ## What It Is
 
 Special-R1 is a framework that extends pedagogical [[reinforcement-learning|reinforcement learning]] (RL) to [[special-education|special education]]. While prior RL-based tutor alignment methods targeted only generic math learners, Special-R1 explicitly models cognitive and communicative diversity across five disability profiles.

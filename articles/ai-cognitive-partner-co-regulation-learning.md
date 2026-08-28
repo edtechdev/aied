@@ -10,8 +10,6 @@ confidence: high
 
 > **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-regulation of thinking, learning, and self-control. Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it frames human-AI interaction as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of cognitive offloading against the risks of over-reliance.
 
-# Artificial intelligence as a cognitive partner
-
 ## The shift from tool to cognitive partner
 
 The paper argues that developmental psychology has lacked a theoretical framework for the role of AI in cognition regulation across the lifespan. It proposes that AI participates in the co-regulation of thought and action rather than merely providing information. Grounded in [[learning-theories|learning theory]], the authors integrate executive function, [[metacognition]], distributed cognition, and sociocultural (Vygotskian) development to describe a developmental paradigm of human-AI co-regulation.

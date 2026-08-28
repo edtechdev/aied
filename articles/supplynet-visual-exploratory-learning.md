@@ -8,8 +8,6 @@ sources: ['raw/papers/2606.24694.md']
 confidence: high
 ---
 
-# SupplyNet: LLM Multi-Agent Simulation for Supply Chain Education
-
 SupplyNet is a gamified visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract simulations with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
 
 ## Key Features

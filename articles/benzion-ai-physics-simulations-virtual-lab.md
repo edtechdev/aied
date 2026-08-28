@@ -15,8 +15,6 @@ sources:
 confidence: high
 ---
 
-# Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
-
 ## Summary
 
 Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical approach to using [[llm|large language models]] (LLMs) to rapidly generate interactive [[physics-education|physics]] [[simulation|simulations]] for education — effectively "building your own virtual lab." The paper argues that while existing simulation platforms such as PhET are valuable and widely used, they do not cover all teaching needs, and modifying or developing simulations has traditionally required programming expertise and significant time. Using [[llm|LLMs]] such as ChatGPT (OpenAI) and Claude (Anthropic), the authors show that educators and students can generate and iteratively refine HTML/JavaScript physics simulations through structured textual [[prompt-engineering|prompts]], with no programming background required. The paper provides a reusable prompt template, a worked example (a simple pendulum), a two-part validation strategy, and preliminary evidence from a pilot course. The authors position AI-generated simulations as complementary to, not replacements for, established educational resources. **Not [[open-source|open access]]** (AIP journal article in *The Physics Teacher*).

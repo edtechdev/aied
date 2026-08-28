@@ -8,8 +8,6 @@ sources: ['raw/papers/alrahmi-org-drivers-ai-adoption-he-2026.md']
 confidence: medium
 ---
 
-# Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education
-
 > **Synthesis:** This study empirically models the organisational, technological, and environmental determinants of [[ai-education|AI adoption in higher education]], focusing on data-driven decision support systems (DSS) and smart learning platforms in Saudi Arabian universities. Guided by the Technology–Organisation–Environment (TOE) framework and Diffusion of Innovations (DOI) theory, the author surveyed 300 academic and administrative staff and used PLS-SEM. Findings show internal organisational conditions (culture, sustainability practices, waste management) strengthen social drivers, while technological attributes (compatibility, relative advantage, low complexity) shape perceived innovation attributes that catalyse intention to use and actual adoption. Government regulations and policy incentives emerged as crucial external enablers of institutional readiness, with adoption associated with improved teaching, learner engagement, and curriculum innovation.
 
 ## Key Findings
