@@ -1,0 +1,44 @@
+---
+/**
+ * RecentActivity.astro — the "Recently Added Articles" and "Recently Updated
+ * Concepts" sidebar lists. Rendered once in BaseLayout's right rail, after the
+ * on-this-page TOC when present. On mobile the right rail stacks below the page
+ * content (single-column grid), so this shows below the article/concept page.
+ */
+interface Item {
+  title: string;
+  url: string;
+  date: string;
+}
+
+interface Props {
+  articles: Item[];
+  concepts: Item[];
+}
+
+const { articles, concepts } = Astro.props;
+---
+<section class="recent-block">
+  <h2>📄 Recently Added Articles</h2>
+  <ul class="recent-list">
+    {articles.map(a => (
+      <li>
+        <a href={a.url}>{a.title}</a>
+        <span class="recent-date">{a.date}</span>
+      </li>
+    ))}
+  </ul>
+  <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
+</section>
+
+<section class="recent-block">
+  <h2>🏷️ Recently Updated Concepts</h2>
+  <ul class="recent-list">
+    {concepts.map(c => (
+      <li>
+        <a href={c.url}>{c.title}</a>
+        <span class="recent-date">{c.date}</span>
+      </li>
+    ))}
+  </ul>
+</section>
