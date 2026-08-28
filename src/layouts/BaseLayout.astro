@@ -257,15 +257,18 @@ const recentConceptItems = recentConcepts.map(c => ({
 
     /* Reset Pico's default <article> spacing so content pages don't have a big
        empty gap at the top (Pico gives article a large margin/padding, and p~h1
-       adds a big margin between the type badge and the page title). */
-    article {
+       adds a big margin between the type badge and the page title).
+       NOTE: these are :global because the <article> and .page-header are
+       rendered by the page templates (their own Astro scope ids), not by
+       BaseLayout — a scoped BaseLayout selector would never match them. */
+    :global(article) {
       margin: 0;
       padding: 0;
       background: transparent;
       box-shadow: none;
       border-radius: 0;
     }
-    .page-header h1 { margin-top: 0; }
+    :global(.page-header h1) { margin-top: 0; }
 
     /* === Three-column docs layout === */
     .docs-layout {
