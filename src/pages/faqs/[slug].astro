@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
+import GithubSlugger from 'github-slugger';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -26,6 +27,7 @@ const { title, tags, created, updated } = faq.data;
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = faq.body || '';
+const toc = renderMarkdown(body, title).headings.filter(h => h.depth <= 3);
 
 // Connected FAQs: FAQ pages can link to other FAQ slugs in their body via [[slug]]
 // For now we render the body; Connected FAQ lists will be handled by the section below.
@@ -45,8 +47,14 @@ function splitTableCells(line: string): string[] {
   return cells;
 }
 
-function renderMarkdown(text: string, pageTitle: string): string {
+function stripInlineTags(html: string): string {
+  return html.replace(/<[^>]+>/g, '');
+}
+
+function renderMarkdown(text: string, pageTitle: string): { html: string; headings: { text: string; slug: string; depth: number }[] } {
   let html = '';
+  const headings: { text: string; slug: string; depth: number }[] = [];
+  const slugger = new GithubSlugger();
   let inBlockquote = false;
   let inTable = false;
   let inTableHead = true;
@@ -58,6 +66,15 @@ function renderMarkdown(text: string, pageTitle: string): string {
     }
   };
   const closeAllLists = () => closeListsTo(0);
+
+  const heading = (level: number, raw: string) => {
+    closeAllLists();
+    const inner = renderInline(raw);
+    const text = stripInlineTags(inner);
+    const slug = slugger.slug(text) || 'section';
+    headings.push({ text, slug, depth: level });
+    html += `<h${level} id="${slug}"><a class="heading-anchor" href="#${slug}" aria-hidden="true"></a>${inner}</h${level}>`;
+  };
 
   for (const line of text.split('\n')) {
     const trimmed = line.trim();
@@ -75,8 +92,8 @@ function renderMarkdown(text: string, pageTitle: string): string {
     // Skip H1 matching page title
     if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) { closeAllLists(); continue; }
 
-    if (trimmed.startsWith('### ')) { closeAllLists(); html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
-    if (trimmed.startsWith('## ')) { closeAllLists(); html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
+    if (trimmed.startsWith('### ')) { heading(3, trimmed.slice(4)); continue; }
+    if (trimmed.startsWith('## ')) { heading(2, trimmed.slice(3)); continue; }
     if (trimmed.startsWith('# ')) { closeAllLists(); html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
 
     // Tables
@@ -130,7 +147,7 @@ function renderMarkdown(text: string, pageTitle: string): string {
   closeAllLists();
   if (inTable) html += '</tbody></table>';
   if (inBlockquote) html += '</blockquote>';
-  return html;
+  return { html, headings };
 }
 
 function smartTitle(label: string): string {
@@ -166,7 +183,7 @@ function renderInline(text: string): string {
 }
 ---
 
-<BaseLayout title={title}>
+<BaseLayout title={title} toc={toc}>
   <JsonLd
     type="faq"
     slug={slug}
@@ -189,7 +206,7 @@ function renderInline(text: string): string {
     </div>
 
     <div style="line-height:1.8" data-pagefind-body>
-      <Fragment set:html={renderMarkdown(body, title)} />
+      <Fragment set:html={renderMarkdown(body, title).html} />
     </div>
 
     <SourceButtons filePath={`faqs/${faq.id}.md`} />

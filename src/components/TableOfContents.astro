@@ -1,0 +1,195 @@
+---
+/**
+ * TableOfContents.astro — mirrors Blume's "On this page" component
+ * (packages/blume/src/components/layout/TableOfContents.astro) adapted to the
+ * wiki's own CSS-variable theme and hand-rolled markdown renderer.
+ *
+ * Renders the same heading list in two variants:
+ *  - "mobile": a collapsible <details> shown above the content on narrow
+ *    viewports (hidden on wide screens, where the sticky aside takes over).
+ *  - "desktop": a sticky aside list shown in the right rail on wide screens.
+ *
+ * A single scrollspy script (see <script> below, adapted from blume's
+ * toc-element.ts) watches the headings of every rendered list and marks the
+ * section currently in view with aria-current="location", which the styles
+ * highlight.
+ */
+
+interface Heading {
+  text: string;
+  slug: string;
+  depth: number;
+}
+
+interface Props {
+  headings: Heading[];
+  title?: string;
+  variant: 'mobile' | 'desktop';
+}
+
+const { headings, title = 'On this page', variant } = Astro.props;
+const has = headings.length > 0;
+---
+{
+  has && variant === 'mobile' && (
+    <details class="toc-mobile" data-toc-container>
+      <summary class="toc-summary">
+        <span>{title}</span>
+        <span class="toc-caret" aria-hidden="true">▾</span>
+      </summary>
+      <nav class="toc-body" aria-label={title}>
+        <ul class="toc-list" data-toc>
+          {headings.map((h) => (
+            <li data-depth={h.depth}>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </details>
+  )
+}
+{
+  has && variant === 'desktop' && (
+    <nav class="toc-desktop" aria-label={title}>
+      <div class="toc-title">{title}</div>
+      <ul class="toc-list" data-toc>
+        {headings.map((h) => (
+          <li data-depth={h.depth}>
+            <a href={`#${h.slug}`}>{h.text}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )
+}
+
+<style>
+  /* === Mobile collapsible TOC (above content, narrow screens) === */
+  .toc-mobile {
+    margin: 0 0 1.5rem 0;
+    border: 1px solid var(--card-border-color);
+    border-radius: 8px;
+    background: var(--card-background-color);
+  }
+  .toc-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--color);
+    list-style: none;
+  }
+  .toc-summary::-webkit-details-marker { display: none; }
+  .toc-caret { transition: transform 0.15s ease; color: var(--muted-color); }
+  .toc-mobile[open] .toc-caret { transform: rotate(180deg); }
+  .toc-body { border-top: 1px solid var(--card-border-color); padding: 0.4rem 0.75rem 0.75rem; }
+
+  /* === Desktop sticky TOC (right rail, wide screens) === */
+  .toc-desktop {
+    position: sticky;
+    top: 1.25rem;
+    max-height: calc(100vh - 2.5rem);
+    overflow-y: auto;
+  }
+  .toc-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted-color);
+    margin: 0 0 0.5rem 0;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--card-border-color);
+  }
+
+  /* === Shared list === */
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .toc-list li { margin: 0; }
+  .toc-list a {
+    display: block;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    padding: 0.22rem 0.6rem;
+    color: var(--muted-color);
+    text-decoration: none;
+    border-radius: 4px;
+    border-left: 2px solid transparent;
+  }
+  .toc-list a:hover { color: var(--primary); }
+  .toc-list a[aria-current='location'] {
+    color: var(--primary);
+    font-weight: 600;
+    border-left-color: var(--primary);
+  }
+  .toc-list li[data-depth='3'] a { padding-left: 1.2rem; font-size: 0.8rem; }
+  .toc-list li[data-depth='4'] a { padding-left: 1.8rem; font-size: 0.78rem; }
+
+  /* Hide the mobile details on wide screens (desktop aside takes over) */
+  @media (min-width: 1280px) {
+    .toc-mobile { display: none; }
+  }
+</style>
+
+<script>
+  // Scrollspy (adapted from blume's toc-element.ts). Watches the headings of
+  // every [data-toc] list on the page and marks the section in view with
+  // aria-current="location".
+  const TRIGGER_OFFSET = 80;
+  document.querySelectorAll<HTMLElement>('[data-toc]').forEach((list) => {
+    const entries = Array.from(list.querySelectorAll<HTMLAnchorElement>('a[href^="#"]'))
+      .map((link) => {
+        const id = decodeURIComponent(link.hash.slice(1));
+        const heading = id ? document.getElementById(id) : null;
+        return heading ? { heading, link } : null;
+      })
+      .filter((e): e is { heading: HTMLElement; link: HTMLAnchorElement } => e !== null);
+    if (!entries.length) return;
+
+    let current: HTMLAnchorElement | null = null;
+
+    const update = () => {
+      const scrolledToBottom =
+        window.innerHeight + window.scrollY >=
+        document.documentElement.scrollHeight - 2;
+      let active = entries[0].link;
+      if (scrolledToBottom) {
+        active = entries[entries.length - 1].link;
+      } else {
+        for (const { heading, link } of entries) {
+          if (heading.getBoundingClientRect().top <= TRIGGER_OFFSET) active = link;
+        }
+      }
+      if (active === current) return;
+      current?.removeAttribute('aria-current');
+      active.setAttribute('aria-current', 'location');
+      current = active;
+    };
+
+    const observer = new IntersectionObserver(update, {
+      rootMargin: `-${TRIGGER_OFFSET}px 0px -70% 0px`,
+      threshold: 0,
+    });
+    for (const { heading } of entries) observer.observe(heading);
+
+    let ticking = false;
+    const onScroll = () => {
+      if (ticking) return;
+      ticking = true;
+      requestAnimationFrame(() => {
+        ticking = false;
+        update();
+      });
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    update();
+  });
+</script>
