@@ -495,7 +495,7 @@ const recentConceptItems = recentConcepts.map(c => ({
     .tag-chip:hover { opacity: 0.9; color: var(--primary); }
 
     /* Self-linking heading anchors (rendered by the markdown templates) */
-    h2[id], h3[id] { scroll-margin-top: 5rem; }
+    h2[id], h3[id], #top { scroll-margin-top: 5rem; }
     .heading-anchor {
       color: var(--muted-color);
       text-decoration: none;
@@ -642,7 +642,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 
       <!-- Middle: page content -->
       <div class="middle">
-        <TableOfContents headings={toc} variant="mobile" />
+        <TableOfContents headings={toc} variant="mobile" pageTitle={title} />
         <slot />
       </div>
 
@@ -650,7 +650,7 @@ const recentConceptItems = recentConcepts.map(c => ({
            On mobile this rail stacks below the content in the single-column
            grid, so the recent lists also appear below the page there. -->
       <aside class="right-col" aria-label={toc.length > 0 ? "On this page" : "Recent activity"}>
-        {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" />}
+        {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} />}
         <div class="recent-rail">
           <RecentActivity articles={recentArticleItems} concepts={recentConceptItems} />
         </div>

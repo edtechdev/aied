@@ -24,10 +24,15 @@ interface Props {
   headings: Heading[];
   title?: string;
   variant: 'mobile' | 'desktop';
+  /** The page title; shown as the first TOC item linking to the top of the page. */
+  pageTitle?: string;
 }
 
-const { headings, title = 'On this page', variant } = Astro.props;
-const has = headings.length > 0;
+const { headings, title = 'On this page', variant, pageTitle } = Astro.props;
+const has = headings.length > 0 || Boolean(pageTitle);
+const displayHeadings = pageTitle
+  ? [{ text: pageTitle, slug: 'top', depth: 1 }, ...headings]
+  : headings;
 ---
 {
   has && variant === 'mobile' && (
@@ -37,7 +42,7 @@ const has = headings.length > 0;
       </summary>
       <nav class="toc-body" aria-label={title}>
         <ul class="toc-list" data-toc>
-          {headings.map((h) => (
+          {displayHeadings.map((h) => (
             <li data-depth={h.depth}>
               <a href={`#${h.slug}`}>{h.text}</a>
             </li>
@@ -52,7 +57,7 @@ const has = headings.length > 0;
     <nav class="toc-desktop" aria-label={title}>
       <div class="toc-title">{title}</div>
       <ul class="toc-list" data-toc>
-        {headings.map((h) => (
+        {displayHeadings.map((h) => (
           <li data-depth={h.depth}>
             <a href={`#${h.slug}`}>{h.text}</a>
           </li>

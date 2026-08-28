@@ -212,7 +212,7 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
     connectedFaqSlugs={connectedFaqs.map((f: any) => f.id.replace('.md', ''))}
   />
   <article data-pagefind-filter="page_type:concept" data-pagefind-weight="2">
-    <div class="page-header">
+    <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">🏷️ Concept</p>
       <h1>{title}</h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
