@@ -1,7 +1,7 @@
 ---
 title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-08-27T13:49:27.865811-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]
 confidence: high
@@ -40,6 +40,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[ai-education]]
 - [[learning-theories]]
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 
 - [[teacher-education-ai-literacy-sdt-2026]]

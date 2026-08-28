@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T07:53:59.967917-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies]
@@ -68,6 +68,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[teaching-the-teachers-genai-tpk-review-2026]] — TPK-based teacher training and professional identity
 - [[ying-genai-journalism-assessment-2026]]
 - [[alharbi-ethical-genai-eap-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 
@@ -43,6 +43,16 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labour]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
 - **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, transparency); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
 
+## The Ecological Co-Agency Framework: agency as an epistemic design problem
+
+[[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] reframes learner agency as fundamentally an *epistemic* concern: [[generative-ai|generative AI]] does not simply add a tool but reassigns epistemological authority — the ability to produce knowledge, validate claims, and create evidence of learning — from teachers to students to machines. The paper's **Ecological Co-Agency Framework** treats co-agency as the relationship between three interdependent dimensions, all bounded by a non-negotiable condition of human epistemic accountability:
+
+- **Relational co-agency** — agency as a product of interaction among student, tool, and context, requiring transparent division of which tasks are delegated to AI and which retained, plus ethical co-agency in which humans retain primary accountability and act in a monitoring capacity.
+- **Regulatory co-agency** — mapping the [[self-regulated-learning|self-regulated learning]] cycle (forethought, performance, reflection) onto AI mediation. Whether GenAI enters *before* or *after* the learner's attempt determines whether it amplifies or erodes perceived control; strategic [[cognitive-offloading]] supports transformative learning only when the offloading decision is intentional rather than routine.
+- **Pedagogical co-agency** — placing [[teacher-role|teachers]] at the center, moving along an observer–adopter–collaborator–innovator continuum that depends on institutional support, not individual disposition.
+
+The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
+
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 
@@ -62,6 +72,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

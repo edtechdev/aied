@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-08-24T18:30:00-04:00"
+updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [theory, learning-theories, theory-building, conceptual-framework, ai-education, limitations-in-aied-research, research-methods-aied]
 confidence: medium
@@ -24,6 +24,7 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 - **Cognitive stewardship.** [[credential-cognitive-stewardship-ai-assessment|Credential and cognitive stewardship]] theorizes the institutional responsibility for protecting knowledge and learning in AI-pervasive assessment contexts.
 - **Co-regulation and epistemic proactivity.** [[ai-cognitive-partner-co-regulation-learning|AI as a cognitive partner in co-regulation]] integrates executive function, [[metacognition]], distributed cognition, and sociocultural development into a developmental model; [[epistemic-proactivity-math|epistemic proactivity]] theorizes students' agentic stance toward AI in mathematics.
 - **Human-GAI engagement paradigms.** [[strydom-human-gai-paradigms-2026|Strydom (2026)]] addresses the field's "theory deficit" by grounding seven enacted human-GAI engagement paradigms (guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, equity) in Schommer's multidimensional model of personal epistemological beliefs — an epistemological, rather than tool-focused, theory of how individuals differently position themselves relative to AI.
+- **The Ecological Co-Agency Framework.** [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] argues that [[generative-ai|generative AI]] reassigns epistemological authority from teachers to students to machines, and introduces a framework defining co-agency through three interdependent dimensions — relational, regulatory (mapped onto the [[self-regulated-learning|SRL cycle]]), and pedagogical (teacher adoption continuum) — all bounded by a non-negotiable condition of human epistemic accountability (contestability, provenance, and non-delegation of moral/intellectual credit). It positions [[agency]] as an *epistemic* design problem rather than a usability concern, giving institutions a more precise language than "balance" for governing GenAI integration.
 
 ## Advancing established theory
 
@@ -53,6 +54,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[community-of-inquiry]]
 
 ## Connected Articles
+- [[reclaiming-epistemic-agency-co-agency-2026]]
 
 - [[generativism-learning-theory]] — Generativism as a new learning theory
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Toward a theory of epistemic co-agency
