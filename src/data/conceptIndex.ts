@@ -24,7 +24,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
       { label: 'The field', items: ['ai-education', 'history-of-aied', 'philosophy-of-ai-in-education', 'theory-development-aied', 'ai-literacy', 'computational-thinking'] },
-      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agentic-ai', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure', 'student-misconceptions-ai'] },
+      { label: 'Cross-cutting themes', items: ['student-misconceptions-ai', 'human-ai-collaboration', 'agentic-ai', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure'] },
     ],
   },
   {
