@@ -20,5 +20,6 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'human-robot-interaction': 'educational-robotics',
   'mooc': 'online-teaching-and-learning',
   'blended-learning': 'online-teaching-and-learning',
+  'plagiarism-detection': 'ai-detection',
   'accessible-learning': 'inclusive-learning',
 };

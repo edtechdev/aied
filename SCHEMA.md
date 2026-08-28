@@ -156,7 +156,7 @@ Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; 
 - `ai-ed-evaluation`, `assessment-validity`, `literature-review`, `meta-analysis`, `survey`, `qualitative-research`, `research-methods`, `evidence`, `ground-truth-reliability-aied`
 
 ### Ethics & Policy
-- `academic-integrity`, `bias-mitigation`, `privacy`, `equity`, `regulation`, `plagiarism-detection`, `hallucination-risk`, `over-reliance`, `remote-proctoring`, `automated-proctoring`
+- `academic-integrity`, `bias-mitigation`, `privacy`, `equity`, `regulation`, `ai-detection`, `hallucination-risk`, `over-reliance`, `remote-proctoring`, `automated-proctoring`
 - `ethics`, `pedagogical-safety`, `misinformation`, `global-south`, `culturally-sustaining-pedagogy`, `institutional-change`
 
 ### Affective & Social

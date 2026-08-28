@@ -16,7 +16,7 @@ confidence: medium
 - **Student–faculty perception gap:** Students tend to perceive AI as acceptable help (idea generation, language improvement), while faculty weight originality and independent thinking and are more likely to treat certain uses as [[academic-integrity]] misconduct. Perceptions also vary by discipline: STEM students show stronger agreement that AI improves performance (+42% net agreement), whereas humanities students show the highest net agreement that AI usage constitutes cheating (+44%) and raises ethical concerns (+58%).
 - **Correlation structure:** A pairwise analysis (N = 320) found AI usage negatively correlated with perceived cheating (r ≈ −0.51) and positively correlated with [[learning-gains|academic performance]] (r ≈ +0.44), while ethical concern tracked closely with perceived cheating.
 - **Cognitive offloading risk:** Evidence indicates over-dependence on AI and adaptive systems can drive [[cognitive-offloading]], decreased independent reasoning, and altered academic behavior, threatening [[critical-thinking]]—though guided, transparent AI use can support higher-order thinking.
-- **Detection limits and AI literacy:** Conventional [[plagiarism-detection]] struggles with generative text (false positives/negatives), pushing institutions toward process-based assessment. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
+- **Detection limits and AI literacy:** Conventional [[ai-detection]] struggles with generative text (false positives/negatives), pushing institutions toward process-based assessment. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
 
 ## Study Design & Method
 
@@ -39,7 +39,7 @@ A systematic literature review following the PRISMA 2020 framework. Four databas
 - [[ethics]]
 - [[student-experience]]
 - [[assessment]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[reducing-ai-misuse]]

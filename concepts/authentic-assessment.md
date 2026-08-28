@@ -57,7 +57,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[formative-assessment]]
 - [[automated-assessment]]
 - [[academic-integrity]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[ai-ed-evaluation]]

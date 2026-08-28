@@ -18,7 +18,7 @@ confidence: high
 
 The theoretical model integrates two cognitive responses available to students interacting with GenAI:
 
-- **Cognitive vigilance** — systematic critical evaluation of AI content (error [[plagiarism-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
+- **Cognitive vigilance** — systematic critical evaluation of AI content (error [[ai-detection|detection]], reasoning verification, source cross-referencing, epistemic appraisal of whether outputs meet disciplinary standards). Partnership orientations activate this through relational accountability.
 - **Cognitive offloading** — strategic delegation of cognitive tasks (summarization, synthesis, drafting, data analysis) to the AI, grounded in metacognitive frameworks of external cognition. Partnership reframes this from intellectual abdication to strategic resource management.
 
 The findings show both pathways positively associate with transformative learning, resolving the theoretical tension between delegation-as-erosion and [[student-engagement|engagement]]-as-enhancement. Efficiency orientation positively moderates the partnership→offloading link and (in this configurational analysis) does not uniformly suppress vigilance.

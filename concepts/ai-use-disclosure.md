@@ -35,7 +35,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 
 ## Connections
 
-AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[plagiarism-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
+AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[ai-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
 
 ## Connected Concepts
 

@@ -44,7 +44,7 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 
 The results suggest that oral code review interviews paired with a flipped classroom offer an effective, scalable alternative to AI bans in [[cs-education|CS1]].
 
-- For [[assessment]] design, the study provides an [[authentic-assessment|authentic]], defensible alternative to [[plagiarism-detection|AI detection]], which tends to foster adversarial dynamics and erode [[trust]] between instructors and students.
+- For [[assessment]] design, the study provides an [[authentic-assessment|authentic]], defensible alternative to [[ai-detection|AI detection]], which tends to foster adversarial dynamics and erode [[trust]] between instructors and students.
 - The findings reframe [[academic-integrity]] around demonstrated understanding rather than policing tool use — a stance aligned with [[ai-literacy]] and [[educational-policy-ai|policy]] that acknowledges AI tools as part of professional practice.
 - The flipped classroom resolves the [[higher-ed|scalability]] question that has blocked oral assessment adoption; TA training and scheduling logistics are the practical levers to refine.
 - The design supports [[self-efficacy|student confidence]] and [[motivation]] to understand code deeply, linking [[metacognition|metacognitive]] development to structured accountability rather than to [[cognitive-offloading|over-reliance]].

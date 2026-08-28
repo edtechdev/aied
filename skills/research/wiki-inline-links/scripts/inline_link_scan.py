@@ -73,7 +73,7 @@ ALIASES = {
     'automated-assessment': ['automated assessment', 'automated grading', 'automated scoring', 'ai grading'],
     'peer-review': ['peer review', 'peer assessment', 'peer feedback'],
     'academic-integrity': ['academic integrity', 'scientific integrity', 'plagiarism', 'academic dishonesty'],
-    'plagiarism-detection': ['plagiarism detection', 'ai text detection', 'detection', 'ai detection'],
+    'ai-detection': ['plagiarism detection', 'ai text detection', 'detection', 'ai detection'],
     'ethics': ['ethical', 'ethical considerations', 'ethics'],
     'agency': ['learner agency', 'student agency', 'agency', 'user agency'],
     'motivation': ['motivation', 'motivational', 'intrinsic motivation', 'extrinsic motivation'],

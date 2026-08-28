@@ -10,7 +10,7 @@ confidence: high
 
 > **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of ChatGPT are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
 
-Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[plagiarism-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
+Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[ai-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
 
 ## Method
 
@@ -36,7 +36,7 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[privacy]]
 - [[student-experience]]
 - [[ai-anxiety-and-stress]]

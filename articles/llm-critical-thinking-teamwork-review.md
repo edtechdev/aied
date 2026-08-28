@@ -49,7 +49,7 @@ The authors explicitly list four limitations: (a) the search relied on the Web o
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 - [[automated-essay-scoring]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 
 ## Connected Articles
 

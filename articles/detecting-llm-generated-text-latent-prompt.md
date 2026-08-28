@@ -3,12 +3,12 @@ title: "Once a Response, Always a Response: Detecting LLM-generated Text via Lat
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [ai-detection, llm, generative-ai, plagiarism-detection, academic-integrity, evaluation, ai-education, safety]
+tags: [ai-detection, llm, generative-ai, ai-detection, academic-integrity, evaluation, ai-education, safety]
 sources: ['raw/papers/2608.05741v1.md']
 confidence: high
 ---
 
-> **Synthesis:** EchoPrompt introduces a training-free zero-shot detector for [[plagiarism-detection|LLM-generated text]] that exploits the latent prompt dependency inherent in machine-generated content. By restoring a generic assistant-response prefix and measuring likelihood gain differences between instruction-tuned and base models, EchoPrompt achieves state-of-the-art detection performance without training. This approach has direct implications for [[ai-education|academic integrity]] in educational contexts, where LLM-generated text detection is increasingly critical for maintaining assessment validity.
+> **Synthesis:** EchoPrompt introduces a training-free zero-shot detector for [[ai-detection|LLM-generated text]] that exploits the latent prompt dependency inherent in machine-generated content. By restoring a generic assistant-response prefix and measuring likelihood gain differences between instruction-tuned and base models, EchoPrompt achieves state-of-the-art detection performance without training. This approach has direct implications for [[ai-education|academic integrity]] in educational contexts, where LLM-generated text detection is increasingly critical for maintaining assessment validity.
 
 ## Detection Mechanism
 
@@ -52,7 +52,7 @@ Its training-free design also strengthens [[assessment-validity|assessment valid
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[ai-education]]
 - [[academic-integrity]]
 - [[llm]]

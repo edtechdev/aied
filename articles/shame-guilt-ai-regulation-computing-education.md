@@ -32,7 +32,7 @@ The findings suggest that prevailing responses to AI use — particularly those 
 - [[student-experience]]
 - [[cs-education]]
 - [[affective-computing]]
-- [[plagiarism-detection]]
+- [[ai-detection]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[well-being]]

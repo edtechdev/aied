@@ -12,7 +12,7 @@ confidence: high
 
 ## Core Finding
 
-A [[llm|transformer-based]] system can both **detect** discourse-coherence defects (logical jumps, missing connections, ambiguous references) at the sentence-pair level and **generate actionable, teacher-aligned feedback** — bridging the gap between deep semantic modeling and instructional operability that plagues earlier automatic writing-evaluation systems. The approach closes a loop from defect [[plagiarism-detection|detection]] to educational feedback rather than merely emitting a single score or a vague "logic needs strengthening" hint.
+A [[llm|transformer-based]] system can both **detect** discourse-coherence defects (logical jumps, missing connections, ambiguous references) at the sentence-pair level and **generate actionable, teacher-aligned feedback** — bridging the gap between deep semantic modeling and instructional operability that plagues earlier automatic writing-evaluation systems. The approach closes a loop from defect [[ai-detection|detection]] to educational feedback rather than merely emitting a single score or a vague "logic needs strengthening" hint.
 
 ## Why Discourse-Level Assessment Matters
 
