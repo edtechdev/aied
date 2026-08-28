@@ -68,3 +68,4 @@ The wiki's engineering education coverage is still developing. Sub-areas that wo
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)

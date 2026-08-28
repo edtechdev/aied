@@ -101,3 +101,5 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)

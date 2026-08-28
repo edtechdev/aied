@@ -26,8 +26,8 @@ confidence: high
 - [[generative-ai]]
 - [[cs-education]]
 - [[ai-education]]
+- [[sustainability]]
 
-## Connected Articles
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in CS education
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance

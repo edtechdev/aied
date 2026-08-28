@@ -34,8 +34,8 @@ This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data 
 - [[generative-ai]]
 - [[edtech-platform]]
 - [[intelligent-tutoring]]
+- [[sustainability]]
 
-## Connected Articles
 
 - [[vismatic-secure-sandbox-cs-education]] — VS-MATIC: secure sandboxed environments for computing education
 - [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM grading
