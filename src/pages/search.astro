@@ -178,15 +178,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       }
 
       // Restore the query using fixed timing: PageFind's faceted init re-renders
-      // the input and settles ~3s after load (availableFilters flips then). Wait
-      // past that window, then set the input value + dispatch input (what a real
-      // user typing does — fills the box AND runs the search), retrying briefly.
+      // the input and does NOT settle until ~5.5s after load. Wait past that,
+      // then set the input value + dispatch input (what a real user typing does —
+      // fills the box AND runs the search). A pure set+dispatch is sufficient.
       const input = document.querySelector("pagefind-input input");
       if (!input) { setTimeout(attempt, 200); return; }
       if (!q && !Object.keys(filters).length) return;
-      if (Date.now() < window.__pfStart + 3200) { setTimeout(attempt, 200); return; }
+      if (Date.now() < window.__pfStart + 5500) { setTimeout(attempt, 250); return; }
       attemptCount += 1;
-      if (attemptCount <= 4 && input.value !== q) {
+      if (attemptCount <= 3 && input.value !== q) {
         input.value = q;
         input.dispatchEvent(new Event("input", { bubbles: true }));
         if (Object.keys(filters).length) {
