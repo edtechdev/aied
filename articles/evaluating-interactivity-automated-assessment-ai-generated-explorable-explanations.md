@@ -4,7 +4,7 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, formative-assessment, learning-analytics, higher-ed, llm, automated-assessment, scaffolding, ai-literacy, k-12]
-audience: [teacher role, researcher]
+audience: [teacher role, research methods aied]
 research_method: [system development, evaluation]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.31012.md']

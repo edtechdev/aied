@@ -4,7 +4,7 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
 tags: [critical-thinking, cognitive-offloading, metacognition, desirable-difficulties, generative-ai, ai-literacy, transfer-of-learning]
-audience: [teacher role, researcher]
+audience: [teacher role, research methods aied]
 research_method: [theoretical analysis]
 
 sources: ['raw/papers/critical-thinking-paradox-genai-learning-2026.md']

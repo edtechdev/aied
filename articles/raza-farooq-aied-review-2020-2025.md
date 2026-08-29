@@ -4,7 +4,7 @@ created: "2025-10-31T08:44:33-04:00"
 updated: "2026-08-24T12:30:00-04:00"
 type: article
 tags: [ai-education, meta-analysis-systematic-review, personalized-learning, generative-ai, learning-analytics, intelligent-tutoring, ai-literacy, adaptive-learning]
-audience: [researcher]
+audience: [research methods aied]
 research_method: [systematic review]
 sources: ['raw/papers/raza-farooq-aied-review-2020-2025.md']
 confidence: high

@@ -4,7 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-18T18:45:00-04:00"
 type: article
 tags: [ai-sycophancy, affective-computing, student-ai-interaction, cognitive-offloading, ethics, generative-ai, ai-literacy, trust, social-emotional-learning]
-audience: [student experience, researcher]
+audience: [student experience, research methods aied]
 research_method: [experiment, longitudinal]
 
 sources: ['raw/papers/sycophantic-ai-social-interaction-2026.md']
