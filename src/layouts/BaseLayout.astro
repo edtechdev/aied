@@ -12,10 +12,18 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Wiki', hideHeaderSe
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
+const faqs = await getCollection('faqs');
 
 // slug -> title lookup (only existing concepts render links)
 const conceptMap: Record<string, string> = {};
 concepts.forEach(c => { conceptMap[c.id.replace('.md', '')] = c.data.title; });
+
+// Combined slug -> title map across concepts, articles, and FAQs, for the
+// starred-pages sidebar list (so it can show friendly titles, not slugs).
+const allTitles: Record<string, string> = {};
+concepts.forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
+articles.forEach(a => { allTitles[a.id.replace('.md', '')] = a.data.title; });
+faqs.forEach(f => { allTitles[f.id.replace('.md', '')] = f.data.title; });
 
 const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
   .filter(s => conceptMap[s]).length;
@@ -629,7 +637,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
       <button class="nav-backdrop" data-nav-toggle type="button" aria-label="Close navigation"></button>
       <aside class="sidebar" data-nav-drawer aria-label="Concept navigation">
-        <StarredPages titles={conceptMap} />
+        <StarredPages titles={allTitles} />
         <div class="sidebar-heading">
           <a href="/aied/concepts/ai-education">AI in Education</a>
           <span class="sidebar-count">{indexedCount} concepts</span>
