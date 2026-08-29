@@ -81,6 +81,21 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   pagefind-filter-dropdown::part(option):hover {
     background: color-mix(in srgb, var(--primary) 10%, transparent);
   }
+  /* Keep the dropdown popup inside the viewport on small screens. PageFind
+     positions the menu absolutely from the trigger's left edge, which overflows
+     off-screen on mobile when a trigger sits near the right edge. Constrain the
+     menu width and clamp it to the viewport. */
+  @media (max-width: 640px) {
+    :global(.pf-dropdown-menu) {
+      min-width: 0;
+      width: max-content;
+      max-width: calc(100vw - 2rem);
+      left: auto;
+      right: 0;
+      inset-inline-start: auto;
+      max-height: min(60vh, 24rem);
+    }
+  }
 
   pagefind-input::part(input) {
     width: 100%;
