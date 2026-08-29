@@ -1,13 +1,13 @@
 ---
-title: Professional Training
+title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T08:26:57.833590-04:00"
+updated: "2026-08-29T12:55:12-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high
 ---
 
-> **Professional training** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.
+> **Workplace learning** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.
 
 ### AI in professional training
 

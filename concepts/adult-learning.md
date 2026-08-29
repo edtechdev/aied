@@ -1,12 +1,12 @@
 ---
-title: Adult Learning
+title: Adult Learners
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-08-24T21:10:00-04:00"
+updated: "2026-08-29T12:55:12-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium
 ---
-> **Adult Learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 9 articles in this wiki.
+> **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 9 articles in this wiki.
 
 Rooted in Knowles's andragogical model, adult learning assumes learners are self-directed, draw on life experience, are motivated by immediate and practical goals, and benefit most when learning connects to their real-world roles. These assumptions matter for AI design because generative AI can now participate in almost every stage of learning — identifying needs, setting goals, interpreting information, producing outputs, and evaluating performance. When AI performs so much of the cognitive work, behavioral independence from the tool no longer guarantees that the learner actually directed the learning. Research in this wiki accordingly reframes self-direction as an active design goal rather than an assumed default, and evaluates adult-learning AI against criteria like goal ownership, delegation control, and cognitive recoverability.
 

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-28 | **Total pages:** 1121
+**Last updated:** 2026-08-29 | **Total pages:** 1128
 ---
 
 ## Concepts
@@ -245,6 +245,7 @@
 - [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education
+- [[change-management]] — Change Management
 - [[chat-anchored-learning-analytics-ai-literacy-2026]] — A CHAT-Anchored Learning Analytics Pipeline for AI Literacy Education
 - [[chat-debugging-human-ai-collaboration-circuits]] — Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
 - [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
@@ -279,6 +280,7 @@
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
 - [[cognitive-diagnosis]] — Cognitive Diagnosis
+- [[cognitive-load]] — Cognitive Load
 - [[cognitive-load-transfer-knowledge-tracing-2026]] — Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing
 - [[cognitive-offloading]] — Cognitive Offloading
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
@@ -714,9 +716,11 @@
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
 - [[luo-eaton-ai-student-feedback-ethics-2026]] — Is It Ethical for Teachers to Use AI for Student Feedback?
 - [[luo-ibl-patterns-llm-bloom-2026]] — Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective
+- [[machine-learning]] — Machine Learning
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback
+- [[mastery-learning]] — Mastery Learning
 - [[math-education]] — Math Education
 - [[mathematics-teachers-chatbot-motivation-2026]] — Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
@@ -843,6 +847,7 @@
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
 - [[probing-ai-generated-physics-solutions-2026]] — Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
 - [[problem-based-learning]] — Problem-Based Learning
+- [[problem-solving]] — Problem Solving
 - [[productive-failure]] — Productive Failure
 - [[professional-training]] — Professional Training
 - [[programming-its]] — Programming Intelligent Tutoring Systems
@@ -917,6 +922,7 @@
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 - [[school-network-reorganization-optimization]] — School network reorganization under educational and spatial constraints using classical and quantum optimization
+- [[science-education]] — Science Education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs
 - [[sec-ai-literacy-narrative-review-2026]] — Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review
 - [[self-determination-theory]] — Self-Determination Theory
@@ -1084,6 +1090,7 @@
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
 - [[vismatic-secure-sandbox-cs-education]] — VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
+- [[visualization]] — Visualization
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[voice-text-prompt-problems-computing-education]] — Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education

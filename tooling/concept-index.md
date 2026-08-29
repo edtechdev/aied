@@ -2,7 +2,7 @@
 
 Canonical reference for inline `[[slug]]` linking. Every concept page in the wiki is listed below with its canonical slug, title, and common **related/similar phrases** that should link to it. When writing an article or concept body, look up the phrase in the aliases and use `[[slug]]` (or `[[slug|display]]`).
 
-**Total concepts:** 176
+**Total concepts:** 183
 
 - slug: early-childhood-elementary-ai-education
   title: Early Childhood and Elementary AI Education
@@ -43,8 +43,10 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 
 
+- **`change-management`** — Change Management — phrases: institutional change; organizational change; educational reform; change management; leading change; implementation of AI
 
 
+- **`cognitive-load`** — Cognitive Load — phrases: cognitive load; working memory load; intrinsic load; extraneous load; germane load; cognitive load theory; mental workload
 
 
 
@@ -110,6 +112,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 
 
+- **`machine-learning`** — Machine Learning — phrases: machine learning; deep learning; supervised learning; neural networks; predictive modeling; ML model; training data
+- **`mastery-learning`** — Mastery Learning — phrases: mastery learning; mastery-based learning; competency-based learning; spaced practice; retrieval practice; Bloom mastery
 
 
 
@@ -134,6 +138,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
 
 
+- **`problem-solving`** — Problem Solving — phrases: problem solving; problem-solving; collaborative problem solving; creative problem solving; computational problem solving
 
 
 
@@ -151,6 +156,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 
     - phrases: academic integrity; academic dishonesty; plagiarism; authorship; contract cheating
     - phrases: accessible learning; accessibility; accessible design; inclusive design; accessible education
+- **`science-education`** — Science Education — phrases: science education; science teaching; science learning; science classrooms; science inquiry
     - phrases: active learning; active engagement
     - phrases: adaptive learning; adaptivity; adaptive system; adaptive instruction
     - phrases: administrator; administrator perspective; institutional leader; education administrator; edtech administrator
@@ -182,6 +188,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
     - phrases: cognitive diagnosis; cognitive diagnostic assessment; misconception diagnosis; cognitive modeling
     - phrases: cognitive offloading; offloading cognition; over-reliance; cognitive outsourcing; cognitive delegation; mental offloading
     - phrases: collaborative learning; cooperative learning; group learning; peer learning
+- **`visualization`** — Visualization — phrases: visualization; data visualization; infographics; charts; diagrams; dashboards; visual learning; multimodal visualization
     - phrases: computational thinking; CT; computational skills
     - phrases: computer science education; CS education; computing education; computer science; programming education; programming; coding education; introductory programming; CS1; block programming; block-based programming; block coding; Scratch; visual programming
     - phrases: constructivism; constructivist learning; constructionism; constructivist theory
