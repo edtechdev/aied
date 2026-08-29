@@ -8,7 +8,7 @@ category: [assessment]
 
 # How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?
 
-**Begin by stating explicitly what capability the grade is supposed to represent.** Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? The wiki's [[assessment-validity|Assessment Validity in AI Education]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact.
+**Begin by stating explicitly what capability the grade is supposed to represent.** Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? The wiki's [[assessment-validity|Assessment Validity]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact.
 
 ## The risk of construct substitution
 

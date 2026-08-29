@@ -1,7 +1,7 @@
 ---
-title: Student Experience with AI
+title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T08:20:00-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
 level: [higher ed, k 12]
@@ -9,7 +9,7 @@ connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
 confidence: high
 ---
 
-> **Student experience with AI** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the wiki, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
+> **Student experience** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the wiki, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
 
 ### How student experience is studied
 
@@ -62,7 +62,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 
 ### Connections
 
-Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|people and audiences]] umbrella, and the home for summarizing all the ways AI impacts students.
+Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities

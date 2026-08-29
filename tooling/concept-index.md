@@ -5,7 +5,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 **Total concepts:** 183
 
 - slug: early-childhood-elementary-ai-education
-  title: Early Childhood and Elementary AI Education
+  title: Early Childhood Education
   phrases: early childhood; elementary education; primary education; young children; AI toys; child development; kindergarten
 
 ## Canonical concepts
@@ -318,7 +318,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`active-learning`** — Active Learning
 - **`activity-theory-aied`** — Activity Theory
 - **`adaptive-learning`** — Adaptive Learning
-- **`administrator`** — AI from the Administrator Perspective
+- **`administrator`** — Administrators
 - **`adult-learning`** — Adult Learning
 - **`affective-computing`** — Affective Computing
 - **`affective-tutoring`** — Affective Tutoring
@@ -332,8 +332,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`ai-misuse-learning-harm`** — AI Misuse and Learning Harm
 - **`ai-sycophancy`** — AI Sycophancy
 - **`ai-use-disclosure`** — AI Use and Disclosure Statements
-- **`ai-technologies`** — AI Technologies and Techniques in Education
-- **`assessment-validity`** — Assessment Validity in AI Education
+- **`ai-technologies`** — Technologies
+- **`assessment-validity`** — Assessment Validity
 - **`assessment`** — Assessment
 - **`assistive-technology`** — Assistive Technology
 - **`authentic-assessment`** — Authentic Assessment
@@ -367,7 +367,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`discipline-specific-aied`** — AIEd in the Disciplines
 - **`distributed-cognition`** — Distributed Cognition
 - **`edtech-platform`** — Edtech Platform
-- **`early-childhood-elementary-ai-education`** — Early Childhood and Elementary AI Education
+- **`early-childhood-elementary-ai-education`** — Early Childhood Education
 - **`educational-measurement`** — Educational Measurement
 - **`educational-nlp`** — Educational NLP
 - **`educational-policy-ai`** — Educational AI Policy
@@ -375,8 +375,8 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`embodied-learning`** — Embodied Learning
 - **`engineering-education`** — Engineering Education
 - **`eportfolio`** — E-Portfolio
-- **`equity-in-ai-education`** — Equity in AI Education
-- **`ethics`** — Ethics in AI Education
+- **`equity-in-ai-education`** — Equity
+- **`ethics`** — Ethics
 - **`experiential-learning`** — Experiential Learning
 - **`faculty-development`** — Faculty Development
 - **`feedback-literacy`** — Feedback Literacy
@@ -393,13 +393,13 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`higher-ed`** — AI in Higher Education
 - **`history-of-aied`** — History of AI in Education
 - **`human-ai-collaboration`** — Human AI Collaboration
-- **`human-in-the-loop-ai`** — Human-in-the-Loop AI for Education
+- **`human-in-the-loop-ai`** — Human-in-the-Loop
 - **`humanities-education`** — Humanities and Social Science Education
 - **`icap-framework`** — ICAP Framework
 - **`instructional-design`** — Instructional Design
 - **`intelligent-tutoring`** — Intelligent Tutoring
 - **`item-response-theory`** — Item Response Theory
-- **`k-12`** — K-12 AI Education
+- **`k-12`** — K-12
 - **`knowledge-graph`** — Knowledge Graph
 - **`knowledge-tracing`** — Knowledge Tracing
 - **`language-learning`** — Language Learning
@@ -433,7 +433,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`philosophy-of-ai-in-education`** — Philosophy of AI in Education
 - **`physics-education`** — Physics Education
 - **`ai-detection`** — AI Detection
-- **`privacy`** — Privacy in AI Education
+- **`privacy`** — Privacy
 - **`prior-knowledge`** — Prior Knowledge
 - **`problem-based-learning`** — Problem-Based Learning
 - **`productive-failure`** — Productive Failure
@@ -465,27 +465,27 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`socratic-method`** — Socratic Method
 - **`special-education`** — Special Education
 - **`sustainability`** — Sustainability
-- **`stakeholders`** — People and Audiences in AI Education
+- **`stakeholders`** — Stakeholders
 - **`stem-education`** — STEM Education
 - **`storytelling-in-education`** — Storytelling in Education
 - **`student-ai-interaction`** — Student-AI Interaction
 - **`student-engagement`** — Student Engagement
-- **`student-experience`** — Student Experience with AI
+- **`student-experience`** — Student Experience
 - **`misconceptions`** — Misconceptions about AI
 - **`student-modeling`** — Learner Modeling and Adaptive Instruction
 - **`summative-assessment`** — Summative Assessment
 - **`teacher-ai-competency`** — Teacher AI Competency
 - **`teacher-education`** — Teacher Education
-- **`teacher-role`** — Teacher Role in AI-Enhanced Education
+- **`teacher-role`** — Instructors
 - **`technology-acceptance-model`** — Technology Adoption Models
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
 - **`transfer-of-learning`** — Transfer of Learning
 - **`trust-calibration`** — Trust Calibration
-- **`trust`** — Trust in AI
+- **`trust`** — Trust
 - **`usability-research`** — Usability Research
 - **`universal-design-for-learning`** — Universal Design for Learning
 - **`well-being`** — Well-Being
-- **`writing-education`** — AI in Writing Education
+- **`writing-education`** — Writing
 ## Merged / absorbed (no longer separate pages)
 - **`mooc`** — MOOC → absorbed into `online-teaching-and-learning`
 - **`blended-learning`** — Blended Learning → absorbed into `online-teaching-and-learning`

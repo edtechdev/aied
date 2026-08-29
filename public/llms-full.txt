@@ -19,11 +19,11 @@ The wiki's concept coverage is anchored by several **umbrella pages** that group
 - **[[ai-literacy|AI literacy]]** — the umbrella for understanding, using, and critically evaluating AI, spanning [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], and [[reducing-ai-misuse|responsible use]]. Alongside it, [[human-ai-collaboration|human–AI collaboration]] and [[agentic-ai|agentic AI]] frame how people and AI work together.
 - **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more), including the distinct context of [[online-teaching-and-learning|online teaching and learning]].
 - **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
-- **[[ai-technologies|AI technologies and techniques]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED. The learner-modeling family — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]], and the systems that consume them ([[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]]) — is grouped under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella within this technical strand.
+- **[[ai-technologies|Technologies]]** — the umbrella for the technical layer: the AI systems ([[llm|LLMs]], [[generative-ai|generative AI]], [[multimodal]], [[educational-robotics|robotics]]) and techniques ([[rag|RAG]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|reinforcement learning]], [[pedagogical-llm-training|model training]], [[agentic-ai|agentic orchestration]]) that power AIED. The learner-modeling family — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]], and the systems that consume them ([[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]]) — is grouped under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella within this technical strand.
 - **[[discipline-specific-aied|AI in the disciplines]]** — the umbrella for how AI is applied across subject areas ([[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[engineering-education|engineering]], [[business-education|business]], [[teacher-education|teacher education]], [[medical-education|health professions]], and more) and educational levels ([[k-12|K-12]], [[higher-ed|higher education]], [[adult-learning|adult learning]]).
 - **[[assessment|Assessment]]** (with [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|authentic]], and [[automated-assessment|automated]] strands) — the umbrella for how AI both assesses learners and reshapes assessment validity and integrity.
 - **[[feedback|Feedback]]** — the umbrella for how feedback is generated, delivered, and used: the feedback loop, [[ai-feedback-quality|feedback quality]], [[feedback-literacy|feedback literacy]], and its assessment contexts ([[formative-assessment|formative]], [[peer-review|peer]], [[automated-assessment|automated]]).
-- **[[stakeholders|People and audiences in AI education]]** — the umbrella for who the actors are: learners, [[teacher-role|teachers]], [[instructional-design|instructional designers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]].
+- **[[stakeholders|Stakeholders in AI education]]** — the umbrella for who the actors are: learners, [[teacher-role|teachers]], [[instructional-design|instructional designers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]].
 - **[[ai-ed-evaluation|AI ed evaluation]]** and **[[research-methods-aied|research methods]]** — the umbrellas for how we know whether AI works: efficacy studies, [[benchmark|benchmarks]], [[rct|randomized controlled trials]], [[meta-analysis-systematic-review|meta-analysis]], and [[learning-gains|learning gains]] as the core outcome measure. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations of this evidence]].
 - **[[governance|AI governance]]**, **[[educational-policy-ai|educational AI policy]]**, and **[[equity-in-ai-education|equity]]** — the umbrellas for the institutional, regulatory, and fairness layer (see also [[regulation]] and [[privacy]]).
 
@@ -52,7 +52,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 ## AI technologies and techniques
 
-The [[ai-technologies|AI technologies and techniques]] page is the umbrella for the technical layer:
+The [[ai-technologies|Technologies]] page is the umbrella for the technical layer:
 
 - **Models and techniques:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[educational-nlp|educational NLP]], [[reinforcement-learning|reinforcement learning]], [[knowledge-graph|knowledge graphs]], [[educational-robotics|robots in education]], [[conversational-ai|conversational AI]], [[simulation]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Learner modeling and adaptive systems:** the technical systems that represent and adapt to the learner are grouped under the [[student-modeling|Learner Modeling and Adaptive Instruction]] umbrella — [[knowledge-tracing|knowledge tracing]], [[cognitive-diagnosis|cognitive diagnosis]], [[simulating-students|simulating students]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], and [[learning-analytics|learning analytics]]. These sit at the technical layer because they are the AI systems themselves, distinct from the pedagogies they enact.
@@ -62,7 +62,7 @@ The [[ai-technologies|AI technologies and techniques]] page is the umbrella for 
 AI is applied across disciplines and educational levels. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage:
 
 - **Subject areas:** [[math-education|mathematics]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], and [[medical-education|medical and health professions]].
-- **Levels and contexts:** [[k-12|K-12 AI education]], [[early-childhood-elementary-ai-education|early childhood and elementary]], [[higher-ed|higher education]], [[adult-learning|adult learning]], [[special-education|special education]], and [[teacher-education|teacher education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[neurodiversity]], [[multilingual-learning|multilingual learning]], and [[social-emotional-learning|social-emotional learning]].
+- **Levels and contexts:** [[k-12|K-12]], [[early-childhood-elementary-ai-education|Early Childhood Education]], [[higher-ed|higher education]], [[adult-learning|adult learning]], [[special-education|special education]], and [[teacher-education|teacher education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[neurodiversity]], [[multilingual-learning|multilingual learning]], and [[social-emotional-learning|social-emotional learning]].
 
 ## Assessment, evaluation, and measurement
 
@@ -74,24 +74,24 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 
 ## People: learners, teachers, and institutions
 
-AI in education changes the roles of every stakeholder. The wiki's [[stakeholders|people and audiences in AI education]] page is the umbrella covering all of them:
+AI in education changes the roles of every stakeholder. The wiki's [[stakeholders|Stakeholders in AI education]] page is the umbrella covering all of them:
 
 - **Learners:** [[student-experience|student experience]], [[career-development-and-readiness|career development and readiness]], and [[ai-anxiety-and-stress|AI anxiety and stress]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
-- **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[guardrails]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
+- **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[guardrails]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
 
 ## Equity, ethics, and responsible use
 
 Fairness, access, and responsibility are central to AI in education:
 
-- **Equity and access:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
-- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[cognitive-offloading|cognitive offloading]], [[critical-thinking|critical thinking]], and [[critical-pedagogy|critical pedagogy]].
+- **Equity and access:** [[equity-in-ai-education|Equity]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
+- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|Trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[cognitive-offloading|cognitive offloading]], [[critical-thinking|critical thinking]], and [[critical-pedagogy|critical pedagogy]].
 
 ## Emergent and cross-cutting themes
 
 Several themes cut across the field:
 
-- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
+- **Trust and critical use:** [[trust|Trust]], [[trust-calibration|trust calibration]], [[ai-sycophancy|AI sycophancy]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]] (see also [[framing-ai-use-for-students|how AI use is framed for students]]). How learners and teachers decide to adopt and rely on AI is modeled by [[technology-acceptance-model|technology acceptance]] research, while [[global-south|Global South]] studies foreground equity and cultural context in adoption.
 - **The evolution of the field:** the wiki traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
 - **Emotion, anxiety, and career futures:** AI induces and shapes emotional responses — [[ai-anxiety-and-stress|AI anxiety and stress]] spanning proctoring surveillance, integrity fears, and career displacement — while [[career-development-and-readiness|career development and readiness]] addresses how education prepares learners for an AI-disrupted labor market (see also [[well-being]]).
 
@@ -2567,7 +2567,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.^[[instructional-guidance-genai-learning]]^[[genai-mindtool-generative-learning]]
 
-**Make content traceable and reviewable.** Let a human designer review and correct AI output before it reaches learners, and structure AI generation so the pedagogical rationale (why this content, in this order) is inspectable — addressing both quality and the opacity concerns that undermine [[trust|trust in AI]]-generated instruction.^[[bridging-instructional-design-framework-math]]^[[cotal-formative-assessment-scoring-2026]]
+**Make content traceable and reviewable.** Let a human designer review and correct AI output before it reaches learners, and structure AI generation so the pedagogical rationale (why this content, in this order) is inspectable — addressing both quality and the opacity concerns that undermine [[trust|Trust]]-generated instruction.^[[bridging-instructional-design-framework-math]]^[[cotal-formative-assessment-scoring-2026]]
 
 **Design for [[accessibility]] from the start.** Apply [[universal-design-for-learning|UDL]] principles when building AI tools and AI-generated materials so they serve diverse learners, rather than retrofitting accessibility after the fact.^[[ludia-udl-ai-thought-partner-2026]]
 
@@ -4909,9 +4909,9 @@ Finally, the evidence warns against assuming AI-generated support is uniformly b
 
 ---
 
-## [AI Technologies and Techniques in Education](https://edtechdev.github.io/aied/concepts/ai-technologies/)
+## [Technologies](https://edtechdev.github.io/aied/concepts/ai-technologies/)
 
-> **AI technologies and techniques in education** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the wiki's coverage of the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, this page anchors the *technical* strand: the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
+> **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the wiki's coverage of the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, this page anchors the *technical* strand: the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
 
 [[ai-education|AI in education]] runs on a specific technical stack, and understanding it matters for [[teacher-role|educators]] and researchers even when they do not build systems themselves — because technical choices shape what AI can and cannot do in the classroom, the risks it carries, and how to evaluate it. This page organizes the wiki's technical-concept coverage: the AI systems, the techniques that adapt and control them, and how the technical layer connects to pedagogy, assessment, and evaluation.
 
@@ -6786,9 +6786,9 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 
 ---
 
-## [Human-in-the-Loop AI for Education](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/)
+## [Human-in-the-Loop](https://edtechdev.github.io/aied/concepts/human-in-the-loop-ai/)
 
-> **Human-in-the-loop (HITL) AI for education** — the design pattern in which educational AI systems strategically interleave automated generation with human expert judgment, preserving pedagogical quality and safety while scaling production. Rather than fully automating assessment, feedback, or instruction, HITL keeps a human (instructor, subject-matter expert, or learner) in the decision loop where their judgment has the highest marginal value — for evaluating quality, adjudicating edge cases, and protecting [[agency|learner agency]] and [[pedagogical-safety|safety]]. The central design question is not *whether* to include humans, but *where* in the pipeline their oversight is most valuable and least replaceable.
+> **Human-in-the-loop** — the design pattern in which educational AI systems strategically interleave automated generation with human expert judgment, preserving pedagogical quality and safety while scaling production. Rather than fully automating assessment, feedback, or instruction, HITL keeps a human (instructor, subject-matter expert, or learner) in the decision loop where their judgment has the highest marginal value — for evaluating quality, adjudicating edge cases, and protecting [[agency|learner agency]] and [[pedagogical-safety|safety]]. The central design question is not *whether* to include humans, but *where* in the pipeline their oversight is most valuable and least replaceable.
 
 HITL is a response to the limits and risks of fully autonomous AI in education: automated systems can generate at scale but lack the contextual, ethical, and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
 
@@ -7647,9 +7647,9 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 
 ---
 
-## [AI in Writing Education](https://edtechdev.github.io/aied/concepts/writing-education/)
+## [Writing](https://edtechdev.github.io/aied/concepts/writing-education/)
 
-> **AI in writing education** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
+> **Writing** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
 
 Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the [[cognitive-offloading|cognitive work]] — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing. Where the focus is **English specifically** — [[english-education|English for Academic Purposes (EAP)]] and English language teaching (EFL/ESL/L2) — see the dedicated [[english-education]] concept page, which distinguishes English-specific and academic-register research from general writing and general language learning.
 
@@ -8058,9 +8058,9 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 
 ---
 
-## [K-12 AI Education](https://edtechdev.github.io/aied/concepts/k-12/)
+## [K-12](https://edtechdev.github.io/aied/concepts/k-12/)
 
-> **K-12 [[ai-education|AI education]]** — the use of artificial intelligence in primary and secondary education, spanning [[ai-literacy|AI literacy]] curricula, [[intelligent-tutoring|AI tutoring]], teacher support, and safety considerations unique to younger learners.
+> **K-12** — the use of artificial intelligence in primary and secondary education, spanning [[ai-literacy|AI literacy]] curricula, [[intelligent-tutoring|AI tutoring]], teacher support, and safety considerations unique to younger learners.
 
 ### Distinctive K-12 considerations
 
@@ -8162,11 +8162,11 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 
 ---
 
-## [Early Childhood and Elementary AI Education](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/)
+## [Early Childhood Education](https://edtechdev.github.io/aied/concepts/early-childhood-elementary-ai-education/)
 
-> **Early childhood and elementary AI education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, personalized learning in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
+> **Early childhood education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, personalized learning in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
 
-Young children interact with AI increasingly early — through AI-enabled toys, chatbots, adaptive learning platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education research. This concept gathers the wiki's coverage of that younger band. It sits within the broader [[k-12|K-12 AI education]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
+Young children interact with AI increasingly early — through AI-enabled toys, chatbots, adaptive learning platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education research. This concept gathers the wiki's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
 
 ### How the research clusters
 
@@ -9560,7 +9560,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 
 ---
 
-## [Assessment Validity in AI Education](https://edtechdev.github.io/aied/concepts/assessment-validity/)
+## [Assessment Validity](https://edtechdev.github.io/aied/concepts/assessment-validity/)
 
 > **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
 
@@ -11170,9 +11170,9 @@ Network methods are used across the wiki's evidence base to answer questions tha
 
 ---
 
-## [People and Audiences in AI Education](https://edtechdev.github.io/aied/concepts/stakeholders/)
+## [Stakeholders](https://edtechdev.github.io/aied/concepts/stakeholders/)
 
-> **People and audiences in AI education** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the wiki's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[faculty-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the wiki treats them as the human context in which AI tools are designed, deployed, and evaluated.
+> **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the wiki's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[faculty-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the wiki treats them as the human context in which AI tools are designed, deployed, and evaluated.
 
 [[ai-education|AI in education]] is fundamentally about people — the learners and educators whose work it transforms, and the leaders and designers who decide how it is used. Understanding the distinct stakeholders is essential because the same AI system looks very different from different vantage points: a tool a student experiences as personalized support may appear to a teacher as an integrity risk, to an administrator as a procurement and governance decision, and to a designer as a pedagogical choice. The wiki organizes coverage of these audiences across several concept pages.
 
@@ -11246,9 +11246,9 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 
 ---
 
-## [Student Experience with AI](https://edtechdev.github.io/aied/concepts/student-experience/)
+## [Student Experience](https://edtechdev.github.io/aied/concepts/student-experience/)
 
-> **Student experience with AI** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the wiki, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
+> **Student experience** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the wiki, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
 
 ### How student experience is studied
 
@@ -11301,7 +11301,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 
 ### Connections
 
-Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|people and audiences]] umbrella, and the home for summarizing all the ways AI impacts students.
+Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|Stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
@@ -11499,9 +11499,9 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 
 ---
 
-## [Teacher Role in AI-Enhanced Education](https://edtechdev.github.io/aied/concepts/teacher-role/)
+## [Instructors](https://edtechdev.github.io/aied/concepts/teacher-role/)
 
-> **Teacher role** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the wiki documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments.
+> **Instructors** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the wiki documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments.
 
 ### How AI transforms teaching
 
@@ -11957,9 +11957,9 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 
 ---
 
-## [AI from the Administrator Perspective](https://edtechdev.github.io/aied/concepts/administrator/)
+## [Administrators](https://edtechdev.github.io/aied/concepts/administrator/)
 
-> **AI from the administrator perspective** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.
+> **Administrators** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.
 
 AI adoption in education is not purely a classroom decision; it is also an institutional one. Administrators — provosts, deans, CIOs, and institutional leaders — set the conditions under which faculty and students use AI, balancing pedagogical opportunity against governance, resourcing, and risk.
 
@@ -12207,7 +12207,7 @@ Scholarship converges on several change-management levers. **Governance framewor
 
 **Adoption drivers** reveal why change stalls or succeeds. The [[alrahmi-org-drivers-ai-adoption-he-2026|organisational drivers study]] shows that internal organisational culture and technological attributes (compatibility, relative advantage, low complexity) catalyze AI adoption, with government [[regulation]] as an external enabler — context-sensitive dynamics that individual-level [[technology-acceptance-model|technology acceptance]] models miss. Conversely, the [[ai-pedagogical-orientation|faculty orientation study]] finds that a faculty member's epistemic interpretation of AI — their pedagogical orientation toward what AI means for disciplinary knowledge — is the strongest predictor of adoption, while institutional initiatives and demographics are surprisingly weak predictors. This cautions that top-down strategic plans have limited impact unless they engage faculty beliefs, and that bottom-up peer networks (department colleagues were the top information source) matter more than central initiatives.
 
-**Assessment reform** is a central change-management battleground. The [[ai-assessment-scale-reform|AI Assessment Scale study]] shows framework implementation hampered by departmental inconsistencies, workload pressures, and uncertainty, with staff describing the process as "a bit of chaos and madness." The [[ethical-ai-higher-ed-game-theory|coordination game model]] offers a formal account of why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible use, whereas weak or misaligned incentives allow opportunistic practices to persist. This supports pedagogy-led governance over surveillance. The [[ai-adaptation-gap-higher-education-2026|AI adaptation gap survey]] adds a stakeholder dimension: students report higher AI-use intensity and perceived usefulness than faculty and administrative staff, while the latter report stronger [[academic-integrity]] concerns — and perceived usefulness drives [[trust|trust in AI]] (β = 0.402) more strongly than institutional policy clarity (β = 0.223).
+**Assessment reform** is a central change-management battleground. The [[ai-assessment-scale-reform|AI Assessment Scale study]] shows framework implementation hampered by departmental inconsistencies, workload pressures, and uncertainty, with staff describing the process as "a bit of chaos and madness." The [[ethical-ai-higher-ed-game-theory|coordination game model]] offers a formal account of why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible use, whereas weak or misaligned incentives allow opportunistic practices to persist. This supports pedagogy-led governance over surveillance. The [[ai-adaptation-gap-higher-education-2026|AI adaptation gap survey]] adds a stakeholder dimension: students report higher AI-use intensity and perceived usefulness than faculty and administrative staff, while the latter report stronger [[academic-integrity]] concerns — and perceived usefulness drives [[trust|Trust]] (β = 0.402) more strongly than institutional policy clarity (β = 0.223).
 
 ## Implications
 
@@ -12390,7 +12390,7 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 
 ---
 
-## [Privacy in AI Education](https://edtechdev.github.io/aied/concepts/privacy/)
+## [Privacy](https://edtechdev.github.io/aied/concepts/privacy/)
 
 > **Privacy** — the protection of student data, identity, and autonomy in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for personalization and analytics.
 
@@ -12775,9 +12775,9 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 
 ---
 
-## [Equity in AI Education](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/)
+## [Equity](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/)
 
-> **Equity in [[ai-education|AI education]]** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant teaching).
+> **Equity** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant teaching).
 
 Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 
@@ -12974,7 +12974,7 @@ Bias mitigation is not a single fix but an ongoing process spanning the pipeline
 
 ## Relationship to related concepts
 
-Bias mitigation is the technical mechanism through which [[equity-in-ai-education|equity in AI education]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[cognitive-offloading|Over-Reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
+Bias mitigation is the technical mechanism through which [[equity-in-ai-education|Equity]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[cognitive-offloading|Over-Reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
 
 ## Implications for AI in education
 
@@ -13112,7 +13112,7 @@ Multilingual learning is a core equity dimension of [[ai-education|AI in educati
 
 ## Equity and pedagogy
 
-Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|equity in AI education]] across the [[global-south|Global South]].
+Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|Equity]] across the [[global-south|Global South]].
 
 ## Assessment bias
 
@@ -13501,7 +13501,7 @@ Attending to Global South contexts requires moving beyond assuming Western model
 
 ---
 
-## [Ethics in AI Education](https://edtechdev.github.io/aied/concepts/ethics/)
+## [Ethics](https://edtechdev.github.io/aied/concepts/ethics/)
 
 > **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. [[ai-education|AI education]] ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
 
@@ -13764,9 +13764,9 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 ---
 
-## [Trust in AI](https://edtechdev.github.io/aied/concepts/trust/)
+## [Trust](https://edtechdev.github.io/aied/concepts/trust/)
 
-> **Trust in AI** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
+> **Trust** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
 
 Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[educational-robotics|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[educational-robotics]], trust is shaped by robot behaviour, task, and appearance.
 
@@ -13779,7 +13779,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
 Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
-- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|trust in AI]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
+- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|Trust]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
 
 ## Connected Concepts
 
@@ -14538,7 +14538,7 @@ The [[pedagogical-safety|Pedagogical Safety]] page stresses that conventional sa
 
 Accessibility should include concrete operational requirements such as keyboard operability, screen-reader compatibility, captions and transcripts, appropriate contrast, usable text alternatives, and compatibility with assistive technologies; AI-generated accessibility features still require quality checking. See [[accessibility|Accessibility]].
 
-Equity testing should examine the whole pipeline and disaggregate behavior across language, disability, culture, and other relevant learner characteristics rather than relying only on aggregate accuracy. See the wiki's bias-mitigation guidance summarized alongside [[equity-in-ai-education|Equity in AI Education]].
+Equity testing should examine the whole pipeline and disaggregate behavior across language, disability, culture, and other relevant learner characteristics rather than relying only on aggregate accuracy. See the wiki's bias-mitigation guidance summarized alongside [[equity-in-ai-education|Equity]].
 
 ---
 
@@ -14576,7 +14576,7 @@ For accessibility, include learners with disabilities in design and evaluation, 
 
 ## Privacy and ethics
 
-For privacy and ethics, collect only data needed for the educational purpose, make data use and system limitations transparent, maintain meaningful human accountability, and examine fairness, consent, bias, explainability, learner autonomy, and the consequences of AI-mediated decisions. These are core dimensions of [[ethics|Ethics in AI Education]].
+For privacy and ethics, collect only data needed for the educational purpose, make data use and system limitations transparent, maintain meaningful human accountability, and examine fairness, consent, bias, explainability, learner autonomy, and the consequences of AI-mediated decisions. These are core dimensions of [[ethics|Ethics]].
 
 ## Pedagogical safety
 
@@ -14646,7 +14646,7 @@ Research summarized in the knowledge base also cautions against equating confide
 
 # How is AI Impacting Students?
 
-**AI impacts students in both positive and negative directions, and usually at the same time.** The same tool can scaffold a student's learning while inviting over-reliance, raise motivation while eroding agency, or support belonging while threatening authorship. Research on the [[student-experience|student experience with AI]] points to recurring positive and negative impacts across several dimensions — and the direction depends heavily on how the AI is designed and how students use it.
+**AI impacts students in both positive and negative directions, and usually at the same time.** The same tool can scaffold a student's learning while inviting over-reliance, raise motivation while eroding agency, or support belonging while threatening authorship. Research on the [[student-experience|Student Experience]] points to recurring positive and negative impacts across several dimensions — and the direction depends heavily on how the AI is designed and how students use it.
 
 ## Positive impacts
 
@@ -14668,11 +14668,11 @@ Research summarized in the knowledge base also cautions against equating confide
 
 **4. Threats to learner identity.** When AI produces the work, students may stop feeling the result is "theirs" — an authorship threat to [[learner-identity|learner identity]]. The [[t2i-competence-paradox-2026|competence paradox]] in creative fields shows ease-of-use undermining the craft-based identity students derive from authorship.
 
-**5. Integrity and equity risks.** AI enables new forms of [[academic-integrity|academic dishonesty]], and unequal access to (and understanding of) AI tools can widen gaps between students — a core concern of [[equity-in-ai-education|equity in AI education]].
+**5. Integrity and equity risks.** AI enables new forms of [[academic-integrity|academic dishonesty]], and unequal access to (and understanding of) AI tools can widen gaps between students — a core concern of [[equity-in-ai-education|Equity]].
 
 ## The bottom line
 
-The [[guardrails|guardrail]] is to **use AI as a scaffold, not a substitute** — keep the learner doing the cognitively important work while AI provides support — and to watch the full range of impacts (cognitive, motivational, [[affective-computing|affective]], identity, social, and [[equity-in-ai-education|equity]]), not just performance. For a deeper treatment organized by dimension, see the [[student-experience|student experience with AI]] concept page.
+The [[guardrails|guardrail]] is to **use AI as a scaffold, not a substitute** — keep the learner doing the cognitively important work while AI provides support — and to watch the full range of impacts (cognitive, motivational, [[affective-computing|affective]], identity, social, and [[equity-in-ai-education|equity]]), not just performance. For a deeper treatment organized by dimension, see the [[student-experience|Student Experience]] concept page.
 
 ---
 
@@ -14746,7 +14746,7 @@ That combination is much closer to the AI-literacy construct supported by the cu
 
 # How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?
 
-**Begin by stating explicitly what capability the grade is supposed to represent.** Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? The wiki's [[assessment-validity|Assessment Validity in AI Education]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact.
+**Begin by stating explicitly what capability the grade is supposed to represent.** Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? The wiki's [[assessment-validity|Assessment Validity]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact.
 
 ## The risk of construct substitution
 
@@ -14857,7 +14857,7 @@ See [[limitations-in-aied-research|Limitations in AIEd Research]].
 
 We know considerably more about whether students accept AI than about how its benefits and harms are distributed. The wiki identifies open questions around socioeconomic access, paid versus free models, disability, linguistic diversity, cultural relevance, rural infrastructure, and differences in who gains educational value from AI.
 
-The [[equity-in-ai-education|Equity in AI Education]] synthesis distinguishes access, representation, and outcomes as separate equity problems. This gap is particularly visible outside dominant Global North contexts: a review of 75 studies of GenAI in [[global-south|Global South]] [[higher-ed|higher education]] found **equity received the least research attention**, alongside limited geographic representation, stakeholder imbalance, and insufficient evidence on long-term outcomes.
+The [[equity-in-ai-education|Equity]] synthesis distinguishes access, representation, and outcomes as separate equity problems. This gap is particularly visible outside dominant Global North contexts: a review of 75 studies of GenAI in [[global-south|Global South]] [[higher-ed|higher education]] found **equity received the least research attention**, alongside limited geographic representation, stakeholder imbalance, and insufficient evidence on long-term outcomes.
 
 See [[nguyen-genai-global-south-review-2026|Perceptions of Generative AI in Global South: A Scoping Review]].
 
@@ -16733,7 +16733,7 @@ Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026)
 
 ## [The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff](https://edtechdev.github.io/aied/articles/ai-adaptation-gap-higher-education-2026/)
 
-> **Synthesis:** Braun and Khafizov (2026) analyze patterns of [[generative-ai]] use and attitudes toward AI among students, faculty, and administrative staff at a large university specializing in [[teacher-education|teacher education]], using three role-adapted 75-item questionnaires (N = 2,121: 1,809 students, 250 faculty, 62 staff). They document a pronounced "AI adaptation gap": students report higher current AI-use intensity and perceived usefulness, while faculty and administrative staff report stronger [[academic-integrity]] concerns and greater endorsement of responsible-use norms. In the pooled OLS trust model, perceived usefulness had the strongest standardized positive association with [[trust|trust in AI]] (β = 0.402), with [[governance|institutional]] policy clarity also positive but weaker (β = 0.223). The cross-sectional, self-reported design supports associative and group-difference conclusions rather than causal claims.
+> **Synthesis:** Braun and Khafizov (2026) analyze patterns of [[generative-ai]] use and attitudes toward AI among students, faculty, and administrative staff at a large university specializing in [[teacher-education|teacher education]], using three role-adapted 75-item questionnaires (N = 2,121: 1,809 students, 250 faculty, 62 staff). They document a pronounced "AI adaptation gap": students report higher current AI-use intensity and perceived usefulness, while faculty and administrative staff report stronger [[academic-integrity]] concerns and greater endorsement of responsible-use norms. In the pooled OLS trust model, perceived usefulness had the strongest standardized positive association with [[trust|Trust]] (β = 0.402), with [[governance|institutional]] policy clarity also positive but weaker (β = 0.223). The cross-sectional, self-reported design supports associative and group-difference conclusions rather than causal claims.
 
 ## Key Findings
 
@@ -24884,7 +24884,7 @@ Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., 
 5. **Equity and governance are cross-cutting.** Disparities in access, connectivity, and training risk reinforcing [[equity-in-ai-education|educational inequalities]]. The review calls for governance models, [[governance|institutional]] policies, and [[regulation|regulatory]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], data protection, and [[academic-integrity|academic integrity]].
 
 ## Pre-university AI education as a distinct focus
-This review consolidates the growing evidence that AI education in primary and secondary settings is distinct from [[higher-ed|higher education]]. It centres on teacher preparation, [[curriculum-design|curriculum design]], and the age-appropriate development of [[ai-literacy|AI literacy]] and ethical competencies — aligning with the wiki's [[k-12|K-12 AI education]] coverage. Notably, the review is framed by Sustainable Development Goal 4 (SDG 4) and Education for Sustainable Development (ESD), situating equitable, resilient, and sustainable educational systems as the goal of responsible AI integration. (Note: this framing draws on SDG 4 but the review's substance is K-12 AI education rather than AI's environmental footprint.)
+This review consolidates the growing evidence that AI education in primary and secondary settings is distinct from [[higher-ed|higher education]]. It centres on teacher preparation, [[curriculum-design|curriculum design]], and the age-appropriate development of [[ai-literacy|AI literacy]] and ethical competencies — aligning with the wiki's [[k-12|K-12]] coverage. Notably, the review is framed by Sustainable Development Goal 4 (SDG 4) and Education for Sustainable Development (ESD), situating equitable, resilient, and sustainable educational systems as the goal of responsible AI integration. (Note: this framing draws on SDG 4 but the review's substance is K-12 AI education rather than AI's environmental footprint.)
 
 ## Research gaps
 - **Scarcity of longitudinal studies** on the sustained effects of AI on [[learning-gains|learning outcomes]], cognitive autonomy, and socio-emotional development.
@@ -26805,7 +26805,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 
 ### Implications for AI in Education
 
-CODE-GEN offers a concrete, evidence-based map of the human-AI division of labor in educational content generation. For [[automated-question-generation]] in [[cs-education|programming education]], RAG grounding plus tool augmentation can scale the creation of context-aligned assessment banks, with AI reliably handling alignment to learning objectives and computational/code verification. But its results carry a caution for [[assessment-validity]] and [[trust|trust in AI]] systems: automated evaluators are not trustworthy ground truth by default, and pedagogically meaningful distractors and concept-elaborating feedback — central to measuring deep understanding and to targeting common [[misconceptions]] — remain human responsibilities. The design principle of treating a critique agent's judgment as an empirical object to be validated against experts is transferable beyond item generation, informing how [[human-in-the-loop-ai]] quality assurance should be structured across [[automated-assessment]] workflows. The system's weaker dimensions also flag where future work should focus: making automated generation and evaluation more pedagogically sophisticated rather than merely more technically fluent.
+CODE-GEN offers a concrete, evidence-based map of the human-AI division of labor in educational content generation. For [[automated-question-generation]] in [[cs-education|programming education]], RAG grounding plus tool augmentation can scale the creation of context-aligned assessment banks, with AI reliably handling alignment to learning objectives and computational/code verification. But its results carry a caution for [[assessment-validity]] and [[trust|Trust]] systems: automated evaluators are not trustworthy ground truth by default, and pedagogically meaningful distractors and concept-elaborating feedback — central to measuring deep understanding and to targeting common [[misconceptions]] — remain human responsibilities. The design principle of treating a critique agent's judgment as an empirical object to be validated against experts is transferable beyond item generation, informing how [[human-in-the-loop-ai]] quality assurance should be structured across [[automated-assessment]] workflows. The system's weaker dimensions also flag where future work should focus: making automated generation and evaluation more pedagogically sophisticated rather than merely more technically fluent.
 
 ## Connected Concepts
 
@@ -33129,7 +33129,7 @@ Wang, C., Petrie, C., Stouras, M., Ettlin, N., George, A., Mejia-Domenzain, P., 
 - **Perceptual hierarchies.** White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent; older Black female avatars faced compounded penalties across all measures.
 - **Ingroup alignment drives adoption.** Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise.
 - **Domain moderation.** STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it — bias is context-dependent, not uniform.
-- **[[trust|Trust in AI]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
+- **[[trust|Trust]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
 
 ## Implications
 
@@ -46916,7 +46916,7 @@ Tufino, E. (2026). [A multi-agent AI classroom based on dual-process reasoning h
 
 ## The low-resource multilingual problem
 
-Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited personalization, inadequate language support, and weak curriculum internationalization — reducing learner engagement and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but fine-tuning and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the wiki's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|equity in AI education]].
+Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited personalization, inadequate language support, and weak curriculum internationalization — reducing learner engagement and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but fine-tuning and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the wiki's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|Equity]].
 
 ## Platform design and the Nigerian Pidgin corpus
 
@@ -48910,7 +48910,7 @@ ESL is an active teaching instrument built on three verbs — **anticipate** (st
 
 ## Educational significance
 
-This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12|K-12 AI education]].
+This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12|K-12]].
 
 ## Key Findings
 
@@ -49372,7 +49372,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 
 - Does mistake-based pedagogy transfer across disciplines beyond STEM?
 - What is the optimal error difficulty — too obvious vs. too subtle?
-- How does this approach affect [[trust|trust in AI tools]] long-term?
+- How does this approach affect [[trust|Trust tools]] long-term?
 - Would larger, multi-institution, controlled studies confirm the directional learning gains observed here?
 
 ## Relationship to existing approaches
@@ -54017,7 +54017,7 @@ Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hi
 2. **Cognitive surrender is the uncritical adoption of AI outputs.** Distinct from strategic [[cognitive-offloading]], surrender is a deeper abdication of critical evaluation where the user adopts the AI's judgment as their own. Across incorrect-AI trials, 73.2% showed surrender vs. 19.7% offloading.
 3. **AI access shifts accuracy and confidence together.** Accuracy rose +25 pp with accurate AI and fell −15 pp with faulty AI (Cohen's h = 0.81); System 3 engagement also increased confidence even after errors.
 4. **Surrender persists across situational moderators.** Time pressure and incentives+feedback shifted baselines but did not eliminate the large gap between accurate and faulty AI advice (OR = 14.28 / 11.05).
-5. **Susceptibility varies by individual differences.** Higher [[trust|trust in AI]] increased surrender (OR = 2.81); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) were protective.
+5. **Susceptibility varies by individual differences.** Higher [[trust|Trust]] increased surrender (OR = 2.81); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) were protective.
 
 ## Tri-System Theory
 
