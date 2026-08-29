@@ -142,7 +142,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         const f = p.get("f");
         if (f) filters = JSON.parse(atob(f));
       } catch {}
-      return { q: p.get("q") || "", filters };
+      return { q: p.get("q") || "", filters, hadParams: p.toString() !== "" };
     };
 
     const writeParams = (q, filters) => {
@@ -155,28 +155,35 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       window.history.replaceState({}, "", url);
     };
 
-    // Restore state from the URL once the instance is ready.
-    const { q, filters } = readParams();
+    const { q, filters, hadParams } = readParams();
+
+    // Restore the search from the URL once the pagefind worker is truly ready.
     const restore = () => {
-      try {
-        const inst = instance();
-        if (!inst) return;
-        // Set the visible input value.
-        const input = document.querySelector("pagefind-input input");
-        if (input) input.value = q;
-        if (q || Object.keys(filters).length) {
-          inst.triggerSearchWithFilters(q, filters);
-        }
-      } catch {}
+      const inst = instance();
+      if (!inst) return;
+      // Only restore once the worker has loaded (filters/available data present).
+      if (!inst.__pagefind__ && !inst.availableFilters) {
+        setTimeout(restore, 150);
+        return;
+      }
+      const input = document.querySelector("pagefind-input input");
+      if (input && input.value === "") input.value = q;
+      if (q || Object.keys(filters).length) {
+        inst.triggerSearchWithFilters(q, filters);
+      }
     };
 
-    // Persist state on every search.
+    // Persist state on every search, but skip the initial empty restore event
+    // that would strip a URL that came in WITH params.
+    let first = true;
     const persist = () => {
-      try {
-        const inst = instance();
-        if (!inst) return;
-        inst.on("search", (term, filters) => writeParams(term, filters));
-      } catch {}
+      const inst = instance();
+      if (!inst) return;
+      inst.on("search", (term, filters) => {
+        if (first && !hadParams) { first = false; return; }
+        first = false;
+        writeParams(term, filters || {});
+      });
     };
 
     // The instance registers as components initialize; wait for it.
