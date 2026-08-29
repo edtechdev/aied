@@ -201,6 +201,21 @@ const displayHeadings = pageTitle
       current?.removeAttribute('aria-current');
       active.setAttribute('aria-current', 'location');
       current = active;
+
+      // Keep the active item visible inside a scrollable desktop TOC as the
+      // page scrolls. Only the desktop TOC is scrollable; skip the mobile one.
+      const scroller = active.closest('.toc-desktop');
+      if (!scroller || scroller.scrollHeight <= scroller.clientHeight) return;
+      const linkRect = active.getBoundingClientRect();
+      const box = scroller.getBoundingClientRect();
+      // If the active link is above or below the visible TOC area, scroll the
+      // TOC (not the page) so the link comes into view.
+      const withinTop = linkRect.top - box.top;
+      const withinBottom = box.bottom - linkRect.bottom;
+      if (withinTop < 0 || withinBottom < 0) {
+        const delta = withinTop < 0 ? withinTop : -withinBottom;
+        scroller.scrollTop += delta;
+      }
     };
 
     const observer = new IntersectionObserver(update, {
