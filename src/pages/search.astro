@@ -157,16 +157,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     const { q, filters, hadParams } = readParams();
 
-    // Restore the search from the URL once the input element exists. We set
-    // the input value and dispatch an input event — PageFind's own debounced
-    // listener runs the search, and our persist() hook updates the URL.
+    // Restore the search from the URL once the input element exists. PageFind
+    // re-renders the input during init (faceted auto-search clears it), so we
+    // re-apply the value + dispatch input repeatedly until it sticks.
     const restore = () => {
       const input = document.querySelector("pagefind-input input");
       if (!input) {
         setTimeout(restore, 150);
         return;
       }
-      if (q && input.value === "") {
+      if (q && input.value !== q) {
         input.value = q;
         input.dispatchEvent(new Event("input", { bubbles: true }));
       }
@@ -176,6 +176,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           const inst = instance();
           if (inst) inst.triggerSearchWithFilters(q, filters);
         } catch {}
+      }
+      // Keep re-applying briefly until the input settles on the query.
+      window.__pfRetry = (window.__pfRetry || 0) + 1;
+      if (window.__pfRetry < 20 && document.querySelector("pagefind-input input")?.value !== q) {
+        setTimeout(restore, 300);
+      } else {
+        window.__pfRetry = 0;
       }
     };
 
