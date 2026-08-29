@@ -3,7 +3,7 @@ title: "AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even 
 created: "2026-08-21T13:30:00-04:00"
 updated: "2026-08-21T16:23:57-04:00"
 type: article
-tags: [cognitive-offloading, metacognition, critical-thinking, ai-literacy, trust-calibration, reducing-ai-misuse, automation-bias, overconfidence, human-ai-interaction, generative-ai]
+tags: [cognitive-offloading, metacognition, critical-thinking, ai-literacy, trust-calibration, reducing-ai-misuse, bias-mitigation, assessment, human-ai-collaboration, generative-ai]
 sources: ['raw/papers/ai-advice-suppresses-ikt-suspension-2026.md']
 confidence: medium
 ---

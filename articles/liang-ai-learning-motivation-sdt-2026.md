@@ -3,7 +3,7 @@ title: "From disengaged to self-determined: a latent transition analysis of stud
 created: "2026-08-25T12:20:00-04:00"
 updated: "2026-08-25T12:20:00-04:00"
 type: article
-tags: [self-determination-theory, motivation, ai-literacy, k-12, student-engagement, secondary-education]
+tags: [self-determination-theory, motivation, ai-literacy, k-12, student-engagement]
 sources: ['raw/papers/liang-ai-learning-motivation-sdt-2026.md']
 confidence: high
 ---

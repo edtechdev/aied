@@ -3,7 +3,7 @@ title: Exploring Fraction Comprehension and Interest in Elementary Education Thr
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
-tags: [ai-generated-content, personalized-learning, k-12, math-education, adaptive-learning, student-experience]
+tags: [generative-ai, personalized-learning, k-12, math-education, adaptive-learning, student-experience]
 sources: ['raw/papers/2608.04892.md']
 confidence: high
 ---

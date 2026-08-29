@@ -3,7 +3,7 @@ title: 'Artificial Intelligence in Distance Education: A Systematic Review of Em
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [distance-learning, online-education, systematic-review, generative-ai, ai-education, governance, pedagogy, equity]
+tags: [online-teaching-and-learning, meta-analysis-systematic-review, generative-ai, ai-education, governance, pedagogy, equity-in-ai-education]
 sources: ['raw/papers/ai-distance-education-systematic-review-2026.md']
 confidence: high
 ---

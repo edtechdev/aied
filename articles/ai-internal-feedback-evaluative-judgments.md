@@ -3,7 +3,8 @@ title: "Unravelling undergraduates' development of evaluative judgments through 
 created: "2026-08-11T06:10:03-04:00"
 updated: "2026-08-11"
 type: article
-tags: [generative-ai, feedback, higher-ed, writing-instruction, self-regulated-learning, assessment-literacy, scaffolding, qualitative-study]
+tags: [generative-ai, feedback, higher-ed, writing-education, self-regulated-learning, assessment, scaffolding]
+research_method: [qualitative study]
 
 sources: ['raw/papers/tandf-ai-internal-feedback-evaluative-judgments.md']
 confidence: high

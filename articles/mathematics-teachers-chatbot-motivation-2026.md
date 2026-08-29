@@ -3,7 +3,7 @@ title: "Talking mathematics with AI: Understanding teachers' motivation for util
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [math-education, chatgpt, chatbot, teacher-role, motivation, technology-acceptance]
+tags: [math-education, conversational-ai, teacher-role, motivation, technology-acceptance-model]
 sources: ['raw/papers/mathematics-teachers-chatbot-motivation-2026.md']
 confidence: high
 ---

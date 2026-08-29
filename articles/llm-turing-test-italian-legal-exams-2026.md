@@ -3,7 +3,7 @@ title: What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [llm, assessment, professional-training, ai-ed-evaluation, benchmark, automated-grading]
+tags: [llm, assessment, professional-training, ai-ed-evaluation, benchmark, automated-assessment]
 sources: ['raw/papers/2608.06166.md']
 confidence: medium
 ---

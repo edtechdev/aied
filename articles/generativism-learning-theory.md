@@ -3,7 +3,7 @@ title: "Generativism: Toward a Learning Theory for the Age of Generative Artific
 created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-22T07:08:19-04:00"
 type: article
-tags: [generative-ai, llm, personalized-learning, scaffolding, higher-ed, self-regulated-learning, human-ai-collaboration, cognitive-offloading-llm-synthesis-writing, ai-literacy]
+tags: [generative-ai, llm, personalized-learning, scaffolding, higher-ed, self-regulated-learning, human-ai-collaboration, cognitive-offloading, ai-literacy]
 sources: ['raw/papers/2606.12441.md']
 confidence: high
 ---Li & Zheng argue that the four dominant learning theories — behaviorism, cognitivism, constructivism, and connectivism — show significant conceptual limitations as [[generative-ai]] proliferates in [[higher-ed|educational settings]]. They propose **Generativism**, a new learning theory for the generative AI age, which posits that learning increasingly occurs through the iterative co-construction of knowledge between human learners and AI systems.

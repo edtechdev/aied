@@ -3,7 +3,7 @@ title: "Transforming Nursing Education with Artificial Intelligence: A Systemati
 created: "2026-08-15T09:23:09-04:00"
 updated: "2026-08-15"
 type: article
-tags: [nursing-education, health-professions-education, personalized-learning, simulation, automated-assessment, medical-education, curriculum-design, ethics, systematic-review]
+tags: [medical-education, personalized-learning, simulation, automated-assessment, curriculum-design, ethics, meta-analysis-systematic-review]
 sources: ['raw/papers/alrazeeni-transforming-nursing-education-ai-2026.md']
 confidence: high
 ---

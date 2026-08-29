@@ -3,7 +3,7 @@ title: "Revisiting the Performance of Generative AI on Introductory Object-Orien
 created: "2026-08-18T09:20:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [cs-education, programming-education, generative-ai, automated-assessment, higher-ed, academic-integrity, llm, computing-education]
+tags: [cs-education, generative-ai, automated-assessment, higher-ed, academic-integrity, llm]
 sources: ['raw/papers/genai-oop-programming-assessments-2026.md']
 confidence: high
 ---

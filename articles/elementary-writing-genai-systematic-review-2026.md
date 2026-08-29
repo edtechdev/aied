@@ -3,7 +3,7 @@ title: "Rethinking Elementary Education's Writing Instruction in The Age of Gene
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
-tags: [writing-education, k-12, generative-ai, ai-literacy, systematic-review, creativity, assessment, llm-pedagogy]
+tags: [writing-education, k-12, generative-ai, ai-literacy, meta-analysis-systematic-review, creativity, assessment]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
 confidence: medium
 ---

@@ -3,7 +3,8 @@ title: "Structured AI Demonstrations and Student LLM Use in Engineering Mechanic
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, efficacy-study, learning-analytics]
+tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
+research_method: [efficacy study]
 sources: ['raw/papers/2607.28710.md']
 confidence: high
 ---

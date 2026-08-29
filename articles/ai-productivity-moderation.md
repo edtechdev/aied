@@ -3,7 +3,8 @@ title: "Position: Adopting AI in Practice Does Not Guarantee the Productivity Bo
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, efficacy-study, teacher-role, higher-ed, policy-maker, persistent-ai-agents-academic-research]
+tags: [generative-ai, teacher-role, higher-ed, educational-policy-ai, agentic-ai]
+research_method: [efficacy study]
 sources: ['raw/papers/2605.24688.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Translating UNESCO Artificial Intelligence Guidelines to Chemical Educat
 created: "2026-08-19T12:42:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [chemistry-education, educational-policy-ai, ethics, ai-literacy, higher-ed, sustainable-development-goals]
+tags: [chemistry-education, educational-policy-ai, ethics, ai-literacy, higher-ed]
 sources: ['raw/papers/unesco-ai-guidelines-chemical-education-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Systematic Review of Collaborative Learning Activities for Promoting AI 
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T05:46:39-04:00"
 type: article
-tags: [ai-literacy, collaborative-learning, instructional-design, ai-literacy-assessment-misalignment, k-12, llm, higher-ed]
+tags: [ai-literacy, collaborative-learning, instructional-design, k-12, llm, higher-ed]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: high
 ---

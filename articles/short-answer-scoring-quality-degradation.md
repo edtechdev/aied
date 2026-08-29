@@ -3,7 +3,8 @@ title: "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Ran
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [automated-assessment, formative-assessment, llm, benchmark, efficacy-study, human-in-the-loop-ai, assessment-validity, open-source]
+tags: [automated-assessment, formative-assessment, llm, benchmark, human-in-the-loop-ai, assessment-validity, open-source]
+research_method: [efficacy study]
 
 sources: ['raw/papers/2605.07647.md']
 confidence: medium

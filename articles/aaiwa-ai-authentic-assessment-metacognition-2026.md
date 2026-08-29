@@ -3,7 +3,7 @@ title: "AI-mediated authentic assessment and metacognitive reflection: A mixed-m
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [authentic-assessment, feedback, metacognition, teacher-education, pre-service-teachers, academic-writing]
+tags: [authentic-assessment, feedback, metacognition, teacher-education, writing-education]
 sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']
 confidence: high
 ---

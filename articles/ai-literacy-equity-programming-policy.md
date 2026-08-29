@@ -3,7 +3,7 @@ title: "Programming Language Policy as an AI Literacy Equity Problem: A 15-Natio
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, equity, k-12, policy-maker, higher-ed, faculty-development-genai, teacher-role]
+tags: [ai-literacy, equity-in-ai-education, k-12, educational-policy-ai, higher-ed, faculty-development, teacher-role]
 sources: ['raw/papers/2607.11314.md']
 confidence: high
 ---

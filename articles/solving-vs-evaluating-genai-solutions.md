@@ -3,7 +3,8 @@ title: Is Solving Better Than Evaluating GenAI Solutions?
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, stem-education, higher-ed, efficacy-study, student-experience]
+tags: [generative-ai, stem-education, higher-ed, student-experience]
+research_method: [efficacy study]
 sources: ['raw/papers/2607.27586.md']
 confidence: high
 ---

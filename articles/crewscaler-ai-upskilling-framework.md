@@ -3,7 +3,7 @@ title: AI-accelerated End-to-End Framework for Rapid Professional Upskilling
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-23T08:30:00-04:00"
 type: article
-tags: [professional-training, upskilling, workforce-development, llm, multi-agent, ai-tutors, assessment-development, content-generation, knowledge-acquisition, verification]
+tags: [professional-training, adult-learning, llm, agentic-ai, intelligent-tutoring, assessment, generative-ai, learning-theories, ai-ed-evaluation]
 sources: ['raw/papers/2607.14044.md']
 confidence: high
 ---

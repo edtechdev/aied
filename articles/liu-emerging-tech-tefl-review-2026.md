@@ -3,7 +3,7 @@ title: "A Systematic Review of Emerging Technology Applications for Teaching Eng
 created: "2026-08-24T12:36:00-04:00"
 updated: "2026-08-24T14:35:00-04:00"
 type: article
-tags: [language-learning, english-education, systematic-review, meta-analysis, generative-ai, k-12, higher-ed, virtual-reality]
+tags: [language-learning, english-education, meta-analysis-systematic-review, generative-ai, k-12, higher-ed, simulation]
 sources: ['raw/papers/liu-emerging-tech-tefl-review-2026.md']
 confidence: high
 ---

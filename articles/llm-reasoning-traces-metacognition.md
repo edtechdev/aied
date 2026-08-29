@@ -3,7 +3,8 @@ title: Explaining Too Much? Understanding How Large Language Model Reasoning Tra
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, metacognition, student-experience, efficacy-study, cognitive-offloading, self-regulated-learning, scaffolding]
+tags: [llm, metacognition, student-experience, cognitive-offloading, self-regulated-learning, scaffolding]
+research_method: [efficacy study]
 
 sources: ['raw/papers/2605.25856.md']
 confidence: high

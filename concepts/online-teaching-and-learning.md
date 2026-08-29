@@ -3,7 +3,7 @@ title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
 updated: "2026-08-27T05:50:01.954210-04:00"
 type: concept
-tags: [online-education, online-learning, distance-learning, mooc, blended-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
+tags: [online-teaching-and-learning, pedagogy, instructional-design, generative-ai, higher-ed, academic-integrity, cognitive-offloading, ai-literacy]
 confidence: high
 ---
 

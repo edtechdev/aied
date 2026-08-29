@@ -3,7 +3,7 @@ title: "Confident yet Concerned: Inconsistencies in Computing Students'' Attitud
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-22T19:25:00-04:00"
 type: article
-tags: [higher-ed, student-experience, ai-literacy, academic-integrity, engagement-metrics]
+tags: [higher-ed, student-experience, ai-literacy, academic-integrity, student-engagement]
 sources: ['raw/papers/2606.18541.md']
 confidence: medium
 ---

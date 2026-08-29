@@ -3,7 +3,7 @@ title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning a
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, educational-theory, cognitive-offloading, student-experience, ai-literacy]
+tags: [generative-ai, learning-theories, cognitive-offloading, student-experience, ai-literacy]
 
 sources: ['raw/papers/2607.28041.md']
 confidence: high

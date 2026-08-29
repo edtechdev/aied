@@ -3,7 +3,7 @@ title: "Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student C
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, student-experience, stem-education, higher-ed, reshaping-cs-education-genai, ai-literacy, rag]
+tags: [llm, student-experience, stem-education, higher-ed, cs-education, ai-literacy, rag]
 sources: ['raw/papers/2607.10674.md']
 confidence: high
 ---

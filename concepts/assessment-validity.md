@@ -4,7 +4,7 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
-tags: [authentic-assessment, automated-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
+tags: [authentic-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity-in-ai-education]
 
 confidence: high
 ---

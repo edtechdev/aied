@@ -2,7 +2,8 @@
 title: "What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?"
 created: "2026-08-24T09:42:00-04:00"
 updated: "2026-08-24T11:05:00-04:00"
-tags: [instructors, ai-education, cognitive-offloading, ai-literacy, assessment, evidence]
+tags: [teacher-role, ai-education, cognitive-offloading, ai-literacy, assessment]
+research_method: [evidence]
 ---
 
 # What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?

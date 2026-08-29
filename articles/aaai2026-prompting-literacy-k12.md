@@ -3,7 +3,7 @@ title: "Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot 
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
-tags: [ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-assessment, student-experience, rag]
+tags: [ai-literacy, k-12, llm, ai-education, simulation, automated-assessment, student-experience, rag]
 
 sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
 confidence: high

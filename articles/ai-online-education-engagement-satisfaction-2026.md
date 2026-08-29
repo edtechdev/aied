@@ -3,7 +3,8 @@ title: 'Artificial Intelligence in Online Education: A Systematic Review of Its 
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [online-education, online-learning, learner-engagement, learner-satisfaction, systematic-review, chatbots, intelligent-tutoring, sentiment-analysis]
+tags: [online-teaching-and-learning, student-engagement, student-experience, meta-analysis-systematic-review, conversational-ai, intelligent-tutoring]
+research_method: [sentiment analysis]
 sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high
 ---

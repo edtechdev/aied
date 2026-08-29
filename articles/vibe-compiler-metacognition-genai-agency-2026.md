@@ -3,7 +3,7 @@ title: "Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt 
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [metacognition, generative-ai, critical-thinking, cognitive-offloading, human-in-the-loop, self-regulated-learning, rag, scaffolding]
+tags: [metacognition, generative-ai, critical-thinking, cognitive-offloading, human-in-the-loop-ai, self-regulated-learning, rag, scaffolding]
 sources: ['raw/papers/2608.05545.md']
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "Generative AI as a Design Variable: An Evidence-Centered Framework for P
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [stem-education, generative-ai, automated-assessment, higher-ed, policy-maker, genai-minoritized-knowledges-disability, scaffolding, ai-literacy, llm]
+tags: [stem-education, generative-ai, automated-assessment, higher-ed, educational-policy-ai, equity-in-ai-education, scaffolding, ai-literacy, llm]
 
 sources: ['raw/papers/2605.24837.md']
 confidence: high

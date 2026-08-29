@@ -3,7 +3,7 @@ title: "Agentic AI in Education: A Scoping Review of Research Landscape, Capabil
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding]
+tags: [agentic-ai, ai-literacy, learning-theories, generative-ai, higher-ed, intelligent-tutoring, llm, open-source, scaffolding]
 sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high
 ---

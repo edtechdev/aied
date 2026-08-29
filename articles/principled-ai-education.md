@@ -3,7 +3,7 @@ title: Principled AI in Education
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
-tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]
+tags: [ai-education, higher-ed, pedagogy, scaffolding, educational-policy-ai, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
 ---

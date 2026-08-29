@@ -3,7 +3,7 @@ title: "LLM-Based Educational Simulation: Evaluating Temporal Student Persona St
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [llm, student-experience, ai-education, generative-ai, benchmark, learning-analytics, adaptive-learning-systems, adaptive-learning, ai-tutoring]
+tags: [llm, student-experience, ai-education, generative-ai, benchmark, learning-analytics, adaptive-learning, intelligent-tutoring]
 sources: ['raw/papers/2605.06307.md']
 confidence: medium
 ---

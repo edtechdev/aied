@@ -3,7 +3,7 @@ title: "Generative AI technologies and educational outcomes: a comprehensive met
 created: "2026-08-16T04:26:01-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
-tags: [meta-analysis, ai-ed-evaluation, learning-gains, systematic-review, generative-ai, higher-ed]
+tags: [meta-analysis-systematic-review, ai-ed-evaluation, learning-gains, generative-ai, higher-ed]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']
 confidence: high
 ---

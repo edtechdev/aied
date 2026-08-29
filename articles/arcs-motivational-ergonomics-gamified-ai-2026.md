@@ -3,7 +3,7 @@ title: "Motivational Ergonomics in Gamified and Artificial Intelligence-Supporte
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
-tags: [game-based-learning, motivation, higher-ed, instructional-design, self-determination-theory, student-experience, workplace-training]
+tags: [game-based-learning, motivation, higher-ed, instructional-design, self-determination-theory, student-experience, adult-learning]
 sources: ['raw/papers/arcs-motivational-ergonomics-gamified-ai-2026.md']
 confidence: high
 ---

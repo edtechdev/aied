@@ -3,7 +3,7 @@ title: 'AI-Supported Problem-Based Learning for Enhancing Computational Thinking
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
-tags: [problem-based-learning, computational-thinking, generative-ai, robotics, k-12, ai-education]
+tags: [problem-based-learning, computational-thinking, generative-ai, educational-robotics, k-12, ai-education]
 sources: ['raw/papers/ai-pbl-computational-thinking-2026.md']
 confidence: medium
 ---

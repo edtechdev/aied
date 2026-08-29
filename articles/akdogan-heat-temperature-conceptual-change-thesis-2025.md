@@ -3,7 +3,7 @@ title: "Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for 
 created: "2026-08-26T10:10:00-04:00"
 updated: "2026-08-26T10:10:00-04:00"
 type: article
-tags: [refutation-text, misconceptions, conceptual-change, science-education, physics-education, generative-ai, metacognition, k-12]
+tags: [refutation-text, misconceptions, cognitive-psychology, science-education, physics-education, generative-ai, metacognition, k-12]
 sources: ['raw/papers/akdogan-heat-temperature-conceptual-change-thesis-2025.md']
 confidence: high
 ---

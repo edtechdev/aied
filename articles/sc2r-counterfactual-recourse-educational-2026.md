@@ -3,7 +3,7 @@ title: "From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactu
 created: "2026-08-19T09:35:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [learning-analytics, predictive-modeling, educational-measurement, ai-ed-evaluation, higher-ed, student-modeling, interpretability, ethics, human-in-the-loop]
+tags: [learning-analytics, machine-learning, educational-measurement, ai-ed-evaluation, higher-ed, student-modeling, ethics, human-in-the-loop-ai]
 sources: ['raw/papers/2608.17618.md']
 confidence: high
 ---

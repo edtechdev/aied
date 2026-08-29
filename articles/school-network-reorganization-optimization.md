@@ -3,7 +3,7 @@ title: "School network reorganization under educational and spatial constraints 
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [ai-education, k-12, equity, simulation, systematic-review, policy, data-driven, optimization]
+tags: [ai-education, k-12, equity-in-ai-education, simulation, meta-analysis-systematic-review, educational-policy-ai, learning-analytics]
 sources: ['raw/papers/2608.05427v1.md']
 confidence: high
 ---

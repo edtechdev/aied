@@ -3,7 +3,7 @@ title: "ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and 
 created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, intelligent-tutoring, k-12, equity, personalized-learning, llm-in-education, rag, llm]
+tags: [generative-ai, intelligent-tutoring, k-12, equity-in-ai-education, personalized-learning, rag, llm]
 sources: ['raw/papers/2606.30662.md']
 confidence: high
 ---

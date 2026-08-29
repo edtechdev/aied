@@ -3,7 +3,7 @@ title: "Artificial Intelligence in Education: A Systematic Review of Personalize
 created: "2026-08-23T12:00:00-04:00"
 updated: "2026-08-23T12:00:00-04:00"
 type: article
-tags: [personalized-learning, adaptive-learning, ai-education, generative-ai, systematic-review]
+tags: [personalized-learning, adaptive-learning, ai-education, generative-ai, meta-analysis-systematic-review]
 sources: ['raw/papers/ikram-ai-personalized-learning-review-2026.md']
 confidence: high
 ---

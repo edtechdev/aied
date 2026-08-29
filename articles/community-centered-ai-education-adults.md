@@ -3,7 +3,7 @@ title: "Co-Designing Community-Centered AI Education for Adults: A Midwestern Ca
 created: "2026-06-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, lifelong-learning, equity, student-experience, edtech-platform, faculty-development, k-12, higher-ed]
+tags: [ai-literacy, lifelong-learning, equity-in-ai-education, student-experience, edtech-platform, faculty-development, k-12, higher-ed]
 sources: ['raw/papers/2606.26565.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: "The Evidence Base on AI in K-12: A 2026 Review"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-25T07:30:00-04:00"
 type: article
-tags: [k-12, ai-literacy, evidence, sociocultural-learning, intelligent-tutoring, scaffolding]
+tags: [k-12, ai-literacy, sociocultural-learning, intelligent-tutoring, scaffolding]
+research_method: [evidence]
 
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium

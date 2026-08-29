@@ -3,7 +3,7 @@ title: "Critical AI Tutors: Empower or Enslave?"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
-tags: [intelligent-tutoring, critical-thinking, cognitive-offloading, ai-assistance-reduces-persistence, student-experience, regulation]
+tags: [intelligent-tutoring, critical-thinking, cognitive-offloading, student-experience, regulation]
 
 sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']
 confidence: medium

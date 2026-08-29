@@ -3,7 +3,7 @@ title: "Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting 
 created: "2026-07-24T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-detection, academic-integrity, llm, higher-ed, ai-detection]
+tags: [ai-detection, academic-integrity, llm, higher-ed]
 sources: ['raw/papers/2607.20446.md']
 confidence: high
 ---

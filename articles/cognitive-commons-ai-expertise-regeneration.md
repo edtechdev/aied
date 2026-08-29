@@ -3,7 +3,7 @@ title: "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regenerat
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T07:15:00-04:00"
 type: article
-tags: [generative-ai, professional-training, educational-theory, cognitive-offloading, lifelong-learning, policy-maker, human-ai-collaboration, rag, ai-education]
+tags: [generative-ai, professional-training, learning-theories, cognitive-offloading, lifelong-learning, educational-policy-ai, human-ai-collaboration, rag, ai-education]
 sources: ['raw/papers/2607.29380.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: "Comparing human and LLM ordered coding of qualitative data: How coding d
 created: "2026-08-01T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [automated-assessment, educational-theory, ground-truth-reliability-aied, learning-analytics, llm, llm-in-education, educational-nlp]
+tags: [automated-assessment, learning-theories, learning-analytics, llm, generative-ai, educational-nlp]
+research_method: [ground truth reliability aied]
 
 sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high

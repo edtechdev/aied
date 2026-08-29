@@ -3,7 +3,7 @@ title: "Examining the Impact of Generative AI on Student Motivation and Engageme
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-23T09:20:00-04:00"
 type: article
-tags: [generative-ai, motivation, self-determination-theory, engagement-metrics, higher-ed, personalized-learning, student-experience, ai-education]
+tags: [generative-ai, motivation, self-determination-theory, student-engagement, higher-ed, personalized-learning, student-experience, ai-education]
 sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tut
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [llm, student-simulation, teacher-training, dialogue-tutoring, k-12, authenticity, llm-evaluation, community-of-inquiry, scaffolding, knowledge-tracing]
+tags: [llm, simulating-students, teacher-education, intelligent-tutoring, k-12, ai-ed-evaluation, community-of-inquiry, scaffolding, knowledge-tracing]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
 confidence: high
 ---

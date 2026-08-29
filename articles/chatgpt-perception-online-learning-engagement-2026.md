@@ -3,7 +3,8 @@ title: "How Does Students' Perception of ChatGPT Shape Online Learning Engagemen
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-20T04:40:00-04:00"
 type: article
-tags: [chatgpt, generative-ai, online-education, online-learning, student-engagement, academic-performance, structural-equation-modeling, higher-ed]
+tags: [conversational-ai, generative-ai, online-teaching-and-learning, student-engagement, higher-ed]
+research_method: [structural equation modeling]
 sources: ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Raising Ethical Awareness of GenAI Use Through Student Self-Assessment i
 created: "2026-08-20T08:40:00-04:00"
 updated: "2026-08-20T08:40:00-04:00"
 type: article
-tags: [generative-ai, ethics, self-assessment, assessment, academic-integrity, agency, higher-ed]
+tags: [generative-ai, ethics, assessment, academic-integrity, agency, higher-ed]
 sources: ['raw/papers/pedlow-genai-selfassessment-2026.md']
 confidence: medium
 ---

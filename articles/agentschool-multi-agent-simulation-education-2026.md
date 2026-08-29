@@ -3,7 +3,7 @@ title: "AgentSchool: An LLM-Powered Multi-Agent Simulation for Education"
 created: "2026-08-12T22:10:30-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [simulating-students, agentic-ai, multi-agent, adaptive-learning, sociocultural-learning, knowledge-graph, intelligent-tutoring, llm]
+tags: [simulating-students, agentic-ai, adaptive-learning, sociocultural-learning, knowledge-graph, intelligent-tutoring, llm]
 sources: ['raw/papers/2605.30144.md']
 confidence: high
 ---

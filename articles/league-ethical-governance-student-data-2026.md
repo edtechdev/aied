@@ -3,7 +3,7 @@ title: "Beyond Compliance: A Proposed Framework for Ethical Governance of Studen
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [learning-analytics, privacy, equity, ethics, regulation, higher-ed, institutional-change]
+tags: [learning-analytics, privacy, equity-in-ai-education, ethics, regulation, higher-ed, change-management]
 sources: ['raw/papers/2608.03968.md']
 confidence: high
 ---

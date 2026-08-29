@@ -3,7 +3,7 @@ title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-29T12:55:12-04:00"
 type: concept
-tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
+tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
 ---
 

@@ -3,7 +3,7 @@ title: "MedGame: Storytelling Gamification Empowered by Large Language Models fo
 created: "2026-07-24T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, generative-ai, professional-training, engagement-metrics, benchmark, intelligent-tutoring, open-source]
+tags: [llm, generative-ai, professional-training, student-engagement, benchmark, intelligent-tutoring, open-source]
 
 sources: ['raw/papers/2607.21570.md']
 confidence: high

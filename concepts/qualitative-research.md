@@ -3,7 +3,8 @@ title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
 updated: "2026-08-24T02:00:00-04:00"
 type: concept
-tags: [qualitative-research, research-methods-aied, thematic-analysis, grounded-theory, interviews, discourse-analysis, case-study, phenomenography]
+tags: [qualitative-research, research-methods-aied]
+research_method: [thematic analysis, grounded theory, interviews, discourse analysis, case study, phenomenography]
 confidence: high
 ---
 

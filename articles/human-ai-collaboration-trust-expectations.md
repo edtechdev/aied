@@ -3,7 +3,7 @@ title: "Human-AI collaboration in higher education: Exploring the impact of tech
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [human-in-the-loop, generative-ai, higher-ed, student-experience]
+tags: [human-in-the-loop-ai, generative-ai, higher-ed, student-experience]
 sources: ['raw/papers/caeai-human-ai-collab-trust.md']
 confidence: medium
 ---

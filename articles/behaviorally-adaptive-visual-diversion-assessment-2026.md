@@ -3,7 +3,7 @@ title: Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digita
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [assessment, inclusive-learning, privacy, academic-integrity, equity, adaptive-learning, higher-ed]
+tags: [assessment, inclusive-learning, privacy, academic-integrity, equity-in-ai-education, adaptive-learning, higher-ed]
 sources: ['raw/papers/2608.03531.md']
 confidence: high
 ---

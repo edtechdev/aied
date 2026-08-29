@@ -3,7 +3,7 @@ title: "The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-B
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
-tags: [chatgpt, generative-ai, inquiry-based-learning, steam-education, stem-education, systematic-review, critical-thinking]
+tags: [conversational-ai, generative-ai, inquiry-based-learning, science-education, stem-education, meta-analysis-systematic-review, critical-thinking]
 sources: ['raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md']
 confidence: high
 ---

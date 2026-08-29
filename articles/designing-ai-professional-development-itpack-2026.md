@@ -3,7 +3,7 @@ title: "Designing effective AI professional development: A framework grounded in
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [teacher-education, professional-development, tpack, intelligent-tpack, ai-literacy, ethics]
+tags: [teacher-education, adult-learning, tpack, ai-literacy, ethics]
 sources: ['raw/papers/designing-ai-professional-development-itpack-2026.md']
 confidence: high
 ---

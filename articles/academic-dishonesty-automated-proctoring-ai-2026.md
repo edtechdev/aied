@@ -3,7 +3,7 @@ title: "A Comprehensive Review of the Changing Landscape of Academic Dishonesty 
 created: "2026-08-20T04:45:00-04:00"
 updated: "2026-08-20T04:45:00-04:00"
 type: article
-tags: [remote-proctoring, academic-integrity, automated-proctoring, online-education, higher-ed, covid-19, machine-learning, privacy]
+tags: [remote-proctoring, academic-integrity, online-teaching-and-learning, higher-ed, educational-policy-ai, machine-learning, privacy]
 sources: ['raw/papers/academic-dishonesty-automated-proctoring-ai-2026.md']
 confidence: high
 ---

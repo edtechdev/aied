@@ -3,7 +3,7 @@ title: "Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College 
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [higher-ed, generative-ai, llm, personalized-learning, edtech-platform, culturally-relevant-pedagogy, automated-question-generation, ai-tutoring]
+tags: [higher-ed, generative-ai, llm, personalized-learning, edtech-platform, culturally-relevant-pedagogy, automated-question-generation, intelligent-tutoring]
 sources: ['raw/papers/2605.05842.md']
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "Generative AI and the marginalization of minoritized knowledges in highe
 created: "2026-05-27T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
+tags: [generative-ai, higher-ed, special-education, equity-in-ai-education, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 confidence: high
 sources: []
 ---

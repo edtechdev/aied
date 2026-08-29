@@ -3,7 +3,7 @@ title: "Perceptions of Generative AI in Global South: A Scoping Review"
 created: "2026-08-20T08:20:00-04:00"
 updated: "2026-08-20T08:20:00-04:00"
 type: article
-tags: [generative-ai, global-south, systematic-review, higher-ed, equity-in-ai-education, academic-integrity]
+tags: [generative-ai, global-south, meta-analysis-systematic-review, higher-ed, equity-in-ai-education, academic-integrity]
 sources: ['raw/papers/nguyen-genai-global-south-review-2026.md']
 confidence: high
 ---

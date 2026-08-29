@@ -3,7 +3,7 @@ title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
 updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
-tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, mental-health, motivation]
+tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, motivation]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 ---

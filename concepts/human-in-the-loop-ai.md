@@ -4,7 +4,7 @@ created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-27T04:35:06.336963-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
-tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
+tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
 ---
 

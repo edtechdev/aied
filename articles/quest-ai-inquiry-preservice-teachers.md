@@ -3,7 +3,8 @@ title: "Effects of an AI-supported inquiry model on AI literacy and authentic pe
 created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-ed]
+tags: [ai-literacy, faculty-development, generative-ai, higher-ed]
+research_method: [efficacy study]
 sources: ['raw/papers/caeai-quest-ai-inquiry.md']
 confidence: medium
 ---

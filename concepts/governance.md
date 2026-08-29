@@ -3,7 +3,7 @@ title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
 updated: "2026-08-27T11:21:46.201612-04:00"
 type: concept
-tags: [policy, ethics, higher-ed, institutional-change, privacy, responsible-ai, regulation, ai-education]
+tags: [educational-policy-ai, ethics, higher-ed, change-management, privacy, regulation, ai-education]
 confidence: high
 ---
 

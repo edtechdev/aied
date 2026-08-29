@@ -3,7 +3,8 @@ title: "Policy Fragmentation or Institutional Alignment? Institutional Governanc
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
-tags: [ai-education, higher-ed, regulation, policy, institutional-change, ai-literacy, survey, professional-training]
+tags: [ai-education, higher-ed, regulation, educational-policy-ai, change-management, ai-literacy, professional-training]
+research_method: [survey]
 sources: ['raw/papers/2608.03584v1.md']
 confidence: high
 ---

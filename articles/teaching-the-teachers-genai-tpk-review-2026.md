@@ -3,7 +3,7 @@ title: "Teaching the teachers: A systematic review of genAI-specific technologic
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [teacher-education, tpack, generative-ai, professional-development, ethics]
+tags: [teacher-education, tpack, generative-ai, adult-learning, ethics]
 sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']
 confidence: high
 ---

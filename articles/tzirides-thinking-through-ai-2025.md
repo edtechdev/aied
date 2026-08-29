@@ -3,7 +3,7 @@ title: "Thinking Through AI: Advancing Cognitive and Collaborative Research for 
 created: "2025-01-26T08:44:33-04:00"
 updated: "2026-08-24T09:30:00-04:00"
 type: article
-tags: [ai-education, writing-education, k-12, ai-literacy, cognitive-offloading, learnlab, collaborative-learning]
+tags: [ai-education, writing-education, k-12, ai-literacy, cognitive-offloading, intelligent-tutoring, collaborative-learning]
 sources: ['raw/papers/tzirides-thinking-through-ai-2025.md']
 confidence: high
 ---

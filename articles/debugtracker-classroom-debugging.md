@@ -3,7 +3,7 @@ title: "DebugTracker: Lightweight Process Evidence for Classroom Debugging"
 created: "2026-07-08T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [programming-its, learning-analytics, formative-assessment, cs-education, higher-ed, feedback, student-experience]
+tags: [intelligent-tutoring, learning-analytics, formative-assessment, cs-education, higher-ed, feedback, student-experience]
 
 sources: ['raw/papers/2607.05871.md']
 confidence: high

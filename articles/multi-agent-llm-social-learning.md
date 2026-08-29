@@ -3,7 +3,7 @@ title: "Beyond the AI Tutor: Social Learning with LLM Agents"
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [llm, intelligent-tutoring, scaffolding, student-experience, collaborative-ai-tutoring, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]
+tags: [llm, intelligent-tutoring, scaffolding, student-experience, agentic-ai, higher-ed]
 
 sources: ['raw/papers/2604.02677.md']
 confidence: high

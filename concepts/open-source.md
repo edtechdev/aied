@@ -3,7 +3,7 @@ title: Open Source
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T09:23:09-04:00"
 type: concept
-tags: [llm, stem-education, intelligent-tutoring, educational-theory, generative-ai, ai-education, curriculum-design, professional-training, automated-assessment, writing-education]
+tags: [llm, stem-education, intelligent-tutoring, learning-theories, generative-ai, ai-education, curriculum-design, professional-training, automated-assessment, writing-education]
 
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "AI Skills for College Graduates: How Instructors and Employers Prioritiz
 created: "2026-08-19T08:30:00-04:00"
 updated: "2026-08-27T11:57:40.880277-04:00"
 type: article
-tags: [ai-literacy, curriculum-design, higher-ed, workforce, generative-ai, professional-training, teacher-education]
+tags: [ai-literacy, curriculum-design, higher-ed, adult-learning, generative-ai, professional-training, teacher-education]
 sources: ['raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md']
 confidence: high
 ---

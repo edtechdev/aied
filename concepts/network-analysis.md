@@ -3,7 +3,8 @@ title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
 updated: "2026-08-22T01:40:13-04:00"
 type: concept
-tags: [network-analysis, research-methods, methodology, epistemic-network-analysis, social-network-analysis, transition-network-analysis, learning-analytics, knowledge-graph]
+tags: [network-analysis, research-methods-aied, learning-analytics, knowledge-graph]
+research_method: [methodology, epistemic network analysis, social network analysis, transition network analysis]
 confidence: high
 ---
 

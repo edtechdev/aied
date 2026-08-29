@@ -3,7 +3,7 @@ title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
 updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
-tags: [cognitivism, cognitive-psychology, learning-theory, metacognition, cognitive-load, memory, knowledge-tracing, intelligent-tutoring, generative-ai]
+tags: [learning-theories, cognitive-psychology, metacognition, cognitive-load, knowledge-tracing, intelligent-tutoring, generative-ai]
 confidence: high
 ---
 

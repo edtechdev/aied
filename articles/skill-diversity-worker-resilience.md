@@ -3,7 +3,7 @@ title: "Navigating the skill diversity frontier: How skill complexity explains w
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T04:56:01-04:00"
 type: article
-tags: [workforce-development, upskilling, professional-development, professional-training, ai-education, llm, productivity, data-driven]
+tags: [adult-learning, professional-training, ai-education, llm, learning-analytics]
 sources: ['raw/papers/2608.02102v1.md']
 confidence: high
 ---

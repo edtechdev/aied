@@ -3,7 +3,7 @@ title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analy
 created: "2026-08-09T20:37:26-04:00"
 updated: "2026-08-22T01:30:41-04:00"
 type: article
-tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm]
+tags: [cognitive-offloading, ai-literacy, higher-ed, student-experience, learning-analytics, generative-ai, llm]
 
 sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']
 confidence: high

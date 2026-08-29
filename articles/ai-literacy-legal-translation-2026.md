@@ -3,7 +3,7 @@ title: "AI Literacy for Legal Translation: Developing Digital Resilience"
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, professional-training, higher-ed, generative-ai, pedagogical-safety, human-in-the-loop, ethics]
+tags: [ai-literacy, professional-training, higher-ed, generative-ai, pedagogical-safety, human-in-the-loop-ai, ethics]
 sources: ['raw/papers/2608.04641.md']
 confidence: high
 ---

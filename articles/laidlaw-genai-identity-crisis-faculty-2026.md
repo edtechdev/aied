@@ -3,7 +3,7 @@ title: "When faculty ask, 'what's the point of teaching?': GenAI as identity cri
 created: "2026-08-15T07:40:37-04:00"
 updated: "2026-08-15"
 type: article
-tags: [faculty-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, transformative-learning, professional-identity, academic-integrity, educational-policy-ai]
+tags: [faculty-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
 sources: ['raw/papers/laidlaw-genai-identity-crisis-faculty-2026.md']
 confidence: high
 ---
