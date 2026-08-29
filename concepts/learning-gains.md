@@ -4,6 +4,9 @@ created: "2026-08-09T16:52:03-04:00"
 updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
+audience: [student experience]
+level: [higher ed, k 12]
+category: [assessment, ai ed evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
 ---

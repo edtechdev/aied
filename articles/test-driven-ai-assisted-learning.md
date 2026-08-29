@@ -4,6 +4,9 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, llm, active-learning, assessment, higher-ed, automated-assessment, scaffolding]
+discipline: [cs education]
+level: [higher ed]
+category: [assessment]
 
 sources: ['raw/papers/2606.23315.md']
 confidence: medium

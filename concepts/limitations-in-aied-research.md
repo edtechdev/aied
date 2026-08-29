@@ -4,7 +4,8 @@ created: "2026-08-15T09:18:04-04:00"
 updated: "2026-08-26T05:46:39-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, assessment-validity, educational-measurement, ai-ed-evaluation, learning-theories, benchmark]
-research_method: [methodology, reproducibility, open science]
+research_method: [research methods aied, methodology, reproducibility, validity, educational measurement, open science, benchmark]
+category: [ai ed evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied]
 ---

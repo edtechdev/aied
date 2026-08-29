@@ -4,6 +4,8 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-24T11:00:00-04:00"
 type: article
 tags: [agentic-ai, physics-education, teacher-education, simulation, stem-education, higher-ed]
+discipline: [physics education, stem education]
+level: [teacher training, higher ed]
 
 sources: ['raw/papers/2608.05820.md']
 confidence: medium

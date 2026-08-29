@@ -4,6 +4,8 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, scaffolding, personalized-learning]
+discipline: [language learning]
+level: [k 12]
 sources: ['raw/papers/2605.13709.md']
 confidence: high
 ---

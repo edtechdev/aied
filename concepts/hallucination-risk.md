@@ -4,6 +4,7 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: concept
 tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, cognitive-offloading]
+category: [ai ed evaluation]
 
 confidence: high
 ---

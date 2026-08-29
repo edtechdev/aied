@@ -4,6 +4,7 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, llm, scaffolding, personalized-learning, ai-literacy, mastery-learning]
+discipline: [cs education]
 sources: ['raw/papers/2606.03288.md']
 confidence: high
 ---

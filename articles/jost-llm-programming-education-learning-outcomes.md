@@ -5,6 +5,7 @@ updated: "2026-08-24T16:30:00-04:00"
 type: article
 tags: [llm, cs-education, cognitive-offloading, generative-ai]
 research_method: [empirical study]
+discipline: [cs education]
 sources: ['raw/papers/jost-llm-programming-education-learning-outcomes.md']
 confidence: high
 ---

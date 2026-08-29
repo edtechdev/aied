@@ -4,6 +4,10 @@ created: "2026-08-15T15:31:07-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [benchmark, ai-ed-evaluation, educational-measurement, llm, teacher-role, teacher-ai-competency, professional-training, k-12, special-education]
+research_method: [benchmark, educational measurement]
+audience: [teacher role]
+level: [k 12, special education]
+category: [ai ed evaluation]
 sources: ['raw/papers/cdpk-pedagogy-benchmark-llms.md']
 confidence: high
 ---

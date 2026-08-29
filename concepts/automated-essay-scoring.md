@@ -4,6 +4,9 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-27T11:29:54.887137-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12]
+discipline: [writing education]
+level: [higher ed, k 12]
+category: [assessment]
 
 confidence: high
 ---

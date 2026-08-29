@@ -4,6 +4,7 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-08-27T11:42:03.434133-04:00"
 type: concept
 tags: [adult-learning, ai-anxiety-and-stress, professional-training, higher-ed, ai-literacy]
+level: [higher ed]
 confidence: high
 ---
 

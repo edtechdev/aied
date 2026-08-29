@@ -4,6 +4,8 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [student-experience, higher-ed, academic-integrity, cognitive-offloading, hallucination-risk, learning-analytics, llm, k-12]
+audience: [student experience]
+level: [higher ed, k 12]
 
 sources: ['raw/papers/2606.14920.md']
 confidence: high

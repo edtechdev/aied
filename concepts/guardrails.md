@@ -4,6 +4,7 @@ created: "2026-08-25T08:30:00-04:00"
 updated: "2026-08-27T08:07:41.879764-04:00"
 type: concept
 tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinforcement-learning, bias-mitigation, ai-sycophancy, k-12, llm]
+level: [k 12]
 confidence: high
 ---
 

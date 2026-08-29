@@ -4,6 +4,8 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, higher-ed]
+discipline: [writing education]
+level: [higher ed]
 
 sources: ['raw/papers/hawkins-feedback-literacy-ai-essay-writing.md']
 confidence: high

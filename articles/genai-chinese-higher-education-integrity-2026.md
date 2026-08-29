@@ -4,6 +4,8 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
 tags: [generative-ai, higher-ed, critical-thinking, academic-integrity, agency, philosophy-of-ai-in-education, student-experience]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/genai-chinese-higher-education-integrity-2026.md']
 confidence: high
 ---

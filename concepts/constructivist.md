@@ -4,6 +4,7 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
 tags: [learning-theories, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
+category: [instructional design]
 confidence: high
 ---
 

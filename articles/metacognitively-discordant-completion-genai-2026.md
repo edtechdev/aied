@@ -4,6 +4,7 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T05:04:50-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, cognitive-offloading, academic-integrity, student-experience, generative-ai]
+audience: [student experience]
 
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']
 confidence: medium

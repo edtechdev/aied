@@ -4,6 +4,8 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-25T07:50:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
+discipline: [language learning, writing education]
+level: [higher ed]
 confidence: high
 ---
 

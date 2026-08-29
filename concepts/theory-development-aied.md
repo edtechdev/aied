@@ -4,7 +4,8 @@ created: "2026-08-22T07:08:19-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
-category: [conceptual-framework]
+research_method: [limitations in aied research, research methods aied]
+category: [conceptual framework]
 confidence: medium
 ---
 

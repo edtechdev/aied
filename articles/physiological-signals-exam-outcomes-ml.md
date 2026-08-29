@@ -4,6 +4,9 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [learning-analytics, edtech-platform, higher-ed, student-engagement, student-experience, rag, llm, k-12]
+audience: [student experience]
+level: [higher ed, k 12]
+category: [engagement metrics]
 sources: ['raw/papers/2606.14960.md']
 confidence: medium
 ---

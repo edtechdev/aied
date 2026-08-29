@@ -4,6 +4,8 @@ created: "2026-08-26T18:05:00-04:00"
 updated: "2026-08-26T18:05:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, instructional-design, curriculum-design, human-ai-collaboration, active-learning, educational-measurement, learning-theories, higher-ed, activity-theory-aied]
+level: [higher ed]
+category: [instructional design, curriculum design, taxonomy]
 sources: ['raw/papers/dohn-boundary-object-classifying-genai-learning-activities-2026.md']
 confidence: high
 ---

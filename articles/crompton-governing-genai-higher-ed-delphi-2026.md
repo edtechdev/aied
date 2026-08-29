@@ -4,6 +4,7 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [governance, educational-policy-ai, generative-ai, higher-ed, academic-integrity, ai-literacy, ethics, privacy, human-in-the-loop-ai]
+level: [higher ed]
 sources: ['raw/papers/crompton-governing-genai-higher-ed-delphi-2026.md']
 confidence: high
 ---

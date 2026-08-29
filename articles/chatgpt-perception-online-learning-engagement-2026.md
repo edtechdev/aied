@@ -5,6 +5,7 @@ updated: "2026-08-20T04:40:00-04:00"
 type: article
 tags: [conversational-ai, generative-ai, online-teaching-and-learning, student-engagement, higher-ed]
 research_method: [structural equation modeling]
+level: [higher ed]
 sources: ['raw/papers/chatgpt-perception-online-learning-engagement-2026.md']
 confidence: high
 ---

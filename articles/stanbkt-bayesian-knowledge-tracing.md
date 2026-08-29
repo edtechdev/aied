@@ -4,6 +4,7 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, learning-analytics, adaptive-learning, benchmark, open-source, knowledge-tracing, visualization]
+research_method: [benchmark]
 sources: ['raw/papers/2605.23048.md']
 confidence: high
 ---

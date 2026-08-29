@@ -28,12 +28,21 @@ title: Page Title
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article | concept | faq
-tags: [from taxonomy below]
+tags: [concept-slug-1, concept-slug-2]   # MUST be concept slugs (see below)
 sources: [raw/papers/source-name.md]   # articles only
 connected_faqs: [faq-slug-1, faq-slug-2]  # concepts + articles only (optional)
 confidence: high | medium | low        # how well-supported the claims are
+research_method: [systematic review, survey]  # optional, see below
+discipline: [math education, physics education]  # optional
+audience: [teacher role, administrator]  # optional
+level: [higher ed, k 12]  # optional
+category: [theoretical framework]  # optional
 ---
 ```
+
+**`tags` is the CONCEPT VOCABULARY (2026-08-29).** Every value in `tags` MUST be a concept slug (a file in `concepts/`). Tags are rendered as clickable links to their concept pages. If a topic isn't yet a concept, create the concept page first OR fold it into the nearest existing concept — do not invent non-concept tags. Non-concept metadata goes into the structured fields below instead.
+
+**Structured metadata fields (optional, added 2026-08-29):** `research_method`, `discipline`, `audience`, `level`, and `category` hold non-concept metadata that was formerly mixed into `tags`. These are free-form arrays of hyphenated or spaced phrases; each value should be natural language (e.g. `research_method: [systematic review]`, `discipline: [math education]`). A topic may appear BOTH as a concept tag AND in a metadata field where applicable (e.g. `systematic-review` maps to concept `meta-analysis-systematic-review` in `tags` AND `research_method: [systematic review]`). These fields are inert in the UI until surfaced as facets.
 
 `connected_faqs` (concepts and articles only, optional) lists FAQ slugs the page should link to in a
 **Connected FAQs** section at the bottom of the page. The section renders only when at least one

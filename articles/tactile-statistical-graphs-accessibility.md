@@ -4,6 +4,7 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [special-education, equity-in-ai-education, adaptive-learning, k-12, higher-ed, generative-ai, ai-literacy, rag, llm]
+level: [special education, k 12, higher ed]
 sources: ['raw/papers/2607.01214.md']
 confidence: high
 ---

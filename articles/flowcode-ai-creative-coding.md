@@ -4,6 +4,8 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [scaffolding, generative-ai, feedback, active-learning, intelligent-tutoring, higher-ed, student-experience, llm, visualization]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/2607.06721.md']
 confidence: high

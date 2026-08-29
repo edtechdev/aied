@@ -4,6 +4,8 @@ created: "2026-08-27T11:17:52-04:00"
 updated: "2026-08-27T11:38:38.333597-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
+level: [higher ed]
+category: [assessment]
 confidence: high
 ---
 

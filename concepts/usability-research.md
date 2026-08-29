@@ -4,8 +4,8 @@ created: "2026-08-24T02:15:00-04:00"
 updated: "2026-08-24T02:15:00-04:00"
 type: concept
 tags: [usability-research]
-research_method: [user study, think aloud]
-category: [educational-software-evaluation]
+research_method: [usability research, user study, think aloud]
+category: [educational software evaluation]
 confidence: high
 ---
 

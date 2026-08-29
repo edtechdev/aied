@@ -4,6 +4,8 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [governance, educational-policy-ai, administrator, higher-ed, ai-education, ethics]
+audience: [administrator]
+level: [higher ed]
 sources: ['raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md']
 confidence: high
 ---

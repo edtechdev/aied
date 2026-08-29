@@ -5,6 +5,7 @@ updated: "2026-08-26T15:33:47-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, critical-thinking, self-regulated-learning, transfer-of-learning, agency, rag]
 research_method: [multisite experiment]
+level: [higher ed]
 sources: ['raw/papers/genai-feedback-design-multisite-experiment.md']
 confidence: high
 ---

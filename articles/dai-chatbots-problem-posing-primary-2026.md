@@ -4,6 +4,9 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [generative-ai, conversational-ai, k-12, stem-education, inquiry-based-learning, automated-question-generation, network-analysis, cognitive-load]
+research_method: [network analysis]
+discipline: [stem education]
+level: [k 12]
 sources: ['raw/papers/dai-chatbots-problem-posing-primary-2026.md']
 confidence: high
 ---

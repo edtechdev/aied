@@ -4,6 +4,7 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T12:30:00-04:00"
 type: article
 tags: [humanities-education, generative-ai, curriculum-design, ai-literacy, ai-education]
+category: [curriculum design]
 sources: ['raw/papers/2608.05176.md']
 confidence: high
 ---

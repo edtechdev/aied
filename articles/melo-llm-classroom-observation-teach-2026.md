@@ -4,7 +4,9 @@ created: "2026-08-15T15:16:58-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, faculty-development, professional-training]
-research_method: [classroom observation, reliability]
+research_method: [educational measurement, classroom observation, reliability]
+audience: [teacher role, faculty development]
+category: [ai ed evaluation]
 sources: ['raw/papers/melo-llm-classroom-observation-teach-2026.md']
 confidence: high
 ---

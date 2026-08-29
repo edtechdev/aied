@@ -2,6 +2,7 @@
 title: Mastery Learning
 type: concept
 tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
+category: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-08-29T12:55:12-04:00"

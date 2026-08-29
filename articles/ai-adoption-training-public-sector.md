@@ -5,6 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [ai-literacy, educational-policy-ai, prompt-engineering, scaffolding, agentic-ai, metacognition, curriculum-design]
 research_method: [training methodology, efficacy study]
+category: [curriculum design]
 sources: ['raw/papers/2606.01517.md']
 confidence: high
 ---

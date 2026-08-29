@@ -4,6 +4,9 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [sustainability, teacher-education, teacher-role, tpack, k-12, generative-ai, instructional-design]
+audience: [teacher role]
+level: [k 12]
+category: [instructional design]
 sources: ['raw/papers/riandi-teacher-ai-green-energy-education-2026.md']
 confidence: high
 ---

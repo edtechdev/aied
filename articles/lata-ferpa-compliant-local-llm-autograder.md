@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [automated-assessment, higher-ed, stem-education, llm, generative-ai, feedback, assessment-validity, formative-assessment, open-source]
 research_method: [efficacy study]
+discipline: [stem education]
+level: [higher ed]
 
 sources: ['raw/papers/2605.05410.md']
 confidence: high

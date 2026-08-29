@@ -4,6 +4,10 @@ created: "2026-05-27T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, stem-education, student-experience, higher-ed, benchmark, llm, generative-ai, ai-literacy, scaffolding, intelligent-tutoring]
+research_method: [benchmark]
+discipline: [cs education, stem education]
+audience: [student experience]
+level: [higher ed]
 confidence: high
 sources: []
 ---

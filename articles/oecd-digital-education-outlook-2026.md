@@ -4,6 +4,9 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [generative-ai, pedagogy, intelligent-tutoring, teacher-role, assessment, educational-policy-ai, higher-ed, k-12, ai-literacy]
+audience: [teacher support]
+level: [higher ed, k 12]
+category: [assessment]
 sources: ['raw/papers/oecd-digital-education-outlook-2026.md']
 confidence: high
 ---

@@ -4,6 +4,9 @@ created: "2026-08-20T05:40:00-04:00"
 updated: "2026-08-20T05:50:00-04:00"
 type: article
 tags: [academic-integrity, ai-misuse-learning-harm, ai-detection, assessment, ai-literacy, higher-ed, teacher-role]
+audience: [teacher role]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/best-response-student-ai-dialog-2026.md']
 confidence: high
 ---

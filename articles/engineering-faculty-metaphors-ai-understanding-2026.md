@@ -4,6 +4,9 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-26T07:45:07-04:00"
 type: article
 tags: [engineering-education, faculty-development, ai-literacy, generative-ai, higher-ed, student-experience, cognitive-offloading]
+discipline: [engineering education]
+audience: [faculty development, student experience]
+level: [higher ed]
 sources: ['raw/papers/engineering-faculty-metaphors-ai-understanding-2026.md']
 confidence: high
 ---

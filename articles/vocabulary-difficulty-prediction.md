@@ -4,6 +4,9 @@ created: "2026-05-20T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [language-learning, llm, generative-ai, benchmark, scaffolding, formative-assessment, writing-education, rag, open-source, k-12]
+research_method: [benchmark]
+discipline: [language learning, writing education]
+level: [k 12]
 sources: ['raw/papers/2605.14257.md']
 confidence: high
 ---

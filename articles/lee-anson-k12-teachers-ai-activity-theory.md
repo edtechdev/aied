@@ -4,6 +4,9 @@ created: "2026-08-26T08:14:00-04:00"
 updated: "2026-08-26T08:14:00-04:00"
 type: article
 tags: [activity-theory-aied, teacher-role, k-12, generative-ai, student-experience, qualitative-research]
+research_method: [qualitative research]
+audience: [teacher role, student experience]
+level: [k 12]
 sources: ['raw/papers/lee-anson-k12-teachers-ai-activity-theory.md']
 confidence: high
 ---

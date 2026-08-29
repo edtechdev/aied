@@ -4,6 +4,8 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
 tags: [cs-education, assessment, automated-assessment, ai-ed-evaluation, educational-measurement, item-response-theory, learning-analytics]
+research_method: [educational measurement]
+category: [assessment, evaluation]
 sources: ['raw/papers/llm-difficulty-calibration-programming-exams-2026.md']
 confidence: high
 ---

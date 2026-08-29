@@ -4,6 +4,10 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
+research_method: [educational measurement]
+discipline: [stem education]
+level: [higher ed]
+category: [assessment]
 
 confidence: high
 ---

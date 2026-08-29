@@ -4,6 +4,8 @@ created: "2026-08-27T09:16:00-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [assessment, generative-ai, academic-integrity, ai-detection, authentic-assessment, higher-ed, ethics, privacy, agency, desirable-difficulties]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/evaluation-age-ai-output-evidence-2026.md']
 confidence: high
 ---

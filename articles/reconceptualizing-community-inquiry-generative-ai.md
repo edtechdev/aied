@@ -4,6 +4,8 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [generative-ai, llm, critical-thinking, higher-ed, ai-education, assessment]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/reconceptualizing-community-inquiry-generative-ai.md']
 confidence: high
 ---

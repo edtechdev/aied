@@ -4,6 +4,8 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, generative-ai, higher-ed, scaffolding, stem-education, metacognition, ai-literacy, rag, intelligent-tutoring]
+discipline: [stem education]
+level: [higher ed]
 sources: ['raw/papers/2604.17460.md']
 confidence: medium
 ---

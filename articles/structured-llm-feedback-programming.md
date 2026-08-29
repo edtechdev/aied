@@ -5,6 +5,8 @@ updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [llm, generative-ai, feedback, higher-ed, scaffolding, stem-education, pedagogical-agent, desirable-difficulties, rag]
 research_method: [efficacy study]
+discipline: [stem education]
+level: [higher ed]
 
 sources: ['raw/papers/2605.16933.md']
 confidence: high

@@ -4,6 +4,7 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [knowledge-tracing, automated-assessment, benchmark, learning-analytics]
+research_method: [benchmark]
 sources: ['raw/papers/2605.04727.md']
 confidence: medium
 ---

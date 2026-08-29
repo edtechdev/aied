@@ -4,6 +4,8 @@ created: "2026-06-02T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, curriculum-design, higher-ed, ai-technologies, prompt-engineering, scaffolding, metacognition]
+level: [higher ed]
+category: [curriculum design]
 sources: ['raw/papers/2606.01152.md']
 confidence: high
 ---

@@ -5,6 +5,7 @@ updated: "2026-08-28T16:30:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
+level: [higher ed, k 12]
 confidence: high
 ---
 

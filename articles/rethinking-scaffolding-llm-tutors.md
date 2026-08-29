@@ -4,7 +4,8 @@ created: "2026-06-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [scaffolding, intelligent-tutoring, llm, benchmark, student-experience, help-seeking]
-research_method: [efficacy study]
+research_method: [benchmark, efficacy study]
+audience: [student experience]
 sources: ['raw/papers/2606.15766.md']
 confidence: high
 ---

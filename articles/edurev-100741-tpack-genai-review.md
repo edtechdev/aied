@@ -4,6 +4,10 @@ created: "2026-08-14T10:37:25-04:00"
 updated: "2026-08-14"
 type: article
 tags: [generative-ai, tpack, ai-literacy, student-experience, higher-ed, k-12, instructional-design, assessment, meta-analysis-systematic-review, teacher-ai-competency, faculty-development]
+research_method: [meta analysis, systematic review]
+audience: [student experience, faculty development]
+level: [higher ed, k 12]
+category: [instructional design, assessment]
 sources: ['raw/papers/edurev-100741-tpack-genai-review.md']
 confidence: high
 ---

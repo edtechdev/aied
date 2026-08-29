@@ -4,6 +4,9 @@ created: "2026-08-14T09:42:37-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [language-learning, generative-ai, intelligent-tutoring, self-regulated-learning, motivation, higher-ed, personalized-learning, prompt-engineering, student-experience]
+discipline: [language learning]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/higheredu-05-00078.md']
 confidence: high

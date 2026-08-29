@@ -4,7 +4,8 @@ created: "2026-08-25T09:50:00-04:00"
 updated: "2026-08-25T09:50:00-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
-category: [moral-disengagement]
+level: [higher ed]
+category: [moral disengagement]
 sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
 confidence: high
 ---

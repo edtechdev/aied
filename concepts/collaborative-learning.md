@@ -4,6 +4,8 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-27T06:22:51.426928-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
+audience: [student experience]
+level: [k 12, higher ed]
 confidence: high
 ---
 

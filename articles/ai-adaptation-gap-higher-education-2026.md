@@ -5,6 +5,7 @@ updated: "2026-08-27T09:12:00-04:00"
 type: article
 tags: [higher-ed, teacher-education, technology-acceptance-model, trust, academic-integrity, educational-policy-ai, governance, generative-ai]
 research_method: [survey]
+level: [higher ed]
 sources: ['raw/papers/ai-adaptation-gap-higher-education-2026.md']
 confidence: high
 ---

@@ -4,6 +4,9 @@ created: "2026-05-08T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
 tags: [inclusive-learning, k-12, pedagogy, equity-in-ai-education, faculty-development, curriculum-design, higher-ed, ai-literacy, generative-ai, llm]
+audience: [faculty development]
+level: [k 12, higher ed]
+category: [curriculum design]
 confidence: high
 sources: ['raw/papers/2505.08083.md']
 ---

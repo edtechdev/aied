@@ -4,6 +4,8 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [socratic-method, physics-education, generative-ai, intelligent-tutoring, pedagogical-agent, computational-thinking, learning-analytics, educational-measurement]
+research_method: [educational measurement]
+discipline: [physics education]
 sources: ['raw/papers/hashmi-socratic-physics-chatbot-2025.md']
 confidence: medium
 ---

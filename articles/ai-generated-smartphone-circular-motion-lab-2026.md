@@ -4,6 +4,7 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:38:27-04:00"
 type: article
 tags: [physics-education, online-teaching-and-learning, generative-ai, stem-education, personalized-learning]
+discipline: [physics education, stem education]
 sources: ['raw/papers/2607.28352.md']
 confidence: high
 ---

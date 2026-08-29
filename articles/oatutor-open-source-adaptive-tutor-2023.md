@@ -4,6 +4,8 @@ created: "2026-08-12T21:26:01-04:00"
 updated: "2026-08-25T17:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, personalized-learning, edtech-platform]
+discipline: [math education]
+level: [higher ed]
 
 sources: ['raw/papers/oatutor-open-source-adaptive-tutor-2023.md']
 confidence: high

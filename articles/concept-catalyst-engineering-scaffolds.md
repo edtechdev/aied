@@ -4,6 +4,10 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, instructional-design]
+discipline: [stem education]
+audience: [teacher role]
+level: [k 12]
+category: [instructional design]
 sources: ['raw/papers/2605.20511.md']
 confidence: high
 ---

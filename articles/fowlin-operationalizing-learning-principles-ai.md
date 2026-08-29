@@ -4,6 +4,10 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-role, experiential-learning, situated-learning, distributed-cognition, adaptive-learning, higher-ed, medical-education, instructional-design]
+discipline: [medical education]
+audience: [teacher role]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/fowlin-operationalizing-learning-principles-ai.md']
 confidence: high
 ---

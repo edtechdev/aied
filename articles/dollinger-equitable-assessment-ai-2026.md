@@ -4,6 +4,8 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-08-20T08:20:00-04:00"
 type: article
 tags: [assessment, equity-in-ai-education, generative-ai, higher-ed, authentic-assessment]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/dollinger-equitable-assessment-ai-2026.md']
 confidence: medium
 ---

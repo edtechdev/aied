@@ -4,6 +4,9 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
 tags: [generative-ai, k-12, stem-education, ai-literacy, student-experience, cognitive-offloading, educational-policy-ai, governance, conversational-ai]
+discipline: [stem education]
+audience: [student experience]
+level: [k 12]
 sources: ['raw/papers/lnenicka-secondary-students-genai-stem-2026.md']
 confidence: high
 ---

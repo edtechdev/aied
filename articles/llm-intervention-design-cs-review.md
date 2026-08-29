@@ -5,6 +5,9 @@ updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, prompt-engineering, higher-ed, computational-thinking]
 research_method: [efficacy study]
+discipline: [cs education]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/llm-intervention-design-cs-review.md']
 confidence: high
 ---

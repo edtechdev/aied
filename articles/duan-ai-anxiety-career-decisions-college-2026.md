@@ -4,6 +4,7 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-08-25T10:30:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, self-efficacy, higher-ed, ai-literacy, social-emotional-learning]
+level: [higher ed]
 sources: ['raw/papers/duan-ai-anxiety-career-decisions-college-2026.md']
 confidence: high
 ---

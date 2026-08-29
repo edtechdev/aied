@@ -4,6 +4,7 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, personalized-learning, scaffolding, higher-ed]
+level: [higher ed]
 sources: ['raw/papers/2606.20608.md']
 confidence: medium
 ---

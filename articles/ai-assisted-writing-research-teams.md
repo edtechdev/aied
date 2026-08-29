@@ -4,6 +4,9 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, writing-education, faculty-development, automated-assessment, llm, agentic-ai, ai-literacy]
+discipline: [writing education]
+audience: [faculty development]
+level: [higher ed]
 sources: ['raw/papers/2605.27404.md']
 confidence: medium
 ---

@@ -4,6 +4,7 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
 tags: [educational-nlp, learning-analytics, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, llm]
+category: [ai ed evaluation]
 sources: ['raw/papers/nspa-neuro-symbolic-pedagogical-alignment-2026.md']
 confidence: high
 ---

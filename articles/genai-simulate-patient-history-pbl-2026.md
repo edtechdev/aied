@@ -4,6 +4,8 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, generative-ai, medical-education, simulation, mixed-methods-research]
+research_method: [mixed methods]
+discipline: [medical education]
 sources: ['raw/papers/genai-simulate-patient-history-pbl-2026.md']
 confidence: high
 ---

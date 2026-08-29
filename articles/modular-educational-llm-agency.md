@@ -4,6 +4,7 @@ created: "2026-05-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, scaffolding, teacher-role, cognitive-offloading, learning-analytics, student-experience, ai-literacy]
+audience: [teacher role, student experience]
 
 sources: ['raw/papers/2605.30187.md']
 confidence: high

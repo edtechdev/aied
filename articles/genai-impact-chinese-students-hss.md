@@ -4,6 +4,8 @@ created: "2026-06-24T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, llm, ai-literacy, personalized-learning]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2606.24104.md']
 confidence: high
 ---

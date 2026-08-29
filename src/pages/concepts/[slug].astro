@@ -222,7 +222,7 @@ if (connectedFaqs.length > 0) {
         <StarButton slug={slug} kind="concept" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
+          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tag.replace(/-/g, ' ')}</a></>
         ))}
       </div>
     </div>

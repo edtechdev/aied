@@ -4,6 +4,8 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-27T11:29:54.887137-04:00"
 type: concept
 tags: [regulation, governance, faculty-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
+audience: [faculty development]
+level: [higher ed, k 12]
 confidence: high
 ---
 

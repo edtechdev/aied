@@ -4,6 +4,8 @@ created: "2026-08-15T09:33:47-04:00"
 updated: "2026-08-24T17:20:00-04:00"
 type: article
 tags: [student-engagement, higher-ed, ai-education, active-learning, project-based-learning, scaffolding, feedback, generative-ai, digital-divide, meta-analysis-systematic-review]
+research_method: [systematic review]
+level: [higher ed]
 
 sources: ['raw/papers/long-ai-higher-ed-engagement-teaching-methods-2026.md']
 confidence: high

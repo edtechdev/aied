@@ -4,6 +4,8 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [assessment, learning-analytics, knowledge-tracing, benchmark, llm]
+research_method: [benchmark]
+category: [assessment]
 sources: ['raw/papers/2605.09305.md']
 confidence: medium
 ---

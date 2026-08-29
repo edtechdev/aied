@@ -5,6 +5,7 @@ updated: "2026-08-25T11:30:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 tags: [edtech-platform, ai-education, online-teaching-and-learning, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity-in-ai-education]
+level: [k 12, higher ed]
 confidence: high
 ---
 

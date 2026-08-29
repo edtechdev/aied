@@ -4,7 +4,9 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, higher-ed, benchmark, student-engagement, llm, knowledge-tracing]
-research_method: [efficacy study]
+research_method: [efficacy study, benchmark]
+level: [higher ed]
+category: [engagement metrics]
 
 sources: ['raw/papers/2605.05648.md']
 confidence: high

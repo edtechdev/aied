@@ -4,6 +4,9 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
+discipline: [stem education, math education]
+audience: [student experience]
+level: [k 12]
 sources: ['raw/papers/2606.28472.md']
 confidence: high
 ---

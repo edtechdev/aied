@@ -4,6 +4,8 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
+discipline: [cs education, math education, physics education]
+level: [k 12, higher ed]
 
 confidence: high
 ---

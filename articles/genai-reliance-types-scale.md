@@ -4,6 +4,9 @@ created: "2026-07-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, academic-integrity, higher-ed, student-experience, writing-education, cognitive-offloading, ai-literacy]
+discipline: [writing education]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/2607.14301.md']
 confidence: high

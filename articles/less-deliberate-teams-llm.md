@@ -4,6 +4,9 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, student-experience, collaborative-learning, higher-ed, student-engagement, generative-ai, rag]
+audience: [student experience]
+level: [higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/2606.30860.md']
 confidence: high
 ---

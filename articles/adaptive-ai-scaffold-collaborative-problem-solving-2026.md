@@ -5,6 +5,7 @@ updated: "2026-08-24T21:30:00-04:00"
 type: article
 tags: [collaborative-learning, scaffolding, adaptive-learning, learning-analytics, k-12, problem-solving]
 research_method: [process mining]
+level: [k 12]
 sources: ['raw/papers/adaptive-ai-scaffold-collaborative-problem-solving-2026.md']
 confidence: high
 ---

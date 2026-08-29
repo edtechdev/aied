@@ -5,6 +5,7 @@ updated: "2026-08-22T01:35:00-04:00"
 type: article
 tags: [learning-analytics, english-education, feedback, conversational-ai, generative-ai, student-modeling, scaffolding, ai-literacy]
 research_method: [transition network analysis]
+discipline: [english education]
 sources: ['raw/papers/penny-transition-network-analysis-efl-writing-2026.md']
 confidence: high
 ---

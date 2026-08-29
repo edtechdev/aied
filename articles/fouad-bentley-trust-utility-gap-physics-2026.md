@@ -4,6 +4,9 @@ created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-24T19:40:00-04:00"
 type: article
 tags: [physics-education, trust-calibration, ai-literacy, student-experience, higher-ed, stem-education]
+discipline: [physics education, stem education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/fouad-bentley-trust-utility-gap-physics-2026.md']
 confidence: high
 ---

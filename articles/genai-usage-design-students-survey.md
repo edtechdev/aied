@@ -4,6 +4,9 @@ created: "2026-07-22T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integrity, writing-education]
+discipline: [writing education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2607.17094.md']
 confidence: high
 ---

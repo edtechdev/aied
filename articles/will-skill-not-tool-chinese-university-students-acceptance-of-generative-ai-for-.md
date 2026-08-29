@@ -4,6 +4,8 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, educational-policy-ai, technology-acceptance-model, ai-education, writing-education]
+discipline: [writing education]
+level: [higher ed]
 sources: ['raw/papers/will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-.md']
 confidence: high
 ---

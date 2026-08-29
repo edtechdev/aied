@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [learning-theories, generative-ai, higher-ed, instructional-design, scaffolding]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/caeai-genai-mindtool.md']
 confidence: medium
 ---

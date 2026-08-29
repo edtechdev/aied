@@ -4,6 +4,9 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [sustainability, engineering-education, higher-ed, human-ai-collaboration, instructional-design, educational-policy-ai, personalized-learning]
+discipline: [engineering education]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/liu-ai-sustainable-engineering-education-2026.md']
 confidence: high
 ---

@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, teacher-role, higher-ed, educational-policy-ai, agentic-ai]
 research_method: [efficacy study]
+audience: [teacher role]
+level: [higher ed]
 sources: ['raw/papers/2605.24688.md']
 confidence: high
 ---

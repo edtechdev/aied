@@ -4,6 +4,9 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, student-experience, benchmark, higher-ed, knowledge-tracing, personalized-learning, ai-literacy]
+research_method: [benchmark]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2607.26317.md']
 confidence: high
 ---

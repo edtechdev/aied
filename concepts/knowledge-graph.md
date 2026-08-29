@@ -4,6 +4,7 @@ created: "2026-08-09T16:55:17-04:00"
 updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
+category: [curriculum design]
 confidence: high
 ---
 

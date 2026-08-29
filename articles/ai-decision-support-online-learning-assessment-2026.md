@@ -4,6 +4,7 @@ created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [online-teaching-and-learning, learning-analytics, ai-technologies, ai-education, automated-assessment, personalized-learning, meta-analysis-systematic-review]
+research_method: [systematic review]
 sources: ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
 confidence: medium
 ---

@@ -4,6 +4,7 @@ created: "2026-08-22T05:55:16-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [collaborative-learning, agentic-ai, pedagogical-agent, meta-analysis-systematic-review, community-of-inquiry, learning-gains, scaffolding]
+research_method: [systematic review]
 sources: ['raw/papers/ba-ai-agents-cscl-review-2026.md']
 confidence: high
 ---

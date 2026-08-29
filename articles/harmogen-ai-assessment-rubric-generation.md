@@ -4,6 +4,8 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [automated-assessment, formative-assessment, llm, generative-ai, cs-education, assessment]
+discipline: [cs education]
+category: [assessment]
 sources: ['raw/papers/harmogen-ai-assessment-rubric-generation.md']
 confidence: high
 ---

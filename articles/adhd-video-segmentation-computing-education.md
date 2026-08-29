@@ -4,6 +4,8 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [inclusive-learning, cs-education, instructional-design, neurodiversity, llm]
+discipline: [cs education]
+category: [instructional design]
 sources: ['raw/papers/2607.24612.md']
 confidence: high
 ---

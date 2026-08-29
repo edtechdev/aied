@@ -4,6 +4,10 @@ created: "2026-06-10T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
 tags: [automated-assessment, assessment, higher-ed, generative-ai, formative-assessment, llm, student-experience, ai-literacy, scaffolding, stem-education]
+discipline: [stem education]
+audience: [student experience]
+level: [higher ed]
+category: [assessment]
 
 confidence: high
 sources: []

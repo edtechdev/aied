@@ -4,6 +4,9 @@ created: "2026-08-28T09:08:00-04:00"
 updated: "2026-08-28T09:08:00-04:00"
 type: article
 tags: [physics-education, multimodal, llm, generative-ai, benchmark, assessment, stem-education, automated-assessment]
+research_method: [benchmark]
+discipline: [physics education, stem education]
+category: [assessment]
 sources: ['raw/papers/2608.25398.md']
 confidence: high
 ---

@@ -4,6 +4,8 @@ created: "2026-05-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, automated-assessment, feedback, stem-education, higher-ed, scaffolding, self-regulated-learning, metacognition]
+discipline: [stem education]
+level: [higher ed]
 
 sources: ['raw/papers/2605.21614.md']
 confidence: medium

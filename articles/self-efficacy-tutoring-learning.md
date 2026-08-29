@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, personalized-learning, higher-ed, student-experience, self-regulated-learning]
 research_method: [efficacy study]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2606.17470.md']
 confidence: high
 ---

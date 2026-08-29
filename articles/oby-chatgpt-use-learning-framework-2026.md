@@ -4,6 +4,7 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-20T08:10:00-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, self-efficacy, motivation, metacognition, student-engagement, higher-ed]
+level: [higher ed]
 sources: ['raw/papers/oby-chatgpt-use-learning-framework-2026.md']
 confidence: high
 ---

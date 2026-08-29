@@ -4,6 +4,8 @@ created: "2026-08-24T05:31:00-04:00"
 updated: "2026-08-24T05:31:00-04:00"
 type: article
 tags: [generative-ai, constructivist, computational-thinking, self-regulated-learning, assessment, educational-measurement, curriculum-design, theory-development-aied]
+research_method: [educational measurement]
+category: [assessment, curriculum design]
 sources: ['raw/papers/ai-writes-code-student-writes-model-2026.md']
 confidence: medium
 ---

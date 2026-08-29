@@ -4,6 +4,8 @@ created: "2026-08-21T08:00:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [writing-education, automated-assessment, bias-mitigation, equity-in-ai-education, feedback, personalized-learning, generative-ai, k-12, ai-feedback-quality]
+discipline: [writing education]
+level: [k 12]
 confidence: high
 sources: [raw/papers/2603.12471.md]
 ---
