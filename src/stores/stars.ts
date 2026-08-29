@@ -18,6 +18,7 @@ export const DEFAULT_STARRED = [
   'concept/ai-education',
   'concept/ai-literacy',
   'concept/agentic-ai',
+  'faq/top-10-findings-ai-education-instructors',
 ];
 
 /** Canonical key for a page: `<kind>/<slug>`. */
