@@ -4,6 +4,8 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, equity-in-ai-education, learning-theories, generative-ai]
+audience: [teacher role]
+research_method: [theoretical analysis]
 sources: ['raw/papers/2607.27547.md']
 confidence: high
 ---

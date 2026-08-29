@@ -3,7 +3,8 @@ title: "Bayesian cognitive diagnosis optimizes personalized learning paths via m
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
-tags: [cognitive-diagnosis, personalized-learning, adaptive-learning, learning-analytics]
+tags: [cognitive-diagnosis, personalized-learning, adaptive-learning, learning-analytics, cognitive-load]
+research_method: [system development, validation]
 sources: ['raw/papers/bayesian-cognitive-diagnosis-personalized-learning-paths.md']
 confidence: high
 ---

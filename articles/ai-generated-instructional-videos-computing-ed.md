@@ -4,6 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, student-experience, stem-education, higher-ed]
+research_method: [survey, descriptive]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed]

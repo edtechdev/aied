@@ -4,6 +4,7 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-education, change-management, faculty-development, higher-ed, pedagogy, stem-education, agentic-ai, scaffolding, student-experience]
+research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [faculty development, faculty development genai, student experience]
 level: [higher ed]

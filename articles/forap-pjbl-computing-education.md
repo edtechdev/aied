@@ -4,6 +4,7 @@ created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [project-based-learning, k-12, higher-ed, active-learning, stem-education, scaffolding, teacher-role]
+research_method: [system development]
 discipline: [stem education]
 audience: [teacher role]
 level: [k 12, higher ed]

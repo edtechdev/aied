@@ -4,6 +4,7 @@ created: "2026-06-19T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [automated-assessment, formative-assessment, feedback, writing-education, scaffolding, llm]
+research_method: [system development, evaluation]
 discipline: [writing education]
 
 sources: ['raw/papers/2606.20287.md']

@@ -4,7 +4,8 @@ created: "2026-05-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, student-experience, learning-analytics, personalized-learning, reinforcement-learning, ai-literacy, rag]
-audience: [student experience]
+research_method: [system development, benchmark]
+audience: [researcher]
 sources: ['raw/papers/2605.30051.md']
 confidence: high
 ---

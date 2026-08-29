@@ -4,6 +4,7 @@ created: "2026-08-25T12:40:00-04:00"
 updated: "2026-08-25T12:40:00-04:00"
 type: article
 tags: [motivation, student-engagement, language-learning, english-education, higher-ed, self-regulated-learning, teacher-role]
+research_method: [survey, quantitative]
 discipline: [language learning, english education]
 audience: [teacher support]
 level: [higher ed]

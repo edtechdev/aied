@@ -4,6 +4,7 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, teacher-role, student-experience, ai-literacy, student-ai-interaction, automated-assessment, llm, scaffolding, learning-analytics]
+research_method: [participatory design]
 audience: [teacher role, student experience]
 level: [k 12]
 sources: ['raw/papers/2607.01506.md']

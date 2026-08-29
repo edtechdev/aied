@@ -4,6 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [scaffolding, human-in-the-loop-ai, human-ai-collaboration, collaborative-learning, instructional-design]
+research_method: [theoretical analysis]
 category: [instructional design]
 sources: ['raw/papers/scaffolding-systematic-reviews-2026.md']
 confidence: high

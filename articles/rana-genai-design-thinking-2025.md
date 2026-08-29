@@ -4,6 +4,7 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-20T08:10:00-04:00"
 type: article
 tags: [design-thinking, generative-ai, creativity, critical-thinking, ethics, higher-ed, scaffolding]
+research_method: [mixed methods]
 level: [higher ed]
 category: [design thinking]
 sources: ['raw/papers/rana-genai-design-thinking-2025.md']

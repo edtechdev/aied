@@ -4,6 +4,7 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-13"
 type: article
 tags: [generative-ai, student-experience, self-regulated-learning, ai-literacy, academic-integrity, learning-analytics, motivation, cognitive-offloading, critical-thinking, metacognition, privacy]
+research_method: [qualitative, interviews]
 audience: [student experience]
 
 sources: ['raw/papers/10.1016_j.caeai.2026.100606.md']

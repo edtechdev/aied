@@ -3,7 +3,8 @@ title: "Trust-utility gap in introductory physics education: Students' adoption,
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-24T19:40:00-04:00"
 type: article
-tags: [physics-education, trust-calibration, ai-literacy, student-experience, higher-ed, stem-education]
+tags: [physics-education, trust-calibration, ai-literacy, student-experience, higher-ed, stem-education, change-management]
+research_method: [mixed methods]
 discipline: [physics education, stem education]
 audience: [student experience]
 level: [higher ed]

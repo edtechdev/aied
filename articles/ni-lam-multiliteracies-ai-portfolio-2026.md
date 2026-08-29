@@ -4,6 +4,7 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-20T08:10:00-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, assessment, feedback, language-learning, student-engagement]
+research_method: [qualitative, mixed methods]
 discipline: [language learning]
 category: [assessment]
 sources: ['raw/papers/ni-lam-multiliteracies-ai-portfolio-2026.md']

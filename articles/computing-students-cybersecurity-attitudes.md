@@ -4,6 +4,7 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-22T19:25:00-04:00"
 type: article
 tags: [higher-ed, student-experience, ai-literacy, academic-integrity, student-engagement]
+research_method: [survey]
 audience: [student experience]
 level: [higher ed]
 category: [engagement metrics]

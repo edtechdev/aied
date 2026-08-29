@@ -4,6 +4,7 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [cs-education, scaffolding, llm, formative-assessment, feedback, student-ai-interaction]
+research_method: [experiment, crowdsourced]
 discipline: [cs education]
 sources: ['raw/papers/llm-adaptive-programming-error-explanations-2026.md']
 confidence: high

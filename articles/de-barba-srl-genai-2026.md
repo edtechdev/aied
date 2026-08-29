@@ -4,6 +4,7 @@ created: "2026-08-27T06:30:00-04:00"
 updated: "2026-08-27T06:30:00-04:00"
 type: article
 tags: [self-regulated-learning, agency, learning-analytics, critical-pedagogy, theory-development-aied, generative-ai]
+research_method: [theoretical analysis]
 sources: ["https://doi.org/10.20851/ll.v7.75"]
 confidence: high
 ---

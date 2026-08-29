@@ -4,6 +4,7 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, multimodal, inclusive-learning, accessibility, special-education]
+research_method: [survey, quantitative]
 level: [special education]
 sources: ['raw/papers/bolla-pepper-robot-sign-language-2025.md']
 confidence: medium

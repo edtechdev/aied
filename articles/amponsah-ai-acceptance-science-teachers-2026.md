@@ -3,7 +3,8 @@ title: "Perceptions And Acceptance of Artificial Intelligence in Science Educati
 created: "2026-08-09T08:35:52-04:00"
 updated: "2026-08-09"
 type: article
-tags: [ai-literacy, teacher-education, k-12, stem-education, higher-ed, generative-ai, faculty-development, ai-education]
+tags: [ai-literacy, teacher-education, k-12, stem-education, higher-ed, generative-ai, faculty-development, ai-education, change-management]
+research_method: [survey, quantitative]
 discipline: [stem education]
 audience: [faculty development]
 level: [teacher training, k 12, higher ed]

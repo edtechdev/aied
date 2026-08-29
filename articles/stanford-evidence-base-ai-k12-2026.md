@@ -4,6 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-25T07:30:00-04:00"
 type: article
 tags: [k-12, ai-literacy, sociocultural-learning, intelligent-tutoring, scaffolding]
+audience: [teacher role, administrator, researcher]
 research_method: [evidence]
 level: [k 12]
 

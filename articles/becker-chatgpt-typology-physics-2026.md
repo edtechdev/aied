@@ -3,7 +3,8 @@ title: "Pragmatic users and skeptical nonusers: A qualitative typology of ChatGP
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-education, trust-calibration, rag, scaffolding]
+tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-education, trust-calibration, rag, scaffolding, change-management]
+research_method: [survey, content analysis]
 discipline: [physics education, stem education]
 audience: [student experience]
 level: [higher ed]

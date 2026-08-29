@@ -4,6 +4,7 @@ created: "2026-08-25T14:00:00-04:00"
 updated: "2026-08-25T14:00:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, ai-literacy, self-efficacy, cognitive-offloading, student-experience]
+research_method: [survey, quantitative]
 audience: [student experience]
 level: [higher ed]
 sources: ['raw/papers/stamatoulis-genai-use-patterns-2026.md']

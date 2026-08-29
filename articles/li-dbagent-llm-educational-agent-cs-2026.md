@@ -4,6 +4,7 @@ created: "2026-08-22T05:20:54-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [llm, agentic-ai, cs-education, intelligent-tutoring, cognitive-diagnosis, cognitive-offloading, student-ai-interaction, higher-ed, learning-analytics]
+research_method: [system development, quasi-experiment]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/li-dbagent-llm-educational-agent-cs-2026.md']

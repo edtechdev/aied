@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, collaborative-learning, student-ai-interaction, student-engagement, language-learning, human-in-the-loop-ai, higher-ed, learning-analytics, human-ai-collaboration]
+research_method: [benchmark]
 level: [higher ed]
 category: [engagement metrics]
 sources: ['raw/papers/2607.28643.md']

@@ -4,6 +4,7 @@ created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, llm, automated-assessment, writing-education, open-source]
+research_method: [system development, benchmark]
 discipline: [writing education]
 
 sources: ['raw/papers/2606.12801.md']

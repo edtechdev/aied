@@ -4,6 +4,7 @@ created: "2026-08-19T12:48:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, formative-assessment, self-regulated-learning, human-ai-collaboration, teacher-education]
+research_method: [qualitative, interviews]
 discipline: [chemistry education]
 sources: ['raw/papers/instructor-ai-roles-chatgpt-formative-assessment-2026.md']
 confidence: high

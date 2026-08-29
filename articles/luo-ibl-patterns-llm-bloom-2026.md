@@ -4,6 +4,7 @@ created: "2026-08-22T05:55:16-04:00"
 updated: "2026-08-25T17:30:00-04:00"
 type: article
 tags: [inquiry-based-learning, llm, conversational-ai, critical-thinking, metacognition, self-efficacy, higher-ed, self-regulated-learning]
+research_method: [mixed methods, qualitative]
 level: [higher ed]
 sources: ['raw/papers/luo-ibl-patterns-llm-bloom-2026.md']
 confidence: high

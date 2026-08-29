@@ -4,6 +4,7 @@ created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [equity-in-ai-education, generative-ai, human-in-the-loop-ai, k-12, llm, student-experience, human-ai-collaboration, ai-literacy, teacher-role]
+research_method: [mixed methods, experiment]
 audience: [student experience, teacher role]
 level: [k 12]
 sources: ['raw/papers/2606.12805.md']

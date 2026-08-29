@@ -4,6 +4,7 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-literacy, teacher-ai-competency, faculty-development, professional-training, motivation, self-determination-theory, higher-ed, k-12]
+research_method: [mixed methods]
 audience: [faculty development]
 level: [higher ed, k 12]
 sources: ['raw/papers/10.1080_02619768.2026.2621848.md']

@@ -4,6 +4,7 @@ created: "2026-08-22T19:50:00-04:00"
 updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [ai-detection, academic-integrity, generative-ai, higher-ed, assessment-validity, trust, writing-education, authentic-assessment, educational-policy-ai, governance]
+research_method: [theoretical analysis]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/bassett-ai-detectors-education-2026.md']

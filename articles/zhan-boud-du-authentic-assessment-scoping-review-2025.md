@@ -4,6 +4,7 @@ created: "2026-05-07T19:55:03-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning]
+research_method: [theoretical analysis, scoping review]
 level: [higher ed]
 category: [ai ed evaluation, assessment]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']

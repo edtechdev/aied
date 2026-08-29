@@ -3,7 +3,8 @@ title: Leveraging Physiological Signals to Predict Exam Outcomes with Machine Le
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [learning-analytics, edtech-platform, higher-ed, student-engagement, student-experience, rag, llm, k-12]
+tags: [learning-analytics, edtech-platform, higher-ed, student-engagement, student-experience, rag, llm, k-12, machine-learning]
+research_method: [benchmark]
 audience: [student experience]
 level: [higher ed, k 12]
 category: [engagement metrics]

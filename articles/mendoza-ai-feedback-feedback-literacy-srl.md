@@ -4,6 +4,7 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-feedback-quality, self-regulated-learning, feedback, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12]
+audience: [student experience, teacher role]
 research_method: [moderation study]
 level: [k 12]
 

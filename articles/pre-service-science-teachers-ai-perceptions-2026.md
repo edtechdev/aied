@@ -4,6 +4,8 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [science-education, teacher-education, technology-acceptance-model, ai-literacy, higher-ed, global-south]
+audience: [teacher role, faculty development]
+research_method: [survey, quantitative]
 discipline: [science education]
 level: [higher ed, pre service teachers]
 sources: ['raw/papers/pre-service-science-teachers-ai-perceptions-2026.md']

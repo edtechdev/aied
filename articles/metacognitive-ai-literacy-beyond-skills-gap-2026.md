@@ -4,6 +4,7 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-literacy, metacognition, critical-thinking, higher-ed, ethics, ai-education, teacher-role, governance]
+research_method: [theoretical analysis]
 audience: [teacher role]
 level: [higher ed]
 sources: ['raw/papers/10.1080_17439884.2026.2652638.md']

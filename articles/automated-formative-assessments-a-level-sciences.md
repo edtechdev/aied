@@ -4,6 +4,7 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [assessment, automated-assessment, k-12, stem-education, formative-assessment, llm]
+research_method: [quasi-experiment, mixed methods]
 discipline: [stem education]
 level: [k 12]
 category: [assessment]

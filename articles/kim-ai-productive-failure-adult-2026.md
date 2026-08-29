@@ -4,6 +4,7 @@ created: "2026-08-23T08:00:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, adult-learning, instructional-design, llm, human-in-the-loop-ai, higher-ed]
+research_method: [qualitative, focus groups]
 level: [adult learning, higher ed]
 category: [instructional design]
 sources: ['raw/papers/kim-ai-productive-failure-adult-2026.md']

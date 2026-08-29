@@ -4,6 +4,7 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [higher-ed, generative-ai, llm, personalized-learning, edtech-platform, culturally-relevant-pedagogy, automated-question-generation, intelligent-tutoring]
+research_method: [system development, user study]
 level: [higher ed]
 sources: ['raw/papers/2605.05842.md']
 confidence: medium

@@ -4,6 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, multimodal, socratic-method, stem-education, llm, scaffolding, metacognition]
+research_method: [benchmark]
 discipline: [stem education]
 
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']

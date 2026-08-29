@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, learning-theories, metacognition]
+research_method: [system development, user study]
 audience: [student experience]
 level: [higher ed]
 

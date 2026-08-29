@@ -4,6 +4,7 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [stem-education, higher-ed, personalized-learning, active-learning, online-teaching-and-learning, generative-ai, student-experience, rag, llm]
+research_method: [mixed methods, user study]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed]

@@ -4,6 +4,7 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, llm, stem-education, teacher-role, ai-literacy]
+research_method: [quasi-experiment, evaluation]
 discipline: [stem education]
 audience: [teacher role]
 level: [higher ed]

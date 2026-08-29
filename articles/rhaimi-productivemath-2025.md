@@ -4,6 +4,7 @@ created: "2026-08-23T08:20:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, math-education, k-12, llm, teacher-role, instructional-design]
+research_method: [mixed methods]
 discipline: [math education]
 audience: [teacher role]
 level: [k 12]

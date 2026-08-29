@@ -4,6 +4,7 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, generative-ai, lifelong-learning, pedagogical-llm-training, self-regulated-learning, metacognition, rag]
+research_method: [theoretical analysis]
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
 ---

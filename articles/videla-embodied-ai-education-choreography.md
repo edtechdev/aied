@@ -4,6 +4,7 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [embodied-learning, pedagogical-agent, cognitive-psychology, critical-thinking, situated-learning, human-ai-collaboration, higher-ed, philosophy-of-ai-in-education]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/videla-embodied-ai-education-choreography.md']
 confidence: high

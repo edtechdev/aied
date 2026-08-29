@@ -4,6 +4,8 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, language-learning, higher-ed, generative-ai, simulation, scaffolding, metacognition]
+audience: [student experience, teacher role]
+research_method: [system development, simulation]
 discipline: [writing education, language learning]
 level: [higher ed]
 

@@ -4,6 +4,8 @@ created: "2026-07-08T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, cs-education, feedback, formative-assessment, intelligent-tutoring, llm, professional-training, scaffolding, ai-literacy]
+audience: [teacher role]
+research_method: [system development, evaluation]
 discipline: [cs education]
 sources: ['raw/papers/2607.06074.md']
 confidence: high

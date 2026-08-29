@@ -4,6 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, metacognition, rag, llm]
+research_method: [system development, simulation]
 sources: ['raw/papers/2604.04237.md']
 confidence: medium
 ---

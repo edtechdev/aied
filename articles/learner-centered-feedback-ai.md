@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [generative-ai, feedback, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, rag]
+research_method: [mixed methods, qualitative]
 audience: [teacher role, faculty development, faculty development genai]
 level: [higher ed]
 
