@@ -66,6 +66,7 @@ const key = pageKey(kind, slug);
   if (!btn) throw new Error('star button missing data-star-key');
 
   const key = btn.dataset.starKey!;
+  const label = btn.querySelector<HTMLElement>('.star-label');
 
   // Apply a visual state to the button immediately.
   const setVisual = (on: boolean) => {
@@ -73,6 +74,8 @@ const key = pageKey(kind, slug);
     btn.setAttribute('data-starred', String(on));
     btn.setAttribute('aria-label', on ? 'Unstar this page' : 'Star this page');
     btn.setAttribute('title', on ? 'Unstar this page' : 'Star this page');
+    // Show "Favorite:" only while unstarred; hide it once starred.
+    if (label) label.textContent = on ? '' : 'Favorite:';
   };
 
   // Read the current persisted state.
