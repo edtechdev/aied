@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, instructional-design, machine-learning]
 audience: [teacher role, student experience]
-research_method: [evaluation study]
+research_method: [system development]
 level: [k 12]
 category: [instructional design]
 sources: ['raw/papers/caeai-ml-literacy-primary.md']

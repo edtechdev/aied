@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-review, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
 audience: [student experience, teacher role]
-research_method: [mixed methods, quasi-experiment]
+research_method: [mixed methods, experiment]
 discipline: [writing education]
 
 sources: ['raw/papers/scaffolding-srl-feedback-genai-human-peers.md']

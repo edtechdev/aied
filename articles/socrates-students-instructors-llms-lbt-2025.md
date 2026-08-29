@@ -4,7 +4,7 @@ created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, active-learning, cognitive-offloading, llm]
-research_method: [quasi-experiment]
+research_method: [experiment]
 discipline: [cs education]
 
 sources: ['raw/papers/raw-yang-socrates-lbt.md']

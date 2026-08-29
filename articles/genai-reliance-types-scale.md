@@ -4,7 +4,7 @@ created: "2026-07-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, academic-integrity, higher-ed, student-experience, writing-education, cognitive-offloading, ai-literacy]
-research_method: [survey, psychometric]
+research_method: [survey, educational measurement]
 discipline: [writing education]
 audience: [student experience]
 level: [higher ed]

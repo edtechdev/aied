@@ -5,7 +5,7 @@ updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [cognitive-offloading, scaffolding, agency, ethics, reducing-ai-misuse, desirable-difficulties, critical-thinking, ai-literacy, human-ai-collaboration, generative-ai]
 audience: [teacher role, student experience]
-research_method: [theoretical analysis, content analysis]
+research_method: [theoretical analysis, interviews]
 sources: ['raw/papers/2608.17451.md']
 confidence: high
 ---

@@ -4,7 +4,7 @@ created: "2026-08-23T13:00:00-04:00"
 updated: "2026-08-23T13:00:00-04:00"
 type: article
 tags: [ai-education, history-of-aied, intelligent-tutoring, constructivist, agency, generative-ai]
-research_method: [theoretical analysis, historical]
+research_method: [theoretical analysis, policy analysis]
 sources: ['raw/papers/mishra-control-vs-agency-history-2025.md']
 confidence: high
 ---

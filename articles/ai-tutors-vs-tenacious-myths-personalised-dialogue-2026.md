@@ -4,7 +4,7 @@ created: "2026-08-26T10:05:00-04:00"
 updated: "2026-08-26T10:05:00-04:00"
 type: article
 tags: [refutation-text, misconceptions, intelligent-tutoring, generative-ai, cognitive-offloading, student-ai-interaction]
-research_method: [quasi-experiment]
+research_method: [experiment]
 sources: ['raw/papers/10.1016_j.chb.2025.108828.md']
 confidence: high
 ---

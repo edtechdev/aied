@@ -5,7 +5,7 @@ updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [writing-education, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
 audience: [student experience]
-research_method: [learning gains]
+research_method: [learning analytics]
 discipline: [writing education]
 
 sources: ['raw/papers/coach-not-crutch-ai-writing.md']

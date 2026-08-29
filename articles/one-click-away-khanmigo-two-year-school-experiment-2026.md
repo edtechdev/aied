@@ -4,7 +4,7 @@ created: "2026-08-17T17:57:00-04:00"
 updated: "2026-08-21T05:12:55-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, help-seeking, student-engagement, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, equity-in-ai-education]
-research_method: [learning gains]
+research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]
 category: [engagement metrics]

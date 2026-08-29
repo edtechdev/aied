@@ -4,7 +4,7 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, teacher-role, student-experience, k-12, human-in-the-loop-ai, collaborative-learning, self-regulated-learning, scaffolding]
-research_method: [participatory design]
+research_method: [design-based research]
 audience: [teacher role, student experience]
 level: [k 12]
 sources: ['raw/papers/2605.18761.md']

@@ -4,7 +4,7 @@ created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-14"
 type: article
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, language-learning, llm, student-experience]
-research_method: [system development, evaluation]
+research_method: [system development]
 discipline: [language learning]
 audience: [student experience]
 sources: ['raw/papers/raw-uchida-vocab-teaching-ai.md']

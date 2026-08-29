@@ -4,7 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [benchmark, stem-education, k-12, llm, pedagogical-llm-training, automated-question-generation, ai-education]
-research_method: [benchmark, efficacy study]
+research_method: [benchmark, experiment]
 discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/2605.07051.md']

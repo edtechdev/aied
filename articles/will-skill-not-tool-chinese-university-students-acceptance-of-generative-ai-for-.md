@@ -5,7 +5,7 @@ updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, educational-policy-ai, technology-acceptance-model, ai-education, writing-education]
 audience: [student experience]
-research_method: [survey, quantitative]
+research_method: [survey]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-.md']

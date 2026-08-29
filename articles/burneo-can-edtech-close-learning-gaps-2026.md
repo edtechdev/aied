@@ -4,7 +4,7 @@ created: "2026-08-24T11:55:00-04:00"
 updated: "2026-08-24T11:55:00-04:00"
 type: article
 tags: [meta-analysis-systematic-review, rct, learning-gains, intelligent-tutoring, adaptive-learning, generative-ai, k-12, equity-in-ai-education, ai-ed-evaluation]
-research_method: [meta analysis, systematic review, rct, learning gains]
+research_method: [meta-analysis, systematic review, randomized controlled trial, learning analytics]
 level: [k 12]
 category: [ai ed evaluation]
 sources: ['raw/papers/burneo-can-edtech-close-learning-gaps-2026.md']

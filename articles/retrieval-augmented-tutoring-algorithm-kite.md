@@ -4,7 +4,7 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-method, rag, conversational-ai]
-research_method: [experiment, quasi-experiment]
+research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/2605.12988.md']
 confidence: high

@@ -5,7 +5,7 @@ updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-method, rag, llm, intelligent-tutoring]
 audience: [student experience, teacher role]
-research_method: [mixed methods, design]
+research_method: [mixed methods, design-based research]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2605.05472.md']

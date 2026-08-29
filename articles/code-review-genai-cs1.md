@@ -4,7 +4,7 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T10:30:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, cs-education, cognitive-offloading, academic-integrity, formative-assessment, student-experience, metacognition, ai-literacy]
-research_method: [efficacy study]
+research_method: [experiment]
 discipline: [cs education]
 audience: [teacher role, student experience]
 level: [higher ed]

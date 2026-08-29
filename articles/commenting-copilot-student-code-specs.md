@@ -4,7 +4,7 @@ created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, student-experience, stem-education, higher-ed, cs-education, ai-literacy, rag]
-research_method: [content analysis]
+research_method: [interviews]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed]

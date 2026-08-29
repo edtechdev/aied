@@ -4,7 +4,7 @@ created: "2026-08-19T09:50:00-04:00"
 updated: "2026-08-19T09:50:00-04:00"
 type: article
 tags: [adaptive-learning, multilingual-learning, global-south, llm, equity-in-ai-education, personalized-learning, culturally-relevant-pedagogy, digital-divide, inclusive-learning]
-research_method: [system development, evaluation]
+research_method: [system development]
 sources: ['raw/papers/2608.15738.md']
 confidence: high
 ---

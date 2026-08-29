@@ -4,7 +4,7 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
 tags: [llm, language-learning, prompt-engineering, metacognition, higher-ed, discipline-specific-aied]
-research_method: [action research]
+research_method: [design-based research]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/llms-text-linguistics-teaching-2026.md']

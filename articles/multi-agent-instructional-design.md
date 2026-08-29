@@ -4,7 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, human-in-the-loop-ai, k-12, pedagogical-safety, faculty-development, metacognition]
-research_method: [system development, evaluation]
+research_method: [system development]
 audience: [faculty development genai]
 level: [k 12]
 sources: ['raw/papers/2508.16659.md']

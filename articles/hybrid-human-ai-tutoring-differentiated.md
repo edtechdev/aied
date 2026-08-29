@@ -4,7 +4,7 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, k-12, personalized-learning, learning-gains, equity-in-ai-education, ai-education]
-research_method: [efficacy study, learning gains]
+research_method: [experiment, learning analytics]
 level: [k 12]
 sources: ['raw/papers/2605.11155.md']
 confidence: high

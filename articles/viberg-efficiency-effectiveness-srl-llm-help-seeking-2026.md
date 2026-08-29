@@ -4,7 +4,7 @@ created: "2026-08-27T06:30:00-04:00"
 updated: "2026-08-27T06:30:00-04:00"
 type: article
 tags: [self-regulated-learning, help-seeking, llm, higher-ed, stem-education, qualitative-research]
-research_method: [qualitative research]
+research_method: [qualitative]
 discipline: [stem education]
 level: [higher ed]
 sources: ["https://doi.org/10.20851/ll.v8.60"]

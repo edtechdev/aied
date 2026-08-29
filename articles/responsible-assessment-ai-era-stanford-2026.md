@@ -5,7 +5,7 @@ updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, learning-theories, equity-in-ai-education, human-in-the-loop-ai, automated-assessment, ai-literacy]
 audience: [administrator, teacher role]
-research_method: [white paper, conceptual]
+research_method: [theoretical analysis]
 category: [assessment, ai ed evaluation]
 
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']

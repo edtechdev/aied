@@ -4,7 +4,7 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, assessment, educational-measurement, multimodal, higher-ed, benchmark]
-research_method: [educational measurement, dataset, benchmark]
+research_method: [educational measurement, benchmark]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/multimodal-exam-obe-rubrics-2026.md']

@@ -4,7 +4,7 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, edtech-platform, administrator, ai-literacy]
-research_method: [system development, evaluation]
+research_method: [system development]
 audience: [student experience, administrator]
 level: [higher ed]
 sources: ['raw/papers/2605.10804.md']

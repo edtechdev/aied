@@ -4,7 +4,7 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [academic-integrity, ai-detection, authentic-assessment, assessment, assessment-validity, generative-ai, higher-ed, ai-misuse-learning-harm, instructional-design]
-research_method: [experiment, quasi-experiment]
+research_method: [experiment]
 level: [higher ed]
 category: [assessment, instructional design]
 sources: ['raw/papers/kofinas-generative-ai-authentic-assessment-integrity-2025.md']

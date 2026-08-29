@@ -1,11 +1,11 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 discipline: [physics education, stem education]
-audience: [student experience]
+audience: [student experience, teacher role]
 level: [higher ed]
 
 confidence: high

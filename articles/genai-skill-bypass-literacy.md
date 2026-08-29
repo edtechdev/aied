@@ -4,7 +4,7 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, cognitive-offloading, faculty-development, rag, llm]
-research_method: [survey, psychometric]
+research_method: [survey, educational measurement]
 audience: [faculty development]
 level: [higher ed]
 

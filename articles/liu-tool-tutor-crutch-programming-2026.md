@@ -4,7 +4,7 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [generative-ai, cs-education, cognitive-offloading, scaffolding, metacognition, self-regulated-learning]
-research_method: [grounded theory]
+research_method: [interviews]
 discipline: [cs education]
 sources: ['raw/papers/liu-tool-tutor-crutch-programming-2026.md']
 confidence: high

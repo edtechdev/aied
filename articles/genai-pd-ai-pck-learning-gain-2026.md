@@ -4,7 +4,7 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-24T09:30:00-04:00"
 type: article
 tags: [adult-learning, teacher-ai-competency, generative-ai, professional-training, teacher-education, faculty-development]
-research_method: [efficacy study, training methodology]
+research_method: [experiment, system development]
 audience: [faculty development]
 level: [teacher training]
 sources: ['raw/papers/genai-pd-ai-pck-learning-gain-2026.md']

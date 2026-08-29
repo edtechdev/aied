@@ -4,7 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, generative-ai, research-methods-aied, teacher-ai-competency, human-ai-collaboration]
-research_method: [qualitative research, research methods]
+research_method: [qualitative, research methods]
 audience: [teacher role, teacher ai collaboration]
 level: [k 12]
 category: [ai ed evaluation]

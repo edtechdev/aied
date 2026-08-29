@@ -4,7 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, tpack, math-education, self-efficacy]
-research_method: [survey, psychometric]
+research_method: [survey, educational measurement]
 discipline: [math education]
 sources: ['raw/papers/ai-tpack-mathematics-teacher-education-2026.md']
 confidence: high

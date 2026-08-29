@@ -4,7 +4,7 @@ created: "2026-08-27T08:10:00-04:00"
 updated: "2026-08-27T08:07:41.879764-04:00"
 type: article
 tags: [intelligent-tutoring, k-12, educational-policy-ai, guardrails, privacy, learning-gains, pedagogical-safety]
-research_method: [learning gains]
+research_method: [learning analytics]
 level: [k 12]
 sources: ["https://scale.stanford.edu/"]
 confidence: high

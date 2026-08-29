@@ -4,7 +4,7 @@ created: "2026-07-22T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, ai-literacy, cognitive-offloading, student-experience, self-regulated-learning, metacognition]
-research_method: [qualitative, quantitative]
+research_method: [qualitative, survey]
 audience: [research methods aied, student experience]
 
 sources: ['raw/papers/2607.17643.md']

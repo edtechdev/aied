@@ -4,7 +4,7 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-literacy, adult-learning, higher-ed, student-experience, assessment, equity-in-ai-education, ai-education, self-efficacy]
-research_method: [survey, quantitative]
+research_method: [survey]
 audience: [student experience]
 level: [higher ed]
 category: [assessment]

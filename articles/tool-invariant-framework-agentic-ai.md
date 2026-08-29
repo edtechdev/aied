@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, language-learning, cognitive-offloading, ai-ed-evaluation]
 audience: [teacher role]
-research_method: [theoretical analysis, position essay]
+research_method: [theoretical analysis]
 level: [higher ed]
 category: [assessment, verification]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']

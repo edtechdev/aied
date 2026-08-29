@@ -4,7 +4,7 @@ created: "2026-08-01T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, learning-theories, learning-analytics, llm, generative-ai, educational-nlp]
-research_method: [ground truth reliability aied]
+research_method: [benchmark]
 
 sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high

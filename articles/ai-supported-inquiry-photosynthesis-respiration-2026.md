@@ -5,7 +5,7 @@ updated: "2026-08-24T08:46:00-04:00"
 type: article
 tags: [inquiry-based-learning, teacher-education, science-education, computational-thinking, ai-literacy, biology-education, generative-ai]
 audience: [teacher role, faculty development]
-research_method: [quasi-experiment]
+research_method: [experiment]
 discipline: [science education, biology education]
 sources: ['raw/papers/ai-supported-inquiry-photosynthesis-respiration-2026.md']
 confidence: medium

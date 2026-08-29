@@ -4,7 +4,7 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [reinforcement-learning, simulation, medical-education, llm, professional-training, intelligent-tutoring, trust-calibration]
-research_method: [system development, evaluation]
+research_method: [system development]
 sources: ['raw/papers/2608.07418.md']
 confidence: high
 ---

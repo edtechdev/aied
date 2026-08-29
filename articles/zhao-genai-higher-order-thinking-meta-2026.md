@@ -4,7 +4,7 @@ created: "2026-08-22T05:55:16-04:00"
 updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [generative-ai, cognitive-psychology, critical-thinking, meta-analysis-systematic-review, self-regulated-learning, problem-solving, creativity, ai-education]
-research_method: [meta analysis systematic review]
+research_method: [meta-analysis]
 sources: ['raw/papers/zhao-genai-higher-order-thinking-meta-2026.md']
 confidence: high
 ---

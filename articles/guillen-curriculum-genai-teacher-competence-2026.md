@@ -4,7 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [teacher-ai-competency, instructional-design, generative-ai, self-efficacy, adult-learning]
-research_method: [survey, psychometric validation]
+research_method: [survey, educational measurement]
 category: [instructional design]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
 confidence: high

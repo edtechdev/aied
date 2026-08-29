@@ -4,7 +4,7 @@ created: "2026-07-20T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, llm, higher-ed, writing-education, feedback, cognitive-offloading, formative-assessment, ai-literacy, student-experience]
-research_method: [longitudinal, survey]
+research_method: [survey]
 discipline: [writing education]
 audience: [student experience]
 level: [higher ed]

@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, curriculum-design, higher-ed, ai-technologies, prompt-engineering, scaffolding, metacognition]
 audience: [teacher role, student experience]
-research_method: [theoretical analysis, labor-market analysis]
+research_method: [theoretical analysis, policy analysis]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2606.01152.md']

@@ -4,7 +4,7 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, higher-ed, pedagogy, rag, scaffolding]
-research_method: [system development, evaluation]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2607.22598.md']
 confidence: high

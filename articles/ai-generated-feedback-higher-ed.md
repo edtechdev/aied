@@ -4,7 +4,7 @@ created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
-research_method: [learning gains]
+research_method: [learning analytics]
 audience: [student experience, teacher role]
 level: [higher ed]
 

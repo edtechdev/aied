@@ -5,7 +5,7 @@ updated: "2026-08-24T14:35:00-04:00"
 type: article
 tags: [ai-literacy, meta-analysis-systematic-review, ai-ed-evaluation, pedagogy, assessment, higher-ed, k-12]
 audience: [teacher role, faculty development, research methods aied]
-research_method: [meta analysis]
+research_method: [meta-analysis]
 level: [higher ed, k 12]
 category: [ai ed evaluation, assessment]
 sources: ['raw/papers/liu-ai-literacy-interventions-meta-analysis-2026.md']

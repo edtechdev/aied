@@ -4,7 +4,7 @@ created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-14"
 type: article
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, cognitive-psychology, scaffolding, higher-ed]
-research_method: [system development, field deployment]
+research_method: [system development]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/raw-wang-epfl-explique.md']
