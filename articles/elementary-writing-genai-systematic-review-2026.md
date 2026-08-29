@@ -7,7 +7,7 @@ tags: [writing-education, k-12, generative-ai, ai-literacy, meta-analysis-system
 audience: [teacher role]
 research_method: [systematic review]
 discipline: [writing education]
-level: [k 12]
+level: [early childhood, k 12]
 category: [assessment]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
 confidence: medium

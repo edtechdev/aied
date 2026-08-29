@@ -5,7 +5,7 @@ updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [educational-robotics, k-12, agency, pedagogical-agent, well-being, generative-ai, early-childhood-elementary-ai-education, cognitive-psychology]
 research_method: [literature review]
-level: [k 12]
+level: [early childhood, k 12]
 sources: ['raw/papers/ai-toys-child-development-2026.md']
 confidence: high
 ---

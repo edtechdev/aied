@@ -7,7 +7,7 @@ tags: [science-education, teacher-education, technology-acceptance-model, ai-lit
 audience: [teacher role, faculty development]
 research_method: [survey]
 discipline: [science education]
-level: [higher ed, pre service teachers]
+level: [higher ed, teacher training]
 sources: ['raw/papers/pre-service-science-teachers-ai-perceptions-2026.md']
 confidence: high
 ---

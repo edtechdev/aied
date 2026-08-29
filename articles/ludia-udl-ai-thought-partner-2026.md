@@ -5,7 +5,7 @@ updated: "2026-08-24T13:00:00-04:00"
 type: article
 tags: [universal-design-for-learning, accessibility, teacher-education, ai-education, instructional-design, edtech-platform, equity-in-ai-education]
 research_method: [system development]
-level: [teacher professional development]
+level: [teacher training]
 category: [instructional design]
 sources: ['raw/papers/ludia-udl-ai-thought-partner-2026.md']
 confidence: high
