@@ -195,19 +195,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       });
     };
 
-    // The instance registers as components initialize; wait for it.
+    // The instance registers as components initialize; wait for it. Start with
+    // a small delay so window.PagefindComponents and the input are available.
     const waitForInstance = () => {
       try {
-        if (instance()) {
+        if (window.PagefindComponents && instance()) {
           restore();
           persist();
         } else {
-          setTimeout(waitForInstance, 100);
+          setTimeout(waitForInstance, 200);
         }
       } catch {
-        setTimeout(waitForInstance, 100);
+        setTimeout(waitForInstance, 200);
       }
     };
-    waitForInstance();
+    setTimeout(waitForInstance, 300);
   });
 </script>
