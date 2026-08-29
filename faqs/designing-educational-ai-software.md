@@ -30,4 +30,4 @@ The [[pedagogical-safety|Pedagogical Safety]] page stresses that conventional sa
 
 Accessibility should include concrete operational requirements such as keyboard operability, screen-reader compatibility, captions and transcripts, appropriate contrast, usable text alternatives, and compatibility with assistive technologies; AI-generated accessibility features still require quality checking. See [[accessibility|Accessibility]].
 
-Equity testing should examine the whole pipeline and disaggregate behavior across language, disability, culture, and other relevant learner characteristics rather than relying only on aggregate accuracy. See the wiki's bias-mitigation guidance summarized alongside [[equity-in-ai-education|Equity in AI Education]].
+Equity testing should examine the whole pipeline and disaggregate behavior across language, disability, culture, and other relevant learner characteristics rather than relying only on aggregate accuracy. See the wiki's bias-mitigation guidance summarized alongside [[equity-in-ai-education|Equity]].

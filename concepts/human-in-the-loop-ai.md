@@ -1,7 +1,7 @@
 ---
-title: Human-in-the-Loop AI for Education
+title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-27T04:35:06.336963-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
@@ -11,7 +11,7 @@ category: [assessment]
 confidence: medium
 ---
 
-> **Human-in-the-loop (HITL) AI for education** — the design pattern in which educational AI systems strategically interleave automated generation with human expert judgment, preserving pedagogical quality and safety while scaling production. Rather than fully automating assessment, feedback, or instruction, HITL keeps a human (instructor, subject-matter expert, or learner) in the decision loop where their judgment has the highest marginal value — for evaluating quality, adjudicating edge cases, and protecting [[agency|learner agency]] and [[pedagogical-safety|safety]]. The central design question is not *whether* to include humans, but *where* in the pipeline their oversight is most valuable and least replaceable.
+> **Human-in-the-loop** — the design pattern in which educational AI systems strategically interleave automated generation with human expert judgment, preserving pedagogical quality and safety while scaling production. Rather than fully automating assessment, feedback, or instruction, HITL keeps a human (instructor, subject-matter expert, or learner) in the decision loop where their judgment has the highest marginal value — for evaluating quality, adjudicating edge cases, and protecting [[agency|learner agency]] and [[pedagogical-safety|safety]]. The central design question is not *whether* to include humans, but *where* in the pipeline their oversight is most valuable and least replaceable.
 
 HITL is a response to the limits and risks of fully autonomous AI in education: automated systems can generate at scale but lack the contextual, ethical, and pedagogical judgment that instructors and experts bring. Two recent implementations illustrate distinct architectures:
 

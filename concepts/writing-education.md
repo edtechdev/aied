@@ -1,7 +1,7 @@
 ---
-title: AI in Writing Education
+title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-25T07:50:00-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -9,7 +9,7 @@ level: [higher ed]
 confidence: high
 ---
 
-> **AI in writing education** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
+> **Writing** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
 
 Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the [[cognitive-offloading|cognitive work]] — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing. Where the focus is **English specifically** — [[english-education|English for Academic Purposes (EAP)]] and English language teaching (EFL/ESL/L2) — see the dedicated [[english-education]] concept page, which distinguishes English-specific and academic-register research from general writing and general language learning.
 

@@ -18,7 +18,7 @@ confidence: high
 2. **Cognitive surrender is the uncritical adoption of AI outputs.** Distinct from strategic [[cognitive-offloading]], surrender is a deeper abdication of critical evaluation where the user adopts the AI's judgment as their own. Across incorrect-AI trials, 73.2% showed surrender vs. 19.7% offloading.
 3. **AI access shifts accuracy and confidence together.** Accuracy rose +25 pp with accurate AI and fell −15 pp with faulty AI (Cohen's h = 0.81); System 3 engagement also increased confidence even after errors.
 4. **Surrender persists across situational moderators.** Time pressure and incentives+feedback shifted baselines but did not eliminate the large gap between accurate and faulty AI advice (OR = 14.28 / 11.05).
-5. **Susceptibility varies by individual differences.** Higher [[trust|trust in AI]] increased surrender (OR = 2.81); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) were protective.
+5. **Susceptibility varies by individual differences.** Higher [[trust|Trust]] increased surrender (OR = 2.81); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) were protective.
 
 ## Tri-System Theory
 

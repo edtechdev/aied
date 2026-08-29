@@ -19,7 +19,7 @@ confidence: high
 - **Perceptual hierarchies.** White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent; older Black female avatars faced compounded penalties across all measures.
 - **Ingroup alignment drives adoption.** Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise.
 - **Domain moderation.** STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it — bias is context-dependent, not uniform.
-- **[[trust|Trust in AI]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
+- **[[trust|Trust]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
 
 ## Implications
 

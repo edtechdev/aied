@@ -13,7 +13,7 @@ confidence: high
 
 ## The low-resource multilingual problem
 
-Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited personalization, inadequate language support, and weak curriculum internationalization — reducing learner engagement and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but fine-tuning and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the wiki's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|equity in AI education]].
+Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited personalization, inadequate language support, and weak curriculum internationalization — reducing learner engagement and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but fine-tuning and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the wiki's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|Equity]].
 
 ## Platform design and the Nigerian Pidgin corpus
 

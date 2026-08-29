@@ -169,7 +169,7 @@
 - ◐ [[stamatoulis-genai-use-patterns-2026]] — 'raw/papers/stamatoulis-genai-use-patterns-2026.md'
   Same tool, different work: patterns of generative AI use and academic outcomes
 - ◐ [[early-childhood-elementary-ai-education]] — ''
-  Early Childhood and Elementary AI Education
+  Early Childhood Education
 - ◐ [[wang-goal-setting-ai-engagement-2026]] — 'raw/papers/wang-goal-setting-ai-engagement-2026.md'
   Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory
 - ◐ [[liang-ai-learning-motivation-sdt-2026]] — 'raw/papers/liang-ai-learning-motivation-sdt-2026.md'
@@ -591,9 +591,9 @@
 ## "2026-08-19
 
 - ◐ [[ai-technologies]] — ''
-  AI Technologies and Techniques in Education
+  Technologies
 - ◐ [[stakeholders]] — ''
-  People and Audiences in AI Education
+  Stakeholders
 - ◐ [[pedagogy]] — ''
   Pedagogies and Teaching Strategies
 - ◐ [[summative-assessment]] — ''
@@ -1001,7 +1001,7 @@
 - ◐ [[self-efficacy]] — ''
   Self-Efficacy
 - ◐ [[trust]] — ''
-  Trust in AI
+  Trust
 - ◐ [[game-based-learning]] — ''
   Game-Based Learning
 - ◐ [[storytelling-in-education]] — ''
@@ -1239,11 +1239,11 @@
 - ◐ [[adaptive-learning]] — ''
   Adaptive Learning
 - ◐ [[ethics]] — ''
-  Ethics in AI Education
+  Ethics
 - ◐ [[scaffolding]] — ''
   Scaffolding
 - ◐ [[student-experience]] — ''
-  Student Experience with AI
+  Student Experience
 - ◐ [[regulation]] — ''
   AI Regulation in Education
 - ◐ [[pedagogical-safety]] — ''
@@ -1259,17 +1259,17 @@
 - ◐ [[llm]] — ''
   Large Language Models (LLMs)
 - ◐ [[teacher-role]] — ''
-  Teacher Role in AI-Enhanced Education
+  Instructors
 - ◐ [[generative-ai]] — ''
   Generative AI
 - ◐ [[assessment-validity]] — ''
-  Assessment Validity in AI Education
+  Assessment Validity
 - ◐ [[computational-thinking]] — ''
   Computational Thinking
 - ◐ [[writing-education]] — ''
-  AI in Writing Education
+  Writing
 - ◐ [[k-12]] — ''
-  K-12 AI Education
+  K-12
 - ◐ [[ai-education]] — ''
   AI in Education
 - ◐ [[xie-hillm-cd-2026]] — 'raw/papers/10.1145_3770855.3817769.md'
@@ -1315,7 +1315,7 @@
 - ◐ [[faculty-development]] — ''
   Faculty Development
 - ◐ [[privacy]] — ''
-  Privacy in AI Education
+  Privacy
 - ◐ [[critical-thinking]] — ''
   Critical Thinking
 - ◐ [[assessment]] — ''
@@ -2377,7 +2377,7 @@
 ## "2026-05-09
 
 - ◐ [[administrator]] — ''
-  AI from the Administrator Perspective
+  Administrators
 - ◐ [[lifelong-learning]] — ''
   Lifelong Learning
 - ◐ [[prober-ai-inquiry-writing]] — 'raw/papers/2605.05598.md'
@@ -2398,7 +2398,7 @@
 ## "2026-05-08
 
 - ◐ [[equity-in-ai-education]] — ''
-  Equity in AI Education
+  Equity
 - ◐ [[teacher-ai-competency]] — ''
   Teacher AI Competency
 - ◐ [[automated-question-generation]] — ''
@@ -2447,7 +2447,7 @@
 - ◐ [[transfer-of-learning]] — ''
   Transfer of Learning
 - ◐ [[human-in-the-loop-ai]] — ''
-  Human-in-the-Loop AI for Education
+  Human-in-the-Loop
 - ◐ [[formative-assessment]] — ''
   Formative Assessment
 - ◐ [[affective-tutoring]] — ''

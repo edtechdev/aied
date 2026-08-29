@@ -20,7 +20,7 @@ For accessibility, include learners with disabilities in design and evaluation, 
 
 ## Privacy and ethics
 
-For privacy and ethics, collect only data needed for the educational purpose, make data use and system limitations transparent, maintain meaningful human accountability, and examine fairness, consent, bias, explainability, learner autonomy, and the consequences of AI-mediated decisions. These are core dimensions of [[ethics|Ethics in AI Education]].
+For privacy and ethics, collect only data needed for the educational purpose, make data use and system limitations transparent, maintain meaningful human accountability, and examine fairness, consent, bias, explainability, learner autonomy, and the consequences of AI-mediated decisions. These are core dimensions of [[ethics|Ethics]].
 
 ## Pedagogical safety
 

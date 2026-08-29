@@ -86,7 +86,7 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 
 - Does mistake-based pedagogy transfer across disciplines beyond STEM?
 - What is the optimal error difficulty — too obvious vs. too subtle?
-- How does this approach affect [[trust|trust in AI tools]] long-term?
+- How does this approach affect [[trust|Trust tools]] long-term?
 - Would larger, multi-institution, controlled studies confirm the directional learning gains observed here?
 
 ## Relationship to existing approaches

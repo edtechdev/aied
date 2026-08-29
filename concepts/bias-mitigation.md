@@ -49,7 +49,7 @@ Bias mitigation is not a single fix but an ongoing process spanning the pipeline
 
 ## Relationship to related concepts
 
-Bias mitigation is the technical mechanism through which [[equity-in-ai-education|equity in AI education]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[cognitive-offloading|Over-Reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
+Bias mitigation is the technical mechanism through which [[equity-in-ai-education|Equity]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[cognitive-offloading|Over-Reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
 
 ## Implications for AI in education
 
