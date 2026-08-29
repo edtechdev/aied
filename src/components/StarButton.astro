@@ -61,17 +61,23 @@ const key = pageKey(kind, slug);
 
   const key = btn.dataset.starKey!;
 
-  const refresh = () => {
-    const on = starredStore.get().includes(key);
+  // Apply a visual state to the button immediately.
+  const setVisual = (on: boolean) => {
     btn.setAttribute('aria-pressed', String(on));
     btn.setAttribute('data-starred', String(on));
     btn.setAttribute('aria-label', on ? 'Unstar this page' : 'Star this page');
     btn.setAttribute('title', on ? 'Unstar this page' : 'Star this page');
   };
 
+  // Read the current persisted state.
+  const refresh = () => setVisual(starredStore.get().includes(key));
+
   refresh();
   btn.addEventListener('click', () => {
+    // Optimistically flip the star on the very next frame — don't wait for the
+    // store write/subscription to propagate. Persisting still happens
+    // synchronously, but the visual no longer depends on it.
+    setVisual(btn.dataset.starred !== 'true');
     toggleStar(key);
-    refresh();
   });
 </script>
