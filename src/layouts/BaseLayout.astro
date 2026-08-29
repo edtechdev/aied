@@ -427,11 +427,12 @@ const recentConceptItems = recentConcepts.map(c => ({
         display: flex;
         flex-direction: column;
       }
-      /* The TOC is the pinned header (flex-shrink 0); the recent section
-         scrolls in its own region below it so items never slide over the TOC. */
+      /* The TOC is the top flex item (it scrolls internally via its own
+         max-height); the recent section keeps a guaranteed minimum vertical
+         space and scrolls in its own region if needed. */
       .recent-rail {
         flex: 1 1 auto;
-        min-height: 0;
+        min-height: 14rem;
         overflow-y: auto;
       }
     }

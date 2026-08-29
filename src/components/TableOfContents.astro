@@ -54,16 +54,18 @@ const displayHeadings = pageTitle
 }
 {
   has && variant === 'desktop' && (
-    <nav class="toc-desktop" aria-label={title}>
-      <div class="toc-title">{title}</div>
-      <ul class="toc-list" data-toc>
-        {displayHeadings.map((h) => (
-          <li data-depth={h.depth}>
-            <a href={`#${h.slug}`}>{h.text}</a>
-          </li>
-        ))}
-      </ul>
-    </nav>
+    <details class="toc-desktop" open data-toc-container>
+      <summary class="toc-title">{title}</summary>
+      <nav class="toc-body-desktop" aria-label={title}>
+        <ul class="toc-list" data-toc>
+          {displayHeadings.map((h) => (
+            <li data-depth={h.depth}>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </details>
   )
 }
 
@@ -100,12 +102,14 @@ const displayHeadings = pageTitle
   .toc-body { border-top: 1px solid var(--card-border-color); padding: 0.4rem 0.75rem 0.75rem; }
 
   /* === Desktop TOC (right rail, wide screens) ===
-     The right rail is a sticky flex column; this TOC is the pinned header at
-     the top (flex-shrink 0), scrolling internally only if it grows very long. */
+     The right rail is a sticky flex column. This TOC is the top flex item.
+     Cap its height (with internal scroll) so a long TOC never swallows the
+     recent-activity rail below it. It is collapsible via <details open>. */
   .toc-desktop {
-    flex-shrink: 0;
-    max-height: calc(100vh - 2.5rem);
+    flex: 0 1 auto;
+    max-height: min(45vh, 26rem);
     overflow-y: auto;
+    margin: 0 0 0.5rem 0;
   }
   .toc-title {
     font-size: 0.78rem;
@@ -116,7 +120,10 @@ const displayHeadings = pageTitle
     margin: 0 0 0.5rem 0;
     padding-bottom: 0.5rem;
     border-bottom: 1px solid var(--card-border-color);
+    cursor: pointer;
+    list-style: none;
   }
+  .toc-title::-webkit-details-marker { display: none; }
 
   /* === Shared list === */
   /* Pico's global reset sets `ul { display: flex }` and `nav ul { display: flex }`,
