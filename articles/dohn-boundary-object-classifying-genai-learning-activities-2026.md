@@ -7,7 +7,7 @@ tags: [generative-ai, ai-literacy, instructional-design, curriculum-design, huma
 audience: [teacher role, research methods aied]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [instructional design, curriculum design, miscellaneous]
+category: [instructional design, curriculum design, framework]
 sources: ['raw/papers/dohn-boundary-object-classifying-genai-learning-activities-2026.md']
 confidence: high
 ---
