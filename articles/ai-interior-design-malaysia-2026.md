@@ -3,7 +3,7 @@ title: "Artificial Intelligence as Catalyst and Contested Terrain: Transforming 
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T13:00:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, curriculum-design, professional-training, teacher-role, equity, policy]
+tags: [generative-ai, higher-ed, curriculum-design, professional-training, teacher-role, equity-in-ai-education, educational-policy-ai]
 sources: ['raw/papers/ai-interior-design-malaysia-2026.md']
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Educa
 created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-24T20:30:00-04:00"
 type: article
-tags: [llm, formative-assessment, stem-education, scaffolding, higher-ed, llm-in-education, rag]
+tags: [llm, formative-assessment, stem-education, scaffolding, higher-ed, generative-ai, rag]
 sources: ['raw/papers/2607.00140.md']
 confidence: medium
 ---

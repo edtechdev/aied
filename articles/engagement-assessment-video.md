@@ -3,7 +3,7 @@ title: Engagement Assessment in Video Learning
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-24T09:15:00-04:00"
 type: article
-tags: [adaptive-learning, learning-analytics, affective-computing, higher-ed, feedback-loop, self-regulated-learning, affective-tutoring, adaptive-learning-systems, formative-assessment]
+tags: [adaptive-learning, learning-analytics, affective-computing, higher-ed, feedback, self-regulated-learning, affective-tutoring, formative-assessment]
 sources: ['raw/papers/2605.01238.md']
 confidence: medium
 ---

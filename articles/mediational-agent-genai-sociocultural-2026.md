@@ -3,7 +3,7 @@ title: "Generative AI as a Mediational Agent: Rethinking Learning in Sociocultur
 created: "2026-08-19T10:00:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [sociocultural, learning-theories, constructivist, agency, generative-ai, human-ai-collaboration, critical-ai-literacy, posthumanist, philosophy-of-education]
+tags: [sociocultural-learning, learning-theories, constructivist, agency, generative-ai, human-ai-collaboration, ai-literacy, philosophy-of-ai-in-education]
 sources: ['raw/papers/mediational-agent-genai-sociocultural-2026.md']
 confidence: high
 ---

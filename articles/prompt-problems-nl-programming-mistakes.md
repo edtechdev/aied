@@ -3,7 +3,7 @@ title: Understanding Student Perceptions, Mistakes, and Debugging Approaches whe
 created: "2026-07-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, cs-education, generative-ai, higher-ed, programming-its, prompt-engineering, scaffolding, student-experience, reshaping-cs-education-genai, llm]
+tags: [ai-literacy, cs-education, generative-ai, higher-ed, intelligent-tutoring, prompt-engineering, scaffolding, student-experience, llm]
 sources: ['raw/papers/2607.05034.md']
 confidence: high
 ---

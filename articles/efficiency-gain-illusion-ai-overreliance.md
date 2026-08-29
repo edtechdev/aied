@@ -3,7 +3,7 @@ title: "The efficiency-gain illusion: People underestimate the rate of AI use an
 created: "2026-05-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, cognitive-offloading, ai-literacy, student-experience, ai-assistance-reduces-persistence, rag, ai-education]
+tags: [generative-ai, cognitive-offloading, ai-literacy, student-experience, rag, ai-education]
 
 sources: ['raw/papers/2605.22687.md']
 confidence: medium

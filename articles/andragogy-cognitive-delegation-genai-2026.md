@@ -3,7 +3,7 @@ title: What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delega
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-24T05:04:27-04:00"
 type: article
-tags: [andragogy, adult-learning, self-regulated-learning, cognitive-offloading, agency, lifelong-learning, generative-ai, metacognition, trust-calibration, motivation]
+tags: [adult-learning, self-regulated-learning, cognitive-offloading, agency, lifelong-learning, generative-ai, metacognition, trust-calibration, motivation]
 sources: ['raw/papers/andragogy-cognitive-delegation-genai-2026.md']
 confidence: high
 ---

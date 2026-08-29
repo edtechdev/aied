@@ -3,7 +3,7 @@ title: "Activity Theory as a Lens on Teachers' Adoption of AI Technologies"
 created: "2026-08-26T08:12:00-04:00"
 updated: "2026-08-26T08:12:00-04:00"
 type: article
-tags: [activity-theory, teacher-role, k-12, professional-development, technology-acceptance-model, generative-ai, higher-ed]
+tags: [activity-theory-aied, teacher-role, k-12, adult-learning, technology-acceptance-model, generative-ai, higher-ed]
 sources: ['raw/papers/10.1016_j.caeo.2026.100349.md']
 confidence: high
 ---

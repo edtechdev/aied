@@ -4,7 +4,7 @@ created: "2026-08-19T17:45:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
-tags: [pedagogy, teaching-strategies, instructional-design, teaching, ai-education, higher-ed, k-12]
+tags: [pedagogy, instructional-design, ai-education, higher-ed, k-12]
 confidence: high
 ---
 > **Pedagogies and teaching strategies** — the methods and approaches educators use to teach and facilitate learning, and the umbrella concept for the wiki's coverage of how teaching happens (in contrast to [[learning-theories]], which explains how learning happens). In AI in education, pedagogy is central because the choice of teaching strategy shapes how AI tools are deployed: the same generative-AI tool can be a [[scaffolding|scaffold]] under one pedagogy, a [[socratic-method|Socratic]] interlocutor under another, or an answer-generator under a third. The wiki documents individual pedagogies and treats them as the instructional lens through which AI's design and classroom use are evaluated.

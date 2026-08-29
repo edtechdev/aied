@@ -3,7 +3,8 @@ title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challeng
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T13:00:00-04:00"
 type: article
-tags: [lifelong-learning, policy-maker, equity, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, dot-framework-survey, regulation, algorithmic-bias]
+tags: [lifelong-learning, educational-policy-ai, equity-in-ai-education, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, regulation]
+research_method: [dot framework survey]
 sources: ['raw/papers/2605.16296.md']
 confidence: medium
 ---

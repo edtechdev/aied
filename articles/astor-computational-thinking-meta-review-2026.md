@@ -3,7 +3,8 @@ title: "Computational Thinking: A Meta-Review of Systematic Reviews and Meta-Ana
 created: "2026-08-24T12:30:00-04:00"
 updated: "2026-08-24T14:35:00-04:00"
 type: article
-tags: [computational-thinking, meta-review, systematic-review, cs-education, k-12, assessment, stem-education]
+tags: [computational-thinking, meta-analysis-systematic-review, cs-education, k-12, assessment, stem-education]
+research_method: [meta review]
 sources: ['raw/papers/astor-computational-thinking-meta-review-2026.md']
 confidence: high
 ---

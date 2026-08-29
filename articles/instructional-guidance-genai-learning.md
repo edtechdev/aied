@@ -3,7 +3,7 @@ title: Role of Instructional Guidance in Generative AI-Assisted Learning
 created: "2026-06-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, higher-ed, scaffolding, active-learning, personalized-learning, feedback-loop]
+tags: [llm, higher-ed, scaffolding, active-learning, personalized-learning, feedback]
 sources: ['raw/papers/2606.05509.md']
 confidence: high
 ---

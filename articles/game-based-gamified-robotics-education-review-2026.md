@@ -3,7 +3,7 @@ title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Rev
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, game-based-learning, systematic-review, computational-thinking, k-12, higher-ed, programming-education]
+tags: [educational-robotics, game-based-learning, meta-analysis-systematic-review, computational-thinking, k-12, higher-ed, cs-education]
 
 sources: ['raw/papers/mubarrat-game-based-gamified-robotics-review-2026.md']
 confidence: high

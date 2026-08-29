@@ -3,7 +3,7 @@ title: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Gr
 created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [equity, generative-ai, human-in-the-loop, k-12, llm, student-experience, human-ai-collaboration, ai-literacy, teacher-role]
+tags: [equity-in-ai-education, generative-ai, human-in-the-loop-ai, k-12, llm, student-experience, human-ai-collaboration, ai-literacy, teacher-role]
 sources: ['raw/papers/2606.12805.md']
 confidence: high
 ---Ravi et al. investigate how the voice accent of a [[generative-ai]] conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in [[k-12]] group learning. While prior work examined agent accent effects in one-to-one settings, little is known about how these effects manifest in multi-party group contexts — a critical gap as [[intelligent-tutoring|AI peer agents]] enter collaborative classrooms.

@@ -3,7 +3,7 @@ title: 'A Systematic Review of Educators'' Engagement with AI in Problem-Based L
 created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
-tags: [problem-based-learning, systematic-review, generative-ai, teacher-role, human-computer-interaction, sdg4, higher-ed]
+tags: [problem-based-learning, meta-analysis-systematic-review, generative-ai, teacher-role, usability-research, educational-policy-ai, higher-ed]
 sources: ['raw/papers/educators-engagement-ai-pbl-review-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teac
 created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-14"
 type: article
-tags: [learning-by-teaching, teachable-agents, generative-ai, cs-education, programming-education, productive-struggle, scaffolding, higher-ed]
+tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, cognitive-psychology, scaffolding, higher-ed]
 sources: ['raw/papers/raw-wang-epfl-explique.md']
 confidence: high
 ---

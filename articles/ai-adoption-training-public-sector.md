@@ -3,7 +3,8 @@ title: The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 created: "2026-06-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, public-sector, training-methodology, efficacy-study, prompt-engineering, scaffolding, agentic-workflows, metacognition, curriculum-design]
+tags: [ai-literacy, educational-policy-ai, prompt-engineering, scaffolding, agentic-ai, metacognition, curriculum-design]
+research_method: [training methodology, efficacy study]
 sources: ['raw/papers/2606.01517.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Integrating Generative AI into Cybersecurity Education: A Study of OCR a
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, cybersecurity, llm, higher-ed, experiential-learning, instructional-assistant, stem-education]
+tags: [generative-ai, ai-technologies, llm, higher-ed, experiential-learning, pedagogical-agent, stem-education]
 sources: ['raw/papers/patel-genai-cybersecurity-ocr-multimodal-2025.md']
 confidence: medium
 ---

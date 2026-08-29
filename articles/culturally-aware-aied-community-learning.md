@@ -3,7 +3,7 @@ title: Culturally-Aware AI for Cross-Boundary Community Learning
 created: "2026-06-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [higher-ed, ai-literacy, equity, student-experience, teacher-role, intelligent-tutoring]
+tags: [higher-ed, ai-literacy, equity-in-ai-education, student-experience, teacher-role, intelligent-tutoring]
 sources: ['raw/papers/2606.09041.md']
 confidence: medium
 ---

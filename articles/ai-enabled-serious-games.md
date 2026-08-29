@@ -3,7 +3,7 @@ title: "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Tra
 created: "2026-05-22T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, generative-ai, adaptive-learning, edtech-platform, professional-training, llm, agentic-ai-ecosystems-higher-education, adaptive-learning-systems, higher-ed, agentic-ai]
+tags: [intelligent-tutoring, generative-ai, adaptive-learning, edtech-platform, professional-training, llm, agentic-ai, higher-ed]
 sources: ['raw/papers/2605.21962.md']
 confidence: medium
 ---

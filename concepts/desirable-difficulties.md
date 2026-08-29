@@ -3,7 +3,7 @@ title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-27T09:20:00-04:00"
 type: concept
-tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, cognitive-offloading, learning-science, scaffolding, metacognition]
+tags: [desirable-difficulties, cognitive-psychology, self-regulated-learning, cognitive-offloading, learning-theories, scaffolding, metacognition]
 
 confidence: high
 ---

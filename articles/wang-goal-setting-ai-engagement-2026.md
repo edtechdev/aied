@@ -3,7 +3,7 @@ title: "Explaining learning engagement in AI-assisted learning through teacher s
 created: "2026-08-25T12:40:00-04:00"
 updated: "2026-08-25T12:40:00-04:00"
 type: article
-tags: [motivation, student-engagement, language-learning, english-education, higher-ed, goal-setting, teacher-support]
+tags: [motivation, student-engagement, language-learning, english-education, higher-ed, self-regulated-learning, teacher-role]
 sources: ['raw/papers/wang-goal-setting-ai-engagement-2026.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: "Exploring Conversational Agents for Novice Programmers: A Scoping Review
 created: "2026-08-22T04:52:33-04:00"
 updated: "2026-08-22T04:52:33-04:00"
 type: article
-tags: [conversational-ai, chatbot, cs-education, intelligent-tutoring, scaffolding, feedback, generative-ai, llm, equity-in-ai-education, multimodal, scoping-review]
+tags: [conversational-ai, cs-education, intelligent-tutoring, scaffolding, feedback, generative-ai, llm, equity-in-ai-education, multimodal]
+research_method: [scoping review]
 sources: ['raw/papers/conversational-agents-novice-programmers-scoping-2025.md']
 confidence: high
 ---

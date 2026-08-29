@@ -3,7 +3,7 @@ title: "Navigating AI in STEM: What Secondary Students Actually Do With Generati
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
-tags: [generative-ai, k-12, stem-education, ai-literacy, student-experience, cognitive-offloading, educational-policy-ai, governance, secondary-education, chatgpt]
+tags: [generative-ai, k-12, stem-education, ai-literacy, student-experience, cognitive-offloading, educational-policy-ai, governance, conversational-ai]
 sources: ['raw/papers/lnenicka-secondary-students-genai-stem-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Ensuring Academic Integrity through Automated Online Exam Proctoring: A 
 created: "2026-08-20T04:45:00-04:00"
 updated: "2026-08-20T04:45:00-04:00"
 type: article
-tags: [remote-proctoring, academic-integrity, automated-proctoring, online-education, higher-ed, systematic-review, deep-learning, privacy]
+tags: [remote-proctoring, academic-integrity, online-teaching-and-learning, higher-ed, meta-analysis-systematic-review, machine-learning, privacy]
 sources: ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
 updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
-tags: [learning-theory, constructivism, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
+tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 
 confidence: high
 connected_faqs: [research-gaps-aied]

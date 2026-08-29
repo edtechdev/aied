@@ -3,7 +3,7 @@ title: "Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model: Its 
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
-tags: [eportfolio, portfolio-assessment, generative-ai, language-learning, feedback-literacy, speaking, assessment]
+tags: [eportfolio, automated-assessment, generative-ai, language-learning, feedback-literacy, assessment]
 sources: ['raw/papers/sutama-chatgpt-eportfolio-speaking-2026.md']
 confidence: high
 ---

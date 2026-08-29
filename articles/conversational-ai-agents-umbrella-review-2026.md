@@ -3,7 +3,8 @@ title: "Conversational AI Agents in Education: An Umbrella Review"
 created: "2026-08-22T04:44:37-04:00"
 updated: "2026-08-22T04:44:37-04:00"
 type: article
-tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, ai-literacy, academic-integrity, ethics, umbrella-review, pedagogical-agent, human-ai-interaction]
+tags: [conversational-ai, intelligent-tutoring, generative-ai, ai-literacy, academic-integrity, ethics, pedagogical-agent, human-ai-collaboration]
+research_method: [umbrella review]
 sources: ['raw/papers/conversational-ai-agents-umbrella-review-2026.md']
 confidence: high
 ---

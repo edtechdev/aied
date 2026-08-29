@@ -3,7 +3,7 @@ title: "Technology, Education and Critical Media Literacy: Potential, Challenges
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [ai-literacy, critical-thinking, higher-ed, teacher-role, curriculum-design, equity, ethics]
+tags: [ai-literacy, critical-thinking, higher-ed, teacher-role, curriculum-design, equity-in-ai-education, ethics]
 sources: ['raw/papers/2608.10778.md']
 confidence: medium
 ---

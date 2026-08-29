@@ -3,7 +3,7 @@ title: "Learning by Teaching: Engaging Students as Instructors of Large Language
 created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [learning-by-teaching, teachable-agents, generative-ai, cs-education, programming-education, active-learning, cognitive-offloading, llm]
+tags: [learning-by-teaching, intelligent-tutoring, generative-ai, cs-education, active-learning, cognitive-offloading, llm]
 
 sources: ['raw/papers/raw-yang-socrates-lbt.md']
 confidence: high

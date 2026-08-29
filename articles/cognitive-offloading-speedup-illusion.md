@@ -3,7 +3,8 @@ title: Cognitive offloading and the speedup illusion in human-AI interaction
 created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [cognitive-offloading, metacognition, efficacy-study, student-experience, ai-assistance-reduces-persistence, llm]
+tags: [cognitive-offloading, metacognition, student-experience, llm]
+research_method: [efficacy study]
 
 sources: ['raw/papers/2605.23177.md']
 confidence: high

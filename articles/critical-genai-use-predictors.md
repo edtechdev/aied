@@ -3,7 +3,7 @@ title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict U
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
-tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, educational-theory, ai-literacy-assessment-misalignment, metacognition]
+tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, learning-theories, metacognition]
 
 sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high

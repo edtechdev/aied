@@ -3,7 +3,7 @@ title: "Structural Silence: When AI Infrastructure Fails Speakers of Underrepres
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:54:02-04:00"
 type: article
-tags: [equity, multilingual-learning, language-learning, digital-divide, global-south, ai-education, inclusive-ai, higher-ed]
+tags: [equity-in-ai-education, multilingual-learning, language-learning, digital-divide, global-south, ai-education, inclusive-learning, higher-ed]
 sources: ['raw/papers/2608.12278.md']
 confidence: high
 ---

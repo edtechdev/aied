@@ -3,7 +3,7 @@ title: "Fostering self-regulated learning through adaptive learning technology: 
 created: "2026-08-24T17:00:00-04:00"
 updated: "2026-08-24T17:00:00-04:00"
 type: article
-tags: [self-regulated-learning, adaptive-learning, feedback, feedback-literacy, higher-ed, metacognition, motivation, self-efficacy, trace-data]
+tags: [self-regulated-learning, adaptive-learning, feedback, feedback-literacy, higher-ed, metacognition, motivation, self-efficacy, learning-analytics]
 sources: ['raw/papers/mejeh-fromm-srl-adaptive-learning-feedback-2026.md']
 confidence: high
 ---

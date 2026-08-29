@@ -3,7 +3,7 @@ title: "Revisiting the Hint Button: Consistent Negative Associations Between Unp
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design]
+tags: [intelligent-tutoring, learning-analytics, k-12, math-education, game-based-learning, student-experience, help-seeking]
 sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
 confidence: high
 ---

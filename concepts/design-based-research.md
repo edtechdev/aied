@@ -3,7 +3,9 @@ title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
 updated: "2026-08-24T02:30:00-04:00"
 type: concept
-tags: [design-based-research, research-methods-aied, iterative-design, intervention-development, ecological-validity]
+tags: [design-based-research, research-methods-aied]
+research_method: [ecological validity]
+category: [iterative-design]
 confidence: high
 ---
 

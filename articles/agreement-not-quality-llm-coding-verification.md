@@ -3,7 +3,7 @@ title: "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qua
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity, research-methods, teacher-ai-collaboration, human-ai-collaboration, ai-literacy]
+tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity-in-ai-education, research-methods-aied, human-ai-collaboration, ai-literacy]
 sources: ['raw/papers/2607.28890.md']
 confidence: high
 ---

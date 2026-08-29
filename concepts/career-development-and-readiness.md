@@ -3,7 +3,7 @@ title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
 updated: "2026-08-27T11:42:03.434133-04:00"
 type: concept
-tags: [career-development, career-adaptability, employability, workforce-readiness, ai-anxiety-and-stress, professional-training, higher-ed, ai-literacy]
+tags: [adult-learning, ai-anxiety-and-stress, professional-training, higher-ed, ai-literacy]
 confidence: high
 ---
 

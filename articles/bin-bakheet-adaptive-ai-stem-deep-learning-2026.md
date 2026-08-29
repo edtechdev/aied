@@ -3,7 +3,7 @@ title: "Developing Deep Learning in Science Through an Adaptive AI-Based STEM In
 created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
-tags: [adaptive-learning, ai-education, stem-education, k-12, deep-learning, personalized-learning, formative-feedback, science-education]
+tags: [adaptive-learning, ai-education, stem-education, k-12, machine-learning, personalized-learning, feedback, science-education]
 sources: ['raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md']
 confidence: medium
 ---

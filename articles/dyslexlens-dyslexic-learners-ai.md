@@ -3,7 +3,7 @@ title: "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners
 created: "2026-06-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [special-education, llm, ai-literacy, equity, student-experience, language-learning, k-12, higher-ed]
+tags: [special-education, llm, ai-literacy, equity-in-ai-education, student-experience, language-learning, k-12, higher-ed]
 sources: ['raw/papers/2606.27619.md']
 confidence: high
 ---

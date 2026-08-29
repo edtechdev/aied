@@ -3,7 +3,7 @@ title: "A systematic comparison of Large Language Models for automated assignmen
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [programming-education, automated-assessment, llm, cs-education, assessment]
+tags: [cs-education, automated-assessment, llm, assessment]
 
 sources: ['raw/papers/llm-automated-grading-programming-comparison-2026.md']
 confidence: high

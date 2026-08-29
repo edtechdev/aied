@@ -3,7 +3,8 @@ title: "Supporting Undergraduate Students' Learning in Practical Chemistry Cours
 created: "2026-08-19T12:46:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [chemistry-education, higher-ed, laboratory, ai-literacy, critical-thinking]
+tags: [chemistry-education, higher-ed, ai-literacy, critical-thinking]
+research_method: [laboratory]
 sources: ['raw/papers/ai-supported-experimental-design-chemistry-2026.md']
 confidence: high
 ---

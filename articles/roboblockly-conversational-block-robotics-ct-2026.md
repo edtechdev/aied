@@ -3,7 +3,7 @@ title: "RoboBlockly Studio: Conversational Block Programming With Embodied Robot
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [computational-thinking, block-programming, educational-robotics, llm, programming-education, k-12, embodied-learning]
+tags: [computational-thinking, cs-education, educational-robotics, llm, k-12, embodied-learning]
 sources: ['raw/papers/li-roboblockly-conversational-block-2026.md']
 confidence: high
 ---

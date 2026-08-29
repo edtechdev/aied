@@ -3,7 +3,7 @@ title: A Tool-Invariant Framework for Teaching and Assessing Computational Metho
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, oral-defense, over-reliance, verification]
+tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, language-learning, cognitive-offloading, ai-ed-evaluation]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
 ---

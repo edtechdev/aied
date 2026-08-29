@@ -3,7 +3,7 @@ title: Gaze-Informed Proactive AI Assistance for Children’s Picture Exploratio
 created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, k-12, student-experience, affective-computing, adaptive-learning, llm-in-education, rag, llm]
+tags: [generative-ai, k-12, student-experience, affective-computing, adaptive-learning, rag, llm]
 sources: ['raw/papers/2607.00445.md']
 confidence: high
 ---

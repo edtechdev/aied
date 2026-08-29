@@ -3,7 +3,7 @@ title: "Mathematical Modelling of Ethical AI Use in Higher Education: A Coordina
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-14"
 type: article
-tags: [higher-ed, academic-integrity, generative-ai, policy-maker, regulation, llm, ai-literacy, formative-assessment, motivation, educational-policy-ai, governance]
+tags: [higher-ed, academic-integrity, generative-ai, educational-policy-ai, regulation, llm, ai-literacy, formative-assessment, motivation, governance]
 sources: ['raw/papers/2605.27400.md']
 confidence: high
 ---

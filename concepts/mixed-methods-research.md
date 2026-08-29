@@ -3,7 +3,8 @@ title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
 updated: "2026-08-24T02:10:00-04:00"
 type: concept
-tags: [mixed-methods-research, research-methods-aied, qualitative-research, quantitative-research, triangulation]
+tags: [mixed-methods-research, research-methods-aied, qualitative-research, quantitative-research]
+research_method: [triangulation]
 confidence: high
 ---
 

@@ -3,7 +3,7 @@ title: "A Scoping Review of AI for Sustainability and Sustainable AI in Higher E
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
-tags: [sustainability, higher-ed, meta-analysis-systematic-review, ethics, governance, environmental-impact, ai-education]
+tags: [sustainability, higher-ed, meta-analysis-systematic-review, ethics, governance, educational-policy-ai, ai-education]
 sources: ['raw/papers/daniel-ai-sustainability-scoping-review-2026.md']
 confidence: high
 ---

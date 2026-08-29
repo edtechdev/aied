@@ -3,7 +3,7 @@ title: "AI Tutors vs. Tenacious Myths: Personalised Dialogue for Misconception C
 created: "2026-08-26T10:05:00-04:00"
 updated: "2026-08-26T10:05:00-04:00"
 type: article
-tags: [refutation-text, misconceptions, intelligent-tutoring, belief-correction, generative-ai, cognitive-offloading, student-ai-interaction]
+tags: [refutation-text, misconceptions, intelligent-tutoring, generative-ai, cognitive-offloading, student-ai-interaction]
 sources: ['raw/papers/10.1016_j.chb.2025.108828.md']
 confidence: high
 ---

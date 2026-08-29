@@ -3,7 +3,7 @@ title: Technological Pedagogical Content Knowledge (TPACK)
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
-tags: [tpack, ai-tpack, teacher-ai-competency, faculty-development, pedagogical-content-knowledge, generative-ai, teacher-role, instructional-design, curriculum]
+tags: [tpack, ai-literacy, teacher-ai-competency, faculty-development, generative-ai, teacher-role, instructional-design, curriculum-design]
 confidence: high
 ---
 

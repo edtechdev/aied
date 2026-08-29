@@ -3,7 +3,7 @@ title: "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [generative-ai, scaffolding, equity, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
+tags: [generative-ai, scaffolding, equity-in-ai-education, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
 sources: ['raw/papers/2607.28630.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: "Human-centered GenAI feedback design in higher education: a multisite ex
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
-tags: [generative-ai, feedback-design, higher-ed, scientific-argumentation, self-regulated-learning, peer-feedback, multisite-experiment, transfer, epistemic-agency, rag]
+tags: [generative-ai, feedback, higher-ed, critical-thinking, self-regulated-learning, transfer-of-learning, agency, rag]
+research_method: [multisite experiment]
 sources: ['raw/papers/genai-feedback-design-multisite-experiment.md']
 confidence: high
 ---

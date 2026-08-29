@@ -3,7 +3,7 @@ title: "Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation o
 created: "2026-05-13T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [knowledge-tracing, automated-grading, benchmark, learning-analytics]
+tags: [knowledge-tracing, automated-assessment, benchmark, learning-analytics]
 sources: ['raw/papers/2605.04727.md']
 confidence: medium
 ---

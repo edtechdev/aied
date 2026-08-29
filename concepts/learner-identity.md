@@ -3,7 +3,7 @@ title: Learner Identity
 created: "2026-08-27T08:10:00-04:00"
 updated: "2026-08-27T07:59:32.712217-04:00"
 type: concept
-tags: [identity, student-identity, stem-identity, professional-identity, creative-identity, student-experience, agency, stem-education]
+tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 ---

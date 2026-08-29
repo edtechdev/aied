@@ -3,7 +3,7 @@ title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: concept
-tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, communication, governance]
+tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, collaborative-learning, governance]
 confidence: high
 ---
 

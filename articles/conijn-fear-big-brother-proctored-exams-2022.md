@@ -3,7 +3,7 @@ title: "The fear of Big Brother: The potential negative side-effects of proctore
 created: "2026-08-25T07:42:00-04:00"
 updated: "2026-08-25T10:00:00-04:00"
 type: article
-tags: [remote-proctoring, ai-anxiety-and-stress, academic-integrity, test-anxiety, higher-ed, assessment, privacy, equity-in-ai-education]
+tags: [remote-proctoring, ai-anxiety-and-stress, academic-integrity, social-emotional-learning, higher-ed, assessment, privacy, equity-in-ai-education]
 sources: ['raw/papers/conijn-fear-big-brother-proctored-exams-2022.md']
 confidence: high
 ---

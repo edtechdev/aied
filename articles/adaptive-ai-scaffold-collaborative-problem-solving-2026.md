@@ -3,7 +3,8 @@ title: "Towards an adaptive AI scaffold for developing student collaborative pro
 created: "2026-08-24T21:30:00-04:00"
 updated: "2026-08-24T21:30:00-04:00"
 type: article
-tags: [collaborative-learning, scaffolding, adaptive-learning, learning-analytics, k-12, problem-solving, process-mining]
+tags: [collaborative-learning, scaffolding, adaptive-learning, learning-analytics, k-12, problem-solving]
+research_method: [process mining]
 sources: ['raw/papers/adaptive-ai-scaffold-collaborative-problem-solving-2026.md']
 confidence: high
 ---

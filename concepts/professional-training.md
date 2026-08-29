@@ -3,7 +3,7 @@ title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-29T12:55:12-04:00"
 type: concept
-tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
+tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation, higher-ed, generative-ai, llm]
 confidence: high
 ---
 

@@ -3,7 +3,8 @@ title: "Structuring Transparency: Developing Domain-Specific Generative AI Decla
 created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, academic-integrity, policy-maker, ai-literacy, genai-policy-prompting-rct, student-experience, regulation, rag]
+tags: [generative-ai, higher-ed, academic-integrity, educational-policy-ai, ai-literacy, student-experience, regulation, rag]
+research_method: [genai policy prompting rct]
 sources: ['raw/papers/2606.13389.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "AI literacy alone is not enough: Student AI readiness and career adaptab
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
-tags: [ai-literacy, career-adaptability, higher-ed, student-experience, assessment, equity, ai-education, self-efficacy]
+tags: [ai-literacy, adult-learning, higher-ed, student-experience, assessment, equity-in-ai-education, ai-education, self-efficacy]
 sources: ['raw/papers/10.1016_j.ijme.2026.101394.md']
 confidence: high
 ---

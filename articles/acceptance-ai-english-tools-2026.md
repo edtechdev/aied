@@ -3,7 +3,7 @@ title: "Acceptance of AI-Assisted English Language Learning Tools in Higher Educ
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-23T09:20:00-04:00"
 type: article
-tags: [language-learning, generative-ai, motivation, self-regulated-learning, higher-ed, teacher-role, engagement-metrics, personalized-learning]
+tags: [language-learning, generative-ai, motivation, self-regulated-learning, higher-ed, teacher-role, student-engagement, personalized-learning]
 sources: ['raw/papers/10.3389_fpsyg.2026.1806457.md']
 confidence: high
 ---

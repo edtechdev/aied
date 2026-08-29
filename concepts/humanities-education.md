@@ -3,7 +3,8 @@ title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-21T09:01:28-04:00"
 type: concept
-tags: [humanities, social-science, history, philosophy, critical-thinking, ai-literacy, higher-ed, interpretation]
+tags: [humanities-education, history-of-aied, philosophy-of-ai-in-education, critical-thinking, ai-literacy, higher-ed]
+category: [interpretation]
 confidence: high
 ---
 

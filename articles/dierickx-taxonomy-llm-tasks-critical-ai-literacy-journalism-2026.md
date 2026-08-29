@@ -3,7 +3,7 @@ title: "A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism
 created: "2026-08-26T17:52:26-04:00"
 updated: "2026-08-26T17:52:26-04:00"
 type: article
-tags: [generative-ai, ai-literacy, prompt-engineering, journalism-education, critical-thinking, ethics, human-in-the-loop-ai, higher-ed, curriculum-design]
+tags: [generative-ai, ai-literacy, prompt-engineering, writing-education, critical-thinking, ethics, human-in-the-loop-ai, higher-ed, curriculum-design]
 sources: ['raw/papers/dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026.md']
 confidence: high
 ---

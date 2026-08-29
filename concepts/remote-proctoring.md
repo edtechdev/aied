@@ -3,7 +3,7 @@ title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
 updated: "2026-08-25T10:00:00-04:00"
 type: concept
-tags: [remote-proctoring, academic-integrity, summative-assessment, online-education, automated-proctoring, privacy, equity, higher-ed]
+tags: [remote-proctoring, academic-integrity, summative-assessment, online-teaching-and-learning, privacy, equity-in-ai-education, higher-ed]
 confidence: high
 ---
 
