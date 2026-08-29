@@ -177,21 +177,26 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         });
       }
 
-      // Restore the query. triggerSearchWithFilters runs the search but does NOT
-      // fill the visible input, so set the input value explicitly afterward
-      // (without dispatching an input event, which would re-trigger a search).
-      if (q || Object.keys(filters).length) {
-        const input = document.querySelector("pagefind-input input");
-        if (q && input && input.value !== q) {
-          input.value = q;
+      // Only restore once PageFind has fully initialized. We detect readiness by
+      // the input being present AND the worker having loaded (filters present).
+      const input = document.querySelector("pagefind-input input");
+      const ready = inst.__pagefind__ || (inst.availableFilters && Object.keys(inst.availableFilters).length);
+      if (!q && !Object.keys(filters).length) return;
+      if (!input || !ready) { setTimeout(attempt, 250); return; }
+
+      // Set the input value + dispatch an input event (exactly what a user
+      // typing does). This fills the box AND triggers the search. Do it once,
+      // after PageFind is ready, so it isn't wiped by faceted init.
+      attemptCount += 1;
+      if (attemptCount <= 3 && input.value !== q) {
+        input.value = q;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+        // If filters are set, also apply them via the instance.
+        if (Object.keys(filters).length) {
+          try { inst.triggerSearchWithFilters(q, filters); } catch {}
         }
-        try { inst.triggerSearchWithFilters(q, filters); } catch {}
-        attemptCount += 1;
-        // Re-apply the input value until it sticks (PageFind may re-render it).
-        if (attemptCount < 6 && document.querySelector("pagefind-input input")?.value !== q) {
-          setTimeout(attempt, 500);
-          return;
-        }
+        setTimeout(attempt, 500);
+        return;
       }
       attemptCount = 0;
     };
