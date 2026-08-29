@@ -61,7 +61,7 @@ const { articles, concepts } = Astro.props;
   .recent-more a { font-size: 0.82rem; }
 </style>
 
-<details class="recent-block" open>
+<details class="recent-block" open data-state-key="recent:articles">
   <summary>📄 Recently Added Articles</summary>
   <ul class="recent-list">
     {articles.map(a => (
@@ -74,7 +74,7 @@ const { articles, concepts } = Astro.props;
   <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
 </details>
 
-<details class="recent-block" open>
+<details class="recent-block" open data-state-key="recent:concepts">
   <summary>🏷️ Recently Updated Concepts</summary>
   <ul class="recent-list">
     {concepts.map(c => (
