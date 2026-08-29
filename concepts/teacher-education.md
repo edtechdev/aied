@@ -1,13 +1,13 @@
 ---
-title: Teacher Education
+title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-29T12:55:12-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]
 confidence: high
 ---
 
-> **Teacher Education** — the preparation and ongoing professional development of teachers, spanning pre-service teacher training (initial certification programs) and in-service professional development. In AI-in-education research, teacher education has become a central concern because teachers' AI literacy, technological-pedagogical knowledge, ethical fluency, and readiness to integrate AI into instruction determine whether AI adoption in classrooms succeeds. This concept organizes the wiki's substantial coverage of how AI reshapes the preparation, knowledge, beliefs, and practice of both prospective and practicing teachers.
+> **Professional development** — the preparation and ongoing professional development of teachers, spanning pre-service teacher training (initial certification programs) and in-service professional development. In AI-in-education research, teacher education has become a central concern because teachers' AI literacy, technological-pedagogical knowledge, ethical fluency, and readiness to integrate AI into instruction determine whether AI adoption in classrooms succeeds. This concept organizes the wiki's substantial coverage of how AI reshapes the preparation, knowledge, beliefs, and practice of both prospective and practicing teachers.
 
 Teacher education sits at the intersection of several wiki strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher.
 

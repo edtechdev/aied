@@ -1,7 +1,29 @@
 # Journal
 
-**Last updated:** 2026-08-28 | **Total entries:** 1108
+**Last updated:** 2026-08-29 | **Total entries:** 1114
 
+## "2026-08-29
+
+- ◐ [[change-management]] — ''
+  Change Management
+
+- ◐ [[cognitive-load]] — ''
+  Cognitive Load
+
+- ◐ [[machine-learning]] — ''
+  Machine Learning
+
+- ◐ [[mastery-learning]] — ''
+  Mastery Learning
+
+- ◐ [[problem-solving]] — ''
+  Problem Solving
+
+- ◐ [[science-education]] — ''
+  Science Education
+
+- ◐ [[visualization]] — ''
+  Visualization
 ## "2026-08-28
 
 - ◐ [[caruana-pre-university-ai-education-slr-2026]] — 'raw/papers/caruana-pre-university-ai-education-slr-2026.md'
