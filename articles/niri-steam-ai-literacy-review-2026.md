@@ -4,7 +4,7 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [science-education, ai-literacy, k-12, meta-analysis-systematic-review, computational-thinking, ethics, stem-education, curriculum-design]
-audience: [teacher role, researcher]
+audience: [teacher role, research methods aied]
 research_method: [systematic review]
 discipline: [stem education]
 level: [k 12]

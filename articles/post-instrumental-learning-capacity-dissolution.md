@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, learning-theories, cognitive-offloading, student-experience, ai-literacy]
 research_method: [theoretical analysis]
-audience: [teacher role, researcher]
+audience: [teacher role, research methods aied]
 
 sources: ['raw/papers/2607.28041.md']
 confidence: high

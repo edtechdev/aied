@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, edtech-platform, higher-ed, learning-analytics, student-experience, formative-assessment, automated-assessment, generative-ai, ai-literacy]
 research_method: [mixed methods, longitudinal]
-audience: [researcher]
+audience: [research methods aied]
 level: [higher ed]
 
 sources: ['raw/papers/2605.27403.md']
