@@ -28,7 +28,7 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
   </summary>
 
   <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)}>
-    <details class="starred-group" data-starred-group="concept" data-state-key="starred-group:concept">
+    <details class="starred-group" open data-starred-group="concept" data-state-key="starred-group:concept">
       <summary>Concepts</summary>
       <ul class="starred-list" data-starred-list="concept">
         {defaultEntries.filter(e => e.kind === 'concept').map(e => (
