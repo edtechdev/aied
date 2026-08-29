@@ -6,7 +6,7 @@ type: article
 tags: [llm, higher-ed, student-experience, ethics, generative-ai, cs-education]
 research_method: [system development, survey]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/llm-environmental-impact-student-usage-2026.md']
 confidence: high

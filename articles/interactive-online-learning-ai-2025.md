@@ -5,7 +5,7 @@ updated: "2026-08-20T04:40:00-04:00"
 type: article
 tags: [online-teaching-and-learning, machine-learning, student-modeling, personalized-learning, adaptive-learning, ai-education]
 research_method: [benchmark]
-audience: [student performance prediction]
+audience: [learners, software developers]
 sources: ['raw/papers/interactive-online-learning-ai-2025.md']
 confidence: medium
 ---

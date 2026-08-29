@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [scaffolding, generative-ai, feedback, active-learning, intelligent-tutoring, higher-ed, student-experience, llm, visualization]
 research_method: [system development, design-based research]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.06721.md']

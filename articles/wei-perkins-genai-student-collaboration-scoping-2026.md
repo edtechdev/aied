@@ -4,7 +4,7 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [collaborative-learning, higher-ed, generative-ai, critical-thinking, self-regulated-learning, human-ai-collaboration, assessment, ai-literacy]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [systematic review]
 level: [higher ed]
 category: [assessment]

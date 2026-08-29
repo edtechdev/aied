@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, personalized-learning, k-12, math-education, adaptive-learning, student-experience]
 research_method: [mixed methods, experiment]
 discipline: [math education]
-audience: [student experience]
+audience: [learners]
 level: [early childhood, k 12]
 sources: ['raw/papers/2608.04892.md']
 confidence: high

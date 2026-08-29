@@ -5,7 +5,7 @@ updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [automated-assessment, educational-nlp, llm, feedback, teacher-role, ai-ed-evaluation, learning-analytics]
 research_method: [benchmark]
-audience: [teacher role]
+audience: [instructors]
 category: [evaluation]
 confidence: high
 sources: [raw/papers/2606.05180.md]

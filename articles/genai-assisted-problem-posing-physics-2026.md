@@ -6,7 +6,7 @@ type: article
 tags: [physics-education, generative-ai, problem-solving, prompt-engineering, student-experience, transfer-of-learning, self-regulated-learning, motivation, qualitative-research]
 research_method: [qualitative]
 discipline: [physics education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2608.12523.md']
 confidence: high
 ---

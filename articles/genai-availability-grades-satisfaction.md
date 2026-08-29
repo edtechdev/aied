@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, learning-gains, student-experience, llm]
 research_method: [experiment, learning analytics]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.21534.md']
 confidence: high

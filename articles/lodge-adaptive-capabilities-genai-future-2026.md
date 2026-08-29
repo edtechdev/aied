@@ -4,7 +4,7 @@ created: "2026-08-22T18:30:00-04:00"
 updated: "2026-08-22T18:35:00-04:00"
 type: article
 tags: [higher-ed, ai-literacy, metacognition, self-regulated-learning, lifelong-learning, adaptive-learning, generative-ai, educational-policy-ai, assessment-validity]
-audience: [teacher role, administrator]
+audience: [instructors, administrator]
 research_method: [theoretical analysis, policy analysis]
 level: [higher ed]
 sources: ['raw/papers/lodge-adaptive-capabilities-genai-future-2026.md']

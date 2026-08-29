@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, llm, higher-ed, writing-education, feedback, cognitive-offloading, formative-assessment, ai-literacy, student-experience]
 research_method: [survey]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.16115.md']

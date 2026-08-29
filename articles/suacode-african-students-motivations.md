@@ -4,7 +4,7 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, equity-in-ai-education, online-teaching-and-learning, global-south, ai-literacy, ai-education]
-audience: [student experience]
+audience: [learners]
 research_method: [survey, mixed methods]
 discipline: [cs education]
 sources: ['raw/papers/2607.22940.md']

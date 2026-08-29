@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, cs-education, cognitive-offloading, metacognition, higher-ed, ai-literacy, student-experience, formative-assessment]
 research_method: [system development, benchmark]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.05068.md']

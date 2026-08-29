@@ -4,7 +4,7 @@ created: "2026-08-26T17:52:26-04:00"
 updated: "2026-08-26T17:52:26-04:00"
 type: article
 tags: [generative-ai, ai-literacy, prompt-engineering, writing-education, critical-thinking, ethics, human-in-the-loop-ai, higher-ed, curriculum-design]
-audience: [teacher role]
+audience: [instructors]
 research_method: [literature review, theoretical analysis]
 level: [higher ed]
 category: [curriculum design]

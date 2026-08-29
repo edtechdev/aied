@@ -4,6 +4,7 @@ created: "2026-08-18T09:20:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [cs-education, generative-ai, automated-assessment, higher-ed, academic-integrity, llm]
+audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]
 level: [higher ed]

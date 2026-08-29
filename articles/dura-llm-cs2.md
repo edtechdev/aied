@@ -6,7 +6,7 @@ type: article
 tags: [llm, higher-ed, student-experience, academic-integrity, stem-education, generative-ai, ai-literacy, rag]
 research_method: [system development]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.30908.md']
 confidence: high

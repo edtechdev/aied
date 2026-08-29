@@ -6,7 +6,7 @@ type: article
 tags: [formative-assessment, higher-ed, llm, stem-education, student-experience]
 research_method: [benchmark]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.30549.md']
 confidence: high

@@ -5,7 +5,7 @@ updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [higher-ed, teacher-role, administrator, educational-policy-ai, regulation, teacher-ai-competency, faculty-development, student-experience, assessment-validity, change-management]
 research_method: [case study]
-audience: [teacher role, administrator, faculty development genai, student experience]
+audience: [instructors, administrator, faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/2605.07056.md']
 confidence: medium

@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, learning-analytics, k-12, math-education, game-based-learning, student-experience, help-seeking]
 research_method: [survey]
 discipline: [math education]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
 confidence: high

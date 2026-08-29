@@ -4,7 +4,7 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
-audience: [teacher role, faculty development, student experience]
+audience: [instructors, faculty development, learners]
 level: [k 12, higher ed]
 category: [instructional design]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies]

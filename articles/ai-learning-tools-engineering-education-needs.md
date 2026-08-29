@@ -6,7 +6,7 @@ type: article
 tags: [higher-ed, stem-education, student-experience, affective-computing, personalized-learning, scaffolding, adaptive-learning, ai-literacy, formative-assessment, teacher-role]
 research_method: [benchmark]
 discipline: [stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.26338.md']
 confidence: high

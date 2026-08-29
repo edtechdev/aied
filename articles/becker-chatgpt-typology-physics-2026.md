@@ -6,7 +6,7 @@ type: article
 tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-education, trust-calibration, rag, scaffolding, change-management]
 research_method: [survey, interviews]
 discipline: [physics education, stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/becker-chatgpt-typology-physics-2026.md']
 confidence: high

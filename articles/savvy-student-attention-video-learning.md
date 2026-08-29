@@ -5,7 +5,7 @@ updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [learning-analytics, multimodal, student-experience, student-engagement, higher-ed, edtech-platform, visualization]
 research_method: [system development]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2607.29413.md']

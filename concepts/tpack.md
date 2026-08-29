@@ -4,7 +4,7 @@ created: "2026-08-14T10:37:25-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [tpack, ai-literacy, teacher-ai-competency, faculty-development, generative-ai, teacher-role, instructional-design, curriculum-design]
-audience: [faculty development, teacher role]
+audience: [faculty development, instructors]
 category: [instructional design]
 confidence: high
 ---

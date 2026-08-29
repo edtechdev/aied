@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, cognitive-offloading, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education, math-education, assessment]
 research_method: [learning analytics]
 discipline: [stem education, math education]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 category: [assessment]
 sources: ['raw/papers/2605.21629.md']

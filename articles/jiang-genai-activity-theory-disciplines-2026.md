@@ -5,7 +5,7 @@ updated: "2026-08-25T14:00:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, discipline-specific-aied, student-experience, ai-literacy]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/jiang-genai-activity-theory-disciplines-2026.md']
 confidence: high

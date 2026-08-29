@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, feedback, self-regulated-learning, ai-literacy, higher-ed, teacher-role, cognitive-offloading, prompt-engineering, formative-assessment, metacognition, academic-integrity, student-engagement]
 research_method: [theoretical analysis]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [higher ed]
 
 sources: ['raw/papers/zhan-boud-dawson-genai-feedback-engagement.md']

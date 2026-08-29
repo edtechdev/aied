@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, learning-analytics, formative-assessment, cs-education, higher-ed, feedback, student-experience]
 research_method: [system development]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.05871.md']

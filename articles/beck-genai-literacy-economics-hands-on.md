@@ -4,7 +4,7 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, generative-ai, critical-thinking, higher-ed, student-engagement, instructional-design, active-learning, reducing-ai-misuse]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [case study]
 level: [higher ed]
 category: [instructional design]

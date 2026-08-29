@@ -4,6 +4,7 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, assessment, educational-measurement, multimodal, higher-ed, benchmark]
+audience: [software developers]
 research_method: [educational measurement, benchmark]
 level: [higher ed]
 category: [assessment]

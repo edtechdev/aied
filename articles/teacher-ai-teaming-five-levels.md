@@ -5,7 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [teacher-role, generative-ai, human-ai-collaboration, adult-learning]
 research_method: [literature review, systematic review]
-audience: [teacher role, teacher ai teaming, teacher agency]
+audience: [instructors]
 sources: ['raw/papers/2511.19580.md']
 confidence: high
 ---

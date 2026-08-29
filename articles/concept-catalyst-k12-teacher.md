@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [ai-literacy, edtech-platform, generative-ai, k-12, teacher-role]
 research_method: [system development, user study]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/2606.30590.md']
 confidence: high

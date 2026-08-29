@@ -4,7 +4,7 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
-audience: [teacher role]
+audience: [instructors]
 research_method: [literature review]
 discipline: [cs education]
 level: [early childhood, k 12]

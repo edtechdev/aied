@@ -5,7 +5,7 @@ updated: "2026-08-25T14:00:00-04:00"
 type: article
 tags: [assessment, academic-integrity, generative-ai, higher-ed, ai-literacy, cognitive-offloading, student-experience]
 research_method: [qualitative, interviews]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/walton-bearman-assessment-judgement-2025.md']

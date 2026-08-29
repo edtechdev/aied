@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [human-in-the-loop-ai, generative-ai, higher-ed, student-experience]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/caeai-human-ai-collab-trust.md']
 confidence: medium

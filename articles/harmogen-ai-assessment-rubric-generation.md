@@ -4,6 +4,7 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [automated-assessment, formative-assessment, llm, generative-ai, cs-education, assessment]
+audience: [software developers]
 research_method: [system development]
 discipline: [cs education]
 category: [assessment]

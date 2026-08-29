@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, cs-education, generative-ai, higher-ed, intelligent-tutoring, prompt-engineering, scaffolding, student-experience, llm]
 research_method: [qualitative, interviews]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.05034.md']
 confidence: high

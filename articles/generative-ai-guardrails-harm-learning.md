@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, cognitive-offloading, stem-education, k-12, rct, learning-gains, intelligent-tutoring, scaffolding, student-experience]
 research_method: [randomized controlled trial, learning analytics]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 
 sources: ['raw/papers/pnas-2025-guardrails-harm-learning.md']

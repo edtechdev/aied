@@ -5,7 +5,7 @@ updated: "2026-08-11"
 type: article
 tags: [collaborative-learning, project-based-learning, human-ai-collaboration, conversational-ai, llm, higher-ed, student-experience, qualitative-research]
 research_method: [qualitative]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/spritz-ai-disciplinary-mediation-student-teams-2026.md']
 confidence: high

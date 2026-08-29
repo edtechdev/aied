@@ -6,7 +6,7 @@ connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 ---

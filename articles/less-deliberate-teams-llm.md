@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, student-experience, collaborative-learning, higher-ed, student-engagement, generative-ai, rag]
 research_method: [system development]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2606.30860.md']

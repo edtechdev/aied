@@ -6,7 +6,7 @@ type: article
 tags: [cognitive-offloading, academic-integrity, hallucination-risk, stem-education, feedback, student-experience, ai-education]
 research_method: [literature review, learning analytics]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 
 sources: ['raw/papers/2605.00361.md']
 confidence: medium

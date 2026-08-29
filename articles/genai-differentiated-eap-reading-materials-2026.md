@@ -6,7 +6,7 @@ type: article
 tags: [language-learning, generative-ai, personalized-learning, instructional-design, scaffolding, teacher-role, writing-education, curriculum-design]
 research_method: [experiment]
 discipline: [language learning, writing education]
-audience: [teacher role]
+audience: [instructors]
 category: [instructional design, curriculum design]
 sources: ['raw/papers/10.3389_fpsyg.2026.1887565.md']
 confidence: high

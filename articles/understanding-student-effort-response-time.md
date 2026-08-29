@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [adaptive-learning, assessment, student-engagement, learning-analytics, student-experience, computational-thinking]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners]
 category: [assessment, engagement]
 sources: ['raw/papers/2605.08943.md']
 confidence: high

@@ -6,7 +6,7 @@ type: article
 tags: [motivation, student-engagement, language-learning, english-education, higher-ed, self-regulated-learning, teacher-role]
 research_method: [survey]
 discipline: [language learning, english education]
-audience: [teacher support]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/wang-goal-setting-ai-engagement-2026.md']
 confidence: high

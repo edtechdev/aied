@@ -6,7 +6,7 @@ type: article
 tags: [cs-education, curriculum-design, edtech-platform, student-experience, higher-ed, administrator]
 research_method: [system development]
 discipline: [cs education]
-audience: [student experience, administrator]
+audience: [learners, administrator]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2608.05910.md']

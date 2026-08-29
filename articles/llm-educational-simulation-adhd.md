@@ -5,7 +5,7 @@ updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, student-experience, ai-education, generative-ai, benchmark, learning-analytics, adaptive-learning, intelligent-tutoring]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners, software developers]
 sources: ['raw/papers/2605.06307.md']
 confidence: medium
 ---

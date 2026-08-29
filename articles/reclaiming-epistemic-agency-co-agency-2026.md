@@ -5,7 +5,7 @@ updated: "2026-08-28T09:05:00-04:00"
 type: article
 tags: [agency, generative-ai, higher-ed, self-regulated-learning, teacher-role, theory-development-aied, ethics, cognitive-offloading, tpack, equity-in-ai-education]
 research_method: [theoretical analysis]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2608.26937.md']
 confidence: high

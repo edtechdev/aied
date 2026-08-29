@@ -6,7 +6,7 @@ type: article
 tags: [automated-assessment, assessment, higher-ed, generative-ai, formative-assessment, llm, student-experience, ai-literacy, scaffolding, stem-education]
 research_method: [system development]
 discipline: [stem education]
-audience: [teacher role]
+audience: [instructors, software developers]
 level: [higher ed]
 category: [assessment]
 

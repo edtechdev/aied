@@ -6,7 +6,7 @@ type: article
 tags: [llm, student-experience, stem-education, higher-ed, cs-education, ai-literacy, rag]
 research_method: [interviews]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.10674.md']
 confidence: high

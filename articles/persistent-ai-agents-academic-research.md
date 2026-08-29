@@ -5,7 +5,7 @@ updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 research_method: [case study]
-audience: [research methods aied]
+audience: [researchers]
 level: [higher ed]
 confidence: high
 sources: []

@@ -4,7 +4,7 @@ created: "2026-06-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, feedback, professional-training, language-learning, personalized-learning, scaffolding, ai-literacy, rag]
-audience: [teacher role, teacher role]
+audience: [instructors]
 research_method: [systematic review]
 discipline: [language learning]
 

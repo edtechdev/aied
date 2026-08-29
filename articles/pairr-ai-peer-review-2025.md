@@ -6,7 +6,7 @@ type: article
 tags: [ai-feedback-quality, writing-education, formative-assessment, ai-literacy, student-experience, peer-review, self-regulated-learning, academic-integrity, metacognition]
 research_method: [survey]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/10.1016_j.compcom.2025.102921.md']
 confidence: high
 ---

@@ -5,7 +5,7 @@ updated: "2026-08-20T08:20:00-04:00"
 type: article
 tags: [teacher-role, generative-ai, higher-ed, ai-literacy, student-ai-interaction]
 research_method: [survey]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/enright-staff-perspectives-genai-2026.md']
 confidence: medium

@@ -4,7 +4,7 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, feedback, ai-feedback-quality, assessment, critical-thinking, academic-integrity, higher-ed, writing-education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [case study]
 discipline: [writing education]
 level: [higher ed]

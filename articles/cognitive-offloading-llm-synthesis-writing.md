@@ -6,7 +6,7 @@ type: article
 tags: [writing-education, llm, student-experience, higher-ed, ai-literacy, generative-ai, intelligent-tutoring, scaffolding, k-12, stem-education]
 research_method: [benchmark]
 discipline: [writing education, stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 sources: []

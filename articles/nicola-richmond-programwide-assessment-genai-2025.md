@@ -5,7 +5,7 @@ updated: "2026-08-20T08:10:00-04:00"
 type: article
 tags: [assessment, generative-ai, higher-ed, teacher-role, curriculum-design, faculty-development]
 research_method: [qualitative, interviews]
-audience: [teacher role, faculty development]
+audience: [instructors, faculty development]
 level: [higher ed]
 category: [assessment, curriculum design]
 sources: ['raw/papers/nicola-richmond-programwide-assessment-genai-2025.md']

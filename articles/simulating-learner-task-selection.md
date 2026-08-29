@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, mastery-learning, adaptive-learning, student-engagement, simulation, k-12, student-experience, llm, knowledge-tracing]
 research_method: [system development]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 category: [engagement]
 sources: ['raw/papers/2605.21613.md']

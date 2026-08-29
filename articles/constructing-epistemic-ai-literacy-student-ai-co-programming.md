@@ -4,7 +4,7 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [ai-literacy, cs-education, student-ai-interaction, scaffolding, higher-ed, automated-assessment, llm, learning-analytics, formative-assessment]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [theoretical analysis]
 discipline: [cs education]
 level: [higher ed]

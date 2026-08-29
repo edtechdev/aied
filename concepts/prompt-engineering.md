@@ -4,7 +4,7 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-26T17:55:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 confidence: high
 ---

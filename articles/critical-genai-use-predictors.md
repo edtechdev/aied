@@ -5,7 +5,7 @@ updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, cognitive-offloading, learning-theories, metacognition]
 research_method: [system development, user study]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']

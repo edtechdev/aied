@@ -5,7 +5,7 @@ updated: "2026-08-16"
 type: article
 tags: [teacher-education, ai-literacy, adult-learning, ethics, teacher-role]
 research_method: [design-based research]
-audience: [teacher role]
+audience: [instructors]
 sources: ['raw/papers/human-centered-ai-teacher-educators-2026.md']
 confidence: high
 ---

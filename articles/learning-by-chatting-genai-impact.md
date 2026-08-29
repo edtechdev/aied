@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, pedagogical-agent, ai-literacy]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2606.11669.md']

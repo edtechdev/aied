@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, scaffolding, llm, ai-ed-evaluation, k-12, math-education, benchmark, teacher-role, cognitive-offloading]
 research_method: [benchmark]
 discipline: [math education]
-audience: [teacher role]
+audience: [instructors, software developers]
 level: [k 12]
 sources: ['raw/papers/zhang-tutormoments-2026.md']
 confidence: high

@@ -4,6 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [collaborative-learning, cs-education, adaptive-learning, rag, intelligent-tutoring]
+audience: [software developers]
 research_method: [system development, experiment]
 discipline: [cs education]
 

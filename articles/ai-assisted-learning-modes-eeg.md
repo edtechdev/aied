@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [k-12, student-experience, llm, generative-ai, student-engagement, affective-computing, active-learning, ai-literacy, scaffolding]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 category: [engagement]
 sources: ['raw/papers/2606.26579.md']

@@ -5,7 +5,7 @@ updated: "2026-08-13"
 type: article
 tags: [generative-ai, feedback, self-regulated-learning, metacognition, humanities-education, human-ai-collaboration, teacher-role, human-in-the-loop-ai]
 research_method: [theoretical analysis]
-audience: [teacher role]
+audience: [instructors]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1844841.md']
 confidence: medium

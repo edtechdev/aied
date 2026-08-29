@@ -4,7 +4,7 @@ created: "2026-08-24T12:34:00-04:00"
 updated: "2026-08-24T14:35:00-04:00"
 type: article
 tags: [ai-literacy, meta-analysis-systematic-review, ai-ed-evaluation, pedagogy, assessment, higher-ed, k-12]
-audience: [teacher role, faculty development, research methods aied]
+audience: [instructors, faculty development, researchers]
 research_method: [meta-analysis]
 level: [higher ed, k 12]
 category: [evaluation, assessment]

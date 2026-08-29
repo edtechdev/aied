@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, edtech-platform, higher-ed, stem-education, personalized-learning, learning-analytics, student-experience, rag, llm]
 research_method: [system development]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15572.md']
 confidence: medium

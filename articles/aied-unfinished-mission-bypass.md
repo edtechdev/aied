@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [cognitive-offloading, student-experience, self-regulated-learning, metacognition, teacher-role, formative-assessment, generative-ai]
 research_method: [theoretical analysis]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 
 sources: ['raw/papers/2607.05557.md']
 confidence: high

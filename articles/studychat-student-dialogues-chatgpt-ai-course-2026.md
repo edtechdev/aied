@@ -6,7 +6,7 @@ type: article
 tags: [llm, intelligent-tutoring, learning-analytics, pedagogical-agent, cs-education, student-experience, cognitive-offloading, self-regulated-learning]
 research_method: [benchmark]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners, software developers]
 
 sources: ['raw/papers/studychat-student-dialogues-chatgpt-ai-course-2026.md']
 confidence: high

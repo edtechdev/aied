@@ -5,7 +5,7 @@ updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [ethics, ai-education, higher-ed, governance, academic-integrity, privacy, student-experience, teacher-role]
 research_method: [mixed methods]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/bilgic-sever-ethical-dimensions-ai-higher-ed-2026.md']
 confidence: high

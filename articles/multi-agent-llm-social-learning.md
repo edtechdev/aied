@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [llm, intelligent-tutoring, scaffolding, student-experience, agentic-ai, higher-ed]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2604.02677.md']

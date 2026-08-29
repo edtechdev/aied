@@ -6,7 +6,7 @@ type: article
 tags: [special-education, llm, ai-literacy, equity-in-ai-education, student-experience, language-learning, k-12, higher-ed]
 research_method: [system development, mixed methods]
 discipline: [language learning]
-audience: [student experience]
+audience: [learners]
 level: [special education, k 12, higher ed]
 sources: ['raw/papers/2606.27619.md']
 confidence: high

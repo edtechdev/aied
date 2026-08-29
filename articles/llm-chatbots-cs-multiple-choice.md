@@ -6,7 +6,7 @@ type: article
 tags: [higher-ed, llm, automated-assessment, student-experience, stem-education, learning-analytics, k-12]
 research_method: [benchmark]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners, software developers]
 level: [higher ed, k 12]
 
 sources: ['raw/papers/2606.15919.md']

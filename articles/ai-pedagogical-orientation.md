@@ -6,7 +6,7 @@ type: article
 tags: [faculty-development, higher-ed, stem-education, ai-literacy, change-management, pedagogy, teacher-role, teacher-ai-competency, scaffolding]
 research_method: [survey, mixed methods]
 discipline: [stem education]
-audience: [faculty development, teacher role, faculty development genai]
+audience: [faculty development, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.18140.md']
 confidence: high

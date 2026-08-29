@@ -6,7 +6,7 @@ type: article
 tags: [productive-failure, generative-ai, math-education, k-12, llm, teacher-role, instructional-design]
 research_method: [mixed methods]
 discipline: [math education]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12]
 category: [instructional design]
 sources: ['raw/papers/rhaimi-productivemath-2025.md']

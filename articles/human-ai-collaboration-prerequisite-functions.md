@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, scaffolding, active-learning, student-experience, teacher-role, learning-analytics, llm, k-12]
 research_method: [theoretical analysis]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [k 12]
 sources: ['raw/papers/2606.15509.md']
 confidence: high

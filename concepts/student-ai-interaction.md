@@ -4,7 +4,7 @@ created: "2026-08-20T02:55:00-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [student-ai-interaction, generative-ai, llm, prompt-engineering, student-experience, learning-analytics, intelligent-tutoring, cognitive-offloading, higher-ed]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 confidence: high
 ---

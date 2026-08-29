@@ -5,7 +5,7 @@ updated: "2026-08-26T09:57:51-04:00"
 type: article
 tags: [llm, personalized-learning, adaptive-learning, metacognition, student-experience, self-regulated-learning, scaffolding]
 research_method: [theoretical analysis]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2605.04816.md']
 confidence: high
 ---

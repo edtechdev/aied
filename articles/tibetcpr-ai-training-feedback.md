@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 sources: []

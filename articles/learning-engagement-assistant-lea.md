@@ -4,6 +4,7 @@ created: "2026-07-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, intelligent-tutoring, higher-ed, stem-education, formative-assessment, benchmark, knowledge-tracing, personalized-learning, rag]
+audience: [software developers]
 research_method: [benchmark]
 discipline: [stem education]
 level: [higher ed]

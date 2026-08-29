@@ -4,6 +4,7 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [feedback, higher-ed, human-in-the-loop-ai, llm, writing-education]
+audience: [software developers]
 research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed]

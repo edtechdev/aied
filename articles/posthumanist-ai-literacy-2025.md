@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, writing-education, student-experience, agency, generative-ai, multilingual-learning, language-learning, academic-integrity]
 research_method: [qualitative, case study]
 discipline: [writing education, language learning]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 sources: ['raw/papers/10.1016_j.compcom.2025.102933.md']
 confidence: high
 ---

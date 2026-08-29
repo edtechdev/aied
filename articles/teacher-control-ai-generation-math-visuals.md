@@ -6,7 +6,7 @@ type: article
 tags: [teacher-role, stem-education, generative-ai, curriculum-design, pedagogy, agentic-ai, ai-education, math-education]
 research_method: [case study]
 discipline: [stem education, math education]
-audience: [teacher role]
+audience: [instructors]
 category: [curriculum design]
 sources: ['raw/papers/2605.10672.md']
 confidence: high

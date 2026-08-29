@@ -4,6 +4,7 @@ created: "2026-08-28T09:06:00-04:00"
 updated: "2026-08-28T09:06:00-04:00"
 type: article
 tags: [cs-education, intelligent-tutoring, help-seeking, learning-analytics, student-ai-interaction, agentic-ai, llm, generative-ai, student-engagement]
+audience: [software developers]
 research_method: [system development, case study]
 discipline: [cs education]
 sources: ['raw/papers/2608.26184.md']

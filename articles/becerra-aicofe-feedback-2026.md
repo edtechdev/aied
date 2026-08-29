@@ -5,7 +5,7 @@ updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [ai-ed-evaluation, feedback, student-experience, human-in-the-loop-ai, higher-ed, learning-analytics, formative-assessment]
 research_method: [system development]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [evaluation]
 

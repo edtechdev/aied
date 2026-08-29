@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [faculty-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
 research_method: [interviews]
-audience: [faculty development, teacher role]
+audience: [faculty development, instructors]
 level: [higher ed]
 sources: ['raw/papers/laidlaw-genai-identity-crisis-faculty-2026.md']
 confidence: high

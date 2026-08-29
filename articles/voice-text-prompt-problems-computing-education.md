@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, cs-education, generative-ai, llm, intelligent-tutoring, prompt-engineering, student-experience]
 research_method: [qualitative, mixed methods]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2607.05808.md']
 confidence: high
 ---

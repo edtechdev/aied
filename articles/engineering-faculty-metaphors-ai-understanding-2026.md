@@ -6,7 +6,7 @@ type: article
 tags: [engineering-education, faculty-development, ai-literacy, generative-ai, higher-ed, student-experience, cognitive-offloading]
 research_method: [qualitative, interviews]
 discipline: [engineering education]
-audience: [faculty development, student experience]
+audience: [faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/engineering-faculty-metaphors-ai-understanding-2026.md']
 confidence: high

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration, llm, help-seeking]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2606.03822.md']
 confidence: medium
 ---

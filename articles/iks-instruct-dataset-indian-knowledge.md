@@ -4,6 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, personalized-learning, learning-theories, language-learning, open-source]
+audience: [software developers]
 research_method: [system development, benchmark]
 discipline: [language learning]
 sources: ['raw/papers/2607.23322.md']

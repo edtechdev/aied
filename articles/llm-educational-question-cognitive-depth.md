@@ -4,7 +4,7 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [llm, generative-ai, automated-assessment, assessment, writing-education, ai-literacy, agentic-ai, higher-ed]
-audience: [teacher role, research methods aied]
+audience: [instructors, researchers, software developers]
 research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed]

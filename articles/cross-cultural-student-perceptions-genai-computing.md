@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, higher-ed, student-experience, cs-education, educational-policy-ai]
 research_method: [survey]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.19699.md']
 confidence: high

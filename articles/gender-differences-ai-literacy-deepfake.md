@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, k-12, stem-education, equity-in-ai-education, student-experience, learning-analytics, llm]
 research_method: [survey]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2606.14718.md']
 confidence: high

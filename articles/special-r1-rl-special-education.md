@@ -4,6 +4,7 @@ created: "2026-06-01T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, special-education, personalized-learning, reinforcement-learning, k-12, scaffolding]
+audience: [software developers]
 research_method: [system development]
 level: [special education, k 12]
 sources: ['raw/papers/2605.30670.md']

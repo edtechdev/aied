@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [prompt-engineering, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal, student-experience, ai-literacy, intelligent-tutoring]
 research_method: [system development]
-audience: [student experience, teacher role]
+audience: [learners, instructors, software developers]
 level: [higher ed]
 confidence: high
 sources: []

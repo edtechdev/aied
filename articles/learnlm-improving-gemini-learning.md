@@ -5,7 +5,7 @@ updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [llm, pedagogical-llm-training, generative-ai, intelligent-tutoring, reinforcement-learning, prompt-engineering, teacher-role, student-ai-interaction]
 research_method: [system development]
-audience: [teacher role]
+audience: [instructors, software developers]
 confidence: high
 sources: [raw/papers/2412.16429.md]
 ---

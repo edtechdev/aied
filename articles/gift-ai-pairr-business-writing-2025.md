@@ -6,7 +6,7 @@ type: article
 tags: [ai-feedback-quality, writing-education, ai-literacy, student-experience, peer-review, multilingual-learning, self-regulated-learning, metacognition, equity-in-ai-education]
 research_method: [case study]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/10.3389_fcomm.2025.1615752.md']
 confidence: high
 ---

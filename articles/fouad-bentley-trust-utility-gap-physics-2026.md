@@ -6,7 +6,7 @@ type: article
 tags: [physics-education, trust-calibration, ai-literacy, student-experience, higher-ed, stem-education, change-management]
 research_method: [mixed methods]
 discipline: [physics education, stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/fouad-bentley-trust-utility-gap-physics-2026.md']
 confidence: high
