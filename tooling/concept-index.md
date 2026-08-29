@@ -464,7 +464,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`sociocultural-learning`** — Sociocultural Learning
 - **`socratic-method`** — Socratic Method
 - **`special-education`** — Special Education
-- **`sustainability`** — Sustainability and AI in education
+- **`sustainability`** — Sustainability
 - **`stakeholders`** — People and Audiences in AI Education
 - **`stem-education`** — STEM Education
 - **`storytelling-in-education`** — Storytelling in Education
