@@ -331,9 +331,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       .nav-backdrop { display: none !important; }
       .sidebar {
         position: sticky;
-        top: 0;
+        top: calc(var(--drawer-top, 4rem) + 1rem);
         height: auto;
-        max-height: calc(100vh - 2.5rem);
+        max-height: calc(100dvh - var(--drawer-top, 4rem) - 1rem);
         max-width: none;
         width: auto;
         transform: none;
@@ -422,8 +422,8 @@ const recentConceptItems = recentConcepts.map(c => ({
     @media (min-width: 1024px) {
       .right-col {
         position: sticky;
-        top: var(--drawer-top, 4rem);
-        max-height: calc(100dvh - var(--drawer-top, 4rem));
+        top: calc(var(--drawer-top, 4rem) + 1rem);
+        max-height: calc(100dvh - var(--drawer-top, 4rem) - 1rem);
         display: flex;
         flex-direction: column;
       }
