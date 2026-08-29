@@ -102,13 +102,13 @@ const displayHeadings = pageTitle
   .toc-body { border-top: 1px solid var(--card-border-color); padding: 0.4rem 0.75rem 0.75rem; }
 
   /* === Desktop TOC (right rail, wide screens) ===
-     The right rail is a sticky flex column. This TOC is the primary flex item:
-     it grows to fill the available column space (so it has plenty of vertical
-     room), and scrolls internally if its content is taller than what's left.
-     The recent-activity rail below it keeps a guaranteed 14rem floor. */
+     The right rail is a sticky flex column. The TOC shrinks to fit its content
+     and only scrolls internally when it would exceed a reasonable height; the
+     recent-activity rail below it (flex-grow 1) fills the rest of the column
+     down to the bottom of the browser. */
   .toc-desktop {
-    flex: 1 1 auto;
-    min-height: 0;
+    flex: 0 1 auto;
+    max-height: 45vh;
     overflow-y: auto;
     margin: 0 0 0.5rem 0;
   }
