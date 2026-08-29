@@ -5,7 +5,7 @@ updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [assessment, automated-assessment, psychometrically-aware-ai, rag, ai-ed-evaluation]
 research_method: [system development, benchmark]
-category: [assessment, confidence, ai ed evaluation]
+category: [assessment, evaluation]
 
 sources: ['raw/papers/cong-confidence-asag-2026.md']
 confidence: medium

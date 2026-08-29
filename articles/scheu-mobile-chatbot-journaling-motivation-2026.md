@@ -7,7 +7,7 @@ tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, st
 research_method: [experiment]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
 confidence: high
 ---

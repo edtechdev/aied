@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, higher-ed, benchmark, student-engagement, llm, knowledge-tracing]
 research_method: [experiment, benchmark]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 
 sources: ['raw/papers/2605.05648.md']
 confidence: high

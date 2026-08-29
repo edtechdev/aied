@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, learning-analytics, student-engagement, k-12, benchmark, scaffolding, rag, metacognition]
 research_method: [experiment, benchmark]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 
 sources: ['raw/papers/2605.12788.md']
 confidence: high

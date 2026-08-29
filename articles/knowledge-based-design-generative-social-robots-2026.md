@@ -6,7 +6,7 @@ type: article
 tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, design-thinking, ethics, privacy]
 research_method: [qualitative, interviews]
 level: [higher ed]
-category: [design]
+category: [instructional design]
 sources: ['raw/papers/vonschallen-knowledge-based-gsr-higher-ed-2026.md']
 confidence: high
 ---

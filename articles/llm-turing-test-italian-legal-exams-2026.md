@@ -5,7 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, assessment, professional-training, ai-ed-evaluation, benchmark, automated-assessment]
 research_method: [benchmark]
-category: [assessment, ai ed evaluation]
+category: [assessment, evaluation]
 sources: ['raw/papers/2608.06166.md']
 confidence: medium
 ---

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, professional-training, student-engagement, benchmark, intelligent-tutoring, open-source]
 research_method: [benchmark]
-category: [engagement metrics]
+category: [engagement]
 
 sources: ['raw/papers/2607.21570.md']
 confidence: high

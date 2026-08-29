@@ -7,7 +7,7 @@ tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-
 research_method: [benchmark]
 discipline: [math education]
 level: [k 12]
-category: [ai ed evaluation]
+category: [evaluation]
 confidence: high
 sources: []
 ---

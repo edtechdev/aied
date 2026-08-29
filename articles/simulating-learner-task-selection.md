@@ -7,7 +7,7 @@ tags: [intelligent-tutoring, mastery-learning, adaptive-learning, student-engage
 research_method: [system development]
 audience: [student experience]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2605.21613.md']
 confidence: high
 ---

@@ -6,7 +6,7 @@ type: article
 tags: [learning-analytics, student-engagement, multimodal, higher-ed, ai-ed-evaluation]
 research_method: [system development, benchmark]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/mind-the-student-engagement-prediction-2026.md']
 confidence: high
 ---

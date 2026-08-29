@@ -6,7 +6,7 @@ type: article
 tags: [adult-learning, instructional-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training, rag]
 research_method: [system development]
 level: [adult learning, higher ed]
-category: [design guidelines]
+category: [instructional design]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
 ---

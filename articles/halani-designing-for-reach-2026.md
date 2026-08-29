@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, curriculum-design, assessment, formative-assessment, cognitive-offloading, help-seeking, self-regulated-learning, metacognition, math-education, higher-ed, k-12, active-learning]
 research_method: [theoretical analysis]
 level: [higher ed, k 12]
-category: [course design, assessment]
+category: [instructional design, assessment]
 sources: ['raw/papers/halani-designing-for-reach-2026.md']
 confidence: high
 ---

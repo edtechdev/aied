@@ -7,7 +7,7 @@ tags: [math-education, multimodal, misconceptions, ai-ed-evaluation, educational
 research_method: [educational measurement]
 discipline: [math education]
 level: [k 12]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/drawedumath-vlm-struggling-students-2026.md']
 confidence: high
 ---

@@ -6,7 +6,7 @@ type: article
 tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
 research_method: [mixed methods, survey]
 level: [higher ed]
-category: [moral disengagement]
+category: [assessment]
 sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
 confidence: high
 ---

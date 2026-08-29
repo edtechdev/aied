@@ -6,7 +6,7 @@ type: article
 tags: [ai-ed-evaluation, llm, formative-assessment, teacher-role, assessment, automated-assessment]
 research_method: [survey]
 audience: [teacher role]
-category: [ai ed evaluation, assessment]
+category: [evaluation, assessment]
 
 sources: ['raw/papers/2606.23629.md']
 confidence: medium

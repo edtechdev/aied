@@ -7,7 +7,7 @@ tags: [intelligent-tutoring, equity-in-ai-education, student-engagement, k-12, a
 research_method: [randomized controlled trial]
 audience: [student experience]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
 confidence: high
 ---

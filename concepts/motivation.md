@@ -5,7 +5,7 @@ updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [motivation, student-experience, student-engagement, affective-computing, self-determination-theory, ai-education]
 audience: [student experience]
-category: [engagement metrics]
+category: [engagement]
 confidence: high
 ---
 

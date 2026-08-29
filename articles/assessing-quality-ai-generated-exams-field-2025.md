@@ -6,7 +6,7 @@ type: article
 tags: [automated-question-generation, automated-assessment, item-response-theory, assessment-validity, generative-ai, llm, higher-ed, ai-ed-evaluation]
 research_method: [experiment, system development]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/assessing-quality-ai-generated-exams-field-2025.md']
 confidence: high
 ---

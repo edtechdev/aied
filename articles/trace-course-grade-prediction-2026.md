@@ -6,7 +6,7 @@ type: article
 tags: [learning-analytics, student-modeling, machine-learning, knowledge-tracing, higher-ed, personalized-learning, educational-measurement, ai-ed-evaluation]
 research_method: [educational measurement]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/2608.13409.md']
 confidence: high
 ---

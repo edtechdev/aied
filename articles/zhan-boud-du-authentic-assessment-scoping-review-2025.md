@@ -6,7 +6,7 @@ type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, sociocultural-learning]
 research_method: [theoretical analysis, systematic review]
 level: [higher ed]
-category: [ai ed evaluation, assessment]
+category: [evaluation, assessment]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
 confidence: high
 ---

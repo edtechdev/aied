@@ -6,7 +6,7 @@ type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 confidence: high
 ---
 

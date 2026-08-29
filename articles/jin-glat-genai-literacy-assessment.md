@@ -7,7 +7,7 @@ tags: [ai-literacy, generative-ai, educational-measurement, item-response-theory
 audience: [research methods aied, teacher role]
 research_method: [educational measurement]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/jin-glat-genai-literacy-assessment.md']
 confidence: high
 ---

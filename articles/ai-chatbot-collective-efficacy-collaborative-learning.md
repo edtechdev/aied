@@ -6,7 +6,7 @@ type: article
 tags: [collaborative-learning, generative-ai, higher-ed, design-based-research, scaffolding]
 research_method: [design-based research]
 level: [higher ed]
-category: [chatbot design]
+category: [instructional design]
 sources: ['raw/papers/aper-chatbot-collective-efficacy.md']
 confidence: high
 ---

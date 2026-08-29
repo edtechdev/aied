@@ -5,7 +5,7 @@ updated: "2026-08-24T02:30:00-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
-category: [iterative design]
+category: [instructional design]
 confidence: high
 ---
 

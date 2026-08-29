@@ -6,7 +6,7 @@ type: article
 tags: [cognitive-offloading, metacognition, critical-thinking, ai-literacy, trust-calibration, reducing-ai-misuse, bias-mitigation, assessment, human-ai-collaboration, generative-ai]
 audience: [research methods aied]
 research_method: [experiment]
-category: [overconfidence]
+category: [assessment]
 sources: ['raw/papers/ai-advice-suppresses-ikt-suspension-2026.md']
 confidence: medium
 ---

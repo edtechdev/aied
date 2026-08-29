@@ -5,7 +5,7 @@ updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [learning-analytics, llm, ai-ed-evaluation, benchmark, trust]
 research_method: [benchmark]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/distilling-self-explaining-lm-learning-analytics-2026.md']
 confidence: high
 ---

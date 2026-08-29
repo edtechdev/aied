@@ -7,7 +7,7 @@ tags: [intelligent-tutoring, llm, generative-ai, help-seeking, student-engagemen
 research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 confidence: high
 sources: [raw/papers/one-click-away-khanmigo-two-year-school-experiment-2026.md]
 ---

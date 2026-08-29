@@ -7,7 +7,7 @@ tags: [generative-ai, agentic-ai, prompt-engineering, higher-ed, instructional-d
 audience: [teacher role, research methods aied]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [instructional design, verification]
+category: [instructional design, evaluation]
 sources: ['raw/papers/pchl-he-framework-genai-content-creation-2026.md']
 confidence: medium
 ---
