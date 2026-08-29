@@ -3,7 +3,7 @@ title: Multimodal AI Tutoring in STEM
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity, affective-tutoring, scaffolding, agentic-workflows, visualization]
+tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity-in-ai-education, affective-tutoring, scaffolding, agentic-ai, visualization]
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Work
 created: "2026-05-17T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role, teacher-ai-competency, agentic-ai-ecosystems-higher-education, faculty-development-genai, rag]
+tags: [ai-literacy, faculty-development, generative-ai, agentic-ai, scaffolding, teacher-role, teacher-ai-competency, rag]
 sources: ['raw/papers/2605.13906.md']
 confidence: medium
 ---

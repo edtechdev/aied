@@ -3,7 +3,7 @@ title: "When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code"
 created: "2026-07-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, cs-education, cognitive-offloading, metacognition, higher-ed, ai-literacy, student-experience, formative-assessment, reshaping-cs-education-genai]
+tags: [generative-ai, cs-education, cognitive-offloading, metacognition, higher-ed, ai-literacy, student-experience, formative-assessment]
 
 sources: ['raw/papers/2607.05068.md']
 confidence: high

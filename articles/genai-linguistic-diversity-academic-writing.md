@@ -3,7 +3,7 @@ title: "Generative AI and linguistic diversity in academic writing and publishin
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
-tags: [generative-ai, writing-education, equity, higher-ed, language-learning]
+tags: [generative-ai, writing-education, equity-in-ai-education, higher-ed, language-learning]
 sources: ['raw/papers/2607.28505.md']
 confidence: high
 ---

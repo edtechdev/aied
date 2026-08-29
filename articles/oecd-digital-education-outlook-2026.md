@@ -3,7 +3,7 @@ title: OECD Digital Education Outlook 2026
 created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-24T18:15:00-04:00"
 type: article
-tags: [generative-ai, pedagogy, tutoring, teacher-support, assessment, policy, oecd, higher-ed, k-12, ai-literacy]
+tags: [generative-ai, pedagogy, intelligent-tutoring, teacher-role, assessment, educational-policy-ai, higher-ed, k-12, ai-literacy]
 sources: ['raw/papers/oecd-digital-education-outlook-2026.md']
 confidence: high
 ---

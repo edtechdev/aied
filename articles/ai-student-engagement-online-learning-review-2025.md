@@ -3,7 +3,8 @@ title: "Artificial Intelligence and Student Engagement in Online Learning: A Lit
 created: "2026-08-20T05:30:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
-tags: [online-education, online-learning, student-engagement, literature-review, chatbots, affective-computing, learning-analytics, higher-ed]
+tags: [online-teaching-and-learning, student-engagement, conversational-ai, affective-computing, learning-analytics, higher-ed]
+research_method: [literature review]
 sources: ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
 confidence: high
 ---

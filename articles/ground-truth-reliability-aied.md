@@ -3,7 +3,8 @@ title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and V
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automated-grading, human-in-the-loop, ai-literacy-assessment-misalignment, human-in-the-loop-ai, llm-cognitive-diagnosis-handwritten-math]
+tags: [benchmark, learning-analytics, generative-ai, llm, automated-assessment, human-in-the-loop-ai, ai-literacy]
+research_method: [efficacy study]
 sources: ['raw/papers/2603.29141.md']
 confidence: high
 ---

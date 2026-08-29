@@ -3,7 +3,8 @@ title: RCT
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: concept
-tags: [ai-education, generative-ai, higher-ed, research-methods-aied, efficacy-study]
+tags: [ai-education, generative-ai, higher-ed, research-methods-aied]
+research_method: [efficacy study]
 confidence: high
 ---
 

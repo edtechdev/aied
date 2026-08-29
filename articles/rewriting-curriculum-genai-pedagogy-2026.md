@@ -3,7 +3,7 @@ title: "Rewriting the Curriculum: A Systematic Review of Generative AI-Driven Pe
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
-tags: [generative-ai, higher-ed, curriculum-design, instructional-design, pedagogical-innovation, meta-analysis-systematic-review]
+tags: [generative-ai, higher-ed, curriculum-design, instructional-design, meta-analysis-systematic-review]
 sources: ['raw/papers/rewriting-curriculum-genai-pedagogy-2026.md']
 confidence: high
 ---

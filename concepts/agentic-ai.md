@@ -4,7 +4,7 @@ created: "2026-08-01T04:07:54-04:00"
 updated: "2026-08-29T05:24:22-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
-tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency, cognitive-offloading]
+tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop-ai, agency, cognitive-offloading]
 confidence: high
 ---
 

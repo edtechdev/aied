@@ -3,7 +3,7 @@ title: Early Childhood and Elementary AI Education
 created: "2026-08-25T13:30:00-04:00"
 updated: "2026-08-25T13:30:00-04:00"
 type: concept
-tags: [early-childhood, elementary-education, k-12, ai-literacy, computational-thinking, play-based-learning, ai-education, well-being]
+tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 confidence: high
 ---
 

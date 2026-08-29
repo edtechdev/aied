@@ -3,7 +3,7 @@ title: Learning by Chatting? Investigating the Impact of Generative AI on Inform
 created: "2026-06-11T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, petechat-guardrailed-ai-tutor, ai-literacy]
+tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, pedagogical-agent, ai-literacy]
 
 sources: ['raw/papers/2606.11669.md']
 confidence: high

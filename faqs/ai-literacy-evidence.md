@@ -2,7 +2,8 @@
 title: "What is the evidence on AI literacy interventions in higher education?"
 created: "2026-08-24T09:52:00-04:00"
 updated: "2026-08-26T12:14:43-04:00"
-tags: [ai-literacy, higher-ed, educational-measurement, evidence]
+tags: [ai-literacy, higher-ed, educational-measurement]
+research_method: [evidence]
 ---
 
 # What is the evidence on AI literacy interventions in higher education?

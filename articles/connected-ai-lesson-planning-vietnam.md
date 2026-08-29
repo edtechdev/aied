@@ -3,7 +3,7 @@ title: "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional L
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south, ai-generated-content, teacher-ai-collaboration]
+tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south]
 sources: ['raw/papers/2607.28647.md']
 confidence: high
 ---

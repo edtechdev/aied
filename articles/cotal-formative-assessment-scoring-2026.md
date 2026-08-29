@@ -3,7 +3,7 @@ title: "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative 
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
-tags: [formative-assessment, automated-assessment, human-in-the-loop, prompt-engineering, benchmark, ai-ed-evaluation, assessment-validity, llm]
+tags: [formative-assessment, automated-assessment, human-in-the-loop-ai, prompt-engineering, benchmark, ai-ed-evaluation, assessment-validity, llm]
 
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
 confidence: high

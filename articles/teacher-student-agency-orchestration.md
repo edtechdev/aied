@@ -3,7 +3,7 @@ title: "Balancing Teacher and Student Agency: Co-Orchestration Tool Design Suppo
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [intelligent-tutoring, teacher-role, student-experience, k-12, human-in-the-loop, collaborative-learning, self-regulated-learning, scaffolding]
+tags: [intelligent-tutoring, teacher-role, student-experience, k-12, human-in-the-loop-ai, collaborative-learning, self-regulated-learning, scaffolding]
 sources: ['raw/papers/2605.18761.md']
 confidence: high
 ---

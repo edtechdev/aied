@@ -3,7 +3,7 @@ title: A Longitudinal Analysis of Public Discourse on AI Ethics in Education Usi
 created: "2026-07-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, equity, policy-maker, academic-integrity, higher-ed, governance, ethics, ai-education]
+tags: [ai-literacy, equity-in-ai-education, educational-policy-ai, academic-integrity, higher-ed, governance, ethics, ai-education]
 sources: ['raw/papers/2607.12295.md']
 confidence: medium
 ---## Key Findings

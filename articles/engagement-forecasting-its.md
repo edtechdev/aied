@@ -3,7 +3,8 @@ title: "From Heuristics to Analytics: Forecasting Effort and Progress in Online 
 created: "2026-05-20T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, learning-analytics, engagement-metrics, k-12, efficacy-study, benchmark, scaffolding, rag, metacognition]
+tags: [intelligent-tutoring, learning-analytics, student-engagement, k-12, benchmark, scaffolding, rag, metacognition]
+research_method: [efficacy study]
 
 sources: ['raw/papers/2605.12788.md']
 confidence: high

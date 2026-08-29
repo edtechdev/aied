@@ -3,7 +3,7 @@ title: "Mapping the Integration of AI into Business Education: Insights from a D
 created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-21T13:21:45-04:00"
 type: article
-tags: [ai-education, business-education, systematic-review, generative-ai, curriculum-design, higher-ed]
+tags: [ai-education, business-education, meta-analysis-systematic-review, generative-ai, curriculum-design, higher-ed]
 sources: ['raw/papers/espino-ai-business-education-review-2026.md']
 confidence: high
 ---

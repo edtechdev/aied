@@ -3,7 +3,8 @@ title: "A systematic review of generative AI in education: Empirical insights fr
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
-tags: [systematic-review, generative-ai, human-ai-interaction, ai-literacy, higher-ed, efficacy-study]
+tags: [meta-analysis-systematic-review, generative-ai, human-ai-collaboration, ai-literacy, higher-ed]
+research_method: [efficacy study]
 sources: ['raw/papers/liang-genai-systematic-review-human-ai-2026.md']
 confidence: high
 ---

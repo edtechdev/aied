@@ -3,7 +3,7 @@ title: "From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
-tags: [computing-education, programming-education, assessment, automated-assessment, llm-evaluation, educational-measurement, item-response-theory, learning-analytics, evaluation]
+tags: [cs-education, assessment, automated-assessment, ai-ed-evaluation, educational-measurement, item-response-theory, learning-analytics]
 sources: ['raw/papers/llm-difficulty-calibration-programming-exams-2026.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: Designing a mobile chatbot-based learning journaling system for intrinsic
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:33:55-04:00"
 type: article
-tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, engagement-metrics, efficacy-study, scaffolding, metacognition, llm]
+tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, student-engagement, scaffolding, metacognition, llm]
+research_method: [efficacy study]
 sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Beyond Output Metrics: Reframing AI-Assisted Vocal Pedagogy Through Huma
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, feedback, self-regulated-learning, metacognition, music-education, human-ai-collaboration, teacher-role, human-in-the-loop-ai]
+tags: [generative-ai, feedback, self-regulated-learning, metacognition, humanities-education, human-ai-collaboration, teacher-role, human-in-the-loop-ai]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1844841.md']
 confidence: medium

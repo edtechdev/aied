@@ -3,7 +3,7 @@ title: "Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systema
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [human-robot-interaction, agency, autonomy, systematic-review, ethics, governance, well-being]
+tags: [educational-robotics, agency, meta-analysis-systematic-review, ethics, governance, well-being]
 sources: ['raw/papers/glawe-human-autonomy-agency-hri-2025.md']
 confidence: high
 ---

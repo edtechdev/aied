@@ -3,7 +3,7 @@ title: "Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug 
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T04:59:59-04:00"
 type: article
-tags: [human-ai-collaboration, computing-education, stem-education, qualitative-research, llm, generative-ai, ai-education, higher-ed, programming-education]
+tags: [human-ai-collaboration, cs-education, stem-education, qualitative-research, llm, generative-ai, ai-education, higher-ed]
 sources: ['raw/papers/2608.02955v1.md']
 confidence: high
 ---

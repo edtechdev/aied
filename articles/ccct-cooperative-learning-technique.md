@@ -3,7 +3,7 @@ title: "Artificial intelligence assisted design of a novel cooperative learning 
 created: "2026-08-11T06:15:03-04:00"
 updated: "2026-08-11"
 type: article
-tags: [cooperative-learning, collaborative-learning, generative-ai, higher-ed, teacher-education, mixed-methods]
+tags: [collaborative-learning, generative-ai, higher-ed, teacher-education, mixed-methods-research]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']
 confidence: high
 ---

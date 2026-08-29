@@ -3,7 +3,7 @@ title: "EduSim-LLM: An Educational Platform Integrating Large Language Models an
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [educational-robotics, llm, robotic-simulation, programming-education, computational-thinking, beginners]
+tags: [educational-robotics, llm, cs-education, computational-thinking, personalized-learning]
 sources: ['raw/papers/lu-edusim-llm-robotic-simulation-2026.md']
 confidence: medium
 ---

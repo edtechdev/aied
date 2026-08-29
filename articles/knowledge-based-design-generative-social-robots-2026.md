@@ -3,7 +3,7 @@ title: "Knowledge-Based Design Requirements for Generative Social Robots in High
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [social-robots, generative-ai, higher-ed, tutoring, design, ethics, privacy]
+tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, design-thinking, ethics, privacy]
 sources: ['raw/papers/vonschallen-knowledge-based-gsr-higher-ed-2026.md']
 confidence: high
 ---

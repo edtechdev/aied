@@ -3,7 +3,7 @@ title: 'Why SuaCode?": Understanding African Students'' Motivations for Taking a
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [cs-education, equity, mooc, global-south, equity-in-ai-education, ai-literacy, ai-education]
+tags: [cs-education, equity-in-ai-education, online-teaching-and-learning, global-south, ai-literacy, ai-education]
 sources: ['raw/papers/2607.22940.md']
 confidence: high
 ---

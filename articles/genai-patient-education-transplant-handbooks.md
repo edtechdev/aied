@@ -3,7 +3,7 @@ title: "Auditing Institutional Heterogeneity for Generative AI in Patient Educat
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, health-education, equity, content-quality, equity-in-ai-education, adaptive-virtual-patient-psychotherapy-training, llm, ai-education]
+tags: [generative-ai, medical-education, equity-in-ai-education, simulation, llm, ai-education]
 sources: ['raw/papers/2607.22606.md']
 confidence: high
 ---

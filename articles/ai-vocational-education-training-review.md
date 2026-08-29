@@ -3,7 +3,8 @@ title: "Artificial intelligence in vocational education and training: A systemat
 created: "2026-08-01T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning, simulation-based-learning, regulation, constructivist]
+tags: [professional-training, intelligent-tutoring, generative-ai, adaptive-learning, simulation, regulation, constructivist]
+research_method: [efficacy study]
 sources: ['raw/papers/caeai-ai-vet-review.md']
 confidence: high
 ---

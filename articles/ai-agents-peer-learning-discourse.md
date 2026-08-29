@@ -3,7 +3,7 @@ title: "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Lear
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [agentic-ai, benchmark, collaborative-ai-tutoring, engagement-metrics, learning-analytics, llm, scaffolding, metacognition, ai-tutoring]
+tags: [agentic-ai, benchmark, intelligent-tutoring, student-engagement, learning-analytics, llm, scaffolding, metacognition]
 sources: ['raw/papers/2602.14477.md']
 confidence: medium
 ---

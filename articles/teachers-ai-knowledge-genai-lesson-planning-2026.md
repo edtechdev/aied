@@ -3,7 +3,7 @@ title: "Beyond operational skills: Teachers' AI knowledge and interactions with 
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [teacher-education, tpack, generative-ai, ai-literacy, teacher-role, lesson-planning]
+tags: [teacher-education, tpack, generative-ai, ai-literacy, teacher-role, instructional-design]
 sources: ['raw/papers/teachers-ai-knowledge-genai-lesson-planning-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Coding, robots, computational concepts, and machine learning using the m
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [teacher-education, programming-education, educational-robotics, machine-learning, cs-education, computational-thinking]
+tags: [teacher-education, cs-education, educational-robotics, machine-learning, computational-thinking]
 sources: ['raw/papers/microbit-robotics-machine-learning-teacher-training-2026.md']
 confidence: high
 ---

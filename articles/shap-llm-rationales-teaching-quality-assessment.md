@@ -3,7 +3,7 @@ title: "From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based T
 created: "2026-08-21T08:00:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
-tags: [automated-assessment, educational-nlp, llm, feedback, teacher-role, ai-ed-evaluation, learning-analytics, explainability]
+tags: [automated-assessment, educational-nlp, llm, feedback, teacher-role, ai-ed-evaluation, learning-analytics]
 confidence: high
 sources: [raw/papers/2606.05180.md]
 ---

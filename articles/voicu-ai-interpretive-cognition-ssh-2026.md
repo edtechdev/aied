@@ -3,7 +3,7 @@ title: "AI-Mediated Learning and the Restructuring of Interpretive Cognition: A 
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
-tags: [ai-education, critical-thinking, metacognition, agency, humanities, social-science, higher-ed, critical-ai-literacy, philosophy-of-education]
+tags: [ai-education, critical-thinking, metacognition, agency, humanities-education, higher-ed, ai-literacy, philosophy-of-ai-in-education]
 sources: ['raw/papers/voicu-ai-interpretive-cognition-ssh-2026.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: "The AI Adaptation Gap in Higher Education: Students, Faculty, and Admini
 created: "2026-08-27T09:12:00-04:00"
 updated: "2026-08-27T09:12:00-04:00"
 type: article
-tags: [higher-ed, teacher-education, ai-adoption, technology-adoption, trust, academic-integrity, educational-policy-ai, governance, survey, generative-ai]
+tags: [higher-ed, teacher-education, technology-acceptance-model, trust, academic-integrity, educational-policy-ai, governance, generative-ai]
+research_method: [survey]
 sources: ['raw/papers/ai-adaptation-gap-higher-education-2026.md']
 confidence: high
 ---

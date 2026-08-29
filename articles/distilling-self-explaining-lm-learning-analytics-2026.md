@@ -3,7 +3,7 @@ title: "Distilling Black-Box Machine Learning into a Small, Self-Explaining Lang
 created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
-tags: [learning-analytics, llm, explainability, benchmark, ai-ed-evaluation, trust]
+tags: [learning-analytics, llm, ai-ed-evaluation, benchmark, trust]
 sources: ['raw/papers/distilling-self-explaining-lm-learning-analytics-2026.md']
 confidence: high
 ---

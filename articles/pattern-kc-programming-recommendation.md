@@ -3,7 +3,7 @@ title: Automated Recommendation of Programming Learning Content Using Pattern-ba
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [knowledge-tracing, personalized-learning, adaptive-learning, intelligent-tutoring, programming-its, rag, generative-ai]
+tags: [knowledge-tracing, personalized-learning, adaptive-learning, intelligent-tutoring, rag, generative-ai]
 sources: ['raw/papers/2607.05409.md']
 confidence: high
 ---

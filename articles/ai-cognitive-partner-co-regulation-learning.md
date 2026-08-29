@@ -3,7 +3,7 @@ title: "Artificial intelligence as a cognitive partner: a developmental framewor
 created: "2026-08-16T04:26:01-04:00"
 updated: "2026-08-22T07:08:19-04:00"
 type: article
-tags: [learning-theory, self-regulated-learning, metacognition, cognitive-offloading, scaffolding, distributed-cognition, developmental-psychology, higher-ed]
+tags: [learning-theories, self-regulated-learning, metacognition, cognitive-offloading, scaffolding, distributed-cognition, cognitive-psychology, higher-ed]
 sources: ['raw/papers/ai-cognitive-partner-co-regulation-learning.md']
 confidence: high
 ---

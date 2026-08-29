@@ -3,7 +3,7 @@ title: "Evaluating the Effectiveness of Generative AI in Empowering Teachers for
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
-tags: [teacher-education, constructivist, instructional-design, generative-ai, teacher-ai-competency, professional-development, cognitive-offloading, teacher-agency]
+tags: [teacher-education, constructivist, instructional-design, generative-ai, teacher-ai-competency, adult-learning, cognitive-offloading, teacher-role]
 sources: ['raw/papers/sahab-model-genai-constructivist-id-2026.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: A Durability and Cross-Language Transfer Benchmark for a Validated Teachi
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [feedback, automated-assessment, teacher-role, formative-assessment, higher-ed, faculty-development-genai]
+tags: [feedback, automated-assessment, teacher-role, formative-assessment, higher-ed, faculty-development]
 
 sources: ['raw/papers/2607.11873.md']
 confidence: medium

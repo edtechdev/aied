@@ -3,7 +3,7 @@ title: "ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Langua
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [benchmark, llm-evaluation, ai-ed-evaluation, pedagogical-safety, llm, safety, generative-ai]
+tags: [benchmark, ai-ed-evaluation, pedagogical-safety, llm, generative-ai]
 sources: ['raw/papers/2608.09548.md']
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: AI-based scoring systematically underestimates conceptual understanding o
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
-tags: [assessment-validity, automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, equity-in-ai-education, educational-measurement, algorithmic-bias]
+tags: [assessment-validity, automated-assessment, bias-mitigation, equity-in-ai-education, multilingual-learning, physics-education, educational-measurement]
 
 sources: ['raw/papers/2607.28210.md']
 confidence: high

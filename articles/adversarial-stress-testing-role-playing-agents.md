@@ -3,7 +3,7 @@ title: "Adversarial Stress Testing of Role-Playing Language Agents using Multi-A
 created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
-tags: [agentic-ai, multi-agent, safety, evaluation, llm, generative-ai, human-ai-interaction, benchmark, ai-education]
+tags: [agentic-ai, pedagogical-safety, ai-ed-evaluation, llm, generative-ai, human-ai-collaboration, benchmark, ai-education]
 sources: ['raw/papers/2608.03166v1.md']
 confidence: high
 ---

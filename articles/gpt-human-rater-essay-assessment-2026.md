@@ -3,7 +3,7 @@ title: "Comparing GPT and human raters in essay assessment: Variability, bias, a
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [automated-essay-scoring, assessment, llm, writing-education, language-learning, fairness]
+tags: [automated-essay-scoring, assessment, llm, writing-education, language-learning, bias-mitigation]
 sources: ['raw/papers/gpt-human-rater-essay-assessment-2026.md']
 confidence: high
 ---

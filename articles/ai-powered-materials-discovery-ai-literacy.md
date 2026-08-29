@@ -3,7 +3,7 @@ title: "Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligne
 created: "2026-05-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, curriculum-design, equity, metacognition, stem-education, equity-in-ai-education, agentic-workflows, ai-education]
+tags: [ai-literacy, curriculum-design, equity-in-ai-education, metacognition, stem-education, agentic-ai, ai-education]
 sources: ['raw/papers/2605.09624.md']
 confidence: medium
 ---

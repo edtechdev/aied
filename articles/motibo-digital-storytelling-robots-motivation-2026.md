@@ -3,7 +3,7 @@ title: "MotiBo: The Impact of Interactive Digital Storytelling Robots on Student
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [social-robots, storytelling, motivation, self-determination-theory, engagement, educational-robotics, creativity]
+tags: [educational-robotics, storytelling-in-education, motivation, self-determination-theory, student-engagement, creativity]
 sources: ['raw/papers/fung-motibo-storytelling-robots-motivation-2026.md']
 confidence: medium
 ---

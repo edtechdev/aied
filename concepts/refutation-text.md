@@ -3,7 +3,7 @@ title: Refutation Text
 created: "2026-08-26T10:20:00-04:00"
 updated: "2026-08-26T10:20:00-04:00"
 type: concept
-tags: [misconceptions, conceptual-change, scaffolding, science-education, metacognition, generative-ai, learning-theories]
+tags: [misconceptions, cognitive-psychology, scaffolding, science-education, metacognition, generative-ai, learning-theories]
 confidence: high
 ---
 

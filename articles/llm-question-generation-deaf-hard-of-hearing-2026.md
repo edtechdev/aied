@@ -3,7 +3,7 @@ title: "Exploring the Design of LLM-Powered Question Generation for Deaf and Har
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [llm, generative-ai, special-education, inclusive-learning, automated-question-generation, online-learning, equity, k-12, higher-ed, student-experience]
+tags: [llm, generative-ai, special-education, inclusive-learning, automated-question-generation, online-teaching-and-learning, equity-in-ai-education, k-12, higher-ed, student-experience]
 sources: ['raw/papers/10.1016_j.caeai.2026.100615.md']
 confidence: high
 ---

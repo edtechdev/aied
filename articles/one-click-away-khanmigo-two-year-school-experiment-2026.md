@@ -3,7 +3,7 @@ title: "One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experimen
 created: "2026-08-17T17:57:00-04:00"
 updated: "2026-08-21T05:12:55-04:00"
 type: article
-tags: [intelligent-tutoring, llm, generative-ai, help-seeking, engagement-metrics, student-engagement, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, equity-in-ai-education]
+tags: [intelligent-tutoring, llm, generative-ai, help-seeking, student-engagement, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, equity-in-ai-education]
 confidence: high
 sources: [raw/papers/one-click-away-khanmigo-two-year-school-experiment-2026.md]
 ---

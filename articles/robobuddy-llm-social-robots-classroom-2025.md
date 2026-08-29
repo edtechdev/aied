@@ -3,7 +3,7 @@ title: "RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Stor
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
-tags: [social-robots, human-robot-interaction, llm, storytelling, educational-robotics, multicultural-education, teacher-role]
+tags: [educational-robotics, llm, storytelling-in-education, inclusive-learning, teacher-role]
 sources: ['raw/papers/tozadore-robobuddy-llm-social-robots-2025.md']
 confidence: medium
 ---

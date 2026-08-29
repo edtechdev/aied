@@ -4,7 +4,7 @@ created: "2026-08-12T19:08:47-04:00"
 updated: "2026-08-27T08:12:21.057525-04:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
 type: concept
-tags: [cognitive-offloading, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
+tags: [cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
 
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
 updated: "2026-08-26T05:46:39-04:00"
 type: concept
-tags: [icap, cognitive-engagement, learning-theory, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]
+tags: [cognitive-psychology, learning-theories, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]
 confidence: high
 ---
 

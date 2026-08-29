@@ -3,7 +3,7 @@ title: "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Tea
 created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark, governance]
+tags: [llm, k-12, pedagogical-safety, benchmark, governance]
 sources: ['raw/papers/2608.02024.md']
 confidence: high
 ---

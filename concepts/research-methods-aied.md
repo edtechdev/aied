@@ -3,7 +3,8 @@ title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 type: concept
-tags: [ai-education, educational-measurement, efficacy-study, rct, benchmark, methodology, evaluation, higher-ed]
+tags: [ai-education, educational-measurement, rct, benchmark, ai-ed-evaluation, higher-ed]
+research_method: [efficacy study, methodology]
 confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 ---

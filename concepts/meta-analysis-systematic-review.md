@@ -3,7 +3,8 @@ title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
 updated: "2026-08-26T12:13:03-04:00"
 type: concept
-tags: [meta-analysis, systematic-review, research-methods, methodology, evidence-synthesis, ai-education, evaluation]
+tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
+research_method: [methodology, evidence synthesis]
 confidence: high
 ---
 

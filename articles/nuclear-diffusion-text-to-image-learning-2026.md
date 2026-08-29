@@ -3,7 +3,7 @@ title: "NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear E
 created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, stem-education, ai-generated-content, multimodal, content-quality, higher-ed, visualization]
+tags: [generative-ai, stem-education, multimodal, higher-ed, visualization]
 sources: ['raw/papers/2608.04030.md']
 confidence: high
 ---

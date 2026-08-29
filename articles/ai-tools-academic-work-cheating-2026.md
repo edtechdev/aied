@@ -3,7 +3,7 @@ title: 'Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethic
 created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-20T04:40:00-04:00"
 type: article
-tags: [academic-integrity, ai-misuse-learning-harm, critical-thinking, student-perception, ethics, ai-literacy, systematic-review, higher-ed]
+tags: [academic-integrity, ai-misuse-learning-harm, critical-thinking, student-experience, ethics, ai-literacy, meta-analysis-systematic-review, higher-ed]
 sources: ['raw/papers/ai-tools-academic-work-cheating-2026.md']
 confidence: medium
 ---

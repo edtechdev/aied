@@ -16,6 +16,18 @@ const timeField = z
   .union([z.date(), z.string()])
   .transform(v => (v instanceof Date ? v.toISOString() : String(v)));
 
+// Optional structured metadata fields (added 2026-08-29 tag migration).
+// `tags` is the concept vocabulary; these hold non-concept metadata that was
+// formerly mixed into `tags`. Inert until surfaced in the UI / facets.
+const structField = z.any().transform(v => Array.isArray(v) ? v.map(String) : []);
+const structuredMeta = {
+  research_method: structField.optional(),
+  discipline: structField.optional(),
+  audience: structField.optional(),
+  level: structField.optional(),
+  category: structField.optional(),
+};
+
 const articles = defineCollection({
   loader: glob({ pattern: '*.md', base: articlesDir }),
   schema: z.object({
@@ -28,6 +40,7 @@ const articles = defineCollection({
       ['high', 'medium', 'low'].includes(v) ? v : 'medium'
     ),
     connected_faqs: z.any().transform(v => Array.isArray(v) ? v.map(String) : []).optional(),
+    ...structuredMeta,
   }),
 });
 
@@ -42,6 +55,7 @@ const concepts = defineCollection({
       ['high', 'medium', 'low'].includes(v) ? v : 'medium'
     ),
     connected_faqs: z.any().transform(v => Array.isArray(v) ? v.map(String) : []).optional(),
+    ...structuredMeta,
   }),
 });
 
@@ -52,6 +66,7 @@ const faqs = defineCollection({
     created: timeField,
     updated: timeField.optional().transform(v => v ?? ''),
     tags: z.any().transform(v => Array.isArray(v) ? v.map(String) : []),
+    ...structuredMeta,
   }),
 });
 

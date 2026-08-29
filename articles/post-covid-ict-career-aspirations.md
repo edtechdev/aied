@@ -3,7 +3,7 @@ title: "Learning after COVID-19 and the ICT career aspirations: Are students ent
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [k-12, higher-ed, ai-literacy, stem-education, equity, teacher-ai-competency, automated-grading, llm, generative-ai]
+tags: [k-12, higher-ed, ai-literacy, stem-education, equity-in-ai-education, teacher-ai-competency, automated-assessment, llm, generative-ai]
 sources: ['raw/papers/2605.27391.md']
 confidence: medium
 ---

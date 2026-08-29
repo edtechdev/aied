@@ -3,7 +3,7 @@ title: "Less Deliberate in Teams: Student LLM Use Across Individual and Collabor
 created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, student-experience, collaborative-learning, higher-ed, engagement-metrics, llm-in-education, rag]
+tags: [llm, student-experience, collaborative-learning, higher-ed, student-engagement, generative-ai, rag]
 sources: ['raw/papers/2606.30860.md']
 confidence: high
 ---

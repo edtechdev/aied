@@ -3,7 +3,7 @@ title: "K-12 Teachers' Perspectives on AI Use Through the Lens of Activity Theor
 created: "2026-08-26T08:14:00-04:00"
 updated: "2026-08-26T08:14:00-04:00"
 type: article
-tags: [activity-theory, teacher-role, k-12, generative-ai, student-experience, qualitative-research]
+tags: [activity-theory-aied, teacher-role, k-12, generative-ai, student-experience, qualitative-research]
 sources: ['raw/papers/lee-anson-k12-teachers-ai-activity-theory.md']
 confidence: high
 ---

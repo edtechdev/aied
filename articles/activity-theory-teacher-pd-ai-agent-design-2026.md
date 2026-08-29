@@ -3,7 +3,7 @@ title: "An Activity-Theoretical Approach to Teacher Professional Development in 
 created: "2026-08-26T08:15:00-04:00"
 updated: "2026-08-26T08:15:00-04:00"
 type: article
-tags: [activity-theory, teacher-role, professional-development, agentic-ai, generative-ai, self-determination, k-12]
+tags: [activity-theory-aied, teacher-role, adult-learning, agentic-ai, generative-ai, self-determination-theory, k-12]
 sources: ['raw/papers/2605.12934.md']
 confidence: high
 ---

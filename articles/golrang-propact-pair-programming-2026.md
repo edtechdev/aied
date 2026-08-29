@@ -3,7 +3,7 @@ title: "ProPACT: Pair Programming with AI"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
-tags: [pair-programming, collaborative-learning, cs-education, adaptive-learning-systems, rag, adaptive-learning, intelligent-tutoring]
+tags: [collaborative-learning, cs-education, adaptive-learning, rag, intelligent-tutoring]
 
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium

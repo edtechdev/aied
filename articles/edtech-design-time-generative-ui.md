@@ -3,7 +3,7 @@ title: "The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just 
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [personalized-learning, adaptive-learning, edtech-platform, student-experience, equity, learning-analytics, llm, k-12]
+tags: [personalized-learning, adaptive-learning, edtech-platform, student-experience, equity-in-ai-education, learning-analytics, llm, k-12]
 sources: ['raw/papers/2606.15902.md']
 confidence: medium
 ---

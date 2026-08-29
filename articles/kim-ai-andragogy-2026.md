@@ -3,7 +3,7 @@ title: "Adult Learners' Perspectives of AI Applications in Supporting Andragogy"
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
-tags: [adult-learning, generative-ai, human-in-the-loop-ai, affective-computing, personalized-learning, ai-education, autonomy, self-directed-learning]
+tags: [adult-learning, generative-ai, human-in-the-loop-ai, affective-computing, personalized-learning, ai-education, agency, self-directed-learning]
 sources: ['raw/papers/kim-ai-andragogy-2026.md']
 confidence: high
 ---

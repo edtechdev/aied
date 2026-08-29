@@ -3,7 +3,7 @@ title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
-tags: [conversational-ai, chatbot, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-interaction, ai-literacy]
+tags: [conversational-ai, intelligent-tutoring, generative-ai, llm, pedagogical-agent, human-ai-collaboration, ai-literacy]
 confidence: medium
 ---
 

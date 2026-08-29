@@ -3,7 +3,7 @@ title: "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook D
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, llm, personalized-learning, educational-theory]
+tags: [generative-ai, llm, personalized-learning, learning-theories]
 sources: ['raw/papers/2607.28109.md']
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "Interactive learning dashboards: rethinking learning visualisations as e
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-26T15:33:55-04:00"
 type: article
-tags: [learning-analytics, metacognition, llm, higher-ed, engagement-metrics, self-regulated-learning, intelligent-tutoring, pedagogical-agent, cs-education, visualization]
+tags: [learning-analytics, metacognition, llm, higher-ed, student-engagement, self-regulated-learning, intelligent-tutoring, pedagogical-agent, cs-education, visualization]
 sources: ['raw/papers/interactive-learning-dashboards-engagement.md']
 confidence: high
 ---

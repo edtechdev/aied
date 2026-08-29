@@ -3,7 +3,7 @@ title: "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for
 created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, ai-ed-evaluation, trust-calibration, human-in-the-loop, instructional-design, edtech-platform, interpretability, visualization]
+tags: [llm, ai-ed-evaluation, trust-calibration, human-in-the-loop-ai, instructional-design, edtech-platform, visualization]
 sources: ['raw/papers/2608.04006.md']
 confidence: high
 ---

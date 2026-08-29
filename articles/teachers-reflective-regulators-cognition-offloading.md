@@ -3,7 +3,7 @@ title: "Teachers as reflective regulators of cognition: Understanding cognitive 
 created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
-tags: [cognitive-offloading, generative-ai, teacher-role, metacognition, ai-literacy, higher-ed, reflective-practice]
+tags: [cognitive-offloading, generative-ai, teacher-role, metacognition, ai-literacy, higher-ed, adult-learning]
 sources: ['raw/papers/teachers-reflective-regulators-cognition-offloading.md']
 confidence: high
 ---

@@ -3,7 +3,8 @@ title: How AI Is Changing Teaching Workflows
 created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
-tags: [generative-ai, teacher-role, faculty-development, efficacy-study, rct, k-12, higher-ed, student-experience, equity, ai-literacy]
+tags: [generative-ai, teacher-role, faculty-development, rct, k-12, higher-ed, student-experience, equity-in-ai-education, ai-literacy]
+research_method: [efficacy study]
 sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
 confidence: high
 ---

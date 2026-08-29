@@ -3,7 +3,7 @@ title: "HAIML: A Human-Centered AI Metacognitive Learning Model — A Framework 
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T14:00:00-04:00"
 type: article
-tags: [metacognition, self-regulated-learning, human-in-the-loop, ai-literacy, cognitive-offloading, ethics, student-ai-interaction]
+tags: [metacognition, self-regulated-learning, human-in-the-loop-ai, ai-literacy, cognitive-offloading, ethics, student-ai-interaction]
 
 sources: ['raw/papers/haiml-human-centered-ai-metacognitive-model-2026.md']
 confidence: medium

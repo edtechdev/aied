@@ -4,7 +4,7 @@ created: "2026-08-13T18:07:54-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
-tags: [equity, ai-literacy, digital-inequality, ai-education, access, inclusion, social-justice]
+tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
 confidence: high
 ---
 

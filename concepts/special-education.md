@@ -3,7 +3,7 @@ title: Special Education
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-27T08:55:36.300729-04:00"
 type: concept
-tags: [special-education, inclusive-learning, equity, neurodiversity, ai-education, k-12, higher-ed]
+tags: [special-education, inclusive-learning, equity-in-ai-education, neurodiversity, ai-education, k-12, higher-ed]
 confidence: high
 ---
 

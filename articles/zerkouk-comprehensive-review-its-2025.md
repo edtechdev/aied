@@ -3,7 +3,8 @@ title: Comprehensive Review of Intelligent Tutoring Systems
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:34:24-04:00"
 type: article
-tags: [intelligent-tutoring, literature-review, adaptive-learning, pedagogical-llm-training, educational-nlp, socratic-questioning, scaffolding]
+tags: [intelligent-tutoring, adaptive-learning, pedagogical-llm-training, educational-nlp, pedagogical-agent, scaffolding]
+research_method: [literature review]
 sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
 confidence: medium
 ---

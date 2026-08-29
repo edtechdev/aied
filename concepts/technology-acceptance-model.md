@@ -3,7 +3,7 @@ title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-27T09:20:00-04:00"
 type: concept
-tags: [technology-acceptance-model, technology-adoption, utaut, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied, adoption]
+tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 confidence: high
 ---
 

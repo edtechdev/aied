@@ -3,7 +3,7 @@ title: "CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybers
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T05:00:37-04:00"
 type: article
-tags: [agentic-ai, computing-education, cs-education, pedagogical-safety, llm, professional-training, generative-ai]
+tags: [agentic-ai, cs-education, pedagogical-safety, llm, professional-training, generative-ai]
 sources: ['raw/papers/2608.07965.md']
 confidence: high
 ---

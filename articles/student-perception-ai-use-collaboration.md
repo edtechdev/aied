@@ -3,7 +3,7 @@ title: Students' Perception Accuracy of Partners' AI Use and its Relation to Col
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [student-experience, cs-education, collaborative-ai-tutoring, cognitive-offloading, higher-ed, intelligent-tutoring]
+tags: [student-experience, cs-education, intelligent-tutoring, cognitive-offloading, higher-ed]
 
 sources: ['raw/papers/2606.23237.md']
 confidence: medium

@@ -3,7 +3,7 @@ title: "Science educators' AI literacy and AI usage in teaching: Implications fo
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [science-education, ai-literacy, teacher-education, professional-development, stem-education]
+tags: [science-education, ai-literacy, teacher-education, adult-learning, stem-education]
 sources: ['raw/papers/science-educators-ai-literacy-postqualification-2026.md']
 confidence: high
 ---
