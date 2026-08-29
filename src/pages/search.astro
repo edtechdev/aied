@@ -157,19 +157,25 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
     const { q, filters, hadParams } = readParams();
 
-    // Restore the search from the URL once the pagefind worker is truly ready.
+    // Restore the search from the URL once the input element exists. We set
+    // the input value and dispatch an input event — PageFind's own debounced
+    // listener runs the search, and our persist() hook updates the URL.
     const restore = () => {
-      const inst = instance();
-      if (!inst) return;
-      // Only restore once the worker has loaded (filters/available data present).
-      if (!inst.__pagefind__ && !inst.availableFilters) {
+      const input = document.querySelector("pagefind-input input");
+      if (!input) {
         setTimeout(restore, 150);
         return;
       }
-      const input = document.querySelector("pagefind-input input");
-      if (input && input.value === "") input.value = q;
-      if (q || Object.keys(filters).length) {
-        inst.triggerSearchWithFilters(q, filters);
+      if (q && input.value === "") {
+        input.value = q;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+      }
+      // Apply any pre-selected filters via the instance once it's ready.
+      if (Object.keys(filters).length) {
+        try {
+          const inst = instance();
+          if (inst) inst.triggerSearchWithFilters(q, filters);
+        } catch {}
       }
     };
 
