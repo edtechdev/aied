@@ -39,12 +39,15 @@ const key = pageKey(kind, slug);
     justify-content: center;
     background: none;
     border: none;
-    padding: 0.25rem;
+    padding: 0.1rem;
     margin-left: 0.5rem;
     cursor: pointer;
     color: var(--muted-color);
     border-radius: 6px;
-    vertical-align: middle;
+    /* Baseline alignment + no line-box inflation so the button sits tight
+       against the title without pushing the following content down. */
+    vertical-align: text-bottom;
+    line-height: 1;
     /* No color transition: the filled/unfilled star must snap instantly on
        toggle, not fade (a 150ms fade reads as a lag on slower browsers). */
     transition: transform 0.1s ease;
