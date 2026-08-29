@@ -4,6 +4,7 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, language-learning, feedback-literacy, assessment]
+research_method: [mixed methods, quasi-experiment]
 discipline: [language learning]
 category: [assessment]
 sources: ['raw/papers/sutama-chatgpt-eportfolio-speaking-2026.md']

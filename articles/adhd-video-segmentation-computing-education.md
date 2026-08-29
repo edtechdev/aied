@@ -3,7 +3,8 @@ title: "Leveling the Playing Field: Temporal Video Segmentation for Individuals 
 created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [inclusive-learning, cs-education, instructional-design, neurodiversity, llm]
+tags: [inclusive-learning, cs-education, instructional-design, neurodiversity, llm, cognitive-load]
+research_method: [experiment]
 discipline: [cs education]
 category: [instructional design]
 sources: ['raw/papers/2607.24612.md']

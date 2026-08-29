@@ -4,7 +4,8 @@ created: "2026-05-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [learning-analytics, edtech-platform, personalized-learning, higher-ed, feedback, student-experience, ai-literacy, llm]
-audience: [student experience]
+research_method: [system development, case study]
+audience: [teacher role, researcher]
 level: [higher ed]
 
 sources: ['raw/papers/2605.30303.md']

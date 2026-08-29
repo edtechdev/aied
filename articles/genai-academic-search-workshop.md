@@ -4,6 +4,7 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, llm, ai-literacy, educational-policy-ai, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
+research_method: [workshop report]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed, k 12]

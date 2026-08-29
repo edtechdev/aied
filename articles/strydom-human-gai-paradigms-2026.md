@@ -4,6 +4,8 @@ created: "2026-08-22T17:10:00-04:00"
 updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, human-ai-collaboration, ai-literacy, learning-theories, ai-education, theory-development-aied, student-ai-interaction]
+audience: [teacher role, researcher]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/strydom-human-gai-paradigms-2026.md']
 confidence: high

@@ -4,6 +4,7 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity-in-ai-education, privacy, metacognition, teacher-role, student-experience, adaptive-learning, ai-literacy]
+research_method: [theoretical analysis]
 audience: [teacher role, student experience]
 sources: ['raw/papers/khosravi-xai-education-2022.md']
 confidence: high

@@ -6,7 +6,7 @@ type: article
 tags: [cs-education, stem-education, student-experience, higher-ed, benchmark, llm, generative-ai, ai-literacy, scaffolding, intelligent-tutoring]
 research_method: [benchmark]
 discipline: [cs education, stem education]
-audience: [student experience]
+audience: [teacher role, student experience]
 level: [higher ed]
 confidence: high
 sources: []

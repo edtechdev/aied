@@ -4,6 +4,8 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-feedback-quality, feedback, ai-literacy, higher-ed, writing-education, formative-assessment, self-regulated-learning, assessment, motivation]
+audience: [student experience, teacher role]
+research_method: [survey, psychometric]
 discipline: [writing education]
 level: [higher ed]
 category: [assessment]

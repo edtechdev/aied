@@ -3,7 +3,8 @@ title: Using LLMs to Detect Growth in Computational Thinking in Introductory Phy
 created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-24T04:38:01-04:00"
 type: article
-tags: [llm, computational-thinking, physics-education, stem-education, assessment, higher-ed, automated-assessment]
+tags: [llm, computational-thinking, physics-education, stem-education, assessment, higher-ed, automated-assessment, problem-solving]
+research_method: [quasi-experiment]
 discipline: [physics education, stem education]
 level: [higher ed]
 category: [assessment]

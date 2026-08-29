@@ -4,6 +4,7 @@ created: "2026-07-24T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, cs-education, scaffolding, feedback, higher-ed]
+research_method: [scoping review]
 discipline: [cs education]
 level: [higher ed]
 

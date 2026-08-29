@@ -4,6 +4,7 @@ created: "2026-08-16T21:20:00-04:00"
 updated: "2026-08-16T21:20:00-04:00"
 type: article
 tags: [cognitive-offloading, metacognition, feedback, self-regulated-learning, student-experience, generative-ai]
+research_method: [experiment]
 audience: [student experience]
 
 sources: ['raw/papers/metacognitive-training-optimal-cognitive-offloading-2026.md']

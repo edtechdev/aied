@@ -4,6 +4,7 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, math-education, adaptive-learning, personalized-learning, agentic-ai, llm, generative-ai, socratic-method, rag, student-modeling]
+research_method: [system development, benchmark]
 discipline: [math education]
 
 sources: ['raw/papers/chudziak-ai-math-tutoring-platform.md']

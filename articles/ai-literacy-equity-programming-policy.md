@@ -4,7 +4,8 @@ created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, equity-in-ai-education, k-12, educational-policy-ai, higher-ed, faculty-development, teacher-role]
-audience: [faculty development genai, teacher role]
+research_method: [comparative policy analysis]
+audience: [administrator, teacher role]
 level: [k 12, higher ed]
 sources: ['raw/papers/2607.11314.md']
 confidence: high

@@ -4,6 +4,7 @@ created: "2026-08-19T12:44:00-04:00"
 updated: "2026-08-19T12:44:00-04:00"
 type: article
 tags: [chemistry-education, k-12, constructivist, personalized-learning, student-engagement, motivation]
+research_method: [qualitative, policy analysis]
 discipline: [chemistry education]
 level: [k 12]
 sources: ['raw/papers/context-based-ai-secondary-chemistry-2026.md']

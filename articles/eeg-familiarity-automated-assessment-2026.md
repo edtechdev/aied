@@ -3,7 +3,7 @@ title: "Automating Learner Assessment: Benchmarking Machine Learning and Deep Le
 created: "2026-08-21T19:02:30-04:00"
 updated: "2026-08-21T19:02:30-04:00"
 type: article
-tags: [automated-assessment, learning-analytics, educational-measurement, ai-ed-evaluation, benchmark, cognitive-diagnosis, student-modeling, limitations-in-aied-research]
+tags: [automated-assessment, learning-analytics, educational-measurement, ai-ed-evaluation, benchmark, cognitive-diagnosis, student-modeling, limitations-in-aied-research, machine-learning]
 research_method: [educational measurement, benchmark, limitations in aied research]
 category: [ai ed evaluation]
 sources: ['raw/papers/eeg-familiarity-automated-assessment-2026.md']

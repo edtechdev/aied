@@ -4,6 +4,8 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, ai-literacy, ai-use-disclosure, ethics, equity-in-ai-education, creativity]
+audience: [student experience, teacher role]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/lopez-lopez-academic-integrity-ai-study-practices-2026.md']
 confidence: high

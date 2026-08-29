@@ -5,7 +5,7 @@ updated: "2026-08-20T04:40:00-04:00"
 type: article
 tags: [academic-integrity, ai-misuse-learning-harm, critical-thinking, student-experience, ethics, ai-literacy, meta-analysis-systematic-review, higher-ed]
 research_method: [systematic review]
-audience: [student perception]
+audience: [student experience, teacher role]
 level: [higher ed]
 sources: ['raw/papers/ai-tools-academic-work-cheating-2026.md']
 confidence: medium

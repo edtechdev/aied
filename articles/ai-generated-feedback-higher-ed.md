@@ -5,7 +5,7 @@ updated: "2026-08-26T15:33:47-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
 research_method: [learning gains]
-audience: [student experience]
+audience: [student experience, teacher role]
 level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md']

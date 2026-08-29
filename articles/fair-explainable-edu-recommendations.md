@@ -4,6 +4,7 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
+research_method: [benchmark]
 sources: ['raw/papers/caeai-fair-recommendations.md']
 confidence: medium
 ---

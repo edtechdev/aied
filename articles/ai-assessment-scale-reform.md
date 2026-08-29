@@ -3,7 +3,8 @@ title: 'A bit of chaos and madness: The AI Assessment Scale and the work of asse
 created: "2026-06-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [higher-ed, assessment, academic-integrity, generative-ai, teacher-role, educational-policy-ai, ai-literacy]
+tags: [higher-ed, assessment, academic-integrity, generative-ai, teacher-role, educational-policy-ai, ai-literacy, change-management]
+research_method: [survey]
 audience: [teacher role]
 level: [higher ed]
 category: [assessment]

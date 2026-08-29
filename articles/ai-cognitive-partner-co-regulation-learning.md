@@ -4,6 +4,7 @@ created: "2026-08-16T04:26:01-04:00"
 updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [learning-theories, self-regulated-learning, metacognition, cognitive-offloading, scaffolding, distributed-cognition, cognitive-psychology, higher-ed]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/ai-cognitive-partner-co-regulation-learning.md']
 confidence: high

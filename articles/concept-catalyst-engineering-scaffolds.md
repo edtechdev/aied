@@ -4,6 +4,7 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, instructional-design]
+research_method: [system development, case study]
 discipline: [stem education]
 audience: [teacher role]
 level: [k 12]

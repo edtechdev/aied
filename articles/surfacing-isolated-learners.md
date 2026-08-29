@@ -4,6 +4,7 @@ created: "2026-06-01T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [learning-analytics, teacher-role, higher-ed, student-experience, feedback, ai-literacy, help-seeking]
+research_method: [system development, evaluation]
 audience: [teacher role, student experience]
 level: [higher ed]
 

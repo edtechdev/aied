@@ -4,6 +4,7 @@ created: "2026-07-10T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, higher-ed, student-experience, learning-analytics, personalized-learning, self-regulated-learning, generative-ai, scaffolding, ai-literacy]
+research_method: [quantitative, learning analytics]
 audience: [student experience]
 level: [higher ed]
 sources: ['raw/papers/2607.08748.md']

@@ -4,6 +4,7 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, k-12, stem-education, equity-in-ai-education, student-experience, learning-analytics, llm]
+research_method: [survey, quantitative]
 discipline: [stem education]
 audience: [student experience]
 level: [k 12]

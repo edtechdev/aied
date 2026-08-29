@@ -4,6 +4,8 @@ created: "2026-08-16T17:49:40-04:00"
 updated: "2026-08-16"
 type: article
 tags: [human-ai-collaboration, llm, prompt-engineering, agentic-ai, intelligent-tutoring, self-regulated-learning, learning-analytics, ai-literacy]
+audience: [researcher]
+research_method: [benchmark]
 
 sources: ['raw/papers/principal-trait-analysis-human-ai-skills-2026.md']
 confidence: high

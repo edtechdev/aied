@@ -4,6 +4,7 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [adaptive-learning, automated-assessment, intelligent-tutoring, learning-analytics, llm, personalized-learning, generative-ai, higher-ed, automated-question-generation]
+research_method: [qualitative, exploratory pilot]
 level: [higher ed]
 sources: ['raw/papers/2605.23933.md']
 confidence: medium

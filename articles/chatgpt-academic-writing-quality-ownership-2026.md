@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [writing-education, conversational-ai, higher-ed, cognitive-offloading, agency]
+research_method: [experiment]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/chatgpt-academic-writing-quality-ownership-2026.md']

@@ -4,6 +4,7 @@ created: "2026-08-16T20:02:54-04:00"
 updated: "2026-08-16"
 type: article
 tags: [automated-question-generation, automated-assessment, item-response-theory, assessment-validity, generative-ai, llm, higher-ed, ai-ed-evaluation]
+research_method: [field study, evaluation]
 level: [higher ed]
 category: [ai ed evaluation]
 sources: ['raw/papers/assessing-quality-ai-generated-exams-field-2025.md']

@@ -4,6 +4,7 @@ created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-24T04:50:09-04:00"
 type: article
 tags: [intelligent-tutoring, llm, teacher-role, faculty-development, edtech-platform, ai-literacy, agentic-ai]
+research_method: [system development, formative study]
 audience: [teacher role, faculty development]
 sources: ['raw/papers/2605.16605.md']
 confidence: high

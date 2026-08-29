@@ -4,6 +4,8 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [ai-literacy, generative-ai, cognitive-offloading, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding]
+audience: [teacher role, researcher]
+research_method: [systematic review]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/chatgpt-critical-creative-thinking-review.md']

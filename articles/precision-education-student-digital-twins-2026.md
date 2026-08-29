@@ -4,6 +4,7 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [adaptive-learning, student-modeling, personalized-learning, higher-ed, machine-learning, learning-analytics]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/2608.06322.md']
 confidence: medium

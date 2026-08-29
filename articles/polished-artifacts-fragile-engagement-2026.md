@@ -4,6 +4,7 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T10:30:00-04:00"
 type: article
 tags: [generative-ai, collaborative-learning, cognitive-offloading, metacognition, critical-thinking, ai-education]
+research_method: [theoretical analysis]
 sources: ['raw/papers/polished-artifacts-fragile-engagement-2026.md']
 confidence: high
 ---

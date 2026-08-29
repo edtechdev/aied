@@ -4,6 +4,7 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [teacher-role, stem-education, generative-ai, curriculum-design, pedagogy, agentic-ai, ai-education, math-education]
+research_method: [case study]
 discipline: [stem education, math education]
 audience: [teacher role]
 category: [curriculum design]

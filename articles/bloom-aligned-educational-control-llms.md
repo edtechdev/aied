@@ -4,6 +4,7 @@ created: "2026-07-10T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, scaffolding, higher-ed, feedback, self-regulated-learning, student-experience, ai-literacy, teacher-role]
+research_method: [theoretical analysis, benchmark]
 audience: [student experience, teacher role]
 level: [higher ed]
 

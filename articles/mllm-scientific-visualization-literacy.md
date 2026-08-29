@@ -4,6 +4,7 @@ created: "2026-07-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, stem-education, ai-literacy, benchmark, higher-ed, formative-assessment, open-source, visualization]
+audience: [researcher]
 research_method: [benchmark]
 discipline: [stem education]
 level: [higher ed]

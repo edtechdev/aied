@@ -4,6 +4,7 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [student-experience, cognitive-offloading, ai-literacy, higher-ed, affective-computing, self-regulated-learning]
+research_method: [grounded theory]
 audience: [student experience]
 level: [higher ed]
 

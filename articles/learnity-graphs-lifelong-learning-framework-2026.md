@@ -4,6 +4,7 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-11"
 type: article
 tags: [curriculum-design, lifelong-learning, higher-ed, knowledge-graph, personalized-learning, generative-ai, student-modeling, instructional-design]
+research_method: [theoretical analysis]
 level: [higher ed]
 category: [curriculum design, instructional design]
 sources: ['raw/papers/learnity-graphs-lifelong-learning-framework-2026.md']

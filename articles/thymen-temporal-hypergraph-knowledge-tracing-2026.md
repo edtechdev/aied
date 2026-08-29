@@ -4,6 +4,7 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [knowledge-tracing, student-modeling, adaptive-learning, learning-analytics, educational-nlp, llm, formative-assessment, intelligent-tutoring]
+research_method: [benchmark]
 sources: ['raw/papers/10.1016_j.caeai.2026.100616.md']
 confidence: high
 ---

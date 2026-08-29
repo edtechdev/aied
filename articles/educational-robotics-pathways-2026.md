@@ -4,6 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [educational-robotics, project-based-learning, constructivist, k-12, cs-education]
+research_method: [qualitative]
 discipline: [cs education]
 level: [k 12]
 sources: ['raw/papers/educational-robotics-pathways-2026.md']

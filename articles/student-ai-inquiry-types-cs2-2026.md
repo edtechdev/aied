@@ -3,7 +3,8 @@ title: "Analysis of Types of Inquiries in Student-AI Interaction: A case study o
 created: "2026-08-20T02:55:00-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
-tags: [student-ai-interaction, cs-education, llm, prompt-engineering, higher-ed, student-experience, learning-analytics, generative-ai, intelligent-tutoring, cognitive-offloading]
+tags: [student-ai-interaction, cs-education, llm, prompt-engineering, higher-ed, student-experience, learning-analytics, generative-ai, intelligent-tutoring, cognitive-offloading, problem-solving]
+research_method: [quantitative, learning analytics]
 discipline: [cs education]
 audience: [student experience]
 level: [higher ed]

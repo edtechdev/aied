@@ -4,6 +4,7 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [agentic-ai, academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, online-teaching-and-learning, governance, privacy, trust, cognitive-offloading, ai-detection]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/bozkurt-ghost-students-agentic-ai-2026.md']
 confidence: high

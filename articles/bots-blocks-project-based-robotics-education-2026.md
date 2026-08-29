@@ -4,6 +4,7 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, project-based-learning, higher-ed, computational-thinking, active-learning, cs-education]
+research_method: [system development, framework]
 level: [higher ed]
 sources: ['raw/papers/geger-bots-blocks-project-robotics-2026.md']
 confidence: medium

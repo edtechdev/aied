@@ -4,6 +4,7 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [teacher-education, constructivist, instructional-design, generative-ai, teacher-ai-competency, adult-learning, cognitive-offloading, teacher-role]
+research_method: [mixed methods, quasi-experiment]
 audience: [teacher agency]
 category: [instructional design]
 sources: ['raw/papers/sahab-model-genai-constructivist-id-2026.md']

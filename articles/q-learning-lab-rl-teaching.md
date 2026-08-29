@@ -3,7 +3,8 @@ title: "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generate
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-24T20:30:00-04:00"
 type: article
-tags: [active-learning, higher-ed, reinforcement-learning, stem-education, self-regulated-learning, scaffolding, llm]
+tags: [active-learning, higher-ed, reinforcement-learning, stem-education, self-regulated-learning, scaffolding, llm, visualization]
+research_method: [system development]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.10802.md']

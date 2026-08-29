@@ -4,6 +4,7 @@ created: "2026-03-05T08:44:33-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [ai-education, ai-literacy, ethics, higher-ed, k-12, stem-education, teacher-role, equity-in-ai-education]
+research_method: [literature review]
 discipline: [stem education]
 audience: [teacher role]
 level: [higher ed, k 12]

@@ -4,6 +4,7 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-22T19:10:00-04:00"
 type: article
 tags: [cognitive-offloading, ai-literacy, equity-in-ai-education, metacognition, teacher-role, k-12, higher-ed, rag]
+research_method: [report, literature review]
 audience: [teacher role]
 level: [k 12, higher ed]
 sources: ['raw/papers/lodge-loble-cognitive-offloading-2026.md']

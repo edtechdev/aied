@@ -4,6 +4,7 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [adaptive-learning, intelligent-tutoring, ethics, equity-in-ai-education, teacher-role, higher-ed]
+research_method: [literature review]
 audience: [teacher role]
 level: [higher ed]
 

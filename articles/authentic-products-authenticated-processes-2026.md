@@ -4,6 +4,8 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed, ai-literacy, formative-assessment, llm]
+audience: [teacher role]
+research_method: [systematic review, conceptual]
 level: [higher ed]
 category: [assessment, ai ed evaluation]
 sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']

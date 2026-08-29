@@ -4,6 +4,7 @@ created: "2026-08-21T19:02:00-04:00"
 updated: "2026-08-21T19:02:00-04:00"
 type: article
 tags: [generative-ai, teacher-role, instructional-design, pedagogy, ai-education, human-in-the-loop-ai, agentic-ai, scaffolding]
+research_method: [benchmark]
 audience: [teacher role]
 category: [instructional design]
 sources: ['raw/papers/ai-video-dual-gatekeeping-2026.md']

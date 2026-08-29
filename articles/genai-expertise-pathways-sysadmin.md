@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, professional-training, cognitive-offloading, lifelong-learning, human-in-the-loop-ai, human-ai-collaboration, ai-education]
+research_method: [interviews]
 
 sources: ['raw/papers/2607.28650.md']
 confidence: high

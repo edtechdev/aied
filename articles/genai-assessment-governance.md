@@ -4,6 +4,8 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [stem-education, generative-ai, automated-assessment, higher-ed, educational-policy-ai, equity-in-ai-education, scaffolding, ai-literacy, llm]
+audience: [teacher role, administrator]
+research_method: [theoretical analysis]
 discipline: [stem education]
 level: [higher ed]
 

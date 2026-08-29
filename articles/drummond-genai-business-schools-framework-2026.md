@@ -4,6 +4,7 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-08-20T08:10:00-04:00"
 type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, teacher-role, academic-integrity, student-engagement]
+research_method: [case study, mixed methods]
 discipline: [business education]
 audience: [teacher role]
 level: [higher ed]

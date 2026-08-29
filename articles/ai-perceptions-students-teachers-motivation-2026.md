@@ -4,7 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [student-experience, motivation, self-efficacy, k-12, ai-literacy, equity-in-ai-education]
-audience: [student experience]
+research_method: [survey, quantitative]
+audience: [student experience, teacher role]
 level: [k 12]
 sources: ['raw/papers/ai-perceptions-students-teachers-motivation-2026.md']
 confidence: high

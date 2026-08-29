@@ -4,6 +4,7 @@ created: "2026-08-23T15:00:00-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [adaptive-learning, student-engagement, personalized-learning, intelligent-tutoring, motivation, online-teaching-and-learning]
+research_method: [systematic review]
 sources: ['raw/papers/simon-student-engagement-adaptive-learning-2026.md']
 confidence: high
 ---

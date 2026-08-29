@@ -4,6 +4,7 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [language-learning, llm, intelligent-tutoring, student-experience, personalized-learning]
+research_method: [experiment]
 discipline: [language learning]
 audience: [student experience]
 sources: ['raw/papers/2606.22225.md']
