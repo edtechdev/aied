@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, llm, instructional-design, higher-ed, cs-education, teacher-role, multimodal, visualization]
 research_method: [system development]
 discipline: [cs education]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/2605.16295.md']

@@ -6,7 +6,7 @@ type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]
 research_method: [system development, survey]
 discipline: [stem education]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 sources: ['raw/papers/2606.09831.md']

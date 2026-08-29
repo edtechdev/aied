@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
 research_method: [system development]
 discipline: [stem education]
-audience: [research methods aied, teacher role]
+audience: [researchers, instructors, software developers]
 level: [higher ed, k 12]
 confidence: high
 sources: []

@@ -5,7 +5,7 @@ updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [ai-literacy, k-12, llm, ai-education, simulation, automated-assessment, student-experience, rag]
 research_method: [system development, experiment]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [k 12]
 
 sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']

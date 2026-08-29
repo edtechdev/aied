@@ -5,7 +5,7 @@ updated: "2026-08-26T15:33:55-04:00"
 type: article
 tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, student-engagement]
 research_method: [mixed methods]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 

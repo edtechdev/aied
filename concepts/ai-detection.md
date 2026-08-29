@@ -4,7 +4,7 @@ created: "2026-05-29T10:44:35-04:00"
 updated: "2026-08-28T13:00:00-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, educational-policy-ai, llm, assessment-validity, equity-in-ai-education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [assessment]
 

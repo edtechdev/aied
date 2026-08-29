@@ -6,7 +6,7 @@ type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
 research_method: [experiment]
 discipline: [stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.28710.md']
 confidence: high

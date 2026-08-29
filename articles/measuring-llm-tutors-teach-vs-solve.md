@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, feedback, scaffolding, benchmark, learning-analytics, student-experience, agentic-ai, k-12]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners, software developers]
 level: [k 12]
 
 sources: ['raw/papers/2606.16206.md']

@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, higher-ed, llm, stem-education, teacher-role, ai-literacy]
 research_method: [experiment, system development]
 discipline: [stem education]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.30547.md']
 confidence: high

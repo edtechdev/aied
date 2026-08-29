@@ -6,7 +6,7 @@ type: article
 tags: [feedback, higher-ed, llm, scaffolding, stem-education, student-experience]
 research_method: [experiment]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2606.28882.md']

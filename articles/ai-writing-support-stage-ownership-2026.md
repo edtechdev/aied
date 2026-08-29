@@ -6,7 +6,7 @@ type: article
 tags: [writing-education, student-experience, generative-ai, metacognition, llm]
 research_method: [experiment]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/ai-writing-support-stage-ownership-2026.md']
 confidence: high
 ---

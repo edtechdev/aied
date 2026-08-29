@@ -5,7 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south]
 research_method: [system development]
-audience: [teacher role, teacher ai collaboration]
+audience: [instructors]
 level: [k 12]
 category: [curriculum design]
 sources: ['raw/papers/2607.28647.md']

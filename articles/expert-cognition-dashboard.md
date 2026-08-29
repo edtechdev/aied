@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [learning-analytics, intelligent-tutoring, adaptive-learning, student-experience, teacher-role, ai-literacy, llm, scaffolding, visualization]
 research_method: [system development]
-audience: [student experience, teacher role]
+audience: [learners, instructors, software developers]
 sources: ['raw/papers/2605.17263.md']
 confidence: medium
 ---## Summary

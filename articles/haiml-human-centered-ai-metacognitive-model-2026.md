@@ -4,7 +4,7 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T14:00:00-04:00"
 type: article
 tags: [metacognition, self-regulated-learning, human-in-the-loop-ai, ai-literacy, cognitive-offloading, ethics, student-ai-interaction]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 research_method: [theoretical analysis]
 
 sources: ['raw/papers/haiml-human-centered-ai-metacognitive-model-2026.md']

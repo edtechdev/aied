@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [affective-computing, feedback, llm, personalized-learning, student-experience, affective-tutoring]
 research_method: [experiment, survey]
-audience: [student experience]
+audience: [learners]
 
 sources: ['raw/papers/2606.26641.md']
 confidence: medium

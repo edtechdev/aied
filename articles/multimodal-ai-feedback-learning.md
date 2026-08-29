@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [multimodal, feedback, generative-ai, llm, student-experience, learning-analytics, automated-assessment, human-in-the-loop-ai, formative-assessment, rag]
 research_method: [experiment, survey]
-audience: [student experience]
+audience: [learners]
 
 sources: ['raw/papers/2601.15280.md']
 confidence: high

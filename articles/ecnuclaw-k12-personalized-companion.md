@@ -5,7 +5,7 @@ updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, affective-tutoring, regulation]
 research_method: [system development]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.08040.md']
 confidence: medium

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, scaffolding, teacher-role, cognitive-offloading, learning-analytics, student-experience, ai-literacy]
 research_method: [system development, theoretical analysis]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 
 sources: ['raw/papers/2605.30187.md']
 confidence: high

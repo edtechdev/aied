@@ -4,6 +4,7 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, k-12, pedagogical-safety, benchmark, governance]
+audience: [software developers]
 research_method: [benchmark]
 level: [k 12]
 sources: ['raw/papers/2608.02024.md']

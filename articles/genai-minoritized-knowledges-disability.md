@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, higher-ed, special-education, equity-in-ai-education, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 research_method: [theoretical analysis]
 discipline: [stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed, special education]
 confidence: high
 sources: []

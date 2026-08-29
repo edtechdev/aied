@@ -6,7 +6,7 @@ type: article
 tags: [physics-education, ai-literacy, critical-thinking, generative-ai, prompt-engineering, assessment, student-experience, research-methods-aied, metacognition, problem-solving]
 research_method: [research methods]
 discipline: [physics education]
-audience: [student experience]
+audience: [learners]
 category: [assessment]
 sources: ['raw/papers/2608.12533.md']
 confidence: high

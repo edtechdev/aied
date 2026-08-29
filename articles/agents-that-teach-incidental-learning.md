@@ -4,7 +4,7 @@ created: "2026-07-08T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, cognitive-offloading, professional-training, self-regulated-learning, ai-literacy, rag]
-audience: [teacher role]
+audience: [instructors, software developers]
 research_method: [theoretical analysis]
 discipline: [cs education]
 level: [higher ed]

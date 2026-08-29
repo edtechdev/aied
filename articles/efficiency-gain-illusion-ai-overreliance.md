@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, cognitive-offloading, ai-literacy, student-experience, rag, ai-education]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 
 sources: ['raw/papers/2605.22687.md']
 confidence: medium

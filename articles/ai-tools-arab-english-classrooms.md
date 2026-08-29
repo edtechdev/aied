@@ -6,7 +6,7 @@ type: article
 tags: [language-learning, higher-ed, writing-education, ai-literacy, cognitive-offloading, teacher-role, generative-ai, scaffolding]
 research_method: [systematic review]
 discipline: [language learning, writing education]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 
 sources: ['raw/papers/2607.05403.md']

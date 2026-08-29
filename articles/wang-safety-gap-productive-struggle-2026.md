@@ -6,7 +6,7 @@ type: article
 tags: [productive-failure, cognitive-offloading, generative-ai, scaffolding, socratic-method, medical-education, student-experience, trust]
 research_method: [theoretical analysis]
 discipline: [medical education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/wang-safety-gap-productive-struggle-2026.md']
 confidence: medium
 ---

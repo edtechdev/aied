@@ -5,7 +5,7 @@ updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [affective-computing, student-experience, higher-ed, learning-analytics, affective-tutoring, llm]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.14360.md']
 confidence: medium

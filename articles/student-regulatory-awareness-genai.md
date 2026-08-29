@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, educational-policy-ai, regulation, academic-integrity, ai-literacy]
 research_method: [randomized controlled trial]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.12436.md']
 confidence: high

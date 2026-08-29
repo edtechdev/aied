@@ -6,7 +6,7 @@ type: article
 tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
 research_method: [experiment, survey]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15914.md']
 confidence: high

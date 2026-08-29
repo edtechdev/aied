@@ -4,6 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-ed-evaluation, benchmark, rag, llm, ai-education]
+audience: [software developers]
 research_method: [benchmark]
 category: [evaluation]
 sources: ['raw/papers/jeon-isd-agent-bench-2026.md']

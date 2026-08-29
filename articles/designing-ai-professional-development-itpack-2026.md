@@ -4,7 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, adult-learning, tpack, ai-literacy, ethics]
-audience: [teacher role, faculty development]
+audience: [instructors, faculty development]
 research_method: [system development, theoretical analysis]
 sources: ['raw/papers/designing-ai-professional-development-itpack-2026.md']
 confidence: high

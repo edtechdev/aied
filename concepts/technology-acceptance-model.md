@@ -5,7 +5,7 @@ updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [technology-acceptance-model, generative-ai, student-experience, higher-ed, ai-literacy, research-methods-aied]
 research_method: [research methods]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 confidence: high
 ---

@@ -6,7 +6,7 @@ type: article
 tags: [language-learning, generative-ai, ai-feedback-quality, self-regulated-learning, motivation, teacher-role, feedback, personalized-learning]
 research_method: [survey]
 discipline: [language learning]
-audience: [teacher role]
+audience: [instructors]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1918980.md']
 confidence: high

@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, language-learning, ethics, higher-ed, academic-integrity, teacher-role]
 research_method: [mixed methods]
 discipline: [language learning]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/alharbi-ethical-genai-eap-2026.md']
 confidence: medium

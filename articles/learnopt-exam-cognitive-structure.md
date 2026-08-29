@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [learning-analytics, llm, k-12, personalized-learning, assessment, student-experience, rag]
 research_method: [benchmark, survey]
-audience: [student experience]
+audience: [learners, software developers]
 level: [k 12]
 category: [assessment]
 sources: ['raw/papers/2606.15349.md']

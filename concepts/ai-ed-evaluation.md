@@ -5,7 +5,7 @@ updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 research_method: [benchmark, educational measurement]
-audience: [research methods aied, teacher role, administrator]
+audience: [researchers, instructors, administrator]
 level: [higher ed]
 category: [assessment]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]

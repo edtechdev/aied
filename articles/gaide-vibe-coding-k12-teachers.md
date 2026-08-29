@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [k-12, teacher-role, ai-literacy, generative-ai, faculty-development, active-learning, llm]
 research_method: [design-based research]
-audience: [teacher role, faculty development]
+audience: [instructors, faculty development]
 level: [k 12]
 sources: ['raw/papers/2607.05406.md']
 confidence: high

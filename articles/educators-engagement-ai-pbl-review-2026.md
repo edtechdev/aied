@@ -5,7 +5,7 @@ updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, meta-analysis-systematic-review, generative-ai, teacher-role, usability-research, educational-policy-ai, higher-ed]
 research_method: [systematic review]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/educators-engagement-ai-pbl-review-2026.md']
 confidence: high

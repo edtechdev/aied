@@ -6,7 +6,7 @@ type: article
 tags: [llm, stem-education, student-experience, intelligent-tutoring, learning-analytics]
 research_method: [experiment]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2606.14113.md']
 confidence: high
 ---

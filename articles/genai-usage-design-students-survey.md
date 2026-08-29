@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integrity, writing-education]
 research_method: [survey, mixed methods]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.17094.md']
 confidence: high

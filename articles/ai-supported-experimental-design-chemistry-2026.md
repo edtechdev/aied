@@ -4,7 +4,7 @@ created: "2026-08-19T12:46:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, higher-ed, ai-literacy, critical-thinking]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [experiment]
 discipline: [chemistry education]
 level: [higher ed]

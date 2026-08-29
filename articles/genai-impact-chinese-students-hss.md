@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, llm, ai-literacy, personalized-learning]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.24104.md']
 confidence: high

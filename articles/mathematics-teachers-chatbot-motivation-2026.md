@@ -6,7 +6,7 @@ type: article
 tags: [math-education, conversational-ai, teacher-role, motivation, technology-acceptance-model]
 research_method: [survey]
 discipline: [math education]
-audience: [teacher role]
+audience: [instructors]
 sources: ['raw/papers/mathematics-teachers-chatbot-motivation-2026.md']
 confidence: high
 ---

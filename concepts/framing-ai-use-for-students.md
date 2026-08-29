@@ -4,7 +4,7 @@ created: "2026-08-19T08:05:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, student-experience, motivation, educational-policy-ai, higher-ed, k-12, collaborative-learning, governance]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 ---

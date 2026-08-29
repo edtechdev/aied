@@ -5,7 +5,7 @@ updated: "2026-08-24T04:54:08-04:00"
 type: article
 tags: [feedback, formative-assessment, learning-analytics, higher-ed, student-experience, self-regulated-learning, human-ai-collaboration, llm]
 research_method: [theoretical analysis]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2608.11625.md']

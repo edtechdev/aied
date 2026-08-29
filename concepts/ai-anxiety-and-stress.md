@@ -4,7 +4,7 @@ created: "2026-08-25T09:40:00-04:00"
 updated: "2026-08-27T07:59:32.712217-04:00"
 type: concept
 tags: [well-being, remote-proctoring, social-emotional-learning, affective-computing, academic-integrity, student-experience, adult-learning]
-audience: [student experience]
+audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 ---

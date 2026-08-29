@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, student-experience, stem-education, higher-ed, learning-analytics, ai-education]
 research_method: [survey]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.24755.md']
 confidence: high

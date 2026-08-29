@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning, pedagogical-llm-training, student-experience, rag, machine-learning]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners, software developers]
 sources: ['raw/papers/2604.08263.md']
 confidence: medium
 ---

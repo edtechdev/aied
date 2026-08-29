@@ -6,7 +6,7 @@ type: article
 tags: [project-based-learning, k-12, higher-ed, active-learning, stem-education, scaffolding, teacher-role]
 research_method: [system development]
 discipline: [stem education]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/2607.11129.md']
 confidence: high

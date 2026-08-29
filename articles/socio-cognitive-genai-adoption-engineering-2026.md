@@ -6,7 +6,7 @@ type: article
 tags: [technology-acceptance-model, generative-ai, engineering-education, higher-ed, student-experience, global-south, ai-literacy, equity-in-ai-education, change-management]
 research_method: [survey]
 discipline: [engineering education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100614.md']
 confidence: high

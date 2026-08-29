@@ -4,7 +4,7 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
 tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-review, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [mixed methods, experiment]
 discipline: [writing education]
 

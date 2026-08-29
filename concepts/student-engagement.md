@@ -4,7 +4,7 @@ created: "2026-08-13T05:32:35-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 confidence: high

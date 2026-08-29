@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [automated-assessment, llm, formative-assessment, higher-ed, teacher-role, learning-analytics, student-experience, k-12]
 research_method: [benchmark]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.13684.md']
 confidence: high

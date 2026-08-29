@@ -6,7 +6,7 @@ type: article
 tags: [language-learning, llm, intelligent-tutoring, student-experience, personalized-learning]
 research_method: [experiment]
 discipline: [language learning]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2606.22225.md']
 confidence: medium
 ---

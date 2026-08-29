@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [learning-analytics, edtech-platform, higher-ed, student-engagement, student-experience, rag, llm, k-12, machine-learning]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 category: [engagement]
 sources: ['raw/papers/2606.14960.md']

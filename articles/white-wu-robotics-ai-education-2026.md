@@ -6,7 +6,7 @@ type: article
 tags: [ai-education, ai-literacy, ethics, higher-ed, k-12, stem-education, teacher-role, equity-in-ai-education]
 research_method: [literature review]
 discipline: [stem education]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed, k 12]
 sources: ['raw/papers/white-wu-robotics-ai-education-2026.md']
 confidence: high

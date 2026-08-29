@@ -5,7 +5,7 @@ updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 discipline: [physics education, stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 
 confidence: high

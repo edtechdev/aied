@@ -5,7 +5,7 @@ updated: "2026-08-14"
 type: article
 tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adaptive-learning, student-experience, prompt-engineering]
 research_method: [system development, benchmark]
-audience: [student experience]
+audience: [learners, software developers]
 level: [k 12]
 sources: ['raw/papers/2606.20138.md']
 confidence: high

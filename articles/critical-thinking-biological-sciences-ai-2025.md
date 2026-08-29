@@ -4,7 +4,7 @@ created: "2026-08-19T13:02:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [biology-education, critical-thinking, higher-ed, ethics, ai-literacy]
-audience: [teacher role]
+audience: [instructors]
 research_method: [literature review]
 discipline: [biology education]
 level: [higher ed]

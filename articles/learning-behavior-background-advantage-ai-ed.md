@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, learning-gains, personalized-learning, student-experience, equity-in-ai-education, rag]
 research_method: [learning analytics]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2607.10101.md']
 confidence: high
 ---

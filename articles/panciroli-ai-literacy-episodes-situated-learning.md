@@ -4,7 +4,7 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [ai-literacy, situated-learning, curriculum-design, instructional-design, k-12, experiential-learning, generative-ai]
-audience: [teacher role]
+audience: [instructors]
 research_method: [theoretical analysis]
 level: [k 12]
 category: [curriculum design, instructional design]

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, k-12, self-regulated-learning, metacognition, student-experience, scaffolding, help-seeking]
 research_method: [experiment, survey]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2606.08568.md']
 confidence: high

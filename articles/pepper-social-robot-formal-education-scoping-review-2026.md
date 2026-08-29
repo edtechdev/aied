@@ -5,7 +5,7 @@ updated: "2026-08-13"
 type: article
 tags: [educational-robotics, k-12, higher-ed, teacher-role, inclusive-learning]
 research_method: [systematic review]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/10.1007_s44322-026-00072-1.md']
 confidence: high

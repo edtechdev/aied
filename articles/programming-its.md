@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, formative-assessment, rag, llm]
 research_method: [system development]
 discipline: [stem education]
-audience: [student misconceptions conditionals loops taxonomy]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2604.16117.md']
 confidence: medium

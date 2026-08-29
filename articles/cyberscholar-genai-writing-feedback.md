@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedback, teacher-role, human-in-the-loop-ai, rag]
 research_method: [mixed methods, system development]
 discipline: [writing education]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12]
 
 sources: ['raw/papers/2605.17055.md']

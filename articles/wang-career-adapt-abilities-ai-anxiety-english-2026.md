@@ -4,7 +4,7 @@ created: "2026-08-25T07:45:00-04:00"
 updated: "2026-08-25T10:20:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, self-efficacy, higher-ed, ai-literacy, well-being]
-audience: [student experience]
+audience: [learners]
 research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/wang-career-adapt-abilities-ai-anxiety-english-2026.md']

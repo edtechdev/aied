@@ -6,7 +6,7 @@ type: article
 tags: [language-learning, generative-ai, motivation, self-regulated-learning, higher-ed, teacher-role, student-engagement, personalized-learning]
 research_method: [survey]
 discipline: [language learning]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/10.3389_fpsyg.2026.1806457.md']

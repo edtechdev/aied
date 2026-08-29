@@ -6,7 +6,7 @@ type: article
 tags: [teacher-role, writing-education, faculty-development, generative-ai, higher-ed, ai-literacy, student-experience]
 research_method: [qualitative, case study]
 discipline: [writing education]
-audience: [teacher role, faculty development, student experience]
+audience: [instructors, faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/zuo-instructor-power-genai-writing-2026.md']
 confidence: high

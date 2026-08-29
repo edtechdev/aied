@@ -5,7 +5,7 @@ updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [generative-ai, motivation, self-determination-theory, student-engagement, higher-ed, personalized-learning, student-experience, ai-education]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']

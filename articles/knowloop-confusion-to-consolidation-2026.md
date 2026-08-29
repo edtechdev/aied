@@ -5,7 +5,7 @@ updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [conversational-ai, personalized-learning, higher-ed, learning-by-teaching, agentic-ai, scaffolding, pedagogical-agent, student-experience]
 research_method: [system development, user study]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/knowloop-confusion-to-consolidation-2026.md']
 confidence: high

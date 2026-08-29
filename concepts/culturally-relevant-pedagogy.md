@@ -4,7 +4,7 @@ created: "2026-05-08T10:44:35-04:00"
 updated: "2026-08-18T13:55:00-04:00"
 type: concept
 tags: [equity-in-ai-education, curriculum-design, inclusive-learning, k-12, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 category: [curriculum design]
 confidence: high

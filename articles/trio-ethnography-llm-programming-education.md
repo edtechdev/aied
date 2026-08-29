@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, stem-education, teacher-role, student-experience, higher-ed, scaffolding, ai-literacy, llm, regulation]
 research_method: [survey]
 discipline: [stem education]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/2607.22463.md']
 confidence: high

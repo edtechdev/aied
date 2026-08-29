@@ -6,7 +6,7 @@ type: article
 tags: [activity-theory-aied, engineering-education, higher-ed, generative-ai, student-experience, teacher-role, ethics]
 research_method: [qualitative, interviews]
 discipline: [engineering education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/10.1007_s12528-025-09488-8.md']
 confidence: high

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [student-experience, ai-literacy, generative-ai, metacognition, higher-ed, human-ai-collaboration]
 research_method: [survey, mixed methods]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.11692.md']
 confidence: high

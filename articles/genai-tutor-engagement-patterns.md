@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, student-engagement, higher-ed, learning-analytics, rag, llm]
 research_method: [case study]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2602.00447.md']

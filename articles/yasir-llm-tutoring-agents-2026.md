@@ -4,6 +4,7 @@ created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
+audience: [software developers]
 research_method: [educational measurement]
 category: [evaluation]
 

@@ -5,7 +5,7 @@ updated: "2026-08-24T13:00:00-04:00"
 type: article
 tags: [automated-assessment, feedback, higher-ed, llm, teacher-role, rct, scaffolding]
 research_method: [randomized controlled trial, experiment]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 
 sources: ['raw/papers/2606.03095.md']

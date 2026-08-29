@@ -4,7 +4,7 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, scaffolding, formative-assessment, higher-ed, automated-assessment, learning-analytics, ai-literacy, k-12]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [mixed methods]
 level: [higher ed, k 12]
 

@@ -6,7 +6,7 @@ type: article
 tags: [learning-by-teaching, intelligent-tutoring, generative-ai, language-learning, llm, student-experience]
 research_method: [system development]
 discipline: [language learning]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/raw-uchida-vocab-teaching-ai.md']
 confidence: high
 ---

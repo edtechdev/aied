@@ -6,7 +6,7 @@ type: article
 tags: [higher-ed, llm, stem-education, student-experience, teacher-role, ai-literacy, learning-analytics, k-12]
 research_method: [survey, literature review]
 discipline: [stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.16626.md']
 confidence: high

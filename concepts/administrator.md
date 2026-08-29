@@ -5,7 +5,7 @@ updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 discipline: [stem education]
-audience: [administrator, teacher role]
+audience: [administrator, instructors]
 level: [higher ed]
 confidence: medium
 ---

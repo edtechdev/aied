@@ -5,7 +5,7 @@ updated: "2026-08-12"
 type: article
 tags: [academic-integrity, higher-ed, llm, cognitive-offloading, student-experience]
 research_method: [experiment, survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2606.30480.md']

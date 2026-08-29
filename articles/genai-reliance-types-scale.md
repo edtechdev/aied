@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, academic-integrity, higher-ed, student-experience, writing-education, cognitive-offloading, ai-literacy]
 research_method: [survey, educational measurement]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.14301.md']

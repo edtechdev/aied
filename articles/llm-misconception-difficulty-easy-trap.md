@@ -6,7 +6,7 @@ type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]
 research_method: [benchmark]
 discipline: [stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors, software developers]
 level: [higher ed]
 sources: ['raw/papers/2607.26067.md']
 confidence: high

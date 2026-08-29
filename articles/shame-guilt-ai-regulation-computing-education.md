@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [student-experience, higher-ed, academic-integrity, cognitive-offloading, hallucination-risk, learning-analytics, llm, k-12]
 research_method: [qualitative, interviews]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 
 sources: ['raw/papers/2606.14920.md']

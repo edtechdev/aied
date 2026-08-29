@@ -4,7 +4,7 @@ created: "2026-08-17T09:35:00-04:00"
 updated: "2026-08-24T11:00:00-04:00"
 type: article
 tags: [equity-in-ai-education, ai-literacy, prompt-engineering, digital-divide, llm, bias-mitigation, inclusive-learning]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [benchmark]
 sources: ['raw/papers/2608.08942.md']
 confidence: high

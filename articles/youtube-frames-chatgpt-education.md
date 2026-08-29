@@ -5,7 +5,7 @@ updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [ai-literacy, student-experience, academic-integrity, higher-ed, generative-ai, self-regulated-learning, llm, scaffolding, teacher-role]
 research_method: [qualitative, learning analytics]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.08698.md']
 confidence: high

@@ -4,7 +4,7 @@ created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [generative-ai, llm, personalized-learning, scaffolding, higher-ed, self-regulated-learning, human-ai-collaboration, cognitive-offloading, ai-literacy]
-audience: [research methods aied]
+audience: [researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/2606.12441.md']

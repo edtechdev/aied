@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [cs-education, automated-assessment, llm, assessment]
+audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]
 category: [assessment]

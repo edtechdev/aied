@@ -6,7 +6,7 @@ type: article
 tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education, human-ai-collaboration]
 research_method: [system development, user study]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 sources: ['raw/papers/2606.15239.md']
 confidence: high

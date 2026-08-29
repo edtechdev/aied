@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [knowledge-tracing, llm, student-modeling, higher-ed, learning-analytics, generative-ai, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 research_method: [system development]
-audience: [teacher role, research methods aied]
+audience: [instructors, researchers, software developers]
 level: [higher ed]
 confidence: high
 sources: []

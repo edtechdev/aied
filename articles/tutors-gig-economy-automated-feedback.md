@@ -6,7 +6,7 @@ type: article
 tags: [feedback, higher-ed, intelligent-tutoring, language-learning, teacher-role]
 research_method: [survey]
 discipline: [language learning]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 
 sources: ['raw/papers/2606.22609.md']

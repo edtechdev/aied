@@ -4,6 +4,7 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T18:15:00-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, adaptive-learning, llm, generative-ai, pedagogical-agent, language-learning, ai-education]
+audience: [software developers]
 research_method: [system development, benchmark]
 discipline: [language learning]
 

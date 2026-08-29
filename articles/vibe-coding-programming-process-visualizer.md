@@ -6,7 +6,7 @@ type: article
 tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform, adaptive-learning, student-experience, personalized-learning, ai-literacy, visualization]
 research_method: [system development, case study]
 discipline: [stem education]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/2607.24757.md']
 confidence: high

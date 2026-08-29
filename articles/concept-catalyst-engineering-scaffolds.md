@@ -6,7 +6,7 @@ type: article
 tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, instructional-design]
 research_method: [system development, case study]
 discipline: [stem education]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12]
 category: [instructional design]
 sources: ['raw/papers/2605.20511.md']

@@ -5,7 +5,7 @@ updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [game-based-learning, higher-ed, motivation, student-experience, learning-analytics, instructional-design, self-regulated-learning]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/nasa-tlx-workload-gamified-ai-2026.md']

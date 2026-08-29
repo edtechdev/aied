@@ -4,7 +4,7 @@ created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 ---

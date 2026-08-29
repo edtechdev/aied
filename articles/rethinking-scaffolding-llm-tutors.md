@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [scaffolding, intelligent-tutoring, llm, benchmark, student-experience, help-seeking]
 research_method: [benchmark, experiment]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2606.15766.md']
 confidence: high
 ---

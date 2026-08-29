@@ -6,7 +6,7 @@ type: article
 tags: [student-ai-interaction, cs-education, llm, prompt-engineering, higher-ed, student-experience, learning-analytics, generative-ai, intelligent-tutoring, cognitive-offloading, problem-solving]
 research_method: [survey, learning analytics]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2608.17919.md']
 confidence: high

@@ -5,7 +5,7 @@ updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [agentic-ai, llm, instructional-design, edtech-platform, higher-ed, teacher-role, automated-assessment, faculty-development]
 research_method: [system development]
-audience: [teacher support, faculty development]
+audience: [instructors, faculty development, software developers]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']

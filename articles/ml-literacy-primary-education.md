@@ -4,7 +4,7 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, instructional-design, machine-learning]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 research_method: [system development]
 level: [k 12]
 category: [instructional design]

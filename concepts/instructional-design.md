@@ -4,7 +4,7 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [instructional-design, curriculum-design, faculty-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
-audience: [teacher role, faculty development]
+audience: [instructors, faculty development]
 level: [higher ed]
 category: [instructional design, curriculum design]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software]

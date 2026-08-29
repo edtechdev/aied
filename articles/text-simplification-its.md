@@ -4,7 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-24T13:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, language-learning, adaptive-learning, human-in-the-loop-ai, generative-ai, sociocultural-learning, ai-literacy]
-audience: [research methods aied]
+audience: [researchers, software developers]
 research_method: [system development]
 sources: ['raw/papers/2604.08947.md']
 confidence: medium

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, edtech-platform, student-experience, equity-in-ai-education, learning-analytics, llm, k-12]
 research_method: [theoretical analysis]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2606.15902.md']
 confidence: medium

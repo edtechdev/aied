@@ -5,7 +5,7 @@ updated: "2026-08-24T10:30:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, critical-thinking, ai-literacy, personalized-learning, equity-in-ai-education, professional-training, educational-measurement, constructivist]
 research_method: [educational measurement]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.21361.md']
 confidence: high
