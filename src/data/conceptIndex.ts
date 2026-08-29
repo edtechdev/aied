@@ -32,15 +32,15 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'storytelling-in-education', 'instructional-design', 'online-teaching-and-learning'] },
-      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied'] },
-      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction'] },
+      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'cognitive-load', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied'] },
+      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning'] },
     ],
   },
   {
     heading: 'AI technologies and techniques',
     blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring systems built on them.',
     groups: [
-      { label: 'Models and techniques', items: ['ai-technologies', 'generative-ai', 'llm', 'rag', 'multimodal', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'pedagogical-llm-training'] },
+      { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'multimodal', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'pedagogical-llm-training'] },
       { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai'] },
     ],
   },
@@ -48,7 +48,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI in the disciplines',
     blurb: 'How AI is applied across academic subjects and educational levels — the field\u2019s subject-area coverage.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'writing-education', 'language-learning', 'english-education', 'business-education', 'humanities-education', 'medical-education'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'business-education', 'humanities-education', 'medical-education'] },
       { label: 'Levels and contexts', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'special-education', 'teacher-education'] },
     ],
   },
@@ -67,7 +67,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
       { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'faculty-development', 'pedagogical-safety'] },
-      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training', 'learning-analytics'] },
+      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training', 'learning-analytics'] },
     ],
   },
   {
