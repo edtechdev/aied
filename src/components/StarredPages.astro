@@ -1,0 +1,106 @@
+---
+/**
+ * StarredPages.astro — a collapsible section at the top of the left sidebar
+ * listing the pages the user has starred (persisted in localStorage via
+ * src/stores/stars.ts). Pre-seeded with the default starred concepts.
+ *
+ * Receives a slug -> display-title map for concepts (from BaseLayout) so
+ * starred concept links show a friendly label. Starred articles/FAQs show
+ * their slug path.
+ */
+import { DEFAULT_STARRED } from '../stores/stars';
+
+interface Props {
+  /** slug -> display title for concepts (and any other pages the sidebar knows). */
+  titles: Record<string, string>;
+}
+
+const { titles } = Astro.props;
+
+const defaultEntries = DEFAULT_STARRED.map((key) => {
+  const slug = key.split('/')[1];
+  return { key, slug, title: titles[slug] || slug };
+});
+---
+<details class="starred-pages" open>
+  <summary class="starred-summary">
+    <span>★ Starred</span>
+  </summary>
+  <ul class="starred-list" data-starred-list data-titles={JSON.stringify(titles)}>
+    {defaultEntries.map((e) => (
+      <li data-star-item={e.key}><a href={`/aied/concepts/${e.slug}/`}>{e.title}</a></li>
+    ))}
+  </ul>
+</details>
+
+<style>
+  .starred-pages {
+    margin: 0 0 1rem 0;
+    border: 1px solid var(--card-border-color);
+    border-radius: 8px;
+    background: var(--card-background-color);
+  }
+  .starred-summary {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--color);
+    list-style: none;
+  }
+  .starred-summary::-webkit-details-marker { display: none; }
+  .starred-list {
+    list-style: none;
+    margin: 0;
+    padding: 0.25rem 0 0.5rem 0;
+    border-top: 1px solid var(--card-border-color);
+  }
+  .starred-list li { margin: 0; }
+  .starred-list a {
+    display: block;
+    padding: 0.22rem 0.9rem;
+    font-size: 0.85rem;
+    color: var(--muted-color);
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  .starred-list a:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 8%, transparent); }
+  .starred-list .starred-empty { padding: 0.4rem 0.9rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
+</style>
+
+<script>
+  import { starredStore } from '../stores/stars';
+
+  const list = document.querySelector<HTMLElement>('[data-starred-list]');
+  if (!list) throw new Error('starred list missing');
+
+  let titles: Record<string, string> = {};
+  try {
+    titles = JSON.parse(list.dataset.titles || '{}');
+  } catch {
+    titles = {};
+  }
+
+  const render = () => {
+    const keys = starredStore.get();
+    if (keys.length === 0) {
+      list.innerHTML = '<li class="starred-empty">No starred pages yet</li>';
+      return;
+    }
+    list.innerHTML = keys
+      .map((key) => {
+        const parts = key.split('/');
+        const kind = parts[0];
+        const slug = parts[1];
+        const path = kind === 'concept' ? 'concepts' : kind === 'article' ? 'articles' : 'faqs';
+        const title = titles[slug] || slug;
+        return `<li><a href="/aied/${path}/${slug}/">${title}</a></li>`;
+      })
+      .join('');
+  };
+
+  render();
+  starredStore.subscribe(render);
+</script>

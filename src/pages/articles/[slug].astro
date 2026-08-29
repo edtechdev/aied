@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import GithubSlugger from 'github-slugger';
+import StarButton from '../../components/StarButton.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -208,7 +209,7 @@ if (connectedFaqs.length > 0) {
   <article data-pagefind-filter="page_type:article">
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">📄 Research Article</p>
-      <h1>{title}</h1>
+      <h1>{title}<StarButton slug={slug} kind="article" /></h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
         {confIcon} {confidence} · created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (

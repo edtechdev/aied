@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import GithubSlugger from 'github-slugger';
+import StarButton from '../../components/StarButton.astro';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -196,7 +197,7 @@ function renderInline(text: string): string {
   <article data-pagefind-filter="page_type:faq">
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">❓ FAQ</p>
-      <h1>{title}</h1>
+      <h1>{title}<StarButton slug={slug} kind="faq" /></h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
