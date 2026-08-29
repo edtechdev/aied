@@ -22,13 +22,13 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
   return { key, kind: parts[0], slug: parts[1], title: titles[parts[1]] || parts[1] };
 });
 ---
-<details class="starred-pages">
+<details class="starred-pages" data-state-key="starred">
   <summary class="starred-summary">
     <span>★ Starred</span>
   </summary>
 
   <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)}>
-    <details class="starred-group" open data-starred-group="concept">
+    <details class="starred-group" data-starred-group="concept" data-state-key="starred-group:concept">
       <summary>Concepts</summary>
       <ul class="starred-list" data-starred-list="concept">
         {defaultEntries.filter(e => e.kind === 'concept').map(e => (
@@ -37,12 +37,12 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
       </ul>
     </details>
 
-    <details class="starred-group" data-starred-group="faq">
+    <details class="starred-group" data-starred-group="faq" data-state-key="starred-group:faq">
       <summary>FAQs</summary>
       <ul class="starred-list" data-starred-list="faq"></ul>
     </details>
 
-    <details class="starred-group" data-starred-group="article">
+    <details class="starred-group" data-starred-group="article" data-state-key="starred-group:article">
       <summary>Articles</summary>
       <ul class="starred-list" data-starred-list="article"></ul>
     </details>

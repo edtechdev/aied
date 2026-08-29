@@ -36,7 +36,7 @@ const displayHeadings = pageTitle
 ---
 {
   has && variant === 'mobile' && (
-    <details class="toc-mobile" data-toc-container>
+    <details class="toc-mobile" data-toc-container data-state-key="toc-mobile">
       <summary class="toc-summary">
         <span>{title}</span>
       </summary>
@@ -54,7 +54,7 @@ const displayHeadings = pageTitle
 }
 {
   has && variant === 'desktop' && (
-    <details class="toc-desktop" open data-toc-container>
+    <details class="toc-desktop" open data-toc-container data-state-key="toc-desktop">
       <summary class="toc-title">{title}</summary>
       <nav class="toc-body-desktop" aria-label={title}>
         <ul class="toc-list" data-toc>
