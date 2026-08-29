@@ -36,7 +36,7 @@ const displayHeadings = pageTitle
 ---
 {
   has && variant === 'mobile' && (
-    <details class="toc-mobile" data-toc-container data-state-key="toc-mobile">
+    <details class="toc-mobile" data-toc-container>
       <summary class="toc-summary">
         <span>{title}</span>
       </summary>
@@ -54,7 +54,7 @@ const displayHeadings = pageTitle
 }
 {
   has && variant === 'desktop' && (
-    <details class="toc-desktop" open data-toc-container data-state-key="toc-desktop">
+    <details class="toc-desktop" open data-toc-container>
       <summary class="toc-title">{title}</summary>
       <nav class="toc-body-desktop" aria-label={title}>
         <ul class="toc-list" data-toc>
@@ -102,15 +102,9 @@ const displayHeadings = pageTitle
   .toc-body { border-top: 1px solid var(--card-border-color); padding: 0.4rem 0.75rem 0.75rem; }
 
   /* === Desktop TOC (right rail, wide screens) ===
-     The right rail is a sticky flex column. The TOC shrinks to EXACTLY fit its
-     content when short (no forced min-height), and only scrolls internally when
-     its content would exceed a reasonable cap (~half the browser height). The
-     recent-activity rail below it (flex-grow 1) fills the rest of the column
-     down to the bottom of the browser. */
+     The whole right sidebar is a single scrollable pane, so the TOC just flows
+     at its natural height inside it (no independent scroll / height cap). */
   .toc-desktop {
-    flex: 0 0 auto;
-    max-height: 50vh;
-    overflow-y: auto;
     margin: 0 0 0.5rem 0;
   }
   .toc-title {
