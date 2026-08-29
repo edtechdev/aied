@@ -413,30 +413,23 @@ const recentConceptItems = recentConcepts.map(c => ({
       max-width: 70rem;
     }
 
-    /* === Right column: recent activity === */
+    /* === Right column: single scrollable pane (TOC + recent activity) === */
     .right-col {
       padding-left: 0.5rem;
       border-left: 1px solid var(--card-border-color);
     }
-    .recent-rail { margin-top: 1.75rem; }
     @media (min-width: 1024px) {
       .right-col {
         position: sticky;
         top: calc(var(--drawer-top, 4rem) + 1rem);
         max-height: calc(100dvh - var(--drawer-top, 4rem) - 1rem);
-        display: flex;
-        flex-direction: column;
-      }
-      /* The recent-rail is the primary flex item: it grows to fill the column
-         down to the bottom of the browser. The TOC shrinks to fit its content
-         (and scrolls internally only when very long), so it never blocks the
-         recent section from reaching the bottom — including when the TOC is
-         collapsed. */
-      .recent-rail {
-        flex: 1 1 auto;
-        min-height: 0;
+        /* One scrollbar for the whole right sidebar: the TOC and the recent
+           activity share a single scroll pane rather than each scrolling
+           independently. */
         overflow-y: auto;
+        overscroll-behavior: contain;
       }
+      .recent-rail { margin-top: 1.75rem; }
     }
 
     /* === Footer === */
