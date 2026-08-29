@@ -7,7 +7,7 @@ tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-educat
 audience: [teacher role]
 research_method: [literature review]
 discipline: [cs education]
-level: [k 12]
+level: [early childhood, k 12]
 sources: ['raw/papers/ai-play-framework-early-childhood-2026.md']
 confidence: high
 ---

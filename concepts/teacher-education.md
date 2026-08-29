@@ -5,7 +5,7 @@ updated: "2026-08-29T12:55:12-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [teacher role]
-level: [preservice teachers, k 12]
+level: [teacher training, k 12]
 confidence: high
 ---
 
