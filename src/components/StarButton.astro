@@ -29,6 +29,7 @@ const key = pageKey(kind, slug);
       fill="currentColor"
     />
   </svg>
+  <span class="star-label">Favorite:</span>
 </button>
 
 <style>
@@ -50,6 +51,11 @@ const key = pageKey(kind, slug);
   .star-btn:active { transform: scale(0.92); }
   .star-btn[data-starred='true'] { color: #f59e0b; }
   .star-btn .star-icon { display: block; }
+  .star-label {
+    margin-left: 0.35rem;
+    font-size: 0.8rem;
+    color: var(--muted-color);
+  }
   .star-btn:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
 </style>
 
