@@ -1,14 +1,12 @@
 # Journal
 
-**Last updated:** 2026-08-29 | **Total entries:** 1114
+**Last updated:** 2026-08-29 | **Total entries:** 1113
 
 ## "2026-08-29
 
 - ◐ [[change-management]] — ''
   Change Management
 
-- ◐ [[cognitive-load]] — ''
-  Cognitive Load
 
 - ◐ [[machine-learning]] — ''
   Machine Learning

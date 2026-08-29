@@ -142,7 +142,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-robotics]] — Robots in education
 - [[change-management]] — Change management and institutional reform
 - [[machine-learning]] — Machine learning as the technical foundation
-- [[cognitive-load]] — Cognitive load theory and AI
 - [[problem-solving]] — Problem solving with and without AI
 - [[mastery-learning]] — Mastery learning and adaptive instruction
 - [[science-education]] — Science education across the disciplines

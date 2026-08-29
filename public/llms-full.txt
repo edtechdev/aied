@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 183 concepts, 945 articles, and 15 FAQs.
+> Complete text of 182 concepts, 945 articles, and 15 FAQs.
 
 # Concepts
 
@@ -135,7 +135,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-robotics]] — Robots in education
 - [[change-management]] — Change management and institutional reform
 - [[machine-learning]] — Machine learning as the technical foundation
-- [[cognitive-load]] — Cognitive load theory and AI
 - [[problem-solving]] — Problem solving with and without AI
 - [[mastery-learning]] — Mastery learning and adaptive instruction
 - [[science-education]] — Science education across the disciplines
@@ -3130,46 +3129,6 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 - [[llm-student-modeling-memory]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
-
----
-
-## [Cognitive Load](https://edtechdev.github.io/aied/concepts/cognitive-load/)
-
-> **Cognitive load** — Cognitive load theory, grounded in [[cognitive-psychology]] and the work of Sweller, holds that working memory has a limited capacity and that learning depends on how [[instructional-design|instructional design]] manages the demands placed on it: intrinsic load (inherent complexity of the material), extraneous load (how the material is presented), and germane load (mental resources devoted to building schemas). [[generative-ai|AI tools]] are double-edged here: well-designed tools reduce extraneous load by offloading routine work, but unguarded automation can also strip away the productive effort learning requires — and the interfaces, [[multimodal|multimodal]] presentations, and [[self-regulated-learning|self-regulation]] demands of AI systems can themselves impose load. Across [[ai-education|AIED]] research, cognitive load appears both as a design target and as a measurable outcome that predicts whether an intervention actually transfers to unaided performance.
-
-## The double-edged nature of AI
-
-Generative AI is often framed as a cognitive prosthetic: it can compress extraneous load by handling search, formatting, and low-level busywork so learners can focus on the target skill. A quasi-experiment with primary science students found that [[conversational-ai|chatbots]] improved problem-posing quality while *reducing* perceived [[cognitive-offloading|cognitive load]] relative to a search-engine control, positioning conversational AI as a [[scaffolding|scaffold]] for [[metacognition|inquiry]] rather than a passive answer source. Similarly, in L2 writing, a "clue-before-correction" design used ChatGPT to provide structured, adaptive hints that reduced cognitive load while pushing learners to diagnose and correct their own errors.
-
-Yet the same mechanism can backfire when it offloads the cognitive work that *is* the learning. The strongest causal evidence shows outcome flips entirely on design: an unguarded AI helper left students roughly 17% worse on an unaided exam than peers with no tool, while the same model rebuilt to withhold answers erased the harm. This is the core of productive-struggle arguments — if letting AI in makes the task feel effortless, it is likely in the wrong place. Crucially, this points beyond "allow or ban" to placement: AI should clear away busywork that is not the skill while preserving the effortful core. [[meta-analysis-systematic-review|Meta-analytic]] evidence aligns, showing GenAI's benefit for [[critical-thinking|higher-order thinking]] is moderate, strongest for [[problem-solving]] and weakest for [[creativity]], and amplifies most for learners with strong self-[[regulation]] — the very capacity that keeps learners investing germane load rather than surrendering it to the tool.
-
-## Measuring workload and adapting to it
-
-Because cognitive load is unobservable, AIED research relies on self-report instruments and behavioral proxies. The NASA-TLX is the standard self-report tool; a higher-education experiment comparing traditional, [[game-based-learning|gamified]], and AI-supported conditions found no significant differences on any of its six workload dimensions, with mental demand uniformly high — a useful null result cautioning against the assumption that [[student-engagement|engagement]] mechanics or AI progression automatically reduce workload. At the modeling level, cognitive load is increasingly treated as a first-class variable in learner models: multi-domain [[knowledge-tracing]] explicitly incorporates cognitive load and [[transfer-of-learning|knowledge transfer]] as factors governing students' dynamic knowledge states, feeding [[student-modeling]] that adapts instruction to what a learner can currently manage. [[intelligent-tutoring|Intelligent tutoring systems]] put this into practice by adaptively varying the *type* of cognitive engagement — worked examples, guided examples, and buggy examples mapped onto the [[icap-framework|ICAP]] modes — showing that scaffolding designed around cognitive demand can close achievement gaps, particularly for low [[prior-knowledge]] learners who benefit most from reduced intrinsic load via worked examples.
-
-## Implications for design and research
-
-The synthesis across these findings is that cognitive load functions as a design constraint, a measurement target, and a predictor of transfer. Designs that offload extraneous load while deliberately preserving or escalating germane load — through clue-based feedback, [[desirable-difficulties|productive struggle]], and fading scaffolds — outperform both unguided automation and over-guidance. Evaluators should treat workload as an outcome to be measured rather than assumed, and learner models should represent cognitive load explicitly to enable [[adaptive-learning|adaptive]] scaffolding. Future work should examine whether AI designs that reward effort rather than ease produce learning that persists to unaided performance.
-
-## Connected Concepts
-
-- [[cognitive-psychology]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[self-regulated-learning]]
-- [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[metacognition]]
-
-## Connected Articles
-
-- [[dai-chatbots-problem-posing-primary-2026]] — Chatbots reduced cognitive load while improving science problem posing
-- [[lukesova-clue-before-correction-2026]] — Clue-before-correction reduced load while preserving reflection
-- [[nasa-tlx-workload-gamified-ai-2026]] — NASA-TLX found no workload differences across learning conditions
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI's moderate effect on higher-order thinking, conditional on SRL
-- [[cognitive-load-transfer-knowledge-tracing-2026]] — Modeling cognitive load in multi-domain knowledge tracing
-- [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding of cognitive engagement in an ITS
-- [[brcic-effortless-trap-productive-struggle-2026]] — Unguarded AI creates an illusion of learning that collapses on unaided tests
 
 ---
 
@@ -13766,24 +13725,28 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 ## [Trust](https://edtechdev.github.io/aied/concepts/trust/)
 
-> **Trust** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
+> **Trust** — the willingness of learners, educators, and institutions to rely on a person or an AI system for learning, judgment, and decision-making. In [[ai-education|AI in education]], trust spans two related but distinct domains: **trust in AI** (confidence in the competence, transparency, reliability, and benevolence of an AI system or agent) and **interpersonal trust** (the relational trust between students and instructors, between learners and peers, and across the institution). Both are double-edged: appropriate trust enables productive [[student-engagement|engagement]], while over-trust invites [[cognitive-offloading|over-reliance]] and under-trust blocks beneficial use. The central challenge is **calibration** — aligning trust to actual reliability, whether that reliability belongs to a model or to a person.
 
-Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[educational-robotics|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[educational-robotics]], trust is shaped by robot behaviour, task, and appearance.
+Trust in AI is shaped by perceived competence, transparency, consistency, and whether the system appears aligned with the learner's goals; it is closely tied to [[ai-literacy]] (knowing what to trust), [[critical-thinking]] (evaluating output), and the design of responsible AI. Interpersonal trust, by contrast, is built through relationships, disclosure, feedback, and [[pedagogy|pedagogical]] care — the qualities students rely on when they decide whether an instructor or an AI is a trustworthy source of guidance. The two domains increasingly interact: AI is woven into teacher-student relationships, so how students trust their instructor shapes how they trust (or question) the AI tools that instructor endorses.
 
-### How trust appears in the wiki's research
+## Trust in AI systems
 
-- **Trust in educational robots:** [[task-context-trust-educational-hri-2026|Research on trust in educational HRI]] shows that task context shapes trust in social robots more than appearance, with the highest trust during instructional tasks — what a robot does matters more than what it looks like.
-- **Epistemic trust in AI-mediated learning:** [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Research on avatar identity]] examines how the perceived source of AI content shapes epistemic trust.
-- **Calibration:** [[trust-calibration]] research examines how to help learners calibrate their trust to the actual reliability of AI systems, avoiding both over- and under-trust.
-- **Trust in tutoring and feedback:** Studies of [[intelligent-tutoring|AI Tutoring]] and AI [[feedback]] examine when learners appropriately trust (or question) AI-generated guidance and [[hallucination-risk|hallucinations]].
-- **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
+[[research-methods-aied|Research]] in this wiki examines when learners appropriately trust AI-generated guidance. [[ai-fallibility-warning-help-seeking|Warnings about AI fallibility]] can improve calibration: a simple transparency intervention telling students an AI tutor may make mistakes increased [[help-seeking]] in a math ITS, suggesting that honest limits foster rather than undermine appropriate reliance. [[calibrating-trustworthiness-llm-education-2026|Co-designing trustworthiness metrics]] with learning engineers shows that trust is best built on observable, agreed-upon criteria rather than assumed capability. [[fouad-bentley-trust-utility-gap-physics-2026|Physics]] and [[t2i-competence-paradox-2026|image-generation]] studies reveal a persistent *trust-utility gap* — users must weigh a tool's apparent competence against its actual reliability in a task.
 
-Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
-- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|Trust]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
+The [[ai-overreliance-complex-adaptive-system-2026|modeling of AI overreliance as a complex adaptive system]] reframes trust as a population-level process: whether people trust an assistant when it is right and check it when it is wrong depends on social dynamics and feedback loops, not just individual judgment. Sycophancy threatens calibration from the other direction — [[ai-sycophancy|an AI that always agrees]] can feel trustworthy precisely because it never challenges the user, inviting uncritical acceptance ([[contextual-sycophancy-ai-literacy|contextual sycophancy]] and [[sycophantic-ai-social-interaction-2026|sycophantic AI in social interaction]]). In [[embodied-learning|embodied]] contexts like [[educational-robotics]], trust is shaped more by what the robot does than what it looks like ([[task-context-trust-educational-hri-2026|task context and trust in educational HRI]]), and [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|avatar identity]] shapes the epistemic trust learners place in AI content.
+
+## Interpersonal trust in education
+
+Trust is also fundamentally relational. The classroom trust gap is documented in [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student views on control and agency in K-12 AI]]: students want greater autonomy and flexibility while teachers prioritize oversight and monitoring, a misalignment that both sides must navigate for AI adoption to succeed. [[qu-wang-disclose-or-not-genai-2026|Why students disclose or conceal their AI use]] shows that disclosure is driven less by policy than by relational factors — perceived peer norms and **comfort with instructors** are the strongest predictors, pointing to low interpretive trust in [[governance|institutional]] settings. [[vetter-hidden-cost-disclosure-genai-2026|The hidden costs of disclosure]] add nuance about when honesty is socially costly.
+
+Feedback is a key site of interpersonal trust. [[genai-teacher-feedback-comparison|Students' perceptions of GenAI versus teacher feedback]] find the two serve different needs — complementary but not interchangeable — with students trusting teacher feedback for relational, personalized judgment and [[generative-ai|GenAI]] for speed and [[accessibility]]. [[care-full-feedback-genai|A "care-full" account of feedback]] argues that trustworthy feedback is an [[ethics|ethical]], relational practice: it builds educative relationships and is respected as a professional craft, values an AI cannot simply replicate. This is why teacher-student trust — built on care and professional judgment — remains central even as AI enters the feedback loop.
+
+## Calibration and the two domains together
+
+The unifying challenge is **calibration**: matching trust to actual reliability, whether the trusted party is a model or a person. [[trust-calibration]] is the [[metacognition|metacognitive]] capacity to know when to trust and when to question. Studies of AI [[feedback]] and [[intelligent-tutoring]] examine when learners appropriately rely on or challenge AI guidance, while the interpersonal literature shows that students' trust in an instructor depends on relational trust built over time. As AI becomes embedded in teaching, these domains converge: an instructor who transparently explains what an AI tool can and cannot do, and who demonstrates reliability in their own judgment, builds the kind of trust that carries over to the tools they endorse. Building appropriate trust — in both AI and in each other — is a core goal of responsible AI design in education.
 
 ## Connected Concepts
 
-- [[remote-proctoring]]
 - [[trust-calibration]]
 - [[ai-literacy]]
 - [[critical-thinking]]
@@ -13792,28 +13755,29 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 - [[ethics]]
 - [[intelligent-tutoring]]
 - [[ai-sycophancy]]
+- [[human-ai-collaboration]]
+- [[remote-proctoring]]
 
 ## Connected Articles
-- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
-- [[best-response-student-ai-dialog-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
-- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar Identity and Epistemic Trust
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
-- [[social-robot-study-companions]] — Social Robots as Study Companions
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
-- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
-
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
+- [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy
+- [[genai-teacher-feedback-comparison]] — GenAI and teacher feedback serve different, complementary trust needs
+- [[care-full-feedback-genai]] — Trustworthy feedback as a "care-full," relational practice
+- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in an ITS
+- [[calibrating-trustworthiness-llm-education-2026]] — Co-designing trustworthiness metrics and visualizations for LLMs in education
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust-utility gap in physics AI tools
+- [[t2i-competence-paradox-2026]] — The competence paradox in AI image generation
+- [[task-context-trust-educational-hri-2026]] — Task context shapes trust in educational robots more than appearance
+- [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Avatar identity and epistemic trust in AI-mediated learning
+- [[contextual-sycophancy-ai-literacy]] — Contextual sycophancy and its limits for trust calibration
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel less satisfying over time
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Teachers' trust and distrust of AI shaped by ethics and technical knowledge
+- [[ai-pedagogical-accompaniment-amico]] — Accountable pedagogical mediation and trust in AI-enabled systems
+- [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
+- [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
+- [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
 
 ---
 
