@@ -179,16 +179,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       }
     };
 
-    // Persist state on every search, but skip the initial empty restore event
-    // that would strip a URL that came in WITH params.
+    // Persist state on every search, but never let an empty initial search
+    // (faceted mode's auto-run) strip a URL that came in with params, and
+    // never write an empty state that erases a shared/bookmarked URL.
     let first = true;
     const persist = () => {
       const inst = instance();
       if (!inst) return;
       inst.on("search", (term, filters) => {
-        if (first && !hadParams) { first = false; return; }
         first = false;
-        writeParams(term, filters || {});
+        const f = filters || {};
+        const hasFilters = Object.keys(f).some((k) => (f[k] || []).length);
+        if (!term && !hasFilters) return; // skip empty state
+        writeParams(term, f);
       });
     };
 
