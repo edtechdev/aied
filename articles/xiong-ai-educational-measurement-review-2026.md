@@ -5,7 +5,7 @@ updated: "2026-08-24T14:35:00-04:00"
 type: article
 tags: [educational-measurement, ai-ed-evaluation, assessment, meta-analysis-systematic-review, generative-ai]
 research_method: [educational measurement, systematic review]
-category: [ai ed evaluation, assessment]
+category: [evaluation, assessment]
 sources: ['raw/papers/xiong-ai-educational-measurement-review-2026.md']
 confidence: high
 ---

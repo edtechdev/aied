@@ -6,7 +6,7 @@ type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 audience: [student experience]
 level: [higher ed, k 12]
-category: [assessment, ai ed evaluation]
+category: [assessment, evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
 ---

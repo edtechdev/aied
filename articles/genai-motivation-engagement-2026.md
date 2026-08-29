@@ -7,7 +7,7 @@ tags: [generative-ai, motivation, self-determination-theory, student-engagement,
 research_method: [survey]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']
 confidence: high
 ---

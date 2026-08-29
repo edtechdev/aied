@@ -7,7 +7,7 @@ tags: [k-12, teacher-role, student-experience, student-engagement, adaptive-lear
 research_method: [qualitative, design-based research]
 audience: [teacher role, student experience]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.22294.md']
 confidence: medium
 ---

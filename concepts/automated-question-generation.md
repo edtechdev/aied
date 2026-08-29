@@ -5,7 +5,7 @@ updated: "2026-08-18T14:55:00-04:00"
 type: concept
 tags: [automated-question-generation, llm, generative-ai, assessment, automated-assessment, formative-assessment, educational-nlp, personalized-learning, adaptive-learning, ai-ed-evaluation, educational-measurement]
 research_method: [educational measurement]
-category: [assessment, ai ed evaluation]
+category: [assessment, evaluation]
 confidence: high
 ---
 

@@ -5,7 +5,7 @@ updated: "2026-08-23T08:30:00-04:00"
 type: article
 tags: [professional-training, adult-learning, llm, agentic-ai, intelligent-tutoring, assessment, generative-ai, learning-theories, ai-ed-evaluation]
 research_method: [system development]
-category: [verification]
+category: [evaluation]
 sources: ['raw/papers/2607.14044.md']
 confidence: high
 ---

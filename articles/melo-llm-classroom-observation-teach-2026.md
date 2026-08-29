@@ -6,7 +6,7 @@ type: article
 tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, faculty-development, professional-training]
 research_method: [educational measurement, interviews, benchmark]
 audience: [teacher role, faculty development]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/melo-llm-classroom-observation-teach-2026.md']
 confidence: high
 ---

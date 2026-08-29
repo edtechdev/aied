@@ -7,7 +7,7 @@ tags: [k-12, student-experience, llm, generative-ai, student-engagement, affecti
 research_method: [experiment]
 audience: [student experience]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.26579.md']
 confidence: medium
 ---

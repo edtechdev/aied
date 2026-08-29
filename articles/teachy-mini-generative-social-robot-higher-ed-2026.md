@@ -6,7 +6,7 @@ type: article
 tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, llm, design-thinking]
 research_method: [system development]
 level: [higher ed]
-category: [design]
+category: [instructional design]
 sources: ['raw/papers/vonschallen-teachy-mini-gsr-2026.md']
 confidence: high
 ---

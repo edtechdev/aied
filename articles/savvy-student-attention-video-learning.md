@@ -7,7 +7,7 @@ tags: [learning-analytics, multimodal, student-experience, student-engagement, h
 research_method: [system development]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2607.29413.md']
 confidence: high
 ---

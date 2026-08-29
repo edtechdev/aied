@@ -7,7 +7,7 @@ tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, generati
 research_method: [qualitative, research methods]
 audience: [teacher role, teacher ai collaboration]
 level: [k 12]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/2607.28889.md']
 confidence: high
 ---

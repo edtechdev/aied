@@ -7,7 +7,7 @@ tags: [ai-literacy, meta-analysis-systematic-review, ai-ed-evaluation, pedagogy,
 audience: [teacher role, faculty development, research methods aied]
 research_method: [meta-analysis]
 level: [higher ed, k 12]
-category: [ai ed evaluation, assessment]
+category: [evaluation, assessment]
 sources: ['raw/papers/liu-ai-literacy-interventions-meta-analysis-2026.md']
 confidence: high
 ---

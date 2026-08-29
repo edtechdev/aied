@@ -7,7 +7,7 @@ tags: [benchmark, ai-ed-evaluation, educational-measurement, llm, teacher-role, 
 research_method: [benchmark, educational measurement]
 audience: [teacher role]
 level: [k 12, special education]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/cdpk-pedagogy-benchmark-llms.md']
 confidence: high
 ---

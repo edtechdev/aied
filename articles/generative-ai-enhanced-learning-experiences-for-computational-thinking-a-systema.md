@@ -7,7 +7,7 @@ tags: [generative-ai, higher-ed, computational-thinking, intelligent-tutoring, m
 research_method: [systematic review]
 discipline: [cs education]
 level: [higher ed]
-category: [design guidelines]
+category: [instructional design]
 sources: ['raw/papers/generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema.md']
 confidence: high
 ---

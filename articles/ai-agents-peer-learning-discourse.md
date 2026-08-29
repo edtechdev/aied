@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, benchmark, intelligent-tutoring, student-engagement, learning-analytics, llm, scaffolding, metacognition]
 research_method: [benchmark]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2602.14477.md']
 confidence: medium
 ---

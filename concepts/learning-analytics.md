@@ -4,7 +4,7 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
-category: [engagement metrics, ai ed evaluation]
+category: [engagement, evaluation]
 
 confidence: high
 ---

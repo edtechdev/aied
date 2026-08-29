@@ -6,7 +6,7 @@ type: article
 tags: [community-of-inquiry, online-teaching-and-learning, metacognition, generative-ai, collaborative-learning, higher-ed]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [theoretical framework]
+category: [miscellaneous]
 sources: ['raw/papers/ai-communities-of-inquiry-2026.md']
 confidence: medium
 ---

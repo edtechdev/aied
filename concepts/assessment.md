@@ -7,7 +7,7 @@ type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 research_method: [educational measurement]
 level: [higher ed]
-category: [assessment, ai ed evaluation]
+category: [assessment, evaluation]
 confidence: high
 ---
 

@@ -5,7 +5,7 @@ updated: "2026-08-24T02:15:00-04:00"
 type: concept
 tags: [usability-research]
 research_method: [system development, user study, interviews]
-category: [educational software evaluation]
+category: [evaluation]
 confidence: high
 ---
 

@@ -7,7 +7,7 @@ tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-
 audience: [teacher role]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment, verification]
+category: [assessment, evaluation]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
 ---

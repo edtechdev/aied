@@ -8,7 +8,7 @@ research_method: [system development]
 discipline: [stem education]
 audience: [student experience, teacher role]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.10325.md']
 confidence: medium
 ---

@@ -8,7 +8,7 @@ audience: [student experience, teacher role]
 research_method: [case study]
 discipline: [cs education]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2607.20149.md']
 confidence: high
 ---

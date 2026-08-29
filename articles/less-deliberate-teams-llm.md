@@ -7,7 +7,7 @@ tags: [llm, student-experience, collaborative-learning, higher-ed, student-engag
 research_method: [system development]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.30860.md']
 confidence: high
 ---

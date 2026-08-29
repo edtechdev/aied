@@ -5,7 +5,7 @@ updated: "2026-08-28T17:30:00-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 research_method: [benchmark]
-category: [ai ed evaluation, assessment]
+category: [evaluation, assessment]
 confidence: high
 ---
 
