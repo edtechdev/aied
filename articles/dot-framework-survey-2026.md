@@ -7,7 +7,7 @@ tags: [ai-education, ai-literacy, design-thinking, higher-ed, human-in-the-loop-
 research_method: [survey]
 audience: [teacher role]
 level: [higher ed]
-category: [design thinking, miscellaneous]
+category: [design thinking, framework]
 sources: ['raw/papers/2605.29041.md']
 confidence: high
 ---
