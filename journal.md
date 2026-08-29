@@ -1508,7 +1508,7 @@
 - ◐ [[human-vs-llm-ordered-coding]] — 'raw/papers/caeai-human-llm-coding.md'
   Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
 - ◐ [[agentic-ai]] — ''
-  Agentic AI in Education
+  Agentic AI
 
 ## "2026-07-31
 
