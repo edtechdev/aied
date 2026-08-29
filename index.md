@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-29 | **Total pages:** 1128
+**Last updated:** 2026-08-29 | **Total pages:** 1127
 ---
 
 ## Concepts
@@ -280,7 +280,6 @@
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
 - [[cognitive-diagnosis]] — Cognitive Diagnosis
-- [[cognitive-load]] — Cognitive Load
 - [[cognitive-load-transfer-knowledge-tracing-2026]] — Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing
 - [[cognitive-offloading]] — Cognitive Offloading
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content

@@ -3,7 +3,7 @@ title: "Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Ref
 created: "2026-08-23T08:10:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
-tags: [productive-failure, language-learning, generative-ai, metacognition, self-regulated-learning, feedback, cognitive-load, higher-ed]
+tags: [productive-failure, language-learning, generative-ai, metacognition, self-regulated-learning, feedback, higher-ed]
 research_method: [mixed methods]
 discipline: [language learning]
 level: [higher ed]
