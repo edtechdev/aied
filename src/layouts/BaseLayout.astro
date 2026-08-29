@@ -644,7 +644,7 @@ const recentConceptItems = recentConcepts.map(c => ({
           <span class="sidebar-count">{indexedCount} concepts</span>
         </div>
         {conceptIndex.map((section, si) => (
-          <details class="nav-section" open={si === 0}>
+          <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
             <summary>{section.heading}</summary>
             <div class="nav-section-body">
               {section.groups.map(group => {
@@ -771,6 +771,31 @@ const recentConceptItems = recentConcepts.map(c => ({
         if (e.key === "Escape") setOpen(false);
       });
       syncInert();
+    })();
+  </script>
+  <script is:inline>
+    // Persist the open/collapsed state of every collapsible sidebar section
+    // (nav sections, starred groups, TOC, recent lists) to localStorage so a
+    // visitor's chosen collapse state is restored when they navigate pages.
+    (() => {
+      const KEY = 'aied:collapse-state';
+      let saved = {};
+      try { saved = JSON.parse(localStorage.getItem(KEY) || '{}'); } catch {}
+      // Restore saved open states (leave defaults for keys never touched).
+      document.querySelectorAll('details[data-state-key]').forEach((d) => {
+        const k = d.dataset.stateKey;
+        if (k in saved) d.open = saved[k];
+      });
+      // Save changes as the visitor toggles.
+      const persist = (d) => {
+        const k = d.dataset.stateKey;
+        if (!k) return;
+        saved[k] = d.open;
+        try { localStorage.setItem(KEY, JSON.stringify(saved)); } catch {}
+      };
+      document.querySelectorAll('details[data-state-key]').forEach((d) => {
+        d.addEventListener('toggle', () => persist(d));
+      });
     })();
   </script>
 </body>
