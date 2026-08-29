@@ -129,5 +129,69 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </style>
 
 <script is:inline>
-  import("/aied/pagefind/pagefind-component-ui.js");
+  import("/aied/pagefind/pagefind-component-ui.js").then(() => {
+    // Sync the search term AND selected filters to the URL so searches can be
+    // bookmarked and shared. Uses ?q=<term>&f=<base64 JSON of filters>.
+    const { getInstanceManager } = window.PagefindComponents;
+    const instance = () => getInstanceManager().getInstance("default");
+
+    const readParams = () => {
+      const p = new URLSearchParams(window.location.search);
+      let filters = {};
+      try {
+        const f = p.get("f");
+        if (f) filters = JSON.parse(atob(f));
+      } catch {}
+      return { q: p.get("q") || "", filters };
+    };
+
+    const writeParams = (q, filters) => {
+      const p = new URLSearchParams();
+      if (q) p.set("q", q);
+      const hasFilters = Object.keys(filters).some((k) => (filters[k] || []).length);
+      if (hasFilters) p.set("f", btoa(JSON.stringify(filters)));
+      const qs = p.toString();
+      const url = qs ? window.location.pathname + "?" + qs : window.location.pathname;
+      window.history.replaceState({}, "", url);
+    };
+
+    // Restore state from the URL once the instance is ready.
+    const { q, filters } = readParams();
+    const restore = () => {
+      try {
+        const inst = instance();
+        if (!inst) return;
+        // Set the visible input value.
+        const input = document.querySelector("pagefind-input input");
+        if (input) input.value = q;
+        if (q || Object.keys(filters).length) {
+          inst.triggerSearchWithFilters(q, filters);
+        }
+      } catch {}
+    };
+
+    // Persist state on every search.
+    const persist = () => {
+      try {
+        const inst = instance();
+        if (!inst) return;
+        inst.on("search", (term, filters) => writeParams(term, filters));
+      } catch {}
+    };
+
+    // The instance registers as components initialize; wait for it.
+    const waitForInstance = () => {
+      try {
+        if (instance()) {
+          restore();
+          persist();
+        } else {
+          setTimeout(waitForInstance, 100);
+        }
+      } catch {
+        setTimeout(waitForInstance, 100);
+      }
+    };
+    waitForInstance();
+  });
 </script>
