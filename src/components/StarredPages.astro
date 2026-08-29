@@ -85,14 +85,15 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
   .starred-list li { margin: 0; }
   .starred-list a {
     display: block;
-    padding: 0.2rem 0.9rem;
     font-size: 0.85rem;
+    line-height: 1.4;
+    padding: 0.22rem 0.6rem;
     color: var(--muted-color);
     text-decoration: none;
     border-radius: 4px;
   }
   .starred-list a:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 8%, transparent); }
-  .starred-empty { padding: 0.25rem 0.9rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
+  .starred-empty { padding: 0.25rem 0.6rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
 </style>
 
 <script>
@@ -132,8 +133,9 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
         list.innerHTML = items
           .map((key) => {
             const slug = key.split('/')[1];
-            const title = titles[slug] || slug;
-            return `<li><a href="/aied/${path}/${slug}/">${title}</a></li>`;
+            let title = titles[slug] || slug;
+            if (title.length > 50) title = title.slice(0, 50).trimEnd() + '…';
+            return `<li><a href="/aied/${path}/${slug}/" title="${title}">${title}</a></li>`;
           })
           .join('');
       }
