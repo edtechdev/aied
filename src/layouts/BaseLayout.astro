@@ -427,11 +427,11 @@ const recentConceptItems = recentConcepts.map(c => ({
         display: flex;
         flex-direction: column;
       }
-      /* The TOC is the top flex item (it scrolls internally via its own
-         max-height); the recent section keeps a guaranteed minimum vertical
-         space and scrolls in its own region if needed. */
+      /* The TOC is the primary flex item (grows to fill, scrolls internally);
+         the recent section keeps a guaranteed minimum vertical space and
+         scrolls in its own region only if it exceeds what's left. */
       .recent-rail {
-        flex: 1 1 auto;
+        flex: 0 1 auto;
         min-height: 14rem;
         overflow-y: auto;
       }
