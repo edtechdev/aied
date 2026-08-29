@@ -4,33 +4,49 @@
  * listing the pages the user has starred (persisted in localStorage via
  * src/stores/stars.ts). Pre-seeded with the default starred concepts.
  *
- * Receives a slug -> display-title map for concepts (from BaseLayout) so
- * starred concept links show a friendly label. Starred articles/FAQs show
- * their slug path.
+ * Starred items are grouped into three collapsible subsections: Concepts,
+ * FAQs, and Articles. Receives a slug -> display-title map (from BaseLayout)
+ * so starred concepts show a friendly label.
  */
 import { DEFAULT_STARRED } from '../stores/stars';
 
 interface Props {
-  /** slug -> display title for concepts (and any other pages the sidebar knows). */
+  /** slug -> display title (concepts and any other pages the sidebar knows). */
   titles: Record<string, string>;
 }
 
 const { titles } = Astro.props;
 
 const defaultEntries = DEFAULT_STARRED.map((key) => {
-  const slug = key.split('/')[1];
-  return { key, slug, title: titles[slug] || slug };
+  const parts = key.split('/');
+  return { key, kind: parts[0], slug: parts[1], title: titles[parts[1]] || parts[1] };
 });
 ---
 <details class="starred-pages" open>
   <summary class="starred-summary">
     <span>★ Starred</span>
   </summary>
-  <ul class="starred-list" data-starred-list data-titles={JSON.stringify(titles)}>
-    {defaultEntries.map((e) => (
-      <li data-star-item={e.key}><a href={`/aied/concepts/${e.slug}/`}>{e.title}</a></li>
-    ))}
-  </ul>
+
+  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)}>
+    <details class="starred-group" open data-starred-group="concept">
+      <summary>Concepts</summary>
+      <ul class="starred-list" data-starred-list="concept">
+        {defaultEntries.filter(e => e.kind === 'concept').map(e => (
+          <li><a href={`/aied/concepts/${e.slug}/`}>{e.title}</a></li>
+        ))}
+      </ul>
+    </details>
+
+    <details class="starred-group" data-starred-group="faq">
+      <summary>FAQs</summary>
+      <ul class="starred-list" data-starred-list="faq"></ul>
+    </details>
+
+    <details class="starred-group" data-starred-group="article">
+      <summary>Articles</summary>
+      <ul class="starred-list" data-starred-list="article"></ul>
+    </details>
+  </div>
 </details>
 
 <style>
@@ -51,54 +67,77 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     list-style: none;
   }
   .starred-summary::-webkit-details-marker { display: none; }
-  .starred-list {
+
+  .starred-groups { border-top: 1px solid var(--card-border-color); padding: 0.25rem 0 0.5rem 0; }
+  .starred-group { margin: 0; }
+  .starred-group > summary {
+    cursor: pointer;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted-color);
+    padding: 0.3rem 0.9rem 0.15rem;
     list-style: none;
-    margin: 0;
-    padding: 0.25rem 0 0.5rem 0;
-    border-top: 1px solid var(--card-border-color);
   }
+  .starred-group > summary::-webkit-details-marker { display: none; }
+  .starred-list { list-style: none; margin: 0; padding: 0 0 0.2rem 0; }
   .starred-list li { margin: 0; }
   .starred-list a {
     display: block;
-    padding: 0.22rem 0.9rem;
+    padding: 0.2rem 0.9rem;
     font-size: 0.85rem;
     color: var(--muted-color);
     text-decoration: none;
     border-radius: 4px;
   }
   .starred-list a:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 8%, transparent); }
-  .starred-list .starred-empty { padding: 0.4rem 0.9rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
+  .starred-empty { padding: 0.25rem 0.9rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
 </style>
 
 <script>
   import { starredStore } from '../stores/stars';
 
-  const list = document.querySelector<HTMLElement>('[data-starred-list]');
-  if (!list) throw new Error('starred list missing');
+  const groups = document.querySelector<HTMLElement>('[data-starred-groups]');
+  if (!groups) throw new Error('starred groups missing');
 
   let titles: Record<string, string> = {};
   try {
-    titles = JSON.parse(list.dataset.titles || '{}');
+    titles = JSON.parse(groups.dataset.titles || '{}');
   } catch {
     titles = {};
   }
 
+  const KIND_META = {
+    concept: { label: 'Concepts', path: 'concepts' },
+    faq: { label: 'FAQs', path: 'faqs' },
+    article: { label: 'Articles', path: 'articles' },
+  } as const;
+
   const render = () => {
     const keys = starredStore.get();
-    if (keys.length === 0) {
-      list.innerHTML = '<li class="starred-empty">No starred pages yet</li>';
-      return;
+    const byKind: Record<string, string[]> = { concept: [], faq: [], article: [] };
+    for (const key of keys) {
+      const kind = key.split('/')[0];
+      if (kind in byKind) byKind[kind].push(key);
     }
-    list.innerHTML = keys
-      .map((key) => {
-        const parts = key.split('/');
-        const kind = parts[0];
-        const slug = parts[1];
-        const path = kind === 'concept' ? 'concepts' : kind === 'article' ? 'articles' : 'faqs';
-        const title = titles[slug] || slug;
-        return `<li><a href="/aied/${path}/${slug}/">${title}</a></li>`;
-      })
-      .join('');
+    for (const kind of ['concept', 'faq', 'article'] as const) {
+      const list = groups.querySelector<HTMLElement>(`[data-starred-list="${kind}"]`);
+      if (!list) continue;
+      const items = byKind[kind];
+      if (items.length === 0) {
+        list.innerHTML = '<li class="starred-empty">None</li>';
+      } else {
+        const path = KIND_META[kind].path;
+        list.innerHTML = items
+          .map((key) => {
+            const slug = key.split('/')[1];
+            const title = titles[slug] || slug;
+            return `<li><a href="/aied/${path}/${slug}/">${title}</a></li>`;
+          })
+          .join('');
+      }
+    }
   };
 
   render();
