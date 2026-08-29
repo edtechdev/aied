@@ -27,7 +27,7 @@ const connectedFaqs = (article.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
-const { title, tags, confidence, created, updated } = article.data;
+const { title, tags, created, updated } = article.data;
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = article.body || '';
@@ -186,7 +186,6 @@ function renderInline(text: string): string {
     .replace(/doi:(\S+)/g, '<a href="https://doi.org/$1">doi:$1</a>');
 }
 
-const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
 const rendered = renderMarkdown(body, title);
 const toc = rendered.headings.filter(h => h.depth <= 3);
 if (connectedFaqs.length > 0) {
@@ -212,7 +211,7 @@ if (connectedFaqs.length > 0) {
       <h1>{title}</h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
         <StarButton slug={slug} kind="article" />
-        {confIcon} {confidence} · created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
+        created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
           <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
         ))}
