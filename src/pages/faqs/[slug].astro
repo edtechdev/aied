@@ -24,7 +24,20 @@ const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
 
-const { title, tags, created, updated } = faq.data;
+const { title, tags, created, updated, research_method, discipline, audience, level, category } = faq.data;
+// Build PageFind filter facets from the structured metadata fields.
+const metaFields: { name: string; values: string[] | undefined }[] = [
+  { name: 'level', values: level },
+  { name: 'audience', values: audience },
+  { name: 'discipline', values: discipline },
+  { name: 'category', values: category },
+  { name: 'research_method', values: research_method },
+];
+const pagefindFilters = metaFields
+  .flatMap(({ name, values }) =>
+    (values || []).map((v) => `${name}:${v}`)
+  )
+  .join(', ');
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = faq.body || '';
@@ -194,7 +207,7 @@ function renderInline(text: string): string {
     tags={tags}
     body={body}
   />
-  <article data-pagefind-filter="page_type:faq">
+  <article data-pagefind-filter={[`page_type:faq`, pagefindFilters].filter(Boolean).join(', ')}>
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">❓ FAQ</p>
       <h1>{title}</h1>
