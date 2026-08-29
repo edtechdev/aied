@@ -23,9 +23,16 @@ const key = pageKey(kind, slug);
   aria-pressed="false"
   title="Star this page"
 >
-  <span class="star-label">Favorite:</span>
-  <svg class="star-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true">
+  <svg class="star-icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
+    <!-- Outline star: shown when NOT starred (empty look) -->
     <path
+      class="star-outline"
+      d="M12 2l2.9 6.26 6.6.72-4.9 4.55 1.35 6.47L12 16.9 6.05 20l1.35-6.47-4.9-4.55 6.6-.72L12 2z"
+      fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"
+    />
+    <!-- Filled star: shown when starred (amber) -->
+    <path
+      class="star-fill"
       d="M12 2l2.9 6.26 6.6.72-4.9 4.55 1.35 6.47L12 16.9 6.05 20l1.35-6.47-4.9-4.55 6.6-.72L12 2z"
       fill="currentColor"
     />
@@ -40,17 +47,15 @@ const key = pageKey(kind, slug);
     background: none;
     border: none;
     /* Pico's global `button { width:100% }` stretches an inline-flex button to
-       fill the h1, which forces the star onto a second line and leaves a big
-       empty gap below it. Force it to shrink-to-fit its content. */
+       fill its container; force it to shrink-to-fit its content. */
     width: auto;
-    padding: 0.1rem;
-    margin-left: 0.5rem;
+    padding: 0;
+    margin: 0 0.4rem 0 0;
     cursor: pointer;
     color: var(--muted-color);
     border-radius: 6px;
-    /* Baseline alignment + no line-box inflation so the button sits tight
-       against the title without pushing the following content down. */
-    vertical-align: text-bottom;
+    /* Align the star with the meta text it now leads. */
+    vertical-align: -0.15em;
     line-height: 1;
     /* No color transition: the filled/unfilled star must snap instantly on
        toggle, not fade (a 150ms fade reads as a lag on slower browsers). */
@@ -58,13 +63,13 @@ const key = pageKey(kind, slug);
   }
   .star-btn:hover { background: rgba(255, 255, 255, 0.08); }
   .star-btn:active { transform: scale(0.92); }
-  .star-btn[data-starred='true'] { color: #f59e0b; }
   .star-btn .star-icon { display: block; }
-  .star-label {
-    margin-right: 0.35rem;
-    font-size: 0.8rem;
-    color: var(--muted-color);
-  }
+  /* Show the outline (empty) star when unstarred; the filled star when starred. */
+  .star-btn .star-fill { display: none; }
+  .star-btn .star-outline { display: block; }
+  .star-btn[data-starred='true'] { color: #f59e0b; }
+  .star-btn[data-starred='true'] .star-fill { display: block; }
+  .star-btn[data-starred='true'] .star-outline { display: none; }
   .star-btn:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
 </style>
 
@@ -75,7 +80,6 @@ const key = pageKey(kind, slug);
   if (!btn) throw new Error('star button missing data-star-key');
 
   const key = btn.dataset.starKey!;
-  const label = btn.querySelector<HTMLElement>('.star-label');
 
   // Apply a visual state to the button immediately.
   const setVisual = (on: boolean) => {
@@ -83,8 +87,6 @@ const key = pageKey(kind, slug);
     btn.setAttribute('data-starred', String(on));
     btn.setAttribute('aria-label', on ? 'Unstar this page' : 'Star this page');
     btn.setAttribute('title', on ? 'Unstar this page' : 'Star this page');
-    // Show "Favorite:" only while unstarred; hide it once starred.
-    if (label) label.textContent = on ? '' : 'Favorite:';
   };
 
   // Read the current persisted state.
