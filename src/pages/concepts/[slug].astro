@@ -37,6 +37,8 @@ const connectedFaqs = (concept.data.connected_faqs || [])
 
 const { title, tags, created, updated, research_method, discipline, audience, level, category } = concept.data;
 // Build PageFind filter facets from the structured metadata fields.
+// Emit one <meta> per name:value pair (PageFind parses only the LAST inline
+// filter in a comma-joined list, so each facet must be its own element).
 const metaFields: { name: string; values: string[] | undefined }[] = [
   { name: 'level', values: level },
   { name: 'audience', values: audience },
@@ -44,11 +46,8 @@ const metaFields: { name: string; values: string[] | undefined }[] = [
   { name: 'category', values: category },
   { name: 'research_method', values: research_method },
 ];
-const pagefindFilters = metaFields
-  .flatMap(({ name, values }) =>
-    (values || []).map((v) => `${name}:${v}`)
-  )
-  .join(', ');
+const pagefindFilterPairs: string[] = metaFields
+  .flatMap(({ name, values }) => (values || []).map((v) => `${name}:${v}`));
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = concept.body || '';
@@ -227,7 +226,8 @@ if (connectedFaqs.length > 0) {
     connectedConceptSlugs={connectedConceptSlugs}
     connectedFaqSlugs={connectedFaqs.map((f: any) => f.id.replace('.md', ''))}
   />
-  <article data-pagefind-filter={[`page_type:concept`, pagefindFilters].filter(Boolean).join(', ')} data-pagefind-weight="2">
+  <article data-pagefind-filter="page_type:concept" data-pagefind-weight="2">
+    {pagefindFilterPairs.map((pair) => <meta data-pagefind-filter={pair} />)}
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">🏷️ Concept</p>
       <h1>{title}</h1>
