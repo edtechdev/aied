@@ -4,7 +4,7 @@ created: "2026-08-09T08:25:18-04:00"
 updated: "2026-08-24T05:04:46-04:00"
 type: article
 tags: [automated-essay-scoring, prompt-engineering, llm, generative-ai, assessment, higher-ed, k-12, writing-education, ai-literacy]
-audience: [teacher role, researcher]
+audience: [teacher role, research methods aied]
 research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed, k 12]

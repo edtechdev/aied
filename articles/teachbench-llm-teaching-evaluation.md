@@ -4,7 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, benchmark, formative-assessment, personalized-learning, feedback, ai-literacy, agentic-ai]
-audience: [researcher, teacher role]
+audience: [research methods aied, teacher role]
 research_method: [benchmark]
 
 sources: ['raw/papers/2601.21375.md']

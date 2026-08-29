@@ -4,7 +4,7 @@ created: "2026-08-25T07:45:00-04:00"
 updated: "2026-08-25T11:10:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, generative-ai, well-being, privacy, ethics, ai-literacy, adult-learning, governance, regulation]
-audience: [researcher, teacher role]
+audience: [research methods aied, teacher role]
 research_method: [literature review]
 sources: ['raw/papers/kim-ai-anxiety-comprehensive-analysis.md']
 confidence: medium

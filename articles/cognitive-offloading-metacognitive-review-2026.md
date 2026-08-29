@@ -5,7 +5,7 @@ updated: "2026-08-16T20:47:13-04:00"
 type: article
 tags: [cognitive-offloading, metacognition, self-regulated-learning, ai-literacy, generative-ai, student-experience, higher-ed]
 research_method: [literature review]
-audience: [researcher, teacher role]
+audience: [research methods aied, teacher role]
 level: [higher ed]
 
 sources: ['raw/papers/cognitive-offloading-metacognitive-review-2026.md']
