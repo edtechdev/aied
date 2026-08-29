@@ -177,13 +177,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         });
       }
 
-      // Restore the query only after PageFind's faceted init has settled (~2.5s),
-      // so the input isn't re-rendered away. Retry a few times.
+      // Restore the query. triggerSearchWithFilters runs the search but does NOT
+      // fill the visible input, so set the input value explicitly afterward
+      // (without dispatching an input event, which would re-trigger a search).
       if (q || Object.keys(filters).length) {
+        const input = document.querySelector("pagefind-input input");
+        if (q && input && input.value !== q) {
+          input.value = q;
+        }
+        try { inst.triggerSearchWithFilters(q, filters); } catch {}
         attemptCount += 1;
-        if (attemptCount < 4 && document.querySelector("pagefind-input input")?.value !== q) {
-          try { inst.triggerSearchWithFilters(q, filters); } catch {}
-          setTimeout(attempt, 700);
+        // Re-apply the input value until it sticks (PageFind may re-render it).
+        if (attemptCount < 6 && document.querySelector("pagefind-input input")?.value !== q) {
+          setTimeout(attempt, 500);
           return;
         }
       }
