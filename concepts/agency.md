@@ -4,7 +4,7 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
-audience: [student experience]
+audience: [learners]
 
 confidence: high
 ---

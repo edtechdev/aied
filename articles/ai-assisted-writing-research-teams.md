@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, higher-ed, writing-education, faculty-development, automated-assessment, llm, agentic-ai, ai-literacy]
 research_method: [survey, experiment]
 discipline: [writing education]
-audience: [research methods aied]
+audience: [researchers]
 level: [higher ed]
 sources: ['raw/papers/2605.27404.md']
 confidence: medium

@@ -4,7 +4,7 @@ created: "2026-08-19T17:50:00-04:00"
 updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, instructional-design, higher-ed, k-12, ai-literacy]
-audience: [stakeholders, teacher role, student experience, administrator]
+audience: [instructors, learners, administrator]
 level: [higher ed, k 12]
 category: [instructional design]
 confidence: high

@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, higher-ed, cognitive-offloading, student-experience, writing-education, llm]
 research_method: [mixed methods]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2606.28749.md']

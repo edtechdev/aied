@@ -5,7 +5,7 @@ updated: "2026-08-24T04:54:13-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, human-in-the-loop-ai, pedagogical-safety, ai-literacy, student-experience, teacher-role, k-12]
 research_method: [system development, experiment]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [k 12]
 sources: ['raw/papers/2605.20665.md']
 confidence: high

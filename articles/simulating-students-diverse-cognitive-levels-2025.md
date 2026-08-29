@@ -4,6 +4,7 @@ created: "2026-08-12T22:10:30-04:00"
 updated: "2026-08-24T05:00:50-04:00"
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, knowledge-graph, cognitive-diagnosis, agentic-ai, computational-thinking]
+audience: [software developers]
 research_method: [system development, benchmark]
 sources: ['raw/papers/2505.19997.md']
 confidence: high

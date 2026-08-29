@@ -6,7 +6,7 @@ type: article
 tags: [academic-integrity, llm, student-experience, higher-ed, writing-education, ai-literacy, ethics, metacognition, ai-detection, educational-policy-ai]
 research_method: [qualitative, interviews]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.29090.md']
 confidence: high

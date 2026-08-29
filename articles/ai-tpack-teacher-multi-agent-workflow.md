@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [ai-literacy, faculty-development, generative-ai, agentic-ai, scaffolding, teacher-role, teacher-ai-competency, rag]
 research_method: [mixed methods]
-audience: [faculty development, teacher role, faculty development genai]
+audience: [faculty development, instructors]
 sources: ['raw/papers/2605.13906.md']
 confidence: medium
 ---

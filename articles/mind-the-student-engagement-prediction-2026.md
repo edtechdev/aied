@@ -4,6 +4,7 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [learning-analytics, student-engagement, multimodal, higher-ed, ai-ed-evaluation]
+audience: [software developers]
 research_method: [system development, benchmark]
 level: [higher ed]
 category: [evaluation]

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [personalized-learning, scaffolding, k-12, higher-ed, hallucination-risk, equity-in-ai-education, learning-analytics, student-experience, llm]
 research_method: [theoretical analysis]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 sources: ['raw/papers/2606.16822.md']
 confidence: high

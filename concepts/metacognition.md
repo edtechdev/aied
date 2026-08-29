@@ -4,7 +4,7 @@ created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-27T06:13:15.881051-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 ---

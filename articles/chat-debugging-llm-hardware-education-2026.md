@@ -6,7 +6,7 @@ type: article
 tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
 research_method: [system development]
 discipline: [cs education, stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2608.02420.md']
 confidence: medium

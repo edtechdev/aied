@@ -5,7 +5,7 @@ updated: "2026-08-27T08:55:36.300729-04:00"
 type: article
 tags: [cognitive-offloading, critical-thinking, generative-ai, student-experience, ai-literacy, self-regulated-learning]
 research_method: [literature review, theoretical analysis]
-audience: [student experience]
+audience: [learners]
 sources: ["https://doi.org/10.64823/ijter.2621031"]
 confidence: medium
 ---

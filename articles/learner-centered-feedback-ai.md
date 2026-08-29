@@ -5,7 +5,7 @@ updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [generative-ai, feedback, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, rag]
 research_method: [mixed methods, qualitative]
-audience: [teacher role, faculty development, faculty development genai]
+audience: [instructors, faculty development]
 level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']

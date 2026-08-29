@@ -4,6 +4,7 @@ created: "2026-07-08T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, k-12, privacy, benchmark, cs-education, feedback, scaffolding, prompt-engineering, rag]
+audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]
 level: [k 12]

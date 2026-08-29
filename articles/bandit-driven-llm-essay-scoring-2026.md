@@ -4,6 +4,7 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [automated-assessment, llm, assessment, writing-education, feedback, edtech-platform]
+audience: [software developers]
 research_method: [benchmark]
 discipline: [writing education]
 category: [assessment]

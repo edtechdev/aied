@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [student-experience, cognitive-offloading, ai-literacy, higher-ed, affective-computing, self-regulated-learning]
 research_method: [interviews]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2605.23123.md']

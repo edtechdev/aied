@@ -4,7 +4,7 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, meta-analysis-systematic-review, assessment, personalized-learning, ai-literacy, academic-integrity, equity-in-ai-education, ethics]
-audience: [research methods aied, administrator, teacher role]
+audience: [researchers, administrator, instructors]
 research_method: [systematic review]
 level: [higher ed]
 category: [assessment]

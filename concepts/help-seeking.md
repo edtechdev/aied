@@ -4,7 +4,7 @@ created: "2026-08-06T10:20:04-04:00"
 updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding, self-regulated-learning]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 ---

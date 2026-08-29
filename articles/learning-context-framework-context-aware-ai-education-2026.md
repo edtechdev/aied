@@ -5,7 +5,7 @@ updated: "2026-08-24T17:00:00-04:00"
 type: article
 tags: [ai-education, student-modeling, ai-technologies, adaptive-learning, personalized-learning, human-ai-collaboration, learning-analytics, cognitive-offloading]
 research_method: [theoretical analysis]
-audience: [learner modeling]
+audience: [learners]
 sources: ['raw/papers/learning-context-framework-context-aware-ai-education-2026.md']
 confidence: high
 ---

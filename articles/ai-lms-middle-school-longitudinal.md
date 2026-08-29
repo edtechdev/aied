@@ -5,7 +5,7 @@ updated: "2026-08-25T14:30:00-04:00"
 type: article
 tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform, llm, higher-ed, generative-ai, student-experience]
 research_method: [design-based research, survey]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 sources: ['raw/papers/2606.07544.md']

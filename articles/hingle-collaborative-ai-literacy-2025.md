@@ -4,7 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T05:46:39-04:00"
 type: article
 tags: [ai-literacy, collaborative-learning, instructional-design, k-12, llm, higher-ed]
-audience: [teacher role, research methods aied]
+audience: [instructors, researchers]
 research_method: [systematic review]
 level: [k 12, higher ed]
 category: [instructional design]

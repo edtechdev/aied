@@ -4,7 +4,7 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, automated-assessment, cs-education, formative-assessment, higher-ed, scaffolding, learning-analytics, ai-literacy, k-12]
-audience: [teacher role]
+audience: [instructors]
 research_method: [system development]
 discipline: [cs education]
 level: [higher ed, k 12]

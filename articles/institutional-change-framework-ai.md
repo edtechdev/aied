@@ -6,7 +6,7 @@ type: article
 tags: [ai-education, change-management, faculty-development, higher-ed, pedagogy, stem-education, agentic-ai, scaffolding, student-experience]
 research_method: [theoretical analysis]
 discipline: [stem education]
-audience: [faculty development, faculty development genai, student experience]
+audience: [faculty development, learners]
 level: [higher ed]
 sources: ['raw/papers/2605.12757.md']
 confidence: high

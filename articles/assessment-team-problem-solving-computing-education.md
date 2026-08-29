@@ -6,7 +6,7 @@ type: article
 tags: [formative-assessment, feedback, learning-analytics, stem-education, higher-ed, student-experience]
 research_method: [benchmark]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2607.19209.md']

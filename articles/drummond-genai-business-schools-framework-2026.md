@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, teacher-role, academic-integrity, student-engagement]
 research_method: [case study, mixed methods]
 discipline: [business education]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/drummond-genai-business-schools-framework-2026.md']

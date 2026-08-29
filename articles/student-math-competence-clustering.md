@@ -6,7 +6,7 @@ type: article
 tags: [personalized-learning, stem-education, learning-analytics, student-experience, adaptive-learning, k-12, higher-ed, knowledge-tracing, ai-literacy, formative-assessment]
 research_method: [benchmark]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [k 12, higher ed]
 sources: ['raw/papers/2607.26063.md']
 confidence: high

@@ -5,7 +5,7 @@ updated: "2026-08-25T17:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, equity-in-ai-education, student-engagement, k-12, ai-literacy, student-experience, rct, rag]
 research_method: [randomized controlled trial]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 category: [engagement]
 sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']

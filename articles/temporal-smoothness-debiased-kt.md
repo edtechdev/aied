@@ -5,7 +5,7 @@ updated: "2026-08-24T10:00:00-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, personalized-learning, intelligent-tutoring, student-experience]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners, software developers]
 sources: ['raw/papers/2605.05958.md']
 confidence: medium
 ---

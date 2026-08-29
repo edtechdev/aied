@@ -6,7 +6,7 @@ type: article
 tags: [ai-literacy, student-experience, higher-ed, stem-education, cognitive-offloading, faculty-development, generative-ai, scaffolding]
 research_method: [experiment]
 discipline: [stem education]
-audience: [student experience, faculty development]
+audience: [learners, faculty development]
 level: [higher ed]
 
 sources: ['raw/papers/2605.16292.md']

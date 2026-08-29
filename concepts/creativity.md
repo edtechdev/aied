@@ -5,7 +5,7 @@ updated: "2026-08-27T06:22:51.426928-04:00"
 type: concept
 tags: [critical-thinking, student-experience, generative-ai, writing-education, constructivist]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 confidence: high
 ---
 

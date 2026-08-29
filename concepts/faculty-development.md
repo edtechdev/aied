@@ -5,7 +5,7 @@ updated: "2026-08-29T15:22:36-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
-audience: [faculty development, teacher role]
+audience: [faculty development, instructors]
 level: [higher ed, k 12]
 category: [instructional design, curriculum design]
 confidence: high

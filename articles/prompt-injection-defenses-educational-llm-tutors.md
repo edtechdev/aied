@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, regulation, hallucination-risk, student-experience, pedagogical-safety]
 research_method: [benchmark, system development]
-audience: [student experience]
+audience: [learners, software developers]
 sources: ['raw/papers/2605.06669.md']
 confidence: medium
 ---

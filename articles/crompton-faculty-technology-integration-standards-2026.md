@@ -5,7 +5,7 @@ updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [faculty-development, teacher-role, instructional-design, curriculum-design, higher-ed, administrator, pedagogy, ai-literacy]
 research_method: [design-based research]
-audience: [faculty development, teacher role, administrator]
+audience: [faculty development, instructors, administrator]
 level: [higher ed]
 category: [instructional design, curriculum design]
 sources: ['raw/papers/crompton-faculty-technology-integration-standards-2026.md']

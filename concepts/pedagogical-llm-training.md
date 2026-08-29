@@ -5,7 +5,7 @@ updated: "2026-08-24T18:15:00-04:00"
 type: concept
 tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 research_method: [benchmark]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 ---

@@ -4,6 +4,7 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [personalized-learning, adaptive-learning, llm, generative-ai, higher-ed, scaffolding, agentic-ai, metacognition]
+audience: [software developers]
 research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.06257.md']

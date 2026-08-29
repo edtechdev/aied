@@ -4,6 +4,7 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T09:00:00-04:00"
 type: article
 tags: [item-response-theory, educational-measurement, student-modeling, llm, multimodal, automated-assessment, psychometrically-aware-ai]
+audience: [software developers]
 research_method: [educational measurement]
 sources: ['raw/papers/2608.10154.md']
 confidence: high

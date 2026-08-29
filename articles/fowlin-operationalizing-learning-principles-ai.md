@@ -6,7 +6,7 @@ type: article
 tags: [teacher-role, experiential-learning, situated-learning, distributed-cognition, adaptive-learning, higher-ed, medical-education, instructional-design]
 research_method: [theoretical analysis]
 discipline: [medical education]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/fowlin-operationalizing-learning-principles-ai.md']

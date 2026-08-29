@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, formative-assessment, higher-ed, learning-analytics, personalized-learning, student-experience, metacognition, ai-literacy]
 research_method: [system development, mixed methods]
-audience: [teacher role, research methods aied]
+audience: [instructors, researchers, software developers]
 level: [higher ed]
 sources: ['raw/papers/2605.00294.md']
 confidence: high

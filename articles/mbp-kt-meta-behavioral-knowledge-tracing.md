@@ -5,7 +5,7 @@ updated: "2026-08-24T09:15:00-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, student-experience, adaptive-learning]
 research_method: [system development, benchmark]
-audience: [student experience]
+audience: [learners, software developers]
 sources: ['raw/papers/2605.08697.md']
 confidence: medium
 ---

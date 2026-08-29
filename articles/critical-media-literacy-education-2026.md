@@ -5,7 +5,7 @@ updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [ai-literacy, critical-thinking, higher-ed, teacher-role, curriculum-design, equity-in-ai-education, ethics]
 research_method: [qualitative, interviews, survey]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2608.10778.md']

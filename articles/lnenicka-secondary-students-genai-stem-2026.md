@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, k-12, stem-education, ai-literacy, student-experience, cognitive-offloading, educational-policy-ai, governance, conversational-ai]
 research_method: [mixed methods]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [k 12]
 sources: ['raw/papers/lnenicka-secondary-students-genai-stem-2026.md']
 confidence: high

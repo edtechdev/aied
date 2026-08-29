@@ -5,7 +5,7 @@ updated: "2026-08-24T09:00:00-04:00"
 type: article
 tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment, automated-assessment, higher-ed]
 research_method: [system development]
-audience: [teacher role]
+audience: [instructors]
 level: [k 12, higher ed]
 
 sources: ['raw/papers/2604.16738.md']

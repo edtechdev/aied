@@ -4,7 +4,7 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, computational-thinking, metacognition, ai-education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [mixed methods]
 discipline: [stem education]
 level: [k 12]

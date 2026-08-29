@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [k-12, teacher-role, student-experience, student-engagement, adaptive-learning]
 research_method: [qualitative, design-based research]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [k 12]
 category: [engagement]
 sources: ['raw/papers/2606.22294.md']

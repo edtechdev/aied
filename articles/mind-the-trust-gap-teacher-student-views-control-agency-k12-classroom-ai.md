@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [k-12, teacher-role, student-experience, ai-literacy, student-ai-interaction, automated-assessment, llm, scaffolding, learning-analytics]
 research_method: [design-based research]
-audience: [teacher role, student experience]
+audience: [instructors, learners]
 level: [k 12]
 sources: ['raw/papers/2607.01506.md']
 confidence: high

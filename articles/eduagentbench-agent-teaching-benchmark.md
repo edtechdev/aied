@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, benchmark, generative-ai, intelligent-tutoring, llm, scaffolding, teacher-role, pedagogical-llm-training, human-in-the-loop-ai]
 research_method: [benchmark]
-audience: [teacher role]
+audience: [instructors, software developers]
 sources: ['raw/papers/2605.14322.md']
 confidence: medium
 ---

@@ -6,7 +6,7 @@ type: article
 tags: [student-experience, cs-education, intelligent-tutoring, cognitive-offloading, higher-ed]
 research_method: [case study]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/2606.23237.md']

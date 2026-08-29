@@ -6,7 +6,7 @@ type: article
 tags: [physics-education, conversational-ai, socratic-method, ai-literacy, higher-ed, student-experience, generative-ai, stem-education, science-education]
 research_method: [survey]
 discipline: [physics education, stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.29385.md']
 confidence: high

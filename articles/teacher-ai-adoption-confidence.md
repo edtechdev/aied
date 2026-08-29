@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [teacher-role, faculty-development, k-12, ai-literacy, teacher-ai-competency, higher-ed, change-management]
 research_method: [survey]
-audience: [teacher role, faculty development, faculty development genai]
+audience: [instructors, faculty development]
 level: [k 12, higher ed]
 sources: ['raw/papers/2605.00343.md']
 confidence: high

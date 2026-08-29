@@ -4,7 +4,7 @@ created: "2026-08-12T19:08:47-04:00"
 updated: "2026-08-28T14:00:00-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 
 confidence: high
 ---

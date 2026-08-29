@@ -5,7 +5,7 @@ updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [cognitive-offloading, generative-ai, teacher-role, metacognition, ai-literacy, higher-ed, adult-learning]
 research_method: [qualitative, case study]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/teachers-reflective-regulators-cognition-offloading.md']
 confidence: high

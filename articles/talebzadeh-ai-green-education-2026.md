@@ -5,7 +5,7 @@ updated: "2026-08-09"
 type: article
 tags: [generative-ai, teacher-role, instructional-design, higher-ed, ai-education, sustainability, faculty-development]
 research_method: [experiment]
-audience: [teacher role, faculty development]
+audience: [instructors, faculty development]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/talebzadeh-ai-green-education-2026.md']

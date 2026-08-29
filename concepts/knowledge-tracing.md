@@ -4,7 +4,7 @@ created: "2026-06-23T10:44:35-04:00"
 updated: "2026-08-27T04:58:28.248706-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
-audience: [student experience]
+audience: [learners]
 confidence: medium
 ---
 

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [llm, metacognition, student-experience, cognitive-offloading, self-regulated-learning, scaffolding]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 
 sources: ['raw/papers/2605.25856.md']
 confidence: high

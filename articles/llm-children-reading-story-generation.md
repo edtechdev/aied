@@ -4,7 +4,7 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, scaffolding, personalized-learning]
-audience: [teacher role, student experience]
+audience: [instructors, learners, software developers]
 research_method: [system development, benchmark]
 discipline: [language learning]
 level: [k 12]

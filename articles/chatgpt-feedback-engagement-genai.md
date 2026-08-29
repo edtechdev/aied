@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, language-learning, cognitive-offloading, metacognition, scaffolding, regulation]
 research_method: [qualitative]
 discipline: [language learning]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-chatgpt-feedback-engagement.md']

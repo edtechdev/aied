@@ -5,7 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, pedagogy, instructional-design, teacher-role, professional-training, ethics]
 research_method: [mixed methods]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/2608.03973.md']

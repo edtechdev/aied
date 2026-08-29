@@ -5,7 +5,7 @@ updated: "2026-08-20T08:20:00-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, ethics, teacher-role, generative-ai, higher-ed]
 research_method: [mixed methods, policy analysis]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/luo-eaton-ai-student-feedback-ethics-2026.md']
 confidence: medium

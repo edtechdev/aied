@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [feedback, automated-assessment, teacher-role, formative-assessment, higher-ed, faculty-development]
 research_method: [benchmark]
-audience: [teacher role, faculty development genai]
+audience: [instructors, faculty development, software developers]
 level: [higher ed]
 
 sources: ['raw/papers/2607.11873.md']

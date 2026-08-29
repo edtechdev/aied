@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
 research_method: [user study]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.24729.md']
 confidence: high

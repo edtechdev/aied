@@ -5,7 +5,7 @@ updated: "2026-08-24T13:00:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, curriculum-design, professional-training, teacher-role, equity-in-ai-education, educational-policy-ai]
 research_method: [theoretical analysis]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/ai-interior-design-malaysia-2026.md']

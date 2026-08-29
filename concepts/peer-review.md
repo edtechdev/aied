@@ -5,7 +5,7 @@ updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [writing-education, formative-assessment, ai-feedback-quality, student-experience, collaborative-learning, self-regulated-learning, metacognition]
 discipline: [writing education]
-audience: [student experience]
+audience: [learners]
 confidence: high
 ---
 

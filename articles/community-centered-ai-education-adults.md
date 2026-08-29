@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [ai-literacy, lifelong-learning, equity-in-ai-education, student-experience, edtech-platform, faculty-development, k-12, higher-ed]
 research_method: [case study, design-based research]
-audience: [student experience, faculty development]
+audience: [learners, faculty development]
 level: [k 12, higher ed]
 sources: ['raw/papers/2606.26565.md']
 confidence: high

@@ -6,7 +6,7 @@ type: article
 tags: [language-learning, generative-ai, intelligent-tutoring, self-regulated-learning, motivation, higher-ed, personalized-learning, prompt-engineering, student-experience]
 research_method: [mixed methods]
 discipline: [language learning]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 
 sources: ['raw/papers/higheredu-05-00078.md']

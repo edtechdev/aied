@@ -5,7 +5,7 @@ updated: "2026-08-26T15:33:47-04:00"
 type: article
 tags: [generative-ai, teacher-role, faculty-development, rct, k-12, higher-ed, student-experience, equity-in-ai-education, ai-literacy]
 research_method: [experiment, randomized controlled trial]
-audience: [teacher role, faculty development, student experience]
+audience: [instructors, faculty development, learners]
 level: [k 12, higher ed]
 sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
 confidence: high

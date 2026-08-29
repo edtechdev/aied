@@ -6,7 +6,7 @@ type: article
 tags: [generative-ai, llm, ai-literacy, educational-policy-ai, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
 research_method: [theoretical analysis]
 discipline: [stem education]
-audience: [student experience]
+audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 sources: []

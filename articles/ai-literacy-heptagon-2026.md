@@ -5,7 +5,7 @@ updated: "2026-08-13"
 type: article
 tags: [ai-literacy, higher-ed, curriculum-design, ethics, educational-policy-ai, teacher-role, assessment-validity]
 research_method: [literature review]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/10.1016_j.caeai.2026.100540.md']

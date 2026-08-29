@@ -4,6 +4,7 @@ created: "2026-07-27T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [adaptive-learning, intelligent-tutoring, special-education, k-12, equity-in-ai-education, personalized-learning]
+audience: [software developers]
 research_method: [system development]
 level: [special education, k 12]
 sources: ['raw/papers/2607.22377.md']

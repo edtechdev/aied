@@ -5,7 +5,7 @@ updated: "2026-08-16"
 type: article
 tags: [situated-learning, experiential-learning, authentic-assessment, ai-education, instructional-design, higher-ed, teacher-role]
 research_method: [theoretical analysis]
-audience: [teacher role]
+audience: [instructors]
 level: [higher ed]
 category: [instructional design]
 sources: ['raw/papers/vargas-ai-catalyst-situated-learning-2026.md']

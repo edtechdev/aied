@@ -6,7 +6,7 @@ type: article
 tags: [student-experience, cs-education, special-education, equity-in-ai-education, collaborative-learning, scaffolding, ai-education]
 research_method: [mixed methods]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 level: [special education]
 sources: ['raw/papers/2605.23823.md']
 confidence: high

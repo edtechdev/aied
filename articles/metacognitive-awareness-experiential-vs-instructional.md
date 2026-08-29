@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, scaffolding, self-regulated-learning, metacognition, regulation]
 research_method: [experiment]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.20047.md']
 confidence: high

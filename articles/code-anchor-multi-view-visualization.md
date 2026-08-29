@@ -6,7 +6,7 @@ type: article
 tags: [cs-education, student-experience, scaffolding, active-learning, feedback, personalized-learning, visualization]
 research_method: [qualitative, interviews]
 discipline: [cs education]
-audience: [student experience]
+audience: [learners]
 sources: ['raw/papers/2606.19570.md']
 confidence: high
 ---

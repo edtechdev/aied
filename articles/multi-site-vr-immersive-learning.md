@@ -6,7 +6,7 @@ type: article
 tags: [edtech-platform, active-learning, student-experience, higher-ed, student-engagement, generative-ai, llm, ai-literacy, stem-education, scaffolding]
 research_method: [system development]
 discipline: [stem education]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2606.10325.md']

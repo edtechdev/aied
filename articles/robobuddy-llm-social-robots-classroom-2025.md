@@ -5,7 +5,7 @@ updated: "2026-08-13"
 type: article
 tags: [educational-robotics, llm, storytelling-in-education, inclusive-learning, teacher-role]
 research_method: [system development]
-audience: [teacher role]
+audience: [instructors]
 sources: ['raw/papers/tozadore-robobuddy-llm-social-robots-2025.md']
 confidence: medium
 ---

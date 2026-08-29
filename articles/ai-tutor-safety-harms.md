@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation, pedagogical-llm-training, self-regulated-learning, faculty-development]
 research_method: [theoretical analysis]
-audience: [faculty development genai]
+audience: [faculty development]
 level: [k 12, higher ed]
 sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: high

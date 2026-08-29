@@ -4,7 +4,7 @@ created: "2026-07-14T10:44:35-04:00"
 updated: "2026-08-27T04:35:06.336963-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 ---

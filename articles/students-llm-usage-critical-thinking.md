@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, faculty-development, scaffolding]
 research_method: [survey, learning analytics]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.04534.md']
 confidence: high

@@ -4,7 +4,7 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, intelligent-tutoring]
-audience: [student experience, teacher role]
+audience: [learners, instructors]
 research_method: [system development]
 discipline: [writing education]
 level: [higher ed]

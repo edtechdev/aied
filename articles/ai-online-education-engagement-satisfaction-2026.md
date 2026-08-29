@@ -5,7 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [online-teaching-and-learning, student-engagement, student-experience, meta-analysis-systematic-review, conversational-ai, intelligent-tutoring]
 research_method: [systematic review, learning analytics]
-audience: [learner engagement, learner satisfaction]
+audience: [learners]
 sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high
 ---

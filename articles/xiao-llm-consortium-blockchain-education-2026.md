@@ -4,6 +4,7 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [llm, personalized-learning, online-teaching-and-learning, assessment, trust, higher-ed, privacy]
+audience: [software developers]
 research_method: [system development, benchmark]
 level: [higher ed]
 category: [assessment]

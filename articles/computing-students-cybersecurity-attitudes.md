@@ -5,7 +5,7 @@ updated: "2026-08-22T19:25:00-04:00"
 type: article
 tags: [higher-ed, student-experience, ai-literacy, academic-integrity, student-engagement]
 research_method: [survey]
-audience: [student experience]
+audience: [learners]
 level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2606.18541.md']

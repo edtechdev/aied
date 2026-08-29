@@ -5,7 +5,7 @@ updated: "2026-08-26T15:33:47-04:00"
 type: article
 tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, rct, teacher-ai-competency, rag]
 research_method: [randomized controlled trial]
-audience: [faculty development, teacher role, student experience]
+audience: [faculty development, instructors, learners]
 level: [k 12]
 
 sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']

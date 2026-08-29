@@ -4,7 +4,7 @@ created: "2026-08-12T21:20:35-04:00"
 updated: "2026-08-24T19:45:00-04:00"
 type: concept
 tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
-audience: [student experience]
+audience: [learners]
 
 confidence: high
 ---
