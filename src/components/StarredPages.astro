@@ -81,9 +81,14 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     list-style: none;
   }
   .starred-group > summary::-webkit-details-marker { display: none; }
-  .starred-list { list-style: none; margin: 0; padding: 0 0 0.2rem 0; }
-  .starred-list li { margin: 0; }
-  .starred-list a {
+  /* The starred list is populated at runtime via innerHTML, so the injected
+     <li>/<a> elements carry no Astro scope id. Each selector below is wrapped
+     ENTIRELY in :global() — putting only .starred-list inside :global() would
+     still scope the trailing li/a to a data-astro-cid attr the injected
+     elements don't have, so the rules would silently never match. */
+  :global(.starred-list) { list-style: none; margin: 0; padding: 0 0 0.2rem 0; }
+  :global(.starred-list li) { margin: 0; }
+  :global(.starred-list a) {
     display: block;
     font-size: 0.85rem;
     line-height: 1.4;
@@ -92,8 +97,8 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     text-decoration: none;
     border-radius: 4px;
   }
-  .starred-list a:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 8%, transparent); }
-  .starred-empty { padding: 0.25rem 0.6rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
+  :global(.starred-list a:hover) { color: var(--primary); background: color-mix(in srgb, var(--primary) 8%, transparent); }
+  :global(.starred-empty) { padding: 0.25rem 0.6rem; font-size: 0.82rem; color: var(--muted-color); font-style: italic; }
 </style>
 
 <script>
