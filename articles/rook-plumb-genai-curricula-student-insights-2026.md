@@ -5,7 +5,7 @@ updated: "2026-08-21T13:21:45-04:00"
 type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, student-engagement, ai-literacy]
 audience: [student experience, teacher role]
-research_method: [qualitative survey]
+research_method: [survey]
 discipline: [business education]
 level: [higher ed]
 category: [curriculum design]

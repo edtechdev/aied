@@ -4,7 +4,7 @@ created: "2026-08-16T04:26:01-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [meta-analysis-systematic-review, ai-ed-evaluation, learning-gains, generative-ai, higher-ed]
-research_method: [meta analysis, learning gains, systematic review]
+research_method: [meta-analysis, learning analytics, systematic review]
 level: [higher ed]
 category: [ai ed evaluation]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']

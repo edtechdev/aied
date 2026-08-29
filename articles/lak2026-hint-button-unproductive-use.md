@@ -4,7 +4,7 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, learning-analytics, k-12, math-education, game-based-learning, student-experience, help-seeking]
-research_method: [quantitative, observational]
+research_method: [survey]
 discipline: [math education]
 audience: [student experience]
 level: [k 12]

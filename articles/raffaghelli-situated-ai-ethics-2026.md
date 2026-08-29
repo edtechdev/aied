@@ -4,7 +4,7 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [ai-education, ethics, teacher-ai-competency, higher-ed, learning-theories, equity-in-ai-education]
-research_method: [theoretical analysis, comparative case study]
+research_method: [theoretical analysis, case study]
 level: [higher ed]
 sources: ['raw/papers/raffaghelli-situated-ai-ethics-2026.md']
 confidence: high

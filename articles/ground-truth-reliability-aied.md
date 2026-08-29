@@ -5,7 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [benchmark, learning-analytics, generative-ai, llm, automated-assessment, human-in-the-loop-ai, ai-literacy]
 audience: [research methods aied]
-research_method: [benchmark, efficacy study]
+research_method: [benchmark, experiment]
 sources: ['raw/papers/2603.29141.md']
 confidence: high
 ---

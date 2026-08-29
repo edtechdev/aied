@@ -4,7 +4,7 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, curriculum-design, edtech-platform, student-experience, higher-ed, administrator]
-research_method: [system development, evaluation]
+research_method: [system development]
 discipline: [cs education]
 audience: [student experience, administrator]
 level: [higher ed]

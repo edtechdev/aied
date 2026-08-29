@@ -4,7 +4,7 @@ created: "2026-08-21T08:00:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [pedagogical-llm-training, llm, simulating-students, privacy, generative-ai, intelligent-tutoring, student-modeling, project-based-learning]
-research_method: [system development, evaluation]
+research_method: [system development]
 confidence: high
 sources: [raw/papers/2510.05087.md]
 ---

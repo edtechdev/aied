@@ -5,7 +5,7 @@ updated: "2026-08-14"
 type: article
 tags: [higher-ed, academic-integrity, generative-ai, educational-policy-ai, regulation, llm, ai-literacy, formative-assessment, motivation, governance]
 audience: [administrator, teacher role]
-research_method: [simulation study]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.27400.md']
 confidence: high

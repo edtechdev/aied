@@ -5,7 +5,7 @@ updated: "2026-08-24T12:30:00-04:00"
 type: article
 tags: [academic-integrity, ai-literacy, higher-ed, instructional-design, assessment, generative-ai, ai-education, ethics]
 audience: [teacher role]
-research_method: [experience report]
+research_method: [theoretical analysis]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/2608.05175.md']

@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, learning-theories, generative-ai, higher-ed, intelligent-tutoring, llm, open-source, scaffolding]
 audience: [research methods aied, teacher role]
-research_method: [scoping review]
+research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high

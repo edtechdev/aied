@@ -4,7 +4,7 @@ created: "2026-06-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [edtech-platform, academic-integrity, stem-education, higher-ed, formative-assessment, scaffolding]
-research_method: [system development, evaluation]
+research_method: [system development]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2606.05929.md']

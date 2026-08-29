@@ -4,7 +4,7 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [rct, adaptive-learning, formative-assessment, learning-gains, higher-ed, personalized-learning, rag]
-research_method: [rct, learning gains]
+research_method: [randomized controlled trial, learning analytics]
 level: [higher ed]
 sources: ['raw/papers/2606.22328.md']
 confidence: medium

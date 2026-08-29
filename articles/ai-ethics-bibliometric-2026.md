@@ -4,7 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [ethics, ai-education, human-in-the-loop-ai, human-ai-collaboration, trust, philosophy-of-ai-in-education]
-research_method: [bibliometric analysis]
+research_method: [bibliometric]
 sources: ['raw/papers/ai-ethics-bibliometric-2026.md']
 confidence: high
 ---

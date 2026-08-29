@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering, agentic-ai, ai-literacy, curriculum-design, llm]
 audience: [student experience, teacher role]
-research_method: [experiment, quasi-experiment]
+research_method: [experiment]
 level: [higher ed]
 category: [curriculum design]
 sources: ['raw/papers/2606.01375.md']

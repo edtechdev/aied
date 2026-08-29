@@ -4,7 +4,7 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-24T04:59:36-04:00"
 type: article
 tags: [physics-education, ai-literacy, critical-thinking, generative-ai, prompt-engineering, assessment, student-experience, research-methods-aied, metacognition, problem-solving]
-research_method: [research methods aied]
+research_method: [research methods]
 discipline: [physics education]
 audience: [student experience]
 category: [assessment]

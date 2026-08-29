@@ -5,7 +5,7 @@ updated: "2026-08-16"
 type: article
 tags: [teacher-education, tpack, ai-literacy, assessment]
 audience: [teacher role, faculty development]
-research_method: [survey, quantitative]
+research_method: [survey]
 level: [preservice teachers]
 category: [assessment]
 sources: ['raw/papers/conceptualizing-preservice-teachers-ai-readiness-2026.md']

@@ -4,7 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [generative-ai, writing-education, equity-in-ai-education, higher-ed, language-learning]
-research_method: [qualitative, scholarly dialogue]
+research_method: [qualitative, theoretical analysis]
 discipline: [writing education, language learning]
 level: [higher ed]
 sources: ['raw/papers/2607.28505.md']

@@ -4,7 +4,7 @@ created: "2026-08-15T07:40:37-04:00"
 updated: "2026-08-15"
 type: article
 tags: [faculty-development, ai-literacy, teacher-role, generative-ai, higher-ed, teacher-ai-competency, learning-theories, adult-learning, academic-integrity, educational-policy-ai]
-research_method: [autoethnography]
+research_method: [interviews]
 audience: [faculty development, teacher role]
 level: [higher ed]
 sources: ['raw/papers/laidlaw-genai-identity-crisis-faculty-2026.md']

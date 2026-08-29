@@ -4,7 +4,7 @@ created: "2026-08-24T02:00:00-04:00"
 updated: "2026-08-24T02:00:00-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
-research_method: [qualitative research, research methods aied, thematic analysis, grounded theory, interviews, discourse analysis, case study, phenomenography]
+research_method: [qualitative, research methods, interviews, case study]
 confidence: high
 ---
 

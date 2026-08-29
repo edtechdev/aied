@@ -4,7 +4,7 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T09:30:00-04:00"
 type: article
 tags: [adaptive-learning, knowledge-tracing, student-modeling, ai-education, personalized-learning, llm]
-research_method: [evidence]
+research_method: [literature review]
 sources: ['raw/papers/2608.03006v1.md']
 confidence: high
 ---

@@ -4,7 +4,7 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [sustainability, higher-ed, meta-analysis-systematic-review, ethics, governance, educational-policy-ai, ai-education]
-research_method: [meta analysis systematic review]
+research_method: [meta-analysis]
 level: [higher ed]
 sources: ['raw/papers/daniel-ai-sustainability-scoping-review-2026.md']
 confidence: high

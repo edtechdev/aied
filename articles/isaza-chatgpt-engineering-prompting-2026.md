@@ -4,7 +4,7 @@ created: "2026-08-24T12:35:00-04:00"
 updated: "2026-08-24T14:35:00-04:00"
 type: article
 tags: [prompt-engineering, higher-ed, engineering-education, generative-ai, student-ai-interaction, learning-analytics]
-research_method: [quantitative, mixed methods]
+research_method: [survey, mixed methods]
 discipline: [engineering education]
 level: [higher ed]
 sources: ['raw/papers/isaza-chatgpt-engineering-prompting-2026.md']

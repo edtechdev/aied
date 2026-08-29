@@ -4,7 +4,7 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, academic-integrity, framing-ai-use-for-students, student-experience, ethics, ai-use-disclosure, critical-thinking]
-research_method: [action research, mixed methods]
+research_method: [design-based research, mixed methods]
 audience: [student experience]
 level: [higher ed]
 sources: ['raw/papers/sobo-cheating-competing-ai-marketing-literacy-2025.md']

@@ -4,7 +4,7 @@ created: "2026-08-24T17:00:00-04:00"
 updated: "2026-08-24T17:00:00-04:00"
 type: article
 tags: [self-regulated-learning, adaptive-learning, feedback, feedback-literacy, higher-ed, metacognition, motivation, self-efficacy, learning-analytics]
-research_method: [longitudinal, quantitative]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/mejeh-fromm-srl-adaptive-learning-feedback-2026.md']
 confidence: high

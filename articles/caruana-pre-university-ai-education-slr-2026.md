@@ -4,7 +4,7 @@ created: "2026-08-28T09:15:00-04:00"
 updated: "2026-08-28T09:15:00-04:00"
 type: article
 tags: [k-12, ai-literacy, teacher-education, curriculum-design, generative-ai, ai-education, teacher-role, digital-divide, equity-in-ai-education, meta-analysis-systematic-review]
-research_method: [meta analysis systematic review]
+research_method: [meta-analysis]
 audience: [teacher role]
 level: [k 12]
 category: [curriculum design]

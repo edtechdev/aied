@@ -4,7 +4,7 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, higher-ed, student-experience, academic-integrity, stem-education, generative-ai, ai-literacy, rag]
-research_method: [system development, evaluation]
+research_method: [system development]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed]

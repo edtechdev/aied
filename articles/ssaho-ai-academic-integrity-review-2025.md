@@ -4,7 +4,7 @@ created: "2026-08-19T11:30:00-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [academic-integrity, ai-detection, assessment, generative-ai, ai-misuse-learning-harm, ethics, educational-policy-ai, higher-ed, meta-analysis-systematic-review]
-research_method: [meta analysis systematic review]
+research_method: [meta-analysis]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']

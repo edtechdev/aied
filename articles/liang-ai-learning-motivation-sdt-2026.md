@@ -5,7 +5,7 @@ updated: "2026-08-25T12:20:00-04:00"
 type: article
 tags: [self-determination-theory, motivation, ai-literacy, k-12, student-engagement]
 audience: [teacher role, student experience]
-research_method: [longitudinal, survey]
+research_method: [survey]
 level: [k 12]
 sources: ['raw/papers/liang-ai-learning-motivation-sdt-2026.md']
 confidence: high

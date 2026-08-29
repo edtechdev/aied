@@ -4,7 +4,7 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, writing-education, faculty-development, automated-assessment, llm, agentic-ai, ai-literacy]
-research_method: [quantitative, quasi-experiment]
+research_method: [survey, experiment]
 discipline: [writing education]
 audience: [research methods aied]
 level: [higher ed]

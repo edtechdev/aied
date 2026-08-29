@@ -5,7 +5,7 @@ updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, higher-ed, ai-literacy, critical-thinking]
 audience: [student experience, teacher role]
-research_method: [laboratory]
+research_method: [experiment]
 discipline: [chemistry education]
 level: [higher ed]
 sources: ['raw/papers/ai-supported-experimental-design-chemistry-2026.md']

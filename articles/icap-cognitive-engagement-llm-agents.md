@@ -4,7 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-24T09:45:00-04:00"
 type: article
 tags: [llm, collaborative-learning, learning-analytics, student-ai-interaction, language-learning, intelligent-tutoring, metacognition]
-research_method: [mixed methods, quasi-experiment]
+research_method: [mixed methods, experiment]
 sources: ['raw/papers/2607.28651.md']
 confidence: high
 ---

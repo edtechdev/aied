@@ -1,10 +1,10 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
-audience: [faculty development, student experience]
+audience: [student experience, teacher role, faculty development, administrator]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high

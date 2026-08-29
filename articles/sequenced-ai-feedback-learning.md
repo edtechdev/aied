@@ -4,7 +4,7 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [feedback, formative-assessment, scaffolding, generative-ai, student-experience, self-regulated-learning, automated-assessment, human-in-the-loop-ai, metacognition]
-research_method: [efficacy study]
+research_method: [experiment]
 audience: [student experience]
 
 sources: ['raw/papers/2604.07469.md']

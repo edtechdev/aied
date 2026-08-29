@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [cs-education, llm, scaffolding, personalized-learning, ai-literacy, mastery-learning, visualization]
 audience: [student experience, teacher role]
-research_method: [experiment, quasi-experiment]
+research_method: [experiment]
 discipline: [cs education]
 sources: ['raw/papers/2606.03288.md']
 confidence: high

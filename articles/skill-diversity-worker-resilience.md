@@ -4,7 +4,7 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T04:56:01-04:00"
 type: article
 tags: [adult-learning, professional-training, ai-education, llm, learning-analytics]
-research_method: [quantitative, secondary data]
+research_method: [survey]
 sources: ['raw/papers/2608.02102v1.md']
 confidence: high
 ---

@@ -1,11 +1,11 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-23T08:07:04-04:00"
+updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [math-education, stem-education, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 discipline: [math education, stem education]
-audience: [student experience]
+audience: [student experience, teacher role]
 level: [k 12, higher ed]
 
 confidence: high

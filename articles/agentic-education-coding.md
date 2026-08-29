@@ -5,7 +5,7 @@ updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, generative-ai, higher-ed, scaffolding, stem-education, metacognition, ai-literacy, rag, intelligent-tutoring]
 audience: [student experience, teacher role]
-research_method: [system development, pilot]
+research_method: [system development, experiment]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2604.17460.md']

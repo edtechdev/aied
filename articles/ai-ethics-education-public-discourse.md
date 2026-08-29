@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [ai-literacy, equity-in-ai-education, educational-policy-ai, academic-integrity, higher-ed, governance, ethics, ai-education]
 audience: [research methods aied, administrator]
-research_method: [quantitative, social media analysis]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/2607.12295.md']
 confidence: medium

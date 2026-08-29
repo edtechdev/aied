@@ -4,7 +4,7 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [academic-integrity, ai-misuse-learning-harm, generative-ai, higher-ed, self-efficacy, self-regulated-learning, motivation, well-being, ai-anxiety-and-stress, ethics]
-research_method: [survey, quantitative]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/psychological-mechanisms-academic-integrity-ai-2026.md']
 confidence: high

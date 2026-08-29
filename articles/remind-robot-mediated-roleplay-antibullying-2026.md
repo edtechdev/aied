@@ -4,7 +4,7 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, simulation, social-emotional-learning, k-12, self-efficacy]
-research_method: [mixed methods, play-testing]
+research_method: [mixed methods, user study]
 level: [k 12]
 sources: ['raw/papers/sanoubari-remind-robot-roleplay-2026.md']
 confidence: medium

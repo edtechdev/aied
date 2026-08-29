@@ -4,7 +4,7 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [ai-literacy, language-learning, higher-ed, teacher-ai-competency, faculty-development, governance, meta-analysis-systematic-review]
-research_method: [meta analysis systematic review]
+research_method: [meta-analysis]
 discipline: [language learning]
 audience: [faculty development]
 level: [higher ed]

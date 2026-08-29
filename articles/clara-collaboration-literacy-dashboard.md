@@ -4,7 +4,7 @@ created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-24T04:41:06-04:00"
 type: article
 tags: [learning-analytics, generative-ai, llm, higher-ed, edtech-platform, collaborative-learning, rag, knowledge-tracing, visualization]
-research_method: [system development, evaluation]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.17259.md']
 confidence: high

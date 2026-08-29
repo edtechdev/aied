@@ -4,7 +4,7 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity-in-ai-education, pedagogical-llm-training, generative-ai, teacher-ai-competency]
-research_method: [genai policy prompting rct]
+research_method: [randomized controlled trial]
 audience: [teacher role]
 level: [k 12]
 sources: ['raw/papers/civic-education-ai-lesson-plans.md']

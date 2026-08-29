@@ -4,7 +4,7 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [adult-learning, instructional-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training, rag]
-research_method: [heuristic evaluation]
+research_method: [system development]
 level: [adult learning, higher ed]
 category: [design guidelines]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']

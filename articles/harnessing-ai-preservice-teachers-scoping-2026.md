@@ -4,7 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, adult-learning, ai-literacy, teacher-role]
-research_method: [scoping review]
+research_method: [systematic review]
 audience: [teacher role]
 level: [preservice teachers]
 sources: ['raw/papers/harnessing-ai-preservice-teachers-scoping-2026.md']
