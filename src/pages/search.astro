@@ -176,21 +176,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         });
       }
 
-      // Restore the query into the input; PageFind re-renders the input during
-      // init, so re-apply until it sticks (bounded).
-      const input = document.querySelector("pagefind-input input");
-      if (input && q && input.value !== q) {
-        input.value = q;
-        input.dispatchEvent(new Event("input", { bubbles: true }));
-      }
-      if (Object.keys(filters).length) {
+      // Restore the query by calling triggerSearchWithFilters once — this sets
+      // the input value AND runs the search atomically. Manually dispatching
+      // input events instead causes PageFind to re-render and clear the input.
+      if (q || Object.keys(filters).length) {
         try { inst.triggerSearchWithFilters(q, filters); } catch {}
-      }
-      retry += 1;
-      if (retry < 30 && document.querySelector("pagefind-input input")?.value !== q) {
-        setTimeout(attempt, 300);
-      } else {
-        retry = 0;
       }
     };
     setTimeout(attempt, 300);
