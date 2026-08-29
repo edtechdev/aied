@@ -5,7 +5,7 @@ updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [humanities-education, history-of-aied, philosophy-of-ai-in-education, critical-thinking, ai-literacy, higher-ed]
 level: [higher ed]
-category: [framework]
+category: [miscellaneous]
 confidence: high
 ---
 
