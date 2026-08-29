@@ -4,6 +4,8 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
 tags: [conversational-ai, generative-ai, inquiry-based-learning, science-education, stem-education, meta-analysis-systematic-review, critical-thinking]
+research_method: [systematic review]
+discipline: [stem education]
 sources: ['raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md']
 confidence: high
 ---

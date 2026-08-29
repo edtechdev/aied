@@ -4,6 +4,7 @@ created: "2026-08-28T14:40:00-04:00"
 updated: "2026-08-29T13:05:00-04:00"
 type: concept
 tags: [sustainability, ethics, governance, educational-policy-ai, ai-education, higher-ed, k-12, teacher-education, generative-ai]
+level: [higher ed, k 12]
 
 confidence: high
 ---

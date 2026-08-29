@@ -4,6 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-question-generation, llm, automated-assessment, stem-education, generative-ai]
+discipline: [stem education]
 sources: ['raw/papers/2512.10110.md']
 confidence: high
 ---

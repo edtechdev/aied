@@ -5,6 +5,9 @@ updated: "2026-08-15"
 type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
 research_method: [efficacy study]
+discipline: [stem education]
+audience: [student experience, teacher role]
+level: [higher ed]
 sources: ['raw/papers/2607.28710.md']
 confidence: high
 ---

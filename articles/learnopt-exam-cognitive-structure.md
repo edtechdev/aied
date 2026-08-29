@@ -4,6 +4,9 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [learning-analytics, llm, k-12, personalized-learning, assessment, student-experience, rag]
+audience: [student experience]
+level: [k 12]
+category: [assessment]
 sources: ['raw/papers/2606.15349.md']
 confidence: high
 ---

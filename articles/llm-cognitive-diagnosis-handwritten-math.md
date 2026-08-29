@@ -4,6 +4,10 @@ created: "2026-05-31T12:17:35-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop-ai, critical-thinking, hallucination-risk, k-12, llm, generative-ai, math-education]
+research_method: [benchmark]
+discipline: [math education]
+level: [k 12]
+category: [ai ed evaluation]
 confidence: high
 sources: []
 ---

@@ -4,6 +4,8 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, scaffolding, student-ai-interaction, generative-ai, higher-ed, assessment]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/llm-pedagogical-behavior-ai-tutoring-2026.md']
 confidence: high
 ---

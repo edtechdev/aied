@@ -4,6 +4,8 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, game-based-learning, cs-education, learning-theories]
+discipline: [cs education]
+level: [k 12]
 sources: ['raw/papers/ai-play-framework-early-childhood-2026.md']
 confidence: high
 ---

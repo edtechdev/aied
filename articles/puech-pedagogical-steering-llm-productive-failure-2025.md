@@ -4,6 +4,8 @@ created: "2026-08-23T08:05:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, llm, intelligent-tutoring, socratic-method, generative-ai, k-12, math-education, human-in-the-loop-ai]
+discipline: [math education]
+level: [k 12]
 sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md']
 confidence: high
 ---

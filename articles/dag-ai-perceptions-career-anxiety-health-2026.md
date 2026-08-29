@@ -4,6 +4,7 @@ created: "2026-08-25T07:48:00-04:00"
 updated: "2026-08-25T10:35:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, adult-learning, social-emotional-learning, higher-ed, medical-education, ai-literacy]
+level: [higher ed]
 sources: ['raw/papers/dag-ai-perceptions-career-anxiety-health-2026.md']
 confidence: high
 ---

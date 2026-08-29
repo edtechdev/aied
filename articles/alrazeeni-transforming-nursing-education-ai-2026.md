@@ -4,6 +4,9 @@ created: "2026-08-15T09:23:09-04:00"
 updated: "2026-08-15"
 type: article
 tags: [medical-education, personalized-learning, simulation, automated-assessment, curriculum-design, ethics, meta-analysis-systematic-review]
+research_method: [systematic review]
+discipline: [medical education]
+category: [curriculum design]
 sources: ['raw/papers/alrazeeni-transforming-nursing-education-ai-2026.md']
 confidence: high
 ---

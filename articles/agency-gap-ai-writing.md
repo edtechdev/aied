@@ -4,6 +4,9 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:34:24-04:00"
 type: article
 tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity-in-ai-education, student-experience, scaffolding, rag, regulation]
+discipline: [writing education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']
 confidence: high
 ---

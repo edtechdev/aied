@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, k-12, cognitive-offloading, academic-integrity, student-experience, rag, ai-education]
 research_method: [efficacy study]
+audience: [student experience]
+level: [k 12]
 
 sources: ['raw/papers/2605.08812.md']
 confidence: medium

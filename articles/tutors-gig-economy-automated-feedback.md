@@ -4,6 +4,9 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [feedback, higher-ed, intelligent-tutoring, language-learning, teacher-role]
+discipline: [language learning]
+audience: [teacher role]
+level: [higher ed]
 
 sources: ['raw/papers/2606.22609.md']
 confidence: medium

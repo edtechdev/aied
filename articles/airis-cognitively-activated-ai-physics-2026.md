@@ -4,6 +4,8 @@ created: "2026-08-17T09:55:00-04:00"
 updated: "2026-08-17T09:55:00-04:00"
 type: article
 tags: [physics-education, generative-ai, self-regulated-learning, instructional-design, human-ai-collaboration, metacognition, scaffolding]
+discipline: [physics education]
+category: [instructional design]
 
 sources: ['raw/papers/2601.13812.md']
 confidence: high

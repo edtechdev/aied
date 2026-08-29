@@ -4,6 +4,8 @@ created: "2026-08-19T13:10:00-04:00"
 updated: "2026-08-21T09:01:28-04:00"
 type: concept
 tags: [biology-education, stem-education, higher-ed, k-12, generative-ai, critical-thinking, ai-literacy, human-ai-collaboration]
+discipline: [biology education, stem education]
+level: [higher ed, k 12]
 confidence: high
 ---
 > **Biology Education** — the study of how students learn biology and how to teach it more effectively, spanning AI-assisted laboratory instruction, AI literacy embedded in biology curricula, critical thinking in the AI era, and the use of specialized tools (species identification, bioimaging, predictive modeling) in biological education. Biology's distinctive demands — large bodies of specialized terminology, visual-spatial and systems thinking, hands-on laboratory and fieldwork, and increasingly computational 'omics methods — make it a rich context for examining both the promise and the risks of AI in STEM learning.

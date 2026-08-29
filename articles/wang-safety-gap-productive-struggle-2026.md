@@ -4,6 +4,8 @@ created: "2026-08-23T08:15:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, cognitive-offloading, generative-ai, scaffolding, socratic-method, medical-education, student-experience, trust]
+discipline: [medical education]
+audience: [student experience]
 sources: ['raw/papers/wang-safety-gap-productive-struggle-2026.md']
 confidence: medium
 ---

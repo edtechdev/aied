@@ -4,6 +4,8 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T12:30:00-04:00"
 type: article
 tags: [academic-integrity, ai-literacy, higher-ed, instructional-design, assessment, generative-ai, ai-education, ethics]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/2608.05175.md']
 confidence: high
 ---

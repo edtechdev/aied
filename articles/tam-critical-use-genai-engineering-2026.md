@@ -4,6 +4,9 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, higher-ed, student-experience, cs-education, engineering-education, ai-literacy, critical-thinking, ethics, cognitive-offloading]
+discipline: [cs education, engineering education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100618.md']
 confidence: high
 ---

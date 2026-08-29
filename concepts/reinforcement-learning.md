@@ -4,6 +4,7 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-21T07:59:24-04:00"
 type: concept
 tags: [llm, pedagogical-safety, intelligent-tutoring, special-education, personalized-learning, k-12, scaffolding, active-learning, adaptive-learning, higher-ed]
+level: [special education, k 12, higher ed]
 confidence: medium
 ---
 

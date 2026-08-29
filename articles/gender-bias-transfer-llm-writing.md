@@ -4,6 +4,9 @@ created: "2026-06-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
+discipline: [writing education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2606.15914.md']
 confidence: high
 ---

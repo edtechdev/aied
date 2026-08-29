@@ -4,6 +4,8 @@ created: "2026-08-23T08:10:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, language-learning, generative-ai, metacognition, self-regulated-learning, feedback, cognitive-load, higher-ed]
+discipline: [language learning]
+level: [higher ed]
 sources: ['raw/papers/lukesova-clue-before-correction-2026.md']
 confidence: high
 ---

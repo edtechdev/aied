@@ -4,6 +4,9 @@ created: "2026-08-20T09:05:00-04:00"
 updated: "2026-08-27T08:26:57.833590-04:00"
 type: concept
 tags: [ai-education, business-education, curriculum-design, generative-ai, higher-ed, discipline-specific-aied]
+discipline: [business education]
+level: [higher ed]
+category: [curriculum design]
 confidence: high
 ---
 

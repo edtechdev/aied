@@ -4,6 +4,8 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, privacy, multimodal, benchmark, ai-detection]
+research_method: [benchmark]
+level: [k 12]
 sources: ['raw/papers/2608.05115.md']
 confidence: medium
 ---

@@ -4,7 +4,8 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-24T21:00:00-04:00"
 type: article
 tags: [llm, benchmark, bias-mitigation, teacher-role, pedagogical-llm-training, faculty-development, ai-literacy, ethics]
-research_method: [efficacy study]
+research_method: [benchmark, efficacy study]
+audience: [teacher role, faculty development genai]
 sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
 confidence: medium
 ---

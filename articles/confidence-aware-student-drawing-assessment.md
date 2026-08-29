@@ -5,6 +5,8 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [automated-assessment, stem-education, formative-assessment, k-12, assessment-validity]
 research_method: [efficacy study]
+discipline: [stem education]
+level: [k 12]
 sources: ['raw/papers/2606.20264.md']
 confidence: high
 ---

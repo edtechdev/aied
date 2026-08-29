@@ -4,6 +4,8 @@ created: "2026-08-13T17:57:54-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-feedback-quality, writing-education, ai-literacy, student-experience, peer-review, multilingual-learning, self-regulated-learning, metacognition, equity-in-ai-education]
+discipline: [writing education]
+audience: [student experience]
 sources: ['raw/papers/10.3389_fcomm.2025.1615752.md']
 confidence: high
 ---

@@ -4,6 +4,9 @@ created: "2026-08-20T08:50:00-04:00"
 updated: "2026-08-20T08:50:00-04:00"
 type: article
 tags: [generative-ai, cs-education, assessment, ethics, higher-ed, adaptive-learning]
+discipline: [cs education]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/zhan-chapman-genai-cs-education-2026.md']
 confidence: medium
 ---

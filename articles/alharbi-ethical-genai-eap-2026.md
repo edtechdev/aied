@@ -4,6 +4,9 @@ created: "2026-08-20T08:40:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [generative-ai, language-learning, ethics, higher-ed, academic-integrity, teacher-role]
+discipline: [language learning]
+audience: [teacher role]
+level: [higher ed]
 sources: ['raw/papers/alharbi-ethical-genai-eap-2026.md']
 confidence: medium
 ---

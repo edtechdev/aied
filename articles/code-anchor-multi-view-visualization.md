@@ -4,6 +4,8 @@ created: "2026-06-19T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [cs-education, student-experience, scaffolding, active-learning, feedback, personalized-learning]
+discipline: [cs education]
+audience: [student experience]
 sources: ['raw/papers/2606.19570.md']
 confidence: high
 ---

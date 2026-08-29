@@ -5,6 +5,8 @@ updated: "2026-08-24T16:40:00-04:00"
 type: article
 tags: [computational-thinking, assessment, generative-ai, higher-ed, cs-education, assessment-validity, item-response-theory]
 research_method: [evidence centered design]
+discipline: [cs education]
+level: [higher ed]
 sources: ['raw/papers/zhang-ct-ai-training-test-2026.md']
 confidence: high
 ---

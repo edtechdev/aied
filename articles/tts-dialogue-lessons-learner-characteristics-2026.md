@@ -4,6 +4,7 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [language-learning, student-engagement, motivation, critical-thinking, experiential-learning, generative-ai]
+discipline: [language learning]
 
 sources: ['raw/papers/tts-dialogue-lessons-learner-characteristics-2026.md']
 confidence: high

@@ -4,6 +4,7 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-08-26T09:57:51-04:00"
 type: article
 tags: [llm, personalized-learning, adaptive-learning, metacognition, student-experience, self-regulated-learning, scaffolding]
+audience: [student experience]
 sources: ['raw/papers/2605.04816.md']
 confidence: high
 ---

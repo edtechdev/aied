@@ -4,6 +4,7 @@ created: "2026-08-19T12:40:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, science-education, generative-ai, ethics, educational-policy-ai, teacher-education]
+discipline: [chemistry education, science education]
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
 ---

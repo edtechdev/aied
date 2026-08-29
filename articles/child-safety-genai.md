@@ -4,6 +4,7 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [equity-in-ai-education, generative-ai, k-12, pedagogical-safety, privacy, rag, llm]
+level: [k 12]
 sources: ['raw/papers/2607.00395.md']
 confidence: high
 ---

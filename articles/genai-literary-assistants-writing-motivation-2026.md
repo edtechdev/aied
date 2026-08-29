@@ -4,6 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [writing-education, generative-ai, motivation, student-engagement, k-12, cognitive-offloading]
+discipline: [writing education]
+level: [k 12]
 
 sources: ['raw/papers/genai-literary-assistants-writing-motivation-2026.md']
 confidence: high

@@ -4,6 +4,8 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-24T12:50:00-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
+discipline: [cs education, stem education]
+level: [k 12]
 confidence: high
 ---
 

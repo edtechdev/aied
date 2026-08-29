@@ -4,6 +4,7 @@ created: "2026-08-27T11:15:00-04:00"
 updated: "2026-08-27T11:38:38.333597-04:00"
 type: article
 tags: [ai-use-disclosure, trust, academic-integrity, higher-ed, generative-ai, educational-policy-ai]
+level: [higher ed]
 sources: ["https://doi.org/10.2139/ssrn.5755762"]
 confidence: medium
 ---

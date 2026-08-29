@@ -4,6 +4,7 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [formative-assessment, llm, automated-assessment, k-12, student-modeling]
+level: [k 12]
 
 sources: ['raw/papers/2606.23205.md']
 confidence: medium

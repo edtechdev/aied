@@ -4,6 +4,8 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, edtech-platform, generative-ai, k-12, teacher-role]
+audience: [teacher role]
+level: [k 12]
 sources: ['raw/papers/2606.30590.md']
 confidence: high
 ---

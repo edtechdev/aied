@@ -4,6 +4,8 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [collaborative-learning, higher-ed, generative-ai, critical-thinking, self-regulated-learning, human-ai-collaboration, assessment, ai-literacy]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/wei-perkins-genai-student-collaboration-scoping-2026.md']
 confidence: high
 ---

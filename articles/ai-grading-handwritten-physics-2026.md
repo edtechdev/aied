@@ -4,6 +4,7 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [automated-assessment, physics-education, assessment-validity, llm, multimodal, summative-assessment]
+discipline: [physics education]
 sources: ['raw/papers/ai-grading-handwritten-physics-2026.md']
 confidence: high
 ---

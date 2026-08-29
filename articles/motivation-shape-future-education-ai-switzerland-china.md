@@ -4,6 +4,7 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [motivation, teacher-education, generative-ai, higher-ed, ai-education]
+level: [higher ed]
 sources: ['raw/papers/motivation-shape-future-education-ai-switzerland-china.md']
 confidence: high
 ---

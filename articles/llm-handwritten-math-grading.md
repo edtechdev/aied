@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [automated-assessment, llm, stem-education, higher-ed, multimodal, automated-question-generation, generative-ai, intelligent-tutoring, formative-assessment]
 research_method: [efficacy study]
+discipline: [stem education]
+level: [higher ed]
 
 sources: ['raw/papers/2605.19043.md']
 confidence: high

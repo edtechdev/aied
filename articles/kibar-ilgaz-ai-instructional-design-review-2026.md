@@ -4,6 +4,8 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [instructional-design, generative-ai, human-ai-collaboration, teacher-role, pedagogy]
+audience: [teacher role]
+category: [instructional design]
 sources: ['raw/papers/kibar-ilgaz-ai-instructional-design-review-2026.md']
 confidence: high
 ---

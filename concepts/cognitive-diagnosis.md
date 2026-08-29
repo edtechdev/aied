@@ -4,6 +4,8 @@ created: "2026-08-12T21:20:35-04:00"
 updated: "2026-08-23T15:30:00-04:00"
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
+research_method: [educational measurement]
+category: [assessment]
 confidence: high
 ---
 

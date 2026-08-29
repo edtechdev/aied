@@ -4,6 +4,7 @@ created: "2026-08-27T08:50:00-04:00"
 updated: "2026-08-27T08:55:36.300729-04:00"
 type: article
 tags: [cognitive-offloading, special-education, inclusive-learning, ai-literacy, self-regulated-learning, metacognition, accessibility, generative-ai]
+level: [special education]
 sources: ["https://doi.org/10.1177/07319487261439132"]
 confidence: high
 ---

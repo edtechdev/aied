@@ -4,6 +4,8 @@ created: "2026-08-19T17:10:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, generative-ai, higher-ed, k-12, critical-thinking, feedback]
+level: [higher ed, k 12]
+category: [assessment]
 sources: ['raw/papers/fenton-oral-exams-ai-authentic-assessment-2025.md']
 confidence: high
 ---

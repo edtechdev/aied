@@ -4,6 +4,9 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, student-engagement, higher-ed, learning-analytics, rag, llm]
+audience: [student experience]
+level: [higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/2602.00447.md']
 confidence: high
 ---

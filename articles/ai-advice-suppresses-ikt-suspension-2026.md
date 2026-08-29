@@ -4,6 +4,7 @@ created: "2026-08-21T13:30:00-04:00"
 updated: "2026-08-21T16:23:57-04:00"
 type: article
 tags: [cognitive-offloading, metacognition, critical-thinking, ai-literacy, trust-calibration, reducing-ai-misuse, bias-mitigation, assessment, human-ai-collaboration, generative-ai]
+category: [overconfidence]
 sources: ['raw/papers/ai-advice-suppresses-ikt-suspension-2026.md']
 confidence: medium
 ---

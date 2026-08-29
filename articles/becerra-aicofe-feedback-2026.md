@@ -4,6 +4,9 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [ai-ed-evaluation, feedback, student-experience, human-in-the-loop-ai, higher-ed, learning-analytics, formative-assessment]
+audience: [student experience]
+level: [higher ed]
+category: [ai ed evaluation]
 
 sources: ['raw/papers/becerra-aicofe-feedback-2026.md']
 confidence: medium

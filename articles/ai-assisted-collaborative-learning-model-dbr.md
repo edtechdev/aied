@@ -4,6 +4,8 @@ created: "2026-08-11T06:15:03-04:00"
 updated: "2026-08-22T06:05:00-04:00"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, critical-thinking, problem-solving, design-based-research]
+research_method: [design based research]
+level: [higher ed]
 sources: ['raw/papers/jel-ai-collab-dbr.md']
 confidence: high
 ---

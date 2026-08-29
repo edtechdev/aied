@@ -4,6 +4,9 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
+discipline: [writing education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2605.24729.md']
 confidence: high
 ---

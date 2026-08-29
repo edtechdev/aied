@@ -4,6 +4,7 @@ created: "2026-08-16T09:41:18-04:00"
 updated: "2026-08-25T14:00:00-04:00"
 type: concept
 tags: [ai-education, discipline-specific-aied, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education, business-education]
+discipline: [discipline specific, stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education]
 confidence: high
 ---
 

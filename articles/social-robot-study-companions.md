@@ -4,6 +4,9 @@ created: "2026-06-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education, human-ai-collaboration]
+discipline: [stem education]
+audience: [student experience]
+level: [k 12, higher ed]
 sources: ['raw/papers/2606.15239.md']
 confidence: high
 ---

@@ -4,6 +4,10 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, stem-education]
+discipline: [cs education, stem education]
+audience: [student experience]
+level: [higher ed]
+category: [curriculum design]
 confidence: high
 sources: []
 ---This white paper synthesizes findings from two international NUS-Google Workshops in Singapore convening faculty, industry practitioners, and students to reshape undergraduate CS education in response to generative AI. The central argument is that as GenAI automates implementation-level programming, debugging, and testing, CS curricula must shift toward understanding and verifying AI-generated artifacts. Critical skills to preserve include system design, abstraction, and critical evaluation; skills becoming less important include low-level implementation details. The paper proposes prerequisites for reform: fostering AI-native competencies, re-centering fundamental education, enhancing advanced pathways, embracing new pedagogies, and shifting institutional support. This connects to broader debates in [[cs-education]] about what constitutes core competence in an era of AI pair programmers, and aligns with [[ai-literacy]] frameworks that emphasize evaluation over generation.

@@ -4,6 +4,7 @@ created: "2026-08-27T06:30:00-04:00"
 updated: "2026-08-27T06:30:00-04:00"
 type: article
 tags: [self-regulated-learning, generative-ai, cognitive-offloading, higher-ed, metacognition, learning-analytics]
+level: [higher ed]
 sources: ["https://doi.org/10.20851/ll.v8.61"]
 confidence: high
 ---

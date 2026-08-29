@@ -4,6 +4,10 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [writing-education, k-12, generative-ai, ai-literacy, meta-analysis-systematic-review, creativity, assessment]
+research_method: [systematic review]
+discipline: [writing education]
+level: [k 12]
+category: [assessment]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
 confidence: medium
 ---

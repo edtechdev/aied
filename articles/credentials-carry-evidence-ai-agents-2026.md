@@ -4,6 +4,8 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [assessment, academic-integrity, higher-ed, edtech-platform, generative-ai, agentic-ai]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/credentials-carry-evidence-ai-agents-2026.md']
 confidence: high
 ---

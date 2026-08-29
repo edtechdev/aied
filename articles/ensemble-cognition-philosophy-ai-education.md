@@ -4,6 +4,7 @@ created: "2026-08-16T04:26:01-04:00"
 updated: "2026-08-16"
 type: article
 tags: [learning-theories, agency, metacognition, philosophy-of-ai-in-education, ai-education, human-ai-collaboration, embodied-learning, higher-ed]
+level: [higher ed]
 sources: ['raw/papers/ensemble-cognition-philosophy-ai-education.md']
 confidence: high
 ---

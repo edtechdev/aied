@@ -4,6 +4,8 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, teacher-role, higher-ed, scaffolding, faculty-development, teacher-ai-competency]
+audience: [teacher role, faculty development, faculty development genai]
+level: [higher ed]
 sources: ['raw/papers/2603.18189.md']
 confidence: medium
 ---

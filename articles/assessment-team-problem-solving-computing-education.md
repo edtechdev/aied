@@ -4,6 +4,9 @@ created: "2026-07-22T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [formative-assessment, feedback, learning-analytics, stem-education, higher-ed, student-experience]
+discipline: [stem education]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/2607.19209.md']
 confidence: high

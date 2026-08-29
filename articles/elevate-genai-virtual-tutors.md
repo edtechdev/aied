@@ -4,6 +4,7 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, intelligent-tutoring, k-12, equity-in-ai-education, personalized-learning, rag, llm]
+level: [k 12]
 sources: ['raw/papers/2606.30662.md']
 confidence: high
 ---

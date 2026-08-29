@@ -5,6 +5,8 @@ updated: "2026-08-24T11:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, physics-education, socratic-method, llm, higher-ed, ai-education]
 research_method: [discourse analysis]
+discipline: [physics education]
+level: [higher ed]
 
 sources: ['raw/papers/2608.07373.md']
 confidence: high

@@ -5,6 +5,7 @@ updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [ai-feedback-quality, self-regulated-learning, feedback, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12]
 research_method: [moderation study]
+level: [k 12]
 
 sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high

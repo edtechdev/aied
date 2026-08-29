@@ -4,6 +4,9 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, student-engagement, student-experience, ethics, llm]
+audience: [student experience]
+level: [higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---

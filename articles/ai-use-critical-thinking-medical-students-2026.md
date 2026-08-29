@@ -4,6 +4,8 @@ created: "2026-08-13T05:14:23-04:00"
 updated: "2026-08-13"
 type: article
 tags: [critical-thinking, self-regulated-learning, generative-ai, higher-ed, ai-literacy, cognitive-offloading, medical-education]
+discipline: [medical education]
+level: [higher ed]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1883053.md']
 confidence: high

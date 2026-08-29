@@ -4,6 +4,7 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, k-12, active-learning, ai-literacy, llm, automated-assessment, scaffolding, learning-analytics, formative-assessment]
+level: [k 12]
 sources: ['raw/papers/2607.02361.md']
 confidence: high
 ---

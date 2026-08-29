@@ -4,6 +4,9 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, generative-ai, educational-measurement, item-response-theory, assessment-validity, higher-ed, ai-ed-evaluation, llm]
+research_method: [educational measurement]
+level: [higher ed]
+category: [ai ed evaluation]
 sources: ['raw/papers/jin-glat-genai-literacy-assessment.md']
 confidence: high
 ---

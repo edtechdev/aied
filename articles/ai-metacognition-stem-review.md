@@ -4,7 +4,8 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, learning-theories, ai-literacy, human-in-the-loop-ai, adaptive-learning, rag]
-category: [posthumanist-ai-education]
+discipline: [stem education]
+category: [posthumanist ai education]
 sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']
 confidence: high
 ---

@@ -4,6 +4,9 @@ created: "2026-08-22T17:45:00-04:00"
 updated: "2026-08-22T18:20:00-04:00"
 type: article
 tags: [teacher-role, writing-education, faculty-development, generative-ai, higher-ed, ai-literacy, student-experience]
+discipline: [writing education]
+audience: [teacher role, faculty development, student experience]
+level: [higher ed]
 sources: ['raw/papers/zuo-instructor-power-genai-writing-2026.md']
 confidence: high
 ---

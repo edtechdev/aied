@@ -4,6 +4,10 @@ created: "2026-08-25T07:58:00-04:00"
 updated: "2026-08-25T11:00:00-04:00"
 type: article
 tags: [teacher-role, higher-ed, ai-literacy, curriculum-design, qualitative-research, teacher-ai-competency, pedagogy, learning-theories]
+research_method: [qualitative research]
+audience: [teacher role]
+level: [higher ed]
+category: [curriculum design]
 sources: ['raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md']
 confidence: high
 ---

@@ -4,7 +4,9 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, formative-assessment, rag, llm]
-audience: [student-misconceptions-conditionals-loops-taxonomy]
+discipline: [stem education]
+audience: [student misconceptions conditionals loops taxonomy]
+level: [higher ed]
 sources: ['raw/papers/2604.16117.md']
 confidence: medium
 ---

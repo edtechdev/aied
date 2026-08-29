@@ -4,6 +4,9 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [game-based-learning, motivation, higher-ed, instructional-design, self-determination-theory, student-experience, adult-learning]
+audience: [student experience]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/arcs-motivational-ergonomics-gamified-ai-2026.md']
 confidence: high
 ---

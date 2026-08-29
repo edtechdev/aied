@@ -4,6 +4,8 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [computational-thinking, educational-robotics, stem-education, k-12, curriculum-design, problem-solving]
+discipline: [stem education]
+level: [k 12]
 sources: ['raw/papers/valls-computational-thinking-educational-robotics.md']
 confidence: medium
 ---

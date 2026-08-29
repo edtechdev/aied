@@ -4,6 +4,8 @@ created: "2026-08-13T17:54:24-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-feedback-quality, writing-education, formative-assessment, ai-literacy, student-experience, peer-review, self-regulated-learning, academic-integrity, metacognition]
+discipline: [writing education]
+audience: [student experience]
 sources: ['raw/papers/10.1016_j.compcom.2025.102921.md']
 confidence: high
 ---

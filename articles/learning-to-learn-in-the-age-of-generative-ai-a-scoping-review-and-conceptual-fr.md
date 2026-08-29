@@ -4,6 +4,9 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-24T16:30:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, self-regulated-learning, language-learning, meta-analysis-systematic-review, agency, ai-education, intelligent-tutoring]
+research_method: [systematic review]
+discipline: [language learning]
+level: [higher ed]
 
 sources: ['raw/papers/learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr.md']
 confidence: high

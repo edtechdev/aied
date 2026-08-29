@@ -5,7 +5,9 @@ updated: "2026-08-13"
 type: article
 tags: [ai-education, ai-literacy, design-thinking, higher-ed, human-in-the-loop-ai, change-management, open-source, teacher-role]
 research_method: [survey]
-category: [dot-framework]
+audience: [practitioner beliefs]
+level: [higher ed]
+category: [design thinking, dot framework]
 sources: ['raw/papers/2605.29041.md']
 confidence: high
 ---

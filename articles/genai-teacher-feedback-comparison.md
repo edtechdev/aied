@@ -4,6 +4,9 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:33:55-04:00"
 type: article
 tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, student-engagement]
+audience: [student experience]
+level: [higher ed]
+category: [engagement metrics]
 
 sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
 confidence: high

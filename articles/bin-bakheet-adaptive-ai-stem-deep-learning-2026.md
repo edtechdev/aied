@@ -4,6 +4,8 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
 tags: [adaptive-learning, ai-education, stem-education, k-12, machine-learning, personalized-learning, feedback, science-education]
+discipline: [stem education, science education]
+level: [k 12]
 sources: ['raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md']
 confidence: medium
 ---

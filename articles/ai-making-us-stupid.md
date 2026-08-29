@@ -4,6 +4,8 @@ created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cognitive-offloading, generative-ai, metacognition, learning-gains, ai-literacy, self-regulated-learning, rag, higher-ed]
+research_method: [learning gains]
+level: [higher ed]
 
 sources: ['raw/papers/cell-2026-ai-making-us-stupid.md']
 confidence: high

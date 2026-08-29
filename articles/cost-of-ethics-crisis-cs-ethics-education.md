@@ -4,6 +4,8 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-education, cs-education, ethics, regulation, faculty-development, teacher-ai-competency, equity-in-ai-education, ai-literacy, pedagogical-safety]
+discipline: [cs education]
+audience: [faculty development]
 sources: ['raw/papers/2605.09680.md']
 confidence: high
 ---

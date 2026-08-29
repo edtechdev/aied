@@ -4,6 +4,8 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
+discipline: [stem education]
+level: [higher ed]
 sources: ['raw/papers/2607.28179.md']
 confidence: high
 ---

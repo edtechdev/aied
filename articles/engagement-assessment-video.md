@@ -4,6 +4,7 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-24T09:15:00-04:00"
 type: article
 tags: [adaptive-learning, learning-analytics, affective-computing, higher-ed, feedback, self-regulated-learning, affective-tutoring, formative-assessment]
+level: [higher ed]
 sources: ['raw/papers/2605.01238.md']
 confidence: medium
 ---

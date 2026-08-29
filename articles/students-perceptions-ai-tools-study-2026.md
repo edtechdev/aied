@@ -4,6 +4,8 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [student-experience, student-engagement, generative-ai, higher-ed, ai-literacy, self-regulated-learning]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/students-perceptions-ai-tools-study-2026.md']
 confidence: high
 ---

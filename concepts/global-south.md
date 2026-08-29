@@ -4,6 +4,7 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
+level: [higher ed, k 12]
 confidence: high
 ---
 

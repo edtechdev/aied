@@ -4,6 +4,8 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [automated-assessment, language-learning, tpack, ai-feedback-quality, human-ai-collaboration, assessment]
+discipline: [language learning]
+category: [assessment]
 sources: ['raw/papers/ai-vs-human-assessment-efl-tpck-2026.md']
 confidence: high
 ---

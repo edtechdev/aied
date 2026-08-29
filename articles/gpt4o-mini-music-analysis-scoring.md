@@ -4,6 +4,8 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [automated-assessment, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
+level: [higher ed]
+category: [ai ed evaluation]
 
 sources: ['raw/papers/2608.01783.md']
 confidence: high

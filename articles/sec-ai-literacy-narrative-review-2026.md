@@ -4,6 +4,7 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-literacy, affective-computing, teacher-ai-competency, ethics, ai-education, higher-ed, social-emotional-learning, self-regulated-learning]
+level: [higher ed]
 sources: ['raw/papers/10.1007_s40692-025-00354-1.md']
 confidence: high
 ---

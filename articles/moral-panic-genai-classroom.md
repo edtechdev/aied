@@ -4,6 +4,8 @@ created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, cognitive-offloading, ai-literacy, assessment, rag]
+level: [higher ed]
+category: [assessment]
 
 sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
 confidence: high

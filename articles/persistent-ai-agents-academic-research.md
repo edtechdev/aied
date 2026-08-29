@@ -4,6 +4,8 @@ created: "2026-05-27T07:38:00-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
+audience: [faculty development, student experience]
+level: [higher ed]
 confidence: high
 sources: []
 ---

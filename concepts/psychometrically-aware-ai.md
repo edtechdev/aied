@@ -4,6 +4,7 @@ created: "2026-07-28T16:52:03-04:00"
 updated: "2026-08-21T10:44:03-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, llm]
+research_method: [educational measurement]
 
 confidence: medium
 ---

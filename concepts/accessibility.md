@@ -5,6 +5,8 @@ updated: "2026-08-27T08:55:36.300729-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, instructional-design]
+level: [special education]
+category: [instructional design]
 confidence: high
 ---
 

@@ -5,6 +5,9 @@ updated: "2026-08-28T09:10:00-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
+research_method: [educational measurement]
+level: [higher ed]
+category: [assessment, ai ed evaluation]
 confidence: high
 ---
 

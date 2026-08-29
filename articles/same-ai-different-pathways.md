@@ -4,6 +4,7 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-26T15:34:24-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
+level: [higher ed]
 sources: ['raw/papers/caeai-same-ai-different-pathways.md']
 confidence: medium
 ---

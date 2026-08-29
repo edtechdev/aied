@@ -4,6 +4,8 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, automated-assessment, benchmark, feedback, adaptive-learning, student-experience, scaffolding]
+research_method: [benchmark]
+audience: [student experience]
 
 sources: ['raw/papers/2607.28128.md']
 confidence: high

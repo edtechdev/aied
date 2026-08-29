@@ -4,6 +4,8 @@ created: "2026-08-14T11:06:48-04:00"
 updated: "2026-08-14"
 type: article
 tags: [educational-robotics, language-learning, embodied-learning, multimodal, meta-analysis-systematic-review, learning-gains]
+research_method: [meta analysis, learning gains]
+discipline: [language learning]
 sources: ['raw/papers/edurev-100833-rall-meta.md']
 confidence: high
 ---

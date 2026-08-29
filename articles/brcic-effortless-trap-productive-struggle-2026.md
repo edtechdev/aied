@@ -4,6 +4,8 @@ created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
+research_method: [learning gains]
+level: [k 12]
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
 ---

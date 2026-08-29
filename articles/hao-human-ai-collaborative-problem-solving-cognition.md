@@ -4,6 +4,7 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [distributed-cognition, human-ai-collaboration, collaborative-learning, self-regulated-learning, learning-analytics, higher-ed]
+level: [higher ed]
 sources: ['raw/papers/hao-human-ai-collaborative-problem-solving-cognition.md']
 confidence: high
 ---

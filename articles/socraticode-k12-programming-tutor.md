@@ -4,6 +4,9 @@ created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, k-12, scaffolding, student-experience, stem-education, self-regulated-learning, human-in-the-loop-ai, metacognition]
+discipline: [stem education]
+audience: [student experience]
+level: [k 12]
 sources: ['raw/papers/2605.17857.md']
 confidence: medium
 ---

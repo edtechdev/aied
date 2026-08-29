@@ -4,6 +4,7 @@ created: "2026-08-17T18:20:00-04:00"
 updated: "2026-08-17T18:20:00-04:00"
 type: article
 tags: [knowledge-graph, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, instructional-design, edtech-platform, learning-analytics, llm]
+category: [instructional design]
 confidence: medium
 sources: [raw/papers/ontology-layered-hybrid-knowledge-model-personalized-elearning-2026.md]
 ---

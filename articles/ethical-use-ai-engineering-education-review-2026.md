@@ -4,6 +4,9 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-17T11:15:00-04:00"
 type: article
 tags: [engineering-education, ethics, academic-integrity, bias-mitigation, equity-in-ai-education, faculty-development, higher-ed, generative-ai]
+discipline: [engineering education]
+audience: [faculty development]
+level: [higher ed]
 sources: ['raw/papers/ethical-use-ai-engineering-education-review-2026.md']
 confidence: high
 ---

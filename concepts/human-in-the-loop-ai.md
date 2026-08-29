@@ -5,6 +5,9 @@ updated: "2026-08-27T04:35:06.336963-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 tags: [human-in-the-loop-ai, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
+research_method: [benchmark]
+level: [higher ed, k 12]
+category: [assessment]
 confidence: medium
 ---
 

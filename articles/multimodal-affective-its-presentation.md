@@ -5,6 +5,7 @@ updated: "2026-08-24T10:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, affective-computing, multimodal, higher-ed, professional-training, learning-analytics, rag, llm]
 research_method: [efficacy study]
+level: [higher ed]
 sources: ['raw/papers/2605.17468.md']
 confidence: high
 ---

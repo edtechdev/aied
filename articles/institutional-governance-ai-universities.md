@@ -5,6 +5,7 @@ updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [ai-education, higher-ed, regulation, educational-policy-ai, change-management, ai-literacy, professional-training]
 research_method: [survey]
+level: [higher ed]
 sources: ['raw/papers/2608.03584v1.md']
 confidence: high
 ---

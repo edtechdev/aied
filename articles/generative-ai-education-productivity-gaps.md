@@ -4,6 +4,8 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T11:30:00-04:00"
 type: article
 tags: [rct, adult-learning, equity-in-ai-education, generative-ai, ai-education, higher-ed, llm]
+research_method: [rct]
+level: [higher ed]
 sources: ['raw/papers/2608.04198v1.md']
 confidence: high
 ---

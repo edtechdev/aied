@@ -4,6 +4,9 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, engineering-education, higher-ed, student-experience, global-south, ai-literacy, equity-in-ai-education]
+discipline: [engineering education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100614.md']
 confidence: high
 ---

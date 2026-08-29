@@ -4,6 +4,7 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [pedagogical-safety, k-12, llm, generative-ai]
+level: [k 12]
 sources: ['raw/papers/caeai-vetting-safety.md']
 confidence: medium
 ---

@@ -4,6 +4,9 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]
+discipline: [stem education]
+audience: [student experience, teacher role]
+level: [higher ed]
 sources: ['raw/papers/2607.26067.md']
 confidence: high
 ---

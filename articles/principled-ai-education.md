@@ -4,6 +4,8 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, educational-policy-ai, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development, metacognition]
+audience: [faculty development genai]
+level: [higher ed]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
 ---

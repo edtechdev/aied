@@ -4,6 +4,8 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, learning-theories, equity-in-ai-education, teacher-role, human-in-the-loop-ai, ethics, ai-education]
+audience: [teacher role]
+level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-care-full-feedback-genai.md']
 confidence: high
