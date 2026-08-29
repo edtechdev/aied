@@ -177,27 +177,27 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         });
       }
 
-      // Restore the query. The key signal that PageFind's faceted init is DONE
-      // is `inst.availableFilters` becoming non-empty (it's null until then; the
-      // input is re-rendered/cleared right around when this flips). Only set the
-      // input value + dispatch input AFTER that flip, so it isn't wiped.
+      // Restore the query using fixed timing: PageFind's faceted init re-renders
+      // the input and settles ~3s after load (availableFilters flips then). Wait
+      // past that window, then set the input value + dispatch input (what a real
+      // user typing does — fills the box AND runs the search), retrying briefly.
       const input = document.querySelector("pagefind-input input");
       if (!input) { setTimeout(attempt, 200); return; }
       if (!q && !Object.keys(filters).length) return;
-      const ready = inst.availableFilters && Object.keys(inst.availableFilters).length > 0;
-      if (!ready) { setTimeout(attempt, 250); return; }
+      if (Date.now() < window.__pfStart + 3200) { setTimeout(attempt, 200); return; }
       attemptCount += 1;
-      if (attemptCount <= 5 && input.value !== q) {
+      if (attemptCount <= 4 && input.value !== q) {
         input.value = q;
         input.dispatchEvent(new Event("input", { bubbles: true }));
         if (Object.keys(filters).length) {
           try { inst.triggerSearchWithFilters(q, filters); } catch {}
         }
-        setTimeout(attempt, 400);
+        setTimeout(attempt, 500);
         return;
       }
       attemptCount = 0;
     };
+    window.__pfStart = Date.now();
     setTimeout(attempt, 300);
   })();
 </script>
