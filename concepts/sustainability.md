@@ -1,13 +1,13 @@
 ---
-title: "Sustainability and AI in Education"
+title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-08-28T14:40:00-04:00"
+updated: "2026-08-29T13:05:00-04:00"
 type: concept
 tags: [sustainability, ethics, governance, environmental-impact, ai-education, higher-ed, k-12, teacher-education, generative-ai]
 
 confidence: high
 ---
-> **Sustainability and AI in education** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
+> **Sustainability** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
 
 Sustainability in AIED spans three overlapping framings: **sustainable education** (a value-based, human-centered educational project), **sustainability in education** (using education as an instrument for sustainability), and **education for sustainable development** (ESD, the global policy agenda, especially [[k-12|Sustainable Development Goal 4]]). AI intersects each of these differently — and the field distinguishes two core pathways: **AI for sustainability** (AI as a tool to achieve sustainability outcomes) and **sustainable AI** (reducing AI's own environmental and ethical footprint).
 
