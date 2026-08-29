@@ -39,6 +39,10 @@ const key = pageKey(kind, slug);
     justify-content: center;
     background: none;
     border: none;
+    /* Pico's global `button { width:100% }` stretches an inline-flex button to
+       fill the h1, which forces the star onto a second line and leaves a big
+       empty gap below it. Force it to shrink-to-fit its content. */
+    width: auto;
     padding: 0.1rem;
     margin-left: 0.5rem;
     cursor: pointer;
