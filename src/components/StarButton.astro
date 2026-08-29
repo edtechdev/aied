@@ -1,0 +1,77 @@
+---
+/**
+ * StarButton.astro — a star/favorite toggle shown next to the page title on
+ * article, concept, and FAQ pages. Clicking toggles the page's starred state
+ * in the localStorage-backed store (see src/stores/stars.ts). The filled/empty
+ * star reflects the current state on load and after toggling.
+ */
+import { pageKey } from '../stores/stars';
+
+interface Props {
+  slug: string;
+  kind: 'concept' | 'article' | 'faq';
+}
+
+const { slug, kind } = Astro.props;
+const key = pageKey(kind, slug);
+---
+<button
+  type="button"
+  class="star-btn"
+  data-star-key={key}
+  aria-label="Star this page"
+  aria-pressed="false"
+  title="Star this page"
+>
+  <svg class="star-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      d="M12 2l2.9 6.26 6.6.72-4.9 4.55 1.35 6.47L12 16.9 6.05 20l1.35-6.47-4.9-4.55 6.6-.72L12 2z"
+      fill="currentColor"
+    />
+  </svg>
+</button>
+
+<style>
+  .star-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    padding: 0.25rem;
+    margin-left: 0.5rem;
+    cursor: pointer;
+    color: var(--muted-color);
+    border-radius: 6px;
+    vertical-align: middle;
+    transition: color 0.15s ease, transform 0.1s ease;
+  }
+  .star-btn:hover { color: #f59e0b; }
+  .star-btn:active { transform: scale(0.92); }
+  .star-btn[data-starred='true'] { color: #f59e0b; }
+  .star-btn .star-icon { display: block; }
+  .star-btn:focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+</style>
+
+<script>
+  import { starredStore, toggleStar } from '../stores/stars';
+
+  const btn = document.querySelector<HTMLButtonElement>('[data-star-key]');
+  if (!btn) throw new Error('star button missing data-star-key');
+
+  const key = btn.dataset.starKey!;
+
+  const refresh = () => {
+    const on = starredStore.get().includes(key);
+    btn.setAttribute('aria-pressed', String(on));
+    btn.setAttribute('data-starred', String(on));
+    btn.setAttribute('aria-label', on ? 'Unstar this page' : 'Star this page');
+    btn.setAttribute('title', on ? 'Unstar this page' : 'Star this page');
+  };
+
+  refresh();
+  btn.addEventListener('click', () => {
+    toggleStar(key);
+    refresh();
+  });
+</script>
