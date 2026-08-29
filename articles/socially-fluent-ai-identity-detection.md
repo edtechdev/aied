@@ -4,7 +4,8 @@ created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, cognitive-offloading, student-experience, llm, affective-computing, rag, intelligent-tutoring]
-audience: [student experience]
+research_method: [experiment, quantitative]
+audience: [researcher]
 
 sources: ['raw/papers/2605.23426.md']
 confidence: high

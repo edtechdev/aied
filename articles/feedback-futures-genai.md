@@ -4,6 +4,8 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-26T15:33:47-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, ai-literacy, learning-theories, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
+audience: [teacher role, researcher]
+research_method: [editorial]
 level: [higher ed]
 
 sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']

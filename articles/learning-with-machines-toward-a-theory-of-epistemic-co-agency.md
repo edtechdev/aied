@@ -4,6 +4,8 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-22T07:08:19-04:00"
 type: article
 tags: [agency, ai-literacy, critical-thinking, human-ai-collaboration, metacognition, generative-ai, higher-ed, assessment]
+audience: [researcher, teacher role]
+research_method: [theoretical analysis]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/10.1016_j.caeai.2026.100573.md']

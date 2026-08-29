@@ -4,6 +4,7 @@ created: "2026-07-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, cs-education, generative-ai, higher-ed, intelligent-tutoring, prompt-engineering, scaffolding, student-experience, llm]
+research_method: [qualitative, content analysis]
 discipline: [cs education]
 audience: [student experience]
 level: [higher ed]

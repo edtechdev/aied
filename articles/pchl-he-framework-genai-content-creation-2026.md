@@ -4,6 +4,8 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [generative-ai, agentic-ai, prompt-engineering, higher-ed, instructional-design, ai-ed-evaluation, ai-literacy, academic-integrity]
+audience: [teacher role, researcher]
+research_method: [theoretical analysis]
 level: [higher ed]
 category: [instructional design, verification]
 sources: ['raw/papers/pchl-he-framework-genai-content-creation-2026.md']

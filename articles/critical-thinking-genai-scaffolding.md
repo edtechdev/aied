@@ -4,7 +4,8 @@ created: "2026-05-10T04:33:04-04:00"
 updated: "2026-08-26T16:50:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, faculty-development, metacognition, ai-literacy]
-audience: [faculty development genai]
+research_method: [theoretical analysis]
+audience: [teacher role, faculty development]
 level: [higher ed]
 sources: ['raw/papers/critical-thinking-genai-scaffolding.md']
 confidence: medium

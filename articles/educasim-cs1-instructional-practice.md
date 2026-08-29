@@ -4,6 +4,7 @@ created: "2026-08-21T08:00:00-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [simulating-students, teacher-education, experiential-learning, agentic-ai, pedagogical-agent, cs-education, simulation, online-teaching-and-learning]
+research_method: [system development]
 discipline: [cs education]
 confidence: high
 sources: [raw/papers/2603.11444.md]

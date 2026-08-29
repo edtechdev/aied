@@ -4,6 +4,7 @@ created: "2026-08-27T09:10:00-04:00"
 updated: "2026-08-27T09:10:00-04:00"
 type: article
 tags: [engineering-education, curriculum-design, project-based-learning, stem-education, machine-learning, computational-thinking, ai-education, open-source]
+research_method: [system development, curriculum]
 discipline: [engineering education, stem education]
 category: [curriculum design]
 sources: ['raw/papers/mechanical-engineering-ai-curriculum-2026.md']

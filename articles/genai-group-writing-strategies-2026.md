@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [writing-education, collaborative-learning, generative-ai, higher-ed, agency]
+research_method: [qualitative, interviews]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/genai-group-writing-strategies-2026.md']

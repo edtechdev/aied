@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
+audience: [student experience, teacher role]
+research_method: [qualitative, case study]
 level: [higher ed]
 sources: ['raw/papers/caeai-multimodal-prompting.md']
 confidence: medium

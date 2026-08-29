@@ -4,6 +4,7 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cognitive-offloading, critical-thinking, ai-literacy, digital-divide, higher-ed, student-experience, trust]
+research_method: [mixed methods]
 audience: [student experience]
 level: [higher ed]
 sources: ['raw/papers/gerlich-ai-tools-cognitive-offloading-critical-thinking.md']

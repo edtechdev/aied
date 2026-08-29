@@ -4,6 +4,7 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, simulating-students, teacher-education, intelligent-tutoring, k-12, ai-ed-evaluation, community-of-inquiry, scaffolding, knowledge-tracing]
+research_method: [qualitative, interviews]
 audience: [student simulation]
 level: [teacher training, k 12]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']

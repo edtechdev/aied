@@ -4,6 +4,8 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, automated-assessment, formative-assessment, llm, scaffolding, generative-ai, higher-ed, ai-literacy]
+audience: [researcher, teacher role]
+research_method: [benchmark]
 level: [higher ed]
 
 sources: ['raw/papers/2605.23925.md']

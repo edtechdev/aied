@@ -4,6 +4,7 @@ created: "2026-08-27T11:15:00-04:00"
 updated: "2026-08-27T11:38:38.333597-04:00"
 type: article
 tags: [ai-use-disclosure, academic-integrity, assessment, higher-ed, generative-ai, educational-policy-ai]
+research_method: [mixed methods]
 level: [higher ed]
 category: [assessment]
 sources: ["https://doi.org/10.1080/02602938.2024.2415654"]

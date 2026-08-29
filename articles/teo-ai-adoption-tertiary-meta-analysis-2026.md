@@ -3,7 +3,7 @@ title: "Factors Associated with Students' Adoption of Artificial Intelligence Te
 created: "2026-08-24T12:33:00-04:00"
 updated: "2026-08-24T14:35:00-04:00"
 type: article
-tags: [technology-acceptance-model, higher-ed, meta-analysis-systematic-review, student-experience, ai-technologies]
+tags: [technology-acceptance-model, higher-ed, meta-analysis-systematic-review, student-experience, ai-technologies, change-management]
 research_method: [meta analysis]
 audience: [student experience]
 level: [higher ed]

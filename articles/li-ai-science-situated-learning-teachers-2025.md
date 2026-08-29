@@ -3,17 +3,9 @@ title: "Artificial Intelligence in Science Learning within the Framework of Situ
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-25T17:30:00-04:00"
 type: article
-tags:
-  - situated-learning
-  - science-education
-  - stem-education
-  - teacher-role
-  - k-12
-  - constructivist
-  - virtual-lab
-  - simulation
-sources:
-  - "raw/papers/li-ai-science-situated-learning-teachers-2025.md"
+tags: [situated-learning, science-education, stem-education, teacher-role, k-12, constructivist, simulation]
+research_method: [qualitative, interviews]
+sources: ['raw/papers/li-ai-science-situated-learning-teachers-2025.md']
 confidence: high
 ---
 

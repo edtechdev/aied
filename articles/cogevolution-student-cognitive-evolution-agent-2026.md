@@ -4,6 +4,7 @@ created: "2026-08-24T05:31:00-04:00"
 updated: "2026-08-24T05:31:00-04:00"
 type: article
 tags: [simulating-students, student-modeling, icap-framework, knowledge-tracing, generative-ai, pedagogical-agent, item-response-theory, cognitive-diagnosis]
+research_method: [system development, benchmark]
 sources: ['raw/papers/cogevolution-student-cognitive-evolution-agent-2026.md']
 confidence: medium
 ---

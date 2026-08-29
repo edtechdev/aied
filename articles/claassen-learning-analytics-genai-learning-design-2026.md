@@ -4,6 +4,7 @@ created: "2026-08-27T12:05:00-04:00"
 updated: "2026-08-27T13:57:30.658966-04:00"
 type: article
 tags: [learning-analytics, instructional-design, self-determination-theory, generative-ai, higher-ed]
+research_method: [quantitative, ethnography]
 level: [higher ed]
 category: [instructional design]
 sources: ["https://doi.org/10.1186/s41239-026-00619-4"]

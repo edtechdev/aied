@@ -4,6 +4,7 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-25T08:00:00-04:00"
 type: article
 tags: [generative-ai, metacognition, cognitive-offloading, higher-ed, scaffolding, self-regulated-learning, rag, llm]
+research_method: [theoretical analysis]
 level: [higher ed]
 
 sources: ['raw/papers/2605.13731.md']

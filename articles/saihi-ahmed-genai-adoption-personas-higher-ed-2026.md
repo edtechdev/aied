@@ -3,8 +3,9 @@ title: "Uncovering adoption personas for generative AI in higher education: a cl
 created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
-tags: [generative-ai, higher-ed, technology-acceptance-model, trust, student-experience, conversational-ai, ai-literacy, ethics, human-ai-collaboration]
-audience: [student experience]
+tags: [generative-ai, higher-ed, technology-acceptance-model, trust, student-experience, conversational-ai, ai-literacy, ethics, human-ai-collaboration, change-management]
+research_method: [survey, quantitative]
+audience: [student experience, teacher role]
 level: [higher ed]
 sources: ['raw/papers/saihi-ahmed-genai-adoption-personas-higher-ed-2026.md']
 confidence: high

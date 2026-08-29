@@ -4,6 +4,7 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-25T10:10:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, student-experience, ethics, academic-integrity, self-regulated-learning, metacognition, critical-thinking]
+research_method: [mixed methods]
 audience: [student experience]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100622.md']

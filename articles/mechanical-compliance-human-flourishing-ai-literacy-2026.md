@@ -4,6 +4,8 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-08-24T09:10:00-04:00"
 type: article
 tags: [ai-literacy, equity-in-ai-education, digital-divide, higher-ed, ethics, critical-pedagogy]
+audience: [teacher role, researcher]
+research_method: [literature review]
 level: [higher ed]
 sources: ['raw/papers/mechanical-compliance-human-flourishing-ai-literacy-2026.md']
 confidence: high

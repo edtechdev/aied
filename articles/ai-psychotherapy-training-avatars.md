@@ -4,6 +4,7 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [generative-ai, llm, higher-ed, active-learning, feedback, simulation, professional-training]
+research_method: [system development, evaluation]
 level: [higher ed]
 sources: ['raw/papers/2606.17786.md']
 confidence: high

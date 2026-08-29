@@ -4,6 +4,7 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, learning-analytics, llm, student-experience, ai-literacy]
+research_method: [quantitative, learning analytics]
 audience: [student experience]
 level: [higher ed]
 sources: ['raw/papers/2606.29442.md']

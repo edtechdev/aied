@@ -5,7 +5,7 @@ updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, educational-policy-ai, ai-literacy, student-experience, regulation, rag]
 research_method: [genai policy prompting rct]
-audience: [student experience]
+audience: [administrator, teacher role]
 level: [higher ed]
 sources: ['raw/papers/2606.13389.md']
 confidence: high

@@ -4,6 +4,7 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
 tags: [generative-ai, k-12, stem-education, ai-literacy, student-experience, cognitive-offloading, educational-policy-ai, governance, conversational-ai]
+research_method: [mixed methods]
 discipline: [stem education]
 audience: [student experience]
 level: [k 12]

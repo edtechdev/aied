@@ -4,6 +4,7 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [language-learning, higher-ed, writing-education, ai-literacy, cognitive-offloading, teacher-role, generative-ai, scaffolding]
+research_method: [systematic review]
 discipline: [language learning, writing education]
 audience: [teacher role]
 level: [higher ed]

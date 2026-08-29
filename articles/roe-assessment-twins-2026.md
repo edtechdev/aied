@@ -4,6 +4,8 @@ created: "2026-08-22T17:35:00-04:00"
 updated: "2026-08-22T17:55:00-04:00"
 type: article
 tags: [assessment-validity, academic-integrity, authentic-assessment, generative-ai, higher-ed, assessment, ai-literacy]
+audience: [teacher role, administrator]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/roe-assessment-twins-2026.md']
 confidence: high

@@ -4,8 +4,9 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, teacher-role, writing-education, agency, scaffolding]
+research_method: [longitudinal]
 discipline: [writing education]
-audience: [teacher role]
+audience: [student experience, teacher role]
 level: [higher ed]
 
 sources: ['raw/papers/tubino-adachi-ai-automated-feedback-literacy.md']

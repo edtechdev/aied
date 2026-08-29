@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, generative-ai, assessment, automated-assessment, assessment-validity, scaffolding, learning-theories, sociocultural-learning, intelligent-tutoring]
+research_method: [theoretical analysis]
 category: [assessment]
 sources: ['raw/papers/2607.29624.md']
 confidence: high

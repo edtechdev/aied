@@ -4,6 +4,7 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [llm, agentic-ai, online-teaching-and-learning, personalized-learning, intelligent-tutoring, curriculum-design, rag, generative-ai]
+research_method: [system development, case study]
 category: [course design]
 sources: ['raw/papers/2409.03512.md']
 confidence: high

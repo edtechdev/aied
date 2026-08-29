@@ -4,6 +4,7 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-24T20:30:00-04:00"
 type: article
 tags: [stem-education, generative-ai, intelligent-tutoring, scaffolding, adaptive-learning, learning-analytics, llm, computational-thinking]
+research_method: [bibliometric analysis]
 discipline: [stem education]
 sources: ['raw/papers/2607.05412.md']
 confidence: high

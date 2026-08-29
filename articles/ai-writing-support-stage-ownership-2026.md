@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [writing-education, student-experience, generative-ai, metacognition, llm]
+research_method: [experiment]
 discipline: [writing education]
 audience: [student experience]
 sources: ['raw/papers/ai-writing-support-stage-ownership-2026.md']

@@ -4,6 +4,7 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [motivation, metacognition, student-ai-interaction, generative-ai, self-regulated-learning, agency, higher-ed]
+research_method: [mixed methods, qualitative]
 level: [higher ed]
 sources: ['raw/papers/cui-motivation-roles-metacognitive-genai-2026.md']
 confidence: high

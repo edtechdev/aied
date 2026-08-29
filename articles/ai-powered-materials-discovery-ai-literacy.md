@@ -4,6 +4,8 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, curriculum-design, equity-in-ai-education, metacognition, stem-education, agentic-ai, ai-education]
+audience: [student experience, teacher role]
+research_method: [theoretical analysis]
 discipline: [stem education]
 category: [curriculum design]
 sources: ['raw/papers/2605.09624.md']

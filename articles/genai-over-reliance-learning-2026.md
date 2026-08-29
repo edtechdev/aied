@@ -4,6 +4,8 @@ created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-13"
 type: article
 tags: [generative-ai, cognitive-offloading, ai-literacy, self-regulated-learning, ai-misuse-learning-harm, motivation, higher-ed]
+audience: [student experience, teacher role]
+research_method: [mixed methods]
 level: [higher ed]
 
 sources: ['raw/papers/10.3389_fpsyg.2026.1847369.md']

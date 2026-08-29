@@ -4,6 +4,7 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, generative-ai, scaffolding, critical-thinking, personalized-learning, k-12, conversational-ai]
+research_method: [mixed methods]
 level: [k 12]
 sources: ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
 confidence: medium

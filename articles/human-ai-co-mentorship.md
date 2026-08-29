@@ -4,6 +4,7 @@ created: "2026-05-09T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [stem-education, k-12, higher-ed, active-learning, scaffolding, personalized-learning, project-based-learning, intelligent-tutoring, agentic-ai]
+research_method: [case study]
 discipline: [stem education]
 level: [k 12, higher ed]
 

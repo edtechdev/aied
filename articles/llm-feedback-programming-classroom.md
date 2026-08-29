@@ -4,6 +4,7 @@ created: "2026-06-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, formative-assessment, feedback, stem-education, higher-ed, automated-assessment, rag]
+research_method: [system development, evaluation]
 discipline: [stem education]
 level: [higher ed]
 

@@ -4,7 +4,8 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-08-20T08:20:00-04:00"
 type: article
 tags: [ai-literacy, ethics, generative-ai, higher-ed, teacher-role, educational-policy-ai]
-audience: [teacher role]
+research_method: [survey, quantitative]
+audience: [teacher role, student experience]
 level: [higher ed]
 sources: ['raw/papers/fekete-ethical-ai-literacy-gaps-2026.md']
 confidence: medium

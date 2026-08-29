@@ -4,6 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, tpack, ai-literacy, ethics, trust, k-12]
+audience: [teacher role, faculty development]
+research_method: [qualitative, case study]
 level: [k 12]
 sources: ['raw/papers/intelligent-tpack-ethics-teachers-trust-distrust-2026.md']
 confidence: high

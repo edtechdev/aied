@@ -4,6 +4,8 @@ created: "2026-08-22T18:45:00-04:00"
 updated: "2026-08-22T18:45:00-04:00"
 type: article
 tags: [cognitive-offloading, critical-thinking, trust, metacognition, ai-literacy, ai-misuse-learning-harm, generative-ai, human-in-the-loop-ai]
+audience: [researcher]
+research_method: [experiment]
 sources: ['raw/papers/shaw-nave-cognitive-surrender-2026.md']
 confidence: high
 ---

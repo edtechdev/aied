@@ -4,6 +4,7 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-literacy, teacher-ai-competency, pedagogical-llm-training, faculty-development, ai-education, ethics, instructional-design]
+research_method: [delphi study]
 audience: [faculty development]
 category: [instructional design]
 sources: ['raw/papers/10.1080_10494820.2026.2615818.md']

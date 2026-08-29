@@ -4,6 +4,7 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [formative-assessment, higher-ed, llm, stem-education, student-experience]
+research_method: [benchmark]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed]

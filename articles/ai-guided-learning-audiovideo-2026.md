@@ -4,6 +4,7 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T19:30:00-04:00"
 type: article
 tags: [personalized-learning, language-learning, feedback, self-regulated-learning, multimodal, student-modeling, learning-analytics, lifelong-learning]
+research_method: [system development]
 discipline: [language learning]
 
 sources: ['raw/papers/2608.08990.md']

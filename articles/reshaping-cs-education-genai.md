@@ -4,8 +4,9 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-08-15"
 type: article
 tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, stem-education]
+research_method: [system development]
 discipline: [cs education, stem education]
-audience: [student experience]
+audience: [teacher role, student experience]
 level: [higher ed]
 category: [curriculum design]
 confidence: high

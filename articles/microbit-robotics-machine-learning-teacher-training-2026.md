@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, cs-education, educational-robotics, machine-learning, computational-thinking]
+research_method: [quasi-experiment]
 discipline: [cs education]
 sources: ['raw/papers/microbit-robotics-machine-learning-teacher-training-2026.md']
 confidence: high

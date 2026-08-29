@@ -4,7 +4,8 @@ created: "2026-08-20T02:55:00-04:00"
 updated: "2026-08-24T05:01:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, curriculum-design, instructional-design, generative-ai, human-in-the-loop-ai, agency, self-efficacy, prompt-engineering, faculty-development]
-audience: [faculty development]
+research_method: [mixed methods, case study]
+audience: [faculty development, student experience]
 level: [higher ed]
 category: [curriculum design, instructional design]
 sources: ['raw/papers/2608.19164.md']

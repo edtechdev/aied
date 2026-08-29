@@ -3,7 +3,7 @@ title: "ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biol
 created: "2026-08-19T13:04:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
-tags: [biology-education, higher-ed, generative-ai, human-ai-collaboration, simulation]
+tags: [biology-education, higher-ed, generative-ai, human-ai-collaboration, simulation, science-education]
 research_method: [laboratory]
 discipline: [biology education]
 level: [higher ed]

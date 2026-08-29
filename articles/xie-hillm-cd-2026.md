@@ -4,6 +4,7 @@ created: "2026-08-09T10:38:47-04:00"
 updated: "2026-08-24T21:10:00-04:00"
 type: article
 tags: [cognitive-diagnosis, knowledge-tracing, student-modeling, llm, generative-ai, adaptive-learning, personalized-learning, ai-education, learning-analytics]
+research_method: [system development, benchmark]
 sources: ['raw/papers/10.1145_3770855.3817769.md']
 confidence: high
 ---

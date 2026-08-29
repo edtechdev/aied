@@ -4,6 +4,7 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [language-learning, generative-ai, self-determination-theory, higher-ed, motivation, pedagogical-agent]
+research_method: [qualitative, thematic analysis]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/chatgpt-english-language-learning-malaysia.md']

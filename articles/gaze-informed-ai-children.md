@@ -4,6 +4,7 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, k-12, student-experience, affective-computing, adaptive-learning, rag, llm]
+research_method: [experiment, within-subjects]
 audience: [student experience]
 level: [k 12]
 sources: ['raw/papers/2607.00445.md']

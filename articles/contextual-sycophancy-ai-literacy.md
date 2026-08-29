@@ -4,6 +4,7 @@ created: "2026-05-19T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [llm, generative-ai, ai-literacy, hallucination-risk, student-experience, bias-mitigation, cognitive-offloading, pedagogical-llm-training, ai-education]
+research_method: [experiment]
 audience: [student experience]
 
 sources: ['raw/papers/2605.18372.md']

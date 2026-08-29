@@ -4,6 +4,7 @@ created: "2026-08-13T05:14:23-04:00"
 updated: "2026-08-21T08:50:57-04:00"
 type: article
 tags: [language-learning, generative-ai, personalized-learning, instructional-design, scaffolding, teacher-role, writing-education, curriculum-design]
+research_method: [experiment]
 discipline: [language learning, writing education]
 audience: [teacher role]
 category: [instructional design, curriculum design]

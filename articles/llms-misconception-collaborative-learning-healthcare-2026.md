@@ -4,6 +4,7 @@ created: "2026-08-26T10:07:00-04:00"
 updated: "2026-08-26T10:07:00-04:00"
 type: article
 tags: [refutation-text, misconceptions, collaborative-learning, llm, medical-education, generative-ai, cognitive-psychology]
+research_method: [theoretical analysis, framework]
 discipline: [medical education]
 sources: ['raw/papers/10.2196_81875.md']
 confidence: high

@@ -4,7 +4,8 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, faculty-development, ai-literacy, scaffolding, automated-question-generation, llm]
-audience: [student experience, faculty development, faculty development genai]
+research_method: [system development, evaluation]
+audience: [teacher role, faculty development]
 level: [higher ed]
 sources: ['raw/papers/2605.13532.md']
 confidence: medium

@@ -4,6 +4,7 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, generative-ai, prompt-engineering, rag, instructional-design, curriculum-design, professional-training, intelligent-tutoring, math-education, human-ai-collaboration]
+research_method: [system development, evaluation]
 discipline: [math education]
 category: [instructional design, curriculum design]
 sources: ['raw/papers/lin-llm-interactive-lesson-generation.md']

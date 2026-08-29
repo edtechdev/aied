@@ -4,6 +4,7 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, generative-ai, engineering-education, medical-education, curriculum-design, higher-ed]
+research_method: [case study]
 discipline: [engineering education]
 level: [higher ed]
 category: [curriculum design]

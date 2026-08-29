@@ -4,6 +4,7 @@ created: "2026-08-23T15:00:00-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [generative-ai, llm, governance, educational-policy-ai, ai-education, ethics, learning-analytics]
+research_method: [delphi study, focus groups]
 sources: ['raw/papers/fostering-collaborative-futures-ai-ecosystems-2026.md']
 confidence: high
 ---
