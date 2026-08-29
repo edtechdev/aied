@@ -6,7 +6,7 @@ type: article
 tags: [meta-analysis-systematic-review, ai-ed-evaluation, learning-gains, generative-ai, higher-ed]
 research_method: [meta-analysis, learning analytics, systematic review]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']
 confidence: high
 ---

@@ -6,7 +6,7 @@ type: article
 tags: [higher-ed, collaborative-learning, student-engagement, creativity, ai-education, intelligent-tutoring, educational-robotics, embodied-learning, llm]
 research_method: [experiment]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen.md']
 confidence: high
 ---

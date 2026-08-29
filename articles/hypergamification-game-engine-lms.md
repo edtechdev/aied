@@ -7,7 +7,7 @@ tags: [edtech-platform, active-learning, student-engagement, online-teaching-and
 research_method: [system development]
 audience: [student experience]
 level: [k 12, higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2607.29300.md']
 confidence: high
 ---

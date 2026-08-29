@@ -6,7 +6,7 @@ type: article
 tags: [intelligent-tutoring, k-12, llm, personalized-learning, student-engagement, edtech-platform]
 research_method: [experiment]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 
 sources: ['raw/papers/2608.11259.md']
 confidence: high

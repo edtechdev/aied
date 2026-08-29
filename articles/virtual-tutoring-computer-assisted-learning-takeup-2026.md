@@ -7,7 +7,7 @@ tags: [intelligent-tutoring, human-in-the-loop-ai, math-education, k-12, edtech-
 research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]
-category: [engagement metrics]
+category: [engagement]
 confidence: high
 sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]
 ---

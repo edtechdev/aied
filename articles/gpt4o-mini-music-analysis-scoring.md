@@ -6,7 +6,7 @@ type: article
 tags: [automated-assessment, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
 research_method: [benchmark]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 
 sources: ['raw/papers/2608.01783.md']
 confidence: high

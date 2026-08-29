@@ -5,7 +5,7 @@ updated: "2026-08-25T14:00:00-04:00"
 type: concept
 tags: [self-efficacy, motivation, assessment, self-regulated-learning, student-experience, ai-literacy]
 audience: [student experience]
-category: [confidence]
+category: [assessment]
 confidence: high
 ---
 

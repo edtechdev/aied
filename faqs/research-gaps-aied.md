@@ -6,7 +6,7 @@ type: faq
 tags: [ai-ed-evaluation, research-methods-aied, limitations-in-aied-research, learning-gains, equity-in-ai-education, higher-ed]
 research_method: [research methods, literature review, learning analytics]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 ---
 
 # What are notable gaps in the research literature on AI in Education?

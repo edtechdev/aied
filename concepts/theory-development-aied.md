@@ -5,7 +5,7 @@ updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
 research_method: [literature review, research methods]
-category: [conceptual framework]
+category: [miscellaneous]
 confidence: medium
 ---
 

@@ -7,7 +7,7 @@ tags: [generative-ai, intelligent-tutoring, student-experience, student-engageme
 research_method: [system development, user study]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics, curriculum design]
+category: [engagement, curriculum design]
 
 sources: ['raw/papers/2608.10818.md']
 confidence: medium

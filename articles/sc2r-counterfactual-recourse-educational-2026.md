@@ -6,7 +6,7 @@ type: article
 tags: [learning-analytics, machine-learning, educational-measurement, ai-ed-evaluation, higher-ed, student-modeling, ethics, human-in-the-loop-ai]
 research_method: [educational measurement]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/2608.17618.md']
 confidence: high
 ---

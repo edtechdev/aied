@@ -7,7 +7,7 @@ tags: [ai-ed-evaluation, feedback, student-experience, human-in-the-loop-ai, hig
 research_method: [system development]
 audience: [student experience]
 level: [higher ed]
-category: [ai ed evaluation]
+category: [evaluation]
 
 sources: ['raw/papers/becerra-aicofe-feedback-2026.md']
 confidence: medium

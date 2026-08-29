@@ -6,7 +6,7 @@ type: article
 tags: [learning-analytics, student-modeling, higher-ed, student-engagement, self-regulated-learning, adaptive-learning, formative-assessment, regulation]
 research_method: [experiment]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.25308.md']
 confidence: high
 ---

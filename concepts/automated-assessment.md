@@ -5,7 +5,7 @@ updated: "2026-08-28T09:10:00-04:00"
 type: concept
 tags: [automated-assessment, assessment, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, llm]
 audience: [teacher role]
-category: [confidence aware ai assessment]
+category: [assessment]
 confidence: high
 ---
 

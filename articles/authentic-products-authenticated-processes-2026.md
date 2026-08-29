@@ -7,7 +7,7 @@ tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, 
 audience: [teacher role]
 research_method: [systematic review, theoretical analysis]
 level: [higher ed]
-category: [assessment, ai ed evaluation]
+category: [assessment, evaluation]
 sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']
 confidence: high
 ---

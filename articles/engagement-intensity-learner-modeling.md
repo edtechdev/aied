@@ -7,7 +7,7 @@ tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, student
 research_method: [survey, learning analytics]
 audience: [research methods aied, teacher role]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---

@@ -6,7 +6,7 @@ type: article
 tags: [cs-education, open-source, llm, rag, benchmark, privacy, ai-ed-evaluation, generative-ai, sustainability, edtech-platform]
 research_method: [benchmark]
 discipline: [cs education]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/shen-sustainable-ai-knowledge-base-cs-education-2026.md']
 confidence: high
 ---

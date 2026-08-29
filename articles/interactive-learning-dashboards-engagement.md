@@ -7,7 +7,7 @@ tags: [learning-analytics, metacognition, llm, higher-ed, student-engagement, se
 research_method: [mixed methods, case study]
 discipline: [cs education]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/interactive-learning-dashboards-engagement.md']
 confidence: high
 ---

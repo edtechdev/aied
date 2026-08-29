@@ -7,7 +7,7 @@ tags: [learning-analytics, edtech-platform, higher-ed, student-engagement, stude
 research_method: [benchmark]
 audience: [student experience]
 level: [higher ed, k 12]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.14960.md']
 confidence: medium
 ---

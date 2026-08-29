@@ -7,7 +7,7 @@ tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity-i
 research_method: [qualitative, research methods]
 audience: [teacher role, research methods aied]
 level: [k 12]
-category: [ai ed evaluation]
+category: [evaluation]
 sources: ['raw/papers/2607.28890.md']
 confidence: high
 ---

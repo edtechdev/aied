@@ -7,7 +7,7 @@ tags: [generative-ai, intelligent-tutoring, student-experience, student-engageme
 research_method: [case study]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2602.00447.md']
 confidence: high
 ---

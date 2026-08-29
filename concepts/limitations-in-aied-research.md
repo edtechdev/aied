@@ -5,7 +5,7 @@ updated: "2026-08-26T05:46:39-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, assessment-validity, educational-measurement, ai-ed-evaluation, learning-theories, benchmark]
 research_method: [research methods, benchmark, educational measurement, literature review]
-category: [ai ed evaluation]
+category: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied]
 ---

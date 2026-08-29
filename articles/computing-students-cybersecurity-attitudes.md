@@ -7,7 +7,7 @@ tags: [higher-ed, student-experience, ai-literacy, academic-integrity, student-e
 research_method: [survey]
 audience: [student experience]
 level: [higher ed]
-category: [engagement metrics]
+category: [engagement]
 sources: ['raw/papers/2606.18541.md']
 confidence: medium
 ---
