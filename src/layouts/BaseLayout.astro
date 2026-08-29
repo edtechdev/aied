@@ -422,8 +422,8 @@ const recentConceptItems = recentConcepts.map(c => ({
     @media (min-width: 1024px) {
       .right-col {
         position: sticky;
-        top: 0;
-        max-height: calc(100vh - 2.5rem);
+        top: var(--drawer-top, 4rem);
+        max-height: calc(100dvh - var(--drawer-top, 4rem));
         display: flex;
         flex-direction: column;
       }
