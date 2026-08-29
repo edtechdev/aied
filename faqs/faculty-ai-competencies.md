@@ -3,6 +3,7 @@ title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-08-25T11:30:00-04:00"
 tags: [ai-literacy, teacher-ai-competency, faculty-development, teacher-role, adult-learning]
+audience: [faculty development, teacher role]
 ---
 
 # What Competencies Do Faculty Need in Regard to AI?

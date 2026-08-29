@@ -4,6 +4,8 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T05:05:30-04:00"
 type: article
 tags: [assessment, assessment-validity, academic-integrity, generative-ai, higher-ed, automated-assessment, curriculum-design]
+level: [higher ed]
+category: [assessment, curriculum design]
 sources: ['raw/papers/competency-based-education-genai-production-2026.md']
 confidence: medium
 ---

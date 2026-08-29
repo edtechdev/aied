@@ -4,6 +4,9 @@ created: "2026-05-08T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, faculty-development, higher-ed, generative-ai, llm, student-experience]
+audience: [faculty development, student experience]
+level: [k 12, higher ed]
+category: [assessment]
 confidence: high
 sources: ['raw/papers/2601.06101.md']
 ---

@@ -4,6 +4,7 @@ created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [multimodal, feedback, generative-ai, llm, student-experience, learning-analytics, automated-assessment, human-in-the-loop-ai, formative-assessment, rag]
+audience: [student experience]
 
 sources: ['raw/papers/2601.15280.md']
 confidence: high

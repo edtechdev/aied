@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [k-12, ai-literacy, student-experience, equity-in-ai-education]
 research_method: [efficacy study]
+audience: [student experience]
+level: [k 12]
 sources: ['raw/papers/2605.26010.md']
 confidence: high
 ---

@@ -4,6 +4,7 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, human-ai-collaboration, agency, trust, metacognition, critical-thinking, student-ai-interaction, self-regulated-learning]
+level: [higher ed]
 sources: ['raw/papers/wang-zhang-pedagogical-partnerships-genai-2026.md']
 confidence: high
 ---

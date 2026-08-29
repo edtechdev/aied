@@ -4,6 +4,9 @@ created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, pedagogy, instructional-design, teacher-role, professional-training, ethics]
+audience: [teacher role]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/2608.03973.md']
 confidence: high
 ---

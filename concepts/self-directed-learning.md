@@ -4,6 +4,7 @@ created: "2026-08-20T06:35:00-04:00"
 updated: "2026-08-23T11:00:00-04:00"
 type: concept
 tags: [self-regulated-learning, agency, motivation, self-efficacy, higher-ed, generative-ai, lifelong-learning, adult-learning]
+level: [higher ed, adult learning]
 confidence: high
 ---
 

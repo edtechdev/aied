@@ -4,6 +4,8 @@ created: "2026-08-20T06:55:00-04:00"
 updated: "2026-08-23T09:10:00-04:00"
 type: concept
 tags: [active-learning, collaborative-learning, scaffolding, generative-ai, critical-thinking, higher-ed, medical-education, engineering-education]
+discipline: [medical education, engineering education]
+level: [higher ed]
 confidence: high
 ---
 

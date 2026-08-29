@@ -4,6 +4,8 @@ created: "2026-05-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, higher-ed, ai-literacy, stem-education, equity-in-ai-education, teacher-ai-competency, automated-assessment, llm, generative-ai]
+discipline: [stem education]
+level: [k 12, higher ed]
 sources: ['raw/papers/2605.27391.md']
 confidence: medium
 ---

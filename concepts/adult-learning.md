@@ -5,6 +5,8 @@ updated: "2026-08-29T12:55:12-04:00"
 type: concept
 tags: [adult-learning, instructional-design, ai-education, usability-research, edtech-platform, higher-ed, professional-training]
 research_method: [heuristic evaluation]
+level: [adult learning, higher ed]
+category: [design guidelines]
 confidence: medium
 ---
 > **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 9 articles in this wiki.

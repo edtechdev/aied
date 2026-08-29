@@ -4,6 +4,7 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-27T08:12:21.057525-04:00"
 type: concept
 tags: [situated-learning, experiential-learning, constructivist, learning-theories, sociocultural-learning, instructional-design, ai-education]
+category: [instructional design]
 confidence: high
 ---
 

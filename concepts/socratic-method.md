@@ -4,6 +4,8 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-24T18:15:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, metacognition, formative-assessment]
+audience: [student experience]
+level: [higher ed]
 
 confidence: high
 ---

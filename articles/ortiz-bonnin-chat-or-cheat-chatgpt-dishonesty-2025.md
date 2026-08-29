@@ -4,6 +4,8 @@ created: "2026-08-25T09:50:00-04:00"
 updated: "2026-08-25T09:50:00-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, technology-acceptance-model, student-experience, conversational-ai, privacy]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md']
 confidence: high
 ---

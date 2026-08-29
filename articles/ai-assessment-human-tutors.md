@@ -5,6 +5,7 @@ updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [intelligent-tutoring, automated-assessment, feedback, teacher-role, simulation, formative-assessment]
 research_method: [efficacy study]
+audience: [teacher role]
 sources: ['raw/papers/2606.18617.md']
 confidence: high
 ---

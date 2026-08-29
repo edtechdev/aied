@@ -4,6 +4,8 @@ created: "2026-08-20T08:40:00-04:00"
 updated: "2026-08-26T17:55:00-04:00"
 type: article
 tags: [generative-ai, writing-education, assessment, ethics, higher-ed, experiential-learning, academic-integrity]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/ying-genai-journalism-assessment-2026.md']
 confidence: medium
 ---

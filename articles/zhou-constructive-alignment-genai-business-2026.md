@@ -4,6 +4,9 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-08-21T13:20:39-04:00"
 type: article
 tags: [generative-ai, business-education, higher-ed, curriculum-design, instructional-design, assessment]
+discipline: [business education]
+level: [higher ed]
+category: [curriculum design, instructional design, assessment]
 sources: ['raw/papers/zhou-constructive-alignment-genai-business-2026.md']
 confidence: medium
 ---

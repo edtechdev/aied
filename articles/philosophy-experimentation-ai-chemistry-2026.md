@@ -4,6 +4,7 @@ created: "2026-08-19T12:50:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, philosophy-of-ai-in-education, critical-thinking, learning-theories, human-ai-collaboration]
+discipline: [chemistry education]
 sources: ['raw/papers/philosophy-experimentation-ai-chemistry-2026.md']
 confidence: high
 ---

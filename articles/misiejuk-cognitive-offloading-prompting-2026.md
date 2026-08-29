@@ -4,6 +4,8 @@ created: "2026-08-09T20:37:26-04:00"
 updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [cognitive-offloading, ai-literacy, higher-ed, student-experience, learning-analytics, generative-ai, llm]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']
 confidence: high

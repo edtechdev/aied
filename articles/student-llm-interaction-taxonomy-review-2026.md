@@ -4,7 +4,9 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-24T10:30:00-04:00"
 type: article
 tags: [llm, generative-ai, student-ai-interaction, learning-analytics, higher-ed, self-regulated-learning, assessment, ai-feedback-quality, research-methods-aied]
-research_method: [scoping review]
+research_method: [scoping review, research methods]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/student-llm-interaction-taxonomy-review-2026.md']
 confidence: high
 ---

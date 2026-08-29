@@ -4,6 +4,9 @@ created: "2026-07-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, cs-education, higher-ed, generative-ai, student-engagement, bias-mitigation, rag, scaffolding]
+discipline: [cs education]
+level: [higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/2607.20149.md']
 confidence: high
 ---

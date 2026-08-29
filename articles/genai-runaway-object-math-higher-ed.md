@@ -4,6 +4,9 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, stem-education, faculty-development, learning-theories, math-education]
+discipline: [stem education, math education]
+audience: [faculty development]
+level: [higher ed]
 sources: ['raw/papers/caeai-genai-runaway-object.md']
 confidence: medium
 ---

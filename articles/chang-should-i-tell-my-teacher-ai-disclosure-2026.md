@@ -4,6 +4,7 @@ created: "2026-08-27T11:15:00-04:00"
 updated: "2026-08-27T11:38:38.333597-04:00"
 type: article
 tags: [ai-use-disclosure, self-regulated-learning, help-seeking, academic-integrity, higher-ed, generative-ai, social-emotional-learning]
+level: [higher ed]
 sources: ["https://doi.org/10.3389/feduc.2026.1826174"]
 confidence: high
 ---

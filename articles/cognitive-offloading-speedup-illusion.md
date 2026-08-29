@@ -5,6 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [cognitive-offloading, metacognition, student-experience, llm]
 research_method: [efficacy study]
+audience: [student experience]
 
 sources: ['raw/papers/2605.23177.md']
 confidence: high

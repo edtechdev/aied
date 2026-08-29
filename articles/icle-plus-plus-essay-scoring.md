@@ -4,6 +4,9 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-10"
 type: article
 tags: [automated-essay-scoring, automated-assessment, benchmark, educational-measurement, formative-assessment, higher-ed, llm, writing-education]
+research_method: [benchmark, educational measurement]
+discipline: [writing education]
+level: [higher ed]
 
 sources: ['raw/papers/2607.27671.md']
 confidence: high

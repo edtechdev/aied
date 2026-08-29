@@ -4,6 +4,8 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [personalized-learning, adaptive-learning, k-12, teacher-role, generative-ai, ai-literacy]
+audience: [teacher role]
+level: [k 12]
 sources: ['raw/papers/2606.17633.md']
 confidence: high
 ---

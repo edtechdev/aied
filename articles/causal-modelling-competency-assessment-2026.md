@@ -4,7 +4,8 @@ created: "2026-08-27T09:14:00-04:00"
 updated: "2026-08-27T09:14:00-04:00"
 type: article
 tags: [educational-measurement, student-modeling, assessment, item-response-theory, learning-analytics, adaptive-learning]
-research_method: [psychometrics]
+research_method: [educational measurement, psychometrics]
+category: [assessment]
 sources: ['raw/papers/causal-modelling-competency-assessment-2026.md']
 confidence: high
 ---

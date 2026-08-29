@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [llm, stem-education, student-experience, intelligent-tutoring, learning-analytics]
 research_method: [efficacy study]
+discipline: [stem education]
+audience: [student experience]
 sources: ['raw/papers/2606.14113.md']
 confidence: high
 ---

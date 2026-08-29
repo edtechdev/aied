@@ -4,6 +4,8 @@ created: "2026-08-16T03:36:31-04:00"
 updated: "2026-08-27T10:55:43.284361-04:00"
 type: concept
 tags: [behaviorism, learning-theories, instructional-design, adaptive-learning, intelligent-tutoring, generative-ai, higher-ed]
+level: [higher ed]
+category: [instructional design]
 confidence: medium
 ---
 

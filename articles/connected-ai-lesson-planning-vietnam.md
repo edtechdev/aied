@@ -4,6 +4,9 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south]
+audience: [teacher role, teacher ai collaboration]
+level: [k 12]
+category: [curriculum design]
 sources: ['raw/papers/2607.28647.md']
 confidence: high
 ---

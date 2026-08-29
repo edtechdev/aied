@@ -4,6 +4,9 @@ created: "2026-08-17T17:56:00-04:00"
 updated: "2026-08-21T05:12:55-04:00"
 type: article
 tags: [intelligent-tutoring, cognitive-offloading, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, feedback, metacognition, help-seeking, formative-assessment]
+research_method: [learning gains]
+discipline: [math education]
+level: [k 12]
 confidence: high
 sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
 ---

@@ -4,7 +4,8 @@ created: "2026-08-20T04:40:00-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [community-of-inquiry, online-teaching-and-learning, metacognition, generative-ai, collaborative-learning, higher-ed]
-category: [theoretical-framework]
+level: [higher ed]
+category: [theoretical framework]
 sources: ['raw/papers/ai-communities-of-inquiry-2026.md']
 confidence: medium
 ---

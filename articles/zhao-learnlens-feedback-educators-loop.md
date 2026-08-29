@@ -4,6 +4,9 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]
+discipline: [stem education]
+audience: [teacher role]
+category: [curriculum design]
 
 sources: ['raw/papers/zhao-learnlens-feedback-educators-loop.md']
 confidence: high

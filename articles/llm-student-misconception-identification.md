@@ -4,7 +4,8 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, formative-assessment, higher-ed, learning-analytics, personalized-learning, student-experience, metacognition, ai-literacy]
-audience: [student-misconceptions-conditionals-loops-taxonomy]
+audience: [student misconceptions conditionals loops taxonomy, student experience]
+level: [higher ed]
 sources: ['raw/papers/2605.00294.md']
 confidence: high
 ---

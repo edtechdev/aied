@@ -4,6 +4,8 @@ created: "2026-08-20T08:40:00-04:00"
 updated: "2026-08-20T08:40:00-04:00"
 type: article
 tags: [generative-ai, ethics, assessment, academic-integrity, agency, higher-ed]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/pedlow-genai-selfassessment-2026.md']
 confidence: medium
 ---

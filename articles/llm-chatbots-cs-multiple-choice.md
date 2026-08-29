@@ -4,6 +4,9 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [higher-ed, llm, automated-assessment, student-experience, stem-education, learning-analytics, k-12]
+discipline: [stem education]
+audience: [student experience]
+level: [higher ed, k 12]
 
 sources: ['raw/papers/2606.15919.md']
 confidence: high

@@ -5,6 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [automated-assessment, llm, formative-assessment, higher-ed, scaffolding, generative-ai, ai-literacy, assessment-validity]
 research_method: [efficacy study]
+level: [higher ed]
 
 sources: ['raw/papers/2605.27402.md']
 confidence: medium

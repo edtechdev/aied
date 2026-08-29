@@ -4,6 +4,9 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [game-based-learning, higher-ed, motivation, student-experience, learning-analytics, cognitive-load, instructional-design, self-regulated-learning]
+audience: [student experience]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/nasa-tlx-workload-gamified-ai-2026.md']
 confidence: high
 ---

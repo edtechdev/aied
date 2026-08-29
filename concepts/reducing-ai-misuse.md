@@ -5,6 +5,7 @@ updated: "2026-08-25T11:30:00-04:00"
 connected_faqs: [reduce-ai-cheating, designing-ai-into-learning]
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
+category: [assessment]
 confidence: high
 ---
 

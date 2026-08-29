@@ -4,6 +4,9 @@ created: "2026-08-26T08:13:00-04:00"
 updated: "2026-08-26T08:13:00-04:00"
 type: article
 tags: [activity-theory-aied, engineering-education, higher-ed, generative-ai, student-experience, teacher-role, ethics]
+discipline: [engineering education]
+audience: [student experience, teacher role]
+level: [higher ed]
 sources: ['raw/papers/10.1007_s12528-025-09488-8.md']
 confidence: high
 ---

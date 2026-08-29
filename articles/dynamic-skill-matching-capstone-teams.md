@@ -4,6 +4,9 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-22T19:20:00-04:00"
 type: article
 tags: [intelligent-tutoring, edtech-platform, higher-ed, stem-education, personalized-learning, learning-analytics, student-experience, rag, llm]
+discipline: [stem education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2606.15572.md']
 confidence: medium
 ---

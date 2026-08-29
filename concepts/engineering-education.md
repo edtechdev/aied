@@ -4,6 +4,10 @@ created: "2026-08-17T10:45:00-04:00"
 updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, faculty-development, professional-training, assessment, ethics, higher-ed]
+discipline: [engineering education, stem education]
+audience: [faculty development]
+level: [higher ed]
+category: [assessment]
 confidence: high
 ---
 

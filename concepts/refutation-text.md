@@ -4,6 +4,7 @@ created: "2026-08-26T10:20:00-04:00"
 updated: "2026-08-26T10:20:00-04:00"
 type: concept
 tags: [misconceptions, cognitive-psychology, scaffolding, science-education, metacognition, generative-ai, learning-theories]
+discipline: [science education]
 confidence: high
 ---
 

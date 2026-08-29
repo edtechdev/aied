@@ -4,6 +4,7 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-27T09:20:00-04:00"
 type: concept
 tags: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai]
+research_method: [educational measurement]
 confidence: medium
 ---
 

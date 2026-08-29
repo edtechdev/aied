@@ -4,6 +4,8 @@ created: "2026-08-13T18:30:57-04:00"
 updated: "2026-08-25T09:40:00-04:00"
 type: concept
 tags: [ai-literacy, affective-computing, well-being, teacher-ai-competency, student-experience, ethics, self-regulated-learning, higher-ed]
+audience: [student experience]
+level: [higher ed]
 confidence: high
 ---
 

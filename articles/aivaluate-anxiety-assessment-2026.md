@@ -4,6 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-24T17:20:00-04:00"
 type: article
 tags: [assessment, conversational-ai, pedagogical-agent, affective-computing, well-being, generative-ai, llm]
+category: [assessment]
 sources: ['raw/papers/aivaluate-anxiety-assessment-2026.md']
 confidence: high
 ---

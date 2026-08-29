@@ -4,6 +4,8 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [llm, generative-ai, special-education, inclusive-learning, automated-question-generation, online-teaching-and-learning, equity-in-ai-education, k-12, higher-ed, student-experience]
+audience: [student experience]
+level: [special education, k 12, higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100615.md']
 confidence: high
 ---

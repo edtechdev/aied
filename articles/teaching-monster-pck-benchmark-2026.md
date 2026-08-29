@@ -4,6 +4,8 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:38:00-04:00"
 type: article
 tags: [benchmark, ai-ed-evaluation, agentic-ai, pedagogical-agent, generative-ai]
+research_method: [benchmark]
+category: [ai ed evaluation]
 sources: ['raw/papers/2608.08852.md']
 confidence: high
 ---

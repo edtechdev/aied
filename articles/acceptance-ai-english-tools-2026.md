@@ -4,6 +4,10 @@ created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-23T09:20:00-04:00"
 type: article
 tags: [language-learning, generative-ai, motivation, self-regulated-learning, higher-ed, teacher-role, student-engagement, personalized-learning]
+discipline: [language learning]
+audience: [teacher role]
+level: [higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/10.3389_fpsyg.2026.1806457.md']
 confidence: high
 ---

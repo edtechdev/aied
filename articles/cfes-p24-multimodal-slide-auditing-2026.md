@@ -4,6 +4,8 @@ created: "2026-08-19T10:05:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [benchmark, llm, multimodal, instructional-design, ai-ed-evaluation, assessment-validity, generative-ai]
+research_method: [benchmark]
+category: [instructional design, ai ed evaluation]
 sources: ['raw/papers/cfes-p24-multimodal-slide-auditing-2026.md']
 confidence: high
 ---

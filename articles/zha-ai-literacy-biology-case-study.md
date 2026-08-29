@@ -4,6 +4,9 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
 tags: [biology-education, ai-literacy, k-12, stem-education, curriculum-design, instructional-design, transfer-of-learning, ai-ed-evaluation, active-learning]
+discipline: [biology education, stem education]
+level: [k 12]
+category: [curriculum design, instructional design, ai ed evaluation]
 sources: ['raw/papers/zha-ai-literacy-biology-case-study.md']
 confidence: medium
 ---

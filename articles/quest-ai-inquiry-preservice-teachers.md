@@ -5,6 +5,8 @@ updated: "2026-08-15"
 type: article
 tags: [ai-literacy, faculty-development, generative-ai, higher-ed]
 research_method: [efficacy study]
+audience: [faculty development]
+level: [higher ed]
 sources: ['raw/papers/caeai-quest-ai-inquiry.md']
 confidence: medium
 ---

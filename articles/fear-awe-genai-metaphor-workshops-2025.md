@@ -4,6 +4,8 @@ created: "2026-08-26T05:58:00-04:00"
 updated: "2026-08-26T10:06:42-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, teacher-role, student-experience, cognitive-offloading, ethics, agency, critical-thinking, student-ai-interaction]
+audience: [teacher role, student experience]
+level: [higher ed]
 sources: ['raw/papers/10.5334_jime.972.md']
 confidence: high
 ---

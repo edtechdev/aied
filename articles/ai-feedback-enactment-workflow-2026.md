@@ -4,6 +4,8 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:54:08-04:00"
 type: article
 tags: [feedback, formative-assessment, learning-analytics, higher-ed, student-experience, self-regulated-learning, human-ai-collaboration, llm]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/2608.11625.md']
 confidence: high

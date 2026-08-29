@@ -4,6 +4,7 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:50:00-04:00"
 type: article
 tags: [problem-based-learning, generative-ai, cognitive-offloading, cognitive-psychology, academic-integrity, ethics, higher-ed]
+level: [higher ed]
 sources: ['raw/papers/learn-framework-responsible-genai-pbl-2026.md']
 confidence: medium
 ---

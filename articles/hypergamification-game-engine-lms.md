@@ -4,6 +4,9 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [edtech-platform, active-learning, student-engagement, online-teaching-and-learning, k-12, higher-ed, learning-analytics, student-experience]
+audience: [student experience]
+level: [k 12, higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/2607.29300.md']
 confidence: high
 ---

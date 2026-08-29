@@ -4,6 +4,8 @@ created: "2026-08-23T12:00:00-04:00"
 updated: "2026-08-23T12:00:00-04:00"
 type: article
 tags: [special-education, inclusive-learning, accessibility, learning-gains, educational-robotics]
+research_method: [learning gains]
+level: [special education]
 sources: ['raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md']
 confidence: high
 ---

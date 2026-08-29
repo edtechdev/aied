@@ -4,6 +4,8 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [ai-education, k-12, equity-in-ai-education, simulation, meta-analysis-systematic-review, educational-policy-ai, learning-analytics]
+research_method: [systematic review]
+level: [k 12]
 sources: ['raw/papers/2608.05427v1.md']
 confidence: high
 ---

@@ -4,6 +4,9 @@ created: "2026-08-18T09:25:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [assessment-validity, educational-measurement, psychometrically-aware-ai, item-response-theory, ai-ed-evaluation, llm, higher-ed, generative-ai]
+research_method: [educational measurement]
+level: [higher ed]
+category: [ai ed evaluation]
 sources: ['raw/papers/assessment-latent-structure-human-llm-2026.md']
 confidence: high
 ---

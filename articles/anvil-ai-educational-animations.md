@@ -4,6 +4,10 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-08-24T04:41:11-04:00"
 type: article
 tags: [generative-ai, llm, instructional-design, higher-ed, cs-education, teacher-role, multimodal]
+discipline: [cs education]
+audience: [teacher role]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/2605.16295.md']
 confidence: high
 ---

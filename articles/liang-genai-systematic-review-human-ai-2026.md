@@ -4,7 +4,8 @@ created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [meta-analysis-systematic-review, generative-ai, human-ai-collaboration, ai-literacy, higher-ed]
-research_method: [efficacy study]
+research_method: [systematic review, efficacy study]
+level: [higher ed]
 sources: ['raw/papers/liang-genai-systematic-review-human-ai-2026.md']
 confidence: high
 ---

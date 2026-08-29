@@ -5,6 +5,7 @@ updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [online-teaching-and-learning, student-engagement, conversational-ai, affective-computing, learning-analytics, higher-ed]
 research_method: [literature review]
+level: [higher ed]
 sources: ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
 confidence: high
 ---

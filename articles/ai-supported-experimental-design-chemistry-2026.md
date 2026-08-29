@@ -5,6 +5,8 @@ updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [chemistry-education, higher-ed, ai-literacy, critical-thinking]
 research_method: [laboratory]
+discipline: [chemistry education]
+level: [higher ed]
 sources: ['raw/papers/ai-supported-experimental-design-chemistry-2026.md']
 confidence: high
 ---

@@ -4,6 +4,8 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [governance, administrator, higher-ed, educational-policy-ai, ethics, ai-education, human-ai-collaboration, faculty-development, ai-literacy, trust]
+audience: [administrator, faculty development]
+level: [higher ed]
 sources: ['raw/papers/sposato-ai-educational-leadership-taxonomy-2025.md']
 confidence: high
 ---

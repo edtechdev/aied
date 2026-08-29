@@ -4,6 +4,9 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [computational-thinking, cs-education, self-regulated-learning, learning-gains, k-12]
+research_method: [learning gains]
+discipline: [cs education]
+level: [k 12]
 sources: ['raw/papers/computational-thinking-aica-2026.md']
 confidence: high
 ---

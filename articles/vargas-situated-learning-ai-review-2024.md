@@ -4,6 +4,8 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [situated-learning, experiential-learning, constructivist, adaptive-learning, teacher-role, ai-education, instructional-design, personalized-learning]
+audience: [teacher role]
+category: [instructional design]
 sources: ['raw/papers/vargas-situated-learning-ai-review-2024.md']
 confidence: high
 ---

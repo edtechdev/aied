@@ -5,6 +5,8 @@ updated: "2026-08-27T09:20:00-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
+level: [higher ed]
+category: [assessment]
 confidence: high
 ---
 

@@ -4,6 +4,9 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
+discipline: [cs education, stem education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2608.02420.md']
 confidence: medium
 ---

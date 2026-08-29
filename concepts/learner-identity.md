@@ -4,6 +4,8 @@ created: "2026-08-27T08:10:00-04:00"
 updated: "2026-08-27T07:59:32.712217-04:00"
 type: concept
 tags: [learner-identity, adult-learning, student-experience, agency, stem-education]
+discipline: [stem education]
+audience: [student experience]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 ---

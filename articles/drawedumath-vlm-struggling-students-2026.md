@@ -4,6 +4,10 @@ created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-22T19:45:00-04:00"
 type: article
 tags: [math-education, multimodal, misconceptions, ai-ed-evaluation, educational-measurement, assessment-validity, k-12, llm, equity-in-ai-education]
+research_method: [educational measurement]
+discipline: [math education]
+level: [k 12]
+category: [ai ed evaluation]
 sources: ['raw/papers/drawedumath-vlm-struggling-students-2026.md']
 confidence: high
 ---

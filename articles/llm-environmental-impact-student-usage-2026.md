@@ -4,6 +4,9 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [llm, higher-ed, student-experience, ethics, generative-ai, cs-education]
+discipline: [cs education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/llm-environmental-impact-student-usage-2026.md']
 confidence: high
 ---

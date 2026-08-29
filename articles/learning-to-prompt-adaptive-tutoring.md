@@ -4,6 +4,8 @@ created: "2026-06-19T04:33:04-04:00"
 updated: "2026-08-14"
 type: article
 tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adaptive-learning, student-experience, prompt-engineering]
+audience: [student experience]
+level: [k 12]
 sources: ['raw/papers/2606.20138.md']
 confidence: high
 ---

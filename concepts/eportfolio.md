@@ -4,6 +4,9 @@ created: "2026-08-20T09:00:00-04:00"
 updated: "2026-08-20T09:00:00-04:00"
 type: concept
 tags: [assessment, authentic-assessment, formative-assessment, feedback, generative-ai, automated-assessment, student-engagement, higher-ed, language-learning]
+discipline: [language learning]
+level: [higher ed]
+category: [assessment]
 confidence: high
 ---
 

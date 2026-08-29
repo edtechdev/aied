@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [conversational-ai, student-experience, generative-ai, higher-ed, ai-literacy, academic-integrity, pedagogical-agent, student-ai-interaction, instructional-design]
+audience: [student experience]
+level: [higher ed]
+category: [instructional design]
 sources: ['raw/papers/colbran-student-perspectives-genai-chatbots-2026.md']
 confidence: high
 ---

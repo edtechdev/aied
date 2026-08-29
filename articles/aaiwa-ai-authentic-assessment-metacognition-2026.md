@@ -4,6 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [authentic-assessment, feedback, metacognition, teacher-education, writing-education]
+level: [pre service teachers]
 sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']
 confidence: high
 ---

@@ -4,6 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-21T07:49:51-04:00"
 type: article
 tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-assessment, feedback, scaffolding, rag]
+discipline: [stem education]
 
 sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']
 confidence: high

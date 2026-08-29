@@ -4,6 +4,9 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [generative-ai, personalized-learning, k-12, math-education, adaptive-learning, student-experience]
+discipline: [math education]
+audience: [student experience]
+level: [k 12]
 sources: ['raw/papers/2608.04892.md']
 confidence: high
 ---

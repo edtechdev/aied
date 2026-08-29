@@ -4,6 +4,8 @@ created: "2026-08-20T06:50:00-04:00"
 updated: "2026-08-20T07:45:00-04:00"
 type: article
 tags: [problem-based-learning, generative-ai, cognitive-offloading, assessment, adult-learning, higher-ed, instructional-design]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/pbl-structural-conditions-ai-2026.md']
 confidence: high
 ---

@@ -4,6 +4,8 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
 tags: [feedback, learning-analytics, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, student-experience]
+audience: [student experience]
+level: [higher ed]
 
 sources: ['raw/papers/jin-genai-learning-analytics-feedback-literacy.md']
 confidence: high

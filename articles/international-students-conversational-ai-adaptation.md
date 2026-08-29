@@ -4,6 +4,8 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [higher-ed, student-experience, generative-ai, llm, equity-in-ai-education, culturally-relevant-pedagogy, human-in-the-loop-ai, rag]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2605.15127.md']
 confidence: medium
 ---

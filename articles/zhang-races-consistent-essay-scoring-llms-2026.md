@@ -4,6 +4,7 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [automated-essay-scoring, automated-assessment, assessment, llm, generative-ai, human-in-the-loop-ai, assessment-validity]
+category: [assessment]
 sources: ['raw/papers/zhang-races-consistent-essay-scoring-llms-2026.md']
 confidence: high
 ---

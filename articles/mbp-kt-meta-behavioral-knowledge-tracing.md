@@ -4,6 +4,7 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-08-24T09:15:00-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, student-experience, adaptive-learning]
+audience: [student experience]
 sources: ['raw/papers/2605.08697.md']
 confidence: medium
 ---

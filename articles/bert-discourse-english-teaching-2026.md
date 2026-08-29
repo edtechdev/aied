@@ -4,6 +4,7 @@ created: "2026-08-23T15:00:00-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [automated-assessment, llm, feedback, formative-assessment, educational-nlp, language-learning]
+discipline: [language learning]
 sources: ['raw/papers/bert-discourse-english-teaching-2026.md']
 confidence: high
 ---

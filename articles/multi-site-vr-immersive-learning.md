@@ -4,6 +4,10 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-08-15"
 type: article
 tags: [edtech-platform, active-learning, student-experience, higher-ed, student-engagement, generative-ai, llm, ai-literacy, stem-education, scaffolding]
+discipline: [stem education]
+audience: [student experience]
+level: [higher ed]
+category: [engagement metrics]
 sources: ['raw/papers/2606.10325.md']
 confidence: medium
 ---

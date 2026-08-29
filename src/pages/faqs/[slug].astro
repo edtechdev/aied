@@ -202,7 +202,7 @@ function renderInline(text: string): string {
         <StarButton slug={slug} kind="faq" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
+          <>{i > 0 ? ', ' : ' · '}<a class="tag-chip" href={`/aied/concepts/${tag}/`}>{tag.replace(/-/g, ' ')}</a></>
         ))}
       </div>
     </div>

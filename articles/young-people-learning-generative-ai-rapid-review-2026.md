@@ -4,6 +4,8 @@ created: "2026-08-19T12:00:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [k-12, generative-ai, cognitive-offloading, self-regulated-learning, metacognition, ai-literacy, reducing-ai-misuse, assessment, educational-policy-ai, equity-in-ai-education, teacher-education, student-engagement]
+level: [k 12]
+category: [assessment]
 sources: ['raw/papers/young-people-learning-generative-ai-rapid-review-2026.md']
 confidence: high
 ---

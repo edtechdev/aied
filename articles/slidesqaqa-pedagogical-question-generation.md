@@ -4,6 +4,8 @@ created: "2026-05-27T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
 tags: [prompt-engineering, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal, student-experience, ai-literacy, intelligent-tutoring]
+audience: [student experience]
+level: [higher ed]
 confidence: high
 sources: []
 ---

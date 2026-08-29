@@ -4,6 +4,8 @@ created: "2026-08-19T13:06:00-04:00"
 updated: "2026-08-19T13:06:00-04:00"
 type: article
 tags: [biology-education, generative-ai, ai-literacy, academic-integrity, machine-learning, higher-ed]
+discipline: [biology education]
+level: [higher ed]
 sources: ['raw/papers/beyond-chatgpt-ai-tools-biological-education-2026.md']
 confidence: high
 ---

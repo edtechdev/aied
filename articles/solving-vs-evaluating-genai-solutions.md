@@ -5,6 +5,9 @@ updated: "2026-08-15"
 type: article
 tags: [generative-ai, stem-education, higher-ed, student-experience]
 research_method: [efficacy study]
+discipline: [stem education]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2607.27586.md']
 confidence: high
 ---

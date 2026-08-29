@@ -4,6 +4,8 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [academic-integrity, higher-ed, governance, educational-policy-ai, ethics, generative-ai, philosophy-of-ai-in-education, stakeholders]
+audience: [stakeholders]
+level: [higher ed]
 sources: ['raw/papers/taylor-lacroix-purpose-before-policy-academic-integrity-2026.md']
 confidence: high
 ---

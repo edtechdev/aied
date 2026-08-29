@@ -4,6 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [higher-ed, ethics, generative-ai, conversational-ai, technology-acceptance-model, trust, student-experience]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/genai-chatgpt-adoption-ethics-students-2026.md']
 confidence: high
 ---

@@ -5,6 +5,8 @@ updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [automated-assessment, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, personalized-learning]
 research_method: [ground truth reliability aided]
+discipline: [writing education]
+level: [higher ed]
 
 sources: ['raw/papers/2605.04298.md']
 confidence: medium

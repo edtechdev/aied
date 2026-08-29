@@ -4,6 +4,7 @@ created: "2026-06-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, scaffolding, k-12, personalized-learning, llm]
+level: [k 12]
 sources: ['raw/papers/2606.18030.md']
 confidence: high
 ---

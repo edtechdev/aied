@@ -4,7 +4,9 @@ created: "2026-06-04T04:33:04-04:00"
 updated: "2026-08-24T13:00:00-04:00"
 type: article
 tags: [automated-assessment, feedback, higher-ed, llm, teacher-role, rct, scaffolding]
-research_method: [efficacy study]
+research_method: [rct, efficacy study]
+audience: [teacher role]
+level: [higher ed]
 
 sources: ['raw/papers/2606.03095.md']
 confidence: high

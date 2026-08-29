@@ -4,6 +4,7 @@ created: "2026-08-23T08:07:04-04:00"
 updated: "2026-08-23T15:00:00-04:00"
 type: article
 tags: [automated-assessment, llm, feedback, formative-assessment, higher-ed, human-in-the-loop-ai]
+level: [higher ed]
 sources: ['raw/papers/ai-assisted-instructor-supervised-grading-feedback.md']
 confidence: high
 ---

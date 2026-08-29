@@ -4,6 +4,8 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-25T13:00:00-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity-in-ai-education]
+discipline: [language learning, writing education]
+level: [higher ed, k 12]
 confidence: high
 ---
 

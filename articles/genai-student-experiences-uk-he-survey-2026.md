@@ -5,6 +5,8 @@ updated: "2026-08-24T05:04:31-04:00"
 type: article
 tags: [student-experience, higher-ed, generative-ai, academic-integrity, equity-in-ai-education, ethics, educational-policy-ai]
 research_method: [survey]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/genai-student-experiences-uk-he-survey-2026.md']
 confidence: high
 ---

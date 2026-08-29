@@ -4,6 +4,9 @@ created: "2026-06-23T07:38:00-04:00"
 updated: "2026-08-15"
 type: article
 tags: [teacher-role, k-12, stem-education, scaffolding, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
+discipline: [stem education]
+audience: [teacher role, student experience]
+level: [k 12, higher ed]
 confidence: medium
 sources: []
 ---

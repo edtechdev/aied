@@ -4,6 +4,8 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [adaptive-learning, assessment, student-engagement, learning-analytics, student-experience, computational-thinking]
+audience: [student experience]
+category: [assessment, engagement metrics]
 sources: ['raw/papers/2605.08943.md']
 confidence: high
 ---

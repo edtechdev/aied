@@ -4,6 +4,7 @@ created: "2026-08-29T12:55:12-04:00"
 updated: "2026-08-29T12:55:12-04:00"
 type: concept
 tags: [change-management, ai-education, higher-ed]
+level: [higher ed]
 confidence: medium
 ---
 

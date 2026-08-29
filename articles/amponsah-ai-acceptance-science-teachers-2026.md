@@ -4,6 +4,9 @@ created: "2026-08-09T08:35:52-04:00"
 updated: "2026-08-09"
 type: article
 tags: [ai-literacy, teacher-education, k-12, stem-education, higher-ed, generative-ai, faculty-development, ai-education]
+discipline: [stem education]
+audience: [faculty development]
+level: [teacher training, k 12, higher ed]
 sources: ['raw/papers/amponsah-ai-acceptance-science-teachers-2026.md']
 confidence: high
 ---

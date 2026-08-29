@@ -4,6 +4,7 @@ created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
 tags: [metacognition, self-regulated-learning, prompt-engineering, generative-ai, higher-ed, agency, ai-literacy]
+level: [higher ed]
 sources: ['raw/papers/idea-framework-metacognitive-genai-2026.md']
 confidence: high
 ---

@@ -4,6 +4,8 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, cognitive-offloading, faculty-development, rag, llm]
+audience: [faculty development]
+level: [higher ed]
 
 sources: ['raw/papers/2607.05411.md']
 confidence: high

@@ -5,6 +5,7 @@ updated: "2026-08-11"
 type: article
 tags: [generative-ai, feedback, higher-ed, writing-education, self-regulated-learning, assessment, scaffolding]
 research_method: [qualitative study]
+level: [higher ed]
 
 sources: ['raw/papers/tandf-ai-internal-feedback-evaluative-judgments.md']
 confidence: high

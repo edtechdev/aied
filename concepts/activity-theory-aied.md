@@ -4,6 +4,8 @@ created: "2026-08-26T08:20:00-04:00"
 updated: "2026-08-26T08:20:00-04:00"
 type: concept
 tags: [activity-theory-aied, learning-theories, sociocultural-learning, teacher-role, learning-analytics, generative-ai, higher-ed, k-12]
+audience: [teacher role]
+level: [higher ed, k 12]
 confidence: high
 ---
 

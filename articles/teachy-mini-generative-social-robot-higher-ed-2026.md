@@ -4,6 +4,8 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, generative-ai, higher-ed, intelligent-tutoring, llm, design-thinking]
+level: [higher ed]
+category: [design]
 sources: ['raw/papers/vonschallen-teachy-mini-gsr-2026.md']
 confidence: high
 ---

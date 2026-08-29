@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, generative-ai, prompt-engineering, writing-education, assessment, higher-ed, formative-assessment, student-ai-interaction]
+discipline: [writing education]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/farrokhnia-genai-feedback-student-revisions-2026.md']
 confidence: high
 ---

@@ -4,6 +4,10 @@ created: "2026-08-17T17:55:00-04:00"
 updated: "2026-08-17T17:55:00-04:00"
 type: article
 tags: [intelligent-tutoring, human-in-the-loop-ai, math-education, k-12, edtech-platform, help-seeking, student-engagement, equity-in-ai-education, learning-gains, adaptive-learning]
+research_method: [learning gains]
+discipline: [math education]
+level: [k 12]
+category: [engagement metrics]
 confidence: high
 sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]
 ---

@@ -4,6 +4,8 @@ created: "2026-06-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, writing-education, formative-assessment, feedback, higher-ed, k-12]
+discipline: [writing education]
+level: [higher ed, k 12]
 
 sources: ['raw/papers/2606.06271.md']
 confidence: high

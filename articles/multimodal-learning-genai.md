@@ -4,6 +4,8 @@ created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback, assessment, pedagogical-llm-training, self-regulated-learning]
+level: [higher ed]
+category: [assessment]
 sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
 confidence: high
 ---

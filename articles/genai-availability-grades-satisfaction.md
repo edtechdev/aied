@@ -4,7 +4,9 @@ created: "2026-07-24T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, learning-gains, student-experience, llm]
-research_method: [efficacy study]
+research_method: [efficacy study, learning gains]
+audience: [student experience]
+level: [higher ed]
 sources: ['raw/papers/2607.21534.md']
 confidence: high
 ---

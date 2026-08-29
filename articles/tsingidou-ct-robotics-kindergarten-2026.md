@@ -4,6 +4,10 @@ created: "2026-08-24T12:31:00-04:00"
 updated: "2026-08-25T13:45:00-04:00"
 type: article
 tags: [computational-thinking, educational-robotics, k-12, meta-analysis-systematic-review, assessment, stem-education, early-childhood-elementary-ai-education]
+research_method: [systematic review]
+discipline: [stem education]
+level: [k 12]
+category: [assessment]
 sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
 confidence: high
 ---
