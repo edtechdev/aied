@@ -1,16 +1,16 @@
 ---
-title: Early Childhood and Elementary AI Education
+title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-08-25T13:30:00-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 level: [k 12]
 confidence: high
 ---
 
-> **Early childhood and elementary AI education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, personalized learning in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
+> **Early childhood education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, personalized learning in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
 
-Young children interact with AI increasingly early — through AI-enabled toys, chatbots, adaptive learning platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education research. This concept gathers the wiki's coverage of that younger band. It sits within the broader [[k-12|K-12 AI education]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
+Young children interact with AI increasingly early — through AI-enabled toys, chatbots, adaptive learning platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education research. This concept gathers the wiki's coverage of that younger band. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being]] and [[pedagogical-safety|safety]].
 
 ### How the research clusters
 

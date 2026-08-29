@@ -1,7 +1,7 @@
 ---
-title: Trust in AI
+title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [trust, ai-literacy, educational-robotics, human-ai-collaboration, critical-thinking, intelligent-tutoring]
 discipline: [epistemic trust]
@@ -9,7 +9,7 @@ discipline: [epistemic trust]
 confidence: high
 ---
 
-> **Trust in AI** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
+> **Trust** — the willingness of learners and educators to rely on AI systems for learning, judgment, and decision-making. Trust is a precondition for effective use of AI in education, but it is a double-edged sword: appropriate trust enables productive engagement, while over-trust leads to [[cognitive-offloading|Over-Reliance]] and under-trust prevents beneficial use. Trust is shaped by the perceived competence, transparency, reliability, and benevolence of the AI system, and by contextual factors such as the task and the user's experience. It connects to [[trust-calibration]] (matching trust to actual reliability) and epistemic trust (trust in AI as a source of knowledge).
 
 Trust is central to how learners interact with AI — whether a tutoring chatbot, a [[educational-robotics|social robot]], or an automated [[feedback]] system. It is closely related to [[ai-literacy]] (understanding what to trust), [[critical-thinking]] (evaluating AI output), and the design of responsible AI. In embodied contexts like [[educational-robotics]], trust is shaped by robot behaviour, task, and appearance.
 
@@ -22,7 +22,7 @@ Trust is central to how learners interact with AI — whether a tutoring chatbot
 - **Sycophancy and trust erosion:** [[ai-sycophancy|AI sycophancy]] threatens trust calibration from the opposite direction — an AI that always agrees may feel trustworthy precisely because it never challenges the user, inviting [[cognitive-offloading|Over-Reliance]] and uncritical acceptance. [[contextual-sycophancy-ai-literacy|Contextual sycophancy]] shows learners cannot fully eliminate this via prompting alone, and [[sycophantic-ai-social-interaction-2026|sycophantic AI]] can even displace human relationships.
 
 Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]], [[cognitive-offloading|Over-Reliance]], [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|epistemic trust]], [[educational-robotics]], [[educational-robotics]], and [[ethics]]. Building appropriate trust is a core goal of responsible AI design in education.
-- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|trust in AI]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
+- **AI adaptation gap in higher ed (2026):** a three-stakeholder study of 2,121 students, faculty, and staff at a teacher-education university found perceived usefulness was the strongest predictor of [[trust|Trust]] (β = 0.402), outweighing institutional policy clarity (β = 0.223) — students trusted AI more than faculty/staff while reporting higher perceived policy clarity ([[ai-adaptation-gap-higher-education-2026]]).
 
 ## Connected Concepts
 

@@ -41,7 +41,7 @@ See [[limitations-in-aied-research|Limitations in AIEd Research]].
 
 We know considerably more about whether students accept AI than about how its benefits and harms are distributed. The wiki identifies open questions around socioeconomic access, paid versus free models, disability, linguistic diversity, cultural relevance, rural infrastructure, and differences in who gains educational value from AI.
 
-The [[equity-in-ai-education|Equity in AI Education]] synthesis distinguishes access, representation, and outcomes as separate equity problems. This gap is particularly visible outside dominant Global North contexts: a review of 75 studies of GenAI in [[global-south|Global South]] [[higher-ed|higher education]] found **equity received the least research attention**, alongside limited geographic representation, stakeholder imbalance, and insufficient evidence on long-term outcomes.
+The [[equity-in-ai-education|Equity]] synthesis distinguishes access, representation, and outcomes as separate equity problems. This gap is particularly visible outside dominant Global North contexts: a review of 75 studies of GenAI in [[global-south|Global South]] [[higher-ed|higher education]] found **equity received the least research attention**, alongside limited geographic representation, stakeholder imbalance, and insufficient evidence on long-term outcomes.
 
 See [[nguyen-genai-global-south-review-2026|Perceptions of Generative AI in Global South: A Scoping Review]].
 

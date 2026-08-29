@@ -1,7 +1,7 @@
 ---
-title: Teacher Role in AI-Enhanced Education
+title: Instructors
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, intelligent-tutoring]
 audience: [faculty development]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 ---
 
-> **Teacher role** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the wiki documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments.
+> **Instructors** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the wiki documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments.
 
 ### How AI transforms teaching
 

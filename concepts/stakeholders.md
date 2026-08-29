@@ -1,7 +1,7 @@
 ---
-title: People and Audiences in AI Education
+title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-08-27T07:53:59.967917-04:00"
+updated: "2026-08-29T14:20:00-04:00"
 type: concept
 tags: [stakeholders, teacher-role, student-experience, administrator, instructional-design, higher-ed, k-12, ai-literacy]
 audience: [stakeholders, teacher role, student experience, administrator]
@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 category: [instructional design]
 confidence: high
 ---
-> **People and audiences in AI education** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the wiki's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[faculty-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the wiki treats them as the human context in which AI tools are designed, deployed, and evaluated.
+> **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the wiki's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[faculty-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the wiki treats them as the human context in which AI tools are designed, deployed, and evaluated.
 
 [[ai-education|AI in education]] is fundamentally about people — the learners and educators whose work it transforms, and the leaders and designers who decide how it is used. Understanding the distinct stakeholders is essential because the same AI system looks very different from different vantage points: a tool a student experiences as personalized support may appear to a teacher as an integrity risk, to an administrator as a procurement and governance decision, and to a designer as a pedagogical choice. The wiki organizes coverage of these audiences across several concept pages.
 
