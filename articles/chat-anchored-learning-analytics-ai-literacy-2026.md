@@ -5,7 +5,7 @@ updated: "2026-08-26T08:10:00-04:00"
 type: article
 tags: [learning-analytics, ai-literacy, activity-theory-aied, higher-ed, student-ai-interaction]
 audience: [teacher role, research methods aied]
-research_method: [discourse analysis]
+research_method: [interviews]
 level: [higher ed]
 sources: ['raw/papers/moon-chat-anchored-learning-analytics-aied.md']
 confidence: high

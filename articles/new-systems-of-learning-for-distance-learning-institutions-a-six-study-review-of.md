@@ -4,7 +4,7 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-13"
 type: article
 tags: [generative-ai, higher-ed, online-teaching-and-learning, design-based-research, governance, technology-acceptance-model, learning-analytics, privacy]
-research_method: [design based research]
+research_method: [design-based research]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100607.md']
 confidence: high

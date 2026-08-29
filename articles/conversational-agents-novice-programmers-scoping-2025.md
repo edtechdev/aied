@@ -4,7 +4,7 @@ created: "2026-08-22T04:52:33-04:00"
 updated: "2026-08-22T04:52:33-04:00"
 type: article
 tags: [conversational-ai, cs-education, intelligent-tutoring, scaffolding, feedback, generative-ai, llm, equity-in-ai-education, multimodal]
-research_method: [scoping review]
+research_method: [systematic review]
 discipline: [cs education]
 sources: ['raw/papers/conversational-agents-novice-programmers-scoping-2025.md']
 confidence: high

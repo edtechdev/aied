@@ -4,7 +4,7 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, research-methods-aied]
-research_method: [research methods aied, efficacy study]
+research_method: [research methods, experiment]
 level: [higher ed]
 confidence: high
 ---

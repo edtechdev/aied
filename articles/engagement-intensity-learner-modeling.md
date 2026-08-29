@@ -4,7 +4,7 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, student-engagement, student-experience, ethics, llm]
-research_method: [quantitative, learning analytics]
+research_method: [survey, learning analytics]
 audience: [research methods aied, teacher role]
 level: [higher ed]
 category: [engagement metrics]

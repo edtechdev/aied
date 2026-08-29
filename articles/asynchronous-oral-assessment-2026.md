@@ -4,7 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [assessment, authentic-assessment, academic-integrity, student-engagement, higher-ed]
-research_method: [quasi-experiment]
+research_method: [experiment]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/asynchronous-oral-assessment-2026.md']

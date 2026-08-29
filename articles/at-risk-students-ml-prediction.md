@@ -4,7 +4,7 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [learning-analytics, higher-ed, student-modeling, rct, llm, machine-learning]
-research_method: [rct]
+research_method: [randomized controlled trial]
 level: [higher ed]
 sources: ['raw/papers/2606.20617.md']
 confidence: medium

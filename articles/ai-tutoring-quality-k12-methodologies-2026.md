@@ -4,7 +4,7 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T04:41:04-04:00"
 type: article
 tags: [intelligent-tutoring, k-12, llm, personalized-learning, student-engagement, edtech-platform]
-research_method: [efficacy study]
+research_method: [experiment]
 level: [k 12]
 category: [engagement metrics]
 

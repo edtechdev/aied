@@ -4,7 +4,7 @@ created: "2026-08-23T08:25:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: concept
 tags: [learning-theories, metacognition, cognitive-offloading, scaffolding, desirable-difficulties, problem-based-learning, inquiry-based-learning, feedback, generative-ai, learning-gains]
-research_method: [learning gains]
+research_method: [learning analytics]
 confidence: high
 ---
 

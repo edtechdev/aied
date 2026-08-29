@@ -4,7 +4,7 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [k-12, ai-literacy, student-experience, equity-in-ai-education]
-research_method: [efficacy study]
+research_method: [experiment]
 audience: [student experience]
 level: [k 12]
 sources: ['raw/papers/2605.26010.md']

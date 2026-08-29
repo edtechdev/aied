@@ -1,11 +1,11 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-08-29T15:22:36-04:00"
 type: concept
 tags: [medical-education, higher-ed, simulation, assessment, adaptive-learning, teacher-role]
 discipline: [medical education]
-audience: [teacher role]
+audience: [student experience, teacher role]
 level: [higher ed]
 category: [assessment]
 confidence: high

@@ -4,7 +4,7 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-24T18:50:00-04:00"
 type: article
 tags: [teacher-education, conversational-ai, generative-ai, technology-acceptance-model, ai-literacy, faculty-development, stem-education, higher-ed, change-management]
-research_method: [latent profile analysis]
+research_method: [survey]
 discipline: [stem education]
 audience: [faculty development]
 level: [higher ed]

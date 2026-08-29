@@ -4,7 +4,7 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-08-23T10:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, knowledge-graph, self-regulated-learning, generative-ai, learning-gains]
-research_method: [learning gains]
+research_method: [learning analytics]
 sources: ['raw/papers/graph-its-adaptive-algorithms-2026.md']
 confidence: high
 ---

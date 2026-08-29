@@ -4,7 +4,7 @@ created: "2026-08-16T18:05:58-04:00"
 updated: "2026-08-16"
 type: article
 tags: [llm, intelligent-tutoring, learning-analytics, pedagogical-agent, cs-education, student-experience, cognitive-offloading, self-regulated-learning]
-research_method: [dataset]
+research_method: [benchmark]
 discipline: [cs education]
 audience: [student experience]
 

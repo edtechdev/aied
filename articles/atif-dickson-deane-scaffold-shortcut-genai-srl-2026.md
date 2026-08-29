@@ -5,7 +5,7 @@ updated: "2026-08-27T06:30:00-04:00"
 type: article
 tags: [self-regulated-learning, cognitive-offloading, generative-ai, higher-ed, mixed-methods-research, ai-literacy, engineering-education]
 audience: [student experience, teacher role]
-research_method: [mixed methods research]
+research_method: [mixed methods]
 discipline: [engineering education]
 level: [higher ed]
 sources: ["https://doi.org/10.20851/ll.v8.63"]

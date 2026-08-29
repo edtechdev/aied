@@ -5,7 +5,7 @@ updated: "2026-08-13"
 type: article
 tags: [ai-literacy, critical-thinking, ethics, ai-education, equity-in-ai-education, higher-ed, generative-ai]
 audience: [teacher role, research methods aied]
-research_method: [theoretical analysis, editorial]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/10.1080_17439884.2026.2615553.md']
 confidence: high

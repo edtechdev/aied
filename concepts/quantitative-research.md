@@ -4,7 +4,7 @@ created: "2026-08-24T02:05:00-04:00"
 updated: "2026-08-24T02:05:00-04:00"
 type: concept
 tags: [quantitative-research, research-methods-aied, educational-measurement]
-research_method: [quantitative research, research methods aied, educational measurement, survey research, experimental research]
+research_method: [survey, research methods, educational measurement, experiment]
 confidence: high
 ---
 

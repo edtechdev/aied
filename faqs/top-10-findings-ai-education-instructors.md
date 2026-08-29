@@ -3,7 +3,7 @@ title: "What are the Top 10 Findings from AI in Education Research That Instruct
 created: "2026-08-24T09:42:00-04:00"
 updated: "2026-08-24T11:05:00-04:00"
 tags: [teacher-role, ai-education, cognitive-offloading, ai-literacy, assessment]
-research_method: [evidence]
+research_method: [literature review]
 audience: [instructors]
 category: [assessment]
 ---

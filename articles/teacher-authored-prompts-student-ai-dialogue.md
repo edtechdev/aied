@@ -4,7 +4,7 @@ created: "2026-06-04T04:33:04-04:00"
 updated: "2026-08-24T09:00:00-04:00"
 type: article
 tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment, automated-assessment, higher-ed]
-research_method: [system development, evaluation]
+research_method: [system development]
 audience: [teacher role]
 level: [k 12, higher ed]
 

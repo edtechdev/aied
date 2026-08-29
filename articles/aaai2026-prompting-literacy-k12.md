@@ -4,7 +4,7 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [ai-literacy, k-12, llm, ai-education, simulation, automated-assessment, student-experience, rag]
-research_method: [system development, quasi-experiment]
+research_method: [system development, experiment]
 audience: [teacher role, student experience]
 level: [k 12]
 

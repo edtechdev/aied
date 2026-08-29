@@ -4,7 +4,7 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, storytelling-in-education, motivation, self-determination-theory, student-engagement, creativity]
-research_method: [quasi-experiment]
+research_method: [experiment]
 category: [engagement]
 sources: ['raw/papers/fung-motibo-storytelling-robots-motivation-2026.md']
 confidence: medium

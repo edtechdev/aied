@@ -4,7 +4,7 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T04:48:25-04:00"
 type: article
 tags: [generative-ai, critical-thinking, writing-education, feedback, k-12, automated-assessment, scaffolding, ai-education]
-research_method: [experiment, classroom study]
+research_method: [experiment]
 level: [k 12]
 
 sources: ['raw/papers/2608.05177.md']

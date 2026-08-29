@@ -4,7 +4,7 @@ created: "2026-08-13T19:01:35-04:00"
 updated: "2026-08-13"
 type: article
 tags: [educational-robotics, k-12, higher-ed, teacher-role, inclusive-learning]
-research_method: [scoping review]
+research_method: [systematic review]
 audience: [teacher role]
 level: [k 12, higher ed]
 sources: ['raw/papers/10.1007_s44322-026-00072-1.md']

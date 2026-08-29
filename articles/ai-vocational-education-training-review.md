@@ -4,7 +4,7 @@ created: "2026-08-01T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [professional-training, intelligent-tutoring, generative-ai, adaptive-learning, simulation, regulation, constructivist]
-research_method: [efficacy study]
+research_method: [experiment]
 sources: ['raw/papers/caeai-ai-vet-review.md']
 confidence: high
 ---

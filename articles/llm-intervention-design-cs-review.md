@@ -4,7 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-26T15:34:14-04:00"
 type: article
 tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, prompt-engineering, higher-ed, computational-thinking]
-research_method: [efficacy study]
+research_method: [experiment]
 discipline: [cs education]
 level: [higher ed]
 category: [instructional design]

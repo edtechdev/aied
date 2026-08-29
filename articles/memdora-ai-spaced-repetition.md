@@ -4,7 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, adaptive-learning, mastery-learning, student-experience]
-research_method: [system development, evaluation]
+research_method: [system development]
 audience: [student experience]
 sources: ['raw/papers/2607.25096.md']
 confidence: high

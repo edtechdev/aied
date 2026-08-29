@@ -4,7 +4,7 @@ created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-25T08:00:00-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, stem-education, k-12, rct, learning-gains, intelligent-tutoring, scaffolding, student-experience]
-research_method: [rct, learning gains]
+research_method: [randomized controlled trial, learning analytics]
 discipline: [stem education]
 audience: [student experience]
 level: [k 12]

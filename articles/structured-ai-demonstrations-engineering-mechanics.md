@@ -4,7 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, learning-analytics]
-research_method: [efficacy study]
+research_method: [experiment]
 discipline: [stem education]
 audience: [student experience, teacher role]
 level: [higher ed]

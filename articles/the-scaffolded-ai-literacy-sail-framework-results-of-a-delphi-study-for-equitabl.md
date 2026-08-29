@@ -5,7 +5,7 @@ updated: "2026-08-13"
 type: article
 tags: [ai-literacy, curriculum-design, digital-divide, scaffolding, ai-education, equity-in-ai-education, icap-framework, intelligent-tutoring]
 audience: [teacher role]
-research_method: [delphi study]
+research_method: [delphi]
 category: [curriculum design, framework]
 sources: ['raw/papers/10.1016_j.caeai.2026.100584.md']
 confidence: high

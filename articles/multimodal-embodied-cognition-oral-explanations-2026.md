@@ -4,7 +4,7 @@ created: "2026-08-17T10:15:00-04:00"
 updated: "2026-08-17T11:15:00-04:00"
 type: article
 tags: [engineering-education, embodied-learning, multimodal, math-education, assessment-validity, llm, higher-ed, stem-education]
-research_method: [system development, quantitative]
+research_method: [system development, survey]
 discipline: [engineering education, math education, stem education]
 level: [higher ed]
 sources: ['raw/papers/multimodal-embodied-cognition-oral-explanations-2026.md']

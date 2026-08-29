@@ -5,7 +5,7 @@ updated: "2026-08-21T13:05:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, self-efficacy, self-regulated-learning, cognitive-offloading, student-engagement, higher-ed, help-seeking, motivation]
 audience: [student experience]
-research_method: [survey, quantitative]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/student-dependency-on-ai-literacy-self-efficacy-2026.md']
 confidence: medium

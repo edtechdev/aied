@@ -4,7 +4,7 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [generative-ai, stem-education, higher-ed, student-experience]
-research_method: [efficacy study]
+research_method: [experiment]
 discipline: [stem education]
 audience: [student experience]
 level: [higher ed]

@@ -4,7 +4,7 @@ created: "2026-08-19T17:12:00-04:00"
 updated: "2026-08-20T03:52:04-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, active-learning, rct, equity-in-ai-education]
-research_method: [learning gains, rct]
+research_method: [learning analytics, randomized controlled trial]
 level: [k 12]
 category: [assessment]
 sources: ['raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md']

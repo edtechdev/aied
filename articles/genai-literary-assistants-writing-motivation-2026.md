@@ -4,7 +4,7 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [writing-education, generative-ai, motivation, student-engagement, k-12, cognitive-offloading]
-research_method: [quasi-experiment, mixed methods]
+research_method: [experiment, mixed methods]
 discipline: [writing education]
 level: [k 12]
 

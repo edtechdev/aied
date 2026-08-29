@@ -4,7 +4,7 @@ created: "2026-08-24T12:36:00-04:00"
 updated: "2026-08-24T14:35:00-04:00"
 type: article
 tags: [language-learning, english-education, meta-analysis-systematic-review, generative-ai, k-12, higher-ed, simulation]
-research_method: [systematic review, meta analysis]
+research_method: [systematic review, meta-analysis]
 discipline: [language learning, english education]
 level: [k 12, higher ed]
 sources: ['raw/papers/liu-emerging-tech-tefl-review-2026.md']

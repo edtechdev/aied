@@ -4,7 +4,7 @@ created: "2026-08-20T08:40:00-04:00"
 updated: "2026-08-21T13:21:45-04:00"
 type: article
 tags: [generative-ai, writing-education, critical-thinking, ethics, academic-integrity, higher-ed]
-research_method: [mixed methods, thematic analysis]
+research_method: [mixed methods, interviews]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/benali-genai-academic-writing-2026.md']

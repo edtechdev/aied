@@ -4,7 +4,7 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-24T12:15:00-04:00"
 type: article
 tags: [llm, self-regulated-learning, language-learning, multilingual-learning, inclusive-learning, online-teaching-and-learning, higher-ed, generative-ai, global-south]
-research_method: [survey, quantitative]
+research_method: [survey]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/bilingual-llm-lecture-companion-srl-2026.md']

@@ -4,7 +4,7 @@ created: "2026-05-20T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [ai-literacy, student-experience, higher-ed, stem-education, cognitive-offloading, faculty-development, generative-ai, scaffolding]
-research_method: [efficacy study]
+research_method: [experiment]
 discipline: [stem education]
 audience: [student experience, faculty development]
 level: [higher ed]

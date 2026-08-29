@@ -4,7 +4,7 @@ created: "2026-08-25T07:42:00-04:00"
 updated: "2026-08-25T10:00:00-04:00"
 type: article
 tags: [remote-proctoring, ai-anxiety-and-stress, academic-integrity, social-emotional-learning, higher-ed, assessment, privacy, equity-in-ai-education]
-research_method: [survey, quantitative]
+research_method: [survey]
 level: [higher ed]
 category: [assessment]
 sources: ['raw/papers/conijn-fear-big-brother-proctored-exams-2022.md']

@@ -5,7 +5,7 @@ updated: "2026-08-15"
 type: article
 tags: [special-education, equity-in-ai-education, adaptive-learning, k-12, higher-ed, generative-ai, ai-literacy, rag, llm, visualization]
 audience: [research methods aied, teacher role]
-research_method: [system development, evaluation]
+research_method: [system development]
 level: [special education, k 12, higher ed]
 sources: ['raw/papers/2607.01214.md']
 confidence: high

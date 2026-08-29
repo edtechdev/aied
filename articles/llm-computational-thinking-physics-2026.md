@@ -4,7 +4,7 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-08-24T04:38:01-04:00"
 type: article
 tags: [llm, computational-thinking, physics-education, stem-education, assessment, higher-ed, automated-assessment, problem-solving]
-research_method: [quasi-experiment]
+research_method: [experiment]
 discipline: [physics education, stem education]
 level: [higher ed]
 category: [assessment]

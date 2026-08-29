@@ -4,7 +4,7 @@ created: "2026-08-19T17:30:00-04:00"
 updated: "2026-08-22T17:35:00-04:00"
 type: concept
 tags: [summative-assessment, assessment, authentic-assessment, academic-integrity, higher-ed, k-12, ai-ed-evaluation]
-research_method: [examination]
+research_method: [educational measurement]
 level: [higher ed, k 12]
 category: [assessment, evaluation]
 confidence: high

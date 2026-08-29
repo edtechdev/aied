@@ -4,7 +4,7 @@ created: "2026-06-17T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
-research_method: [experiment, quantitative]
+research_method: [experiment, survey]
 discipline: [writing education]
 audience: [student experience]
 level: [higher ed]

@@ -5,7 +5,7 @@ updated: "2026-08-24T12:00:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, equity-in-ai-education, adult-learning, higher-ed, scaffolding, rag, llm]
 audience: [student experience]
-research_method: [efficacy study]
+research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/2605.18143.md']
 confidence: high

@@ -4,7 +4,7 @@ created: "2026-08-26T08:15:00-04:00"
 updated: "2026-08-26T08:15:00-04:00"
 type: article
 tags: [activity-theory-aied, teacher-role, adult-learning, agentic-ai, generative-ai, self-determination-theory, k-12]
-research_method: [formative intervention]
+research_method: [design-based research]
 audience: [teacher role]
 level: [k 12]
 sources: ['raw/papers/2605.12934.md']

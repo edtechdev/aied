@@ -4,7 +4,7 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [prompt-engineering, llm, metacognition, cognitive-offloading, self-regulated-learning, generative-ai, instructional-design, human-ai-collaboration]
-research_method: [system development, simulation]
+research_method: [system development]
 category: [instructional design]
 sources: ['raw/papers/ye-arpg-real-time-coaching-llm-prompting-2026.md']
 confidence: high

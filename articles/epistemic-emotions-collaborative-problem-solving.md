@@ -4,7 +4,7 @@ created: "2026-07-28T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
 tags: [affective-computing, human-in-the-loop-ai, learning-analytics, affective-tutoring, llm, problem-solving]
-research_method: [network analysis, quantitative]
+research_method: [learning analytics, survey]
 sources: ['raw/papers/2607.23317.md']
 confidence: high
 ---

@@ -4,7 +4,7 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [agentic-ai, llm, instructional-design, edtech-platform, higher-ed, teacher-role, automated-assessment, faculty-development]
-research_method: [system development, evaluation]
+research_method: [system development]
 audience: [teacher support, faculty development]
 level: [higher ed]
 category: [instructional design]
