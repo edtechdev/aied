@@ -23,13 +23,13 @@ const key = pageKey(kind, slug);
   aria-pressed="false"
   title="Star this page"
 >
+  <span class="star-label">Favorite:</span>
   <svg class="star-icon" width="20" height="20" viewBox="0 0 24 24" aria-hidden="true">
     <path
       d="M12 2l2.9 6.26 6.6.72-4.9 4.55 1.35 6.47L12 16.9 6.05 20l1.35-6.47-4.9-4.55 6.6-.72L12 2z"
       fill="currentColor"
     />
   </svg>
-  <span class="star-label">Favorite:</span>
 </button>
 
 <style>
@@ -52,7 +52,7 @@ const key = pageKey(kind, slug);
   .star-btn[data-starred='true'] { color: #f59e0b; }
   .star-btn .star-icon { display: block; }
   .star-label {
-    margin-left: 0.35rem;
+    margin-right: 0.35rem;
     font-size: 0.8rem;
     color: var(--muted-color);
   }
