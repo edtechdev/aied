@@ -5,7 +5,6 @@ updated: "2026-08-24T04:56:00-04:00"
 type: article
 tags: [simulating-students, llm, student-modeling, cognitive-psychology, ai-ed-evaluation, generative-ai, adaptive-learning, ethics]
 research_method: [experiment]
-discipline: [epistemic state]
 category: [evaluation]
 sources: ['raw/papers/2601.05473.md']
 confidence: high
