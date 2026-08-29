@@ -6,6 +6,7 @@ import { getCollection } from 'astro:content';
 import { conceptIndex } from '../data/conceptIndex';
 import TableOfContents from '../components/TableOfContents.astro';
 import RecentActivity from '../components/RecentActivity.astro';
+import StarredPages from '../components/StarredPages.astro';
 
 const { title = 'AI Ed Wiki', description = 'AI in Education Wiki', hideHeaderSearch = false, toc = [] } = Astro.props;
 
@@ -628,6 +629,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
       <button class="nav-backdrop" data-nav-toggle type="button" aria-label="Close navigation"></button>
       <aside class="sidebar" data-nav-drawer aria-label="Concept navigation">
+        <StarredPages titles={conceptMap} />
         <div class="sidebar-heading">
           <a href="/aied/concepts/ai-education">AI in Education</a>
           <span class="sidebar-count">{indexedCount} concepts</span>
