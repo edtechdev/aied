@@ -316,7 +316,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`affective-computing`** — Affective Computing
 - **`affective-tutoring`** — Affective Tutoring
 - **`agency`** — Learner Agency
-- **`agentic-ai`** — Agentic AI in Education
+- **`agentic-ai`** — Agentic AI
 - **`ai-anxiety-and-stress`** — AI Anxiety and Stress
 - **`ai-ed-evaluation`** — AI Ed Evaluation
 - **`ai-education`** — AI in Education
