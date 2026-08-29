@@ -45,7 +45,9 @@ const key = pageKey(kind, slug);
     color: var(--muted-color);
     border-radius: 6px;
     vertical-align: middle;
-    transition: color 0.15s ease, transform 0.1s ease;
+    /* No color transition: the filled/unfilled star must snap instantly on
+       toggle, not fade (a 150ms fade reads as a lag on slower browsers). */
+    transition: transform 0.1s ease;
   }
   .star-btn:hover { color: #f59e0b; }
   .star-btn:active { transform: scale(0.92); }
