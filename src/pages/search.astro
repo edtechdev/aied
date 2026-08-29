@@ -133,6 +133,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     // Reorder the Level filter dropdown options by age: early childhood, K-12,
     // teacher training, higher ed, adult learning. PageFind only sorts by
     // default/alphabetical/count, so we reorder the rendered option elements.
+    // A re-entrancy guard prevents the DOM mutation from looping the observer.
     const LEVEL_ORDER = [
       "early childhood",
       "k 12",
@@ -142,27 +143,55 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       "adult learning",
     ];
     const rank = new Map(LEVEL_ORDER.map((v, i) => [v, i]));
+    let reordering = false;
     const reorderLevel = () => {
-      const dd = document.querySelector(
-        'pagefind-filter-dropdown[filter="level"]'
-      );
-      if (!dd) return;
-      const options = dd.querySelector(".pf-dropdown-options");
-      if (!options) return;
-      const items = Array.from(
-        options.querySelectorAll(".pf-dropdown-option:not(.pf-dropdown-option-loading)")
-      );
-      if (items.length < 2) return;
-      items.sort((a, b) => {
-        const ta = (a.querySelector(".pf-dropdown-option-label")?.textContent || "").trim().toLowerCase();
-        const tb = (b.querySelector(".pf-dropdown-option-label")?.textContent || "").trim().toLowerCase();
-        const ra = rank.get(ta) ?? 999;
-        const rb = rank.get(tb) ?? 999;
-        return ra - rb;
-      });
-      items.forEach((el) => options.appendChild(el));
+      if (reordering) return;
+      reordering = true;
+      try {
+        const dd = document.querySelector(
+          'pagefind-filter-dropdown[filter="level"]'
+        );
+        if (!dd) return;
+        const options = dd.querySelector(".pf-dropdown-options");
+        if (!options) return;
+        const items = Array.from(
+          options.querySelectorAll(".pf-dropdown-option")
+        );
+        // Skip while the options are still loading/skeleton.
+        if (items.some((el) => el.classList.contains("pf-dropdown-option-loading"))) return;
+        if (items.length < 2) return;
+        // Determine if the order is already correct to avoid needless DOM writes.
+        const current = items.map(
+          (el) =>
+            (el.querySelector(".pf-dropdown-option-label")?.textContent || "")
+              .trim()
+              .toLowerCase()
+        );
+        const desired = [...current].sort(
+          (a, b) => (rank.get(a) ?? 999) - (rank.get(b) ?? 999)
+        );
+        if (current.every((v, i) => v === desired[i])) return;
+        // Reorder once options are settled.
+        items.sort(
+          (a, b) =>
+            (rank.get(
+              (a.querySelector(".pf-dropdown-option-label")?.textContent || "")
+                .trim()
+                .toLowerCase()
+            ) ?? 999) -
+            (rank.get(
+              (b.querySelector(".pf-dropdown-option-label")?.textContent || "")
+                .trim()
+                .toLowerCase()
+            ) ?? 999)
+        );
+        items.forEach((el) => options.appendChild(el));
+      } finally {
+        reordering = false;
+      }
     };
-    // Reorder once options load, and again whenever they're re-rendered.
+    // Reorder whenever the dropdown's options change, with the guard preventing
+    // the DOM writes we make from re-triggering reorderLevel in a loop.
     const obs = new MutationObserver(reorderLevel);
     const attach = () => {
       const dd = document.querySelector('pagefind-filter-dropdown[filter="level"]');
