@@ -27,7 +27,22 @@ const connectedFaqs = (article.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
-const { title, tags, created, updated } = article.data;
+const { title, tags, created, updated, research_method, discipline, audience, level, category } = article.data;
+// Build PageFind filter facets from the structured metadata fields.
+// Each metadata field becomes a facet group; values render as
+// `field:value` pairs (PageFind splits multiple into the same group).
+const metaFields: { name: string; values: string[] | undefined }[] = [
+  { name: 'level', values: level },
+  { name: 'audience', values: audience },
+  { name: 'discipline', values: discipline },
+  { name: 'category', values: category },
+  { name: 'research_method', values: research_method },
+];
+const pagefindFilters = metaFields
+  .flatMap(({ name, values }) =>
+    (values || []).map((v) => `${name}:${v}`)
+  )
+  .join(', ');
 const createdDisplay = (created || '').split('T')[0];
 const updatedDisplay = (updated || created || '').split('T')[0];
 const body = article.body || '';
@@ -205,7 +220,7 @@ if (connectedFaqs.length > 0) {
     connectedConceptSlugs={connectedConceptSlugs}
     connectedFaqSlugs={connectedFaqs.map((f: any) => f.id.replace('.md', ''))}
   />
-  <article data-pagefind-filter="page_type:article">
+  <article data-pagefind-filter={[`page_type:article`, pagefindFilters].filter(Boolean).join(', ')}>
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">📄 Research Article</p>
       <h1>{title}</h1>
