@@ -129,12 +129,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </style>
 
 <script is:inline>
-  import("/aied/pagefind/pagefind-component-ui.js").then(() => {
-    // Sync the search term AND selected filters to the URL so searches can be
-    // bookmarked and shared. Uses ?q=<term>&f=<base64 JSON of filters>.
-    const { getInstanceManager } = window.PagefindComponents;
-    const instance = () => getInstanceManager().getInstance("default");
-
+  // Sync the search term AND selected filters to the URL so searches can be
+  // bookmarked and shared. Uses ?q=<term>&f=<base64 JSON of filters>.
+  // Runs on an interval (independent of the PageFind module load timing) so it
+  // reliably attaches once the components are registered.
+  (function () {
     const readParams = () => {
       const p = new URLSearchParams(window.location.search);
       let filters = {};
@@ -142,80 +141,58 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         const f = p.get("f");
         if (f) filters = JSON.parse(atob(f));
       } catch {}
-      return { q: p.get("q") || "", filters, hadParams: p.toString() !== "" };
+      return { q: p.get("q") || "", filters };
     };
 
     const writeParams = (q, filters) => {
       const p = new URLSearchParams();
       if (q) p.set("q", q);
-      const hasFilters = Object.keys(filters).some((k) => (filters[k] || []).length);
+      const hasFilters = Object.keys(filters || {}).some((k) => (filters[k] || []).length);
       if (hasFilters) p.set("f", btoa(JSON.stringify(filters)));
       const qs = p.toString();
       const url = qs ? window.location.pathname + "?" + qs : window.location.pathname;
       window.history.replaceState({}, "", url);
     };
 
-    const { q, filters, hadParams } = readParams();
+    const { q, filters } = readParams();
+    let attached = false;
+    let retry = 0;
 
-    // Restore the search from the URL once the input element exists. PageFind
-    // re-renders the input during init (faceted auto-search clears it), so we
-    // re-apply the value + dispatch input repeatedly until it sticks.
-    const restore = () => {
-      const input = document.querySelector("pagefind-input input");
-      if (!input) {
-        setTimeout(restore, 150);
-        return;
+    const attempt = () => {
+      const C = window.PagefindComponents;
+      if (!C || !C.getInstanceManager) { setTimeout(attempt, 200); return; }
+      let inst;
+      try { inst = C.getInstanceManager().getInstance("default"); } catch { inst = null; }
+      if (!inst) { setTimeout(attempt, 200); return; }
+
+      // Persist on every search — but never write an empty state.
+      if (!attached) {
+        attached = true;
+        inst.on("search", (term, f) => {
+          const ff = f || {};
+          const hasFilters = Object.keys(ff).some((k) => (ff[k] || []).length);
+          if (!term && !hasFilters) return;
+          writeParams(term, ff);
+        });
       }
-      if (q && input.value !== q) {
+
+      // Restore the query into the input; PageFind re-renders the input during
+      // init, so re-apply until it sticks (bounded).
+      const input = document.querySelector("pagefind-input input");
+      if (input && q && input.value !== q) {
         input.value = q;
         input.dispatchEvent(new Event("input", { bubbles: true }));
       }
-      // Apply any pre-selected filters via the instance once it's ready.
       if (Object.keys(filters).length) {
-        try {
-          const inst = instance();
-          if (inst) inst.triggerSearchWithFilters(q, filters);
-        } catch {}
+        try { inst.triggerSearchWithFilters(q, filters); } catch {}
       }
-      // Keep re-applying briefly until the input settles on the query.
-      window.__pfRetry = (window.__pfRetry || 0) + 1;
-      if (window.__pfRetry < 20 && document.querySelector("pagefind-input input")?.value !== q) {
-        setTimeout(restore, 300);
+      retry += 1;
+      if (retry < 30 && document.querySelector("pagefind-input input")?.value !== q) {
+        setTimeout(attempt, 300);
       } else {
-        window.__pfRetry = 0;
+        retry = 0;
       }
     };
-
-    // Persist state on every search, but never let an empty initial search
-    // (faceted mode's auto-run) strip a URL that came in with params, and
-    // never write an empty state that erases a shared/bookmarked URL.
-    let first = true;
-    const persist = () => {
-      const inst = instance();
-      if (!inst) return;
-      inst.on("search", (term, filters) => {
-        first = false;
-        const f = filters || {};
-        const hasFilters = Object.keys(f).some((k) => (f[k] || []).length);
-        if (!term && !hasFilters) return; // skip empty state
-        writeParams(term, f);
-      });
-    };
-
-    // The instance registers as components initialize; wait for it. Start with
-    // a small delay so window.PagefindComponents and the input are available.
-    const waitForInstance = () => {
-      try {
-        if (window.PagefindComponents && instance()) {
-          restore();
-          persist();
-        } else {
-          setTimeout(waitForInstance, 200);
-        }
-      } catch {
-        setTimeout(waitForInstance, 200);
-      }
-    };
-    setTimeout(waitForInstance, 300);
-  });
+    setTimeout(attempt, 300);
+  })();
 </script>
