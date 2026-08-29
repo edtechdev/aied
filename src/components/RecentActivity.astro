@@ -20,15 +20,18 @@ const { articles, concepts } = Astro.props;
 ---
 
 <style>
-  .recent-block { margin-bottom: 2rem; }
-  .recent-block h2 {
+  .recent-block { margin-bottom: 1rem; }
+  .recent-block summary {
     font-size: 0.78rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--muted-color);
     margin: 0 0 0.6rem 0;
+    cursor: pointer;
+    list-style: none;
   }
+  .recent-block summary::-webkit-details-marker { display: none; }
   .recent-list {
     list-style: none;
     margin: 0;
@@ -58,8 +61,8 @@ const { articles, concepts } = Astro.props;
   .recent-more a { font-size: 0.82rem; }
 </style>
 
-<section class="recent-block">
-  <h2>📄 Recently Added Articles</h2>
+<details class="recent-block" open>
+  <summary>📄 Recently Added Articles</summary>
   <ul class="recent-list">
     {articles.map(a => (
       <li>
@@ -69,10 +72,10 @@ const { articles, concepts } = Astro.props;
     ))}
   </ul>
   <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
-</section>
+</details>
 
-<section class="recent-block">
-  <h2>🏷️ Recently Updated Concepts</h2>
+<details class="recent-block" open>
+  <summary>🏷️ Recently Updated Concepts</summary>
   <ul class="recent-list">
     {concepts.map(c => (
       <li>
@@ -81,4 +84,4 @@ const { articles, concepts } = Astro.props;
       </li>
     ))}
   </ul>
-</section>
+</details>
