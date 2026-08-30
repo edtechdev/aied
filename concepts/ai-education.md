@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T03:30:00-04:00"
+updated: "2026-08-30T18:40:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -47,7 +47,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. These span what AI in education is (the umbrella itself, [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
+The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. These span what AI in education is (the umbrella itself, [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[computational-thinking|computational thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
 
 ## Learning and instruction
 
