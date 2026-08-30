@@ -130,21 +130,9 @@ for m in re.finditer(r"heading:\s*'(.*?)'.*?groups:\s*\[(.*?)\]\s*,\s*\}", ts, r
 # --- assemble markdown ---
 parts = []
 
-# Front / colophon
+# Home intro (the front matter / title + copyright info now live in the
+# dedicated Copyright page handled in build_epub() post-processing)
 today = datetime.date.today().strftime('%B %d, %Y')
-parts.append(f"""# AI in Education Knowledge Base
-
-**Edited by Doug Holton.**
-
-This volume is licensed under the **Creative Commons CC0 1.0 Universal
-(CC0) Public Domain Dedication** — no rights reserved. You may copy, modify,
-distribute, and use the content for any purpose without asking permission.
-
-*Generated {today} from the AI in Education Knowledge Base
-(https://edtechdev.github.io/aied/).*
-""")
-
-# Home intro
 parts.append("""# Introduction
 
 Welcome to the **AI in Education Knowledge Base** — a living, open knowledge base on artificial intelligence in education, built for educators, researchers, and developers who want to keep pace with a fast-moving field. Whether you teach in higher education or K-12, design courses and learning experiences, develop educational software, administer programs, or study teaching and learning, this knowledge base distills recent open-access research into concise, structured summaries you can read and apply quickly. The site is **generated and maintained by an AI agent**, and is updated regularly as new open-access research is published.
@@ -234,9 +222,10 @@ def build_epub():
         print('pandoc error:', r.stderr)
         return False
 
-    # Post-process: style the TOC (bold/larger sections + nested numbering),
-    # left-align it, and add a Back-to-Contents link at the top of each chapter.
-    import zipfile, shutil, re as _re
+    # Post-process: hard-code hierarchical TOC numbering, build a Copyright
+    # page (with CC0 image), rename the TOC title, and remove Back-to-Contents.
+    import zipfile, shutil, re as _re, base64
+
     css_rule = """
 /* ===== EPUB table of contents styling ===== */
 
@@ -254,48 +243,94 @@ nav#toc > ol > li > a {
   margin-top: 0.4em;
 }
 /* Second-level (group) labels: medium bold. */
-nav#toc > ol > li > ol > li > a {
-  font-weight: 600;
-}
-/* Third-level (concept) entries: regular weight, slightly indented. */
-
-/* Nested decimal numbering: 1 / 1.1 / 1.2 / 1.2.1 */
-nav#toc > ol { counter-reset: t1; padding-left: 0; }
-nav#toc > ol > li { counter-increment: t1; }
-nav#toc > ol > li > a::before { content: counter(t1) ".  "; font-weight: bold; }
-nav#toc > ol > li > ol { counter-reset: t2; padding-left: 1.2em; }
-nav#toc > ol > li > ol > li { counter-increment: t2; }
-nav#toc > ol > li > ol > li > a::before { content: counter(t1) "." counter(t2) ".  "; font-weight: bold; }
-nav#toc > ol > li > ol > li > ol { counter-reset: t3; padding-left: 1.2em; }
-nav#toc > ol > li > ol > li > ol > li { counter-increment: t3; }
-nav#toc > ol > li > ol > li > ol > li > a::before { content: counter(t1) "." counter(t2) "." counter(t3) ".  "; font-weight: bold; }
-
-/* Back-to-Contents link styling (injected into each chapter). */
-.back-to-contents {
-  display: inline-block;
-  margin-bottom: 1.2em;
-  padding: 0.3em 0.8em;
-  border: 1px solid #1a1a1a;
-  border-radius: 4px;
-  font-size: 0.85em;
-  text-decoration: none;
-}
-.back-to-contents:hover { background: #eee; }
+nav#toc > ol > li > ol > li > a { font-weight: 600; }
 """
+
+    def number_toc(nav_html):
+        """Inject hard-coded hierarchical numbers (1 / 1.1 / 1.2.1) into every
+        TOC entry's first <a>, based on nested <ol>/<li> structure."""
+        token_re = _re.compile(r'(<ol[^>]*>|</ol>|<li(?:\s[^>]*)?>|</li>|<a(?:\s[^>]*)?>)')
+        depth = 0
+        counts = []
+        pending_inject = None
+        out = []
+        last_end = 0
+        for m in token_re.finditer(nav_html):
+            out.append(nav_html[last_end:m.start()])
+            tok = m.group(0)
+            if tok.startswith('<ol'):
+                depth += 1
+                counts.append(0)
+            elif tok == '</ol>':
+                depth -= 1
+                counts.pop()
+            elif tok.startswith('<li'):
+                counts[depth - 1] += 1
+                pending_inject = '.'.join(str(c) for c in counts) + '. '
+            elif tok == '</li>':
+                pending_inject = None
+            elif tok.startswith('<a'):
+                gt = tok.find('>')
+                out.append(tok[:gt + 1])
+                if pending_inject is not None:
+                    out.append(pending_inject)
+                    pending_inject = None
+                last_end = m.end()
+                continue
+            out.append(tok)
+            last_end = m.end()
+        out.append(nav_html[last_end:])
+        return ''.join(out)
+
     tmp = OUT + '.tmp'
     with zipfile.ZipFile(OUT, 'r') as zin, zipfile.ZipFile(tmp, 'w', zipfile.ZIP_DEFLATED) as zout:
         for item in zin.infolist():
             data = zin.read(item.filename)
             if item.filename.endswith('.css'):
                 data += css_rule.encode('utf-8')
-            elif _re.match(r'EPUB/text/ch\d+\.xhtml$', item.filename):
-                # Inject a Back-to-Contents link right after <body ...>.
+            elif item.filename == 'EPUB/nav.xhtml':
                 text = data.decode('utf-8', errors='ignore')
-                back = ('<a class="back-to-contents" href="../nav.xhtml">\u2191 Back to Contents</a>')
-                m = _re.search(r'<body[^>]*>', text)
-                if m:
-                    text = text[:m.end()] + back + text[m.end():]
-                    data = text.encode('utf-8')
+                # Rename the TOC title to "Table of Contents".
+                text = _re.sub(r'<h1 id="toc-title">[^<]*</h1>',
+                               '<h1 id="toc-title">Table of Contents</h1>', text)
+                # Hard-code the hierarchical numbers into the TOC entries.
+                text = number_toc(text)
+                data = text.encode('utf-8')
+            elif item.filename == 'EPUB/text/title_page.xhtml':
+                # Turn the pandoc title page into a Copyright page with CC0 image.
+                cc0 = open(os.path.join(WIKI, 'public', 'cc0.png'), 'rb').read()
+                cc0_b64 = base64.b64encode(cc0).decode('ascii')
+                copyright_html = f"""<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Copyright</title>
+  <style>
+    body {{ font-family: Georgia, serif; margin: 3em 2em; }}
+    h1 {{ font-size: 1.6em; }}
+    .cc0 {{ margin-top: 1.5em; }}
+    p {{ margin: 0.8em 0; }}
+  </style>
+  <link rel="stylesheet" type="text/css" href="../styles/stylesheet1.css" />
+</head>
+<body epub:type="copyright-page">
+  <section epub:type="copyright-page">
+    <h1>Copyright</h1>
+    <p><strong>AI in Education Knowledge Base</strong></p>
+    <p>Edited by Doug Holton.</p>
+    <p>This volume is licensed under the <strong>Creative Commons CC0 1.0
+    Universal (CC0) Public Domain Dedication</strong> &mdash; no rights reserved.
+    You may copy, modify, distribute, and use the content for any purpose
+    without asking permission.</p>
+    <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="CC0 Public Domain" width="88" height="31" /></p>
+    <p><em>Generated {date_str} from the AI in Education Knowledge Base
+    (https://edtechdev.github.io/aied/).</em></p>
+  </section>
+</body>
+</html>"""
+                data = copyright_html.encode('utf-8')
+            # (no more Back-to-Contents injection into chapter files)
             zout.writestr(item, data)
     shutil.move(tmp, OUT)
     print(f"Built {OUT} ({os.path.getsize(OUT)} bytes)")
