@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-30T16:50:00-04:00"
+updated: "2026-08-30T18:00:00-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 audience: [learners]
@@ -9,16 +9,16 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
+> Metacognition — thinking about one's own thinking — is both a target of [[ai-education|AI education]] [[research-methods-aied|research]] (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-Metacognition in education refers to learners' awareness, monitoring, and regulation of their own cognitive processes:
+Metacognition in education refers to learners' awareness, monitoring, and [[regulation]] of their own cognitive processes:
 
 - **Metacognitive knowledge:** Understanding what one knows, what strategies are available, and when to deploy them
 - **Metacognitive regulation:** Planning, monitoring, and evaluating one's own learning in real time
 
 Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
-- **[[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]]** find that student motivation and interaction role shape metacognitive engagement with GenAI, linking metacognition to AI use.
+- **[[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]]** find that student motivation and interaction role shape metacognitive [[student-engagement|engagement]] with [[generative-ai|GenAI]], linking metacognition to AI use.
 
 ## How AI Tools Affect Metacognition
 
@@ -29,7 +29,7 @@ When AI completes reasoning tasks for students — solving math problems, writin
 Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
 - **Stadler et al. (2024):** General-purpose AI reduced cognitive load but produced **lower-quality reasoning** vs. traditional search, suggesting metacognitive engagement was displaced.
-- **Lehmann et al. (2025):** General AI for programming harmed understanding for low-prior-knowledge students — the students most in need of metacognitive scaffolding received answers instead.
+- **Lehmann et al. (2025):** General AI for programming harmed understanding for low-[[prior-knowledge]] students — the students most in need of metacognitive scaffolding received answers instead.
 
 ### The Augmentation Opportunity (Scheu et al., 2026)
 
@@ -37,7 +37,7 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
 - **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand
-- The **example-based course** in Scheu et al.'s chatbot increased **perceived competence** (a metacognitive self-evaluation) even when the LLM assistant alone did not
+- The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive self-evaluation) even when the [[llm]] assistant alone did not
 
 ## The Engagement–Motivation Distinction
 
@@ -71,13 +71,12 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 AI may alter the **metacognitive threshold** for deciding one knows enough to answer: [[ai-advice-suppresses-ikt-suspension-2026|Marcoccia et al. (2026)]] found that mere access to AI advice suppressed people's willingness to suspend judgment under uncertainty, even with wrong advice and accuracy incentives — an effect that survived unsolicited AI output and monetary stakes.
 
-Proactive agentic AI can displace the learner's own metacognitive loop: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] argue that when agents pre-fetch, initiate, and self-correct, the agent's planning, monitoring, and evaluation replace the learner's, removing the retrieval practice and self-monitoring that desirable difficulties and metacognitive training depend on.
+Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive loop: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] argue that when agents pre-fetch, initiate, and self-correct, the agent's planning, monitoring, and evaluation replace the learner's, removing the retrieval practice and self-monitoring that [[desirable-difficulties|desirable difficulties]] and metacognitive training depend on.
 
-- **Mistake-based pedagogy as metacognitive training:** [[pedagogy-ai-mistakes|Hosseini (2026)]] shows that deliberately exposing students to AI-generated errors in a database design course activates metacognitive monitoring — students inspected outputs, identified errors, and revised designs rather than accepting AI output at face value. Self-reported AI literacy correlated weakly and negatively with objective competency (*r*=−0.39), a calibration gap the critique-refinement cycle is designed to narrow.
-- **Productive failure engages metacognitive monitoring.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show productive-failure-based learning activates reflection on one's own attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks require learners to diagnose and correct their own errors — a metacognitive activity where AI gives clues rather than answers.
-[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that metacognitive regulation (self-regulated writing) attenuates the negative association between deep cognitive offloading and independent no-AI outcomes in GenAI-assisted writing (interaction B = 0.22), but does not eliminate it — a bounded-support condition pairing delegation limits with compulsory reflection about how AI suggestions were accepted/rejected produced the strongest independent performance.
-
-[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] shows explanation-seeking prompts (depth) in LLM interaction predict task quality but not immediate recall, interpreting the dissociation via elaboration (comprehension) vs. retrieval practice (consolidation) — and suggesting explanation-seeking correlates with metacognitive monitoring, though retrieval demands must be added for durable retention.
+- **Mistake-based [[pedagogy]] as metacognitive training:** [[pedagogy-ai-mistakes|Hosseini (2026)]] shows that deliberately exposing students to AI-generated errors in a database design course activates metacognitive monitoring — students inspected outputs, identified errors, and revised designs rather than accepting AI output at face value. Self-reported [[ai-literacy|AI literacy]] correlated weakly and negatively with objective competency (*r*=−0.39), a calibration gap the critique-refinement cycle is designed to narrow.
+- **[[productive-failure|Productive failure]] engages metacognitive monitoring.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show productive-failure-based learning activates reflection on one's own attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks require learners to diagnose and correct their own errors — a metacognitive activity where AI gives clues rather than answers.
+- **Self-regulation buffers offloading harm but cannot cancel it.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that metacognitive regulation (self-regulated writing) attenuates the negative association between deep [[cognitive-offloading|cognitive offloading]] and independent no-AI outcomes in GenAI-assisted writing (interaction B = 0.22), but does not eliminate it — a bounded-support condition pairing delegation limits with compulsory reflection about how AI suggestions were accepted/rejected produced the strongest independent performance.
+- **Explanation-seeking depth predicts task quality, not recall.** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] shows explanation-seeking prompts (depth) in LLM interaction predict task quality but not immediate recall, interpreting the dissociation via elaboration (comprehension) vs. retrieval practice (consolidation) — and suggesting explanation-seeking correlates with metacognitive monitoring, though retrieval demands must be added for durable retention.
 
 ## Connected Concepts
 
