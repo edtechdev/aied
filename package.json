@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build && node generate-sw.mjs",
+    "build": "python3 tooling/build-epub.py && astro check && astro build && node generate-sw.mjs",
     "preview": "astro preview"
   },
   "dependencies": {
