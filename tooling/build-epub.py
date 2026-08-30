@@ -195,10 +195,13 @@ parts.append("""# Frequently Asked Questions
 
 This section answers common questions about **AI in education** — what the research says about how AI affects teaching and learning, and how educators, instructors, and instructional designers can put that evidence into practice. Each answer distills findings from the research summarized across this knowledge base, connecting the question to the relevant concepts and articles for deeper reading.
 
-The questions are grouped by the kinds of decisions people actually face: designing AI into the learning experience, developing educational AI software, incorporating AI literacy, redesigning assessment, reducing misuse, evaluating AI-related interventions, and the competencies faculty need. If you are new to the field, the FAQ on the top ten findings is a good place to start.
-
 """)
-for path in sorted(glob.glob(os.path.join(FAQS_DIR, '*.md'))):
+def _faq_created(path):
+    s = open(path, encoding='utf-8').read()
+    m = re.search(r'^created:\s*["\']?([^"\'\n]+)', s, re.M)
+    return m.group(1).strip() if m else os.path.basename(path)
+faq_paths = sorted(glob.glob(os.path.join(FAQS_DIR, '*.md')), key=_faq_created)
+for path in faq_paths:
     slug = os.path.basename(path)[:-3]
     title, body = process_md(path, slug, 3)  # FAQ at H3
     parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
