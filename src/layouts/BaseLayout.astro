@@ -192,7 +192,13 @@ const recentConceptItems = recentConcepts.map(c => ({
     header {
       background: var(--header-bg);
       border-bottom: 1px solid var(--primary);
-      padding: 0.75rem 0;
+      padding: 0.5rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+    @media (min-width: 1024px) {
+      header { padding: 0.4rem 0; }
     }
     header .container {
       display: flex;
