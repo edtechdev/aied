@@ -16,6 +16,8 @@ jobs:
           node-version: 22
           cache: 'npm'
       - run: npm ci
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
       - run: npm run build
       - name: Verify output
         run: |
@@ -26,3 +28,5 @@ jobs:
           # PWA: manifest + service worker must be present
           test -f dist/manifest.webmanifest
           test -f dist/sw.js
+          # EPUB is regenerated on every build and served from /aied/aied.epub
+          test -f dist/aied.epub
