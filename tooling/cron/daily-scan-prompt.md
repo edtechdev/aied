@@ -76,6 +76,7 @@ For each new relevant paper:
 9. **Build and deploy the Astro site:**
    ```bash
    cd [YOUR_WIKI_PATH]
+   python3 tooling/build-epub.py # regenerate public/aied.epub + public/aied.pdf (offline versions)
    npm run build        # builds dist/ with pagefind search + sitemap
    git add -A
    git commit -m "scan: [TODAY] — N new papers on [TOPIC SUMMARY]"
