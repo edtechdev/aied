@@ -1,8 +1,8 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
-connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
+updated: "2026-08-29T20:37:39-04:00"
+connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor]
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
 level: [k 12]
