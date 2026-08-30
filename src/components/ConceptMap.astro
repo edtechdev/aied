@@ -64,12 +64,12 @@ function labelFont(label: string): number {
       Academic Integrity, Technologies, Evaluation, and Research. Select any node to open its page.
     </desc>
 
-    <!-- background card matching the site's dark theme -->
-    <rect x="0" y="0" width="900" height="750" rx="16" fill="#0d1418" />
+    <!-- background card matching the site's theme -->
+    <rect x="0" y="0" width="900" height="750" rx="16" fill="var(--cmap-bg)" />
 
     <!-- hub spokes: center to each node -->
     {spokes.map((l) => (
-      <line x1={l.x1} y1={l.y1} x2={l.x2} y2={l.y2} stroke="#2c3a45" stroke-width="2" />
+      <line x1={l.x1} y1={l.y1} x2={l.x2} y2={l.y2} stroke="var(--cmap-spoke)" stroke-width="2" />
     ))}
 
     <!-- center node (clickable) -->
@@ -106,6 +106,12 @@ function labelFont(label: string): number {
   .concept-map-wrap {
     margin: 0 auto 1.75rem auto;
     max-width: 900px;
+    --cmap-bg: #0d1418;
+    --cmap-spoke: #2c3a45;
+  }
+  :root[data-theme=light] .concept-map-wrap {
+    --cmap-bg: #ffffff;
+    --cmap-spoke: #d3dbe1;
   }
   .concept-map {
     display: block;
@@ -113,7 +119,7 @@ function labelFont(label: string): number {
     height: auto;
     border-radius: 16px;
     border: 1px solid var(--muted-border-color);
-    background: #0d1418;
+    background: var(--cmap-bg);
   }
   .concept-map a { cursor: pointer; }
   .concept-map .concept-map-node { transition: opacity 0.15s ease; }
@@ -132,7 +138,7 @@ function labelFont(label: string): number {
     padding: 1rem;
     margin: 0 auto 1.75rem auto;
     max-width: 520px;
-    background: #0d1418;
+    background: var(--cmap-bg);
     border: 1px solid var(--muted-border-color);
     border-radius: 16px;
     justify-content: center;

@@ -273,6 +273,36 @@ const recentConceptItems = recentConcepts.map(c => ({
       background: color-mix(in srgb, var(--primary) 10%, transparent);
       outline: none;
     }
+    /* The theme toggle is a <button> (not an <a>), so strip Pico's default
+       button sizing/typography and match the sibling header-icon anchors. */
+    button.theme-toggle,
+    button.theme-toggle:not([role]) {
+      width: 2.4rem;
+      height: 2.4rem;
+      padding: 0;
+      margin: 0;
+      border-radius: 8px;
+      border: 1px solid var(--muted-border-color);
+      background: transparent;
+      color: var(--muted-color);
+      font: inherit;
+      line-height: 1;
+      box-shadow: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      flex-shrink: 0;
+    }
+    button.theme-toggle:hover,
+    button.theme-toggle:focus-visible {
+      color: var(--primary);
+      border-color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 10%, transparent);
+      outline: none;
+      box-shadow: none;
+    }
     header a { color: var(--header-text, #ffffff); text-decoration: none; }
     .brand-link {
       display: inline-flex;
