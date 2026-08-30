@@ -1,6 +1,7 @@
 import { markdownToHtml, defineHastPlugin } from 'satteri';
 import Slugger from 'github-slugger';
 import katex from 'katex';
+import { CONCEPT_REDIRECTS } from '../data/conceptRedirects';
 
 export interface Heading {
   text: string;
@@ -69,7 +70,11 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
   // feature emits plain `<a href="slug">` nodes indistinguishable from normal
   // links, so we resolve routing + smart labels here instead.
   md = md.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, p, label) => {
-    const page = p.replace(/\.md$/, '').trim();
+    // Resolve merged/redirect concept slugs to their canonical destination so
+    // internal links point straight at the real page (avoids the bare
+    // meta-refresh redirect page, which causes a white flash on click).
+    const raw = p.replace(/\.md$/, '').trim();
+    const page = CONCEPT_REDIRECTS[raw] || raw;
     const text2 = label || smartTitle(page.replace(/-/g, ' '));
     let base = '/aied/concepts';
     if (articleSlugs.has(page)) base = '/aied/articles';
