@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-30T16:50:00-04:00"
 type: concept
 tags: [cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 audience: [learners]
@@ -50,6 +50,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 
 - **Offloading is value-based decision-making, and some students are more vulnerable than others.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in *Learning Disability Quarterly*, synthesize cognitive science, [[special-education|special education]], and educational technology to model GenAI offloading as a cost–benefit decision shaped by performance goals, task difficulty, academic self-efficacy, and perceptions of the tool. They argue that **students with learning disabilities (SWLDs)** are especially vulnerable to suboptimal offloading — because heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI make premature or excessive delegation more likely. GenAI is framed as a **compensatory aid or shortcut depending on how offloading decisions interact with learner profiles and [[instructional-design|instructional design]]**, with instructional [[guardrails]] the key moderating factor (teach metacognitive self-regulation, build [[ai-literacy]] to calibrate tool trust, sequence mastery experiences, and assess process not just product). This extends offloading's equity dimension: the same tool that reduces barriers to access can, if unguarded, substitute for the very practice SWLDs need most.
 - **The "thinking less vs. learning differently" question is conditional.** [[nesnin-cognitive-offloading-ai-students-2026|Nesnin et al. (2026)]] offer a broader analytical review concluding that AI is **not necessarily making students think less but transforming how they learn** — the outcome depends on use. AI that clarifies, verifies, and guides enhances learning; AI that replaces independent thinking yields passive dependence. This converges with the knowledge base's pervasive "scaffold vs. substitute" boundary and the conditional view of offloading's harm.
+
+- **Offloading is layer-sensitive: the depth of delegation matters, not just its occurrence.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] introduces a layer-sensitive account for [[writing-education|academic writing]] — surface (grammar/vocabulary), structural (outline/sequencing), idea (claims/content), and reasoning (warrants/counterarguments/argumentative logic). In an eight-week quasi-experiment, open AI collaboration produced the highest *supported* writing but the lowest independent no-AI outcomes, with deeper offloading layers carrying the strongest negative association with independent [[higher-ed|higher-education]] higher-order thinking (reasoning offloading indirect ab = −0.34 vs. surface −0.08). [[self-regulated-learning|Self-regulated writing]] attenuated but did not eliminate the harm. This refines the scaffold-vs-substitute boundary: some layers of delegation scaffold, while deeper layers substitute for the cognition that builds [[critical-thinking|critical thinking]].
 
 ## Over-reliance: when offloading becomes harmful
 
@@ -106,6 +108,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[nesnin-cognitive-offloading-ai-students-2026]] — Are students thinking less or learning differently?

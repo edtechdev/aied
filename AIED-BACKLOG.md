@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-08-30
-**Total backlog:** 98 articles
+**Total backlog:** 92 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -71,10 +71,6 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 - [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://www.sciencedirect.com/science/article/pii/S2666920X26000822) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
 - [Generative AI in scenario-based healthcare education: A systematic review of applications, validation practices, and pedagogical integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001165) — [DOI: 10.1016/j.caeai.2026.100654](https://doi.org/10.1016/j.caeai.2026.100654)
 
-- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in astronomical image understanding](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673)
-- [A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw](https://www.sciencedirect.com/science/article/pii/S2666920X26001153) — [DOI: 10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653)
-- [Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers](https://www.sciencedirect.com/science/article/pii/S2666920X26001232) — [DOI: 10.1016/j.caeai.2026.100661](https://doi.org/10.1016/j.caeai.2026.100661)
-
 ## Computers and Education Open (CEAO)
 
 - [Ubuntu-Ẹ̀kọ́ framework: A four-pillared critical-cultural-contextual-communal model for cultivating, educating and enhancing an AI-ready African workforce](https://www.sciencedirect.com/science/article/pii/S2666557326000431) — [DOI: 10.1016/j.caeo.2026.100372](https://doi.org/10.1016/j.caeo.2026.100372)
@@ -107,16 +103,12 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 - [Junior high school student perspectives on the use of ChatGPT in music education](https://www.sciencedirect.com/science/article/pii/S2666557326000583) — [DOI: 10.1016/j.caeo.2026.100387](https://doi.org/10.1016/j.caeo.2026.100387)
 - [Temporal dynamics of online learning interactions: A learning analytics study within the CoI framework](https://www.sciencedirect.com/science/article/pii/S2666557326000698) — [DOI: 10.1016/j.caeo.2026.100398](https://doi.org/10.1016/j.caeo.2026.100398)
 
-- [Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics](https://www.sciencedirect.com/science/article/pii/S2666557326000911) — [DOI: 10.1016/j.caeo.2026.100420](https://doi.org/10.1016/j.caeo.2026.100420)
-
 ## British Journal of Educational Technology (BJET)
 
 _BJET articles are not open access and have been removed from the backlog (2026-08-30)._
 
 ## International Journal of Educational Technology in Higher Education (IJETHE)
 
-- [From learning analytics to educational interventions: enhancing decision-making and learning design](https://link.springer.com/article/10.1186/s41239-026-00620-x) — [DOI: 10.1186/s41239-026-00620-x](https://doi.org/10.1186/s41239-026-00620-x)
-- [What students ask matters: LLM interaction depth, task quality, and immediate recall in higher education](https://link.springer.com/article/10.1186/s41239-026-00617-6) — [DOI: 10.1186/s41239-026-00617-6](https://doi.org/10.1186/s41239-026-00617-6)
 - [Knowledge-augmented form-filling agent for higher education services](https://link.springer.com/article/10.1186/s41239-026-00612-x) — [DOI: 10.1186/s41239-026-00612-x](https://doi.org/10.1186/s41239-026-00612-x)
 - [Shaping responsible GenAI use in research through AI literacy-oriented guidelines: insights from postgraduate students](https://link.springer.com/article/10.1186/s41239-026-00609-6) — [DOI: 10.1186/s41239-026-00609-6](https://doi.org/10.1186/s41239-026-00609-6)
 - [Evaluation indicator system for AI certificate programs](https://link.springer.com/article/10.1186/s41239-026-00604-x) — [DOI: 10.1186/s41239-026-00604-x](https://doi.org/10.1186/s41239-026-00604-x)

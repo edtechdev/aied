@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-30T16:30:00-04:00"
 type: concept
 tags: [feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 connected_faqs: [developing-ai-tutor]
@@ -88,6 +88,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI

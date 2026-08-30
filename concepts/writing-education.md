@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T14:20:00-04:00"
+updated: "2026-08-30T16:30:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
@@ -45,6 +45,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - **Guard the cognitive work of writing.** Watch for [[cognitive-offloading|over-reliance]] that bypasses planning, revision, and self-assessment; use AI at chosen stages ([[ai-writing-support-stage-ownership-2026|stage-based ownership]]) to protect student agency.
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] provides a layer-sensitive account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing, showing that delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and higher-order thinking than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
+
 ## Connected Concepts
 
 - [[automated-essay-scoring]]
@@ -67,6 +69,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[english-education]]
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[benali-genai-academic-writing-2026]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)

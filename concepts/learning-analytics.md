@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-30T16:50:00-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, student-engagement, ai-ed-evaluation, feedback]
 category: [engagement, evaluation]
@@ -37,6 +37,9 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 - **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
+- **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: institutional strategic orientation, pedagogical & other research foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. Trustworthiness (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
+- **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to learning outcomes: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
+
 ### Connections
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
@@ -57,6 +60,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment

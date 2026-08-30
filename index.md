@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-30 | **Total pages:** 1129
+**Last updated:** 2026-08-30 | **Total pages:** 1132
 ---
 
 ## Concepts
@@ -622,6 +622,7 @@
 - [[lak2026-hint-button-unproductive-use]] — Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems
 - [[language-learning]] — Language Learning
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-Sensitive Cognitive Offloading in Generative AI-Assisted Writing: Supported Performance and Independent No-AI Outcomes
 - [[league-ethical-governance-student-data-2026]] — Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics
 - [[learn-framework-responsible-genai-pbl-2026]] — The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University
@@ -629,6 +630,7 @@
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
 - [[learner-identity]] — Learner Identity
 - [[learning-analytics]] — Learning Analytics
+- [[learning-analytics-to-educational-interventions-2026]] — From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design
 - [[learning-behavior-background-advantage-ai-ed]] — Learning behavior accounts for background-related advantage in AI-assisted education
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
 - [[learning-by-teaching]] — Learning by Teaching
@@ -684,6 +686,7 @@
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
 - [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
 - [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
+- [[llm-interaction-depth-task-quality-recall-2026]] — What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 - [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
