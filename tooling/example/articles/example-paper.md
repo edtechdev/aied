@@ -3,9 +3,12 @@ title: "Example Paper: A Guide to Getting Started"
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article
-tags: [getting-started, example]
+tags: [concept-slug-1, concept-slug-2]  # MUST be real concept slugs (see SCHEMA.md)
 sources: [raw/papers/0000.00000.md]
 confidence: medium
+research_method: [survey, systematic review]  # optional
+audience: [instructors, learners, researchers]  # optional
+level: [higher ed, k 12]  # optional
 ---
 
 > **Synthesis:** This example article page demonstrates the structure and conventions used throughout the wiki. The blockquote summary captures the paper's key finding in 2–4 sentences. Article pages are for individual papers; broader topics that synthesize multiple papers belong on concept pages.

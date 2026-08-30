@@ -3,7 +3,7 @@ title: Example Concept
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: concept
-tags: [getting-started, example]
+tags: [concept-slug-1, concept-slug-2]  # MUST be real concept slugs (see SCHEMA.md)
 confidence: medium
 ---
 
