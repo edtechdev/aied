@@ -26,7 +26,7 @@ confidence: high
 
 This study provides direct field evidence for [[student-ai-interaction]] and [[cognitive-offloading]] in secondary [[k-12|STEM education]]: even when students report using AI as a scaffold rather than a substitute, the *evaluation gap* means the risk of procedural dependency is real and largely invisible to students. It reframes the governance debate — from restrictive bans (which face reverse-causality reporting biases and drive clandestine use) toward a framework that formally integrates operational and epistemic workflow competencies.
 
-For [[educational-policy-ai|policy]] and course design, the finding that subject-specific environments (not school-wide policy) shape adoption argues for *subject-sensitive guidance* that ensures AI enhances rather than displaces disciplinary rigor. The call to integrate [[ai-literacy]] instruction that strengthens cross-verification and evaluation skills connects directly to the wiki's AI-literacy and [[reducing-ai-misuse]] threads.
+For [[educational-policy-ai|policy]] and course design, the finding that subject-specific environments (not school-wide policy) shape adoption argues for *subject-sensitive guidance* that ensures AI enhances rather than displaces disciplinary rigor. The call to integrate [[ai-literacy]] instruction that strengthens cross-verification and evaluation skills connects directly to the knowledge base's AI-literacy and [[reducing-ai-misuse]] threads.
 
 ## Connected Concepts
 

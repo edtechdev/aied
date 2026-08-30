@@ -14,7 +14,7 @@ confidence: high
 
 ## From distributed cognition to human-AI collaboration
 
-The paper extends [[cognitive-offloading|distributed-cognition theory]] (Hutchins) beyond human teams into the human-AI context. Rather than treating students' use of generative AI as a monolithic behavior, it asks how cognitive work is *distributed* and *regulated* between human and AI collaborators turn-by-turn. This connects directly to the wiki's core theme of [[human-ai-collaboration]] and to [[collaborative-learning]] research on AI as a partner or mediator. Because generative AI is highly reactive to user input, the study argues, the quality of collaboration depends on how students allocate and offload cognition and whether they maintain [[metacognition|metacognitive]] oversight of the process.
+The paper extends [[cognitive-offloading|distributed-cognition theory]] (Hutchins) beyond human teams into the human-AI context. Rather than treating students' use of generative AI as a monolithic behavior, it asks how cognitive work is *distributed* and *regulated* between human and AI collaborators turn-by-turn. This connects directly to the knowledge base's core theme of [[human-ai-collaboration]] and to [[collaborative-learning]] research on AI as a partner or mediator. Because generative AI is highly reactive to user input, the study argues, the quality of collaboration depends on how students allocate and offload cognition and whether they maintain [[metacognition|metacognitive]] oversight of the process.
 
 ## Three modes of human-AI collaboration
 

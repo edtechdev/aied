@@ -19,7 +19,7 @@ The essay's starting point is a conceptual gap in how education discusses genera
 - **AI as a tool** underestimates its interactional influence. Because GenAI generates contingent, context-sensitive responses, it does not behave like a passive instrument; it actively shapes the trajectory of the interaction — explaining, critiquing, questioning, suggesting, and revising in ways no previous educational technology did.
 - **AI as a collaborator** risks attributing intentionality, accountability, and community membership that AI systems do not possess. A collaborator is accountable to shared norms, occupies a position in a community of practice, and shares a history; an [[llm|LLM]] has none of these — its apparent participation emerges from probabilistic language generation rather than intentional engagement.
 
-This mirrors the wiki's ongoing debate between treating AI as a neutral tool versus as a quasi-partner in [[human-ai-collaboration|human–AI collaboration]] — and the paper offers a theoretically rigorous middle path.
+This mirrors the knowledge base's ongoing debate between treating AI as a neutral tool versus as a quasi-partner in [[human-ai-collaboration|human–AI collaboration]] — and the paper offers a theoretically rigorous middle path.
 
 ## The mediational agent concept
 
@@ -53,7 +53,7 @@ The concept redirects research attention from "does AI improve outcomes or produ
 
 ## Implications
 
-The mediational-agent framing offers a principled theoretical vocabulary for discussions that otherwise oscillate between techno-optimism (AI as tool) and alarmism (AI as deceptive collaborator). It is a significant conceptual contribution to the [[learning-theories]] and [[sociocultural-learning|sociocultural]] literature in AI education, aligning with posthumanist critiques while ultimately prioritizing human meaning-making and responsibility. For educators, it argues that the object of design should be the *habits of participation* learners develop, not just the tool's capabilities — a framing that complements the "scaffold, do not substitute" principle and the wiki's broader concern with preserving human agency and judgment in AI-mediated learning. The concept also enriches [[framing-ai-use-for-students]] by grounding *why* a human-first framing of AI matters theoretically, and connects to [[ai-sycophancy]] via the risk of non-accountable persuasive outputs.
+The mediational-agent framing offers a principled theoretical vocabulary for discussions that otherwise oscillate between techno-optimism (AI as tool) and alarmism (AI as deceptive collaborator). It is a significant conceptual contribution to the [[learning-theories]] and [[sociocultural-learning|sociocultural]] literature in AI education, aligning with posthumanist critiques while ultimately prioritizing human meaning-making and responsibility. For educators, it argues that the object of design should be the *habits of participation* learners develop, not just the tool's capabilities — a framing that complements the "scaffold, do not substitute" principle and the knowledge base's broader concern with preserving human agency and judgment in AI-mediated learning. The concept also enriches [[framing-ai-use-for-students]] by grounding *why* a human-first framing of AI matters theoretically, and connects to [[ai-sycophancy]] via the risk of non-accountable persuasive outputs.
 
 ## Connected Concepts
 

@@ -14,11 +14,11 @@ Self-directed learning is closely related to — but distinct from — [[self-re
 
 ## How generative AI reshapes self-directed learning
 
-The wiki's research documents both sides of the GenAI–SDL relationship.
+The knowledge base's research documents both sides of the GenAI–SDL relationship.
 
 - **AI can support SDL.** [[ai-lifelong-learning-policy|AI and lifelong learning]] and [[self-directed-growth-generative-ai-learning-analytics|self-directed growth with GenAI + learning analytics]] show that AI tools can scaffold independent inquiry, provide on-demand resources, and personalize learning paths in ways that strengthen learner autonomy. [[genai-educational-outcomes-meta-analysis|Meta-analytic evidence]] on generative AI educational outcomes and [[conversational-ai-informal-learning|conversational AI in informal learning]] suggest positive potential when AI is used as a resource the learner directs.
 
-- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the wiki.
+- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that the **thoughtless use of GenAI** — adopting AI outputs without critical evaluation — significantly harms undergraduates' SDL both directly and through erosion of [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk documented in the knowledge base.
 
 - **Cognitive offloading and delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] and [[learning-by-chatting-genai-impact|learning by chatting with GenAI]] examine how learners may delegate cognitive work to AI in ways that bypass the effortful processing SDL requires — a failure mode of otherwise autonomy-supportive tools. [[critical-thinking-genai-scaffolding|Scaffolding critical thinking with GenAI]] and [[test-driven-ai-assisted-learning|test-driven AI-assisted learning]] model more productive designs.
 

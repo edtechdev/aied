@@ -44,15 +44,15 @@ Overuse of cognitive offloading may impair intrinsic abilities. Externalization 
 
 ## Substitutive vs. Duplicative Offloading
 
-A key distinction with direct educational stakes: offloading can be **substitutive** (completely replacing internal processing with external aids) or **duplicative** (supplementing internal processing with external support). When external stores become unavailable, substitutive offloaders show severe performance decline, while duplicative offloaders maintain accuracy through successful internal encoding. This parallels the wiki's "coach vs. crutch" boundary: offloading that scaffolds preserves or boosts skill; offloading that substitutes risks decay.
+A key distinction with direct educational stakes: offloading can be **substitutive** (completely replacing internal processing with external aids) or **duplicative** (supplementing internal processing with external support). When external stores become unavailable, substitutive offloaders show severe performance decline, while duplicative offloaders maintain accuracy through successful internal encoding. This parallels the knowledge base's "coach vs. crutch" boundary: offloading that scaffolds preserves or boosts skill; offloading that substitutes risks decay.
 
 ## Educational Implications and Interventions
 
 Metacognitive interventions (mindfulness, feedback, the ARDESOS-DIAPROVE problem-based learning program) enhance students' self-monitoring and regulation, helping them recognize when offloading is needed and manage learning processes. Educators can encourage reflection and discussion, provide specific offloading strategy training, and offer personalized feedback. The review emphasizes measuring metacognitive sensitivity (meta-d'), efficiency, and bias via signal detection frameworks to move beyond simple confidence metrics — providing tools for educational evaluation and personalized [[instructional-design|instructional design]]. This gives [[ai-literacy|AI literacy]] educators a theoretically grounded basis for teaching students *when* to offload to AI tools and when to do the cognitive work themselves.
 
-## Connections to the Wiki
+## Connections to the Knowledge Base
 
-This review strengthens the theoretical foundation of the wiki's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[cognitive-offloading|Over-Reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around [[generative-ai|generative AI]] tools.
+This review strengthens the theoretical foundation of the knowledge base's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[cognitive-offloading|Over-Reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around [[generative-ai|generative AI]] tools.
 
 ## Connected Concepts
 

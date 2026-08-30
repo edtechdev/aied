@@ -46,7 +46,7 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 - The chatbot cannot provide the relational support of a human tutor
 - Some students may get stuck in Socratic loops without resolution
 
-## Research in the wiki
+## Research in the knowledge base
 
 The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provides empirical evidence that the Socratic method can be operationalized through generative AI at scale, serving simultaneously as a teaching tool and data-collection instrument for [[learning-analytics]]. Unlike rule-based Socratic systems of the past, LLM-based approaches can adapt question sequences dynamically based on student responses.
 

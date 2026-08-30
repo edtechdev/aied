@@ -28,7 +28,7 @@ Unlike traditional chatbot use for direct error correction (which positions lear
 
 The underlying, language-agnostic principles are **error elicitation, clue-based feedback, and guided reasoning**. The authors position generative AI as a *formative learning partner* rather than an "AI as corrector," whose effectiveness depends on the interaction of proficiency, task design, and the alignment of scaffolding with cognitive demands.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
 This paper is an empirical example of error-driven, autonomy-supporting AI pedagogy. It connects [[productive-failure]] and learning-from-mistakes to [[language-learning]] and [[generative-ai]], showing how AI can scaffold learners to diagnose and correct their own errors (clue-before-correction) rather than passively receive fixes. It connects to [[metacognition]] (reflective engagement), [[self-regulated-learning]] (autonomy), [[cognitive-offloading|Cognitive Load Theory]], and [[feedback]] (formative, elaborative).
 

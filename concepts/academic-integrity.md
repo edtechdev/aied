@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The wiki documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
+> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The knowledge base documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
 
 The arrival of generative AI has not created the need for academic integrity — it has made weaknesses in existing approaches harder to ignore. A polished, plausible product can now be generated in seconds, so **product resemblance is an increasingly unreliable signal of capability**. This shifts the integrity question from *"can we catch AI use?"* to *"can our [[assessment|assessments]] still warrant the inferences we draw about student learning?"*
 
@@ -42,7 +42,7 @@ Policy text does not equal policy perception. [[cross-cultural-student-perceptio
 
 ### From policing to pedagogy
 
-The wiki documents a paradigm shift: from AI as an integrity threat to be policed, to AI as a tool whose appropriate use must be taught. This is the ethical dimension of [[ai-literacy]] and is [[embodied-learning|embodied]] in practical design:
+The knowledge base documents a paradigm shift: from AI as an integrity threat to be policed, to AI as a tool whose appropriate use must be taught. This is the ethical dimension of [[ai-literacy]] and is [[embodied-learning|embodied]] in practical design:
 
 - **Task-specific AI-use declarations:** [[genai-declaration-frameworks-higher-education|Domain-specific declaration frameworks]] replace generic "I used AI" checkboxes with structured declarations mapping use to cognitive stages (e.g., structural planning vs. content generation), forcing reflection and shifting focus from policing to professional practice.
 - **Process-transparent assessment:** architectures such as [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]], staged submissions, oral defences, and the [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|AI Viva]] (a [[conversational-ai|conversational agent]] probing whether students understand their submissions) make human judgement, verification, and responsibility visible.

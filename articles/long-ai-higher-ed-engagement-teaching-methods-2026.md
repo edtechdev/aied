@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications
 
-This review connects [[student-engagement]] and [[student-engagement]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the wiki and extends [[feedback|Feedback Loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[student-engagement]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
+This review connects [[student-engagement]] and [[student-engagement]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the knowledge base and extends [[feedback|Feedback Loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[student-engagement]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
 
 ## Connected Concepts
 

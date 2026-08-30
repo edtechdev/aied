@@ -42,7 +42,7 @@ The work is a [[theory-development-aied|theory-building]] contribution, offering
 
 **For classroom practice,** teachers should guide students in remaining epistemically proactive while using AI: identifying knowledge gaps before starting, explaining AI responses in their own words, checking whether a response addresses their original uncertainty, and completing transfer steps without AI support. Teachers should help students distinguish tasks that can be safely delegated to AI from those requiring preserved epistemic responsibility — for example, delegating routine computation is less problematic once students have engaged with underlying concepts, but relying on AI to validate answers may reduce opportunities for monitoring and evaluating one's own reasoning. Student–AI interactions can also become a source of diagnostic information for teachers, revealing how learning strategies develop, where students seek support, and which domain-specific steps they engage with or avoid.
 
-The study is correlational (temporal indicators are not causal mechanisms), and the interaction was short, but it offers a process-sensitive complement to the wiki's [[cognitive-offloading|over-reliance]] and [[student-ai-interaction]] threads — showing that *how* AI use unfolds over time matters for learning as much as *whether* or *how much* it occurs.
+The study is correlational (temporal indicators are not causal mechanisms), and the interaction was short, but it offers a process-sensitive complement to the knowledge base's [[cognitive-offloading|over-reliance]] and [[student-ai-interaction]] threads — showing that *how* AI use unfolds over time matters for learning as much as *whether* or *how much* it occurs.
 
 ## Connected Concepts
 

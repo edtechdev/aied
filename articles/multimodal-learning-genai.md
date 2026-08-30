@@ -99,7 +99,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 
 ## Relationship to Existing Research
 
-| Guide Principle | Wiki Connection |
+| Guide Principle | Knowledge Base Connection |
 |-----------------|----------------|
 | Cyber-social partnership (complementary strengths) | [[principled-ai-education]] — "AI must augment, not displace" aligns perfectly |
 | Four costs framework (individual, environment, knowledge, jobs) | [[ai-tutor-safety-harms]] — Costs to knowledge overlap with cognitive offloading; environmental costs are a new dimension |

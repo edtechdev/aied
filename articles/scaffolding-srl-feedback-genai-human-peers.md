@@ -30,7 +30,7 @@ The study compared two parallel English classes (N = 118 first-year undergraduat
 
 The authors recommend strategically integrating GenAI into [[formative-assessment]] activities to scaffold self-regulatory behaviors and foster feedback literacy, while mitigating the interpersonal (friendship, anxiety) challenges of peer review. Yet the small effect size cautions that GenAI's advantage is not transformative on its own, and teachers' scaffolding — training, prompt guidelines, worksheets — is needed to support self-regulated interaction and guard against [[cognitive-offloading]] and metacognitive laziness. Because peer feedback uniquely builds audience awareness and evaluative judgment through giving feedback, the authors propose multi-stage designs that combine GenAI (for immediate, psychologically safe processing support) with peer review (for practicing evaluative judgment), e.g., through anonymous peer feedback to mitigate friendship bias.
 
-## Connection to Existing Wiki
+## Connection to Existing Knowledge Base
 
 - **[[self-regulated-learning]]**: This paper is a direct empirical test of scaffolding SRL processes to improve feedback literacy, showing how GenAI supports goal setting, planning, critical evaluation, and immediate self-reflection.
 - **[[ai-feedback-quality]]**: Provides evidence on students' evaluation of GenAI feedback accuracy and clarity, including instances of verifying and challenging AI output.

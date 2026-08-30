@@ -29,9 +29,9 @@ Many institutions remain at an early stage of preparedness. Aligning vision, mis
 
 A notable theory-implementation gap is driven by weak policy frameworks and limited digital infrastructure in the Global South, including the Arab world, Sub-Saharan Africa, and Southeast Asia. Western-centric governance models often do not fit these realities. The review notes limited non-Western research, dominance of conceptual or self-reported evidence, and an absence of longitudinal or causal studies as key gaps.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper strengthens the wiki's treatment of [[governance]] and [[educational-policy-ai|AI policy]] in [[higher-ed|higher education]]. It connects institutional [[administrator|leadership]] to [[ethics|ethical]] and equitable AI adoption, and it complements empirical adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a systemic, futures-oriented governance lens. Its emphasis on stakeholder engagement, faculty upskilling, and Global South [[equity-in-ai-education|equity]] aligns with the wiki's coverage of [[teacher-role|teacher roles]], [[ai-literacy]], and context-sensitive AI integration. It informs [[educational-policy-ai|policy]] discourse by framing governance as an anticipatory, participatory process rather than a compliance exercise.
+This paper strengthens the knowledge base's treatment of [[governance]] and [[educational-policy-ai|AI policy]] in [[higher-ed|higher education]]. It connects institutional [[administrator|leadership]] to [[ethics|ethical]] and equitable AI adoption, and it complements empirical adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a systemic, futures-oriented governance lens. Its emphasis on stakeholder engagement, faculty upskilling, and Global South [[equity-in-ai-education|equity]] aligns with the knowledge base's coverage of [[teacher-role|teacher roles]], [[ai-literacy]], and context-sensitive AI integration. It informs [[educational-policy-ai|policy]] discourse by framing governance as an anticipatory, participatory process rather than a compliance exercise.
 
 ## Connected Concepts
 

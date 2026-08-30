@@ -29,7 +29,7 @@ The synthesized literature is candid about machine learning's limits. Gains ofte
 
 ## Generative AI as a subset
 
-[[generative-ai|Generative AI]] — large language models and related [[llm|LLM]] systems — is best understood as a subset of machine learning: the same neural and training foundations, but applied to *generating* content (explanations, feedback, dialogue) rather than classifying or predicting. It inherits the field's validity, bias, and safety concerns while adding new ones such as hallucination. For the purposes of this wiki, machine learning is the broader technical umbrella; generative AI is its most visible contemporary branch.
+[[generative-ai|Generative AI]] — large language models and related [[llm|LLM]] systems — is best understood as a subset of machine learning: the same neural and training foundations, but applied to *generating* content (explanations, feedback, dialogue) rather than classifying or predicting. It inherits the field's validity, bias, and safety concerns while adding new ones such as hallucination. For the purposes of this knowledge base, machine learning is the broader technical umbrella; generative AI is its most visible contemporary branch.
 
 ## Teacher education and machine-learning literacy
 

@@ -28,9 +28,9 @@ fsQCA revealed multiple equifinal configurations leading to high behavioral inte
 
 In Lesotho, structural constraints — unstable connectivity, limited digital infrastructure, and uneven [[ai-literacy|digital literacy]] — create a markedly different adoption environment. Personal innovativeness and motivational moderation effects were weak, underscoring contextual sensitivity. IPMA identified habit as the most influential driver of intention but with only moderate performance, suggesting the largest practical gains come from routinizing GenAI use. The study argues the benefits of GenAI observed in well-resourced systems cannot be assumed to transfer directly to developing contexts.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper directly extends the wiki's coverage of [[technology-acceptance-model|technology acceptance]] and AI adoption in [[higher-ed|higher education]]. It complements organizational adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a student-level, low-resource perspective, and it connects [[motivation]] to sustained [[student-engagement|engagement]] with [[generative-ai|GenAI]]. Its hybrid acceptance–motivation–habit model informs [[ai-education|AI education]] practice by arguing for motivation-centered design and context-responsive policy rather than uniform technology rollout. It is relevant to [[educational-policy-ai|AI policy]] and to the wiki's growing set of adoption-pathway articles.
+This paper directly extends the knowledge base's coverage of [[technology-acceptance-model|technology acceptance]] and AI adoption in [[higher-ed|higher education]]. It complements organizational adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a student-level, low-resource perspective, and it connects [[motivation]] to sustained [[student-engagement|engagement]] with [[generative-ai|GenAI]]. Its hybrid acceptance–motivation–habit model informs [[ai-education|AI education]] practice by arguing for motivation-centered design and context-responsive policy rather than uniform technology rollout. It is relevant to [[educational-policy-ai|AI policy]] and to the knowledge base's growing set of adoption-pathway articles.
 
 ## Connected Concepts
 

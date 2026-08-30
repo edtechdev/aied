@@ -44,12 +44,12 @@ This perspective's answer — that offloading *can* harm but need not — is emp
 
 "It is far too early to say with certainty" the long-term effects. Open questions: prolonged offloading over years/decades; developmental-stage effects (children?); decay as a function of initial skill level and skill type; refresher-training strategies; **designing AI to discourage harmful offloading** (policy levers); whether people can learn to *strategically* offload; impacts on **metacognition** and source-monitoring (misattributing AI output as one's own); effects on dispositions toward thinking.
 
-Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "[[coach-not-crutch-ai-writing|Coach not crutch]]" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the wiki.
+Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "[[coach-not-crutch-ai-writing|Coach not crutch]]" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the knowledge base.
 
-## Why this matters for the wiki
+## Why this matters for the knowledge base
 
 - The canonical **cognitive-offloading** citation [[cognitive-offloading]] needed; this perspective synthesizes the mechanism and the skills-vs-basic-abilities resilience distinction.
-- Conceptual bookend to the empirical RCTs already in the wiki: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "cognitive surrender"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected AI feedback *matched* teachers — the "coach not crutch" design).
+- Conceptual bookend to the empirical RCTs already in the knowledge base: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "cognitive surrender"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected AI feedback *matched* teachers — the "coach not crutch" design).
 - Reinforces [[cognitive-offloading|Over-Reliance]], [[metacognition]] (source-monitoring), [[self-regulated-learning]] (deliberate vs. passive offloading), and [[ai-literacy]] (using AI to augment, not replace).
 
 ## Connected Concepts

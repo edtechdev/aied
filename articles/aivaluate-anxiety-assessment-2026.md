@@ -40,9 +40,9 @@ Students were split. Some valued AIvaluate's reduced pressure, flexible response
 
 The paper explicitly cautions that lower anxiety is not inherently good. Drawing on the Yerkes–Dodson Law and Individual Zones of Optimal Functioning (IZOF), moderate anxiety can be facilitative, supporting alertness and engagement; only anxiety exceeding a learner's optimal zone is debilitating. Because the study measured emotional and usability outcomes but not performance or attainment, it cannot claim learning gains. The authors call for research on whether reduced anxiety from AI-mediated PBAs "is ultimately beneficial for learning and whether AI-mediated assessments can improve student attainment." This makes the paper a strong example of an affective/[[well-being]] outcome being demonstrated without an equivalent claim about achievement.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This article adds an evidence-based, within-subjects study of an emotionally intelligent LLM-augmented conversational agent used specifically for assessment — a niche the wiki's [[conversational-ai]] and [[pedagogical-agent]] coverage can benefit from. It links [[affective-computing]] to [[assessment]], extends the generative-AI assessment cluster into the affective/well-being domain, and models good practice by distinguishing a demonstrated affective outcome from an unproven learning outcome. Its treatment of anxiety as context-dependent (facilitative vs. excessive) offers a nuanced counterpoint to work that treats anxiety reduction as unconditionally positive.
+This article adds an evidence-based, within-subjects study of an emotionally intelligent LLM-augmented conversational agent used specifically for assessment — a niche the knowledge base's [[conversational-ai]] and [[pedagogical-agent]] coverage can benefit from. It links [[affective-computing]] to [[assessment]], extends the generative-AI assessment cluster into the affective/well-being domain, and models good practice by distinguishing a demonstrated affective outcome from an unproven learning outcome. Its treatment of anxiety as context-dependent (facilitative vs. excessive) offers a nuanced counterpoint to work that treats anxiety reduction as unconditionally positive.
 
 ## Connected Concepts
 

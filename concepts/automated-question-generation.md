@@ -11,11 +11,11 @@ confidence: high
 
 > **Automated question generation (AQG)** — the use of AI, especially NLP and large language models (LLMs), to generate educational assessment items (multiple-choice, short-answer, fill-in-the-blank, coding, and performance questions) automatically from source material or learning objectives. AQG enables assessment at scale — producing formative quizzes, adaptive exercises, and practice items — but quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated questions. It is a core component of [[automated-assessment]] and a key enabler of [[adaptive-learning]] and [[personalized-learning]].
 
-Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the wiki's research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement]].
+Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the knowledge base's research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement]].
 
 ## Approaches to question generation
 
-The wiki's research illustrates several approaches:
+The knowledge base's research illustrates several approaches:
 
 - **Generate-then-validate pipelines:** [[generate-then-validate-question-gen|Generate-Then-Validate]] introduces a generation → validation → refinement loop that reduces LLM hallucination by 62% compared to direct generation, achieving 89% accuracy on STEM datasets and a 23% improvement in relevance. The validation step filters invalid or low-quality items, and failed items trigger re-generation with corrective prompts.
 - **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.

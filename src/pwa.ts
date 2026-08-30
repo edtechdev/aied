@@ -6,7 +6,7 @@ import { registerSW } from 'virtual:pwa-register';
 registerSW({
   immediate: true,
   onOfflineReady() {
-    console.log('AI Ed Wiki is ready to work offline');
+    console.log('AIEd KB is ready to work offline');
   },
   onRegisteredSW(_swUrl: string, registration?: ServiceWorkerRegistration) {
     // If a newer SW is waiting, tell it to activate so the user always gets the

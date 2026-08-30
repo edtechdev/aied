@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This framework bears on the wiki's [[student-modeling]] and [[personalized-learning]] threads by arguing that effective AI in education needs a **holistic, context-aware model of the learner** — integrating cognitive, affective, and sociocultural factors — rather than relying on narrow or decontextualized signals. It connects to [[adaptive-learning]], [[ai-education]], and [[human-ai-collaboration]], and its focus on encoding long-term learner context speaks to concerns about [[cognitive-offloading]] and shallow personalization. The use of MCP as an interoperability standard is a concrete technical roadmap that could make context-aware AI practical across diverse educational tools and platforms.
+This framework bears on the knowledge base's [[student-modeling]] and [[personalized-learning]] threads by arguing that effective AI in education needs a **holistic, context-aware model of the learner** — integrating cognitive, affective, and sociocultural factors — rather than relying on narrow or decontextualized signals. It connects to [[adaptive-learning]], [[ai-education]], and [[human-ai-collaboration]], and its focus on encoding long-term learner context speaks to concerns about [[cognitive-offloading]] and shallow personalization. The use of MCP as an interoperability standard is a concrete technical roadmap that could make context-aware AI practical across diverse educational tools and platforms.
 
 ## Connected Concepts
 

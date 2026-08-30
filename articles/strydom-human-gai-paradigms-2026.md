@@ -11,7 +11,7 @@ sources: ['raw/papers/strydom-human-gai-paradigms-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Strydom (2026) introduces seven **human–generative-AI (GAI) engagement paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organisation, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for teaching, assessment, [[faculty-development|professional development]], and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the wiki's [[ai-education|AI-education]] foundational strand.
+> **Synthesis:** Strydom (2026) introduces seven **human–generative-AI (GAI) engagement paradigms** grounded in personal epistemological beliefs, addressing what the author calls the "theory deficit" in educational technology. The conceptual, theory-building paper differentiates five epistemological dimensions (source, certainty, organisation, control, and speed of knowledge acquisition) and uses them to theorise seven enacted paradigms of human-GAI engagement: guarded, possibility-focused, augmented, pioneering, symbiotic, values-based, and equity. Rather than fixed traits, the paradigms are **enacted patterns of engagement** that emerge across disciplinary, socio-technical, and institutional contexts — with direct implications for teaching, assessment, [[faculty-development|professional development]], and AI governance. This is a significant [[theory-development-aied|theory-building]] contribution to the knowledge base's [[ai-education|AI-education]] foundational strand.
 
 ## Key Findings
 
@@ -30,7 +30,7 @@ The paper builds on Schommer's multidimensional model of personal epistemologica
 - **Control of knowledge acquisition** — whether learning is controlled by the learner or external forces
 - **Speed of knowledge acquisition** — whether learning is quick/all-or-nothing or gradual
 
-Strydom contends these dimensions offer a productive lens on how individuals differently position themselves relative to GAI — explaining why the same tool is engaged very differently across people and contexts. The framework thus extends the wiki's [[learning-theories]] strand into the human-GAI interaction space.
+Strydom contends these dimensions offer a productive lens on how individuals differently position themselves relative to GAI — explaining why the same tool is engaged very differently across people and contexts. The framework thus extends the knowledge base's [[learning-theories]] strand into the human-GAI interaction space.
 
 ## The seven paradigms in detail
 
@@ -44,7 +44,7 @@ Strydom contends these dimensions offer a productive lens on how individuals dif
 
 ## Implications for AI in education
 
-The framework reframes the human-GAI relationship from a tool-usage question into an epistemological one — how individuals *enact knowledge and learning* within human-GAI assemblages. This connects directly to the wiki's [[human-ai-collaboration]], [[student-ai-interaction]], and [[philosophy-of-ai-in-education|philosophy of AI]] threads. Practically:
+The framework reframes the human-GAI relationship from a tool-usage question into an epistemological one — how individuals *enact knowledge and learning* within human-GAI assemblages. This connects directly to the knowledge base's [[human-ai-collaboration]], [[student-ai-interaction]], and [[philosophy-of-ai-in-education|philosophy of AI]] threads. Practically:
 
 - **Teaching and assessment:** paradigms imply differentiated approaches — e.g., pioneering/possibility-focused alignments could be encouraged to experiment with alternative [[assessment]] formats rather than polished-product-only evidence.
 - **Professional development:** guarded orientations are not mere resistance but a coherent epistemological position requiring targeted [[faculty-development|staff development]]; the framework offers a diagnostic vocabulary for differentiated development.

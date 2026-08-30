@@ -18,7 +18,7 @@ confidence: high
 
 ### Effectiveness evidence
 
-The wiki documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization. [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find that "adaptive," "personalized," "individualized," and "customized" learning are used inconsistently — so effect sizes depend heavily on how adaptation is operationalized, and the field calls for a unified framework.
+The knowledge base documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization. [[khalifeh-redefining-personalized-learning-ai-2026|Systematic reviews]] find that "adaptive," "personalized," "individualized," and "customized" learning are used inconsistently — so effect sizes depend heavily on how adaptation is operationalized, and the field calls for a unified framework.
 
 ### The AI era: LLM-based adaptation and its risks
 

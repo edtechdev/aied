@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This study contributes directly to the wiki's [[self-regulated-learning]] and [[adaptive-learning]] threads by showing that **how feedback is designed and taken up through adaptive technology shapes its effect on SRL** — more is not always better. The finding that transformative feedback can impose [[cognitive-offloading|cognitive load]] rather than support regulation echoes broader concerns about feedback density and [[feedback-literacy]]. It reinforces the point that effective adaptive learning systems must tailor feedback to learners' regulatory needs and states, connecting to [[feedback]], [[metacognition]], [[motivation]], and [[self-efficacy]]. The use of trace data alongside self-report also highlights the value of [[learning-analytics]] in studying SRL in authentic technology-mediated settings.
+This study contributes directly to the knowledge base's [[self-regulated-learning]] and [[adaptive-learning]] threads by showing that **how feedback is designed and taken up through adaptive technology shapes its effect on SRL** — more is not always better. The finding that transformative feedback can impose [[cognitive-offloading|cognitive load]] rather than support regulation echoes broader concerns about feedback density and [[feedback-literacy]]. It reinforces the point that effective adaptive learning systems must tailor feedback to learners' regulatory needs and states, connecting to [[feedback]], [[metacognition]], [[motivation]], and [[self-efficacy]]. The use of trace data alongside self-report also highlights the value of [[learning-analytics]] in studying SRL in authentic technology-mediated settings.
 
 ## Connected Concepts
 

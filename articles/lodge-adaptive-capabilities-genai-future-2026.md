@@ -37,7 +37,7 @@ confidence: high
 
 ## Implications for AI in education
 
-This report is a policy and quality-assurance contribution to the wiki's [[educational-policy-ai]] thread, connecting [[higher-ed]] quality standards to a concrete capability framework. It aligns with the [[ai-assessment-scale-reform|assessment-reform]] strand by arguing that learning processes (not just products) are the durable evidence gen AI cannot simulate — reinforcing [[authentic-assessment]] and [[assessment-validity]]. The framework's emphasis on agency, [[self-regulated-learning]] and [[metacognition]] resonates with [[epistemic-proactivity-math|epistemic proactivity]], and its process-focused [[learning-analytics]] recommendations connect to the wiki's learning-analytics thread. It is the companion document to earlier TEQSA assessment-reform resources.
+This report is a policy and quality-assurance contribution to the knowledge base's [[educational-policy-ai]] thread, connecting [[higher-ed]] quality standards to a concrete capability framework. It aligns with the [[ai-assessment-scale-reform|assessment-reform]] strand by arguing that learning processes (not just products) are the durable evidence gen AI cannot simulate — reinforcing [[authentic-assessment]] and [[assessment-validity]]. The framework's emphasis on agency, [[self-regulated-learning]] and [[metacognition]] resonates with [[epistemic-proactivity-math|epistemic proactivity]], and its process-focused [[learning-analytics]] recommendations connect to the knowledge base's learning-analytics thread. It is the companion document to earlier TEQSA assessment-reform resources.
 
 ## Connected Concepts
 

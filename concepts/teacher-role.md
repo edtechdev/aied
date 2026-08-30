@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 confidence: high
 ---
 
-> **Instructors** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the wiki documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments.
+> **Instructors** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the knowledge base documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments.
 
 ### How AI transforms teaching
 
@@ -24,7 +24,7 @@ confidence: high
 
 ### The orchestration metaphor
 
-The dominant metaphor in the wiki is *orchestration*: teachers coordinate human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching.
+The dominant metaphor in the knowledge base is *orchestration*: teachers coordinate human learners, [[intelligent-tutoring|AI tutors]], and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching.
 
 ### Evolving and critical teacher roles
 

@@ -22,7 +22,7 @@ AI adoption in education is not purely a classroom decision; it is also an insti
 
 ### Connections
 
-The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the wiki.
+The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the knowledge base.
 
 ## Connected Concepts
 

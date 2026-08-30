@@ -15,7 +15,7 @@ Summative assessment serves a fundamentally different function from formative as
 
 ## The AI-era stakes: validity and integrity
 
-The wiki's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
+The knowledge base's research documents how generative AI has fundamentally reshaped the summative-assessment landscape in two directions: AI is used to **score** exams at scale, and AI can be used by students to **evade** exam-based measurement of their own learning.
 
 - **AI as scorer.** Summative assessment increasingly relies on [[automated-assessment|automated scoring]] of exams, essays, and short answers. [[llms-do-not-grade-essays-like-humans-2026|Research on LLM essay grading]] finds [[llm|LLM]] do not grade essays the same way humans do, raising validity and fairness questions for high-stakes automated scoring. [[llm-automated-assessment-student-self-explanations|LLMs assessing student self-explanations]] and [[cong-confidence-asag-2026|automatic short-answer grading]] explore the reliability of LLM scoring in summative contexts, while [[psyscore-essay-scoring-zpd-feedback|psychometrically-aware frameworks]] seek to keep automated scoring trustworthy and adaptive.
 - **AI as evasion.** Because generative AI can produce answers to written questions, unproctored and take-home summative tasks lose validity: [[generative-ai-reduced-study-time-math|proctored, unassisted measures are essential]] because non-proctored performance is inflated by AI, and [[generative-ai-guardrails-harm-learning|guardrailed (hint-not-answer) tools]] can eliminate the exam penalty that unguarded AI causes.
@@ -23,7 +23,7 @@ The wiki's research documents how generative AI has fundamentally reshaped the s
 
 ## AI-resistant summative formats
 
-A key theme in the wiki is that **summative format determines AI-resistance** — the more a task requires live, in-person, individually-probed performance, the harder it is for students to substitute AI for their own learning.
+A key theme in the knowledge base is that **summative format determines AI-resistance** — the more a task requires live, in-person, individually-probed performance, the harder it is for students to substitute AI for their own learning.
 
 - **Oral exams and assessments.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] argues the oral exam is a low-tech, inherently AI-resistant summative format: its real-time, interactive dialogue tests comprehension, [[critical-thinking|critical thinking]], and reasoning rather than memorization, prevents students from using AI to generate and memorize answers, and mirrors professional practice. [[socratic-tests-conversational-assessment|Socratic tests]] and [[code-review-genai-cs1|code-review interviews]] extend this to dynamic, conversational, and interview-based summative assessment.
 - **Closed-book, proctored, unassisted measures.** [[generative-ai-reduced-study-time-math|Evidence]] and [[stromberg-generative-ai-learning-penalty-secondary-2026|large-scale field data]] show that proctored closed-book exams — not inflated homework or take-home work — are the reliable signal of actual learning when students use AI. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment]] frameworks embed these unassisted measures within a validity-driven redesign.
@@ -34,7 +34,7 @@ High-stakes summative assessment — entrance exams, standardized tests, and cer
 
 ## Summative vs. formative in the AI era
 
-The wiki's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based portfolios) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
+The knowledge base's assessment literature consistently emphasizes that [[assessment]] is most effective when it combines [[formative-assessment|formative]] and summative functions — but the AI era sharpens the distinction. Because AI inflates performance on low-stakes, unproctored, and process-hidden tasks, **summative (especially proctored/closed-book/in-person) measures become the crucial check** on whether learning actually occurred. This motivates assessment redesign that keeps authentic, AI-resistant summative tasks (oral exams, code-review interviews, proctored examinations, process-based portfolios) as the anchor of [[academic-integrity|integrity]] while using formative assessment to support learning along the way. See [[authentic-assessment]] for the constructive design response.
 
 ## Implications for AI in education
 

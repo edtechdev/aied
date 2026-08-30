@@ -30,7 +30,7 @@ confidence: high
 
 ## The Instructor–AI Synergistic Learning Ecosystem model
 
-The study's principal contribution is an **Achievement-Based Instructor–AI Synergistic Learning Ecosystem** model that reframes human–AI collaboration **not as competition but as complementary partnership**. It positions the instructor as the adaptive expert delivering context-aware feedback while GenAI functions as a personalized SRL tool scaling individualized formative feedback — turning the long-standing challenge of **scaling formative assessment** in large classes into a [[pedagogy|pedagogical]] opportunity. This connects directly to the wiki's [[human-ai-collaboration]] concept.
+The study's principal contribution is an **Achievement-Based Instructor–AI Synergistic Learning Ecosystem** model that reframes human–AI collaboration **not as competition but as complementary partnership**. It positions the instructor as the adaptive expert delivering context-aware feedback while GenAI functions as a personalized SRL tool scaling individualized formative feedback — turning the long-standing challenge of **scaling formative assessment** in large classes into a [[pedagogy|pedagogical]] opportunity. This connects directly to the knowledge base's [[human-ai-collaboration]] concept.
 
 ## Limitations
 

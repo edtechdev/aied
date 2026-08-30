@@ -8,9 +8,27 @@ const sorted = faqs.slice().sort((a, b) => (b.data.created || '').localeCompare(
 
 <BaseLayout title="FAQ">
   <h1>❓ Frequently Asked Questions</h1>
-  <p style="color:var(--muted-color);margin-bottom:1.5rem;">
-    Answers to common questions about AI in education, distilled from the wiki's research synthesis.
-  </p>
+
+  <div style="line-height:1.7;color:var(--color);margin-bottom:1.5rem;">
+    <p style="margin-bottom:0.75rem;">
+      This section answers common questions about <strong>AI in education</strong> — what the research says
+      about how AI affects teaching and learning, and how educators, instructors, and instructional
+      designers can put that evidence into practice. Each answer distills findings from the research
+      summarized across this knowledge base, connecting the question to the relevant concepts and
+      articles for deeper reading.
+    </p>
+    <p style="margin-bottom:0.75rem;">
+      The questions are grouped by the kinds of decisions people actually face: designing AI into the
+      learning experience, developing educational AI software, incorporating AI literacy, redesigning
+      assessment, reducing misuse, evaluating AI-related interventions, and the competencies faculty
+      need. If you are new to the field, the FAQ on the top ten findings is a good place to start.
+    </p>
+    <p>
+      Have a question not answered here? Ask your own AI assistant using the
+      <a href="/aied/ai" style="font-weight:500;">Use This Knowledge Base with Your Own AI Assistant</a>
+      page, which shows how to point an agent at the full catalog for grounded, cited answers.
+    </p>
+  </div>
 
   {sorted.length === 0 && <p>No FAQs yet.</p>}
 

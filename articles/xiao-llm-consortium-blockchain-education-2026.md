@@ -30,9 +30,9 @@ The synergistic architecture comprises an LMS application front-end, an LLM-base
 
 The prototype evaluated six LLMs on the RiceChem ALAG benchmark; GLM-4-9B-chat led (Accuracy 0.6492, F1 0.6054), with model-specific thresholding biases highlighting the need to consider F1 alongside error tolerance. Two case studies illustrate applications: a decentralized multi-university degree program issuing joint, globally verifiable credentials, and continuous skill certification with AI coaching that logs assistance records to ensure learners did sufficient independent work.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper extends the wiki's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the wiki's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
+This paper extends the knowledge base's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements research on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the knowledge base's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
 
 ## Connected Concepts
 

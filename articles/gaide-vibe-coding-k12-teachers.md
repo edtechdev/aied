@@ -15,7 +15,7 @@ Large language models generate code from natural language prompts, enabling vibe
 
 GAIDE, a Design-Thinking-based framework, supports K-12 teachers (non-programmers) in building AI-powered learning tools via vibe coding; an eight-week workshop raised participating teachers' AI literacy, showing learning-by-creating as a professional-development model.
 
-This work connects to core wiki themes: [[k-12]] [[teacher-role]] [[ai-literacy]] [[generative-ai]] [[faculty-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai-literacy]] [[generative-ai]] [[faculty-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 

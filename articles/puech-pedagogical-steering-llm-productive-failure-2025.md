@@ -27,7 +27,7 @@ StratL models a multi-turn tutoring strategy with LLMs. A multi-turn strategy is
 - **Eliciting multiple solutions:** The baseline LLM failed to elicit multiple RSMs (solution attempts), while a StratL-tutored student produced on average 2.6 RSMs per session (p=.05) — succeeding in the PF process of making students explore as many solutions as possible.
 - **Perceived helpfulness trade-off:** StratL had no significant effect on coherence or empathy. The baseline (no intents) was perceived as more helpful — because the PF strategy only gives help when strictly necessary, so students spend more time stuck and exploring suboptimal solutions. The authors note this can feel frustrating or be misunderstood by students, even though it is more effective for learning.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
 This paper is the key technical anchor connecting LLM-based [[intelligent-tutoring|tutoring]] to [[productive-failure]] pedagogy. It demonstrates that LLMs must be *steered* to implement productive failure (withhold answers, elicit attempts, help only when necessary) — and that doing so trades perceived helpfulness for learning effectiveness. It connects to [[socratic-method]] (indirect hints and guiding questions), [[cognitive-offloading]] (resisting the urge to hand over solutions), [[scaffolding]] (giving help only when strictly necessary), and the [[human-in-the-loop-ai|design]] of AI tutors. Co-authored by Manu Kapur, the originator of productive failure.
 

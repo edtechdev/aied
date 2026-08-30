@@ -30,9 +30,9 @@ Students reported generally positive attitudes toward chatbots and perceived gai
 
 Five significant reasons for non-use emerged: lack of training, concerns about trusted/accurate/safe/helpful responses, a preference for asking teaching staff, fear of breaching academic integrity, and no interest. Qualitative analysis of non-user comments (reflexive thematic analysis) surfaced usability as the largest theme (23%), with students disliking the intrusive pop-up design; other themes included preference for humans or search engines, lack of perceived usefulness, AI concerns, unawareness, and time pressure. Users valued helpfulness for information and navigation (24%), availability and accessibility (21%), and subject-specific learning support (18%), while reporting occasional inaccuracies and requesting better integration of reliable links, chat history, and more teacher-like responses.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper gives the wiki rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the wiki's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centred design recommendations inform [[instructional-design]] and the conditions under which chatbots equitably complement human instruction.
+This paper gives the knowledge base rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the knowledge base's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centred design recommendations inform [[instructional-design]] and the conditions under which chatbots equitably complement human instruction.
 
 ## Connected Concepts
 

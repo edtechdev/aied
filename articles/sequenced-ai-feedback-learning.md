@@ -55,9 +55,9 @@ This study challenges the prevailing intuition that more scaffolded, autonomy-su
 3. **Strategic blending**: Consider providing direct corrective feedback first, with optional encouragement and hints available on demand rather than as a mandatory sequence
 4. **Cognitive load management**: The higher mental effort induced by sequenced feedback did not aid learning — design should channel effort toward understanding rather than navigation
 
-## Connection to Existing Wiki
+## Connection to Existing Knowledge Base
 
-This paper directly informs several threads in the wiki:
+This paper directly informs several threads in the knowledge base:
 
 - **[[formative-assessment]]**: Direct evidence about AI-generated feedback design — sequencing that feels supportive may undermine formative goals
 - **[[critical-thinking-genai-scaffolding]]**: Vendrell & Johnston's eight design principles for LLM scaffolding — this study provides empirical evidence that poorly designed scaffolding can harm learning, reinforcing the need for "cognitive friction" design

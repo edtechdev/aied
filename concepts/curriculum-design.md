@@ -13,7 +13,7 @@ confidence: high
 
 > **Curriculum Design** — the process of planning and structuring what is taught across courses, programs, and institutions, including learning objectives, content sequencing, assessment strategies, and skill progression. In the AI era, curriculum design must balance foundational knowledge with emerging AI competencies, determining not just what students learn but how they learn to work with and critically evaluate AI tools.
 
-Curriculum design addresses the *what* of education at the program level, complementing [[instructional-design]] which addresses the *how* at the course level. The articles in this wiki explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
+Curriculum design addresses the *what* of education at the program level, complementing [[instructional-design]] which addresses the *how* at the course level. The articles in this knowledge base explore how AI is reshaping curricula across disciplines — from software engineering to architecture to green education — and how educators are designing curricula that embed AI literacy without sacrificing disciplinary fundamentals.
 
 ### Key research themes
 

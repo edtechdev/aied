@@ -31,7 +31,7 @@ confidence: high
 
 **Four challenge categories.** Technical limitations (28 studies: factual errors, outdated information, fictitious citations, poor non-English processing, mechanical virtual students), ethical and social risks (20: data [[privacy]], algorithmic bias, plagiarism, copyright, job anxiety), risk of over-reliance (19: adoption of AI-generated lesson plans weakening creative design, and degeneration of reflective depth, evaluation skills, and independent problem-solving), and implementation barriers (16: infrastructure gaps, the [[digital-divide]], low user [[ai-literacy]], and uncertainty about long-term effects given mostly short-term studies).
 
-**Implication for teacher preparation.** The findings argue that teacher-education programs should intentionally design AI-enhanced training that builds [[ai-literacy]] and human–AI collaboration while preserving the human educator's role — a core concern for the wiki's [[teacher-education]] and [[teacher-role]] concepts.
+**Implication for teacher preparation.** The findings argue that teacher-education programs should intentionally design AI-enhanced training that builds [[ai-literacy]] and human–AI collaboration while preserving the human educator's role — a core concern for the knowledge base's [[teacher-education]] and [[teacher-role]] concepts.
 
 ## Connected Concepts
 

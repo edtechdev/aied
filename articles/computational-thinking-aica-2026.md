@@ -33,9 +33,9 @@ Epistemic Network Analysis of reflection journals showed significant group diffe
 
 The authors propose two differentiated strategies. For high-CT students: open-ended AICA access encouraging exploration of multiple code-implementation methods and metacognitive reflection. For low-CT students: structured SRL scripts ("goal setting – strategy selection – monitoring – evaluation") to internalize external prompts into an autonomous regulation cycle, transforming the AICA from an "answer source" into a shared "cognitive partner." This frames the AICA as differentiated [[scaffolding]] whose design must adapt to learner CT to avoid widening equity gaps in AI-assisted learning.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This article directly links learner cognition (CT) to measurable [[learning-gains]] in a generative-AI tool context, and it demonstrates that self-regulatory coherence, not tool availability, drives success. It is a strong empirical anchor for the wiki's [[computational-thinking]] and [[self-regulated-learning]] concepts, and it offers a concrete equity argument: without differentiated scaffolds, AICAs may amplify existing CT disparities, since low-CT students benefit least and rely most. It also connects to [[generative-ai]] and [[scaffolding]] by showing that AI coding assistants function well only when matched to learners' regulatory capacity. The K-12 focus extends the wiki's AI-in-education evidence beyond higher education.
+This article directly links learner cognition (CT) to measurable [[learning-gains]] in a generative-AI tool context, and it demonstrates that self-regulatory coherence, not tool availability, drives success. It is a strong empirical anchor for the knowledge base's [[computational-thinking]] and [[self-regulated-learning]] concepts, and it offers a concrete equity argument: without differentiated scaffolds, AICAs may amplify existing CT disparities, since low-CT students benefit least and rely most. It also connects to [[generative-ai]] and [[scaffolding]] by showing that AI coding assistants function well only when matched to learners' regulatory capacity. The K-12 focus extends the knowledge base's AI-in-education evidence beyond higher education.
 
 ## Connected Concepts
 

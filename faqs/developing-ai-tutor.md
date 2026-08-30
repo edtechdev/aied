@@ -6,7 +6,7 @@ type: faq
 tags: [intelligent-tutoring, scaffolding, feedback, pedagogical-safety, ai-ed-evaluation, learner-identity, math-education, writing-education]
 ---
 
-An effective AI tutor should be designed as a **learning system, not an answer-generation [[conversational-ai|chatbot]]**. The strongest theme across the wiki is that [[pedagogy|pedagogical]] structure—diagnosis, scaffolding, feedback, learner agency, and evaluation—matters at least as much as the underlying model. The two worked examples below (a calculus tutor and a writing coach) show how the same core architecture must be shaped by what the discipline requires of the learner.
+An effective AI tutor should be designed as a **learning system, not an answer-generation [[conversational-ai|chatbot]]**. The strongest theme across the knowledge base is that [[pedagogy|pedagogical]] structure—diagnosis, scaffolding, feedback, learner agency, and evaluation—matters at least as much as the underlying model. The two worked examples below (a calculus tutor and a writing coach) show how the same core architecture must be shaped by what the discipline requires of the learner.
 
 ## 1. Start with explicit learning objectives and define the learner's job
 
@@ -28,7 +28,7 @@ A useful tutoring sequence is: ask for an attempt, probe the learner's reasoning
 
 ## 4. Make feedback specific, immediate, actionable, and connected to reasoning
 
-Avoid feedback that merely says "Correct," "Incorrect," or "Good job." Instead the tutor should identify the reasoning step involved, explain what needs reconsideration, give the learner something concrete to do next, and ask the learner to predict or explain before revealing feedback when appropriate. The wiki treats [[feedback]] as a complete **provision–uptake loop**: feedback only supports learning when students understand it and act on it.
+Avoid feedback that merely says "Correct," "Incorrect," or "Good job." Instead the tutor should identify the reasoning step involved, explain what needs reconsideration, give the learner something concrete to do next, and ask the learner to predict or explain before revealing feedback when appropriate. The knowledge base treats [[feedback]] as a complete **provision–uptake loop**: feedback only supports learning when students understand it and act on it.
 
 ## 5. Ground factual content rather than trusting the LLM's memory
 
@@ -92,7 +92,7 @@ Consider a first-semester college calculus tutor. Its goal should be to increase
 
 ## Example 2: Designing an AI Writing Coach
 
-An AI writing coach requires a different design because writing does not have one objectively correct answer. The goal is to help the learner become better at planning, drafting, evaluating, and revising their own writing. The wiki frames writing as a **cognitive, social, and rhetorical process**, meaning an AI writing system can support learning but can also eliminate exactly the thinking the assignment was intended to develop. See [[writing-education]], [[ai-writing-support-stage-ownership-2026|From Planning to Revision]], [[coach-not-crutch-ai-writing|Coach not Crutch]], and [[feedback]].
+An AI writing coach requires a different design because writing does not have one objectively correct answer. The goal is to help the learner become better at planning, drafting, evaluating, and revising their own writing. The knowledge base frames writing as a **cognitive, social, and rhetorical process**, meaning an AI writing system can support learning but can also eliminate exactly the thinking the assignment was intended to develop. See [[writing-education]], [[ai-writing-support-stage-ownership-2026|From Planning to Revision]], [[coach-not-crutch-ai-writing|Coach not Crutch]], and [[feedback]].
 
 **Learning objectives.** The coach's learner model might track argument (thesis specificity, claim-evidence alignment, counterargument), organization (paragraph focus, logical progression, transitions), evidence (source relevance, evidence integration, interpretation), revision (global and sentence-level revision, feedback evaluation), and style (sentence clarity, grammar, authorial voice) — tracking writing **capabilities**, not just an essay score.
 

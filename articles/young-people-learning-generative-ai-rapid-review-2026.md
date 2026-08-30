@@ -47,7 +47,7 @@ Building on Shaw and Nave's (2026) *cognitive surrender*, the review's central p
 - **Offloading** — the learner intentionally delegates selected work (summarizing after an initial attempt, using GenAI for a study plan). This can support performance but only becomes learning if the student checks, elaborates, and connects output to their own understanding.
 - **Agency** — the learner retains responsibility for effort, judgment, and learning (asking GenAI to challenge an argument, generating practice scenarios, deliberately choosing not to use it when retrieval/effort is the point).
 
-These are not fixed properties of a practice but of how a practice is enacted. This connects directly to the wiki's treatment of [[cognitive-offloading|adaptive vs. maladaptive offloading]] and [[reducing-ai-misuse]].
+These are not fixed properties of a practice but of how a practice is enacted. This connects directly to the knowledge base's treatment of [[cognitive-offloading|adaptive vs. maladaptive offloading]] and [[reducing-ai-misuse]].
 
 ## Implications for teaching and learning
 

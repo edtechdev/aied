@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This study is a core piece of the wiki's [[inquiry-based-learning]] cluster, directly examining *how* students use LLMs across the cognitive levels of inquiry. The finding that students' prior knowledge and [[metacognition|metacognitive]] skills determine whether LLM use deepens or bypasses inquiry reinforces the wiki's central design principle: AI in IBL requires explicit [[scaffolding]], planning frameworks, and [[critical-thinking|critical evaluation]] training to convert interaction into higher-order learning rather than [[cognitive-offloading|over-reliance]]. It complements the IBL cluster's outcome evidence ([[mujib-ai-ibl-creative-math-2026]], [[zhao-genai-higher-order-thinking-meta-2026]]).
+This study is a core piece of the knowledge base's [[inquiry-based-learning]] cluster, directly examining *how* students use LLMs across the cognitive levels of inquiry. The finding that students' prior knowledge and [[metacognition|metacognitive]] skills determine whether LLM use deepens or bypasses inquiry reinforces the knowledge base's central design principle: AI in IBL requires explicit [[scaffolding]], planning frameworks, and [[critical-thinking|critical evaluation]] training to convert interaction into higher-order learning rather than [[cognitive-offloading|over-reliance]]. It complements the IBL cluster's outcome evidence ([[mujib-ai-ibl-creative-math-2026]], [[zhao-genai-higher-order-thinking-meta-2026]]).
 
 ## Connected Concepts
 

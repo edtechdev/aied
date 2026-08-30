@@ -18,7 +18,7 @@ Learning by teaching rests on the finding that preparing to teach and actually e
 
 **Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. [[llm|Large language models]] change this: they can flexibly adopt roles via prompting — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
 
-The wiki's evidence base traces this shift to **conversational, LLM-based teachable agents**:
+The knowledge base's evidence base traces this shift to **conversational, LLM-based teachable agents**:
 
 - **ChatGPT as a teachable agent** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) supports LbT in programming, improving knowledge gains, programming ability, and self-regulated learning — though its tendency to generate correct code limits error-correction practice.
 - **Explique at scale** ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al.]]) deployed an AI teachable agent (Algorithm Apprentice) to 546 students over an 11-week semester, finding that explanation-oriented dialogue predicts fewer incorrect quiz submissions, while external-content reuse predicts more.
@@ -33,7 +33,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 
 ## Questioning, Self-Regulation, and Active Learning
 
-Two further affordances recur across the wiki:
+Two further affordances recur across the knowledge base:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
 - **LbT [[scaffolding|scaffolds]] self-regulation.** Teaching a conversational agent fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.

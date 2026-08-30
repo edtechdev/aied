@@ -14,7 +14,7 @@ Sustainability in AIED spans three overlapping framings: **sustainable education
 
 ## The two-part taxonomy
 
-The wiki's coverage, anchored by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organizes the field into two interconnected yet distinct pathways:
+The knowledge base's coverage, anchored by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organizes the field into two interconnected yet distinct pathways:
 
 - **AI for sustainability** — using AI to advance sustainability outcomes. In education this includes AI for energy management, climate monitoring, green campus programs, and AI-integrated curricula that build learners' sustainability consciousness (e.g. the AI-SEE framework for sustainable [[engineering-education|engineering education]]). It is grounded in the global agenda of Education for Sustainable Development.
 - **Sustainable AI** — reducing the direct environmental and ethical impacts of AI itself. This covers the carbon and water footprint of large language models, energy-efficient and on-premise deployment, and the ethical and governance frameworks needed to ensure AI's use in education is itself responsible and sustainable.
@@ -41,7 +41,7 @@ A related strand frames sustainability not only as an environmental or instituti
 
 ## Connections to other concepts
 
-Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[instructional-design]] for pedagogy, and connects to the wiki's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
+Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[instructional-design]] for pedagogy, and connects to the knowledge base's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
 
 ## Connected Concepts
 - [[ethics]]

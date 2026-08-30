@@ -30,7 +30,7 @@ confidence: high
 
 **Developing authorship and [[self-regulated-learning]].** Students selectively accepted AI suggestions, distinguishing "my tone" from AI output (e.g., "ChatGPT made it too ornate, I wouldn't write like that myself"), signalling emerging authorial voice. Post-test Writing [[self-efficacy]] scores increased in ideation ability, rhetorical application, and self-regulation, and a 20-point, four-dimension scoring rubric (content, organisation, language, creativity, 25% weight each) anchored the writing [[assessment]].
 
-**[[cognitive-offloading|Over-Reliance]] risk and pedagogical recommendation.** The authors caution that over-reliance on AI could diminish engagement in areas requiring creative expression and critical thinking, concluding with scaffolded pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — directly relevant to the wiki's [[writing-education]] and [[cognitive-offloading|Over-Reliance]] concerns.
+**[[cognitive-offloading|Over-Reliance]] risk and pedagogical recommendation.** The authors caution that over-reliance on AI could diminish engagement in areas requiring creative expression and critical thinking, concluding with scaffolded pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — directly relevant to the knowledge base's [[writing-education]] and [[cognitive-offloading|Over-Reliance]] concerns.
 
 ## Connected Concepts
 

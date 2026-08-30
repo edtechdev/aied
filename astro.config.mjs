@@ -27,8 +27,8 @@ export default defineConfig({
         // This plugin still emits manifest.webmanifest, registerSW.js, and the
         // `virtual:pwa-register` module used by src/pwa.ts for registration.
         manifest: {
-          name: 'AI Ed Wiki',
-          short_name: 'AI Ed Wiki',
+          name: 'AI in Education Knowledge Base',
+          short_name: 'AIEd KB',
           description: 'A knowledge base on artificial intelligence in education.',
           lang: 'en',
           start_url: '/aied/',

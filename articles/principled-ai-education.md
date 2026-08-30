@@ -47,7 +47,7 @@ This principle is the through-line of the framework. Technology use must be alig
 
 ## Relationship to Existing Research
 
-| Finkelstein principle | Supporting wiki evidence | Tension |
+| Finkelstein principle | Supporting knowledge base evidence | Tension |
 |---|---|---|
 | Goals before tools | [[stanford-evidence-base-ai-k12-2026]] (few causal studies because goals were ill-defined) | Industry pressure to deploy fast |
 | Augment, not displace | [[ai-tutor-safety-harms]] (displacement harms catalogued) | [[llm-fallacy-misattribution]] (users willingly displace themselves) |

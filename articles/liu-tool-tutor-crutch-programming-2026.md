@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This is a direct theoretical contribution to the wiki's [[cognitive-offloading]] thread in [[cs-education|programming education]], providing a *process-level* account of why performance and affect gains coexist with thinner learning — the scaffolding-vs-offloading distinction operationalizes the "coach vs. crutch" boundary the wiki documents. The proposed interventions (critique-the-AI, planned fading, verification journals) offer concrete, testable levers aligned with [[reducing-ai-misuse]] and [[ai-literacy]] — moving beyond bans toward calibrated, self-regulated AI use. The finding connects to [[measuring-llm-tutors-teach-vs-solve]] and [[stanford-evidence-base-ai-k12-2026]].
+This is a direct theoretical contribution to the knowledge base's [[cognitive-offloading]] thread in [[cs-education|programming education]], providing a *process-level* account of why performance and affect gains coexist with thinner learning — the scaffolding-vs-offloading distinction operationalizes the "coach vs. crutch" boundary the knowledge base documents. The proposed interventions (critique-the-AI, planned fading, verification journals) offer concrete, testable levers aligned with [[reducing-ai-misuse]] and [[ai-literacy]] — moving beyond bans toward calibrated, self-regulated AI use. The finding connects to [[measuring-llm-tutors-teach-vs-solve]] and [[stanford-evidence-base-ai-k12-2026]].
 
 ## Connected Concepts
 

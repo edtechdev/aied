@@ -20,7 +20,7 @@ confidence: high
 4. **Social diffusion effects.** Students acting as communicators within families and peer networks suggest sustainability consciousness propagates beyond the immediate educational setting.
 
 ## Relevance
-This is a concrete, empirical illustration of **AI for sustainability** in the wiki's [[sustainability]] concept page: using AI *for* sustainable education outcomes, in this case building sustainability consciousness in [[engineering-education]]. It complements the value-critical and scoping-review articles by providing an implementable pedagogical framework and evidence of learning and behavior change.
+This is a concrete, empirical illustration of **AI for sustainability** in the knowledge base's [[sustainability]] concept page: using AI *for* sustainable education outcomes, in this case building sustainability consciousness in [[engineering-education]]. It complements the value-critical and scoping-review articles by providing an implementable pedagogical framework and evidence of learning and behavior change.
 
 ## Connected Concepts
 - [[sustainability]]

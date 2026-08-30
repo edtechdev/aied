@@ -20,7 +20,7 @@ confidence: high
 4. **Teacher involvement matters for ESD.** Engaging teachers in developing ESD-aligned materials is a concrete pathway to building their capacity to integrate AI meaningfully.
 
 ## Relevance
-This is a teacher-education perspective on the wiki's [[sustainability]] concept page, showing how to build the educator capacity needed for AI-integrated [[teacher-education|sustainability education]]. It connects to [[teacher-role]], [[tpack]], and the practical dimension of using AI *for* sustainability education in [[k-12]] and green energy contexts.
+This is a teacher-education perspective on the knowledge base's [[sustainability]] concept page, showing how to build the educator capacity needed for AI-integrated [[teacher-education|sustainability education]]. It connects to [[teacher-role]], [[tpack]], and the practical dimension of using AI *for* sustainability education in [[k-12]] and green energy contexts.
 
 ## Connected Concepts
 - [[sustainability]]

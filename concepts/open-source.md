@@ -21,7 +21,7 @@ Open-source AI refers to models and tools whose weights and code are openly avai
 - **Benefits.** Local deployment protects [[privacy]] and data sovereignty; open models can be fine-tuned for pedagogy (see [[pedagogical-llm-training]]); and open tooling (e.g. [[stanbkt-bayesian-knowledge-tracing|STAN-BKT]]) makes research reproducible. [[vismatic-secure-sandbox-cs-education|VS-MATIC]] shows how sandboxed open environments enable safe hands-on computing education.
 - **Burdens.** Running and maintaining open models requires technical infrastructure and expertise that many institutions lack; quality and safety are not guaranteed out of the box; and deployment choices carry [[regulation|regulatory]] and operational responsibilities. [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] demonstrates that a mid-sized open model can match or exceed far larger proprietary systems when trained for pedagogy.
 
-### Connection to the wiki
+### Connection to the knowledge base
 
 Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-mathbuddy-affective-math-tutoring-2025]]), [[automated-assessment|Automated Grading]], [[writing-education]] (open writing-evaluation tools like [[aiawe-automated-writing-evaluation|AIAWE]]), and [[agentic-ai]] (open agent frameworks). It is a recurring consideration across [[edtech-platform]] and [[ai-education]] discussions, where openness is weighed against deployment burden and quality assurance.
 

@@ -11,9 +11,9 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, productive struggle evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and student-AI interaction trajectories. Math education is the most active domain-specific research area in this wiki, with 10 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.
+> **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, productive struggle evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and student-AI interaction trajectories. Math education is the most active domain-specific research area in this knowledge base, with 10 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.
 
-Mathematics education has become a primary domain for AI in education research because math problems have clear right answers yet require rich reasoning — making them ideal for studying tutoring effectiveness, assessment validity, and how AI tools interact with student cognition and affect. The articles in this wiki reveal both the promise of AI math tutors and persistent challenges: over-scaffolding that undermines productive struggle, hallucination in cognitive diagnosis, and the difficulty of balancing AI assistance with genuine learning.
+Mathematics education has become a primary domain for AI in education research because math problems have clear right answers yet require rich reasoning — making them ideal for studying tutoring effectiveness, assessment validity, and how AI tools interact with student cognition and affect. The articles in this knowledge base reveal both the promise of AI math tutors and persistent challenges: over-scaffolding that undermines productive struggle, hallucination in cognitive diagnosis, and the difficulty of balancing AI assistance with genuine learning.
 
 ### Key research themes
 

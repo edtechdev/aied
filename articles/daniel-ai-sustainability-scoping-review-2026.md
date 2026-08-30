@@ -18,7 +18,7 @@ confidence: high
 4. **Universities are dual actors.** As both users and developers of AI, universities must balance advancing sustainability goals with ensuring AI itself is used responsibly and sustainably.
 
 ## Relevance
-This scoping review is the **defining survey** for the wiki's [[sustainability]] concept page — it establishes the two-part taxonomy (AI for sustainability vs. sustainable AI) that organizes the whole concept. It connects to [[ethics]], [[governance]], and [[meta-analysis-systematic-review]] as a systematic map of the evidence base, and to the environmental-impact dimension of sustainable AI.
+This scoping review is the **defining survey** for the knowledge base's [[sustainability]] concept page — it establishes the two-part taxonomy (AI for sustainability vs. sustainable AI) that organizes the whole concept. It connects to [[ethics]], [[governance]], and [[meta-analysis-systematic-review]] as a systematic map of the evidence base, and to the environmental-impact dimension of sustainable AI.
 
 ## Connected Concepts
 - [[sustainability]]

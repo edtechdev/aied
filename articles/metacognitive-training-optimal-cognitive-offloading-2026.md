@@ -34,9 +34,9 @@ Participants completed a brief practice session (just **five trials**) in which 
 
 The authors attribute their success — versus Engeler & Gilbert (2020) and Grinschgl et al. (2020, 2025) — to two design choices: (1) **financial incentive tied to the optimality of offloading strategy**, which minimized non-metacognitive influences like effort-avoidance; and (2) **veridical, immediate, trial-by-trial feedback explicitly linked to the prior prediction**, rather than a single block-level or fake feedback statement. This supports the view that feedback is most effective when salient, explicit, and iteratively connected to one's own prediction.
 
-## Connections to the Wiki
+## Connections to the Knowledge Base
 
-This study provides strong empirical grounding for the wiki's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[cognitive-offloading|Over-Reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable regulatory skill).
+This study provides strong empirical grounding for the knowledge base's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[cognitive-offloading|Over-Reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable regulatory skill).
 
 ## Connected Concepts
 

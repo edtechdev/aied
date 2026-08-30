@@ -9,11 +9,11 @@ confidence: high
 
 > **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats [[ai-literacy|AI literacy]] as a practice of resistance and social transformation rather than mere technical competence.
 
-Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and ethical stance* that connects those skills to questions of power, justice, [[equity-in-ai-education|equity]], and social transformation. The wiki treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
+Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and ethical stance* that connects those skills to questions of power, justice, [[equity-in-ai-education|equity]], and social transformation. The knowledge base treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
 
 ### Critical pedagogy and AI in education
 
-[[ai-education|AI in education]] raises sharp questions for critical pedagogy, and the wiki documents several strands:
+[[ai-education|AI in education]] raises sharp questions for critical pedagogy, and the knowledge base documents several strands:
 
 - **Critique of the "AI colonization" of education.** Critical and feminist scholars argue that [[generative-ai|generative AI]] is reshaping education in ways that repeat patterns of colonial exploitation and extraction — of data, labor, and natural resources — enriching the powerful at the expense of marginalized communities.^[[avraamidou-ai-colonization-science-education]] This framing rejects the "techno-utopia" narrative that presents AI as a neutral silver bullet.
 - **Feminist and justice-centered AI.** A feminist approach to AI prioritizes justice over profit, asks critical questions about the nature and ownership of knowledge, who benefits from AI, and who is accountable when systems fail. It calls for critical AI literacy framed within feminist pedagogies.^[[avraamidou-ai-colonization-science-education]]
@@ -23,7 +23,7 @@ Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a
 
 ### The role of the educator
 
-Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the wiki's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.
+Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.
 
 ## Connected Concepts
 

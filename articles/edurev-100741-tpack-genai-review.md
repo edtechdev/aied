@@ -29,7 +29,7 @@ The 71 studies span publishing year, country/region, authorship type, sample siz
 
 ## The TPACK Lens
 
-The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and ethical implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the wiki's [[teacher-ai-competency]] and [[faculty-development]] research.
+The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and ethical implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the knowledge base's [[teacher-ai-competency]] and [[faculty-development]] research.
 
 ## Design Implications
 

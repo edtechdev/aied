@@ -25,7 +25,7 @@ confidence: high
 
 ## Implications
 
-This review directly informs [[ai-literacy]] and [[curriculum-design]] in [[k-12|K-12]] [[stem-education]]/STEAM: current STEAM implementations produce a lopsided, mostly-technical AI literacy. The neglected AILEs — ethical reasoning, creative futures thinking, collaborative management of AI, and designing AI systems — are exactly the higher-order competencies the wiki's critical-AI-literacy and [[reducing-ai-misuse]] strands emphasize. It offers a concrete element-based framework for balancing curriculum and assessment toward responsible AI shaping, not just technical skill.
+This review directly informs [[ai-literacy]] and [[curriculum-design]] in [[k-12|K-12]] [[stem-education]]/STEAM: current STEAM implementations produce a lopsided, mostly-technical AI literacy. The neglected AILEs — ethical reasoning, creative futures thinking, collaborative management of AI, and designing AI systems — are exactly the higher-order competencies the knowledge base's critical-AI-literacy and [[reducing-ai-misuse]] strands emphasize. It offers a concrete element-based framework for balancing curriculum and assessment toward responsible AI shaping, not just technical skill.
 
 ## Connected Concepts
 

@@ -12,7 +12,7 @@ confidence: high
 
 Inquiry-based learning centers on student-driven questions and the inquiry process itself, typically moving through phases (orientation → conceptualization → investigation → discussion → conclusion). It is the broader family under which [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] are often nested: IBL emphasizes the *questioning and discovery process*, PBL the ill-structured *problem*, and project-based learning the tangible *artefact*.
 
-## How inquiry-based learning appears in the wiki
+## How inquiry-based learning appears in the knowledge base
 
 **AI as co-inquirer.** A systematic review of ChatGPT for inquiry-based learning in STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 studies) found ChatGPT used mainly in the conceptualization, investigation, and discussion phases — as learning tool, tutor, learning peer, domain expert, and teaching assistant — improving performance, [[critical-thinking|critical thinking]], engagement, and motivation, while posing risks of over-reliance, hallucination, and superficial conclusions when output is treated as authoritative.
 
@@ -26,7 +26,7 @@ Inquiry-based learning centers on student-driven questions and the inquiry proce
 
 ## Why inquiry-based learning matters for AI integration
 
-IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The wiki's evidence converges on a core tension — AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[metacognition|reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
+IBL's question-driven, process-focused structure is the natural home for productive AI use: students learn *with* AI as a partner rather than *from* it as a substitute. The knowledge base's evidence converges on a core tension — AI can lower the friction of information retrieval and question formulation (reducing [[cognitive-offloading|cognitive load]] and enabling deeper [[metacognition|reflection]]), but without design scaffolding it risks over-reliance and bypassing higher-order cognition. The facilitator's role, the design of scaffolds, and the explicit teaching of evaluation skills are the levers determining whether AI deepens or displaces inquiry.
 
 ### Productive failure and inquiry
 

@@ -28,7 +28,7 @@ confidence: high
 
 **Five-module curriculum and seven activities.** Findings were operationalized into five online modules (foundational AI knowledge; ethics and algorithmic bias; pedagogical integration; implementation, guidelines, and policy; human-centered AI in education) delivered through seven HCAI-informed activities, including educator-in-the-loop and student-in-the-loop tasks that foreground professional judgment, transparency, explainability, value-sensitive design, and equity-oriented decision-making.
 
-**Teacher educators as pivotal nexus.** Teacher educators shape how preservice teachers first understand, evaluate, and integrate AI, yet rarely receive systematic preparation to lead this work; the study reframes AI literacy as a design practice and positions teacher educators as designers and ethical stewards of AI integration — directly supporting the wiki's [[teacher-education]] and [[teacher-role]] concepts.
+**Teacher educators as pivotal nexus.** Teacher educators shape how preservice teachers first understand, evaluate, and integrate AI, yet rarely receive systematic preparation to lead this work; the study reframes AI literacy as a design practice and positions teacher educators as designers and ethical stewards of AI integration — directly supporting the knowledge base's [[teacher-education]] and [[teacher-role]] concepts.
 
 ## Connected Concepts
 

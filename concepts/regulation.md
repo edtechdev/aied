@@ -8,9 +8,9 @@ level: [higher ed]
 confidence: high
 ---
 
-> **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the wiki spans government policy, institutional governance, and industry self-regulation.
+> **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the knowledge base spans government policy, institutional governance, and industry self-regulation.
 
-Regulation is the legal and policy layer of AI [[governance]]: it sets the binding rules, standards, and enforcement mechanisms that institutional governance translates into practice. Where governance is the broad framework of norms and structures, regulation provides the authoritative rules — from national AI laws and [[privacy|data-protection]] statutes to institutional acceptable-use policies and professional guidelines. A recurring theme in the wiki's research is that regulation lags behind AI deployment, leaving institutions to improvise governance in the gap.
+Regulation is the legal and policy layer of AI [[governance]]: it sets the binding rules, standards, and enforcement mechanisms that institutional governance translates into practice. Where governance is the broad framework of norms and structures, regulation provides the authoritative rules — from national AI laws and [[privacy|data-protection]] statutes to institutional acceptable-use policies and professional guidelines. A recurring theme in the knowledge base's research is that regulation lags behind AI deployment, leaving institutions to improvise governance in the gap.
 
 ### Regulatory landscape
 
@@ -22,7 +22,7 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 
 ### The governance gap
 
-The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
+The knowledge base documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
 
 ### Connections
 

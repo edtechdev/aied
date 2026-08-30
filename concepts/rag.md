@@ -19,7 +19,7 @@ confidence: high
 
 ### RAG vs fine-tuning
 
-RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds pedagogical behaviors. The wiki's research explores both approaches and their combination.
+RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds pedagogical behaviors. The knowledge base's research explores both approaches and their combination.
 
 ### Connections
 

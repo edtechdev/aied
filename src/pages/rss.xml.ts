@@ -27,7 +27,7 @@ export async function GET() {
     .slice(0, 40);
 
   return rss({
-    title: 'AI Ed Wiki',
+    title: 'AIEd KB',
     description: 'AI in Education Research — research article summaries and concept syntheses',
     site: 'https://edtechdev.github.io',
     items: pages.map(a => ({

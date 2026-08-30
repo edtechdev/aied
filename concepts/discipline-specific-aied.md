@@ -8,13 +8,13 @@ discipline: [discipline specific, stem education, math education, physics educat
 confidence: high
 ---
 
-> **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating AI in education as a single generic phenomenon, this overview organizes the wiki's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
+> **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating AI in education as a single generic phenomenon, this overview organizes the knowledge base's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
 
 AI in education manifests differently across disciplines because each field has its own signature pedagogy — the distinctive ways knowledge is constructed, practiced, and taught. AI tutors that shine in [[math-education|mathematics]] may fail in [[humanities-education|the humanities]], where interpretation and authorship matter more than right answers. This page is the umbrella map for those discipline-specific strands.
 
 ## Discipline-specific concepts
 
-The wiki has dedicated concept pages for several subject areas:
+The knowledge base has dedicated concept pages for several subject areas:
 
 - **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
 - **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
@@ -36,7 +36,7 @@ The wiki has dedicated concept pages for several subject areas:
 
 Several threads cut across all disciplines, though they play out differently in each:
 
-- **Discipline as an activity system.** [[jiang-genai-activity-theory-disciplines-2026|Jiang et al. (2026)]] show, across 560 undergraduates in five academic domains, that disciplinary affiliation is significantly associated with students' GenAI **usage frequency and disclosure practices** — disciplines function as activity systems whose norms, policies, and role expectations shape how students engage with and disclose GenAI. This is direct evidence for the wiki's premise that AI in education is not discipline-neutral.
+- **Discipline as an activity system.** [[jiang-genai-activity-theory-disciplines-2026|Jiang et al. (2026)]] show, across 560 undergraduates in five academic domains, that disciplinary affiliation is significantly associated with students' GenAI **usage frequency and disclosure practices** — disciplines function as activity systems whose norms, policies, and role expectations shape how students engage with and disclose GenAI. This is direct evidence for the knowledge base's premise that AI in education is not discipline-neutral.
 - **Tutoring and feedback.** AI tutoring systems ([[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
 - **Assessment and evaluation.** [[automated-assessment]], [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
 - **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
@@ -60,20 +60,20 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 - **Teacher education** — a discipline whose AI research centers on preparing teachers to integrate AI: intelligent-TPACK frameworks ([[designing-ai-professional-development-itpack-2026|i-TPACK PD]]), teacher AI literacy ([[science-educators-ai-literacy-postqualification-2026|science educators]]), pre-service readiness ([[conceptualizing-preservice-teachers-ai-readiness-2026|intelligent-TPACK readiness]]), and in-service trust and ethics ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|trust and ethics]]).
 - **Humanities & social sciences** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness.
 
-## Represented disciplines in the wiki
+## Represented disciplines in the knowledge base
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The knowledge base's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[chemistry-education]]**, **[[biology-education]]**, and **[[cs-education]]** — followed by **[[writing-education]]**, **[[language-learning]]** (with a distinct **[[english-education]]** strand for EAP/EFL/ESL), and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
-Several disciplines remain thin in the wiki and are good candidates for future ingestion:
+Several disciplines remain thin in the knowledge base and are good candidates for future ingestion:
 
 - **Law and legal education** — minimal coverage: [[llm-turing-test-italian-legal-exams-2026|LLMs and Italian legal exams]].
 - **Psychology and counseling** — few AI-in-education articles: [[hawkins-feedback-literacy-ai-essay-writing|AI feedback literacy]], [[critical-genai-use-predictors|critical GenAI use]], [[adaptive-virtual-patient-psychotherapy-training|virtual patient psychotherapy training]].
 - **History** — only isolated articles: [[paternalistic-filter-llm-history-education|LLMs and historical reasoning]].
 - **The arts (visual art, design, music)** — emerging coverage: [[ai-interior-design-malaysia-2026|AI in interior design education]], [[genai-architectural-design-studios|GenAI in architectural design studios]], [[ai-vocal-pedagogy-2026|AI vocal pedagogy]], [[musical-education-ai-digital-transformation-2026|AI in music education]], [[t2i-competence-paradox-2026|text-to-image competence paradox]].
 
-These underrepresented disciplines would benefit from dedicated concept pages and additional article ingestion as the wiki grows.
+These underrepresented disciplines would benefit from dedicated concept pages and additional article ingestion as the knowledge base grows.
 
 ## Connected Concepts
 

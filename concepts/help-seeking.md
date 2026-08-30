@@ -11,7 +11,7 @@ confidence: high
 
 > **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In AI in education, help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and pedagogical agents are designed precisely to elicit productive help-seeking rather than answer-seeking.^[[lak2026-hint-button-unproductive-use]]^[[ai-fallibility-warning-help-seeking]]
 
-Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of generative AI tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this wiki documents across domains and age groups.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of generative AI tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this knowledge base documents across domains and age groups.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
 
 ## Productive vs. unproductive help-seeking
 
@@ -19,7 +19,7 @@ The central distinction in the literature is between help-seeking that supports 
 
 ### Unproductive help-seeking behaviors
 
-Research in this wiki identifies concrete, observable patterns of unproductive help-seeking, especially in [[intelligent-tutoring|intelligent tutoring systems]]:
+Research in this knowledge base identifies concrete, observable patterns of unproductive help-seeking, especially in [[intelligent-tutoring|intelligent tutoring systems]]:
 
 - **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.^[[lak2026-hint-button-unproductive-use]]
 - **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.^[[lak2026-hint-button-unproductive-use]]
@@ -57,7 +57,7 @@ Real-world students frequently **bypass a chatbot's [[scaffolding]]** — not ne
 
 ## Help-seeking and self-regulated learning
 
-Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this wiki supports the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this knowledge base supports the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive AI use, and highlights the risk of [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
 
 ### LLM-mediated help-seeking as a four-stage process
 

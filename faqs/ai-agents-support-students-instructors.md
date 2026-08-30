@@ -30,6 +30,6 @@ The article [[agentic-workflows-education|Agentic Workflows in Education]] descr
 
 ## The state of the evidence
 
-The evidence base is still emerging. The wiki's [[agentic-ai|Agentic AI in Education]] synthesis draws on a scoping review of 474 studies but notes substantial concentration in higher education, STEM, short-term designs, and text-based tutoring; only a minority of the reviewed work explicitly grounded its systems in educational theory, and rigorous long-term classroom validation remains limited.
+The evidence base is still emerging. The knowledge base's [[agentic-ai|Agentic AI in Education]] synthesis draws on a scoping review of 474 studies but notes substantial concentration in higher education, STEM, short-term designs, and text-based tutoring; only a minority of the reviewed work explicitly grounded its systems in educational theory, and rigorous long-term classroom validation remains limited.
 
 The key design warning is therefore not to equate greater autonomy with better learning. [[agentic-ai-pedagogical-best-practice-2026|Agentic AI and Pedagogical Best Practice]] recommends intentional friction, dynamic scaffolding, and human oversight so that agent initiative does not remove the learner's own planning, monitoring, judgment, and effort. See also [[intelligent-tutoring|Intelligent Tutoring]] and [[human-in-the-loop-ai|Human-in-the-Loop AI]].

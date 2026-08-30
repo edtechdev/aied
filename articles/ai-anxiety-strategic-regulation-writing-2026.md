@@ -11,7 +11,7 @@ sources: ['raw/papers/10.1016_j.caeai.2026.100622.md']
 confidence: high
 ---
 
-Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety — a central construct of the wiki's [[ai-anxiety-and-stress]] concept. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design, the study collected survey data and post-task written reflections from 107 university students.
+Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety — a central construct of the knowledge base's [[ai-anxiety-and-stress]] concept. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design, the study collected survey data and post-task written reflections from 107 university students.
 
 ## Key Findings
 

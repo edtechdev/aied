@@ -11,7 +11,7 @@ confidence: high
 
 > **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education systems.
 
-Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the wiki's research, benchmarks appear across multiple domains:
+Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the knowledge base's research, benchmarks appear across multiple domains:
 
 - **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in [[knowledge-tracing]].
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.

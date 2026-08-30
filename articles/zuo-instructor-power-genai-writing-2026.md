@@ -38,7 +38,7 @@ An instrumental case study (exploratory approach) at "Palm Tree University," a f
 
 ## Implications for AI in education
 
-This study contributes to the wiki's [[teacher-role]] thread by showing how instructor authority and practice are reconfigured under GenAI — and to [[educational-policy-ai|policy]] discussions by revealing why [[governance|institutional policies]] matter (consistency, adjunct support, disciplinary differences). It reinforces the [[ai-literacy]] imperative for both students and faculty, connects to [[equity-in-ai-education|equity]] concerns (the [[digital-divide]]), and supports [[faculty-development]] focused on process-oriented pedagogy and open departmental dialogue. It complements [[academic-integrity]] work by showing how instructors move from detection toward teaching acceptable GenAI use and promoting [[student-experience|student accountability]] in [[ai-education|AI-mediated education]].
+This study contributes to the knowledge base's [[teacher-role]] thread by showing how instructor authority and practice are reconfigured under GenAI — and to [[educational-policy-ai|policy]] discussions by revealing why [[governance|institutional policies]] matter (consistency, adjunct support, disciplinary differences). It reinforces the [[ai-literacy]] imperative for both students and faculty, connects to [[equity-in-ai-education|equity]] concerns (the [[digital-divide]]), and supports [[faculty-development]] focused on process-oriented pedagogy and open departmental dialogue. It complements [[academic-integrity]] work by showing how instructors move from detection toward teaching acceptable GenAI use and promoting [[student-experience|student accountability]] in [[ai-education|AI-mediated education]].
 
 ## Connected Concepts
 

@@ -30,7 +30,7 @@ Current technology-adoption models ([[scaffolding]]-like frameworks such as DoI 
 - **Weak predictors:** Institutional initiatives, demographics (discipline, career stage, institution type), information sources
 - **Information flow:** Department colleagues (64%) and discipline-specific news were top sources; institutional support mechanisms were less used
 
-## Connections to Wiki
+## Connections to Knowledge Base
 
 ### Faculty Development
 This paper challenges the implicit theory behind many [[faculty-development]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.

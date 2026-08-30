@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The study positions [[activity-theory-aied|activity theory]] as a structural lens on teacher adoption of AI, complementing individual-belief models like [[technology-acceptance-model|TAM]] by foregrounding the community, rules, and division of labor that shape a teacher's decision to use AI. For practice, it implies that [[faculty-development|professional development]] and [[governance|institutional]] adoption strategies should address not only individual attitudes but the collective activity system — community norms, regulations, and role divisions — in which teachers work. It connects to the wiki's [[teacher-role]] and [[k-12]] concepts and to the broader question of how [[faculty-development|teacher professional development]] should be designed for the AI era.
+The study positions [[activity-theory-aied|activity theory]] as a structural lens on teacher adoption of AI, complementing individual-belief models like [[technology-acceptance-model|TAM]] by foregrounding the community, rules, and division of labor that shape a teacher's decision to use AI. For practice, it implies that [[faculty-development|professional development]] and [[governance|institutional]] adoption strategies should address not only individual attitudes but the collective activity system — community norms, regulations, and role divisions — in which teachers work. It connects to the knowledge base's [[teacher-role]] and [[k-12]] concepts and to the broader question of how [[faculty-development|teacher professional development]] should be designed for the AI era.
 
 ## Connected Concepts
 - [[activity-theory-aied]]

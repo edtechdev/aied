@@ -9,7 +9,7 @@ level: [higher ed]
 
 # What is the evidence on AI literacy interventions in higher education?
 
-The evidence on **[[ai-literacy|AI literacy]] interventions in [[higher-ed|higher education]] is promising, but still methodologically immature**. Across the wiki, the strongest recurring finding is that AI literacy develops more effectively through **active, contextualized practice with AI—especially critique, comparison, reflection, and collaboration—than through tool demonstrations or lectures alone**. At the same time, relatively few studies measure durable, independently demonstrated competence; many rely on [[self-regulated-learning|self-report]], short interventions, observational comparisons, or design-based research.
+The evidence on **[[ai-literacy|AI literacy]] interventions in [[higher-ed|higher education]] is promising, but still methodologically immature**. Across the knowledge base, the strongest recurring finding is that AI literacy develops more effectively through **active, contextualized practice with AI—especially critique, comparison, reflection, and collaboration—than through tool demonstrations or lectures alone**. At the same time, relatively few studies measure durable, independently demonstrated competence; many rely on [[self-regulated-learning|self-report]], short interventions, observational comparisons, or design-based research.
 
 The intervention literature converges on several design principles.
 
@@ -69,7 +69,7 @@ Source: [[contextual-sycophancy-ai-literacy|The Hidden Cost of Contextual Sycoph
 
 ## Measuring AI literacy matters
 
-The measurement literature reinforces this caution. The validated **GLAT** performance test predicted performance on an AI-assisted higher-education task, whereas a self-reported ChatGPT-literacy measure did not. More broadly, the wiki reports substantial discrepancies between people's reported and demonstrated AI competence.
+The measurement literature reinforces this caution. The validated **GLAT** performance test predicted performance on an AI-assisted higher-education task, whereas a self-reported ChatGPT-literacy measure did not. More broadly, the knowledge base reports substantial discrepancies between people's reported and demonstrated AI competence.
 
 Consequently, an intervention that raises confidence, attitudes, or perceived literacy should **not automatically be interpreted as improving AI literacy itself**. This points to the importance of [[educational-measurement|educational measurement]] and [[assessment-validity|assessment validity]] when evaluating AI-literacy interventions.
 

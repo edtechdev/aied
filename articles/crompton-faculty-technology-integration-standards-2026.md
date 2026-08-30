@@ -39,9 +39,9 @@ The study uses design-based research (Gravemeijer & van Eerde, 2009), which is s
 
 The study responds to calls from scholars, organizations, and institutions to address the gap in scholarly knowledge about HE faculty technology standards. The COVID-19 pandemic exposed gaps in faculty preparedness for digital teaching, research, and service. The research questions ask what standards faculty should demonstrate and what indicators exemplify meeting them. A notable participant-driven refinement was the renaming of the "Administrator" standard to "Coordinator," reflecting the social and organizational meaning of terms in academic settings — a useful insight for [[administrator]] and [[teacher-role]] concepts.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
-This article is central to the wiki's [[faculty-development]] and [[teacher-role]] clusters. It provides a concrete, evidence-based framework for how institutions can benchmark and support faculty technology integration across teaching, research, and service, and it connects to [[instructional-design]], [[curriculum-design]], and institutional [[governance]]/accreditation. It also complements [[ai-literacy]] by framing technology competence as a structured, standards-based institutional concern rather than an individual add-on.
+This article is central to the knowledge base's [[faculty-development]] and [[teacher-role]] clusters. It provides a concrete, evidence-based framework for how institutions can benchmark and support faculty technology integration across teaching, research, and service, and it connects to [[instructional-design]], [[curriculum-design]], and institutional [[governance]]/accreditation. It also complements [[ai-literacy]] by framing technology competence as a structured, standards-based institutional concern rather than an individual add-on.
 
 ## Connected Concepts
 

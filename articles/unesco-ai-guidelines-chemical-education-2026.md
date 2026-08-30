@@ -33,7 +33,7 @@ UNESCO's *Recommendation on the Ethics of AI* (2021, adopted by 193 Member State
 
 ## Epistemic drift
 
-The article's central conceptual warning is **[[philosophy-of-ai-in-education|epistemic drift]]**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
+The article's central conceptual warning is **[[philosophy-of-ai-in-education|epistemic drift]]**: when students and researchers rely on opaque, data-driven models, scientific inquiry risks becoming detached from causal understanding and theory. This connects directly to the knowledge base's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns — the risk that AI substitutes explanation and reasoning rather than supporting them.
 
 ## Prompt engineering for scientific illustration
 

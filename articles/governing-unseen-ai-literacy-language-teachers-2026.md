@@ -16,7 +16,7 @@ confidence: high
 
 ## Key Findings
 
-**Conceptualisation.** AI literacy among language teachers is most often modelled as a set of competencies spanning technological, pedagogical and (less so) critical-ethical dimensions. Domain-specific literacy — how AI reshapes language teaching's subject matter — is comparatively thin, echoing the wiki's broader finding that [[ai-literacy]] frameworks routinely under-specify disciplinary content.
+**Conceptualisation.** AI literacy among language teachers is most often modelled as a set of competencies spanning technological, pedagogical and (less so) critical-ethical dimensions. Domain-specific literacy — how AI reshapes language teaching's subject matter — is comparatively thin, echoing the knowledge base's broader finding that [[ai-literacy]] frameworks routinely under-specify disciplinary content.
 
 **Four governance patterns.** Across the corpus, the authors identify four recurring "governing the unseen" patterns: (1) institutional invisibility of AI literacy in workload models, promotion policies, and resource allocation; (2) fragmented professional development rather than coherent, sustained PD; (3) ungoverned ethical ambiguity — unclear guidelines leave teachers to navigate moral and professional dilemmas individually; and (4) displaced accountability, where responsibility for AI literacy is shared or unclear across institutions, teacher-training programmes and policy agencies.
 

@@ -35,7 +35,7 @@ The AI era has pushed the framework toward a technology-with-intelligence readin
 
 ## Why It Matters in AI Education
 
-TPACK is the organizing framework for the teacher-side of the wiki's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into learning gains. The wiki's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[faculty-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
+TPACK is the organizing framework for the teacher-side of the knowledge base's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into learning gains. The knowledge base's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[faculty-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
 
 ## Design Implications
 
