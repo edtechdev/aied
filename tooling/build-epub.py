@@ -133,37 +133,90 @@ parts = []
 # Home intro (the front matter / title + copyright info now live in the
 # dedicated Copyright page handled in build_epub() post-processing)
 today = datetime.date.today().strftime('%B %d, %Y')
-parts.append("""# Introduction
+# --- assemble markdown ---
+parts = []
 
-Welcome to the **AI in Education Knowledge Base** — a living, open knowledge base on artificial intelligence in education, built for educators, researchers, and developers who want to keep pace with a fast-moving field. Whether you teach in higher education or K-12, design courses and learning experiences, develop educational software, administer programs, or study teaching and learning, this knowledge base distills recent open-access research into concise, structured summaries you can read and apply quickly. The site is **generated and maintained by an AI agent**, and is updated regularly as new open-access research is published.
+import html as _html
 
-Each article page condenses a paper into its purpose, methods, and practical findings, with an APA citation and links to related work. The knowledge base continuously **ingests open-access research** from arXiv, EdArXiv, and peer-reviewed journals — so you can track emerging findings on topics such as AI tutoring, assessment, AI literacy, feedback, and equity in AI education.
+def astro_body_markdown(astro_path, chapter_h1):
+    """Extract the body content of a .astro page (between <BaseLayout> and
+    </BaseLayout>) and convert its simple HTML to markdown, so the EPUB always
+    reflects the current site pages instead of a hardcoded copy.
+    Concept/FAQ/wiki links become internal EPUB anchors; external links stay."""
+    src = open(astro_path, encoding='utf-8').read()
+    m = re.search(r'<BaseLayout\b[^>]*>(.*?)</BaseLayout>', src, re.S)
+    body = m.group(1) if m else src
 
-**AI in Education (AIED)** is the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. It spans **AI for education** — using AI to improve instruction, assessment, and administration — and **education about AI** — building the AI literacy and critical understanding learners and educators need.
-""")
+    n_articles = len([f for f in os.listdir(os.path.join(WIKI,'articles')) if f.endswith('.md')])
+    n_concepts = len(concept_slugs)
+    body = body.replace('{articles.length}', str(n_articles))
+    body = body.replace('{concepts.length}', str(n_concepts))
 
-# Use with AI
-parts.append("""# Use This Knowledge Base with Your Own AI Assistant
+    # Drop a leading H1 that duplicates the chapter heading or the site title
+    # (e.g. index.astro opens with the page-title H1).
+    def _drop_first_h1(m):
+        t = _html.unescape(m.group(1)).strip()
+        if t == chapter_h1 or t == 'AI in Education Knowledge Base':
+            return ''
+        return m.group(0)
+    body = re.sub(r'<h1\b[^>]*>(.*?)</h1>', _drop_first_h1, body, count=1, flags=re.S)
 
-This knowledge base is **agent-ready**: the full catalog and content are published as machine-readable text files that any AI chatbot, coding agent, or LLM tool can ingest. Give your assistant a link to the knowledge base and it can answer questions about AI in education research with citations back to the knowledge base. Before asking, check the FAQ section — it may already have answers to common questions.
+    body = re.sub(r'<style.*?</style>', '', body, flags=re.S)
+    body = re.sub(r'<script.*?</script>', '', body, flags=re.S)
+    body = re.sub(r'<[A-Z][A-Za-z]*\s*/>', '', body)  # self-closing components
+    body = re.sub(r'<button\b.*?</button>', '', body, flags=re.S)
 
-**Quick start.** Point your AI assistant at one of these files — most tools can read a URL directly:
+    def link(m):
+        href, label = m.group(1), m.group(2)
+        label = _html.unescape(label).strip()
+        if href.startswith('/aied/concepts/'):
+            slug = href.rstrip('/').split('/')[-1]
+            return f'[{label}](#{slug})'
+        if href in ('/aied/faq', '/aied/faq/'):
+            return f'[{label}](#frequently-asked-questions)'
+        if href in ('/aied/ai', '/aied/ai/'):
+            return f'[{label}](#use-this-knowledge-base-with-your-own-ai-assistant)'
+        if href.startswith('http'):
+            return f'[{label}]({href})'
+        return f'[{label}](https://edtechdev.github.io{href})'
+    body = re.sub(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', link, body, flags=re.S)
 
-- `llms.txt` — complete catalog: every article and concept, one line each, with description
-- `llms-full.txt` — full text of every article and concept page
-- Sitemap — all page URLs
-- RSS feed — latest additions
+    def heading(m, level):
+        return '\n' + '#'*level + ' ' + _html.unescape(m.group(1)).strip() + '\n'
+    body = re.sub(r'<h1\b[^>]*>(.*?)</h1>', lambda m: heading(m,1), body, flags=re.S)
+    body = re.sub(r'<h2\b[^>]*>(.*?)</h2>', lambda m: heading(m,2), body, flags=re.S)
 
-**Copy-paste prompt.** Paste this into your AI chatbot or agent to use the knowledge base as a research reference:
+    def code(m):
+        return '\n```\n' + _html.unescape(m.group(1)).strip() + '\n```\n'
+    body = re.sub(r'<pre\b[^>]*>.*?<code>(.*?)</code>.*?</pre>', code, body, flags=re.S)
 
-> You are a research assistant for AI in education. Use the AI in Education Knowledge Base as your knowledge base.
-> 1. First fetch the catalog: https://edtechdev.github.io/aied/llms.txt (If you need full text of specific pages, fetch them from https://edtechdev.github.io/aied/llms-full.txt or the individual page URLs.)
-> 2. When answering questions about AI in education research, ground your answer in articles and concepts from this knowledge base. Cite the knowledge base page title and URL for every claim you make from it.
-> 3. If asked about a topic, synthesize across multiple related articles and concepts rather than relying on a single page. Mention when the knowledge base does not cover a topic instead of guessing.
-> 4. Recommend related articles and concepts when relevant.
+    def ul(m):
+        items = re.findall(r'<li[^>]*>(.*?)</li>', m.group(1), flags=re.S)
+        lines = ['- ' + _html.unescape(re.sub(r'<[^>]+>', '', it)).strip() for it in items]
+        return '\n' + '\n'.join(lines) + '\n'
+    body = re.sub(r'<ul\b[^>]*>(.*?)</ul>', ul, body, flags=re.S)
 
-**Notes for agents.** The knowledge base covers AI in education research: tutoring, assessment, feedback, AI literacy, teacher AI competency, policy, and more. Articles include APA citations; the original paper links are in each citation. Concept pages synthesize the related articles — start there for overviews.
-""")
+    body = re.sub(r'<strong>(.*?)</strong>', r'**\1**', body, flags=re.S)
+    body = re.sub(r'<em>(.*?)</em>', r'*\1*', body, flags=re.S)
+    body = re.sub(r'<br\s*/?>', '\n', body)
+
+    def para(m):
+        t = _html.unescape(re.sub(r'<[^>]+>', '', m.group(1))).strip()
+        return t + '\n\n' if t else ''
+    body = re.sub(r'<p\b[^>]*>(.*?)</p>', para, body, flags=re.S)
+    body = re.sub(r'<div\b[^>]*>(.*?)</div>', para, body, flags=re.S)
+
+    body = re.sub(r'<[^>]+>', '', body)
+    body = _html.unescape(body)
+    body = re.sub(r'\n{3,}', '\n\n', body)
+    body = re.sub(r'[ \t]+\n', '\n', body)
+    return f"# {chapter_h1}\n\n{body.strip()}\n"
+
+# Front-matter chapters are built from the live site pages so the EPUB stays in
+# sync with the site (no hardcoded copies to drift).
+parts.append(astro_body_markdown(os.path.join(WIKI, 'src', 'pages', 'index.astro'), 'Introduction'))
+parts.append(astro_body_markdown(os.path.join(WIKI, 'src', 'pages', 'ai.astro'),
+                                 'Use This Knowledge Base with Your Own AI Assistant'))
 
 # Concepts organized by umbrella groups
 for heading, groups in sections:
