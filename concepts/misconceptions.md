@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-08-28T14:00:00-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, academic-integrity, generative-ai, student-experience, teacher-role]
 audience: [learners, instructors]
@@ -98,6 +98,7 @@ These refutations are deliberately written in the [[refutation-text|refutation-t
 - [[trust]]
 
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)

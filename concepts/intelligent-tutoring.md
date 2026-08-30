@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-29T20:37:39-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
@@ -90,6 +90,7 @@ This relational-intensity framing is the "not a monolith" counterpoint to the fi
 
 Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhang et al. (2026)]] evaluate whether LM tutors adapt to learners' evolving understanding at teacher-annotated decision points. They find frontier models default toward over-helpfulness and rarely push for rigor, and that evaluation-aware prompting improves but does not fully solve adaptivity.
 
+- **[[deceptive-overgeneralization-adaptive-learning-2026|Deceptive overgeneralization (An et al. 2026)]]** shows ITS mastery stopping rules (BKT, 95% threshold) can end practice before learners learn *when to withhold* a skill: learners who overgeneralized misapplied actions on first "do-not-act" items at 61.5%–100%, and targeted refrain-practice with constraint-naming [[feedback]] reduced this to near-floor. Correctness-based mastery inference is necessary but not sufficient for ITS adaptivity.
 - **Graph-based ITS for dynamic domains.** [[graph-its-adaptive-algorithms-2026|A graph-based intelligent tutoring system]] combines an Evolving Knowledge Space Graph with [[generative-ai|generative AI]] content creation and Bayesian knowledge propagation — which showed the highest knowledge gains — supporting adaptive learning in dynamic curricula.
 ## Connected Concepts
 
@@ -114,6 +115,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]

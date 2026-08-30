@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-08-24T21:00:00-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
 level: [k 12]
@@ -77,6 +77,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[self-regulated-learning]]
 - [[learning-theories]]
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 
 - [[stanford-evidence-base-ai-k12-2026]]

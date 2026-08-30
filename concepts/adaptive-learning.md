@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -33,6 +33,8 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **[[meta-analysis-systematic-review|Meta-analytic]] evidence on adaptive + AI tools.** [[burneo-can-edtech-close-learning-gaps-2026|A World Bank meta-analysis]] of 14 [[rct|RCTs]] pools adaptive computer-assisted learning, intelligent tutoring, and generative AI on a common scale, estimating an average learning gain of ~0.125 sd with no significant difference between the two technology generations — evidence that the adaptation mechanism, not the specific tool generation, drives gains.
 - **Adaptive algorithms compared in dynamic domains.** [[graph-its-adaptive-algorithms-2026|Graph-based ITS research]] compares multiple adaptive learning algorithms (including Bayesian knowledge propagation and intuitionistic fuzzy logic) in a graph-based knowledge representation framework for dynamic curricula.
 
+- **Correctness-based adaptivity can stop practice too early.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found that adaptive systems inferring mastery from correctness risk terminating practice before learners encounter contexts where the learned action should be withheld — leaving deceptive overgeneralization undetected. They recommend including "do-not-act" detector tasks before mastery stopping rules trigger, so adaptation tests conditional understanding (knowing when to withhold an action), not only correctness.
+
 ### Connections
 
 Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
@@ -55,6 +57,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]

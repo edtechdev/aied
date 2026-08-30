@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-27T10:55:43.284361-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [learning-theories, behaviorism, self-regulated-learning, metacognition, instructional-design, generative-ai, higher-ed]
 level: [higher ed]
@@ -45,6 +45,8 @@ Recent theoretical work extends the classical strand in several directions, each
 - **Ensemble Cognition.** A [[philosophy-of-ai-in-education|philosophical]] framework reconceptualises thinking as emerging from dynamic interactions between human and artificial agents rather than residing solely in individual minds.([[ensemble-cognition-philosophy-ai-education]]) It challenges the "consciousness paradigm" (the autonomy, consciousness, and stability assumptions) and articulates five features — distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching — while distinguishing AI's **functional agency** from moral responsibility.
 - **[[self-directed-learning|Self-Directed]] Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalised through the Aspire to Potentials for Learners (A2PL) model.([[self-directed-growth-generative-ai-learning-analytics]]) It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
 
+- **Deceptive overgeneralization.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] extend the ACT-R / Knowledge-Learning-Instruction tradition by theorizing when observed correctness masks incomplete conditional understanding: learners compile an overgeneralized production that omits an application constraint yet still performs correctly — a failure mode that adaptive mastery systems, and even traditional instruction, can miss unless they test *when to withhold* an action.
+
 ### How the knowledge base organizes this strand
 
 Rather than treating learning theories as abstract philosophy, the knowledge base grounds each in the AI-in-education research that uses it. The [[constructivist]] and [[behaviorism]] pages document how AI designs embody (or betray) each theory; Cognitive Load Theory, [[self-regulated-learning]], [[metacognition]], and [[transfer-of-learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how the knowledge base treats other umbrella domains like [[feedback]] and [[assessment]] — a coherent system of interacting concepts rather than isolated pages.
@@ -84,6 +86,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[theory-development-aied]] — Theory Development in AI in Education
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
