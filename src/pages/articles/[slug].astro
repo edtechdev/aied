@@ -224,7 +224,7 @@ if (connectedFaqs.length > 0) {
     <div class="page-header" id="top">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">📄 Research Article</p>
       <h1>{title}</h1>
-      <div style="color:var(--muted-color);font-size:0.9rem">
+      <div style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
         <StarButton slug={slug} kind="article" />
         created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
