@@ -4,6 +4,8 @@ A knowledge base on artificial intelligence in education — research, pedagogy,
 
 **Live site:** [edtechdev.github.io/aied](https://edtechdev.github.io/aied)
 
+**Offline versions:** [EPUB](https://edtechdev.github.io/aied/aied.epub) · [PDF](https://edtechdev.github.io/aied/aied.pdf)
+
 ## License
 
 Code in this repository is licensed under the **MIT License**; wiki content (markdown, HTML) is released to the public domain under **CC0 1.0 Universal**. See [LICENSE](LICENSE).
@@ -37,6 +39,10 @@ wiki/
 ├── public/
 │   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
 │   ├── llms-full.txt  # Full text of every page
+│   ├── aied.epub      # Offline EPUB version (concepts + FAQs)
+│   ├── aied.pdf       # Offline PDF version (concepts + FAQs)
+│   ├── epub-cover.png # Book cover used by the EPUB/PDF
+│   ├── cc0.png        # CC0 public-domain badge
 │   └── robots.txt     # Search indexing + sitemap
 ├── tooling/           # Reusable tooling for running your own wiki
 ├── astro.config.mjs   # Astro config (base /aied, pagefind, sitemap, trailingSlash: 'never')
@@ -61,9 +67,36 @@ npm run preview
 
 # Regenerate agent-ready files (llms.txt, llms-full.txt)
 python3 tooling/scripts/generate-llms-files.py
+
+# Regenerate the EPUB (aied.epub) and PDF (aied.pdf) offline versions
+python3 tooling/build-epub.py
 ```
 
 The built site lands in `dist/` and is deployed to GitHub Pages via the GitHub Actions workflow (`.github/workflows/astro-deploy.yml`).
+
+## Offline Versions (EPUB & PDF)
+
+The wiki is also published as downloadable eBooks, generated from the same markdown as the site:
+
+- **EPUB** — `https://edtechdev.github.io/aied/aied.epub`
+- **PDF** — `https://edtechdev.github.io/aied/aied.pdf`
+
+Both contain the **home introduction**, the **Use-With-AI page**, all **concept pages** (organized into chapters by umbrella group, with a clickable, numbered table of contents), the **FAQ pages**, and a **Notice** page (editor, CC0 license, AI-disclaimer, and how to report issues). The EPUB/PDF contain only the concept and FAQ pages — not the hundreds of article summaries.
+
+**Regenerate both with one command** (shared markdown export + cover):
+
+```bash
+python3 tooling/build-epub.py
+```
+
+This writes `public/aied.epub` and `public/aied.pdf`. The scripts that produce them live in `tooling/`:
+
+- `tooling/build-epub.py` — assembles the shared markdown export, then runs pandoc for the EPUB (with hard-coded hierarchical TOC numbering) and pandoc + **weasyprint** for the PDF (clickable blue TOC via CSS counters). It also post-processes the EPUB (Notice page, CC0 badge, landmarks labeling).
+- `tooling/pdf-style.css` — print layout for the PDF (A4, page numbers, cover page, clickable blue links).
+- `tooling/gen-epub-cover.mjs` — renders the book cover (`public/epub-cover.png`) with sharp (title, concept map, editor, CC0 badge, date).
+- `tooling/gen-og-concept-map.mjs` — renders the concept-map images (white / dark variants).
+
+The EPUB/PDF and cover are committed artifacts (built locally, like `llms-full.txt`); the CI deploy workflows copy `public/` so they're served from `/aied/aied.epub` and `/aied/aied.pdf`. Requires `pandoc` and, for the PDF, the `weasyprint` Python package.
 
 ## Page Structure
 

@@ -110,6 +110,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
 - After ANY page change: run `npm run build`, then `git add -A && git commit -m "..." && git push origin main`
+- **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concepts + FAQs, with a Notice page and clickable TOC). After content changes, regenerate them with `python3 tooling/build-epub.py` and commit them too (they are committed artifacts served from `/aied/aied.epub` and `/aied/aied.pdf`). Requires `pandoc` and, for the PDF, `weasyprint`.
 
 ### Cron job
 Weekdays 9am ET: scans arXiv cs+education and physics.ed-ph for new papers, creates articles + updates concepts, builds site, commits and pushes.
