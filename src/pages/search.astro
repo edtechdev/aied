@@ -83,18 +83,22 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   }
   /* Keep the dropdown popup inside the viewport on small screens. PageFind
      styles the menu with high-specificity selectors (`:is(*, #\#):is(*, #\#):is(*, #\#)`),
-     so `!important` is required to override its `inset-inline-start:0; min-width:180px`.
-     We anchor the menu to the right edge of its trigger and cap its width to the
-     viewport so it can't spill off the right side on mobile. */
+     so `!important` is required. On mobile we switch the menu to `position:fixed`
+     anchored to the viewport's right edge (and cap height + width) so it can
+     never spill off the side or bottom of the screen. */
   @media (max-width: 640px) {
     :global(.pf-dropdown-menu) {
+      position: fixed !important;
+      top: 1rem !important;
+      left: 1rem !important;
+      right: 1rem !important;
+      bottom: auto !important;
+      inset: 1rem 1rem auto 1rem !important;
       min-width: 0 !important;
-      width: max-content !important;
-      max-width: calc(100vw - 2rem) !important;
-      left: auto !important;
-      right: 0 !important;
-      inset-inline-start: auto !important;
-      max-height: min(60vh, 24rem) !important;
+      width: auto !important;
+      max-width: none !important;
+      max-height: min(70vh, 24rem) !important;
+      z-index: 1000 !important;
     }
   }
 
