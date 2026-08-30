@@ -18,9 +18,14 @@ title: Paper Title  # quote if contains colons: "Title: Subtitle"
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp (date+time)
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp; bump on significant edits
 type: article
-tags: [tag1, tag2, ...]  # 6-10 EXISTING tags from tags/ directory
+tags: [tag1, tag2, ...]  # 6-10 EXISTING concept slugs (see tooling/SCHEMA.md)
 sources: ['raw/papers/{arxiv_id}.md']
 confidence: high
+research_method: [systematic review, survey]  # optional, natural-language
+discipline: [math education, physics education]  # optional
+audience: [instructors, learners, researchers, administrators]  # optional
+level: [early childhood, k 12, higher ed, adult learning]  # optional
+category: [assessment, framework]  # optional
 ---
 
 > **Synthesis:** One-paragraph summary (3-5 sentences) with embedded [[wikilinks]].
@@ -52,7 +57,7 @@ title: Concept Name
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp (date+time)
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp; bump on significant edits
 type: concept
-tags: [tag1, tag2, ...]  # 6-10 EXISTING tags
+tags: [tag1, tag2, ...]  # 6-10 EXISTING concept slugs
 confidence: medium  # or high for well-developed concepts
 ---
 
@@ -101,7 +106,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - **`created`/`updated` carry FULL quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates — the sidebar and RSS sort by these via string compare, and unquoted ISO timestamps shift to UTC (next day). Display is date-only; the time is for sorting.
 - **Ingestion enrichment:** when a new article makes a significant contribution to a connected concept (novel framing, distinctive finding, or a missing dimension), integrate it into that concept's **body narrative** (research bullet / subsection), not just its Connected Articles list.
 - **Significant body edits:** whenever you make a substantive edit to a concept or article page (not just frontmatter or Connected lists), bump its `updated` timestamp to the current date+time and rebuild so the right sidebar listing refreshes.
-- Tags: concept pages serve the tag role — no separate tag pages. Use relevant tags in frontmatter; they render as plain labels (not hyperlinks) at the top of the page.
+- Tags: tags in frontmatter are **concept slugs** (each value is a real concept page); they render as **clickable chips linking to their concept pages**. Optional structured metadata fields (`level`, `audience`, `discipline`, `category`, `research_method`) hold natural-language values used as PageFind search facets — see `tooling/SCHEMA.md`.
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
 - After ANY page change: run `npm run build`, then `git add -A && git commit -m "..." && git push origin main`
