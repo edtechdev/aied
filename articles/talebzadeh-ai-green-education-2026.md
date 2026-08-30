@@ -1,7 +1,7 @@
 ---
 title: "The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints"
 created: "2026-08-09T08:35:52-04:00"
-updated: "2026-08-09"
+updated: "2026-08-30T05:30:00-04:00"
 type: article
 tags: [generative-ai, teacher-role, instructional-design, higher-ed, ai-education, sustainability, faculty-development]
 research_method: [experiment]
@@ -21,13 +21,13 @@ confidence: medium
 - **Exceptionally large effect size:** Cohen's d = 2.80
 - **SDP workflow compliance** showed the largest gain (+1.83 units)
 - **Zero-paper resource management** constraint acted as a catalyst for more reflective, strategic instructional design
-- **Teacher role transformation:** from conventional pedagogical designer to efficient, reflective educational manager
+- **[[teacher-role|Teacher role]] transformation:** from conventional [[pedagogy|pedagogical]] designer to efficient, reflective educational manager
 
 ## Implications
 
 This study connects [[instructional-design]] with [[generative-ai|AI-assisted pedagogy]] by demonstrating that AI-enforced constraints — rather than open-ended AI assistance — can drive deeper pedagogical reflection. The large effect size is notable and suggests that structured [[scaffolding]] through AI workflows may be more effective than unstructured AI use for teacher development.
 
-The finding aligns with [[genai-can-harm-teaching-rct-2026]] research showing that uncontrolled AI access can reduce teaching quality, while structured frameworks preserve pedagogical integrity. For [[faculty-development]], this suggests AI integration should be framework-guided rather than tool-centric.
+The finding aligns with [[genai-can-harm-teaching-rct-2026]] [[research-methods-aied|research]] showing that uncontrolled AI access can reduce teaching quality, while structured frameworks preserve pedagogical integrity. For [[faculty-development]], this suggests AI integration should be framework-guided rather than tool-centric.
 
 ## Connected Concepts
 
@@ -40,6 +40,7 @@ The finding aligns with [[genai-can-harm-teaching-rct-2026]] research showing th
 - [[higher-ed]]
 - [[sustainability]]
 
+## Connected Articles
 
 - [[genai-can-harm-teaching-rct-2026]] — Is Using GenAI Tools in Teaching Really Improving Teaching Quality?
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: RL Teaching
