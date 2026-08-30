@@ -23,7 +23,7 @@ confidence: high
 
 **Technological trends.** Most studies deploy proprietary, pre-trained GPT-3.5/GPT-4 with context-enriched, role-based zero-shot or few-shot [[prompt-engineering]]; instruction fine-tuning, open-source models, and multi-agent designs are beginning to emerge.
 
-**Empirical findings.** LLM-generated feedback consistently outperforms no-feedback conditions and often improves revision quality, motivation, and short-term learning outcomes, sometimes approaching teacher feedback under well-designed prompting — central to the wiki's [[feedback]] and [[ai-feedback-quality]] concepts.
+**Empirical findings.** LLM-generated feedback consistently outperforms no-feedback conditions and often improves revision quality, motivation, and short-term learning outcomes, sometimes approaching teacher feedback under well-designed prompting — central to the knowledge base's [[feedback]] and [[ai-feedback-quality]] concepts.
 
 **Recurring risks and mitigations.** Hallucinations, over-positivity, and misclassification of student work recur; emerging evidence indicates that instruction fine-tuning, grounding prompts in student artifacts, and [[human-ai-collaboration|teacher-in-the-loop]] oversight can mitigate these issues.
 

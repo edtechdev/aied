@@ -18,7 +18,7 @@ confidence: high
 
 ## The Role of Prompt Scaffolding
 
-The study's key design innovation is prompt scaffolding — structured prompts (context, objective, role) that guide students' dialogue with GenAI during peer feedback. Because students often experience [[cognitive-offloading|over-reliance]] on GenAI-generated content and struggle to phrase questions, scaffolding helps them engage in cognitive and metacognitive processes. The PS-GenAI-PF group showed strong associations between negative emotions and higher-order feedback content (identification-suggestion and explanation-suggestion), suggesting scaffolded students critically evaluated rather than merely accepted AI output. This directly engages the wiki's [[scaffolding]] and [[prompt-engineering]] concepts and shows how structured prompts can transform GenAI from answer-provider into learning facilitator.
+The study's key design innovation is prompt scaffolding — structured prompts (context, objective, role) that guide students' dialogue with GenAI during peer feedback. Because students often experience [[cognitive-offloading|over-reliance]] on GenAI-generated content and struggle to phrase questions, scaffolding helps them engage in cognitive and metacognitive processes. The PS-GenAI-PF group showed strong associations between negative emotions and higher-order feedback content (identification-suggestion and explanation-suggestion), suggesting scaffolded students critically evaluated rather than merely accepted AI output. This directly engages the knowledge base's [[scaffolding]] and [[prompt-engineering]] concepts and shows how structured prompts can transform GenAI from answer-provider into learning facilitator.
 
 ## Methodology
 
@@ -33,9 +33,9 @@ The study's key design innovation is prompt scaffolding — structured prompts (
 
 The study supports using GenAI to scaffold peer feedback in [[collaborative-learning]] and argumentation — areas where students often struggle to produce rebuttals, treat criticism as personal attack, or repeat others' ideas. Structured prompt scaffolding can help students overcome these difficulties and develop [[critical-thinking]] and self-[[regulation]]. The finding that scaffolded students produced higher-order feedback while experiencing (and productively managing) negative affect suggests that instructional design should deliberately pair GenAI support with prompt guidance to realize its benefits and mitigate the cognitive-offloading risks of uncritical reliance.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
-This article contributes empirical evidence to the wiki's [[feedback]], [[collaborative-learning]], and [[scaffolding]] clusters. It connects [[prompt-engineering]] to peer feedback and argumentation, and links GenAI support to [[self-regulated-learning]], [[metacognition]], and [[critical-thinking]]. It also provides a useful model of [[human-ai-collaboration]] where GenAI acts as an evaluative scaffold within a student-centered, collaborative [[pedagogy]], relevant to [[instructional-design]] and [[assessment]] in [[higher-ed]].
+This article contributes empirical evidence to the knowledge base's [[feedback]], [[collaborative-learning]], and [[scaffolding]] clusters. It connects [[prompt-engineering]] to peer feedback and argumentation, and links GenAI support to [[self-regulated-learning]], [[metacognition]], and [[critical-thinking]]. It also provides a useful model of [[human-ai-collaboration]] where GenAI acts as an evaluative scaffold within a student-centered, collaborative [[pedagogy]], relevant to [[instructional-design]] and [[assessment]] in [[higher-ed]].
 
 ## Connected Concepts
 

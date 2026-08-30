@@ -41,7 +41,7 @@ A novel contribution is the explicit demonstration that behavioural intention pr
 
 The study is grounded in the Dominican Republic's pronounced dual digital divide: in rural areas 69.7% of low-income households lack home internet access versus 34.6% in urban contexts, with even high-income rural households (42.4%) lagging metropolitan areas (10.6%). These structural constraints mean individual-level determinants coexist with — and are constrained by — infrastructure and connectivity gaps, shaping the real possibilities of [[generative-ai|GenAI]] integration.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
 This paper is a significant contribution to the [[teacher-ai-competency]] concept: it provides a validated, psychometric instrument and an extended-TAM model specifically for GenAI in curriculum planning, an area with limited empirical evidence in Latin American contexts. It connects individual acceptance psychology ([[self-efficacy]], [[motivation]]) to [[instructional-design]] practice and [[faculty-development]]/[[faculty-development|professional development]] policy. Its core actionable message — that behavioural intention, fueled by self-efficacy and intrinsic enjoyment, is the primary lever for building teacher digital competence — offers a testable model for [[ai-education]] training design.
 

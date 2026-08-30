@@ -35,9 +35,9 @@ Mentoring functioned as an integrated support system combining methodological gu
 
 While ML and LLM tools (e.g., ASReview, SWIFT-Review, Covidence, AIScreenR, MetaMate) reduced procedural burdens such as abstract screening, tasks requiring contextual interpretation, reconciliation of ambiguous reporting, or integrative synthesis remained hard to automate. The authors used automation selectively and verified its outputs, concluding it is best treated as a complement rather than a substitute — a clear [[human-in-the-loop-ai]] position consistent with viewing [[generative-ai]] as a supportive, scaffolding tool that augments rather than replaces human thinking.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper significantly contributes to the wiki's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[instructional-design]] and AI-assisted research practice.
+This paper significantly contributes to the knowledge base's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[instructional-design]] and AI-assisted research practice.
 
 ## Connected Concepts
 

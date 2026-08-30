@@ -23,7 +23,7 @@ The frame also shapes whether students experience AI as a **threat to be avoided
 
 ### Frame AI as a productive tool, not a threat to be banned
 
-The most directly tested framing intervention in the wiki is a six-year natural experiment tracking a data-visualization course across three conditions: pre-GenAI, GenAI-available (present but unintegrated), and GenAI-integrated (explicit instruction + encouragement to use AI on applied work, banned only on the knowledge-check portion). The finding: simply *making* AI available was associated with students using it ineffectively or unethically, while *explicitly framing and embedding* its appropriate use recovered and improved outcomes on applied questions.^[[moral-panic-genai-classroom]] The lesson is that the framing (how AI is positioned and taught) matters as much as the tool's presence — encouraging appropriate use beats condemning or ignoring it.
+The most directly tested framing intervention in the knowledge base is a six-year natural experiment tracking a data-visualization course across three conditions: pre-GenAI, GenAI-available (present but unintegrated), and GenAI-integrated (explicit instruction + encouragement to use AI on applied work, banned only on the knowledge-check portion). The finding: simply *making* AI available was associated with students using it ineffectively or unethically, while *explicitly framing and embedding* its appropriate use recovered and improved outcomes on applied questions.^[[moral-panic-genai-classroom]] The lesson is that the framing (how AI is positioned and taught) matters as much as the tool's presence — encouraging appropriate use beats condemning or ignoring it.
 
 ### Message expectations clearly and repeatedly — and design around students
 

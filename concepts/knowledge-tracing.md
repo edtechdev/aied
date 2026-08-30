@@ -8,11 +8,11 @@ audience: [learners]
 confidence: medium
 ---
 
-> **Knowledge tracing** — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the wiki's richest modeling thread, spanning Bayesian, deep learning, and [[llm|LLM-enhanced]] approaches to tracking student knowledge as it evolves.
+> **Knowledge tracing** — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the knowledge base's richest modeling thread, spanning Bayesian, deep learning, and [[llm|LLM-enhanced]] approaches to tracking student knowledge as it evolves.
 
 Knowledge tracing transforms raw exercise responses into estimates of what a student has mastered and what they still need to learn. Unlike simple correctness tracking, knowledge tracing models the temporal dynamics of learning — when knowledge is gained, when it decays, and how concepts relate to each other.
 
-### Approaches represented in the wiki
+### Approaches represented in the knowledge base
 
 - **Bayesian approaches:** [[stanbkt-bayesian-knowledge-tracing]] standardizes BKT implementations, while [[mbp-kt-meta-behavioral-knowledge-tracing]] incorporates meta-behavioral signals
 - **Neural and hybrid models:** [[neural-symbolic-knowledge-tracing]] combines symbolic reasoning with neural networks; [[explainable-probabilistic-kt]] advances interpretable probabilistic models

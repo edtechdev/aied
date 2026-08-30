@@ -33,9 +33,9 @@ The study uses a rigorous mixed-methods design with four complementary studies: 
 
 The findings offer a nuanced framework for [[teacher-role|educators]]: rather than forbidding or encouraging AI use wholesale, institutions should help students develop partnership orientations in which delegation is strategic and paired with vigilance. This preserves human [[agency]] while leveraging GenAI's strengths, supporting [[self-regulated-learning]] and [[critical-thinking]]. The work aligns with [[human-ai-collaboration]] and [[student-ai-interaction]] and speaks directly to debates about whether AI use "makes us stupid" by reframing offloading as potentially productive rather than inherently harmful.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
-This article is a strong theoretical and empirical anchor for the wiki's coverage of [[human-ai-collaboration]] and the cognitive dynamics of [[student-ai-interaction]]. It engages the [[agency]], [[trust]], [[metacognition]], and [[critical-thinking]] concepts, and offers a constructive counterpoint to articles focused on AI-induced cognitive decline or [[academic-integrity|academic dishonesty]]. It also informs [[educational-policy-ai]] and [[instructional-design]] by providing evidence-based guidance on how to integrate GenAI in ways that support rather than erode deep learning.
+This article is a strong theoretical and empirical anchor for the knowledge base's coverage of [[human-ai-collaboration]] and the cognitive dynamics of [[student-ai-interaction]]. It engages the [[agency]], [[trust]], [[metacognition]], and [[critical-thinking]] concepts, and offers a constructive counterpoint to articles focused on AI-induced cognitive decline or [[academic-integrity|academic dishonesty]]. It also informs [[educational-policy-ai]] and [[instructional-design]] by providing evidence-based guidance on how to integrate GenAI in ways that support rather than erode deep learning.
 
 ## Connected Concepts
 

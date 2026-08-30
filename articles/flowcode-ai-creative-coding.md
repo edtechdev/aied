@@ -16,7 +16,7 @@ Building upon found examples is a popular way people learn to code, especially i
 
 Flowcode pairs a code-structure flowchart with a learning-oriented (not vibe-coding) chat to help novice creative coders understand and extend found examples; two studies show visualization and productive friction can steer AI use toward learning rather than bypass.
 
-This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feedback|Feedback Loop]] [[active-learning]] [[student-experience]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[scaffolding]] [[generative-ai]] [[feedback|Feedback Loop]] [[active-learning]] [[student-experience]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 

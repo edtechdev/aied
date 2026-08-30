@@ -122,7 +122,7 @@ The **boundary object** function — ChatGPT's interpretive flexibility across d
 - Rapidly evolving technology — findings tied to specific ChatGPT versions; living systematic reviews needed
 - Publication bias likely favors positive findings in this emerging field
 
-## Implications for the Wiki
+## Implications for the Knowledge Base
 
 This review is a **keystone synthesis** connecting multiple threads in the AI education evidence base:
 
@@ -137,7 +137,7 @@ This review is a **keystone synthesis** connecting multiple threads in the AI ed
 - **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the institutional context
 - **[[institutional-change-framework-ai]]** frames how activity systems must adapt
 
-The review's core insight — that ChatGPT's cognitive effects are contingent on pedagogy, not inherent to the technology — reinforces a pattern visible across the wiki: **AI in education succeeds or fails based on how it is implemented, not what it can do.**
+The review's core insight — that ChatGPT's cognitive effects are contingent on pedagogy, not inherent to the technology — reinforces a pattern visible across the knowledge base: **AI in education succeeds or fails based on how it is implemented, not what it can do.**
 
 ## Connected Concepts
 

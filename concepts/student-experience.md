@@ -9,7 +9,7 @@ connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students]
 confidence: high
 ---
 
-> **Student experience** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the wiki, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
+> **Student experience** — how learners perceive, interact with, and are affected by AI tools in educational settings. With over 85 articles in the knowledge base, student experience is one of the most-researched dimensions of [[ai-education|AI in education]]. AI impacts students in both positive and negative directions, and the same tool can help and harm depending on how it is designed and used.
 
 ### How student experience is studied
 

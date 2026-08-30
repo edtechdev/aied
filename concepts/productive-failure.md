@@ -37,7 +37,7 @@ Learning from errors depends on feedback that helps learners see what was wrong 
 
 ## Productive failure and AI in education
 
-A major theme in the wiki's research is the tension between AI's helpfulness and the preservation of productive struggle:
+A major theme in the knowledge base's research is the tension between AI's helpfulness and the preservation of productive struggle:
 
 - **The risk: AI erases the struggle.** Overly "helpful," Oracle-style AI that supplies answers directly can eliminate the productive struggle necessary for schema construction, creating what [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] call the **Safety Gap** — the divergence between a student's AI-assisted performance and their internal, unassisted capability. This connects to [[cognitive-offloading]]: AI that substitutes for effort erodes the very capacities education builds.
 - **The design response: AI that scaffolds struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive five design principles for AI supporting productive-failure-based learning ([[human-ai-collaboration|human-AI collaboration]], usability, reflective design, emotional design, open knowledge), emphasizing that AI should preserve struggle while offering non-directive support. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show LLM tutors can be *steered* to follow productive-failure pedagogy (withhold solutions, elicit multiple attempts), at the cost of perceived helpfulness.

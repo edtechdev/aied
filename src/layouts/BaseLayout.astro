@@ -9,7 +9,7 @@ import RecentActivity from '../components/RecentActivity.astro';
 import StarredPages from '../components/StarredPages.astro';
 import 'katex/dist/katex.min.css';
 
-const { title = 'AI Ed Wiki', description = 'AI in Education Wiki', hideHeaderSearch = false, toc = [] } = Astro.props;
+const { title = 'AIEd KB', description = 'AI in Education Knowledge Base', hideHeaderSearch = false, toc = [] } = Astro.props;
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
@@ -75,7 +75,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} — AI Ed Wiki</title>
+  <title>{title} — AIEd KB</title>
   <!-- Critical dark background so navigation never flashes white before the
        external stylesheet loads (the site is always dark-themed). -->
   <style is:inline>
@@ -91,9 +91,9 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-  <meta name="apple-mobile-web-app-title" content="AI Ed Wiki" />
+  <meta name="apple-mobile-web-app-title" content="AIEd KB" />
   <!-- Open Graph (link previews) -->
-  <meta property="og:site_name" content="AI Ed Wiki" />
+  <meta property="og:site_name" content="AIEd KB" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
@@ -107,7 +107,7 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content="https://edtechdev.github.io/aied/og-concept-map.png" />
-  <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="/aied/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="AIEd KB RSS" href="/aied/rss.xml" />
   <link rel="stylesheet" href="/aied/vendor/pico.min.css" />
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
@@ -583,8 +583,8 @@ const recentConceptItems = recentConcepts.map(c => ({
         </svg>
       </button>
       <a href="/aied/" class="brand-link">
-        <img src="/aied/logo.svg" alt="AI Ed Wiki logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
-        <span>AI Ed Wiki</span>
+        <img src="/aied/logo.svg" alt="AIEd KB logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
+        <span>AIEd KB</span>
       </a>
       {!hideHeaderSearch && (
         <div class="header-search">
@@ -592,7 +592,7 @@ const recentConceptItems = recentConcepts.map(c => ({
           <pagefind-searchbox placeholder="Search articles, concepts, and FAQs..."></pagefind-searchbox>
         </div>
       )}
-      <nav class="header-icons" aria-label="Wiki tools">
+      <nav class="header-icons" aria-label="Knowledge base tools">
         <a href="/aied/ai" class="header-icon" title="Chat with AI" aria-label="Chat with AI">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"></path>

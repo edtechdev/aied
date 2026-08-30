@@ -22,7 +22,7 @@ audience: [learners]
 
 ## Negative impacts
 
-**1. Over-reliance and the performance–learning gap.** AI invites [[cognitive-offloading|cognitive offloading]] — students delegate the reasoning they need to practice. This can raise performance *with* AI while *lowering* later unassisted performance: the wiki's [[ai-misuse-learning-harm|AI misuse and learning harm]] synthesis documents a field [[rct]] where an unguarded [[intelligent-tutoring|AI tutor]] improved practice but reduced later exam performance. Overuse can also erode [[metacognition]] and [[self-regulated-learning]].
+**1. Over-reliance and the performance–learning gap.** AI invites [[cognitive-offloading|cognitive offloading]] — students delegate the reasoning they need to practice. This can raise performance *with* AI while *lowering* later unassisted performance: the knowledge base's [[ai-misuse-learning-harm|AI misuse and learning harm]] synthesis documents a field [[rct]] where an unguarded [[intelligent-tutoring|AI tutor]] improved practice but reduced later exam performance. Overuse can also erode [[metacognition]] and [[self-regulated-learning]].
 
 **2. Reduced effort and agency.** Knowing AI is available can reduce students' willingness to struggle productively ([[ai-availability-student-motivation|AI availability and motivation]]), and passive acceptance of AI output can erode [[agency]] and the sense of accomplishment that comes from doing work oneself (see the [[wang-safety-gap-productive-struggle-2026|safety gap]]).
 

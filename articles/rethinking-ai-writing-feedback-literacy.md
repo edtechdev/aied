@@ -35,9 +35,9 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 
 ## Implications
 
-The paper shifts attention from "whether AI can provide feedback" to "under what conditions AI feedback can genuinely support learning." It argues AI writing tools should not be treated merely as instant-feedback sources, but embedded in instructional support structures that develop independent judgment and self-regulated learning. This contributes directly to debates in the wiki about [[ai-feedback-quality]], [[feedback|Feedback Loop]] design, and the role of [[metacognition]] in [[self-regulated-learning]], and it illustrates how [[formative-assessment]] in [[writing-education]] can be enhanced by training learners' [[ai-literacy]] and evaluative judgment in [[higher-ed]]. It also cautions against passive dependence on AI, echoing concerns about cognitive offloading in AI-assisted writing.
+The paper shifts attention from "whether AI can provide feedback" to "under what conditions AI feedback can genuinely support learning." It argues AI writing tools should not be treated merely as instant-feedback sources, but embedded in instructional support structures that develop independent judgment and self-regulated learning. This contributes directly to debates in the knowledge base about [[ai-feedback-quality]], [[feedback|Feedback Loop]] design, and the role of [[metacognition]] in [[self-regulated-learning]], and it illustrates how [[formative-assessment]] in [[writing-education]] can be enhanced by training learners' [[ai-literacy]] and evaluative judgment in [[higher-ed]]. It also cautions against passive dependence on AI, echoing concerns about cognitive offloading in AI-assisted writing.
 
-## Connection to Existing Wiki
+## Connection to Existing Knowledge Base
 
 - **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
 - **[[feedback|Feedback Loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalises a structured feedback–revision loop.

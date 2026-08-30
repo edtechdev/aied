@@ -11,7 +11,7 @@ category: [assessment, evaluation]
 confidence: high
 ---
 
-> **Assessment** — the process of gathering and interpreting evidence about what learners know and can do, and the methods used to evaluate learning. AI in education has fundamentally reshaped assessment: it powers [[automated-assessment|automated grading and scoring]], generates and adapts assessment items, and raises deep questions about what assessments actually measure when students can use AI. Assessment is the umbrella concept that organizes the wiki's coverage of [[formative-assessment|formative assessment]], [[automated-assessment|automated grading]], [[assessment-validity|validity]], and [[educational-measurement|educational measurement]].
+> **Assessment** — the process of gathering and interpreting evidence about what learners know and can do, and the methods used to evaluate learning. AI in education has fundamentally reshaped assessment: it powers [[automated-assessment|automated grading and scoring]], generates and adapts assessment items, and raises deep questions about what assessments actually measure when students can use AI. Assessment is the umbrella concept that organizes the knowledge base's coverage of [[formative-assessment|formative assessment]], [[automated-assessment|automated grading]], [[assessment-validity|validity]], and [[educational-measurement|educational measurement]].
 
 Assessment is central to AI in education for two reasons. First, AI itself is used to assess students — grading essays, code, short answers, and exams at scale. Second, AI in the classroom changes what assessments can validly measure, since students may use generative AI to produce work. The field therefore spans both the *tools* that automate assessment and the *validity and integrity* questions that AI raises.
 
@@ -38,7 +38,7 @@ AI in assessment has intensified the [[academic-integrity|integrity]] conversati
 
 ## Assessment redesign in the AI era
 
-The constructive question in the wiki's assessment literature is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully in contexts that mirror their future work?" This reframes assessment around:
+The constructive question in the knowledge base's assessment literature is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully in contexts that mirror their future work?" This reframes assessment around:
 
 - **Authentic and process-based tasks** that make AI use visible and assessed. [[authentic-assessment|Authentic assessment]] — examining student performance on worthy, realistic tasks — is the leading response to AI's challenge: any task an LLM can credibly simulate loses its validity, so authenticity must be redesigned around real-time collaboration, digital and social contribution, and individual meaning-making. This connects to [[zhan-boud-du-authentic-assessment-scoping-review-2025|design frameworks for authentic assessment]], [[authentic-products-authenticated-processes-2026|authentic products and authenticated processes]], and [[tool-invariant-framework-agentic-ai|tool-invariant assessment of process]].
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])

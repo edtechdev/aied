@@ -43,7 +43,7 @@ Twins are most appropriate when a task is pedagogically rich but AI-susceptible.
 
 ## Implications for AI in education
 
-Assessment twins offer a practical, validity-driven complement to the wiki's [[assessment-validity]], [[academic-integrity]], and [[authentic-assessment]] threads — moving beyond detection toward structural assessment design that prioritises pedagogy while supporting meaningful learning outcomes. The approach connects to [[educational-policy-ai|assessment policy]] choices about summative format and to the broader [[theory-development-aied|theory-building]] strand on how institutions redesign assessment for AI-mediated education, alongside [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
+Assessment twins offer a practical, validity-driven complement to the knowledge base's [[assessment-validity]], [[academic-integrity]], and [[authentic-assessment]] threads — moving beyond detection toward structural assessment design that prioritises pedagogy while supporting meaningful learning outcomes. The approach connects to [[educational-policy-ai|assessment policy]] choices about summative format and to the broader [[theory-development-aied|theory-building]] strand on how institutions redesign assessment for AI-mediated education, alongside [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 
 ## Connected Concepts
 

@@ -25,7 +25,7 @@ DBR is not a single design but an iterative loop, typically comprising:
 
 The canonical AIEd example is the [[ai-assisted-collaborative-learning-model-dbr|AI-Assisted Collaborative Learning (AACL) Model study]], which ran a four-phase DBR cycle — needs analysis, model design, an eight-week classroom implementation with Indonesian undergraduates, and model refinement — iterating on a four-stage learning cycle (problem identification → AI-assisted [[collaborative-learning|collaborative]] inquiry → collaborative problem-solving → reflection and presentation).
 
-## How DBR appears in the wiki
+## How DBR appears in the knowledge base
 
 - **Developing learning models.** [[ai-assisted-collaborative-learning-model-dbr|The AACL Model study]] uses DBR to develop and evaluate an AI-assisted collaborative learning model targeting [[critical-thinking|critical thinking]] and problem-solving in [[higher-ed|higher education]].
 - **Building AI-literacy teacher training.** [[genai-literacy-training-teacher-education-dbr-2026|Le et al.]] develop and evaluate a DBR GenAI-literacy training intervention for [[teacher-education]] students; [[human-centered-ai-teacher-educators-2026|Baran et al.]] use DBR across 2023–2025 to design professional learning for critical [[ai-literacy|AI literacy]] grounded in Human-Centered AI principles.

@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The study positions [[activity-theory-aied|CHAT]] as a diagnostic and redesign tool for [[faculty-development|teacher professional development]], arguing that sustainable AI adoption requires transforming the activity system (tools, rules, community, division of labor) rather than merely upskilling individuals. Its CHAT-SDT framework reframes implementation failure as systemic — a needed correction to individual-deficit models of teacher AI adoption. It connects to the wiki's [[teacher-role]], [[agentic-ai|pedagogical AI agents]], and [[k-12]] concepts, and pairs with the other activity-theory teacher-adoption studies.
+The study positions [[activity-theory-aied|CHAT]] as a diagnostic and redesign tool for [[faculty-development|teacher professional development]], arguing that sustainable AI adoption requires transforming the activity system (tools, rules, community, division of labor) rather than merely upskilling individuals. Its CHAT-SDT framework reframes implementation failure as systemic — a needed correction to individual-deficit models of teacher AI adoption. It connects to the knowledge base's [[teacher-role]], [[agentic-ai|pedagogical AI agents]], and [[k-12]] concepts, and pairs with the other activity-theory teacher-adoption studies.
 
 ## Connected Concepts
 - [[activity-theory-aied]]

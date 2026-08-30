@@ -27,7 +27,7 @@ The defining difficulty of student simulation is that LLMs are trained to be "he
 
 Validity is the central concern: a simulated student is only useful if its behavior is **epistemically faithful** — reflecting the intended learner's knowledge state — not merely linguistically plausible. Research warns against [[ai-sycophancy|sycophancy]], where a "simulated student" simply agrees with the tutor rather than exhibiting the misconceptions it was meant to embody. This connects to [[trust-calibration]] and to the broader problem of evaluating whether an agent genuinely models a construct rather than reproducing surface behavior.
 
-### Connection to the wiki
+### Connection to the knowledge base
 
 Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for professional training (e.g., [[special-education]] and medical education contexts).
 

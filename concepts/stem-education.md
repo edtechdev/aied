@@ -10,7 +10,7 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
+> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] research in the knowledge base. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
 
 ### STEM as the primary AIED domain
 
@@ -41,7 +41,7 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 
 ### Connections
 
-STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[intelligent-tutoring|AI Tutoring]] — it is the domain context for much of the wiki's tutoring and assessment research.
+STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[intelligent-tutoring|AI Tutoring]] — it is the domain context for much of the knowledge base's tutoring and assessment research.
 
 ## Implications for STEM instructors
 

@@ -20,7 +20,7 @@ confidence: high
 
 ## Implications
 
-This review clarifies the often-conflated concepts at the heart of [[personalized-learning]] and [[adaptive-learning]], connecting them to [[intelligent-tutoring]], [[llm|LLM-based]] tutors, and [[learning-analytics]]. Its call for definitional rigor and unified terminology speaks to the wiki's [[limitations-in-aied-research|critique of weak and ambiguous theory/construct use]], and its emphasis on methodological and equity gaps aligns with [[equity-in-ai-education]] and [[research-methods-aied]]. For designers, it cautions that "personalized" is frequently a vague label rather than a precise, evidence-backed claim.
+This review clarifies the often-conflated concepts at the heart of [[personalized-learning]] and [[adaptive-learning]], connecting them to [[intelligent-tutoring]], [[llm|LLM-based]] tutors, and [[learning-analytics]]. Its call for definitional rigor and unified terminology speaks to the knowledge base's [[limitations-in-aied-research|critique of weak and ambiguous theory/construct use]], and its emphasis on methodological and equity gaps aligns with [[equity-in-ai-education]] and [[research-methods-aied]]. For designers, it cautions that "personalized" is frequently a vague label rather than a precise, evidence-backed claim.
 
 ## Connected Concepts
 

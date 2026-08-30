@@ -16,7 +16,7 @@ AI in education is a fast-moving, heterogeneous field, and its evidence base car
 
 ## Methodological limitations
 
-The wiki's [[research-methods-aied|research methods]] page details the strengths and limitations of each design. Several limits recur across designs and deserve particular attention:
+The knowledge base's [[research-methods-aied|research methods]] page details the strengths and limitations of each design. Several limits recur across designs and deserve particular attention:
 
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
@@ -55,7 +55,7 @@ Taken together, these limitations argue for a critical, multi-signal reading of 
 
 A further, practical limitation is the **challenge of applying research to teaching and instructional design**. Practitioners — instructors, instructional designers, and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the speed problem above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches teaching practice.
 
-The purpose of this wiki is to help close that gap — to make it easier to keep up with, interpret, and apply AI-in-education research to practice — by curating open-access findings into structured, accessible summaries, connecting related work through [[ai-education|concept pages]], and flagging the limitations readers should weigh. It aims to support evidence-informed practice in teaching and instructional design, and in doing so to also surface gaps and questions that can inform new research and development. Understanding the limits of the research is therefore not an end in itself: it is what lets practitioners apply findings appropriately and lets researchers design stronger studies that better serve practice.
+The purpose of this knowledge base is to help close that gap — to make it easier to keep up with, interpret, and apply AI-in-education research to practice — by curating open-access findings into structured, accessible summaries, connecting related work through [[ai-education|concept pages]], and flagging the limitations readers should weigh. It aims to support evidence-informed practice in teaching and instructional design, and in doing so to also surface gaps and questions that can inform new research and development. Understanding the limits of the research is therefore not an end in itself: it is what lets practitioners apply findings appropriately and lets researchers design stronger studies that better serve practice.
 
 ## Connected Concepts
 

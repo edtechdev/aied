@@ -58,7 +58,7 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - **Small group-level N = 47** → wide CIs; modest source differences can't be fully ruled out.
 - **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).
 
-## Implications for the wiki
+## Implications for the knowledge base
 - A strong, well-controlled (randomised, blind, equivalence-tested) data point that **AI-generated feedback can match expert teacher feedback** for project-based learning **when criteria are explicit and assessment literacy is high** — complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work.
 - Pairs naturally with [[generative-ai-guardrails-harm-learning]] (the PNAS RCT): that study shows *unguarded* AI tutoring can *harm* learning, this one shows *well-architected* AI feedback can *match* teachers — together they bracket the design-dependence of AIED outcomes.
 - Reinforces [[formative-assessment]], [[feedback|Feedback Loop]], and [[ai-literacy]] (teacher and student) as the decisive variables, over the raw tool.

@@ -27,7 +27,7 @@ const dates = Object.keys(byDate).sort().reverse();
 
 <BaseLayout title="Journal">
   <h1>📋 Journal</h1>
-  <p>Reverse-chronological index of all {articles.length} articles, {concepts.length} concepts, and {faqs.length} FAQs in the wiki.</p>
+  <p>Reverse-chronological index of all {articles.length} articles, {concepts.length} concepts, and {faqs.length} FAQs in the knowledge base.</p>
 
   {dates.map(date => (
     <details class="journal-day" open={date === dates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">

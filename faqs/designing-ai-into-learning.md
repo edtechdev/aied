@@ -8,7 +8,7 @@ category: [instructional design]
 
 # How Should AI Be Designed Into the Learning Experience?
 
-**Start with the learning goal and the learning process — not the AI feature.** The wiki's [[pedagogy|Pedagogies and Teaching Strategies]] concept emphasizes that the same AI can function as a scaffold, Socratic interlocutor, feedback partner, simulation, or answer generator depending on the instructional design. What matters is whether the configuration preserves the activity that produces the intended learning.
+**Start with the learning goal and the learning process — not the AI feature.** The knowledge base's [[pedagogy|Pedagogies and Teaching Strategies]] concept emphasizes that the same AI can function as a scaffold, Socratic interlocutor, feedback partner, simulation, or answer generator depending on the instructional design. What matters is whether the configuration preserves the activity that produces the intended learning.
 
 ## A strong default pattern
 

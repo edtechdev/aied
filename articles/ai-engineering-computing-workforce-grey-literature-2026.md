@@ -39,9 +39,9 @@ The authors translate these workforce projections into recommendations for facul
 - **Adopt skill-based credentials** aligned with emerging roles such as [[prompt-engineering|prompt engineering]], AI auditing, and AI policy.
 - **Coordinate policy, resources, and partnerships** — institutional leaders must orchestrate curriculum, industry partnerships, and resource allocation to manage workforce-transition risk and sustain human-centered engineering.
 
-## Connections to the wiki
+## Connections to the knowledge base
 
-The paper extends the wiki's coverage of AI and work, complementing empirical frameworks like the [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce Readiness Level]] and connecting to [[professional-training]], [[ai-literacy]], and [[governance]] concepts. It frames [[curriculum-design]] for engineering and computing as a strategic response to labor-market transformation, and positions [[higher-ed]] institutions as key actors in workforce preparation.
+The paper extends the knowledge base's coverage of AI and work, complementing empirical frameworks like the [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce Readiness Level]] and connecting to [[professional-training]], [[ai-literacy]], and [[governance]] concepts. It frames [[curriculum-design]] for engineering and computing as a strategic response to labor-market transformation, and positions [[higher-ed]] institutions as key actors in workforce preparation.
 
 ## Connected Concepts
 

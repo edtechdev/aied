@@ -24,7 +24,7 @@ Using LLMs to simulate students is an emerging practice in educational research,
 - [[intelligent-tutoring]] system evaluation
 - [[learning-analytics]] research methodology
 
-## Connections to Wiki
+## Connections to Knowledge Base
 
 This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
 

@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The study applies [[activity-theory-aied|CHAT]] to show that student GenAI use is not merely a behavioral choice but a transformation of the norms and rules of the academic activity system. For practice, it implies instructors must recognize and explicitly negotiate new implicit norms around self-direction, learning objectives, teacher role, and ethics rather than assuming traditional norms still hold. It connects to the wiki's [[engineering-education]], [[student-experience]], [[teacher-role]], and [[ethics]] concepts, and to the wider [[generative-ai|GenAI]] disruption literature.
+The study applies [[activity-theory-aied|CHAT]] to show that student GenAI use is not merely a behavioral choice but a transformation of the norms and rules of the academic activity system. For practice, it implies instructors must recognize and explicitly negotiate new implicit norms around self-direction, learning objectives, teacher role, and ethics rather than assuming traditional norms still hold. It connects to the knowledge base's [[engineering-education]], [[student-experience]], [[teacher-role]], and [[ethics]] concepts, and to the wider [[generative-ai|GenAI]] disruption literature.
 
 ## Connected Concepts
 - [[activity-theory-aied]]

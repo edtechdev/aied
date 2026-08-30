@@ -20,7 +20,7 @@ Identity is a motivational and developmental construct distinct from (but connec
 - **Shame and hidden use.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** show that computing students experience shame and guilt around AI use, which function as social regulators driving *hiding* and selective disclosure — behaviours that can fragment academic identity and undermine honest engagement with learning.
 - **Identity as something AI can scaffold.** AI need not only threaten identity. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** argue that accountable, relationally-oriented [[pedagogy|pedagogical]] accompaniment can support learners' **STEM identity** development by providing transparent, bounded support that leaves room for the learner to own their trajectory.
 
-## Identity in the wiki's research
+## Identity in the knowledge base's research
 
 - **Creative identity:** **[[t2i-competence-paradox-2026|the T2I competence paradox]]** captures how ease-of-use can undermine the craft-based identity of art and design students.
 - **Professional identity:** multiple studies treat AI's impact on **professional identity** — for example, **[[lodge-adaptive-capabilities-genai-future-2026|Lodge et al. (2026)]]** argue that graduates need *adaptive capabilities* ([[ai-literacy]], [[distributed-cognition]], [[metacognition]]) precisely so they can sustain a viable professional identity in an AI-integrated future, rather than being defined by — or defined out by — their tools.

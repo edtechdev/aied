@@ -24,7 +24,7 @@ confidence: high
 
 ## Implications
 
-This study reinforces the wiki's [[ai-literacy]] and [[technology-acceptance-model|technology acceptance]] threads by showing that **AI adoption for academic writing depends on willingness ("will") and capability ("skill") more than on tool access ("tool")** — infrastructure/facilitating conditions were not significant, while attitudes, perceived risks, policy salience, and AI literacy were. For [[educational-policy-ai|policy]] and [[pedagogy]], this implies interventions should target learners' attitudes, risk perceptions, and AI literacy rather than simply providing tools, and that clear [[governance|institutional]] [[educational-policy-ai|policy]] signals matter for shaping acceptance. It connects to [[writing-education]], [[higher-ed]], and [[generative-ai]].
+This study reinforces the knowledge base's [[ai-literacy]] and [[technology-acceptance-model|technology acceptance]] threads by showing that **AI adoption for academic writing depends on willingness ("will") and capability ("skill") more than on tool access ("tool")** — infrastructure/facilitating conditions were not significant, while attitudes, perceived risks, policy salience, and AI literacy were. For [[educational-policy-ai|policy]] and [[pedagogy]], this implies interventions should target learners' attitudes, risk perceptions, and AI literacy rather than simply providing tools, and that clear [[governance|institutional]] [[educational-policy-ai|policy]] signals matter for shaping acceptance. It connects to [[writing-education]], [[higher-ed]], and [[generative-ai]].
 
 ## Connected Concepts
 

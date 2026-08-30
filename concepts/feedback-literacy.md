@@ -15,7 +15,7 @@ Feedback literacy matters because well-designed feedback only helps students who
 
 ### What feedback literacy is
 
-Feedback literacy is widely framed as a set of interrelated capabilities — the capacity to appreciate feedback, make judgments, manage affect, and take action (after Carless & Boud). The wiki's articles cluster feedback literacy around several capabilities:
+Feedback literacy is widely framed as a set of interrelated capabilities — the capacity to appreciate feedback, make judgments, manage affect, and take action (after Carless & Boud). The knowledge base's articles cluster feedback literacy around several capabilities:
 
 - **Seeking and eliciting feedback** — proactively requesting feedback rather than passively receiving it.
 - **Making judgments** — evaluating the accuracy and usefulness of feedback, including feedback produced by AI.

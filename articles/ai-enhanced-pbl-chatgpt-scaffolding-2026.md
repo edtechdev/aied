@@ -26,7 +26,7 @@ An explanatory sequential mixed-methods study with 120 eighth-grade students fro
 
 ## Implications for AI in Education
 
-For secondary education, the study provides evidence that [[generative-ai|generative AI]] can be integrated productively when embedded in a structured, teacher-guided [[pedagogy]] like [[problem-based-learning|problem-based learning]] — functioning as adaptive scaffolding that strengthens [[critical-thinking|critical thinking]] rather than substituting for it. It counters the assumption that AI use in classrooms necessarily reduces agency, showing instead that design and facilitation determine whether ChatGPT becomes a learning partner or a shortcut. The findings connect to the wiki's [[scaffolding]] and [[cognitive-offloading|over-reliance]] literature: the framework's structure is what prevents passive dependence.
+For secondary education, the study provides evidence that [[generative-ai|generative AI]] can be integrated productively when embedded in a structured, teacher-guided [[pedagogy]] like [[problem-based-learning|problem-based learning]] — functioning as adaptive scaffolding that strengthens [[critical-thinking|critical thinking]] rather than substituting for it. It counters the assumption that AI use in classrooms necessarily reduces agency, showing instead that design and facilitation determine whether ChatGPT becomes a learning partner or a shortcut. The findings connect to the knowledge base's [[scaffolding]] and [[cognitive-offloading|over-reliance]] literature: the framework's structure is what prevents passive dependence.
 
 ## Connected Concepts
 

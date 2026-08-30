@@ -17,7 +17,7 @@ Several notable gaps recur across the [[ai-education|AI in Education]] knowledge
 
 Much AIED research still relies on cross-sectional surveys, small quasi-experiments, [[design-based-research|design-based research]], or short-term deployments. Randomized studies are comparatively difficult and expensive to run in authentic classrooms, and long-term follow-up is uncommon.
 
-This leaves important questions about retention, transfer, dependency, and sustained changes in [[pedagogy|teaching practice]] unresolved. The wiki's [[research-methods-aied|Research Methods in AIED]] page identifies this tension directly: the most causally rigorous studies are often the least ecologically authentic, while real-world deployments frequently provide weaker causal evidence.
+This leaves important questions about retention, transfer, dependency, and sustained changes in [[pedagogy|teaching practice]] unresolved. The knowledge base's [[research-methods-aied|Research Methods in AIED]] page identifies this tension directly: the most causally rigorous studies are often the least ecologically authentic, while real-world deployments frequently provide weaker causal evidence.
 
 ## 2. Immediate performance is measured more often than durable learning
 
@@ -29,7 +29,7 @@ See [[learning-gains|Learning Gains]] and [[ai-ed-evaluation|AI Ed Evaluation]].
 
 Constructs such as "[[ai-literacy|AI literacy]]," "engagement," "[[critical-thinking|critical thinking]]," "trust," "[[personalized-learning|personalization]]," and even "learning" are operationalized differently across studies. Many measures depend heavily on self-report, even though learners and educators can misjudge their own competence and AI use. [[benchmark]] performance creates a related problem: an AI system may perform well on a technical benchmark without improving classroom learning.
 
-The wiki's [[limitations-in-aied-research|Limitations in AIEd Research]] page highlights [[assessment-validity|construct validity]], unvalidated instruments, and self-report as cross-cutting weaknesses.
+The knowledge base's [[limitations-in-aied-research|Limitations in AIEd Research]] page highlights [[assessment-validity|construct validity]], unvalidated instruments, and self-report as cross-cutting weaknesses.
 
 ## 4. Results often do not generalize well
 
@@ -39,7 +39,7 @@ See [[limitations-in-aied-research|Limitations in AIEd Research]].
 
 ## 5. Equity is underexamined relative to adoption and effectiveness
 
-We know considerably more about whether students accept AI than about how its benefits and harms are distributed. The wiki identifies open questions around socioeconomic access, paid versus free models, disability, linguistic diversity, cultural relevance, rural infrastructure, and differences in who gains educational value from AI.
+We know considerably more about whether students accept AI than about how its benefits and harms are distributed. The knowledge base identifies open questions around socioeconomic access, paid versus free models, disability, linguistic diversity, cultural relevance, rural infrastructure, and differences in who gains educational value from AI.
 
 The [[equity-in-ai-education|Equity]] synthesis distinguishes access, representation, and outcomes as separate equity problems. This gap is particularly visible outside dominant Global North contexts: a review of 75 studies of GenAI in [[global-south|Global South]] [[higher-ed|higher education]] found **equity received the least research attention**, alongside limited geographic representation, stakeholder imbalance, and insufficient evidence on long-term outcomes.
 
@@ -63,7 +63,7 @@ A broad higher-education [[meta-analysis-systematic-review|systematic review]] i
 
 ## 9. Theory use is often weak or disconnected from implementation
 
-AIED systems regularly invoke ideas such as [[constructivist|constructivism]], personalization, or learner-centeredness without clearly specifying the learning mechanisms the technology is supposed to activate. The wiki describes a recurring **"constructivism in name, [[behaviorism]] in practice"** problem: systems may be described as supporting active construction while actually delivering drill, answers, or reinforcement.
+AIED systems regularly invoke ideas such as [[constructivist|constructivism]], personalization, or learner-centeredness without clearly specifying the learning mechanisms the technology is supposed to activate. The knowledge base describes a recurring **"constructivism in name, [[behaviorism]] in practice"** problem: systems may be described as supporting active construction while actually delivering drill, answers, or reinforcement.
 
 Stronger studies should specify a mechanism, design around it, and measure outcomes that the theory actually predicts.
 

@@ -9,9 +9,9 @@ category: [assessment]
 confidence: high
 ---
 
-> **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which [[intelligent-tutoring|AI tutors]] and [[adaptive-learning|adaptive systems]] support learning. The wiki's research examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.
+> **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which [[intelligent-tutoring|AI tutors]] and [[adaptive-learning|adaptive systems]] support learning. The knowledge base's research examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.
 
-Formative assessment is central to AI in education because it sits at the junction of [[assessment]] and [[feedback|learning feedback]]. Its purpose is to close the loop: surface what students know and don't know, and provide feedback they can act on to improve. AI makes this feasible at scale — generating items, scoring responses, and delivering individualized feedback — but the wiki's research shows that quality varies dramatically across item types, and that feedback only helps when students actually enact it.
+Formative assessment is central to AI in education because it sits at the junction of [[assessment]] and [[feedback|learning feedback]]. Its purpose is to close the loop: surface what students know and don't know, and provide feedback they can act on to improve. AI makes this feasible at scale — generating items, scoring responses, and delivering individualized feedback — but the knowledge base's research shows that quality varies dramatically across item types, and that feedback only helps when students actually enact it.
 
 ## AI-generated formative items
 
@@ -24,7 +24,7 @@ AI systems generate formative assessment items across modalities, with reliabili
 
 ## AI-generated feedback
 
-A large body of wiki research examines AI-generated formative feedback:
+A large body of knowledge base research examines AI-generated formative feedback:
 
 - **The enactment problem:** [[ai-feedback-enactment-workflow-2026|Making AI-Generated Feedback Matter]] (13,037 students; 51,296 resources) shows feedback value depends on whether students *enact* it — the **Enacted Feedback** condition, where students select, evaluate, and apply AI feedback suggestions, outperformed simple directed feedback.
 - **Feedback is not information transfer:** [[care-full-feedback-genai|The care-full craft of feedback]] argues feedback is an ethical, relational practice, not information transmission — feedback only constitutes feedback when students make sense of and act on it, and contrasts mass-produced "AI slop" with human comment-bank shortcuts.

@@ -11,7 +11,7 @@ category: [assessment]
 confidence: high
 ---
 
-> **Automated Essay Scoring (AES)** — the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible [[llm|LLM]]-based prompting strategies. AES research in this wiki covers scoring accuracy, fairness and bias, psychometric validity, and practical accessibility for educators.
+> **Automated Essay Scoring (AES)** — the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible [[llm|LLM]]-based prompting strategies. AES research in this knowledge base covers scoring accuracy, fairness and bias, psychometric validity, and practical accessibility for educators.
 
 Automated Essay Scoring has a long history in educational technology, from early statistical models to modern LLM-based approaches that can evaluate essays holistically without large pre-scored datasets. The key tension in AES research is between accuracy and accessibility — while fine-tuned models achieve strong results, they are resource-intensive and impractical for most educators.
 

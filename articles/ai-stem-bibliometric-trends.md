@@ -14,7 +14,7 @@ STEM education faces challenges in personalization and interdisciplinary integra
 
 Bibliometric analysis of 242 STEM-education papers (2015-2025) shows the field shifted from classic intelligent tutoring systems toward LLM-driven inquiry-based learning and computational-thinking cultivation; AI's main value is intelligent scaffolding that lowers the knowledge threshold and moves STEM from knowledge transmission to capability development.
 
-This work connects to core wiki themes: [[stem-education]] [[intelligent-tutoring]] [[scaffolding]] [[generative-ai]] [[adaptive-learning]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[stem-education]] [[intelligent-tutoring]] [[scaffolding]] [[generative-ai]] [[adaptive-learning]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 

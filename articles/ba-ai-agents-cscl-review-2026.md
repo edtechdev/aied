@@ -21,7 +21,7 @@ confidence: high
 
 ## Implications
 
-This review is the non-IBL companion paper, contributing to the wiki's [[agentic-ai|agent]] and [[collaborative-learning]] threads. It maps how AI agents (beyond [[conversational-ai|chatbots]]) orchestrate and scaffold collaborative learning, connecting to [[pedagogical-agent|pedagogical agents]] and the community-of-inquiry model. For designers, the domain-alignment finding implies agent functions should be matched to intended outcomes, and cognitive scaffolding functions can reliably boost learning while social/emotional effects need contextual tuning. It connects to [[human-ai-collaboration]] and [[equity-in-ai-education|equity concerns]].
+This review is the non-IBL companion paper, contributing to the knowledge base's [[agentic-ai|agent]] and [[collaborative-learning]] threads. It maps how AI agents (beyond [[conversational-ai|chatbots]]) orchestrate and scaffold collaborative learning, connecting to [[pedagogical-agent|pedagogical agents]] and the community-of-inquiry model. For designers, the domain-alignment finding implies agent functions should be matched to intended outcomes, and cognitive scaffolding functions can reliably boost learning while social/emotional effects need contextual tuning. It connects to [[human-ai-collaboration]] and [[equity-in-ai-education|equity concerns]].
 
 ## Connected Concepts
 

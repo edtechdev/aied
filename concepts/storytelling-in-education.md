@@ -14,7 +14,7 @@ confidence: high
 
 Storytelling is grounded in [[motivation]], [[student-engagement]], and [[constructivist]] theories of learning. It supports [[language-learning]], [[creativity]], [[social-emotional-learning]], and comprehension. In the AI era, [[llm|LLM-powered]] and robot-mediated storytelling enables co-creation, where learners and AI agents build stories together, and interactive narrative that responds to the learner.
 
-### How storytelling appears in the wiki's research
+### How storytelling appears in the knowledge base's research
 
 - **Robot-mediated storytelling:** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses a human-like interactive digital storytelling robot, finding significant gains in behavioural and cognitive engagement over paper and PowerPoint methods; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] lets teachers create LLM-powered scenario-based storytelling activities from curriculum content.
 - **Co-creative narrative HRI:** [[icub-humanoid-storytelling-llm-hri-2025|The iCub narrative study]] explores human-robot co-creation of stories, integrating generative models for contextually appropriate interaction.

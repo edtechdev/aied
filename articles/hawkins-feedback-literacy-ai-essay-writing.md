@@ -28,7 +28,7 @@ Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use
 ## Implications
 
 - Institutions should foster feedback literacy skills that support thoughtful, considered use of generative AI, applicable across domains, so students can evaluate and co-regulate their learning regardless of technology.
-- Highlights that the value of AI feedback depends on the learner's evaluative judgement and self-regulatory skill, not just the tool — a shared thread across the wiki's [[ai-feedback-quality]] and [[self-regulated-learning]] research.
+- Highlights that the value of AI feedback depends on the learner's evaluative judgement and self-regulatory skill, not just the tool — a shared thread across the knowledge base's [[ai-feedback-quality]] and [[self-regulated-learning]] research.
 - Students largely wanted to use AI without contravening academic standards, but more advanced feedback literacy would help them adapt and thrive; many regulated towards performance and avoidance goals rather than learning goals.
 - Limitations: underpowered regression, single-university psychology sample, and task-fidelity constraints (performance did not affect grades and AI use was not penalised, likely shifting motivation away from learning goals).
 

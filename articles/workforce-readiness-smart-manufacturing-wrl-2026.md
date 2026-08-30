@@ -64,7 +64,7 @@ Because the four pillars map onto the ABET student outcomes (SO1–SO7), a WRL t
 
 - **Diagnose over aggregate:** a strong average profile can hide thin pillars; competency frameworks should surface, not mask, specific gaps.
 - **Curricula cannot do it alone:** the highest readiness stages require real industry-embedded experience, implying partnerships, co-ops, and [[experiential-learning|work-integrated learning]] beyond the classroom.
-- **AI literacy is a workforce pillar, not an add-on:** the framework treats digital and AI literacy as one of four core readiness dimensions, aligning with the wiki's treatment of [[ai-literacy]] as a career-critical competency rather than a nicety.
+- **AI literacy is a workforce pillar, not an add-on:** the framework treats digital and AI literacy as one of four core readiness dimensions, aligning with the knowledge base's treatment of [[ai-literacy]] as a career-critical competency rather than a nicety.
 - **Certifications should be evidence-weighted:** a credential's contribution to a stage should depend on whether it demonstrates observable, role-relevant performance (a hands-on skills test) rather than recall of the same knowledge (a multiple-choice exam) — a critique that extends beyond WRL to how [[engineering-education|technical and engineering competency]] is evaluated more broadly in [[higher-ed|higher education]].
 - **Stackable credentials support incumbent workers:** articulation points at WRL 3, 5, and 7 give two- and four-year programs and [[adult-learning|incumbent-worker upskilling]] a shared language, aligning with [[lifelong-learning|lifelong learning]] and [[transfer-of-learning|transfer]] across institutions.
 

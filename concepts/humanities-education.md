@@ -11,7 +11,7 @@ confidence: high
 
 > **Humanities and Social Science (SSH) Education** — the teaching of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that [[generative-ai|generative AI]] both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own [[agency]] as writers and thinkers.
 
-SSH education is a distinct subject area in the wiki, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in domain-specific ways.
+SSH education is a distinct subject area in the knowledge base, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in domain-specific ways.
 
 ### How AI appears in humanities and social science education
 
@@ -22,7 +22,7 @@ SSH education is a distinct subject area in the wiki, complementary to [[stem-ed
 
 ### Why it matters
 
-SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The wiki treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
+SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The knowledge base treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
 
 ## Implications for humanities and social-science instructors
 

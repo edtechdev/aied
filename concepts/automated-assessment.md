@@ -35,7 +35,7 @@ Automated grading is one of the most mature and widely-deployed AI in education 
 
 A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
 
-**How confidence is modeled** in the wiki's research:
+**How confidence is modeled** in the knowledge base's research:
 
 - **Fused confidence signals for short-answer grading:** [[cong-confidence-asag-2026|Confidence-Aware ASAG]] fuses model-based confidence signals (verbalized, latent, and consistency-based) with dataset-derived aleatoric uncertainty via Random Forest regression.
 - **Confidence in multimodal student work:** [[confidence-aware-student-drawing-assessment|Confidence-aware assessment of student-drawn scientific figures]] extends confidence modeling to multimodal student responses.

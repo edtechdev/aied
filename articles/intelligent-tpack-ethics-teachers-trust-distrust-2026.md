@@ -31,7 +31,7 @@ confidence: high
 
 **Trust as a relational outcome.** Teachers' trust in AI was shaped by their ethical perceptions as much as by technical proficiency — pointing to the interdependence of knowledge and values in [[ai-literacy]] and to human-in-the-loop responsibility.
 
-**Implication for professional development.** The findings argue that AI professional development must build both technical knowledge and ethical fluency so teachers can trust — and appropriately distrust — AI systems, a central aim of the wiki's [[teacher-education]] concept.
+**Implication for professional development.** The findings argue that AI professional development must build both technical knowledge and ethical fluency so teachers can trust — and appropriately distrust — AI systems, a central aim of the knowledge base's [[teacher-education]] concept.
 
 ## Connected Concepts
 

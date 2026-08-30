@@ -18,7 +18,7 @@ Mixed-methods designs integrate the breadth, precision, and causal power of quan
 - **Sequential exploratory (QUAL → quan).** Qualitative work builds theory, generates hypotheses, or informs instrument design that is then tested quantitatively. [[becker-chatgpt-typology-physics-2026|A qualitative typology of ChatGPT adoption]] yields categories that can inform later survey design.
 - **Convergent/parallel.** Quantitative and qualitative strands run simultaneously and are integrated in analysis. [[t2i-competence-paradox-2026|The competence-paradox study]] uses instructor focus groups, a student survey, and follow-up interviews in parallel; [[fouad-bentley-trust-utility-gap-physics-2026|the trust–utility gap study]] combines survey and interview evidence on physics students' AI adoption.
 
-## How mixed methods appear in the wiki
+## How mixed methods appear in the knowledge base
 
 - **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
 - **Complementing outcome data with experience.** [[ai-tutor-safety-harms|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of pedagogical harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.

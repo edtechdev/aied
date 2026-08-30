@@ -43,7 +43,7 @@ The collaborative testing produced both **elaborations** (discrete clarification
 
 The taxonomy is explicitly not a design method or pedagogical framework — it aims to help teachers and researchers *orient their search* for good practices by specifying important traits and elements to look for, offering an accessible overview of possible GenAI roles in learning activities. It is positioned as one possible way to look at the landscape, acknowledging Global North bias in its theoretical foundations and inviting consideration of how it might differ from [[global-south|Global South]] pedagogical traditions.
 
-## Connections to the wiki
+## Connections to the knowledge base
 
 The taxonomy's Epistemic Engagement category (understanding / using / critiquing / constructing) maps directly onto [[ai-literacy]] dimensions and to [[critical-thinking]], and its person-plus-GenAI labour-distribution categories connect to [[human-ai-collaboration]] and debates about [[cognitive-offloading]]. Its Content category situates [[prompt-engineering]] as a distinct learning content area. The paper's framing of learning activities as entangled human–GenAI systems resonates with [[activity-theory-aied]], and its practical orientation connects to [[instructional-design]] and [[curriculum-design]].
 

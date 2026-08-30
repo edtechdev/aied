@@ -33,9 +33,9 @@ Intrinsic motivation was associated with significantly higher engagement in high
 
 The augmentation–automation distinction is supported: retaining [[agency]] over one's thinking yields substantially richer metacognitive engagement than full delegation.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This study contributes process-level empirical evidence to the wiki's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[pedagogy|instructional design]] for [[higher-ed|higher education]].
+This study contributes process-level empirical evidence to the knowledge base's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[pedagogy|instructional design]] for [[higher-ed|higher education]].
 
 ## Connected Concepts
 

@@ -36,9 +36,9 @@ The taxonomy organizes the full spectrum of AI in educational leadership into te
 
 The study uses a general inductive approach to synthesize literature from IEEE Xplore, ACM Digital Library, ERIC, and Scopus (1,247 papers screened down to 314 for detailed review). Two independent researchers coded publications in NVivo, and the emerging categories were consolidated and validated through three rounds of refinement. The author acknowledges limitations: reliance on published literature may miss the newest developments, and restricting to [[language-learning|English]]-language publications may exclude relevant cross-cultural insights.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
-This article is directly relevant to the wiki's coverage of how [[ai-education]] is governed and led at the institutional level. It connects several concept clusters that otherwise appear in scattered [[generative-ai]] and [[personalized-learning]] articles: [[governance]], [[educational-policy-ai]], [[faculty-development]], and [[administrator]] roles. For leaders, it reframes AI not as a classroom-only concern but as an institution-wide strategic and ethical matter spanning teaching, research, and service. It also complements empirical adoption studies by providing the organizational [[scaffolding]] those studies implicitly assume.
+This article is directly relevant to the knowledge base's coverage of how [[ai-education]] is governed and led at the institutional level. It connects several concept clusters that otherwise appear in scattered [[generative-ai]] and [[personalized-learning]] articles: [[governance]], [[educational-policy-ai]], [[faculty-development]], and [[administrator]] roles. For leaders, it reframes AI not as a classroom-only concern but as an institution-wide strategic and ethical matter spanning teaching, research, and service. It also complements empirical adoption studies by providing the organizational [[scaffolding]] those studies implicitly assume.
 
 ## Connected Concepts
 

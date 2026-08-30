@@ -32,7 +32,7 @@ The study argues that instructors cannot assume motivation will survive easy AI 
 1. **AI-resistant assessment:** redesign assessments so they measure what AI cannot trivially supply — reasoning, debugging, explaining one's own code — aligning with [[authentic-assessment]] and [[assessment-validity]] principles.
 2. **Motivation restructuring:** frame learning goals that AI cannot fulfill (deep understanding, the ability to debug and defend one's code under pressure) rather than treating output quality as the sole objective. This connects to the broader [[ai-misuse-learning-harm]] finding that the cost of bypassing effort is reduced durable learning.
 
-## Connection to the broader wiki
+## Connection to the broader knowledge base
 
 This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to ai-availability-student-motivation-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
 

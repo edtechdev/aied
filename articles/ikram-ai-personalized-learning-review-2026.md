@@ -35,9 +35,9 @@ A cross-cutting theme is the importance of [[ethics]] and governance in AI adopt
 
 The review operationalizes Education 5.0 as a learner-centered paradigm integrating advanced digital technologies, including generative AI, with humanistic values, inclusivity, and societal relevance. Generative AI is seen as pivotal in delivering adaptive instruction, personalizing content creation, and catering to learners with unique needs, including twice-exceptional and neurodivergent learners through strengths-based approaches. In professional disciplines like nursing and medicine, prompt engineering and AI tutoring strengthen analytical and clinical skills. This positions [[generative-ai]] and [[llm]] systems not merely as supportive tools but as catalysts reshaping learning design and inclusivity across [[higher-ed]] and professional education.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This is a significant, high-confidence contribution to the wiki's [[personalized-learning]] concept, offering a systematic, PRISMA-grounded synthesis of the field's trends and future directions. It provides the scholarly framing and evidence base that connects [[personalized-learning]] to adjacent concepts including [[adaptive-learning]], [[intelligent-tutoring]], [[student-modeling]], [[learning-analytics]], [[assessment]], and [[feedback]]. The review is especially valuable as a boundary-defining source for [[ai-education]] and [[generative-ai]], articulating an explicit operationalization of generative AI and Education 5.0. It also strengthens the wiki's treatment of [[teacher-role]], [[pedagogy]], [[agency]], and [[equity-in-ai-education]] by showing that AI's success depends on pedagogical alignment and ethical governance, not just technical capability. Its geographic findings (shift toward Asia) and call for methodological diversity offer a distinctive, cross-cultural lens the wiki can use to contextualize individual empirical studies.
+This is a significant, high-confidence contribution to the knowledge base's [[personalized-learning]] concept, offering a systematic, PRISMA-grounded synthesis of the field's trends and future directions. It provides the scholarly framing and evidence base that connects [[personalized-learning]] to adjacent concepts including [[adaptive-learning]], [[intelligent-tutoring]], [[student-modeling]], [[learning-analytics]], [[assessment]], and [[feedback]]. The review is especially valuable as a boundary-defining source for [[ai-education]] and [[generative-ai]], articulating an explicit operationalization of generative AI and Education 5.0. It also strengthens the knowledge base's treatment of [[teacher-role]], [[pedagogy]], [[agency]], and [[equity-in-ai-education]] by showing that AI's success depends on pedagogical alignment and ethical governance, not just technical capability. Its geographic findings (shift toward Asia) and call for methodological diversity offer a distinctive, cross-cultural lens the knowledge base can use to contextualize individual empirical studies.
 
 ## Connected Concepts
 
@@ -64,7 +64,7 @@ This is a significant, high-confidence contribution to the wiki's [[personalized
 ## Connected Articles
 
 - [[ai-ethics-bibliometric-2026]] — Bibliometric companion examining the ethics landscape of AI in education.
-- [[scaffolding-systematic-reviews-2026]] — Methodological precedent for systematic review workflows in the wiki.
+- [[scaffolding-systematic-reviews-2026]] — Methodological precedent for systematic review workflows in the knowledge base.
 - [[computational-thinking-aica-2026]] — Empirical K-12 study on AI coding assistants and learner characteristics complementing this field-wide review.
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — The Zhang et al. (2024) meta-analysis cited throughout this review on AI interventions for diverse learner populations.
 

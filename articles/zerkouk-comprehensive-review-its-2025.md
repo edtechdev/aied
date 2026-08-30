@@ -25,9 +25,9 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 
 **Scientific rigor deficit.** One of the review's most important contributions is its [[research-methods-aied|methodological]] critique. Many ITS studies suffer from weak experimental designs — small sample sizes, absence of control groups, short intervention durations, and inadequate statistical analyses. The authors call for greater scientific rigor, including [[rct]] where feasible, pre-registration of study designs, and transparent reporting aligned with educational research standards. This methodological critique connects to broader concerns in [[ai-ed-evaluation]] about the quality of evidence in AI education research.
 
-## Synthesis with Current Wiki Evidence
+## Synthesis with Current Knowledge Base Evidence
 
-| Claim in review | Supporting evidence in wiki | Contradictory evidence |
+| Claim in review | Supporting evidence in knowledge base | Contradictory evidence |
 |---|---|---|
 | ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠teaching quality) | — |

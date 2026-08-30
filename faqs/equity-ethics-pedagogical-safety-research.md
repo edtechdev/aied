@@ -12,7 +12,7 @@ research_method: [research methods]
 
 ## Equity
 
-For equity, examine not only who has access to AI but also who has the skills to use it effectively and who ultimately receives its benefits. The wiki's [[digital-divide|Digital Divide]] concept distinguishes access, skills, and outcome divides, which means equal access to a chatbot is not equivalent to equitable educational benefit. Researchers should therefore report relevant subgroup outcomes and investigate differential effectiveness rather than relying only on overall averages.
+For equity, examine not only who has access to AI but also who has the skills to use it effectively and who ultimately receives its benefits. The knowledge base's [[digital-divide|Digital Divide]] concept distinguishes access, skills, and outcome divides, which means equal access to a chatbot is not equivalent to equitable educational benefit. Researchers should therefore report relevant subgroup outcomes and investigate differential effectiveness rather than relying only on overall averages.
 
 ## Accessibility
 

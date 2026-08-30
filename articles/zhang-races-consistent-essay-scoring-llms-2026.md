@@ -29,9 +29,9 @@ RACES combines LoRA-based parameter-efficient fine-tuning, reward modeling, and 
 
 On the ASAP 2.0 [[benchmark]] (≈24,000 argumentative essays, 1–6 scale), all four policy–reward configurations achieved competitive QWK scores (up to 82.7%), with LLaMA2-7B slightly outperforming Qwen2.5-Instruct-7B and stronger reward models (Mistral-7B over GPT2-XL) yielding better results. Reward models converged rapidly (around 50 training steps), and auxiliary SimCSE semantic similarity reached 81.3% (LLaMA2-7B) and 79.3% (Qwen2.5-Instruct-7B) after PPO. The authors caution that results lack confidence intervals and significance testing, that feedback signals are synthetic proxy rather than authentic human feedback, and that direct consistency tests (repeated scoring, paraphrase and prompt-perturbation robustness, subgroup-level stability) and broader matched comparisons remain for future work.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper extends the wiki's coverage of [[automated-essay-scoring]] and [[automated-assessment]] by showing how reward modeling and reinforcement learning can push LLM-based scoring toward both accuracy and consistency, addressing the [[assessment-validity]] concern of aligning machine scores with human standards. Its explicit framing as a [[human-in-the-loop-ai|human-supervised]] auxiliary tool that flags borderline essays for review reinforces the wiki's emphasis on keeping humans accountable in [[assessment]]. The proxy-based feedback caveat connects to the wiki's interest in [[ai-feedback-quality]] and the integrity of AI-mediated evaluation.
+This paper extends the knowledge base's coverage of [[automated-essay-scoring]] and [[automated-assessment]] by showing how reward modeling and reinforcement learning can push LLM-based scoring toward both accuracy and consistency, addressing the [[assessment-validity]] concern of aligning machine scores with human standards. Its explicit framing as a [[human-in-the-loop-ai|human-supervised]] auxiliary tool that flags borderline essays for review reinforces the knowledge base's emphasis on keeping humans accountable in [[assessment]]. The proxy-based feedback caveat connects to the knowledge base's interest in [[ai-feedback-quality]] and the integrity of AI-mediated evaluation.
 
 ## Connected Concepts
 

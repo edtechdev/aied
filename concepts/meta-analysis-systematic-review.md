@@ -36,7 +36,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by learner population, domain, AI system type, or study design, revealing for whom and under what conditions a tool works.
 - **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.^[[ai-vocational-education-training-review]]^[[zerkouk-comprehensive-review-its-2025]]
 
-### Examples from the wiki
+### Examples from the knowledge base
 
 - **[[genai-meta-analysis-programming-learning|Meta-analysis of GenAI and programming]]** — pools evidence on the productivity-learning trade-off, finding significant productivity gains but no significant learning gain (g ≈ 0), illustrating meta-analysis's ability to separate short-term efficiency from durable learning.^[[genai-meta-analysis-programming-learning]]
 - **[[ai-vocational-education-training-review|Systematic review of AI in VET]]** — first systematic review of 26 studies, documenting the constructivist-in-name, behaviorist-in-practice gap and the absence of workplace studies.^[[ai-vocational-education-training-review]]
@@ -50,7 +50,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 
 ## AI-era synthesis challenge: productivity vs. learning
 
-Reviews of generative-AI interventions face a distinctive challenge that the wiki's synthesis research highlights: **separating productivity gains from durable learning gains.** Because generative AI can inflate immediate task performance (homework, assisted practice) without producing learning, meta-analyses must be careful about which outcome they pool. [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] found large productivity gains but no significant learning gain (g ≈ 0) — a clean illustration. [[stromberg-generative-ai-learning-penalty-secondary-2026|Large-scale field studies]] and [[generative-ai-reduced-study-time-math|unassisted-measure research]] show that the measured effect depends on whether outcomes are AI-assisted or proctored/unassisted. Reviews should therefore report assisted and unassisted outcomes separately, distinguish performance from [[learning-gains|learning]], and flag studies that measure only immediate AI-supported performance. A complementary caution emerges from the [[liu-ai-literacy-interventions-meta-analysis-2026|AI-literacy meta-analysis]]: which **outcome** is pooled also shapes the answer — knowledge-focused AI-literacy interventions showed larger effects than those targeting skills, attitudes, or ethics, so a review that pools only knowledge outcomes can overstate what AI-literacy instruction achieves overall. This connects to [[ai-ed-evaluation]] and [[summative-assessment]].
+Reviews of generative-AI interventions face a distinctive challenge that the knowledge base's synthesis research highlights: **separating productivity gains from durable learning gains.** Because generative AI can inflate immediate task performance (homework, assisted practice) without producing learning, meta-analyses must be careful about which outcome they pool. [[genai-meta-analysis-programming-learning|The GenAI-and-programming meta-analysis]] found large productivity gains but no significant learning gain (g ≈ 0) — a clean illustration. [[stromberg-generative-ai-learning-penalty-secondary-2026|Large-scale field studies]] and [[generative-ai-reduced-study-time-math|unassisted-measure research]] show that the measured effect depends on whether outcomes are AI-assisted or proctored/unassisted. Reviews should therefore report assisted and unassisted outcomes separately, distinguish performance from [[learning-gains|learning]], and flag studies that measure only immediate AI-supported performance. A complementary caution emerges from the [[liu-ai-literacy-interventions-meta-analysis-2026|AI-literacy meta-analysis]]: which **outcome** is pooled also shapes the answer — knowledge-focused AI-literacy interventions showed larger effects than those targeting skills, attitudes, or ethics, so a review that pools only knowledge outcomes can overstate what AI-literacy instruction achieves overall. This connects to [[ai-ed-evaluation]] and [[summative-assessment]].
 
 ## Strengths and limitations
 
@@ -69,7 +69,7 @@ Reviews of generative-AI interventions face a distinctive challenge that the wik
 
 ## Relationship to other methods
 
-Within the wiki's methodological landscape, meta-analysis and systematic review are the **synthesis** family, complementing primary designs:
+Within the knowledge base's methodological landscape, meta-analysis and systematic review are the **synthesis** family, complementing primary designs:
 
 - **Primary studies** (experiments, surveys, qualitative work, design-based research) generate individual findings; reviews aggregate them. See [[research-methods-aied]].
 - **Effect-size reporting** in primary studies (e.g., [[rct|RCTs]]) is what makes later meta-analysis possible — reviews depend on studies reporting comparable, extractable effect sizes.

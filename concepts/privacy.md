@@ -20,7 +20,7 @@ confidence: high
 
 ### The personalization-privacy tradeoff
 
-[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores privacy approaches that balance [[personalized-learning|personalization]] with data minimization.
+[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The knowledge base explores privacy approaches that balance [[personalized-learning|personalization]] with data minimization.
 
 ### Connections
 
