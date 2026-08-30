@@ -76,6 +76,11 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title} — AI Ed Wiki</title>
+  <!-- Critical dark background so navigation never flashes white before the
+       external stylesheet loads (the site is always dark-themed). -->
+  <style is:inline>
+    html { background-color: #11191f; }
+  </style>
   <meta name="description" content={description} />
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/aied/logo.svg" />
