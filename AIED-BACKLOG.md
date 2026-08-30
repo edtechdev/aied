@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-08-30
-**Total backlog:** 102 articles
+**Total backlog:** 98 articles
 
 Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Computers and Education Open (CEAO), British Journal of Educational Technology (BJET), Frontiers in Psychology. See `tooling/scripts/fetch-rss-feeds.py`.
 
@@ -111,10 +111,7 @@ Journal feeds: Computers and Education: Artificial Intelligence (CAEAI), Compute
 
 ## British Journal of Educational Technology (BJET)
 
-- [Effects of AI chatbot‐supported cooperative flipped classroom on student collaboration, self‐regulated learning and academic performance: A mastery learning perspective](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70079) — [DOI: 10.1111/bjet.70079](https://doi.org/10.1111/bjet.70079)
-- [From emotion regulation to academic success: A self‐determination theory‐based emotional agent‐mediated approach](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70083) — [DOI: 10.1111/bjet.70083](https://doi.org/10.1111/bjet.70083)
-- [The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70064) — [DOI: 10.1111/bjet.70064](https://doi.org/10.1111/bjet.70064)
-- [Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism](https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70072) — [DOI: 10.1111/bjet.70072](https://doi.org/10.1111/bjet.70072)
+_BJET articles are not open access and have been removed from the backlog (2026-08-30)._
 
 ## International Journal of Educational Technology in Higher Education (IJETHE)
 
