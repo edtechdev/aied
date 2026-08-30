@@ -47,6 +47,11 @@ type: article
 tags: [relevant, concept, tags]
 sources: ['raw/papers/filename.md']  # or [] if no full text saved
 confidence: high
+research_method: [survey, systematic review, experiment]  # optional
+discipline: [math education, physics education]  # optional
+audience: [instructors, learners, researchers]  # optional
+level: [higher ed, k 12]  # optional
+category: [assessment, framework]  # optional
 ---
 ```
 
