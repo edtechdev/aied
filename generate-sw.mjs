@@ -6,9 +6,17 @@
 import { generateSW } from 'workbox-build';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { createHash } from 'node:crypto';
+import { readFileSync } from 'node:fs';
 
 const rootDir = path.dirname(fileURLToPath(import.meta.url));
 const distDir = path.join(rootDir, 'dist');
+
+// Precache the app-shell HTML (the /aied/ landing page) so a first-ever
+// offline visit has a shell to navigate to. The content hash serves as the
+// revision so the shell updates whenever it changes.
+const appShellPath = path.join(distDir, 'index.html');
+const appShellRevision = createHash('sha1').update(readFileSync(appShellPath)).digest('hex');
 
 const { count, size, warnings } = await generateSW({
   globDirectory: distDir,
@@ -23,6 +31,7 @@ const { count, size, warnings } = await generateSW({
     '**/workbox-*.js',
     '**/registerSW.js',
   ],
+  additionalManifestEntries: [{ url: 'index.html', revision: appShellRevision }],
   // App-shell navigation fallback for the SPA-ish docs layout
   navigateFallback: '/aied/',
   navigateFallbackDenylist: [/\/pagefind\//],
