@@ -293,6 +293,11 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
                 # Rename the TOC title to "Table of Contents".
                 text = _re.sub(r'<h1 id="toc-title">[^<]*</h1>',
                                '<h1 id="toc-title">Table of Contents</h1>', text)
+                # The second page is a Notice page: relabel it in the landmarks
+                # nav so the reader's outline/progress list shows "Notice"
+                # instead of the book title.
+                text = _re.sub(r'epub:type="titlepage">[^<]*</a>',
+                               'epub:type="titlepage">Notice</a>', text)
                 # Hard-code the hierarchical numbers into the TOC entries.
                 text = number_toc(text)
                 data = text.encode('utf-8')
