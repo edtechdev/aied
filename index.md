@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-30 | **Total pages:** 1128
+**Last updated:** 2026-08-30 | **Total pages:** 1129
 ---
 
 ## Concepts
@@ -356,6 +356,7 @@
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
 - [[de-barba-srl-genai-2026]] — Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive Overgeneralization: When Adaptive Learning Enables Systematic Misapplication
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[design-based-research]] — Design-Based Research
 - [[design-thinking]] — Design Thinking

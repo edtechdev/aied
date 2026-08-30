@@ -1,8 +1,11 @@
 # Journal
 
-**Last updated:** 2026-08-30 | **Total entries:** 1115
+**Last updated:** 2026-08-30 | **Total entries:** 1116
 
 ## "2026-08-30
+
+- ◐ [[deceptive-overgeneralization-adaptive-learning-2026]] — 'raw/papers/10.1002_jcal.70311.md'
+  Deceptive Overgeneralization: When Adaptive Learning Enables Systematic Misapplication
 
 - ◐ [[school-ai-education-readiness-gaps-agency-2026]] — 'raw/papers/school-ai-education-readiness-gaps-agency-2026.md'
   Does School-Based AI Education Narrow Readiness Gaps?

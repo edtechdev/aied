@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
 confidence: high
@@ -42,6 +42,8 @@ The concepts form a pipeline rather than competitors: **student modeling** is th
 
 Across the whole family, the defining validity challenge is the same: the learner representation must **faithfully reflect a learner's true state** rather than the system's default assumptions. For **student modeling** and [[knowledge-tracing]], this means the model must genuinely capture what a learner knows ([[ai-ed-evaluation|evaluation]] and measurement validity). For [[simulating-students|simulation]], it means the synthetic learner must exhibit realistic imperfection rather than the model's full competence or [[ai-sycophancy|sycophantic]] agreement. Adaptive systems that consume faulty models inherit and propagate that error.
 
+**Correctness is not always a faithful signal.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that a learner model inferring mastery from correct actions can misrepresent a learner's true state: learners who exhibit *deceptive overgeneralization* appear mastered yet omit a critical application constraint, so adaptive systems can stop practice prematurely. Learner models should assess conditional understanding — including whether the learner knows when to withhold an action — not only action correctness.
+
 ## LLM-era modeling
 
 Recent advances use [[llm|LLMs]] for richer modeling. The [[xie-hillm-cd-2026|HiLLM-CD framework]] represents students as proficiency trees; [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] construct evidence-grounded knowledge representations from diverse data sources; [[inside-llm-student-simulator-reasoning-2026|LLMs now simulate students with reasoning]]. LLMs enable automated model construction from educational text and higher-fidelity [[simulating-students|student simulation]], reducing reliance on expert annotation — while sharpening the fidelity concerns above.
@@ -68,6 +70,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 - [[cognitive-diagnosis]]
 - [[feedback]]
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[learning-context-framework-context-aware-ai-education-2026]]
