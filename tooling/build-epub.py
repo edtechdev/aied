@@ -28,6 +28,15 @@ concept_slugs = {c[:-3] for c in os.listdir(CONCEPTS_DIR) if c.endswith('.md')}
 faq_slugs = {f[:-3] for f in os.listdir(FAQS_DIR) if f.endswith('.md')}
 article_slugs = {a[:-3] for a in os.listdir(os.path.join(WIKI,'articles')) if a.endswith('.md')}
 
+# FAQ slug -> title map (for the Connected FAQs sections)
+faq_titles = {}
+for _f in os.listdir(FAQS_DIR):
+    if not _f.endswith('.md'):
+        continue
+    _s = open(os.path.join(FAQS_DIR, _f), encoding='utf-8').read()
+    _m = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', _s, re.M)
+    faq_titles[_f[:-3]] = _m.group(1).strip() if _m else _f[:-3]
+
 # redirects (mirror src/data/conceptRedirects.ts)
 REDIRECTS = {
     'gamification':'game-based-learning','over-reliance':'cognitive-offloading','feedback-loop':'feedback',
@@ -90,6 +99,23 @@ def process_md(path, slug, hlevel):
     title = page_title(raw, slug)
     body = strip_frontmatter(raw)
     body = convert_links(body)
+
+    # Append a Connected FAQs section (from frontmatter connected_faqs) so the
+    # EPUB concept/article pages link out to the FAQ chapter, like the site does.
+    fm = raw.split('\n---\n', 1)[0]
+    cfm = re.search(r'^connected_faqs:\s*\[(.*?)\]', fm, re.M)
+    connected = []
+    if cfm:
+        for t in cfm.group(1).split(','):
+            t = t.strip()
+            if t and t in faq_slugs:
+                connected.append(t)
+    if connected:
+        lines = ['\n## Connected FAQs\n']
+        for t in connected:
+            lines.append(f'- [{faq_titles.get(t, smart_title(t.replace("-", " ")))}](#{t})')
+        body = body.rstrip('\n') + '\n' + '\n'.join(lines) + '\n'
+
     # Some concept pages contain stray empty heading lines (just '#' with no
     # text). pandoc turns these into phantom 'section' headings that break the
     # TOC nesting — drop them for the EPUB.
