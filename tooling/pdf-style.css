@@ -51,8 +51,10 @@ hr { border: none; border-top: 1px solid #ccc; }
   object-fit: contain;
 }
 
-/* Table of contents — make entries visibly clickable (blue). Numbering is
-   hard-coded into the heading text (like the EPUB), not via CSS counters. */
+/* Table of contents — make entries visibly clickable (blue) and add
+   hierarchical numbering (1 / 1.1 / 1.2.1) via CSS counters. WeasyPrint
+   renders counters reliably, and scoping to #TOC keeps body headings clean
+   (matching the EPUB, where numbering appears only in the TOC). */
 #TOC {
   page-break-after: always;
 }
@@ -60,10 +62,20 @@ hr { border: none; border-top: 1px solid #ccc; }
   list-style: none;
   margin-left: 0;
 }
-#TOC > ul > li { margin-top: 6pt; }
+#TOC > ul { counter-reset: toc1; }
+#TOC > ul > li { counter-increment: toc1; margin-top: 6pt; }
 #TOC > ul > li > a { font-weight: bold; }
+#TOC > ul > li > a::before { content: counter(toc1) ".  "; font-weight: bold; }
+
+#TOC li > ul { counter-reset: toc2; }
+#TOC li > ul > li { counter-increment: toc2; }
 #TOC li > ul > li > a { font-weight: 600; }
+#TOC li > ul > li > a::before { content: counter(toc1) "." counter(toc2) ".  "; font-weight: bold; }
+
+#TOC li > ul > li > ul { counter-reset: toc3; }
+#TOC li > ul > li > ul > li { counter-increment: toc3; }
 #TOC li > ul > li > ul > li > a { font-weight: normal; }
+#TOC li > ul > li > ul > li > a::before { content: counter(toc1) "." counter(toc2) "." counter(toc3) ".  "; font-weight: bold; }
 
 #TOC a {
   color: #0b5aa0;
