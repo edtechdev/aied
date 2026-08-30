@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-30T03:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
@@ -42,6 +42,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 

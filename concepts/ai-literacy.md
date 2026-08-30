@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-29T15:08:38-04:00"
+updated: "2026-08-30T03:30:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -120,6 +120,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework

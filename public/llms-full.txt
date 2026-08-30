@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 182 concepts, 945 articles, and 16 FAQs.
+> Complete text of 182 concepts, 946 articles, and 16 FAQs.
 
 # Concepts
 
@@ -15,7 +15,7 @@ A landmark [[history-of-aied|historical]] perspective, **[[mishra-control-vs-age
 
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
 
-- **[[ai-education|AI in Education]]** — this page, the field's overview and map to all coverage.
+- **AI in Education** — this page, the field's overview and map to all coverage.
 - **[[ai-literacy|AI literacy]]** — the umbrella for understanding, using, and critically evaluating AI, spanning [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], and [[reducing-ai-misuse|responsible use]]. Alongside it, [[human-ai-collaboration|human–AI collaboration]] and [[agentic-ai|agentic AI]] frame how people and AI work together.
 - **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more), including the distinct context of [[online-teaching-and-learning|online teaching and learning]].
 - **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
@@ -40,7 +40,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is ([[ai-education|the umbrella itself]], [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
+The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is (the umbrella itself, [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
 
 ## Learning and instruction
 
@@ -141,6 +141,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[visualization]] — Data visualization, infographics, and dashboards
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
@@ -397,6 +398,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
 
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
@@ -995,9 +997,10 @@ Agency matters because learning is most effective when learners are active, inte
 ## How agency appears in the wiki's research
 
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in [[computational-thinking|computational thinking]]; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to [[well-being]] and [[governance]] debates.
-- **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] research examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
+- **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] [[research-methods-aied|research]] examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
+- **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of school AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
@@ -1007,7 +1010,7 @@ Learner agency is not only a static individual trait — it is also an **emergen
 
 - **[[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]** provide the most direct evidence: in a large experiment (224 students, 97 triads) where AI operated as an *undisclosed teammate*, supportive and contrarian AI personas still reconfigured emergent agency. Contrarian AI pulled discourse into challenge- and reflection-oriented trajectories ([[desirable-difficulties|productive friction]]), while supportive AI stabilized agreement and renewed ideation.
 - **AI personas as discourse-governance mechanisms.** Contrarian personas externalized the burden of *challenging* (redistributing epistemic labour toward critique), while supportive personas externalized *affirmation* and consensus maintenance. The study identified six emergent agency profiles — notably, **reflective [[regulation]] was uniquely human** (AI externalized critique/affirmation but not meta-level monitoring).
-- **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential sustainability. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
+- **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential [[sustainability]]. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
 - **Implicit AI participation is invisible governance.** Because the personas worked even without AI disclosure, the study positions persona design as a form of invisible governance over collaborative processes — a finding with direct implications for writing assistants, [[peer-review]] systems, and teamwork platforms that may shape contributions without announcing their presence.
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
@@ -1027,7 +1030,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 
 - **Relational co-agency** — agency as a product of interaction among student, tool, and context, requiring transparent division of which tasks are delegated to AI and which retained, plus ethical co-agency in which humans retain primary accountability and act in a monitoring capacity.
 - **Regulatory co-agency** — mapping the [[self-regulated-learning|self-regulated learning]] cycle (forethought, performance, reflection) onto AI mediation. Whether GenAI enters *before* or *after* the learner's attempt determines whether it amplifies or erodes perceived control; strategic [[cognitive-offloading]] supports transformative learning only when the offloading decision is intentional rather than routine.
-- **Pedagogical co-agency** — placing [[teacher-role|teachers]] at the center, moving along an observer–adopter–collaborator–innovator continuum that depends on institutional support, not individual disposition.
+- **[[pedagogy|Pedagogical]] co-agency** — placing [[teacher-role|teachers]] at the center, moving along an observer–adopter–collaborator–innovator continuum that depends on institutional support, not individual disposition.
 
 The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
 
@@ -1050,6 +1053,7 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
@@ -8080,6 +8084,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[intelligent-tutoring]] — AI tutoring systems for younger students
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[ai-pbl-computational-thinking-2026]] — AI-assisted project-based learning and computational thinking
 - [[ai-enhanced-pbl-chatgpt-scaffolding-2026]] — ChatGPT-scaffolded project-based learning in the classroom
@@ -12736,9 +12741,9 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 
 ## [Equity](https://edtechdev.github.io/aied/concepts/equity-in-ai-education/)
 
-> **Equity** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant teaching).
+> **Equity** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity [[research-methods-aied|research]] in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant teaching).
 
-Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
+Equity in [[ai-education|AI education]] addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 
 ## Access and infrastructure equity
 
@@ -12760,6 +12765,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable. [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM writing-feedback tools systematically shift toward stereotype-aligned praise and withheld critique when feedback is personalized with a student's race, language, disability, achievement, or motivation — even on identical essays — making "[[personalized-learning|personalization]]" a concrete bias vector in automated feedback.
 - **Fairness-aware systems:** [[bias-mitigation]] and [[ground-truth-reliability-aied|ground-truth reliability]] research develop methods for detecting and correcting bias in AI tutors, scorers, and recommenders.
 - **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
+- **Psychological vs. cognitive equity:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]] found a year of school AI instruction in Hong Kong secondary schools **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy]] gaps between self-initiated ("high-agency") learners and their peers persisted, a Matthew-effect pattern where curricula "raised the floor but did not level the playing field." Access to a curriculum alone, without sustained self-initiated [[student-engagement|engagement]], may foster psychological but not full cognitive parity.
 - **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making [[prompt-engineering|prompting]] skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
 
 ## Linguistic, cultural, and disability inclusion
@@ -12801,6 +12807,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in AI-mediated education
 - [[nguyen-genai-global-south-review-2026]] — GenAI in the Global South: systematic review
@@ -12873,6 +12880,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
@@ -53526,6 +53534,66 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 ## Citation
 
 Scheu, S., Loeffler, S. N., & Maedche, A. (2026). [*Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement*](https://doi.org/10.1186/s41239-026-00589-7). *International Journal of Educational Technology in Higher Education*, 23, 15
+
+---
+
+## [Does School-Based AI Education Narrow Readiness Gaps?](https://edtechdev.github.io/aied/articles/school-ai-education-readiness-gaps-agency-2026/)
+
+> Liang, Yau, Meng, Chiu, King, Yam & Chai (2026) followed 752 Hong Kong junior-secondary students across a year of school-based [[ai-education|AI instruction]] and found that structured curricula **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy|AI-literacy]] gaps between high-agency learners and their peers persisted. Guided by [[agency|Social Cognitive Theory]], prior **self-initiated AI learning** predicted who benefited most, so school AI education acts as a psychological catalyst but not a full cognitive equalizer.
+
+## The study
+
+- **Sample:** 752 Hong Kong junior-secondary students (Mage = 14.06), 2024–25 school year, across three prior-learning profiles:
+  - **High-agency learners** (N = 183) — one year of self-initiated AI learning (e.g., online tutorials) only
+  - **[[curriculum-design|Curriculum]]-supported learners** (N = 369) — one year of school AI instruction only
+  - **Low-agency late learners** (N = 200) — no prior AI learning of any kind
+- **Design:** two-wave multigroup latent change score (LCS) model, before/after a year-long school AI curriculum (12 chapters across AI foundations, ML & applications, AI for social good, ethics/responsible use)
+- **Outcomes:** psychological AI readiness (confidence, perceived AI knowledge, social-good orientation, ethical awareness, learning intention) plus an objective 25-item AI-literacy test (cognitive readiness)
+
+## Baseline: prior agency predicts readiness
+
+- High-agency learners entered with the strongest psychological and cognitive readiness; curriculum-supported learners sat in the middle; low-agency late learners scored lowest
+- Self-initiated AI learning functioned as a behavioral pathway to readiness, while prior school instruction was an environmental affordance that only partially substituted for it
+
+## After one year of instruction: psychological gains, cognitive persistence
+
+- **All three groups improved** on both psychological and cognitive readiness after the year-long curriculum
+- **Psychological gaps narrowed substantially** — low-agency late learners showed the largest gains and approached parity with curriculum-supported learners, evidence that structured instruction can be a **psychological catalyst / compensatory environment**
+- **Cognitive gaps persisted** — group differences in AI-literacy change were non-significant, and high-agency learners still outperformed peers at post-test; a [[digital-divide|Matthew-effect]] pattern where school AI education "raised the floor but did not fully level the playing field"
+
+## Why psychological and cognitive readiness diverge
+
+- Psychological readiness is **more immediately responsive** to structured instruction (self-report of confidence, motivation, ethical orientation)
+- Objective AI literacy requires **cumulative exposure and sustained self-initiated exploration** — perceived gains do not automatically translate into objective understanding
+- The authors argue school AI education works **synergistically** with prior agency-related learning rather than replacing it: curricula provide access/guidance, while self-initiated [[student-engagement|engagement]] helps learners interpret and extend those affordances
+
+## Implications
+
+- **For [[teacher-role|instructors]] & instructional designers:** pair structured AI curricula with inquiry-based projects, reflective discussions, and [[authentic-assessment|authentic tasks]] that cultivate self-initiated engagement — not just content delivery
+- **For administrators & policymakers:** [[equity-in-ai-education|equity]] in AI education means more than curriculum access; ensure early/timely instruction, teacher preparation, and out-of-school enrichment so agency-related learning becomes a shared capacity rather than a stratified advantage
+- **For evaluation:** single-cohort post-test gains can mask persistent cognitive gaps — measure objective AI literacy and compare growth across learner subgroups, not just overall means
+
+## Connected Concepts
+
+- [[equity-in-ai-education]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[agency]]
+- [[k-12]]
+- [[digital-divide]]
+
+## Connected Articles
+
+- [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement
+- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps?
+- [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic review
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Scaffolded AI literacy (SAIL) framework
+- [[stanford-evidence-base-ai-k12-2026]] — The K-12 AI evidence base
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap
+
+## Citation
+
+Liang, S., Yau, K. W., Meng, H., Chiu, T. K. F., King, I., Yam, Y., & Chai, C. S. (2026). [Does school-based AI education narrow readiness gaps? The role of prior agency-related learning. *Computers & Education, 256*, 105745](https://doi.org/10.1016/j.compedu.2026.105745)
 
 ---
 

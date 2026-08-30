@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-30T03:30:00-04:00"
 type: concept
 tags: [ai-education, ai-literacy, intelligent-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity-in-ai-education]
 audience: [instructors, learners, faculty development, administrator]
@@ -22,7 +22,7 @@ A landmark [[history-of-aied|historical]] perspective, **[[mishra-control-vs-age
 
 The wiki's concept coverage is anchored by several **umbrella pages** that group related concepts into navigable strands. These are good entry points for exploring the field:
 
-- **[[ai-education|AI in Education]]** — this page, the field's overview and map to all coverage.
+- **AI in Education** — this page, the field's overview and map to all coverage.
 - **[[ai-literacy|AI literacy]]** — the umbrella for understanding, using, and critically evaluating AI, spanning [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], and [[reducing-ai-misuse|responsible use]]. Alongside it, [[human-ai-collaboration|human–AI collaboration]] and [[agentic-ai|agentic AI]] frame how people and AI work together.
 - **[[pedagogy|Pedagogies and teaching strategies]]** — the umbrella for how teaching happens: the teaching methods and strategies AI operates within ([[active-learning|active]], [[collaborative-learning|collaborative]], [[project-based-learning|project-based]], [[problem-based-learning|problem-based]], [[experiential-learning|experiential]], [[game-based-learning|game-based]], [[socratic-method|Socratic]], [[scaffolding]], and more), including the distinct context of [[online-teaching-and-learning|online teaching and learning]].
 - **[[learning-theories|Learning theories]]** — the umbrella for how learning happens: the theoretical frameworks ([[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning|sociocultural]], cognitive, [[motivation|motivational]]) that shape AI design and evaluation.
@@ -47,7 +47,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is ([[ai-education|the umbrella itself]], [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
+The field's cross-cutting and foundational concepts anchor the wiki's coverage and appear first in the sidebar. These span what AI in education is (the umbrella itself, [[history-of-aied|its history]], [[philosophy-of-ai-in-education|its philosophy]], [[theory-development-aied|theory development]]), the [[ai-literacy|AI literacy]] that underpins responsible use, and the themes that cut across every strand — [[human-ai-collaboration|human–AI collaboration]], [[agentic-ai|agentic AI]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], and the [[technology-acceptance-model|technology adoption]] research that models how users take up AI. [[misconceptions|Misconceptions about AI]] — held by learners, teachers, and the public — are a foundational cross-cutting theme, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]]. [[prompt-engineering|Prompt engineering]], [[ai-use-disclosure|AI use disclosure]], and [[sustainability|sustainability]] round out the practical cross-cutting layer — the last addressing both AI for sustainability education and the environmental and ethical footprint of AI itself.
 
 ## Learning and instruction
 
@@ -148,6 +148,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[visualization]] — Data visualization, infographics, and dashboards
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[learning-context-framework-context-aware-ai-education-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education

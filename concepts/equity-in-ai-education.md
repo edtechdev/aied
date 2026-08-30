@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-08-29T14:20:00-04:00"
+updated: "2026-08-30T03:30:00-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 discipline: [language learning]
@@ -11,9 +11,9 @@ confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students]
 ---
 
-> **Equity** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant teaching).
+> **Equity** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity [[research-methods-aied|research]] in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the [[pedagogy|pedagogical]] (culturally relevant teaching).
 
-Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
+Equity in [[ai-education|AI education]] addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 
 ## Access and infrastructure equity
 
@@ -35,6 +35,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable. [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] shows LLM writing-feedback tools systematically shift toward stereotype-aligned praise and withheld critique when feedback is personalized with a student's race, language, disability, achievement, or motivation — even on identical essays — making "[[personalized-learning|personalization]]" a concrete bias vector in automated feedback.
 - **Fairness-aware systems:** [[bias-mitigation]] and [[ground-truth-reliability-aied|ground-truth reliability]] research develop methods for detecting and correcting bias in AI tutors, scorers, and recommenders.
 - **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
+- **Psychological vs. cognitive equity:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]] found a year of school AI instruction in Hong Kong secondary schools **narrowed psychological AI-readiness gaps (confidence, motivation, [[ethics|ethical]] awareness) but not cognitive ones** — objective [[ai-literacy]] gaps between self-initiated ("high-agency") learners and their peers persisted, a Matthew-effect pattern where curricula "raised the floor but did not level the playing field." Access to a curriculum alone, without sustained self-initiated [[student-engagement|engagement]], may foster psychological but not full cognitive parity.
 - **Prompt privilege:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] document "prompt privilege" — users who phrase requests skillfully systematically obtain better LLM output than users expressing the same intent less adroitly — making [[prompt-engineering|prompting]] skill a silently uneven resource. Their Prompt Equity Transformer shifts prompt optimization into the system, treating equitable output as an accessibility property rather than demanding expert prompting from novices.
 
 ## Linguistic, cultural, and disability inclusion
@@ -76,6 +77,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in AI-mediated education
 - [[nguyen-genai-global-south-review-2026]] — GenAI in the Global South: systematic review
