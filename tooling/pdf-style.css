@@ -51,6 +51,16 @@ hr { border: none; border-top: 1px solid #ccc; }
   object-fit: contain;
 }
 
+/* Notice page (same content as the EPUB's Notice page) */
+.notice-page {
+  page: cover;
+  page-break-before: always;
+  margin: 2.5cm 2cm;
+}
+.notice-page h1 { font-size: 18pt; margin-bottom: 0.6em; }
+.notice-page p { margin: 0.7em 0; }
+.notice-page .cc0 { margin-top: 1.2em; }
+
 /* Table of contents — make entries visibly clickable (blue) and add
    hierarchical numbering (1 / 1.1 / 1.2.1) via CSS counters. WeasyPrint
    renders counters reliably, and scoping to #TOC keeps body headings clean
