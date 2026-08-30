@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-30T16:30:00-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 audience: [learners]
@@ -90,6 +90,8 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - **For [[educational-policy-ai|AI policy]]:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For researchers:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that self-regulated writing attenuates — but does not eliminate — the negative association between deep cognitive offloading and independent no-AI outcomes in GenAI-assisted writing: the offloading-by-SRL interaction was positive (B = 0.22), flattening the harm from a slope of −0.54 (low SRL) to −0.33 (high SRL) but not cancelling it. A bounded-support condition pairing delegation limits with compulsory reflection produced the strongest independent performance, evidence that metacognitive regulation partially protects learners yet cannot fully compensate for delegating the cognitive work itself.
+
 ## Connected Concepts
 
 - [[metacognition]] — the cognitive monitoring SRL relies on
@@ -111,6 +113,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning

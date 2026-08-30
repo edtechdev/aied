@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-30T16:30:00-04:00"
 type: concept
 tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
 level: [k 12]
@@ -43,7 +43,9 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 
 **Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool ([[prompt-engineering|prompt engineering]], reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
 
-### Conditions supporting positive transfer
+**Layer-sensitive offloading and transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] directly tests Salomon, Perkins & Globerson's "effects with vs. effects of technology" distinction in GenAI-assisted writing: an eight-week quasi-experiment found open AI collaboration maximized supported-writing performance but produced the *lowest* independent no-AI near-transfer outcomes, while bounded support with reflection preserved independent competence. Deeper offloading layers (reasoning, structure) predicted worse transfer than surface layers (grammar). This is direct classroom evidence that AI's *with*-support performance gains do not transfer to *of*-support independent performance — and that the depth of delegation, not just whether AI is used, shapes transfer.
+
+## Conditions supporting positive transfer
 
 The limited evidence suggests transfer is possible when:
 
@@ -77,6 +79,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[self-regulated-learning]]
 - [[learning-theories]]
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 

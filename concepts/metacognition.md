@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-27T06:13:15.881051-04:00"
+updated: "2026-08-30T16:50:00-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 audience: [learners]
@@ -75,6 +75,10 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 - **Mistake-based pedagogy as metacognitive training:** [[pedagogy-ai-mistakes|Hosseini (2026)]] shows that deliberately exposing students to AI-generated errors in a database design course activates metacognitive monitoring — students inspected outputs, identified errors, and revised designs rather than accepting AI output at face value. Self-reported AI literacy correlated weakly and negatively with objective competency (*r*=−0.39), a calibration gap the critique-refinement cycle is designed to narrow.
 - **Productive failure engages metacognitive monitoring.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show productive-failure-based learning activates reflection on one's own attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks require learners to diagnose and correct their own errors — a metacognitive activity where AI gives clues rather than answers.
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that metacognitive regulation (self-regulated writing) attenuates the negative association between deep cognitive offloading and independent no-AI outcomes in GenAI-assisted writing (interaction B = 0.22), but does not eliminate it — a bounded-support condition pairing delegation limits with compulsory reflection about how AI suggestions were accepted/rejected produced the strongest independent performance.
+
+[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] shows explanation-seeking prompts (depth) in LLM interaction predict task quality but not immediate recall, interpreting the dissociation via elaboration (comprehension) vs. retrieval practice (consolidation) — and suggesting explanation-seeking correlates with metacognitive monitoring, though retrieval demands must be added for durable retention.
+
 ## Connected Concepts
 
 - [[self-regulated-learning]]
@@ -92,6 +96,8 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[student-experience]]
 - [[learning-theories]]
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 
