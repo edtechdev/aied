@@ -1,8 +1,8 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-25T11:30:00-04:00"
-connected_faqs: [designing-ai-into-learning]
+updated: "2026-08-29T20:37:39-04:00"
+connected_faqs: [designing-ai-into-learning, developing-ai-tutor]
 type: concept
 tags: [sociocultural-learning, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 
