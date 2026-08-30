@@ -9,7 +9,7 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either [[scaffolding|scaffold]] SRL development or inadvertently short-circuit it by removing the regulatory demands that build expertise.^[[scheu-mobile-chatbot-journaling-motivation-2026]]^[[stanford-evidence-base-ai-k12-2026]]
+> Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either [[scaffolding|scaffold]] SRL development or inadvertently short-circuit it by removing the regulatory demands that build expertise.([[scheu-mobile-chatbot-journaling-motivation-2026]])([[stanford-evidence-base-ai-k12-2026]])
 
 SRL is the process whereby learners actively manage their own learning through three interrelated phases:
 
@@ -17,7 +17,7 @@ SRL is the process whereby learners actively manage their own learning through t
 2. **Performance:** Strategy deployment, self-observation, attention focusing
 3. **Self-reflection:** Self-evaluation, causal attribution, adaptation
 
-Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** demonstrate that whether students perceive feedback as coming from AI or a human significantly affects their self-regulated learning and revision behavior.
 
@@ -40,7 +40,7 @@ In a randomized field experiment with 179 students over 22 days, two design prin
 | **Example-based course** | 7-day [[curriculum-design|curriculum]] teaching reflective journaling via modeled responses | Increased perceived competence and enjoyment | **Positive** | Constant positive |
 | **[[llm]] journaling assistant** | GPT-3.5 summarizes drafts, asks clarifying questions, suggests reformulations | No direct SRL skill effect measured | **No effect** | Increasing over time ([[feedback|feedback loop]]) |
 
-**Key insight:** The course improved SRL skills *and* intrinsic motivation through skill transfer, while the assistant improved engagement without affecting motivation.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+**Key insight:** The course improved SRL skills *and* intrinsic motivation through skill transfer, while the assistant improved engagement without affecting motivation.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 ## AI Tools and the SRL–Motivation Reciprocal Loop
 
@@ -60,7 +60,7 @@ AI tools can enter this loop at different points:
 
 ## Relationship to Tutoring-Specific Design
 
-[[stanford-evidence-base-ai-k12-2026|Tutoring-specific AI]] aligns with SRL-first design: it provides graduated scaffolds that preserve [[agency|learner agency]] and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.^[[stanford-evidence-base-ai-k12-2026]]
+[[stanford-evidence-base-ai-k12-2026|Tutoring-specific AI]] aligns with SRL-first design: it provides graduated scaffolds that preserve [[agency|learner agency]] and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.([[stanford-evidence-base-ai-k12-2026]])
 
 For example:
 - Bastani et al.'s tutoring-specific [[conversational-ai|chatbot]] preserved step-by-step reasoning (SRL demand)
@@ -68,7 +68,7 @@ For example:
 
 ## Evidence Across Contexts
 
-- **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.^[[young-people-learning-generative-ai-rapid-review-2026]]
+- **Mixed evidence and the miscalibration gap.** A rapid review of PreK-12 GenAI research finds metacognitive gains during supported tasks often do not persist when support is removed, and that GenAI can increase perceived learning even when durable learning is absent (the miscalibration gap — students preferred GenAI over note-taking despite weaker retention). Students need explicit, stage-appropriate training to decide what to delegate and when independent effort matters.([[young-people-learning-generative-ai-rapid-review-2026]])
 - **Agentic initiative vs. self-regulation tension.** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] note that as agents automate more of a task, the less self-regulated cognitive work the learner performs — so designs should give learners control over agent initiation (dynamic, fading scaffolding) to preserve self-regulatory capacity rather than outsourcing it.
 - **Self-regulation shapes AI coding-assistant use.** [[computational-thinking-aica-2026|A study of AI coding assistants]] found high-[[computational-thinking]] students showed stronger self-regulatory coherence (planning-execution-self-reflection) and used AICA for code understanding, while low-CT students used it for immediate answer retrieval.
 

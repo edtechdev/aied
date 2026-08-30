@@ -39,7 +39,7 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 ## Implications for design and research
 
 1. **Design for internalization, not just performance.** Cognitivist AIED should be evaluated on whether the learner can retrieve and apply knowledge *without* the tool — not on assisted performance. This is the [[ai-misuse-learning-harm|performance–learning gap]] and the rationale for measuring unassisted [[transfer-of-learning|transfer]].
-2. **Represent the learner, don't just respond.** Attach structured [[student-modeling]] and [[knowledge-tracing]] to AI dialogue so the system adapts to inferred knowledge rather than responding fluently but blindly.^[[educlaw-bench-pedagogical-llm-agents-2026]]
+2. **Represent the learner, don't just respond.** Attach structured [[student-modeling]] and [[knowledge-tracing]] to AI dialogue so the system adapts to inferred knowledge rather than responding fluently but blindly.([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **Respect working-memory limits.** Apply Cognitive Load Theory to AI UX: reduce extraneous load (friction, overloaded interfaces) while preserving germane processing ([[desirable-difficulties|productive struggle]], retrieval practice) rather than minimizing all cognitive demand.
 4. **Calibrate metacognition.** Because [[metacognition]] governs when learners choose to offload, teaching calibration (knowing what one can actually do unaided) is a cognitivist answer to over-reliance (see [[cognitive-offloading]]).
 

@@ -13,7 +13,7 @@ confidence: medium
 
 > When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
 
-> General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to **~74%** on image-rich multimodal problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.^[[syal-multimodal-dialogue-stem-2026]]
+> General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to **~74%** on image-rich multimodal problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.([[syal-multimodal-dialogue-stem-2026]])
 
 ## The Multimodal Interference Effect
 
@@ -34,7 +34,7 @@ Syal et al. (2026) identified four empirically-derived failure modes on OpenStax
 | **Mathematical Computation Errors** | Low | Calculation or unit errors |
 | **Hybrid Errors** | Moderate | Combinations of the above |
 
-*Note: Visual and Hybrid errors appeared only in multimodal (not text-only) problems.*^[[syal-multimodal-dialogue-stem-2026]]
+*Note: Visual and Hybrid errors appeared only in multimodal (not text-only) problems.*([[syal-multimodal-dialogue-stem-2026]])
 
 ## The Structured Dialogue Intervention
 
@@ -48,7 +48,7 @@ This relies purely on prompt design—no model retraining, no specialized benchm
 
 ## Relationship to Tutoring-Specific Design
 
-The structured dialogue intervention is structurally similar to [[stanford-evidence-base-ai-k12-2026|tutoring-specific guardrails]]: it forces the LLM to reason step-by-step rather than jumping to answers. It also preserves productive cognitive load by making the student (or in this case, the LLM) attend to visual structure before solving.^[[syal-multimodal-dialogue-stem-2026]]
+The structured dialogue intervention is structurally similar to [[stanford-evidence-base-ai-k12-2026|tutoring-specific guardrails]]: it forces the LLM to reason step-by-step rather than jumping to answers. It also preserves productive cognitive load by making the student (or in this case, the LLM) attend to visual structure before solving.([[syal-multimodal-dialogue-stem-2026]])
 
 ## Implications
 

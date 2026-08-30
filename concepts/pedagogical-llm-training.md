@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.^[[singh-eduqwen-pedagogical-rl-2026]] Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.^[[jeon-isd-agent-bench-2026]]
+> Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.([[singh-eduqwen-pedagogical-rl-2026]]) Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.([[jeon-isd-agent-bench-2026]])
 
 General-purpose LLMs are optimized for helpfulness: users want quick, correct answers. Tutoring requires the opposite: the goal is **not to provide the answer, but to help the student get to the answer themselves**. This creates a fundamental incentive mismatch.
 
