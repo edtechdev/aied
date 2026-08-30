@@ -68,7 +68,8 @@ def shift_headings(txt, add):
 
 def convert_links(txt):
     """Turn [[target|label]] / [[target]] into internal epub anchors when the
-    target is a concept or FAQ present in this EPUB; otherwise plain text."""
+    target is a concept or FAQ present in this EPUB; into a link to the live
+    site for article pages (not included in this EPUB); otherwise plain text."""
     def repl(m):
         target, label = m.group(1), m.group(2)
         raw = target.replace('.md','').strip()
@@ -76,7 +77,12 @@ def convert_links(txt):
         disp = label.strip() if label else smart_title(canon.replace('-',' '))
         if canon in concept_slugs or canon in faq_slugs:
             return f'[{disp}](#{canon})'
-        return disp  # article or unknown -> plain text
+        if canon in article_slugs:
+            # Article pages aren't in this EPUB — link out to the live wiki so
+            # the reader can open the article page in a browser.
+            url = f'https://edtechdev.github.io/aied/articles/{canon}/'
+            return f'[{disp}]({url})'
+        return disp  # unknown -> plain text
     return re.sub(r'\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', repl, txt)
 
 def process_md(path, slug, hlevel):
@@ -84,7 +90,25 @@ def process_md(path, slug, hlevel):
     title = page_title(raw, slug)
     body = strip_frontmatter(raw)
     body = convert_links(body)
-    body = shift_headings(body, hlevel - 1)
+    # Some concept pages contain stray empty heading lines (just '#' with no
+    # text). pandoc turns these into phantom 'section' headings that break the
+    # TOC nesting — drop them for the EPUB.
+    body = '\n'.join(l for l in body.split('\n') if not re.match(r'^#{1,6}\s*$', l))
+    # Many FAQ (and some concept) bodies open with an H1 that repeats the page
+    # title. Drop it — we emit the title heading ourselves — otherwise the
+    # shifted duplicate heading splits the page into two EPUB chapters and
+    # duplicates it in the TOC. (Bodies may start with a blank line before the H1.)
+    lines = body.split('\n')
+    for idx, ln in enumerate(lines):
+        m = re.match(r'^#\s+(.*)$', ln)
+        if m is not None:
+            h1 = m.group(1).strip()
+            if h1.lower() == title.lower() or title.lower() in h1.lower():
+                del lines[idx]
+            break
+        if ln.strip():
+            break  # first non-blank line is not an H1
+    body = shift_headings('\n'.join(lines), hlevel - 1)
     return title, body
 
 # --- parse conceptIndex.ts for umbrella groups (order preserved) ---
