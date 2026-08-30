@@ -9,9 +9,9 @@ category: [evaluation]
 confidence: high
 ---
 
-> **Meta-analysis and systematic review** — the family of evidence-synthesis methods researchers use to aggregate and appraise a body of studies, rather than run a single new experiment. A **systematic review** applies a transparent, reproducible protocol to search, screen, appraise, and synthesize the literature on a focused question; a **meta-analysis** goes further by statistically pooling effect sizes across eligible studies to produce a weighted summary estimate and to test moderators. In AI in education, these methods are central to establishing the evidence base for whether AI tools work, under what conditions, and for whom — and to exposing gaps, bias, and the field's methodological quality.^[[genai-meta-analysis-programming-learning]]^[[zerkouk-comprehensive-review-its-2025]]
+> **Meta-analysis and systematic review** — the family of evidence-synthesis methods researchers use to aggregate and appraise a body of studies, rather than run a single new experiment. A **systematic review** applies a transparent, reproducible protocol to search, screen, appraise, and synthesize the literature on a focused question; a **meta-analysis** goes further by statistically pooling effect sizes across eligible studies to produce a weighted summary estimate and to test moderators. In AI in education, these methods are central to establishing the evidence base for whether AI tools work, under what conditions, and for whom — and to exposing gaps, bias, and the field's methodological quality.([[genai-meta-analysis-programming-learning]])([[zerkouk-comprehensive-review-its-2025]])
 
-Systematic reviews and meta-analyses sit at the top of the traditional evidence hierarchy precisely because they synthesize many individual studies, compensating for the small samples, heterogeneous designs, and conflicting results that characterize any fast-moving applied field. In AI in education, where new tools and studies appear constantly, reviews play the crucial role of taking stock: mapping what has been studied, aggregating what is known, and flagging where evidence is thin or methodologically weak. They differ from a narrative or integrative literature review, which provides qualitative synthesis, in their commitment to a documented protocol and (for meta-analysis) statistical pooling.^[[ai-literacy-heptagon-2026]]
+Systematic reviews and meta-analyses sit at the top of the traditional evidence hierarchy precisely because they synthesize many individual studies, compensating for the small samples, heterogeneous designs, and conflicting results that characterize any fast-moving applied field. In AI in education, where new tools and studies appear constantly, reviews play the crucial role of taking stock: mapping what has been studied, aggregating what is known, and flagging where evidence is thin or methodologically weak. They differ from a narrative or integrative literature review, which provides qualitative synthesis, in their commitment to a documented protocol and (for meta-analysis) statistical pooling.([[ai-literacy-heptagon-2026]])
 
 ## Systematic review vs. meta-analysis
 
@@ -23,7 +23,7 @@ Systematic reviews and meta-analyses sit at the top of the traditional evidence 
 | **When used** | Mapping a fragmented literature, answering "what has been studied and what does it show?" | When multiple comparable quantitative studies exist, answering "how large is the effect overall?" |
 | **Strength** | Transparent, reproducible scope and appraisal | Increased power and precision; detects moderators and heterogeneity |
 
-Both follow **PRISMA** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) as the reporting standard, which documents the search, screening, and inclusion process for transparency and reproducibility. An integrative review may follow PRISMA principles for transparency while stopping short of statistical pooling.^[[ai-collaborative-learning-systematic-review]]^[[ai-literacy-heptagon-2026]]
+Both follow **PRISMA** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) as the reporting standard, which documents the search, screening, and inclusion process for transparency and reproducibility. An integrative review may follow PRISMA principles for transparency while stopping short of statistical pooling.([[ai-collaborative-learning-systematic-review]])([[ai-literacy-heptagon-2026]])
 
 ## Evidence-synthesis in AI in education
 
@@ -32,21 +32,21 @@ Both follow **PRISMA** (Preferred Reporting Items for Systematic Reviews and Met
 Systematic reviews and meta-analyses in AI in education serve several distinct purposes:
 
 - **Establish the evidence base** — determining whether AI tools (tutoring, feedback, assessment, chatbots) produce [[learning-gains|learning gains]], and how large those gains are.
-- **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).^[[ai-vocational-education-training-review]]
+- **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).([[ai-vocational-education-training-review]])
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by learner population, domain, AI system type, or study design, revealing for whom and under what conditions a tool works.
-- **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.^[[ai-vocational-education-training-review]]^[[zerkouk-comprehensive-review-its-2025]]
+- **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.([[ai-vocational-education-training-review]])([[zerkouk-comprehensive-review-its-2025]])
 
 ### Examples from the knowledge base
 
-- **[[genai-meta-analysis-programming-learning|Meta-analysis of GenAI and programming]]** — pools evidence on the productivity-learning trade-off, finding significant productivity gains but no significant learning gain (g ≈ 0), illustrating meta-analysis's ability to separate short-term efficiency from durable learning.^[[genai-meta-analysis-programming-learning]]
-- **[[ai-vocational-education-training-review|Systematic review of AI in VET]]** — first systematic review of 26 studies, documenting the constructivist-in-name, behaviorist-in-practice gap and the absence of workplace studies.^[[ai-vocational-education-training-review]]
-- **[[ai-collaborative-learning-systematic-review|Systematic review of AI-powered collaborative learning]]** — a PRISMA 2020 review of 27 studies, organizing AI tools into four functional categories and identifying bias, over-reliance, and teacher-training challenges.^[[ai-collaborative-learning-systematic-review]]
+- **[[genai-meta-analysis-programming-learning|Meta-analysis of GenAI and programming]]** — pools evidence on the productivity-learning trade-off, finding significant productivity gains but no significant learning gain (g ≈ 0), illustrating meta-analysis's ability to separate short-term efficiency from durable learning.([[genai-meta-analysis-programming-learning]])
+- **[[ai-vocational-education-training-review|Systematic review of AI in VET]]** — first systematic review of 26 studies, documenting the constructivist-in-name, behaviorist-in-practice gap and the absence of workplace studies.([[ai-vocational-education-training-review]])
+- **[[ai-collaborative-learning-systematic-review|Systematic review of AI-powered collaborative learning]]** — a PRISMA 2020 review of 27 studies, organizing AI tools into four functional categories and identifying bias, over-reliance, and teacher-training challenges.([[ai-collaborative-learning-systematic-review]])
 - **[[genai-higher-education-systematic-review-2026|Systematic review of GenAI in higher education]]** — maps opportunities, challenges, and pedagogical innovations across a five-year window.
 - **[[zerkouk-comprehensive-review-its-2025|Comprehensive ITS review]]** — a systematic review of intelligent tutoring systems with a focus on methodological rigor.
 - **[[chatgpt-critical-creative-thinking-review|Systematic review of ChatGPT and critical/creative thinking]]** — synthesizes evidence on whether LLM use supports or undermines [[critical-thinking|higher-order thinking]].
 - **[[stanford-evidence-base-ai-k12-2026|Evidence base for AI in K-12]]** — reviews the strength of evidence for AI tutoring in schools.
 - **[[liu-ai-literacy-interventions-meta-analysis-2026|Meta-analysis of AI literacy interventions]]** — three-level meta-analysis of 59 studies (172 effects, 7,211 participants) estimating a large overall effect (g = 0.837) while showing that effectiveness varies by region and learning-outcome focus (knowledge-focused interventions outperformed those targeting skills, attitudes, or ethics).
-- **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.^[[ai-literacy-heptagon-2026]]
+- **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.([[ai-literacy-heptagon-2026]])
 
 ## AI-era synthesis challenge: productivity vs. learning
 
@@ -65,7 +65,7 @@ Reviews of generative-AI interventions face a distinctive challenge that the kno
 - **Publication bias** — null or negative results are under-published, inflating pooled effects
 - **Heterogeneity** — varied designs, outcome measures, and AI systems make direct pooling hard and can undermine the meaning of a single effect size
 - **Rapid obsolescence** — the AI tool landscape changes quickly, so reviews can date fast
-- **Scope constraints** — single-database or English-only searches may miss relevant work.^[[ai-collaborative-learning-systematic-review]]^[[ai-vocational-education-training-review]]
+- **Scope constraints** — single-database or English-only searches may miss relevant work.([[ai-collaborative-learning-systematic-review]])([[ai-vocational-education-training-review]])
 
 ## Relationship to other methods
 
@@ -78,10 +78,10 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 ## Implications for researchers
 
-1. **Report extractable effect sizes.** For a literature to be meta-analyzable, primary studies must report comparable effect sizes and adequate methods detail — a responsibility of every AIED study.^[[research-methods-aied]]
+1. **Report extractable effect sizes.** For a literature to be meta-analyzable, primary studies must report comparable effect sizes and adequate methods detail — a responsibility of every AIED study.([[research-methods-aied]])
 2. **Follow a transparent protocol.** PRISMA-guided search, screening, and appraisal make reviews reproducible and defensible.
 3. **Interpret pooled effects cautiously.** Attend to heterogeneity, publication bias, and the quality of included studies before drawing strong conclusions.
-4. **Use reviews to set the agenda.** Reviews' documented gaps (failure cases, workplace settings, non-English and non-indexed work, long-term outcomes) should guide where new primary research is needed.^[[ai-vocational-education-training-review]]
+4. **Use reviews to set the agenda.** Reviews' documented gaps (failure cases, workplace settings, non-English and non-indexed work, long-term outcomes) should guide where new primary research is needed.([[ai-vocational-education-training-review]])
 
 ## Connected Concepts
 

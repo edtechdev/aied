@@ -30,9 +30,9 @@ The dominant metaphor in the knowledge base is *orchestration*: teachers coordin
 
 Recent work expands the orchestration metaphor into richer role conceptualizations:
 
-- **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across [[biology-education|biological]] and artificial systems, moving beyond instrumentalist models like [[tpack]] and SAM.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- **Facilitator, co-investigator, [[ethics|ethical]] supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.^[[li-ai-science-situated-learning-teachers-2025]]
-- **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.^[[fowlin-operationalizing-learning-principles-ai]]
+- **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across [[biology-education|biological]] and artificial systems, moving beyond instrumentalist models like [[tpack]] and SAM.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
+- **Facilitator, co-investigator, [[ethics|ethical]] supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.([[li-ai-science-situated-learning-teachers-2025]])
+- **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.([[fowlin-operationalizing-learning-principles-ai]])
 
 These roles connect teacher work to [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], and [[critical-pedagogy]], and reframe the teacher as a designer and ethical guide of AI-mediated learning rather than merely a user.
 

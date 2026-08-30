@@ -12,7 +12,7 @@ confidence: medium
 
 > ProPACT constructs a real-time model of pair collaboration using three signals:
 
-> Most adaptive [[learning-gains|learning]] systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^[[golrang-propact-pair-programming-2026]]
+> Most adaptive [[learning-gains|learning]] systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.([[golrang-propact-pair-programming-2026]])
 
 ## The Dyadic Learner Model
 
@@ -24,7 +24,7 @@ ProPACT constructs a real-time model of pair collaboration using three signals:
 | **ME** (Mental Effort) | Individual cognitive load | Index of Pupillary Activity (IPA) over 10-second windows |
 | **JME** (Joint Mental Effort) | Cognitive engagement synchrony | Cross-recurrence of synchronized ME signals |
 
-All signals are discretized against a resting baseline using **±2SD bins** (High, Average, Low).^[[golrang-propact-pair-programming-2026]]
+All signals are discretized against a resting baseline using **±2SD bins** (High, Average, Low).([[golrang-propact-pair-programming-2026]])
 
 ## Proactive Forecasting Engine
 
@@ -42,7 +42,7 @@ All signals are discretized against a resting baseline using **±2SD bins** (Hig
 | **A4: Dialogue prompt** | JME=Low | Medium (editor prompt encouraging brief dialogue) |
 | **A5: Task-based hint** | Both MEs=High (last resort) | High (directive hint) |
 
-The hierarchy embodies the principle that **proactive, minimally intrusive scaffolds** outperform reactive, directive interventions.^[[golrang-propact-pair-programming-2026]]
+The hierarchy embodies the principle that **proactive, minimally intrusive scaffolds** outperform reactive, directive interventions.([[golrang-propact-pair-programming-2026]])
 
 ## Key Results
 
@@ -54,11 +54,11 @@ In a within-subjects study with **26 pair-programming dyads** (52 CS/Engineering
 | **Debugging time** | Significantly lower / more efficient (*t*(44.70) = 4.39, *p* < .0001) |
 | **Feedback uptake** | Significantly higher (*F*(49.81) = −17.69, *p* < .0001) |
 
-Post-intervention gains in JVA and JME suggest improved collaborative regulation beyond immediate task completion.^[[golrang-propact-pair-programming-2026]]
+Post-intervention gains in JVA and JME suggest improved collaborative regulation beyond immediate task completion.([[golrang-propact-pair-programming-2026]])
 
 ## Relationship to Tutoring-Specific Design
 
-ProPACT exemplifies [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[sociocultural-learning|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.^[[golrang-propact-pair-programming-2026]]
+ProPACT exemplifies [[stanford-evidence-base-ai-k12-2026|tutoring-specific design]]: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the [[sociocultural-learning|zone of proximal development]] at the *dyadic* level—ensuring partners are neither overloaded nor under-challenged. It also preserves [[metacognition]] by requiring learners to actively monitor and regulate their collaboration.([[golrang-propact-pair-programming-2026]])
 
 ## Implications
 
