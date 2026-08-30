@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education.
-**Last updated:** 2026-08-29 | **Total pages:** 1127
+**Last updated:** 2026-08-30 | **Total pages:** 1128
 ---
 
 ## Concepts
@@ -920,6 +920,7 @@
 - [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[school-network-reorganization-optimization]] — School network reorganization under educational and spatial constraints using classical and quantum optimization
 - [[science-education]] — Science Education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs
