@@ -435,42 +435,15 @@ PDF_OUT = os.path.join(WIKI, 'public', 'aied.pdf')
 PDF_CSS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pdf-style.css')
 
 
-def number_headings(md_text):
-    """Inject hard-coded hierarchical numbers (1 / 1.1 / 1.2.1) into every
-    ATX heading in the markdown, so both the pandoc TOC and the body headings
-    carry the numbers. Same numbering scheme as the EPUB's TOC."""
-    counters = [0, 0, 0, 0, 0, 0]
-    out = []
-    for line in md_text.split('\n'):
-        m = re.match(r'^(#{1,6})\s+(.*)$', line)
-        if m:
-            lvl = len(m.group(1))
-            # Reset deeper counters.
-            for i in range(lvl, 6):
-                counters[i] = 0
-            counters[lvl - 1] += 1
-            num = '.'.join(str(counters[i]) for i in range(lvl))
-            out.append('#' * lvl + ' ' + num + '. ' + m.group(2))
-        else:
-            out.append(line)
-    return '\n'.join(out)
-
-
 def build_pdf():
     """Generate aied.pdf from the same markdown export + cover as the EPUB,
     using weasyprint. The pandoc --toc creates a clickable table of contents
-    (internal jump links) and internal/external links are preserved. Heading
-    numbers are hard-coded (like the EPUB) so they render in every viewer."""
+    (internal jump links) and internal/external links are preserved. The TOC is
+    numbered via CSS counters (scoped to #TOC), so body headings stay clean —
+    matching the EPUB, where numbering appears only in the TOC."""
     import pathlib
     today = datetime.date.today()
     date_str = today.strftime('%B %d, %Y')
-
-    # Numbered copy of the markdown for the PDF (numbers the TOC + body).
-    md_src = open(md_path, encoding='utf-8').read()
-    numbered_md = number_headings(md_src)
-    pdf_md = os.path.join(WIKI, 'dist', 'aied-pdf-export.md')
-    with open(pdf_md, 'w', encoding='utf-8') as f:
-        f.write(numbered_md)
 
     # A full-page cover as an HTML fragment injected before the body.
     cover_src = os.path.join(WIKI, 'public', 'epub-cover.png')
@@ -481,7 +454,7 @@ def build_pdf():
         f.write('<div class="cover-page"><img src="%s" alt="AI in Education Knowledge Base" /></div>' % cover_file)
 
     cmd = [
-        'pandoc', pdf_md, '-o', PDF_OUT,
+        'pandoc', md_path, '-o', PDF_OUT,
         '--pdf-engine=weasyprint',
         '--metadata', 'title=AI in Education Knowledge Base',
         '--metadata', 'author=Edited by Doug Holton',
