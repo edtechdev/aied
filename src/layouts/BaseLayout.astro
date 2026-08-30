@@ -81,6 +81,17 @@ const recentConceptItems = recentConcepts.map(c => ({
   <style is:inline>
     html { background-color: #11191f; }
   </style>
+  <script is:inline>
+    // Apply the saved theme before first paint to avoid flashing the wrong mode.
+    (function () {
+      try {
+        var t = localStorage.getItem('aied:theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
   <meta name="description" content={description} />
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/aied/logo.svg" />
@@ -118,6 +129,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       --primary-hover: #bae6fd;
       --primary-focus: rgba(125, 211, 252, 0.28);
       --font-size: 17px;
+      --header-bg: #15212b;
+      --header-text: #f2f6f9;
+      --search-bg: #0d1418;
       /* Theme the Pagefind search components to match the dark site. */
       --pf-background: #0d1418;
       --pf-text: #e8eef2;
@@ -137,7 +151,24 @@ const recentConceptItems = recentConcepts.map(c => ({
       --primary-hover: #0369a1;
       --primary-focus: rgba(2, 132, 199, 0.15);
       --font-size: 17px;
+      --header-bg: #f7fafc;
+      --header-text: #1a242c;
+      --search-bg: #ffffff;
+      /* Theme the Pagefind search components to match the light site. */
+      --pf-background: #ffffff;
+      --pf-text: #1a242c;
+      --pf-text-secondary: #42515d;
+      --pf-text-muted: #6b7a86;
+      --pf-border: #d3dbe1;
+      --pf-border-focus: #0284c7;
+      --pf-hover: #eef3f6;
+      --pf-skeleton: #e4ebf0;
+      --pf-skeleton-shine: #d3dbe1;
+      --pf-mark: #fef3c7;
+      --pf-scroll-shadow: rgba(0, 0, 0, 0.15);
     }
+    /* Prevent the dark anti-flash background from leaking into light mode. */
+    html[data-theme=light] { background-color: var(--background-color); }
     @media (min-width: 768px) {
       [data-theme=dark] { --font-size: 18px; }
       :root:not([data-theme=dark]),
@@ -159,7 +190,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       .container { max-width: 1440px; }
     }
     header {
-      background: #15212b;
+      background: var(--header-bg);
       border-bottom: 1px solid var(--primary);
       padding: 0.75rem 0;
     }
@@ -206,7 +237,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       font-size: 0.95rem;
       border: 1px solid var(--muted-border-color);
       border-radius: 8px;
-      background: #0d1418;
+      background: var(--search-bg);
       color: var(--color);
     }
     .header-search pagefind-searchbox::part(input)::placeholder { color: var(--muted-color); }
@@ -242,7 +273,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       background: color-mix(in srgb, var(--primary) 10%, transparent);
       outline: none;
     }
-    header a { color: white; text-decoration: none; }
+    header a { color: var(--header-text, #ffffff); text-decoration: none; }
     .brand-link {
       display: inline-flex;
       align-items: center;
@@ -625,6 +656,10 @@ const recentConceptItems = recentConcepts.map(c => ({
             <circle cx="5" cy="19" r="1"></circle>
           </svg>
         </a>
+        <button id="theme-toggle" class="header-icon theme-toggle" type="button" title="Toggle light/dark mode" aria-label="Toggle light/dark mode" aria-pressed="false">
+          <svg id="theme-icon-moon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+          <svg id="theme-icon-sun" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none;"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+        </button>
         <a href="https://github.com/edtechdev/aied" class="header-icon" title="GitHub repository" aria-label="GitHub repository">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"></path>
@@ -797,6 +832,38 @@ const recentConceptItems = recentConcepts.map(c => ({
       document.querySelectorAll('details[data-state-key]').forEach((d) => {
         d.addEventListener('toggle', () => persist(d));
       });
+    })();
+  </script>
+  <script is:inline>
+    // Light/dark mode toggle. Defaults to dark; preference persists in localStorage.
+    (() => {
+      const KEY = 'aied:theme';
+      const btn = document.getElementById('theme-toggle');
+      const moon = document.getElementById('theme-icon-moon');
+      const sun = document.getElementById('theme-icon-sun');
+      if (!btn) return;
+      const setIcons = (dark) => {
+        if (moon) moon.style.display = dark ? '' : 'none';
+        if (sun) sun.style.display = dark ? 'none' : '';
+        btn.setAttribute('aria-pressed', dark ? 'false' : 'true');
+      };
+      const apply = (theme) => {
+        const dark = theme === 'dark';
+        document.documentElement.setAttribute('data-theme', theme);
+        btn.title = dark ? 'Switch to light mode' : 'Switch to dark mode';
+        setIcons(dark);
+        const meta = document.querySelector('meta[name=theme-color]');
+        if (meta) meta.setAttribute('content', dark ? '#15212b' : '#ffffff');
+        try { localStorage.setItem(KEY, theme); } catch (e) {}
+      };
+      btn.addEventListener('click', () => {
+        const cur = document.documentElement.getAttribute('data-theme') || 'dark';
+        apply(cur === 'dark' ? 'light' : 'dark');
+      });
+      // Sync icon to whatever the head script already applied.
+      const current = document.documentElement.getAttribute('data-theme') || 'dark';
+      setIcons(current === 'dark');
+      btn.title = current === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
     })();
   </script>
 </body>
