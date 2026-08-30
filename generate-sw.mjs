@@ -12,7 +12,7 @@ const distDir = path.join(rootDir, 'dist');
 
 const { count, size, warnings } = await generateSW({
   globDirectory: distDir,
-  globPatterns: ['**/*.{js,css,svg,png,webp,ico,xml,json,txt}'],
+  globPatterns: ['**/*.{js,css,svg,png,webp,ico,xml,json,txt,woff2,woff,ttf}'],
   globIgnores: [
     '**/pagefind/**',
     '**/llms-full.txt',
