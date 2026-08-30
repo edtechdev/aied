@@ -1,8 +1,17 @@
 # Journal
 
-**Last updated:** 2026-08-30 | **Total entries:** 1116
+**Last updated:** 2026-08-30 | **Total entries:** 1119
 
 ## "2026-08-30
+
+- ◐ [[learning-analytics-to-educational-interventions-2026]] — 'raw/papers/10.1186_s41239-026-00620-x.md'
+  From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design
+
+- ◐ [[llm-interaction-depth-task-quality-recall-2026]] — 'raw/papers/10.1186_s41239-026-00617-6.md'
+  What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education
+
+- ◐ [[layer-sensitive-cognitive-offloading-writing-2026]] — 'raw/papers/10.3389_fpsyg.2026.1906199.md'
+  Layer-Sensitive Cognitive Offloading in Generative AI-Assisted Writing
 
 - ◐ [[deceptive-overgeneralization-adaptive-learning-2026]] — 'raw/papers/10.1002_jcal.70311.md'
   Deceptive Overgeneralization: When Adaptive Learning Enables Systematic Misapplication

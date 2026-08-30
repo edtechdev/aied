@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 182 concepts, 947 articles, and 16 FAQs.
+> Complete text of 182 concepts, 950 articles, and 16 FAQs.
 
 # Concepts
 
@@ -1057,6 +1057,7 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
@@ -1426,6 +1427,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
 - [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
 - [[benali-genai-academic-writing-2026]]
@@ -3512,6 +3514,8 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - **For [[educational-policy-ai|AI policy]]:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For researchers:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that self-regulated writing attenuates — but does not eliminate — the negative association between deep cognitive offloading and independent no-AI outcomes in GenAI-assisted writing: the offloading-by-SRL interaction was positive (B = 0.22), flattening the harm from a slope of −0.54 (low SRL) to −0.33 (high SRL) but not cancelling it. A bounded-support condition pairing delegation limits with compulsory reflection produced the strongest independent performance, evidence that metacognitive regulation partially protects learners yet cannot fully compensate for delegating the cognitive work itself.
+
 ## Connected Concepts
 
 - [[metacognition]] — the cognitive monitoring SRL relies on
@@ -3533,6 +3537,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
@@ -3832,6 +3837,10 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 
 - **Mistake-based pedagogy as metacognitive training:** [[pedagogy-ai-mistakes|Hosseini (2026)]] shows that deliberately exposing students to AI-generated errors in a database design course activates metacognitive monitoring — students inspected outputs, identified errors, and revised designs rather than accepting AI output at face value. Self-reported AI literacy correlated weakly and negatively with objective competency (*r*=−0.39), a calibration gap the critique-refinement cycle is designed to narrow.
 - **Productive failure engages metacognitive monitoring.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] show productive-failure-based learning activates reflection on one's own attempts; [[lukesova-clue-before-correction-2026|clue-before-correction]] tasks require learners to diagnose and correct their own errors — a metacognitive activity where AI gives clues rather than answers.
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] shows that metacognitive regulation (self-regulated writing) attenuates the negative association between deep cognitive offloading and independent no-AI outcomes in GenAI-assisted writing (interaction B = 0.22), but does not eliminate it — a bounded-support condition pairing delegation limits with compulsory reflection about how AI suggestions were accepted/rejected produced the strongest independent performance.
+
+[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] shows explanation-seeking prompts (depth) in LLM interaction predict task quality but not immediate recall, interpreting the dissociation via elaboration (comprehension) vs. retrieval practice (consolidation) — and suggesting explanation-seeking correlates with metacognitive monitoring, though retrieval demands must be added for durable retention.
+
 ## Connected Concepts
 
 - [[self-regulated-learning]]
@@ -3849,6 +3858,8 @@ Proactive agentic AI can displace the learner's own metacognitive loop: [[agenti
 - [[student-experience]]
 - [[learning-theories]]
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 
@@ -4022,7 +4033,9 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 
 **Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool ([[prompt-engineering|prompt engineering]], reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
 
-### Conditions supporting positive transfer
+**Layer-sensitive offloading and transfer.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] directly tests Salomon, Perkins & Globerson's "effects with vs. effects of technology" distinction in GenAI-assisted writing: an eight-week quasi-experiment found open AI collaboration maximized supported-writing performance but produced the *lowest* independent no-AI near-transfer outcomes, while bounded support with reflection preserved independent competence. Deeper offloading layers (reasoning, structure) predicted worse transfer than surface layers (grammar). This is direct classroom evidence that AI's *with*-support performance gains do not transfer to *of*-support independent performance — and that the depth of delegation, not just whether AI is used, shapes transfer.
+
+## Conditions supporting positive transfer
 
 The limited evidence suggests transfer is possible when:
 
@@ -4056,6 +4069,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[self-regulated-learning]]
 - [[learning-theories]]
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 
@@ -5052,6 +5066,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]] — a primary deployment context
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
@@ -5151,6 +5166,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[learning-by-teaching]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
@@ -5703,6 +5719,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[reducing-ai-misuse]]
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
@@ -7670,6 +7687,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - **Guard the cognitive work of writing.** Watch for [[cognitive-offloading|over-reliance]] that bypasses planning, revision, and self-assessment; use AI at chosen stages ([[ai-writing-support-stage-ownership-2026|stage-based ownership]]) to protect student agency.
 - **Address academic integrity constructively.** Move from policing AI use toward building [[ai-literacy]] and ethical-use framing that lets students use AI without unintentional misconduct.
 
+[[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] provides a layer-sensitive account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing, showing that delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and higher-order thinking than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
+
 ## Connected Concepts
 
 - [[automated-essay-scoring]]
@@ -7692,6 +7711,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[english-education]]
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[benali-genai-academic-writing-2026]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
@@ -8249,6 +8269,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
@@ -8705,6 +8727,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Teacher vs. GenAI feedback: students revise less with AI
@@ -12119,6 +12142,8 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 
 Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, this page focuses on the *structures and practices* that make rules real — steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
+[[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position trustworthiness (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
+
 ## Connected Concepts
 - [[ai-use-disclosure]] — AI use and disclosure statements
 
@@ -12140,6 +12165,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
@@ -12412,6 +12438,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
@@ -12702,6 +12729,9 @@ Network methods are core to learning analytics: [[network-analysis|transition ne
 
 - **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
 
+- **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: institutional strategic orientation, pedagogical & other research foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. Trustworthiness (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
+- **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to learning outcomes: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
+
 ### Connections
 
 Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
@@ -12722,6 +12752,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[simulating-students]]
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
@@ -13534,6 +13566,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
@@ -14086,6 +14119,8 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Offloading is value-based decision-making, and some students are more vulnerable than others.** [[seung-basham-cognitive-offloading-swld-2026|Seung & Basham (2026)]], a conceptual review in *Learning Disability Quarterly*, synthesize cognitive science, [[special-education|special education]], and educational technology to model GenAI offloading as a cost–benefit decision shaped by performance goals, task difficulty, academic self-efficacy, and perceptions of the tool. They argue that **students with learning disabilities (SWLDs)** are especially vulnerable to suboptimal offloading — because heightened cognitive load, effort-avoidant performance goals, lower academic self-efficacy, and inflated expectations toward GenAI make premature or excessive delegation more likely. GenAI is framed as a **compensatory aid or shortcut depending on how offloading decisions interact with learner profiles and [[instructional-design|instructional design]]**, with instructional [[guardrails]] the key moderating factor (teach metacognitive self-regulation, build [[ai-literacy]] to calibrate tool trust, sequence mastery experiences, and assess process not just product). This extends offloading's equity dimension: the same tool that reduces barriers to access can, if unguarded, substitute for the very practice SWLDs need most.
 - **The "thinking less vs. learning differently" question is conditional.** [[nesnin-cognitive-offloading-ai-students-2026|Nesnin et al. (2026)]] offer a broader analytical review concluding that AI is **not necessarily making students think less but transforming how they learn** — the outcome depends on use. AI that clarifies, verifies, and guides enhances learning; AI that replaces independent thinking yields passive dependence. This converges with the knowledge base's pervasive "scaffold vs. substitute" boundary and the conditional view of offloading's harm.
 
+- **Offloading is layer-sensitive: the depth of delegation matters, not just its occurrence.** [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] introduces a layer-sensitive account for [[writing-education|academic writing]] — surface (grammar/vocabulary), structural (outline/sequencing), idea (claims/content), and reasoning (warrants/counterarguments/argumentative logic). In an eight-week quasi-experiment, open AI collaboration produced the highest *supported* writing but the lowest independent no-AI outcomes, with deeper offloading layers carrying the strongest negative association with independent [[higher-ed|higher-education]] higher-order thinking (reasoning offloading indirect ab = −0.34 vs. surface −0.08). [[self-regulated-learning|Self-regulated writing]] attenuated but did not eliminate the harm. This refines the scaffold-vs-substitute boundary: some layers of delegation scaffold, while deeper layers substitute for the cognition that builds [[critical-thinking|critical thinking]].
+
 ## Over-reliance: when offloading becomes harmful
 
 **Over-reliance** is the excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. It is the behavioral manifestation of excessive cognitive offloading: when offloading becomes the default rather than a strategic choice. Over-reliance is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes.
@@ -14141,6 +14176,8 @@ The effect is partly a **change in the threshold to respond, not in capacity**: 
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 
 ## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[nesnin-cognitive-offloading-ai-students-2026]] — Are students thinking less or learning differently?
@@ -14223,6 +14260,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
@@ -41232,6 +41270,62 @@ Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder
 
 ---
 
+## [Layer-Sensitive Cognitive Offloading in Generative AI-Assisted Writing: Supported Performance and Independent No-AI Outcomes](https://edtechdev.github.io/aied/articles/layer-sensitive-cognitive-offloading-writing-2026/)
+
+> **Synthesis:** Chen (2026) provides a **layer-sensitive account of [[cognitive-offloading|cognitive offloading]]** in [[generative-ai|GenAI]]-assisted [[writing-education|academic writing]], distinguishing surface, structural, idea, and reasoning offloading and separating *supported performance* (what students produce *with* AI) from *independent no-AI outcomes* (what they can do after support is removed). In an eight-week quasi-experimental study of 168 Chinese undergraduates across six intact classes, open AI collaboration produced the highest supported-writing mean (M = 4.02) but the **lowest** Week 8 independent no-AI performance — while a bounded-support condition (delegation restrictions plus compulsory reflection) showed higher independent writing quality, higher-order thinking, argument depth, and revision quality. An associative decomposition within the AI-exposed students showed deeper-layer offloading (especially reasoning) was associated with lower independent higher-order thinking, and self-regulated writing attenuated but did not eliminate that negative association.
+
+## Key Findings
+
+1. **Supported performance and independent performance diverged.** Open AI collaboration had the highest observed supported-writing mean (M = 4.02), yet at the Week 8 independent no-AI near-transfer task the bounded-support condition outperformed open collaboration on writing quality (adjusted difference = 0.27), higher-order thinking (0.35), argument depth (0.42), and independent revision quality (0.39) — though wild-cluster p values (0.050–0.063) were imprecise with only six classes.
+2. **Deeper offloading layers carried the strongest negative association with independent learning.** Within the 112 AI-exposed students, layer-specific associative decompositions found reasoning offloading had the largest negative indirect estimate (ab = −0.34, 95% CI [−0.47, −0.20]), followed by structural (−0.24), idea (−0.20), and surface (−0.08). The deeper the cognitive layer delegated, the stronger the association with lower Week 8 higher-order thinking.
+3. **Open collaboration drove higher aggregate offloading.** Open AI collaboration predicted higher aggregate offloading after covariate adjustment (a = 0.77, SE = 0.06), which was associated with lower Week 8 higher-order thinking (b = −0.45, SE = 0.08); the bootstrap indirect estimate was −0.34, 95% CI [−0.48, −0.21].
+4. **Self-regulated writing attenuated but did not eliminate the offloading cost.** The offloading-by-self-regulated-writing interaction was positive (B = 0.22, p = 0.043): the negative offloading slope was −0.54 at one SD below the mean self-regulated-writing, −0.44 at the mean, and −0.33 at one SD above — self-[[regulation]] buffered, but did not cancel, the harm.
+5. **Process profiles distinguished bounded from substitutive AI use.** Bounded support showed more learner-led revision (54.6% vs. 26.8% open), more selective adaptation (47.5% vs. 28.6%), and less minimal transformation (7.2% vs. 24.2%), while open collaboration involved more prompts, greater text incorporation, and more AI-dominant revision (33.7% vs. 10.6%).
+
+## A layer-sensitive model of cognitive offloading in writing
+
+The paper operationalizes cognitive offloading along four analytic layers of the writing process: **surface** (grammar, vocabulary, local expression), **structural** (outlines, sequencing, global organization), **idea** (claims, examples, perspectives, content directions), and **reasoning** (warrants, counterarguments, evidence interpretation, argumentative logic). These layers are treated as related but non-equivalent dimensions, so that offloading can be partial: a writer may delegate language polishing (surface) while retaining argument structure (reasoning), or vice versa. The central theoretical claim — echoing [[transfer-of-learning|Salomon, Perkins & Globerson's]] distinction between *effects with* and *effects of* technology — is that delegation at deeper layers removes precisely the cognitive operations through which independent competence is developed.
+
+This refines the knowledge base's broader offloading literature by showing that **where** in the cognitive process offloading happens matters, not just whether it happens. Surface offloading (e.g. grammar checking) had a small negative indirect estimate (−0.08), whereas reasoning offloading (−0.34) — delegating the warrants, counterarguments, and argumentative logic that constitute higher-order thinking — was the strongest channel. This is consistent with the field's "[[scaffolding|scaffold]] vs. substitute" boundary but adds granularity: some layers of delegation scaffold, while deeper layers substitute for the very processes that build [[critical-thinking|critical thinking]].
+
+## Bounded support, reflection, and independent competence
+
+The bounded-support condition combined two components — restrictions on the depth of delegation and compulsory explanation of how AI suggestions were accepted, changed, or rejected. Its advantage on Week 8 independent outcomes cannot isolate the effect of the delegation boundary from the reflective requirement, which the author explicitly acknowledges as a bundled [[instructional-design|instructional design]]. The process data, however, are informative: bounded support produced more learner-led revision, selective adaptation, and less minimally-transformed adoption. The [[self-regulated-learning|self-regulated writing]] moderator finding — that reflection and self-regulation attenuate but do not eliminate the offloading cost — extends the existing evidence that [[metacognition|metacognitive]] [[student-engagement|engagement]] partially protects learners, but cannot fully compensate for delegating the cognitive work itself.
+
+## Limitations
+
+The study is quasi-experimental with only six intact classes, so results are classroom-level, mechanism-consistent associations rather than definitive causal effects; the bounded condition bundles delegation limits with compulsory reflection; two intervention prompts concerned AI and could cue condition (demand characteristics); the Week 8 task is a same-course, same-genre near-transfer assessment, not evidence of broad or far transfer; and the associative decomposition, while covariate-adjusted, is not proof of causal mediation.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[writing-education]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[transfer-of-learning]]
+- [[critical-thinking]]
+- [[agency]]
+- [[higher-ed]]
+- [[feedback]]
+
+## Connected Articles
+
+- [[coach-not-crutch-ai-writing]] — AI can "work less and learn more" when it scaffolds rather than substitutes (Lira et al. 2025)
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox and cognitive debt in GenAI learning
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading
+- [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
+- [[genai-performance-vs-learning]] — The performance-vs-learning distinction in generative AI
+- [[cognitive-offloading-speedup-illusion]] — The speedup illusion of AI-assisted work
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
+
+## Citation
+
+Chen, X. (2026). [Layer-sensitive cognitive offloading in generative AI-assisted writing: Supported performance and independent no-AI outcomes](https://doi.org/10.3389/fpsyg.2026.1906199). *Frontiers in Psychology, 17*, 1906199.
+
+---
+
 ## [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://edtechdev.github.io/aied/articles/league-ethical-governance-student-data-2026/)
 
 > **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, v... [[learning-analytics]] [[privacy]] [[equity-in-ai-education]] [[ethics]] [[regulation]] [[higher-ed]]
@@ -41487,6 +41581,56 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 ## Citation
 
 Aldino, A. A., Maheshi, B., Li, Y., Zhou, Y., Tsai, Y.-S., Gašević, D., & Chen, G. (2026). [*Enhancing learner-centered feedback with AI: Teachers' practices and perceptions*](https://doi.org/10.1080/02602938.2026.2638920). *Assessment & Evaluation in Higher Education*, 51(5), 892–910
+
+---
+
+## [From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design](https://edtechdev.github.io/aied/articles/learning-analytics-to-educational-interventions-2026/)
+
+> **Synthesis:** Svetec, Divjak, and Kadoić (2026) address the persistent gap between [[learning-analytics|learning analytics]] (LA) and actual educational interventions — the challenge of "closing the loop" between data collection and educational change. Using a group decision-making methodology (Delphi validation, Analytic Hierarchy Process, and the [[network-analysis|Social Network Analysis]] Process / SNAP), an international expert panel identified, validated, and prioritized **seven enablers of trustworthy LA-based educational interventions**: [[governance|institutional]] strategic orientation, [[pedagogy|pedagogical]] & other [[research-methods-aied|research]] foundations, available resources, pedagogical support, ethics & data governance, stakeholder [[student-engagement|engagement]], and quality assurance. Institutional strategic orientation emerged as the most important enabler overall, followed by available resources, with the study positioning [[trust|trustworthiness]] as a prerequisite without which LA-based interventions are not meaningful.
+
+## Key Findings
+
+1. **Seven enablers of LA-based educational interventions.** A preliminary list of seven enablers was developed from the literature, validated and refined through a two-round international Delphi study (18 experts), and prioritized via SNAP group decision-making: institutional strategic orientation, pedagogical & other research foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance.
+2. **Institutional strategic orientation is the central enabler.** It ranked highest in overall SNAP priority (0.2072) and, crucially, was the most influential on *other* enablers (PageRank 0.2430) — strategic planning and leadership commitment position it as the enabler that most enables the rest.
+3. **Available resources ranked second** (SNAP 0.1800) and highest on direct influence on intervention implementation (AHP 0.1753), pointing to the need for systematic investment in (AI-supported) LA systems, dashboards, and infrastructure.
+4. **Stakeholder perspectives differ systematically.** Cluster analysis revealed that senior LA experts prioritized available resources, junior/technical experts prioritized ethics & data governance, and intermediate experts prioritized strategic orientation or stakeholder engagement — underlining the value of heterogeneous expert groups in LA decision-making.
+5. **Trustworthiness is the prerequisite, not an enabler dimension.** The enablers are conditions enabling LA-based interventions, whereas trustworthiness ([[ethics|ethical]] compliance, data security, transparent and unbiased algorithms, pedagogical validity) is the precondition without which LA-informed interventions are not meaningful.
+
+## The enabler framework
+
+The seven enablers are defined as institutional practices, capabilities, or capacities that support, facilitate, and enhance the implementation of educational interventions based on trustworthy LA:
+
+- **Institutional strategic orientation** — strategic planning and leadership commitment to implementing trustworthy LA and using LA insights to inform educational interventions (e.g. student-facing LA dashboards, ML-based early-warning for at-risk students).
+- **Available resources** — investment in AI-supported institutional LA systems, teacher/student dashboards, infrastructure, and human capacity.
+- **Pedagogical & other research foundations** — LA grounded in contemporary pedagogical principles, learning theories, and sound, student-centred learning design based on learning outcomes and constructive alignment.
+- **Pedagogical support** — teacher capacity and support to ensure pedagogical soundness and correct interpretation of LA results.
+- **Ethics & data governance** — policies and practices for the ethical use of LA and AI, [[privacy|data privacy]], security, and accountability.
+- **Stakeholder engagement** — human-centred development including students, educators, decision-makers, and external stakeholders (e.g. employers).
+- **Quality assurance** — procedures for regular evaluation of LA tools and the effectiveness of educational interventions.
+
+## AI and the future of LA-based interventions
+
+The authors argue all enablers should increasingly be considered in light of AI's benefits and risks: developing LA that uses AI-based methods (LA with AI), analysing AI use in teaching and learning (LA of AI), and developing learning design that integrates AI as a transversal topic (LD about AI). They frame the responsibilities for trustworthy LA as distributed — institutions and educational leaders hold strategic responsibility, while teachers own pedagogical soundness and LA interpretation, and keeping the "[[human-in-the-loop-ai|human in the loop]]" requires engaging all relevant stakeholders.
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[governance]]
+- [[ethics]]
+- [[privacy]]
+- [[self-regulated-learning]]
+- [[trust-calibration]]
+- [[formative-assessment]]
+
+## Connected Articles
+
+- [[trace-course-grade-prediction-2026]] — Course grade prediction and learning analytics
+- [[at-risk-students-ml-prediction]] — Machine learning prediction for at-risk students
+
+## Citation
+
+Svetec, B., Divjak, B., & Kadoić, N. (2026). [From learning analytics to educational interventions: Enhancing decision-making and learning design](https://doi.org/10.1186/s41239-026-00620-x). *International Journal of Educational Technology in Higher Education, 23*(45).
 
 ---
 
@@ -43687,6 +43831,56 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 ## Citation
 
 Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs](https://arxiv.org/abs/2605.19043). International Conference on AI in Education (AIED 2026).
+
+---
+
+## [What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education](https://edtechdev.github.io/aied/articles/llm-interaction-depth-task-quality-recall-2026/)
+
+> **Synthesis:** Tsiligkiris (2026) examines how the *depth* of students' [[llm]] interaction relates to task quality and immediate recall. In a controlled session, 22 postgraduate students completed a pre-test, an LLM-assisted neuroeconomics case task, and an immediate post-test, with fine-grained interaction logs capturing Depth (proportion of "why/how/explain" prompts), Volume, and Pacing. Students showed large immediate learning gains (Cohen's dz = 2.12), and interaction *depth* was positively associated with independently marked task quality (β = 6.27) — what students ask matters more than how much they ask. However, depth was *not* associated with immediate recall; gain scores were driven by baseline knowledge. This dissociation between performance quality and short-term recall aligns with the distinction between elaboration-driven comprehension and retrieval-driven consolidation.
+
+## Key Findings
+
+1. **Explanation-seeking depth predicts task quality, not volume.** Depth (the proportion of explanation-seeking "why/how/explain" prompts) was positively associated with task quality beyond baseline knowledge and overall Volume (β = 6.27, p = .006) — a one-SD increase in explanation-seeking prompts corresponded to ~6 additional marks on a 0–100 scale. The *[[writing-education|composition]]* of interaction matters more than the *amount*.
+2. **Depth did not predict immediate recall.** Depth showed a null association with immediate post-test recall (β = −0.014, p = .728); gain scores were strongly associated with baseline knowledge (β = −0.161), consistent with reduced headroom among higher-baseline students.
+3. **A dissociation between performance and retention.** The pattern aligns with [[cognitive-psychology|cognitive psychology]]: explanation-seeking (elaboration) improves comprehension and applied performance, while retrieval practice — not fluent explanation — consolidates retention. In LLM-supported study without explicit retrieval demands, learners may experience high fluency with limited need to retrieve knowledge unaided.
+4. **Depth may function as a productive scaffold for applied outputs.** Depth-oriented use appears to scaffold applied task performance (aligned with constructive [[student-engagement|engagement]] and the [[icap-framework|ICAP framework]]), even when it does not translate into improved recall — a nuance on the cognitive-offloading account.
+5. **[[research-methods-aied|Methodological]] contribution.** The study demonstrates a replicable, privacy-preserving instrumentation pipeline linking turn-level conversational telemetry (Depth/Volume/Pacing) to [[learning-gains|learning outcomes]] — a process–outcome modelling approach for LLM interactions.
+
+## Comprehension vs. retention in LLM-supported learning
+
+The central theoretical contribution is separating comprehension from retention in LLM-mediated learning. Depth-oriented dialogue can enhance reasoning, integration, and production quality (benefiting applied tasks) while leaving memory encoding largely unaffected — because the LLM supplies complete, coherent explanations on demand, learners may allocate less effort to internal retrieval and reconstruction, consistent with [[cognitive-offloading]] and the "illusion of competence" literature. The author argues this is not merely a null result but a theoretically informative dissociation: elaboration drives comprehension; retrieval practice drives consolidation. This echoes the [[transfer-of-learning|performance-vs-learning]] distinction central to the knowledge base.
+
+## Pedagogical and practical implications
+
+To translate comprehension gains into durable retention, the author recommends: (1) embedding **retrieval demands** after LLM use via closed-tool outputs (short-answer questions, concept maps from memory, teach-back explanations without AI); (2) **separating scaffolding from checking** — use LLMs for clarification and feedback during learning but include distinct checkpoints where learners demonstrate independent recall without the model; and (3) **[[prompt-engineering|prompt design]]** that requires learner-generated reasoning (e.g. asking the model to pose questions, generate [[misconceptions]] or counterexamples, or critique the learner's own explanation) rather than producing finished answers. These align with [[scaffolding]] and [[desirable-difficulties|productive struggle]] principles.
+
+## Limitations
+
+The study has a single-group design (no causal claims), a modest sample (n = 22) leaving moderation/clustering underpowered, immediate-only testing (no delayed retention), and a keyword-based depth proxy that captures the surface form of explanation-seeking rather than its underlying quality.
+
+## Connected Concepts
+
+- [[llm]]
+- [[conversational-ai]]
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[prompt-engineering]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[desirable-difficulties]]
+
+## Connected Articles
+
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
+- [[genai-performance-vs-learning]] — The performance-vs-learning distinction in generative AI
+- [[stanbkt-bayesian-knowledge-tracing]] — Knowledge tracing and learning outcomes
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking
+
+## Citation
+
+Tsiligkiris, V. (2026). [What students ask matters: LLM interaction depth, task quality, and immediate recall in higher education](https://doi.org/10.1186/s41239-026-00617-6). *International Journal of Educational Technology in Higher Education, 23*(44).
 
 ---
 
