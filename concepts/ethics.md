@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T18:00:00-04:00"
+updated: "2026-08-30T18:30:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
@@ -19,6 +19,7 @@ Ethics is the normative backbone of AI in education: every AI tool, policy, and 
 - **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them. This extends to student-facing transparency about their own AI use — [[ai-use-disclosure|AI use and disclosure statements]] — which the research shows is shaped less by ethical conviction than by fear of penalties, stigma, and ambiguous policy (see [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al.]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al.]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al.]], [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves]]).
 - **Autonomy and agency:** [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes [[agency|learner agency]], and the field frames protecting learners' cognitive and epistemic development as itself an ethical obligation.
 - **Safety and harm prevention:** [[pedagogical-safety]] and [[ai-tutor-safety-harms|tutor harm research]] define ethical obligations for AI system developers, and [[pedagogy-ai-mistakes|mistake-based pedagogy]] shows how exposing learners to AI errors can activate rather than bypass ethical and [[metacognition|metacognitive]] scrutiny.
+- **Sustainability and environmental impact:** AI in education carries a material footprint — the carbon and water cost of [[llm-environmental-impact-student-usage-2026|large language models]] is significant given high adoption among university students — and a broader responsibility for sustainable, non-extractive design. The knowledge base treats this as an ethical dimension, not only a technical or cost concern: [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] distinguish *AI for sustainability* (using AI to advance environmental and social outcomes) from *sustainable AI* (reducing AI's own footprint, including energy-efficient and [[open-source|on-premise]] deployment), and [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah]] argue AI supports sustainable education only when adoption is subordinated to explicit educational values rather than technologization and commodification. [[raffaghelli-situated-ai-ethics-2026|Situated-ethics work]] likewise foregrounds environmental costs and the marginalisation of [[global-south|Global South]] knowledge as core ethical concerns. See [[sustainability]].
 
 ## How stakeholders actually reason about AI ethics
 

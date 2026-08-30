@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T16:50:00-04:00"
+updated: "2026-08-30T18:30:00-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 audience: [learners, instructors, faculty development, administrator]
@@ -10,33 +10,33 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 ---
 
-> **AI in Higher Education** — the integration of artificial intelligence into university teaching, learning, assessment, and administration. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, institutional policy, and student experience.
+> **AI in Higher Education** — the integration of artificial intelligence into university teaching, learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]].
 
-AI in higher education research spans every function of the university: from [[intelligent-tutoring|AI tutoring]] and [[automated-assessment|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The knowledge base's higher education articles cluster around several key themes.
+AI in higher education research spans every function of the university: from [[intelligent-tutoring|AI tutoring]] and [[automated-assessment|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The knowledge base's higher education articles cluster around several key themes — institutional transformation, student experience at scale, faculty and teaching, assessment and integrity, and the rapid shift in policy and practice.
 
 ### Institutional transformation
 
-[[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education.
+[[institutional-change-framework-ai|Institutional change frameworks]] analyze how universities adapt to AI — not just at the classroom level but across policy, governance, and organizational structure. [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] reframes faculty readiness as a sociotechnical alignment challenge involving epistemic, pedagogical, institutional, and quality domains. [[universities-ai-era-rethinking|Rethinking universities in the AI era]] examines whether current institutional models can accommodate AI-driven education. Adoption is not uniform: [[alrahmi-org-drivers-ai-adoption-he-2026|organizational-driver research]] identifies what enables or blocks institutional uptake, and [[ai-uk-higher-education-policy-2026|national policy analyses]] show how systemic context shapes university responses.
 
 ### Student experience at scale
 
-Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice.  connect AI use in higher education to employment outcomes. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students.
+Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [[genai-availability-grades-satisfaction|GenAI availability and satisfaction]] document how students actually use AI — revealing gaps between institutional policy and everyday practice. [[genai-student-experiences-uk-he-survey-2026|Survey research]] captures how students navigate the AI landscape, and studies of [[generative-ai-reduced-study-time-math|study time]], [[ithaka-sr-ai-skills-college-graduates-2026|AI skills for graduates]], and [[students-perceptions-ai-tools-study-2026|student perceptions of AI tools]] show that the student experience of AI is mixed — efficient but often shallower. Much of this university learning now happens online, where [[online-teaching-and-learning|online teaching and learning]] shapes both AI's benefits (scalable personalization, always-on support) and its risks ([[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]]) for college students.
 
 ### Faculty and teaching
 
-[[faculty-development]] research examines how instructors adopt, resist, or adapt to AI. [[teacher-ai-adoption-confidence|Teacher AI adoption studies]] identify confidence, support, and attitude as key predictors. [[ai-assistance-discretionary-feedback|AI-assisted discretionary feedback]] research explores whether AI increases instructor feedback quality and quantity.
+[[faculty-development]] research examines how instructors adopt, resist, or adapt to AI. [[teacher-ai-adoption-confidence|Teacher AI adoption studies]] identify confidence, support, and attitude as key predictors. [[ai-assistance-discretionary-feedback|AI-assisted discretionary feedback]] research explores whether AI increases instructor [[ai-feedback-quality|feedback quality]] and quantity, and [[luo-eaton-ai-student-feedback-ethics-2026|ethics research]] weighs whether teachers should use AI for feedback at all. [[enright-staff-perspectives-genai-2026|Staff-perspectives research]] and [[stenalt-good-education-teacher-ai-conceptions-2026|phenomenographic studies of teacher conceptions]] probe how educators understand their changing role.
 
 ### Assessment and integrity
 
-[[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[ai-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation.
+[[academic-integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[ai-detection|Detection-centered]] approaches are giving way to [[authentic-assessment]] and process-based evaluation, including [[fenton-oral-exams-ai-authentic-assessment-2025|oral exams]], [[roe-assessment-twins-2026|assessment twins]], and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]]. The shift reflects a deeper concern: [[ai-tools-academic-work-cheating-2026|how students and institutions define cheating]] with AI, and the [[assessing-quality-ai-generated-exams-field-2025|quality of AI-generated assessment materials]].
 
 ## Implications for higher-education instructors
 
 - **Design assessment for an AI-capable student body.** Detection-centered integrity approaches are giving way to [[authentic-assessment|authentic]] and process-based evaluation ([[beyond-detection-authentic-assessment-ai-2025|beyond detection]], [[ai-assessment-scale-reform|assessment reform]]) — redesign what you assess, not just how you police it.
 - **Redesign the "what should students still learn by hand?" question.** Just as in computing, decide which skills must be preserved (verification, judgment, process) and make those the assessed core, rather than assuming AI skills transfer automatically.
-- **Treat faculty readiness as sociotechnical, not just technical.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] frames readiness across epistemic, pedagogical, institutional, and quality domains — align your teaching practice with institutional governance, not just tool fluency.
+- **Treat faculty readiness as sociotechnical, not just technical.** [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI]] frames readiness across epistemic, pedagogical, institutional, and quality domains — align your [[pedagogy|teaching practice]] with institutional governance, not just tool fluency.
 - **Address the policy-vs-practice gap.** Large-scale studies ([[ai-in-the-wild-college|AI in the wild]]) show students use AI in ways institutional policy doesn't anticipate — align your expectations with real usage and teach [[ai-literacy]] explicitly.
-- **Use AI to raise feedback quality and quantity.** [[ai-assistance-discretionary-feedback|AI-assisted feedback]] can increase the feedback instructors deliver; pair it with human judgment so it improves learning rather than merely automating.
+- **Use AI to raise feedback quality and quantity.** [[ai-assistance-discretionary-feedback|AI-assisted feedback]] can increase the feedback instructors deliver; pair it with [[human-in-the-loop-ai|human judgment]] so it improves learning rather than merely automating.
 
 ## Connected Concepts
 
