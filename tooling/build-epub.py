@@ -76,9 +76,12 @@ def shift_headings(txt, add):
     return '\n'.join(out)
 
 def convert_links(txt):
-    """Turn [[target|label]] / [[target]] into internal epub anchors when the
-    target is a concept or FAQ present in this EPUB; into a link to the live
-    site for article pages (not included in this EPUB); otherwise plain text."""
+    """Turn ^[[target|label]] / [[target]] / [[target]] into internal epub
+    anchors when the target is a concept or FAQ present in this EPUB; into a
+    link to the live site for article pages (not included in this EPUB);
+    otherwise plain text. The leading '^' on a wikilink is a footnote-style
+    citation marker in the source — we strip it so pandoc renders a normal
+    hyperlink rather than a footnote."""
     def repl(m):
         target, label = m.group(1), m.group(2)
         raw = target.replace('.md','').strip()
@@ -92,7 +95,7 @@ def convert_links(txt):
             url = f'https://edtechdev.github.io/aied/articles/{canon}/'
             return f'[{disp}]({url})'
         return disp  # unknown -> plain text
-    return re.sub(r'\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', repl, txt)
+    return re.sub(r'\^?\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', repl, txt)
 
 def process_md(path, slug, hlevel):
     raw = open(path, encoding='utf-8').read()
