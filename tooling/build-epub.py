@@ -13,7 +13,7 @@ WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONCEPTS_DIR = os.path.join(WIKI, 'concepts')
 FAQS_DIR = os.path.join(WIKI, 'faqs')
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
-OUT = os.path.join(WIKI, 'dist', 'aied.epub')
+OUT = os.path.join(WIKI, 'public', 'aied.epub')
 
 def smart_title(label):
     KNOWN = {'ai':'AI','llm':'LLM','rag':'RAG','nlp':'NLP','k-12':'K-12','irt':'IRT','its':'ITS',

@@ -1,6 +1,9 @@
 # Build output
 dist/
 
+# Regenerated EPUB (built from source by tooling/build-epub.py during npm run build)
+public/aied.epub
+
 # Dev
 .astro/
 
