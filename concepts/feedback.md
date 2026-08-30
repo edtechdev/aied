@@ -1,9 +1,10 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-27T11:29:54.887137-04:00"
+updated: "2026-08-29T20:37:39-04:00"
 type: concept
 tags: [feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
+connected_faqs: [developing-ai-tutor]
 category: [assessment]
 
 confidence: high
