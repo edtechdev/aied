@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-30T03:30:00-04:00"
 type: concept
 tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
 audience: [learners]
@@ -18,9 +18,10 @@ Agency matters because learning is most effective when learners are active, inte
 ## How agency appears in the wiki's research
 
 - **Robotics and [[educational-robotics|human-robot interaction]]:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] was explicitly designed to preserve learner agency in [[computational-thinking|computational thinking]]; [[human-autonomy-agency-hri-review-2025|a systematic review]] examines how human-robot interaction affects human autonomy and sense of agency, central to [[well-being]] and [[governance]] debates.
-- **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] research examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
+- **[[collaborative-learning|Collaborative learning]]:** [[human-ai-collaboration]] [[research-methods-aied|research]] examines how cognitive tasks are shared between learners and AI, with agency determining whether the human or the AI directs the interaction.
 - **Critical [[student-engagement|engagement]]:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
+- **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of school AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
@@ -30,7 +31,7 @@ Learner agency is not only a static individual trait — it is also an **emergen
 
 - **[[jin-emergent-learner-agency-implicit-hai-2026|Jin et al. (2026)]]** provide the most direct evidence: in a large experiment (224 students, 97 triads) where AI operated as an *undisclosed teammate*, supportive and contrarian AI personas still reconfigured emergent agency. Contrarian AI pulled discourse into challenge- and reflection-oriented trajectories ([[desirable-difficulties|productive friction]]), while supportive AI stabilized agreement and renewed ideation.
 - **AI personas as discourse-governance mechanisms.** Contrarian personas externalized the burden of *challenging* (redistributing epistemic labour toward critique), while supportive personas externalized *affirmation* and consensus maintenance. The study identified six emergent agency profiles — notably, **reflective [[regulation]] was uniquely human** (AI externalized critique/affirmation but not meta-level monitoring).
-- **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential sustainability. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
+- **The [[affective-computing|affective]] cost of friction.** Contrarian AI reduced teamwork satisfaction and psychological safety *without* yielding creative performance gains, decoupling epistemic stimulation from experiential [[sustainability]]. This cautions that "productive" discourse structures should be interpreted alongside their emotional consequences — agency flourishes only in a psychologically safe climate.
 - **Implicit AI participation is invisible governance.** Because the personas worked even without AI disclosure, the study positions persona design as a form of invisible governance over collaborative processes — a finding with direct implications for writing assistants, [[peer-review]] systems, and teamwork platforms that may shape contributions without announcing their presence.
 
 For collaborative settings, this reframes the design question: not *whether* AI can participate as a teammate, but *how* its patterned participation balances epistemic rigour, emotional safety, and learners' sense of ownership. Bounded friction (constrained challenge, paired with integrative and repair moves) and explicit meta-collaborative literacy are the recommended safeguards.
@@ -50,7 +51,7 @@ For collaborative settings, this reframes the design question: not *whether* AI 
 
 - **Relational co-agency** — agency as a product of interaction among student, tool, and context, requiring transparent division of which tasks are delegated to AI and which retained, plus ethical co-agency in which humans retain primary accountability and act in a monitoring capacity.
 - **Regulatory co-agency** — mapping the [[self-regulated-learning|self-regulated learning]] cycle (forethought, performance, reflection) onto AI mediation. Whether GenAI enters *before* or *after* the learner's attempt determines whether it amplifies or erodes perceived control; strategic [[cognitive-offloading]] supports transformative learning only when the offloading decision is intentional rather than routine.
-- **Pedagogical co-agency** — placing [[teacher-role|teachers]] at the center, moving along an observer–adopter–collaborator–innovator continuum that depends on institutional support, not individual disposition.
+- **[[pedagogy|Pedagogical]] co-agency** — placing [[teacher-role|teachers]] at the center, moving along an observer–adopter–collaborator–innovator continuum that depends on institutional support, not individual disposition.
 
 The framework's boundary condition requires **contestability** (the ability to question and cross-check AI output), **provenance** (knowing where training data and output come from), and **non-delegation of moral and intellectual credit** (high-stakes judgments about student welfare, academic standing, and grades must not be determined solely by AI). This gives educators and policymakers a more precise vocabulary than the vague "balance" between human and artificial contributions, connecting agency to [[ethics]], [[assessment]], [[equity-in-ai-education]], and [[governance]].
 
@@ -73,6 +74,7 @@ The framework's boundary condition requires **contestability** (the ability to q
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 
 ## Connected Articles
+- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
