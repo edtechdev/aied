@@ -234,18 +234,53 @@ def build_epub():
         print('pandoc error:', r.stderr)
         return False
 
-    # Post-process: left-align TOC page/section names. Some readers center
-    # nav.toc list items by default; force left alignment with !important and
-    # undent lists.
-    import zipfile, shutil
+    # Post-process: style the TOC (bold/larger sections + nested numbering),
+    # left-align it, and add a Back-to-Contents link at the top of each chapter.
+    import zipfile, shutil, re as _re
     css_rule = """
-/* Left-align the EPUB table of contents (some readers center it by default). */
+/* ===== EPUB table of contents styling ===== */
+
+/* Left-align the TOC (some readers center it by default). */
 nav#toc { text-align: left; }
 nav#toc * { text-align: left !important; }
-nav#toc ol, nav#toc ul { list-style: none; margin: 0; padding-left: 1.2em; }
-nav#toc li { margin: 0.15em 0; display: block; }
-nav#toc a { display: inline; }
-nav#toc > ol { padding-left: 0; }
+nav#toc ol, nav#toc ul { list-style: none; margin: 0; }
+nav#toc li { margin: 0.25em 0; display: block; }
+nav#toc a { display: inline-block; }
+
+/* Top-level (chapter) sections: larger and bold. */
+nav#toc > ol > li > a {
+  font-weight: bold;
+  font-size: 1.12em;
+  margin-top: 0.4em;
+}
+/* Second-level (group) labels: medium bold. */
+nav#toc > ol > li > ol > li > a {
+  font-weight: 600;
+}
+/* Third-level (concept) entries: regular weight, slightly indented. */
+
+/* Nested decimal numbering: 1 / 1.1 / 1.2 / 1.2.1 */
+nav#toc > ol { counter-reset: t1; padding-left: 0; }
+nav#toc > ol > li { counter-increment: t1; }
+nav#toc > ol > li > a::before { content: counter(t1) ".  "; font-weight: bold; }
+nav#toc > ol > li > ol { counter-reset: t2; padding-left: 1.2em; }
+nav#toc > ol > li > ol > li { counter-increment: t2; }
+nav#toc > ol > li > ol > li > a::before { content: counter(t1) "." counter(t2) ".  "; font-weight: bold; }
+nav#toc > ol > li > ol > li > ol { counter-reset: t3; padding-left: 1.2em; }
+nav#toc > ol > li > ol > li > ol > li { counter-increment: t3; }
+nav#toc > ol > li > ol > li > ol > li > a::before { content: counter(t1) "." counter(t2) "." counter(t3) ".  "; font-weight: bold; }
+
+/* Back-to-Contents link styling (injected into each chapter). */
+.back-to-contents {
+  display: inline-block;
+  margin-bottom: 1.2em;
+  padding: 0.3em 0.8em;
+  border: 1px solid #1a1a1a;
+  border-radius: 4px;
+  font-size: 0.85em;
+  text-decoration: none;
+}
+.back-to-contents:hover { background: #eee; }
 """
     tmp = OUT + '.tmp'
     with zipfile.ZipFile(OUT, 'r') as zin, zipfile.ZipFile(tmp, 'w', zipfile.ZIP_DEFLATED) as zout:
@@ -253,6 +288,14 @@ nav#toc > ol { padding-left: 0; }
             data = zin.read(item.filename)
             if item.filename.endswith('.css'):
                 data += css_rule.encode('utf-8')
+            elif _re.match(r'EPUB/text/ch\d+\.xhtml$', item.filename):
+                # Inject a Back-to-Contents link right after <body ...>.
+                text = data.decode('utf-8', errors='ignore')
+                back = ('<a class="back-to-contents" href="../nav.xhtml">\u2191 Back to Contents</a>')
+                m = _re.search(r'<body[^>]*>', text)
+                if m:
+                    text = text[:m.end()] + back + text[m.end():]
+                    data = text.encode('utf-8')
             zout.writestr(item, data)
     shutil.move(tmp, OUT)
     print(f"Built {OUT} ({os.path.getsize(OUT)} bytes)")
