@@ -72,8 +72,9 @@ Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py 
 
 ### 5. Build and push
 ```
-cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && npm run build && git add -A && git commit -m "Weekly journal RSS ingestion: X new articles" && git push origin main
+cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && python3 tooling/build-epub.py && npm run build && git add -A && git commit -m "Weekly journal RSS ingestion: X new articles" && git push origin main
 ```
+(`python3 tooling/build-epub.py` regenerates the offline `public/aied.epub` and `public/aied.pdf`; requires `pandoc` and `weasyprint`.)
 
 ### 6. Report
 Count articles checked, already existing, paywalled/skipped, and new articles ingested (with titles). List paywalled articles separately.
