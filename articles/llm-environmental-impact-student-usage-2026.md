@@ -12,7 +12,7 @@ sources: ['raw/papers/llm-environmental-impact-student-usage-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Large language models' carbon and water footprints raise important sustainability concerns, particularly with adoption rates exceeding 80% among university students despite limited insight into the environmental impacts of individual usage. Kim and colleagues design and deploy an eco-feedback interface that visualizes latency-carbon trade-offs during live LLM interactions, studying its use with 89 undergraduate computer science students in a computing ethics course. They find that the likelihood of choosing the eco-feedback system is significantly shaped by sustainability awareness, providing an empirical look at how a technically sophisticated and values-oriented user population responds to sustainability-aware AI interfaces.
+> **Synthesis:** Large language models' carbon and water footprints raise important [[sustainability]] concerns, particularly with adoption rates exceeding 80% among university students despite limited insight into the environmental impacts of individual usage. Kim and colleagues design and deploy an eco-feedback interface that visualizes latency-carbon trade-offs during live [[llm]] interactions, studying its use with 89 undergraduate [[cs-education|computer science]] students in a computing [[ethics]] course. They find that the likelihood of choosing the eco-feedback system is significantly shaped by sustainability awareness, providing an empirical look at how a technically sophisticated and values-oriented user population responds to sustainability-aware AI interfaces.
 
 ## Key Findings
 
@@ -23,6 +23,7 @@ confidence: high
 5. The study provides empirical evidence on how a technically sophisticated, values-oriented user population responds to sustainability-aware AI interfaces.
 
 ## Connected Concepts
+
 - [[llm]]
 - [[higher-ed]]
 - [[student-experience]]
@@ -31,6 +32,8 @@ confidence: high
 - [[cs-education]]
 - [[ai-education]]
 - [[sustainability]]
+
+## Connected Articles
 
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in CS education
