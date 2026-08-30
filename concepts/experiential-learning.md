@@ -12,7 +12,7 @@ confidence: high
 
 Experiential learning is closely related to [[active-learning]], [[project-based-learning]], [[embodied-learning]], and [[simulation]]. It is particularly relevant to AI, cybersecurity, and robotics education, where students develop skills by working with tools and systems in applied contexts rather than through lectures alone. A key rationale is closing the theory-practice gap in professional preparation.
 
-### How experiential learning appears in the wiki's research
+### How experiential learning appears in the knowledge base's research
 
 - **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a generative-AI instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.

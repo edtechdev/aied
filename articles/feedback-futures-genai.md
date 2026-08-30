@@ -16,7 +16,7 @@ confidence: high
 
 This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of generative AI. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student feedback literacy are necessary but not sufficient — what is also required is deliberate pedagogic design, institutional conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.
 
-The issue's papers include four also ingested into this wiki: [[learner-centered-feedback-ai]], [[chatgpt-feedback-engagement-genai]], [[genai-teacher-feedback-comparison]], and [[care-full-feedback-genai]].
+The issue's papers include four also ingested into this knowledge base: [[learner-centered-feedback-ai]], [[chatgpt-feedback-engagement-genai]], [[genai-teacher-feedback-comparison]], and [[care-full-feedback-genai]].
 
 ## Five tensions in GenAI feedback
 

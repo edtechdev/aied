@@ -44,11 +44,11 @@ The divergence in study time **vanishes entirely under proctoring** for college 
 
 ## The "cognitive surrender" concept
 
-The authors introduce **cognitive surrender** to describe students offloading thinking to generative AI, producing a measurable population-level decline in durable knowledge. This represents a fundamental shift from [[cognitive-offloading]] as a deliberate, often [[metacognition|metacognitively]]-managed strategy to a passive, unreflective dependency — echoing the wiki's distinction between adaptive and maladaptive offloading and the mechanisms documented under [[reducing-ai-misuse]] and [[ai-misuse-learning-harm]].
+The authors introduce **cognitive surrender** to describe students offloading thinking to generative AI, producing a measurable population-level decline in durable knowledge. This represents a fundamental shift from [[cognitive-offloading]] as a deliberate, often [[metacognition|metacognitively]]-managed strategy to a passive, unreflective dependency — echoing the knowledge base's distinction between adaptive and maladaptive offloading and the mechanisms documented under [[reducing-ai-misuse]] and [[ai-misuse-learning-harm]].
 
 ## Implications for AI in education
 
-This study provides the strongest empirical evidence yet for the over-reliance phenomenon documented across the wiki, at population scale with objective behavioral measures rather than self-report. Direct implications include:
+This study provides the strongest empirical evidence yet for the over-reliance phenomenon documented across the knowledge base, at population scale with objective behavioral measures rather than self-report. Direct implications include:
 
 - **[[academic-integrity]] policy and assessment governance:** proctored, unassisted measures are essential because non-proctored performance is inflated by AI; the 25% proctored retention decline is the cost of unmonitored AI use.
 - **[[ai-literacy]] and [[self-regulated-learning]] curriculum design:** students need training to recognize and resist cognitive surrender, not just to use tools.

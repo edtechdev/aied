@@ -21,7 +21,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The paper extends the [[refutation-text|refutation-text]]/[[misconceptions|misconception]] literature by using AI as the *generator* of misconceptions (and implicit refutation targets) for collaborative learning, rather than only as the corrector. For practice in [[medical-education|health care education]], it offers a concrete, scalable method for misconception-based learning that does not depend on educators' manual generation of misconceptions. It connects to the wiki's [[collaborative-learning]], [[misconceptions]], [[refutation-text|conceptual change]], and [[generative-ai]] concepts.
+The paper extends the [[refutation-text|refutation-text]]/[[misconceptions|misconception]] literature by using AI as the *generator* of misconceptions (and implicit refutation targets) for collaborative learning, rather than only as the corrector. For practice in [[medical-education|health care education]], it offers a concrete, scalable method for misconception-based learning that does not depend on educators' manual generation of misconceptions. It connects to the knowledge base's [[collaborative-learning]], [[misconceptions]], [[refutation-text|conceptual change]], and [[generative-ai]] concepts.
 
 ## Connected Concepts
 - [[refutation-text]]

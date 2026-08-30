@@ -13,7 +13,7 @@ confidence: high
 
 ## How the related concepts fit together
 
-Inclusive learning is the **umbrella** concept; the pages below sit inside it, each answering a different question. They overlap but are not interchangeable — knowing which one a claim belongs to keeps the wiki precise:
+Inclusive learning is the **umbrella** concept; the pages below sit inside it, each answering a different question. They overlap but are not interchangeable — knowing which one a claim belongs to keeps the knowledge base precise:
 
 | Concept | Core question it answers | Typical focus |
 |---|---|---|
@@ -25,7 +25,7 @@ Inclusive learning is the **umbrella** concept; the pages below sit inside it, e
 
 In practice: **UDL** is the design philosophy that *prevents* barriers; **accessibility** is the property that removes *format* barriers; **assistive technology** is the *tool* layer individuals use; **special education** is the *instructional* domain for diagnosed disabilities — and it is primarily a **K-12** term, whereas in **[[higher-ed|higher education]]** (and increasingly K-12 too) the more common framing is [[universal-design-for-learning|Universal Design for Learning]]. **Inclusive learning** is the umbrella that holds them together around the shared goal of equitable participation. An accessible tool does not guarantee inclusive instruction, and assistive tech does not guarantee meaningful agency — which is why the umbrella must span all of them.
 
-Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
+Inclusive learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]], and is supported by the concrete tool layer of [[assistive-technology]] and the design property of [[accessibility]]. Unlike narrow accommodations that retrofit access onto existing systems, the inclusive learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this knowledge base explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
 
 ### Key research themes
 

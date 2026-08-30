@@ -20,7 +20,7 @@ confidence: high
 
 ## Implications
 
-This meta-analysis provides [[quantitative-research|quantitative]] grounding for the wiki's AI-and-thinking threads: [[generative-ai|GenAI]] can improve [[critical-thinking|higher-order thinking]], but the effect is moderate, uneven across HOT sub-dimensions, and conditional on duration and [[self-regulated-learning|SRL]]. It directly informs [[inquiry-based-learning|inquiry-based learning]] and AI-integration guidance: GenAI should be systematically integrated as a targeted instructional tool, with medium-term (8–16 week) interventions and SRL scaffolding, while [[creativity|creative thinking]] needs explicit [[pedagogy|pedagogical]] support within existing frameworks. It connects to [[ai-education]] and the performance-vs-learning literature.
+This meta-analysis provides [[quantitative-research|quantitative]] grounding for the knowledge base's AI-and-thinking threads: [[generative-ai|GenAI]] can improve [[critical-thinking|higher-order thinking]], but the effect is moderate, uneven across HOT sub-dimensions, and conditional on duration and [[self-regulated-learning|SRL]]. It directly informs [[inquiry-based-learning|inquiry-based learning]] and AI-integration guidance: GenAI should be systematically integrated as a targeted instructional tool, with medium-term (8–16 week) interventions and SRL scaffolding, while [[creativity|creative thinking]] needs explicit [[pedagogy|pedagogical]] support within existing frameworks. It connects to [[ai-education]] and the performance-vs-learning literature.
 
 ## Connected Concepts
 

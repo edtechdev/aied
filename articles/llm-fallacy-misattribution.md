@@ -49,7 +49,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 | **Creative / Epistemic** | Student reads AI summary of a topic and equates *access to information* with *conceptual mastery* (illusion of explanatory depth) |
 | **Professional signaling** | Resumes, portfolios, and interview answers reflect ability to prompt LLMs rather than independently acquired expertise |
 
-## Relationship to Existing Wiki Concepts
+## Relationship to Existing Knowledge Base Concepts
 
 - [[metacognition]] — The LLM fallacy is a metacognitive calibration failure: students cannot accurately monitor their own understanding because fluent AI output creates false fluency signals
 - [[transfer-of-learning]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure

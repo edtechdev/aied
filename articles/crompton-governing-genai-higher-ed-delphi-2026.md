@@ -29,9 +29,9 @@ Panelists strongly advocated proactive integration of GenAI into teaching and le
 
 A six-part review mechanism ensures policies remain current as GenAI evolves: a dedicated multidisciplinary GenAI governance committee (recommended by over 50% of panelists), scheduled policy review cycles (half the panel), ongoing professional development, communication with all [[stakeholders]], evaluation of effectiveness and impact, and monitoring of external developments. These processes treat policy maintenance as an ongoing institutional mechanism with clear ownership rather than a one-time task.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper provides the wiki's most authoritative, globally consensus-driven account of [[governance]] and [[educational-policy-ai]] for [[generative-ai]] in [[higher-ed]], offering a concrete blueprint that connects [[academic-integrity]], [[ethics]], [[privacy]], and [[ai-literacy]]. Its insistence on [[human-in-the-loop-ai|human oversight]] directly informs the wiki's treatment of human [[agency]] and accountability, while the [[equity-in-ai-education|equity]] dimension speaks to the wiki's concern with fair and inclusive adoption. For practitioners, the eight-area framework and six-part review mechanism are actionable templates for institutional policy design.
+This paper provides the knowledge base's most authoritative, globally consensus-driven account of [[governance]] and [[educational-policy-ai]] for [[generative-ai]] in [[higher-ed]], offering a concrete blueprint that connects [[academic-integrity]], [[ethics]], [[privacy]], and [[ai-literacy]]. Its insistence on [[human-in-the-loop-ai|human oversight]] directly informs the knowledge base's treatment of human [[agency]] and accountability, while the [[equity-in-ai-education|equity]] dimension speaks to the knowledge base's concern with fair and inclusive adoption. For practitioners, the eight-area framework and six-part review mechanism are actionable templates for institutional policy design.
 
 ## Connected Concepts
 

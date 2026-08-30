@@ -12,9 +12,9 @@ The **Global South** refers to countries in Africa, Asia, Latin America, and Oce
 
 ### Why It Matters for AIED
 
-Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and institutional contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this wiki spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
+Mainstream AI and educational-technology research has historically been dominated by Western, English-language datasets and institutional contexts. This creates two problems: (1) AI systems trained on such data may underperform or misrepresent learners in Global South settings, and (2) evaluation [[benchmark|benchmarks]] built in the Global North may not reflect the educational realities, languages, or knowledge traditions of other regions. Research from Global South contexts in this knowledge base spans culturally grounded datasets, benchmarks, and technology-adoption studies, with implications for [[ai-literacy]] and [[higher-ed|higher]] and [[k-12|K-12]] education.
 
-### Applications in the Wiki
+### Applications in the Knowledge Base
 
 - **Culturally grounded data and benchmarks:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] provides a [[multilingual-learning|multilingual]] Indian Knowledge Systems instruction dataset; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduces a Ghana-based [[stem-education|STEM]] benchmark, one of the first Global South educational evaluation datasets.
 - **Contextual adoption:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] model GenAI adoption among Bangladeshi engineering students, and [[connected-ai-lesson-planning-vietnam|ConnectED]] deploys a curriculum-aligned lesson-planning system for Vietnamese education.

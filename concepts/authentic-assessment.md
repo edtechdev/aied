@@ -12,7 +12,7 @@ confidence: high
 
 > **Authentic assessment** — the design of assessments that examine student performance on worthy, realistic intellectual tasks, rather than isolated, standardized test items. Originating with Wiggins (1990) as a counterbalance to standardized tests, authentic assessment has evolved from replicating workplace tasks toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. [[generative-ai|Generative AI]] has made authentic assessment newly essential: any task a [[llm|language model]] can credibly simulate in a take-home setting loses its validity as evidence of original student competence, so authentic forms must be redesigned around what AI cannot credibly counterfeit.
 
-Authentic assessment sits at the heart of how [[assessment]] is being rethought in the AI era. It connects to [[assessment-validity]] (does the assessment measure what it claims?), [[formative-assessment]] (authentic tasks that inform learning), and [[academic-integrity]] (moving from detection to designing tasks where AI use is expected and declared). It is a central response in the wiki's assessment-redesign literature.
+Authentic assessment sits at the heart of how [[assessment]] is being rethought in the AI era. It connects to [[assessment-validity]] (does the assessment measure what it claims?), [[formative-assessment]] (authentic tasks that inform learning), and [[academic-integrity]] (moving from detection to designing tasks where AI use is expected and declared). It is a central response in the knowledge base's assessment-redesign literature.
 
 ## The evolution of authenticity
 
@@ -27,7 +27,7 @@ Authentic assessment sits at the heart of how [[assessment]] is being rethought 
 
 ## Authentic assessment in the AI era
 
-The wiki's assessment-redesign literature argues that authenticity must be **redesigned, not policed**:
+The knowledge base's assessment-redesign literature argues that authenticity must be **redesigned, not policed**:
 
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, process-based assessment over surveillance.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.

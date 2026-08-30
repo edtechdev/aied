@@ -30,7 +30,7 @@ Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using 
 
 - Challenges the blanket assumption that reduced effort from AI inevitably harms learning — the effect depends on what AI displaces (busywork vs. the skill itself) and how the tool scaffolds.
 - Supports a design principle: AI that surfaces examples, explanations, and feedback (a "coach") preserves or boosts skill, whereas AI that fully replaces the cognitive act (a "crutch") risks erosion.
-- Contrasts with studies documenting harmful offloading (e.g., unguarded tutors cutting exam scores); the outcome hinges on tool design and whether the learner stays in the loop — a shared thread across the wiki's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research.
+- Contrasts with studies documenting harmful offloading (e.g., unguarded tutors cutting exam scores); the outcome hinges on tool design and whether the learner stays in the loop — a shared thread across the knowledge base's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research.
 
 ## Connected Concepts
 

@@ -18,7 +18,7 @@ confidence: high
 4. **Value-critical analysis is the corrective lens.** A [[critical-pedagogy|value-critical]] approach surfaces the normative commitments embedded in AI-mediated education, arguing that sustainability must be reclaimed as a value-based project rather than reduced to technical efficiency.
 
 ## Relevance to AI and sustainability in education
-This paper anchors the [[sustainability|sustainable AI in education]] concept page's normative dimension: it frames sustainability not as a technical or environmental metric but as a **value-based, human-centered educational project**. It connects directly to [[ethics]] in [[ai-education|AI education]], to [[governance]] (the conditions under which AI use is responsibly governed), and to the wiki's treatment of AI's [[critical-pedagogy|critical]] and [[philosophy-of-ai-in-education|philosophical]] dimensions.
+This paper anchors the [[sustainability|sustainable AI in education]] concept page's normative dimension: it frames sustainability not as a technical or environmental metric but as a **value-based, human-centered educational project**. It connects directly to [[ethics]] in [[ai-education|AI education]], to [[governance]] (the conditions under which AI use is responsibly governed), and to the knowledge base's treatment of AI's [[critical-pedagogy|critical]] and [[philosophy-of-ai-in-education|philosophical]] dimensions.
 
 ## Connected Concepts
 - [[sustainability]]

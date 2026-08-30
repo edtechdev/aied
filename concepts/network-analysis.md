@@ -12,9 +12,9 @@ confidence: high
 
 Network analysis methods share a core premise: that the structure of connections — not just their presence or frequency — carries meaning. Rather than asking "how much of X occurred," they ask "how are elements connected, and what does that connectivity reveal about [[metacognition|cognition]], [[collaborative-learning|collaboration]], or learning processes?" This makes them especially valuable in AI-in-education, where researchers increasingly want to understand the *process* of learner–AI interaction (how learners navigate [[feedback]], dialogue, and revision) rather than only the product (final scores, error rates).
 
-## Variants used in the wiki's corpus
+## Variants used in the knowledge base's corpus
 
-- **Epistemic Network Analysis (ENA)** — the most common variant in the wiki (discussed in ~24 articles). ENA models the co-occurrence of codes or constructs within segments of discourse or activity, producing networks that show which ideas, skills, or epistemic actions tend to be connected in a given context. It is used to compare how different groups (e.g., high- vs. low-literacy learners, human vs. AI collaborators) structure their cognition.^[[tracing-genai-literacy-interaction-patterns]]^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **Epistemic Network Analysis (ENA)** — the most common variant in the knowledge base (discussed in ~24 articles). ENA models the co-occurrence of codes or constructs within segments of discourse or activity, producing networks that show which ideas, skills, or epistemic actions tend to be connected in a given context. It is used to compare how different groups (e.g., high- vs. low-literacy learners, human vs. AI collaborators) structure their cognition.^[[tracing-genai-literacy-interaction-patterns]]^[[hao-human-ai-collaborative-problem-solving-cognition]]
 - **Social Network Analysis (SNA)** — models relationships between people (learners, teachers, agents) to reveal collaboration structures, influence, centrality, and community. Useful for studying [[collaborative-learning|collaborative]] and peer learning.^[[misiejuk-cognitive-offloading-prompting-2026]]
 - **Transition Network Analysis (TNA)** — models temporal sequences of discrete states (e.g., learner actions in a tutoring session) as a directed network, quantifying the probability of moving between states. TNA is used to reveal behavioral loops, pathways, and uptake dynamics in learner–AI interaction.^[[penny-transition-network-analysis-efl-writing-2026]]
 
@@ -22,13 +22,13 @@ These differ from a **[[knowledge-graph]]**, which is a data structure for repre
 
 ## Network analysis in AI-in-education research
 
-Network methods are used across the wiki's evidence base to answer questions that aggregate metrics cannot:
+Network methods are used across the knowledge base's evidence base to answer questions that aggregate metrics cannot:
 
 - **Open the "black box" of learner–AI interaction.** TNA reveals the *process* — the behavioral loops and pathways learners take when using AI tools (e.g., a "revision loop" vs. a "chat loop" in [[conversational-ai|chatbot]]-scaffolded [[writing-education|writing]]) rather than just final output.^[[penny-transition-network-analysis-efl-writing-2026]]
 - **Compare cognitive structuring across groups.** ENA shows how different groups connect constructs differently — e.g., how [[metacognition]] co-occurs with delegation vs. human reasoning in human–AI collaboration, revealing different collaboration modes.^[[hao-human-ai-collaborative-problem-solving-cognition]]
 - **Trace AI-literacy and interaction signatures.** ENA on interaction logs identifies distinct patterns of [[llm|LLM]] use (iterative strategic refinement vs. linear commands), distinguishing learner [[ai-literacy|proficiency]] and development.^[[tracing-genai-literacy-interaction-patterns]]
 - **Analyze discourse and framing.** ENA is applied to qualitative and [[multimodal]] data (e.g., YouTube frames of ChatGPT in education) to reveal the structure of public or disciplinary discourse.^[[youtube-frames-chatgpt-education]]
-- **Complement self-report and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the wiki's feedback-uptake literature.
+- **Complement self-report and product metrics.** Because network methods use observed behavioral data, they can expose discrepancies between what learners claim and what they actually do — a recurring finding in the knowledge base's feedback-uptake literature.
 
 ## Methodological considerations
 

@@ -14,7 +14,7 @@ Knowledge graphs provide the structural backbone for many intelligent education 
 
 ## How knowledge graphs are used in AIED
 
-Knowledge graphs are a recurring structural mechanism across the wiki's AIED research, serving several distinct roles:
+Knowledge graphs are a recurring structural mechanism across the knowledge base's AIED research, serving several distinct roles:
 
 - **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
 - **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.

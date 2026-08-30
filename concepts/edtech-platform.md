@@ -9,7 +9,7 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[oatutor-open-source-adaptive-tutor-2023]]
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[oatutor-open-source-adaptive-tutor-2023]]
 
 The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
 
@@ -23,7 +23,7 @@ Platforms in AI in education perform several distinct functions:
 - **Collect and analyze learning data** — the substrate for [[learning-analytics]] and [[student-modeling]].
 - **Govern access and deployment** — decisions about [[open-source]] vs. proprietary, local vs. cloud, and which institutions and learners can use it.
 
-## Key findings from the wiki's articles
+## Key findings from the knowledge base's articles
 
 ### Take-up, not capability, is often the binding constraint
 

@@ -25,7 +25,7 @@ Social-emotional learning is closely related to, but distinct from, emotional in
 
 ## Potential subtopics of SEL in the AI-era research
 
-The wiki's research clusters SEL into several distinct subtopics, each with its own evidence base:
+The knowledge base's research clusters SEL into several distinct subtopics, each with its own evidence base:
 
 ### Self-efficacy and confidence
 A core SEL competency (self-awareness/self-management) that strongly conditions how students interact with AI. [[student-dependency-on-ai-literacy-self-efficacy-2026|Student dependency on AI]] (478 Israeli HE students) found that while skill-based AI literacy dimensions were *positively* associated with AI dependency, both academic and AI-specific **self-efficacy** and effort regulation were *negatively* associated — meaning AI literacy alone does not protect against dependency; [[self-efficacy]] does. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] found that students with lower baseline self-efficacy achieved greater learning gains regardless of practice format, and that favour toward the tutor mattered more for tutor-based practice — underscoring the value of tailoring practice to motivational profiles. Connected concepts: [[self-efficacy]], [[motivation]], [[agency]].

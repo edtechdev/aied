@@ -58,7 +58,7 @@ HCAI extends Human-Centered Design to AI. Shneiderman frames it as combining **h
 
 Reasons include the difficulty of sustained developer–educator collaboration, needs-first processes clashing with fixed-deliverable funding, a lack of hybrid expertise, and EdTech incentives favoring speed/scale/data. Proposals span **policy/funding** (open, public-interest AI), **research** (participatory methods, human-centered evaluation), **educators** (co-designers/evaluators with AI-literacy PD), **industry** (transparency, user control, open-source principles), **hybrid expertise** development, and **structural governance** (EC Expert Group on AI and Data in Education; NOLAI, the Dutch National Education Lab for AI).
 
-## Why this matters for the wiki
+## Why this matters for the knowledge base
 
 - A bridge between **[[adaptive-learning]]/[[intelligent-tutoring]]** engineering and the **[[ethics]]/[[equity-in-ai-education]]** critique, all through a single Cognitive Load Theory and [[cognitive-offloading|Over-Reliance]] lens.
 - Central reference for Human-Centered AI work (see [[haiml-human-centered-ai-metacognitive-model-2026]]) and the "AI makes us stupid" cognitive-harm debate (cf. [[ai-making-us-stupid]], [[brcic-effortless-trap-productive-struggle-2026]]).

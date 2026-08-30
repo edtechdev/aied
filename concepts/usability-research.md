@@ -20,7 +20,7 @@ Usability and UX research answer questions like: Can students figure out how to 
 - **Interviews and observation.** Qualitative usability interviews and observation capture user experience, preferences, and pain points. [[icub-humanoid-storytelling-llm-hri-2025|A usability study of a storytelling humanoid robot]] uses structured evaluation to ask whether parents would let the robot interact with a child; [[genai-architectural-design-studios|AI in design studios]] observes and interviews students using AI in authentic design work.
 - **Systematic usability evaluation.** Heuristic evaluation, cognitive walkthrough, and questionnaire-based UX measures (e.g., SUS) systematically assess usability against established criteria.
 
-## How usability research appears in the wiki
+## How usability research appears in the knowledge base
 
 - **AI learning tool evaluation.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]], and [[anvil-ai-educational-animations|educational animations]] are evaluated for usability and UX.
 - **Human–robot and [[conversational-ai|conversational AI]] interaction.** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] is an explicit usability study of [[llm]]-powered interaction; [[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] identifies usability and interaction quality as a recurring theme.
@@ -28,7 +28,7 @@ Usability and UX research answer questions like: Can students figure out how to 
 
 ## Relationship to other research families
 
-Usability research shares data-collection methods with [[qualitative-research|qualitative research]] (interviews, observation, think-aloud) but differs in *aim*: qualitative research interprets meaning and experience to build understanding and theory, whereas usability research evaluates an artifact against usability/UX criteria. It also overlaps with [[ai-ed-evaluation]] (assessing whether a system works) and with [[educational-measurement|measurement]] (quantifying usability constructs). The wiki treats usability as a distinct but connected methodological strand — relevant to [[human-ai-collaboration]], [[student-experience]], and the design of effective AI learning tools. See [[research-methods-aied]] for how it fits the broader methods landscape.
+Usability research shares data-collection methods with [[qualitative-research|qualitative research]] (interviews, observation, think-aloud) but differs in *aim*: qualitative research interprets meaning and experience to build understanding and theory, whereas usability research evaluates an artifact against usability/UX criteria. It also overlaps with [[ai-ed-evaluation]] (assessing whether a system works) and with [[educational-measurement|measurement]] (quantifying usability constructs). The knowledge base treats usability as a distinct but connected methodological strand — relevant to [[human-ai-collaboration]], [[student-experience]], and the design of effective AI learning tools. See [[research-methods-aied]] for how it fits the broader methods landscape.
 
 ## Strengths and limitations
 

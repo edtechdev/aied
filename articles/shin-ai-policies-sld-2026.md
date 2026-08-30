@@ -32,15 +32,15 @@ The 36 final policy items cluster into five themes:
 
 ## Accessibility vs. accessible learning
 
-This paper usefully illustrates the distinction the wiki draws between narrow [[accessibility]] (captions, alt text, [[assistive-technology|assistive technology]], accommodations, OCR, read-aloud, customizable settings — the concrete "access features" called for across multiple items) and the broader [[inclusive-learning]] (multiple ways of knowing, personalized and [[universal-design-for-learning|universal design]] for learning, differentiated instruction, neurodiverse and multilingual inclusion). The policy recommendations span both: specific accessibility accommodations for tools and assessments sit alongside wider demands for inclusive, personalized, and universally designed learning experiences.
+This paper usefully illustrates the distinction the knowledge base draws between narrow [[accessibility]] (captions, alt text, [[assistive-technology|assistive technology]], accommodations, OCR, read-aloud, customizable settings — the concrete "access features" called for across multiple items) and the broader [[inclusive-learning]] (multiple ways of knowing, personalized and [[universal-design-for-learning|universal design]] for learning, differentiated instruction, neurodiverse and multilingual inclusion). The policy recommendations span both: specific accessibility accommodations for tools and assessments sit alongside wider demands for inclusive, personalized, and universally designed learning experiences.
 
 ## AI literacy, equity, and the digital divide
 
 Experts prioritized teaching AI literacy to students with SLD as an empowerment and [[equity-in-ai-education|equity]] measure, while flagging risks of overreliance, plagiarism, and loss of critical-thinking skills. The paper also highlights the [[digital-divide|digital divide]] (cost of advanced AI tools exacerbating disparities between wealthy and impoverished schools), [[ethics]] and bias in algorithms, and teacher-training gaps — underscoring that equitable AI benefit for SLD students requires policies addressing bias, privacy, and professional development.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper is a cornerstone reference for the wiki's accessibility/disability topic, directly contributing to [[educational-policy-ai]] (a concrete, validated set of AI policy recommendations), [[special-education]] (SLD-specific needs and IEP/FAPE legal grounding), [[inclusive-learning]] (the broad inclusion agenda), and the emerging [[accessibility]] concept (specific assistive/accommodation features). It provides an evidence base for how AI policies must be written to serve students with disabilities, offers a human-in-the-loop methodology exemplar (LLM topic modeling + expert Delphi validation), and connects accessibility to ethics, equity, teacher preparation, assessment, and [[ai-literacy]].
+This paper is a cornerstone reference for the knowledge base's accessibility/disability topic, directly contributing to [[educational-policy-ai]] (a concrete, validated set of AI policy recommendations), [[special-education]] (SLD-specific needs and IEP/FAPE legal grounding), [[inclusive-learning]] (the broad inclusion agenda), and the emerging [[accessibility]] concept (specific assistive/accommodation features). It provides an evidence base for how AI policies must be written to serve students with disabilities, offers a human-in-the-loop methodology exemplar (LLM topic modeling + expert Delphi validation), and connects accessibility to ethics, equity, teacher preparation, assessment, and [[ai-literacy]].
 
 ## Connected Concepts
 

@@ -10,7 +10,7 @@ confidence: high
 
 > **Self-Determination Theory (SDT)** — a psychological theory of human motivation positing that intrinsic motivation and [[well-being]] depend on satisfying three basic psychological needs: autonomy, competence, and relatedness. In [[ai-education|AI in education]], SDT provides a framework for designing AI tools and professional development that support rather than undermine learners' and teachers' motivation.
 
-SDT is increasingly used in AI in education research as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect [[student-engagement|engagement]], persistence, and [[learning-gains|learning outcomes]]. The articles in this wiki apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
+SDT is increasingly used in AI in education research as a theoretical lens for both learner-facing and teacher-facing AI systems. The theory's central claim — that motivation is not simply a quantity learners have but a quality shaped by the social and technological environment — makes it directly relevant to questions about how AI tools affect [[student-engagement|engagement]], persistence, and [[learning-gains|learning outcomes]]. The articles in this knowledge base apply SDT across three main contexts: teacher professional development, AI-mediated learning engagement, and affective computing.
 
 ### Key research themes
 

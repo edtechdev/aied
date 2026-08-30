@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-For [[stem-education|STEAM]] and inquiry-based learning, this review positions ChatGPT as an "AI-powered co-inquirer" that can genuinely support the generative, questioning, and reflective phases of inquiry — but its value depends on pedagogical scaffolding to prevent over-reliance and uncritical acceptance of output. The challenges align with the wiki's [[cognitive-offloading]] and [[ai-literacy]] threads: treating AI output as authoritative risks superficial learning. The call for sustained teacher mediation and curricular alignment connects to [[teacher-role]] and [[educational-policy-ai]]. It complements the empirical problem-posing study ([[dai-chatbots-problem-posing-primary-2026]]) at the primary level.
+For [[stem-education|STEAM]] and inquiry-based learning, this review positions ChatGPT as an "AI-powered co-inquirer" that can genuinely support the generative, questioning, and reflective phases of inquiry — but its value depends on pedagogical scaffolding to prevent over-reliance and uncritical acceptance of output. The challenges align with the knowledge base's [[cognitive-offloading]] and [[ai-literacy]] threads: treating AI output as authoritative risks superficial learning. The call for sustained teacher mediation and curricular alignment connects to [[teacher-role]] and [[educational-policy-ai]]. It complements the empirical problem-posing study ([[dai-chatbots-problem-posing-primary-2026]]) at the primary level.
 
 ## Connected Concepts
 

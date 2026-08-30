@@ -26,7 +26,7 @@ confidence: high
 - **Student discernment:** many students preferred to consult their own literature reviews for critical details, expressing concerns about potential inaccuracies in chemical calculations and the reliability of advanced chemistry content — evidence of evaluative engagement with AI output.
 - **Staff role shift:** instead of demonstrating established experiments ("cookbook"), staff now encounter a broader range of unexpected issues arising from student-designed lab manuals, focusing on **guiding and advising** rather than supplying definitive answers.
 
-This complements the wiki's framing of [[ai-literacy|critical AI use]] and [[human-ai-collaboration|human–AI collaboration]]: students learned to interrogate and verify AI-generated content rather than accept it uncritically.
+This complements the knowledge base's framing of [[ai-literacy|critical AI use]] and [[human-ai-collaboration|human–AI collaboration]]: students learned to interrogate and verify AI-generated content rather than accept it uncritically.
 
 ## Connected Concepts
 

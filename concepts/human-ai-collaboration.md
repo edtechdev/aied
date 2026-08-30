@@ -7,13 +7,13 @@ tags: []
 confidence: medium
 ---
 
-> **Human-AI collaboration** — the division of cognitive labor between people and models — is the wiki's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]). The defining question is whether the partnership **preserves or replaces** the learner's own cognitive work — the same arrangement can support learning or substitute for it depending on how responsibility is shared.
+> **Human-AI collaboration** — the division of cognitive labor between people and models — is the knowledge base's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]). The defining question is whether the partnership **preserves or replaces** the learner's own cognitive work — the same arrangement can support learning or substitute for it depending on how responsibility is shared.
 
 Human-AI collaboration describes how learners, teachers, and AI systems divide [[cognitive-offloading|cognitive work]] — who does what, who decides, and how [[trust]] and [[agency]] are maintained. Rather than framing AI as either a replacement or a passive tool, collaboration research treats AI as a partner with complementary strengths whose value depends on how responsibility is shared and monitored. At the level of observable behavior, [[student-ai-interaction]] captures how learners enact this relationship in practice — the questions, prompts, and verification moves they make with AI moment to moment.
 
 ### Benefits, risks, and design implications
 
-The wiki's evidence shows that human-AI collaboration is a double-edged arrangement whose outcome is determined by design rather than by AI itself:
+The knowledge base's evidence shows that human-AI collaboration is a double-edged arrangement whose outcome is determined by design rather than by AI itself:
 
 - **Collaboration can enhance learning when it preserves cognitive engagement.** Studies of [[genai-mindtool-generative-learning|GenAI as a mindtool]] and guided collaboration show that when the division of labor keeps the learner generating, deciding, and evaluating, AI augments rather than replaces thinking — producing durable [[self-regulated-learning|self-regulated learning]] and [[creativity]] gains.
 - **Collaboration can substitute for learning when it offloads too much.** The failure mode is [[cognitive-offloading|over-reliance]]: when AI produces the answer, the learner's role collapses into passive acceptance, and immediate task performance masks a lack of durable learning. [[genai-performance-vs-learning|Performance-versus-learning]] research and the substitution-to-scaffolding harm cycle ([[substitution-to-scaffolding-ai-harm-cycle-2026]]) document this systematically.

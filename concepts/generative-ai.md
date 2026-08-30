@@ -19,9 +19,9 @@ Unlike earlier rule-based or retrieval-based systems, generative AI produces flu
 - **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-assessment|automated grading]], and [[formative-assessment]] increasingly rely on generative models.
 - **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and [[accessibility]].
 
-### The wiki's generative AI coverage
+### The knowledge base's generative AI coverage
 
-With 80+ articles, generative AI is the wiki's largest technology thread. Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[ai-tutor-safety-harms|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
+With 80+ articles, generative AI is the knowledge base's largest technology thread. Research spans effectiveness studies ([[genai-meta-analysis-programming-learning|meta-analyses]]), safety concerns ([[ai-tutor-safety-harms|tutor harms]], [[eduguard-safe-rag-llm-tutor|guardrailing]]), and design principles ([[instructional-guidance-genai-learning|instructional guidance]]).
 
 ### Connections
 

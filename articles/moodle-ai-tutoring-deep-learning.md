@@ -25,7 +25,7 @@ The system operates within Moodle's existing infrastructure, using LLM-based tut
 
 This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025]]. Many intelligent tutoring systems fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
 
-## Connections to the Wiki
+## Connections to the Knowledge Base
 
 The system's focus on deep vs. surface learning connects to [[metacognition]] research — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning]] but emphasizes **qualitative shifts** in understanding rather than quantitative difficulty adjustment. The Moodle deployment strategy echoes lessons from [[becerra-aicofe-feedback-2026]] (AICoFe) about integrating AI tools into existing educational workflows.
 

@@ -12,7 +12,7 @@ confidence: high
 
 ### LLMs as the engine of AIED
 
-LLMs are the most-referenced concept in the wiki (60+ articles) because they underpin nearly every AI education application:
+LLMs are the most-referenced concept in the knowledge base (60+ articles) because they underpin nearly every AI education application:
 
 - **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and problem-solving guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
 - **Assessment:** [[automated-assessment|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities.
@@ -22,7 +22,7 @@ LLMs are the most-referenced concept in the wiki (60+ articles) because they und
 
 ### Model-specific research
 
-The wiki covers both general-purpose LLMs (GPT-4, Claude) and education-specific adaptations. [[cstutorbench-slm-tutors|Small language model benchmarks]] compare SLM performance for tutoring. [[educational-llm-alignment|Educational alignment]] research addresses how to make LLMs pedagogically appropriate.
+The knowledge base covers both general-purpose LLMs (GPT-4, Claude) and education-specific adaptations. [[cstutorbench-slm-tutors|Small language model benchmarks]] compare SLM performance for tutoring. [[educational-llm-alignment|Educational alignment]] research addresses how to make LLMs pedagogically appropriate.
 
 Model differences also matter for high-stakes downstream uses. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] showed that three LLMs produced sharply divergent student-support prescriptions for the same [[learning-analytics|learning-analytic]] input, and each imposed distinct demographic priors on the learner profiles they generated — evidence that off-the-shelf LLMs are not interchangeable as prescriptive advisors.
 

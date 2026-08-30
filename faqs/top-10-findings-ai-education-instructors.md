@@ -10,11 +10,11 @@ category: [assessment]
 
 # What are the Top 10 Findings from AI in Education Research That Instructors Should Know About?
 
-Across the wiki's synthesis of current research, the most important message for college instructors is not simply "use AI" or "ban AI." **How AI is embedded in the learning activity determines whether it amplifies thinking or replaces it.** The evidence is also uneven: many GenAI studies are recent, short-term, and context-specific, so these are best read as high-value findings rather than settled universal laws.
+Across the knowledge base's synthesis of current research, the most important message for college instructors is not simply "use AI" or "ban AI." **How AI is embedded in the learning activity determines whether it amplifies thinking or replaces it.** The evidence is also uneven: many GenAI studies are recent, short-term, and context-specific, so these are best read as high-value findings rather than settled universal laws.
 
 ## Top 10 findings for college instructors
 
-**1. Better AI-assisted performance does not necessarily mean better learning.** Students can produce stronger work and finish faster with GenAI while learning less independently. [[cognitive-offloading|Cognitive offloading]] is especially problematic when AI performs the reasoning students were supposed to practice. The wiki stresses distinguishing *performance while assisted* from *learning demonstrated later without assistance*.
+**1. Better AI-assisted performance does not necessarily mean better learning.** Students can produce stronger work and finish faster with GenAI while learning less independently. [[cognitive-offloading|Cognitive offloading]] is especially problematic when AI performs the reasoning students were supposed to practice. The knowledge base stresses distinguishing *performance while assisted* from *learning demonstrated later without assistance*.
 
 **Teaching implication:** Include some opportunities where students must retrieve, explain, solve, or defend ideas without AI.
 
@@ -34,7 +34,7 @@ Across the wiki's synthesis of current research, the most important message for 
 
 **Teaching implication:** Design AI activities around self-explanation, retrieval, comparison, argumentation, teaching, or critique—not merely content generation.
 
-**6. [[assessment|Assessment]] should shift from detecting AI toward establishing valid evidence of learning.** AI detectors have important reliability and fairness limitations. More fundamentally, a polished take-home product no longer necessarily demonstrates that its submitter possesses the underlying competence. The wiki frames this as an [[assessment-validity|assessment-validity]] problem, not merely a cheating problem.
+**6. [[assessment|Assessment]] should shift from detecting AI toward establishing valid evidence of learning.** AI detectors have important reliability and fairness limitations. More fundamentally, a polished take-home product no longer necessarily demonstrates that its submitter possesses the underlying competence. The knowledge base frames this as an [[assessment-validity|assessment-validity]] problem, not merely a cheating problem.
 
 **Teaching implication:** Assess processes as well as products—drafts, reasoning, critiques, oral defenses, demonstrations, reflections, or conversations about submitted work.
 

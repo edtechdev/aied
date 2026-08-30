@@ -15,7 +15,7 @@ The widespread availability of general-purpose AI that can perform complex cogni
 
 Position paper (AIED 2026) reframes the effortless bypass dilemma: AIED must keep building better tools but foreground learner agency and motivation so students choose authentic effort. Five directions: autonomy/agency, metacognitive resilience, interest/relevance, process-based assessment, and teacher empowerment.
 
-This work connects to core wiki themes: [[cognitive-offloading|Over-Reliance]] [[student-experience]] [[self-regulated-learning]] [[metacognition]] [[teacher-role]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[cognitive-offloading|Over-Reliance]] [[student-experience]] [[self-regulated-learning]] [[metacognition]] [[teacher-role]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 

@@ -30,7 +30,7 @@ AI supports **experience** through transformative learning — [[conversational-
 
 ### Problem-centered learning and critical thinking
 
-For **problem-centered** learning, AI activates [[prior-knowledge|prior knowledge]] (question-generation tools: "AI helps me remember what I've learned before starting something new," P20) and provides data-driven, fact-checked insights. Crucially, learners want AI to strengthen — not replace — critical thinking: hone questioning skills, verify information, and organize ideas via concept maps ("seeing my ideas mapped out helps me see what's missing," P19). This echoes the wiki's recurring theme of AI as a probe for inquiry rather than a content delivery mechanism.
+For **problem-centered** learning, AI activates [[prior-knowledge|prior knowledge]] (question-generation tools: "AI helps me remember what I've learned before starting something new," P20) and provides data-driven, fact-checked insights. Crucially, learners want AI to strengthen — not replace — critical thinking: hone questioning skills, verify information, and organize ideas via concept maps ("seeing my ideas mapped out helps me see what's missing," P19). This echoes the knowledge base's recurring theme of AI as a probe for inquiry rather than a content delivery mechanism.
 
 ### Relevance: goal orientation and career connection
 
@@ -44,9 +44,9 @@ AI supports **relevance** through goal orientation — real-time progress monito
 
 **Adaptability:** AI should keep learning from new interactions after deployment rather than remaining frozen on static datasets, graduating from closed problem-solving to varied real-world problems. It should also be **interoperable**, moving and exchanging data seamlessly across platforms and tools — even enabling [[conversational-ai|multi-agent]] collaboration.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper is the companion to the wiki's [[kim-ai-productive-failure-adult-2026]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *scaffold* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning]], [[human-in-the-loop-ai]], and [[affective-computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]], [[self-directed-learning]], and [[learning-theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the wiki-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
+This paper is the companion to the knowledge base's [[kim-ai-productive-failure-adult-2026]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *scaffold* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning]], [[human-in-the-loop-ai]], and [[affective-computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]], [[self-directed-learning]], and [[learning-theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the knowledge base-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
 
 ## Connected Concepts
 

@@ -51,8 +51,8 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Implications for AI in Education
 
-- **Detection is necessary but insufficient.** The review reinforces the wiki's [[ai-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
-- **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the wiki's [[authentic-assessment]] and [[assessment]] literature.
+- **Detection is necessary but insufficient.** The review reinforces the knowledge base's [[ai-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
+- **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the knowledge base's [[authentic-assessment]] and [[assessment]] literature.
 - **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
 - **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
 

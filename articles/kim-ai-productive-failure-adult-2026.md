@@ -38,9 +38,9 @@ Productive Failure (PF), grounded in [[constructivist|constructivist principles]
 4. **Emotional design** — AI personality and conversation design that support learners' emotional experience during struggle.
 5. **Open knowledge and resource utilization** — shifting from pre-trained data to accessing/integrating real-time external information; breaking down data silos.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This paper anchors the wiki's [[productive-failure]] concept with an AI-specific lens: how generative AI can be designed to *support* (not short-circuit) productive-failure pedagogy. It connects to [[cognitive-offloading]] (the risk that AI erases the struggle), [[scaffolding]] (non-directive support that preserves struggle), [[socratic-method]] (questioning to activate reasoning), [[feedback]] (non-directive loops), and the broader design question of AI as "thinking partner" rather than answer-giver. Its adult-learner focus connects to [[adult-learning]] and andragogy principles.
+This paper anchors the knowledge base's [[productive-failure]] concept with an AI-specific lens: how generative AI can be designed to *support* (not short-circuit) productive-failure pedagogy. It connects to [[cognitive-offloading]] (the risk that AI erases the struggle), [[scaffolding]] (non-directive support that preserves struggle), [[socratic-method]] (questioning to activate reasoning), [[feedback]] (non-directive loops), and the broader design question of AI as "thinking partner" rather than answer-giver. Its adult-learner focus connects to [[adult-learning]] and andragogy principles.
 
 ## Connected Concepts
 

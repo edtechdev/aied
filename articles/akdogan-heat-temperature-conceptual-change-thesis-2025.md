@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the wiki's [[refutation-text|conceptual change]], [[misconceptions]], [[refutation-text]], and [[generative-ai]] concepts.
+The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconception-correction literature: in this large [[k-12]] science context, well-structured [[refutation-text|conceptual-change texts]] (expert or AI-generated) outperformed freeform interactive AI dialogue. For practice, it suggests that for [[stem-education|science]] misconception correction, AI is most valuable as a scalable generator of effective [[refutation-text|refutation texts]], and that intervention design must attend to [[equity-in-ai-education|learner achievement]], epistemology, and [[metacognition]]. It connects to the knowledge base's [[refutation-text|conceptual change]], [[misconceptions]], [[refutation-text]], and [[generative-ai]] concepts.
 
 ## Connected Concepts
 - [[refutation-text]]

@@ -50,10 +50,10 @@ The infrastructure this requires is not exotic: learning environments that emit 
 ## Implications for AI in Education
 
 - **Assessment design shifts from policing to evidence capture.** Rather than trying to detect or prohibit agents, institutions should design [[assessment|assessments]] whose reasoning traces are recorded as they happen, so the credential's signal survives [[agentic-ai|agentic]] learning environments.
-- **Open, portable evidence schemas become a public good.** The paper argues standards bodies — not vendors — should own the schema, echoing the wiki's [[governance]] concern about who controls the infrastructure of assessment in the age of [[generative-ai|generative AI]].
+- **Open, portable evidence schemas become a public good.** The paper argues standards bodies — not vendors — should own the schema, echoing the knowledge base's [[governance]] concern about who controls the infrastructure of assessment in the age of [[generative-ai|generative AI]].
 - **Learner-controlled, minimal-by-default disclosure is a prerequisite.** Evidence-rich credentials carry real [[privacy]] and [[equity-in-ai-education|equity]] costs; the paper insists the learner controls disclosure and the receipt exists to be presented, not harvested.
 - **Tiering lets the market price honesty.** By naming *attested* credentials for what they are, dynamic tiering avoids a blanket discount on all credentials and gives employers, accreditors, and licensing boards an inspectable middle ground between full audit and unverified claim — a concrete alternative to [[academic-integrity|integrity policing]].
-- **Validity and circular-validation warnings apply directly.** The credential rests on a [[assessment-validity|chain of inferences]] (Kane, Messick); agents break the first link, and systems must avoid validating one model with another. This connects to the wiki's broader measurement concerns about [[educational-measurement]] under agentic AI.
+- **Validity and circular-validation warnings apply directly.** The credential rests on a [[assessment-validity|chain of inferences]] (Kane, Messick); agents break the first link, and systems must avoid validating one model with another. This connects to the knowledge base's broader measurement concerns about [[educational-measurement]] under agentic AI.
 
 ## Connected Concepts
 

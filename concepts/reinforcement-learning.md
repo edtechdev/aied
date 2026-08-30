@@ -14,13 +14,13 @@ confidence: medium
 
 Reinforcement learning (RL) trains an agent by rewarding desired behavior — the agent learns a policy that maximizes cumulative reward through trial and error. In AI in education, RL is used to train tutoring agents and learning companions that must make sequences of decisions (what hint to give, when to advance difficulty, how to pace practice) rather than single answers. This makes RL well suited to [[adaptive-learning]] and [[intelligent-tutoring]] where long-horizon pedagogical decisions matter.
 
-### Applications documented in the wiki
+### Applications documented in the knowledge base
 
 - **Pedagogically aligned RL.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses an RL-SFT-RL pipeline to train a model that *guides* rather than answers, aligning reward with pedagogical goals; [[special-r1-rl-special-education]] applies RL to tutor design for [[special-education]].
 - **Safety and skill transfer.** [[pedagogical-safety-rl]] integrates safety constraints into RL-based tutoring so that reward optimization does not come at the cost of learner well-being; [[ai-coaching-rl-skill-development]] shows RL-driven coaching that supports genuine skill development and transfer.
 - **Simulation and practice.** [[history-aware-student-simulation]] and [[q-learning-lab-rl-teaching]] use RL and simulated learners to train and evaluate [[pedagogical-agent|pedagogical agents]], connecting RL to [[student-modeling]] and [[learning-analytics]].
 
-### Connection to the wiki
+### Connection to the knowledge base
 
 RL underpins much modern [[agentic-ai]] and [[intelligent-tutoring]] design, where the agent must optimize long-term learning rather than a single correct response. It connects to [[pedagogical-llm-training]] (RL as a training method), [[scaffolding]] (reward design that preserves productive struggle), and [[self-regulated-learning]] (agents that help learners regulate their own strategy). Because reward design encodes educational values, RL research in AIED is tightly tied to [[pedagogical-safety]] and to the equity considerations of [[equity-in-ai-education|equitable]] tutor behavior.
 

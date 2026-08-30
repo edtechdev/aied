@@ -24,7 +24,7 @@ confidence: high
 
 **Ethical dimension and factor structure.** The ETHICS factor showed the highest correlation with iTPACK (ρ = 0.833 for iTCK–iTPACK; ETHICS correlated most strongly with iTPACK and least with iTK), suggesting that responsible, accountable decision-making around AI tools may be enhanced when such tools are integrated into teaching and learning rather than approached solely through their technological properties. This mirrors Celik's original iTPACK findings and underscores the [[ethics]] and [[ai-literacy]] dimensions central to the framework.
 
-**Implication.** Validating readiness instruments for the pre-service population is a necessary step toward designing [[teacher-education]] curricula that prepare future teachers to integrate AI responsibly — a central concern of the wiki's teacher-education concept. The authors also recommend future work with SEM and additional control variables, and note the study was approved by the Ethics Committee of the Pontificia Universidad Católica de Chile (ID 250,310,001), with the instrument itself available in Appendix A.
+**Implication.** Validating readiness instruments for the pre-service population is a necessary step toward designing [[teacher-education]] curricula that prepare future teachers to integrate AI responsibly — a central concern of the knowledge base's teacher-education concept. The authors also recommend future work with SEM and additional control variables, and note the study was approved by the Ethics Committee of the Pontificia Universidad Católica de Chile (ID 250,310,001), with the instrument itself available in Appendix A.
 
 ## Connected Concepts
 

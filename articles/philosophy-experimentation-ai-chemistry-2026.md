@@ -33,7 +33,7 @@ Using the synthesis of a new compound as a worked example, the authors detail ho
 
 ## Over-reliance and the need for balance
 
-The article cautions against **over-reliance** on AI in chemical experimentation, where AI automates routine tasks and fundamentally alters how experiments are conceptualized and conducted. It calls for a **framework for integrating AI into chemistry education** that maximizes benefits while preserving the essential elements of scientific reasoning and discovery — a theme that resonates with the wiki's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns, and with the philosophical treatment of [[philosophy-of-ai-in-education]].
+The article cautions against **over-reliance** on AI in chemical experimentation, where AI automates routine tasks and fundamentally alters how experiments are conceptualized and conducted. It calls for a **framework for integrating AI into chemistry education** that maximizes benefits while preserving the essential elements of scientific reasoning and discovery — a theme that resonates with the knowledge base's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns, and with the philosophical treatment of [[philosophy-of-ai-in-education]].
 
 ## Connected Concepts
 

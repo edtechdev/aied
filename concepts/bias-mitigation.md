@@ -15,7 +15,7 @@ Bias mitigation matters because AI in education is not neutral: systems trained 
 
 ## Sources of bias
 
-The wiki's research documents bias entering at multiple points in the pipeline:
+The knowledge base's research documents bias entering at multiple points in the pipeline:
 
 - **Language and scoring bias:** [[ai-scoring-language-bias-physics|AI-based physics scoring]] systematically underestimates the conceptual understanding of students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding, penalizing non-native or less fluent writers. This is a direct validity and fairness failure in [[automated-assessment|Automated Grading]].
 - **Gender bias transfer in LLM-assisted writing:** [[gender-bias-transfer-llm-writing|Contaminated Collaboration]] shows that when students write with a gender-biased LLM prompt, their essays display a significantly larger agentic gap and more gender-stereotypic occupation suggestions (N=123); bias transfer is asymmetric, suppressing agency in female-target essays. A verification study (N=1,600 LLM essays, R²=.399) confirms a gender-biased prompt induces gender-differentiated language.
@@ -27,7 +27,7 @@ The wiki's research documents bias entering at multiple points in the pipeline:
 
 ## Mitigation approaches
 
-The wiki's research illustrates several complementary strategies:
+The knowledge base's research illustrates several complementary strategies:
 
 - **Fairness-aware modeling:** [[fair-explainable-edu-recommendations|The Hybrid HKG-GRU framework]] integrates **Group Distributionally Robust Optimization (GroupDRO)** for fairness alongside explainability and counterfactual stability, evaluated on Moodle logs (152 students, ~150k interactions). It demonstrates that recommendation systems can be trained to be fair and transparent, not just accurate.
 - **Debiasing estimators:** [[temporal-smoothness-debiased-kt|Temporal Smoothness Doubly Robust (TSDR) learning]] combines a propensity model with an error-imputation model, retaining unbiasedness if either is correct, to remove selection bias from knowledge-tracing mastery estimates.

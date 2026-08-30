@@ -50,7 +50,7 @@ Central insight: "Institutions cannot wait for best practices, but cannot respon
 
 The framework was piloted through a faculty workshop series in a university physics department. Rather than prescribing AI tools, workshops facilitated collective inquiry around pedagogical goals, engaged participants as co-investigators, and organized around teaching approaches rather than specific technologies. This connects to the departmental-level work described in [[stem-education]] and the workshop-based models in [[faculty-development]].
 
-## Connections to Wiki
+## Connections to Knowledge Base
 
 - Extends [[universities-ai-era-rethinking]] by providing a concrete framework for institutional adaptation, not just rethinking
 - Complements [[faculty-development]] by adding the change-agent and student-partner dimensions missing from playbook-centered approaches

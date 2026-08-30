@@ -15,7 +15,7 @@ Quantitative research spans descriptive designs (measuring prevalence and patter
 ## Major quantitative approaches
 
 ### Survey and correlational research
-Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the wiki's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
+Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the knowledge base's corpus, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.
@@ -30,13 +30,13 @@ Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tut
 Longitudinal designs track the same learners over time, capturing change, growth, and durable learning that single-time-point measurement misses. [[ai-lms-middle-school-longitudinal|A longitudinal LMS study]] tracks students across a school year. Longitudinal designs are essential for distinguishing AI-inflated performance from [[genai-performance-vs-learning|durable learning]].
 
 ### Computational and psychometric quantification
-Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The wiki's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
+Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The knowledge base's [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
 
-## How quantitative research appears in the wiki
+## How quantitative research appears in the knowledge base
 
 - **Efficacy and causal claims.** RCTs and quasi-experiments test whether AI tools improve learning ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
 - **Mechanism modeling.** SEM/PLS-SEM tests mediators and moderators of AI adoption and learning ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
-- **Measurement and scale development.** The wiki documents quantitative instrument development and validation ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
+- **Measurement and scale development.** The knowledge base documents quantitative instrument development and validation ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
 
 ## Strengths and limitations
 

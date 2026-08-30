@@ -42,7 +42,7 @@ Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teach
 
 ### Practical guidance for program designers
 
-For faculty developers, academic leaders, and instructional designers planning AI [[professional-training|professional development]], the wiki's evidence suggests:
+For faculty developers, academic leaders, and instructional designers planning AI [[professional-training|professional development]], the knowledge base's evidence suggests:
 
 **Address the four adoption drivers, not just knowledge.** Confidence, attitudes, support, and concerns predict whether faculty actually adopt AI — a knowledge-only workshop that ignores these is unlikely to change practice. Design development to build confidence through hands-on use, provide ongoing support (not one-shot training), and actively surface and respond to faculty concerns.^[[teacher-ai-adoption-confidence]]
 

@@ -8,7 +8,7 @@ audience: [faculty development, instructors]
 
 # What Competencies Do Faculty Need in Regard to AI?
 
-**Faculty competency should extend well beyond prompt writing.** The wiki's [[ai-literacy|AI Literacy]] synthesis identifies four broad dimensions:
+**Faculty competency should extend well beyond prompt writing.** The knowledge base's [[ai-literacy|AI Literacy]] synthesis identifies four broad dimensions:
 
 - **Foundational understanding** of AI capabilities and limitations.
 - **Practical competence** using AI tools.

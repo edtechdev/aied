@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 ---
 
-> **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether AI education tools (LLM-based tutors, [[automated-assessment|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, pedagogical quality, validity, and real learning impact. A recurring theme across the wiki's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
+> **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether AI education tools (LLM-based tutors, [[automated-assessment|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, pedagogical quality, validity, and real learning impact. A recurring theme across the knowledge base's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
 
 AI-ed evaluation spans several distinct objects of assessment. It can evaluate the **output** (is the AI's answer, grade, or feedback correct and reliable?), the **process** (does the tool support valid, defensible assessment and learning?), and the **agent** (does an AI tutor or agent teach effectively and behave appropriately?). Each requires different methods and raises different validity questions.
 
@@ -38,7 +38,7 @@ AI-ed evaluation is difficult for several reasons. First, **reliability is not e
 
 ### Connections to related concepts
 
-AI-ed evaluation sits at the center of the wiki's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
+AI-ed evaluation sits at the center of the knowledge base's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
 
 ### Evaluating learning gains
 

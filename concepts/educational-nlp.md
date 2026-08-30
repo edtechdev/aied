@@ -13,7 +13,7 @@ confidence: medium
 
 Natural language processing in education applies computational methods to the language of teaching and learning — student essays, responses, discussion posts, feedback, and instructional text. [[llm|LLMs]] have dramatically expanded what can be analyzed automatically, enabling fine-grained understanding of student language that was previously impractical at scale.
 
-### Applications documented in the wiki
+### Applications documented in the knowledge base
 
 - **Analysis of student language.** [[llm-sentiment-analysis-education-research]] applies LLM-based sentiment analysis to educational research, extracting emotional and evaluative signals from student text at scale, feeding [[learning-analytics]] and [[affective-computing]].
 - **Prediction and measurement.** [[llm-item-difficulty-prediction]] and [[vocabulary-difficulty-prediction]] use language models to estimate item and text difficulty — core inputs to [[educational-measurement]], [[adaptive-learning]], and [[item-response-theory]] models.

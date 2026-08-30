@@ -26,7 +26,7 @@ This work fills a gap in the [[ai-tutor-behavioral-evaluation]] landscape: Nious
 
 The findings also matter for [[formative-assessment]] systems — if ASAS works well only at extremes, it may reinforce binary thinking rather than supporting the nuanced feedback that [[sequenced-ai-feedback-learning]] research shows is critical for learning. The connection to [[human-in-the-loop-ai]] is clear: mid-range responses may be where human teacher judgment remains essential.
 
-## Connections to Wiki
+## Connections to Knowledge Base
 
 - Extends [[automated-assessment|Automated Grading]] with quality-conditioned analysis
 - Complements [[cong-confidence-asag-2026]] on confidence estimation

@@ -39,7 +39,7 @@ The paper reports a University-wide teaching-and-learning pilot at a large Austr
 
 The paper proposes reframing AI automated feedback tools from low-level outcome-feedback automation toward developing feedback literacy through academic writing. It argues that reframing will yield benefits for writing skills and learning strategies, not just drafts. Next-iteration proposals include (1) making the tool **student-facing and available across all units** so each student decides the task and writing aspects on which to seek feedback, with no teacher involvement — cultivating agency and self-regulated feedback literacy without adding workload or depending on teachers' own feedback literacy; and (2) adding **templates for three drafting stages** to guide students through the writing process, raising awareness of feedback's reciprocal nature and what an AI tool can and cannot do, fostering a student–AI partnership extendable to their teachers. This connects to debates on how [[ai-feedback-quality]] and the [[feedback|Feedback Loop]] can be operationalised inside [[formative-assessment]] and [[writing-education]], and how AI tools can support [[self-regulated-learning]] and student [[agency]].
 
-## Connection to Existing Wiki
+## Connection to Existing Knowledge Base
 
 - **[[feedback|Feedback Loop]]**: The tool creates immediate, actionable feedback loops students can act on and re-submit against (multiple same-day submissions evidence iterative uptake).
 - **[[ai-feedback-quality]]**: Students rated feedback positively on average yet also flagged errors/inaccurate feedback, raising questions about quality and trust calibration of automated feedback.

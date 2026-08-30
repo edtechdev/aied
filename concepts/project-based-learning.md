@@ -14,7 +14,7 @@ PBL is closely related to [[active-learning]], [[experiential-learning]], [[coll
 
 Project-based learning is closely related to — but distinct from — [[problem-based-learning|problem-based learning]]: both are learner-centered and context-driven, but problem-based learning centers on an ill-structured *problem* whose solution requires inquiry and knowledge construction, whereas project-based learning centers on producing a tangible *project* or artefact. The two are frequently conflated, and many AI-in-education frameworks draw on both (see the [[problem-based-learning|problem-based learning]] page for the AI-era treatment).
 
-### How PBL appears in the wiki's research
+### How PBL appears in the knowledge base's research
 
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied computer science program, addressing the theory-practice gap.
 - **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).

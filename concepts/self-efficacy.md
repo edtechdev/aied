@@ -13,7 +13,7 @@ confidence: high
 
 Self-efficacy is distinct from actual competence: it is a belief about capability that drives behaviour. It is closely related to — and often used interchangeably with — the everyday notion of *confidence* in one's abilities. Self-efficacy connects closely to [[motivation]], [[self-regulated-learning]], and [[student-experience]]. In the AI context, AI self-efficacy (confidence in working with AI) is a distinct construct from AI literacy, and research shows it plays a crucial role in whether learners actually activate and apply AI-related knowledge.
 
-### How self-efficacy appears in the wiki's research
+### How self-efficacy appears in the knowledge base's research
 
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts career adaptability.
 - **AI use patterns and self-efficacy:** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] found that using GenAI to *support understanding* (evaluative integration) was fully mediated by academic self-efficacy in its association with performance — understanding-oriented AI use builds confidence — whereas shortcut use (low-verification uptake) predicted worse outcomes partly independently of self-efficacy. Self-efficacy is thus both a pathway through which productive AI use helps and a factor that shortcut use may fail to build.

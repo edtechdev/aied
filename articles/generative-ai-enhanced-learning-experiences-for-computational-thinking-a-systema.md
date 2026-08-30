@@ -34,7 +34,7 @@ confidence: high
 
 ## Implications
 
-This review gives educators and [[ai-education|AI-in-education]] designers a roadmap for using GenAI to teach CT without sacrificing the underlying [[computational-thinking]] skills. The overreliance/under-utilization tension means the same tool needs different [[scaffolding]] for different learner levels — guidance and tutor-style prompting for beginners, richer open-ended integration for advanced learners. The seven guidelines align with the broader shift from seeing [[generative-ai|GenAI]] as an answer-provider to treating it as a scaffolded partner in [[cs-education|CS education]] and CT, and echo the wiki's emphasis on distinguishing genuine [[learning-gains|learning]] from mere performance (see [[genai-performance-vs-learning]]).
+This review gives educators and [[ai-education|AI-in-education]] designers a roadmap for using GenAI to teach CT without sacrificing the underlying [[computational-thinking]] skills. The overreliance/under-utilization tension means the same tool needs different [[scaffolding]] for different learner levels — guidance and tutor-style prompting for beginners, richer open-ended integration for advanced learners. The seven guidelines align with the broader shift from seeing [[generative-ai|GenAI]] as an answer-provider to treating it as a scaffolded partner in [[cs-education|CS education]] and CT, and echo the knowledge base's emphasis on distinguishing genuine [[learning-gains|learning]] from mere performance (see [[genai-performance-vs-learning]]).
 
 ## Connected Concepts
 

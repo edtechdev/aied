@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 ---
 
-> **CS Education** — computer science education is the most-researched STEM subfield in the wiki, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
+> **CS Education** — computer science education is the most-researched STEM subfield in the knowledge base, benefiting from natural alignment between AI tools and programming tasks. Code generation, debugging assistance, and automated code review are its primary AI applications. Because students learn to build the very tools they use, CS education sits at the center of debates about AI literacy, curriculum redesign, agentic software engineering, and the boundary between genuine learning and [[cognitive-offloading|over-reliance]].
 
 ### AI in CS education
 

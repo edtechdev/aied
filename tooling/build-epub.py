@@ -140,16 +140,16 @@ This volume is licensed under the **Creative Commons CC0 1.0 Universal
 (CC0) Public Domain Dedication** — no rights reserved. You may copy, modify,
 distribute, and use the content for any purpose without asking permission.
 
-*Generated {today} from the AI in Education Wiki
+*Generated {today} from the AI in Education Knowledge Base
 (https://edtechdev.github.io/aied/).*
 """)
 
 # Home intro
 parts.append("""# Introduction
 
-Welcome to the **AI in Education Knowledge Base** — a living, open knowledge base on artificial intelligence in education, built for educators, researchers, and developers who want to keep pace with a fast-moving field. Whether you teach in higher education or K-12, design courses and learning experiences, develop educational software, administer programs, or study teaching and learning, this wiki distills recent open-access research into concise, structured summaries you can read and apply quickly. The site is **generated and maintained by an AI agent**, and is updated regularly as new open-access research is published.
+Welcome to the **AI in Education Knowledge Base** — a living, open knowledge base on artificial intelligence in education, built for educators, researchers, and developers who want to keep pace with a fast-moving field. Whether you teach in higher education or K-12, design courses and learning experiences, develop educational software, administer programs, or study teaching and learning, this knowledge base distills recent open-access research into concise, structured summaries you can read and apply quickly. The site is **generated and maintained by an AI agent**, and is updated regularly as new open-access research is published.
 
-Each article page condenses a paper into its purpose, methods, and practical findings, with an APA citation and links to related work. The wiki continuously **ingests open-access research** from arXiv, EdArXiv, and peer-reviewed journals — so you can track emerging findings on topics such as AI tutoring, assessment, AI literacy, feedback, and equity in AI education.
+Each article page condenses a paper into its purpose, methods, and practical findings, with an APA citation and links to related work. The knowledge base continuously **ingests open-access research** from arXiv, EdArXiv, and peer-reviewed journals — so you can track emerging findings on topics such as AI tutoring, assessment, AI literacy, feedback, and equity in AI education.
 
 **AI in Education (AIED)** is the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. It spans **AI for education** — using AI to improve instruction, assessment, and administration — and **education about AI** — building the AI literacy and critical understanding learners and educators need.
 """)
@@ -157,7 +157,7 @@ Each article page condenses a paper into its purpose, methods, and practical fin
 # Use with AI
 parts.append("""# Use This Knowledge Base with Your Own AI Assistant
 
-This knowledge base is **agent-ready**: the full catalog and content are published as machine-readable text files that any AI chatbot, coding agent, or LLM tool can ingest. Give your assistant a link to the wiki and it can answer questions about AI in education research with citations back to the wiki. Before asking, check the FAQ section — it may already have answers to common questions.
+This knowledge base is **agent-ready**: the full catalog and content are published as machine-readable text files that any AI chatbot, coding agent, or LLM tool can ingest. Give your assistant a link to the knowledge base and it can answer questions about AI in education research with citations back to the knowledge base. Before asking, check the FAQ section — it may already have answers to common questions.
 
 **Quick start.** Point your AI assistant at one of these files — most tools can read a URL directly:
 
@@ -168,10 +168,10 @@ This knowledge base is **agent-ready**: the full catalog and content are publish
 
 **Copy-paste prompt.** Paste this into your AI chatbot or agent to use the knowledge base as a research reference:
 
-> You are a research assistant for AI in education. Use the AI in Education Wiki as your knowledge base.
+> You are a research assistant for AI in education. Use the AI in Education Knowledge Base as your knowledge base.
 > 1. First fetch the catalog: https://edtechdev.github.io/aied/llms.txt (If you need full text of specific pages, fetch them from https://edtechdev.github.io/aied/llms-full.txt or the individual page URLs.)
-> 2. When answering questions about AI in education research, ground your answer in articles and concepts from this wiki. Cite the wiki page title and URL for every claim you make from it.
-> 3. If asked about a topic, synthesize across multiple related articles and concepts rather than relying on a single page. Mention when the wiki does not cover a topic instead of guessing.
+> 2. When answering questions about AI in education research, ground your answer in articles and concepts from this knowledge base. Cite the knowledge base page title and URL for every claim you make from it.
+> 3. If asked about a topic, synthesize across multiple related articles and concepts rather than relying on a single page. Mention when the knowledge base does not cover a topic instead of guessing.
 > 4. Recommend related articles and concepts when relevant.
 
 **Notes for agents.** The knowledge base covers AI in education research: tutoring, assessment, feedback, AI literacy, teacher AI competency, policy, and more. Articles include APA citations; the original paper links are in each citation. Concept pages synthesize the related articles — start there for overviews.
@@ -191,7 +191,13 @@ for heading, groups in sections:
             parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
 
 # FAQs
-parts.append("\n# Frequently Asked Questions\n")
+parts.append("""# Frequently Asked Questions
+
+This section answers common questions about **AI in education** — what the research says about how AI affects teaching and learning, and how educators, instructors, and instructional designers can put that evidence into practice. Each answer distills findings from the research summarized across this knowledge base, connecting the question to the relevant concepts and articles for deeper reading.
+
+The questions are grouped by the kinds of decisions people actually face: designing AI into the learning experience, developing educational AI software, incorporating AI literacy, redesigning assessment, reducing misuse, evaluating AI-related interventions, and the competencies faculty need. If you are new to the field, the FAQ on the top ten findings is a good place to start.
+
+""")
 for path in sorted(glob.glob(os.path.join(FAQS_DIR, '*.md'))):
     slug = os.path.basename(path)[:-3]
     title, body = process_md(path, slug, 3)  # FAQ at H3
@@ -202,5 +208,62 @@ md_path = os.path.join(WIKI, 'dist', 'aied-export.md')
 os.makedirs(os.path.dirname(md_path), exist_ok=True)
 with open(md_path, 'w', encoding='utf-8') as f:
     f.write(combined)
-
 print(f"Wrote {md_path}: {len(combined.splitlines())} lines")
+
+
+def build_epub():
+    """Run pandoc to produce aied.epub, then post-process to left-align the TOC."""
+    today = datetime.date.today()
+    date_str = today.strftime('%B %d, %Y')
+    cmd = [
+        'pandoc', md_path, '-o', OUT,
+        '--metadata', 'title=AI in Education Knowledge Base',
+        '--metadata', 'author=Edited by Doug Holton',
+        '--metadata', 'rights=CC0 1.0 Universal Public Domain Dedication',
+        '--metadata', 'lang=en',
+        '--metadata', f'date={date_str}',
+        '--split-level=3',
+        '--epub-cover-image=' + os.path.join(WIKI, 'public', 'epub-cover.png'),
+        '--toc', '--toc-depth=3',
+    ]
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode != 0:
+        print('pandoc error:', r.stderr)
+        return False
+
+    # Post-process: left-align TOC page/section names. Some readers center
+    # nav.toc list items by default; force left alignment and undent lists.
+    import zipfile, shutil
+    css_rule = """
+
+/* Left-align the EPUB table of contents (some readers center it by default). */
+nav#toc, nav#toc ol, nav#toc li, nav#toc a {
+  text-align: left;
+}
+nav#toc ol {
+  list-style: none;
+  margin: 0;
+  padding-left: 1.2em;
+}
+nav#toc li {
+  margin: 0.15em 0;
+}
+nav#toc > ol {
+  padding-left: 0;
+}
+"""
+    tmp = OUT + '.tmp'
+    with zipfile.ZipFile(OUT, 'r') as zin, zipfile.ZipFile(tmp, 'w', zipfile.ZIP_DEFLATED) as zout:
+        for item in zin.infolist():
+            data = zin.read(item.filename)
+            if item.filename.endswith('.css'):
+                data += css_rule.encode('utf-8')
+            zout.writestr(item, data)
+    shutil.move(tmp, OUT)
+    print(f"Built {OUT} ({os.path.getsize(OUT)} bytes)")
+    return True
+
+
+if __name__ == '__main__':
+    build_epub()
+

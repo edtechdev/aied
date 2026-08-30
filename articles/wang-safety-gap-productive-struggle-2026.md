@@ -28,9 +28,9 @@ Defined as the widening chasm between the **surface-level competence** a student
 - Prioritize **process-based [[assessment]]** over final outputs.
 - Use **Socratic and Adversarial AI architectures** that preserve productive struggle.
 
-## Relevance to the wiki
+## Relevance to the knowledge base
 
-This perspective paper is a strong conceptual argument linking productive-struggle/[[productive-failure]] pedagogy to AI design, complementing the critique of Oracle-style answer-giving models. It connects directly to [[cognitive-offloading]] (AI that substitutes for effort erodes capacity), [[scaffolding]] (support that preserves rather than bypasses effort), and [[socratic-method]] (withholding answers to provoke reasoning). The "Safety Gap" concept is useful for the wiki's discussion of AI reliance, [[trust]], and [[student-experience]].
+This perspective paper is a strong conceptual argument linking productive-struggle/[[productive-failure]] pedagogy to AI design, complementing the critique of Oracle-style answer-giving models. It connects directly to [[cognitive-offloading]] (AI that substitutes for effort erodes capacity), [[scaffolding]] (support that preserves rather than bypasses effort), and [[socratic-method]] (withholding answers to provoke reasoning). The "Safety Gap" concept is useful for the knowledge base's discussion of AI reliance, [[trust]], and [[student-experience]].
 
 ## Connected Concepts
 

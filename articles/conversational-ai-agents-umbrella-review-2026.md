@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-For [[intelligent-tutoring]] and [[pedagogical-agent|pedagogical agents]], this review reinforces the finding that conversational agents are valued for teaching and metacognitive support, and that design must be grounded in HCI and empirical evidence rather than fragmented technical implementation. The persistence of [[cognitive-offloading|over-reliance]] concerns as the leading ethical issue connects directly to the wiki's over-reliance and human-AI-collaboration threads, and the call for stronger AI-literacy support aligns with [[ai-literacy]] frameworks and [[reducing-ai-misuse]].
+For [[intelligent-tutoring]] and [[pedagogical-agent|pedagogical agents]], this review reinforces the finding that conversational agents are valued for teaching and metacognitive support, and that design must be grounded in HCI and empirical evidence rather than fragmented technical implementation. The persistence of [[cognitive-offloading|over-reliance]] concerns as the leading ethical issue connects directly to the knowledge base's over-reliance and human-AI-collaboration threads, and the call for stronger AI-literacy support aligns with [[ai-literacy]] frameworks and [[reducing-ai-misuse]].
 
 The roadmap's emphasis on participatory design, ethical [[governance]], and continuous cognitive-impact evaluation offers a practical scaffolding for [[educational-policy-ai|policy]] and course/module design. The identified gaps — notably weak CAI-specific usability and unclear classroom orchestration — point to design opportunities for tutors, [[feedback]] systems, and teacher-role integration.
 

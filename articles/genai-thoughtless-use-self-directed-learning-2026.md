@@ -26,7 +26,7 @@ A quantitative study grounded in Social Cognitive Theory. 487 undergraduates fro
 
 ## Implications for AI in Education
 
-The study links the risk of [[cognitive-offloading|unreflective AI reliance]] to the erosion of students' capacity for [[self-directed-learning|self-directed learning]], [[self-efficacy]], and [[motivation]] — and shows these harms are not gender-neutral. For institutions, it reinforces the value of promoting [[ai-literacy|responsible AI use]] that preserves critical evaluation and independent learning rather than simply banning or uncritically encouraging GenAI. Because motivation is the strongest lever on SDL, and thoughtless use suppresses it, interventions that rebuild [[agency|learner agency]] and self-efficacy may buffer the negative effects of AI overreliance — a concern shared with the wiki's [[ai-misuse-learning-harm|misuse-and-harm]] and [[cognitive-offloading|over-reliance]] literature.
+The study links the risk of [[cognitive-offloading|unreflective AI reliance]] to the erosion of students' capacity for [[self-directed-learning|self-directed learning]], [[self-efficacy]], and [[motivation]] — and shows these harms are not gender-neutral. For institutions, it reinforces the value of promoting [[ai-literacy|responsible AI use]] that preserves critical evaluation and independent learning rather than simply banning or uncritically encouraging GenAI. Because motivation is the strongest lever on SDL, and thoughtless use suppresses it, interventions that rebuild [[agency|learner agency]] and self-efficacy may buffer the negative effects of AI overreliance — a concern shared with the knowledge base's [[ai-misuse-learning-harm|misuse-and-harm]] and [[cognitive-offloading|over-reliance]] literature.
 
 ## Connected Concepts
 

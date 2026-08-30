@@ -12,7 +12,7 @@ confidence: high
 
 > **[[pedagogy|Pedagogical]] safety** — the design principle that [[ai-education|AI education]] systems must protect learners from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for [[k-12]] contexts, where the stakes of harm are highest and learners are least equipped to detect it.
 
-Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[ai-tutor-safety-harms|harm taxonomies]] emerging from the wiki's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
+Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[ai-tutor-safety-harms|harm taxonomies]] emerging from the knowledge base's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
 
 ### Content safety and guardrails
 

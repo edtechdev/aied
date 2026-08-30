@@ -23,7 +23,7 @@ confidence: high
 
 ## Implications for AI in Education
 
-The paper is a [[research-methods-aied|methodological]] contribution showing that [[learning-analytics]] can be *theory-anchored* — mapping measurement facets to an activity system — and still be feasible in a single small class (no large-sample statistics or full network reconstruction required). For practice, it offers instructors an interpretable, effect-size-centered workflow for tracking social-epistemic integration in discussion-based AI literacy courses and flagging at-risk participation early. It connects CHAT to the wiki's [[ai-literacy]] and [[icap-framework|ICAP]] concepts, positioning [[activity-theory-aied|activity theory]] as an analytic lens for the learning-analytics side of [[ai-education|AI in education]].
+The paper is a [[research-methods-aied|methodological]] contribution showing that [[learning-analytics]] can be *theory-anchored* — mapping measurement facets to an activity system — and still be feasible in a single small class (no large-sample statistics or full network reconstruction required). For practice, it offers instructors an interpretable, effect-size-centered workflow for tracking social-epistemic integration in discussion-based AI literacy courses and flagging at-risk participation early. It connects CHAT to the knowledge base's [[ai-literacy]] and [[icap-framework|ICAP]] concepts, positioning [[activity-theory-aied|activity theory]] as an analytic lens for the learning-analytics side of [[ai-education|AI in education]].
 
 ## Connected Concepts
 - [[activity-theory-aied]]

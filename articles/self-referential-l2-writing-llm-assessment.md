@@ -24,7 +24,7 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 ## Implications for AIED
 This connects to [[automated-assessment|Automated Grading]] but challenges its dominant evaluation paradigm. The finding that LLMs are strong at weakness detection but weaker at strength identification has practical implications for [[formative-assessment]] design — AI might best serve as a **complementary weakness detector** while teachers focus on strengths.
 The self-referential approach aligns with [[personalized-learning]] goals and the [[ai-learning-companions-framework]] emphasis on prioritizing learning over performance. It extends [[writing-education]] research on AI in composition and connects to [[automated-question-generation]] work on AI-generated assessment. The use of Rasch modeling for calibration connects to [[ground-truth-reliability-aied]] calls for more rigorous measurement in AIED.
-## Connections to Wiki
+## Connections to Knowledge Base
 - Paradigm shift from [[automated-assessment|Automated Grading]] ranking to profiling
 - Aligns with [[sequenced-ai-feedback-learning]] emphasis on feedback quality over quantity
 - Extends [[llm-student-modeling-memory]] to assessment contexts — profiling over time

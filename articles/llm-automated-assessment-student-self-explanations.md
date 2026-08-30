@@ -24,7 +24,7 @@ The authors address a critical gap: high-quality, [[discipline-specific-aied|dom
 - **Method comparison**: LLM-based scoring versus semantic similarity methods, with systematic evaluation
 - **Practical implications**: Guidance for building [[feedback|automated feedback]] systems in [[programming-its|programming education]]
 
-## Connection to Wiki
+## Connection to Knowledge Base
 
 This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[cong-confidence-asag-2026]] and [[structured-llm-feedback-programming]] by focusing on the [[formative-assessment|formative]], [[metacognition|metacognitive]] dimension of student learning rather than [[summative-assessment|summative]] evaluation.
 

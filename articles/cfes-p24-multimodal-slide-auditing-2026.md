@@ -15,7 +15,7 @@ confidence: high
 
 ## The problem with holistic ratings
 
-Multimodal LLMs are increasingly used to evaluate educational materials such as slides. But a single holistic rating obscures a critical question: **does the model actually respond to a particular instructional-design construct**, or is it just producing a plausible-sounding overall judgment? Naturally occurring slides contain several weaknesses at once, and a preference for one deck over another does not reveal whether the decision reflects an instructional principle, a visual preference, or an unnoticed textual cue. This is a validity concern central to [[ai-ed-evaluation|AI-based evaluation]] of educational content — the same tension between aggregate accuracy and construct-level fidelity the wiki treats under [[assessment-validity]] and [[benchmark]].
+Multimodal LLMs are increasingly used to evaluate educational materials such as slides. But a single holistic rating obscures a critical question: **does the model actually respond to a particular instructional-design construct**, or is it just producing a plausible-sounding overall judgment? Naturally occurring slides contain several weaknesses at once, and a preference for one deck over another does not reveal whether the decision reflects an instructional principle, a visual preference, or an unnoticed textual cue. This is a validity concern central to [[ai-ed-evaluation|AI-based evaluation]] of educational content — the same tension between aggregate accuracy and construct-level fidelity the knowledge base treats under [[assessment-validity]] and [[benchmark]].
 
 ## CFES-P24 design
 
@@ -60,7 +60,7 @@ Both sham calls were correctly classified as having **no material difference**. 
 - **Layered scorecards, not composite scores.** The paper argues for reporting perceptual grounding (operation, evidence), construct mapping (principle, repair), comparative judgment (direction), and calibration (severity) as *separate* layers, so disagreement is interpretable and a system can abstain on [[pedagogy|pedagogical]] consequence while still offering a verifiable repair. A composite score would have concealed the error pattern entirely.
 - **Confidence is not reliability.** GPT-5.4's two direction errors were made at high confidence, showing that confidence does not resolve construct-level failures.
 - **Severity must be parameter-grounded.** Future versions should replace presumed learning-impact severity with magnitude grounded in measurable edit properties (label–target distance, duplicated-text proportion, cue coverage) and keep claims about learning consequences separate.
-- **Distinguish "registered" from "completed."** The paper models rigor by keeping the registered design, generated artifact, and model status distinct — relevant to the wiki's [[ai-ed-evaluation]] and [[benchmark]] literatures on honest evaluation of [[ai-education|AI in education]].
+- **Distinguish "registered" from "completed."** The paper models rigor by keeping the registered design, generated artifact, and model status distinct — relevant to the knowledge base's [[ai-ed-evaluation]] and [[benchmark]] literatures on honest evaluation of [[ai-education|AI in education]].
 - **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a research protocol, not a classroom-ready product; it establishes no learning gains or [[teacher-role|teacher]] agreement.
 
 ## Connected Concepts

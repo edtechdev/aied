@@ -25,7 +25,7 @@ confidence: high
 
 **Moderating factors from qualitative data.** Thematic analysis of open-ended responses surfaced awareness of hallucinations (n = 15), [[trust]] in ChatGPT responses (n = 11), time constraints (n = 6), and training-modality suggestions (n = 7) as factors shaping inoculation effectiveness and verification behavior; perceived usefulness of the message was rated high (four items, M = 21.40, SD = 3.83, α = .80), and participants could enter a raffle for five $20 Amazon gift cards or receive SONA credits/$10 as incentives.
 
-**Pedagogical implication.** The authors offer recommendations for designing brief, scalable inoculation messages and training tailored to different student groups to support more responsible and safe use of ChatGPT, aligning with the wiki's [[ai-literacy]] and [[reducing-ai-misuse]] concerns; limitations include a convenience sample of self-reported ChatGPT users (782 recruited, 100 valid cases), reliance on a single generic message rather than specific, detailed refutations, and one coder for the qualitative analysis.
+**Pedagogical implication.** The authors offer recommendations for designing brief, scalable inoculation messages and training tailored to different student groups to support more responsible and safe use of ChatGPT, aligning with the knowledge base's [[ai-literacy]] and [[reducing-ai-misuse]] concerns; limitations include a convenience sample of self-reported ChatGPT users (782 recruited, 100 valid cases), reliance on a single generic message rather than specific, detailed refutations, and one coder for the qualitative analysis.
 
 ## Connected Concepts
 

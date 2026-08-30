@@ -12,7 +12,7 @@ category: [assessment]
 
 ## 1. Guardrailed AI tools: "hint, don't answer"
 
-Configure any AI students use so it [[scaffolding|scaffolds]] rather than reveals. The strongest causal finding in the wiki is a field [[rct]] where an **unguarded** ChatGPT-style tutor raised assisted-practice performance **+48%** but *reduced* unassisted exam scores **−17%**; a **guardrailed** tutor (hints instead of answers, plus teacher-authored problem information) eliminated the harm entirely.^[[generative-ai-guardrails-harm-learning]] A large study of 26,811 students found homework outsourcing raised homework scores 18% but *lowered* closed-book exam scores 20% within six months — the exact harm [[guardrails]] and unassisted measures are designed to prevent.^[[stromberg-generative-ai-learning-penalty-secondary-2026]]
+Configure any AI students use so it [[scaffolding|scaffolds]] rather than reveals. The strongest causal finding in the knowledge base is a field [[rct]] where an **unguarded** ChatGPT-style tutor raised assisted-practice performance **+48%** but *reduced* unassisted exam scores **−17%**; a **guardrailed** tutor (hints instead of answers, plus teacher-authored problem information) eliminated the harm entirely.^[[generative-ai-guardrails-harm-learning]] A large study of 26,811 students found homework outsourcing raised homework scores 18% but *lowered* closed-book exam scores 20% within six months — the exact harm [[guardrails]] and unassisted measures are designed to prevent.^[[stromberg-generative-ai-learning-penalty-secondary-2026]]
 
 **Concrete examples:**
 - Set the tutor to give incremental, [[socratic-method|Socratic]] hints rather than the next answer step.

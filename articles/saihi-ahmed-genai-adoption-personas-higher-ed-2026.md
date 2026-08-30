@@ -36,9 +36,9 @@ The personas are profiled using demographic and contextual characteristics (role
 
 The study offers actionable guidance for tailoring chatbot onboarding, training, and support to specific user needs rather than assuming uniform adoption. By equipping institutions with a data-driven segmentation tool, it supports more inclusive, human-centered [[ai-education]] integration strategies. The authors emphasize that without understanding user diversity, even advanced AI technologies may fail to deliver value or exacerbate existing inequalities in digital readiness and inclusion — a point that ties the work to [[ai-literacy]], [[student-experience]], and [[ethics]] in institutional AI deployment.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
-This article provides an empirical, person-centered complement to the wiki's coverage of AI adoption and acceptance in [[higher-ed]]. It directly engages the [[technology-acceptance-model]] concept and connects it to [[trust]], [[conversational-ai]], and [[student-ai-interaction]]. It also speaks to [[faculty-development]] and [[teacher-role]] by highlighting how educators and students differ in their concerns and support needs, and to [[governance]] by informing differentiated deployment strategies.
+This article provides an empirical, person-centered complement to the knowledge base's coverage of AI adoption and acceptance in [[higher-ed]]. It directly engages the [[technology-acceptance-model]] concept and connects it to [[trust]], [[conversational-ai]], and [[student-ai-interaction]]. It also speaks to [[faculty-development]] and [[teacher-role]] by highlighting how educators and students differ in their concerns and support needs, and to [[governance]] by informing differentiated deployment strategies.
 
 ## Connected Concepts
 

@@ -20,7 +20,7 @@ confidence: high
 
 ## Prompt Engineering and Feedback Quality
 
-The study directly interrogates [[prompt-engineering]] as a determinant of GenAI feedback quality. The Zero-shot prompt gave ChatGPT a direct instruction to generate feedback from an argumentation rubric, while the CoT prompt guided the model through a step-by-step evaluation with an elaborated example. One-way ANOVA (F(2,67) = 6.09, p = .004, ηp² = 0.15) showed CoT feedback (M=12.90) significantly outperformed both Zero-shot (M=11.25, p=.01) and teacher feedback (M=11.20, p=.008), with no significant difference between Zero-shot and teacher. The authors interpret this as CoT's stepwise reasoning aligning GenAI outputs more closely with the cognitive demands of argumentative writing — and frame prompt design within explainable AI principles. This is a valuable empirical contribution to the wiki's [[prompt-engineering]] and [[ai-feedback-quality]] concepts.
+The study directly interrogates [[prompt-engineering]] as a determinant of GenAI feedback quality. The Zero-shot prompt gave ChatGPT a direct instruction to generate feedback from an argumentation rubric, while the CoT prompt guided the model through a step-by-step evaluation with an elaborated example. One-way ANOVA (F(2,67) = 6.09, p = .004, ηp² = 0.15) showed CoT feedback (M=12.90) significantly outperformed both Zero-shot (M=11.25, p=.01) and teacher feedback (M=11.20, p=.008), with no significant difference between Zero-shot and teacher. The authors interpret this as CoT's stepwise reasoning aligning GenAI outputs more closely with the cognitive demands of argumentative writing — and frame prompt design within explainable AI principles. This is a valuable empirical contribution to the knowledge base's [[prompt-engineering]] and [[ai-feedback-quality]] concepts.
 
 ## Why Quality Did Not Translate into Revision Gains
 
@@ -28,11 +28,11 @@ The finding that teacher feedback — rated lower in quality — produced compar
 
 ## Implications for Practice
 
-The authors advocate for **hybrid intelligent feedback systems** in which teachers [[scaffolding|scaffold]] students' interpretation and application of GenAI feedback, rather than treating AI as a standalone replacement for the instructor. This aligns the paper with the wiki's [[human-ai-collaboration]] and [[teacher-role]] concepts, and with [[writing-education]] practice: GenAI can generate rich, structured, scalable feedback, but the human teacher remains essential for helping students engage with it meaningfully. For [[assessment]] and [[formative-assessment]], the result cautions against assuming better AI feedback automatically yields better learning.
+The authors advocate for **hybrid intelligent feedback systems** in which teachers [[scaffolding|scaffold]] students' interpretation and application of GenAI feedback, rather than treating AI as a standalone replacement for the instructor. This aligns the paper with the knowledge base's [[human-ai-collaboration]] and [[teacher-role]] concepts, and with [[writing-education]] practice: GenAI can generate rich, structured, scalable feedback, but the human teacher remains essential for helping students engage with it meaningfully. For [[assessment]] and [[formative-assessment]], the result cautions against assuming better AI feedback automatically yields better learning.
 
-## Relevance to the Wiki
+## Relevance to the Knowledge Base
 
-This is a tightly controlled experimental contribution to the wiki's feedback cluster. It provides causal, comparative evidence that links [[ai-feedback-quality]], [[prompt-engineering]], and learning outcomes in [[higher-ed]], and it resonates strongly with the wiki's existing coverage of AI-generated feedback, essay scoring, and teacher-vs-AI comparisons. It also gives concrete guidance for [[instructional-design]]: prompt technique matters for feedback quality, but [[pedagogy]] (scaffolding uptake) matters for learning.
+This is a tightly controlled experimental contribution to the knowledge base's feedback cluster. It provides causal, comparative evidence that links [[ai-feedback-quality]], [[prompt-engineering]], and learning outcomes in [[higher-ed]], and it resonates strongly with the knowledge base's existing coverage of AI-generated feedback, essay scoring, and teacher-vs-AI comparisons. It also gives concrete guidance for [[instructional-design]]: prompt technique matters for feedback quality, but [[pedagogy]] (scaffolding uptake) matters for learning.
 
 ## Connected Concepts
 

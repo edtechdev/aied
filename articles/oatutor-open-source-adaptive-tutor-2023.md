@@ -42,7 +42,7 @@ Problems are tagged with skills at the step level via a centralized skill model.
 
 OATutor's design goal is replicability: researchers can run experiments on OATutor, then publish the entire end-to-end framework, content, and platform as a GitHub link for others to replicate, compare, and build on. The open-source, transparent nature also fosters trust and wider adoption. The work is positioned within broader open movements in education — [[open-source]] educational resources, open datasets, and open algorithms (e.g., pyBKT) — and argues it is "long past due" for an ITS-based platform to join them.
 
-## Connection to the wiki
+## Connection to the knowledge base
 
 OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tutoring]] research infrastructure, and a companion system for evaluating [[generative-ai]] tutoring capabilities (see the companion learning-gain study). It connects to [[knowledge-tracing]] (BKT mastery estimation), [[personalized-learning]], and [[math-education]], and its open platform model is directly relevant to the [[intelligent-tutoring|AI Tutoring]] evidence base and to the automated authoring challenges explored in [[ai-tutor-authoring-promptdecipher]].
 
