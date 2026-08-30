@@ -4,8 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import { CONCEPT_REDIRECTS } from '../../data/conceptRedirects';
-import GithubSlugger from 'github-slugger';
 import StarButton from '../../components/StarButton.astro';
+import { renderMarkdown } from '../../lib/markdown';
 
 export async function getStaticPaths() {
   const concepts = await getCollection('concepts');
@@ -28,6 +28,8 @@ if (!concept) return Astro.redirect('/aied/');
 
 // For canonical wikilink routing: map slug -> canonical base path
 const articleSlugs = new Set(articles.map(a => a.id.replace('.md', '')));
+const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
+const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
 const faqById = new Map(faqs.map(f => [f.id.replace('.md', ''), f]));
 
 // Connected FAQs: slugs in frontmatter `connected_faqs`
@@ -58,157 +60,7 @@ const connectedConceptSlugs = (body.match(/^## Connected Concepts\s*\n([\s\S]*?)
   .map(l => l.match(/\[\[([^\]|]+)/)?.[1])
   .filter(Boolean);
 
-function splitTableCells(line: string): string[] {
-  const cells: string[] = [];
-  let cur = '';
-  let inLink = false;
-  for (let i = 0; i < line.length; i++) {
-    const ch = line[i];
-    if (ch === '[' && line[i + 1] === '[') inLink = true;
-    else if (ch === ']' && line[i + 1] === ']') inLink = false;
-    if (ch === '|' && !inLink) { cells.push(cur); cur = ''; }
-    else { cur += ch; }
-  }
-  cells.push(cur);
-  return cells;
-}
-
-function stripInlineTags(html: string): string {
-  return html.replace(/<[^>]+>/g, '');
-}
-
-function renderMarkdown(text: string, pageTitle: string): { html: string; headings: { text: string; slug: string; depth: number }[] } {
-  let html = '';
-  const headings: { text: string; slug: string; depth: number }[] = [];
-  const slugger = new GithubSlugger();
-  let inBlockquote = false;
-  let inTable = false;
-  let inTableHead = true;
-  const listStack: { indent: number; type: string }[] = [];
-
-  const closeListsTo = (indent: number) => {
-    while (listStack.length && listStack[listStack.length - 1].indent >= indent) {
-      html += `</${listStack.pop()!.type}>`;
-    }
-  };
-  const closeAllLists = () => closeListsTo(0);
-
-  const heading = (level: number, raw: string) => {
-    closeAllLists();
-    const inner = renderInline(raw);
-    const text = stripInlineTags(inner);
-    const slug = slugger.slug(text) || 'section';
-    headings.push({ text, slug, depth: level });
-    html += `<h${level} id="${slug}"><a class="heading-anchor" href="#${slug}" aria-hidden="true"></a>${inner}</h${level}>`;
-  };
-
-  for (const line of text.split('\n')) {
-    const trimmed = line.trim();
-    const indent = line.match(/^\s*/)![0].length;
-
-    if (trimmed.startsWith('> ')) {
-      closeAllLists();
-      if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
-      if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
-      html += `<p>${renderInline(trimmed.slice(2))}</p>`;
-      continue;
-    }
-    if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
-
-    // Skip H1 matching page title
-    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) { closeAllLists(); continue; }
-
-    if (trimmed.startsWith('### ')) { heading(3, trimmed.slice(4)); continue; }
-    if (trimmed.startsWith('## ')) { heading(2, trimmed.slice(3)); continue; }
-    if (trimmed.startsWith('# ')) { closeAllLists(); html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
-
-    // Tables
-    if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
-      closeAllLists();
-      const cells = splitTableCells(trimmed).slice(1, -1).map(c => c.trim());
-      if (cells.every(c => /^:?-{3,}:?$/.test(c))) {
-        inTableHead = false;
-        continue;
-      }
-      if (!inTable) {
-        html += '<table>';
-        inTable = true;
-        inTableHead = true;
-      }
-      if (inTableHead) {
-        html += '<thead><tr>' + cells.map(c => `<th>${renderInline(c)}</th>`).join('') + '</tr></thead><tbody>';
-        inTableHead = false;
-      } else {
-        html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
-      }
-      continue;
-    }
-
-    if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
-
-    // Lists (unordered: -, * | ordered: 1., 2. ...)
-    const listMatch = trimmed.match(/^([-*]|\d+\.)\s+(.*)$/);
-    if (listMatch) {
-      const marker = listMatch[1];
-      const type = /^\d/.test(marker) ? 'ol' : 'ul';
-      const content = listMatch[2];
-      // If we're already in a list at a deeper indent, close back to our level
-      if (listStack.length && indent < listStack[listStack.length - 1].indent) {
-        closeListsTo(indent);
-      }
-      // Open a new list level if needed (first item, or deeper indent)
-      if (!listStack.length || listStack[listStack.length - 1].type !== type || indent > listStack[listStack.length - 1].indent) {
-        html += `<${type}>`;
-        listStack.push({ indent, type });
-      }
-      html += `<li>${renderInline(content)}</li>`;
-      continue;
-    }
-
-    if (/^[-*]{3,}$/.test(trimmed)) { closeAllLists(); html += '<hr>'; continue; }
-    closeAllLists();
-    if (!trimmed) { html += ''; continue; }
-
-    html += `<p>${renderInline(trimmed)}</p>`;
-  }
-
-  closeAllLists();
-  if (inTable) html += '</tbody></table>';
-  if (inBlockquote) html += '</blockquote>';
-  return { html, headings };
-}
-
-function smartTitle(label: string): string {
-  const KNOWN: Record<string, string> = {
-    'ai': 'AI', 'llm': 'LLM', 'rag': 'RAG', 'nlp': 'NLP',
-    'k-12': 'K-12', 'irt': 'IRT', 'its': 'ITS', 'rct': 'RCT',
-    'stem': 'STEM', 'cs': 'CS', 'ide': 'IDE', 'api': 'API',
-    'srl': 'SRL', 'lms': 'LMS', 'mooc': 'MOOC', 'vr': 'VR',
-    'ar': 'AR', 'ui': 'UI', 'ux': 'UX', 'sdk': 'SDK',
-    'tpack': 'TPACK', 'asag': 'ASAG', 'kt': 'KT',
-    'rl': 'RL', 'ml': 'ML', 'xai': 'XAI',
-    'genai': 'GenAI', 'aied': 'AIED', 'pjbl': 'PjBL',
-    'hci': 'HCI', 'zpd': 'ZPD',
-  };
-  return label.replace(/\b\w+\b/g, w => KNOWN[w.toLowerCase()] || (w[0].toUpperCase() + w.slice(1)));
-}
-
-function renderInline(text: string): string {
-  return text
-    .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
-      const page = p.replace('.md', '').trim();
-      const label = l || smartTitle(page.replace(/-/g, ' '));
-      const base = articleSlugs.has(page) ? '/aied/articles' : '/aied/concepts';
-      return `<a href="${base}/${page}">${label}</a>`;
-    })
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/`([^`]+)`/g, '<code>$1</code>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
-    .replace(/doi:(\S+)/g, '<a href="https://doi.org/$1">doi:$1</a>');
-}
-
-const rendered = renderMarkdown(body, title);
+const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs });
 const toc = rendered.headings.filter(h => h.depth <= 3);
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
