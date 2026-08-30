@@ -1,11 +1,12 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-30T18:00:00-04:00"
+updated: "2026-08-30T18:30:00-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 discipline: [language learning, writing education]
 level: [higher ed]
+connected_faqs: [developing-ai-tutor]
 confidence: high
 ---
 
@@ -34,6 +35,18 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 Because writing is a cognitive process, AI-in-writing research connects to [[cognitive-offloading]] (does AI writing support bypass thinking?), [[metacognition]] (does AI feedback improve self-assessment?), [[self-regulated-learning]] (do students regulate their use of AI feedback?), and [[ai-literacy]] (can students evaluate AI-generated writing critically?). The [[critical-thinking-genai-scaffolding|critical-thinking scaffolding]] and [[ai-feedback-critical-thinking-writing-2026|AI feedback for critical thinking]] research show that the [[pedagogy|pedagogical]] value of AI in writing depends on whether it prompts reflection and judgment rather than answer-replacement.
 
 [[layer-sensitive-cognitive-offloading-writing-2026|Chen (2026)]] sharpens this with a **layer-sensitive** account of [[cognitive-offloading|cognitive offloading]] in GenAI-assisted academic writing: delegating *deeper* layers (reasoning, argumentative logic) carries a stronger negative association with independent no-AI writing quality and [[critical-thinking|higher-order thinking]] than delegating surface layers (grammar, vocabulary). Open AI collaboration yielded the best supported product but the worst independent outcomes, while bounded support with reflection preserved competence — evidence that GenAI writing support is not uniformly harmful but its effect depends on which cognitive layer students delegate.
+
+### Designing AI writing support: coaching, not composing
+
+Because writing has no single correct answer, AI writing tools require a different design from answer-verifiable tutors. The knowledge base's design guidance (see the worked **AI writing coach** example in the FAQ on [[developing-ai-tutor|Designing an AI Tutor]]) centers on preserving authorship and evaluative judgment rather than producing finished text:
+
+- **Track writing capabilities, not just essay scores.** A writing coach's [[student-modeling|learner model]] can track argument (thesis specificity, claim–evidence alignment, counterargument), organization, evidence integration, revision, and style — so feedback targets capabilities that persist across essays.
+- **Ground feedback in the assignment.** Retrieve the actual prompt, rubric, course readings, citation and genre conventions, and AI-use policy so feedback references the specific assignment rather than inventing generic expectations.
+- **Treat writing stages differently.** AI involvement at planning reduces perceived ownership less than at drafting, and AI-generated drafting produces the largest ownership decrease. So a coach can ask questions and critique outlines at planning while requiring the learner to produce prose first at drafting.
+- **Make feedback prioritized and reflective.** Each round can offer one strength to preserve, one high-impact issue, one question requiring the writer's judgment, and one concrete revision goal — and the coach should ask learners to evaluate whether they agree with a suggestion, developing [[feedback-literacy|evaluative judgment]] rather than obedience.
+- **Preserve authorial voice and guard against homogenization.** The coach should distinguish errors, clarity issues, rhetorical choices, and style preferences — and not automatically "correct" the latter, especially for [[multilingual-learning|multilingual]] writers and non-standard rhetorical styles.
+
+This coaching-not-composing stance is the writing-domain expression of the knowledge base's overarching "[[coach-not-crutch-ai-writing|coach over crutch]]" boundary: identify the cognitive activity that produces learning (planning, drafting, evaluating, revising) and design the AI to support it without taking it away from the learner.
 
 ### Connections
 
