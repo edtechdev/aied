@@ -66,4 +66,4 @@ confidence: high
 
 ## Citation
 
-Liang, S., Yau, K. W., Meng, H., Chiu, T. K. F., King, I., Yam, Y., & Chai, C. S. (2026). [Does school-based AI education narrow readiness gaps? The role of prior agency-related learning. *Computers & Education, 256*, 105745](https://doi.org/10.1016/j.compedu.2026.105745)
+Liang, S., Yau, K. W., Meng, H., Chiu, T. K. F., King, I., Yam, Y., & Chai, C. S. (2026). [Does school-based AI education narrow readiness gaps? The role of prior agency-related learning](https://doi.org/10.1016/j.compedu.2026.105745). *Computers & Education, 256*, 105745.
