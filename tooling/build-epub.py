@@ -235,25 +235,17 @@ def build_epub():
         return False
 
     # Post-process: left-align TOC page/section names. Some readers center
-    # nav.toc list items by default; force left alignment and undent lists.
+    # nav.toc list items by default; force left alignment with !important and
+    # undent lists.
     import zipfile, shutil
     css_rule = """
-
 /* Left-align the EPUB table of contents (some readers center it by default). */
-nav#toc, nav#toc ol, nav#toc li, nav#toc a {
-  text-align: left;
-}
-nav#toc ol {
-  list-style: none;
-  margin: 0;
-  padding-left: 1.2em;
-}
-nav#toc li {
-  margin: 0.15em 0;
-}
-nav#toc > ol {
-  padding-left: 0;
-}
+nav#toc { text-align: left; }
+nav#toc * { text-align: left !important; }
+nav#toc ol, nav#toc ul { list-style: none; margin: 0; padding-left: 1.2em; }
+nav#toc li { margin: 0.15em 0; display: block; }
+nav#toc a { display: inline; }
+nav#toc > ol { padding-left: 0; }
 """
     tmp = OUT + '.tmp'
     with zipfile.ZipFile(OUT, 'r') as zin, zipfile.ZipFile(tmp, 'w', zipfile.ZIP_DEFLATED) as zout:
