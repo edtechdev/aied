@@ -18,8 +18,9 @@ h1 { font-size: 20pt; margin: 0 0 0.5em 0; }
 h2 { font-size: 15pt; border-bottom: 1px solid #ccc; padding-bottom: 0.2em; }
 h3 { font-size: 12.5pt; }
 h4 { font-size: 11pt; }
-/* Body links: keep visible but not garish (blue for links the reader should notice) */
-a { color: #1a1a1a; text-decoration: none; }
+/* Body links: blue so they look clickable (matching the TOC links) */
+a { color: #0b5aa0; text-decoration: none; }
+a:hover { text-decoration: underline; }
 p { margin: 0.5em 0; }
 ul, ol { margin: 0.5em 0 0.5em 1.5em; }
 li { margin: 0.15em 0; }
@@ -50,7 +51,8 @@ hr { border: none; border-top: 1px solid #ccc; }
   object-fit: contain;
 }
 
-/* Table of contents — make entries visibly clickable (blue) */
+/* Table of contents — make entries visibly clickable (blue). Numbering is
+   hard-coded into the heading text (like the EPUB), not via CSS counters. */
 #TOC {
   page-break-after: always;
 }
@@ -58,16 +60,11 @@ hr { border: none; border-top: 1px solid #ccc; }
   list-style: none;
   margin-left: 0;
 }
-#TOC > ul > li {
-  font-weight: bold;
-  margin-top: 6pt;
-}
-#TOC > ul > li > ul > li {
-  font-weight: 600;
-}
-#TOC > ul > li > ul > li > ul > li {
-  font-weight: normal;
-}
+#TOC > ul > li { margin-top: 6pt; }
+#TOC > ul > li > a { font-weight: bold; }
+#TOC li > ul > li > a { font-weight: 600; }
+#TOC li > ul > li > ul > li > a { font-weight: normal; }
+
 #TOC a {
   color: #0b5aa0;
   text-decoration: none;

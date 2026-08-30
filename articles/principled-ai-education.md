@@ -13,7 +13,7 @@ confidence: high
 
 > The framework rests on three interconnected anchors that must be addressed *before* selecting tools:
 
-> Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework anchored in three questions: What are our educational goals? What do we know about human learning? How can technologies serve those goals and models?^[[finkelstein-principled-ai-education-2025]]
+> Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework anchored in three questions: What are our educational goals? What do we know about human learning? How can technologies serve those goals and models?([[finkelstein-principled-ai-education-2025]])
 
 > **v2 update (Jul 2026).** A new preamble contextualizes the paper one year after initial sharing. Finkelstein argues that the critical question is not whether machines will match humans at every task, but *which skills, habits of mind, and practices must remain within the human purview to preserve our humanity and societies*. Three objectives for education stand out in the modern era: **discernment** (framing questions, validating and contextualizing answers, acting appropriately on results), **empathy** (understanding and sharing others' perspectives, the basis of communication and collaboration), and **sense of self** (understanding one's role, purpose, and belonging within a course, field, or culture). The original arguments and principles of action, he notes, remain relevant one year later.
 

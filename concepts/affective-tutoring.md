@@ -9,7 +9,7 @@ level: [k 12, higher ed]
 confidence: medium
 ---
 
-> Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^[[kar-mathbuddy-affective-math-tutoring-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
+> Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.([[kar-mathbuddy-affective-math-tutoring-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
 
 MathBuddy dynamically models student affect using two modalities:
 

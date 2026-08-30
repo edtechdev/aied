@@ -9,7 +9,7 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[oatutor-open-source-adaptive-tutor-2023]]
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]])([[oatutor-open-source-adaptive-tutor-2023]])
 
 The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
 
@@ -27,27 +27,27 @@ Platforms in AI in education perform several distinct functions:
 
 ### Take-up, not capability, is often the binding constraint
 
-A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.^[[access-not-enough-ai-tutoring-2026]]
+A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.([[access-not-enough-ai-tutoring-2026]])
 
 ### The platform model matters: open vs. proprietary
 
 - **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
-- **Open platforms** lower this barrier. **OATutor** is the first open-source adaptive tutoring system built on ITS principles — an MIT-licensed codebase with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation, and built-in A/B testing — letting researchers fork, experiment, and publish the full end-to-end system.^[[oatutor-open-source-adaptive-tutor-2023]]
+- **Open platforms** lower this barrier. **OATutor** is the first open-source adaptive tutoring system built on ITS principles — an MIT-licensed codebase with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation, and built-in A/B testing — letting researchers fork, experiment, and publish the full end-to-end system.([[oatutor-open-source-adaptive-tutor-2023]])
 
 ### AI-native platforms are reshaping online education
 
-The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an LLM-driven multi-agent classroom — "N agents for 1 student" — using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale, and reducing course production from ~$25K/60 hours to under $2/30 minutes.^[[mooc-to-maic]] Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher dashboards.^[[ai-lms-middle-school-longitudinal]]
+The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an LLM-driven multi-agent classroom — "N agents for 1 student" — using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale, and reducing course production from ~$25K/60 hours to under $2/30 minutes.([[mooc-to-maic]]) Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher dashboards.([[ai-lms-middle-school-longitudinal]])
 
 ### Interest-based and context-aware platform features
 
-Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-powered platform that generates college assignments based on students' **extracurricular interests and cultural contexts**, aligning with [[culturally-relevant-pedagogy]] and shifting from one-size-fits-all assignments toward interest-driven engagement.^[[taklif-ai-interest-based-personalized-assignments]]
+Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-powered platform that generates college assignments based on students' **extracurricular interests and cultural contexts**, aligning with [[culturally-relevant-pedagogy]] and shifting from one-size-fits-all assignments toward interest-driven engagement.([[taklif-ai-interest-based-personalized-assignments]])
 
 ## Implications for design and research
 
-1. **Design for take-up, not just capability.** A platform's effectiveness depends on whether learners actually engage with it; support structures, onboarding, and scheduling matter as much as the AI itself.^[[access-not-enough-ai-tutoring-2026]]
-2. **Treat platform structure as an equity lever.** Who benefits from a platform depends on access, infrastructure, and engagement constraints — platform design must be examined through an [[equity-in-ai-education]] lens.^[[access-not-enough-ai-tutoring-2026]]
-3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.^[[oatutor-open-source-adaptive-tutor-2023]]
-4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.^[[ai-lms-middle-school-longitudinal]]
+1. **Design for take-up, not just capability.** A platform's effectiveness depends on whether learners actually engage with it; support structures, onboarding, and scheduling matter as much as the AI itself.([[access-not-enough-ai-tutoring-2026]])
+2. **Treat platform structure as an equity lever.** Who benefits from a platform depends on access, infrastructure, and engagement constraints — platform design must be examined through an [[equity-in-ai-education]] lens.([[access-not-enough-ai-tutoring-2026]])
+3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.([[oatutor-open-source-adaptive-tutor-2023]])
+4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.([[ai-lms-middle-school-longitudinal]])
 
 ## Connected Concepts
 

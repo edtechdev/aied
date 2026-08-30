@@ -11,7 +11,7 @@ confidence: medium
 
 > Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[huang-interpretable-knowledge-tracing-2026|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
-> PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.^[[nie-personavlm-long-term-personalization-2026]]
+> PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.([[nie-personavlm-long-term-personalization-2026]])
 
 ## The Challenge in Educational Contexts
 

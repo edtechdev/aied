@@ -13,7 +13,7 @@ confidence: high
 
 > Conventional LLM safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
 
-> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad pedagogical harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.^[[hazra-safetutors-pedagogical-safety-2026]]
+> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad pedagogical harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.([[hazra-safetutors-pedagogical-safety-2026]])
 
 ## Why Tutoring Safety Is Different
 

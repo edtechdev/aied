@@ -9,14 +9,14 @@ level: [k 12, higher ed]
 confidence: high
 ---
 
-> Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).^[[stanford-evidence-base-ai-k12-2026]]^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+> Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 Metacognition in education refers to learners' awareness, monitoring, and regulation of their own cognitive processes:
 
 - **Metacognitive knowledge:** Understanding what one knows, what strategies are available, and when to deploy them
 - **Metacognitive regulation:** Planning, monitoring, and evaluating one's own learning in real time
 
-Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+Within [[self-regulated-learning]] frameworks, metacognition is the central mechanism that enables learners to adapt strategies, recognize confusion, and seek help appropriately.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 - **[[cui-motivation-roles-metacognitive-genai-2026|Cui et al.]]** find that student motivation and interaction role shape metacognitive engagement with GenAI, linking metacognition to AI use.
 
@@ -24,7 +24,7 @@ Within [[self-regulated-learning]] frameworks, metacognition is the central mech
 
 ### The Suppression Risk (Stanford SCALE, 2026)
 
-When AI completes reasoning tasks for students — solving math problems, writing essays, generating code — the student loses practice in monitoring their own understanding and selecting strategies.^[[stanford-evidence-base-ai-k12-2026]]
+When AI completes reasoning tasks for students — solving math problems, writing essays, generating code — the student loses practice in monitoring their own understanding and selecting strategies.([[stanford-evidence-base-ai-k12-2026]])
 
 Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
@@ -48,7 +48,7 @@ Scheu et al. (2026) found a critical split:
 | **Intrinsic motivation** (willingness to engage) | **No effect** | **Positive** |
 | **Behavioral engagement** (amount written) | **Increasing over time** ([[feedback|feedback loop]]) | **Constant positive** |
 
-This suggests that **metacognitive support and [[motivation]] are not identical**. The LLM assistant's [[scaffolding]] of journal entries increased how much students wrote (behavioral engagement) but did not make them *want* to write more (intrinsic motivation).^[[scheu-mobile-chatbot-journaling-motivation-2026]]
+This suggests that **metacognitive support and [[motivation]] are not identical**. The LLM assistant's [[scaffolding]] of journal entries increased how much students wrote (behavioral engagement) but did not make them *want* to write more (intrinsic motivation).([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 ## The Beliefs-vs-Experiences Distinction
 
