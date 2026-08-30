@@ -431,6 +431,50 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     return True
 
 
+PDF_OUT = os.path.join(WIKI, 'public', 'aied.pdf')
+PDF_CSS = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pdf-style.css')
+
+
+def build_pdf():
+    """Generate aied.pdf from the same markdown export + cover as the EPUB,
+    using weasyprint. The pandoc --toc creates a clickable table of contents
+    (internal jump links) and internal/external links are preserved."""
+    import pathlib
+    today = datetime.date.today()
+    date_str = today.strftime('%B %d, %Y')
+
+    # A full-page cover as an HTML fragment injected before the body.
+    cover_src = os.path.join(WIKI, 'public', 'epub-cover.png')
+    cover_file = pathlib.Path(cover_src).as_uri()
+    cover_html = os.path.join(WIKI, 'dist', 'pdf-cover.html')
+    os.makedirs(os.path.dirname(cover_html), exist_ok=True)
+    with open(cover_html, 'w', encoding='utf-8') as f:
+        f.write('<div class="cover-page"><img src="%s" alt="AI in Education Knowledge Base" /></div>' % cover_file)
+
+    cmd = [
+        'pandoc', md_path, '-o', PDF_OUT,
+        '--pdf-engine=weasyprint',
+        '--metadata', 'title=AI in Education Knowledge Base',
+        '--metadata', 'author=Edited by Doug Holton',
+        '--metadata', 'lang=en',
+        '--metadata', f'date={date_str}',
+        '--toc', '--toc-depth=3',
+        '--include-before-body=' + cover_html,
+        '--css=' + PDF_CSS,
+    ]
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode != 0:
+        print('pandoc/pdf error:', r.stderr[-2000:])
+        return False
+    if os.path.exists(PDF_OUT):
+        print(f"Built {PDF_OUT} ({os.path.getsize(PDF_OUT)} bytes)")
+        return True
+    print('pdf output missing')
+    return False
+
+
 if __name__ == '__main__':
     build_epub()
+    build_pdf()
+
 
