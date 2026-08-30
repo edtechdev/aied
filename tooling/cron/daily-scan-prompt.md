@@ -44,7 +44,8 @@ If API sources fail or return nothing, use `web_search` with date-anchored queri
 For each new relevant paper:
 
 1. **Save raw source** → `raw/papers/[arxiv_id_or_slug].md` with frontmatter (source_url, ingested_date, sha256)
-   - Fetch PDF via `curl` + `pdftotext` (or `web_extract` for HTML versions), truncate body to 50k chars
+   - Fetch PDF via `curl` + `pdftotext` (or `web_extract` for HTML versions), save the full extracted text (cap 250k chars — a generous local only, gitignored cap; keep essentially the entire paper). The old 50k convention truncated ~half of real papers and is deprecated.
+   - **HARD RULE — never ingest an article without its full text.** Do NOT create an article page from the abstract alone. Full text must be available and permanently saved to `raw/papers/`. If full text cannot be retrieved (fetch timeout, CAPTCHA/CAPS block, paywall — arXiv PDFs via pdftotext almost always work; EdArXiv/OSF via `osf.io/download/<id>` works): do NOT create the wiki page. Instead add the article to `AIED-BACKLOG.md` (under its journal/source section, format `- [Title](url) — [DOI: xxx](doi-url)`), list it in the report's FULL_TEXT_PENDING, and update the backlog total. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 2. **Create article page** → `articles/[slug].md` (this is the wiki's page type for individual papers)
    - Frontmatter: title, created, updated, type: article, tags, sources, confidence
