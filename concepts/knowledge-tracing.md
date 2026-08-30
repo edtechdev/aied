@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-08-27T04:58:28.248706-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 audience: [learners]
@@ -24,6 +24,8 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 
 Knowledge tracing is closely related to [[student-modeling]] — while knowledge tracing specifically models cognitive knowledge over time, student modeling is the broader practice of representing all aspects of a learner (affective state, engagement, preferences). Knowledge tracing feeds into [[adaptive-learning]] and [[personalized-learning]] systems that need to know what to teach next, and into [[intelligent-tutoring]] platforms that use mastery estimates to select appropriate problems. It connects to [[learning-analytics]] for dashboard and intervention design, and to [[cognitive-diagnosis]] for fine-grained skill assessment. Knowledge-tracing constructs also inform [[simulating-students|simulated students]] — a simulated learner's cognitive state is often formalized with the same mastery/decay dynamics that knowledge tracing models, so simulation is a way to *generate* the knowledge states that tracing methods normally *infer* from real response data.
 
+**A caveat: mastery is not correctness.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that BKT's two-state (learned/unlearned) assumption can be violated by *deceptive overgeneralization* — learners can appear mastered yet systematically misapply a skill when a hidden application constraint is violated. This argues for tracing conditional understanding (knowing *when to withhold* an action), not only action correctness, when mastery estimates drive [[adaptive-learning|adaptive]] stopping rules.
+
 ## Connected Concepts
 
 - [[student-modeling]]
@@ -41,6 +43,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[llm]]
 - [[simulating-students]]
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[multimodal-item-parameter-estimation-2026]]
 
 - [[educlaw-bench-pedagogical-llm-agents-2026]]

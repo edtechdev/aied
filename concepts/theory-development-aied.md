@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 type: concept
 tags: [learning-theories, ai-education, limitations-in-aied-research, research-methods-aied]
 research_method: [literature review, research methods]
@@ -32,6 +32,8 @@ A growing cluster of articles explicitly creates new theory for the AI era rathe
 
 Other work extends existing theory into the AI context rather than founding new paradigms: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] work integrates cognitive-load theory with load-reduction instruction into a three-level framework; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] re-theorizes [[assessment]] under GenAI disruption. [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim & Anderson (2026)]] reconceptualize the [[community-of-inquiry|Community of Inquiry]] framework itself: rather than framing GenAI as a tool, dialogic partner, or a speculative "fourth presence," they reposition it as an *epistemic condition* that reconfigures how cognitive, social, and teaching presence are enacted, evidenced, and governed — recasting CoI presences as sociotechnical accomplishments of human–GenAI assemblages and proposing a configuration-based heuristic in which GenAI involvement and inquiry quality are conditionally related through human accountability. Much of this is conceptual-framework work ([[drummond-genai-business-schools-framework-2026|business-school frameworks]], [[valid-student-simulation-llm-2026|valid simulation]]) that operationalizes theory for practice.
 
+[[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] advance ACT-R and the Knowledge-Learning-Instruction framework by theorizing *deceptive overgeneralization* — a failure mode in which knowledge compilation yields an overgeneralized production that produces correct actions while omitting a critical application constraint — and by empirically validating a detection/remediation procedure across adaptive ITSs and a K-12 decimal-learning dataset.
+
 ## The theory-use problem in AIEd
 
 The field's theorizing is uneven. [[limitations-in-aied-research|Limitations in AIEd research]] documents that AIEd studies frequently use theory weakly or uncritically — a recurring methodological weakness alongside reproducibility and measurement gaps. Reviews find many AIEd papers apply theory superficially or not at all (e.g., [[llm-critical-thinking-teamwork-review|literature reviews]] noting few studies ground interventions in learning theory). This makes theory *development* — and theory *use* — a quality concern as much as a scholarly output, connecting to [[research-methods-aied|research methods]] and [[ai-ed-evaluation]].
@@ -56,6 +58,7 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[community-of-inquiry]]
 
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 
 - [[generativism-learning-theory]] — Generativism as a new learning theory

@@ -5,7 +5,7 @@ tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
 category: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-29T12:55:12-04:00"
+updated: "2026-08-30T13:41:04-04:00"
 ---
 
 > **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which learners advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
@@ -19,6 +19,8 @@ Bloom's mastery learning reframed the goal of instruction from "sorting students
 The bottleneck for classical mastery learning was the teacher-side cost of diagnosing each learner's state and personalizing subsequent instruction. Modern AI systems attack this through [[student-modeling]] and [[knowledge-tracing]]: instead of a single aggregate score, the system maintains a dynamic representation of which knowledge components a learner has (or has not) mastered. The Responsible-DKT work on [[neural-symbolic-knowledge-tracing]] injects explicit mastery rules into a deep learner model — repeated correct responses raise predicted mastery, while repeated incorrect responses act as a stronger signal of non-mastery — producing interpretable and temporally reliable state estimates that [[intelligent-tutoring]] can act on.
 
 With a running model of mastery, the system's job becomes deciding *what to present next*. [[simulation|Simulations]] of learners' task-selection strategies show that naive autonomy (e.g., self-selected tasks, risk-averse weakness targeting) can produce substantial overpractice on complex multi-step problems, whereas targeted system constraints can correct maladaptive strategies with little penalty to efficient learners. This is precisely the trade-off that [[adaptive-learning]] and [[personalized-learning]] systems must balance: granting [[agency|learner agency]] where it helps while imposing constraints that keep progression toward mastery efficient. Such decisions also interact with learners' own capacity to regulate their effort, tying mastery learning to [[self-regulated-learning]].
+
+**A critical caveat to mastery inference: correctness is not mastery.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that learners who overgeneralize a skill — producing correct actions while omitting a critical application constraint — can appear mastered, leading [[knowledge-tracing]]-based mastery stopping rules to end practice before they encounter a case where the action should be *withheld*. The remedy is to assess *when to withhold* the action, not just how to execute it: include "do-not-act" detector tasks before the mastery threshold triggers, paired with [[feedback]] that names the missing constraint. Mastery is better understood as discrimination of application constraints plus action execution, not correctness alone.
 
 ## Practice, Retention, and the Limits of AI Support
 
@@ -38,6 +40,7 @@ Finally, the evidence warns against assuming AI-generated support is uniformly b
 - [[desirable-difficulties]]
 
 ## Connected Articles
+- [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 
 - [[neural-symbolic-knowledge-tracing]] — Injecting mastery/non-mastery rules into deep learning for responsible, interpretable learner modeling
 - [[simulating-learner-task-selection]] — Simulating how learner task-selection strategies and system constraints shape mastery-learning efficiency
