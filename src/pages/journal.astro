@@ -35,14 +35,16 @@ const dates = Object.keys(byDate).sort().reverse();
         {date} — {byDate[date].length} page{byDate[date].length !== 1 ? 's' : ''}
       </summary>
       {byDate[date].map(item => {
-        const badge = item.kind === 'article' ? '📄' : item.kind === 'faq' ? '❓' : '🏷️';
         const base = item.kind === 'article' ? '/aied/articles' : item.kind === 'faq' ? '/aied/faqs' : '/aied/concepts';
         const href = `${base}/${item.id.replace('.md', '')}`;
+        const icon = item.kind === 'article'
+          ? '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>'
+          : item.kind === 'faq'
+          ? '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>'
+          : '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>';
         return (
         <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
-          <a href={href} style="font-weight:500;">
-            <span style="font-size:0.8rem;">{badge}</span> {item.data.title}
-          </a>
+          <a href={href} style="font-weight:500;" set:html={`<span>${icon}</span> ${item.data.title}`}></a>
         </div>
       )})}
     </details>
