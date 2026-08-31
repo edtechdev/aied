@@ -22,22 +22,25 @@ const { faqs } = Astro.props;
     padding: 0.25rem 0 0.5rem 0;
     display: flex;
     flex-direction: column;
+    gap: 0.35rem;
   }
   .faq-sidebar-link {
     display: block;
+    width: 100%;
     font-size: 0.85rem;
     line-height: 1.4;
-    padding: 0.4rem 0.6rem;
+    padding: 0.45rem 0.65rem;
     color: var(--muted-color);
     text-decoration: none;
-    border-radius: 4px;
-    /* Subtle divider between FAQ questions, matching the main FAQ page. */
-    border-bottom: 1px solid var(--card-border-color);
+    border-radius: 6px;
+    border: 1px solid var(--card-border-color);
+    background: color-mix(in srgb, var(--primary) 4%, transparent);
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
   }
-  .faq-sidebar-link:last-child { border-bottom: none; }
   .faq-sidebar-link:hover {
     color: var(--primary);
-    background: color-mix(in srgb, var(--primary) 8%, transparent);
+    background: color-mix(in srgb, var(--primary) 12%, transparent);
+    border-color: var(--primary);
   }
   .faq-sidebar-empty {
     padding: 0.25rem 0.6rem;
