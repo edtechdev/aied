@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-30T03:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, educational-development, academic-integrity]
 audience: [faculty development, instructors, learners]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
+
+## Questions to Consider
+
+- What does it mean to be 'AI literate'? Is it knowing how to use the tools, understanding how they work, or being able to critically evaluate their output — and which matters most for your own goals?
+- Self-reported AI literacy diverges sharply from measured performance — teachers overestimate their skills by about 40%. How confident are you in your own AI skills, and what evidence would you trust to actually test that confidence?
+- AI literacy is described as a metacognitive social practice, not a checklist of skills. Because LLMs are probabilistic and opaque, what does it mean to 'critically evaluate' output when you can't see inside the model?
+- There's a tension between critical-use literacy for academic settings and workflow-integration literacy for employment — educators and employers value different skills. Which kind of AI literacy is your context actually teaching?
+- Technical AI-literacy training alone, without self-efficacy and self-regulation support, can actually increase dependency on AI. How could learning to use AI make you more reliant on it rather than more capable?
+- AI literacy is also a recognition skill: spotting when an AI is agreeing with you because it's being sycophantic versus because you're right. Have you ever caught an AI just telling you what you wanted to hear?
 
 AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift [[agency]] from human to machine — making [[critical-thinking]] and [[cognitive-offloading|Over-Reliance]] central to the construct.
 
@@ -156,3 +165,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[sobo-cheating-competing-ai-marketing-literacy-2025]] — Cheating or competing? AI marketing and AI literacy (Sobo et al. 2025)
 - [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Secondary students' ethical reasoning about AI-giarism (Chan 2026)
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic integrity and student study practices with AI (Lopez-Lopez et al. 2026)
+

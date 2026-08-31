@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [regulation, governance, educational-development, equity-in-ai-education, higher-ed, k-12, academic-integrity, ethics]
 audience: [administrator, instructors, faculty development]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Educational AI policy** — the formal and informal rules governing AI use in educational institutions, from national legislation to classroom guidelines. Policy research in the knowledge base spans institutional governance, [[curriculum-design|curriculum]] mandates, and teacher preparation requirements.
+
+## Questions to Consider
+
+- Institutional AI policies are often written as if telling people the rules changes what they do. Research suggests these policies can lag far behind actual AI use. Why do you think a policy 'on paper' so often fails to match what happens in classrooms?
+- If homework outsourcing causes learning losses that go largely unnoticed — because no single teacher connects a student's decline to AI use — what kind of policy would even be possible? What would monitoring look like?
+- Assessment policy decisions like oral exams, proctored tests, and closed-book formats are themselves responses to AI-enabled cheating. Do you think policing the 'output' (catching AI use) is a better strategy than redesigning assessment so the work itself is harder to outsource?
+- Educational AI policy spans national legislation, government guidance, institutional rules, and classroom-level choices. Which of these levels do you think actually shapes student and teacher behavior the most — and why?
+- Whose voices tend to shape AI policy — and whose are missing? Who should be at the table when an institution decides what AI use is allowed and how it's governed?
 
 - **[[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al.]]** global Delphi converges on policy and practice principles for governing generative AI in higher education.
 
@@ -94,4 +102,5 @@ Educational AI policy connects to [[regulation]] (legal framework), [[governance
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
+
 

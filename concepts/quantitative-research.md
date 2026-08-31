@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-08-24T02:05:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [quantitative-research, research-methods-aied, educational-measurement]
 research_method: [survey, research methods, educational measurement, experiment]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Quantitative research** — the family of empirical methods that collect and analyze *numerical* data to describe patterns, test relationships, and estimate causal effects. In [[ai-education|AI in education]], quantitative methods quantify whether and how AI tools affect [[learning-gains|learning outcomes]], [[student-engagement|engagement]], [[motivation]], and [[self-efficacy]], and model the psychological and behavioral mechanisms of AI use. They provide the breadth, precision, and causal inferential power that [[qualitative-research|qualitative methods]] trade away for depth and context.
+
+## Questions to Consider
+
+- 'Students who use an AI tutor score higher' — before you read, is this a claim about causation or correlation, and what single piece of evidence would convert one into the other?
+- A cross-sectional survey can test a complex mediational model yet never establish causation. Why might two variables be correlated in a survey even when neither causes the other? Can you think of a way to be genuinely misled by such a correlation in education?
+- Quantitative instruments are only as good as what they measure — and the page notes instruments can measure the wrong construct. When you fill out a self-report survey about 'confidence' or 'engagement,' what could it actually be capturing instead, and how would you find out?
+- An RCT randomly assigns learners to conditions to estimate a causal effect. What makes random assignment powerful, and what practical and ethical problems arise when the 'treatment' is a possibly-helpful AI tool that some students are being denied?
+- Longitudinal designs track the same learners over time — essential for distinguishing AI-inflated performance from durable learning. Why would a single snapshot of high scores fail to reveal whether learning actually happened?
+- Quantitative work provides breadth and causal power; qualitative work provides depth and meaning. Before reading the pairing, where do you think numbers alone have most likely misled you about a learning claim, and what method would you add to check it?
 
 Quantitative research spans descriptive designs (measuring prevalence and patterns), correlational/observational designs (testing relationships among variables), and experimental and quasi-experimental designs (estimating causal effects). What unifies them is the systematic reduction of observations to numbers, analyzed with statistics, and the priority placed on **reliability, validity, and generalizability** — the core concerns of [[educational-measurement]].
 
@@ -69,3 +78,4 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
 - [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (mixed-method)
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
+

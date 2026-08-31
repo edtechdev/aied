@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 research_method: [educational measurement]
@@ -13,6 +13,15 @@ confidence: high
 ---
 
 > **Multimodal AI** — AI systems that process, understand, or generate content across multiple modalities — text, images, audio, video, and structured data — and the educational questions these systems raise. In AI in education, multimodal AI appears in three distinct roles: as the *learning content* learners create and engage with ([[multimodal-learning-genai|multimodal learning]]), as the *capability boundary* of tutoring systems that must interpret diagrams and graphs ([[syal-multimodal-dialogue-stem-2026|multimodal tutoring]]), and as the *assessment signal* used to evaluate understanding ([[multimodal-item-parameter-estimation-2026|multimodal measurement]]).
+
+## Questions to Consider
+
+- Think of a graph, force diagram, or schematic you've ever struggled to explain in words. What does that experience suggest about the limits of a text-only AI tutor trying to help with image-rich problems?
+- A physics tutor answers text-based problems ~96% of the time but drops to ~74% on problems that embed meaning in diagrams. Before reading, what do you think causes this 'multimodal interference'—and can you think of a fix that doesn't involve retraining the model?
+- You've likely generated both text and images with AI tools. Have you found that 'prompting for pictures' differs from prompting for text? What skills might students need to translate an abstract idea into a precise visual prompt?
+- Multimodal AI can grade essays, generate feedback with audio narration, and even reconstruct exam item statistics from image-and-text items. What does the shift from text-only to multimodal assessment signal (or risk) for fairness and validity?
+- How could the fact that AI support is less reliable on the very diagram-heavy problems that build deep STEM understanding create an equity gap between learners? Who is most affected?
+- Multimodal systems can translate text to audio or visuals to support inclusive learning, but they also enable fine-grained classroom sensing. Where is the line between helpful multimodal access and surveillance?
 
 Multimodality in AI refers to the capacity to work across different representational forms rather than text alone. Modern [[generative-ai]] and [[llm|LLM]] systems increasingly accept and produce images, audio, and video in addition to text, opening new possibilities and new risks for education. Grounded in social semiotic theory, which holds that meaning is made across modes — not just words — multimodal AI changes how teaching, learning, and assessment are designed and evaluated.([[multimodal-learning-genai]])
 
@@ -113,3 +122,4 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+

@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [physics-education, stem-education, intelligent-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 discipline: [physics education, stem education]
@@ -12,6 +12,15 @@ confidence: high
 ---
 
 > **Physics Education** — the study of how students learn physics and how to teach it more effectively, spanning Socratic [[intelligent-tutoring|AI tutoring]], [[computational-thinking|computational thinking]] assessment, student [[trust]] and AI adoption patterns, automated scoring validity, and teacher preparation. The physics education articles in this knowledge base are notable for their domain-specificity: they explore how AI tools interact with the unique cognitive demands of physics reasoning — visual-spatial thinking, mathematical modeling, abstract systems thinking, and multi-step problem-solving.
+
+## Questions to Consider
+
+- Physics problems often require visual-spatial thinking, mathematical modeling, and multi-step reasoning. Why might these be precisely the cognitive demands that current AI tutors struggle with?
+- Students report a big trust-utility gap—91% use AI for coursework but only 41% trust it. Have you experienced using a tool you didn't fully trust? What drove the gap?
+- AI scoring systematically underestimated linguistically weak students' physics explanations. What does that suggest about how an AI grades an explanation versus a correct numeric answer?
+- One study found a Socratic AI chatbot dramatically improved question specificity in a live physics course, but students also frequently 'ceded strategic control' to the tutor. When does handing over strategic control help learning, and when does it harm it?
+- Why might physics be a 'proving ground' for AI in education—what makes its problems ideal for studying how AI affects reasoning and assessment?
+- Would you trust an AI to grade your physics problem set or reason through a force diagram with you? What would need to be true about the AI—and about your course—for you to say yes?
 
 Physics education research has become a proving ground for AI in education because physics problems are well-structured yet cognitively demanding, making them ideal for studying how AI tools affect learning, reasoning, and assessment. The seven articles in this knowledge base collectively paint a picture of a field grappling with both the promise and the limits of AI — from Socratic chatbots that improve student question quality to systematic scoring biases that penalize linguistically diverse learners.
 
@@ -85,3 +94,4 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+

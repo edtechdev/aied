@@ -1,7 +1,7 @@
 ---
 title: Robots in Education
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-25T13:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [educational-robotics, computational-thinking, stem-education, k-12, higher-ed, cs-education, embodied-learning]
 discipline: [stem education]
@@ -9,6 +9,13 @@ level: [k 12, higher ed]
 confidence: high
 ---
 > **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for teaching and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering problem solving, [[critical-thinking|critical thinking]], [[creativity]], and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The knowledge base's robotics corpus spans curriculum-integrated programming, LLM-powered conversational tutors, socially assistive storytelling robots, and role-play for social-emotional learning. It is underpinned by two closely related areas absorbed here: **social robots** (robots designed for social interaction and relationship-building) and **human–robot interaction (HRI)** (the study of how people perceive, trust, and learn with robots).
+
+## Questions to Consider
+
+- A robot in the classroom adds an embodied, social presence that a chatbot on a screen can't. What do you think the physical body and social cues of a robot change about how students learn, trust, and engage — and what might they distract from?
+- Social robots use human-like speech, gestures, and personality to teach, tell stories, or rehearse social skills. Is a robot that looks and acts human inherently better for learning, or could that social presence bring risks (misinformation, over-reliance, privacy) that software-only tools don't?
+- LLMs now let social robots converse fluently. If a robot can talk like a tutor, what still depends on its physical embodiment — and where does adding a 'body' really matter for learning versus just being a novelty?
+- Think of a time you learned something by physically manipulating an object or watching your actions produce a visible result. How might programming a physical robot ground abstract ideas (like program logic) more effectively than writing code on a screen?
 
 Educational robotics is a distinct but closely related application of AI in education. Unlike software-only [[intelligent-tutoring|intelligent tutoring]] or [[llm|LLM]] chatbots, robots add an **embodied** and often **social** presence — a physical agent that learners can see, manipulate, and (increasingly) converse with. This embodiment is central to their pedagogical value: it grounds abstract program logic in observable behaviour, and it can support relationship-building and emotional engagement that disembodied systems cannot.
 
@@ -92,3 +99,4 @@ A defining theme is that robots are effective when they support genuine learning
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Robot-mediated CT in kindergarten
 
 - [[ai-toys-child-development-2026]] — AI-enabled toys and child development
+

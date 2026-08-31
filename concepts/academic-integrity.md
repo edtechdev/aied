@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-28T16:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 type: concept
 tags: [assessment-validity, ai-literacy, ai-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The knowledge base documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of [[ai-detection|detecting dishonest output]] to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and [[ai-literacy|teaching students how to use AI well]] rather than merely policing whether they do.
+
+## Questions to Consider
+
+- Think of the last time you heard 'AI cheating' discussed. Was the conversation about catching students or about designing assignments students would want to do honestly? Which emphasis feels more familiar to you, and why?
+- A polished, plausible piece of work can now be generated in seconds. If you can no longer judge a student's capability by the product they hand in, what would you need to see or hear to feel confident they actually learned it?
+- Research finds students often rationalize AI use ('copying AI text is victimless') rather than misusing it out of malice. What assumptions about students' motives does a purely punitive integrity policy make — and what might those assumptions get wrong?
+- One line of research treats students' AI use as a coordination problem: behavior shifts when peer expectations and assessment incentives change, not when rules are restated. What peer or design factors in your own context might be quietly shaping whether AI use is honest?
+- Studies show fear of penalty drives students to hide AI use, and that transparent students can even draw suspicion. If you were designing an 'AI use disclosure' form, what would make a student actually want to fill it out truthfully?
+- The same institutional AI policy is interpreted differently by students across cultures — culture, not policy wording, drives what feels wrong. How should an integrity policy be communicated to a culturally diverse cohort so expectations are actually understood?
 
 The arrival of generative AI has not created the need for academic integrity — it has made weaknesses in existing approaches harder to ignore. A polished, plausible product can now be generated in seconds, so **product resemblance is an increasingly unreliable signal of capability**. This shifts the integrity question from *"can we catch AI use?"* to *"can our [[assessment|assessments]] still warrant the inferences we draw about student learning?"*
 
@@ -148,3 +157,4 @@ A wave of recent research sharpens the picture of academic integrity in the age 
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose before policy: academic integrity and GenAI (Taylor & LaCroix 2026)
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy in assessment (Roe et al. 2026)
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
+

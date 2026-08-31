@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-08-27T08:55:36.300729-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research]
 type: concept
 tags: [accessibility, inclusive-learning, special-education, universal-design-for-learning, assistive-technology, equity-in-ai-education, learning-design]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **Accessibility** — the design of educational technology, content, and interfaces so that they can be perceived, operated, and understood by people with disabilities and diverse needs. In AI in education, accessibility covers concrete, operational barriers to the *medium* of learning: video captions, alt text, transcripts, screen-reader and keyboard compatibility, color contrast, text simplification, tactile output, sign-language support, and compatibility with assistive technologies.
+
+## Questions to Consider
+
+- When you last designed or chose a digital learning tool, did you check whether its captions, alt text, keyboard navigation, and color contrast worked before you considered its pedagogy? Why might that ordering matter?
+- A video with accurate captions is 'accessible,' while a course that structures discussion around a Deaf learner's communication needs is 'supporting that learner.' Where would you draw the line between removing a technical barrier and meaningfully serving a student?
+- Research shows AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners. Can you recall a 'fix designed for one learner' that ended up benefiting everyone in a class you were part of?
+- Some argue accessibility is necessary but not sufficient — an accessible tool is not automatically an inclusive or disability-just one. What's the difference between being able to use a tool and being meaningfully served by it?
+- Many AI tools are trained largely on English, Western-centric data. How might that limit how well they serve learners whose first language is sign, or whose ways of knowing differ from the mainstream?
+- AI can automate accessibility at scale — generating captions, simplifying text, producing tactile output. What would you want to verify by hand before trusting that automated accessibility, and why?
 
 Accessibility is distinct from, but closely related to, three neighboring concepts in this knowledge base. **[[inclusive-learning]]** is the broader umbrella for designing education for all learner variability (physical, cognitive, sensory, situational). **[[special-education]]** is the instructional domain for learners with diagnosed disabilities, including individualized accommodations. **[[universal-design-for-learning]]** is the proactive design framework (multiple means of engagement, representation, action/expression). **Accessibility** sits inside this constellation as the *technical and procedural layer*: removing barriers to perceiving and operating the format, rather than redesigning the pedagogy. The two can be separated on a spectrum — accessibility asks "can everyone access this content and tool?" while supporting students with disabilities asks "does instruction meaningfully serve each learner, including accommodations and disability-specific support?" Both matter, and AI intersects both.
 
@@ -66,3 +75,4 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language
 - [[genai-minoritized-knowledges-disability]] — Critical perspective on AI and disability-centered knowledge
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
+

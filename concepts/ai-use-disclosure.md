@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-08-27T11:38:38.333597-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
 level: [higher ed]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The knowledge base's research shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].
+
+## Questions to Consider
+
+- If you were a student who used generative AI for an assignment, would you tell your instructor? This page suggests the honest answer is heavily shaped by fear — research finds disclosure is rare, driven by 'penalty anxiety' and worries about self-incrimination. What assumptions about your own disclosure behavior might you need to question?
+- The central design question here is whether disclosure functions as surveillance or as a scaffold for ethical engagement. Before reading, which did you assume a disclosure form was trying to do — and can you think of a way the same form could serve the opposite purpose?
+- One striking finding is that students who always disclosed had over three times the odds of being accused of cheating — transparency invited suspicion. If honesty can increase suspicion, what does that say about how we should design trust between students and instructors?
+- This page distinguishes mandatory compliance mechanisms from formative disclosure practices that build AI literacy and self-regulation. Which of these do you think your own institution's approach most resembles, and what would have to change for it to become the other?
+- The research connects concealment to maladaptive self-regulation, and disclosure to adaptive help-seeking — making your AI use visible can invite useful calibration from an instructor. When have you (as learner or teacher) found it beneficial to make your uncertainty or use of help visible, rather than hiding it?
+- Disclosure norms vary by discipline, language background, and context — with equity implications when some students are more likely to be penalized for concealing than others. If you were designing a disclosure policy, how would you prevent it from placing an uneven burden on already-marginalized learners?
 
 ## What AI use disclosure statements are
 
@@ -62,3 +71,4 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+

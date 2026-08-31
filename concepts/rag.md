@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T10:24:06-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, pedagogical-llm-training, pedagogical-safety]
 
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables curriculum-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].
+
+## Questions to Consider
+
+- You've probably seen an AI chatbot confidently state something false. What does 'grounding' a model's response in external documents change about that failure mode, and what new failure modes might it introduce?
+- RAG retrieves relevant materials and feeds them to the generator. Before you read, what assumptions does this make about the quality of the retrieved content — and about whether the retrieved text is actually the right thing to teach?
+- The page contrasts RAG with fine-tuning: retrieval grounds responses in up-to-date sources without retraining, while fine-tuning embeds behaviors. If you were building a curriculum-aligned tutor, which approach would you trust for accuracy, and which for teaching style?
+- RAG is presented as the main answer to hallucination in education. But consider: if the retrieval source itself contains errors, or is outdated, can RAG still hallucinate? Where might the guarantee of 'grounded in verified content' break down in practice?
+- For a developer or instructor: what does a tutor need to 'know' beyond the textbook content — pedagogy, when to withhold answers, how to probe understanding? Where would RAG alone fail to provide that, and what would you combine it with?
 
 ### How RAG is used in education
 
@@ -50,3 +58,4 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[pchl-he-framework-genai-content-creation-2026]]
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+

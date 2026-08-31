@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-29T12:55:12-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [teacher-education, adult-learning, teacher-role, tpack, ai-literacy, k-12]
 audience: [instructors]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Professional development** — the preparation and ongoing professional development of teachers, spanning pre-service teacher training (initial certification programs) and in-service professional development. In AI-in-education research, teacher education has become a central concern because teachers' AI literacy, technological-pedagogical knowledge, ethical fluency, and readiness to integrate AI into instruction determine whether AI adoption in classrooms succeeds. This concept organizes the knowledge base's substantial coverage of how AI reshapes the preparation, knowledge, beliefs, and practice of both prospective and practicing teachers.
+
+## Questions to Consider
+
+- Teacher education here spans pre-service training (future teachers in certification programs) and in-service professional development (practicing teachers). Which of the two do you think faces the bigger challenge preparing for AI classrooms, and why?
+- The page suggests teacher education must prepare teachers not just to use AI tools but to understand, evaluate, and ethically integrate them — a shift that 'redefines what it means to be a teacher.' How do you think that redefinition should change what a credentialing program teaches?
+- Frameworks like AI-TPACK extend the classic TPACK model by adding an AI and ethics dimension. What do you think an 'AI dimension' of technological-pedagogical-content knowledge should actually contain beyond how to operate a chatbot?
+- A scoping review of 55 studies cited on the page finds AI enhances pre-service teachers' instructional design, reflection, and critical thinking. But if AI can do some of this for them, when does its use in teacher training build skill versus substitute for the very judgment they'll need?
+- If you were redesigning a teacher-education program for the AI era, what would you require every future teacher to experience — and what would you deliberately keep them from outsourcing to AI?
 
 Teacher education sits at the intersection of several knowledge base strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher.
 
@@ -94,3 +102,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[sahab-model-genai-constructivist-id-2026]] — SAHAB model: GenAI constructivist instructional design
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
+

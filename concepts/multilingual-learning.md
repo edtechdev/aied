@@ -1,7 +1,7 @@
 ---
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-08-24T18:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [multilingual-learning, language-learning, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, llm]
 discipline: [language learning]
@@ -9,6 +9,14 @@ confidence: medium
 ---
 
 > Multilingual learning in AI education concerns how educational technologies and LLM-based systems support learners across languages, dialects, and low-resource linguistic contexts — and the risks of linguistic exclusion when AI systems are built primarily for dominant languages.
+
+## Questions to Consider
+
+- Most AI models are trained primarily on high-resource languages like English. If you think, study, or are assessed in a different language, how might that systematically disadvantage you — even if the tool seems to 'work' in English?
+- The page warns that unaddressed monolingual bias in AI deepens the digital divide and undermines equity, especially across the Global South. What does genuine equity require beyond simply translating AI content into another language?
+- Automated assessment can exhibit language bias, penalizing non-native speakers even for the same reasoning. If you were implementing AI scoring, what would you check to ensure it is fair across languages rather than just accurate in one?
+- The page shows low-resource languages can be served by fine-tuning models on curated corpora, even under practical hardware constraints. What trade-offs would you expect between efficiency and how faithfully the model handles a low-resource language?
+- Multilingual AI must go beyond translation to reflect culturally relevant pedagogy — content that is linguistically *and* contextually appropriate. How might content that is perfectly translated still fail a learner if it ignores local context and culture?
 
 ## Overview
 
@@ -57,4 +65,5 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
 - [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
 - [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
+
 

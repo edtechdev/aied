@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-28T09:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
 discipline: [cs education, math education, physics education]
@@ -11,6 +11,14 @@ confidence: high
 ---
 
 > **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] research in the knowledge base. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
+
+## Questions to Consider
+
+- STEM is the most common domain for AI-in-education research because its knowledge is structured and has clear right/wrong answers. Do you think that makes STEM the easiest place to teach with AI — or possibly the place where AI's limits are most easily masked?
+- The page cites research showing AI adoption in schools is 'stratified by discipline' — normalized in computer science, heavily prohibited in mathematics. Why do you think subject culture shapes AI acceptance so strongly, and what are the consequences for students?
+- If a math student uses AI mainly to check solutions and get explanations, is that a scaffold or a crutch? What determines the difference, and where would you draw the line?
+- Given that STEM problems often have verifiable answers, what kinds of AI use in STEM do you think genuinely build understanding versus merely produce correct-looking output?
+- How might the very qualities that make STEM ideal for AI tutoring — clear answers, computable correctness — undersell the parts of science and engineering that are messy, open-ended, and judgment-based?
 
 ### STEM as the primary AIED domain
 
@@ -94,3 +102,4 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 
 - [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
+

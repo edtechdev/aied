@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [reduce-ai-cheating, designing-ai-into-learning]
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Reducing AI misuse** — the design, pedagogical, and policy levers that prevent students from substituting generative AI for their own [[cognitive-offloading|cognitive work]] and instead steer them toward ethical, productive use. Effective approaches are sorted by impact rather than popularity, and the strongest evidence favors **structural levers** — tool guardrails and assessment redesign — that change the environment so misuse is harder, regardless of a student's motivation, over **educative levers** that rely on building durable capacity and [[framing-ai-use-for-students|student buy-in]].
+
+## Questions to Consider
+
+- Students who outsource homework to AI can see their homework scores *rise* while their closed-book exam scores *fall*. Before you read, why might performance and learning diverge so sharply — and what does that gap suggest about what 'success' with AI actually means?
+- The page ranks interventions by causal evidence and reach, and it places *structural* levers (tool guardrails, assessment redesign) above *educative* ones (teaching good practice) — precisely because structural levers work regardless of a student's motivation. Do you agree that changing the environment beats changing minds? What's the risk of relying on each?
+- A guardrailed 'hint-not-answer' tutor eliminated the learning harm that an unguarded one caused, even though both seemed helpful. Think of a learning tool you've seen that gives answers too readily. Where's the line between a hint that scaffolds and an answer that substitutes — and can you state it before reading?
+- The strongest fix includes assessment redesign: unassisted in-class exams, oral defenses, process artifacts, reasoning rewarded over surface fluency. How would you feel taking a course graded this way, and does that feeling tell you something about why this lever is both effective and unpopular?
+- AI declaration frameworks that force students to map their use to cognitive stages (planning vs. content generation) shift emphasis from policing to professional practice. Do you think such reflection genuinely builds better judgment, or does it just teach students how to describe misuse more cleverly?
+- Set a goal before reading: identify one concrete change in your own course or workflow that would make AI misuse harder, and one that would make productive use easier. Which of the page's tiers would each belong to?
 
 The concept rests on the evidence that AI misuse actively harms durable learning — the performance–learning gap documented in [[ai-misuse-learning-harm]] — even while inflating immediate performance. Interventions therefore target the mechanisms of that harm: answer-copying, [[cognitive-offloading]], motivation erosion, and learning displacement. They are not mutually exclusive; a robust approach combines a structural floor with educative capacity-building.
 
@@ -98,3 +107,4 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ai-advice-suppresses-ikt-suspension-2026]]
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Guardrails removed harm without improving exam scores
+

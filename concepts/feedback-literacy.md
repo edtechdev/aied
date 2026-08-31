@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-24T17:10:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [feedback-literacy, feedback, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, peer-review, writing-education]
 discipline: [writing education]
@@ -10,6 +10,13 @@ confidence: high
 ---
 
 > **Feedback literacy** — the capabilities and dispositions students need to understand, evaluate, and act on feedback to improve their learning. It is the learner-side counterpart to feedback provision: whereas [[ai-feedback-quality]] and [[feedback|Feedback Loop]] concern the quality and mechanics of the feedback system, feedback literacy concerns the learner's capacity to seek, make sense of, judge, and use feedback productively.
+
+## Questions to Consider
+
+- Well-designed feedback only helps students who can interpret and act on it. If two students receive identical feedback and learn different amounts, where does the difference live — and is it the student's fault or the system's?
+- Research finds that students with stronger feedback literacy benefit more from AI feedback, while weaker-literacy students show minimal or even negative effects. What does that suggest about simply adding AI feedback to a course without also building students' capacity to use it?
+- Feedback literacy includes seeking feedback, making judgments, managing affect, and acting on feedback — not just receiving it. When did you last *seek out* feedback rather than wait for it, and what made you brave enough (or not) to do so?
+- If AI can now generate abundant, instant feedback, has the bottleneck shifted from feedback provision to the learner's ability to use it? What might change about how you design feedback if you saw students' feedback literacy as the real constraint?
 
 Feedback literacy matters because well-designed feedback only helps students who can interpret and act on it. A student who cannot evaluate whether AI-generated feedback is accurate, or who does not know how to turn feedback into a concrete revision, learns far less from the same feedback than a more feedback-literate peer. As AI reshapes feedback provision, feedback literacy has become a central boundary condition for whether AI feedback improves learning.
 
@@ -86,3 +93,4 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[feedback-futures-genai]] — Feedback futures with GenAI
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
+

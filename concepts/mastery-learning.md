@@ -5,10 +5,18 @@ tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
 category: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 ---
 
 > **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which learners advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
+
+## Questions to Consider
+
+- Most schooling fixes time and lets achievement vary — everyone moves on after a set number of weeks. Mastery learning inverts this: achievement is held constant while time, feedback, and practice vary. Which model better matches how you've actually learned something difficult?
+- A critical caveat in the page: 'correctness is not mastery.' A learner can produce right answers while missing a key constraint, fooling the system into declaring mastery early. Can you think of a skill where being able to perform it correctly still didn't mean you truly understood when *not* to do it?
+- Mastery-based AI grants learners agency to choose their own tasks, but simulations show naive self-selection can produce massive overpractice. Where's the right balance between letting a learner choose and imposing constraints that keep progression efficient?
+- The page stresses durable retention, not just a single correct performance — that's why mastery should be followed by spaced practice. How might a learner appear to 'master' something today only to lose it within hours?
+- If an AI declares you have 'mastered' a topic, what would you want it to check before you believe it — beyond getting a few answers right?
 
 ## Origins and Core Idea
 
@@ -47,3 +55,4 @@ Finally, the evidence warns against assuming AI-generated support is uniformly b
 - [[memdora-ai-spaced-repetition]] — Cognitively grounded, AI-powered spaced repetition for sustaining retention after mastery
 - [[ai-generated-traces-novice-programmers]] — Context-dependent, learner-moderated effects of AI-generated learning media on performance
 - [[ai-literacy-continuum-higher-education]] — A five-stage developmental continuum for moving students from uncritical tool use to critical AI competence
+

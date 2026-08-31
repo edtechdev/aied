@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-08-22T01:40:13-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [network-analysis, research-methods-aied, learning-analytics, knowledge-graph]
 research_method: [learning analytics, research methods]
@@ -9,6 +9,14 @@ confidence: high
 ---
 
 > **Network analysis** — the family of research methods that model entities (people, concepts, actions, or codes) as **nodes** connected by **edges** representing relationships or transitions, then analyze the structure and dynamics of the resulting network to reveal patterns invisible to frequency counts or pairwise comparisons. In AI-in-education research, network analysis is used to map interaction patterns between learners and AI tools, model how knowledge or discourse elements co-occur, and trace temporal sequences of behavior. It includes distinct variants — **Epistemic Network Analysis** (ENA, modeling the co-occurrence of codes/constructs), **Social Network Analysis** (SNA, modeling relationships between people), and **Transition Network Analysis** (TNA, modeling temporal sequences of states) — each of which operationalizes "learning as connection" in a different way.([[tracing-genai-literacy-interaction-patterns]])([[penny-transition-network-analysis-efl-writing-2026]])([[misiejuk-cognitive-offloading-prompting-2026]])
+
+## Questions to Consider
+
+- When you hear 'network analysis' in education, what images come to mind—friendship maps of students, links between ideas, or something else? How are those different from simply counting how often things occur?
+- Suppose you wanted to know whether students actually engage with an AI writing tool's feedback versus just getting answers. Why might a 'how many times did they click' metric miss the story that a sequence of actions (e.g., a revision loop vs. a chat loop) would reveal?
+- The page distinguishes Epistemic, Social, and Transition network analysis. Without knowing the details, can you guess which variant you'd use to study (a) how people collaborate, (b) which ideas co-occur in student reasoning, and (c) how learners move between states over time?
+- A researcher finds that high- and low-literacy learners use the same AI tool but produce very different network structures of reasoning. What does that tell you about evaluating AI tools with a single average score?
+- Network metrics like 'density' and 'centrality' describe whether interaction is random or organized around hubs. When would an organized network centered on one learner be a sign of good collaboration—and when a sign of a problem?
 
 Network analysis methods share a core premise: that the structure of connections — not just their presence or frequency — carries meaning. Rather than asking "how much of X occurred," they ask "how are elements connected, and what does that connectivity reveal about [[metacognition|cognition]], [[collaborative-learning|collaboration]], or learning processes?" This makes them especially valuable in AI-in-education, where researchers increasingly want to understand the *process* of learner–AI interaction (how learners navigate [[feedback]], dialogue, and revision) rather than only the product (final scores, error rates).
 
@@ -67,3 +75,4 @@ Network methods are used across the knowledge base's evidence base to answer que
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
 
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
+

@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [medical-education, higher-ed, simulation, assessment, adaptive-learning, teacher-role]
 discipline: [medical education]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Medical and Health Professions Education (HPE)** — the teaching and training of medical, nursing, pharmacy, and allied health professionals. AI is reshaping this domain through clinical [[simulation]], [[reinforcement-learning|reinforcement learning]] trainers, [[adaptive-learning|adaptive learning]], and the application of foundational learning principles (experiential, situated, and distributed cognition) in health-professions contexts. Because HPE is high-stakes, competency-based, and clinically embedded, it raises distinct questions about AI's role in skill acquisition, patient safety, and the educator's judgment.
+
+## Questions to Consider
+
+- In medicine, AI benefits like scalable practice and adaptive feedback must be balanced against risks like erosion of hands-on clinical skill — where errors carry direct patient consequences. Where would you draw the line between what AI should do and what a trainee must practice for themselves?
+- The page argues AI should be used to operationalize age-old learning principles — experiential, situated, distributed cognition — rather than replace the educator's guiding role. What makes the educator's judgment indispensable even when AI can simulate or personalize the practice?
+- Reinforcement-learning trainers and agentic AI are now used for clinical and procedural skills in residency. If an AI agent trains a resident on a procedure, how would you verify they've actually learned it safely before they do it on a patient?
+- Because health-professions education is high-stakes and competency-based, assessment questions carry particular weight. How might AI-assisted assessment both improve and threaten the evaluation of clinical competence?
+- Over-reliance on AI is a specific concern in medicine. How do you think training with AI could produce a clinician who is more confident but less able to reason independently — and what could guard against that?
 
 AI in medical and health-professions education is a growing strand of the knowledge base's subject-area coverage. Unlike general [[higher-ed|higher education]], HPE is oriented toward the development of clinical competencies, procedural skills, and professional judgment, which shapes how AI tools are designed and evaluated.
 
@@ -60,4 +68,5 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
+
 

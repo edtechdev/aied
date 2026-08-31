@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-24T12:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 discipline: [cs education, stem education]
@@ -10,6 +10,15 @@ confidence: high
 ---
 
 > **Computational thinking** — a problem-solving approach involving decomposition, pattern recognition, abstraction, and algorithmic design. In AI education, computational thinking is both a prerequisite for understanding AI systems and a skill that AI tools can help develop.
+
+## Questions to Consider
+
+- When you solve a problem by breaking it into parts, spotting patterns, abstracting the essentials, and designing steps — you're already doing computational thinking, even without a computer. Where have you done this recently?
+- A common assumption is that computational thinking is the same as coding or 'computer literacy.' How might they differ, and why might that difference matter for how you teach it?
+- Research suggests students' deficits in fundamental concepts — not the AI tool itself — are what limit their ability to judge AI suggestions. What must a learner already understand before they can critically evaluate an AI's output?
+- Some argue computational thinking should move learners from passively consuming AI outputs toward building, critiquing, and designing with AI. What would a classroom that treats students as producers rather than consumers actually look like?
+- Generative AI can now score students' computational thinking growth — yet both humans and AI struggle with the hardest construct, systems thinking. Where do you think automation of assessment should stop, and why?
+- Robotics research finds computational thinking only develops when concepts are made explicit and mapped to the curriculum, not treated as isolated tech exercises. What's the risk of teaching 'tech skills' without naming the thinking underneath?
 
 ### CT in an AI-era classroom
 
@@ -96,3 +105,4 @@ Computational thinking is the shared cognitive foundation beneath [[ai-literacy]
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[astor-computational-thinking-meta-review-2026]] — CT meta-review of 128 systematic reviews
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Systematic review of CT via robotics in kindergarten
+

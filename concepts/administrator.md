@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [administrator, educational-policy-ai, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 discipline: [stem education]
@@ -11,6 +11,15 @@ confidence: medium
 ---
 
 > **Administrators** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.
+
+## Questions to Consider
+
+- AI adoption is often framed as a classroom decision, but administrators set the conditions — policy, funding, infrastructure. In your institution, who actually decides whether and how AI gets used, and who is left out of that decision?
+- Research finds a recurring gap between high-level policy ambition and day-to-day implementation. Where have you seen a well-intentioned AI policy fail to reach the classroom, and why do you think it fell short?
+- Administrators must balance pedagogical opportunity against risk, equity, and resourcing. If you had to choose between funding one new AI initiative and shoring up data governance and faculty training, which would you pick and why?
+- Procurement decisions made at the institutional level can enable or constrain what teachers and students can actually do. What questions would you want answered before your institution signs a contract for an AI edtech platform?
+- Institutions translate AI capability into acceptable-use frameworks and data standards. How do you weigh the promise of innovation against the privacy and equity implications of the data these tools collect?
+- Administrator choices about AI well-being tools directly shape student experience. What evidence would you want to see before deploying an AI tool meant to support — rather than monitor — students?
 
 AI adoption in education is not purely a classroom decision; it is also an institutional one. Administrators — provosts, deans, CIOs, and institutional leaders — set the conditions under which faculty and students use AI, balancing pedagogical opportunity against governance, resourcing, and risk.
 
@@ -47,3 +56,4 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
+

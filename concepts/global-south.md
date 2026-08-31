@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 level: [higher ed, k 12]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 The **Global South** refers to countries in Africa, Asia, Latin America, and Oceania that are often economically, politically, and historically marginalized relative to the Global North. In [[ai-education|AI in education]] research, Global South contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
+
+## Questions to Consider
+
+- If an AI system performs well on benchmark tests built from Western, English-language data, how confident should you be that it will work equally well for your students? What would you want to check before trusting it in your own context?
+- Consider a learning tool whose training data and evaluation metrics were all developed in the Global North. What assumptions about language, knowledge traditions, and educational realities might it silently encode — and who is most likely to be misrepresented by them?
+- When AI adoption is studied, whose classrooms and institutions tend to dominate the evidence base? How might that skew what we think we know about whether AI 'works' in education?
+- The page argues for treating learners' lived and community epistemologies as authoritative, not just as add-ons to Western models. What would it take for your own AI-related practice or research to center local knowledge rather than import it from elsewhere?
+- Resource constraints are a recurring theme in Global South contexts. How might the promise of low-cost, scalable AI support both close and widen existing opportunity gaps, depending on how it is designed and deployed?
+- How could you tell whether a technology 'adopted' in a particular setting was actually adopted because it fit local conditions — or because it was assumed to transfer? What evidence would distinguish the two?
 
 ### Why It Matters for AIED
 
@@ -46,3 +55,4 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
+

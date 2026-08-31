@@ -1,7 +1,7 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-25T11:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 tags: [edtech-platform, ai-education, online-teaching-and-learning, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity-in-ai-education]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this knowledge base examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.([[access-not-enough-ai-tutoring-2026]])([[oatutor-open-source-adaptive-tutor-2023]])
+
+## Questions to Consider
+
+- Think of the last AI tutoring or feedback tool you encountered. Now think about where it actually 'lived' — the LMS, platform, or app that packaged it. Does that container feel like a neutral delivery vehicle, or could its design choices (open vs. proprietary, integrated vs. standalone, cloud vs. local) have changed what you could do with it?
+- One study found that nearly half of students never used a well-designed AI tutoring platform, and heavy users skewed toward higher-achieving students. If a tool is effective 'in principle' but students don't use it, is the capability or the platform the real problem? What would that mean for how you evaluate edtech?
+- Proprietary AI platforms can confine researchers to a handful of closed systems, while open platforms like OATutor let anyone fork, experiment, and publish. What might be lost — for research, equity, and institutional autonomy — when AI education is delivered through closed, opaque platforms?
+- How much does a platform's business model — who pays, who owns the data, what gets optimized — shape the learning that actually happens on it? Where would you look to see that influence?
+- Some new 'AI-native' platforms replace the one-video-for-many-students MOOC model with a multi-agent classroom built around each learner. Before reading on, what would you worry about losing when instruction becomes one-to-one with agents instead of one-to-many with instructors?
 
 The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
 
@@ -98,3 +106,4 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[a4l-analytics-pipeline]] — A configurable analytics pipeline platform
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
+

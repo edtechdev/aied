@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies]
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, learning-design, curriculum-design]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Educational Development** (also known as *faculty development*) — the processes, programs, and institutional supports that help educators develop the skills, confidence, and professional identity to teach effectively with AI. Educational development spans individual training, curriculum redesign, institutional policy change, and the cultural work of making sense of what GenAI means for the academic profession.
+
+## Questions to Consider
+
+- If faculty in the same department describe AI as a human-like 'assistant' on one hand and a mere 'tool' or 'search engine' on the other, can a training program really succeed before those underlying mental models are surfaced? What might happen if development skips that step?
+- Educational development is often treated as closing a skills gap — teach faculty the tools and they'll adopt them. But some research frames GenAI integration as an identity-level change ('what's the point of teaching in a GenAI world?'). Which framing do you think is more accurate, and what different actions does each one imply?
+- Readiness frameworks like EPIQ-AI split faculty readiness into epistemic, pedagogical, institutional, and quality-and-compliance domains. If readiness is a sociotechnical alignment problem rather than an individual skills gap, what does that say about where a lone 'AI workshop' is likely to fall short?
+- When have you felt your own assumptions about a new technology surfaced and shifted — through discussion, metaphor, or shared language rather than instruction? What role do you think shared language and metaphor-analysis play in helping educators make sense of AI?
+- Consider a low-tech 'metaphor workshop' where faculty, staff, and students articulate whether AI feels like a Swiss army knife, a helper, a black box, or a competitor. Could surfacing fears (including the fear that AI will replace teaching roles) do more for adoption than more technical training?
 
 ## Educational development in the AI era
 
@@ -96,3 +104,4 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
+

@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-08-29T15:22:36-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, educational-development, professional-training, assessment, ethics, higher-ed]
 discipline: [engineering education, stem education]
@@ -12,6 +12,14 @@ confidence: high
 ---
 
 > **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education articles in this knowledge base cluster around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].
+
+## Questions to Consider
+
+- Engineering is a profession where graduates' decisions affect public safety and infrastructure. If students rely on AI to do design and problem-solving work, what is at stake that wouldn't matter in a purely academic subject?
+- Engineering instructors in the same department often hold fundamentally different mental models of AI — some see it as a social 'agent,' others as a technical 'tool.' How might those divergent framings change what students learn to do with AI depending on which instructor they get?
+- Hands-on laboratory and embodied learning have long defined engineering education. If AI can simulate or even automate design tasks, does hands-on experience still matter — or is something genuinely lost when practice becomes simulated?
+- One line of research assesses engineering understanding by tracking students' gestures alongside their speech, finding that close gesture–speech coupling signals coherent conceptual understanding. What could a student's hands reveal about understanding that their words alone might hide?
+- Research finds ethical guidance about AI in engineering is mostly student-facing and compliance-oriented, with weak reciprocal accountability for faculty and institutions. Whose responsibility should the safe use of AI in engineering really be?
 
 Engineering education research is distinctive because it sits at the intersection of professional formation and rigorous STEM content. It emphasizes [[design-thinking|design]], problem-solving, hands-on and laboratory learning, teamwork, and preparing graduates for professional practice. AI raises distinctive questions here: whether hands-on and embodied experience still matters when AI can simulate or automate design tasks; the professional and ethical stakes of AI use (engineers' decisions affect public safety, infrastructure, and sustainability); and how AI reshapes the competencies graduates need and the workforce they enter.
 
@@ -73,3 +81,4 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 - [[isaza-chatgpt-engineering-prompting-2026]] — ChatGPT in engineering education
 - [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education (Liu et al. 2026)
+

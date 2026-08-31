@@ -1,7 +1,7 @@
 ---
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-24T20:50:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 audience: [learners]
@@ -9,6 +9,15 @@ level: [higher ed]
 confidence: low
 ---
 > **Design Thinking** — a key concept in [[ai-education|AI in education]] research: a human-centered, iterative problem-solving process (typically Empathize → Define → Ideate → Prototype → Test) that moves learners from understanding a problem to producing and refining a solution. Explored across 8 articles in this knowledge base.
+
+## Questions to Consider
+
+- Design thinking follows Empathize → Define → Ideate → Prototype → Test. In your own problem-solving, which stage do you naturally skip — and what might that cost you?
+- Generative AI excels at early-stage ideation but can cause 'design fixation' or aesthetic lock-in if used uncritically. Have you ever latched onto a first AI suggestion and struggled to see alternatives?
+- One study found that an adversarial AI that challenged designers produced more iterations, broader exploration, and better final designs — but was frustrating to use. When is friction with an AI genuinely productive?
+- Students who used GenAI heavily in design reported it did NOT reduce their sense of ownership or creativity. Does that contradict the worry that AI erodes authorship — or does it depend on how the tool is orchestrated?
+- Design thinking appears both as a skill being taught and as a method educators use to build AI-supported learning. Which role is more relevant to your work, and how does that change the design principles you'd apply?
+- Practitioners often use AI for iterative prompting and generation but underuse needs assessment and feedback loops. What does it mean to treat AI as a 'fallible co-intelligent collaborator' rather than a content generator?
 
 Design thinking sits at the intersection of creativity, craft, and critique — and it is increasingly where [[generative-ai]] and [[agentic-ai]] are reshaping how students learn to design. Across this knowledge base's connected articles, design thinking appears in two distinct roles: as a *pedagogical object* (the skill being taught and measured) and as a *pedagogical method* (the process educators themselves use to build AI-supported learning). In both roles, the same tension recurs: generative tools can accelerate ideation and broaden participation, but their value depends on how they are orchestrated, on the [[feedback]] they provide, and on whether the learner retains a genuine sense of [[agency]].
 
@@ -64,3 +73,4 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
+

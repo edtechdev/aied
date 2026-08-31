@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [student-experience, social-emotional-learning, ethics, ai-literacy, higher-ed, motivation]
 audience: [learners]
@@ -11,6 +11,15 @@ connected_faqs: [how-ai-impacts-students]
 ---
 
 > **Well-being** — the positive state of being mentally, physically, and socially healthy, encompassing emotional, psychological, and social dimensions. In AI in education, well-being has become a central concern because the rapid integration of [[generative-ai|generative AI]] into learning environments can affect students' and educators' mental health, motivation, belonging, anxiety, and sense of agency — raising questions about whether AI supports or undermines learners' well-being.
+
+## Questions to Consider
+
+- Well-being in education is often treated as a 'soft' or secondary concern next to learning outcomes. But the page frames it as a central, designable dimension of AI integration. Do you think of learner and teacher well-being as something to design for, or as a byproduct you can check later? What might the field lose by treating it as an afterthought?
+- Think about how AI use has affected your own or your students' confidence, anxiety, sense of belonging, or agency — for better and worse. What's one concrete way AI has changed your emotional experience of learning or teaching, beyond just convenience?
+- The page notes AI use is intertwined with anxiety — about academic integrity, about whether relying on AI signals weakness, about over-dependence. Where have you seen AI induce anxiety rather than relieve it, and who in that situation was most affected?
+- One common intuition is that AI reduces stress by handling hard tasks. Where might the opposite be true — AI that lowers short-term effort yet increases anxiety about competence, integrity, or 'not really knowing how to do it'? How would you even measure a shift in well-being rather than just output?
+- Well-being spans emotional, psychological (purpose, autonomy, competence), and social (belonging, relationships) dimensions. Pick one of those. How could an AI tool quietly improve or undermine it in a learning setting — and what would you look for as evidence?
+- Teacher well-being — workload, anxiety about disruptive technology, capacity to offer emotional support — is as much at stake as students'. If you're an educator or leader, what would it take for AI integration to support educators' well-being rather than add to the pressure, and who should be accountable for that?
 
 Well-being in education is multifaceted: it includes emotional well-being (positive affect, low distress), psychological well-being (purpose, autonomy, competence), and social well-being (belonging, positive relationships). In the AI era, well-being matters because AI can reshape learning in ways that affect these dimensions — from reducing students' confidence and increasing anxiety about [[academic-integrity|academic integrity]], to fostering or undermining [[student-engagement|engagement]] and belonging. Concerns about AI's impact on students' socio-emotional skills, well-being, sociability, and sense of trust and empathy (raised by the OECD and others) have positioned well-being as a key consideration in responsible AI integration.
 
@@ -53,4 +62,5 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
 - [[sovereign-hive-titl-further-education-2026]]
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
+
 

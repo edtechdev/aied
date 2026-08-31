@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-08-30T13:41:04-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 audience: [learners]
@@ -9,6 +9,15 @@ confidence: medium
 ---
 
 > **Knowledge tracing** — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the knowledge base's richest modeling thread, spanning Bayesian, deep learning, and [[llm|LLM-enhanced]] approaches to tracking student knowledge as it evolves.
+
+## Questions to Consider
+
+- Knowledge tracing models what you know over time from your performance on exercises, tracking when knowledge is gained and when it decays. What can your answers reveal about whether you truly 'know' something versus just got it right this time?
+- The page warns that 'mastery is not correctness' — a learner can appear mastered yet systematically misapply a skill when a hidden condition is violated. When have you seen someone (or yourself) look like they understood something but actually hadn't?
+- If knowledge tracing feeds adaptive systems that decide what to teach next, what goes wrong when the model mistakes correct answers for true mastery and moves a student on too early?
+- Knowledge tracing comes in many forms — Bayesian, neural, hypergraph, dialogue-based, LLM-enhanced. What trade-offs would you expect between a transparent model you can explain and a powerful but opaque one?
+- The page connects knowledge tracing to simulated students — generating the knowledge states tracing normally infers from real data. How might simulating learners help test a tutor before it meets real students?
+- Since knowledge decays over time, what should an adaptive system do with a student's past 'mastery' once they've forgotten? How would you design for forgetting rather than assuming knowledge persists?
 
 Knowledge tracing transforms raw exercise responses into estimates of what a student has mastered and what they still need to learn. Unlike simple correctness tracking, knowledge tracing models the temporal dynamics of learning — when knowledge is gained, when it decays, and how concepts relate to each other.
 
@@ -62,3 +71,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
+

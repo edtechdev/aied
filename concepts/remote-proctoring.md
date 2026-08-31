@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-08-25T10:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [remote-proctoring, academic-integrity, summative-assessment, online-teaching-and-learning, privacy, equity-in-ai-education, higher-ed]
 level: [higher ed]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Remote proctoring** — the monitoring of examinations when students take them away from a supervised physical venue, ranging from a human proctor watching via webcam or control center to fully automated AI-based proctoring systems (AIPS) that use machine/deep learning to verify identity and flag suspicious behavior. It is the primary means of preserving [[summative-assessment]] validity and [[academic-integrity|academic integrity]] in [[online-teaching-and-learning|online and distance learning]], where in-person invigilation is often unfeasible — but it raises serious concerns about [[privacy]], academic surveillance, equity, fairness, and the erosion of [[trust]], costs that can themselves harm the learning environment it is meant to protect.
+
+## Questions to Consider
+
+- Before you read, when you picture 'academic integrity in online exams,' what's your first instinct about how to preserve it — and is that instinct about detecting cheaters or about building trust? The page argues these reflect two very different philosophies.
+- Remote proctoring ranges from a human watching via webcam to AI systems analyzing eye movements, head posture, and facial expressions. What does an AI system *actually* observe when it flags 'suspicious behavior,' and how confident are you that looking away from the screen equals cheating?
+- The page warns that monitoring can be counterproductive: being watched raises test anxiety, and stressed students may be *more* likely to cheat. Can you think of a time pressure or surveillance affected your own performance? Does that experience undermine the case for proctoring?
+- Automated proctoring captures students' living space, face, and voice, often with little genuine choice but to consent. Where is the line between reasonable exam supervision and surveillance that presumes students guilty until proven honest — and who should draw it?
+- Research shows proctoring can flag benign behavior as suspicious, producing false accusations, and that model accuracy varies across demographics and environments. If you're an administrator, how do you weigh the integrity it recovers against the equity and trust it can erode?
+- The page frames proctoring as one tool, not a solution — alternatives like oral and process-based assessment exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
 
 Remote proctoring exists on a spectrum. **Online proctoring** typically involves a human proctor monitoring a student through a webcam or from a control center. **Automated/AI-based proctoring (AIPS)** replaces or augments the human with machine-learning and deep-learning systems (CNNs, RNNs, LSTMs) that analyze visual cues — eye movements, head posture, facial expressions, and body language — to detect suspicious behavior in real time. Common platforms include ProctorU and Kryterion. AIPS typically combine four functions: (1) identity authentication (e.g., camera face verification), (2) browsing restrictions, (3) remote authorization/control of the exam, and (4) report generation from recorded sessions.
 
@@ -66,3 +75,4 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
 
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
+

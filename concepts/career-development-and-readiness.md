@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-08-27T11:42:03.434133-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [adult-learning, ai-anxiety-and-stress, professional-training, higher-ed, ai-literacy]
 level: [higher ed]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Career development and readiness** — the processes and capacities that prepare learners to build, adapt, and sustain a career in an AI-disrupted labor market: career adaptability, employability, workforce readiness, and the skills (including [[ai-literacy]]) that employers value. In the AI-in-education context this concept is increasingly important because AI both reshapes the skills graduates need and generates **career-related AI anxiety** about job displacement — making career readiness a protective factor for student [[well-being]].
+
+## Questions to Consider
+
+- Career readiness here is framed as adaptability — the capacity to navigate, adjust, and thrive across changing roles — rather than just credentialing. How does that reframing change what you think a career-focused education should actually build?
+- Research consistently shows career adapt-abilities significantly reduce AI anxiety about job displacement. Why might being more adaptable to career change make a student feel less anxious about a technology that threatens their current job prospects?
+- One key claim is that AI literacy is necessary but not sufficient for career readiness — students also need adaptability and positive self-evaluations. Can you think of someone who is highly AI-literate yet still anxious or unprepared for the workforce? What were they missing?
+- An ITHAKA S+R report documents a skills-prioritization gap: instructors emphasize critical, responsible use of AI, while employers favor workflow automation and human-AI teaming skills — and they agree on only one of 26 AI skills. Why do you think classroom and workplace priorities diverge so sharply, and who should adapt?
+- The report finds most institutions lack both a consensus on what AI skills look like and an assessment framework for them. If you had to define and assess 'workforce-ready AI skills' for a graduating student, what would you measure and how?
+- Fear of replacement by AI is identified as a primary driver of AI anxiety, and career readiness is positioned as a protective factor for student well-being. How should an education program address the anxiety itself, rather than only adding skills?
 
 As AI transforms occupations, education's role in career development has broadened from credentialing toward building **adaptability** — the capacity to navigate, adjust, and thrive across changing roles. This concept connects education to employability and links to [[ai-anxiety-and-stress]]: students with stronger career adapt-abilities experience less AI anxiety.
 
@@ -49,3 +58,4 @@ Career development and readiness connects to [[professional-training]] (the voca
 - [[duan-ai-anxiety-career-decisions-college-2026]] — AI anxiety impairs career decisions via career adaptability (63.35% mediation)
 - [[ustun-ai-anxiety-job-finding-anxiety-2026]] — AI anxiety and attitudes predict job-finding anxiety (1,057 students)
 - [[dag-ai-perceptions-career-anxiety-health-2026]] — AI anxiety predicts job-search anxiety in health sciences (r=0.233, 821 students)
+

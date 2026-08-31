@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-24T18:15:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 research_method: [benchmark]
@@ -11,6 +11,14 @@ confidence: high
 ---
 
 > Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.([[singh-eduqwen-pedagogical-rl-2026]]) Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.([[jeon-isd-agent-bench-2026]])
+
+## Questions to Consider
+
+- General-purpose chatbots are optimized to give quick, correct answers. Why is that the *opposite* of what a tutor needs, and what does that 'incentive mismatch' suggest about off-the-shelf AI as a teaching tool?
+- A benchmark found 97 models scored between 28% and 89% on pedagogical knowledge—meaning it's not automatically learned in pretraining. Does that surprise you, and what does it imply about trusting a general LLM to teach?
+- EduQwen's training explicitly rewards 'guiding' over 'answering.' Before reading the methods, can you think of how you'd tell an AI to prefer guiding—and how you'd measure whether it actually did?
+- The page shows classical design theory (ADDIE) combined with flexible reasoning beat both pure theory and pure technique. Why might 'structure plus flexibility' outperform either alone when an AI designs instruction?
+- Training pedagogy into a model costs time, data, and compute. For your context, what would convince you the investment is worth it versus just prompting a general-purpose model with 'act like a tutor'?
 
 General-purpose LLMs are optimized for helpfulness: users want quick, correct answers. Tutoring requires the opposite: the goal is **not to provide the answer, but to help the student get to the answer themselves**. This creates a fundamental incentive mismatch.
 
@@ -134,3 +142,4 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[tact-pedagogically-adaptive-esl-tutoring]]- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
+

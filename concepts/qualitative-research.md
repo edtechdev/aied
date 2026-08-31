@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-08-24T02:00:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [qualitative-research, research-methods-aied]
 research_method: [qualitative, research methods, interviews, case study]
@@ -9,6 +9,15 @@ confidence: high
 ---
 
 > **Qualitative research** — the family of empirical methods that study how people *experience, interpret, and make meaning* of phenomena, typically through words, observations, and artifacts rather than numbers. In [[ai-education|AI in education]], qualitative methods reveal *how* students and teachers actually experience [[generative-ai|AI tools]] — the meanings, tensions, harms, and mechanisms that standardized measures miss. Because AI-in-education is fast-moving and its effects are often mediated by context, perception, and contested constructs like [[trust]] and [[agency]], qualitative work is essential alongside quantitative designs (see [[research-methods-aied]]).
+
+## Questions to Consider
+
+- A survey tells you 40% of students distrust an AI tutor; a focus group tells you *why* they distrust it. Which number feels more actionable to you, and what does the 'why' add that the percentage cannot?
+- Qualitative findings are usually not statistically generalizable, yet they're often 'conceptually generalizable' — mechanisms and dynamics that transfer elsewhere. Before you read, what does it mean for a finding to be generalizable in concept but not in statistics?
+- The page cautions that human–LLM coding *agreement* is not the same as coding *quality* when human consensus isn't ground truth. Have you ever treated 'two reviewers agreed' as proof something was correct? When is agreement a signal of truth, and when is it just shared error?
+- If AI can now assist qualitative coding at scale, does that threaten the interpretive depth that makes qualitative research valuable, or merely automate its drudgery? How would you decide which is happening in a given study?
+- Qualitative work centers under-represented voices — ethnic-minority students, skeptical nonusers — that large surveys often miss. Think of an AI-in-education claim you've heard. Whose experience of it is probably *not* captured by the headline number?
+- Choose one contested construct you care about — trust, agency, or harm. Before reading, sketch how you'd study it with words and observations rather than numbers, and note what you'd lose by doing so.
 
 Qualitative research is not a single method but a family organized by *what* they study and *how* evidence is gathered and analyzed. What unites them is an emphasis on meaning-making, context, and depth over breadth and causal control. Qualitative findings are typically **not** generalizable in the statistical sense, but they are often *conceptually generalizable* — revealing mechanisms, categories, and dynamics that transfer to other settings. In the knowledge base's corpus, qualitative work is prominent for studying AI acceptance, trust, harm, teaching practice, and learning processes.
 
@@ -85,3 +94,4 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
+

@@ -1,13 +1,21 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-24T19:45:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, reinforcement-learning, experiential-learning]
 confidence: high
 ---
 
 > **Simulation** — the use of modeled environments, agents, or scenarios to support learning through practice and feedback in contexts that are safe, repeatable, and often otherwise inaccessible. Simulations let learners act, make errors, and see consequences without real-world cost, and are increasingly powered by AI and agent-based modeling.
+
+## Questions to Consider
+
+- Recall a time you learned something by doing it in a safe, low-stakes environment — a lab, a mock exercise, a flight or game simulator. What made that practice effective, and what might be lost if the simulation were too realistic or not realistic enough?
+- The page argues simulations let learners make errors and see consequences 'without real-world cost.' What do you think is gained, and what might be lost, when the cost of a mistake drops to nearly zero?
+- If an AI can simulate patients, students, or conversation partners for practice, where would you draw the line between valuable rehearsal and practice that fails to transfer to real human interaction?
+- Why might a learner's awareness of a simulation's limits — its trustworthiness — matter as much as how faithfully it models reality?
+- How could the same simulation technology that helps someone learn also mislead them, and what would you need to know to tell those two outcomes apart?
 
 Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] pedagogies. It provides the deliberate practice, productive failure, and [[feedback|feedback loops]] that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
 
@@ -54,3 +62,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[educasim-cs1-instructional-practice]] — EducaSim: simulated small-group section for teacher practice
+

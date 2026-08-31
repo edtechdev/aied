@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-08-27T09:20:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 connected_faqs: [redesign-assessment-ai-era]
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
@@ -11,6 +11,15 @@ confidence: high
 ---
 
 > **Authentic assessment** — the design of assessments that examine student performance on worthy, realistic intellectual tasks, rather than isolated, standardized test items. Originating with Wiggins (1990) as a counterbalance to standardized tests, authentic assessment has evolved from replicating workplace tasks toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. [[generative-ai|Generative AI]] has made authentic assessment newly essential: any task a [[llm|language model]] can credibly simulate in a take-home setting loses its validity as evidence of original student competence, so authentic forms must be redesigned around what AI cannot credibly counterfeit.
+
+## Questions to Consider
+
+- Authentic assessment examines performance on worthy, realistic intellectual tasks rather than isolated test items. Before reading, did you assume an 'authentic' task simply replicates a real-world or workplace scenario? This page argues authenticity has evolved well beyond mere replication — what other forms can it take?
+- A central claim is that any task a language model can credibly simulate in a take-home setting loses its validity as evidence of original student competence. Which assessment in your own teaching or study would you now consider 'counterfeitable' — and what makes you say that?
+- The page highlights a striking gap: only 3 of 37 studies addressed social authenticity — whether assessment helps students contribute to societal transformation. Why do you think the social dimension of authenticity is so neglected, and what might assessing it actually look like?
+- The knowledge base argues authenticity must be 'redesigned, not policed.' When students co-author rubrics, choose what and how to submit, and engage in real-time interaction, AI use becomes expected and declared rather than concealed. How would that shift the relationship between student and assessor?
+- Oral exams and process-based portfolios are offered as AI-resistant authentic forms. But graded reflection and self-assessment risk becoming performative — students performing the reflection they think is wanted. How could you design for genuine reflection rather than performance?
+- When AI supplies the rubric, the feedback, and the monitoring, the page warns that a student's metacognitive practice may be displaced. If the tool does the evaluating, what is left for the learner to actually practice or learn?
 
 Authentic assessment sits at the heart of how [[assessment]] is being rethought in the AI era. It connects to [[assessment-validity]] (does the assessment measure what it claims?), [[formative-assessment]] (authentic tasks that inform learning), and [[academic-integrity]] (moving from detection to designing tasks where AI use is expected and declared). It is a central response in the knowledge base's assessment-redesign literature.
 
@@ -101,3 +110,4 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+

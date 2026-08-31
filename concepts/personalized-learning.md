@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-27T08:12:21.057525-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 audience: [learners]
@@ -10,6 +10,15 @@ confidence: medium
 ---
 
 > **Personalized learning** — tailoring educational experiences to individual [[student-modeling|learner profiles]], including prior knowledge, learning pace, preferences, and [[affective-computing|affective]] states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.
+
+## Questions to Consider
+
+- When you think of 'personalized learning,' do you imagine content tailored to a learner's pace, or to their chosen goals? The page says these are deeply different (uniform outcomes via varied paths vs. diverse outcomes). Which do you value more, and why?
+- The page distinguishes personalized learning (the goal) from adaptive learning (one mechanism). Can you think of personalization that doesn't involve real-time adaptation—and does it still count?
+- A system can adapt without the learner ever feeling recognized. When have you experienced being 'personalized to' without feeling genuinely known? What's the difference?
+- The page flags that over-personalization can strand learners in low-expectation tracks. How might well-intentioned AI tailoring accidentally lower the ceiling for a learner?
+- Personalization needs detailed learner data; privacy needs data minimization. Where do you draw the line between 'enough data to adapt' and 'so much that the learner is exposed'?
+- What would an AI need to remember about you across sessions to genuinely personalize your learning—and what are the risks of it remembering those things?
 
 Tailoring educational experiences to individual learner profiles, including [[prior-knowledge|prior knowledge]], learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
@@ -104,3 +113,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[nguyen-genai-global-south-review-2026]] — Generative AI in education across the Global South
 - [[vargas-situated-learning-ai-review-2024]] — Situated learning and AI review
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Evidence on the personalization-at-scale promise
+

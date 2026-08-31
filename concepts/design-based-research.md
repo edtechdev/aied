@@ -1,7 +1,7 @@
 ---
 title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-08-24T02:30:00-04:00"
+updated: "2026-08-31T06:22:29-04:00"
 type: concept
 tags: [design-based-research, research-methods-aied]
 research_method: [design-based research, research methods, literature review]
@@ -10,6 +10,14 @@ confidence: high
 ---
 
 > **Design-based research (DBR)** — a methodological approach that iteratively designs, implements, and refines an educational intervention in authentic contexts, cycling between theory, design, and real-world practice to produce both a usable artifact and validated design principles. In [[ai-education|AI in education]], DBR is the method of choice for developing AI learning environments, pedagogical models, and teacher-training programs that must work in the messy reality of classrooms — trading the causal control of [[rct|experiments]] for ecological authenticity and iterative refinement.
+
+## Questions to Consider
+
+- Design-based research iteratively designs, implements, and refines an intervention in real classrooms, cycling between theory and practice. How is that fundamentally different from a controlled experiment — and why might a classroom researcher prefer it?
+- DBR deliberately trades causal control for ecological authenticity. If you can't say for sure WHAT caused a learning gain, what is the knowledge still worth?
+- DBR produces two things at once: a usable artifact and validated design principles. Which of those two outputs matters more to you — a tool that works, or a principle you can apply elsewhere?
+- A strength of DBR is high practical relevance; a limitation is that findings are context-bound and hard to generalize. When would you trust a DBR finding enough to apply it in a very different setting?
+- Without an unassisted, controlled outcome measure, DBR learning gains can reflect the same 'AI-inflated performance' problem it studies. How would you design a DBR study so its reported gains actually mean learning, not assisted performance?
 
 DBR is a *design* tradition, not a data tradition: it does not fit neatly into the [[quantitative-research|quantitative]]/[[qualitative-research|qualitative]]/experimental contrast. It deliberately combines elements of all three — collecting both outcome and process data across iterative cycles — to answer *"how do we design this AI learning environment to work in practice?"* rather than *"does X cause Y?"*. It is closely related to [[learning-design]] (which specifies the design process) and to [[usability-research|usability evaluation]] (which feeds refinement), but is distinguished by its sustained, theory-driven, multi-cycle character and its dual goal of improving practice *and* generating theory.
 
@@ -66,3 +74,4 @@ DBR is complementary to, not a rival of, other research methods (see [[research-
 - [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators (DBR)
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
 - [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
+
