@@ -51,7 +51,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the [[ai-education|umbrella itself]], [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], the [[technology-acceptance-model|technology adoption]] research that models how users take up AI, [[prompt-engineering|prompt engineering]], [[ai-use-disclosure|AI use disclosure]], [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
+The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the [[ai-education|umbrella itself]], [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], the [[technology-acceptance-model|technology adoption]] research that models how users take up AI, [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
 
 ## Learning and instruction
 
@@ -2439,165 +2439,6 @@ While adoption models are effective for predicting uptake, they are less well su
 
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
-
----
-
-## [Prompt Engineering](https://edtechdev.github.io/aied/concepts/prompt-engineering/)
-
-> **Prompt engineering** — the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape [[intelligent-tutoring|AI tutoring]] behavior).
-
-## Questions to Consider
-
-- You've likely typed a prompt into an AI tool recently. Now consider this: the way you phrased it isn't neutral — it may reveal how you planned, thought, and allocated your effort. What might your own prompting habits say about how you approach problems?
-- A study found that users who phrase requests skillfully systematically get better output than those expressing the same intent less adroitly. If you accept that 'prompt privilege' is real, is fair access to AI best fixed by teaching everyone to prompt better, or by redesigning the system to not demand that skill — and what are the trade-offs of each?
-- Is prompting a 'trick' to be memorized, or a genuine intellectual skill? One line of research treats it as professional judgement within a discipline (journalism, law, medicine); another treats it as a core of AI literacy. Which view aligns with your own experience of what actually separates good prompts from bad ones?
-- Well-designed prompts can scaffold student thinking, while poorly used ones can encourage cognitive offloading. Can you recall a moment when an AI answer did the thinking for you? What about the prompt — or your intent — made that happen, and could it have been designed to do the opposite?
-- Prompting is both a learner skill and a system-design lever: some tutors now automatically route and select prompts for the user. As prompting moves from the user to the system, what do students lose — and what do they gain?
-- Set a small goal before you read: after learning about prompt engineering, decide on one concrete way you'll change how you write prompts in your own work, and what result you'll check to know it worked.
-
-## Introduction
-
-Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and pedagogical value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort.
-
-### How prompt engineering appears in the research
-
-- **Prompting as cognitive trace:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] show that prompt patterns reveal [[cognitive-offloading|cognitive offloading]] — high-quality work uses context-rich, polite, and instructional prompts; low-quality work shows reactive disagreement without domain grounding
-- **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
-- **Prompting as system design:** [[cotal-formative-assessment-scoring-2026|CoTAL]] uses human-in-the-loop prompt engineering for [[formative-assessment|formative assessment]] scoring; [[choi-anchor-aes-prompting-2025|anchor-based prompting]] improves [[automated-essay-scoring|automated essay scoring]]
-- **Adaptive prompt routing:** [[learning-to-prompt-adaptive-tutoring|Learning to Prompt]] treats prompt selection as part of the tutoring system itself — subject-aware prompt routing over 14 pedagogical features, where a stochastic router selects the best prompt per conversation. This shifts prompting from a learner skill into an adaptive system-design lever, improving engagement and efficiency (28.1% vs 19.6% exercise conversion in a real-world A/B test).
-- **Prompt modalities:** [[voice-text-prompt-problems-computing-education|Voice vs. text input research]] examines whether prompting modality affects learning outcomes
-- **Scaffolded prompting:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement scaffolding]] teach structured prompting as a learning intervention
-- **Prompt privilege and equity:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] show prompting expertise is unevenly distributed — users who phrase requests skillfully systematically get better output than those expressing the same intent less adroitly. Their Prompt Equity Transformer shifts prompt optimization from the user to the AI system, arguing that equitable output should be engineered into the model rather than demanded of novices.
-
-- **Prompting as situated professional judgement.** Beyond literacy and system design, prompting can be framed as a *disciplinary practice*. The [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. taxonomy]] for journalism treats task definition and prompting as a form of professional judgement exercised within a domain's epistemic and ethical norms — translating journalistic work into explicit tasks (newsgathering → sensemaking → editing → publication/distribution) makes assumptions, priorities, and ethical considerations visible, and turns prompting into a pedagogical tool for critical AI literacy. Its logic transfers to other knowledge-intensive professions (law, medicine, public policy).
-
-### Connections to broader concepts
-
-Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
-
-- **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven Problem-Solving (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
-
-## Connected Concepts
-- [[guardrails]]
-
-- [[scaffolding]]
-- [[ai-literacy]]
-- [[agentic-ai]]
-- [[metacognition]]
-- [[curriculum-design]]
-- [[cognitive-offloading]]
-- [[writing-education]]
-- [[k-12]]
-- [[generative-ai]]
-- [[learning-design]]
-- [[cs-education]]
-- [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
-
-## Connected Articles
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
-- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
-- [[benali-genai-academic-writing-2026]]
-- [[ying-genai-journalism-assessment-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
-- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
-
-- [[aaai2026-prompting-literacy-k12]]
-- [[ai-adoption-training-public-sector]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[choi-anchor-aes-prompting-2025]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[llm-intervention-design-cs-review]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[probing-ai-generated-physics-solutions-2026]]
-- [[genai-assisted-problem-posing-physics-2026]]
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following vs prompt engineering
-- [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-
-- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
-- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
-
----
-
-## [AI Use and Disclosure Statements](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/)
-
-> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The knowledge base's research shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].
-
-## Questions to Consider
-
-- If you were a student who used generative AI for an assignment, would you tell your instructor? This page suggests the honest answer is heavily shaped by fear — research finds disclosure is rare, driven by 'penalty anxiety' and worries about self-incrimination. What assumptions about your own disclosure behavior might you need to question?
-- The central design question here is whether disclosure functions as surveillance or as a scaffold for ethical engagement. Before reading, which did you assume a disclosure form was trying to do — and can you think of a way the same form could serve the opposite purpose?
-- One striking finding is that students who always disclosed had over three times the odds of being accused of cheating — transparency invited suspicion. If honesty can increase suspicion, what does that say about how we should design trust between students and instructors?
-- This page distinguishes mandatory compliance mechanisms from formative disclosure practices that build AI literacy and self-regulation. Which of these do you think your own institution's approach most resembles, and what would have to change for it to become the other?
-- The research connects concealment to maladaptive self-regulation, and disclosure to adaptive help-seeking — making your AI use visible can invite useful calibration from an instructor. When have you (as learner or teacher) found it beneficial to make your uncertainty or use of help visible, rather than hiding it?
-- Disclosure norms vary by discipline, language background, and context — with equity implications when some students are more likely to be penalized for concealing than others. If you were designing a disclosure policy, how would you prevent it from placing an uneven burden on already-marginalized learners?
-
-## Introduction
-
-## What AI use disclosure statements are
-
-AI use declarations require or invite students to state whether and how they used generative AI in an assignment — typically on a coursework coversheet, submission form, or reflection prompt. Frameworks vary widely, from simple checkbox declarations to structured formats that document the model, the input, the purpose, and how the output was evaluated (e.g., the Model-Input-Evaluation/MInE framework). They range from **mandatory compliance mechanisms** (with penalties for non-disclosure) to **[[formative-assessment|formative]] practices** that treat disclosure as a [[pedagogy|pedagogical]] instrument for developing [[ai-literacy]], transparency, and self-[[regulation]]. The central design question is whether disclosure functions as surveillance or as a [[scaffolding|scaffold]] for ethical [[student-engagement|engagement]].
-
-## Why disclosure matters for AI in education
-
-Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback|feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
-
-## What the research shows
-
-- **Disclosure is rare and anxiety-driven.** Across studies, most students do not disclose AI use to instructors. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] found only ~34% of economics students admitted AI use and disclosure was rarer, driven by "penalty anxiety." [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found 66% of students never or rarely disclosed, with fear of academic penalty the top reason. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at King's [[business-education|Business School]].
-- **Ambiguous and punitive policies drive concealment.** When AI-use policies are unclear, unenforced, or bans, students hide use rather than engage. "Limited use in certain situations" policies best predict disclosure; "not allowed" or "not aware" policies predict concealment. Clear, consistent, collaborative policies are repeatedly called for.
-- **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
-- **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
-- **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
-
-## Designing effective disclosure
-
-- **Clarity and consistency beat deterrence.** Develop clear, consistent, collaboratively-built AI policies with concrete examples of acceptable use and how to declare it; avoid punitive or vague frameworks that motivate concealment.
-- **Address the affective barrier.** Disclosure policies that target behavior alone are insufficient — normalize AI use, reduce perceived judgment and stigma, and reassure students that honest disclosure will not be penalized.
-- **Make disclosure formative, not just compliance.** Use reflection prompts and structured declarations (model/input/evaluation) so disclosure builds [[ai-literacy]] and self-regulation rather than functioning as surveillance.
-- **Train faculty to build trust, not rely on detection.** Disclosure should never be followed by accusation; faculty should learn trust-building conversations instead of leaning on unreliable AI detectors.
-- **Design for equity.** Attend to differential disclosure across disciplines, language status, and student backgrounds, and avoid mechanisms that place uneven burdens on already-marginalized learners.
-
-## Connections
-
-AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[ai-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
-
-## Connected Concepts
-
-- [[academic-integrity]]
-- [[ethics]]
-- [[trust]]
-- [[trust-calibration]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[assessment]]
-- [[authentic-assessment]]
-- [[ai-literacy]]
-- [[self-regulated-learning]]
-- [[help-seeking]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
-- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 
 ---
 
@@ -6848,6 +6689,96 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[pchl-he-framework-genai-content-creation-2026]]
 
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
+
+---
+
+## [Prompt Engineering](https://edtechdev.github.io/aied/concepts/prompt-engineering/)
+
+> **Prompt engineering** — the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape [[intelligent-tutoring|AI tutoring]] behavior).
+
+## Questions to Consider
+
+- You've likely typed a prompt into an AI tool recently. Now consider this: the way you phrased it isn't neutral — it may reveal how you planned, thought, and allocated your effort. What might your own prompting habits say about how you approach problems?
+- A study found that users who phrase requests skillfully systematically get better output than those expressing the same intent less adroitly. If you accept that 'prompt privilege' is real, is fair access to AI best fixed by teaching everyone to prompt better, or by redesigning the system to not demand that skill — and what are the trade-offs of each?
+- Is prompting a 'trick' to be memorized, or a genuine intellectual skill? One line of research treats it as professional judgement within a discipline (journalism, law, medicine); another treats it as a core of AI literacy. Which view aligns with your own experience of what actually separates good prompts from bad ones?
+- Well-designed prompts can scaffold student thinking, while poorly used ones can encourage cognitive offloading. Can you recall a moment when an AI answer did the thinking for you? What about the prompt — or your intent — made that happen, and could it have been designed to do the opposite?
+- Prompting is both a learner skill and a system-design lever: some tutors now automatically route and select prompts for the user. As prompting moves from the user to the system, what do students lose — and what do they gain?
+- Set a small goal before you read: after learning about prompt engineering, decide on one concrete way you'll change how you write prompts in your own work, and what result you'll check to know it worked.
+
+## Introduction
+
+Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and pedagogical value of those responses depend heavily on prompt design. Research in this knowledge base reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort.
+
+### How prompt engineering appears in the research
+
+- **Prompting as cognitive trace:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al.]] show that prompt patterns reveal [[cognitive-offloading|cognitive offloading]] — high-quality work uses context-rich, polite, and instructional prompts; low-quality work shows reactive disagreement without domain grounding
+- **Prompting as literacy:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] and [[aaai2026-prompting-literacy-k12|K-12 prompting literacy]] research frame prompting as a core [[ai-literacy]] component
+- **Prompting as system design:** [[cotal-formative-assessment-scoring-2026|CoTAL]] uses human-in-the-loop prompt engineering for [[formative-assessment|formative assessment]] scoring; [[choi-anchor-aes-prompting-2025|anchor-based prompting]] improves [[automated-essay-scoring|automated essay scoring]]
+- **Adaptive prompt routing:** [[learning-to-prompt-adaptive-tutoring|Learning to Prompt]] treats prompt selection as part of the tutoring system itself — subject-aware prompt routing over 14 pedagogical features, where a stochastic router selects the best prompt per conversation. This shifts prompting from a learner skill into an adaptive system-design lever, improving engagement and efficiency (28.1% vs 19.6% exercise conversion in a real-world A/B test).
+- **Prompt modalities:** [[voice-text-prompt-problems-computing-education|Voice vs. text input research]] examines whether prompting modality affects learning outcomes
+- **Scaffolded prompting:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement scaffolding]] teach structured prompting as a learning intervention
+- **Prompt privilege and equity:** [[prompt-privilege-equitable-ai-access-2026|Jin et al.]] show prompting expertise is unevenly distributed — users who phrase requests skillfully systematically get better output than those expressing the same intent less adroitly. Their Prompt Equity Transformer shifts prompt optimization from the user to the AI system, arguing that equitable output should be engineered into the model rather than demanded of novices.
+
+- **Prompting as situated professional judgement.** Beyond literacy and system design, prompting can be framed as a *disciplinary practice*. The [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx et al. taxonomy]] for journalism treats task definition and prompting as a form of professional judgement exercised within a domain's epistemic and ethical norms — translating journalistic work into explicit tasks (newsgathering → sensemaking → editing → publication/distribution) makes assumptions, priorities, and ethical considerations visible, and turns prompting into a pedagogical tool for critical AI literacy. Its logic transfers to other knowledge-intensive professions (law, medicine, public policy).
+
+### Connections to broader concepts
+
+Prompt engineering connects to [[scaffolding]] — well-designed prompts can scaffold student thinking rather than bypass it. It intersects with [[metacognition]] and [[ai-literacy]], as effective prompting requires understanding both the AI's capabilities and one's own learning goals. The [[cognitive-offloading]] research directly links prompt quality to whether AI use supports or undermines learning.
+
+- **Prompting strategy predicts performance.** An [[isaza-chatgpt-engineering-prompting-2026|empirical study of 128 engineering students]] found that AI Query Efficiency (clear, well-structured prompts) and AI-Driven Problem-Solving (strategic integration of AI output into reasoning) were the strongest predictors of academic success — even after controlling for GPA — indicating prompting is a teachable skill that shapes how effectively students learn with AI.
+
+## Connected Concepts
+- [[guardrails]]
+
+- [[scaffolding]]
+- [[ai-literacy]]
+- [[agentic-ai]]
+- [[metacognition]]
+- [[curriculum-design]]
+- [[cognitive-offloading]]
+- [[writing-education]]
+- [[k-12]]
+- [[generative-ai]]
+- [[learning-design]]
+- [[cs-education]]
+- [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+
+## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: real-time coaching for educational LLM prompting
+- [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — Task-based taxonomy of LLM tasks for critical AI literacy in journalism
+- [[benali-genai-academic-writing-2026]]
+- [[ying-genai-journalism-assessment-2026]]
+- [[enright-staff-perspectives-genai-2026]]
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
+
+- [[aaai2026-prompting-literacy-k12]]
+- [[ai-adoption-training-public-sector]]
+- [[ase-26-agentic-software-engineering-curriculum]]
+- [[choi-anchor-aes-prompting-2025]]
+- [[guided-llm-scaffolding-independent-learning]]
+- [[learning-to-prompt-adaptive-tutoring]]
+- [[llm-intervention-design-cs-review]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+- [[tracing-genai-literacy-interaction-patterns]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]
+- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
+- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following vs prompt engineering
+- [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
+
+- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
+- [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
 
 ---
 
@@ -15957,6 +15888,75 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
+
+---
+
+## [AI Use and Disclosure Statements](https://edtechdev.github.io/aied/concepts/ai-use-disclosure/)
+
+> **AI use and disclosure statements** — the policies, declarations, and practices through which learners are asked (or choose) to disclose their use of [[generative-ai|generative AI]] in academic work. Also known as AI use declarations, AI disclosure statements, or transparency statements, these mechanisms sit at the intersection of [[academic-integrity]], [[ethics]], [[trust]], and [[assessment]] in the AI era. The knowledge base's research shows that disclosure is far from a neutral administrative formality: it is shaped by fear of penalties, ambiguous policies, inconsistent enforcement, peer norms, stigma, and the psychological costs of self-incrimination — and it is deeply entangled with [[self-regulated-learning]] and [[help-seeking]].
+
+## Questions to Consider
+
+- If you were a student who used generative AI for an assignment, would you tell your instructor? This page suggests the honest answer is heavily shaped by fear — research finds disclosure is rare, driven by 'penalty anxiety' and worries about self-incrimination. What assumptions about your own disclosure behavior might you need to question?
+- The central design question here is whether disclosure functions as surveillance or as a scaffold for ethical engagement. Before reading, which did you assume a disclosure form was trying to do — and can you think of a way the same form could serve the opposite purpose?
+- One striking finding is that students who always disclosed had over three times the odds of being accused of cheating — transparency invited suspicion. If honesty can increase suspicion, what does that say about how we should design trust between students and instructors?
+- This page distinguishes mandatory compliance mechanisms from formative disclosure practices that build AI literacy and self-regulation. Which of these do you think your own institution's approach most resembles, and what would have to change for it to become the other?
+- The research connects concealment to maladaptive self-regulation, and disclosure to adaptive help-seeking — making your AI use visible can invite useful calibration from an instructor. When have you (as learner or teacher) found it beneficial to make your uncertainty or use of help visible, rather than hiding it?
+- Disclosure norms vary by discipline, language background, and context — with equity implications when some students are more likely to be penalized for concealing than others. If you were designing a disclosure policy, how would you prevent it from placing an uneven burden on already-marginalized learners?
+
+## Introduction
+
+## What AI use disclosure statements are
+
+AI use declarations require or invite students to state whether and how they used generative AI in an assignment — typically on a coursework coversheet, submission form, or reflection prompt. Frameworks vary widely, from simple checkbox declarations to structured formats that document the model, the input, the purpose, and how the output was evaluated (e.g., the Model-Input-Evaluation/MInE framework). They range from **mandatory compliance mechanisms** (with penalties for non-disclosure) to **[[formative-assessment|formative]] practices** that treat disclosure as a [[pedagogy|pedagogical]] instrument for developing [[ai-literacy]], transparency, and self-[[regulation]]. The central design question is whether disclosure functions as surveillance or as a [[scaffolding|scaffold]] for ethical [[student-engagement|engagement]].
+
+## Why disclosure matters for AI in education
+
+Disclosure is the mechanism that makes AI-assisted work *visible* and therefore governable — the counterpart to [[academic-integrity]] and the precondition for [[trust]] between students and instructors. Without transparency about AI use, educators cannot distinguish legitimate support from misconduct, calibrate [[feedback|feedback]], or detect equity gaps. But the research reveals that disclosure is also an **[[affective-computing|affective]] and social process**, not just a policy one.
+
+## What the research shows
+
+- **Disclosure is rare and anxiety-driven.** Across studies, most students do not disclose AI use to instructors. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] found only ~34% of economics students admitted AI use and disclosure was rarer, driven by "penalty anxiety." [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found 66% of students never or rarely disclosed, with fear of academic penalty the top reason. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] documented **74% non-compliance** with a mandatory declaration at King's [[business-education|Business School]].
+- **Ambiguous and punitive policies drive concealment.** When AI-use policies are unclear, unenforced, or bans, students hide use rather than engage. "Limited use in certain situations" policies best predict disclosure; "not allowed" or "not aware" policies predict concealment. Clear, consistent, collaborative policies are repeatedly called for.
+- **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
+- **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
+- **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
+
+## Designing effective disclosure
+
+- **Clarity and consistency beat deterrence.** Develop clear, consistent, collaboratively-built AI policies with concrete examples of acceptable use and how to declare it; avoid punitive or vague frameworks that motivate concealment.
+- **Address the affective barrier.** Disclosure policies that target behavior alone are insufficient — normalize AI use, reduce perceived judgment and stigma, and reassure students that honest disclosure will not be penalized.
+- **Make disclosure formative, not just compliance.** Use reflection prompts and structured declarations (model/input/evaluation) so disclosure builds [[ai-literacy]] and self-regulation rather than functioning as surveillance.
+- **Train faculty to build trust, not rely on detection.** Disclosure should never be followed by accusation; faculty should learn trust-building conversations instead of leaning on unreliable AI detectors.
+- **Design for equity.** Attend to differential disclosure across disciplines, language status, and student backgrounds, and avoid mechanisms that place uneven burdens on already-marginalized learners.
+
+## Connections
+
+AI use and disclosure sits at the intersection of [[academic-integrity]] (its parent concern), [[ethics]], [[trust]] and [[trust-calibration]] (disclosure as an act of vulnerability), [[governance]] and [[educational-policy-ai]] (institutional policy frameworks), and [[assessment]] (where disclosure is operationalized). It connects to [[ai-literacy]] (students need to understand what and how to disclose), [[self-regulated-learning]] and [[help-seeking]] (disclosure as visible help-seeking), and [[equity-in-ai-education]] (differential disclosure). It is distinct from, but related to, [[ai-misuse-learning-harm]] (the harm disclosure is meant to make visible) and [[ai-detection]] (detection-based alternatives that disclosure frameworks increasingly replace).
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[ethics]]
+- [[trust]]
+- [[trust-calibration]]
+- [[governance]]
+- [[educational-policy-ai]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[ai-literacy]]
+- [[self-regulated-learning]]
+- [[help-seeking]]
+- [[equity-in-ai-education]]
+- [[generative-ai]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
+- [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
+- [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 
 ---
 
