@@ -424,6 +424,11 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="CC0 Public Domain" width="88" height="31" /></p>
     <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
     inaccuracies or errors.</p>
+    <p>This document contains the concept and FAQ pages, but not the hundreds of
+    article summaries available on the AI in Education Knowledge Base website
+    (<a href="https://edtechdev.github.io/aied/">https://edtechdev.github.io/aied/</a>).</p>
+    <p>The source code for the website and these documents is available in the
+    <a href="https://github.com/edtechdev/aied">GitHub repository</a>.</p>
     <p>Found an issue with the content? Please
     <a href="https://github.com/edtechdev/aied/issues">report it on GitHub</a>, or
     contact the site developer,
@@ -475,6 +480,11 @@ def build_pdf():
   <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="CC0 Public Domain" width="88" height="31" /></p>
   <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
   inaccuracies or errors.</p>
+  <p>This document contains the concept and FAQ pages, but not the hundreds of
+  article summaries available on the AI in Education Knowledge Base website
+  (<a href="https://edtechdev.github.io/aied/">https://edtechdev.github.io/aied/</a>).</p>
+  <p>The source code for the website and these documents is available in the
+  <a href="https://github.com/edtechdev/aied">GitHub repository</a>.</p>
   <p>Found an issue with the content? Please
   <a href="https://github.com/edtechdev/aied/issues">report it on GitHub</a>, or
   contact the site developer,
