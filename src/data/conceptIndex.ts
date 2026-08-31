@@ -25,7 +25,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theory-development-aied'] },
-      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'sustainability', 'computational-thinking'] },
+      { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'sustainability', 'computational-thinking'] },
     ],
   },
   {
@@ -42,7 +42,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring systems built on them.',
     groups: [
       { label: 'Models and techniques', items: ['ai-technologies', 'machine-learning', 'generative-ai', 'llm', 'rag', 'prompt-engineering', 'multimodal', 'visualization', 'educational-nlp', 'reinforcement-learning', 'knowledge-graph', 'educational-robotics', 'conversational-ai', 'simulation', 'pedagogical-llm-training'] },
-      { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai'] },
+      { label: 'Learner modeling and adaptive systems', items: ['student-modeling', 'knowledge-tracing', 'cognitive-diagnosis', 'simulating-students', 'intelligent-tutoring', 'adaptive-learning', 'personalized-learning', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'learning-analytics'] },
     ],
   },
   {
@@ -67,8 +67,8 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
-      { label: 'Teachers', items: ['teacher-ai-competency', 'tpack', 'pedagogical-safety'] },
-      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training', 'learning-analytics'] },
+      { label: 'Instructors', items: ['teacher-ai-competency', 'tpack', 'pedagogical-safety'] },
+      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'technology-acceptance-model', 'regulation', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training'] },
     ],
   },
   {
@@ -76,7 +76,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
       { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'multilingual-learning', 'inclusive-learning', 'accessibility', 'assistive-technology', 'neurodiversity', 'universal-design-for-learning', 'global-south'] },
-      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'ai-use-disclosure', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'critical-thinking', 'critical-pedagogy'] },
+      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'ai-use-disclosure', 'guardrails', 'privacy', 'hallucination-risk', 'ai-sycophancy', 'trust', 'trust-calibration', 'critical-thinking', 'critical-pedagogy'] },
     ],
   },
 ];
