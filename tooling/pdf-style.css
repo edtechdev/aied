@@ -2,10 +2,18 @@
 @page {
   size: A4;
   margin: 22mm 18mm 22mm 18mm;
-  @bottom-center { content: counter(page); font-size: 9pt; color: #888; }
+  /* Page number at the bottom-right of every page except the cover. */
+  @bottom-right { content: counter(page); font-size: 9pt; color: #888; }
 }
+/* Cover page: full-bleed, no footer. */
 @page cover {
   margin: 0;
+  @bottom-right { content: none; }
+}
+/* Notice page (the 2nd page): show the page number bottom-right like the body. */
+@page notice {
+  margin: 22mm 18mm 22mm 18mm;
+  @bottom-right { content: counter(page); font-size: 9pt; color: #888; }
 }
 html { font-size: 11pt; }
 body {
@@ -53,9 +61,8 @@ hr { border: none; border-top: 1px solid #ccc; }
 
 /* Notice page (same content as the EPUB's Notice page) */
 .notice-page {
-  page: cover;
+  page: notice;
   page-break-before: always;
-  margin: 2.5cm 2cm;
 }
 .notice-page h1 { font-size: 18pt; margin-bottom: 0.6em; }
 .notice-page p { margin: 0.7em 0; }
@@ -90,8 +97,16 @@ hr { border: none; border-top: 1px solid #ccc; }
 #TOC a {
   color: #0b5aa0;
   text-decoration: none;
+  display: block;
 }
 #TOC a:hover { text-decoration: underline; }
+/* Right-aligned page number for each TOC entry, with a dotted leader. */
+#TOC a::after {
+  content: leader('. ') target-counter(attr(href), page);
+  float: right;
+  color: #888;
+  font-weight: normal;
+}
 
 /* Start each H1 (major section) on a new page */
 h1 { page-break-before: always; }
