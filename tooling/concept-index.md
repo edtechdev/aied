@@ -475,7 +475,7 @@ Canonical reference for inline `[[slug]]` linking. Every concept page in the wik
 - **`summative-assessment`** — Summative Assessment
 - **`teacher-ai-competency`** — Teacher AI Competency
 - **`teacher-education`** — Teacher Education
-- **`teacher-role`** — Instructors
+- **`teacher-role`** — Teaching
 - **`technology-acceptance-model`** — Technology Adoption Models
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK)
 - **`transfer-of-learning`** — Transfer of Learning
