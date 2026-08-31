@@ -1880,7 +1880,7 @@
   Student Experience
 
 - ◐ [[teacher-role]] — ''
-  Instructors
+  Teaching
 
 - ◐ [[writing-education]] — ''
   Writing

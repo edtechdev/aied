@@ -23,7 +23,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Foundations of AI in education',
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
-      { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'learning-design', 'educational-development'] },
+      { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theory-development-aied'] },
       { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'technology-acceptance-model', 'prompt-engineering', 'ai-use-disclosure', 'sustainability', 'computational-thinking'] },
     ],
@@ -67,7 +67,7 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
       { label: 'Learners', items: ['stakeholders', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
-      { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'pedagogical-safety'] },
+      { label: 'Teachers', items: ['teacher-ai-competency', 'tpack', 'pedagogical-safety'] },
       { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'guardrails', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'lifelong-learning', 'professional-training', 'learning-analytics'] },
     ],
   },
