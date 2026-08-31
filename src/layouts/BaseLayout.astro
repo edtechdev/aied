@@ -8,6 +8,8 @@ import TableOfContents from '../components/TableOfContents.astro';
 import RecentActivity from '../components/RecentActivity.astro';
 import StarredPages from '../components/StarredPages.astro';
 import FaqSidebarList from '../components/FaqSidebarList.astro';
+import PrevNextNav from '../components/PrevNextNav.astro';
+import { buildNavItems } from '../lib/nav';
 import 'katex/dist/katex.min.css';
 
 const { title = 'AIEd KB', description = 'AI in Education Knowledge Base', hideHeaderSearch = false, toc = [] } = Astro.props;
@@ -36,6 +38,10 @@ const sidebarFaqs = faqs
   .slice()
   .sort((a, b) => (a.data.created || '').localeCompare(b.data.created || ''))
   .map(f => ({ slug: f.id.replace('.md', ''), title: f.data.title }));
+
+// Linear reading order for previous/next pagination (matches the EPUB/PDF TOC):
+// home, use-with-AI, every concept in sidebar order, FAQs intro, then FAQs.
+const navItems = buildNavItems(conceptMap, sidebarFaqs);
 
 // Format a frontmatter timestamp (e.g. "2026-08-16T20:02:54-04:00")
 // into just the date part "2026-08-16" for display.
@@ -894,6 +900,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       <div class="middle">
         {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} />}
         <slot />
+        <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} />
       </div>
 
       <!-- Right: on-this-page TOC (content pages) + recent activity.
