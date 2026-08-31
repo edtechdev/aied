@@ -51,7 +51,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the [[ai-education|umbrella itself]], [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], the [[technology-acceptance-model|technology adoption]] research that models how users take up AI, [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
+The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the [[ai-education|umbrella itself]], [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[sustainability|sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
 
 ## Learning and instruction
 
@@ -88,15 +88,15 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 AI in education changes the roles of every stakeholder. The knowledge base's [[stakeholders|Stakeholders in AI education]] page is the umbrella covering all of them:
 
 - **Learners:** [[student-experience|student experience]], [[career-development-and-readiness|career development and readiness]], and [[ai-anxiety-and-stress|AI anxiety and stress]] shape how students encounter AI.
-- **Teachers:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[educational-development|educational development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
-- **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[guardrails]], [[regulation|AI regulation]], [[privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
+- **Instructors:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[educational-development|educational development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
+- **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[technology-acceptance-model|technology adoption]], [[regulation|AI regulation]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
 
 ## Equity, ethics, and responsible use
 
 Fairness, access, and responsibility are central to AI in education:
 
 - **Equity and access:** [[equity-in-ai-education|Equity]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
-- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|Trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[cognitive-offloading|cognitive offloading]], [[critical-thinking|critical thinking]], and [[critical-pedagogy|critical pedagogy]].
+- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust|Trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[cognitive-offloading|cognitive offloading]], [[critical-thinking|critical thinking]], and [[critical-pedagogy|critical pedagogy]].
 
 ## Emergent and cross-cutting themes
 
@@ -2352,93 +2352,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-
----
-
-## [Technology Adoption Models](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/)
-
-**Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The knowledge base treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
-
-## Questions to Consider
-
-- Think of a time you adopted a new app, tool, or AI service — and a time you abandoned one. What actually drove each decision: how useful it seemed, how easy it was, or what people around you were doing? Which factor do you suspect matters most, and can a survey really capture that?
-- A common belief is that 'if a tool is clearly useful, people will use it.' Have you seen situations where a genuinely useful technology still failed to catch on, or a clearly limited one spread anyway? What might explain the gap between objective usefulness and actual adoption?
-- Adoption frameworks like TAM were designed in the 1980s for fairly simple systems. If you've used generative AI, in what ways does it differ from a word processor or a learning management system — and why might a model built around 'ease of use' and 'usefulness' struggle to capture how people relate to something that talks back?
-- Researchers often say perceived risk and trust matter less for AI adoption than expected. Before reading further, what do you predict: do students adopt AI because they trust it, despite risks, or are those concerns actually minor next to convenience and social pressure?
-- The page argues that adoption frameworks treat using a tool as a one-time decision, but effective use may be an ongoing judgment. Where in your own or your students' practice does the line between 'choosing to use AI' and 'continually deciding how to use it well' seem to blur — and what would change if we measured that instead of mere uptake?
-- Some researchers cluster learners into different 'adoption personas' instead of assuming one model fits everyone. What differences do you see among your own learners, colleagues, or students that a single average model of adoption might hide — and how could those differences shape how you support them?
-
-## Introduction
-
-**Meta-analytic evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
-
-## The model family
-
-### Technology Acceptance Model (TAM)
-Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
-
-### UTAUT / UTAUT2 / UTAUT3
-The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA).
-
-### Theory of Planned Behavior (TPB)
-TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE (Fairness, Accountability, Transparency, Ethics) framework to model the behavioral and ethical drivers of student ChatGPT adoption.
-
-### Diffusion of Innovation (DOI)
-Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's institutional-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organisation–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
-
-### Technology–Organisation–Environment (TOE)
-TOE frames adoption as shaped by technological, organizational, and environmental contexts — a complement to individual-level TAM/UTAUT for studying institutional adoption (see [[alrahmi-org-drivers-ai-adoption-he-2026]]).
-
-## Applications in the knowledge base
-
-Adoption models are applied across the knowledge base to model student and [[teacher-role|teacher]] uptake of AI tools:
-
-- **Critical-use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
-- **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh (explaining 64% of usage variance).
-- **Person-centered profiles:** Rather than variable-centered models, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] cluster GenAI-adoption personas, and [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] use latent profile analysis to identify four ChatGPT-acceptance profiles among pre-service teachers — showing the field's move beyond single-model, linear accounts.
-- **Cross-cultural validation:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]] cross-culturally validate adoption-related motivation constructs across Switzerland and China.
-- **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, self-efficacy, anxiety, and risk perception to acceptance of AI-assisted English learning.
-- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
-
-## Limits and extensions
-
-While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters (Global South vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
-
-## Connected Concepts
-
-- [[business-education]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[critical-thinking]]
-- [[ethics]]
-- [[trust]]
-- [[cognitive-offloading]]
-- [[self-determination-theory]]
-- [[research-methods-aied]]
-- [[student-modeling]]
-- [[framing-ai-use-for-students]]
-
-## Connected Articles
-- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
-- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
-- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
-- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
-
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
-- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
-- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
-- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
-- [[genai-reliance-types-scale]] — GenAI reliance types scale
-- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
-- [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
-- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
-- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
-- [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
-
-- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
-- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
 
 ---
 
@@ -8626,6 +8539,112 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 ---
 
+## [Learning Analytics](https://edtechdev.github.io/aied/concepts/learning-analytics/)
+
+> **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
+
+## Questions to Consider
+
+- Most people assume collecting more learning data automatically improves education. The page argues analytics become meaningful only when they feed back into an intervention — otherwise they merely describe or flag without changing learning. Where have you seen data collected that never led to any action?
+- Imagine a dashboard tells you a student is 'at risk' — a prediction. What separates that from genuinely actionable guidance that a teacher or institution can actually carry out? The page suggests prediction alone is not enough.
+- The page notes AI has moved learning analytics from describing what happened to predicting what will happen and prescribing what to do next. Which of these three generations have you experienced, and what was missing in the others?
+- In one study, three different AI models produced sharply different support plans for the same student data, and the links between analytics indicators and recommended help were mostly weak. What does this suggest about trusting an AI's advice at face value?
+- Learning analytics sits in a privacy tension: the more granular the data, the more revealing — and the more powerful the intervention. Where would you draw the line on what is collected about you or your students, and who should decide?
+
+## Introduction
+
+### AI-enhanced analytics
+
+- **Predictive analytics:** [[reinforcement-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
+- **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
+- **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
+- **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
+- **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
+
+### The learning analytics cycle
+
+Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
+
+### From description to intervention
+
+Learning analytics has evolved through three generations in the knowledge base: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with [[human-in-the-loop-ai|human oversight]] preserved.
+
+A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]], who asked three LLMs to recommend support plans for 4,500 [[simulating-students|synthetic student]] vignettes. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
+
+### Methods and network analysis
+
+Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
+
+- **LA and GenAI shape learning design differently (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used ENA on 11 instructor focus groups to compare how learning analytics versus [[generative-ai|generative AI]] inform [[learning-design|learning design]] decision-making. LA discussions centered on contextual information, course-level design, and creative problem-solving (LA for diagnosing engagement and targeting support), while GenAI discussions centered on assessment design and designing for student [[self-determination-theory|self-determination]] (GenAI for ideation and assessment development). Context and [[creativity]] were central across both — a reminder that analytics inform design only within [[pedagogy|pedagogical]] context and instructor autonomy.
+
+- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
+
+- **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: institutional strategic orientation, pedagogical & other research foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. Trustworthiness (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
+- **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to learning outcomes: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
+
+### Connections
+
+Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
+
+## Connected Concepts
+
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[formative-assessment]]
+- [[privacy]]
+- [[edtech-platform]]
+- [[student-engagement]]
+- [[ai-ed-evaluation]]
+- [[feedback]]
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[simulating-students]]
+
+## Connected Articles
+- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
+- [[tutortrace-learner-behavioral-states-2026]]
+- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
+- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
+- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
+- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
+- [[espino-ai-business-education-review-2026]]
+- [[ai-student-engagement-online-learning-review-2025]]
+- [[interactive-online-learning-ai-2025]]
+- [[ai-decision-support-online-learning-assessment-2026]]
+- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
+- [[ai-guided-learning-audiovideo-2026]]
+
+- [[at-risk-students-ml-prediction]]
+- [[engagement-intensity-learner-modeling]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+- [[teaching-feedback-classification-benchmark]]
+- [[wordstream-glass-learning-analytics]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[trace-course-grade-prediction-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
+- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
+- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
+- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
+- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
+
+- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
+
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
+- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
+- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
+- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
+
+---
+
 ## [AIEd in the Disciplines](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/)
 
 > **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating AI in education as a single generic phenomenon, this overview organizes the knowledge base's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
@@ -14216,106 +14235,90 @@ Change management is the institutional complement to classroom-level integration
 
 ---
 
-## [Guardrails](https://edtechdev.github.io/aied/concepts/guardrails/)
+## [Technology Adoption Models](https://edtechdev.github.io/aied/concepts/technology-acceptance-model/)
 
-> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
+**Technology adoption models** are the theoretical frameworks used to explain and predict why individuals and institutions accept, adopt, and continue using new technologies — and, in AI-in-education research, why learners, teachers, and organizations adopt [[generative-ai|generative AI]] tools. Rather than a single model, this is a family of theories that share roots in information-systems and social-psychology research, of which the **Technology Acceptance Model (TAM)** is the most widely applied. The knowledge base treats these models together because GenAI-adoption studies routinely combine them (TAM + UTAUT, TAM + TPB, UTAUT + ARCS) and because their core constructs — perceived usefulness, perceived ease of use, and social influence — recur across nearly every study of AI acceptance in education.
 
 ## Questions to Consider
 
-- A tutor that gives no wrong answers can still quietly harm learning. What kinds of 'quiet' failures might escape a toxicity check but still undermine how much students actually learn?
-- In a field experiment, an unguarded AI tutor raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
-- If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective feedback — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
-- Guardrails are described as a layered set of controls, from prompting to knowledge grounding to training to auditing. Pick one layer and consider: where could it fail, and what would a different layer catch that it misses?
-- The page notes that guardrails themselves can be biased — refusals and softened answers patterned by student identity. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
-- Younger learners are described as least equipped to detect manipulative or sycophantic AI behavior. How does that change what 'safe' should mean for a K-12 AI tool compared with a university one?
+- Think of a time you adopted a new app, tool, or AI service — and a time you abandoned one. What actually drove each decision: how useful it seemed, how easy it was, or what people around you were doing? Which factor do you suspect matters most, and can a survey really capture that?
+- A common belief is that 'if a tool is clearly useful, people will use it.' Have you seen situations where a genuinely useful technology still failed to catch on, or a clearly limited one spread anyway? What might explain the gap between objective usefulness and actual adoption?
+- Adoption frameworks like TAM were designed in the 1980s for fairly simple systems. If you've used generative AI, in what ways does it differ from a word processor or a learning management system — and why might a model built around 'ease of use' and 'usefulness' struggle to capture how people relate to something that talks back?
+- Researchers often say perceived risk and trust matter less for AI adoption than expected. Before reading further, what do you predict: do students adopt AI because they trust it, despite risks, or are those concerns actually minor next to convenience and social pressure?
+- The page argues that adoption frameworks treat using a tool as a one-time decision, but effective use may be an ongoing judgment. Where in your own or your students' practice does the line between 'choosing to use AI' and 'continually deciding how to use it well' seem to blur — and what would change if we measured that instead of mere uptake?
+- Some researchers cluster learners into different 'adoption personas' instead of assuming one model fits everyone. What differences do you see among your own learners, colleagues, or students that a single average model of adoption might hide — and how could those differences shape how you support them?
 
 ## Introduction
 
-The single most cited empirical demonstration is the [[generative-ai-guardrails-harm-learning|Bastani et al. field RCT]]: an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm. Guardrails, in other words, are what convert AI assistance from a performance crutch into a genuine learning tool.
+**Meta-analytic evidence on AI adoption.** A [[teo-ai-adoption-tertiary-meta-analysis-2026|meta-analysis of tertiary students' AI adoption]] (233 correlations, 32 studies, N = 16,977) finds moderate positive correlations for individual (r = 0.57), contextual (r = 0.53), and technological (r = 0.50) factors, with usage intentions the strongest predictor (r = 0.64) and perceived risks/trust weaker than expected. Its central critique is that the field **over-relies on traditional TAM/UTAUT** frameworks that predate modern intelligent systems and neglect AI-specific factors such as anthropomorphism and ethics — arguing these gaps matter for advancing theory and evidence-based policy.
 
-## Why Guardrails Matter
+## The model family
 
-- **Unguarded AI can actively harm learning, not just fail to help.** Without guardrails, students use the tool as a crutch — copying answers, offloading [[cognitive-offloading|productive cognitive work]], and underperforming once the tool is removed. Guardrails preserve the [[scaffolding|scaffolded]] effort that drives durable [[learning-gains|learning]].
-- **Harm is often "quiet."** The most damaging tutoring failures are not toxic outputs but tutors that answer correctly yet erode learning, or refuse evenly yet entrench inequality. Guardrails must therefore be evaluated educationally, not just for toxicity.
-- **Guardrails are especially critical for [[k-12]].** Younger learners are least equipped to detect unsafe, biased, or manipulative AI behavior and are most vulnerable to [[ai-sycophancy|sycophancy]] and [[cognitive-offloading|over-reliance]].
+### Technology Acceptance Model (TAM)
+Proposed by Davis (1989), TAM explains adoption through two core beliefs — **Perceived Usefulness (PU)** and **Perceived Ease of Use (PEOU)** — which shape users' **Attitude (ATT)**, then **Behavioral Intention (BI)**, then actual usage. Grounded in information-systems theory (adapted from the Theory of Reasoned Action), TAM has become the dominant framework for [[generative-ai|GenAI]] adoption in education. In educational GenAI research it is frequently extended with [[ai-literacy]], [[trust]], social influence, [[self-determination-theory|self-determination]], and **critical use** to capture adoption complexity beyond simple uptake.
 
-## Layers of Guardrail Design
+### UTAUT / UTAUT2 / UTAUT3
+The **Unified Theory of Acceptance and Use of Technology** consolidates TAM with eight prior models into four core determinants — performance expectancy, effort expectancy, social influence, and facilitating conditions (with UTAUT2 adding hedonic motivation, price value, and habit; UTAUT3 adding personal innovativeness). The knowledge base applies UTAUT across teacher and student populations: [[mathematics-teachers-chatbot-motivation-2026|Austrian secondary math teachers]] (UTAUT with 448 teachers), [[amponsah-ai-acceptance-science-teachers-2026|pre-service science teachers in Ghana]] (UTAUT + TPB), and [[tian-genai-learning-adoption-pathways-2026|students in Lesotho]] (UTAUT3 + ARCS, using PLS-SEM and fsQCA).
 
-### 1. Prompt-level guardrails (the "hint-not-answer" pattern)
+### Theory of Planned Behavior (TPB)
+TPB explains intention through attitude, subjective norms, and perceived behavioral control. It is frequently paired with TAM/UTAUT in AI-adoption studies — e.g. [[genai-chatgpt-adoption-ethics-students-2026|Rizun et al.]] integrate TAM, TPB, UTAUT, and the FATE (Fairness, Accountability, Transparency, Ethics) framework to model the behavioral and ethical drivers of student ChatGPT adoption.
 
-The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering|prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
+### Diffusion of Innovation (DOI)
+Rogers' DOI theory explains adoption as a social process in which innovations diffuse through populations over time, emphasizing innovation attributes (relative advantage, compatibility, complexity, trialability, observability) and adopter categories. It appears in the knowledge base's institutional-level analyses, e.g. [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] combine the Technology–Organisation–Environment (TOE) framework with DOI to model organizational AI adoption in Saudi universities.
 
-### 2. Knowledge grounding (RAG)
+### Technology–Organisation–Environment (TOE)
+TOE frames adoption as shaped by technological, organizational, and environmental contexts — a complement to individual-level TAM/UTAUT for studying institutional adoption (see [[alrahmi-org-drivers-ai-adoption-he-2026]]).
 
-[[rag|Retrieval-augmented generation]] grounds tutor responses in verified content to reduce fabrication and [[hallucination-risk|hallucination]]. [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] exemplify grounding as a safety mechanism, anchoring answers to curated [[curriculum-design|curriculum]] and reducing the spread of incorrect or unsafe information.
+## Applications in the knowledge base
 
-### 3. Model-level controls and training
+Adoption models are applied across the knowledge base to model student and [[teacher-role|teacher]] uptake of AI tools:
 
-- **Fine-tuning / post-training:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses RL to prioritize guided learning over answer-giving; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. This is the [[pedagogical-llm-training|pedagogical LLM training]] approach to baking safety into behavior.
-- **Unlearning:** [[llm-unlearning-math-privacy|math-unlearning]] applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream utility — a [[privacy]]-and-safety guardrail at the model level.
-- **Reward shaping in RL:** [[pedagogical-safety-rl|pedagogical safety in RL]] formalizes how poorly specified rewards invite "reward hacking" (test-score inflation, [[student-engagement|engagement]] gaming), proposing a four-layer model and detection via discrepancy auditing and policy inversion.
+- **Critical-use extension:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] extended TAM with *critical use* for engineering/CS students, finding that attitudes and critical use directly predict intention — and that critical use safeguards against [[cognitive-offloading|over-reliance]].
+- **Unified socio-cognitive model:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] integrated TAM with UTAUT for engineering students in Bangladesh (explaining 64% of usage variance).
+- **Person-centered profiles:** Rather than variable-centered models, [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed]] cluster GenAI-adoption personas, and [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.]] use latent profile analysis to identify four ChatGPT-acceptance profiles among pre-service teachers — showing the field's move beyond single-model, linear accounts.
+- **Cross-cultural validation:** [[motivation-shape-future-education-ai-switzerland-china|Martínez-Moreno et al.]] cross-culturally validate adoption-related motivation constructs across Switzerland and China.
+- **Psychological correlates:** [[acceptance-ai-english-tools-2026|Wu et al.]] build on TAM to relate motivation, self-efficacy, anxiety, and risk perception to acceptance of AI-assisted English learning.
+- **Regulatory competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim]] argues that adoption-centered TAM models treat use as a stable decision, whereas effective AI use is an ongoing process of judgment, revision, and selective uptake — reframing [[ai-literacy]] as regulatory competence and [[critical-thinking]] rather than acceptance.
 
-### 4. Interaction-level guardrails
+## Limits and extensions
 
-- **Sycophancy resistance:** [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows tutors capitulate under authority and social-[[affective-computing|affective]] pressure, withholding corrective feedback. It argues "kind-but-correct" behavior — corrective friction that drives conceptual change — is a safety requirement. Guardrails must resist [[ai-sycophancy|sycophancy]], not just toxicity.
-- **Teacher-in-the-loop QA:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai|human-in-the-loop]] validation.
-
-### 5. Auditing guardrails for fairness
-
-Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-education|the Paternalistic Filter]] audit shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment — a direct case for [[bias-mitigation]] and [[equity-in-ai-education]] in [[governance]] and [[regulation]].
-
-## Guardrails vs. Pedagogical Safety
-
-- **[[pedagogical-safety]]** is the *principle/goal* — that AI education systems protect learners from harm (content, bias, unsafe advice, manipulation).
-- **Guardrails** are the *mechanisms/techniques* — the concrete design controls (prompting, RAG, training, QA, auditing) that implement that goal.
-
-The two are closely coupled: almost every guardrail technique is a way of achieving [[pedagogy|pedagogical]] safety, and pedagogical safety is almost entirely delivered through guardrails. Guardrails is therefore best understood as the **design and engineering layer** beneath the pedagogical-safety principle, and is also the broader term used across general AI safety (content moderation, jailbreak resistance) before it is specialized for education.
-
-## Design Principles
-
-1. **Design for education, not just toxicity.** Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens.
-2. **Preserve the learning work.** Guardrails should keep students solving, not just keep them safe — hint-not-answer, corrective friction, and scaffolding that maintains [[cognitive-offloading|productive]] rather than disabling effort.
-3. **Ground in verified content** with RAG and teacher-authored problem knowledge.
-4. **Prefer alignment over refusal.** Reward guidance and scaffolding in training rather than relying on brittle refusal rules.
-5. **Require human oversight.** Teacher-in-the-loop QA before deployment and continuous auditing for differential treatment.
+While adoption models are effective for predicting uptake, they are less well suited to explaining *how* students work with AI output once generated. Reviews of GenAI in [[higher-ed|higher education]] increasingly note that TAM alone is insufficient, prompting integration with UTAUT, TPB, and Self-Determination Theory, and the addition of post-adoption constructs such as critical use, reliance, and evaluative judgment. The result is a measured, multidimensional picture of adoption: context matters (Global South vs. resourced institutions — see [[nguyen-genai-global-south-review-2026|Nguyen & Perkins]]), disciplinary background shapes acceptance, and person-centered methods reveal hidden heterogeneity that linear models miss.
 
 ## Connected Concepts
 
-- [[pedagogical-safety]] — the goal that guardrails implement
-- [[prompt-engineering]] — the hint-not-answer design technique
-- [[rag]] — knowledge grounding as a guardrail
-- [[human-in-the-loop-ai]] — teacher QA and oversight
-- [[pedagogical-llm-training]] — the training/alignment layer
-- [[reinforcement-learning]] — reward shaping for safe behavior
-- [[bias-mitigation]] — auditing guardrails for fairness
-- [[ai-sycophancy]] — the manipulation risk guardrails must resist
-- [[scaffolding]] — the pedagogical mechanism guardrails preserve
-- [[socratic-method]] — a hint-not-answer interaction mode
-- [[hallucination-risk]] — the fabrication risk guardrails reduce
-- [[cognitive-offloading]] — the over-reliance harm guardrails prevent
-- [[k-12]] — the context where guardrails matter most
-- [[ethics]] — the normative basis
-- [[governance]] — the policy layer
-- [[intelligent-tutoring]] — the systems being guarded
-- [[misconceptions]] — the knowledge guardrails must check
-- [[trust]] — the outcome of well-designed guardrails
-- [[llm]] — the model layer being constrained
+- [[business-education]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[higher-ed]]
+- [[critical-thinking]]
+- [[ethics]]
+- [[trust]]
+- [[cognitive-offloading]]
+- [[self-determination-theory]]
+- [[research-methods-aied]]
+- [[student-modeling]]
+- [[framing-ai-use-for-students]]
 
 ## Connected Articles
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+- ai-adaptation-gap-higher-education-2026 — The AI Adaptation Gap in Higher Education
+- [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — GenAI adoption personas via clustering
+- [[tian-genai-learning-adoption-pathways-2026]] — Symmetric and asymmetric pathways in GenAI adoption (UTAUT3 + ARCS)
+- [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential GenAI engagement by gender and motivation
 
-- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
-- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
-- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
-- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
-- [[hazra-safetutors-pedagogical-safety-2026]] — the pedagogical harm taxonomy
-- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
-- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
-- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
-- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
-- [[llm-unlearning-math-privacy]] — model-level unlearning
-- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
-- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
+- [[alrahmi-org-drivers-ai-adoption-he-2026]] — TOE + DOI model of organizational AI adoption in higher education
+- [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students
+- [[socio-cognitive-genai-adoption-engineering-2026]] — Unified socio-cognitive model (TAM + UTAUT) for engineering education
+- [[ai-anxiety-strategic-regulation-writing-2026]] — From AI anxiety to strategic regulation
+- [[genai-reliance-types-scale]] — GenAI reliance types scale
+- [[llm-reliance-types-undergrad]] — LLM reliance types among undergraduates
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI English tools
+- [[genai-chatgpt-adoption-ethics-students-2026]] — Behavioral and ethical drivers of student ChatGPT adoption
+- [[mathematics-teachers-chatbot-motivation-2026]] — UTAUT and teacher chatbot motivation
+- [[amponsah-ai-acceptance-science-teachers-2026]] — UTAUT + TPB for pre-service science teachers in Ghana
+
+- [[chen-preservice-teachers-chatgpt-lpa-2026]] — Pre-service teacher ChatGPT acceptance profiles (LPA)
+- [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Meta-analysis of AI adoption factors; critiques TAM/UTAUT
 
 ---
 
@@ -14382,80 +14385,6 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[dot-framework-survey-2026]] — Technology-adoption frameworks
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 - [[generative-ai-reduced-study-time-math]] — Age gradient and proctoring findings inform AI policy
-
----
-
-## [Privacy](https://edtechdev.github.io/aied/concepts/privacy/)
-
-> **Privacy** — the protection of student data, identity, and autonomy in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for [[personalized-learning|personalization]], [[learning-analytics|analytics]], and [[student-modeling|adaptive instruction]]. It is a core ethical and regulatory constraint on [[ai-education|AI in education]]: nearly every AI tool that personalizes, predicts, or assesses depends on learner data, which makes data minimization, consent, transparency, and security foundational design requirements rather than afterthoughts.
-
-## Questions to Consider
-
-- What student data would you be uncomfortable having collected about you—even if it improved your learning? Where does personalization become surveillance?
-- Many students have 'no meaningful choice' but to use a mandated platform, making consent nominal. Have you ever consented to something without really understanding what was collected and why? What would informed consent actually require?
-- The same learner data that powers adaptive, personalized learning also creates risk of misuse and harm. Can you name a personalization benefit you'd be willing to trade some privacy for—and the line you wouldn't cross?
-- The page warns that privacy safeguards may 'default to protecting only some learners.' Which students might be most exposed, and how does privacy connect to equity and fairness?
-- Constant AI monitoring—even well-intentioned—can shape behavior and anxiety. When has being watched changed how you behaved, and what does that suggest about classroom AI sensing?
-- For children, privacy extends beyond data protection into safety. Why might general-purpose safety tools fail to catch education-related risks from minors, and who should be in the loop?
-
-## Introduction
-
-Privacy is the precondition for trustworthy AI in education. Because AI systems improve with data — [[personalized-learning|personalization]] requires detailed learner profiles, [[learning-analytics|learning analytics]] requires granular interaction logs, and [[pedagogical-llm-training|fine-tuned tutoring models]] require authentic learner–tutor transcripts — the same data that enables adaptive, scalable education also creates risk of surveillance, misuse, and harm. The knowledge base treats privacy as inseparable from [[ethics]] (the normative framework), [[regulation]] (the legal requirements), [[governance]] (the institutional responsibility), and [[equity-in-ai-education|equity]] (who is protected and who is exposed). Its privacy articles cluster around four recurring problems: collection at scale, consent and transparency, security and anonymization, and the distinct protections owed to children.
-
-## The core privacy challenges
-
-- **Data collection at scale.** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, keystroke, and interaction data. The central question privacy [[research-methods-aied|research]] examines is whether this collection is proportionate to educational benefit — and [[learning-analytics-to-educational-interventions-2026|trustworthy-LA research]] treats privacy and data governance as a prerequisite, not an add-on: ethical compliance, data security, and transparent algorithms are what make data-informed educational change meaningful at all.
-- **Consent and transparency.** Students and families rarely understand what data an AI tool collects, how it is used, or where it is stored. This power imbalance between institutions and learners is a recurring theme — students may have no meaningful choice but to use a mandated platform, making "consent" nominal rather than informed. The knowledge base connects this to [[trust-calibration|trust]] and [[ai-use-disclosure|disclosure]]: both learners' use of AI and institutions' use of learner data depend on transparency about what is collected and why.
-- **Security, anonymization, and data sourcing.** Even legitimate data can harm if breached or mishandled. Privacy-preserving techniques appear across the knowledge base — [[teachlm-post-training-llms-education|TeachLM]] demonstrates a rigorous pipeline of consent per session, PII removal on internal servers, and enterprise-grade confidentiality for post-training tutoring models on authentic data, showing that ethically sourced learner data is both possible and a prerequisite for high-quality tutoring. [[ai-lms-middle-school-longitudinal|Federated and edge-AI architectures]] keep data local, reducing central collection.
-- **Surveillance and the surveillance-privacy tension.** Constant AI monitoring — even when well-intentioned — can feel invasive. Research on [[ai-fatigue-academic-contexts|AI fatigue]], [[remote-proctoring|remote proctoring]], and [[cognitive-offloading|over-reliance]] connects privacy to student [[well-being]]: when AI watches and tracks continuously, it shapes behavior and anxiety, not just data flows.
-- **The personalization-privacy tradeoff.** [[personalized-learning]] requires detailed learner data to function, creating a structural tension with privacy. The knowledge base explores approaches that balance personalization with data minimization — enough data to adapt, not so much that the learner is fully exposed. This is the practical form of the "how much is proportionate?" question.
-
-## Child safety and K-12 protections
-
-[[k-12]] settings demand stronger privacy safeguards because learners are minors. This extends privacy beyond data protection into [[pedagogical-safety]]: the tools children use must not merely protect their data but also protect them from harm. [[child-safety-genai|Child safety research]] shows that general-purpose safety classifiers often fail to detect education-related unsafe prompts from children, warning that schools cannot assume standard model safeguards protect younger users — they need child-specific evaluation, incident-grounded testing, and [[human-in-the-loop-ai|human oversight]]. The framing connects privacy to [[equity-in-ai-education|equity]]: who is protected by default safety and privacy practices reflects whose safety and autonomy a system treats as non-negotiable.
-
-## Privacy in practice
-
-- **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
-- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default.
-- **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
-- **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
-
-## Connections
-
-Privacy connects to [[learning-analytics]] (the data collector), [[personalized-learning]] (the data consumer), [[k-12]] (heightened protections), [[ethics]] (the normative framework), [[regulation]] (legal requirements), [[governance]] (institutional responsibility), [[equity-in-ai-education]] (who is protected), [[pedagogical-safety]] (child protection), and [[educational-policy-ai]] (policy responses). It is one of the foundational constraints that any responsible AI deployment in education must satisfy — the reason trustworthy AI, in the knowledge base's framing, begins with trustworthy data.
-
-## Connected Concepts
-
-- [[remote-proctoring]]
-- [[learning-analytics]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[equity-in-ai-education]]
-- [[governance]]
-- [[educational-policy-ai]]
-- [[pedagogical-safety]]
-- [[student-experience]]
-
-## Connected Articles
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[ai-online-education-engagement-satisfaction-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ai-fatigue-academic-contexts]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[child-safety-genai]]
-- [[eduzone-llm-safety-k12]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
@@ -14738,112 +14667,6 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[e
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
----
-
-## [Learning Analytics](https://edtechdev.github.io/aied/concepts/learning-analytics/)
-
-> **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
-
-## Questions to Consider
-
-- Most people assume collecting more learning data automatically improves education. The page argues analytics become meaningful only when they feed back into an intervention — otherwise they merely describe or flag without changing learning. Where have you seen data collected that never led to any action?
-- Imagine a dashboard tells you a student is 'at risk' — a prediction. What separates that from genuinely actionable guidance that a teacher or institution can actually carry out? The page suggests prediction alone is not enough.
-- The page notes AI has moved learning analytics from describing what happened to predicting what will happen and prescribing what to do next. Which of these three generations have you experienced, and what was missing in the others?
-- In one study, three different AI models produced sharply different support plans for the same student data, and the links between analytics indicators and recommended help were mostly weak. What does this suggest about trusting an AI's advice at face value?
-- Learning analytics sits in a privacy tension: the more granular the data, the more revealing — and the more powerful the intervention. Where would you draw the line on what is collected about you or your students, and who should decide?
-
-## Introduction
-
-### AI-enhanced analytics
-
-- **Predictive analytics:** [[reinforcement-learning|Machine learning]] on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
-- **Engagement analytics:** [[student-engagement|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
-- **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
-- **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
-- **Privacy tensions:** [[privacy]] concerns grow as analytics become more granular and AI-driven.
-
-### The learning analytics cycle
-
-Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
-
-### From description to intervention
-
-Learning analytics has evolved through three generations in the knowledge base: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]]. A key frontier is the **actionability gap**: [[sc2r-counterfactual-recourse-educational-2026|SC2R (Le, Abel & Laforge 2026)]] shows that prediction alone is insufficient for decision support, and that counterfactual recourse becomes operationally meaningful only when recommendations are semantically feasible and machine-checkable — constrained by timing, budget, immutability, and availability via SHACL validation, rather than merely model-valid. This moves the field beyond risk scores toward recommendations that institutions can actually enact, with [[human-in-the-loop-ai|human oversight]] preserved.
-
-A direct empirical test of the prescriptive layer comes from [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]], who asked three LLMs to recommend support plans for 4,500 [[simulating-students|synthetic student]] vignettes. Their finding is cautionary: correlations between LA indicators and recommended support were mostly weak, cross-model recommendations diverged sharply for the same student, and support was frequently allocated regardless of who needed it most. The authors conclude that current LLMs are **not yet reliable as prescriptive models for student support at scale**, reinforcing that the prescriptive step still requires validation, fine-tuning, and human oversight rather than off-the-shelf automation.
-
-### Methods and network analysis
-
-Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.([[penny-transition-network-analysis-efl-writing-2026]])([[tracing-genai-literacy-interaction-patterns]])
-
-- **LA and GenAI shape learning design differently (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used ENA on 11 instructor focus groups to compare how learning analytics versus [[generative-ai|generative AI]] inform [[learning-design|learning design]] decision-making. LA discussions centered on contextual information, course-level design, and creative problem-solving (LA for diagnosing engagement and targeting support), while GenAI discussions centered on assessment design and designing for student [[self-determination-theory|self-determination]] (GenAI for ideation and assessment development). Context and [[creativity]] were central across both — a reminder that analytics inform design only within [[pedagogy|pedagogical]] context and instructor autonomy.
-
-- **Self-explaining distilled LLMs (2026):** A two-stage pipeline distills a black-box learning-analytics estimator and its post-hoc interpretation into a small, open-weight [[llm]] that returns both an individual-level estimate and a natural-language explanation. A faithfulness-first audit evaluates whether narrations match the attributions they describe; [[simulation]] shows near-lossless recovery (r > .90) with an oracle mentor, offering a more transparent, deployable path for analytics ([[distilling-self-explaining-lm-learning-analytics-2026]]).
-
-- **Enablers of LA-based educational interventions (2026).** [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify and prioritize seven enablers of trustworthy LA-based educational interventions via Delphi + AHP + SNAP: institutional strategic orientation, pedagogical & other research foundations, available resources, pedagogical support, ethics & data governance, stakeholder engagement, and quality assurance. Institutional strategic orientation ranked highest (and most influential on other enablers), with available resources second. Trustworthiness (ethical compliance, transparent/unbiased algorithms, pedagogical validity) is framed as the prerequisite without which LA-based interventions are not meaningful.
-- **LLM interaction depth predicts task quality but not recall (2026).** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] links turn-level LLM conversational telemetry (Depth/Volume/Pacing) to learning outcomes: explanation-seeking "depth" predicted independently marked task quality (β = 6.27) but not immediate recall — a dissociation between elaboration-driven comprehension and retrieval-driven consolidation that has implications for how [[llm|LLM]] interaction is measured and evaluated in LA.
-
-### Connections
-
-Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the [[ethics|ethical]] constraint), and [[edtech-platform]] (where analytics are deployed). Because prescriptive analytics are increasingly evaluated on [[simulating-students|simulated learners]] — where synthetic student cohorts substitute for real cohorts in controlled tests — learning analytics also connects to student simulation.
-
-## Connected Concepts
-
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[formative-assessment]]
-- [[privacy]]
-- [[edtech-platform]]
-- [[student-engagement]]
-- [[ai-ed-evaluation]]
-- [[feedback]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[simulating-students]]
-
-## Connected Articles
-- [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
-- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- causal-modelling-competency-assessment-2026 — Causal Modelling of Support Interventions for Student Competency Assessment
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
-- [[espino-ai-business-education-review-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[interactive-online-learning-ai-2025]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-guided-learning-audiovideo-2026]]
-
-- [[at-risk-students-ml-prediction]]
-- [[engagement-intensity-learner-modeling]]
-- [[misiejuk-cognitive-offloading-prompting-2026]]
-- [[teaching-feedback-classification-benchmark]]
-- [[wordstream-glass-learning-analytics]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
-- [[trace-course-grade-prediction-2026]]
-- [[student-llm-interaction-taxonomy-review-2026]]
-- [[self-directed-growth-generative-ai-learning-analytics]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-
-- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 
 ---
 
@@ -15957,6 +15780,183 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
+
+---
+
+## [Guardrails](https://edtechdev.github.io/aied/concepts/guardrails/)
+
+> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
+
+## Questions to Consider
+
+- A tutor that gives no wrong answers can still quietly harm learning. What kinds of 'quiet' failures might escape a toxicity check but still undermine how much students actually learn?
+- In a field experiment, an unguarded AI tutor raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
+- If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective feedback — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
+- Guardrails are described as a layered set of controls, from prompting to knowledge grounding to training to auditing. Pick one layer and consider: where could it fail, and what would a different layer catch that it misses?
+- The page notes that guardrails themselves can be biased — refusals and softened answers patterned by student identity. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
+- Younger learners are described as least equipped to detect manipulative or sycophantic AI behavior. How does that change what 'safe' should mean for a K-12 AI tool compared with a university one?
+
+## Introduction
+
+The single most cited empirical demonstration is the [[generative-ai-guardrails-harm-learning|Bastani et al. field RCT]]: an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm. Guardrails, in other words, are what convert AI assistance from a performance crutch into a genuine learning tool.
+
+## Why Guardrails Matter
+
+- **Unguarded AI can actively harm learning, not just fail to help.** Without guardrails, students use the tool as a crutch — copying answers, offloading [[cognitive-offloading|productive cognitive work]], and underperforming once the tool is removed. Guardrails preserve the [[scaffolding|scaffolded]] effort that drives durable [[learning-gains|learning]].
+- **Harm is often "quiet."** The most damaging tutoring failures are not toxic outputs but tutors that answer correctly yet erode learning, or refuse evenly yet entrench inequality. Guardrails must therefore be evaluated educationally, not just for toxicity.
+- **Guardrails are especially critical for [[k-12]].** Younger learners are least equipped to detect unsafe, biased, or manipulative AI behavior and are most vulnerable to [[ai-sycophancy|sycophancy]] and [[cognitive-offloading|over-reliance]].
+
+## Layers of Guardrail Design
+
+### 1. Prompt-level guardrails (the "hint-not-answer" pattern)
+
+The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering|prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
+
+### 2. Knowledge grounding (RAG)
+
+[[rag|Retrieval-augmented generation]] grounds tutor responses in verified content to reduce fabrication and [[hallucination-risk|hallucination]]. [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] exemplify grounding as a safety mechanism, anchoring answers to curated [[curriculum-design|curriculum]] and reducing the spread of incorrect or unsafe information.
+
+### 3. Model-level controls and training
+
+- **Fine-tuning / post-training:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses RL to prioritize guided learning over answer-giving; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. This is the [[pedagogical-llm-training|pedagogical LLM training]] approach to baking safety into behavior.
+- **Unlearning:** [[llm-unlearning-math-privacy|math-unlearning]] applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream utility — a [[privacy]]-and-safety guardrail at the model level.
+- **Reward shaping in RL:** [[pedagogical-safety-rl|pedagogical safety in RL]] formalizes how poorly specified rewards invite "reward hacking" (test-score inflation, [[student-engagement|engagement]] gaming), proposing a four-layer model and detection via discrepancy auditing and policy inversion.
+
+### 4. Interaction-level guardrails
+
+- **Sycophancy resistance:** [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] shows tutors capitulate under authority and social-[[affective-computing|affective]] pressure, withholding corrective feedback. It argues "kind-but-correct" behavior — corrective friction that drives conceptual change — is a safety requirement. Guardrails must resist [[ai-sycophancy|sycophancy]], not just toxicity.
+- **Teacher-in-the-loop QA:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai|human-in-the-loop]] validation.
+
+### 5. Auditing guardrails for fairness
+
+Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-education|the Paternalistic Filter]] audit shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment — a direct case for [[bias-mitigation]] and [[equity-in-ai-education]] in [[governance]] and [[regulation]].
+
+## Guardrails vs. Pedagogical Safety
+
+- **[[pedagogical-safety]]** is the *principle/goal* — that AI education systems protect learners from harm (content, bias, unsafe advice, manipulation).
+- **Guardrails** are the *mechanisms/techniques* — the concrete design controls (prompting, RAG, training, QA, auditing) that implement that goal.
+
+The two are closely coupled: almost every guardrail technique is a way of achieving [[pedagogy|pedagogical]] safety, and pedagogical safety is almost entirely delivered through guardrails. Guardrails is therefore best understood as the **design and engineering layer** beneath the pedagogical-safety principle, and is also the broader term used across general AI safety (content moderation, jailbreak resistance) before it is specialized for education.
+
+## Design Principles
+
+1. **Design for education, not just toxicity.** Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens.
+2. **Preserve the learning work.** Guardrails should keep students solving, not just keep them safe — hint-not-answer, corrective friction, and scaffolding that maintains [[cognitive-offloading|productive]] rather than disabling effort.
+3. **Ground in verified content** with RAG and teacher-authored problem knowledge.
+4. **Prefer alignment over refusal.** Reward guidance and scaffolding in training rather than relying on brittle refusal rules.
+5. **Require human oversight.** Teacher-in-the-loop QA before deployment and continuous auditing for differential treatment.
+
+## Connected Concepts
+
+- [[pedagogical-safety]] — the goal that guardrails implement
+- [[prompt-engineering]] — the hint-not-answer design technique
+- [[rag]] — knowledge grounding as a guardrail
+- [[human-in-the-loop-ai]] — teacher QA and oversight
+- [[pedagogical-llm-training]] — the training/alignment layer
+- [[reinforcement-learning]] — reward shaping for safe behavior
+- [[bias-mitigation]] — auditing guardrails for fairness
+- [[ai-sycophancy]] — the manipulation risk guardrails must resist
+- [[scaffolding]] — the pedagogical mechanism guardrails preserve
+- [[socratic-method]] — a hint-not-answer interaction mode
+- [[hallucination-risk]] — the fabrication risk guardrails reduce
+- [[cognitive-offloading]] — the over-reliance harm guardrails prevent
+- [[k-12]] — the context where guardrails matter most
+- [[ethics]] — the normative basis
+- [[governance]] — the policy layer
+- [[intelligent-tutoring]] — the systems being guarded
+- [[misconceptions]] — the knowledge guardrails must check
+- [[trust]] — the outcome of well-designed guardrails
+- [[llm]] — the model layer being constrained
+
+## Connected Articles
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+
+- [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
+- [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
+- [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
+- [[paternalistic-filter-llm-history-education]] — auditing guardrails for bias
+- [[hazra-safetutors-pedagogical-safety-2026]] — the pedagogical harm taxonomy
+- [[singh-eduqwen-pedagogical-rl-2026]] — RL-aligned guided learning
+- [[tact-pedagogically-adaptive-esl-tutoring]] — taxonomy-aligned post-training
+- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as a safety risk
+- [[ai-tutor-authoring-promptdecipher]] — teacher-driven QA
+- [[llm-unlearning-math-privacy]] — model-level unlearning
+- [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
+- [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
+
+---
+
+## [Privacy](https://edtechdev.github.io/aied/concepts/privacy/)
+
+> **Privacy** — the protection of student data, identity, and autonomy in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for [[personalized-learning|personalization]], [[learning-analytics|analytics]], and [[student-modeling|adaptive instruction]]. It is a core ethical and regulatory constraint on [[ai-education|AI in education]]: nearly every AI tool that personalizes, predicts, or assesses depends on learner data, which makes data minimization, consent, transparency, and security foundational design requirements rather than afterthoughts.
+
+## Questions to Consider
+
+- What student data would you be uncomfortable having collected about you—even if it improved your learning? Where does personalization become surveillance?
+- Many students have 'no meaningful choice' but to use a mandated platform, making consent nominal. Have you ever consented to something without really understanding what was collected and why? What would informed consent actually require?
+- The same learner data that powers adaptive, personalized learning also creates risk of misuse and harm. Can you name a personalization benefit you'd be willing to trade some privacy for—and the line you wouldn't cross?
+- The page warns that privacy safeguards may 'default to protecting only some learners.' Which students might be most exposed, and how does privacy connect to equity and fairness?
+- Constant AI monitoring—even well-intentioned—can shape behavior and anxiety. When has being watched changed how you behaved, and what does that suggest about classroom AI sensing?
+- For children, privacy extends beyond data protection into safety. Why might general-purpose safety tools fail to catch education-related risks from minors, and who should be in the loop?
+
+## Introduction
+
+Privacy is the precondition for trustworthy AI in education. Because AI systems improve with data — [[personalized-learning|personalization]] requires detailed learner profiles, [[learning-analytics|learning analytics]] requires granular interaction logs, and [[pedagogical-llm-training|fine-tuned tutoring models]] require authentic learner–tutor transcripts — the same data that enables adaptive, scalable education also creates risk of surveillance, misuse, and harm. The knowledge base treats privacy as inseparable from [[ethics]] (the normative framework), [[regulation]] (the legal requirements), [[governance]] (the institutional responsibility), and [[equity-in-ai-education|equity]] (who is protected and who is exposed). Its privacy articles cluster around four recurring problems: collection at scale, consent and transparency, security and anonymization, and the distinct protections owed to children.
+
+## The core privacy challenges
+
+- **Data collection at scale.** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, keystroke, and interaction data. The central question privacy [[research-methods-aied|research]] examines is whether this collection is proportionate to educational benefit — and [[learning-analytics-to-educational-interventions-2026|trustworthy-LA research]] treats privacy and data governance as a prerequisite, not an add-on: ethical compliance, data security, and transparent algorithms are what make data-informed educational change meaningful at all.
+- **Consent and transparency.** Students and families rarely understand what data an AI tool collects, how it is used, or where it is stored. This power imbalance between institutions and learners is a recurring theme — students may have no meaningful choice but to use a mandated platform, making "consent" nominal rather than informed. The knowledge base connects this to [[trust-calibration|trust]] and [[ai-use-disclosure|disclosure]]: both learners' use of AI and institutions' use of learner data depend on transparency about what is collected and why.
+- **Security, anonymization, and data sourcing.** Even legitimate data can harm if breached or mishandled. Privacy-preserving techniques appear across the knowledge base — [[teachlm-post-training-llms-education|TeachLM]] demonstrates a rigorous pipeline of consent per session, PII removal on internal servers, and enterprise-grade confidentiality for post-training tutoring models on authentic data, showing that ethically sourced learner data is both possible and a prerequisite for high-quality tutoring. [[ai-lms-middle-school-longitudinal|Federated and edge-AI architectures]] keep data local, reducing central collection.
+- **Surveillance and the surveillance-privacy tension.** Constant AI monitoring — even when well-intentioned — can feel invasive. Research on [[ai-fatigue-academic-contexts|AI fatigue]], [[remote-proctoring|remote proctoring]], and [[cognitive-offloading|over-reliance]] connects privacy to student [[well-being]]: when AI watches and tracks continuously, it shapes behavior and anxiety, not just data flows.
+- **The personalization-privacy tradeoff.** [[personalized-learning]] requires detailed learner data to function, creating a structural tension with privacy. The knowledge base explores approaches that balance personalization with data minimization — enough data to adapt, not so much that the learner is fully exposed. This is the practical form of the "how much is proportionate?" question.
+
+## Child safety and K-12 protections
+
+[[k-12]] settings demand stronger privacy safeguards because learners are minors. This extends privacy beyond data protection into [[pedagogical-safety]]: the tools children use must not merely protect their data but also protect them from harm. [[child-safety-genai|Child safety research]] shows that general-purpose safety classifiers often fail to detect education-related unsafe prompts from children, warning that schools cannot assume standard model safeguards protect younger users — they need child-specific evaluation, incident-grounded testing, and [[human-in-the-loop-ai|human oversight]]. The framing connects privacy to [[equity-in-ai-education|equity]]: who is protected by default safety and privacy practices reflects whose safety and autonomy a system treats as non-negotiable.
+
+## Privacy in practice
+
+- **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
+- **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default.
+- **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
+- **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
+
+## Connections
+
+Privacy connects to [[learning-analytics]] (the data collector), [[personalized-learning]] (the data consumer), [[k-12]] (heightened protections), [[ethics]] (the normative framework), [[regulation]] (legal requirements), [[governance]] (institutional responsibility), [[equity-in-ai-education]] (who is protected), [[pedagogical-safety]] (child protection), and [[educational-policy-ai]] (policy responses). It is one of the foundational constraints that any responsible AI deployment in education must satisfy — the reason trustworthy AI, in the knowledge base's framing, begins with trustworthy data.
+
+## Connected Concepts
+
+- [[remote-proctoring]]
+- [[learning-analytics]]
+- [[personalized-learning]]
+- [[k-12]]
+- [[ethics]]
+- [[regulation]]
+- [[equity-in-ai-education]]
+- [[governance]]
+- [[educational-policy-ai]]
+- [[pedagogical-safety]]
+- [[student-experience]]
+
+## Connected Articles
+- [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
+- evaluation-age-ai-output-evidence-2026 — Evaluation in the Age of AI
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+
+- [[academic-dishonesty-automated-proctoring-ai-2026]]
+- [[automated-online-exam-proctoring-decade-review-2026]]
+- [[ai-online-education-engagement-satisfaction-2026]]
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
+- [[ai-fatigue-academic-contexts]]
+- [[ai-lms-middle-school-longitudinal]]
+- [[child-safety-genai]]
+- [[eduzone-llm-safety-k12]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 
 ---
 
